@@ -1,0 +1,691 @@
+hvps34, an ancient player, enters a growing game: mtor
+complex1/s6k1 signaling
+takahiro nobukuni, sara c kozma and george thomas
+recent studies have shown that the nutrient input to the mtor
+complex1/s6k1 signaling pathway is mediated by class 3 pi3k
+or hvps34, the oldest member of the pi3k family. moreover,
+studies to date would suggest that during the evolution of
+multicellular organisms this ancient branch of the pathway was
+merged with the growth-factor-hormone-controlled class 1
+pi3k pathway at the level of mtor complex1 to control the
+development and growth of the organism. however, hvps34
+also plays a role in the regulation of macroautophagy — the
+mechanism by which cells generate nutrients, such as amino
+acids, through the degradation of intracellular complexes,
+including mitochondria and ribosomes. these functions of
+hvps34 initially appear contradictory, since increased mtor
+complex1 activation is triggered by increased amino acid
+levels, while autophagy is triggered when cells are faced with
+amino acid deprivation.
+addresses
+genome research institute, university of cincinnati, 2180 e galbraith
+rd, cincinnati, oh 45237, usa
+corresponding author: thomas, george (thomasg4@uc.edu)
+current opinion in cell biology 2007, 19:135–141
+this review comes from a themed issue on
+cell regulation
+edited by carl-henrik heldin and peter ten dijke
+available online 23rd february 2007
+0955-0674/$ – see front matter
+published by elsevier ltd.
+doi 10.1016/j.ceb.2007.02.019
+introduction
+it has been known for nearly a decade that the mamma-
+lian target of rapamycin (mtor) complex1 is exquisitely
+sensitive to nutrients. however, there has been little
+understanding of the underlying mechanisms which med-
+iate this response, despite an increasing awareness of the
+importance of this pathway in metabolic syndromes such
+as diabetes, obesity and cancer. here we review the
+recent ﬁnding that hvps34 mediates nutrient signaling
+to mtor. we also discuss a potential framework to
+rationalize the distinct roles played by hvps34 in the
+control of growth versus autophagy.
+mtor complex1/s6k1
+mtor and its downstream effector s6 kinase 1 (s6k1), as
+well as initiation factor 4e binding protein (4e-bp1),
+have emerged as critical signaling components in the
+through s6k1 phosphorylation of
+development, differentiation and growth of the organism
+[1], as well as in the maintenance of normal metabolic
+homeostasis [2,3]. in the case of s6k1, mtor appears to
+inﬂuence these processes largely at the level of protein
+synthesis,
+target
+proteins, such as ribosomal protein s6 [4], elongation
+factor 2 kinase [5], and initiation factor 4b [6] as well
+as raising the levels of initiation factor eif4a, through the
+phosphorylation and degradation of its inhibitor, pro-
+grammed cell death protein 4 [7]. moreover, dysregula-
+tion of this pathway is associated with a number of
+pathological states, including obesity, insulin resistance
+and cancer [3,8,9]. indeed, the rapamycin derivatives
+cci779 (wyeth-ayerst) and rad001 (novartis) are
+being used in phase ii and iii clinical trials for the
+treatment of solid tumors [9].
+in vivo, mtor requires two associated proteins to signal
+to s6k1: raptor [10–12] and gbl [13]. this complex,
+termed mtor complex1 [3], interacts with downstream
+substrates through raptor, which recognizes substrates,
+such as s6k1, through their tor signaling (tos) motifs
+[14]. the rapamycins, when bound to fkbp-12, appear to
+interfere with raptor’s ability to recruit substrates, such as
+s6k1, to mtor, thus inhibiting their phosphorylation.
+although gbl initially appeared to be required for a
+signaling-competent mtor complex1 [13], this view
+has recently been questioned [15]. further studies have
+shown that mtor also exists in a second complex,
+mtor complex2, which includes gbl, rictor and msin1
+[16–19]. mtor complex2 appears to be the major kinase
+involved in regulating the phosphorylation of s473 on
+protein kinase b (pkb/akt), one of the two key residues
+required for the phosphorylation of speciﬁc substrates
+(see figure 1). the rapamycins do not normally inhibit
+mtor complex2, although, under conditions of chronic
+exposure to the drug, they may do so, since they are able
+to bind nascent mtor prior to its assembly into mature
+mtor complex2. both mtor complexes are activated
+by mitogens; however, only the mtor complex1/s6k1
+signaling branch responds to nutrients, including amino
+acids and glucose [20]. thus, to propagate downstream
+signals, mtor complex1/s6k1 must integrate growth
+factor and hormone signals with those of nutrients.
+earlier studies have demonstrated that growth factors and
+hormones, such as insulin, regulate mtor complex1/
+s6k1 activation via class 1 pi3k. upon insulin stimu-
+lation, the insulin receptor autophosphorylates at speciﬁc
+tyrosine residues, leading to the creation of speciﬁc dock-
+ing sites. one of these sites acts to recruit irs1 and irs2
+www.sciencedirect.com
+current opinion in cell biology 2007, 19:135–141
+136 cell regulation
+figure 1
+model of the mtor complex1/s6k1 signaling pathway (see text). insulin and amino acids activate mtor through distinct signaling cascades,
+with amino acids acting through hvps34. hvps34 also participates in the regulation of autophagy.
+(see figure 1), leading to their increased phosphorylation
+and to recruitment of adaptor molecules, such as the p85
+regulatory subunit of class 1 pi3k [21]. in the case of class 1
+pi3k, bringing the lipid kinase to the vicinity of the
+membrane leads to the transient production of the second
+messenger phosphatidylinositol (ptdins (3,4,5)p3). ptdins
+(3,4,5)p3 binds to the n-terminal plextrin-homology (ph)
+domain of pkb/akt, recruiting pkb/akt to the membrane,
+where it is phosphorylated by phosphoinositide-depen-
+dent protein kinase 1 (pdk1) [22,23] and mtor com-
+plex2 [19]. activated pkb/akt then acts to phosphorylate
+tuberous sclerosis complex (tsc) protein 2, which joins
+with tsc1 to make up a tumor suppressor complex associ-
+ated with the autosomal-dominant genetic disorder, tsc
+[24]. phosphorylation of tsc2 is thought to target tsc2
+for destruction [25] or for 14-3-3 sequestration, where 14-3-
+3 proteins bind phosphorylated tsc2, thus keeping tsc2
+in the cytosol and away from tsc1, which is always at the
+membrane [26]. in this way, the formation of the functional
+tsc1/tsc2 complex is inhibited [27], which may be a
+mechanism for inhibiting tsc2 tumor suppressor activity.
+in turn, tsc1/tsc2 functions as a gtpase that drives ras
+homologue enriched in brain (rheb) [28] into the inactive
+gdp-bound state [29–32]. rheb directly interacts with
+mtor complex1, thus stimulating its ability to signal
+downstream to s6k1 [33]. the outcome of the insulin-
+induced response is elevated levels of protein synthesis
+and increased cell growth (see figure 1).
+the mechanism by which nutrients, such as amino acids
+and glucose, signal to mtor complex1/s6k1 is largely
+unknown. the importance of understanding this
+phenomenon has been underscored by two recent obser-
+vations: ﬁrst, that this branch of the pathway appears to
+play a critical role in insulin resistance, through a negative
+feedback loop from mtor complex1/s6k1 to irs1 [3]
+(see figure 1), and second, that in the environment of a
+solid tumor, where nutrients may be scarce, upregulation
+of this branch of the pathway may facilitate tumor growth
+[20]. recent studies have indicated that the amino acid
+current opinion in cell biology 2007, 19:135–141
+www.sciencedirect.com
+mtor complex1/s6k1 signaling nobukuni, kozma and thomas 137
+response is, in part, mediated by a novel signaling pathway that is triggered by class 3 pi3k, also known as
+human vacuolar protein sorting 34 (hvps34) [34,35]
+(see figure 2). hvps34 differs from class 1 pi3k in its
+substrate specificity and salt requirement in in vitro
+assays, in its binding partners and in its primary structure.
+in vitro, class 1 pi3k is more active with mg2+ than with
+mn2+, whereas hvps34 exhibits the opposite preference.
+moreover, hvps34 uses ptdins (phosphoinositide) as a
+substrate to produce ptdins(3)p1, whereas class 1 is more
+active toward ptdins(4, 5)p2 to produce ptdins(3,4,5)p3.
+the catalytic subunits of both class 1 pi3k and hvps34
+harbor a c2 domain, pik domain and lipid kinase domain,
+though class 1 also has a p85-binding and a ras-binding
+domain. in addition, both lipid kinases form heterodimers
+with unique regulatory subunits: the adapter protein p85
+for class 1 pi3k, and s/t protein kinase p150 for hvps34.
+the role of amino acids in mtor complex1/s6k1
+signaling was initially demonstrated in studies on macroautophagy, a cellular process in which portions of cytoplasm are sequestered within double-membrane vesicles
+known as autophagosomes before being delivered to
+lysosomes for degradation and recycling of cellular components [36]. earlier studies showed that inhibition of
+macroautophagy by the addition of amino acids was
+directly paralleled by increased s6 phosphorylation and
+that this response was suppressed by rapamycin [37].
+subsequently, it was shown that amino-acid-induced
+s6k1 activation was dependent on mtor complex1
+[38â€“40]. moreover, a number of studies have shown that
+figure 2
+essential amino acids, especially the branched-chain
+amino acids (bcaas), are critical in potentiating mtor
+complex1/s6k1 signaling [41]. however, it is clear that
+non-essential amino acids can also affect mtor complex1/s6k1 signaling [38,39], consistent with their role in
+driving early embryonic growth [42], a process in which
+mtor complex1 has been implicated [43].
+the yeast orthologue of hvps34 was first identified in a
+screen for genes involved in vacuolar protein localization
+and processing [44]. further genetic [45,46] and biochemical [47,48] studies revealed that hvps34 resides
+in a membrane-associated complex with a serine/threonine kinase, hvps15, whose activity is essential for
+hvps34 function [45]. the sequence of hvps34 contains
+a c2 ca2+-binding motif [49] at its n-terminus, which was
+recently identified as the domain by which hvps34 interacts with beclin, the human orthologue of the autophagic
+gene atg6 [50]. the c2 ca2+-binding motif of hvps34 is
+followed by a conserved pik accessory domain, first
+described in yeast pi4k [51], and a highly conserved
+lipid kinase domain located at the c-terminus [47].
+hvps15 (p150) contains a consensus sequence for the
+addition of myristic acid at its n-terminus, which is
+thought to target the hvps34/hvps15 complex to membranes, followed by a conserved serine/threonine catalytic
+kinase domain, a single heat repeat, and multiple
+wd40 repeats. moreover, rabs have been shown to bind
+to the heat and wd40 protein-interaction domains of
+hvps15, which may direct the hvps34/hvps15 complex to
+distinct intracellular compartments (see below). at these
+sites of recruitment, ptdins(3)p1 is produced, which in
+turn acts to recruit proteins containing fyve or px
+domains [52]. many of these fyve- and px-domaincontaining proteins are thought to be rab effectors [53].
+hvps34 and mtor
+class 3 pi3kinase is structurally distinct from class 1 pi3kinase and
+forms a unique complex with other signaling components. (a)
+comparison between class 1 and 3 pi3kinases. (b) beclin complex
+containing hvps34.
+www.sciencedirect.com
+the link between hvps34 and mtor complex1 signaling
+emerged independently in studies designed to elucidate
+the mechanism by which nutrient input, particularly of
+amino acids and glucose, leads to increased s6k1 t389
+phosphorylation as a readout of mtor complex1 activation [34,35]. initially it was presumed that amino acids
+affected mtor complex1/s6k1 by acting through the
+generic class 1 pi3k branch of this pathway [35]. in the
+absence of tsc1/tsc2, although mtor complex1/
+s6k1 activation was elevated and refractive to stimulation
+by mitogens [54â€“56], such as insulin, it was still regulated
+by amino acids [35]. however, this was not the case for
+rheb, as sirna knock-down of rheb protein levels
+blocked both the insulin and amino acid input to s6k1
+[35]. nonetheless, withdrawal of amino acids, which
+triggers s6k1 inactivation, had no effect on elevated
+rhebâ€“gtp levels in tsc2-deficient cells, leading to
+the hypothesis that endogenous, in contrast to overexpressed, rhebâ€“gtp [29] is necessary, but not sufficient,
+to drive s6k1 activation in the absence of amino acids.
+current opinion in cell biology 2007, 19:135â€“141
+138 cell regulation
+the reason for the difference between the amino acid
+requirements associated with endogenous and overexpressed rheb is not entirely understood. however, our
+unpublished results suggest that, normally, amino acids
+are necessary to induce a change in rheb localization or a
+conformational change in mtor complex1 that allows
+active rheb (or an immediate target effector of rheb
+other than mtor) to trigger mtor substrate phosphorylation. however, it appears that an overwhelming
+amount of active rheb can bypass this activation mechanism and signal to mtor without amino acid stimulation. these findings suggested that the amino acid
+input to mtor complex1/s6k1 acts on a pathway parallel to the tsc1/2â€“rheb axis. as earlier studies demonstrated that wortmannin, a class 1 pi3k inhibitor, blocked
+amino acid-induced s6k1 activation and that amino acids
+did not induce pkb activation [38,40], this suggested that
+a novel wortmannin-sensitive signaling component was
+responsible for mediating the amino acid input to the
+mtor complex1/s6k1. these observations led to the
+identification of hvps34 as the novel wortmannin-sensitive target by which these responses were mediated
+[34,35]. in brief, it was shown that ectopic expression
+of hvps34 drives s6k1 activation in the presence, but not
+in the absence, of amino acids, and that this effect is
+blocked by sirnas [34,35] or neutralizing antibodies
+[34] directed against hvps34. moreover, stimulation of
+cells with amino acids appears to increase hvps34 activity,
+as measured by the production of ptdins(3)p1. consistent
+with hvps34 mediating the amino acid input to s6k1, this
+response is attenuated by expression of a cdna whose
+protein product contains two fyve domains and binds to
+ptdins(3)p1, blocking the binding of fyve- or pxdomain-containing proteins and preventing s6k1 activation [34,35]. interestingly, hvps34 is the only pi3k
+found in yeast. indeed, it may be that, during the evolution of metazoans and the rise of systemic hormonal
+regulation, the insulinâ€“class 1 pi3k signaling pathway
+was merged with the primordial amino-acid-driven class 3
+pi3k signaling pathway so that both pathways act through
+the mtor complex1 to control the growth and development of the organism (see figure 1).
+the mechanism by which ptdins(3)p1 signals to mtor
+complex1/s6k1 is not known; however, the data above
+suggest that it requires the increased production of
+ptdins(3)p1. one possibility is that hvps34, through
+ptdins(3)p1, acts to increase the intracellular concentrations of amino acids, either by enhancing their uptake
+from the external milieu or by increasing protein degradation through macro- or microautophagy. to test this
+possibility, the concentration of individual amino acids
+was measured in hela cells in which hvps34 protein
+levels were depleted by sirna treatment. the amino
+acid content did not differ between cells treated with
+hvps34 sirna and those treated with a control sirna (t
+nobukuni and g thomas, unpublished). this indicates
+current opinion in cell biology 2007, 19:135â€“141
+that hvps34 stimulation of mtor complex1/s6k1 signaling is not mediated through increased levels of amino
+acids, but instead acts as a component of the pathway
+downstream of amino acids. given the role of ptdins(3)p1
+in recruiting proteins containing either fyve or px
+domains, it is highly possible that hvps34 is involved
+in forming a signaling complex that includes mtor
+complex1 and potentially s6k1 (see below). it should
+also be noted that glucose depletion has been reported to
+inhibit hvps34 activity, suggesting that amino acids or
+glucose are converging through a common mechanism
+to activate mtor complex1/s6k1 signaling [34].
+although earlier it was argued that glucose signals to
+mtor complex1/s6k1 through the activation of ampk
+kinase and the phosphorylation of tsc2 [57], this model
+has been called into question by two recent publications.
+these studies showed that redd1, which negatively
+regulates mtor activity in response to energy deprivation, does not require ampk to mediate this response
+[58], and reagents that affect ampk activity affected a
+downstream target of mtor, eef2 kinase, in the
+absence of tsc2 [59]. it should also be noted that energy
+deprivation does not have an immediate impact on intracellular amino acid levels, nor does amino acid deprivation affect atp levels [60]. key questions, then, are the
+identity of the mechanism leading to hvps34 activation,
+and whether this mechanism is shared by amino acids,
+glucose and other nutrients.
+autophagy and endosome signaling
+hvps34 is known to play a critical role in autophagy, and has
+been shown to directly interact with the autophagic gene
+beclin. beclin was first identified as a bcl-2-interacting
+protein in a yeast two-hybrid screen [61]. subsequently it
+has been shown to be a haploinsufficient tumor suppressor
+gene [62,63], and it has been demonstrated that overexpression of bcl-2 disrupts the hvps34â€“beclin interaction
+[64]. moreover, it is hypothesized that, in a nutrientreplete setting, bcl-2 inhibits autophagy by sequestering
+beclin away from hvps34 [64]. however, this latter view
+has been challenged recently, in that bcl-2 and hvps34 are
+argued to bind within the same complex through two
+distinct domains in beclin, along with a third protein,
+uvrag, which is also a haploinsufficient tumor suppressor
+gene [65]. how then does hvps34 trigger autophagy?
+recent studies have led to the identification of a wd40repeat-containing protein, hwipi-1a (wipi49) (see
+figure 1), the human orthologue of the yeast autophagy
+gene atg18, which, following amino acid deprivation, colocalizes with the autophagosomal marker lc3 at punctate
+cytoplasmic structures in cells. moreover, structural
+analysis data suggest that hwipi-1a contains an evolutionarily conserved phospholipid-binding domain [66]. in
+yeast, this domain has been shown to bind ptdins(3)p1 and
+to be involved in the formation of the pre-autophagosome
+structures (pass) [67], which act as a donor compartments
+for the biogenesis of autophagosomes [68]. given the
+www.sciencedirect.com
+mtor complex1/s6k1 signaling nobukuni, kozma and thomas 139
+common role of wd40-repeat-containing proteins in
+coordinating multiprotein complex assemblies, with the
+repeating units serving as a rigid scaffold for protein
+interactions [69], it has been hypothesized that hwipi1a may also act as a scaffold for building the autophagosome [66].
+the suggestion that hvps34 is a positive effector in both
+autophagy and mtor complex1/s6k1 signaling appears
+incongruent because autophagy is thought to be under the
+negative control of mtor [36]. a potential explanation is
+that hvps34 may be operating in specific cellular compartments. as indicated above, hvps34 potentially plays a
+distinct role in the recruitment of hwipi-ia during the
+generation of the autophagosome. however, it is known
+that the hvps34/hvp15 complex is also recruited to early
+endosomes by rab5 [70] through the direct interaction of
+rab5 with the carboxyl tail of hvp15 [71]. in this way, rab5
+is more readily able to recruit its downstream fyvedomain effector early-endosomal autoantigen 1 (eea1)
+to early endosomes, where it is required for endosome
+fusion [72]. the primary roles of hvps34 in endosomes are
+in growth-factor-receptor sorting and the formation of
+intralumenal endosomal vesicles; it does not appear to play
+a role in targeting cargo to the late endosome/lysosome
+[73]. interestingly, early endosomes have been implicated
+in signaling [74]. the concept of endosome signaling
+emanates from studies showing that, following ligand
+addition, activated epidermal growth factor receptors were
+found on early endosomes with their downstream signaling
+effectors. similarly, nerve growth factor was found with its
+activated trka receptor and phospholipase g1 (plc-g1) in
+endocytic organelles, which were capable of signaling to
+downstream effectors such as mapk [74]. relevant to this
+concept, we have found that mtor complex1 co-immunoprecipitates with hvps34 (p gulati and g thomas,
+unpublished), and others have reported that rheb, through
+its carboxyl caax box, associates with the golgi [75].
+these findings raise the possibility that mtor complex1
+may signal to downstream effectors through such vesicles.
+future perspectives
+given the ability of mtor complex1 to suppress autophagy, and the importance of both endosome trafficking
+and autophagy to the malignant phenotype, it will be
+critical to identify the mechanisms by which these two
+pathways interact at the intracellular level. currently,
+hvps34 and hvps15 are the only known components of
+the pathway linking nutrient input to mtor complex1
+activation. thus, identifying the upstream and downstream elements of this pathway will be critical to deciphering the mechanism of the cellular response to
+nutrients. to find the downstream targets of hvps34, it
+will be important to find the ptdins (2)p1-binding protein
+responsible for the activation of the pathway, especially
+since it seems that hvps34â€™s ability to produce ptdins
+(3)p1 is critical for activation of the pathway. it is also of
+www.sciencedirect.com
+importance to find the binding partners of hvps34/
+hvps15 to identify the upstream regulator of the pathway.
+acknowledgments
+we thank m daston for editing and members of kozma/thomas laboratory
+for discussions and insights concerning this review. gt is supported by a
+u01 grant of the mouse models of human cancer consortium (ca-8429206) and an r01 grant (dk-73802-01) from the nih. sk is supported by a
+r01 grant (ca-120475-01) from the nih.
+references and recommended reading
+papers of particular interest, published within the period of review,
+have been highlighted as:
+ of special interest
+ of outstanding interest
+1.
+wullschleger s, loewith r, hall mn: tor signaling in growth and
+metabolism. cell 2006, 124:471-484.
+2.
+kahn bb, myers mg jr: mtor tells the brain that the body is
+hungry. nat med 2006, 12:615-617.
+3.
+um sh, dâ€™alessio d, thomas g: nutrient overload, insulin
+resistance, and ribosomal protein s6 kinase 1, s6k1.
+cell metab 2006, 3:393-402.
+4.
+ruvinsky i, sharon n, lerer t, cohen h, stolovich-rain m, nir t,
+dor y, zisman p, meyuhas o: ribosomal protein s6
+phosphorylation is a determinant of cell size and glucose
+homeostasis. genes dev 2005, 19:2199-2211.
+5.
+wang x, li w, williams m, terada n, alessi dr, proud cg:
+regulation of elongation factor 2 kinase by p90(rsk1) and p70
+s6 kinase. embo j 2001, 20:4370-4379.
+6.
+raught b, peiretti f, gingras ac, livingstone m, shahbazian d,
+mayeur gl, polakiewicz rd, sonenberg n, hershey jw:
+phosphorylation of eucaryotic translation initiation factor
+4b ser422 is modulated by s6 kinases. embo j 2004,
+23:1761-1769.
+7.
+dorrello nv, peschiaroli a, guardavaccaro d, colburn nh,
+sherman ne, pagano m: s6k1- and betatrcp-mediated
+degradation of pdcd4 promotes protein translation and cell
+growth. science 2006, 314:467-471.
+8.
+krebs m: amino acid-dependent modulation of glucose
+metabolism in humans. eur j clin invest 2005, 35:351-354.
+9.
+faivre s, kroemer g, raymond e: current development of
+mtor inhibitors as anticancer agents. nat rev drug discov
+2006, 5:671-688.
+10. kim dh, sarbassov dd, ali sm, king je, latek rr,
+erdjument-bromage h, tempst p, sabatini dm: mtor interacts
+with raptor to form a nutrient-sensitive complex that signals to
+the cell growth machinery. cell 2002, 110:163-175.
+11. hara k, maruki y, long x, yoshino k, oshiro n, hidayat s,
+tokunaga c, avruch j, yonezawa k: raptor, a binding partner
+of target of rapamycin (tor), mediates tor action.
+cell 2002, 110:177-189.
+12. loewith r, jacinto e, wullschleger s, lorberg a, crespo jl,
+bonenfant d, oppliger w, jenoe p, hall mn: two tor
+complexes, only one of which is rapamycin sensitive,
+have distinct roles in cell growth control. mol cell 2002,
+10:457-468.
+13. kim dh, sarbassov dos d, ali sm, latek rr, guntur kv,
+erdjument-bromage h, tempst p, sabatini dm: gbl, a positive
+regulator of the rapamycin-sensitive pathway required for the
+nutrient-sensitive interaction between raptor and mtor.
+mol cell 2003, 11:895-904.
+14. schalm ss, fingar dc, sabatini dm, blenis j: tos
+motif-mediated raptor binding regulates 4e-bp1 multisite
+phosphorylation and function. curr biol 2003, 13:797-806.
+15. guertin da, stevens dm, thoreen cc, burds aa, kalaany ny,
+moffat j, brown m, fitzgerald kj, sabatini dm: ablation in mice
+of the mtorc components raptor, rictor, or mlst8 reveals
+current opinion in cell biology 2007, 19:135â€“141
+140 cell regulation
+that mtorc2 is required for signaling to akt-foxo and pkca,
+but not s6k1. dev cell 2006, 11:859-871.
+16. jacinto e, loewith r, schmidt a, lin s, ruegg ma, hall a, hall mn:
+mammalian tor complex 2 controls the actin cytoskeleton
+and is rapamycin insensitive. nat cell biol 2004, 6:1122-1128.
+17. yang j, wong rk, park m, wu j, cook jr, york da, deng s,
+markmann j, naji a, wolf ba et al.: leucine regulation of
+glucokinase and atp synthase sensitizes glucose-induced
+insulin secretion in pancreatic b-cells. diabetes 2006,
+55:193-201.
+18. frias ma, thoreen cc, jaffe jd, schroder w, sculley t, carr sa,
+sabatini dm: msin1 is necessary for akt/pkb phosphorylation,
+and its isoforms define three distinct mtorc2s. curr biol 2006,
+16:1865-1870.
+19. sarbassov dd, guertin da, ali sm, sabatini dm: phosphorylation
+and regulation of akt/pkb by the rictor-mtor complex.
+science 2005, 307:1098-1101.
+20. dann sg, thomas g: the amino acid sensitive tor pathway
+from yeast to mammals. febs lett 2006, 580:2821-2829.
+21. fruman da, meyers re, cantley lc: phosphoinositide kinases.
+annu rev biochem 1998, 67:481-507.
+22. alessi dr, james sr, downes cp, holmes ab, gaffney pr,
+reese cb, cohen p: characterization of a 3-phosphoinositidedependent protein kinase which phosphorylates and activates
+protein kinase balpha. current biology 1997, 7:261-269.
+23. stokoe d, stephens lr, copeland t, gaffney pr, reese cb,
+painter gf, holmes ab, mccormick f, hawkins pt: dual role of
+phosphatidylinositol-3,4,5-trisphosphate in the activation of
+protein kinase b. science 1997, 277:567-570.
+activate s6k1, positively affect hvps34 activity, as measured in an in
+vitro kinase assay. in contrast, negative effectors of mtor signaling,
+including the mitochondrial poison, oligomycin, and amp kinase inhibit
+hvps34 activity, arguing that both nutrients and energy mediate mtor
+signaling through hvps34.
+35. nobukuni t, joaquin m, roccio m, dann sg, kim sy, gulati p,
+ byfield mp, backer jm, natt f, bos jl et al.: amino acids mediate
+mtor/raptor signaling through activation of class 3
+phosphatidylinositol 3oh-kinase. proc natl acad sci u s a
+2005, 102:14238-14243.
+this study uses genetic, biochemical, and pharmacologic approaches
+to demonstrate that amino-acid-mediated mtor activation is independent of the generic class 1 signaling pathway. instead it is demonstrated that amino acids mediate mtor signaling through class 3 pi3k,
+hvps34.
+36. klionsky dj, emr sd: autophagy as a regulated pathway of
+cellular degradation. science 2000, 290:1717-1721.
+37. blommaart ef, luiken jj, blommaart pj, van woerkom gm,
+meijer aj: phosphorylation of ribosomal protein s6 is inhibitory
+for autophagy in isolated rat hepatocytes. j biol chem 1995,
+270:2320-2326.
+38. hara k, yonezawa k, weng qp, kozlowski mt, belham c,
+avruch j: amino acid sufficiency and mtor regulate p70 s6
+kinase and eif-4e bp1 through a common effector
+mechanism. j biol chem 1998, 273:14484-14494.
+39. xu g, kwon g, marshall ca, lin ta, lawrence jc jr,
+mcdaniel ml: branched-chain amino acids are essential in the
+regulation of phas-i and p70 s6 kinase by pancreatic b-cells.
+a possible role in protein translation and mitogenic signaling.
+j biol chem 1998, 273:28178-28184.
+24. montagne j, radimerski t, thomas g: insulin signaling: lessons
+from the drosophila tuberous sclerosis complex, a tumor
+suppressor. sci stke 2001, 2001:e36.
+40. iiboshi y, papst pj, kawasome h, hosoi h, abraham rt,
+houghton pj, terada n: amino acid-dependent control of
+p70(s6k). involvement of trna aminoacylation in the
+regulation. j biol chem 1999, 274:1092-1099.
+25. nellist m, goedbloed ma, de winter c, verhaaf b, jankie a,
+reuser aj, van den ouweland am, van der sluijs p, halley dj:
+identification and characterization of the interaction between
+tuberin and 14-3-3z. j biol chem 2002, 277:39417-39424.
+41. kimball sr, jefferson ls: molecular mechanisms through
+which amino acids mediate signaling through the mammalian
+target of rapamycin. curr opin clin nutr metab care 2004,
+7:39-44.
+26. li y, inoki k, yeung r, guan kl: regulation of tsc2 by 14-3-3
+binding. j biol chem 2002, 277:44593-44596.
+42. lee es, fukui y: synergistic effect of alanine and glycine on
+bovine embryos cultured in a chemically defined medium and
+amino acid uptake by vitro-produced bovine morulae and
+blastocysts. biol reprod 1996, 55:1383-1389.
+27. manning bd, tee ar, logsdon mn, blenis j, cantley lc:
+identification of the tuberous sclerosis complex-2 tumor
+suppressor gene product tuberin as a target of the
+phosphoinositide 3-kinase/akt pathway. mol cell 2002,
+10:151-162.
+28. yamagata k, sanders lk, kaufmann we, yee w, barnes ca,
+nathans d, worley pf: rheb, a growth factor- and synaptic
+activity-regulated gene, encodes a novel ras-related protein.
+j biol chem 1994, 269:16333-16339.
+29. garami a, zwartkruis fj, nobukuni t, joaquin m, roccio m,
+stocker h, kozma sc, hafen e, bos jl, thomas g: insulin
+activation of rheb, a mediator of mtor/s6k/4e-bp signaling,
+is inhibited by tsc1 and 2. mol cell 2003, 11:1457-1466.
+30. saucedo lj, gao x, chiarelli da, li l, pan d, edgar ba: rheb
+promotes cell growth as a component of the insulin/tor
+signalling network. nat cell biol 2003, 5:566-571.
+31. stocker h, radimerski t, schindelholz b, wittwer f, belawat p,
+daram p, breuer s, thomas g, hafen e: rheb is an essential
+regulator of s6k in controlling cell growth in drosophila.
+nat cell biol 2003, 5:559-565.
+32. zhang y, gao x, saucedo lj, ru b, edgar ba, pan d: rheb is a
+direct target of the tuberous sclerosis tumour suppressor
+proteins. nat cell biol 2003, 5:578-581.
+33. long x, lin y, ortiz-vega s, yonezawa k, avruch j: rheb binds
+and regulates the mtor kinase. curr biol 2005, 15:702-713.
+34. byfield mp, murray jt, backer jm: hvps34 is a nutrient
+regulated lipid kinase required for activation of p70 s6 kinase.
+j biol chem 2005, 280:33076-33082.
+this paper shows that hvps34 is a critical component of the nutrient
+signaling apparatus leading to s6k1 activation. amino acids, which
+current opinion in cell biology 2007, 19:135â€“141
+43. gangloff yg, mueller m, dann sg, svoboda p, sticker m,
+spetz jf, um sh, brown ej, cereghini s, thomas g et al.:
+disruption of the mouse mtor gene leads to early
+postimplantation lethality and prohibits embryonic stem cell
+development. mol cell biol 2004, 24:9508-9516.
+44. herman pk, emr sd: characterization of vps34, a gene
+required for vacuolar protein sorting and vacuole segregation
+in saccharomyces cerevisiae. mol cell biol 1990,
+10:6742-6754.
+45. stack jh, herman pk, schu pv, emr sd: a membraneassociated complex containing the vps15 protein kinase and
+the vps34 pi 3-kinase is essential for protein sorting to the
+yeast lysosome-like vacuole. embo j 1993, 12:2195-2204.
+46. schu pv, takegawa k, fry mj, stack jh, waterfield md, emr sd:
+phosphatidylinositol 3-kinase encoded by yeast vps34 gene
+essential for protein sorting. science 1993, 260:88-91.
+47. volinia s, dhand r, vanhaesebroeck b, macdougall lk, stein r,
+zvelebil mj, domin j, panaretou c, waterfield md: a human
+phosphatidylinositol 3-kinase complex related to the yeast
+vps34p-vps15p protein sorting system. embo j 1995,
+14:3339-3348.
+48. panaretou c, domin j, cockcroft s, waterfield md:
+characterization of p150, an adaptor protein for the human
+phosphatidylinositol (ptdins) 3-kinase. substrate presentation
+by phosphatidylinositol transfer protein to the p150.
+ptdins 3-kinase complex. j biol chem 1997, 272:2477-2485.
+49. nishizuka y: the molecular heterogeneity of protein kinase c
+and its implications for cellular regulation. nature 1988,
+334:661-665.
+www.sciencedirect.com
+mtor complex1/s6k1 signaling nobukuni, kozma and thomas 141
+50. kihara a, kabeya y, ohsumi y, yoshimori t: beclinphosphatidylinositol 3-kinase complex functions at the
+trans-golgi network. embo rep 2001, 2:330-335.
+51. flanagan ca, schnieders ea, emerick aw, kunisawa r, admon a,
+thorner j: phosphatidylinositol 4-kinase: gene structure and
+requirement for yeast cell viability. science 1993,
+262:1444-1448.
+52. lemmon ma: phosphoinositide recognition domains.
+traffic 2003, 4:201-213.
+53. grosshans bl, ortiz d, novick p: rabs and their effectors:
+achieving specificity in membrane traffic. proc natl acad sci
+u s a 2006, 103:11821-11827.
+54. inoki k, li y, zhu t, wu j, guan kl: tsc2 is phosphorylated and
+inhibited by akt and suppresses mtor signaling.
+nat cell biol 2002, 4:648-657.
+55. jaeschke a, hartkamp j, saitoh m, roworth w, nobukuni t,
+hodges a, sampson j, thomas g, lamb r: tuberous sclerosis
+complex tumor suppressor-mediated s6 kinase inhibition by
+phosphatidylinositide-3-oh kinase is mtor independent.
+j cell biol 2002, 159:217-224.
+56. radimerski t, montagne j, hemmings-mieszczak m, thomas g:
+lethality of drosophila lacking tsc tumor suppressor
+function rescued by reducing ds6k signaling. genes dev 2002,
+16:2627-2632.
+57. inoki k, zhu t, guan kl: tsc2 mediates cellular energy
+response to control cell growth and survival. cell 2003,
+115:577-590.
+58. sofer a, lei k, johannessen cm, ellisen lw: regulation of mtor
+and cell growth in response to energy stress by redd1.
+mol cell biol 2005, 25:5834-5845.
+59. smith em, finn sg, tee ar, browne gj, proud cg: the tuberous
+sclerosis protein tsc2 is not required for the regulation of the
+mammalian target of rapamycin by amino acids and certain
+cellular stresses. j biol chem 2005, 280:18717-18727.
+60. dennis pb, jaeschke a, saitoh m, fowler b, kozma sc,
+thomas g: mammalian tor: a homeostatic atp sensor.
+science 2001, 294:1102-1105.
+61. liang xh, kleeman lk, jiang hh, gordon g, goldman je, berry g,
+herman b, levine b: protection against fatal sindbis virus
+encephalitis by beclin, a novel bcl-2-interacting protein.
+j virol 1998, 72:8586-8596.
+62. qu x, yu j, bhagat g, furuya n, hibshoosh h, troxel a, rosen j,
+eskelinen el, mizushima n, ohsumi y et al.: promotion of
+tumorigenesis by heterozygous disruption of the beclin 1
+autophagy gene. j clin invest 2003, 112:1809-1820.
+63. yue z, jin s, yang c, levine aj, heintz n: beclin 1, an autophagy
+gene essential for early embryonic development, is a
+haploinsufficient tumor suppressor. proc natl acad sci u s a
+2003, 100:15077-15082.
+64. pattingre s, tassa a, qu x, garuti r, liang xh, mizushima n,
+packer m, schneider md, levine b: bcl-2 antiapoptotic proteins
+inhibit beclin 1-dependent autophagy. cell 2005, 122:927-939.
+these authors show that bcl-2 inhibits beclin-1-dependent autophagy in
+yeast and mammalian cells, but not beclin 1 binding to defective mutants
+of bcl-2. they also show that transgenic expression of bcl-2 in heart
+www.sciencedirect.com
+inhibits cardiac muscle autophagy. finally, beclin 1 mutants defective in
+bcl-2 binding promote higher levels of autophagy than wild-type beclin 1.
+65. liang c, feng p, ku b, dotan i, canaani d, oh bh, jung ju:
+ autophagic and tumour suppressor activity of a novel
+beclin1-binding protein uvrag. nat cell biol 2006,
+8:688-699.
+this paper reports the identification of a novel coiled-coil uv irradiation
+resistance-associated protein (uvrag) as a component of a bcl-2â€“
+beclinâ€“hvps34 complex, required for autophagy. uvrag is monoallelically mutated at increased frequency in human colon cancers. the
+uvrag-mediated activation of the bcl-2â€“beclinâ€“hvps34 complex promotes autophagy and suppresses the proliferation of human colon
+cancer cells. thus uvrag appears to be a tumor suppressor candidate.
+66. proikas-cezanne t, waddell s, gaugel a, frickey t, lupas a,
+nordheim a: wipi-1a (wipi49), a member of the novel 7-bladed
+wipi protein family, is aberrantly expressed in human
+cancer and is linked to starvation-induced autophagy.
+oncogene 2004, 23:9314-9325.
+wd-repeat proteins are b-propeller platforms that are involved in the
+assembly of multiprotein complexes. wipi-1a is a member of a novel wdrepeat protein family, which plays a positive role in autophagy in yeast and
+c. elegans. the data presented in this study suggest that human wipi
+proteins share an evolutionarily conserved function in autophagy, playing
+a critical role in generating the autophagosome. moreover, wipi genes
+were found to be aberrantly expressed in a variety of matched tumor
+tissues, suggesting that they may be compromised in human cancers.
+67. krick r, tolstrup j, appelles a, henke s, thumm m: the
+relevance of the phosphatidylinositolphosphat-binding motif
+frrgt of atg18 and atg21 for the cvt pathway and autophagy.
+febs lett 2006, 580:4632-4638.
+68. suzuki k, kirisako t, kamada y, mizushima n, noda t, ohsumi y:
+the pre-autophagosomal structure organized by concerted
+functions of apg genes is essential for autophagosome
+formation. embo j 2001, 20:5971-5981.
+69. saxena k, gaitatzes c, walsh mt, eck m, neer ej, smith tf:
+analysis of the physical properties and molecular modeling of
+sec13: a wd repeat protein involved in vesicular traffic.
+biochemistry 1996, 35:15215-15221.
+70. christoforidis s, miaczynska m, ashman k, wilm m, zhao l,
+yip sc, waterfield md, backer jm, zerial m:
+phosphatidylinositol-3-oh kinases are rab5 effectors.
+nat cell biol 1999, 1:249-252.
+71. murray jt, panaretou c, stenmark h, miaczynska m, backer jm:
+role of rab5 in the recruitment of hvps34/p150 to the early
+endosome. traffic 2002, 3:416-427.
+72. simonsen a, lippe r, christoforidis s, gaullier jm, brech a,
+callaghan j, toh bh, murphy c, zerial m, stenmark h: eea1 links
+pi(3)k function to rab5 regulation of endosome fusion.
+nature 1998, 394:494-498.
+73. gruenberg j, stenmark h: the biogenesis of multivesicular
+endosomes. nat rev mol cell biol 2004, 5:317-323.
+74. miaczynska m, pelkmans l, zerial m: not just a sink: endosomes
+in control of signal transduction. curr opin cell biol 2004,
+16:400-406.
+75. buerger c, devries b, stambolic v: localization of rheb to the
+endomembrane is critical for its signaling function.
+biochem biophys res commun 2006, 344:869-880.
+current opinion in cell biology 2007, 19:135â€“141

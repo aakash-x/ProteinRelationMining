@@ -1,0 +1,559 @@
+free radical biology & medicine 41 (2006) 1655 – 1661
+www.elsevier.com/locate/freeradbiomed
+original contribution
+lipid oxidation and autophagy in yeast
+ingrid kiššová a,b, maïka deffieu a, victor samokhvalov a,1, gisèle velours a,
+jean-jacques bessoule c, stéphen manon a, nadine camougrand a,⁎
+a umr5095 cnrs, université de bordeaux 2, 1 rue camille saint-saëns, f-33077 bordeaux cedex, france
+b department of biochemistry, faculty of natural sciences, comenius university, mlynska dolina ch-1, 84215 bratislava, slovak republic
+c umr5200 cnrs, université de bordeaux 2, 176 rue léo saignat, f-33076 bordeaux cedex, france
+received 16 may 2006; revised 2 august 2006; accepted 11 august 2006
+available online 16 august 2006
+abstract
+autophagy, a process involved in the degradation and the recycling of long-lived proteins and organelles to survive nitrogen starvation, is
+generally non-selective. however, recent data suggest that selective forms of autophagy exist, that are able to specifically target several
+organelles, including mitochondria. conversely, mitochondrial alterations could trigger autophagy. such a selective form of autophagy might be
+involved in the elimination of damaged mitochondria. we reported previously that, mitochondria were early targets of rapamycin-induced
+autophagy. here we report that rapamycin-induced autophagy is accompanied by the early production of reactive oxygen species and by the
+early oxidation of mitochondrial lipid. inhibition of these oxidative effects by resveratrol largely impaired autophagy of both cytosolic proteins
+and mitochondria, and delayed subsequent cell death. these results support a role of mitochondrial oxidation events in the activation of
+autophagy.
+© 2006 elsevier inc. all rights reserved.
+keywords: autophagy; mitochondria; resveratrol; yeast
+autophagy is a general intracellular degradation process
+playing a crucial role in survival to nitrogen starvation in yeast
+[1,2 for reviews], plants [3, for review], cultured animal cells
+[4, for review] and in the whole animals [5,6]. it has been
+particularly well characterized in the yeast saccharomyces
+cerevisiae, from genetic screens based on the sensitivity to
+nitrogen starvation [1,2,7 for reviews]. the main process of
+autophagy is known as macroautophagy.
+involves the
+it
+abbreviations: alp, alkaline phosphatase; cl, cardiolipin (diphosphatidyl-
+glycerol); ctrl, control; c16:0, palmitic acid; c16:1, palmitoleic acid; c18:0, stearic
+acid; c18:1, oleic acid; c18:2, linoleic acid; mtgfp, mitochondria-targeted green
+fluorescent protein; nac, n- acetylcysteine; pa, phosphatidic acid; pc,
+phosphatidylcholine; pe, phosphatidylethanolamine; pg, phosphatidylglycerol;
+pi, phosphatidylinositol; pmn, piecemeal microautophagy of the nucleus; ps,
+phosphatidylserine; rapa, rapamycin; resv, resveratrol; ros, reactive oxygen
+species; tbars, thiobarbituric-reactive species; ynb, yeast nitrogen base
+medium; ypd, yeast extract peptone dextrose medium.
+⁎ corresponding author.
+e-mail address: n.camougrand@ibgc.u-bordeaux2.fr (n. camougrand).
+1 present address: the hospital for sick children, 555 university avenue,
+toronto, ontario, canada m5g 1x8.
+0891-5849/$ - see front matter © 2006 elsevier inc. all rights reserved.
+doi:10.1016/j.freeradbiomed.2006.08.012
+formation of double-membrane vesicles, named autophago-
+somes that engulf and deliver cytosolic material
+to the
+vacuoles. a similar process occurs in mammalian cells,
+where autophagosomes fuse with lysosomes,
+then forming
+autolysosomes [4]. although macroautophagy is generally a
+non-selective process (i.e. engulfed material can virtually be
+anything and is randomly sequestered), selective processes
+have been described for
+the degradation of peroxisomes
+(pexophagy) in the methylotrophic yeasts pichia pastoris [8],
+hansenula polymorpha [9] and in saccharomyces cerevisiae
+[10, for review] and in mammals [11, for review]. besides
+macroautophagy, another form of autophagy, called micro-
+autophagy, involves the direct engulfment of portions of the
+cytoplasm by invaginations of the vacuole, by a molecular
+mechanism that
+remains unclear. like macroautophagy,
+microautophagy is generally non-selective. however, a
+particular form of microautophagy, piecemeal microautophagy
+of the nucleus (pmn), has been described in s.cerevisiae [12].
+also, the existence of a selective form of microautophagy of
+the peroxisomes (micropexophagy) has been reported in
+yeasts [13].
+1656
+i. kiššová et al. / free radical biology & medicine 41 (2006) 1655–1661
+the main physiological role of autophagy is the recycling of
+amino acids from proteins for survival to nitrogen starvation.
+however, it has also been proposed that autophagy could play a
+role in several forms of programmed cell death. in mammalian
+cells, autophagy is often associated to apoptosis but the actual
+role of autophagy in cell death is discussed [14,15]. in plants,
+autophagic cell death has been shown to be associated to the
+hypersensitive response to pathogens [16]. recent data support
+that selective forms of autophagy might exist and be involved
+in cellular maintenance, by eliminating altered components.
+this might be particularly true for organelles, such as mito-
+chondria and the endoplasmic reticulum, which are particularly
+exposed to oxidation because of the presence of electron ca-
+rriers [17–22]. a recent work supports that selective autophagy
+of the endoplasmic reticulum exists in yeast [23]. concerning
+mitochondria, we have identified the gene uth1, encoding an
+outer mitochondrial membrane protein, of which the absence
+impaired the autophagy of mitochondria but not the autophagy
+of cytosolic proteins [24–27]. the product of uth1 was
+therefore the first identified protein involved in mitochondria-
+autophagy but not in general autophagy, suggesting that the
+regulations of the two processes were, at least partially, distinct.
+the process of mitochondria-autophagy has been termed
+mitophagy [22,28].
+them at
+the production of reactive oxygen species (ros) is a normal
+side-consequence of the functioning of the respiratory chain
+[29,30, for reviews]) and of several other reactions, namely
+those involved in lipid metabolism [29,31,32, for reviews].
+their destructive effects on biological molecules, such as lipids,
+proteins and nucleic acids, has put
+the centre of
+numerous pathologies including cardiovascular diseases, can-
+cers and ageing [33,34, for reviews]. ros have been shown to
+modulate apoptotic programmed cell death in mammalian cells
+[32,35,36, for reviews] and are the main trigger of apoptosis-
+like cell death in yeast [37]. besides their regulatory effect of
+apoptosis, ros might play a role in the regulation of autophagy
+[38,39]. this might be particularly relevant to the targeting of
+mitochondria and of endoplasmic reticulum,
+the two main
+locations for ros-production. this would also be relevant to
+the putative selective elimination of altered mitochondria as a
+weapon against ageing [22,33].
+in the present work, we observed that rapamycin-treatment
+lipid
+induced an early ros-production and mitochondrial
+oxidation that could be inhibited by the hydrophobic antioxi-
+dant resveratrol. further, resveratrol-treatment was able to
+impair autophagy of both cytosolic proteins and mitochondria
+and delayed rapamycin-induced cell death, suggesting that
+mitochondrial oxidation events play a crucial role in the
+regulation of autophagy.
+experimental procedures
+strains and cultures
+the wild-type parental strain w303-1b (mat a, ade1, his3,
+leu2, trp1, ura3) was used in this study. for the measurement of
+alkaline phosphatase activity, the pho8 locus was replaced
+with the construct pho8δ60 by transformation with a hind iii
+fragment of the plasmid ptn9 [40] (gift from y. ohsumi, nibb
+okazaki, japan) as described previously [24]. for fluorescent
+microscopy experiments, cells were transformed with the
+plasmid pgal-clbgfp containing the presequence of mito-
+chondrial citrate synthase fused to the n-terminus of jellyfish
+green fluorescent protein (mtgfp) [41], under the control of a
+galactose-inducible gal1/10 promoter, as described previously
+[24].
+cells were grown aerobically in minimal medium (ynb)
+(0.175% yeast nitrogen base (difco), 0.1% potassium phos-
+phate, 0.5% ammonium sulfate, 0.2% drop-mix, ph 5.5)
+supplemented with 2% lactate and the adequate auxotrophic
+requirements. for mtgfp- expression under the control of the
+gal1/10 promoter, 1% galactose was added to the medium.
+0.2 μg/ml rapamycin (lc laboratories) solubilized in 90%
+ethanol/10% triton x-100 or in dimethylformamide was added
+for the induction of autophagy.
+plating efficiency
+viability of cells was determined as the plating efficiency.
+cells were grown in liquid culture and treated with
+rapamycin. at indicated times, cells were counted, diluted,
+and aliquots with identical number of cells (5 × 102) were
+plated on solid complete ypd medium without rapamycin
+(1% yeast extract, 1% bacto-peptone, 2% glucose, ph 5.5).
+only cells surviving rapamycin-treatment are able to form
+colonies. the number of colonies was scored after 2–3 days
+of growth at 28°c. the viability of cells was expressed as the
+percentage of colonies produced by plating aliquots of non-
+treated culture.
+alkaline phosphatase assay
+alkaline phosphatase (alp) activity was measured with
+α-naphtyl phosphate (sigma) as a substrate and performed as
+described previously [24]. fluorescence intensity was measured
+at 472 nm (excitation at 345 nm) in a xenius spectrofluorimeter
+(safas). protein concentration was measured with the lowry
+method in each sample and the activity was expressed as units
+per minute per milligram proteins (u/min/mg).
+fluorescence microscopy
+mtgfp-expressing cells were visualized on a leica micro-
+systems dm-lb fluorescence microscope. the images were
+acquired with a sis camera.
+ros measurement
+aliquots of cells (5 × 106 cells/ml) were incubated for
+10 minutes under agitation in the presence of 20 μm
+dihydrorhodamine 123 (sigma). following oxidation by ros,
+non- fluorescent dihyhydrorhodamine 123 is converted to
+fluorescent rhodamine 123. fluorescence was measured in a
+galaxy flow cytometer (partec). when used, n-acetylcysteine
+i. kiššová et al. / free radical biology & medicine 41 (2006) 1655–1661
+1657
+(5 mm) and resveratrol (sigma; 100 μm) were added as
+solutions in water and ethanol, respectively.
+lipid oxidation
+the extent of lipid oxidation was measured as the amount of
+thiobarbituric acid-reactive species (tbars) on cells grown in
+the presence of 100 μm c18:2. aliquots of 5 × 107 cells were
+washed and resuspended in 0.1 ml water and added with 1 ml
+of a freshly prepared solution of 0.375% thiobarbituric acid
+dissolved in 12% trichloroacetic acid and 0.5 m hydrochloric
+acid. after a 15 minutes-incubation at 90°c and a centrifuga-
+tion, the absorbance of the supernatant was measured at 535 nm
+and compared to that of a range of solutions of 1,1,3,3,-
+tetramethoxypropane treated under the same conditions.
+lipid analysis
+mitochondria were isolated by a standard procedure by
+digestion of the cell wall with zymolyase and differential
+centrifugation [42]. lipid extraction, separation of phospholi-
+pids and fatty acids analyses were done as previously described
+[43]. each sample was measured in triplicate and experiments
+were reproduced twice.
+statistical analyses
+statistical analyses were done with prism 2.01 software,
+using paired t-test, unpaired t-test or contengency test.
+results
+rapamycin-treatment induces an early increase in oxidation
+by-products
+as measured by the conversion of non-fluorescent dihy-
+drorhodamine 123 to fluorescent rhodamine 123, rapamycin-
+treatment of lactate-grown yeast cells was accompanied by an
+fig. 2. rapamycin-induced tbars-production. cells were grown in the presence
+of 100 μm c18:2, and in the presence or in the absence of 100 μm resveratrol.
+cells were treated for one hour with 0.2 μg/ml rapamycin and tbars were
+measured as indicated in the methods section. data are means (±sd) of three
+independent experiments. values of resveratrol- sensitive amounts of tbars
+(visualized by arrows) are 37 and 130 pmoles/107 cells for control and
+rapamycin-treated cells,
+the effect of
+rapamycin: p < 0.05.
+respectively. statistical analysis of
+early increase of the production of reactive oxygen species
+(ros) (fig. 1). scavenging of superoxide ion by the water-
+soluble antioxidant n-acetylcysteine only slightly decreased
+rapamycin-associated oxidation of dihydrorhodamine 123 to
+rhodamine 123; on the opposite, addition of the hydrophobic
+antioxidant resveratrol had a strong inhibitory effect on the
+oxidation of dihydrorhodamine 123 (fig. 1). other widely used
+antioxidants gave similar results: water-soluble tiron (1 mm)
+had no protective effect while hydrophobic α-tocopherol
+(200 μm) was as efficient as resveratrol (data not shown).
+these different effects of water-soluble and hydrophobic anti-
+oxidant molecules might be related to the capacity of the laters
+to protect more efficiently membrane lipid than the formers.
+this protective effect of resveratrol was confirmed by
+measuring the production of the side product of lipid oxidation,
+malonaldehyde, in cells grown in the presence of c18:2. this
+fatty acid can be incorporated in phospholipids and its oxidation
+leads to the production of malonaldehyde that can be measured
+by its reaction with thiobarbituric acid. although this reaction is
+fig. 1. rapamycin-induced ros-production. cells were grown in lactate-supplemented medium added or not with added with 5 mm n-acetylcysteine or 100 μm
+resveratrol (higher concentrations did not produce more effects). an aliquot of cells was incubated for 10 minutes with 20 μm dihydrorhodamine 123 before and after a
+30-minutes rapamycin- treatment. fluorescence of rhodamine 123 was analyzed by flow cytometry. the vertical bar indicates a fluorescence value equal to 1 and
+numbers indicate the % of cells having a fluorescence value above 1. data in this figure are representative of 5 independent experiments. statistical analyses:
+“rapamycin” v/s “control” p < 0.01; “rapamycin + n- acetylcysteine” v/s “rapamycin” p = 0.19; “rapamycin + resveratrol” v/s “rapamycin” p < 0.05.
+1658
+i. kiššová et al. / free radical biology & medicine 41 (2006) 1655–1661
+fig. 3. rapamycin-induced modifications of fatty acids. cells were treated or not
+for one hour with 0.2 μg/ml rapamycin. lipids were extracted and analysed as
+indicated in the methods section. for each phospholipid class, results are the
+ratio of unsaturated (c18:1 + c16:1) over saturated (c18:0 + c16:0) fatty acids. data
+are means ± sd of triplicate analyses for each condition. the experiment was
+reproduced twice. statistical analyses of “rapamycin” v/s“control”: ⁎p = 0.06,
+⁎⁎p < 0.05,⁎⁎⁎p < 0.01.
+known to lack specificity, the sensitivity to resveratrol allowed
+evaluating the part of the reaction linked to lipid oxidation.
+from data reported in fig. 2, resveratrol-sensitive production of
+thiobarbituric acid-reactive species (tbars) increased by 3 to
+4-fold following rapamycin-treatment.
+the effect of rapamycin on lipid from cells grown under
+standard conditions (i.e. without
+the addition of exogenous
+polyunsaturated fatty acid) can be measured by the ratio of
+saturated (c16:0 and c18:0) over monounsaturated (c16:1 and c18:1)
+fatty acids: the oxidation of monounsaturated fatty acids does not
+lead to the appearance of detectable molecules by classical
+methods such as tbars, but still leads to a decrease of the
+unsaturation index (unsaturated/saturated ratio) [43,44]. rapamy-
+cin-treatment induced both a decrease in the total amount of
+mitochondrial fatty acids (from 225 ± 24 to 154 ± 13 μg/mg
+protein) and a decrease of the unsaturation index of fatty acid (fig.
+3). this rapamycin-induced alteration concerned all the phospho-
+lipids except ps/pi/pa, which already have a low basal
+unsaturation index.
+effect of resveratrol on autophagy
+non-selective autophagy can be measured through the
+activation of a mutant form of the pho8-encoded vacuolar
+fig. 4. inhibition of the autophagy of cytosolic proteins by resveratrol. cells
+expressing pho8δ60 were grown in the absence or in the presence of
+100 μm resveratrol or 5 mm n- aectylcysteine, and treated with 0.2 μg/ml
+rapamycin for 60 minutes before alp-activity measurement. each sample
+was analyzed in triplicate and three sets of experiments were done.
+statistical analyses: rapamycin + n-acetylcysteine v/s “rapamycin” p = 0.63,
+“rapamycin + resveratrol” v/s “rapamycin” p < 0.05.
+fig. 5. resveratrol protects mtgfp against degradation. (a) cells containing a
+pclbgfp plasmid were grown in a lactate-supplemented medium in the
+absence or in the presence of 100 μm resveratrol. 0.5% galactose was added one
+hour before rapamycin-treatment to induce the expression of mtgfp. cells were
+observed one hour after the addition of 0.2 μg/ml rapamycin. resveratrol did
+not prevent the fragmentation of the mitochondrial network, but prevented the
+degradation of mtgfp as shown by the persistence of intense fluorescent spots.
+(b) quantification of the number of cells exhibiting an intact mitochondrial
+network (“thread”), fragmented mitochondria (“grains”) or degraded mitochon-
+dria (“diffuse”). about 300 cells were counted for each condition. contengency
+analysis: resveratrol v/s control p = 0.5, rapamycin + resveratrol v/s rapamycin
+p < 0.01.
+i. kiššová et al. / free radical biology & medicine 41 (2006) 1655–1661
+1659
+are associated to mitochondria dysfunctions, namely during the
+ageing process [33,45, for reviews]) and mitochondria-associ-
+ated pathologies [34, for review]. yeast cells are able to sort
+altered mitochondria between mother and daughter cells on the
+basis of protein oxidation [46]. mitochondrial ros have also
+been proposed to act as signalling molecules able to switch
+mammalian cells between differentiation and proliferation, in
+relation to mitochondrial metabolism [47,48]. however, since
+ros are soluble molecules that diffuse rapidly, they might not
+be able to confer enough selectivity to the mitochondria
+autophagy process.
+indicating that
+mitochondrial lipid oxidation is not only an indicator of
+mitochondrial dysfunction but can also be a hallmark for altered
+mitochondria since, opposite to ros, oxidized lipids are not
+expected to diffuse rapidly throughout the cell, including to
+other mitochondria, especially if the mitochondrial network is
+fragmented, as it occurs early during autophagy ([24] and fig. 5
+in this paper). the combination of mitochondria-fragmentation
+and mitochondrial lipid oxidation might together be an adequate
+signal
+the autophagic machinery should be
+activated. the fact that the inhibition of lipid oxidation by
+resveratrol (and α- tocopherol) limits autophagy adds further
+support to a crucial role of membrane lipid oxidation as a trigger
+for the degradation of altered mitochondria. the poor prevent-
+ing effect of n-acetylcysteine (and tiron) suggested that the role
+of soluble ros in the signalling remained marginal. interest-
+ingly, this correlates with previous observations showing that
+the heterologous expression of mammalian pro-apoptotic
+protein bax in yeast induced a cell death that coul be delayed
+by both resveratrol and α-tocopherol but not by n-acetylcys-
+teine and tiron [43].
+recent data obtained on mammalian cells already supported
+that oxidation events are a major positive regulator of
+autophagy. catalase-inactivation induced an autophagic cell
+death, protected by inhibitors of ros-production [39]. the
+involvement of mitochondrial cardiolipin peroxidation in
+autophagy-associated death has also been proposed for some
+forms of neuronal programmed cell death [38]. it should be
+noted, however, that, under acute oxidative conditions, the
+intracellular degradation machinery might be turned from a
+protective to a death-committing process [49]. the ability of
+mitochondria to modulate this response might be crucial for the
+fate of the cell.
+acknowledgments
+this work was supported by grants from the centre national
+de la recherche scientifique and the conseil régional
+d'aquitaine to umr5095 and by science and technology
+assistance agency under the contract apvt-20-012404. ik
+was recipient of two successive post- doctoral fellowships from
+the association pour la recherche contre le cancer and the
+fondation pour la recherche médicale. md was recipient of a
+phd fellowship from the ligue nationale contre le cancer. vs
+was recipient of a short-term fellowship from the federation of
+european biochemical societies. france-slovakia collaboration
+was supported by egide (eco-net 10187vf to sm).
+fig. 6. resveratrol delayed cell death induced by rapamycin. cells were
+grown in a lactate supplemented medium containing or not 5 mm n-
+acetylcysteine or 100 μm resveratrol. at time 0, 0.2 μg/ml rapamycin was
+added. at the indicated time, aliquots of 500 cells were plated on a solid
+ypd medium, where only living cells could form colonies. the number of
+colonies was scored after three days. statistical analysis of the effects of
+antioxidants: ⁎p = 0.17, ⁎⁎p < 0.05.
+alkaline phosphatase. a n-terminally truncated mutant of this
+protein (pho8δ60p) cannot be targeted to the vacuole and
+further activated, unless autophagy is triggered [40]. resvera-
+trol-treatment
+inhibited rapamycin-induced activation of
+pho8δ60p (fig. 4) showing that lipid oxidation was a major
+event in the activation of non-selective autophagy. on the other
+hand, n-acetylcysteine had no effect.
+mitochondria autophagy was followed in vivo by fluores-
+cence microscopy of mitochondria- targeted gfp (mtgfp).
+rapamycin-treatment of lactate-grown cells induced a rapid
+degradation of mitochondria since mtgfp has a diffuse
+distribution in about two-thirds of the cells (third row in fig.
+5a and fig. 5b). the remaining cells contained fragmented
+mitochondria (“grain” structures) and no cells contain unaltered
+mitochondria (“thread” structure). the presence of resveratrol
+did not prevent the fragmentation of the mitochondrial network,
+but prevented the degradation of mitochondrial “grains”, which
+remained fluorescent (fourth row in fig. 5a). from these data,
+the inhibition of lipid oxidation did not prevent the initial
+alteration of the mitochondrial network but did prevent the
+further degradation of mitochondria. like resveratrol, α-
+tocopherol had the same protective effect over the degradation
+of mtgfp (data not shown).
+although autophagy is normally a survival process,
+its
+overactivation by rapamycin leads to a loss of viability [24].
+the inhibition of autophagic events by resveratrol actually
+slowed down rapamycin-induced loss of viability, while n-
+acetylcysteine had no effect (fig. 6).
+discussion
+the existence of an autophagic process targeting mitochon-
+dria implies that a mitochondrial signal should be able, not only
+to trigger this process, but also to “tag” altered mitochondria to
+prevent the useless and energy-costing degradation/biosynthesis
+cycle of healthy mitochondria. the production of ros and the
+oxidation of biological molecules, namely lipids and proteins,
+1660
+i. kiššová et al. / free radical biology & medicine 41 (2006) 1655–1661
+appendix a. supplementary data
+supplementary data associated with this article can be found,
+in the online version, at doi:10.1016/j.freeradbiomed.2006.
+08.012.
+references
+[1] kametaka, s.; matsuura, a.; wada, y.; ohsumi, y. structural and
+functional analyses of apg5, a gene involved in autophagy in yeast. gene
+178:139–143; 1996.
+[2] klionsky, d. j.; ohsumi, y. vacuolar import of proteins and organelles
+from the cytoplasm. ann. rev. cell. dev. biol. 15:1–32; 1999.
+[3] thompson, a. r.; vierstra, r. d. autophagic recycling: lessons from
+yeast help define the process in plants. curr. opin. plant biol. 8:165–173;
+2005.
+[4] codogno, p.; meijer, a. j. autophagy and signaling: their role in cell
+survival and cell death. cell death differ. 12 (suppl. 2):1509–1518;
+2005.
+[5] kuma, a.; hatano, m.; matsui, m.; yamamoto, a.; nakaya, h.;
+yoshimori, t.; et al. the role of autophagy during the early neonatal
+starvation period. nature 432:1032–1036; 2004.
+[6] komatsu, m.; waguri, s.; ueno, t.; iwata, j.; murata, s.; tanida, i.; et al.
+impairment of starvation-induced and constitutive autophagy in atg7-
+deficient mice. j. cell biol. 169:425–434; 2005.
+[7] klionsky, d. j.; cregg, j. m.; dunn, w. a., jr.; emr, s. d.; sakai, y.;
+sandoval, i. v.; et al. a unified nomenclature for yeast autophagy-related
+genes. dev. cell 5:539–545; 2003.
+[8] sakai, y.; koller, a.; rangell, l. k.; keller, g. a.; subramani, s.
+peroxisome degradation by microautophagy in pichia pastoris: identifica-
+tion of specific steps and morphological
+intermediates. j. cell biol.
+141:625–636; 1998.
+[9] leao, a. n.; kiel, j. a. peroxisome homeostasis in hansenula
+polymorpha. fems yeast res. 4:131–139; 2003.
+[10] kim, j.; klionsky, d. j. autophagy, cytoplasm-to-vacuole targeting
+pathway, and pexophagy in yeast and mammalian cells. annu. rev.
+biochem. 69:303–342; 2000.
+[11] farré,
+j. c.; subramani, s. peroxisome turnover by micropexo-
+phagy: an autophagy-related process. trends cell biol. 14:515–523;
+2004.
+[12] roberts, p.; moshitch-moshkovitz, s.; kvam, e.; o'toole, e.; winey, m.;
+goldfarb, d. s. piecemeal microautophagy of nucleus in saccharomyces
+cerevisiae. mol. biol. cell 14:129–141; 2003.
+[13] monastyrska, i.; sjollema, k.; van der klei, i. j.; kiel, j. a.; veenhuis, m.
+microautophagy and macropexophagy may occur simultaneously in
+hansenula polymorpha. febs lett. 568:135–138; 2004.
+[14] pattingre, s.; tassa, a.; qu, x.; garuti, r.; liang, x. h.; mizushima,
+n.; packer, m.; schneider, m. d.; levine, b. bcl-2 antiapoptotic
+proteins inhibit beclin 1- dependent autophagy. cell 122:927–939;
+2005.
+[15] shimizu, s.; kanaseki, t.; mizushima, n.; mizuta, t.; arakawa-
+kobayashi, s.; thompson, c. b.; tsujimoti, y. role of bcl-2 family
+proteins in a non-apoptotic programmed cell death dependent on
+autophagy genes. nat. cell biol. 6:1221–1228; 2004.
+[16] liu, y.; schiff, m.; czymmek, k.; talloczy, z.; levine, b.; dinesh-kumar,
+s. p. autophagy regulates programmed cell death during the plant innate
+immune response. cell 121:567–577; 2005.
+[17] xue, l.; fletcher, g. c.; tolkovsky, a. m. mitochondria are selectively
+eliminated from eukaryotic cells after blockade of caspases during
+apoptosis. curr. biol. 11:361–365; 2001.
+[18] brunk, u. t.; terman, a. the mitochondrial-lysosomal axis theory of
+aging: accumulation of damaged mitochondria as a result of imperfect
+autophagocytosis. eur. j. biochem. 269:1996–2002; 2002.
+[19] tolkovsky, a. m.; xue, l.; fletcher, g. c.; borutaite, v. mitochondrial
+disappearance from cells: a clue to the role of autophagy in programmed
+cell death and disease? biochimie 84:233–240; 2002.
+[20] rodriguez-enriquez, s.; he, l.; lemasters, j. j. role of mitochondrial
+permeability transition pores in mitochondrial autophagy. int. j. biochem.
+cell biol. 36:2463–2472; 2004.
+[21] droge, w. autophagy and aging—importance of amino acid levels. mech.
+ageing dev. 125:161–168; 2004.
+[22] lemasters, j. j. selective mitochondrial autophagy, or mitophagy, as a
+targeted defense against oxidative stress, mitochondrial dysfunction, and
+aging. rejuvenation res. 8:3–5; 2005.
+[23] hamasaki, m.; noda, t.; baba, m.; ohsumi, y. starvation triggers the
+delivery of the endoplasmic reticulum to the vacuole via autophagy in
+yeast. traffic 6:56–65; 2005.
+[24] kissova, i.; deffieu, m.; manon, s.; camougrand, n. uth1p is involved in the
+autophagic degradation of mitochondria. j. biol. chem. 279:39068–39074;
+2004.
+[25] camougrand, n.; mouassite, m.; velours, g.; guérin, m. the “sun"
+family: uth1, an ageing gene, is also involved in the regulation of
+mitochondria biogenesis in saccharomyces cerevisiae. arch. biochem.
+biophys. 375:154–160; 2000.
+[26] camougrand, n.; grelaud-coq, a.; marza, e.; priault, m.; bessoule, j. j.;
+manon, s. the product of the uth1 gene, required for bax-induced cell
+death in yeast, is involved in the response to rapamycin. mol. microbiol.
+47:495–506; 2003.
+[27] camougrand, n.; kissova, i.; velours, g.; manon, s. uth1p: a yeast
+mitochondrial protein at the crossroads of stress, degradation and cell
+death. fems yeast res. 5:133–140; 2004.
+[28] priault, m.; salin, b.; schaeffer, j.; vallette, f. m.; di rago, j. p.;
+martinou, j. c. impairing the bioenergetic status and the biogenesis of
+mitochondria triggers mitophagy in yeast. cell death differ. 12:1613–1621;
+2005.
+[29] lenaz, g.; bovina, c.; d'aurelio, m.; fato, r.; formiggini, g.; genova,
+m. l.; et al. role of mitochondria in oxidative stress and aging. ann. n.y.
+acad. sci. 959:199–213; 2002.
+[30] turrens, j. f. mitochondrial
+reactive oxygen species.
+formation of
+j. physiol. 552:335–344; 2003.
+[31] minotti, g.; aust, s. d. redox cycling of iron and lipid peroxidation.
+lipids 27:219–226; 1992.
+[32] rosenfeld, e.; beauvoit, b. role of the non respiratory pathways in the
+utilization of molecular oxygen by saccharomyces cerevisiae. yeast
+20:1115–1144; 2003.
+[33] skulachev, v. p.; longo, v. d. aging as a mitochondria mediated atavistic
+program: can aging be switched off? ann. n.y. acad. sci. 1057:145–164;
+2005.
+[34] wallace, d. c. a mitochondrial paradigm of metabolic and degenerative
+diseases, aging, and cancer: a dawn for evolutionary medicine. annu. rev.
+genet. 39:359–407; 2005.
+[35] ueda, s.; masutani, h.; nakamura, h.; tanaka, t.; ueno, m.; yodoi, j.
+redox control of cell death. antioxid. redox signal. 4:405–414; 2002.
+[36] fleury, c.; mignotte, b.; vayssière, j. l. mitochondrial reactive oxygen
+species in cell death signaling. biochimie 84:131–141; 2002.
+[37] madeo, f.; frohlich, r.; ligr, m.; grey, m.; sigrist, s. j.; wolf, d. h.;
+frohlich, k. u. oxygen stress: a regulator of apoptosis in yeast. j. cell
+biol. 145:747–757; 1999.
+[38] kirkland, r. a.; adibhatla, r. m.; hatcher, j. f.; franklin, j. l. loss of
+cardiolipin and mitochondria during programmed neuronal death:
+evidence of a role for lipid peroxidation and autophagy. neuroscience
+115:587–602; 2002.
+[39] yu, l.; wan, f.; dutta, s.; welsh, s.; liu, z.; freundt, e.; baehrecke, e. h.;
+lenardo, m. autophagic programmed cell death by selective catalase
+degradation. proc. natl. acad. sci. u.s.a. 103:4952–4957; 2006.
+[40] noda, t.; matsuura, a.; wada, y.; ohsumi, y. novel system for
+monitoring autophagy in the yeast saccharomyces cerevisiae. biochem.
+biophys. res. commun. 210:126–132; 1995.
+[41] okamoto, k.; perlman, p. s.; butow, r. a. the sorting of mitochondrial
+dna and mitochondrial proteins in zygotes: preferential transmission of
+mitochondrial dna to the medial bud. j. cell biol. 142:613–623;
+1998.
+[42] law, r. h.; manon, s.; devenish, r. j.; nagley, p. atp synthase from
+saccharomyces cerevisiae. methods enzymol. 260:133–163; 1995.
+i. kiššová et al. / free radical biology & medicine 41 (2006) 1655–1661
+1661
+[43] priault, m.; bessoule, j. j.; grelaud-coq, a.; camougrand, n.; manon, s.
+bax induced cell death in yeast depends on mitochondrial lipid oxidation.
+eur. j. biochem. 269:5440–5450; 2002.
+[44] riely, c. a.; cohen, g.; lieberman, m. ethane evolution: a new index of
+lipid peroxidation. science 183:208–210; 1974.
+[45] balaban, r. s.; nemoto, s.; finkel, t. mitochondria, oxidants, and aging.
+cell 120:483–495; 2005.
+[46] aguilaniu, h.; gustafsson, l.; rigoulet, m.; nystrom, t. asymmetric
+inheritance of oxidatively damaged proteins during cytokinesis. science
+299:1751–1753; 2003.
+[47] carrière, a.; fernandez, y.; rigoulet, m.; pénicaud, l.; casteilla, l.
+inhibition of preadipocyte proliferation by mitochondrial reactive oxygen
+species. febs lett. 550:163–167; 2003.
+[48] carrière, a.; carmona, m. c.; fernandez, y.; rigoulet, m.; wenger, r. h.;
+pénicaud, l.; casteilla, l. mitochondrial reactive oxygen species control the
+transcription factor chop 10/gadd153 and adipocyte differentiation: a
+mechanism for hypoxia dependent effect. j. biol. chem. 279:40462–40469;
+2004.
+[49] kiffin, r.; bandyopadhyay, u.; cuervo, a. m. oxidative stress and
+autophagy. antioxid. redox signal. 8:152–162; 2006.

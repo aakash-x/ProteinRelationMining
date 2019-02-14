@@ -1,0 +1,1164 @@
+article in press
+journal of theoretical biology 246 (2007) 746–754
+www.elsevier.com/locate/yjtbi
+endosymbiosis as a compact ecosystem with material cycling:
+parasitism or mutualism?
+shin fukuia,, takema fukatsua,b, takashi ikegamia, masakazu shimadaa
+adepartment of general systems studies, graduate school of arts and sciences, university of tokyo, 3-8-1 komaba, meguro-ku, tokyo 153-8902, japan
+binstitute for biological resources and functions, national institute of advanced industrial science and technology (aist),
+tsukuba, ibaraki 305-8566, japan
+received 6 september 2006; received in revised form 1 february 2007; accepted 5 february 2007
+available online 16 february 2007
+abstract
+to discover the evolutionary logic of intracellular endosymbiosis, we investigated a theoretical model (simultaneous ordinary
+differential equations) of a material-cycling system inside a host cell. in the model, we introduced a recently developed cell biology
+concept called ‘‘autophagy’’, which is a decomposing–recycle process of self-compiled materials found universally among eukaryote cells.
+our model is based on traditional simultaneous ode for natural ecosystems that involve producing, grazing, and decomposing processes
+in material cycling. in the basic intracellular metabolic system, several enzymes regulate metabolism by synthesizing and converting
+metabolites into biomolecules that are precursors for enzymes involved in the producing process. symbionts are involved in grazing
+processes and autophagosomes that degrade materials are involved in decomposing recycles. we compared and analyzed the local
+stability of ode systems in three cases: (1) the independent, free-living cell (the basal state of a cell), (2) the case where symbionts invade
+and exploit macrobiomaterials as parasites inside a host cell, and (3) the combination where symbionts assist the host’s metabolism. we
+conclude that: (i) as consumers, symbionts are required to have a growth rate that is higher than the rate of autophagosome
+decomposition, (ii) the host cell with a biomass larger than the threshold size would realize the mutualistic relationship with its symbiont,
+and (iii) this partnership accelerates the biomaterial turnover ﬂow on the basis of biomaterials.
+r 2007 elsevier ltd. all rights reserved.
+keywords: turnover ﬂow; autophagy; decomposing process; metabolic system; evolution
+1. introduction
+inside its host cell or digestive organs,
+endosymbiosis, a biotic interaction wherein a symbiont
+inhabits
+is
+universally recognized in nature (buchner, 1965). in the
+evolution of endosymbiosis, a new mutualistic system
+emerges from phylogenetically distinct organisms, often
+generating wide adaptive radiation. endosymbiosis is
+considered one of
+the major transitions in evolution
+(margulis, 1981; maynard-smith and szathma´ ry, 1995).
+the emergence of integrated organisms has been investi-
+gated as the ‘‘hypercycle’’ of prebiotic evolution, in which
+each of the subunits can provide some adaptive beneﬁt to
+its partner (eigen and schuster, 1979). however, because
+corresponding author. tel.: +81 3 5454 6794; fax: +81 3 5454 6998.
+e-mail address: shinsunm@dolphin.c.u-tokyo.ac.jp (s. fukui).
+0022-5193/$ - see front matter r 2007 elsevier ltd. all rights reserved.
+doi:10.1016/j.jtbi.2007.02.002
+genetically unrelated organisms rarely start a mutualistic
+relationship but usually end up in parasitism (an exploi-
+ter–exploitee relationship) (axelrod, 1984; nowak and
+sigmund, 1992, 1993), the evolution of cooperation should
+be viewed as having greater cooperative trait value than a
+threshold that provides something advantageous to its
+partner (frank, 1995).
+from an evolutionarily ecological point of view,
+mutualism is expected to originate from parasitism at the
+beginning. two important factors have been targeted here:
+decrease in virulence and vertical transmission. as long as
+the host and the parasite coexist in a long-term relation-
+ship, parasites should evolve to decrease the level of
+exploitation and virulence on their host because too
+much exploitation and virulence would lead to extinction
+of the host and, consequently, the parasite itself. for
+example, myxoma virus induced artiﬁcially into the rabbit
+article in press
+s. fukui et al. / journal of theoretical biology 246 (2007) 746–754
+747
+population in australia was highly lethal at ﬁrst, but the
+virus evolved rapidly to lessen its virulence within a couple
+of decades, and the host and its parasites ﬁnally established
+coexistence without
+extinction (fenner, 1965, 1983;
+maynard-smith, 1989). levin and pimentel (1981) and
+may and anderson (1983) analyzed the rabbit—myxoma
+coexistence theoretically.
+ewald (1987) compared transmission modes of parasites
+between horizontal and vertical and concluded that the
+ﬁtness of parasites with vertical transmission should be
+reﬂected directly by the host’s ﬁtness and that such
+parasites are likely to exhibit low virulence. herre (1993)
+showed that nematode parasites exhibit low virulence in a
+ﬁg wasp species which has nearly vertical transmission.
+based on the early ess model for the evolutionary shift
+from parasitism to mutualism (roughgarden, 1975),
+matsuda and shimada (1993) and yamamura (1993,
+1996) showed that parasites could shift their transmission
+mode from horizontal to vertical. these models suggest
+that a mutualistic relationship can be selected for if the
+symbionts and their host can make use of metabolic wastes
+exerted by their partner (nonzero-sum game).
+however, these ess models were constructed to max-
+imize particular strategic parameters reﬂecting the ﬁtness
+(survivorship or reproduction), and none of the models
+considered metabolism as a whole within a cell. we took a
+novel approach by formulating a mathematical model that
+introduces the recently developed cell biology concept of
+‘‘autophagy’’ (levine and klionsky, 2004; lum et al., 2005;
+mizushima, 2005). almost all eukaryotic cells use the
+decomposing process of autophagy in intracellular meta-
+bolism, by which a cell recycles and renews the materials of
+its own organelles. the outline of this process is as follows.
+first, an autophagosome, a vesicle surrounded by a lipid
+membrane, is formed in the cytoplasm to enclose organelles
+or other structures or molecules. next, the autophagosome
+fuses with the lysosome. finally, the components in the
+cytoplasm are decomposed together with the autophago-
+some inside the lysosome (yorimitsu and klionsky, 2005).
+empirical research also shows that the autophagic machin-
+ery can act as an innate defense system against invading
+pathogens (nakagawa et al., 2004; deretic, 2005; schmid
+et al., 2005; seay et al., 2006). ogawa et al. (2005) found that
+an invader that can escape from autophagy can succeed as
+a parasite. it appears plausible that symbionts were, at the
+beginning of endosymbiosis, microbial invaders of their
+host cell and were able to be degraded by autophagy.
+we incorporated the process of autophagic decomposing
+into the model of endosymbiosis by referring to and
+drawing on the idea of ecosystem ecology. in nature, the
+material cycle in the ecosystem is described on terms of the
+roles of the producer, the consumer, and the decomposer
+(margalef, 1963; odum, 1971, 1983; ulanowicz, 1983). in
+natural ecosystems, plants that assimilate carbon and
+inorganic minerals using photoenergy act as the producer,
+animals grazing on plants act as the consumer, and fungi or
+bacteria reducing dead organic matter to nutrient minerals
+act as the decomposer. lotka (1922) suggested that natural
+selection should tend to make the energy ﬂow through the
+ecosystem a maximum; loreau (1995) analyzed the impact
+of adding the consumer and concluded that consumption
+itself reinforces the turnover rate of material cycling when
+its consumption is moderate.
+similarly,
+the cell’s metabolic system, consisting of
+biomaterial substances and enzymes, plays a self-production
+role in an autocatalytic way. symbionts exploiting metabo-
+lites from a host cell are recognized as the consumer. various
+cellular components, including the host cell’s enzymes and
+symbionts, are decomposed by the autophagic process, which
+operates as the decomposer structurally or as the predator–
+recycler functionally (andersen, 1997).
+in this paper, we analyze the simultaneous ordinary
+differential equations (ode) based on material cycling in
+the ‘‘cytological ecosystem’’, and we attempt to answer the
+following questions. first, what is the theoretical condition
+under which symbionts can exist in the host cell? second,
+what determines the bifurcation between parasitism and
+mutualism? finally, are there any common characteristics
+between endosymbiosis and ecosystem development?
+2. model and analysis
+2.1. a free-living cell with no invader [case 1]
+because a cell consists of a huge number of organic
+components and metabolic processes,
+it is difﬁcult to
+describe all the elements and reactions in the metabolic
+pathways. we focus on low molecular weight organic
+substances in a cell, such as amino acids and sugars, to
+construct a simple scheme of metabolism, as illustrated in
+fig. 1. this cell-metabolism model maintains metabolites
+n 1 and biomaterials n 2 by enzymes
+that are
+synthesized from biomaterials n 2 themselves. metabolites
+ðn 1þ correspond to metabolic intermediate substances to be
+transformed into other chemicals such as pyruvic acid or
+glucose-6-phosphate, which are used to produce amino
+acids or nucleotides. the model also includes biomaterials
+ðn 2þ existing as monomers, such as amino acids or
+nucleotides, which are used to synthesize functional
+polymers such as proteins or transfer rnas.
+(e)
+for simplicity, we assume that catalytic reactions by
+enzymes take the ﬁrst-order, linear interaction terms in this
+simultaneous ode system. because we are not interested
+in the quantitative behavior of the components in the
+system, the interactions are adopted as simply as possible,
+although we could set nonlinear forms as michaelis–men-
+ten reactions. as shown in fig. 1, enzymes catalyze to
+produce n 2 from n 1 with efﬁciency a1 and a2 for the
+reverse reaction. enzymes (e) are decomposed by autop-
+hagy at a constant rate d 1. autophagosomes (a) are also
+assumed to be synthesized from biomaterials n 2 and to be
+destroyed by d 2. in reality, the synthesis of both e and a
+should be under genetic control, but we assume simply that
+they are made from n 2 at constant rates b1 and b2,
+748
+s. fukui et al. / journal of theoretical biology 246 (2007) 746–754
+article in press
+to analyze the impact of endosymbiogenesis, we ﬁrst
+consider the situation where the symbiont is absent. when
+this cell is closed (e  h  0 in fig. 1), all components in
+the host cell in model eqs. (1)–(4) reach the following
+steady state (superscripted by an asterisk):
+ ¼ b1
+d 1
+ d 2
+b2
+(6)
+ ¼ b2
+d 2
+ n
+2,
+and
+1 ¼ a2
+a1
+ n
+2,
+where
+2 ¼
+q   e
+1 þ a2=a1 þ b2=d 2
+the intensity j 1 of
+we also assume that the summation of all cellular elements
+is constant, q, as the biomass at equilibrium. therefore, q
+is determined by the following equation:
+n 1 þ n 2 þ e þ a ¼ q.
+(5)
+¼ b1  n 2   d 1  e  a,
+¼ b2  n 2   d 2  a,
+de
+dt
+da
+dt
+outside the host cell
+inside
+enzymes,
+d1 e a
+autophagosome,
+b1 n2
+a1 e n1
+a2 e n2
+b2
+n2
+d2 a
+biomaterials,
+n2
+h n2
+e r
+metabolites,
+n1
+fig. 1. schematic representation of the material cycle of the model
+(eqs. (1)–(4)). the ﬂow of circulated materials is indicated by solid lines. a
+resource, denoted r, is provided with a constant rate e from outside the
+cell
+into this metabolic system. the amounts of metabolites and
+biomaterials are denoted by n 1 and n 2, respectively. the volumes of
+enzymes and autophagosome are represented as e and a, respectively,
+which are made from n 2 at constant rates b1 and b2, respectively.
+metabolites and biomaterials are transformed bilaterally by the catalytic
+reaction by enzymes (dotted lines), where the efﬁciency of the reaction
+from metabolites to biomaterials is a1, and a2 for the reverse. enzymes are
+decomposed by autophagy with a rate d 1, and their elements return to
+biomaterials. autophagosomes themselves also decay with a rate d 2.
+finally, biomaterials are used for growth with h outside the host cell.
+respectively. the cell obtains the resource (r) from the
+surrounding environment outside the cell and converts it to
+metabolites n 1 with e and uses biomaterials n 2 at a rate h
+for growth of the cell itself.
+we have assumed that the timescale is much shorter for
+the metabolic equilibrium state than for cell growth, and it
+gives coefﬁcients e and h, which are much smaller than
+other reaction parameters. we focus on the maintenance of
+the cell metabolic system, which is presumed closed
+ðe  h  0þ.
+although the metabolic regulation is maintained by
+different enzymes in different pathways for each direction,
+we have combined these as one pathway to simplify the cell
+system, as depicted in fig. 1.
+thus, the simultaneous ode model reads:
+dn 1
+dt
+dn 2
+dt
+¼  a1  n 1  e þ a2  n 2  e,
+¼ a1  n 1  e   a2  n 2  e   b1  n 2   b2  n 2
+þ d 1  e  a þ d 2  a,
+¼ b1  n 2   d 1  e  a,
+de
+dt
+and
+¼ b2  n 2   d 2  a.
+da
+dt
+(1)
+ð2þ
+(3)
+(4)
+the material cycling through
+biomaterials n 2 is measured by the inﬂow into or the
+outﬂow from n 2 because these ﬂow intensities are balanced
+at the steady state. the inﬂow intensity is expressed as
+follows:
+j 1 ¼ a1  n
+ þ d 2  a
+ þ d 1  e
+  a
+(10)
+1  e
+systems,
+these results eqs. (6)–(10) are used as the baseline and to
+including the
+compare with the metabolic
+symbiont invasion, hereafter.
+the steady state can be analyzed by the local stability
+condition by seeking the eigenvalue ð8reðlþo0þ of the
+characteristic equation and shows the stability for this
+metabolic system (see appendix a). this means that the
+metabolic system maintains homeostasis in the sense that
+the system returns to its steady state after perturbation
+caused by the variability of abiotic (e.g., temperature, etc.)
+and biotic (e.g., food resource) factors in the host cell.
+2.2. with invaders (symbionts)
+in this section, we address the essential issue that the
+host cell holds symbionts inside it. we call the symbionts
+within the host cell ‘‘invaders’’ regardless of the relation-
+ship they construct. the model is shown in fig. 2 and is
+expressed mathematically as follows:
+dn 1
+dt
+dn 2
+dt
+¼  a1  n 1  e þ a2  n 2  e   f 1ðn 1; pþ,
+¼ a1  n 1  e   a2  n 2  e   b1  n 2   b2  n 2
+þ d 1  e  a þ d 2  a
+  f 2ðn 2; pþ þ d 3  p  a,
+(7)
+(8)
+(9)
+(10)
+ð20þ
+(30)
+(40)
+article in press
+s. fukui et al. / journal of theoretical biology 246 (2007) 746–754
+reach equilibrium at the following compartment sizes:
+ ¼ b1
+d 1
+ d 2
+b2
+ ¼ b2
+d 2
+1 ¼ a2
+a1
+ n
+2,
+ n
+2,
+and
+ ¼ 0,
+where
+2 ¼
+q   e
+1 þ a2=a1 þ b2=d 2
+outside the host cell
+inside
+f1(n1,p)
+invader,
+d3 p a
+enzymes,
+d1 e a
+autophagosome,
+f2(n2,p)
+e r
+metabolites,
+n1
+b1 n2
+a1 e n1
+a2 e n2
+b2 n2
+d2 a
+biomaterials,
+n2
+h n2
+0þ2ð4
+fig. 2. the material cycle in the system including the invader
+(eqs. ð1
+0þ and (11)). the volume of the invader is denoted by p.
+the invader exploits metabolites n 1, in which the functional response is
+represented as
+represented as n 2 with
+f 2ðn 2; pþ. the autophagic process divests the invader at a rate d 3, and
+its elements return to biomaterials in its host cell.
+f 1ðn 1; pþ, or biomaterials,
+and
+(11)
+¼ f 1ðn 1; pþ þ f 2ðn 2; pþ   d 3  p  a.
+dp
+dt
+the invaders (p) exploit metabolites n 1 or biomaterials
+n 2, or both, as the resource from the host cell with an
+interaction function f iðn i; pþ. using similar reasoning as in
+case 1, we did not set nonlinear interactions for the
+functional response, and the ﬁrst-order linear interactions
+are supposed simply as follows:
+f iðn i; pþ ¼ r  n i  p.
+(12)
+invaders exploit several types of molecules from their host
+cell according to their needs. instinctively, the invaders act
+parasitically for the ﬁrst time because they exploit resources
+from their host cell as a necessity for survival instead of
+feeding by themselves. autophagy works to defend against
+invaders by decomposing them at a constant rate d 3, and the
+components from invaders that are decomposed return to its
+host cell as biomaterials n 2.
+in our model, we assume that the invaders exploit either
+metabolites n 1 or biomaterials n 2 from their host cell in two
+extremely simple cases. as in case 1, we also assume that the
+summation of all components including the invaders is
+constant, q, as the cell biomass at equilibrium as follows:
+n 1 þ n 2 þ e þ a þ p ¼ q.
+(13)
+2.2.1. invaders without metabolic assistance (exploiting
+only n 2) [case 2]
+first, let us consider case 2 where invaders exploit only
+biomaterials n 2. in a mathematical sense, the interaction
+function f 2ðn 2; pþ is effective, but f 1ðn 1; pþ is omitted
+here. the elements in the model eqs. ð1
+0þ and (11)
+0þ2ð4
+749
+(14)
+(15)
+(16)
+(17)
+(18)
+because all components are the same as in case 1, the
+invader cannot have a positive p, but this value is 0 and is
+excluded from this system. with respect to these solutions
+eqs.
+the stability given in appendix b is
+implemented by the following inequation:
+(14)–(18),
+d 3
+o b2
+d 2
+(19)
+the left side of inequation (19), the invader growth rate
+(r) divided by its mortality rate (d 3), indicates the relative
+increase in the rate of the invader. the right side gives the
+relative synthesis rate of autophagosomes in the same
+sense. hence, the boundary stability (p ¼ 0) is attained
+when the growth rate of the invader is lower than the
+synthesis
+rate of autophagosomes. we checked the
+dynamics numerically to determine when the invader can
+thrive faster than the host defense against it. as shown in
+fig. 3(a), the host cell will no longer survive because it
+lacks n 2 absorbed by the invader. we have conﬁrmed the
+existence of this dead stationary state, that is, the set of
+solutions
+illu-
+strated in fig. 3(a). we also checked the local stability of
+this state. thus, the host cell could not keep the invaders
+stably in this metabolic system, and the relationship
+between the host and the invaders is regarded as parasitic
+or pathogenic.
+ðn 1; n 2; e; a; pþ ¼ ð0; 0; q   p; 0; pþ as
+2.2.2. invaders with metabolic assistance (exploiting only
+n 1) [case 3]
+2.2.2.1. the coexistence condition and the local stability.
+when we assume that the interaction between the host cell
+and its invaders becomes effective only in f 1ðn 1; pþ but
+that f 2ðn 2; pþ is invalid, this system will show two different
+steady states: one is the same as the previous case
+(parasitism) and the other is quite different (emergence of
+mutualism).
+system at
+equilibrium,
+sizes are expressed as
+follows:
+ ¼ b1
+d 1
+in the original case of
+the compartment
+ d 2
+b2
+(20)
+this
+750
+10
+n2
+n1
+10
+12
+14
+16
+n2
+n1
+10
+12
+14
+16
+fig. 3. an example of the metabolic dynamics within the host cell. all
+components are in the steady state; there is no invader at the beginning,
+but the invader is induced at t ¼ 4:0. (a) the invader exploits biomaterials
+n 2 and grows faster than the autophagosome is synthesized. the
+population size p increases until the resource n 2 is depleted. (b) this is
+the case when the invader exploits n 1 as the resource and can coexist
+within the host cell. the invader unspreads and the population dynamics
+steady state quickly. parameter values: a1 ¼ 1:5,
+maintains
+a2 ¼ b1 ¼ b2 ¼ d 1 ¼ d 2 ¼ d 3 ¼ 1:0, r ¼ 4:0, the total biomass q ¼ 10:0.
+the initial population size of the invader pini ¼ 0:001.
+the
+ ¼ b2
+d 2
+1 ¼ d 3
+and
+ ¼ b1
+d 1
+ n
+2,
+ n
+ b2
+d 2
+2,
+ d 2
+b2
+ a2
+d 3
+ d 2
+b2
+  a1
+a2
+where
+2 ¼
+q   e   p
+1 þ d 3=r  b2=d 2 þ b2=d 2
+(21)
+(22)
+(23)
+(24)
+considering eq.
+(23),
+the
+following
+is
+required to have
+a positive
+solution for
+inequation
+the
+article in press
+s. fukui et al. / journal of theoretical biology 246 (2007) 746–754
+invaders p:
+ b2
+d 2
+d 3
+a1
+a2
+(25)
+in the same way as the inequation (19), the invaders at
+equilibrium (p) can persist in the system if, and only if,
+their relative growth rate (r=d 3) is greater than the product
+of the relative synthesis rate of autophagosomes and the
+ða1=a2  b2=d 2þ.
+productivity of n 2 by the host
+meeting the inequation (25) is necessarily and sufﬁciently
+required for the stability of this steady state (details are
+given in appendix c). numerical simulation proves that
+this system is stable both locally and globally; this is
+illustrated in fig. 3(b).
+itself
+we can express the condition of the boundary stability in
+case 3 where the invaders will not be able to coexist but are
+eliminated when they exploit n 1:
+d 3
+o a1
+a2
+ b2
+d 2
+(26)
+inequation (25),
+as the reverse of
+inequation (26)
+generates p ¼ 0. we analyzed the necessary condition
+for the boundary stability at p ¼ 0 similarly to the
+analysis for case 2. meeting the inequation (25) results in
+p40, indicating the necessary condition for coexistence
+between the host and symbiont.
+2.2.2.2. threshold discriminating between parasitism and
+mutualism. considering the decomposition of invaders,
+the intensity j 2 of the material cycling is expressed as
+follows:
+j 2 ¼ a1  n
+ þ d 2  a
+ þ d 1  e
+ þ d 3  p
+  a
+  a
+1  e
+(27)
+then, the difference in the cycling intensity between the
+two cases whether the invaders could exist or not ðdj ¼
+j 2   j 1þ is calculated as follows:
+dj ¼ j 2   j 1 ¼
+ða2=a1   d 3=r  b2=d 2þ
+ð1 þ b2=d 2 þ d 3=r  b2=d 2þð1 þ a2=a1 þ b2=d 2þ
+ð28þ
+ðq   q
+0þ,
+where
+0 ¼ ðða1 þ a2þ d 2
+b2
+þ ða1 þ d 3þþ e
+d 3
+(29)
+the ﬂow intensity j increases or decreases depending on
+the threshold value q
+because the numerator of the ﬁrst
+term in eq. (28) is positive when the condition of the
+inequation (25) is satisﬁed.
+case 3 has two different parametric values concerning q
+under the same threshold q
+. the curve of j as a function
+of r is illustrated in fig. 4. as expected from the
+calculations given above in eqs. (28) and (29), for q4q
+(fig. 4(a)), j increases monotonically with increasing r,
+12
+1.6
+1.2
+0.8
+0.4
+article in press
+s. fukui et al. / journal of theoretical biology 246 (2007) 746–754
+751
+n2
+n1
+p*
+40.
+ b1
+d 1
+ d 2
+b2
+¼ a1
+r2
+and
+qp
+(33)
+qr
+thus, the equilibrium sizes of n
+1 and p do not depend on
+: p always increasing with higher r and n
+the threshold q
+decreasing, provided that the inequation (25) is satisﬁed.
+that is, the more p increases, the more n 1 is exploited.
+indicates the
+the reverse, to meet the inequation (26),
+extinction of p where 0oro1 in fig. 4. despite the
+increasing trend of p with respect to r, the maximum
+equilibrium size should be limited by n 1. thus,
+the
+population size of the invaders is not determined by its
+own growth rate but depends on the host parameter sets.
+p*
+n2
+n1
+3. discussion
+3.1. the condition for coexistence
+we demonstrated mathematically the conditions deter-
+mining whether invaders can coexist within their host cell.
+invaders that do not assist their host through exploiting n 1
+metabolically cannot establish a stable coexistence in
+equilibrium. such invaders will either be excluded by their
+host’s autophagy or burst out of the host cell as parasites
+or pathogens. in the former, the host cell can digest the
+invaders if the synthesis rate of autophagosomes is greater
+than the invader’s growth rate. otherwise, invaders persist
+inside the host cell if their metabolic performance is better
+than the host’s or if their growth rate is high enough to
+escape from autophagy.
+fig. 4. material cycling ﬂow (j) and the compartment sizes in equilibrium
+as a function of the growth rate of the symbiont, r, when the symbiont
+assists its host with effective metabolic advantage. (a) the total biomass is
+larger than the threshold, and the host–symbiont relation should be
+mutualistic. (b) the total biomass is smaller, and the relation can still be
+parasitic. parameter values: a1 ¼ a2 ¼ b1 ¼ b2 ¼ d 1 ¼ d 2 ¼ d 3 ¼ 1:0, the
+0 ¼ 4:0 in both cases; total biomass q ¼ 10:0 in (a), and
+threshold value q
+q ¼ 2:5 in (b).
+whereas for qoq
+(fig. 4(b)), j decreases. because the
+value q can correspond to the total amount of host cell
+components (is equal to the total host cell size), we
+conclude that evolution to either parasitism or mutualism
+depends on the host cell size. metabolites n 2 follow the
+same two distinct patterns as j with increasing r.
+these tendencies are proved by their partial derivatives
+¼ b1 þ b2 þ d 3 ðb2=d 2þp
+ð1 þ a2=a1 þ b2=d 2þ2  r2
+in respect to r as follows:
+qj 2
+qr
+qn
+qr
+qn
+qr
+ð1 þ a2=a1 þ b2=d 2þ2  r2
+¼   ðq   e   pþ
+d 3  b2=d 2
+  p
+ ðq   q
+0þ,
+ ðq   q
+0þ,
+(30)
+(31)
+ð1 þ b2=d 2 þ d 3=r  b2=d 2þo0,
+(32)
+for example, at
+the evolutionary beginning of
+the
+eukaryotic cell a couple of billion years ago, ancestors of
+the mitochondrion were likely to have had a higher atp
+productivity than the ancestral pre-eukaryotic host cells
+(andersson et al., 2003; john and whatley, 1975). in the
+case of the insect, the beneﬁt to the host insect through its
+symbiotic bacteria originates from the bacterial product
+(ishikawa, 1985; bourtzis and miller, 2006), which the host
+cannot synthesize by itself. this situation corresponds to
+the low performance of catalytic activity for n 1 to n 2
+reaction by enzymes or the lack of enzymes in the host cell
+in our model, where it is easier to establish a symbiotic
+relationship between the host and its invader because the
+threshold, q
+, is quite low. in other words, this resembles a
+process of complete niche differentiation between the
+enzymes and the invader.
+our assumption that the invader exploits either n 1 or n 2
+from the host is extremely simple and may be far from the
+reality of nature. however, the metabolic assistance from
+the invader to its host cell should be indispensable for
+generating the mutualistic symbiosis relationship regardless
+of how the invader exploits particular substances from its
+host. from the ecological perspective,
+the coexistence
+cannot be maintained and the competitive exclusion should
+occur without differentiating the invader from the autop-
+hagosome and its niche.
+752
+s. fukui et al. / journal of theoretical biology 246 (2007) 746–754
+article in press
+3.2. evolution to parasitism or mutualism?
+once the invader enters the host cell and a new
+combination of metabolic cycles starts, one may ask
+whether the new metabolic system is advantageous. as
+illustrated in fig. 4, the invader numbers (p) increase by
+increasing the growth rate (r) monotonically, and the
+metabolite n 1 decreases because of exploitation of n 1 by
+the invaders as the resource, and vice versa. the transition
+into biomaterials (n 2) depends on the host biomass q,
+which corresponds to the host cell size. when the host cell
+has a large biomass ðq4q
+0þ, n 2 increases with increasing
+r. in the case with a large cell biomass, the host cell can
+suppress its symbionts adequately and return to n 2
+efﬁciently, and this results in abundant production of n 2.
+thus, endosymbiosis promotes mutualistic evolution to
+produce a combination that beneﬁts the organism.
+viewed from a different angle, the resilience of this
+metabolism should strengthen in sync with the enhance-
+ment of the material ﬂow along with an increase in r. it is
+plausible that the host cells cannot feed their resource
+constantly under a changing environment. in such a
+situation,
+the metabolic system which is disordered
+seriously depending upon the surrounding is not survive,
+hence the cell must adjust its own state quickly. therefore,
+it is conceivable that the enhancement of the material ﬂow
+inside the cell, which increases the resilience, is advanta-
+geous for the cell. in the natural ecosystem, resilience is an
+important concept because of its stability against environ-
+mental perturbation (pimm, 1991); the relation between the
+resilience and the ﬂow through the system has been
+discussed previously (deangelis, 1992).
+is
+smaller
+than the threshold q
+on the other hand, n 2 decreases gradually if the host cell
+ðqoq
+0þ.
+biomass
+autophagosomes may not be synthesized sufﬁciently in a
+small cell, and the symbionts are not depressed severely by
+the host’s autophagosomes. therefore, the decrease in n 2
+delays the cell’s growth, and this delay turns to disadvan-
+tage for the host cell’s ﬁtness. in other words,
+the
+symbionts will be ‘‘parasites’’ here.
+the present study differs completely from previous
+symbiosis models that have studied the dynamics of
+coevolution between an infectious disease agent and its
+host,
+leading to the balance or the arms race between
+parasite attacks and host defenses (frank, 1993; van
+baalen, 1998; sasaki and godfray, 1999). in contrast,
+our model is based on autophagy, the universal process of
+eukaryotes in which any host can use its immune system to
+defend against pathogens or parasites. our conclusions can
+also be applied to an organism that does not have a highly
+developed immune system such as a single-cell organism as
+the host.
+our model
+leads to a new scenario in which the
+mutualistic relationship originates from the efﬁcient meta-
+bolic assistance by the symbiont but does not originate
+from any decrease in exploitation, as suggested by rough-
+garden (1975) and yamamura (1993). the parasites that
+exploit only their host without giving any assistance to it
+never participate in mutualistic symbiosis in our model. in
+addition, for the emergence of mutualism, our model
+requires the host to have a large cell size initially, which is
+coincident with frank’s (1995) claim that a pair of
+organisms can start mutualistic evolution if they have a
+value of cooperative trait greater than the threshold at the
+beginning.
+3.3. the common properties between a metabolic system and
+the ecosystem
+at the ecosystem level in nature, consumers contribute
+to the system when they have a growth rate greater than
+some threshold, and more importantly, the material cycling
+ﬂow is accelerated by adding the consumers (loreau,
+1995). otsuka (2004) showed a similar pattern when the
+ecosystem is complicated by adding carnivores to increase
+the number of trophic levels. this tendency is recognized
+widely in theoretical ecosystem models (odum, 1969;
+loreau, 1998). the reason why material cycling accelerates
+is that decomposers such as bacteria can decompose dead
+animal bodies faster than they can decompose dead leaves.
+also, loreau (1995) claimed that the total quantity of
+nutrients in the ecosystem must be higher than some
+threshold value when the consumer enhances the circular
+ﬂow.
+even though the cytological metabolic system in which
+autophagosomes decompose elements in a cell
+is con-
+structed in a different way from the natural ecosystem, we
+note that the two systems share some common character-
+istics: (i) symbionts as consumers are required to have a
+higher growth rate than the rate of autophagosome
+decomposition, (ii) the host cell must be larger than a
+certain threshold size to establish a mutualistic relationship
+with its symbiont, and (iii) this partnership accelerates the
+biomaterial turnover ﬂow.
+the present results are based on steady-state analysis of
+the systems and, as a result, we have several subjects to
+address in future. first, the effects of nonlinear interactions
+of the functional response must be taken into account to
+focus on the evolution from parasitism to mutualism
+because these strongly inﬂuence the host–parasite dynamics
+(hassell, 1978). second, from an evolutionary perspective,
+we should examine whether symbiont-containing cells as
+‘‘mutants’’ can spread into a free-living host-cell popula-
+tion. numerical simulations will provide insights into the
+evolutionary population dynamics of the host–symbiont
+system.
+acknowledgments
+this paper was supported ﬁnancially by the 21st
+century coe program ‘‘research center for integrated
+science’’ (e-3, project leader, dr. m. asashima) from the
+ministry of education, culture and science, japan, to
+article in press
+s. fukui et al. / journal of theoretical biology 246 (2007) 746–754
+753
+m.s. we are grateful to two anonymous reviewers for their
+valuable comments on the manuscript.
+appendix a. the local stability in case 1
+the local stability of the case 1 system described by
+eqs. (1)–(4) can be analyzed proving that the eigenvalues of
+its jacobian matrix are negative for their real parts.
+þðl þ d 1  a
+þðl þ d 2þðl þ d 3  a
+therefore, we obtain the characteristic equation as follows:
+2þ ¼ 0.
+ðl þ a1  e
+(b.2)
+the local stability requires the term ðd 3  a
+2þ to be
+positive. assigning parameters (15) to the equilibrium
+solution a
+, we can easily obtain the necessary and
+sufﬁcient condition for local stability (the inequation (19)).
+   r  n
+   r  n
+we can reduce the rank of the jacobian matrix about the
+simultaneous equations (1)–(4), because eq. (2) consists of
+the linear combination of the other equations. the local
+stability of the subsystem at equilibrium is then determined
+by the eigenvalues of its jacobian matrix as follows:
+64
+a ¼
+ a1  e  a1  n
+1 þ a2  n
+ d 1  a
+75
+ d 1  e
+ d 2
+(a.1)
+(a.2)
+þðl þ d 1  a
+þðl þ d 2þ ¼ 0.
+setting the eigenvalues as l’s, we derive the
+then,
+characteristic equation from this jacobian matrix (a.1) like
+ðl þ a1  e
+obviously,
+the eigenvalues are negative because all
+coefﬁcients are positive, and this system maintains the
+steady state locally.
+we can also connect the idea of stability to ﬂux intensity
+ðj 1þ expressed by eq. (10). the resilience, one index of
+system stability, is measured by the inverse of the dominant
+eigenvalue. if we consider eq. (10), the ﬂux intensity ðj 1þ
+consists of three terms, each of which includes the three
+eigenvalues. therefore, we can expect a positive correlation
+between the resilience of the system and the ﬂux intensity.
+in addition, let us consider the case where the metabolic
+system is not closed completely ðe  h40þ, but the system
+keeps its total biomass over the metabolic reaction time-
+scale ðe  r ¼ h  n
+2þ. although we need to reformulate the
+ode to include the terms ðe  rþ into eq. (1) and ð h  n
+2þ
+into eq. (2), the jacobian matrix is the same as (a.1), and
+the analysis of the local stability obtains the same result as
+that in the closed one.
+appendix b. the local stability in case 2
+the stability of the system described by eqs. ð1
+0þ
+0þ2ð4
+and (11) can be analyzed in the same manner as in case 1.
+first, let us consider the case where the invader does not
+assist the host at all, that is, the solutions of this system in
+(14)–(18).
+we can derive the jacobian matrix of the system to
+include parasites as follows:
+ a1  e  a1  n
+1 þ a2  n
+66664
+a ¼
+ d 1  a
+ d 1  e
+ d 2
+ d 3  p  d 3  a
+ þ r  n
+77775.
+(b.1)
+appendix c. the local stability in case 3
+there are two different states when the invader exploits
+n 1, meaning that the solutions are expressed as either
+(14)–(18) or (20)–(24). to check the local stability for each
+case, we begin by deriving the jacobian matrix of the
+system.
+77775.
+ a1  e   r  p  a1  n
+1 þ a2  n
+ d 1  e
+ d 1  a
+ r  n
+66664
+a ¼
+ d 2
+ d 3  p  d 3  a
+ þ r  n
+r  p
+(c.1)
+þ
+ þ r  p
+þðl þ d 2þfðl þ a1  e
+   r  n
+1þ þ r2  n
+1  p
+g ¼ 0.
+we obtain the characteristic equation as follows:
+ðl þ d 1  a
+ðc:2þ
+ðl þ d 3  a
+the characteristic equation can be reduced into three
+terms; the ﬁrst and second terms show that the eigenvalues
+are negative. the local stability is, therefore, determined
+according whether the last term can have a negative
+eigenvalue.
+first,
+let us consider the case when the invader can
+coexist with the host. assigning the parameters to the
+equilibrium solutions except for n 2, which is given as
+(20)–(23),
+the last quadratic equation is expressed as
+follows:
+ l þ b1
+d 1
+2  r
+d 3
+¼ 0.
+ a2  d 3
+ d 2
+b2
+ðc:3þ
+ 
+ d 2
+b2
+ b2
+  a1
+d 2
+a2
+l2 þ a2  b1
+d 1
+d 3
+ n
+if the coefﬁcients are positive for the quadratic equation,
+reðlþ becomes negative, and the last term in (c.3) must be
+positive to assure the local stability determined by the
+routh–hurwitz criteria (gantmacher, 1960). therefore,
+the condition for the local stability is equivalent to meet the
+inequation (25).
+furthermore, we can refer to an effect of the symbiont’s
+growth rate on the system’s local stability, and, in turn, on
+the resilience of the metabolic system. as the growth rate r
+increases, at the steady state the invader’s population ðpþ
+also increases within the host cell, which should increase
+the ﬂow intensity (j). considering the characteristic
+equation (c.3),
+the increase in r has an important
+implication for the system’s resilience. the absolute value
+of the solution of eq. (c.3) changes in proportion to the
+754
+s. fukui et al. / journal of theoretical biology 246 (2007) 746–754
+article in press
+coefﬁcient of the second term. then, as the parameter r
+increases, the eigenvalue becomes the dominant one, and
+the system should return to its steady state more quickly
+after environmental perturbation. in other words, if the
+symbionts grow faster in the host cell, the metabolic system
+of the host cell results in a more resilient one.
+second, we can derive the condition for boundary
+stability at p ¼ 0. the quadratic equation which assigns
+p ¼ 0 as the parameters given as (14)–(18) is as follows:
+1þ ¼ 0.
+ðl þ a1  e
+(c.4)
+local stability requires the term ðd 3  a
+1þ to be
+positive. by assigning parameters given as (15) and (16) to
+the equilibrium solutions, we can easily show that the
+condition for local stability is synonymous with meeting
+the inequation (26).
+þðl þ d 2þðl þ d 3  a
+þðl þ d 1  a
+   r  n
+   r  n
+references
+loreau, m., 1995. consumers as maximizers of matter and energy ﬂow in
+ecosystems. am. nat. 145 (1), 22–42.
+loreau, m., 1998. ecosystem development explained by competition
+within and between material cycles. proc. r. soc. london b 265
+(1390), 33–38.
+lotka, a., 1922. contribution to the energetics of evolution. proc. natl
+acad. sci. usa 8 (6), 147–151.
+lum, j., deberardins, r., thompson, c., 2005. autophagy in metazoans:
+cell survival in the land of plenty. nat. rev. mol. cell biol. 6 (6),
+439–448.
+margalef, r., 1963. on certain unifying principles in ecology. am. nat. 97
+(897), 357–374.
+margulis, l., 1981. symbiosis in cell evolution. w.h. freeman, new
+york.
+matsuda, h., shimada, m., 1993. cost-beneﬁt model for the evolution of
+symbiosis. in: kawanabe, h., cohhen, e., iwasaki, k.
+(eds.),
+mutualism and community organization. behavioural, theoretical,
+and food-web approaches. oxford, uk, pp. 228–238.
+may, r.m., anderson, r.m., 1983. parasite–host coevolution. in:
+futuyma, d., slatkin, m. (eds.), coevolution. sinauer associates
+inc, new york, pp. 186–206.
+maynard-smith, j., 1989. evolution—generating novelty by symbiosis.
+nature 341 (6240), 284–285.
+maynard-smith, j., szathma´ ry, e., 1995. the major transitions in
+andersen, t., 1997. pelagic nutrient cycles: herbivores as sources and
+evolution. w.h. freeman, oxford.
+sinks. springer, berlin.
+andersson, s., karlberg, o., canback, b., kurland, c., 2003. on the
+origin of mitochondria: genomics perspective. philos. trans. r. soc. b
+358 (1429), 165–177.
+axelrod, r., 1984. the evolution of cooperation. basic books, new york.
+bourtzis, k., miller, t.a., 2006. insect symbiosis. crc press, boca
+raton, fl.
+mizushima, n., 2005. the pleiotropic role of autophagy: from protein
+metabolism to bactericide. cell death differ. 12, 1535–1541.
+nakagawa, i., amano, a., mizushima, n., yamamoto, a., yamaguchi,
+h., kamimoto, t., nara, a., funao, j., nakata, m., tsuda, k.,
+hamada, s., yoshimori, t., 2004. autophagy defends cells against
+invading group a streptococcus. science 306 (5698), 1037–1040.
+nowak, m.a., sigmund, k., 1992. tit
+for
+tat
+in heterogeneous
+buchner, p., 1965. endosymbiosis of animals with plant microorganisms.
+populations. nature 355, 250–253.
+wiley interscience, new york.
+deangelis, d.l., 1992. dynamics of nutrient cycling and food webs.
+chapman & hall, london.
+nowak, m.a., sigmund, k., 1993. a strategy of win-stay, lose-shift that
+outperforms tit-for-tat in the prisoner’s dilemma game. nature 364, 56–58.
+odum, e.p., 1969. the strategy of ecosystem development. science 164,
+deretic, v., 2005. autophagy in innate and adaptive immunity. trends,
+262–270.
+immunol. 26 (10), 523–528.
+odum, e.p., 1971. fundamentals of ecology, third ed. w b saunders co,
+eigen, m., schuster, p., 1979. the hypercycle: a principle of natural self-
+new york.
+organization. springer, berlin.
+ewald, p.w., 1987. transmission modes of evolution of the parasitism-
+mutualism continuum. ann. n.y. acad. soc. 503 (1), 295–306.
+fenner, f., 1965. myxoma virus and oryctolagus cuniculus. in: baker, h.,
+stebbins, a. (eds.), the genetics of colonizing species. academic
+press, new york, pp. 485–501.
+odum, h.t., 1983. systems ecology. wiley, new york.
+ogawa, m., yoshimori, t., suzuki, t., sagara, h., mizushima, n.,
+sasakawa, c., 2005. escape of intracellular shigella from autophagy.
+science 307 (5710), 727–731.
+otsuka, j., 2004. a theoretical characterization of ecological systems by
+circular ﬂow of materials. ecol. complexity 1 (3), 237–252.
+fenner, f., 1983. the florey lecture, 1983. biological-control, as
+exempliﬁed by smallpox eradication and myxomatosis. proc. r. soc.
+london b 218, 259–285.
+pimm, s.l., 1991. the balance of nature?: ecological issues in the
+conservation of species and communities. university of chicago
+press, chicago.
+frank, s.a., 1993. evolution of host–parasite diversity. evolution 47 (6),
+roughgarden, j., 1975. evolution of marine symbiosis: a simple cost-
+1721–1732.
+frank, s.a., 1995. the origin of synergistic symbiosis. j. theor. biol. 176
+(3), 403–410.
+gantmacher, f., 1960. the theory of matrices, vol. 1. chelsea publisher,
+new york.
+hassell, m.p., 1978. the dynamics of arthropod predator–prey systems.
+princeton university press, princeton, nj.
+beneﬁt model. ecology 56 (5), 1201–1208.
+sasaki, a., godfray, h., 1999. a model for the coevolution of resistance
+and virulence in coupled host–parasitoid interactions. proc. r. soc.
+london b 266 (1418), 1455–1463.
+schmid, d., dengjel, j., schoor, o., stevanovic, s., munz, c., 2005.
+autophagy in innate and adaptive immunity against intracellular
+pathogens. j. mol. med. 84 (3), 194–202.
+herre, e.a., 1993. population structure and the evolution of virulence in
+seay, m., patel, s., dinesh-kumar, s., 2006. autophagy and plant innate
+nematode parasites of ﬁg wasps. science 259 (5100), 1142–1445.
+immunity. cell. microbiol. 8 (6), 899–906.
+ishikawa, h., 1985. symbionin, an aphid endosymbiont-speciﬁc protein. i:
+production of insects deﬁcient in symbiont. insect biochemistry 15,
+155–163.
+ulanowicz, r., 1983. identifying the structure of cycling ecosystems.
+math. biosci. 65 (2), 210–237.
+van baalen, m., 1998. coevolution of recovery ability and virulence. proc.
+john, p., whatley, f., 1975. paracoccus denitriﬁcans and the evolutionary
+r. soc. london b 265 (1393), 317–325.
+origin of mitochondria. nature 254, 495–498.
+yamamura, n., 1993. vertical transmission and evolution of mutualism
+levin, s., pimentel, d., 1981. selection of intermediate rates of increase in
+from parasitism. theor. popul. biol. 44, 95–109.
+parasite–host systems. am. nat. 117 (3), 308–315.
+yamamura, n., 1996. evolution of mutualistic symbiosis: a differential
+levine, b., klionsky, d.j., 2004. development by self-digestion:
+molecular mechanisms and biological functions of autophagy. dev.
+cell 6 (4), 463–477.
+equation model. res. popul. ecol. 38 (2), 211–218.
+yorimitsu, t., klionsky, d., 2005. autophagy: molecular machinery for
+self-eating. cell death differ. 12, 1542–1552.

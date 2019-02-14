@@ -1,0 +1,634 @@
+autophagy as an immune defense mechanism
+vojo deretic
+autophagy is a homeostatic process whereby cytosol or
+intracellular organelles are sequestered by a double membrane
+structure termed autophagosome for subsequent delivery to
+lysosomes and degradation. autophagy takes part in cell
+survival and death and has been implicated in development,
+aging, neurodegeneration and cancer. the newly discovered
+specialized role of autophagy in immune cells expands
+autophagic functions to defense against intracellular
+pathogens. furthermore, autophagy is involved in acquired
+immunity, such as antigen processing for mhc ii presentation,
+and is modulated by cytokines such as ifn-g. a further link has
+emerged between autophagy and defense against intracellular
+pathogens via the immunity-related gtpase lrgm1 (lrg-47),
+which has a protective role against mycobacterium
+tuberculosis. we propose the term immunophagy for these
+defense processes.
+addresses
+departments of molecular genetics and microbiology, university of new
+mexico school of medicine, 915 camino de salud, albuquerque,
+nm 87131, usa
+corresponding author: deretic, vojo (vderetic@salud.unm.edu)
+current opinion in immunology 2006, 18:375–382
+this review comes from a themed issue on
+host–pathogen interactions
+edited by stefan he kaufmann and bruce d walker
+available online 19th june 2006
+0952-7915/$ – see front matter
+# 2006 elsevier ltd. all rights reserved.
+doi 10.1016/j.coi.2006.05.019
+introduction
+macroautophagy (here referred to as autophagy) is a
+cellular homeostatic mechanism [1,2] whereby cells
+digest parts of their own cytoplasm for removal or turnover. discrete portions of the cytosol are sequestered into
+a characteristic double membrane vacuole, termed the
+autophagosome. upon closure of the autophagosome, the
+trapped cytosol or organelles are delivered to lysosomes
+for degradation (figure 1). in its simplest rendition,
+autophagy recycles long-lived cytosolic macromolecules,
+such as stable proteins, to support cellular anabolic needs
+and viability under starvation conditions [3]. autophagy,
+in its housekeeping role, removes damaged or surplus
+organelles, including compromised mitochondria, thus
+protecting cells from unscheduled apoptosis. although
+autophagy is a cell maintenance mechanism, under specific conditions excessive autophagy can cause
+www.sciencedirect.com
+nonapoptotic programmed cell death [4]. autophagy
+has been implicated in cancer, degenerative disorders
+such as huntington’s, parkinson’s and alzheimer’s diseases, normal development and aging [1,5]. recent studies demonstrate that autophagy is also an innate
+immunity effector against intracellular bacteria and
+viruses [6–9]. moreover, autophagy has a strong
+impact on mhc ii presentation [9,10,11,12] and is
+controlled by cytokines [8,13,14], extending the role of
+autophagy to adaptive immunity. we propose the term
+immunophagy for the specialized function of autophagy
+in immunity. here, we review the fundamentals of autophagy and the specifics of immunophagy.
+execution stages of autophagy
+following induction, autophagy sequesters a damaged
+organelle or a portion of the cytosol into a nascent
+autophagosomal structure, called the isolation membrane
+or phagophore, which is formed during the initiation stage
+(figure 1a). the phagophore is enlarged during the
+elongation stage by the addition of new membrane of
+undefined origin but suspected to come from the endoplasmic reticulum (er) or a combination of sources
+(figure 1b). the isolation membrane eventually seals
+to form an autophagosome. an autophagosome is distinguished from the conventional phagosome by the presence of a double delimiting membrane and intralumenal
+cytosolic content, including membranes originating from
+the captured organelles. the subsequent fusion between
+an autophagosome and lysosomes, referred to as flux or
+maturation, results in a degradative compartment termed
+the autolysosome (figure 1c).
+the process of autophagy is conserved from yeast to
+mammals. in yeast, the autophagy (atg) factors, counting
+now nearly 29 proteins, function as executioners of autophagy [15]. a number of key mammalian atg orthologs
+have been identified. for example, yeast atg8, required
+for the elongation of autophagic membranes, corresponds
+to multiple isoforms of mammalian atg8 (termed lc3a,
+b and c), and gabarap, gabarapl1 and gate16.
+yeast atg1, which initiates autophagy downstream of the
+target of rapamycin (tor) protein, has its equivalent in
+drosophila. mammals have two homologs of drosophila
+atg1: ulk1 and ulk2 in the mouse and ulk1 and ulk2
+in humans. the type iii phosphatidylinositol 3-kinase
+(pi3k) vps34 in yeast (or its hvps34 equivalent in
+humans) is required for the production of phosphatidylinositol 3-phosphate (pi3p) and plays its prime role
+during the final stages of fusion with lysosomes (flux or
+maturation). the mammalian hvps34 appears to have a
+role in signaling upstream of the initiation, according to
+current opinion in immunology 2006, 18:375–382
+376 host–pathogen interactions
+figure 1
+autophagy execution stages and key atg factors. (a) initiation is a process where an isolation membrane (phagophore) begins to form. atg1 and a
+number of other atg factors initiating this process are under the control of tor (see also figure 2, for the signaling cascade regulating tor).
+(b) elongation is characterized by membrane bending and increase in size of the phagophore through addition of membrane, which wraps
+around cytoplasmic components, such as organelles, intracellular bacteria or just the cytosol, for degradation of macromolecules (e.g. stable
+proteins). (c) maturation (flux) involves fusion of autophagosomes with late endosomes (le), often in the form of multivesicular bodies (mvb) and
+lysosomes (lys). lumenal acidification (pink) and lysosomal hydrolasis lead to degradation of the ingested components. two protein–protein
+and protein–lipid conjugates, atg5–atg12 (further complexed with atg16) and lc3-ii (lc3-i c-terminally conjugated to phosphatidylethanolamine
+[pe]) are associated with and control elongation of the phagophore and autophagosome. lc3 is the best marker of autophagy at present, as it
+converts from its lc3-i-nonlipidated form to the pe-conjugated form lc3-ii, a process that can be scored by following translocation from the
+cytosol (diffuse fluorescence – left image) to punctate structures (phagophores and autophagosomes – right image). this figure was adapted
+from [39].
+recent reports [16,17]. in yeast, vps34 also takes part in
+the formation of a specialized pre-autophagosomal structure and, thus, most likely affects autophagy initiation
+[15]. the hvps34 lipid kinase interacts with beclin 1
+(yeast atg6), an autophagy-inducing tumor suppressor
+required specifically for the role of hvps34 in autophagic
+processes [18]. beclin appears not to be needed for other
+processes controlled by hvps34 (i.e. the endosomal–lysosomal pathways) [19,20]. in yeast, two separate protein
+current opinion in immunology 2006, 18:375–382
+complexes containing vps34 control the autophagic and
+endosomal degradative pathways: complex i, consisting of
+atg6 (beclin), atg14 and vps34, specializes in autophagy,
+whereas complex ii, with vps38 instead of atg14, specializes in endosomal–vacuolar sorting [21]. surprisingly,
+equivalents of vps38 or atg14 have not been identified
+in mammalian cells. thus, how hvps34 specializes in
+autophagosomal versus endosomal pathways [19,20] in
+higher organisms is not known.
+www.sciencedirect.com
+autophagy as an immune defense mechanism deretic 377
+autophagy depends on two protein conjugation systems
+required for the elongation stage (figure 1b). atg12 is
+initially conjugated to atg7, transferred to atg10, and
+finally conjugated to atg5. atg5 is essential for autophagy
+in the mouse [3]. the atg5–atg12 complex (stabilized
+by atg16), localizes to the outer, cytofacial membrane of
+the phagophore. parts of this conjugation system are
+shared with lc3 (atg8), which undergoes conversion
+from unmodified lc3-i to its lipidated form, lc3-ii,
+which is c-terminally linked to phosphatidylethanolamine (pe). the lipidated lc3-ii localizes to both the
+inside and the outside membranes of a phagophore (figure 1b). lc3 lipidation and lc3-ii association with
+autophagosomal membranes provide the basis for two
+commonly used assays of autophagy: (i) the lc3-i to
+lc3-ii conversion can be monitored by immunoblotting;
+and (ii) autophagosome formation can be scored by
+immunofluorescence microscopy as a transition of lc3
+from its diffuse cytosolic appearance to a membraneassociated, punctate intracellular distribution.
+signaling processes regulating autophagy
+the execution aspects of autophagy are controlled by the
+upstream signal transduction systems. the core signaling
+pathway, with factors either inducing or inhibiting autophagy, is depicted in figure 2 (activators are colored in
+green and inhibitors in pink). a classical physiological
+inducer of autophagy is amino acid starvation, in particular
+deprivation of leucine. another signal is absence of growth
+factors, which normally authorize cells to take up nutrients
+[22]. a pharmacological induction of autophagy is routinely achieved using rapamycin, which targets the ser/thr
+kinase tor [23]. tor is a gatekeeper of cellular response to
+nutritional conditions and integrates various inputs including growth hormone signals. activation of tor suppresses
+autophagy, whereas inactivation of tor promotes autophagy. in yeast, tor negatively regulates atg1, a factor that
+sets off the autophagy execution cascade. hence, when
+tor is inhibited by rapamcyin, autophagy is induced.
+tor is normally regulated by a small gtpase, rheb, which
+binds to the n-terminal portion of the tor kinase domain.
+as with other small signaling gtpases that act as molecular switches, the gdp-bound form of rheb is in the ‘off’
+position, whereas the gtp-bound form is in the ‘on’
+position. as illustrated in figure 2, rheb activity is regulated by the gtpase activating protein (gap) tsc1/2,
+which receives and integrates various upstream inputs [23]
+that come from: (i) growth factor receptor signaling via the
+akt/pkb pathway; (ii) energy status via amp-activated
+protein kinase (ampk), a kinase that responds to the
+amp/atp ratio; (iii) hypoxia via events downstream of
+hif1 and through energy depletion and ampk; (iv) dna
+damage via p53; and (v) map kinases downstream of ras.
+the best understood pathway controlling tsc1/2 is the
+one stimulated by growth factors. binding of insulin
+www.sciencedirect.com
+growth factors to receptors recruits insulin receptor substrates (irs). irs recruit and activate type i pi3k p110/
+p85, which generates phosphatidylinositol(3,4,5)p3
+(pip3). pip3 recruits pdk1 and akt/pkb to the plasma
+membrane, where pdk1 phosphorylates and activates
+akt/pkb. active pkb phosphorylates and inactivates
+tsc1/2. by inactivating the tsc1/2 gap, this cascade
+enhances rheb-gtp-dependent activation of tor and
+phosphorylation of tor targets. this, in turn, inhibits
+autophagy. if growth factors or amino acids are withheld,
+autophagy is augmented. in contrast to type i pi3k
+inhibitory effects on autophagy, the execution stages of
+autophagy depend on pi3p production on endomembranes, and thus require the type iii pi3k hvps34.
+the hvps34 lipid kinase is the target for the well-known
+pharmacological inhibitor of autophagy, 3-methyl adenine (3ma). note that 3ma (and another pi3k inhibitor,
+wortmannin) inhibits both the upstream (type i) pi3k
+and the downstream (type iii) pi3k, but the downstream
+kinase (hvps34) dominates the net effect. the same
+dominant effect of the terminal positive role of hvps34
+explains why the recently reported positive regulation of
+tor by hvps34 [16,17] does not contradict the net effect
+of 3ma or wortmannin as inhibitors of autophagy. thus,
+3ma is invariably used to prove that a given process
+involves autophagy.
+autophagy as innate immunity mechanism
+the concept of autophagic defense against pathogens
+harks back to a number of earlier studies indirectly
+implicating autophagy in host–pathogen interactions
+[2]. a stream of recent publications has uncovered a role
+for autophagy in innate immunity [6–8,24,25,26,27].
+autophagy eliminates intracellular pathogens in a process
+similar to capture and digestion of unwanted or damaged
+intracellular organelles. it is now evident that autophagy
+serves as a mechanism for the removal of intracellular
+bacteria and viruses, together with its primary function as
+a cytoplasmic clean-up process.
+there are several aspects of autophagy peculiar to the
+control of intracellular pathogens, such as the large size of
+autophagosomes engulfing intracellular microoganisms.
+nevertheless, there are size parallels between lc3dependent clearance of large protein aggregates [28]
+and unusually large lc3-positive autophagosomes
+engulfing intracellular bacteria [6]. another current
+question is whether intracellular pathogens can be subject
+to autophagy while remaining intravacuolar [8] or they
+have to be in the cytosol [6]. an autophagic enclosure of
+a pathogen within a membranous vacuole such as a
+phagosome should not represent an obstacle because
+autophagy is designed to corral membranous organelles
+[1,2]. a related question is whether and how the pathogens, or vacuolar membranes harboring them, are recognized by the autophagic machinery. as of this writing,
+potential links between pattern recognition receptors of
+current opinion in immunology 2006, 18:375–382
+378 host–pathogen interactions
+figure 2
+signaling pathways activating (green) and inhibiting (pink) autophagy. when the ser/thr kinase tor is active, this inhibits autophagy. when tor
+is inactivated (e.g. with rapamycin), this induces autophagy. growth factors or cytokines (e.g. insulin, il-13) activate type i pi3k generating
+pip3 on plasma membrane. this, in turn, activates the pdk–akt/pkb axis, which phosphorylates and inhibits tsc2, a subunit of the tsc1–tsc2
+heterodimer protein that acts as a gtpase activating protein (gap). tsc1/2 gap regulates the gtp versus gdp bound state of the small
+gtpase rheb, a positive regulator of tor. inactivation of tsc2 also occurs via the ras/mapk pathway, with a net result of activating tor.
+the inputs inactivating tor include: amp/atp ratios, transduced via ampk phosphorylating tsc2 and, in contrast to pkb, enhancing its gap
+activity; hypoxia, acting in a dual fashion via energy depletion and amp/atp ratios and via the hif1 transcriptional factor that activates expression
+of products, which act upstream of tsc1/2 to inhibit tor; dna damage; and amino acid starvation, with still unresolved mode of action (dashed
+arrows). the proposed sites of amino acid action include tsc1/2, rheb, rheb–tor binding or directly tor, independently of tsc1/2 and rheb
+via a direct pathway involving the type iii pi3k hvps34. the pi3k hvps34 generates pi3p and in complex with beclin is needed for the
+downstream execution stages of autophagy. pi3k inhibitors, such as 3ma and wortmannin have a net inhibitory effect on autophagy because
+they block the most downstream pi3k (hvps34) required during the execution stages of autophagy. this figure was adapted from [39].
+innate immunity and stimulation of autophagy have not
+been explored. furthermore, if pathogen molecules or
+modifications on vacuolar membranes supply homing
+cues for autophagy, this could provide the currently
+missing information regarding any putative modifications
+that might earmark organelles or macromolecules for
+autophagy in general.
+one interesting detail involves autophagic capture of
+shigella mutants that lost proteins involved in the regulation of actin tails used for intracellular motility of the
+pathogen [7]. this process has been interpreted as
+recognition and stimulation of autophagy by exposure
+of an otherwise covered protein epitope. in an alternative
+model, intracytoplasmic motility of pathogens such as
+current opinion in immunology 2006, 18:375–382
+listeria, shigella, rickettsia and possibly the mycobacterial
+species that escape the vacuole [29], might represent
+an autophagy evasion mechanism. a physical escape
+from forming phagophores could be one of the reasons
+that lead to the evolution of intracellular movement of
+pathogens on actin tails. this interpretation is consistent
+with the autophagic capture of nonmotile mutant shigella
+[7].
+it should also be mentioned that until recently autophagy
+was considered to mainly support intracellular survival of
+some pathogens [30,31]. it is likely that this paradox is
+the result of evolutionary adaptations of pathogens that
+have developed protective mechanisms against autophagy or have harnessed this process to their own benefit.
+www.sciencedirect.com
+autophagy as an immune defense mechanism deretic 379
+immunological regulation of autophagy
+autophagy and immunity-related gtpases
+recent reports suggest that autophagy takes part in
+adaptive immunity processes [8,9]. ifn-g induces
+autophagy in macrophages [8] and in nonimmune cells
+[13,14]. this alone extends the role of autophagy beyond
+innate defenses. because ifn-g induces or augments
+autophagy, it is appropriate to ask what th2 cytokines
+might do. intriguingly, il-4 and il-13 could be antagonists of autophagy because they stimulate type i pi3k
+[32], which in turn activates the pkb–tor cascade
+(figure 2). incidentally, il-13 was used as a powerful
+autophagy inhibitor in the original papers delineating the
+autophagy signaling pathways shown in figure 2, before
+any context related to infectious disease or immunity
+[33,34]. although not much is known about il-4 effects,
+of note is that irs phosphorylation (leading to type i
+pi3k activation) upon il-13 stimulation also occurs after
+il-4 stimulation. thus, th2 cytokines have the potential
+to act as suppressors of autophagy. however, tor signaling is very complex (figure 2) and there are reports that
+il-4 in hela cells enhances lc3-associated clearance of
+large protein aggregates [28]. experimental analyses
+carried out specifically in immune cells should address
+the hypothesis that th1 and th2 cytokines might affect
+autophagy in opposing ways.
+thus far, the mechanisms of ifn-g-stimulated autophagy include the ifn-g-inducible, p47 immunity-related
+gtpases (irg) [8]. although irg factors were recognized to have a protective role against a variety of intracellular pathogens, it was the work on m. tuberculosis that
+eventually led to a connection between irg and autophagy [8]. ifn-g is a marquee antituberculosis immune
+mediator and a correlate of immunity against tuberculosis.
+the exact nature of antimycobacterial action of ifn-g
+has remained an unsolved puzzle, as neither reactive
+oxygen nor reactive nitrogen intermediates could explain
+in full its potent antimycobacterial action [35]. it has been
+shown [35] that ifn-g effects occur, at least in part,
+through an irg family member, irgm1 (also known as
+lrg-47). according to the standard nomenclature, the
+mouse gene is now designated as irgm1 and the closest
+human equivalent as irgm [36] (figure 3). before their
+connection to autophagy was revealed, the mechanism of
+action of irgm1 and other irg proteins was unknown,
+although involvement of undefined membrane trafficking
+pathways had been implicated [35].
+recently published work [8] strongly suggests that
+irgm1 participates in ifn-g-dependent induction of
+figure 3
+immunity-related gtpases in mouse (irg) and man (irg), including murine irgm1 as an inducer (or modulator) of autophagy (or immunophagy).
+(a) the 24 mouse irg genes, classified into irga, irgb, irgc, irgd, irgm, and irgq subgroups, are located in clusters on 3 chromosomes (chr 7, 11
+and 18). in red letters are murine genes under ifn control. lrg-47 (irgm1) has been implicated in induction (modulation) of autophagy
+(immunophagy) induced by ifn-g [8]). designations below the chromosomes denote previously given names to irgm1 (lrg-47), irgm2 (gtpi),
+irgm3 (igtp), irga6 (iigp1), irgb6 (tgtp) and irgd (irg-47). two murine pseudogenes, irga5c and irgb7c are marked accordingly (c). (b) the
+human genome has only three irg genes (on two chromosomes, 5 and 19). none of the human irg genes appear to be under ifn control;
+constitutive expression of irgm has been demonstrated. the irgm gene on the human chromosome 5 is the sole equivalent of the genes
+corresponding to the murine clusters on chromosomes 11 and 18. the murine chromosome 11 and 18 regions surrounding the irg genes show
+complex syntenic relationship (indicated by line patterns) to the human chromosome 5 encoding the sole human irgm gene. the human irg
+genes on chromosome 19 are unambiguously syntenic with the murine genes on the chromosome 7. human irgm contains the rare gms motif
+variant within the p-loop of the g-domain (the irgm class gets its name after the m in this motif). based on this and the syntenic relationships,
+it is likely that human irgm corresponds to the murine irgm gene. figure created on the basis of the data from ref. [36].
+www.sciencedirect.com
+current opinion in immunology 2006, 18:375–382
+380 host–pathogen interactions
+autophagy. the previously underestimated complexity of
+the irg family and issues regarding their potential role in
+autophagy has recently been uncovered through bioinformatics approaches. the mouse genome has 24 irg genes
+[36] located in three clusters on chromosomes 7, 11 and
+18 (figure 3). the most complex irg cluster is on chromosome 11, and contains 14 irg genes, with irgm genes
+positioned as bookends for the cluster. the three irgm
+gene products derive their names from the presence of
+the gms sequence within the g1 motif gx4gk(s/t) of
+the g protein p loop, which contains the more typical
+gks sequence present in the majority of other irgs. the
+murine chromosome 18 cluster consists of eight irga1–
+irga8 genes. on chromosome 7, there are two genes, irgc
+and irgq, with conserved syntenic arrangement across all
+mammalian species. irgc and irgq are the only two irg
+genes in the mouse genome not controlled by interferon
+responsive elements. the previously known murine p47
+gtpases are scattered within the clusters on chromosomes 11 and 18: lrg-47 is irgm1, tgtp is irgb6, irg47 is irgd, igtp is irgm3, gtpi is irgm2, and iigp1 is
+irga6 (figure 3). compared with the murine genome
+replete with irg genes, the human genome appears as a
+wasteland, with only three irg genes: irgc, irgq, and
+irgm [36] (figure 3). the human irgm gene on
+chromosome 5 encodes a shortened version of murine
+irgm proteins. it is an n-terminally truncated and cterminally modified version of murine irgm1, with one of
+the splice isoforms, irgm(a), being approximately
+20 kda in comparison with 47 kda for irgm1 (lrg47). although the irgm1 n-terminus is truncated relative to other irgs, it is still longer than the n-terminus of
+ras, exceeding it by over 20 residues. there are five
+mapped splice isoforms (a–e) of human irgm, with
+various sequences added c-terminally to the partially
+truncated g-protein. our unpublished studies suggest
+that at least one of these splice isoforms plays a role in
+autophagy (singh s and deretic v, unpublished).
+autophagy in endogenous pathway of
+antigen mhc ii presentation
+the role of autophagy in immunity exceeds direct elimination of intracellular pathogens. autophagic digestion
+of endogenously synthesized cytosolic proteins enables
+their processing for mhc ii presentation [9,10,11,12],
+thus connecting autophagy with adaptive immunity
+(figure 4). it has been demonstrated [9,10,11] that
+autophagy promotes mhc class ii presentation of cytosolic proteins. another form of autophagy, termed chaperone-mediated autophagy (cma) [37], is important for
+endogenous mhc ii presentation. cma imports individual cytosolic proteins into the lysosome via a specific
+lamp2 isoform (lamp2a), assisted by the hsc70 heat
+shock proteins (figure 4b). cma contributes to the
+endogenous pathway of cytoplasmic antigen presentation
+via mhc ii [38]. macroautophagy and cma are coordinated by an unknown mechanism, with macroautophagy
+current opinion in immunology 2006, 18:375–382
+figure 4
+macroautophagy and chaperone-mediated autophagy in endogenous
+pathway of mhc ii antigen presentation. two types of autophagy
+promote mhc ii presentation of endogenously synthesized cytosolic
+proteins: (a) macroautophagy (see also figure 1) and (b) chaperonemediated autophagy (cma), which functions by importing individual
+cytosolic proteins (30% of cytosolic proteins conform with the relaxed
+kferq motif/import tag) into the lysosome via a specialized lamp splice
+variant (lamp2a) in cooperation with cytosolic and lysosomal hsc70
+chaperones. the net effect of both pathways is protein degradation,
+mhc ii loading and antigen presentation. often macroautophagy and
+cma are coordinated, with the initially induced macroautophagy being
+downregulated to prevent excessive degradation and unwanted cell
+death, with cma continuing protein degradation without endangering
+cell viability.
+being supplanted soon upon induction by the more gentle
+cma process, lest cells autodigest and die.
+conclusions
+immunological autophagy (immunophagy) is a budding
+new field of investigation that has received a recent boost
+from the delineation of the fundamental processes and
+factors controlling autophagy in yeast and mammals. the
+areas of innate and adaptive immunity will benefit from
+understanding the role of immunophagy in defense
+against pathogens and antigen processing and presentation. these forms of autophagy, modulated by cytokines
+and other physiological inputs, will provide clues
+www.sciencedirect.com
+autophagy as an immune defense mechanism deretic 381
+regarding the effector functions downstream of ifn-g, or,
+more generally, th1 versus th2 cytokines, and help
+understand previously mysterious actions of immunologically relevant gtpases. the present state of autophagy
+research resembles the early stages of the apoptosis field
+over a decade ago; it is an important area in its infancy, in
+which plenty of discoveries still need to be made, with
+immunological aspects being an important leading edge
+of current and future developments.
+acknowledgements
+i thank laboratory members for stimulating exchange of ideas, isabelle
+vergne and esteban roberts for comments, and sudha singh for
+fluorescence images in figure 1. this work was supported by the national
+institutes of health, grants ai45148 and ai42999. this review has been
+adapted in part from my recent article [39].
+references and recommended reading
+papers of particular interest, published within the annual period of
+review, have been highlighted as:
+ of special interest
+ of outstanding interest
+1.
+shintani t, klionsky dj: autophagy in health and disease:
+a double-edged sword. science 2004, 306:990-995.
+2.
+levine b: eating oneself and uninvited guests; autophagyrelated pathways in cellular defense. cell 2005, 120:159-162.
+kuma a, hatano m, matsui m, yamamoto a, nakaya h,
+yoshimori t, ohsumi y, tokuhisa t, mizushima n: the role of
+autophagy during the early neonatal starvation period.
+nature 2004, 432:1032-1036.
+the first complete demonstration of a role for an atg factor in autophagy
+in mammals using an atg5 knockout mouse.
+3.
+m. tuberculosis with a previously unknown mode of action, which turned
+out to modulate autophagy.
+9.
+
+paludan c, schmid d, landthaler m, vockerodt m, kube d,
+tuschl t, munz c: endogenous mhc class ii processing
+of a viral nuclear antigen after autophagy. science 2005,
+307:593-596.
+the first publication demonstrating the role of macroautophagy in mhc ii
+presentation of endogenously synthesized viral protein. because the
+protein in question, ebna1, was a viral product, this also implicated
+autophagy in adaptive immunity against intracellular pathogens.
+10. dengjel j, schoor o, fischer r, reich m, kraus m, muller m,
+kreymborg k, altenberend f, brandenburg j, kalbacher h et al.:
+autophagy promotes mhc class ii presentation of peptides
+from intracellular source proteins. proc natl acad sci usa
+2005, 102:7922-7927.
+a demonstration of the role of autophagy in endogenous mhc ii class
+antigen processing and presentation. this study also presents a comprehensive analysis of mhc ii bound peptides from cytoplasmic sources
+upon induction of autophagy.
+11. crotzer vl, blum js: autophagy and intracellular surveillance:
+modulating mhc class ii antigen presentation with stress.
+proc natl acad sci usa 2005, 102:7779-7780.
+12. dorfel d, appel s, grunebach f, weck mm, muller mr, heine a,
+brossart p: processing and presentation of hla class i and
+ii epitopes by dendritic cells after transfection with in vitrotranscribed muc1 rna. blood 2005, 105:3199-3205.
+13. inbal b, bialik s, sabanay i, shani g, kimchi a: dap kinase and
+drp-1 mediate membrane blebbing and the formation of
+autophagic vesicles during programmed cell death. j cell biol
+2002, 157:455-468.
+14. pyo jo, jang mh, kwon yk, lee hj, jun ji, woo hn,
+cho dh, choi b, lee h, kim jh et al.: essential roles of atg5 and
+fadd in autophagic cell death: dissection of autophagic cell
+death into vacuole formation and cell death. j biol chem 2005,
+280:20722-20729.
+15. klionsky dj: the molecular machinery of autophagy:
+unanswered questions. j cell sci 2005, 118:7-18.
+4.
+lum jj, deberardinis rj, thompson cb: autophagy in
+metazoans: cell survival in the land of plenty. nat rev mol cell
+biol 2005, 6:439-448.
+16. byfield mp, murray jt, backer jm: hvps34 is a nutrientregulated lipid kinase required for activation of p70 s6
+kinase. j biol chem 2005, 280:33076-33082.
+5.
+cuervo am: autophagy: many paths to the same end. mol cell
+biochem 2004, 263:55-72.
+6.
+
+17. nobukuni t, joaquin m, roccio m, dann sg, kim sy, gulati p,
+byfield mp, backer jm, natt f, bos jl et al.: amino acids mediate
+mtor/raptor signaling through activation of class 3
+phosphatidylinositol 3oh-kinase. proc natl acad sci usa 2005,
+102:14238-14243.
+7.
+
+18. pattingre s, tassa a, qu x, garuti r, liang xh, mizushima n,
+ packer m, schneider md, levine b: bcl-2 antiapoptotic
+proteins inhibit beclin 1-dependent autophagy. cell 2005,
+122:927-939.
+a superb study linking autophagy and apoptosis via beclin–bcl-2 interaction. this work is important for our understanding of the coordination
+between the two programmed cell death pathways, and also because it
+shows a central role of beclin, a subunit of the pi3 kinase hvps34
+complex, in the regulation of autophagy.
+nakagawa i, amano a, mizushima n, yamamoto a, yamaguchi h,
+kamimoto t, nara a, funao j, nakata m, tsuda k et al.:
+autophagy defends cells against invading group a
+streptococcus. science 2004, 306:1037-1040.
+together with [7] and [8], this paper demonstrates the innate defense
+role of autophagy against bacterial pathogens. although a typical extracellular pathogen (streptococcus pyogenes) was used, once inside the
+host cells, the intracellular streptococci were eliminated by exceptionally
+large autophagosomes.
+ogawa m, yoshimori t, suzuki t, sagara h, mizushima n,
+sasakawa c: escape of intracellular shigella from autophagy.
+science 2005, 307:727-731.
+together with [6] and [8], this paper demonstrates the innate defense
+role of autophagy against bacterial pathogens. shigella normally escapes
+from the phagosome into the cytosol. autophagy was proved to be a
+cellular mechanism capable of eliminating from the cytosol mutated
+bacteria that lost their intracellular motility (i.e. their ability to polymerize
+actin and move rapidly on actin tails). in our interpretation, this could be an
+indication that the cytosolic motility of pathogens that escape from
+vacuoles into the cytosol might be a countermeasure deployed by
+bacteria to escape nascent autophagosomes.
+8.
+
+gutierrez mg, master ss, singh sb, taylor ga, colombo mi,
+deretic v: autophagy is a defense mechanism inhibiting bcg
+and mycobacterium tuberculosis survival in infected
+macrophages. cell 2004, 119:753-766.
+together with [6] and [7], this paper demonstrates the innate defense
+role of autophagy against bacterial pathogens. pharmacologically, physiologically or immunologically induced autophagy was active in eliminating intraphagosomal mycobacteria. the immunological induction of
+autophagy was achieved by ifn-g, through a process that included irgm1
+(lrg-47). irgm1 is an immunity-related gtpasethat protects against
+www.sciencedirect.com
+19. furuya t, yu j, byfield m, pettingre s, levine b: the
+evolutionarily conserved domain of beclin 1 is required for
+vps34 binding, autophagy and tumor suppressor function.
+autophagy 2005, 1:46-52.
+this study shows molecular details of the interactions between beclin and
+hvps34 (a pi3 kinase crucial for the execution stages of autophagy). it
+also demonstrates a specific role for beclin in autophagy of mammalian
+cells and suggests that it might not take part in the generic endosomal–
+lysosomal pathway.
+20. zeng x, overmeyer jh, maltese wa: functional specificity of the
+mammalian beclin–vps34 pi 3-kinase complex in
+macroautophagy versus endocytosis and lysosomal enzyme
+trafficking. j cell sci 2006, 119:259-270.
+21. obara k, sekito t, ohsumi y: assortment of
+phosphatidylinositol 3-kinase complexes—atg14p directs
+association of complex i to the preautophagosomal
+structure in saccharomyces cerevisiae. mol biol cell 2006,
+17:1527-1539.
+current opinion in immunology 2006, 18:375–382
+382 host–pathogen interactions
+22. lum jj, bauer de, kong m, harris mh, li c, lindsten t,
+thompson cb: growth factor regulation of autophagy and cell
+survival in the absence of apoptosis. cell 2005, 120:237-248.
+a study demonstrating a cell survival-promoting function of autophagy.
+23. wullschleger s, loewith r, hall mn: tor signaling in growth and
+metabolism. cell 2006, 124:471-484.
+24. rich ka, burkett c, webster p: cytoplasmic bacteria can be
+targets for autophagy. cell microbiol 2003, 5:455-468.
+25. birmingham cl, smith ac, bakowski ma, yoshimori t,
+brumell jh: autophagy controls salmonella infection in
+response to damage to the salmonella-containing vacuole.
+j biol chem 2006, 281:11374-11383.
+a recent report extending a role for autophagy in clearing yet another
+intracellular bacterium.
+26. de chastellier c, thilo l: cholesterol depletion in
+mycobacterium avium-infected macrophages overcomes the
+block in phagosome maturation and leads to the reversible
+sequestration of viable mycobacteria in phagolysosomederived autophagic vacuoles. cell microbiol 2006, 8:242-256.
+a recent report suggesting association of autophagy with another facultative intracellular opportunistic mycobacterial pathogen, m. avium,
+although autophagosomes apparently could not eliminate this microorganism. in this case, cholesterol manipulation was used, which might be
+related to the reported effects.
+27. liu y, schiff m, czymmek k, talloczy z, levine b,
+dinesh-kumar sp: autophagy regulates programmed cell
+death during the plant innate immune response. cell 2005,
+121:567-577.
+28. yamamoto a, cremona ml, rothman je: autophagy-mediated
+clearance of huntingtin aggregates triggered by the insulinsignaling pathway. j cell biol 2006, 172:719-731.
+a study showing large protein aggregate removal by exceptionally large
+lc3-positive autophagosomes. these autophagosomes morphologically
+resemble the autophagosomes involved in the removal of stretococci that
+penetrate into the cytosol [6].
+29. stamm lm, pak ma, morisaki jh, snapper sb, rottner k,
+lommel s, brown ej: role of the wasp family proteins for
+mycobacterium marinum actin tail formation. proc natl acad
+sci usa 2005, 102:14837-14842.
+autophagosomal machinery by rna viruses. plos biol 2005,
+3:e156.
+a recent report highlighting the other side of autophagy, in its paradoxical
+role of supporting pathogen’s replication in host cells. this reflects
+evolutionary adaptations by some viruses and, as shown by others, some
+obligate intracellular bacteria.
+32. wright k, ward sg, kolios g, westwick j: activation of
+phosphatidylinositol 3-kinase by interleukin-13. an inhibitory
+signal for inducible nitric-oxide synthase expression in
+epithelial cell line ht-29. j biol chem 1997, 272:12626-12633.
+33. arico s, petiot a, bauvy c, dubbelhuis pf, meijer aj, codogno p,
+ogier-denis e: the tumor suppressor pten positively
+regulates macroautophagy by inhibiting the
+phosphatidylinositol 3-kinase/protein kinase b pathway.
+j biol chem 2001, 276:35243-35246.
+34. petiot a, ogier-denis e, blommaart ef, meijer aj, codogno p:
+distinct classes of phosphatidylinositol 30 -kinases are
+involved in signaling pathways that control macroautophagy
+in ht-29 cells. j biol chem 2000, 275:992-998.
+35. macmicking jd, taylor ga, mckinney jd: immune control of
+tuberculosis by ifn-gamma-inducible lrg-47. science 2003,
+302:654-659.
+36. bekpen c, hunn jp, rohde c, parvanova i, guethlein l, dunn dm,
+ glowalla e, leptin m, howard jc: the interferon-inducible p47
+(irg) gtpases in vertebrates: loss of the cell autonomous
+resistance mechanism in the human lineage. genome biol
+2005, 6:r92.
+a superb and comprehensive bioinformatics analysis of immunity-related
+gtpase (irg)-encoding genes in mammals and lower vertebrates. this
+study uncovers the unexpectedly large number of irg genes (22 complete
+genes and 2 pseudogenes) in the mouse genome, by far exceeding the
+previously studied six irg members. even more surprising, if not shocking,
+was the finding that the human genome encodes only three irg genes.
+37. cuervo am, stefanis l, fredenburg r, lansbury pt, sulzer d:
+impaired degradation of mutant a-synuclein by chaperonemediated autophagy. science 2004, 305:1292-1295.
+30. kirkegaard k, taylor mp, jackson wt: cellular autophagy:
+surrender, avoidance and subversion by microorganisms.
+nat rev microbiol 2004, 2:301-314.
+38. zhou d, li p, lin y, lott jm, hislop ad, canaday dh,
+brutkiewicz rr, blum js: lamp-2a facilitates mhc class ii
+presentation of cytoplasmic antigens. immunity 2005,
+22:571-581.
+this work demonstrates the role of chaperone-mediated autophagy in
+mhc ii presentation of endogenously synthesized cytosolic antigens.
+31. jackson wt, giddings th jr, taylor mp, mulinyawe s,
+rabinovitch m, kopito rr, kirkegaard k: subversion of cellular
+39. deretic v: autophagy in innate and adaptive immunity. trends
+immunol 2005, 26:523-528.
+agora initiative provides free agriculture journals to developing
+countries
+the health internetwork access to research initiative (hinari) of the who has launched a new
+community scheme with the un food and agriculture organization.
+as part of this enterprise, elsevier has given hundreds of journals to access to global online research in
+agriculture (agora). more than 100 institutions are now registered for the scheme, which aims to provide
+developing countries with free access to vital research that will ultimately help increase crop yields and
+encourage agricultural self-sufficiency.
+according to the africa university in zimbabwe, agora has been welcomed by both students and staff. "it has
+brought a wealth of information to our fingertips", says vimbai hungwe. "the information made available goes a
+long way in helping the learning, teaching and research activities within the university. given the economic
+hardships we are going through, it couldn’t have come at a better time."
+for more information, visit www.aginternetwork.org
+current opinion in immunology 2006, 18:375–382
+www.sciencedirect.com

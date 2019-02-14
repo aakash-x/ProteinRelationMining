@@ -1,0 +1,535 @@
+biochemical and biophysical research communications 353 (2007) 60–66
+www.elsevier.com/locate/ybbrc
+in vitro transformation of mesenchymal stem cells by oncogenic h-rasval12
+yasuko shima a,b, takeshi okamoto a,b, tomoki aoyama a, ko yasura a, tatsuya ishibe a,b,
+koichi nishijo a,b, kotaro r. shibata a,b, yoshiki kohno a,b, kenichi fukiage a,
+seiji otsuka a,c, daisuke uejima a,d, tomitaka nakayama b, takashi nakamura b,
+tohru kiyono e, junya toguchida a,*
+a institute for frontier medical sciences, kyoto university, 53 kawahara-cho, shogoin, sakyo-ku, kyoto 606-8507, japan
+b department of orthopaedic surgery, graduate school of medicine, kyoto university, kyoto, japan
+c department of musculoskeletal medicine, graduate school of medical sciences, nagoya city university, nagoya, japan
+d department of orthopaedic surgery, kansai medical university, moriguchi, japan
+e virology division, national cancer center research institute, tokyo, japan
+received 17 november 2006
+available online 6 december 2006
+abstract
+tissue stem cells may serve as progenitors for malignant tumors derived from the same tissue. here, we report the establishment of
+immortalized human mesenchymal stem cells (ihmsc) and tested the feasibility of using ihmsc as presarcomatous cells. immortaliza-
+tion was achieved by introducing the genes for human telomerase reverse transcriptase and bmi1. ihmsc retained the potential for multi-
+directional diﬀerentiation of the original msc. to transform ihmsc, we introduced an oncogenic h-rasval12 gene, and established the
+cell line ihmsc-ras. ihmsc-ras had the phenotype of fully transformed cells and retained adipogenic and chondrogenic, but not oste-
+ogenic, potential. interestingly, ihmsc-ras demonstrated morphological features of autophagy, and inhibition of the erk pathway sup-
+pressed the production of autophagosomes, indicating that ras/erk signaling is responsible for the induction of autophagy. thus
+ihmsc will serve as a material with which to analyze the tumorigenic and diﬀerentiation-modifying eﬀects of candidate oncogenes
+involved in the development of sarcomas.
+ó 2006 elsevier inc. all rights reserved.
+keywords: mesenchymal stem cell; tert; bmi1; ras; transformation; autophagy; diﬀerentiation
+sarcomas are deﬁned as malignant
+tumors derived
+from non-epithelial tissues, but the precursors of sarcoma
+cells are equivocal in most cases. for example, osteosar-
+comas, the most common malignant bone tumor, are
+deﬁned as tumors producing immature bone tissue called
+osteoid. this deﬁnition, however, does not mean that the
+precursors of osteosarcomas are cells committed to the
+osteoblastic lineage. one major histological subtype of
+osteosarcoma is
+in
+which cartilaginous tissues are formed directly by tumor
+the chondroblastic osteosarcoma,
+* corresponding author. fax: +81 75 751 4144.
+e-mail address: togjun@frontier.kyoto-u.ac.jp (j. toguchida).
+0006-291x/$ - see front matter ó 2006 elsevier inc. all rights reserved.
+doi:10.1016/j.bbrc.2006.11.137
+cells expressing a number of cartilage-related genes [1],
+suggesting that cells of this type of osteosarcoma have
+the potential to diﬀerentiate in at least two directions.
+most osteosarcomas develop from bone marrow, and
+therefore bone marrow stromal cells are reasonable can-
+didates for the precursors of osteosarcomas, and the
+most plausible candidate cells are mesenchymal stem cells
+(mscs). mscs are deﬁned as cells with the potential to
+diﬀerentiate into a variety of mesenchymal cell lineages
+[2], and therefore have the potential to be the precursor
+of a variety of mesenchymal tumors, although there have
+been no reports showing the development of a particular
+type of sarcoma from msc. considering that transfor-
+mation requires the immortalization step,
+immortalized
+y. shima et al. / biochemical and biophysical research communications 353 (2007) 60–66
+61
+human msc as presarcomatous cells would be a suitable
+material with which to test the oncogenic potential of
+candidate genes.
+in this study, we tried to immortalize hmsc by inacti-
+vating the p16ink4a gene using the bmi1 gene. bmi1 was
+ﬁrst identiﬁed as an oncogene that cooperates with c-myc
+in the generation of mouse lymphomas [3]. bmi1 is a nucle-
+ar protein which makes a complex with other polycomb
+group proteins and binds to polycomb response elements
+to inhibit the transcription of target genes including the
+p16ink4a gene [4]. a recent report stated that bmi1 is
+required for the self-renewal of stem cells in the peripheral
+and central nervous systems [5]. the bmi1 gene is also
+thought to regulate the replicative life span of human ﬁbro-
+blasts [6] and recent reports described the immortalization
+of human ovarian surface epithelial cells [7] and mesenchy-
+mal stem cells [8].
+here, we
+established immortalized human msc
+(ihmsc), which retained the potential for multi-directional
+diﬀerentiation of the original cells, and tested the feasibility
+of using ihmsc as presarcomatous cells.
+materials and methods
+cell culture and reagents. adult hmsc were purchased from bio
+whittaker, and cultured in msc growing medium (bio whittaker). ej
+and saos2 were obtained from american type culture collection, and
+ampho293 was obtained from clontech and cultured in dulbecco’s
+modiﬁed eagle’s medium (dmem, sigma–aldrich) with 10% fetal bovine
+serum (fbs, hyclone).
+antibodies against phospho-p44/42 mapk (p-erk1/2), pan-erk,
+phospho-p38 (p-p38), pan-p38, and p16ink4a were purchased from bd
+biosciences. the antibody against human lc3 [9] was kindly provided by
+dr. mizushima (national institute for basic biology, japan). the mek
+inhibitor u0126 was obtained from promega.
+reverse transcription (rt)-pcr. total rna was extracted from cells
+and pellets using an rnase easy mini kit (qiagen), and reverse-tran-
+scribed with the superscript iii ﬁrst strand system (invitrogen). the
+synthesized cdna was used as a template for each pcr, and the products
+were electrophoresed on 1.5–2% agarose gels and visualized by ethidium
+bromide staining. information on the primer pairs used in the rt-pcr is
+available upon request.
+retroviral vectors and infections. retroviral vectors expressing htert
+and the bmi1 gene were previously described [10]. a retroviral vector
+expressing oncogenic h-rasval12 was constructed using rna derived from
+the bladder carcinoma cell line ej, which contained an oncogenic h-rasval12
+gene [11]. after the reverse transcription, the entire coding region of the h-
+rasval12 gene was ampliﬁed and ﬁrst cloned into a ta vector (invitrogen),
+plasmids containing the correct sequence were selected, and the subcloned
+into a retroviral vector pqcxip-ires-puro (clontech).
+amphotropic retroviruses were produced by transfection of
+the
+ampho293 producer cell lines with each retroviral vector using lipofect-
+amine 2000 (invitrogen). cells were infected with amphotropic retrovi-
+ruses in 6 lg/ml of polybrane, and puriﬁed by selection with 100 lg/ml of
+hygromycin b (sigma–aldrich) or 100 lg/ml of g418 (sigma–aldrich).
+western blotting. sds-sample buﬀer was added directly to the dishes,
+and cells were stripped with a cell scraper, and the cell lysate was then
+sonicated. total protein (20 lg) was electrophoresed on sds polyacryl-
+amide gels and transferred to immobilon-p membranes (millipore). the
+membranes were blocked using a 5% dried milk powder, and incubated
+with the antibody against each protein. they were then washed and
+incubated with horseradish peroxidase (hrp)-conjugated goat anti-mouse
+igg (santa cruz biotechnology) and hrp-conjugated swine anti rabbit
+igg (dako) and detected using enhanced chemiluminescence plus
+reagents (amersham pharmacia biotech).
+northern blot analysis. total rna was isolated from cells using sep-
+asol reagent (nacalai tesque). ten micrograms of total rna was sepa-
+rated on a 1% agarose–formaldehyde gel, and blotted on to a nylon
+membrane, and hybridized with 32p-labeled probes. a part of the cdna
+of the human h-ras gene (nm005343) was ampliﬁed by rt-pcr and
+used as a probe.
+telomere length and telomerase assay. telomere length was measured
+as described previously [12]. the telomerase activity in cells was detected
+with the telomeric repeat ampliﬁcation protocol (trap) as described
+previously [12] using a telo chaser kit (toyobo).
+transmission electron microscopy. cells were ﬁxed with ice-cold 2%
+glutaraldehyde in 0.1 m cacodylate buﬀer (ph 7.0), and thin sections
+(70–80 nm) were prepared and stained with uranyl acetate and lead citrate
+and observed using a transmission electron microscope.
+g-banding karyotypic analysis. metaphase spreads were prepared from
+cells treated with colcemid, and 50 metaphases were analyzed by the
+standard g-banding method.
+phenotype analyses
+proliferation assay. cells (1 · 104) were seeded in 60-mm culture dishes
+in triplicate, and cultured in dmem with 1% or 10% fbs. the number of
+cells in each dish was counted by hemocytometer at each time point.
+soft agar assay. cells (1 · 104) were suspended in 0.35% low-melting
+point agarose dissolved in dmem with 10% fbs, and seeded in 60-mm
+culture dishes precoated with 0.7% agarose. after 2 weeks, colonies in
+three random ﬁelds of view at 200· magniﬁcation were scored. experi-
+ments were performed in triplicate.
+matrigel invasion assay. cell suspensions (2.5 · 104/0.5 ml dmem)
+were added into the upper wells of 24-well chambers (bd biosciences).
+after incubation for 22 h, invading cells were ﬁxed with 100% methanol
+and stained with 1% toluidine blue. cells in ﬁve random ﬁelds of view at
+200· magniﬁcation were counted and expressed as the average number of
+cells per ﬁeld of view. data were expressed as the percent invasion through
+the matrigel membrane relative to the migration through the control
+membrane.
+in vivo tumor formation. cell suspensions containing 5 · 106 cells in
+100 ll of pbs were injected subcutaneously into immunodeﬁcient mice
+(balb/c nu/nu). three mice were used for each cell type. tumor volume
+was calculated with the formula 4/3p r3.
+diﬀerentiation assay. adipogenic, osteogenic, and chondrogenic dif-
+ferentiation were performed as previously described [12], and oil-red-o
+staining, alizarin red staining, and alcian blue staining were used to
+evaluate the diﬀerentiation as previously described [12].
+results
+establishment of bmi1-htert-immortalized hmsc
+after the sequential introduction of the htert and
+bmi1 genes into hmsc, drug-resistant cells were selected
+and propagated. this polyclonal cell
+line, designated
+hmsc-bmi1-ht, grew much faster than the original hmsc
+with a doubling time of 48 h, and showed no signs of enter-
+ing senescence after more than 24 months. the telomerase
+activity of hmsc-bmi1-ht was comparable with that of
+hela (fig. 1a), and the telomere length was maintained
+even in late passaged cells (fig. 1b). expression of the
+exogenous bmi1 gene was conﬁrmed by northern blotting
+(fig. 1c), and the expression of the p16ink4a gene was
+markedly downregulated at both the mrna and protein
+level (fig. 1d). this immortalized line may consist of cells
+62
+y. shima et al. / biochemical and biophysical research communications 353 (2007) 60–66
+fig. 1. establishment of immortalized hmsc. (a) telomerase activity of immortalized hmsc (hmsc-bmi1-ht). (b) telomere length of hmsc-bmi1-ht
+in early and late passaged cells. (c) expression of the exogenous bmi1 gene. closed and open arrows indicate the exogenous and endogenous bmi1 gene,
+respectively. (d) downregulation of p16ink4a expression at the mrna and protein level in hmsc-bmi-ht. (e) potential of ihmsc to diﬀerentiate.
+oil-red-o, alizarin red, and alcian blue staining were performed after adipogenic, osteogenic, and chondrogenic induction, respectively.
+diﬀering in the potential to diﬀerentiate, as we previously
+found in a study of hmsc immortalized by the hpve6/
+e7 genes [12]. single cell cloning by the limited dilution
+method using 96-well culture plates was performed, and a
+total of 100 clones were isolated, and the potential of each
+clone to diﬀerentiate was analyzed. five clones showed adi-
+pogenic, osteogenic, and chondrogenic diﬀerentiation
+potential, one of which was randomly selected for further
+study. the diﬀerentiation potential of this clone, hereafter
+called ihmsc, was stable even 24 months after cloning
+(fig. 1e).
+in vitro transformation of ihmsc by oncogenic h-rasval12
+to test the potential of ihmsc to serve as cells for the
+screening of candidate oncogenes, the h-rasval12 gene was
+introduced by a retroviral vector. the transduction of ret-
+roviral vectors expressing the oncogenic h-rasval12 gene
+into ihmsc was independently performed in two experi-
+ments. drug selection was started 48 h after the transduc-
+tion, and cells were cultured and propagated until they
+grew stably. polyclonal cell lines for each experiment were
+established, and designated ihmsc-ras-1 and ihmsc-ras-
+2. as a control, mock-transfected cells were also estab-
+lished (ihmsc-mock-1 and ihmsc-mock-2). expression
+of the exogenous h-rasval12 gene was conﬁrmed by north-
+ern blotting (supplementary fig. 1). the karyotypic analy-
+sis of ihmsc-ras-1 showed that the dominant mode (39/50
+metaphase) was (46, xy) with a marker chromosome (sup-
+plementary fig. 2). the doubling-time of the ihmsc-ras
+under standard (10% fbs) and serum-starved (1% fbs)
+conditions was 18.3 and 30.0 h, respectively, shorter than
+that of ihmsc (26.2 and 38.6 h). the anchorage-indepen-
+dent growth potential of ihmsc-ras was conﬁrmed by per-
+forming a colony formation assay in soft agar (fig. 2a).
+the motility of ihmsc-ras was signiﬁcantly increased com-
+pared to that of ihmsc and ihmsc-mock (fig. 2b).
+although the number of cells capable of invading the
+matrix was small, there was a signiﬁcant diﬀerence between
+ihmsc-ras and ihmsc-mock (fig. 2c). the innoculation
+of ihmsc-ras into subcutaneous tissue in nude mice pro-
+duced rapidly growing tumors with a frequency of 100%
+(fig. 2d), the histological diagnosis being undiﬀerentiated
+spindle cell tumors with no particular features (fig. 2e).
+these results
+the
+h-rasval12 gene was able to completely transform ihmsc
+into undiﬀerentiated sarcoma cells.
+the introduction of
+indicated that
+induction of autophagy by oncogenic h-rasval12
+there was a clear morphological diﬀerence val12
+between the ihmsc and ihmsc-ras lines. both ihmsc-
+ras-1 (fig. 3a, b) and ras-2 (data not shown) had an abun-
+dance of cytosolic vacuoli, which were not found in ihmsc
+(fig. 3a, a), ihmsc-mock-1 or -2 (data not shown).
+transmission electron microscopic analysis revealed
+these vacuoli to be secondary lysosomes containing residu-
+al bodies (fig. 3b), a feature of autophagy [13]. lc3
+(microtubule-associated protein 1 light chain 3) is a human
+homologue of atg8, which is a key molecule in the
+y. shima et al. / biochemical and biophysical research communications 353 (2007) 60â€“66
+63
+fig. 2. oncogenic property of ihmsc-ras. (a) anchorage-independent growth. (b) cell motility assay. (c) cell invasion assay. samples in each lane were:
+lane 1, ihmsc; lane 2, ihmsc-mock-1; lane 3, ihmsc-mock-2; lane 4, ihmsc-ras-1; and lane 5, ihmsc-ras-2. (d) growth curve of in vivo tumors. closed
+circles, ihmsc-ras-1 (three mice); open circles, ihmsc-ras-2 (two mice). (e) histology of in vivo tumors produced by ihmsc-ras-1.
+fig. 3. induction of autophagy by oncogenic h-rasval12 in ihmsc. (a) phase contrast micrographs of ihmsc (a), and ihmsc-ras-1 (b). (b) transmission
+electron micrographs of ihmsc-ras-1. arrows and arrowheads indicated secondary lysomes and residual bodies, respectively. (c) western blot for lc3.
+cell lysate was prepared from each cell line. (d) expression of erk1/2 in ihmsc lines. (e) phase-contrast micrographs of ihmsc-ras-1 with or without
+treatment with u0126.
+autophagosomes
+development of
+[14]. a
+c-terminal fragment of lc3 is cleaved immediately after
+synthesis, producing a cytosolic form known as lc3-i,
+and a subpopulation of lc3-i is further converted to an
+in yeast
+autophagosome-associating form, lc3-ii [14]. western
+blot analysis using the antibody against lc3 clearly
+showed the
+in ihmsc-ras-1
+(fig. 3c), and ihmsc-ras-2 (data not shown).
+induction of lc3-ii
+64
+y. shima et al. / biochemical and biophysical research communications 353 (2007) 60–66
+the mitogen-activated protein kinase (mapk) pathway
+is the major pathway transferring the ras signal, in which
+three diﬀerent routes are known; the erk, p38, and c-
+jun n-terminal kinase (jnk) pathways [15]. the activity
+of these map kinases was examined under standard or
+low serum conditions (fig. 3d). the amount of phosphor-
+ylated erk (perk) was much greater in ihmsc-ras than
+in ihmsc under both standard and serum-free conditions
+(fig. 3d). the amount of phosphorylated p38 (pp38)
+showed no signiﬁcant diﬀerence between ihmsc and
+ihmsc-ras (supplementary fig. 3), and hardly any phos-
+phorylated jnk was observed in any cell line (data not
+shown). therefore, the expression of the oncogenic ras
+gene in ihmsc induced the phosphorylation of erk in a
+serum-independent manner. u0126, a speciﬁc inhibitor
+for mek, a kinase of erk, was used to inhibit the erk
+activity in the hmsc-ras lines. all three cell lines showed
+a reduction in the expression of perk after the treatment
+with u0126 (supplementary fig. 4). the morphology of
+ihmsc and ihmsc-ras was compared before and after
+the treatment. ihmsc showed no remarkable morphologi-
+cal change after the treatment with u0126 (data not
+shown), whereas the number of ihmsc-ras cells with auto-
+phagosomes was signiﬁcantly reduced (fig. 3e) these
+results indicated the induction of autophagy by oncogenic
+h-rasval12.
+diﬀerentiation potential of ihmsc-ras
+adipogenic diﬀerentiation
+after the induction, ihmsc-ras-1 showed oil-red-o-
+positive droplets (fig. 4a, a) as did ihmsc (fig. 1e, a).
+the adipogenic
+induction, whereas
+in the case of ihmsc, the expression the pparc gene
+was silent in the non-induced state, and became positive
+after
+ihmsc-ras
+expressed the pparc gene without the induction in associ-
+ation with the ap2 gene, which was one of the genes down-
+stream of the pparc gene (fig. 4b). in contrast, the
+expression of
+induced in
+ihmsc-ras (fig. 4b).
+the adipsin gene was not
+osteogenic diﬀerentiation
+the osteogenic diﬀerentiation of ihmsc-ras-1 was sig-
+niﬁcantly inhibited.
+ihmsc ras-1 formed almost no
+alizarin-red-positive calciﬁed nodules (fig. 4a, b), which
+were abundantly observed in ihmsc (fig. 1e, b). as for
+the mrna expression, the most striking diﬀerence between
+ihmsc-mock-1 and ihmsc-ras-1 was in the gene expres-
+sion of osteocalcin (oc) and its regulator, osf2/runx2
+(fig. 4b). under standard culture conditions,
+ihmsc-
+mock-1 expressed the osf2/runx2 gene weakly, which
+was evoked by the osteogenic induction (fig. 4b). no
+expression of
+the osf2/runx2 gene, however, was
+observed in ihmsc-ras-1 and the expression of the oc
+gene also remained suppressed (fig. 4b).
+chondrogenic diﬀerentiation
+after 3 weeks of chondrogenic induction, the ihmsc-
+ras-1 produced a solid pellet in the three-dimensional cul-
+ture, which contained matrices positive for alcian blue
+staining (fig. 4a, c). the gene expression of cartilage olig-
+omeric matrix protein (comp), aggrecan (agc), and to a
+lesser extent, a1 chain of type 2 collagen (col2a1) was
+upregulated in hmsc-ras (fig. 4b). these results suggested
+fig. 4. potential of ihmsc-ras to diﬀerentiate. (a) lineage-related histochemical staining after the induction of each lineage. (b) mrna expression of
+lineage-related genes after the induction of each lineage in ihmsc-mock and ihmsc-ras. (c) mrna expression of adipogenic and osteogenic lineage-
+related genes in ihmsc-mock and ihmsc-ras with or without treatment with u0126.
+y. shima et al. / biochemical and biophysical research communications 353 (2007) 60–66
+65
+that the oncogenic h-rasval12 protein had no signiﬁcant
+eﬀect on the chondrogenic diﬀerentiation.
+the mrna expression of adipo- and osteo-related
+genes in cells treated with u0126 was analyzed by rt-
+pcr (fig. 4c). the expression of the pparc and ap2
+genes in ihmsc-ras was reduced when the cells were treat-
+ed with u0126 (fig. 4c), whereas no restoration of the
+expression of
+the osf2/runx2 and oc genes was
+observed (fig. 4c). these results suggested that the accel-
+eration of adipogenic diﬀerentiation was mediated through
+the erk pathway, but the loss of osteogenic potential was
+caused by other pathways. identical results were obtained
+in ihmsc-ras-2 (data not shown), suggesting the constant
+eﬀect of h-rasval12 for the diﬀerentiation potential of
+ihmsc.
+discussion
+as far as we know, this is the ﬁrst report of the transfor-
+mation of hmsc in vitro. the result was compatible with a
+previous spontaneous transformation of htert-intro-
+duced hmsc, in which p16ink4a was inactivated by a dele-
+tion and the k-ras gene was mutated [16].
+the transformation of ihmsc by the h-rasval12 gene
+revealed two interesting ﬁndings. first,
+the oncogenic
+h-rasval12 induced, to our surprise, autophagy in ihmsc.
+autophagy is a critical process responsible for the degrada-
+tion of intracellular material by a membrane of uncertain
+origin to form an autophagosome that sequesters such
+material and subsequently fuses with the lysosome [13],
+and involved in physiological processes as well as patholog-
+ical conditions such as neurodegenerative disease, cardio-
+myopathies, and cancer
+[17]. because autophagy is
+suppressed in most cancer cells, autophagy-related genes
+may work as tumor suppressors [18]. in some types of can-
+cer cells, however, autophagy was activated as a defense
+mechanism to protect against poor nutrition in tumor tis-
+sues [18]. therefore, it is not clear whether the autophagy
+observed in ihmsc-ras reﬂected the process of transforma-
+tion or not. however, because this feature was constantly
+observed in two independently established cell
+it
+might be used as a morphological feature to detect poten-
+tially transformed cells in vitro. the relationship between
+the ras signal and autophagy is controversial. raf-1 is an
+eﬀector for mapk signaling pathways, which constitute
+three routes; erk, p38, and jnk [19]. activation of raf-
+1 induced autophagy in colon cancer ht-29 cells through
+the activation of erk [19], indicating that the ras signal
+stimulates autophagy. on the other hand, the introduction
+of the h-rasval12 gene into nih3t3 reduced the autophagy
+stimulated by nutrient starvation through the activation of
+class i pi3-k [20]. thus the pi3-k pathway and mapk
+pathway exert opposite eﬀects on autophagy, and the eﬀect
+of the activation of ras may depend on cell speciﬁcity. we
+have shown that the introduction of h-rasval12 into ihmsc
+induced autophagy through the activation of the erk
+pathway without growth inhibition.
+lines,
+second, the h-rasval12-mediated transformation com-
+pletely abolished the osteogenic potential of
+ihmsc.
+osf2, an osteoblast-speciﬁc form of the runx2 tran-
+scription factor, is shown to play a central role in deter-
+mining osteogenic and adipogenic diﬀerentiation. osf2/
+runx2 /  chondrocytes diﬀerentiate
+spontaneously
+in vitro into adipogenic cells expressing the pparc gene,
+and introduction of the osf2/runx2 gene inhibited
+the expression of the pparc gene [21]. on the other
+hand, pparc activated by its
+ligand inhibited the
+dna-binding activity of osf2/runx2, and therefore
+the gene expression of its targets such as oc [22]. in this
+report, activated ras
+the
+pparc gene and accelerated the adipogenic diﬀerentia-
+tion, which mimicked the eﬀect of knocking out osf2/
+runx2. however, inhibition of the erk pathway by
+u0126 inhibited the expression of pparc without restor-
+ing the expression of the osf2/runx2 gene, suggesting
+that the induction of pparc expression by h-rasval12
+was independent of the inactivation of osf2/runx2.
+because activated mutations of ras genes are rarely
+found in osteosarcomas [23], there must be molecules ful-
+ﬁlling the role of the ras signal
+in osteosarcomas. the
+ihmsc described here can serve as a material to investi-
+gate the oncogenic properties and eﬀects on diﬀerentia-
+tion of candidate molecules.
+induced the expression of
+acknowledgments
+this work was supported by grants-in-aid for scientiﬁc
+research from the japan society for the promotion of sci-
+ence, and from the new energy and industrial technology
+development organization. the authors thank dr. noboru
+mizushima for allowing them to use the anti-lc3 antibody,
+drs. soichi adachi, and motonobu watanabe for helpful
+advice.
+appendix a. supplementary data
+supplementary data associated with this article can be
+in the online version, at doi:10.1016/j.bbrc.
+found,
+2006.11.137.
+references
+[1] t. aoyama, t. okamoto, s. nagayama, k. nishijo, t. ishibe, k.
+yasura, t. nakayama, t. nakamura, j. toguchida, methylation in
+the core-promoter region of the chondromodulin-i gene determines
+the cell-speciﬁc expression by regulating the binding of transcriptional
+activator sp3, j. biol. chem. 279 (2004) 28789–28797.
+[2] m.f. pittenger, a.m. mackay, s.c. beck, r.k. jaiswal, r. douglas,
+j.d. mosca, m.a. moorman, d.w. simonetti, s. craig, d.r.
+marshak, multilineage potential of adult human mesenchymal stem
+cells, science 284 (1999) 143–147.
+[3] m. van lohuizen, s. verbeek, b. scheljen, e. wientjens, h. van der
+guiden, a. berns, identiﬁcation of cooperating oncogenes in el-myc
+transgenic mice by provirus tagging, cell 65 (1991) 737–752.
+[4] j.j. jacobs, b. scheijen, j.w. voncken, k. kieboom, a. berns, m.
+van lohuizen, bmi-1 collaborates with c-myc in tumorigenesis by
+66
+y. shima et al. / biochemical and biophysical research communications 353 (2007) 60–66
+inhibiting c-myc-induced apoptosis via ink4a/arf, genes dev. 13
+(1999) 2678–2690.
+[13] w.a. dunn jr., autophagy and related mechanisms of lysosome-
+mediated protein degradation, trends cell. biol. 4 (1994) 139–143.
+[5] a.v. molofsky, r. pardal, t. iwashita, i.k. park, m.f. clarke, s.j.
+morrison, bmi-1 dependence distinguishes neural stem cell self-
+renewal from progenitor proliferation, nature 425 (2003) 962–967.
+[6] k. itahana, y. zou, y. itahana, j.l. martinez, c. beausejour, j.j.
+jacobs, m. van lohuizen, v. band, j. campisi, g.p. dimri, control
+of the replicative life span of human ﬁbroblasts by p16 and the
+polycomb protein bmi-1, mol. cell. biol. 23 (2003) 389–401.
+[7] t. maeda, h. tashiro, m. begum, h. ohtake, t. kiyono, h.
+okamura, establishment of an immortalized human ovarian surface
+epithelial cell line without chromosomal instability, br. j. cancer. 93
+(2005) 116–123.
+[8] y. takeda, t. mori, h. imabayashi, t. kiyono, s. gojo, s. miyoshi,
+n. hida, m. ita, k. segawa, s. ogawa, m. sakamoto, s. nakamura,
+a. umezawa, can the life span of human marrow stromal cells be
+prolonged by bmi-1, e6, e7, and/or telomerase without aﬀecting
+cardiomyogenic diﬀerentiation? j. gene. med. 6 (2004) 833–845.
+[9] y. kabeya, n. mizushima, t. ueno, a. yamamoto, t. kirisako, t.
+noda, e. kominami, y. ohsumi, t. yoshimori, lc3, a mammalian
+homologue of yeast apg8p, is localized in autophagosome mem-
+branes after processing, embo j. 19 (2000) 5720–5728.
+[10] t. kiyono, s.a. foster, j.i. koop, j.k. mcdougall, d.a. galloway,
+a.j. klingelhutz, both rb/p16ink4a inactivation and telomerase
+activity are required to immortalize human epithelial cells, nature 396
+(1998) 84–88.
+[11] l.f. parada, c.j. tabin, c. shih, r.a. weinberg, human ej bladder
+carcinoma oncogene is homologue of harvey sarcoma virus ras gene,
+nature 297 (1982) 474–478.
+[12] t. okamoto, t. aoyama, t. nakayama, t. nakamata, t. hosaka,
+k. nishijo, t. nakamura, t. kiyono, j. toguchida, clonal hetero-
+geneity in diﬀerentiation potential of immortalized human mesenchy-
+mal stem cells, biochem. biophys. res. commun. 295 (2002) 354–361.
+[14] i. tanida, t. ueno, e. kominami, lc3 conjugation system in
+mammalian autophagy, int. j. biochem. cell. biol. 36 (2004)
+2503–2518.
+[15] t. tanoue, e. nishida, molecular recognitions in the map kinase
+cascades, cell. signal. 15 (2003) 455–462.
+[16] n. serakinci, p. guldberg, j.s. burns, b. abdallah, h. schrodder, t.
+jensen, m. kassem, adult human mesenchymal stem cell as a target
+for neoplastic transformation, oncogene 23 (2004) 5095–5098.
+[17] t. shintani, d.j. klionsky, autophagy in health and disease: a
+double-edged sword, science 306 (2004) 990–995.
+[18] e. ogier-denis, p. codogno, autophagy: a barrier or an adaptive
+response to cancer, biochim. biophys. acta 1603 (2003) 113–128.
+[19] s. pattingre, c. bauvy, p. codogno, amino acids interfere with the
+erk1/2-dependent control of macroautophagy by controlling the
+activation of raf-1 in human colon cancer ht-29 cells, j. biol. chem.
+278 (2003) 16667–16674.
+[20] s. furuta, e. hidaka, a. ogata, s. yokota, t. murata, ras is
+involved in the negative control of autophagy through the class i pi3-
+kinase, oncogene 23 (2004) 3898–3904.
+[21] h. enomoto, t. furuichi, a. zanma, k. yamana, c. yoshida, s.
+sumitani, h. yamamoto, m. enomoto-iwamoto, m. iwamoto, t.
+komori, runx2 deﬁciency in chondrocytes causes adipogenic changes
+in vitro, j. cell. sci. 117 (2004) 417–425.
+[22] b. lecka-czernik, i. gubrij, e.j. moerman, o. kajkenova, d.a.
+lipschitz, s.c. manolagas, r.l. jilka, inhibition of osf2/cbfa1
+expression and terminal osteoblast diﬀerentiation by pparc2, j. cell.
+biochem. 74 (1999) 357–371.
+[23] f. antillo´ n-klu¨ssmann, m. garcı´a-delgado, i. villa-elı´zag, l.
+sierrasesu´maga, mutational activation of ras genes is absent in
+pediatric osteosarcoma, cancer genet. cytgenet.
+(1995)
+49–53.
+79

@@ -1,0 +1,965 @@
+a r t i c l e
+autophagy promotes tumor cell survival and restricts necrosis,
+inﬂammation, and tumorigenesis
+kurt degenhardt,1,2,3,10 robin mathew,1,9,10 brian beaudoin,1,3,10 kevin bray,2,3,4 diana anderson,3
+guanghua chen,1,3,5 chandreyee mukherjee,1,3,5 yufang shi,6,9 ce´ line ge´ linas,1,8,9 yongjun fan,1
+deirdre a. nelson,5 shengkan jin,7,9 and eileen white1,2,3,4,9,*
+1 center for advanced biotechnology and medicine, 679 hoes lane, piscataway, new jersey 08854
+2 department of molecular biology and biochemistry, rutgers university, 604 allison road, piscataway, new jersey 08854
+3 rutgers university, 679 hoes lane, piscataway, new jersey 08854
+4 cancer institute of new jersey, 195 little albany street, new brunswick, new jersey 08903
+5 howard hughes medical institute, 4000 jones bridge road, chevy chase, maryland 20815
+6 department of molecular genetics, microbiology and immunology, university of medicine and dentistry of new jersey,
+robert wood johnson medical school, 675 hoes lane, piscataway, new jersey 08854
+7 department of pharmacology, university of medicine and dentistry of new jersey, robert wood johnson medical school,
+675 hoes lane, piscataway, new jersey 08854
+8 department of biochemistry, university of medicine and dentistry of new jersey, robert wood johnson medical school,
+675 hoes lane, piscataway, new jersey 08854
+9 university of medicine and dentistry of new jersey, robert wood johnson medical school, 675 hoes lane, piscataway,
+new jersey 08854
+10 these authors contributed equally to this work.
+*correspondence: ewhite@cabm.rutgers.edu
+summary
+defective apoptosis renders immortalized epithelial cells highly tumorigenic, but how this is impacted by other common
+tumor mutations is not known. in apoptosis-defective cells, inhibition of autophagy by akt activation or by allelic disruption
+of beclin1 confers sensitivity to metabolic stress by inhibiting an autophagy-dependent survival pathway. while autophagy
+acts to buffer metabolic stress, the combined impairment of apoptosis and autophagy promotes necrotic cell death in vitro
+and in vivo. thus, inhibiting autophagy under conditions of nutrient limitation can restore cell death to apoptosis-refractory
+tumors, but this necrosis is associated with inﬂammation and accelerated tumor growth. thus, autophagy may function in
+tumor suppression by mitigating metabolic stress and, in concert with apoptosis, by preventing death by necrosis.
+introduction
+defects in type i programmed cell death or apoptosis perturb
+development, promote tumorigenesis, and impair chemother-
+apy, suggesting that diversion to an alternative cell death path-
+way such as autophagy or necrosis in these circumstances may
+be therapeutically beneﬁcial. apoptosis is a well-deﬁned pro-
+cess of cellular dismantling that leads to cell corpses that are
+engulfed by phagocytosis in the absence of an inﬂammatory
+response and is a means for cell elimination in development
+(adams, 2003; danial and korsmeyer, 2004). bcl-2 family pro-
+teins are key regulators of apoptosis that are represented by
+antiapoptotic proteins, such as bcl-2, and proapoptotic bax
+and bak, which regulate the efﬂux of proapoptotic molecules
+from mitochondria and other organelles. deﬁciency in bax
+and bak or expression of bcl-2 blocks apoptosis, and this fail-
+ure to execute apoptotic cell death effects development and
+promotes tumorigenesis. as bcl-2 has no additional tumor-
+promoting function in the absence of bax and bak, inhibition
+of the bax/bak apoptotic pathway is the means by which
+bcl-2 enables tumor growth (degenhardt et al., 2002a; nelson
+et al., 2004; tan et al., 2005).
+autophagy, or type ii programmed cell death, is a catabolic
+process whereby cells self-digest intracellular organelles; how-
+ever, when allowed to go to completion, autophagy is a means
+of achieving cell death (edinger and thompson, 2003; levine,
+2005). autophagy is an evolutionarily conserved, genetically
+controlled process that results in the targeting of cellular
+s i g n i f i c a n c e
+while the role of apoptosis in tumor suppression is well known, the importance of other forms of cell death, autophagy and necrosis,
+is only recently becoming realized. autophagy is a catabolic process initiated by starvation, whereby cells self-digest intracellular
+organelles as a mechanism of cell survival or cell death. mice with an allelic loss of the essential autophagy regulator beclin1 are tumor
+prone, although the mechanism involved is not known. alternatively, necrosis results in cell lysis and in cancer is associated with poor
+prognosis. we show that autophagy promotes cell survival in solid tumors and that coordinate inactivation of apoptosis and autophagy
+promotes necrosis and tumor progression associated with inﬂammation.
+cancer cell 10, 51–64, july 2006 ª2006 elsevier inc. doi 10.1016/j.ccr.2006.06.001
+51
+a r t i c l e
+proteins and organelles to lysosomes for degradation. this may
+serve to regulate normal turnover of organelles and to remove
+those with compromised function to maintain homeostasis.
+however, autophagy can also be considered a temporary sur-
+vival mechanism during periods of starvation where self-diges-
+tion provides an alternative energy source and also may facili-
+tate the disposal of unfolded proteins under stress conditions
+(kamatsu et al., 2005; kuma et al., 2004). autophagy is con-
+trolled by mtor downstream of pi-3 kinase/akt, which regu-
+lates cell growth and protein synthesis in response to nutrient
+and growth factor availability. the catabolic function provided
+by autophagy is thereby suppressed when the external nutrient
+supply is adequate to support cellular metabolism. defects in
+autophagy profoundly perturb development, and although hap-
+loinsufﬁciency in the essential autophagy gene beclin1 pro-
+motes tumorigenesis, the mechanism is not known (liang
+et al., 1999; qu et al., 2003; yue et al., 2003).
+a third means to achieve cell death is by necrosis, which usu-
+ally is associated with physical insults, failure of osmotic regula-
+tion, atp depletion, hmgb1 release, cell lysis, and an inﬂamma-
+tory response that may facilitate wound healing (kanduc et al.,
+2002; majno and joris, 1995; nelson and white, 2004; proskur-
+yakov and konoplyannikov, 2003; zeh and lotze, 2005; zong
+and thompson, 2006). although necrotic cell death is not con-
+sidered to be under genetic control, regulators of atp availabil-
+ity such as poly-adp-ribose polymerase determine the propen-
+sity for necrosis and may link necrosis to metabolic function.
+finally, necrosis is a common feature of human tumors and is
+associated with poor prognosis; however, the cause of necrosis
+and its effects on tumor growth are not known.
+we have identiﬁed an oncogene-activated pathway for ne-
+crotic cell death in response to metabolic (ischemic) stress.
+this pathway to necrosis requires inhibition of the primary default
+mechanism of cell death, apoptosis, and occurs by inhibition
+of an autophagy-dependent survival mechanism that sustains
+normal cell function and viability during energy deprivation.
+thus, coordinate genetic inactivation of apoptosis and auto-
+phagy enables death by necrosis, suggesting that a functional
+relationship exists among different death pathways to limit
+necrosis. indeed, necrosis produces an inﬂammatory response
+that is associated with enhanced tumor growth. thus, necrotic
+cell death can be genetically controlled, and there are functional
+interactions between the three cell death mechanisms. under-
+standing how different forms of cell death are controlled, are
+interdependent, and impact the tumor microenvironment may
+yield insight into their role in cancer and into the development
+of effective therapies.
+results
+akt promotes epithelial tumorigenesis in the presence
+and absence of a functional apoptotic pathway
+to determine the role of the akt pathway in epithelial tumori-
+genesis and the functional relationship with apoptosis, immor-
+talized baby mouse kidney epithelial (ibmk) cells that express
+bax/bak (w2) or that are bax/bak-deﬁcient (d3) (degenhardt
+et al., 2002b) were engineered to stably express either a consti-
+tutively active form of akt (myr-akt) or ras (h-rasv12). several
+ras- and akt-expressing stable clones were derived from both
+w2 and d3 parental ibmk cell lines, along with vector controls.
+all express e1a and p53dd, whereas bax and bak are
+expressed only in w2 (figure 1a; data not shown; tan et al.,
+2005). to assess the tumorigenic capacity of w2 and d3 cells
+expressing either activated ras or akt, cells were injected sub-
+cutaneously into nude mice.
+the vector control w2 cells (w2 3.1.2, 5, and 6) were poorly tu-
+morigenic with clonal tumor growth occurring beyond 3 months
+postinjection (figure 1b) (degenhardt et al., 2002a; nelson et al.,
+2004; tan et al., 2005). failure of w2 cells to establish tumors
+efﬁciently in vivo is attributed to ischemic conditions following
+implantation in vivo that result in bim-dependent, bax/bak-
+mediated apoptosis that largely eliminates w2 cells (nelson
+et al., 2004; tan et al., 2005). in contrast, ras rendered w2 cells
+highly tumorigenic, with tumors forming within 16 days, remark-
+ably faster than bax/bak-deﬁcient d3 cells (figure 1b), where
+an apoptotic block enables tumor growth within 30–60 days
+(degenhardt et al., 2002a; nelson et al., 2004; tan et al., 2005).
+interestingly, ras enhanced d3 tumor growth, indicating a tu-
+mor-promoting function independent of apoptosis regulation
+(figure 1b). akt promoted w2 tumor growth, although less so
+than ras (figure 1b). in contrast, akt dramatically enhanced
+d3 tumor growth to nearly that of ras (figure 1b). although
+akt promotes cell survival, akt-mediated acceleration of tumor
+growth in bax/bak-deﬁcient cells indicates a tumor-promoting
+activity independent of apoptosis inhibition. indeed, akt syner-
+gizes with antiapoptotic bcl-xl to promote leukemogenesis
+(karnauskas et al., 2003) and has prominent roles in regulating
+cell growth and metabolism that contribute to tumorigenesis
+(hanada et al., 2004). given the importance of the pi3 kinase/
+akt pathway in human tumorigenesis, it was of interest to iden-
+tify the apoptosis-independent function of akt that enhanced
+solid tumor growth observed here.
+akt promotes tumor necrosis associated with metabolic
+stress when apoptosis is disabled
+to examine the mechanism of enhanced tumor growth by akt,
+tumors were examined histologically by hematoxylin and eosin
+(h&e) and immunohistochemistry (ihc). late-forming tumors
+derived from w2 cells are invasive carcinomas with a high mi-
+totic rate (p-h3 staining), isolated areas of necrosis, and scat-
+tered active caspase-3-positive apoptotic cells (figure 1c;
+figure s1 in the supplemental data available with this article on-
+line) (nelson et al., 2004). d3 tumors are invasive carcinomas
+with a high mitotic rate and prevalent polyploid tumor giant cells
+(figure 1c; figure s1) (degenhardt et al., 2002a; nelson et al.,
+2004). isolated necrotic areas are found, but no apoptosis oc-
+curs, as indicated by an absence of active caspase-3 (figure s1)
+(nelson et al., 2004). evidence suggests that ischemic condi-
+tions in the tumor microenvironment result in mitotic slippage
+or adaptation to generate ploidy abnormalities in tumor cells
+that are preserved by an apoptotic defect (nelson et al., 2004).
+akt enabled w2 cells to form carcinomas with a high mitotic
+rate without tumor giant cells (figure 1c; figure s1). surpris-
+ingly, and in contrast to the d3 tumors, d3 akt tumors (and
+also d3 ras) were largely necrotic. viable d3 akt tumor cells
+were apparent in a striking growth pattern surrounding blood
+vessels in layers approximately ten cells deep (figure 1c). radi-
+ating outward from the regions of viable tumor was a layer of
+necrotic cells typiﬁed by condensed disk-shaped nuclei and eo-
+sinophilic (pink) cytoplasm, which were followed by areas of cell
+debris with possible inﬁltrating host cells (see below) (figure 1c).
+in contrast to d3 tumors that were nearly entirely composed of
+52
+cancer cell july 2006
+a r t i c l e
+figure 1. akt and ras promote tumor growth in both wild-type and apoptosis-defective genetic backgrounds
+a: western blots showing protein expression in the w2 and d3 derived vector control and akt-expressing ibmk cell lines.
+b: tumor growth kinetics of ibmk cell lines. w2 vector controls (blue) compared to w2 derivatives expressing ras (yellow). w2 vector control (blue) compared
+to w2 derivatives expressing myr-akt (green). bax/bak-deﬁcient d3 (red) and w2 plus ras (yellow) are included for comparison. addition of ras to bax/bak-
+deﬁcient d3 cells accelerates tumor growth as depicted by d3 (red) and d3 plus ras (yellow). akt promotes tumor growth of apoptosis-defective d3 cells as
+depicted by d3 akt cells (purple). w2 (blue), w2 plus akt (green), d3 and d3 vector controls (red), and w2 plus ras (yellow) are shown for comparison.
+c: h&e staining of w2, w2 akt, d3, and d3 akt tumors illustrating tumor giant cells (tgc), necrosis (n), necrotic cells (nc), blood vessels (bv), and healthy tumor
+(tumor). boxes indicate location of magniﬁed areas.
+d: hypoxyprobe staining (nelson et al., 2004) of d3 akt and d3 tumors indicating hypoxic conditions associated with necrotic regions in d3 akt tumors.
+e: h&e staining of w2 bcl-2 tumors and w2 bcl-2 akt tumors (nelson et al., 2004) illustrating the pronounced necrosis (n) induced by akt activation indepen-
+dent of the means of apoptosis inhibition.
+cancer cell july 2006
+53
+a r t i c l e
+viable tumor cells, roughly half the volume of d3 akt and d3
+ras tumors was necrotic. furthermore, hypoxic conditions
+localized to necrotic areas of d3 akt tumors, neither of which
+were present in d3 tumors (figure 1d), suggesting that necrosis
+in vivo was associated with metabolic stress.
+ihc for active caspase-3 (nelson et al., 2004) indicated scant
+evidence of apoptosis in d3, d3 akt, and d3 ras tumors, al-
+though necrotic areas of d3 akt and d3 ras tumors showed
+active caspase-3 positive cells of undetermined origin, possibly
+tumor or inﬁltrating host cells (figure s1). w2 (nelson et al.,
+2004), w2 akt, and w2 ras tumors displayed active cas-
+pase-3 scattered throughout tumor tissue (figure s1). further-
+more, akt activation in tumors where apoptosis was inhibited
+by bcl-2 were necrotic, indicating that promotion of necrosis
+was independent of the means of apoptosis inactivation (fig-
+ure 1e). thus, activation of akt or ras stimulated tumor growth
+but also activated cell death by necrosis speciﬁcally in tumors
+possessing an apoptotic defect and in association with metabolic
+stress. finally, the necrotic tumor phenotype was not merely
+a reﬂection of rapid growth, as raf activation (raf-caax) sim-
+ilarly promoted d3 tumor growth but without necrosis (data not
+shown). this suggests that akt activation can profoundly sensi-
+tize apoptosis-defective tumors to necrotic cell death.
+akt activation in apoptosis-defective cells stimulates
+necrosis in response to metabolic stress in vitro
+to test the hypothesis that metabolic stress in tumors in vivo
+was the stimulus for not only apoptotic cell death in w2 cells,
+but also necrotic cell death in d3 akt cells, ibmk cell
+lines
+were subjected to ischemia in vitro. w2, w2 akt, d3, and d3
+akt ibmk cell
+lines were either untreated or incubated in a
+1% oxygen gas mixture and no glucose that simulates ischemic
+conditions in the tumor microenvironment (nelson et al., 2004),
+and cells were analyzed by ﬂow cytometry. while all four cell line
+genotypes displayed a normal cell cycle proﬁle when untreated,
+apoptotic cell death occurred, indicated by the increase in the
+sub-g1 population in treated w2 and w2 akt cells and activa-
+tion of caspase-3 (figures 2a and 2b). although akt can block
+apoptosis, this does not occur in ischemia, since akt requires
+glucose to inhibit apoptosis (gottlob et al., 2001; plas et al.,
+2001). in contrast, apoptosis-defective d3 cells remained viable
+in ischemia, and cells accumulated at g2/m and beyond (fig-
+ure 2a) (nelson et al., 2004) without activating caspase-3 (fig-
+ure 2b). d3 akt cells, however, lost viability in ischemia due to
+cellular disintegration without stimulation of caspase-3 activa-
+tion (figures 2a and 2b). the dramatic induction of cell death
+by akt in d3 cells required both glucose and oxygen deprivation,
+as deprivation of either alone was substantially less effective.
+this was also observed by trypan blue staining in multiple inde-
+pendent cell lines (data not shown). electron microscopy (em)
+under normal and ischemic conditions revealed apoptotic mor-
+phology in ischemic w2 and w2 akt cells, and necrosis of ische-
+mic d3 akt cells as indicated by vacuolated cytoplasm (fig-
+ure 2c) coincident with release of the necrotic marker hmgb1
+(scafﬁdi et al., 2002) from nuclei (figure 2d). thus, cell death trig-
+gered by akt activation in bax/bak-deﬁcient cells under meta-
+bolic stress resembles necrosis and not apoptosis, which sensi-
+tized these normally death-resistant cells to cell death.
+strikingly, d3 cells under ischemia displayed a highly unusual
+ultrastructural morphology consisting of the accumulation of
+double membrane vesicles containing cytoplasmic organelles
+indicative of autophagy (figure 2c) while retaining nuclear
+hmgb1 (figure 2d). autophagy can be a method of cell death
+if allowed to proceed to completion; however, it is also a mecha-
+nism for prolonging survival in response to nutrient depletion by
+permitting the utilization of a cell-internal energy source. this
+suggested that cells apoptose in response to ischemia, but
+that defective apoptosis permits sustained autophagy possibly
+to support survival that may be compromised by akt activation.
+akt inhibits autophagy-mediated survival in ischemia
+to quantitate the level of autophagy induced by ischemia in d3
+compared to d3 akt cells, cytosol to membrane translocation
+of the autophagy marker egfp-lc3 was monitored (mizushima
+et al., 2004; tanida et al., 2004). both d3 and d3 akt cells
+displayed predominantly diffuse egfp-lc3 localization under
+normal growth conditions (figure 3a). in ischemia there was
+a dramatic shift in the distribution of egfp-lc3 from diffuse to
+punctate localization, indicative of lipidation and membrane
+translocation in d3 cells that was substantially delayed in d3
+akt cells (figures 3a and 3b). by 48 hr of ischemia, the percent-
+age of translocated egfp-lc3 in d3 akt cells approximated
+that in d3 cells (figure 3b), but by that time the viability of d3
+akt cells was less than 10% compared to 90% in d3 cells (fig-
+ure 2a; data not shown). similar results were obtained by exam-
+ining lipidation of endogenous lc3 (data not shown). thus, in
+the background of an apoptosis defect, akt activation impairs
+autophagy induction in response to metabolic stress, potentially
+eliminating a survival mechanism resulting in necrosis.
+autophagy was also induced by ischemia prior to apoptosis
+in w2 cells (from 3% to 57% at 6 hr of ischemia), and impaired
+induction of autophagy was observed in w2 akt cells (from
+10% to 20% at 6 hr of ischemia). in apoptosis-competent cells,
+starvation induces both autophagy and apoptosis; however,
+w2 and w2 akt undergo apoptosis at equal rates (figure 2a),
+suggesting that the induction of autophagy does not delay or
+prevent apoptosis and that apoptosis prevails over autophagy.
+in contrast to normal cells (cardiac cells under neonatal starva-
+tion, for example) where autophagy may delay or prevent apo-
+ptosis, oncogene activation predisposes cancer cells to apo-
+ptosis that may not allow survival by autophagy.
+knockdown of autophagy promotes sensitivity
+to metabolic stress
+to test if autophagy is the mechanism used by d3 cells to sur-
+vive ischemia, the expression of the essential autophagy gene
+beclin1 was knocked down using rnai, and the impact on cell
+viability under ischemic conditions was determined. rnai effec-
+tively reduced beclin1 protein levels relative to the lamina/c
+control (figure 3c), reduced autophagy induction in ischemia
+(figure 3d), and impaired survival in ischemia (figure 3e). similar
+results were obtained using rnai targeting a different sequence
+in beclin1 or another essential autophagy gene, atg5 (figure s2).
+thus, autophagy enables survival of ibmk cells to metabolic
+stress when apoptosis is inactivated.
+to address if autophagy is generally required for epithelial
+cancer cells to survive metabolic stress, hela cells were engi-
+neered with an apoptosis defect through bcl-xl or bcl-2 ex-
+pression, and beclin1 was inhibited using rnai. knockdown
+of beclin1 (figure 3f) signiﬁcantly reduced autophagy in meta-
+bolically stressed cells with (hela) or without (hela bcl-xl or
+bcl-2) the capacity for apoptosis (figure 3g). as in d3 cells,
+54
+cancer cell july 2006
+a r t i c l e
+figure 2. ischemia induces autophagy in bax/bak-deﬁcient ibmk cells that is diverted to necrosis by akt activation
+a: flow cytometry of w2, w2 akt, d3, and d3 akt cells treated with ischemia in vitro for the indicated number of hours. arrows indicate the positions of 2n/g1
+(left) and 4n/g2/m (right) dna content.
+b: induction of caspase-3 activation in w2 and w2 akt but not in d3 or d3 akt cells in response to ischemia in vitro. western blot of cell extracts indicates p17
+active caspase-3 band (arrows) and nonspeciﬁc band (*).
+c: em of untreated and ischemic (48 hr) w2, w2 akt, d3, and d3 akt cells from a. note the apoptotic morphology of w2 and w2 akt cells, the autophagy
+morphology of d3 cells (arrows indicate membranous organelle-like accumulations within vacuoles), and the necrotic morphology with vacuolated cyto-
+plasm of d3 akt cells. insets represent progressive and distinctive endpoints indicative of autophagy (d3), or necrosis displaying a completely condensed
+nucleus (d3 akt).
+d: loss of nuclear hmgb1 staining in necrotic d3 akt (arrows) but not d3 cells in ischemia (48 hr) as a marker of necrosis.
+knockdown of beclin1 reduced survival in hela cells expressing
+bcl-xl or bcl-2 under ischemic conditions in comparison to
+the lamina/c rnai controls. in contrast, beclin1 knockdown
+had no effect on the viability of hela cells with an intact apop-
+totic response (figure 3h). therefore, the response of epithelial
+cancer cells to metabolic stress is apoptosis, which, when
+cancer cell july 2006
+55
+a r t i c l e
+figure 3. ischemia induces autophagy in apoptosis-defective cells that when inhibited by akt promotes cell death by necrosis
+a: bax/bak-deﬁcient d3 cells without and with akt expressing the autophagy marker egfp-lc3 were untreated or placed under ischemic conditions for 24 hr.
+egfp-lc3 displayed diffuse intracellular localization under normal growth conditions, and membrane translocation (punctate localization) indicative of
+autophagy was observed in ischemic d3 cells, which was substantially inhibited in d3 akt cells.
+b: quantitation of egfp-lc3 translocation in untreated and ischemic d3 and d3 akt cells (representative of three independent experiments). note that,
+although the d3 akt cells treated with ischemia have a high proportion of cells with translocated lc3 by 2 days in ischemia, viability is low.
+c: western blot showing knockdown of beclin1 in d3 cells relative to the lamina/c control at 24, 48, and 72 hr posttransfection under normal culture condi-
+tions; hours posttransfection correspond to 0, 24, and 48 hr of ischemia in d and e.
+d: reduction of autophagy in d3 cells by beclin1 rnai from c assessed by egfp-lc3 translocation.
+e: knockdown of beclin1 impairs survival of d3 cells to metabolic stress. viability of d3 cells from c and d was assessed at 0, 24, and 48 hr of ischemia.
+f: western blot time course of beclin1 knockdown by rnai relative to the lamina/c control under normal culture conditions in hela vector control cells and
+hela cells expressing bcl-xl or bcl-2.
+g: knockdown of beclin1 in hela cells impairs autophagy induction by ischemia. quantitation of egfp-lc3 translocation in untreated (0 hr) and ischemic
+treated (24 and 48 hr) hela vector controls or hela cells expressing bcl-xl or bcl-2 following beclin1 or lamina/c knockdown for 24 hr by rnai.
+h: knockdown of beclin1 in hela cells expressing bcl-xl or bcl-2 under ischemic conditions induces cell death. viability of hela cells without or with bcl-xl or
+bcl-2 in response to ischemia with or without knockdown of beclin1 by rnai is described in e and f.
+i: model for functional ordering and regulation of death pathways leading to necrosis. values represent the mean 6 standard deviation for n r 3.
+error bars represent 6one standard deviation.
+disabled by bax/bak deﬁciency or by bcl-xl or bcl-2 expres-
+sion, permits survival by autophagy. akt activation, which in-
+hibits autophagy (arico et al., 2001) (figure 2), or direct downre-
+gulation of beclin1 blocks this survival pathway, stimulating
+necrotic cell death (figure 3i). this reliance on autophagy for
+maintenance of cellular functions during metabolic stress may
+be further exacerbated by dependency on glycolytic metabo-
+lism conferred by akt.
+necrosis is distinct from apoptosis and is a less
+efﬁcient means of cell death
+the data above illustrate that genetic determinants establish
+whether cells respond to metabolic stress with apoptosis,
+autophagy, or necrosis. to begin to compare the result of these
+three distinct responses to the same stimulus, multiﬁeld time-
+lapse microscopy was used to follow cell fates over 5 days in
+ischemia in vitro. w2 (figures 4a and 4b) and w2 akt (data
+not shown) underwent classic apoptosis between 24 and 72 hr
+characterized by an abrupt morphologic change (within 10 min)
+with membrane blebbing that was completed in under an hour.
+this is characteristic of apoptosis and consistent with the
+apoptotic nuclear morphology and caspase-3 activation (fig-
+ures 2a and 2b). cell division in ischemia was limited to less
+than one prior to the onset of apoptosis (figure 4a). in contrast,
+ischemia caused d3 akt cells to undergo violent cytoplasmic
+vesicle movement (cytoplasmic boiling) and to become refractile
+56
+cancer cell july 2006
+a r t i c l e
+figure 4. distinct morphological
+features of
+apoptosis, necrosis, and autophagy in ischemia
+a: identical frames from 5 day time-lapse videos
+of the indicated cell lines in ischemia (1003). no
+morphological changes were apparent in w2 or
+d3akt cells beyond 72 and 48 hr, respectively
+(data not shown). boxed cells and inset (en-
+larged) show d3 akt cells undergoing lysis. at
+112 hr of ischemia, d3 cells were returned to nor-
+mal culture conditions and photographed 120 hr
+later to document recovery. a representative
+frame of the recovery of d3 cells is shown.
+b: representative individual cells from a were fol-
+lowed for the indicated times beginning immedi-
+ately prior to any signs of altered morphology in
+ischemia beginning at 13.5 hr for w2, 16.6 hr for
+d3 akt, and 52.6 hr for d3.
+c: impact of different modes of cell death on
+clonogenic survival. w2, w2 akt, d3, and d3
+akt cells were treated with ischemia for 3, 5,
+and 7 days, and the potential for clonogenic
+growth was determined following return to nor-
+mal growth conditions (one of two replicates).
+and lyse within 48 hr by a process that was clearly distinguished
+from apoptosis (figures 4a and 4b). cell division in ischemic d3
+akt cells was rare, with less than 10% of the cell population di-
+viding prior to the onset of necrosis (figure 4a). remarkably, d3
+cells surviving ischemia by autophagy continued to proliferate for
+72 hr, undergoing several cell divisions, after which proliferation
+and cell motility slowed to give way to progressive cellular con-
+densation (condensation phase) culminating by 5 days (figures
+4a and 4b). however, following condensation, these condensed
+cells were not dead, as restoration of nutrients and oxygen re-
+sults in reversal of this process and resumption of proliferation
+for the majority of cells (figure 4a).
+to compare the efﬁciency and extent of the different forms of
+cell death, w2, w2 akt, d3, and d3 akt cells were incubated
+under ischemic conditions for 3, 5, and 7 days, after which
+they were returned to normal growth conditions and evaluated
+for clonogenic survival. both w2 and w2 akt cells were killed
+rapidly and efﬁciently with survival of less than 1 in 106 cells fol-
+lowing 5 days of ischemia, whereas d3 cells remained nearly
+completely viable even after 7 days in ischemia (figure 4c).
+while d3 akt cells displayed impaired clonogenic survival as
+expected, necrotic cell death was less efﬁcient and much
+more asynchronous than apoptosis and resulted in gradual
+102- to 103-fold impairment in clonogenic survival (figure 4c).
+autophagy in tumors localizes to the center
+prior to acquisition of a blood supply
+to determine when and where autophagy occurred during tu-
+morigenesis, tumors generated from d3 cells stably expressing
+egfp-lc3 were examined for membrane translocation at 1, 3,
+and 15 days following implantation in vivo. at days 1 (figure 5a)
+and 3 (data not shown), egfp-lc3 localization was diffuse only
+at the perimeter and was punctate, indicative of autophagy in
+the center of the tumor mass. angiogenesis does not occur prior
+to day 3, and tumors are hypoxic, particularly in interior regions
+(nelson et al., 2004). in contrast, at day 15, by which time d3 tu-
+mors have established a blood supply and are no longer hypoxic
+(nelson et al., 2004), the localization of egfp-lc3 was diffuse,
+with only scattered rare cells displaying punctate localization
+(figure 5b). thus, autophagy localizes to unvascularized, meta-
+bolic stressed regions of tumors. further conformation of the
+spatial and temporal occurrence of autophagy in tumors awaits
+cancer cell july 2006
+57
+a r t i c l e
+figure 5. autophagy in tumors localizes to regions of metabolic stress prior to angiogenesis
+tumors were established from d3 cells stably expressing egfp-lc3 and monitored for membrane translocation indicative of autophagy at days 1 (a) and 15 (b)
+following implantation. following excision, tumors were processed for histology (frozen sections) to preserve egfp-lc3 ﬂuorescence (mizushima et al., 2004);
+a section through the entire tumor at day 1 and 1/4 of the tumor at day 15 is shown by h&e (magniﬁcation 403), and a panorama across the tumor is shown
+for ﬂuorescence (magniﬁcation 6003), as indicated. ‘‘e’’ and ‘‘c’’ indicate individual images from the tumor edge and center, respectively, enlarged to high-
+light the differential localization of egfp-lc3 at day 1 that is diffuse at the tumor periphery and punctate in the center. due to the compactness of the cells in
+the tumor, punctations may represent more than one autophagosome. day 15 tumors have recruited a blood supply and display diffuse egfp-lc3 localiza-
+tion throughout the tumor.
+a similar analysis of the beclin1+/+ and beclin1+/2 tumors (see
+below).
+role of beclin1 in oncogene-activated necrosis
+to directly address the contribution of autophagy inhibition by
+akt to induction of necrosis and stimulation of tumorigenesis,
+ibmk cells with allelic loss of the essential autophagy gene
+beclin1 were generated and examined. all beclin1+/2 and
+beclin1+/+ ibmk cell lines expressed e1a and p53dd, and re-
+duced beclin1 expression was observed as expected in
+beclin1+/2 cell lines (figure 6a). beclin1+/+ and beclin1+/2 ibmk
+cells were engineered without and with an apoptosis defect
+(bcl-2 expression, figure 6a) to document the impact of a
+reduced capacity for autophagy on survival and method of
+cell death.
+reduced constitutive autophagy was apparent in beclin1+/2
+cells (1%) compared to beclin1+/+ cells (3.5%) even under nor-
+mal growth conditions as measured by egfp-lc3 transloca-
+tion. as with w2 cells, ischemia efﬁciently induced autophagy
+in beclin1+/+ cells prior to apoptosis (59% at 6 hr of ischemia),
+and allelic loss of beclin1 impaired autophagy (18% at 6 hr of
+ischemia) without altering the time course of apoptosis (fig-
+ure 6d). bcl-2 expression blocked apoptosis (figure 6d), and
+beclin1 haploinsufﬁciency diminished constitutive autophagy
+and its induction in ischemia (figures 6b and 6c). autophagy
+induction levels in the bcl-2-expressing cells were robust and
+similar to bak/bak-deﬁcient cells, suggesting that inhibition
+of beclin1 by bcl-2 (pattingre et al., 2005; shimizu et al.,
+2004) is not a signiﬁcant factor in these circumstances.
+multiple independent bcl-2-expressing beclin1+/+ and
+beclin1+/2 ibmk cell
+lines, and representative beclin1+/+ and
+beclin1+/2 cell lines without bcl-2, were incubated in ischemia,
+and viability was assessed. both wild-type and beclin1+/2 cells
+were readily killed over the course of 2 days as expected,
+whereas wild-type cells expressing bcl-2 were markedly resis-
+tant, with the number of viable cells increasing in the ﬁrst 24 hr
+(figure 6d). little effect of beclin1 haploinsufﬁciency was appar-
+ent in cells with an apoptotic response. in the background of an
+apoptosis defect, however, beclin1 haploinsufﬁciency dimin-
+ished the survival advantage provided by bcl-2 (figure 6d).
+these ﬁndings are consistent with the restoration of cell death
+in ischemic d3 and hela bcl-xl and bcl-2 cells, where
+beclin1 and autophagy were compromised by rnai (figure 3).
+to extend these observations, beclin1+/+ and beclin1+/2 ibmk
+cell lines expressing bcl-2 (wb-13 and blnb-12, respectively)
+were examined over the course of 3 days by time-lapse
+58
+cancer cell july 2006
+a r t i c l e
+figure 6. beclin1 haploinsufﬁciency impairs survival in ischemia in an apoptosis-defective background
+a: western blot analysis of beclin1, bcl-2, e1a, p53dd, and actin in beclin1+/+ and beclin1+/2 ibmk cell lines with and without bcl-2 expression.
+b: beclin1 haploinsufﬁciency impairs autophagy. beclin1+/+ and beclin1+/2 ibmk cells expressing bcl-2 (wb-3 and blnb-12) were transfected with the egfp-
+lc3 expression vector and at 24 hr posttransfection were subjected to 0 and 24 hr of ischemia and were monitored for membrane translocation by ﬂuores-
+cence microscopy. representative ﬁelds are shown.
+c: quantitation of egfp-lc3 translocation (% autophagy) in wb-3 and blnb-12 in b following 0, 1, 2, and 3 days in ischemia.
+d: beclin1 haploinsufﬁciency impairs viability in ischemia only when apoptosis is inhibited. beclin1+/+ and beclin1+/2 ibmks with and without bcl-2 were incu-
+bated in ischemic conditions, and viability was assessed by trypan blue staining at the indicated times.
+e: time course of morphological alterations due to beclin1 haploinsufﬁciency in ibmk cells expressing bcl-2 (wb-13 and blnb-12). beclin1+/+ cells expressing
+bcl-2 proliferate, followed by cellular condensation, whereas beclin1+/2 cells expressing bcl-2 display diminished capacity to sustain proliferation and show
+accelerated necrosis.
+f: em (50003) of beclin1+/+ bcl-2 (wb-13) and beclin1+/2 bcl-2 (blnb-12) following 7 days in ischemia. note the condensed morphology of wb-13 and the
+vacuolated and necrotic morphology of blnb-12.
+cancer cell july 2006
+59
+a r t i c l e
+figure 7. beclin1 haploinsufﬁciency promotes epithelial tumorigenesis
+a: tumor growth kinetics of two beclin1+/+ (w4-2, w4-1) and two beclin1+/2 (bcln34-3, bcln4-1) ibmk cell lines.
+b: tumor growth kinetics of two beclin1+/+, bcl-2-expressing (wb-10, wb-13) and two beclin1+/2, bcl-2-expressing (blnb-4, bclnb-13) ibmk cell lines.
+c: histology of two beclin1+/+, bcl-2 (left) and two beclin1+/2, bcl-2 (right) tumors. one out of eight beclin1+/+, bcl-2 tumors and six out of eight beclin1+/2,
+bcl-2 tumors showed evidence of necrosis (n). all tumors were between 500 and 1000 mm3 at the time of histological analysis.
+microscopy. bcl-2 protected wild-type cells from cell death by
+ischemia (figures 6d and 6e) similarly to d3 cells (figures 4a
+and 4c), which otherwise show substantially reduced viability
+by 48 hr (figures 2 and 4). bcl-2 expression in wild-type cells
+allowed 1 to 2 rounds of cell division in the ﬁrst 24 hr in ischemia
+(figures 6d and 6e). cellular condensation commenced on day
+2 and continued through day 3, with the majority of the cells re-
+taining viability (figures 6d and 6e). in contrast, the ability of
+bcl-2 to provide protection from ischemia was diminished
+in the beclin1+/2 cells. cell division in ischemic conditions was
+halted rapidly, with only one in ﬁve cells dividing in the ﬁrst 24
+hr, followed by cell death resembling necrosis (figures 6d and
+6e). em revealed condensed but healthy morphology of
+beclin1+/+ bcl-2 cells, but vacuolated and necrotic morphology
+of beclin1+/2 bcl-2 cells by 7 days in ischemia (figure 6f), in-
+dicative of failed organelle integrity (figure 6f). thus, in the
+background of a defect in apoptosis, autophagy can temporarily
+sustain homeostasis under conditions of metabolic stress. cells
+that are defective for autophagy, however, lack this capacity to
+insulate themselves from ﬂuctuations in external nutrient avail-
+ability, which renders them vulnerable to metabolic stress.
+autophagy deﬁciency promotes tumor
+growth and necrosis
+haploinsufﬁciency in beclin1 impairs autophagy and promotes
+tumorigenesis in mice, and beclin1 is monoallelically deleted in
+many breast, prostate, and ovarian tumors, indicating a role for
+autophagy in tumor suppression (edinger and thompson,
+2003; liang et al., 1999; qu et al., 2003; yue et al., 2003). dis-
+abling both apoptosis and autophagy in stressed cells may be
+a formula for induction of necrotic cell death, but whether this is
+related to the mechanism by which beclin1 haploinsufﬁciency
+promotes tumorigenesis is not known. to test the roles of defec-
+tive apoptosis and autophagy on tumorigenesis, beclin1+/+ and
+beclin1+/2 ibmk cells without and with bcl-2 were evaluated
+for tumor growth. beclin1+/+ ibmk cells formed tumors only
+with prolonged latency (greater than 2 months) (figure 7a) as ex-
+pected and consistent with clonal emergence (degenhardt et al.,
+2002a; nelson et al., 2004; tan et al., 2005). allelic loss of beclin1
+slightly accelerated tumor growth compared to beclin1+/+ cells,
+but tumor growth still took 2 months (figure 7a), consistent
+with a modest increase in the frequency of clonal emergence.
+bcl-2 accelerated tumor growth, which was accelerated even
+further by allelic loss of beclin1 (figure 7b). thus, defective
+autophagy stimulates tumor growth and synergizes with defec-
+tive apoptosis to promote tumorigenesis. beclin1+/2 bcl-2
+tumor growth was still substantially slower than that of the d3
+akt tumors (figure 1b), suggesting that inhibition of autophagy
+by akt contributes to tumorigenesis but that other akt functions
+also play a role in promoting tumor growth. finally, tumor histol-
+ogy revealed a greater prevalence of necrosis in bcl-2-express-
+ing beclin1+/2 compared to beclin1+/+ tumors (figure 7c), consis-
+tent with the possibility that altering the mode of cell death from
+apoptosis or autophagy to necrosis can impact tumor growth.
+beclin1 haploinsufﬁcient tumors, however, were not as necrotic
+as tumors with activated akt, indicating that altered metabolism
+or growth conferred by akt may further promote necrosis.
+tumor necrosis stimulates an inﬂammatory response
+oncogene-activated necrosis in vivo is associated with en-
+hanced tumor growth. to begin to address the possibility that
+there is a differential immune response to nonnecrotic and ne-
+crotic tumors that may inﬂuence tumor growth, d3 and d3
+akt tumors were evaluated for evidence of macrophage inﬁltra-
+tion (mac3 ihc). d3 tumors showed few macrophages, whereas
+the d3 akt tumors displayed massive macrophage inﬁltration
+throughout all necrotic areas up to the border of healthy tumor
+tissue (figure 8a); thus, tumor necrosis is associated with mac-
+rophage inﬁltration. macrophages and other cells constituting
+an inﬂammatory inﬁltrate produce cytokines and chemokines
+that impact cell proliferation, angiogenesis, and recruitment of
+other immune effector cells to the site of a wound, infection, or
+tumor. indeed, strong p50 nf-kb ihc staining (both nuclear
+and cytoplasmic) was observed throughout d3 akt healthy tu-
+mor tissue that was less apparent in d3 tumors (figure 8b). fur-
+thermore, higher activity of the cytokine and nf-kb-responsive
+il-6 promoter-luc reporter was observed in d3 akt tumors
+compared to d3 tumors in vivo (figure 8c). thus, oncogene-ac-
+tivated tumor necrosis stimulates the innate immune response
+that has the potential to impact tumor growth (figure 8d).
+60
+cancer cell july 2006
+a r t i c l e
+figure 8. tumor necrosis is associated with macrophage inﬁltration and cytokine and chemokine production
+a: the macrophage marker mac3 staining of d3 (b4) and d3 akt (d5) tumors by ihc with brown staining indicating reactivity in necrotic areas (1003, insets
+4003). note the high level of reactivity in necrotic areas of d3 akt tumors and the near absence of staining in d3 tumors.
+b: ihc for p50 nf-kb as in a demonstrating enhanced staining in d3 akt tumors.
+c: in vivo tumor necrosis is associated with enhanced activity of the cytokine-responsive il6 promoter. tumors were generated subcutaneously by injecting d3
+or d3akt cells stably expressing a luciferase reporter gene under the control of three nf-kb dna binding motifs from the il6 promoter and monitored for in vivo
+promoter activation. to compare the relative luminescence signals in d3 and d3 akt tumors, the total photon values were normalized to basal luminescence
+activity at day 2 postinjection and compared to that after tumor growth where tumor sizes were comparable: day 15 for d3 akt with an average tumor vol-
+ume of 88.9 mm3, day 29 for d3 with an average tumor volume of 82.2 mm3. the graph represents relative il6-luc activity from ﬁve individual tumors of each
+genotype with the mean indicated by the bar.
+d: model for hierarchy of death pathways and impact on tumor growth.
+discussion
+metabolic stress is a common occurrence in human tumors that
+can potently induce cell death by apoptosis; however, in tumor
+cells possessing an apoptotic defect this results instead in in-
+duction of autophagy, which supports survival. catabolism and
+elimination of damaged organelles by autophagy may serve to
+maintain normal cellular function under conditions of ﬂuctuating
+oxygen and nutrient supply. autophagy may thereby be beneﬁ-
+cial as a buffer to short-term interruptions in nutrient availability.
+the pi3-kinase/akt pathway stimulates cell growth in re-
+sponse to nutrients in part through activating mtor, which pro-
+motes protein synthesis while inhibiting autophagy (guertin and
+sabatini, 2005). constitutive activation of this pi3-kinase/akt/
+mtor signaling may render cells susceptible to metabolic ca-
+tastrophe upon nutrient limitation by increasing energy demand
+and promoting inefﬁcient energy production (glycolysis) while
+curtailing the ability to use autophagy. constitutive activation
+of akt is a common event in oncogenesis that deregulates
+cell growth and uncouples nutrient availability from proper
+downregulation of metabolism. the combined inactivation of
+apoptosis and activation of akt results in induction of necrotic
+cell death under starvation conditions, demonstrating a level
+of genetic control governing the propensity for necrosis.
+association of necrosis, inﬂammation,
+and tumorigenesis
+in tumors, as is the case for physical injury, necrosis is associ-
+ated with inﬂammation. with physical
+injury, inﬂammation is
+part of wound healing, where cellular inﬁltration and chemokine
+and cytokine production function to stimulate proliferation,
+tissue remodeling, and angiogenesis to facilitate repair. the in-
+ﬂammatory response to stress-mediated, oncogene-activated
+necrosis in tumors, by analogy to a wound healing response,
+may stimulate angiogenesis and tumor cell proliferation (balkwill
+et al., 2005; balkwill and coussens, 2004; vakkila and lotze,
+2004; zeh and lotze, 2005). local activation of an innate immune
+response in tumors in the absence of t cells as described here
+may serve to promote tumor progression but may facilitate tumor
+regression by recruiting a t cell response. however, recent
+cancer cell july 2006
+61
+a r t i c l e
+evidence also suggests that tumor-associated inﬂammation can
+enhance tumor progression in an immune competent host (balk-
+will and coussens, 2004; greten et al., 2004; pikarsky et al.,
+2004). how inﬂammation alters the tumor microenvironment
+and modulates tumorigenesis requires further investigation.
+apoptosis may be the preferred means of cell death for epi-
+thelial cells upon damage or stress, as cell elimination occurs
+without inﬂammation. if apoptosis fails, autophagy can sustain
+viability in the short term and possibly lead to cell death in the
+long term without inﬂammation. inhibition of autophagy in tu-
+mors with a defective apoptotic response under conditions of
+metabolic stress is an effective means of diverting normally
+death-refractory cells to an alternate necrotic cell death path-
+way. this suggests that apoptosis and autophagy function to
+limit necrosis. thus, autophagy may be therapeutically targeted
+for tumors with defects in apoptosis; however, stimulation of ne-
+crosis and activation of an inﬂammatory response may impact
+tumor growth. alternatively, exploitation of autophagy as a
+means to cell death selectively in tumor cells represents another
+attractive therapeutic strategy.
+genetic determinants of necrosis
+activation of necrotic cell death in apoptosis-defective epithelial
+cells by akt and ischemia demonstrates a link between the cell’s
+metabolic state, stress responses, and the function of bcl-2
+family members. this suggests that necrotic cell death can be
+genetically determined, oncogene activated, and triggered by
+an inability to adapt to metabolic stress. indeed, parp deﬁ-
+ciency mitigates necrotic cell death by delaying atp consump-
+tion in response to alkylating agents (zong et al., 2004). although
+the bcl-2 family is known for apoptosis regulation, our evidence
+suggests that by blocking apoptosis they also may delay necro-
+sis by allowing autophagy. cells can thereby undergo apoptosis,
+necrosis, or autophagy depending on their genetic makeup and
+the physiological conditions. this may be important for prevent-
+ing inﬂammation by implementing apoptosis, and essential for
+surviving periods of intermittent nutrient limitation through au-
+tophagy, but may facilitate wound healing in the case of necrosis.
+thus, necrosis may be a regulated process functionally interde-
+pendent on apoptosis and autophagy.
+establishing the genetic determinants regulating necrotic cell
+death is likely to be essential for successful cancer treatment
+(nelson and white, 2004) and preventing degenerative diseases
+(driscoll and gerstbrein, 2003). indeed, the metabolic state of
+tumor cells, speciﬁcally stimulation of aerobic glycolysis by
+akt (elstrom et al., 2004), promotes necrotic cell death in re-
+sponse to dna alkylating agents that may be the basis for their
+successful use in chemotherapy regimens (zong et al., 2004).
+exploitation of the altered metabolic state of tumors (warburg,
+1956) either through the dependency on glycolysis or autophagy
+may be therapeutically advantageous.
+autophagy allows temporary survival to metabolic stress
+beclin1 haploinsufﬁciency promotes tumorigenesis in mice
+and is found with high frequency in human breast, ovarian,
+and prostate cancers (liang et al., 1999; qu et al., 2003; yue
+et al., 2003); however, the molecular basis by which a reduced
+capacity for autophagy promotes tumorigenesis is unknown.
+our data suggest that beclin1 haploinsufﬁciency may have the
+largest impact on cells that also possess an apoptotic defect,
+which prevents an apoptotic response to starvation, allowing
+survival by autophagy. one striking observation was the initial
+uninterrupted proliferation of the bax/bak-deﬁcient or bcl-2-
+expressing ibmk cells in ischemia (figures 4a, 6d, and 6e).
+this was contrasted by cessation of cell division, failure of or-
+ganelle integrity, and facilitation of necrosis in the apoptosis-
+defective cells with either activated akt or allelic loss of beclin1
+where autophagy was compromised. this suggests that defec-
+tive apoptosis reveals the capacity for autophagy to temporarily
+sustain normal cell function in situations of ﬂuctuating nutrient
+availability. autophagy may thereby mitigate the potentially
+damaging impact of repetitious cycles of metabolic stress as a
+tumor suppression mechanism.
+impact of deﬁcient autophagy on tumorigenesis
+the ability of allelic loss of beclin1 to cooperate with rb, p53,
+and apoptosis defects to promote tumorigenesis (figure 7b)
+suggests that deﬁcient autophagy functions in a separate path-
+way. this is consistent with autophagy being downstream of
+mtor, and with the loss of autophagy contributing to the tu-
+mor-promoting activity of akt. it is important to consider that
+the failure of tumor cells to buffer metabolic stress may promote
+tumorigenesis in multiple ways, of which preventing cellular
+damage and altering the tumor microenvironment by promoting
+necrosis may only be part of the mechanism. it will be interesting
+to determine if allelic loss of beclin1 increases genomic instabil-
+ity induced by metabolic stress in cells with a defect in apoptosis
+(nelson et al., 2004). alternatively, prolonged metabolic stress
+may lead to autophagic cell death as a tumor suppression
+mechanism, the failure of which may promote tumorigenesis
+through enhanced survival of damaged cells.
+experimental procedures
+generation of cell lines
+to obtain independent beclin1+/+ and beclin1+/2 ibmk cell lines, beclin1+/2
+mice were intercrossed, and primary kidney epithelial cells from 5-day-old
+pups were immortalized by e1a and dominant-negative p53 (p53dd) expres-
+sion and propagated and genotyped as previously described (degenhardt
+et al., 2002b; yue et al., 2003). ibmk cells expressing human bcl-2, h-
+ras, raf-caax, myr-akt, and the vector controls were derived by electro-
+poration with pcdna3.1-hbcl-2 (kasof et al., 1998), pcdna1.h-rasv12
+(lin et al., 1995), pcdna3.raf-caax (provided by dr. peter sabbatini,
+ucsf, san francisco, ca), pcdna3.myr-akt (plas et al., 2001), or vector
+(w2, pcdna3.1; d3, pcdna3.1zeo, invitrogen, carlsbad, ca), followed by
+selection (w2, geneticin; d3, zeocin). tumor formation by subcutaneous
+injection in nude mice was described previously (degenhardt et al., 2002a)
+(see supplemental data). hela cells and those expressing human bcl-xl
+or bcl-2 were derived by electroporation with vector (pcdna3.1, invitrogen),
+pcdna3.1-h-bcl-xl (han et al., 1998), or pcdna3.1-hbcl-2 (kasof et al.,
+1998), respectively, followed by selection with geneticin and veriﬁcation of
+protein expression and function.
+western blotting, ihc, immunoﬂuorescence, and em
+the following antibodies were used: anti-beclin1 (santa cruz, santa cruz,
+ca); anti-atg5 (mizushima et al., 2001); anti-bax and -bak (upstate bio-
+technology, lake placid, ny); anti-bcl-2 (santa cruz); anti-p53 (ab-1);
+anti-e1a and -actin (oncogene, cambridge, ma); anti-hmgb1 (abcam,
+cambridge, ma); anti-p50 (santa cruz); and anti-mac3 (bd pharmingen).
+western blotting and ihc were performed as previously described (nelson
+et al., 2004). cells were examined by em using a jeol 1200ex electron
+microscope.
+in vitro ischemia
+cells were placed in glucose-free dmem (invitrogen) containing 10% fbs
+and incubated with a deﬁned gas mixture containing 1% oxygen, 5% co2,
+62
+cancer cell july 2006
+and 94% n2 (airgas, piscataway, nj) (nelson et al., 2004). viability was as-
+sessed by trypan blue exclusion, and egfp-lc3 translocation was quanti-
+tated by determining the number of transfected cells displaying any indica-
+tion of punctate (rather than diffuse) ﬂuorescence out of a population of
+300 cells. determination of dna content by facs analysis of propidium
+iodide-stained cells was performed using a cytomics fc 500 (beckman
+coulter). multiﬁeld time-lapse was performed as described in the supple-
+mental data.
+rna interference
+cells were transfected with annealed, puriﬁed, and desalted double-
+stranded sirna (30 mg/3 3 106 cells) using the amaxa nucleofection system
+(kit v, program g-16). sirna targeted against beclin1 (50-aacuugcuuuac
+ucucucuauca-30) (shimizu et al., 2004) (figure s2) or (50-caguuuggca
+caaucaauauu-30) (hoyer-hansen et al., 2005) (figure 3), murine atg5 (50-
+aagauccuggaccggucacc-30) (shimizu et al., 2004), and lamina/c
+were obtained from dharmacon research (lafayette, co).
+in vivo luciferase reporter assays
+tumors were monitored for in vivo promoter activation by using an ivis
+in vivo luminescence imaging system (xenogen corp., alameda, ca) by
+intraperitoneal
+injection with d-luciferin potassium salt (xenogen corp.)
+approximately 15 min prior to imaging using an iacuc-approved protocol.
+luminescence bio-photonic quantitation (photons/cm2/s) was analyzed
+using living image software (xenogen corp.). the total photon values
+were normalized to basal luminescence activity at day 2 postinjection and
+compared to that after tumor growth where tumor sizes were comparable.
+supplemental data
+the supplemental data include supplemental experimental procedures and
+two supplemental ﬁgures and can be found with this article online at http://
+www.cancercell.org/cgi/content/full/10/1/51/dc1/.
+acknowledgments
+we thank thomasina sharkey for assistance with preparation of the manu-
+script. this work was supported by a grant from the national institutes of
+health (r37 ca53370) to e.w. and the howard hughes medical institute.
+we thank raj patel for assistance with the em and drs. plas, sabbatini,
+and mizushima for providing reagents.
+received: february 27, 2006
+revised: april 21, 2006
+accepted: june 1, 2006
+published: july 17, 2006
+references
+adams, j.m. (2003). ways of dying: multiple pathways to apoptosis. genes
+dev. 17, 2481–2495.
+arico, s., petiot, a., bauvy, c., dubbelhuis, p.f., meijer, a.j., codogno, p.,
+and ogier-denis, e. (2001). the tumor suppressor pten positively regulates
+macroautophagy by inhibiting the phosphatidylinositol 3-kinase/protein
+kinase b pathway. j. biol. chem. 276, 35243–35246.
+balkwill, f., and coussens, l.m. (2004). cancer: an inﬂammatory link. nature
+431, 405–406.
+balkwill, f., charles, k.a., and mantovani, a. (2005). smoldering and polar-
+ized inﬂammation in the initiation and promotion of malignant disease.
+cancer cell 7, 211–217.
+danial, n.n., and korsmeyer, s.j. (2004). cell death: critical control points.
+cell 116, 205–219.
+degenhardt, k., chen, g., lindsten, t., and white, e. (2002a). bax and bak
+mediate p53-independent suppression of tumorigenesis. cancer cell 2,
+193–203.
+a r t i c l e
+degenhardt, k., sundararajan, r., lindsten, t., thompson, c.b., and white,
+e. (2002b). bax and bak independently promote cytochrome-c release from
+mitochondria. j. biol. chem. 277, 14127–14134.
+driscoll, m., and gerstbrein, b. (2003). dying for a cause: invertebrate genet-
+ics takes on human neurodegeneration. nat. rev. genet. 4, 181–194.
+edinger, a.l., and thompson, c.b. (2003). defective autophagy leads to
+cancer. cancer cell 4, 422–424.
+elstrom, r.l., bauer, d.e., buzzai, m., karnauskas, r., harris, m.h., plas,
+d.r., zhuang, h., cinalli, r.m., alavi, a., rudin, c.m., and thompson, c.b.
+(2004). akt stimulates aerobic glycolysis in cancer cells. cancer res. 64,
+3892–3899.
+gottlob, k., majewski, n., kennedy, s., kandel, e., robey, r.b., and hay, n.
+(2001). inhibition of early apoptotic events by akt/pkb is dependent on the
+ﬁrst committed step of glycolysis and mitochondrial hexokinase. genes
+dev. 15, 1406–1418.
+greten, f.r., echmann, l., greten, t.f., park, j.m., li, z.w., egan, l.j.,
+kagnoff, m.f., and karin, m. (2004). ikkb links inﬂammation and tumorigen-
+esis in a mouse model of colitis-associated cancer. cell 118, 285–296.
+guertin, d.a., and sabatini, d.m. (2005). an expanding role for mtor in
+cancer. trends mol. med. 11, 353–361.
+han, j., modha, d., and white, e. (1998). interaction of e1b 19k with bax is
+required to block bax-induced loss of mitochondrial membrane potential and
+apoptosis. oncogene 17, 2993–3005.
+hanada, m., feng, j., and hemmings, b.a. (2004). structure, regulation and
+function of pkb/akt—a major therapeutic target. biochim. biophys. acta
+1697, 3–16.
+hoyer-hansen, m., bastholm, l., mathiasen, i.s., elling, f., and jaattela, m.
+(2005). vitamin d analog eb1089 triggers dramatic lysosomal changes and
+beclin 1-mediated autophagic cell death. cell death differ. 12, 1297–1309.
+kamatsu, m., waguri, s., ueno, t., iwata, j., murato, s., tanida, i., ezaki, j.,
+mizushima, n., ohsumi, y., uchiyama, y., et al. (2005). impairment of starva-
+tion-induced and constitutive autophagy in atg7-deﬁcient mice. j. cell biol.
+169, 425–434.
+kanduc, d., mittelman, a., serpico, r., sinigaglia, e., sinha, a.a., natale, c.,
+santacroce, r., dicorcia, m.g., lucchese, a., and dini, l. (2002). cell death:
+apoptosis versus necrosis. int. j. oncol. 21, 165–170.
+karnauskas, r., niu, q., talapatra, s., plas, d.r., greene, m.e., crispino,
+j.d., and rudin, c.m. (2003). bcl-xl and akt cooperate to promote leukemo-
+genesis in vivo. oncogene 22, 688–698.
+kasof, g.m., rao, l., and white, e. (1998). btf: a novel death-promoting tran-
+scriptional repressor that interacts with bcl-2 related proteins. mol. cell. biol.
+19, 4390–4404.
+kuma, a., hatano, m., matsui, m., yamamoto, a., nakaya, h., yoshimori, t.,
+ohsumi, y., tokuhisa, t., and mizushima, n. (2004). the role of autophagy
+during the early neonatal starvation period. nature 432, 1032–1036.
+levine, b. (2005). eating oneself and uninvited guests: autophagy-related
+pathways in cellular defense. cell 120, 159–162.
+liang, x.h., jackson, s., seaman, m., brown, k., kempkes, b., hibshoosh,
+h., and levine, b. (1999). induction of autophagy and inhibition of tumorigen-
+esis by beclin 1. nature 402, 672–676.
+lin, h.-j.l., eivner, v., prendergast, g.c., and white, e. (1995). activated h-
+ras rescues e1a-induced apoptosis and cooperates with e1a to overcome
+p53-dependent growth arrest. mol. cell. biol. 15, 4536–4544.
+majno, g., and joris, i. (1995). apoptosis, oncosis, and necrosis. an overview
+of cell death. am. j. pathol. 146, 3–15.
+mizushima, n., yamamoto, a., hatano, m., kobayashi, y., kabeya, y., su-
+zuki, k., tokuhisa, t., ohsumi, y., and yoshimori, t. (2001). dissection of au-
+tophagosome formation using apg5-deﬁcient mouse embryonic stem cells.
+j. cell biol. 152, 657–668.
+mizushima, n., yamamoto, a., matsui, m., yoshimori, t., and ohsumi, y.
+(2004). in vivo analysis of autophagy in response to nutrient starvation using
+transgenic mice expressing a ﬂuorescent autophagosome marker. mol. biol.
+cell 15, 1101–1111.
+cancer cell july 2006
+63
+a r t i c l e
+nelson, d., and white, e. (2004). exploiting different ways to die. genes dev.
+18, 1223–1226.
+nelson, d., tan, t.-t., rabson, a.b., anderson, d., degenhardt, k., and
+white, e. (2004). hypoxia and defective apoptosis drive genomic instability
+and tumorigenesis. genes dev. 18, 2095–2107.
+pattingre, s., tassa, a., qu, x., garuti, r., liang, x.h., mizushima, n., packer,
+m., schneider, m.d., and levine, b. (2005). bcl-2 antiapoptotic proteins
+inhibit beclin 1-dependent autophagy. cell 122, 927–939.
+pikarsky, e., porat, r.m., stein, i., abramovitch, r., amit, s., kasem, s.,
+gutkovich-pyest, e., urieli-shoval, s., galun, e., and ben-neriah, y.
+(2004). nf-kb functions as a tumour promoter in inﬂammation-associated
+cancer. nature 431, 461–466.
+plas, d.r., talapatra, s., edinger, a.l., rathmell, j.c., and thompson, c.b.
+(2001). akt and bcl-xl promote growth factor-independent survival through
+distinct effects on mitochondrial physiology. j. biol. chem. 276, 12041–
+12048.
+proskuryakov, s.y., and konoplyannikov, a.g. (2003). necrosis: a speciﬁc
+form of programmed cell death? exp. cell res. 283, 1–16.
+qu, x., yu, j., bhagat, g., furuya, n., hibshoosh, h., troxel, a., rosen, j.,
+eskelinen, e.l., mizushima, n., ohsumi, y., et al. (2003). promotion of tumor-
+igenesis by heterozygous disruption of the beclin 1 autophagy gene. j. clin.
+invest. 112, 1809–1820.
+scafﬁdi, p., misteli, t., and bianchi, m.e. (2002). release of chromatin protein
+hmgb1 by necrotic cells triggers inﬂammation. nature 418, 191–195.
+shimizu, s., kanaseki, t., mizushima, n., mizuta, t., arakawa-kobayashi, s.,
+thompson, c.b., and tsujimoto, y. (2004). role of bcl-2 family proteins in
+a non-apoptotic programmed cell death dependent on autophagy genes.
+nat. cell biol. 6, 1221–1228.
+tan, t.-t., degenhardt, k., nelson, d.a., beaudoin, b., nieves-neira, w.,
+bouillet, p., villunger, a., adams, j.m., and white, e. (2005). key roles of
+bim-driven apoptosis in epithelial tumors and rational chemotherapy. can-
+cer cell 7, 227–238.
+tanida, i., ueno, t., and kominami, e. (2004). lc3 conjugation system in
+mammalian autophagy. int. j. biochem. cell biol. 36, 2503–2518.
+vakkila, j., and lotze, m.t. (2004). inﬂammation and necrosis promote
+tumour growth. nat. rev. immunol. 4, 641–648.
+warburg, o. (1956). on respiratory impairment in cancer cells. science 124,
+269–270.
+yue, z., jin, s., yang, c., levine, a.j., and heintz, n. (2003). beclin 1, an
+autophagy gene essential for early embryonic development, is a haploinsufﬁ-
+cient tumor suppressor. proc. natl. acad. sci. usa 100, 15077–15082.
+zeh, h.j.i., and lotze, m.t. (2005). addicted to death. j. immunother. 28, 1–9.
+zong, w.x., and thompson, c.b. (2006). necrotic death as a cell fate. genes
+dev. 20, 1–15.
+zong, w.-x., ditsworth, d., bauer, d.e., wang, z.-q., and thompson, c.b.
+(2004). alkylating dna damage stimulates a regulated form of necrotic cell
+death. genes dev. 18, 1272–1282.
+64
+cancer cell july 2006

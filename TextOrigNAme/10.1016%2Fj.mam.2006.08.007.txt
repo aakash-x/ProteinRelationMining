@@ -1,0 +1,423 @@
+molecular aspects of medicine 27 (2006) 444–454
+www.elsevier.com/locate/mam
+review
+autophagy as a cell-repair mechanism:
+activation of chaperone-mediated autophagy
+during oxidative stress
+s. kaushik, a.m. cuervo *
+department of anatomy and structural biology, marion bessin liver research center,
+albert einstein college of medicine, ullmann building room 611d, 1300 morris park avenue,
+bronx, ny 10461, united states
+abstract
+proper removal of oxidized proteins is an important determinant of success when evaluat-
+ing the ability of cells to handle oxidative stress. the ubiquitin/proteasome system has been
+considered the main responsible mechanism for the removal of oxidized proteins, as it can
+discriminate between normal and altered proteins, and selectively target the latter ones for
+degradation. a possible role for lysosomes, the other major intracellular proteolytic system,
+in the removal of oxidized proteins has been often refused, mostly on the basis of the lack
+of selectivity of this system. although most of the degradation of intracellular components
+in lysosomes (autophagy) takes place through ‘‘in bulk’’ sequestration of complete cytosolic
+regions, selective targeting of proteins to lysosomes for their degradation is also possible via
+what is known as chaperone-mediated autophagy (cma). in this work, we review recent
+evidence supporting the participation of cma in the clearance of oxidized proteins in the fore-
+front of the cellular response to oxidative stress. the consequences of an impairment in cma
+activity, observed during aging and in some age-related disorders, are also discussed.
+ó 2006 elsevier ltd. all rights reserved.
+keywords: aging; autophagy; chaperone-mediated autophagy; chaperones; lysosomes; oxidative str-
+ess; protein aggregation
+* corresponding author. tel.: +1 718 430 2689; fax: +1 718 430 8975.
+e-mail address: amcuervo@aecom.yu.edu (a.m. cuervo).
+0098-2997/$ - see front matter ó 2006 elsevier ltd. all rights reserved.
+doi:10.1016/j.mam.2006.08.007
+s. kaushik, a.m. cuervo / molecular aspects of medicine 27 (2006) 444–454
+445
+contents
+introduction: oxidative stress and lysosomes . . . . . . . . . . . . . . . . . . . . . . . . . . 445
+1.
+2.
+selective autophagy via chaperone-mediated autophagy . . . . . . . . . . . . . . . . . . 446
+3. main players in cma . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 447
+4. cma as part of the cellular response to stress . . . . . . . . . . . . . . . . . . . . . . . . . 448
+5. cma and oxidative stress . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 449
+6.
+including the ‘‘aging’’ factor in the cma/oxidation equation . . . . . . . . . . . . . . 450
+7. different pathways for a common purpose. . . . . . . . . . . . . . . . . . . . . . . . . . . . 451
+8. concluding remarks and pending questions . . . . . . . . . . . . . . . . . . . . . . . . . . . 452
+acknowledgements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 452
+references . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 452
+1. introduction: oxidative stress and lysosomes
+cells activate diﬀerent mechanisms in response to oxidative stress in order to pre-
+vent damage to intracellular components by the free radicals generated under these
+conditions. however, this display of defensive mechanisms is often not enough to
+completely avoid cellular injury, and a second front of defence, aimed at the repair
+and removal of damaged components, is required. the ubiquitin/proteasome system
+and lysosomes are the main systems responsible for the turnover of intracellular
+components and for cell clearance. degradation of oxidized proteins by the protea-
+some has been well documented both in vitro and in cultured cells (for review see
+shringarpure et al., 2001; grune et al., 2003; keller et al., 2004). in contrast, for a
+long time, lysosomes have been considered ‘‘the bad guys’’ in the context of oxidative
+stress, as they are a common target for the damaging eﬀect of free radicals. the
+action of these reactive oxygen species on lysosomes is double. on one hand, through
+promoting cross-linking of protein components at the lysosomal membrane, they
+increase the lysosomal proton permeability consequently raising the ph of the lyso-
+some (wan et al., 2001). because lysosomal hydrolases are maximally active at very
+low ph, these changes in lysosomal ph decrease the ability of lysosomes to degrade
+the internalized substrates, which with time, become resistant to degradation (due to
+non-speciﬁc cross-linking and oxidation) and accumulate inside lysosomes in the
+form of an autoﬂuorescent pigment known as lipofuscin (terman and brunk,
+2004). on the other hand, free radicals can also directly damage the lysosomal mem-
+brane to an extent that results in leakage of lysosomal hydrolases out to the cytosol.
+these free hydrolases contribute to further organelle damage, leading, in extreme sit-
+uations, to activation of the apoptotic program and cell death (olejnicka et al., 1999;
+brunk and terman, 2002). despite this negative picture of the role of lysosomes dur-
+ing oxidative stress, emerging evidence suggests that these catastrophic eﬀects occur
+only during massive acute oxidative stress, and that, in the early stages of oxidation
+and in circumstances associated to mild-oxidative stress, the lysosomal system
+instead plays a protective role because it contributes to the removal of oxidized
+446
+s. kaushik, a.m. cuervo / molecular aspects of medicine 27 (2006) 444–454
+and damaged intracellular components via autophagy. this review focuses on the
+beneﬁcial eﬀect of the activation of a particular type of autophagy, chaperone-med-
+iated autophagy, as part of the cellular response to oxidative stress.
+2. selective autophagy via chaperone-mediated autophagy
+three diﬀerent types of autophagy have been described in mammalian cells, based
+on the mechanisms utilized for the delivery of cargo to lysosomes (cuervo, 2004;
+yorimitsu and klionsky, 2005). chaperone-mediated autophagy (cma) is the type
+of autophagy wherein a particular pool of soluble cytosolic proteins is selectively tar-
+geted to lysosomes for degradation (majeski and dice, 2004; massey et al., 2004).
+the substrate proteins are recognised by a chaperone–cochaperone complex which
+cytosolic protein
+chaperone/cochaperone 
+complex
+cyt-hsc70
+kferq
+lamp-2a
+lys-hsc70
+lysosome
+fig. 1. hypothetical model for chaperone-mediated autophagy. certain cytosolic proteins bearing a
+particular targeting motif are recognized by a cytosolic chaperone/cochaperone complex which delivers
+them to the lysosomal membrane. here this complex binds to a receptor protein at the lysosomal
+membrane, and after undergoing unfolding, substrate proteins are translocated into the lysosomal lumen,
+in a process mediated by a lysosomal resident chaperone. once in the lumen, substrates are rapidly
+degraded by the potent combination of lysosomal proteases. lamp-2a: lysosome associated membrane
+protein type 2a; kferq: cma-targeting sequence; hsc70: heat shock cognate protein of 70 kda.
+s. kaushik, a.m. cuervo / molecular aspects of medicine 27 (2006) 444–454
+447
+delivers them to the lysosomal membrane (chiang et al., 1989). here they bind to a
+receptor protein, the lysosomal-associated membrane protein type 2a (lamp-2a)
+(cuervo and dice, 1996), and after unfolding (salvador et al., 2000), the substrate
+proteins are translocated across the lysosomal membrane assisted by a lysosomal-
+resident chaperone (agarraberes et al., 1997), following which they are degraded
+in the hydrolase-rich lumen (fig. 1).
+in addition to this peculiar form of delivery of substrates to lysosomes, the type of
+substrates degraded through this pathway, as well as the mechanisms of activation
+and regulation, set cma apart from the other two forms of autophagy – macroauto-
+phagy and microautophagy. these last two types of autophagy involve non-selective
+‘‘in bulk’’ engulfment of complete cytosolic regions, including both organelles and
+soluble proteins (cuervo, 2004; yorimitsu and klionsky, 2005), while cma caters
+to soluble cytosolic proteins only. on this respect, a feature unique to cma is the
+selectivity in the degradation of these cytosolic proteins. in fact, cma can only
+degrade cytosolic proteins which contain a cma-targeting motif, biochemically
+related to the pentapeptide kferq (dice, 1990). cma’s intrinsic selectivity seems
+beneﬁcial under particular conditions in which discrimination between diﬀerent
+types of proteins for degradation is required. for example, although macroauto-
+phagy is induced early in starvation to generate essential amino acids (otherwise sup-
+plied in the diet) through the breakdown of existing organelles and proteins
+(mizushima, 2005), this random degradation can only be maintained during a rela-
+tively short period of time (10 h), beyond which it needs to be replaced by the selec-
+tive degradation provided by cma (wing et al., 1991; cuervo et al., 1995).
+activation of cma under these conditions favors degradation of unnecessary pro-
+teins against that of proteins essential for cell survival.
+3. main players in cma
+both cytosolic and lysosomal chaperones are required for completion of cma.
+the cytosolic chaperone, hsc70, the constitutive member of the hsp70 family of chap-
+erones, recognizes and binds to the targeting motif in the substrates and, by still
+poorly understood mechanisms, promotes delivery of substrates to the lysosomal
+membrane (chiang et al., 1989). the interaction between substrate and hsc70 is
+modulated by other cytosolic co-chaperones including hsp90, hsp40, hip, hop and
+bag-1 (agarraberes and dice, 2001). the speciﬁc role of each of these cochaperones
+in cma remains unknown but, by extension of what is known about their partici-
+pation in other cellular processes, it is likely that they modulate substrate/chaperone
+interaction and unfolding of the substrate protein at the lysosomal membrane by
+regulating the atp/adp hydrolysis cycles of hsc70.
+the lysosomal counterpart of cytosolic hsc70, namely the lysosomal hsc70 (lys-
+hsc70), is absolutely necessary for substrate translocation across the lysosomal mem-
+brane (agarraberes et al., 1997). in fact, the presence or not of this chaperone in the
+lysosomal lumen determines whether or not a particular lysosome is capable of
+cma (cuervo et al., 1997). many questions still remain unanswered about this
+448
+s. kaushik, a.m. cuervo / molecular aspects of medicine 27 (2006) 444–454
+chaperone. for example, it is not known how it accesses the lysosomal lumen, if it
+requires other cochaperones to modulate its function inside lysosomes, or what is
+the mechanism by which it facilitates substrate translocation.
+the limiting step in cma is the interaction of the substrate/chaperone complex
+with the lysosomal receptor (cuervo and dice, 2000a). lamp-2a is a single-span
+transmembrane protein whose short cytosolic tail contains positively charged resi-
+dues essential for the binding of the substrates (cuervo and dice, 1996; cuervo
+and dice, 2000b). cma activity directly correlates with levels of lamp-2a in the
+lysosomal membrane (cuervo and dice, 2000b). these levels are tightly regulated
+by at least three diﬀerent mechanisms including changes in the degradation of
+lamp-2a at the lysosomal membrane (cuervo et al., 2003), in its distribution
+between the lysosomal membrane and lumen (cuervo and dice, 2000a) and also
+through de novo synthesis of this receptor (kiﬃn et al., 2004). recently, lamp-
+2a has been shown to dynamically associate to particular lipid microdomains at
+the lysosomal membrane, further identiﬁed as the speciﬁc sites where degradation
+of this receptor occurs (kaushik et al., 2006). lamp-2a organizes in the membrane
+as cma-active multimeric complexes (cuervo and dice, 2000b), but its localization
+inside the lipid microdomains prevents this multimerization.
+4. cma as part of the cellular response to stress
+along with macroautophagy, cma is considered to be a stress-induced pathway.
+as discussed before, cma provides the essential amino acids critical for cellular sur-
+vival when the dietary supply of nutrients is limited for extended periods of time,
+while also preventing the degradation of proteins essential during these stress condi-
+tions (cuervo et al., 1995). the signal transduction events that result in this activa-
+tion of cma are still unclear. the sequential activation of macroautophagy followed
+by cma during starvation has led to hypothesize that degradation via macroauto-
+phagy of a yet unknown inhibitor of cma could be behind cma activation under
+these conditions. activation of cma is associated with particular changes in lyso-
+somes: enrichment in hsc70, increased levels of lamp-2a that multimerizes to form
+cma-active complexes and relocation of lysosomes to the perinuclear region
+(cuervo et al., 1995; cuervo and dice, 2000b). the signiﬁcance of lysosomal reloca-
+tion remains unclear, but it could favor homotypic fusions between lysosomes, thus
+promoting the transfer of part of hsc70 from cma-active to cma-inactive lyso-
+somes, in order to recruit them for cma.
+in addition to nutritional stress, other conditions known to activate this pathway
+include mild-oxidative stress (as discussed in more detail below) (kiﬃn et al., 2004)
+and stress induced by exposure to toxic compounds (cuervo et al., 1999). in this last
+condition, cma activation is required for the selective removal of proteins directly
+altered by the chemical compounds, which otherwise would accumulate as toxic mul-
+timeric complexes inside cells.
+experimental proof for the essential role of cma as part of the cellular response
+to stress has been recently provided in cells in which cma was selectively blocked
+s. kaushik, a.m. cuervo / molecular aspects of medicine 27 (2006) 444–454
+449
+(massey et al., 2006). while cells with impaired cma maintain normal survival rates
+under normal conditions and are able to up-regulate other autophagic pathways,
+namely macroautophagy, to preserve normal rates of protein degradation, the block-
+age of cma makes them extremely vulnerable to stressors. exposure of cma-
+impaired cells to diﬀerent pro-oxidants, oxidants and to uv results in dramatic
+decrease in cell viability, activation of the apoptotic program and cell death (massey
+et al., 2006).
+5. cma and oxidative stress
+to further characterize this proposed role of cma in the cellular response to
+stress, we have evaluated the participation of this autophagic pathway in the removal
+of oxidized proteins. we have found that induction of mild-oxidative stress in
+rodents and culture cells increases the degradation of proteins via cma (kiﬃn
+i. expose motif
+ii. generate motif
+iii. unfold substrate
+chaperone/
+cochaperone
+complex
+i.    lamp-2a 
+↑   
+ii.   lys-hsc70
+↑   
+lys-hsc70
+lamp-2a
+lysosome
+fig. 2. activation of cma as part of the oxidative stress response. diﬀerent mechanisms contribute to the
+enhanced degradation of proteins via cma during mild oxidative stress. (a) eﬀect on the substrates:
+exposure of hidden cma-targeting motifs, partial unfolding and generation of cma-targeting motifs in
+usually non-substrate proteins, could all contribute to facilitate substrate delivery and translocation into
+lysosomes. (b) eﬀect on the lysosomal system: mild-oxidative stress results in an increase in the lysosomal
+levels of the major components of the cma-translocation machinary at the lysosomal membrane.
+450
+s. kaushik, a.m. cuervo / molecular aspects of medicine 27 (2006) 444–454
+et al., 2004). in fact, elevated amounts of oxidized proteins can be detected under
+these conditions in the lumen of cma-active lysosomes.
+part of the enhanced cma directly results from the oxidative modiﬁcation of the
+cma substrates, which are more readily degraded through this pathway compared
+to their unmodiﬁed counterparts (kiﬃn et al., 2004; finn and dice, 2005) (fig. 2a).
+it is possible that partial unfolding, typically associated with oxidative damage,
+could expose hidden cma-targeting motifs, facilitating their recognition by the
+cytosolic chaperone complex. substrate unfolding could also accelerate translocation
+across the lysosomal membrane by eliminating the unfolding step (fig. 2a). inde-
+pendent of this eﬀect on the substrate, changes in the lysosomal compartment also
+contribute to increased cma activity during oxidative stress. thus, we have found
+that levels of both the receptor and the lysosomal chaperone (lys-hsc70) increase,
+resulting in a higher number of translocation units per lysosome under these condi-
+tions (kiﬃn et al., 2004) (fig. 2b).
+regarding the magnitude and the consequences of cma activation in the context
+of oxidative stress, it is anticipated that only proteins bearing the cma-targeting
+motif, about 30% of cytosolic proteins, would be removed by this pathway under
+these conditions. however, taking into account that the cma-targeting motif is
+not sequence-linked, but it depends primarily on the physical properties of the con-
+stituent amino acids, it has been proposed that oxidation could convert a non-target-
+ing motif into a cma-targeting motif by modifying one or more of the amino acid
+residues (gracy et al., 1998). experimental evidence supporting this possibility is still
+missing.
+6. including the ‘‘aging’’ factor in the cma/oxidation equation
+poor cellular response to oxidative stress underlies the basis of many chronic dis-
+orders and of aging (simpson et al., 2003; keller et al., 2004). cma activity has been
+shown to decrease with age in rodents and in senescent human ﬁbroblasts in culture
+(dice, 1982; cuervo and dice, 2000c). impaired cma activity could contribute in
+part to the accumulation of oxidized and damaged proteins in aged organisms.
+in contrast to the dramatic changes in the lysosomal system described in old
+organisms (enlargement of lysosome-related structures, intralysosomal accumulation
+of poorly degraded products in the form of lipofuscin, increased lysosomal mem-
+brane lability) (hochshild, 1970; noda and suzuki, 1980), the group of lysosomes
+active for cma shows no major morphological changes and preserves proteolytic
+activity with age (cuervo and dice, 2000c). in fact, once cma substrates access
+the lumen of old rodents’ lysosomes they display similar kinetics of degradation to
+those observed in lysosomes from young animals. likewise, binding of substrate pro-
+teins to the cytosolic chaperone and their targeting to the lysosomal membrane also
+seems to be unaﬀected with age (cuervo and dice, 2000c). the main age-related deﬁ-
+ciency seems to be in the binding and uptake of the substrates in the lysosomal mem-
+brane. this defect is due to a decline in the levels of lamp-2a at the lysosomal
+membrane with age (cuervo and dice, 2000). lower levels of lamp-2a are initially
+s. kaushik, a.m. cuervo / molecular aspects of medicine 27 (2006) 444–454
+451
+compensated by increasing the number of lysosomes active for this pathway (those
+containing lys-hsc70). however, with advancing age, the low levels of lamp-2a
+decrease to such an extent that the chaperone compensation is not enough, leading
+to the impaired binding and uptake of the substrate proteins into lysosomes (cuervo
+and dice, 2000c). recent ﬁndings from our laboratory suggest that altered turnover
+of the receptor itself could be behind its reduced levels with age and the consequent
+decrease in cma activity (zeng, m., kaushik, s., massey, a., bandyophadhyay, u.,
+kiﬃn, r., cuervo, a.m., in preparation).
+based on the ﬁndings in cultured cells with experimentally blocked cma (massey
+et al., 2006), it could be inferred that the decrease in cma activity with age would
+leave cells vulnerable to diﬀerent stressors, in particular those resulting in the gener-
+ation of reactive oxygen species and protein damage/misfolding. because of the pro-
+posed role of cma in the selective removal of oxidized and damaged proteins,
+failure of this pathway with age could contribute to the abnormal accumulation of
+these altered products observed in aged organisms.
+7. diﬀerent pathways for a common purpose
+activation of cma during oxidative stress seems to obey the need for selective
+removal of the damaged proteins without aﬀecting the functional neighboring ones.
+however, degradation of oxidized proteins also occurs through the ubiquitin/pro-
+teasome system. why this need for redundant pathways? one possibility is that
+oxidized proteins follow the same degradation pathways than their unmodiﬁed
+forms, but in an accelerated manner. in this case, when oxidized, cma substrates
+will be degraded by cma, and proteasome substrates will be degraded by the pro-
+teasome. however, the concept that a particular protein only follows a determined
+proteolytic pathway has become obsolete, as numerous examples now support that
+the same protein can be degraded by diﬀerent proteolytic systems depending on the
+cellular conditions. it is thus possible that activation of the ubiquitin/proteasome
+system during oxidative stress provides for the rapid removal of oxidized proteins,
+but as the oxidation conditions persist, oxidized proteins are instead delivered to
+lysosomes via cma, in order to devote proteasomal activity to critical regulatory
+tasks. however, we cannot discard that both systems are simultaneously active
+during oxidation, and that, depending on the cell type and particular conditions,
+diﬀerent percentages of oxidized proteins are delivered to one system or the other.
+the main limitation to accurately quantify the amount of proteins that follow one
+or the other proteolytic pathway is the fact that most of the available assays rely
+on the use of blockers of these pathways. however, there is growing evidence that
+supports the existence of a cross-talk between diﬀerent proteolytic systems, and the
+eliciting of compensatory mechanisms among them in response to functional fail-
+ure. consequently, most of the attempts to quantify degradation using blockers
+of one pathway are likely to enhance the proteolytic activity of other pathways
+to compensate for this failure, leading to erroneous calculations. new approaches
+need to be devised to directly track within cells the fate of multiple proteins and
+452
+s. kaushik, a.m. cuervo / molecular aspects of medicine 27 (2006) 444–454
+their delivery to one proteolytic system or another, without perturbing the activity
+of these systems.
+8. concluding remarks and pending questions
+opposed to the classical view that depicted lysosomes as one of the main reasons
+responsible for cellular damage during oxidative stress, recent evidence supports a
+protective role for the lysosomal system in the early phases of the oxidative insult
+and in conditions leading to mild-oxidative stress. the selectivity intrinsic to cma
+allows lysosomes to discriminate between altered and unmodiﬁed proteins, promot-
+ing the removal only of the former. the decline in cma activity with age can con-
+tribute to the accumulation of damaged proteins typical of old organisms. however,
+the consequences of decreased cma activity could be diﬀerent in diﬀerent tissues,
+depending on the rate of protein turnover, the contribution of other proteolytic
+pathways and their particular susceptibility to stress. also unknown is the reason
+for the redundancy in this task of cma and the ubiquitin/proteasome system.
+how do cells discriminate where to send the oxidized proteins? are particular dam-
+aged proteins delivered to one system and others to the other? are both pathways
+activated simultaneously or sequentially? is this dual activation common for all types
+of cells? and in regards to the degradation of these altered proteins by cma, diﬀer-
+ent types of protein-damage have been described during aging and in chronic disor-
+ders (i.e. nitration, glycation, modiﬁcation by products of lipid peroxidation), do all
+types of protein damage facilitate degradation, at least of cma substrates, by this
+pathway, or are there particular conformational modiﬁcations associated to partic-
+ular types of protein damage, that determine their suitability for cma degradation?
+these and other questions require further clariﬁcation.
+acknowledgements
+we would like to gratefully acknowledge ashish c. massey for critically review-
+ing this manuscript and the other members of our laboratory for their valuable sug-
+gestions. research in our laboratory is supported by national institutes of health/
+national institute of aging grants ag021904 and ag19834 and an ellison medical
+foundation award.
+references
+agarraberes, f., dice, j.f., 2001. a molecular chaperone complex at the lysosomal membrane is required
+for protein translocation. j. cell sci. 114, 2491–2499.
+agarraberes, f., terlecky, s., dice, j., 1997. an intralysosomal hsp70 is required for a selective pathway
+of lysosomal protein degradation. j. cell biol. 137, 825–834.
+brunk, u.t., terman, a., 2002. lipofuscin: mechanisms of age-related accumulation and inﬂuence on cell
+function. free radic. biol. med. 33, 611–619.
+s. kaushik, a.m. cuervo / molecular aspects of medicine 27 (2006) 444–454
+453
+chiang, h., terlecky, s., plant, c., dice, j., 1989. a role for a 70 kda heat shock protein in lysosomal
+degradation of intracellular protein. science 246, 382–385.
+cuervo, a., 2004. autophagy: in sickness and in health. trends cell biol. 14, 70–77.
+cuervo, a., dice, j., 1996. a receptor for the selective uptake and degradation of proteins by lysosomes.
+science 273, 501–503.
+cuervo, a., dice, j., 2000a. regulation of lamp2a levels in the lysosomal membrane. traﬃc 1, 570–
+583.
+cuervo, a., dice, j., 2000b. unique properties of lamp2a compared to other lamp2 isoforms. j. cell sci.
+113, 4441–4450.
+cuervo, a.m., dice, j.f., 2000c. age-related decline in chaperone-mediated autophagy. j. biol. chem.
+275, 31505–31513.
+cuervo, a., dice, j., knecht, e., 1997. a lysosomal population responsible for the hsc73-mediated
+degradation of cytosolic proteins in lysosomes. j. biol. chem. 272, 5606–5615.
+cuervo, a., hildebrand, h., bomhard, e., dice, j., 1999. direct
+lysosomal uptake of alpha2-
+microglobulin contributes to chemically induced nephropathy. kidney int. 55, 529–545.
+cuervo, a., knecht, e., terlecky, s., dice, j., 1995. activation of a selective pathway of lysosomal
+proteolysis in rat liver by prolonged starvation. am. j. physiol. 269, c1200–c1208.
+cuervo, a., mann, l., bonten, e., d’azzo, a., dice, j., 2003. cathepsin a regulates chaperone-mediated
+autophagy through cleavage of the lysosomal receptor. embo j. 22, 12–19.
+dice, j., 1982. altered degradation of proteins microinjected into senescent human ﬁbroblasts. j. biol.
+chem. 257, 14624–14627.
+dice, j., 1990. peptide sequences that target cytosolic proteins for lysosomal proteolysis. trends biochem.
+sci. 15, 305–309.
+finn, p.f., dice, j.f., 2005. ketone bodies stimulate chaperone-mediated autophagy. j. biol. chem. 280,
+25864–25870.
+gracy, r., talent, j., zvaigzne, a., 1998. molecular wear and tear leads to terminal marking and the
+unstable isoforms of aging. j. exp. zool. 282, 18–27.
+grune, t., merker, k., sandig, g., davies, k.j., 2003. selective degradation of oxidatively modiﬁed
+protein substrates by the proteasome. biochem. biophys. res. commun. 305, 709–718.
+hochshild, r., 1970. lysosomes, membranes and aging. exp. gerontol. 6, 153–166.
+kaushik, s., massey, a.c., cuervo, a.m., 2006. lysosome membrane lipid microdomains: novel
+regulators of chaperone-mediated autophagy. embo j. [e-pub ahead of printing].
+keller,
+j., gee,
+j.n., dimayuga, e., chen, q., thorpe,
+j., ding, q., 2004. autophagy,
+proteasomes, lipofuscin, and oxidative stress in the aging brain. int. j. biochem. cell biol. 36,
+2376–2391.
+kiﬃn, r., christian, c., knecht, e., cuervo, a., 2004. activation of chaperone-mediated autophagy
+during oxidative stress. mol. biol. cell 15, 4829–4840.
+majeski, a., dice, j., 2004. mechanisms of chaperone-mediated autophagy. int. j. biochem. cell biol. 36,
+2435–2444.
+massey, a., kiﬃn, r., cuervo, a., 2004. pathophysiology of chaperone-mediated autophagy. int. j.
+biochem. cell biol. 36, 2420–2434.
+massey, a.c., kaushik, s., sovak, g., kiﬃn, r., cuervo, a.m., 2006. consequences of the selective
+blockage of chaperone-mediated autophagy. proc. nat. acad. sci. usa 103, 5905–5910.
+mizushima, n., 2005. the pleiotropic role of autophagy: from protein metabolism to bactericide. cell
+death diﬀ. 12, 1535–1541.
+noda, m., suzuki, a., 1980. ultrastructural study of granular cell ameloblastoma. acta pathol. japonica
+30, 145–156.
+olejnicka, b.t., andersson, a., tyrberg, b., dalen, h., brunk, u.t., 1999. beta-cells, oxidative stress,
+lysosomal stability, and apoptotic/necrotic cell death. antioxid. redox signal 1, 305–315.
+salvador, n., aguado, c., horst, m., knecht, e., 2000. import of a cytosolic protein into lysosomes by
+chaperone-mediated autophagy depends on its folding state. j. biol. chem. 275, 27447–27456.
+shringarpure, r., grune, t., davies, k., 2001. protein oxidation and 20s proteasome-dependent
+proteolysis in mammalian cells. cell mol. life sci. 58, 1442–1450.
+454
+s. kaushik, a.m. cuervo / molecular aspects of medicine 27 (2006) 444–454
+simpson, e.p., yen, a.a., appel, s.h., beal, m.f., yorek, m.a., brune, b., zhou, j., von knethen, a.,
+kohen, r., nyska, a., 2003. oxidative stress: a common denominator in the pathogenesis of
+amyotrophic lateral sclerosis. curr. opin. rheumatol. 15, 730–736.
+terman, a., brunk, u.t., 2004. lipofuscin int. j. biochem. cell biol. 36, 1400–1404.
+wan, f., wang, y.n., et al., 2001. the inﬂuence of oxidation of membrane thiol groups on lysosomal
+proton permeability. biochem. j. 360, 355–362.
+wing, s., chiang, h.l., goldberg, a.l., dice, j.f., 1991. proteins containing peptide sequences related to
+kferq are selectively depleted in liver and heart, but not skeletal muscle, of fasted rats. biochem. j.
+275, 165–169.
+yorimitsu, t., klionsky, d., 2005. autophagy: molecular machinery for self-eating. cell death diﬀ. 12
+(suppl 2), 1542–1552.

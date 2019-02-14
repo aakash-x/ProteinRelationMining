@@ -1,0 +1,456 @@
+cell metabolism
+previews
+tor regulation: sorting out the answers
+thomas p. neufeld1,*
+1 department of genetics, cell biology & development, university of minnesota, 6-160 jackson hall, 321 church street se,
+minneapolis, mn 55455, usa
+*correspondence: neufeld@ahc.umn.edu
+doi 10.1016/j.cmet.2006.12.008
+components involved in vesicle trafﬁcking processes such as secretion, endocytosis, and auto-
+phagy are gaining recognition as important regulators and effectors of target of rapamycin (tor)
+signaling. a recent report by devasahayam et al. (2006) now implicates pmr1, a secretory pathway
+ca2+/mn2+ atpase located in the golgi apparatus, as a novel regulator of tor and its downstream
+targets in yeast.
+responding
+the target of rapamycin (tor) ser/thr
+protein kinases are highly conserved
+regulators of eukaryotic cell growth
+and metabolism,
+to
+changes in extracellular nutrient con-
+ditions and other environmental sig-
+nals to control a variety of growth-
+related processes. in the presence of
+ample nutrients, tor promotes pro-
+tein synthesis directly through phos-
+phorylation of
+translation regulators
+such as s6k and 4e-bp1 and indi-
+rectly by promoting synthesis of the
+rna and protein components of the
+ribosome (reviewed in arsham and
+neufeld, 2006).
+in addition, active
+tor signaling is required for efﬁcient
+uptake of nutrients. in yeast, tor pro-
+motes the activity of high-speciﬁcity
+amino acid permeases such as tat2
+and hip1 and inhibits the synthesis
+and stability of
+the general amino
+acid permease gap1. downregulation
+of both types of transporters occurs
+in part
+through ubiquitin-mediated
+endocytic degradation from the cell
+surface, as well as by the sorting of
+newly synthesized permeases from
+the golgi to the vacuole for destruc-
+tion. a similar form of tor-dependent
+endocytic regulation of nutrient trans-
+porters appears to occur in animal
+cells. in addition, recent work in dro-
+sophila and mammalian cells has
+shown that tor signaling promotes
+bulk endocytosis/pinocytosis, poten-
+tially providing an additional nonselec-
+tive route of nutrient uptake (hennig
+et al., 2006). in all eukaryotic cells,
+nutrient withdrawal or
+inhibition of
+tor by rapamycin treatment induces
+the self-digestive process of auto-
+phagy, in which portions of cytoplasm
+are engulfed within novel vesicle
+structures for delivery to and degra-
+dation within the lysosome/vacuole,
+thus providing cells with an internal
+source of nutrients sufﬁcient for pro-
+longed survival.
+these
+effects of tor on vesicle trafﬁcking
+pathways ensure that rates of protein
+synthesis and ribosome biogenesis
+are matched with an appropriate
+supply of nutrients.
+together,
+the mechanisms by which cellular
+nutrient status is assessed and con-
+veyed to the tor pathway have been
+elusive. in metazoan cells, a number
+of signals such as growth factor,
+oxygen, and atp levels are inte-
+grated by the tumor-suppressor com-
+plex tsc1/2. this complex possesses
+gap activity toward the ras-related
+gtpase rheb, which may directly
+interact with and stimulate the kinase
+activity of tor (long et al., 2005).
+in contrast, nutrient
+levels do not
+appear to directly inﬂuence the activ-
+ity of the tsc1/2 complex. interest-
+ingly, the endocytic regulator hvps34
+has recently been identiﬁed as a key
+component of
+the nutrient-sensing
+signal upstream of tor in mammalian
+cells (byﬁeld et al., 2005), again
+highlighting an intriguing link be-
+tween tor and vesicle trafﬁcking.
+accordingly,
+components
+involved in tor signaling including
+rheb, lst8 (a component of tor com-
+plexes), and tor itself have been
+localized to the golgi, endosomal,
+or other vesicle compartments by
+biochemical and immunohistological
+methods (arsham and neufeld, 2006),
+suggesting that
+the control and/or
+effects of these molecules may initiate
+several
+in part on intracellular membrane
+surfaces.
+the new study by devasahayam
+and colleagues (2006) provides further
+evidence of a connection between
+tor regulation and vesicle trafﬁcking
+in yeast. in a genomic deletion screen
+for rapamycin-resistant mutants, the
+authors identiﬁed the golgi-speciﬁc
+ion pump pmr1 as a novel regulator
+of tor signaling. pmr1 transports
+ca2+ and mn2+ ions from the cyto-
+plasm into the golgi lumen, thus pro-
+viding components of the secretory
+pathway with the high levels of ca2+
+required for proper sorting and pro-
+cessing. disruption of pmr1 causes
+defects in proteolytic processing and
+glycosylation, and an up to 50-fold in-
+crease in secretion of heterologous
+proteins normally destined for degra-
+dation in the lysosome (rudolph
+et al., 1989). the rapamycin resistance
+of pmr1 mutants, as well as their ability
+to suppress the rapamycin hypersen-
+sitivity of an lst8 mutation, suggests
+that pmr1 functions as a negative reg-
+ulator of the rapamycin-sensitive tor
+complex 1 (torc1). to directly test
+whether tor activity is altered in
+pmr1 mutants, devasahayam et al.
+examined the nitrogen catabolite-
+repressible (ncr) transcription factor
+gln3, whose nuclear localization and
+activity is inhibited by tor under
+favorable nutrient conditions. gln3
+displayed decreased nuclear
+levels
+and transcriptional activity in pmr1
+mutants, consistent with an upregula-
+tion of tor signaling.
+in contrast,
+pmr1 mutants displayed a signiﬁcant
+increase in sorting of the gap1 perme-
+ase to the plasma membrane, which
+cell metabolism 5, january 2007 ª2007 elsevier inc. 3
+cell metabolism
+previews
+to be at least partly due to
+decreased plasma membrane
+sorting of gap1 (tate et al.,
+2006). an analysis of the effects
+of pmr1 mutants on tor activ-
+ity under different nutrient con-
+ditions will help to clarify the
+role of gap1.
+second, the defect in ca2+
+uptake by the golgi apparatus
+in pmr1 mutants has been
+shown to affect ca2+ concen-
+trations in other cell compart-
+ments. for example, pmr1 null
+mutants have a signiﬁcant
+reduction in free ca2+ in the
+endoplasmic reticulum, fail to
+degrade misfolded er proteins,
+and display phenotypes con-
+sistent with a defective un-
+folded protein response (durr
+et al., 1998). defective ca2+ up-
+take by the golgi also results in
+a higher concentration of ca2+
+in the cytoplasm, which has
+been shown to increase torc1
+activity in some cell types. in
+addition, the ca2+-dependent
+phosphatase calcineurin has
+recently been shown to inhibit
+the rapamycin-insensitive tor
+complex 2 (mulet et al., 2006).
+to distinguish between the
+roles of cytoplasmic versus
+lumenal ca2+ in pmr1 mutant
+phenotypes, it may be helpful
+to examine the effects of altered
+ca2+ concentrations on tor
+signaling in pmr1 mutants.
+figure 1. coordinate regulation of gap1 sorting and
+tor regulation by pmr1 and the gse complex
+(a) in wild-type yeast cells, the sorting (gray arrows) of newly
+synthesized gap1 from the golgi apparatus to the plasma
+membrane versus the vacuole is dependent on nutrient levels
+and tor signaling. conditions of limited nutrients and low tor
+activity promote sorting of gap1 to the plasma membrane,
+where it functions to transport amino acids into the cell (white
+arrow). plasma membrane sorting of gap1 requires the gse
+complex, which also functions to promote tor signaling
+(black arrow). under favorable nutrient conditions, gap1 is tar-
+geted to the vacuole for degradation (represented by hatched
+shading of gap1) in a pmr1-dependent manner. pmr1 activity
+has a negative effect on tor signaling (black inhibitory arrow).
+(b) in pmr1 mutants, gap1 is inappropriately sorted to the
+plasma membrane under favorable nutrient conditions, and
+tor activity is increased.
+(c) loss of gse activity causes increased sorting of gap1 to
+the vacuole for degradation and leads to a reduction in tor
+activity. whether these effects on tor signaling result from
+direct regulation by pmr1 and/or gse components, changes
+in ﬂux through the secretory pathway, or altered intracellular
+concentration of amino acids remains to be determined.
+first, changes in tor activity caused
+by mutations in pmr1 and gse com-
+ponents may arise from changes in
+intracellular amino acid concentra-
+tions due to altered plasma membrane
+sorting of gap1. for example,
+the
+increased nuclear localization and ac-
+tivity of gln3 in npr1 mutants appears
+finally, pmr1 belongs to the
+spca family of ca2+ pumps,
+which also serve to transport
+mn2+ into the golgi apparatus.
+interestingly, tor and related
+kinases of
+the pikk family
+are uniquely sensitive to mn2+
+concentrations, suggesting that
+increased tor activity in pmr1
+mutants could potentially arise
+from abnormally high cytoplas-
+mic mn2+ levels in these cells.
+the ﬁndings of
+devasahayam et al.
+(2006) provide
+evidence of an intriguing new mode
+of tor regulation and highlight the
+golgi apparatus as an important player
+in tor signaling. a goal of
+future
+studies will be to determine whether
+this function of pmr1 is conserved in
+caveats aside,
+normally occurs under condi-
+tions of
+low tor signaling.
+this may reﬂect the sorting de-
+fect inherent to pmr1 mutants.
+alternatively, the altered locali-
+zation and activity of both
+gln3 and gap1 in pmr1 mu-
+tants may result from increased
+activity of npr1, a nutrient-reg-
+ulated kinase that
+functions
+downstream of tor and that
+the authors demonstrate is
+also partially localized to the
+golgi.
+is reminiscent of
+the coordinate effect of
+pmr1 on secretory pathway
+sorting and tor signaling re-
+ported by devasahayam et al.
+(2006)
+the
+recently identiﬁed gse com-
+plex, an endosomal complex
+that binds gap1 and directs it
+to the plasma membrane.
+in
+contrast
+to pmr1 mutants,
+which target gap1 to the
+plasma membrane and in-
+crease tor signaling, muta-
+tions in components of
+the
+yeast gse complex lead to de-
+creased trafﬁcking of gap1 to
+the plasma membrane (gao
+and kaiser, 2006) and appear
+to result in a reduction in tor
+activity (dubouloz et al., 2005).
+together, these new ﬁndings
+are consistent with a model in
+which a pool of tor, lst8,
+and/or rheb at golgi and endo-
+somal membranes may sense
+nutrient status by monitoring
+ﬂux through the endocytic and
+secretory pathways (figure 1).
+such a setting would allow
+tor to efﬁciently coordinate
+regulatory signals with trafﬁck-
+ing-sensitive outputs. for ex-
+ample,
+rapamycin treatment
+has been shown to result in
+a rapid mobilization of the es-
+sential autophagy protein atg9
+from the trans-golgi network
+to endosomal and autophagic mem-
+branes (young et al., 2006).
+this speculative model draws to-
+gether observations from a number of
+systems, and it should be noted that
+the data of devasahayam et al. (2006)
+do not rule out several potential indi-
+rect effects of pmr1 on tor signaling.
+4 cell metabolism 5, january 2007 ª2007 elsevier inc.
+cell metabolism
+previews
+eukaryotes. mutations
+higher
+in
+atp2c1, which encodes a human
+homolog of pmr1, result in an auto-
+somal dominant skin disorder known
+as hailey-hailey disease, character-
+ized by loss of adhesion between
+epidermal keratinocytes. these cells
+display abnormal actin dynamics
+and reduced intracellular atp con-
+centrations, which may potentially
+be explained by defects in tor sig-
+naling or by changes in secretory
+trafﬁcking or ca2+ signaling. further
+research is required to sort out the
+possibilities.
+references
+arsham, a.m., and neufeld, t.p. (2006). curr.
+opin. cell biol. 18, 589–597.
+byﬁeld, m.p., murray, j.t., and backer, j.m.
+(2005). j. biol. chem. 280, 33076–33082.
+devasahayam, g., ritz, d., helliwell, s.b.,
+burke, d.j., and sturgill, t.w. (2006). proc.
+natl. acad. sci. usa 103, 17840–17845.
+dubouloz, f., deloche, o., wanke, v., cameroni,
+e., and de virgilio, c. (2005). mol. cell 19, 15–26.
+durr, g., strayle, j., plemper, r., elbs, s., klee,
+s.k., catty, p., wolf, d.h., and rudolph, h.k.
+(1998). mol. biol. cell 9, 1149–1162.
+gao, m., and kaiser, c.a. (2006). nat. cell biol.
+8, 657–667.
+hennig, k.m., colombani, j., and neufeld, t.p.
+(2006). j. cell biol. 173, 963–974.
+long, x., ortiz-vega, s., lin, y., and avruch, j.
+(2005). j. biol. chem. 280, 23433–23436.
+mulet, j.m., martin, d.e., loewith, r., and hall,
+m.n. (2006). j. biol. chem. 281, 33000–33007.
+rudolph, h.k., antebi, a., fink, g.r., buckley,
+c.m., dorman, t.e., levitre, j., davidow, l.s.,
+mao, j.i., and moir, d.t.
+(1989). cell 58,
+133–145.
+tate, j.j., rai, r., and cooper, t.g. (2006). j.
+biol. chem. 281, 28460–28469.
+young, a.r., chan, e.y., hu, x.w., kochl, r.,
+crawshaw, s.g., high, s., hailey, d.w., lippin-
+cott-schwartz, j., and tooze, s.a.
+(2006).
+j. cell sci. 119, 3888–3900.
+when is a heme transporter not a heme
+transporter? when it’s a folate transporter
+nancy c. andrews1,*
+1 children’s hospital boston and harvard medical school, boston, ma 02115, usa
+*correspondence: nandrews@enders.tch.harvard.edu
+doi 10.1016/j.cmet.2006.12.004
+essential nutrients enter the body through a variety of speciﬁc transporter molecules expressed in
+the intestinal epithelium. a recent paper by qiu et al. (2006) elegantly demonstrates that one of these
+transporters, previously thought to carry heme, is in fact an important folate transporter.
+most essential nutrients cannot diffuse
+freely through biological membranes.
+instead, they enter cells through spe-
+cialized transporter molecules, typi-
+cally multipass transmembrane pro-
+teins with exquisite speciﬁcity for their
+substrates. to date, over 300 solute
+carrier (slc) transporters have been
+identiﬁed based on their structural
+characteristics, but deﬁnitive physio-
+logical functions have been assigned
+to only a fraction of them. recently,
+shayeghi and colleagues (2005) pre-
+sented evidence that a novel trans-
+transfers dietary
+porter, slc46a1,
+heme from the intestinal
+lumen into
+absorptive enterocytes. they identi-
+ﬁed slc46a1 in a subtractive screen
+for
+intestinal molecules induced in
+anemic, hypoxic mice carrying a spon-
+taneous mutation in the serum iron
+carrier transferrin. overexpression of
+slc46a1 in cellular assays was asso-
+ciated with heme transport activity,
+and the endogenous intestinal protein
+relocated from the cytoplasm to the
+plasma membrane in response to iron
+deﬁciency. based on their
+results,
+shayeghi et al. named this molecule
+heme carrier protein 1 (hcp1).
+in a recent issue of cell, qiu et al.
+(2006) report a very different function
+for slc46a1. using a data mining
+approach based on weak homology
+to the facilitative reduced folate car-
+rier, they identiﬁed a series of candi-
+dates for a previously characterized
+yet elusive high-afﬁnity, ph-depen-
+dent folate transporter activity (wang
+et al., 2004). of the candidate mole-
+cules, only slc46a1 showed mark-
+edly diminished expression in a hela
+cell subline selected for the loss of
+high-afﬁnity folate transport activity.
+when expressed in xenopus oocytes
+or human hepatoma cells, slc46a1
+conferred a proton-dependent folate
+transport activity with substrate speci-
+ﬁcity that matched the previously
+described activity.
+considering its folate transport capa-
+bility, slc46a1 now appears to be
+a poor heme transporter at best. the
+km at ph 6.5 for 5-methyltetrahydro-
+folate was measured at 0.8 mm (qiu
+et al., 2006), whereas the km at neutral
+ph for hemin (oxidized heme) was pre-
+viously reported to be 125 mm (shaye-
+ghi et al., 2005). any residual uncer-
+tainty about the physiological role of
+slc46a1 was dispelled by the ﬁnding
+that a family with hereditary folate mal-
+absorption carries a loss-of-function
+splicing mutation in the slc46a1 gene
+(qiu et al., 2006). the affected children
+required high doses of supplemental
+cell metabolism 5, january 2007 ª2007 elsevier inc. 5

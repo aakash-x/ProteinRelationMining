@@ -1,0 +1,517 @@
+molecular aspects of medicine 27 (2006) 471–482
+www.elsevier.com/locate/mam
+review
+mitochondrial damage and intralysosomal
+degradation in cellular aging
+alexei terman a,*, bertil gustafsson b, ulf t. brunk c
+a division of geriatric medicine, inr, faculty of health sciences, linko¨ ping university,
+b department of pathology and cytology, university hospital, linko¨ ping, sweden
+c division of pharmacology, faculty of health sciences, linko¨ ping university, linko¨ ping, sweden
+se-581 85 linko¨ ping, sweden
+abstract
+normal mitochondrial respiration is associated with a continuous production of superox-
+ide and hydrogen peroxide, inevitably resulting in minor macromolecular damage. damaged
+cellular components are not completely turned over by autophagy and other cellular repair
+systems, leading to a progressive age-related accumulation of biological ‘‘garbage’’ material,
+such as defective mitochondria, cytoplasmic protein aggregates and an intralysosomal unde-
+gradable material, lipofuscin. these changes primarily aﬀect neurons, cardiac myocytes and
+other long-lived postmitotic cells that neither dilute this ‘‘garbage’’ by mitotic activity, nor
+are replaced by newly diﬀerentiated cells. defective mitochondria are insuﬃcient in atp pro-
+duction and often generate increased amounts of reactive oxygen species, further enhancing
+oxidative stress. lipofuscin-loaded lysosomes, in turn, poorly turn over mitochondria that
+gradually leads to the overload of long-lived postmitotic cells with ‘‘garbage’’ material,
+decreased adaptability and eventual cell death.
+ó 2006 elsevier ltd. all rights reserved.
+keywords: aging; autophagocytosis; lysosomes; mitochondria; oxidative stress
+* corresponding author. tel.: +46 13 221525; fax: +46 13 221529.
+e-mail address: alete@inr.liu.se (a. terman).
+0098-2997/$ - see front matter ó 2006 elsevier ltd. all rights reserved.
+doi:10.1016/j.mam.2006.08.006
+472
+a. terman et al. / molecular aspects of medicine 27 (2006) 471–482
+contents
+1. cell proliferation and manifestations of aging . . . . . . . . . . . . . . . . . . . . . . . . . 472
+2. the ‘‘garbage’’ accumulation theory of aging . . . . . . . . . . . . . . . . . . . . . . . . . . 473
+3. causes of cellular damage under normal conditions . . . . . . . . . . . . . . . . . . . . . 475
+4. mitochondrial alterations with age . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 476
+5. lysosomal changes with age: lipofuscin . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 478
+6. the mitochondrial–lysosomal axis theory of postmitotic cellular aging and death 479
+7. conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 480
+references . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 480
+1. cell proliferation and manifestations of aging
+aging (senescence) is associated with a progressive accumulation of deleterious
+changes resulting in a gradual functional decline and an increasing probability of
+disease and death. it has long been known that aging strikingly aﬀects so-called
+postmitotic cells, such as cardiac myocytes and neurons, but is negligible in
+actively proliferating cell populations, such as intestinal enterocytes, epidermal
+squamous cells and bone marrow cells (strehler, 1977; comfort, 1979). although,
+this statement is basically correct, the term ‘‘postmitotic cells’’ requires some clar-
+iﬁcation. it is now established that the diﬀerence in the renewal rate between dif-
+ferent cell types is not so strict as was hitherto believed. even such classical
+postmitotic cells as neurons, cardiac myocytes and retinal pigment epithelial cells
+have occasionally been shown to diﬀerentiate from stem cells in the adult organ-
+ism, although, much less frequently than intestinal enterocytes or peripheral blood
+cells (lledo et al., 2006; urbanek et al., 2006). on the other hand, terminally dif-
+ferentiated cells within a rapidly proliferating population do not divide either and,
+therefore, the term ‘‘postmitotic cells’’ is applicable for them as well. however,
+the important feature of these cells is their frequent replacement and, for the ter-
+minological accuracy, it is reasonable to call them ‘‘short-lived postmitotic cells’’,
+while cardiac myocytes and neurons consequently should be termed ‘‘long-lived
+postmitotic cells’’. although these cells can be substantially older than short-lived
+cells,
+it is probably not correct to always consider them as old as the whole
+organism.
+age-related changes progressively accumulate within long-lived postmitotic cells
+primarily because of the fact that these cells are replaced rarely or not at all. in con-
+trast, short-lived cells are continuously replaced as a result of stem cell diﬀerentiation
+and repetitive division (leedham et al., 2005) that eﬃciently dilutes altered structures
+and thus precludes any substantial accumulation of senescent changes (sheldrake,
+1974; terman, 2001). although short-lived cells show negligible senescence, they
+can easily senesce if their replacement is artiﬁcially suppressed, such as in long-term
+conﬂuent cultures (terman and brunk, 1998) or in cultures at phase iii according to
+a. terman et al. / molecular aspects of medicine 27 (2006) 471–482
+473
+hayﬂick that develops after repetitive divisions of non-transformed cells in vitro
+(hayﬂick, 1965). these data support the idea that short-lived cells escape aging
+primarily because of their frequent replacement but not because of some other
+factors.
+the role of long-lived postmitotic cells in aging is also supported by comparative
+biological observations. aging has not been detected in hydra vulgaris, a primitive
+animal all of whose cells are continuously replaced thanks to proliferation and dif-
+ferentiation of interstitial stem cells (martinez, 1998). hydras belong to cnidaria
+phylum, which is evolutionary earlier than other metazoans, known to possess
+long-lived postmitotic cells and, therefore, senesce. it is not well understood if there
+was any biological advantage in the appearance of long-lived postmitotic cells. it is
+hypothesized that these cells provided for a number of evolutionary useful proper-
+ties, such as a long-term memory, a function of long-lived neurons. these properties
+apparently appeared more important for species survival than potential immortality
+(terman and brunk, 2005b).
+there is, however, one type of time-related changes that aﬀects rapidly prolif-
+erating cell populations more readily than those with a low rate of cell division.
+these changes are associated with non-lethal somatic mutations, which often
+occur as a consequence of mitotic activity and which easily can be transferred
+to the daughter cells but cannot be diluted (as any nuclear mutations) by mitotic
+activity. well-known consequences of such accumulated multiple somatic muta-
+tions are malignant neoplasms, which commonly arise from various epithelia,
+connective tissue or bone marrow, but rarely occur in tissues with low mitotic
+activity such as the myocardium (butany et al., 2005). malignant tumors, how-
+ever, represent a separate age-related problem and are not discussed in this
+review. here, we focus on the mechanisms underlying age-related alterations of
+long-lived postmitotic cells.
+2. the ‘‘garbage’’ accumulation theory of aging
+postmitotic cells maintain themselves in good working condition owing to a
+continuous turnover of macromolecules and organelles that includes degradation
+of damaged structures and their replacement by newly synthesized ones. aging is
+associated with the accumulation of damaged organelles, defective proteins and
+intralysosomal undegradable material,
+lipofuscin (terman and brunk, 2004b).
+these functionally useless structures are commonly called biological ‘‘garbage’’,
+or ‘‘waste’’, the accumulation of which suggests that the normal biological turn-
+over process is less than perfect (terman, 2001; terman and brunk, 2004b). it
+was earlier hypothesized that age-related changes mostly originate from imperfect
+synthesis due to somatic mutations (burnet, 1973) or translational errors (orgel,
+1973). these theories, however, never received any strong experimental support.
+aged cells are still able to build up normal macromolecules and organelles,
+and erroneously synthesized structures would not accumulate if they were totally
+degraded. however, since the degradation process seems to be imperfect, both the
+474
+a. terman et al. / molecular aspects of medicine 27 (2006) 471–482
+misbuilt structures and those suﬀered postsynthetic modiﬁcations accumulate in
+postmitotic cells (terman, 2001; terman and brunk, 2004b). mitochondrial
+dna (mtdna) mutations, as an exception, are perhaps the only type of changes
+that can essentially contribute to postmitotic aging through synthetic errors (see
+below).
+cells possess a number of complementary systems that are responsible for
+degradation of damaged macromolecules and organelles. many proteins, mainly
+short-lived, are degraded by calcium-dependent cysteine proteases, calpains, and
+multicatalytic proteinase complexes, proteasomes, which are active in both the
+nucleus and the cytosol (sorimachi et al., 1997; wojcik and demartino, 2003).
+most long-lived proteins, as well as other macromolecules, including proteasomes,
+and all organelles are decomposed by lysosomes representing a universal intracel-
+lular degradation machinery with several dozens hydrolytic enzymes that are active
+at acidic ph (luzio et al., 2003; cuervo, 2004). intraysosomal degradation of the
+cell’s own constituents is called autophagy (autophagocytosis). depending on how
+intracellular material enters lysosomes, the process is classiﬁed as macroautophagy
+(associated with the formation of a double membrane bounded autophagosomes
+that fuse with lysosomes), microautophagy (in which material is delivered through
+invaginations of the lysosomal membrane) and chaperone-mediated autophagy
+(cuervo, 2004). macroautophagy provides for the degradation of virtually all types
+of structures from macromolecules to large organelles, by microautophagy only
+small organelles and macromolecules can be handled, while chaperone-mediated
+autophagy is responsible for the degradation of speciﬁc proteins (cuervo, 2004).
+mitochondrial proteins can be autonomously degraded by membrane-bound
+aaa proteases (arnold and langer, 2002) and matrix lon proteases (bakala
+et al., 2003).
+although age-related alterations may reﬂect imperfect function of diﬀerent cat-
+abolic pathways, autophagic insuﬃciency is probably the most important. this is
+consistent with the involvement of lysosomes in the turnover of variety of cellular
+structures and with the fact that material that has not been digested in the cyto-
+sol can still be autophagocytosed and degraded by lysosomal enzymes. aged post-
+mitotic
+‘‘waste’’
+material, reﬂecting insuﬃciency of autophagic sequestration (autophagosome for-
+mation) and degradation, respectively. senescent mitochondria and protein aggre-
+gates are typical examples of extralysosomal
+‘‘waste’’, while lipofuscin is an
+intralysosomal ‘‘waste’’. the amount of ‘‘waste’’ material progressively increases
+with age at the expense of functionally eﬀective structures, ultimately resulting
+in cell death.
+cells accumulate both extralysosomal and intralysosomal
+in support of the ‘‘garbage’’ accumulation theory of aging, it has been found that
+prolonged inhibition of autophagy decreases the viability of growth-arrested (conﬂu-
+ent) human ﬁbroblasts, but not that of dividing (sparse) cells, which dilute ‘‘garbage’’
+through cell division (stroikin et al., 2005).
+fig. 1 illustrates the progressive accumulation of biological
+‘‘garbage’’ by
+long-lived postmitotic cells and the role of cell division in preventing cellular
+aging.
+a. terman et al. / molecular aspects of medicine 27 (2006) 471–482
+475
+a. frequently renewable cells 
+(proliferative cell population)
+time 
+b. long-lived postmitotic cells 
+time 
+fig. 1. in a proliferative cell population (a) biological ‘‘garbage’’ accumulation is prevented by cell
+division and frequent replacement of diﬀerentiated cells, while in long-lived postmitotic cells (b), which are
+replaced rarely or not at all, ‘‘garbage’’ material progressively accumulates. stem cells (round) divide
+asymmetrically, reproducing themselves and giving rise to diﬀerentiated cells that become mature after a
+number of successive divisions (for simplicity, the number of divisions in the scheme is reduced). dark dots
+symbolize biological
+‘‘garbage’’ formed as a consequence of oxidative stress. cell division dilutes
+‘‘garbage’’ material thus preventing its increase due to oxidative damage (denoted by unchanged number
+of dots). dashed arrows indicate the continuation of proliferation, diﬀerentiation or ‘‘garbage’’
+accumulation. references are given in the text.
+3. causes of cellular damage under normal conditions
+an important question is what causes cellular damages that are not removable by
+autophagy and other cellular turnover mechanisms. clearly, aging is a process that
+starts early in life and gradually progresses over time. the fact that aging commences
+in young and healthy individuals, although, for some time without dramatic delete-
+rious eﬀects, suggests that it is a consequence of normal physiological processes. it is
+known that normal mitochondrial respiration is associated with inevitable electron
+leak, resulting in a nonstop formation of reactive oxygen species (ros), such as
+superoxide anion radical, hydrogen peroxide and hydroxyl radical (halliwell and
+gutteridge, 1999). denham harman was the ﬁrst one to emphasize the connection
+between normal oxygen metabolism and the aging process. according to his free rad-
+ical theory of aging, ros are responsible for continuous macromolecular damage,
+the accumulation of which results in the alterations that are characteristic for aged
+cells (harman, 1956). the validity of the free radical theory of aging has been exten-
+sively supported (cadenas and davies, 2000; sohal et al., 2002; barja, 2004).
+476
+a. terman et al. / molecular aspects of medicine 27 (2006) 471–482
+antioxidant enzymes, such as superoxide dismutase, glutathione peroxidase and
+catalase, greatly diminish the amount of ros but do not fully eliminate them (halli-
+well and gutteridge, 1999). macromolecular damages are also incompletely repaired
+and, as mentioned above, damaged structures are only partially turned over. never-
+theless, were the defense systems totally inactive, life would not be possible. this is
+the case, for example, for homozygous mitochondrial superoxide dismutase knock-
+out mice (copin et al., 2000). the fact that the defense systems eliminate the over-
+whelming majority of injuries determines the relatively slow progress of aging (as
+compared, for instance, with most diseases), which is in agreement with both the free
+radical theory and the ‘‘garbage’’ accumulation theory.
+oxidative stress seems to be the principal, but not the exclusive, reason of cellular
+damage under normal conditions. glycation reactions and spontaneous macromo-
+lecular instability were also reported responsible for cellular injuries contributing
+to the aging process (lee and cerami, 1992; hipkiss, 2003).
+4. mitochondrial alterations with age
+diﬀerent compartments and structures within long-lived postmitotic cells experi-
+ence damage unequally. mitochondria undergo the most dramatic age-related
+changes, such as structural deterioration, enlargement, decreased respiration and
+low atp production (ermini, 1976; beregi et al., 1988; terman et al., 2003). the
+most apparent reason for the high vulnerability of mitochondria by age is their direct
+exposure to self-generated ros (ozawa, 1997; cadenas and davies, 2000). another
+probable reason is the properties of mtdna, which is not protected by histones and
+also has a poorer repair capacity and higher proportion of expressed genes than
+nuclear dna (ozawa, 1997). mutations of mtdna apparently account for only
+part of mitochondrial alterations, while others are associated with direct damage
+to mitochondrial macromolecular components. theoretically, mitochondrial dam-
+age can also occur secondary to nuclear dna mutations, when all cellular mito-
+chondria would be similarly aﬀected.
+age-related mitochondrial alterations develop not only as a direct consequence of
+injury to mitochondrial dna and proteins, but also due to ensuing changes in
+mtdna replication, mitochondrial ﬁssion, fusion and turnover. many aged postmi-
+totic cells develop homoplasmic mtdna point mutations and deletions, ﬁnally
+resulting in the complete replacement of normal mitochondria with mutated ones
+(ozawa, 1997; khrapko et al., 1999). it was deduced from these observations that
+initially altered mtdna is clonally expanded, gradually substituting normal mtdna
+(richter, 1995; ozawa, 1997). it was further speculated that deleted mtdna has a
+replicative advantage because it is shorter than normal mtdna (richter, 1995;
+ozawa, 1997). the clonal expansion hypothesis gained a strong support from obser-
+vations on malignant cells, which accumulate homoplasmic mtdna mutations
+despite the dilution of defective mitochondria through mitotic activity (hochhauser,
+2000).
+a. terman et al. / molecular aspects of medicine 27 (2006) 471–482
+477
+according to a more recent challenging hypothesis, mitochondria with mutated
+dna accumulate because they escape autophagic degradation. this may occur
+due to decreased respiration of defective mitochondria, making their membranes less
+aﬀected by ros and, therefore,
+less targeted for autophagy (de grey, 1997).
+although, this hypothesis (called ‘‘sos’’, for ‘‘survival of the slowest’’) remains
+unproved, it is consistent with the fact that mitochondrial autophagy can be selective
+in some cases (sutovsky et al., 1999; kissova et al., 2004). it should be mentioned
+that the clonal expansion and sos hypotheses do not mutually exclude each other,
+and the mechanisms of age-related accumulation of mutated mitochondria suggested
+by both theories can probably be combined.
+there are good reasons to believe that mitochondrial damage may occur inde-
+pendently of mtdna mutations. this follows, in particular, from the fact that
+only one out of seven senescent cardiac myocytes harbored mtdna mutations
+(khrapko et al., 1999). in cultured cardiac myocytes, small sized mitochondria
+have been found more readily autophagocytosed than large ones, suggesting that
+age-related accumulation of exceedingly enlarged (so-called ‘‘giant’’) mitochondria
+may reﬂect their ineﬃcient autophagy (terman et al., 2003). apparently, autoph-
+agy of small mitochondria is less energy consuming and, therefore, is easier than
+that of large ones. initial mitochondrial enlargement may occur due to disturbed
+ﬁssion, which,
+in turn, may develop secondary to ros-induced damage. this
+notion is consistent with the ﬁnding of decreased dna synthesis in large mito-
+chondria (terman et al., 2003). a more detailed explanation of age-related accu-
+mulation of
+‘‘bottleneck’’ model,
+symbolizing the limitation of mitochondrial turnover by mitochondrial size (ter-
+man and brunk, 2005a).
+‘‘giant’’ mitochondria is given in our
+conceivably, age-related mitochondrial enlargement may be associated with
+increased mitochondrial fusion, although, any evidence of such a possibility is
+lacking. on the contrary, fusion events have been shown suppressed in senescent
+mitochondria (jendrach et al., 2005). disturbances of the mitochondrial autono-
+mous proteolytic machinery (represented by lon and aaa proteases) may also
+contribute to mitochondrial aging. it has been demonstrated that at least lon
+protease activity, indeed, decreases with age (bota et al., 2002). lipofuscin load-
+ing of lysosomes in aged cells additionally complicates mitochondrial turnover
+(see below).
+modeling of homozygous mtdna polymerase gamma knockout mice provided
+additional support for the key role of mitochondrial damage in aging (trifunovic
+et al., 2004). these so-called mtdna mutator mice develop a variety of senescent-
+like changes in diﬀerent organs, representing an artiﬁcial premature aging syndrome.
+mitochondria of such mice show deﬁcient respiration, imitating the consequences of
+mitochondrial damage in normal aging. no increase in ros production has been
+detected in mtdna mutator mice (trifunovic et al., 2005). this ﬁnding, however,
+does not oppose the free radical theory of aging, since the accumulation of unrepair-
+able oxidative damage would occur even in constant, or even decreasing, level of oxi-
+dative stress.
+478
+a. terman et al. / molecular aspects of medicine 27 (2006) 471–482
+5. lysosomal changes with age: lipofuscin
+lysosomes of long-lived postmitotic cells become more abundant and larger with
+age, being loaded with a brown–yellow substance, lipofuscin (age pigment). lipofus-
+cin is neither degraded by lysosomal enzymes, nor is exocytosed to any considerable
+extent, which actually explains why intracellular lipofuscin content increases with
+years (terman and brunk, 2004a). lipofuscin represents a complex polymeric mate-
+rial, mainly composed of cross-linked protein and lipid residues and containing some
+carbohydrates and traces of metals (terman and brunk, 2004a). accordingly, it
+stains positively for lipids and sugars and is characterized by a high electron density.
+in unstained specimens, lipofuscin granules are recognized by a bright, wide-spec-
+trum autoﬂuorescence (brunk and terman, 2002b). all these properties, however,
+are not absolutely speciﬁc for lipofuscin, but can be also a characteristic of an unde-
+gradable intralysosomal pigment, ceroid, that occurs in a number of pathological
+conditions, including lysosomal storage diseases, vitamin e deﬁciency, various intox-
+ications, etc. attempts have been made to distinguish this disease-associated pigment
+from age-related, or genuine, lipofuscin pigment based on a number of morpholog-
+ical and physico-chemical characteristics (porta, 2002; seehafer and pearce, 2006).
+not surprisingly, the properties of the undegradable intralysosomal pigment may
+diverge in normal and pathological conditions, as well as in diﬀerent cell types
+and diﬀerent pathological conditions, reﬂecting a complex and variable origin of
+autophagocytosed or heterophagocytosed material. however,
+the distinction
+between lipofuscin and ceroid and between diﬀerent ceroid pigments based on a
+complex battery of tests (seehafer and pearce, 2006) does not seem to have a high
+reliability and practical value. in our opinion, lipofuscin and ceroid have the same
+principal mechanisms of formation (see below) and the discrimination between the
+two pigments is reasonable only from an etiological viewpoint.
+lipofuscin can potentially form from any type of cellular material, but auto-
+phagocytosed mitochondria seem to be its most important source. this is consistent
+with the fact that mitochondrial atp-synthase subunit c is an invariable component
+of lipofuscin or ceroid granules (elleder et al., 1997). autophagocytosed mitochon-
+dria are rich in oxidatively modiﬁed membranes and matrix proteins, as well as cyto-
+chrome c and other metalloproteins, being the source of low molecular weight iron,
+catalyzing fenton reactions, i.e., formation of hydroxyl radicals from hydrogen per-
+oxide (halliwell and gutteridge, 1999). the latter freely diﬀuses from functioning
+mitochondria, and other places of formation, throughout the cell and is probably
+also generated intralysosomally by autophagocytosed mitochondria. as a result,
+autophagocytosed macromolecules undergo further oxidative modiﬁcations, form-
+ing an undegradable pigment (brunk et al., 1992; terman and brunk, 2004a). this
+process is relatively slow under normal conditions (lipofuscinogenesis) but can be
+much accelerated in various pathologies (ceroidogenesis).
+lipofuscin has long been considered an innocent hallmark of aging, but accumu-
+lating evidences suggests the opposite. it has been recently demonstrated that lipo-
+fuscin levels correlate with physiological, rather than with chronological age of
+caenorhabditis elegans (gerstbrein et al., 2005). precise mechanisms behind negative
+a. terman et al. / molecular aspects of medicine 27 (2006) 471–482
+479
+inﬂuence of lipofuscin accumulation remain to be investigated. however, as reported
+earlier, lipofuscin can sensitize cells to oxidative stress (terman et al., 1999a), appar-
+ently due to a high content of iron in pigment granules, and decrease the cellular
+autophagic capacity (terman et al., 1999b) that may seriously aﬀect the biological
+renewal machinery.
+6. the mitochondrial–lysosomal axis theory of postmitotic cellular aging and death
+it is reasonable to believe that autophagy decreases in aged postmitotic cells due
+to an inappropriate distribution of lysosomal enzymes (brunk and terman, 2002a).
+acid hydrolases are delivered to acidic vacuoles (late endosomes) in speciﬁc vesicles
+that pinch oﬀ from the trans-golgi network (luzio et al., 2003). lipofuscin-loaded
+lysosomes are integrated parts of the lysosomal system that freely fuse with auto-
+phagosomes, late endosomes and other acidic vacuoles. with age, lipofuscin occu-
+pies an increasing proportion of the lysosomal compartment, suggesting that
+golgi-derived vesicles with acid hydrolases will have increasingly higher chance to
+end up in lipofuscin-loaded lysosomes rather than in lysosomes degrading freshly
+autophagocytosed material (autophagolysosomes). because acid hydrolases within
+lipofuscin-loaded lysosomes are ineﬃcient due to indigestability of the pigment,
+and because the overall production of lysosomal enzymes is apparently limited,
+the functional capacity of the lysosomal system declines. this will lead to further
+decrease of mitochondrial turnover, which even at young age was already somewhat
+imperfect (see above). consequently, the accumulation of defective mitochondria
+will increase dramatically, resulting in a progressive decline of atp production
+and increased ros generation that will cause additional molecular damage. finally,
+postmitotic cells overloaded with defective mitochondria and lipofuscin-loaded lyso-
+somes will be unable to maintain their functions and die (fig. 2).
+in support of the mitochondrial–lysosomal axis theory of aging, levels of ros,
+lipofuscin accumulation and mitochondrial damage show a strong positive
+young cell
+aged cell
+apoptotic cell
+lf
+lf
+lf
+fig. 2. scheme showing the accumulation of enlarged defective (dark) mitochondria and lipofuscin-loaded
+lysosomes in aged long-lived postmitotic cells, ﬁnally resulting in cell death as described in the
+mitochondrial–lysosomal axis theory of aging. n, nuclei (nuclear fragments in apoptotic cells); m,
+mitochondria; l, lysosomes; lf, lipofuscin-loaded lysosomes.
+480
+a. terman et al. / molecular aspects of medicine 27 (2006) 471–482
+correlation in cultured neonatal rat cardiac myocytes (terman et al., 2004). in addi-
+tion, inhibition of mitochondrial turnover with 3-methyladenine greatly accelerated
+accumulation of defective mitochondria, resulting in premature death of cultured
+cardiac myocytes (terman et al., 2003).
+7. conclusion
+mitochondria and lysosomes are key players in age-related alterations of long-
+lived postmitotic cells, the degeneration of which is of fundamental importance for
+the overall aging process. mitochondria are the main source of cellular superoxide
+and hydrogen peroxide, causing damage to various cellular components, while ﬁrst
+and foremost to mitochondria themselves. lysosomes, the principal cellular recy-
+cling organelles, cannot turnover all injured mitochondria and other subcellular
+structures. some defective mitochondria, mainly enlarged ones, accumulate extralys-
+osomally, while undegradable components of autophagocytosed mitochondria con-
+stitute a considerable part of
+lipofuscin.
+mitochondrial ros production is also an important factor in lipofuscinogenesis,
+which, in turn, interferes with lysosomal capacity to recycle mitochondria. potential
+anti-aging strategies should thus include both the prevention of oxidative stress and
+the facilitating of mitochondrial turnover.
+the intralysosomal age pigment,
+references
+arnold, i., langer, t., 2002. membrane protein degradation by aaa proteases in mitochondria. biochim.
+biophys. acta 1592, 89–96.
+barja, g., 2004. free radicals and aging. trends neurosci. 27, 595–600.
+burnet, f.m., 1973. a genetic interpretation of ageing. lancet 2, 480–483.
+brunk, u.t., terman, a., 2002a. the mitochondrial–lysosomal axis theory of aging: accumulation of
+damaged mitochondria as a result of imperfect autophagocytosis. eur. j. biochem. 269, 1996–2002.
+brunk, u.t., terman, a., 2002b. lipofuscin: mechanisms of age-related accumulation and inﬂuence on
+cell functions. free radical biol. med. 33, 611–619.
+bota, d.a., van remmen, h., davies, k.j., 2002. modulation of lon protease activity and aconitase
+turnover during aging and oxidative stress. febs lett. 532, 103–106.
+brunk, u.t., jones, c.b., sohal, r.s., 1992. a novel hypothesis of lipofuscinogenesis and cellular aging
+based on interactions between oxidative stress and autophagocytosis. mutat. res. 275, 395–403.
+beregi, e., regius, o., huttl, t., gobl, z., 1988. age-related changes in the skeletal muscle cells. z.
+gerontol. 21, 83–86.
+butany, j., leong, s.w., carmichael, k., komeda, m., 2005. a 30-year analysis of cardiac neoplasms at
+autopsy. can. j. cardiol. 21, 675–680.
+bakala, h., delaval, e., hamelin, m., bismuth, j., borot-laloi, c., corman, b., friguet, b., 2003.
+liver mitochondria with aging. lon protease-like reactivity and n(epsilon)-
+changes in rat
+carboxymethyllysine accumulation in the matrix. eur. j. biochem. 270, 2295–2302.
+comfort, a., 1979. ageing: the biology of senescence, third ed. elsevier, new york.
+cuervo, a.m., 2004. autophagy: many paths to the same end. mol. cell. biochem. 263, 55–72.
+cadenas, e., davies, k.j., 2000. mitochondrial free radical generation, oxidative stress, and aging. free
+radical biol. med. 29, 222–230.
+a. terman et al. / molecular aspects of medicine 27 (2006) 471–482
+481
+copin, j.c., gasche, y., chan, p.h., 2000. overexpression of copper/zinc superoxide dismutase does not
+prevent neonatal lethality in mutant mice that lack manganese superoxide dismutase. free radical
+biol. med. 28, 1571–1576.
+de grey, a.d., 1997. a proposed reﬁnement of the mitochondrial free radical theory of aging. bioessays
+19, 161–166.
+ermini, m., 1976. ageing changes in mammalian skeletal muscle: biochemical studies. gerontology 22,
+301–316.
+elleder, m., sokolova, j., hrebicek, m., 1997. follow-up study of subunit c of mitochondrial atp
+synthase (scmas) in batten disease and in unrelated lysosomal disorders. acta neuropathol. 93, 379–
+390.
+gerstbrein, b., stamatas, g., kollias, n., driscoll, m., 2005. in vivo spectroﬂuorimetry reveals
+endogenous biomarkers that report healthspan and dietary restriction in caenorhabditis elegans. aging
+cell 4, 127–137.
+harman, d., 1956. aging: a theory based on free radical and radiation chemistry. j. gerontol. 211, 298–
+300.
+hayﬂick, l., 1965. the limited in vitro lifetime of human diploid cell strains. exp. cell res. 37, 614–636.
+hipkiss, a.r., 2003. non-oxidative modiﬁcation of dna and proteins. in: von zglinicki, t. (ed.), aging
+at the molecular level. kluwer, dordrecht, pp. 145–177.
+hochhauser, d., 2000. relevance of mitochondrial dna in cancer. lancet 356, 181–182.
+halliwell, b., gutteridge, j.m.c., 1999. free radicals in biology and medicine, third ed. oxford
+university press, new york.
+jendrach, m., pohl, s., voth, m., kowald, a., hammerstein, p., bereiter-hahn, j., 2005. morpho-
+dynamic changes of mitochondria during ageing of human endothelial cells. mech. ageing dev. 126,
+813–821.
+kissova, i., deﬃeu, m., manon, s., camougrand, n., 2004. uth1p is involved in the autophagic
+degradation of mitochondria. j. biol. chem. 279, 39068–39074.
+khrapko, k., bodyak, n., thilly, w.g., van orsouw, n.j., zhang, x., coller, h.a., perls, t.t., upton,
+m., vijg, j., wei, j.y., 1999. cell-by-cell scanning of whole mitochondrial genomes in aged human
+heart reveals a signiﬁcant fraction of myocytes with clonally expanded deletions. nucleic acids res.
+27, 2434–2441.
+lee, a.t., cerami, a., 1992. role of glycation in aging. ann. ny acad. sci. 663, 63–70.
+lledo, p.m., alonso, m., grubb, m.s., 2006. adult neurogenesis and functional plasticity in neuronal
+circuits. nat. rev. neurosci. 7, 179–193.
+leedham, s.j., brittan, m., mcdonald, s.a., wright, n.a., 2005. intestinal stem cells. j. cell. mol. med.
+9, 11–24.
+luzio, j.p., poupon, v., lindsay, m.r., mullock, b.m., piper, r.c., pryor, p.r., 2003. membrane
+dynamics and the biogenesis of lysosomes. mol. membr. biol. 20, 141–154.
+martinez, d.e., 1998. mortality patterns suggest lack of senescence in hydra. exp. gerontol. 33, 217–225.
+orgel, l.e., 1973. ageing of clones of mammalian cells. nature 243, 441–445.
+ozawa, t., 1997. genetic and functional changes in mitochondria associated with aging. physiol. rev. 77,
+425–464.
+porta, e.a., 2002. pigments in aging: an overview. ann. ny acad. sci. 959, 57–65.
+richter, c., 1995. oxidative damage to mitochondrial dna and its relationship to ageing. int. j.
+biochem. cell biol. 27, 647–653.
+sheldrake, a.r., 1974. the ageing, growth and death of cells. nature 250, 381–385.
+strehler, b.l., 1977. time, cells, and aging, second ed. academic press, new york.
+seehafer, s.s., pearce, d.a., 2006. you say lipofuscin, we say ceroid: deﬁning autoﬂuorescent storage
+material. neurobiol. aging 27, 576–588.
+sohal, r.s., mockett, r.j., orr, w.c., 2002. mechanisms of aging: an appraisal of the oxidative stress
+hypothesis. free radical biol. med. 33, 575–586.
+sorimachi, h., ishiura, s., suzuki, k., 1997. structure and physiological function of calpains. biochem. j.
+328, 721–732.
+482
+a. terman et al. / molecular aspects of medicine 27 (2006) 471–482
+stroikin, y., dalen, h., brunk, u.t., terman, a., 2005. testing the ‘‘garbage’’ accumulation theory of
+ageing: mitotic activity protects cells from death induced by inhibition of autophagy. biogerontology
+6, 39–47.
+sutovsky, p., moreno, r.d., ramalho-santos, j., dominko, t., simerly, c., schatten, g., 1999. ubiquitin
+tag for sperm mitochondria. nature 402, 371–372.
+terman, a., 2001. garbage catastrophe theory of aging: imperfect removal of oxidative damage? redox
+rep. 6, 15–26.
+terman, a., brunk, u.t., 1998. ceroid/lipofuscin formation in cultured human ﬁbroblasts: the role of
+oxidative stress and lysosomal proteolysis. mech. ageing dev. 104, 277–291.
+terman, a., brunk, u.t., 2004a. lipofuscin. int. j. biochem. cell biol. 36, 1400–1404.
+terman, a., brunk, u.t., 2004b. aging as a catabolic malfunction. int. j. biochem. cell biol. 36, 2365–
+2375.
+terman, a., brunk, u.t., 2005a. autophagy in cardiac myocyte homeostasis, aging, and pathology.
+cardiovasc. res. 68, 355–365.
+terman, a., brunk, u.t., 2005b. is aging the price for memory? biogerontology 6, 205–210.
+terman, a., abrahamsson, n., brunk, u.t., 1999a. ceroid/lipofuscin-loaded human ﬁbroblasts show
+increased susceptibility to oxidative stress. exp. gerontol. 34, 755–770.
+terman, a., dalen, h., brunk, u.t., 1999b. ceroid/lipofuscin-loaded human ﬁbroblasts show decreased
+survival time and diminished autophagocytosis during amino acid starvation. exp. gerontol. 34, 943–
+957.
+terman, a., dalen, h., eaton, j.w., neuzil, j., brunk, u.t., 2003. mitochondrial recycling and aging of
+cardiac myocytes: the role of autophagocytosis. exp. gerontol. 38, 863–876.
+terman, a., dalen, h., eaton, j.w., neuzil, j., brunk, u.t., 2004. aging of cardiac myocytes in culture:
+oxidative stress, lipofuscin accumulation, and mitochondrial turnover. ann. ny acad. sci. 1019, 70–
+77.
+trifunovic, a., hansson, a., wredenberg, a., rovio, a.t., dufour, e., khvorostov, i., spelbrink, j.n.,
+wibom, r., jacobs, h.t., larsson, n.g., 2005. somatic mtdna mutations cause aging phenotypes
+without aﬀecting reactive oxygen species production. proc. natl. acad. sci. usa 102, 17993–17998.
+trifunovic, a., wredenberg, a., falkenberg, m., spelbrink, j.n., rovio, a.t., bruder, c.e., bohlooly,
+y.m., gidlof, s., oldfors, a., wibom, r., tornell, j., jacobs, h.t., larsson, n.g., 2004. premature
+ageing in mice expressing defective mitochondrial dna polymerase. nature 429, 417–423.
+urbanek, k., cesselli, d., rota, m., nascimbene, a., de angelis, a., hosoda, t., bearzi, c., boni, a.,
+bolli, r., kajstura, j., anversa, p., leri, a., 2006. stem cell niches in the adult mouse heart. proc. natl.
+acad. sci. usa 103, 9226–9231.
+wojcik, c., demartino, g.n., 2003. intracellular localization of proteasomes. int. j. biochem. cell biol.
+35, 579–589.

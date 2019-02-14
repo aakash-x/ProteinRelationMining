@@ -1,0 +1,671 @@
+e x p e r i m e n t a l c e l l r e s e a r c h 3 1 2 ( 2 0 0 6 ) 2 0 1 8 – 2 0 2 7
+ava i l a b l e a t w w w. s c i e n c e d i r e c t . c o m
+w w w. e l s ev i e r. c o m / l o c a t e / yexc r
+research article
+a dual function for deep orange in programmed autophagy in
+the drosophilamelanogasterfat body
+karine lindmoa, anne simonsen a, andreas brech a, kim finley b,
+tor erik rusten a, harald stenmark a,⁎
+adepartment of biochemistry, the norwegian radium hospital, montebello, n-0310 oslo, norway
+bcellular neurobiology lab (cnb), the salk institute for biological studies, 10010 north torrey pines road, la jolla, ca 92037-1099, usa
+a r t i c l e i n f o r m a t i o n
+a b s t r a c t
+lysosomal degradation of cytoplasm by way of autophagy is essential for cellular amino acid
+homeostasis and for tissue remodeling. in insects such as drosophila, autophagy is
+developmentally upregulated in the larval fat body prior to metamorphosis. here,
+autophagy is induced by the hormone ecdysone through down-regulation of the autophagy-
+suppressive phosphoinositide 3-kinase (pi3k) signaling pathway. in yeast, vps18 and other
+members of the hops complex have been found essential for autophagic degradation. in
+drosophila, the vps18 homologue deep orange (dor) has previously been shown to mediate
+fusion of multivesicular endosomes with lysosomes. a requirement of dor for ecdysone-
+mediated chromosome puffing has also been reported. in the present report, we have tested
+the hypothesis that dor may control programmed autophagy at the level of ecdysone signaling
+as well as by mediating autophagosome-to-lysosome fusion. we show that dor mutants are
+defective in programmed autophagy and provide evidence that autophagy is blocked at two
+levels. first, pi3k activity was not down-regulated correctly in dor larvae, which correlated with
+a decrease in ecdysone reporter activity. the down-regulation of pi3k activity was restored by
+feeding ecdysone to the mutant larvae. second, neither exogenous ecdysone nor
+overexpression of pten, a silencer of pi3k signaling, restored fusion of autophagosomes
+with lysosomes in the fat body of dor mutants. these results indicate that dor controls
+autophagy indirectly, via ecdysone signaling, as well as directly, via autolysosomal fusion.
+© 2006 elsevier inc. all rights reserved.
+then fuses with the lysosome, releases its inner vesicle and
+forms a degradative compartment known as the autolysosome
+[1]. autophagy plays an important role in providing amino
+acids under low nutrient conditions by degrading proteins and
+organelles [3,4] and has also been shown to be important
+during development. for instance, in drosophila melanogaster,
+autophagy is responsible for tissue remodeling and for
+providing nutrients during the pupal period when the larva
+develops into an adult fly [4]. impaired autophagy has been
+article chronology:
+received 16 november 2005
+revised version received
+2 march 2006
+accepted 6 march 2006
+available online 4 april 2006
+keywords:
+atg8
+autophagy
+deep orange
+drosophila
+ecdysone
+lc3
+lysosome
+vps
+introduction
+macroautophagy (hereafter referred to as autophagy) is the
+process by which cytoplasmic content is shuttled to the
+lysosome for degradation. from yeast, it is thought that
+autophagy initiates from a pre-autophagosomal structure
+(pas) [1,2]. this pas structure elongates upon stimuli to form
+a double-membraned isolation membrane which forms a so-
+called autophagosome when enclosed. the autophagosome
+⁎ corresponding author. fax: +47 22508692.
+e-mail address: stenmark@ulrik.uio.no (h. stenmark).
+0014-4827/$ – see front matter © 2006 elsevier inc. all rights reserved.
+doi:10.1016/j.yexcr.2006.03.002
+e x p e r i m e n t a l c e l l r e s e a r c h 3 1 2 ( 2 0 0 6 ) 2 0 1 8 – 2 0 2 7
+2019
+implicated in several human disorders, such as neurodegen-
+erative diseases, cancer and myopathy [5]. because of its
+importance in (patho)physiology, it is essential to characterize
+the regulatory and effector mechanisms of autophagy.
+the onset of autophagy in drosophila development has
+been shown to be dependent on the increasing titer of 20-
+hydroxyecdysone (ecdysone) during the last larval stage,
+called l3 [6]. this developmentally induced event is termed
+programmed autophagy and is independent of starvation
+induction. ecdysone is synthesized in the ring gland [7], and
+when ecdysone reaches the fat body, autophagy is initiated
+through the down-regulation of class i pi3k [6,8]. pi3k has been
+shown to be a negative regulator of autophagy in mammalian
+cells, drosophila and in caenorhabditis elegans [9–11]. active pi3k
+catalyzes the formation of phosphatidylinositol-3,4,5-trispho-
+sphate (pi(3,4,5)p3) at the plasma membrane [12], which in turn
+recruits effectors such as the growth-regulatory proteins akt
+and pdk1 that harbor a pi(3,4,5)p3-binding pleckstrin homology
+(ph) domain [13]. the levels of pi(3,4,5)p3 are negatively
+regulated by pten (phosphatase and tensin homologue
+deleted from chromosome 10), a phosphatase that depho-
+sphorylates pi(3,4,5)p3 at the 3-position of the inositol-ring
+[14]. we have previously shown that autophagy in the larval
+fat body can be induced by overexpressing pten in a
+dominant-negative ecdysone receptor background [6].
+the molecular machinery of autophagy has been thoroughly
+studied in yeast, and a number of autophagy-linked proteins
+have been identified [15–17]. among these are the proteins in the
+hops complex that consists of the class c vps (vacuolar protein
+sorting) complex (vps18, vps11, vps33 and vps16), in addition to
+vps41 and vps39. from yeast studies using protein precursors
+that are modified by lysosomal hydrolases as markers for intact
+transport [18,19], it is known that the vps class c complex is
+needed for fusion of endosomes or autophagosomes with the
+fig. 1 – dor1 mutants show impaired autophagy in the larval fat body. (a–d) autophagy is visualized by gfp-lc3 and
+lysotracker. (a–b′′) control fat body cells at the late wandering l3 (lwl3) stage are filled with autolysosomes recognized as large
+(~2 μm) structures positive for both lysotracker and gfp-lc3 (arrows in panel b). (c–d′′) dor1 mutant fat bodies contain
+numerous small lysotracker-positive structures that are gfp-lc3-negative (arrow in panel d). some lysotracker-negative
+gfp-lc3 structures can occasionally be seen (arrowheads in d). (e) dor1/dor8 trans-heterozygous animals are also impaired in
+programmed autophagy. (f–g) lamp1 is localized to large gfp-lc3-positive autolysosomes in control fat body tissue (f, arrows),
+whereas in dor1 mutants lamp1 localizes in numerous small gfp-lc3-negative structures (g). scale bar is 10 μm in frames a, c
+and e and 2 μm in frames b, d, f and g.
+2020
+e x p e r i m e n t a l c e l l r e s e a r c h 3 1 2 ( 2 0 0 6 ) 2 0 1 8 – 2 0 2 7
+vacuole, as well as for transport from the golgi to endosomes.
+the drosophila homologue of vps18, dor, has been shown to
+function in the endocytic pathway [20,21]. multivesicular endo-
+somes accumulate in dor mutant clones of the drosophila eye
+imaginal disc, indicating that dor, like vps18, is required for
+fusion of multivesicular endosomes with lysosomes [20]. dor is
+also involved in fusion of golgi-derived vesicles with rab7-
+positive endocytic compartments [21]. so far, it has not been
+determined whether dor plays any role in autophagy. however,
+early studies showed that the polytene chromosomes of the
+salivary glands of dor mutant larvae lack ecdysone-related
+puffing. adding ecdysone to cultured salivary glands could
+restore this puffing pattern, suggesting the possibility that dor
+may be required for ecdysone signaling [22,23].
+to test the hypothesis that dor is involved in programmed
+autophagy by both being required for ecdysone signaling and
+for lysosomal fusion, we have made use of a recently
+developed assay that is based on the autophagosomal marker
+lc3 fused with gfp and the lysosomal dye lysotracker [4,6].
+lc3/atg8 is a protein that is localized on the membranes of
+the pre-autophagosomal structure, the autophagosome and
+inside the autolysosome [6,24,25]. since the gfp is quite
+stable also in the autolysosomal lumen after the fusion with
+the lysosome/vacuole, the gfp-lc3 fusion protein can be
+used as a marker for autophagy [6,24,26]. lysotracker has
+been shown to stain lysosomes and autolysosomes in the
+larval fat body [4,6]. previous results have shown that
+autophagosomes are small gfp-lc3-positive and lyso-
+tracker-negative structures whereas autolysosomes are char-
+acterized by the co-localization of gfp-lc3 and lysotracker in
+large (2 μm) structures. in the course of the present study, we
+found that, under certain circumstances, autophagosomes
+may be negative for gfp-lc3, probably because the protein
+dissociates or is degraded during prolonged exposure to
+hydrolytic enzymes. we have therefore also used electron
+microscopy to monitor autophagy.
+using these assays, we show here that dor mutants are
+defective in programmed autophagy and that fat bodies of
+mutant larvae show an accumulation of autophagosomes that
+fail to fuse with lysosomes. we also find that pi3k activity is
+not down-regulated in the dor mutant and that this can be
+restored by feeding ecdysone to the mutant larvae. further-
+more, we provide evidence that the ecdysone levels in the fat
+body nuclei are lower than in control larvae. nevertheless,
+overexpression of pten in the fat body of dor mutants does not
+restore autophagy. these results indicate that dor controls
+autophagy indirectly, via ecdysone signaling, as well as
+directly, via autolysosomal fusion.
+materials and methods
+fly strains
+all fly strains were obtained from the bloomington stock
+center except the following: uas-pten [27], tgfp-ph [28], uas-
+fig. 2 – dor1 mutants accumulate autophagosomes. (a–d) electron micrographs of wild-type (a–b) and dor1 (c–d) tissue show
+that the characteristic large single membrane autolysosomes as seen in wild-type tissue (a, arrowheads) are not present in
+dor1. instead, dor1 show accumulation of double membrane autophagosomes (c and d, arrows) and some smaller lysosome/
+autolysosome structures (c and d, arrowheads). scale bar is 5 μm in frames a and c and 1 μm in frames b and d.
+e x p e r i m e n t a l c e l l r e s e a r c h 3 1 2 ( 2 0 0 6 ) 2 0 1 8 – 2 0 2 7
+2021
+dor1–1002 (here called uas-dor+) [20], uas-hrp-lamp1 [29], w;hs-
+gal4-usp;uas-nlacz56 [30], cg-gal4 [31] and uas-gfp-lc3 [6].
+aed for mutant larvae to avoid the maternal contribution of
+dor. as control wild-type and mutant larvae were fed fly food
+supplemented with ethanol alone.
+lysotracker assay
+fluorescence microscopy
+larvae of the appropriate stage were dissected in pbs. the fat
+body was incubated for 1 min in lysotracker® red dnd-99
+(molecular probes) diluted 1:200 in pbs. the tissue was
+mounted in 80% glycerol in pbs containing 0.4% n-propylgal-
+late (sigma) as anti-fading agent. the samples were directly
+visualized by confocal microscopy.
+images were recorded using a zeiss lsm 510 meta confocal
+microscope and processed using adobe photohop 7.0. for the
+staining of hrp-lamp1, we used rabbit anti-hrp antibodies
+from sigma #p7899 (1:400) and cy3-conjugated secondary
+antibodies from jackson immunoresearch.
+ecdysone reporter assay
+electron microscopy
+the experiment was carried out as described [30]. uas-nlacz56
+was used since this construct has a low background expres-
+sion of lacz in the fat body at the wl3 stage. the w;hs-gal4-
+usp;uas-nlacz56 larvae were fixed in 4% formaldehyde con-
+taining 0.3% triton-x100 (sigma), washed three times in
+pbs + 0.3% triton-x100 (pbx) and blocked in pbx, 0.1% bsa
+(sigma) and 5% normal goat serum (sigma). the presence of
+lacz was detected by mouse anti-β-galactosidase from
+promega, #z378a (1:100) at 4°c overnight before the tissue
+was washed in pbx + 0.1% bsa and incubated with cy2-
+conjugated secondary antibody (jackson immunoresearch)
+for 2 h at room temperature. the tissue was then washed
+again four times for 10 min before it was mounted in 80%
+glycerol in pbs containing 0.4% n-propylgallate.
+expression of uas-pten in the fat body
+vials with dor1/y;cg-gal4,uas-gfp-lc3/uas-pten and w;cg-
+gal4,uas-gfp-lc3/uas-pten larvae were placed on 18°c for
+7 days then 25°c for 3 days and 30°c for ∼8 h. late wl3
+larvae were then dissected, stained with lysotracker and
+imaged by confocal microscopy or fixed directly for electron
+microscopy.
+ecdysone feeding
+for the autophagy assay, wandering l3 dor1/y;cggal4,uas-gfp-
+lc3 larvae were fed 15 μg/ml 20-hydroxyecdysone (sigma) for
+4 h in pbs containing 20% sucrose and heat-killed yeast [6]. as
+control dor1/y;cg-gal4,uas-gfp-lc3, larvae were incubated in
+the sugar/yeast solution alone for the same amount of time.
+cg-gal4,uas-gfp-lc3 early l3 larvae that are responsive to
+ecdysone, but without detectable levels of the hormone, were
+treated in the same way to test for the ability of the ecdysone
+solution to induce autophagy in the experiment. after
+incubation, lwl3 dor1/y;cg-gal4,uas-gfp-lc3 larvae and early
+l3 cg-gal4,uas-gfp-lc3 larvae were stained with lysotracker
+and imaged.
+for the gfp-ph assay, we used the assay developed by
+colombani and co-workers [32]. flies were allowed to lay eggs
+for 4 h. wild-type (tgfp-ph) and mutant (dor1/y;tgfp-ph) larvae
+were transferred 48 h and 72 h after egg deposition (aed),
+respectively, to a small piece of fly food covered with yeast
+paste containing 0.25 mg/ml ecdysone (dissolved in ethanol).
+gfp-ph levels at the plasma membrane were visualized by
+confocal microscopy 96 h aed for wild-type larvae and 118 h
+fat bodies were fixed in 2% glutaraldehyde in 0.1 m cacodylate
+buffer, ph 7.2. samples were postfixed with 2% oso4 and 1.5%
+kfecn in the same buffer, poststained with 4% uranyl acetate,
+dehydrated in increasing alcohol concentrations and embed-
+ded with epon. sections of 40–50 nm were cut on a leica
+ultracut, counterstained with 2% lead citrate and observed in a
+philips cm10 electron microscope at 60–80 kv.
+results
+programmed autophagy is impaired in deep orange mutants
+in drosophila, programmed autophagy is initiated by ecdysone
+at the early l3 (el3) stage and can be observed as small gfp-
+lc3-positive autophagosomes [4,6,33]. due to several autop-
+hagosomes fusing with each lysosome, the size of the gfp-lc3/
+lysotracker-positive autolysosomes increases to a final size of
+2–5 μm by the late wandering l3 (lwl3) stage. by using this gfp-
+lc3/lysotracker assay [6], we compared wild-type animals to
+dor mutants at the lwl3 stage. we used the hypomorphic dor1
+allele since dor1 animals show a severe trafficking defect while
+still surviving the lwl3 stage, unlike the stronger dor8 allele [21].
+the cytoplasm of fat body cells from wild-type larvae at the
+late wandering l3 stage was filled with autolysosomes,
+recognized as large vesicles positive for both gfp-lc3 and
+lysotracker (figs. 1a–bʺ). in contrast, dor1 mutant fat body cells
+contained no autolysosomes, but instead many smaller
+lysotracker-positive structures and occasionally a few gfp-
+lc3-positive structures (that never co-localized with lyso-
+tracker) (figs. 1c–dʺ). this phenotype was similar to the dor1/
+dor8 trans-heterozygous larvae, showing that the defect was
+due to dor1 itself and not a secondary mutation on the same
+chromosome (fig. 1e). to further characterize the dor1 pheno-
+type, we used the lysosomal marker hrp-lamp1 in both dor1
+and control larvae. whereas the control larvae showed large
+structures positive for lamp1 and gfp-lc3 (fig. 1f), dor1
+mutant fat body cells contained numerous small lamp1
+structures which were gfp-lc3-negative (fig. 1g).
+in order to study the effects of the dor mutation at the
+ultrastructural level, we analyzed fat bodies of wild-type and
+dor1 mutant lwl3 larvae by electron microscopy. consistent
+with the gfp-lc3/lysotracker assay, the wild-type larvae
+contained a large number of large-sized (∼2 μm) autolyso-
+somes distinguished by their content of endoplasmic reti-
+culum and mitochondrial remnants (figs. 2a–b), whereas
+2022
+e x p e r i m e n t a l c e l l r e s e a r c h 3 1 2 ( 2 0 0 6 ) 2 0 1 8 – 2 0 2 7
+very few autolysosomes were detected in the dor1 mutant
+(figs. 2c–d). surprisingly, the mutant fat body did contain a
+large number of autophagosomes (figs. 2c–d) that were not
+visualized by the gfp-lc3 assay. a possible explanation for
+the lack of gfp-lc3 signal in the autophagosomes will be
+provided in the discussion section. these results show that
+dor is needed for programmed autophagy at the wandering l3
+stage. the accumulation of autophagosomes in the dor1
+mutant suggests that dor is required for the fusion of
+autophagosomes with lysosomes.
+the expression of uas-dor+ by cg-gal4 in a dor background
+restored autophagy levels in the fat body as seen by co-
+localization of gfp-lc3 and lysotracker in large vesicles (fig.
+3b). uas-dor+ also rescued the dor phenotype independently of
+the driver as shown by the presence of large lysotracker-
+positive structures (fig. 3c). this shows that the dor1 mutation
+is responsible for the observed autophagy phenotype.
+dor1 mutants fail to down-regulate pi3k in the larval fat body
+programmed autophagy in the fat body is ecdysone-dependent
+[6]. dor has been shown to be required for ecdysone-induced
+puffing in the salivary gland, a phenotype which is reversed by
+exogenous ecdysone [23]. because of this, we asked whether
+dor1 larvae might be ecdysone-deficient and whether this could
+be part of the reason for the impaired autophagy in the dor1 fat
+body. ecdysone initiates programmed autophagy by down-
+regulating the pi3k pathway [6]. active pi3k can be visualized
+by using a gfp-ph construct that binds to pi(3,4,5)p3 at the
+plasma membrane. when ecdysone titers are high, the pi3k
+activity is down-regulated, and the gfp-ph staining is lost at
+the plasma membrane [6,28,32]. we therefore examined
+whether dor1 mutant fat bodies showed gfp-ph staining at
+the plasma membrane at the lwl3 stage. as shown previously
+[6], control lwl3 larvae showed negligible gfp-ph labeling of
+the plasma membrane (fig. 4a). in contrast, dor1 mutants
+showed strong plasma membrane localization of gfp-ph at the
+lwl3 stage (fig. 4b). expression of dor in a dor mutant
+background restored the down-regulation (fig. 4c). taken
+together, these results indicate that dor1 larvae do not undergo
+the normal down-regulation of pi3k signaling at the wl3 stage.
+dor1 mutants show impaired ecdysone response in the larval
+fat body
+the results from the pi3k signaling assay suggested that the
+ecdysone signaling response could be impaired in the dor1 fat
+body. to directly address whether the ecdysone response was
+reduced, we employed a recently developed ecdysone reporter
+system [30,34]. expression of a heat-shock-inducible gal4
+driver that is activated through binding of ecdysone drives
+the expression of uas-nlacz56 in tissues where ecdysone is
+fig. 3 – the dor1 phenotype can be rescued by expressing dor. (a–c) the dor1/yphenotype (a) with many small
+lysotracker-positive structures but no large autolysosomes can be rescued by expressing dor in ador1 mutant background.dor1
+mutant larvae expressing uas-dor+driven by cg-gal4 (b) show normal autophagy levels in the fat body. this is, however, also
+the case fordor1/y;uas-dor+alone (c), showing thatdor+is expressed independently of the driver. scale bar is 2 μm in all frames.
+e x p e r i m e n t a l c e l l r e s e a r c h 3 1 2 ( 2 0 0 6 ) 2 0 1 8 – 2 0 2 7
+2023
+fig. 4 – pi3k is not down-regulated, and ecdysone levels are lower at the lwl3 stage in dor1 mutants. (a–c) the presence of pi
+(3,4,5)p3 at the plasma membrane is visualized by a gfp-ph probe driven by a constitutive tubulindriver. lysotracker staining is
+included to visualize autophagy. control fat body at the lwl3 stage (a) has down-regulated pi3k, and therefore no gfp-ph
+localization at the plasma membrane. lysotracker staining shows the normal large autolysosomes present at this stage. in the
+fat body from dor1/yhemizygous larvae (b), gfp-ph is present at the plasma membrane. lysotracker staining shows small
+structures indicative of defective autophagy. the expression of dor in a dor1 mutant background restores normal
+down-regulation (c). the inserts in panels a, b and c show overviews of the tissue. arrows mark the plasma membrane. (d–f)
+ecdysone levels were monitored using a heat-shock-inducible construct hs-gal4-usp. this construct can activate uas-nlacz by
+gal4 in the presence of ecdysone. (d) in wild-type fat body tissue where ecdysone signaling is normal, nuclei do express lacz as
+detected by anti-β galactosidase antibodies. (e) in dor1/ylarval fat bodies, however, the expression of lacz is reduced, as
+indicated by the virtual absence of lacz-positive nuclei. the asterisk marks the testis. frame (f) shows the background
+expression and detection of the uas-nlacz construct alone.
+present. interestingly, while activation of the reporter was
+robust in the fat body of control animals, no such activation
+was seen in dor1 mutants (figs. 4d, e). taken together with the
+pi3k reporter assay, this suggests that the fat body of dor
+mutant larvae does not experience sufficient amounts of
+ecdysone signaling to induce pi3k down-regulation.
+overexpression of pten in a dor1 background does not restore
+autophagy in the fat body
+if the dor1 phenotype were exclusively caused by the deficient
+ecdysone signaling, overexpression of pten should mimic this
+and restore autophagy levels in the dor1 fat body. to address
+this, uas-pten was driven by cg-gal4 in a dor1 mutant
+background and compared to cg-gal4;uas-pten in wild-type
+background. overexpression of pten did not restore the
+formation of gfp-lc3/lysotracker-positive structures (fig. 5).
+this indicates that dor is also required autonomously in the fat
+body for autophagy to take place. to verify these results, we
+also studied the larvae by electron microscopy. the fat body
+cells in these animals contain little cytoplasm, most probably
+due to the early onset of autophagy, while maternal dor mrna
+still was present and to reduced cell growth as a consequence
+of decreased pi3k signaling [28]. importantly, however, pten
+expressing dor1 mutant fat body cells still accumulated
+autophagosomes, similar to dor1 larvae (fig. 5d). to test
+directly whether autophagy in the dor1 larvae could be induced
+by ecdysone, we fed early l3 dor1 larvae with ecdysone and
+compared them with wild-type larvae. while exogenous
+ecdysone induced autophagy in the fat body of wild-type
+early l3 larvae, this was not the case with the wl3 dor1 larvae
+(figs. 5e–h), consistent with the pten expression data.
+collectively, these results indicate that dor larvae not only
+are defective in ecdysone signaling, but also in the fusion
+between autophagosomes and lysosomes.
+the down-regulation of pi3k can be rescued by exogenous
+ecdysone
+the defective down-regulation of pi3k in the dor fat body could
+be due to failure in either ecdysone signaling or tissue
+responsiveness. the exogenous addition of ecdysone would
+rescue the down-regulation of pi3k in dor larvae only if the
+failure were caused by low ecdysone signaling. by feeding dor
+2024
+e x p e r i m e n t a l c e l l r e s e a r c h 3 1 2 ( 2 0 0 6 ) 2 0 1 8 – 2 0 2 7
+fig. 5 – expression of pten in the fat body of dor1 mutant larvae does not restore autophagy. (a–c) the dor1 phenotype
+(a–a′′) is not rescued by overexpression of pten in the fat body (b–b′′). in control animals overexpressing pten, autophagy
+levels are normal even though the tissue is affected by the prolonged presence of pten (c–c′′). scale bar is 2 μm in panels
+a–c. (d) electron micrographs show that the accumulation of autophagosomes in dor1 mutant fat body cells is still present in
+dor1 overexpressing pten (d, arrows). scale bar is 500 nm. an overview of the tissue is shown in the insert. (e–h) incubating
+dor1 with ecdysone does not restore autophagy in the fat body. while control fat body tissue induces autophagy prematurely
+upon ecdysone incubation (compare e to f), dor1 fat body cells do not (compare g to h). scale bar is 10 μm in e–h.
+e x p e r i m e n t a l c e l l r e s e a r c h 3 1 2 ( 2 0 0 6 ) 2 0 1 8 – 2 0 2 7
+2025
+fig. 6 – feeding dor1 mutant larvae ecdysone restores the down-regulation of pi3k. el3 wild-type (a, b) or dor mutant
+larvae (c, d) were fed with yeast paste without (a, c) or with (b, d) ecdysone. down-regulation of pi3k is seen by feeding
+ecdysone in both premature el3 wild-type larvae (compare a to b) and lwl3 dor mutant larvae (compare c to d). the
+presence of gfp-ph at the plasma membrane is robust in the controls (arrows in panels a and c), whereas the gfp-ph
+localization is lost in the ecdysone-fed larvae (arrowheads in panels b and d).
+larvae ecdysone and scoring for gfp-ph presence at the
+plasma membrane, we tested the function of dor in ecdysone
+signaling. feeding ecdysone to premature early l3 wild-type
+larvae led to a down-regulation of pi3k activity, as expected
+(figs. 6a, b). importantly ecdysone feeding also caused down-
+regulation of pi3k activity in late wandering l3 dor mutant
+larvae (fig. 6). this indicates that the dor defect in pi3k down-
+regulation is due to failure in ecdysone signaling. the failure
+in autophagosomal fusion with the lysosome and the
+impaired ecdysone signaling are thus two separate defects of
+dor mutants that contribute to the lack of programmed
+autophagy in the fat body.
+discussion
+in this work, we have found that dor/vps18 is needed for
+programmed autophagy in the drosophila larval fat body.
+autophagosomes accumulate in dor1 fat body tissue, showing
+that dor is needed for the fusion of autophagosomes with
+lysosomes. we have also found that dor1 mutants display
+lowered ecdysone reporter activity in the fat body and that
+class i pi3k is not down-regulated properly, a sign of impaired
+ecdysone signaling. consistently, the failure in down-regula-
+tion of pi3k in dor mutants could be rescued by feeding the
+larvae ecdysone. because previous work has shown that
+ecdysone triggers autophagy, we conclude that dor controls
+autophagy at two levels, both through ecdysone signaling and
+through autophagosome–lysosome fusion.
+to elucidate the separate functions of dor in autophagy, we
+initially tested the starvation-induced autophagic capacity of
+l2 dor mutant larvae. this proved difficult since both dor1 and
+the stronger dor8 allele showed intact starvation-induced
+autophagy at this stage (results not shown), likely due to
+prolonged maternal contribution of the dor+ mrna. dor is,
+however, clearly needed for the fusion event of autophagy in
+the fat body. no restoration of autolysosome formation was
+seen when overexpressing pten in a dor1 mutant background,
+proving that dor is required autonomously in the fat body for
+fusion of the autophagosome with the lysosome. this is
+further supported by recent work that showed that rnai
+against dvps16, another component of the vps class c
+in the drosophila eye leads to accumulation of
+complex,
+autophagosomes [35].
+previous studies in several organisms, including drosophila,
+have indicated that gfp-lc3 is a faithful marker of autophago-
+somes. we were therefore surprised to discover that autopha-
+gosomes that accumulated in the dor1 fat body mostly were
+gfp-lc3-negative. this is probably due to the fact that lc3
+dissociates from the outer membrane of the autophagosome
+2026
+e x p e r i m e n t a l c e l l r e s e a r c h 3 1 2 ( 2 0 0 6 ) 2 0 1 8 – 2 0 2 7
+just before fusion with the lysosome [36–38] and that the
+amount of gfp-lc3 present on the inner membrane is
+insufficient to be visible by confocal microscopy. the gfp-
+lc3-negative autophagosomes in dor1 mutants had probably
+accumulated over time (see below), which would favor the
+dissociation of membrane-associated gfp-lc3. the numerous
+lysotracker-positive structures seen in dor1 mutants could
+represent acidified autophagosomes but more likely corre-
+spond to accumulated late endosomes, as previously de-
+scribed [20,35]. the abundance of small lamp1-positive
+structures in dor1 mutants supports this explanation.
+as a consequence of increased ecdysone titer, pi3k signaling
+in the fat body is normally down-regulated at the end of the
+larval stage, thus triggering autophagy [6]. in contrast, pi3k
+signaling in dor1 mutants was not down-regulated, which
+suggested that ecdysone signaling might be defective in these
+mutants. this was confirmed both by an ecdysone reporter
+assay, which indicated that less ecdysone reached the fat body
+nuclei in dor1 mutants [30,34], and by rescuing the down-
+regulation by feeding ecdysone to the mutant larvae. given the
+low ecdysone signaling in the dor1 fat body, we had expected to
+observe a low number of autophagosomes even at late time
+points during larval development. however, a substantial
+number of autophagosomes could be observed in the dor1
+mutants at the lwl3 stage. the finding that expression of a
+dominant-negative ecdysone receptor did not lead to the
+accumulation of autophagosomes in the fat body rules out
+the possibility that ecdysone might be needed in a later step
+than in the initiation of autophagy and that this is the reason
+for the accumulation [6]. the detected autophagosomes are
+thus likely to stem from low house-keeping levels of autop-
+hagy, which would lead to an accumulation of autophago-
+somes in dor1 mutants due to impaired fusion with lysosomes.
+this is in accordance with the accumulation of autophago-
+somes in vps16-deficient cells in the drosophila eye [35].
+early work on dor mutants has investigated the puffing
+patterns in the salivary gland polytene chromosomes [22,23].
+interestingly, animals carrying lethal alleles of dor showed no
+ecdysone-linked puffs in the l3 stage and incubating the
+tissue with ecdysone could restore these puffs. the simplest
+interpretation of these results is that the tissue itself is
+responsive to the hormone but that ecdysone signaling is
+impaired in the absence of dor. our present findings showing
+that hypomorphic dor1 larvae experience lower ecdysone
+reporter activity in the fat body and that the down-regulation
+of pi3k is restored by feeding dor mutant larvae ecdysone
+suggest that the fat body also is responsive to the hormone but
+fails to down-regulate pi3k in dor1 larvae due to insufficient
+ecdysone levels. the involvement of dor in ecdysone signaling
+will be important to address in future studies.
+given the importance of ecdysone for larval development,
+it is perhaps surprising that dor1 mutants form pupae and even
+hatch and develop into adult flies. the reason for this
+apparent paradox could either be that there is some residual
+ecdysone signaling in the dor1 mutants not detected by the
+reporter assay or that the fat body is less responsive to the
+hormone than other tissues. we also considered the possibil-
+ity that dor1 mutants use an extended amount of time before
+they pupariate in order to accumulate sufficiently high
+ecdysone levels. however, this is unlikely to be the case as
+the dor1 larvae pupariate at the correct time and give rise to
+adult flies of normal size [39]. it has previously been shown
+that autophagy is initiated even while the ecdysone levels are
+quite low [6]. it is therefore conceivable that autophagy is
+initiated to some extent in dor1 mutants but cannot propagate
+due to low ecdysone levels and impaired fusion with the
+lysosome. this is supported by the fact that autophagosome–
+lysosome fusion in dor1 fat bodies can be rescued by
+expression of dor in all tissues, but not by overexpression of
+pten or by incubation with exogenous ecdysone.
+in summary, we have provided evidence that dor/vps18 is
+required for ecdysone signaling and thereby proper pi3k
+down-regulation and for fusion between autophagosomes
+and lysosomes in the drosophila fat body. taken together with
+previous studies, this indicates that dor serves as both a
+regulator and effector in autophagy. in further studies, it will
+be interesting to examine whether this dual function is
+particular for dor or whether also other subunits of the
+hops complex play a similar bifunctional role.
+acknowledgments
+we would like to thank s. cohen, g. juhasz, h. krämer and c.
+thummel for providing fly strains. k.l. is a fellow and a.s. a
+senior investigator of the norwegian cancer society. a.b. is a
+senior investigator of the fuge program. t.e.r. is a postdoc-
+toral fellow of the research council of norway. this work was
+also supported by the novo nordisk foundation.
+r e f e r e n c e s
+[1] d.j. klionsky, s.d. emr, autophagy as a regulated pathway of
+cellular degradation, science 290 (2000) 1717–1721.
+[2] t. noda, k. suzuki, y. ohsumi, yeast autophagosomes: de
+novo formation of a membrane structure, trends cell biol. 12
+(2002) 231–235.
+[3] y. kamada, t. sekito, y. ohsumi, autophagy in yeast: a
+tor-mediated response to nutrient starvation, curr. top.
+microbiol. immunol. 279 (2004) 73–84.
+[4] r.c. scott, o. schuldiner, t.p. neufeld, role and regulation of
+starvation-induced autophagy in the drosophila fat body, dev.
+cell 7 (2004) 167–178.
+[5] t. shintani, d.j. klionsky, autophagy in health and disease: a
+double-edged sword, science 306 (2004) 990–995.
+[6] t.e. rusten, k. lindmo, g. juhasz, m. sass, p.o. seglen, a.
+brech, h. stenmark, programmed autophagy in the drosophila
+fat body is induced by ecdysone through regulation of the
+pi3k pathway, dev. cell 7 (2004) 179–192.
+[7] l.i. gilbert, halloween genes encode p450 enzymes that
+mediate steroid hormone biosynthesis in drosophila melano-
+gaster, mol. cell. endocrinol. 215 (2004) 1–10.
+[8] k. lindmo, h. stenmark, regulation of membrane traffic by
+phosphoinositide 3-kinases, j cell sci. 119 (2006) 605–614.
+[9] a. petiot, e. ogier-denis, e.f. blommaart, a.j. meijer, p.
+codogno, distinct classes of phosphatidylinositol 3′-kinases
+are involved in signaling pathways that control
+macroautophagy in ht-29 cells, j. biol. chem. 275 (2000)
+992–998.
+[10] a. melendez, z. talloczy, m. seaman, e.l. eskelinen, d.h. hall,
+b. levine, autophagy genes are essential for dauer
+development and life-span extension in c. elegans, science
+301 (2003) 1387–1391.
+e x p e r i m e n t a l c e l l r e s e a r c h 3 1 2 ( 2 0 0 6 ) 2 0 1 8 – 2 0 2 7
+2027
+[11] p.o. seglen, p. bohley, autophagy and other vacuolar protein
+degradation mechanisms, experientia 48 (1992) 158–172.
+[12] l.c. cantley, the phosphoinositide 3-kinase pathway,
+science 296 (2002) 1655–1657.
+[13] s. oldham, e. hafen, insulin/igf and target of rapamycin
+signaling: a tor de force in growth control, trends cell biol.
+13 (2003) 79–85.
+[26] n. mizushima, a. yamamoto, m. matsui, t. yoshimori, y.
+ohsumi, in vivo analysis of autophagy in response to nutrient
+starvation using transgenic mice expressing a fluorescent
+autophagosome marker, mol. biol. cell 15 (2004) 1101–1111.
+[27] x. gao, t.p. neufeld, d. pan, drosophila pten regulates cell
+growth and proliferation through pi3k-dependent and
+-independent pathways, dev. biol. 221 (2000) 404–418.
+[14] t. maehama, j.e. dixon, the tumor suppressor, pten/mmac1,
+[28] j.s. britton, w.k. lockwood, l. li, s.m. cohen, b.a. edgar,
+dephosphorylates the lipid second messenger,
+phosphatidylinositol 3,4,5-trisphosphate, j. biol. chem. 273
+(1998) 13375–13378.
+[15] d.j. klionsky, j.m. cregg, w.a. dunn jr., s.d. emr, y. sakai, i.v.
+sandoval, a. sibirny, s. subramani, m. thumm, m. veenhuis,
+y. ohsumi, a unified nomenclature for yeast
+autophagy-related genes, dev. cell 5 (2003) 539–545.
+[16] c.w. wang, d.j. klionsky, the molecular mechanism of
+autophagy, mol. med. 9 (2003) 65–76.
+[17] y. ohsumi, molecular dissection of autophagy: two
+ubiquitin-like systems, nat. rev., mol. cell biol. 2 (2001)
+211–216.
+[18] t.k. sato, p. rehling, m.r. peterson, s.d. emr, class c vps
+protein complex regulates vacuolar snare pairing and is
+required for vesicle docking/fusion, mol. cell 6 (2000) 661–671.
+[19] m.r. peterson, s.d. emr, the class c vps complex functions at
+multiple stages of the vacuolar transport pathway, traffic 2
+(2001) 476–486.
+[20] e.a. sevrioukov, j.p. he, n. moghrabi, a. sunio, h. kramer, a
+role for the deep orange and carnation eye color genes in
+lysosomal delivery in drosophila, mol. cell 4 (1999) 479–486.
+drosophila's insulin/pi3-kinase pathway coordinates cellular
+metabolism with nutritional conditions, dev. cell 2 (2002)
+239–249.
+[29] t.e. lloyd, r. atkinson, m.n. wu, y. zhou, g. pennetta, h.j.
+bellen, hrs regulates endosome membrane invagination and
+tyrosine kinase receptor signaling in drosophila, cell 108 (2002)
+261–269.
+[30] t. kozlova, c.s. thummel, spatial patterns of ecdysteroid
+receptor activation during the onset of drosophila
+metamorphosis, development 129 (2002) 1739–1750.
+[31] h. asha, i. nagy, g. kovacs, d. stetson, i. ando, c.r. dearolf,
+analysis of ras-induced overproliferation in drosophila
+hemocytes, genetics 163 (2003) 203–215.
+[32] j. colombani, l. bianchini, s. layalle, e. pondeville, c.
+dauphin-villemant, c. antoniewski, c. carre, s. noselli, p.
+leopold, antagonistic actions of ecdysone and insulins
+determine final size in drosophila, science 310 (2005) 667–670.
+[33] f.m. butterworth, l. emerson, e.m. rasch, maturation and
+degeneration of the fat body in the drosophila larva and pupa
+as revealed by morphometric analysis, tissue cell 20 (1988)
+255–268.
+[21] v. sriram, k.s. krishnan, s. mayor, deep-orange and carnation
+[34] t. kozlova, c.s. thummel, essential roles for ecdysone
+define distinct stages in late endosomal biogenesis in
+drosophila melanogaster, j. cell biol. 161 (2003) 593–607.
+signaling during drosophila mid-embryonic development,
+science 301 (2003) 1911–1914.
+[22] z.m. biyasheva, e.s. belyaeva, i.f. zhimulev, cytogenetic
+[35] s. pulipparacharuvil, m.a. akbar, s. ray, e.a. sevrioukov, a.s.
+analysis of the x-chromosome region 2b1-2-2b9-10 of
+drosophila melanogaster. v. puffing disturbances carried by
+lethal mutations of the gene dor are due to ecdysterone
+deficiency, chromosoma 92 (1985) 351–356.
+[23] e.s. belyaeva, i.e. vlassova, z.m. biyasheva, v.t. kakpakov, g.
+richards, i.f. zhimulev, cytogenetic analysis of the 2b3-4-
+2b11 region of the x chromosome of drosophila melanogaster.
+ii. changes in 20-oh ecdysone puffing caused by genetic
+defects of puff 2b5, chromosoma 84 (1981) 207–219.
+[24] t. kirisako, m. baba, n. ishihara, k. miyazawa, m. ohsumi, t.
+yoshimori, t. noda, y. ohsumi, formation process of
+autophagosome is traced with apg8/aut7p in yeast, j. cell
+biol. 147 (1999) 435–446.
+[25] y. kabeya, n. mizushima, t. ueno, a. yamamoto, t. kirisako,
+t. noda, e. kominami, y. ohsumi, t. yoshimori, lc3, a
+mammalian homologue of yeast apg8p, is localized in
+autophagosome membranes after processing, embo j. 19
+(2000) 5720–5728.
+haberman, j. rohrer, h. kramer, drosophila vps16a is
+required for trafficking to lysosomes and biogenesis of
+pigment granules, j. cell sci. 118 (2005) 3663–3673.
+[36] n. mizushima, a. yamamoto, m. hatano, y. kobayashi, y.
+kabeya, k. suzuki, t. tokuhisa, y. ohsumi, t. yoshimori,
+dissection of autophagosome formation using apg5-deficient
+mouse embryonic stem cells, j. cell biol. 152 (2001) 657–668.
+[37] t. kirisako, y. ichimura, h. okada, y. kabeya, n. mizushima,
+t. yoshimori, m. ohsumi, t. takao, t. noda, y. ohsumi, the
+reversible modification regulates the membrane-binding
+state of apg8/aut7 essential for autophagy and the cytoplasm
+to vacuole targeting pathway, j. cell biol. 151 (2000) 263–276.
+[38] i. tanida, t. ueno, e. kominami, lc3 conjugation system in
+mammalian autophagy, int. j. biochem. cell biol. 36 (2004)
+2503–2518.
+[39] l. partridge, r. langelan, k. fowler, b. zwaan, v. french,
+correlated responses to selection on body size in drosophila
+melanogaster, genet. res. 74 (1999) 43–54.

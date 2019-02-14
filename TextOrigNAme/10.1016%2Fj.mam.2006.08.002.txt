@@ -1,0 +1,704 @@
+molecular aspects of medicine 27 (2006) 411–425
+www.elsevier.com/locate/mam
+review
+signalling and autophagy regulation in
+health, aging and disease
+alfred j. meijer a,*, patrice codogno b
+a department of medical biochemistry, academic medical center, meibergdreef 15,
+b inserm u756, faculte´ de pharmacie, universite´ paris-sud 11, 92296 chaˆtenay-malabry, france
+1105 az amsterdam, the netherlands
+abstract
+it has become clear in recent years that autophagy not only serves to produce amino acids
+for ongoing protein synthesis and to produce substrates for energy production when cells
+become starved but autophagy is also able to eliminate defective cell structures and for this
+reason the process may be implicated in several diseased states. autophagy is controlled by
+complex signalling pathways, including that used by insulin. in these pathways, phosphatidyl-
+inositol 3-kinases and the protein kinase mtor play important roles.
+ó 2006 elsevier ltd. all rights reserved.
+keywords: insulin; amino acids; atp; ampk; phosphatidylinositol phospholipids; neurodegenerative
+diseases; mtor; diabetes; cancer
+abbreviations: atg, autophagy gene; ir, insulin receptor; irs1,2, insulin receptor substrate 1 and 2;
+pi3k, phosphatidylinositol 3-kinase; pi(3)p, phosphatidylinositol 3-phosphate; ptdins(3)p, phosphati-
+dylinositol 3-phosphate; ptdins(3,4,5)p3, phosphatidylinositol-3,4,5-triphosphate; s6, ribosomal protein
+s6; s6k, 70 kd s6 kinase; pdk1, phosphoinositide-dependent kinase-1; pkb, protein kinase b; pten,
+phosphatase and tensin homologue deleted from chromosome 10; (m)tor, (mammalian) target of rap-
+amycin; aicar, 5-aminoimidazole-4-carboxamide riboside; ampk, amp-activated protein kinase; 4e-
+bp1, eukaryotic translational initiation factor 4e-binding protein-1; tsc, tuberous sclerosis complex;
+erk, extracellular signal-regulated protein kinase; mapk, mitogen-activated protein kinase; ros, re-
+active oxygen species; rheb, ras homolog enriched in brain; ip3, myo-inositol-1,4,5-triphosphate; uv-
+rag, uv irradiation resistance-associated gene.
+* corresponding author. tel.: +31 20 5665159; fax: +31 20 6915519.
+e-mail addresses: a.j.meijer@amc.uva.nl (a.j. meijer), patrice.codogno@cep.u-psud.fr (p. codogno).
+0098-2997/$ - see front matter ó 2006 elsevier ltd. all rights reserved.
+doi:10.1016/j.mam.2006.08.002
+412
+a.j. meijer, p. codogno / molecular aspects of medicine 27 (2006) 411–425
+contents
+1. autophagy and signalling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 412
+introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 412
+insulin- and amino acid-dependent signalling and autophagy . . . . . . . . . . 413
+1.1.
+1.2.
+1.3. feedback interaction in the mtor-signalling pathway: consequences
+for autophagy of down-regulating amino acid signalling? . . . . . . . . . . . . 415
+1.4. mtor, amp-activated protein kinase and autophagy . . . . . . . . . . . . . . 416
+1.5. mechanisms of amino acid sensing in mtor-dependent signalling . . . . . . 417
+1.6. other signalling mechanisms controlling autophagy . . . . . . . . . . . . . . . . 417
+2. autophagy in aging . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 418
+3. autophagy and disease. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 419
+3.1. cancer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 419
+3.2. neurodegenerative diseases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 419
+potential implication of autophagy in other diseases . . . . . . . . . . . . . . . . . . . . 420
+4.1. type-2 diabetes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 420
+4.2. hepatic encephalopathy . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 421
+acknowledgements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 421
+references . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 421
+4.
+1. autophagy and signalling
+1.1. introduction
+cells adapt to changes in their environment and in their intracellular milieu by
+adjusting anabolic and catabolic pathways. for example, in times of nutrient excess
+synthesis of macromolecules increases whereas in times of nutrient shortage these
+macromolecules are degraded in order to produce substrates for atp production.
+with regard to protein metabolism, macroautophagy (‘‘autophagy’’) is a major,
+lysosomal, mechanism by which cells can degrade proteins,
+in addition to the
+multi-enzyme proteasome system. unlike the proteasome, autophagy not only
+degrades proteins but can also eliminate unwanted, damaged or redundant cell
+organelles or structures. during autophagy, part of the cytoplasm is sequestered
+by a double membrane, the origin of which is still not ﬁrmly established, but is pre-
+sumably derived from specialized regions of the endoplasmic reticulum (reggiori
+and klionsky, 2005). several atg proteins, ﬁrst discovered in yeast, are involved
+in the formation and maturation of the autophagosomes. these are reviewed else-
+where (yorimitsu and klionsky, 2005).
+when the supply of nutrients is limited stimulation of autophagy is a cell defense
+mechanism by which amino acids and other intracellular nutrients are recycled to
+maintain survival (scott et al., 2004; lum et al., 2005) and to repress apoptosis (boya
+et al., 2005). starvation-induced autophagy immediately after birth, when the mater-
+nal supply is suddenly interrupted, is of vital importance (kuma et al., 2004). in the
+a.j. meijer, p. codogno / molecular aspects of medicine 27 (2006) 411–425
+413
+adult, starvation-induced autophagy in liver and muscle provides amino acids for
+hepatic production of glucose for the brain and erythrocytes. however, also under
+nutrient-rich conditions ongoing autophagy is still required in order to allow cells
+to remove defective cell structures. elegant recent studies in mice with speciﬁc
+knock-outs of atg5 or atg7 in neuronal cells revealed that defective autophagy in
+these cells results in neurodegeneration (hara et al., 2006; komatsu et al., 2006).
+amino acids, in addition to their ability to function as substrates for protein syn-
+thesis, are also inhibitors of autophagic protein degradation. although the mecha-
+nism by which amino acids exert this action has been obscure for a long time
+(mortimore et al., 1996), we now know that amino acids (leucine in particular), in
+combination with insulin or other growth factors, can stimulate mtor (mammalian
+target of rapamycin) signalling, and that inhibition of mtor activity by rapamycin
+(or amino acid depletion) stimulates autophagy (blommaart et al., 1995; codogno
+and meijer, 2005; shintani and klionsky, 2004). because mtor signalling is
+involved in the control of protein synthesis (proud, 2006 for review), apparently
+the same signalling pathway is responsible for opposite control of protein synthesis
+and degradation, which is considered to be eﬃcient from the point of view of met-
+abolic regulation (blommaart et al., 1995).
+1.2. insulin- and amino acid-dependent signalling and autophagy
+the ﬁrst part of the insulin-dependent signal transduction pathway,
+located
+upstream of the protein kinase mtor, includes the insulin receptor, insulin-receptor
+substrates 1 and 2, pi3k class i (producing ptdins(3,4,5)p3), phosphoinositide-
+irs1,2
+ir
+insulin
+pi3k
+class i
+pdk1
+pkb
+s6k
+s6
+tsc1/2
+gdp
+rheb
+gtp
+rheb
+amino
+acids
+pi3k
+class iii
+beclin 1
+mtor
+autophagy
+erk1,2
+rapamycin
+ampk
+amp
+atp
+raf-1
+p38mapk
+integrins
+cell
+swelling
+amino
+acids
+fig. 1. signalling, amino acids and the regulation of autophagy. for other aspects of signalling, not
+indicated in the ﬁgure, in particular those concerning the regulation of pi3k class iii by amino acids and
+by irs2, the reader is referred to the text.
+414
+a.j. meijer, p. codogno / molecular aspects of medicine 27 (2006) 411–425
+dependent kinase-1 and protein kinase b (fig. 1). it is generally assumed that this
+part is involved in the regulation of carbohydrate metabolism (whiteman et al.,
+2002). the second part of the insulin signalling pathway, located downstream of
+mtor, includes components such as s6k, 4e-bp1 and ribosomal protein s6, pro-
+teins that are involved in the regulation of protein synthesis (proud, 2006). mtor
+activity is controlled by the heterodimer tsc1 (tuberous sclerosis complex 1)/
+tsc2 which acts as a brake on mtor-dependent signalling. tsc1/tsc2 acts as a
+gtpase-activating protein complex for the small g-protein rheb, which, in its
+gtp-form binds to and activates mtor (proud, 2006; inoki et al., 2005). when
+tsc2 is phosphorylated by protein kinase b the tsc1/tsc2 complex becomes inac-
+tive and mtor signalling activated.
+an interesting feature of amino acid signalling is that high concentrations of
+amino acids alone are able to stimulate mtor-dependent signalling even when
+insulin is not present (blommaart et al., 1995; van sluijters et al., 2000). con-
+versely, the eﬀect of insulin on mtor-dependent signalling is potentiated when
+low concentrations of amino acids are also present. in contrast to insulin, amino
+acids do not activate protein kinase b and probably also not pi3k class i (van
+sluijters et al., 2000 for review). because amino acid-stimulated mtor-dependent
+signalling is prevented by inhibitors of pi3k, it is likely that mtor receives two
+parallel
+inputs, one via pi3k class i/pdk1/pkb/tsc1,2/rheb and one via
+amino acids (see fig. 1) (cf. proud, 2006; jacinto and hall, 2003 for a detailed
+discussion of the various components in the pathway). thus, both pi3k (by insu-
+lin) and mtor (by amino acids) must be activated to ensure full activation of
+mtor-downstream targets. because high concentrations of amino acids are suf-
+ﬁcient to stimulate mtor-signalling maximally, one has to assume that basal
+activity of pi3k is suﬃcient for mtor-dependent signalling under these condi-
+tions (tang et al., 2003).
+whereas interruption of mtor-dependent signalling by rapamycin stimulates
+autophagy in diﬀerent cell types, as discussed above, inhibition of signalling by
+inhibitors of pi3k class i does not (blommaart et al., 1997). the reason for this is
+that pi3k inhibitors are not entirely speciﬁc and also inhibit pi3k class iii, the
+product of which, ptdins(3)p, is essential for autophagosome formation; this is in
+contrast to ptdins(3,4,5)p3, the product of pi3k class i, which is an inhibitor of
+autophagy (codogno and meijer, 2005; petiot et al., 2000; arico et al., 2001) (cf.
+fig. 1). indeed, overexpression of pten, which hydrolyzes ptdins(3,4,5)p3 to
+ptdins(4,5)p2 stimulates autophagy in human colon cancer ht-29 cells (arico
+et al., 2001). 3-methyladenine, the classical inhibitor of autophagy, turned out to
+be a pi3k inhibitor (blommaart et al., 1997; petiot et al., 2000).
+interestingly, beclin1, the mammalian homolog of atg6, which is involved in
+autophagosome formation (liang et al., 1999), is found in a complex with pi3k class
+iii (kihara et al., 2001). in order to be able to bind to pi3k class iii and to stimulate
+autophagy, beclin 1, which is found in association with the anti-apoptotic protein
+bcl-2, must ﬁrst dissociate from the inhibitory beclin 1-bcl-2 complex (pattingre
+et al., 2005). apart from the inhibition of the beclin 1-pi3k class iii complex by
+bcl-2, the beclin 1-pi3k class iii complex can also be activated by another protein,
+a.j. meijer, p. codogno / molecular aspects of medicine 27 (2006) 411–425
+415
+uvrag (uv irradiation resistance-associated gene), which then results in stimula-
+tion of beclin 1-pi3k class iii-mediated autophagy (liang et al., 2006).
+in addition to their ability to inhibit autophagy via mtor activation, amino
+acids also inhibit autophagy by decreasing beclin1-associated pi3k class iii activity
+(tassa et al., 2003), because of increased binding of beclin 1 by bcl-2 (pattingre
+et al., 2005). presumably, this accounts for the observation that inhibition of autoph-
+agy by amino acids is rapamycin-insensitive under some conditions (mordier et al.,
+2000; kanazawa et al., 2004).
+at variance with a requirement of autophagy for the beclin 1-pi3k class iii com-
+plex are recent studies with pi3k class iii-overexpressed cells showing that amino
+acids stimulate mtor signalling via activation of pi3k class iii and that amino acid
+depletion results in a decrease in beclin 1-associated class iii pi3k (nobukuni et al.,
+2005; byﬁeld et al., 2005). in these studies, autophagy was not investigated directly,
+however. a possible explanation is that these overexpressed cells contain diﬀerent
+pools of pi3k class iii, diﬀerentially regulating autophagy and mtor signalling
+(nobukuni et al., 2005; byﬁeld et al., 2005).
+1.3. feedback interaction in the mtor-signalling pathway: consequences for
+autophagy of down-regulating amino acid signalling?
+there are now strong indications that overactivation of amino acid-dependent
+mtor-mediated signalling leads to the inhibition of the proximal part of the insu-
+lin signalling pathway (um et al., 2004; khamzina et al., 2005) (fig. 1). this is
+because of phosphorylation of irs1 by s6k, which results in decreased binding
+of the p85 regulatory subunit of pi3k class i to irs1. because class i pi3k is
+required for mtor-downstream signalling, this feedback system may be part of
+a homeostatic mechanism that is required to prevent the overactivation of mtor
+by amino acids. it has been proposed that the overactivation of mtor contributes
+to insulin resistance in obesity-linked diabetics (khamzina et al., 2005). downreg-
+ulation of proximal insulin signalling can be expected to have consequences for
+autophagy, because a decline in inhibitory pi(3,4,5)p3 will accelerate autophagy.
+surprisingly, not much information is available about protein turnover in type-2
+diabetes. it is likely, however, that protein turnover is, indeed, increased in type
+2 diabetes (wijekoon et al., 2004). whether autophagy is involved is entirely
+unknown.
+the possible consequences of feedback interaction of s6k on mtor upstream
+signalling for autophagy was also suggested by us (klionsky et al., 2005) in con-
+nection with a recent paper by scott et al. (2004) concerning the regulation of
+autophagy in the fat body of drosophila melanogaster. in this study, the authors
+convincingly show that s6k is not inhibitory, as previously suggested (blommaart
+et al., 1995), but is in fact essential for autophagy. thus, in this insect, the same
+protein kinase (s6k) that is required for protein synthesis, an anabolic process, is
+also essential for autophagy, a catabolic process (scott et al., 2004) which does not
+seem logical. a possible explanation may be found in the negative feedback eﬀect
+of s6k on signalling upstream of tor, which would then increase autophagy as a
+416
+a.j. meijer, p. codogno / molecular aspects of medicine 27 (2006) 411–425
+result of the fall in class i pi3k activity (klionsky et al., 2005). this may be
+important, because even under nutrient-rich conditions cells must be able to carry
+out some autophagic activity, not in order to produce nutrients, but in order to
+eliminate damaged cell structures or structures that are no longer needed by the
+cell. conversely, when nutrients become scarce, e.g. during starvation, the inacti-
+vation of tor by a fall in amino acid concentration accelerates autophagy, pro-
+vided suﬃcient active s6k is still present. during long-term starvation, s6k
+activity may fall so low that class i pi3k is activated again and this would then
+restrain excessive autophagy in order to prevent cell death, as suggested (scott
+et al., 2004).
+1.4. mtor, amp-activated protein kinase and autophagy
+amino acid-induced activation of mtor can be antagonized by amp-activated
+protein kinase (ampk). although originally it was thought that because of its rel-
+atively low aﬃnity for atp, mtor decreases its activity when intracellular atp
+falls (dennis et al., 2001), later simultaneous observations in several laboratories,
+including our own, have indicated that small decreases in atp result in activation
+of ampk which, in turn, inhibits mtor (meijer and dubbelhuis, 2004 for further
+literature) and inhibits protein synthesis. this is in agreement with the function of
+ampk to shut oﬀ atp-dependent processes (kahn et al., 2005).
+in murine myotubes, amino acids stimulate phosphorylation of mtor at ser2448.
+by contrast, in the absence of amino acids, or by activation of ampk, thr2446 is
+phoshorylated. the close proximity of these two phosphorylation sites makes them
+mutually exclusive in that phosphorylation of one site inhibits that of the other and
+vice versa; they are viewed as switches integrating the opposing signals of growth fac-
+tors and nutrient deprivation (cheng et al., 2004).
+inhibition of mtor by ampk, like that caused by addition of rapamycin (cod-
+ogno and meijer, 2005; shintani and klionsky, 2004), may be expected to increase
+autophagy (fig. 1). unexpectedly, there is controversy in the literature on this issue.
+in yeast, activation of ampk, indeed, stimulates autophagy (wang et al., 2001). by
+contrast, activation of ampk by addition of the cell-permeable nucleotide analogue
+aicariboside (aicar) in hepatocytes strongly inhibits autophagy (samari and
+seglen, 1998). other evidence in the recent literature, however, indicates that also
+in mammalian cells, ampk is required for autophagy. thus, apoptotic stimuli,
+which result in increased mitochondrial permeability and decreased mitochondral
+membrane potential,
+these mitochondria for degradation (kundu and
+thompson, 2005; rodriguez-enriquez et al., 2006); it is likely that ampk under
+these conditions is activated. in mouse embryonic ﬁbroblasts activation of the tumor
+suppressor p53 inhibits mtor activity through activation of ampk, a phenomenon
+that is accompanied by increased autophagy (feng et al., 2005; levine et al., 2006).
+eukaryotic elongation factor 2-kinase (eef-2 kinase) is essential for autophagy (wu
+et al., 2006), and is known to be activated by ampk (browne et al., 2004). in a study
+recently carried out with diﬀerent mammalian cell types we obtained direct evidence
+that ampk activation, as in yeast, promotes autophagy; we also concluded that the
+target
+a.j. meijer, p. codogno / molecular aspects of medicine 27 (2006) 411–425
+417
+inhibition of autophagy by aicar is unrelated to its ability to activate ampk (p.
+codogno and a.j. meijer, to be published elsewhere).
+1.5. mechanisms of amino acid sensing in mtor-dependent signalling
+little is known about the mechanism by which amino acids activate mtor. as
+discussed in the previous section, we do know that amino acids can stimulate phos-
+phorylation of ser2448 of mtor, but whether this eﬀect is direct or indirect is not
+known. one possibility is that amino acids inhibit tsc1/2 (which inhibit mtor
+by enhancing hydrolysis of gtp bound to rheb, see fig. 1). however, recent evi-
+dence indicates that at least tsc2 is not involved (smith et al., 2005). another recent
+study has indicated that amino acids promote the association of rheb with mtor,
+an eﬀect that is probably not caused by increased charging of rheb with gtp [(roc-
+cio et al., 2006); contrast (tzatsos and kandror, 2006) who did ﬁnd and increase in
+rheb-gdp upon nutrient depletion] but rather by direct action on mtor (long
+et al., 2005). although it is tempting to conclude that mtor itself is the amino acid
+sensor, it is still possible that the eﬀect of amino acids is indirect and that they
+decrease the concentration of an inhibitor that interferes with the rheb-mtor asso-
+ciation (long et al., 2005).
+as indicated in section 1.2, the possibility that amino acids are able to stimulate
+mtor signalling via activation of pi3k class iii, at least under some conditions,
+cannot be ruled out.
+in most cell types, leucine (but not the other branched-chain amino acids) is one
+of the most potent amino acids in stimulating mtor-dependent signalling (van slu-
+ijters et al., 2000); metabolism of leucine is not required (lynch et al., 2003). in addi-
+tion, non-metabolizable analogues of leucine can mimic its eﬀect (shigemitsu et al.,
+1999; lynch et al., 2000). interestingly, leucine is very potent in promoting the asso-
+ciation between mtor and rheb (long et al., 2005).
+it has been proposed that the plasma membrane contains a leucine-speciﬁc recep-
+tor protein (kanazawa et al., 2004). however, most evidence indicates that the
+amino acid receptor is intracellular rather than extracellular (martin and sutherland,
+2001; beugnet et al., 2003). it cannot be excluded that both mechanisms operate in
+parallel or that their relative activity is cell-type dependent.
+1.6. other signalling mechanisms controlling autophagy
+in human colon cancer ht-29 cells, another amino acid-dependent signalling
+pathway can control autophagy, in addition to the pi3k/mtor pathway. activa-
+tion of erk1/2 stimulates the gtpase-activating protein gaip and abolishes the
+inhibitory eﬀect of trimeric gi3 protein on autophagy (meijer and codogno,
+2004). amino acids, by stimulating the phosphorylation of ser259 inactivate the
+erk1/2 mapk kinase raf-1 and downregulate autophagy (pattingre et al., 2003).
+in contrast, in c2c12 myotubes (tassa et al., 2003) the inhibition of autophagy
+by amino acids is not accompanied by any changes in erk1/2 phosphorylation.
+418
+a.j. meijer, p. codogno / molecular aspects of medicine 27 (2006) 411–425
+diﬀerences in amino acid signalling mechanisms and in the control of autophagy
+may exist, apparently depending on the cell type, and perhaps also on the degree
+of diﬀerentiation (tassa et al., 2003).
+in cultured rat hepatocytes and in the ﬂow-through perfused rat liver, amino acid-
+induced cell swelling, caused by na+-dependent concentrative transport of certain
+amino acids, inhibits autophagy independent of mtor by activation of p38mapk
+(haussinger et al., 1999). integrins are part of the osmo-sensing mechanism (vom
+dahl et al., 2003). insulin also inhibits autophagy because it increases cell volume
+and activates p38mapk by an integrin-dependent, mtor-independent mechanism
+(schliess et al., 2004). by contrast, in c2c12 myotubes, p38mapk is not involved
+in the inhibition of autophagy by amino acids (tassa et al., 2003). apparently,
+depending on the experimental conditions and on the cell type, diﬀerent mechanisms
+operate to control autophagy.
+ceramide, and the closely related sphingosine 1-phosphate, have been shown to
+activate autophagy by upregulation of beclin 1 and inhibition of protein kinase b
+(scarlatti et al., 2004) or inhibition of mtor (lavieu et al., 2006), respectively.
+as will be discussed below, the ability of ceramide to stimulate autophagy may
+account for its action as a tumor suppressor.
+ca++ may be another signalling component that controls autophagy. intracellu-
+larly sequestered, rather than cytosolic ca2+, is required for autophagy (gordon
+et al., 1993). this is in line with recent data showing that lithium increases autophagy
+because of inhibition of inositolmonophosphatase, resulting in inositol depletion and
+in a decrease in myo-inositol-1,4,5-triphosphate (ip3) (sarkar et al., 2005). the
+authors assumed that ip3 itself inhibits autophagy by some unknown mechanism.
+they did not consider, however, that ip3 is a ca++-mobilizing second messenger
+and releases ca++ from the endoplasmic reticulum (berridge, 2005) and in this
+way may control autophagy.
+2. autophagy in aging
+more and more evidence has been accumulating in recent years indicating that
+both caloric restriction (cuervo et al., 2005) and defective insulin signalling (tatar
+et al., 2003; katic and kahn, 2005) extend life-span. presumably, this can be
+ascribed, at least in part, to increased autophagy (melendez et al., 2003; cuervo
+et al., 2005). it is perhaps not by accident that the klotho protein which has strong
+anti-aging properties in mammals confers insulin resistance (kurosu et al., 2005).
+increased mitochondrial ros (reactive oxygen species) production, with loss of
+mitochondrial function, has been implicated not only in the aging process (cuervo
+et al., 2005) but also in type 2 diabetes (lowell and shulman, 2005). because autoph-
+agy is capable of speciﬁcally eliminating mitochondria with a low membrane poten-
+tial, as discussed earlier (section 1.4),
+it is not unreasonable to conclude that
+activation of autophagy can increase longevity. interestingly, amino acid signalling
+also declines with age (dardevet et al., 2000). we may even speculate that the onset
+of insulin resistance in elderly people (petersen et al., 2003) is, in fact, an adaptive
+a.j. meijer, p. codogno / molecular aspects of medicine 27 (2006) 411–425
+419
+mechanism intended to increase autophagy, which helps to promote the ability to
+remove damaged mitochondria (and presumably other damaged cellular structures)
+and thus helps to prolong life.
+3. autophagy and disease
+3.1. cancer
+as discussed earlier, the amino acid signalling pathway oppositely controls pro-
+tein synthesis and autophagy. evidently, overactivation of the amino acid signalling
+pathway leads to overactivation of protein synthesis and thus contributes to cancer
+cell growth. the notion that suppression of autophagy can also contribute is not gen-
+erally known but evidence in support of this is rapidly growing (levine and klion-
+sky, 2004; kondo et al., 2005; ng and huang, 2005; hait et al., 2006; botti et al.,
+2006). many of the components involved in activation of autophagy are known
+tumor suppressors, e.g. beclin 1, uvrag, pten, tsc1/2, p53 and ceramide. che-
+motherapeutic drugs may exert their anticancer action not only via inhibition of pro-
+tein synthesis but also via their ability to stimulate autophagy. these include, e.g.,
+rapamycin, tamoxifen (which increases ceramide (botti et al., 2006)) and temozola-
+mide (kondo et al., 2005).
+in the initial stages of tumor growth autophagy may be increased rather than
+decreased because insuﬃcient vascularization limits nutrient supply to the cancer
+cells (levine and klionsky, 2004; kondo et al., 2005; ng and huang, 2005; hait
+et al., 2006; botti et al., 2006). although the signal for stimulation of autophagy
+is not known it may be speculated that activation of ampk plays a role here.
+3.2. neurodegenerative diseases
+autophagy has been implicated as a protective mechanism in various neurodegen-
+erative diseases such as those of parkinson, alzheimer and huntington because the
+process contributes to the removal of defective proteins [cf. d.c. rubinsztein else-
+where in this issue and also (yorimitsu and klionsky, 2005) for literature]. in hun-
+tington disease expanded polyglutamine proteins accumulate abnormally in
+intracellular aggregates which in cell models can be counteracted by induction of
+autophagy with rapamycin (ravikumar et al., 2004). interestingly, these aggregates
+themselves sequester mtor which can be viewed as an attempt of the cell to elim-
+inate these aggregates by autophagy (ravikumar et al., 2004). it must be pointed
+out, however, that these aggregates can also bind beclin 1 which would be counter-
+productive for autophagy (shibata et al., 2006). the importance of autophagy as a
+protective mechanism for neuronal cell function was also demonstrated in studies in
+mice showing that defective autophagy in neuronal cells results in neurodegeneration
+(komatsu et al., 2006; hara et al., 2006).
+unexpectedly, a functional genetic screen of huntington disease recently indi-
+cated that activation of irs-2, which mediates insulin signalling (fig. 1), results in
+420
+a.j. meijer, p. codogno / molecular aspects of medicine 27 (2006) 411–425
+autophagy-mediated clearance of the polyglutamine protein aggregates (yamamoto
+et al., 2006). the activation of autophagy occurred in spite of activation of protein
+kinase b, mtor and s6k, but was still pi3k class iii- and beclin1-dependent.
+apparently, regulation of autophagy of the mutant protein diﬀers from that of star-
+vation-induced autophagy in that it is mtor-independent. in order to account for
+these surprising results the authors assumed that pi3k class iii may be downstream
+of mtor, as proposed by (scott et al., 2004) (see section 1.3) or that the polyglu-
+tamine protein aggregates themselves trigger autophagy in a mtor-independent
+fashion (yamamoto et al., 2006). it is also possible that in polyglutamine protein
+expressing cells the protein kinase b/mtor signalling pathway is uncoupled from
+its inhibitory role in autophagy, e.g. by binding signalling proteins so that their nor-
+mal stoichiometry, and thus their response to external stimuli, is disturbed (lumeng
+and saltiel, 2006).
+4. potential implication of autophagy in other diseases
+finally, we want to discuss two pathologies (type-2 diabetes and hepatic enceph-
+alopathy) in which autophagy may play an important role although this has not been
+studied yet.
+4.1. type-2 diabetes
+type-2 diabetes is characterized by insulin resistance and glucose intolerance,
+with decreased glucose consumption in muscle and fat cells and increased gluconeo-
+genesis in the liver. its most common cause is overfeeding, when the caloric intake
+exceeds energy expenditure (petersen and shulman, 2006).
+as discussed above (section 1.3), we predict that autophagy is increased in type-2
+diabetes because the insulin-sensitive cells are in a semi-starved state under these
+conditions. a major factor underlying this disease is the inability of the body to buf-
+fer the free fatty acid concentration. this results in increased reduction pressure on
+the mitochondrial respiratory chain, in increased ros production, in reduced mito-
+chondrial function and in increased apoptosis, e.g. of beta-cells (evans et al., 2002).
+among the various fatty acids, palmitate is most potent in causing insulin resistance.
+because palmitate is the precursor of ceramide and sphingolipid biosynthesis, the
+sphingolipid pathway has been implicated in the etiology of insulin resistance
+(tagami et al., 2002; yamashita et al., 2003). as discussed above, ceramide stimu-
+lates autophagy (scarlatti et al., 2004). ceramide also decreases intracellular amino
+acid concentrations by inhibition of amino acid transport, resulting in decreased
+mtor-dependent signalling. although the link with autophagy was not studied
+(hyde et al., 2005), inhibition of amino acid transport may also contribute to the
+activation of autophagy by ceramide. if, indeed, activation of autophagy by cera-
+mide also occurs in vivo, it would provide the body with an ideal adaptation mech-
+anism of eliminating damaged mitochondria and avoiding apoptosis when fatty acid
+concentrations rise.
+a.j. meijer, p. codogno / molecular aspects of medicine 27 (2006) 411–425
+421
+if, as discussed above (section 3.2), however,
+insulin-mediated signalling is
+required to clear intracellular protein aggregates, such as in huntington disease, it
+is possible that in type-2 diabetes such processes are negatively inﬂuenced (yamam-
+oto et al., 2006; lumeng and saltiel, 2006). these considerations demonstrate the
+complexity of autophagy regulation and make predictions, without experimental
+test, extremely diﬃcult.
+4.2. hepatic encephalopathy
+hepatic encephalopathy (he) is characterized by neuropsychiatric manifestations
+which may range from mild abnormalities in mental state to coma. failure of liver
+function, as the result of acute or chronic liver disease, is the cause of the disease
+(jones et al., 2003). ammonia, which is thought to be one of the major causative
+agents in he, is not properly converted into either urea or glutamine by the liver
+under such conditions. the mechanism of ammonia toxicity in brain has been a mat-
+ter of debate for years and is still not settled: astrocyte swelling, mitochondrial ros
+production and protein nitration, among others, have been proposed as mechanisms
+(jones et al., 2003).
+it has been shown that overactivation of the mtor signalling pathway in astro-
+cytes, by a mutation in tsc1 (see fig. 1), results in increased cell size (uhlmann
+et al., 2004). although not discussed by the authors, this observation perhaps pro-
+vides a new mechanism for the toxicity of ammonia in hepatic encephalopathy.
+increased intracellular glutamine (produced from ammonia) not only increases
+astrocyte volume in the short term by osmosis which probably accounts for the brain
+swelling and increase in intracranial pressure (jones et al., 2003), but also in the long
+term by stimulating mtor signalling. this would then result in suppression of
+autophagy and thus in suppression of the capacity of the astrocyte to remove aber-
+rant cell structures such as mitochondria.
+acknowledgements
+work in p. codogno’s laboratory is supported by institutional funding from the
+institut national de la sante´ et de la recherche me´dicale (inserm), university of
+paris-sud and grants from the association pour la recherche sur le cancer (arc
+3503).
+references
+arico, s., petiot, a., bauvy, c., dubbelhuis, p.f., meijer, a.j., codogno, p., ogier-denis, e., 2001. the
+tumor suppressor pten positively regulates macroautophagy by inhibiting the phosphatidylinositol 3-
+kinase/protein kinase b pathway. j. biol. chem. 276, 35243–35246.
+berridge, m.j., 2005. unlocking the secrets of cell signaling. annu. rev. physiol. 67, 1–21.
+beugnet, a., tee, a.r., taylor, p.m., proud, c.g., 2003. regulation of targets of mtor (mammalian
+target of rapamycin) signalling by intracellular amino acid availability. biochem. j. 372, 555–566.
+422
+a.j. meijer, p. codogno / molecular aspects of medicine 27 (2006) 411–425
+blommaart, e.f., luiken, j.j., blommaart, p.j., van woerkom, g.m., meijer, a.j., 1995. phosphory-
+lation of ribosomal protein s6 is inhibitory for autophagy in isolated rat hepatocytes. j. biol. chem.
+270, 2320–2326.
+blommaart, e.f., krause, u., schellens, j.p., vreeling-sindelarova, h., meijer, a.j., 1997. the
+phosphatidylinositol 3-kinase inhibitors wortmannin and ly294002 inhibit autophagy in isolated
+rat hepatocytes. eur. j. biochem. 243, 240–246.
+botti, j., djahaveri-mergny, m., pilatte, y., codogno, p., 2006. autophagy and signaling and the
+cogweels of cancer. autophagy 2, e1–e7.
+boya, p., gonzalez-polo, r.a., casares, n., perfettini, j.l., dessen, p., larochette, n., metivier, d.,
+meley, d., souquere, s., yoshimori, t., pierron, g., codogno, p., kroemer, g., 2005. inhibition of
+macroautophagy triggers apoptosis. mol. cell biol. 25, 1025–1040.
+browne, g.j., finn, s.g., proud, c.g., 2004. stimulation of the amp-activated protein kinase leads to
+activation of eukaryotic elongation factor 2 kinase and to its phosphorylation at a novel site, serine
+398. j. biol. chem. 279, 12220–12231.
+byﬁeld, m.p., murray, j.t., backer, j.m., 2005. hvps34 is a nutrient-regulated lipid kinase required for
+activation of p70 s6 kinase. j. biol. chem. 280, 33076–33082.
+cheng, s.w., fryer, l.g., carling, d., shepherd, p.r., 2004. thr2446 is a novel mammalian target of
+rapamycin (mtor) phosphorylation site regulated by nutrient status. j. biol. chem. 279, 15719–
+15722.
+codogno, p., meijer, a.j., 2005. autophagy and signaling: their role in cell survival and cell death. cell
+death. diﬀer. 12 (suppl 2), 1509–1518.
+cuervo, a.m., bergamini, e., brunk, u.t., droge, w., ffrench, m., terman, a., 2005. autophagy and
+aging. autophagy 181, 131–140.
+dardevet, d., sornet, c., balage, m., grizard, j., 2000. stimulation of in vitro rat muscle protein synthesis
+by leucine decreases with age. j. nutr. 130, 2630–2635.
+dennis, p.b., jaeschke, a., saitoh, m., fowler, b., kozma, s.c., thomas, g., 2001. mammalian tor: a
+homeostatic atp sensor. science 294, 1102–1105.
+evans, j.l., goldﬁne, i.d., maddux, b.a., grodsky, g.m., 2002. oxidative stress and stress-activated
+signaling pathways: a unifying hypothesis of type 2 diabetes. endocr. rev. 23, 599–622.
+feng, z., zhang, h., levine, a.j., jin, s., 2005. the coordinate regulation of the p53 and mtor pathways
+in cells. proc. natl. acad. sci. usa 102, 8204–8209.
+gordon, p.b., holen, i., fosse, m., rotnes, j.s., seglen, p.o., 1993. dependence of hepatocytic
+autophagy on intracellularly sequestered calcium. j. biol. chem. 268, 26107–26112.
+hait, w.n., jin, s., yang, j.m., 2006. a matter of life or death (or both): understanding autophagy in
+cancer. clin. cancer res. 12, 1961–1965.
+hara, t., nakamura, k., matsui, m., yamamoto, a., nakahara, y., suzuki-migishima, r., yokoyama,
+m., mishima, k., saito, i., okano, h., mizushima, n., 2006. suppression of basal autophagy in neural
+cells causes neurodegenerative disease in mice. nature 441, 885–889.
+haussinger, d., schliess, f., dombrowski, f., vom dahl, s., 1999. involvement of p38mapk in the
+regulation of proteolysis by liver cell hydration. gastroenterology 116, 921–935.
+hyde, r., hajduch, e., powell, d.j., taylor, p.m., hundal, h.s., 2005. ceramide down-regulates system
+a amino acid transport and protein synthesis in rat skeletal muscle cells. faseb j. 19, 461–463.
+inoki, k., corradetti, m.n., guan, k.l., 2005. dysregulation of the tsc-mtor pathway in human
+disease. nat. genet. 37, 19–24.
+jacinto, e., hall, m.n., 2003. tor signalling in bugs, brain and brawn. nat. rev. mol. cell biol. 4, 117–
+126.
+jones, e.a., meijer, a.j., chamuleau, r.a., 2003. encephalopathy and nitrogen metabolism in liver
+failure. kluwer academic publishers, dordrecht, boston, london.
+kahn, b.b., alquier, t., carling, d., hardie, d.g., 2005. amp-activated protein kinase: ancient energy
+gauge provides clues to modern understanding of metabolism. cell metab. 1, 15–25.
+kanazawa, t., taneike, i., akaishi, r., yoshizawa, f., furuya, n., fujimura, s., kadowaki, m., 2004.
+amino acids and insulin control autophagic proteolysis through diﬀerent signaling pathways in
+relation to mtor in isolated rat hepatocytes. j. biol. chem. 279, 8452–8459.
+a.j. meijer, p. codogno / molecular aspects of medicine 27 (2006) 411–425
+423
+katic, m., kahn, c.r., 2005. the role of insulin and igf-1 signaling in longevity. cell mol. life sci. 62,
+320–343.
+khamzina, l., veilleux, a., bergeron, s., marette, a., 2005. increased activation of the mammalian target
+of rapamycin pathway in liver and skeletal muscle of obese rats: possible involvement in obesity-linked
+insulin resistance. endocrinology 146, 1473–1481.
+kihara, a., kabeya, y., ohsumi, y., yoshimori, t., 2001. beclin-phosphatidylinositol 3-kinase complex
+functions at the trans-golgi network. embo rep. 2, 330–335.
+klionsky, d.j., meijer, a.j., codogno, p., neufeld, t.p., scott, r.c., 2005. autophagy and p70s6 kinase.
+autophagy 1, 59–61.
+komatsu, m., waguri, s., chiba, t., murata, s., iwata, j.i., tanida, i., ueno, t., koike, m., uchiyama,
+y., kominami, e., tanaka, k., 2006. loss of autophagy in the central nervous system causes
+neurodegeneration in mice. nature 441, 880–884.
+kondo, y., kanzawa, t., sawaya, r., kondo, s., 2005. the role of autophagy in cancer development and
+response to therapy. nat. rev. cancer. 5, 726–734.
+kuma, a., hatano, m., matsui, m., yamamoto, a., nakaya, h., yoshimori, t., ohsumi, y., tokuhisa,
+t., mizushima, n., 2004. the role of autophagy during the early neonatal starvation period. nature
+432, 1032–1036.
+kundu, m., thompson, c.b., 2005. macroautophagy versus mitochondrial autophagy: a question of fate?
+cell death. diﬀer. 12 (suppl. 2), 1484–1489.
+kurosu, h., yamamoto, m., clark, j.d., pastor, j.v., nandi, a., gurnani, p., mcguinness, o.p.,
+chikuda, h., yamaguchi, m., kawaguchi, h., shimomura, i., takayama, y., herz, j., kahn, c.r.,
+rosenblatt, k.p., kuro-o, m., 2005. suppression of aging in mice by the hormone klotho. science
+309, 1829–1833.
+lavieu, g., scarlatti, f., sala, g., carpentier, s., levade, t., ghidoni, r., botti, j., codogno, p., 2006.
+regulation of autophagy by sphingosine kinase 1 and its role in cell survival during nutrient starvation.
+j. biol. chem. 281, 8518–8527.
+levine, b., klionsky, d.j., 2004. development by self-digestion: molecular mechanisms and biological
+functions of autophagy. dev. cell. 6, 463–477.
+levine, a.j., feng, z., mak, t.w., you, h., jin, s., 2006. coordination and communication between the
+p53 and igf-1-akt-tor signal transduction pathways. genes dev. 20, 267–275.
+liang, x.h., jackson, s., seaman, m., brown, k., kempkes, b., hibshoosh, h., levine, b., 1999.
+induction of autophagy and inhibition of tumorigenesis by beclin 1. nature 402, 672–676.
+liang, c., feng, p., ku, b., dotan, i., canaani, d., oh, b.h., jung, j.u., 2006. autophagic and tumor
+suppressor activity of a novel beclin-1binding uvrag. nat cell biol. 8, 688–699.
+long, x., ortiz-vega, s., lin, y., avruch, j., 2005. rheb binding to mammalian target of rapamycin
+(mtor) is regulated by amino acid suﬃciency. j. biol. chem. 280, 23433–23436.
+lowell, b.b., shulman, g.i., 2005. mitochondrial dysfunction and type 2 diabetes. science 307, 384–387.
+lumeng, c.n., saltiel, a.r., 2006. insulin htts on autophagy. autophagy 2, 250–253.
+lum, j.j., bauer, d.e., kong, m., harris, m.h., li, c., lindsten, t., thompson, c.b., 2005. growth
+factor regulation of autophagy and cell survival in the absence of apoptosis. cell 120, 237–248.
+lynch, c.j., fox, h.l., vary, t.c., jeﬀerson, l.s., kimball, s.r., 2000. regulation of amino acid-
+sensitive tor signaling by leucine analogues in adipocytes. j. cell biochem. 77, 234–251.
+lynch, c.j., halle, b., fujii, h., vary, t.c., wallin, r., damuni, z., hutson, s.m., 2003. potential role of
+leucine metabolism in the leucine-signaling pathway involving mtor. am. j. physiol endocrinol.
+metab. 285, e854–e863.
+martin, p.m., sutherland, a.e., 2001. exogenous amino acids regulate trophectoderm diﬀerentiation in
+the mouse blastocyst through an mtor-dependent pathway. dev. biol. 240, 182–193.
+meijer, a.j., codogno, p., 2004. regulation and role of autophagy in mammalian cells. int. j. biochem.
+cell biol. 36, 2445–2462.
+meijer, a.j., dubbelhuis, p.f., 2004. amino acid signalling and the integration of metabolism. biochem.
+biophys. res. commun. 313, 397–403.
+melendez, a., talloczy, z., seaman, m., eskelinen, e.l., hall, d.h., levine, b., 2003. autophagy genes
+are essential for dauer development and life-span extension in c. elegans. science 301, 1387–1391.
+424
+a.j. meijer, p. codogno / molecular aspects of medicine 27 (2006) 411–425
+mordier, s., deval, c., bechet, d., tassa, a., ferrara, m., 2000. leucine limitation induces autophagy
+and activation of lysosome-dependent proteolysis in c2c12 myotubes through a mammalian target of
+rapamycin-independent signaling pathway. j. biol. chem. 275, 29900–29906.
+mortimore, g.e., miotto, g., venerando, r., kadowaki, m., 1996. autophagy subcell. biochem. 27, 93–
+135.
+ng, g., huang, j., 2005. the signiﬁcance of autophagy in cancer. mol. carcinog. 43, 183–187.
+nobukuni, t., joaquin, m., roccio, m., dann, s.g., kim, s.y., gulati, p., byﬁeld, m.p., backer, j.m.,
+natt, f., bos, j.l., zwartkruis, f.j., thomas, g., 2005. amino acids mediate mtor/raptor signaling
+through activation of class 3 phosphatidylinositol 3oh-kinase. proc. natl. acad. sci. usa 102,
+14238–14243.
+pattingre, s., bauvy, c., codogno, p., 2003. amino acids interfere with the erk1/2-dependent control of
+macroautophagy by controlling the activation of raf-1 in human colon cancer ht-29 cells. j. biol.
+chem. 278, 16667–16674.
+pattingre, s., tassa, a., qu, x., garuti, r., liang, x.h., mizushima, n., packer, m., schneider, m.d.,
+levine, b., 2005. bcl-2 antiapoptotic proteins inhibit beclin 1-dependent autophagy. cell 122, 927–
+939.
+petersen, k.f., shulman, g.i., 2006. etiology of insulin resistance. am. j. med. 119, s10–s16.
+petersen, k.f., befroy, d., dufour, s., dziura, j., ariyan, c., rothman, d.l., dipietro, l., cline, g.w.,
+shulman, g.i., 2003. mitochondrial dysfunction in the elderly: possible role in insulin resistance.
+science 300, 1140–1142.
+petiot, a., ogier-denis, e., blommaart, e.f., meijer, a.j., codogno, p., 2000. distinct classes of
+phosphatidylinositol 3’-kinases are involved in signaling pathways that control macroautophagy in
+ht-29 cells. j. biol. chem. 275, 992–998.
+proud, c.g., 2006. regulation of protein synthesis by insulin. biochem. soc. trans. 34, 213–216.
+ravikumar, b., vacher, c., berger, z., davies, j.e., luo, s., oroz, l.g., scaravilli, f., easton, d.f.,
+duden, r., o’kane, c.j., rubinsztein, d.c., 2004. inhibition of mtor induces autophagy and
+reduces toxicity of polyglutamine expansions in ﬂy and mouse models of huntington disease. nat.
+genet. 36, 585–595.
+reggiori, f., klionsky, d.j., 2005. autophagosomes: biogenesis from scratch? curr. opin. cell biol. 17,
+415–422.
+roccio, m., bos, j.l., zwartkruis, f.j., 2006. regulation of the small gtpase rheb by amino acids.
+oncogene 25, 657–664.
+rodriguez-enriquez, s., kim, i., currin, r.t., lemasters, j.j., 2006. tracker dyes to probe mitochondrial
+autophagy (mitophagy) in rat hepatocytes. autophagy 2, 39–46.
+samari, h.r., seglen, p.o., 1998. inhibition of hepatocytic autophagy by adenosine, aminoimidazole-4-
+carboxamide riboside, and n6-mercaptopurine riboside. evidence for involvement of amp-activated
+protein kinase. j. biol. chem. 273, 23758–23763.
+sarkar, s., floto, r.a., berger, z., imarisio, s., cordenier, a., pasco, m., cook, l.j., rubinsztein, d.c.,
+2005. lithium induces autophagy by inhibiting inositol monophosphatase. j. cell biol. 170, 1101–
+1111.
+scarlatti, f., bauvy, c., ventruti, a., sala, g., cluzeaud, f., vandewalle, a., ghidoni, r., codogno, p.,
+2004. ceramide-mediated macroautophagy involves inhibition of protein kinase b and up-regulation
+of beclin 1. j. biol. chem. 279, 18384–18391.
+schliess, f., reissmann, r., reinehr, r., vom dahl, s., haussinger, d., 2004. involvement of integrins
+and src in insulin signaling toward autophagic proteolysis in rat liver. j. biol. chem. 279, 21294–
+21301.
+scott, r.c., schuldiner, o., neufeld, t.p., 2004. role and regulation of starvation-induced autophagy in
+the drosophila fat body. dev. cell. 7, 167–178.
+shibata, m., lu, t., furuya, t., degterev, a., mizushima, n., yoshimori, t., macdonald, m., yankner,
+b., yuan, j., 2006. regulation of intracellular accumulation of mutant huntingtin by beclin 1. j. biol.
+chem. 281, 14474–14485.
+shigemitsu, k., tsujishita, y., miyake, h., hidayat, s., tanaka, n., hara, k., yonezawa, k., 1999.
+structural requirement of leucine for activation of p70 s6 kinase. febs lett. 447, 303–306.
+a.j. meijer, p. codogno / molecular aspects of medicine 27 (2006) 411–425
+425
+shintani, t., klionsky, d.j., 2004. autophagy in health and disease: a double-edged sword. science 306,
+990–995.
+smith, e.m., finn, s.g., tee, a.r., browne, g.j., proud, c.g., 2005. the tuberous sclerosis protein tsc2
+is not required for the regulation of the mammalian target of rapamycin by amino acids and certain
+cellular stresses. j. biol. chem. 280, 18717–18727.
+tagami, s., inokuchi, j.j., kabayama, k., yoshimura, h., kitamura, f., uemura, s., ogawa, c., ishii,
+a., saito, m., ohtsuka, y., sakaue, s., igarashi, y., 2002. ganglioside gm3 participates in the
+pathological conditions of insulin resistance. j. biol. chem. 277, 3085–3092.
+tang, x., wang, l., proud, c.g., downes, c.p., 2003. muscarinic receptor-mediated activation of p70 s6
+kinase 1 (s6k1) in 1321n1 astrocytoma cells: permissive role of phosphoinositide 3-kinase. biochem. j.
+374, 137–143.
+tassa, a., roux, m.p., attaix, d., bechet, d.m., 2003. class iii phosphoinositide 3-kinase – beclin1
+complex mediates the amino acid-dependent regulation of autophagy in c2c12 myotubes. biochem. j.
+376, 577–586.
+tatar, m., bartke, a., antebi, a., 2003. the endocrine regulation of aging by insulin-like signals. science
+299, 1346–1351.
+tzatsos, a., kandror, k.v., 2006. nutrients suppress phosphatidylinositol 3-kinase/akt signaling via
+raptor-dependent mtor-mediated insulin receptor substrate 1 phosphorylation. mol. cell biol. 26,
+63–76.
+uhlmann, e.j., li, w., scheidenhelm, d.k., gau, c.l., tamanoi, f., gutmann, d.h., 2004. loss of
+tuberous sclerosis complex 1 (tsc1) expression results in increased rheb/s6k pathway signaling
+important for astrocyte cell size regulation. glia 47, 180–188.
+um, s.h., frigerio, f., watanabe, m., picard, f., joaquin, m., sticker, m., fumagalli, s., allegrini, p.r.,
+kozma, s.c., auwerx, j., thomas, g., 2004. absence of s6k1 protects against age- and diet-induced
+obesity while enhancing insulin sensitivity. nature 431, 200–205.
+van sluijters, d.a., dubbelhuis, p.f., blommaart, e.f., meijer, a.j., 2000. amino-acid-dependent signal
+transduction. biochem. j. 351 pt 3, 545–550.
+vom dahl, s., schliess, f., reissmann, r., gorg, b., weiergraber, o., kocalkova, m., dombrowski, f.,
+haussinger, d., 2003. involvement of integrins in osmosensing and signaling toward autophagic
+proteolysis in rat liver. j. biol. chem. 278, 27088–27095.
+wang, z., wilson, w.a., fujino, m.a., roach, p.j., 2001. antagonistic controls of autophagy and
+glycogen accumulation by snf1p, the yeast homolog of amp-activated protein kinase, and the cyclin-
+dependent kinase pho85p. mol. cell biol. 21, 5742–5752.
+whiteman, e.l., cho, h., birnbaum, m.j., 2002. role of akt/protein kinase b in metabolism. trends
+endocrinol. metab. 13, 444–451.
+wijekoon, e.p., skinner, c., brosnan, m.e., brosnan, j.t., 2004. amino acid metabolism in the zucker
+diabetic fatty rat: eﬀects of insulin resistance and of type 2 diabetes. can. j. physiol pharmacol. 82,
+506–514.
+wu, h., yang, j.m., jin, s., zhang, h., hait, w.n., 2006. elongation factor-2 kinase regulates autophagy
+in human glioblastoma cells. cancer res. 66, 3015–3023.
+yamamoto, a., cremona, m.l., rothman, j.e., 2006. autophagy-mediated clearance of huntingtin
+aggregates triggered by the insulin-signaling pathway. j. cell biol. 172, 719–731.
+yamashita, t., hashiramoto, a., haluzik, m., mizukami, h., beck, s., norton, a., kono, m., tsuji, s.,
+daniotti, j.l., werth, n., sandhoﬀ, r., sandhoﬀ, k., proia, r.l., 2003. enhanced insulin sensitivity in
+mice lacking ganglioside gm3. proc. natl. acad. sci. usa 100, 3445–3449.
+yorimitsu, t., klionsky, d.j., 2005. autophagy: molecular machinery for self-eating. cell death. diﬀer.
+12 (suppl 2), 1542–1552.

@@ -1,0 +1,1104 @@
+experimental eye research 83 (2006) 380e389
+www.elsevier.com/locate/yexer
+multiple, parallel cellular suicide mechanisms participate in
+photoreceptor cell death*
+heather r. lohr a,1, kannan kuntchithapautham a,1, ashish k. sharma a,2, ba¨rbel rohrer a,b,*
+a department of neurosciences, division of research, medical university of south carolina, 173 ashley avenue, bsb403, charleston, sc 29425, usa
+b department of ophthalmology, medical university of south carolina, 167 ashley avenue, sei511, charleston, sc 29425, usa
+received 15 november 2005; accepted in revised form 5 january 2006
+available online 19 april 2006
+abstract
+photoreceptor degeneration in human photoreceptor dystrophies and in the relevant animal models has been thought to be executed by one
+common mechanism e caspase-mediated apoptosis. however, recent experiments have challenged this concept. in previous experiments, ana-
+lyzing gene expression in the degenerating rd/rd mouse retina, we have suggested that the gene defect leads to oxidative stress and altered me-
+tabolism, which may induce caspase-dependent and caspase-independent cell death mechanisms such as the activation of cystein-proteases,
+lysosomal proteases, autophagy and complement-mediated lysis. in this study we asked two questions. first, whether a temporal analysis of
+these different mechanisms during the course of degeneration would enable us to establish a causal relationship between these events; and
+second, whether photoreceptor degeneration in different models of photoreceptor dystrophies occurs by activating the same mechanisms. three
+models of photoreceptor degeneration were chosen in which photoreceptor degeneration is caused by different events: the rd/rd mouse (calcium
+overload); the rds/rds mouse (structural defect); and light-damage (ld; oxidative stress). marker genes were selected for the identiﬁed processes.
+pcr-analysis on laser capture microdissection samples was used to verify the expression of these genes in the rod photoreceptor layer. a tem-
+poral relationship between the processes was established at the mrna level, using quantitative rt-pcr. the time course of gene expression was
+compared to that of cell loss (loss of rows of photoreceptor nuclei) and apoptosis (tunel labeling). apoptosis and autophagy was analyzed
+using enzymatic assays. the time course of apoptosis and tunel labeling coincide in all three models. complement-activated lysis was found
+to either parallel (rd/rd and rds/rds) or precede (ld) the development of tunel-positive cells. autophagy was determined to parallel (rd/rd and
+ld) or lag (rds/rds) behind the development of tunel-positive cells. in all three models, glucose metabolism was found to be increased sig-
+niﬁcantly prior to the onset of cell death, but then dropped in parallel with the loss of cells. the presence of the marker genes was veriﬁed by
+laser capture microdissection, and apoptosis (caspase activity) and autophagy (lysozyme and cathepsin activity) were veriﬁed in retina extracts.
+these results provide evidence that irrespective of whether photoreceptor degeneration is triggered by gene defects (lack of b-pde or rds/pe-
+ripherin) or environmental stress (light-damage), a number of pro-apoptotic mechanisms are triggered leading to the degeneration of the pho-
+toreceptor cells. the temporal pattern of the different pathways suggests that the non-caspase-dependent mechanisms may actively participate in
+the demise of the photoreceptors, rather than represent a passive response of the retina to the presence of dying cells. thus, unless the common
+upstream initiator for a given photoreceptor dystrophy is found, multiple rescue paradigms need to be used to target all active pathways.
+ó 2006 elsevier ltd. all rights reserved.
+keywords: photoreceptor degeneration; apoptosis; autophagy; complement; metabolism
+* funding information: funding was provided by nih grants ey-13520 and vision core grant ey-14793; a postdoctoral fellowship grant for aks from fight for
+sight, new york, ny; the kirchgessner foundation, and an unrestricted grant to musc from research to prevent blindness, inc., new york, ny. br is a research
+to prevent blindness olga weiss scholar.
+* corresponding author. department of neurosciences, division of research, medical university of south carolina, 173 ashley avenue, bsb403, charleston,
+sc 29425, usa tel.: þ1 843 792 5086; fax: þ1 843 792 1723.
+e-mail address: rohrer@musc.edu (b. rohrer).
+1 these authors have contributed equally to this manuscript.
+2 present address: department of cell biology, university of virginia, po box 800732, charlottesville, va 22908, usa.
+0014-4835/$ - see front matter ó 2006 elsevier ltd. all rights reserved.
+doi:10.1016/j.exer.2006.01.014
+h.r. lohr et al. / experimental eye research 83 (2006) 380e389
+381
+1. introduction
+retinal dystrophies to date are caused by mutations in 158
+different genes (retnet at http://www.sph.uth.tmc.edu/retnet)
+and various environmental factors. in the majority of these
+dystrophies photoreceptor cell death results from a caspase-
+dependent apoptotic mechanism. however, recent evidence
+suggests that photoreceptor cell death may involve other death
+pathways such as calpain-mediated cell death, autophagy,
+proteasome activity and complement-mediated lysis (rohrer
+et al., 2004; sharma and rohrer, 2004).
+retinal photoreceptors are very stable, but at the same time
+extremely fragile cells (stone et al., 1999). what makes them
+extremely fragile is their specialization: the absorption of light
+and the energy requirements to carry out this task. although
+the photoreceptors are equipped to deal with short periods of
+stress (stone et al., 1999), any long-term perturbation in either
+components of the signal transduction cascade, energy metab-
+olism, or structural integrity within the photoreceptors or their
+support cells (i.e., retinal pigment epithelium or mu¨ller cells)
+increases the risk of photoreceptor cell death (pierce, 2001).
+photoreceptor cell death during early postnatal develop-
+ment is a normal process. in the mouse retina, cell death in
+the outer nuclear layer peaks around postnatal day 7 (p7)
+and p8 and is complete by p14 (young, 1984). this early
+cell death is due to apoptosis (portera-cailliau et al., 1994;
+young, 1984), a highly regulated and active mode of cell
+death. apoptosis is an energy dependent process and involves
+the activation of effectors such as the caspase proteases
+(nicholson and thornberry, 1997), which ultimately lead to
+nucleosomal dna fragmentation and cell death. however, ap-
+optosis is also a physiological strategy to remove damaged
+cells (liang and fesik, 1997), a process that has been pro-
+posed to participate in mouse models of retinitis pigmentosa
+(e.g., fox et al., 1999; hao et al., 2002; he et al., 2000;
+portera-cailliau et al., 1994). autophagy is an additional
+process by which a cell compartmentalizes and digests itself,
+providing a mechanism by which cell death can be induced
+in damaged cells, and is presumed to be a mechanism by
+which photoreceptors remove outer segments during light-
+damage (reme et al., 1999). pathologic neuronal degeneration
+also involves necrosis, which is in response to major insults
+that lead to cell rupture and release of cellular content into
+the environment, damaging surrounding cells and leading to
+inﬂammatory responses (nicotera et al., 1999). a strong
+case for inﬂammation as part of the causal chain in neurode-
+generation has been made for alzheimer’s disease (akiyama
+et al., 2000), age-related macular degeneration (zarbin,
+2004), and the rd/rd and the ld mouse model of retinal degen-
+eration (rohrer et al., 2004; zhang et al., 2005). in addition,
+the released photoreceptor-speciﬁc proteins have been shown
+to be potent immunogens (adamus et al., 1994). thus, the in-
+terplay between exogenous and intrinsic stressors and survival
+factors, the cells ability to remove stressors (e.g., degradation
+of damaged proteins, removal of metabolites, etc.), and the ac-
+tivation of apoptotic and catastrophic death-pathways need to
+be investigated.
+to investigate the underlying events that can lead to retinal
+degeneration, we compared three models of photoreceptor de-
+generation: the rd/rd mouse (farber, 1995), the rds/rds mouse
+(travis et al., 1989), and the light-damage model in albino mice
+(reviewed in (penn and anderson, 1992)). in the rd/rd mouse,
+the mutation in the b-subunit of the cgmp phosphodiesterase
+(pde) results in high levels of cgmp (farber and lolley,
+1974), which leaves an increased number of the cgmp-gated
+channels in the open state, thus allowing intracellular calcium
+(ca2þ
+) to rise to toxic levels (he et al., 2000). in the rds/rds
+mouse, rod outer segments fail to form (cohen, 1983; sanyal
+et al., 1980; van nie et al., 1978), which is followed by the
+loss of cell bodies of both rods and cones. finally, cell death
+due to light-damage is thought to be due to oxidative stress
+induced by a prolonged increase in oxygen tension and
+photo-oxidation (reviewed in (penn and anderson, 1992)).
+in each model, gene expression was analyzed during the
+known time course of photoreceptor degeneration, using quan-
+titative rt-pcr (qrt-pcr). marker genes for apoptosis, au-
+tophagy, oxidative stress, neuroinﬂammation and complement
+activation, and glucose metabolism were selected based on
+published changes in gene expression obtained from the rd/
+rd mouse (rohrer et al., 2004). the following marker genes
+were examined: apoptosis e caspase 1 and birc4; lysosomal
+protease activity/autophagy e cathepsin s and lysozyme;
+oxidative stress e ceruloplasmin and clusterin; neuroinﬂam-
+mation e glial ﬁbrillary acidic protein (gfap); complement-
+activated lysis e complement component 1qb (c1qb); and
+metabolism/glycolysis e 6-phospho-fructo-kinase (6-pfk)).
+the identiﬁed temporal gene expression patterns were com-
+pared to cell loss (as shown by the number of cells in the outer
+nuclear layer (onl)) and apoptosis (number of tunel-
+positive cells in the onl). establishment of the temporal
+relationship between the identiﬁed processes suggests that
+the different mechanisms identiﬁed contribute differentially
+to the early versus the late phase of cell death, depending on
+the photoreceptor dystrophy. in the rd/rd mouse, apoptosis, au-
+tophagy and complement activation are triggered in parallel;
+in the rds/rds mouse, apoptosis and complement activation
+precede autophagy; and in the light-damage mouse model,
+complement activation precedes apoptosis and autophagy.
+the activity of key enzymes involved in apoptosis (caspase
+3 activity) and autophagy (lysozyme and cathepsin activity)
+were veriﬁed in retina extracts using enzymatic assays. the
+identiﬁcation of key regulators in neurodegeneration, espe-
+cially in the context of known human retinal degenerative dis-
+orders, will be useful
+therapeutic
+strategies, which, according to our ﬁndings, may require mul-
+tiple rescue strategies.
+for developing novel
+2. material and methods
+2.1. animals
+2.1.1. animal models
+the rd/rd and rds/rds mice were gifts from drs. debora
+farber and gabriel travis (both at the university of california,
+h.r. lohr et al. / experimental eye research 83 (2006) 380e389
+382
+los angeles, ca), respectively. both are used as the homozygous form of the mutation and are maintained on a c57bl/6
+background. c57bl/6 and balb/c mice were generated from
+breeding pairs obtained from harlan laboratories (indianapolis,
+in). mice were housed in the medical university animal care
+facility under a 12:12 h light:dark cycle with access to food
+and water ad libitum. the ambient light intensity at the eye level
+of the mice was 85  18 lux. based on the known time course of
+photoreceptor degeneration in the three models (e.g., lavail
+et al., 1999; portera-cailliau et al., 1994), 8e9 time-points
+were picked for each animal model. all experiments were
+performed in accordance with the association for research in
+vision and ophthalmology statement for the use of animals
+in ophthalmic and vision research and were approved by the
+university animal care and use committee.
+2.1.2. light exposure
+light-exposure experiments were performed on 3-monthold balb/c mice. light-exposure consisted of constant fluorescent illumination of w150e175 ft-c for 10 days as described
+previously (faktorovich et al., 1992; rohrer et al., 2003), ensuring that all cages were equidistant to the light source. littermates were kept under the normal cyclic light conditions for
+controls.
+2.2. real-time pcr
+2.2.1. rna preparation
+age-matched wild type (c57bl/6 and balb/c) and experimental animals (rd/rd, rds/rds and light-damage (ld)) were
+sacrificed by decapitation and retinas were quickly isolated
+and stored in rna-later (ambion, austin, tx) at 20  c
+(n ¼ 4 per age and time point). total rna was isolated using
+trizol (invitrogen, carlsbad, ca), followed by a clean-up
+using rneasy minicolumns (qiagen, valencia, ca). the quality of the rna was examined by gel electrophoresis and spectrophotometry, accepting a 260/280 ratio of 1.95e2.1, as
+reported previously (rohrer et al., 2004).
+2.2.2. whole retinas
+real-time pcr was performed as published previously
+(rohrer et al., 2004). rna (2 mg each) was used to generate
+first strand cdna in reverse-transcription reactions (invitrogen, carlsbad, ca). pcr amplifications were conducted using the quantitect syber green pcr kit (qiagen, valencia,
+ca) with 0.01 u/ml amperaseò ung enzyme (applied biosystems, foster city, ca) to prevent carryover contamination
+(see table 1 for primer sequences, gene accession number, expected length, gene ontology and references to document the
+importance of the particular gene product to the process it is
+meant to represent). real-time pcr was performed in triplicate in a geneampò 5700 sequence detection system (applied biosystems, foster city, ca) using the following
+cycling conditions: 50  c for 2 min, 94  c for 15 min, 40 cycles of 94  c for 15 s and 58  c for 1 min. quantitative values
+were obtained using the cycle number (ct value), which is inversely proportional to the amount of a specific mrna species
+in the tissue sample. relative gene expression levels were calculated using the equation y ¼ (1 þ ae)ddct, where ae is the
+amplification efficiency of the target gene (set at 1.0 for all
+calculations), and ddct is the difference between the mean
+experimental and control dct values. the dct value is the difference between the ct value for a retina-associated gene and
+the b-actin internal reference control gene (mitas et al., 2001).
+2.2.3. laser capture microdissection (lcm)
+age-matched wild type and experimental animals were sacrificed as described above. eyes were quickly enucleated,
+table 1
+primer sequences used in quantitative real-time pcr
+name
+accession #
+sequence (50 -30 ) forward
+sequence (50 -30 ) reverse
+size
+b-actin
+nm_007393
+nm_009688
+caspase 1
+nm_009807
+cathepsin s
+nm_021281
+lysozyme
+nm_017372
+c1qb
+nm_009777
+gfap
+nm_010277
+ceruloplasmin
+nm_007752
+clusterin
+nm_013492
+6-pfk
+nm_008825
+tct cca ggg agg aag
+agg at
+tgc tcc cgg atc ttt
+gga t
+ggt ccc aca tat tcc
+ctc ct
+cac agc act gaa agc
+cca aca
+tga taa cag gct cat
+ctg tct ca
+tgg aga aaa cct aga
+agc agc a
+cct tct gac acg gat
+ttg gt
+gca acc cag ctt tca
+gat ggt
+gga ctg ttc c gt gtc
+aac tga a
+ttc ttg cat gtc cag
+agc ac
+123
+birc4
+gct aca gct tca cca
+cca ca
+gct gaa aaa aca cca
+ccg cta a
+cac agc tct gga gat
+ggt ga
+tct aat cgg aca ttg
+cct gac a
+cca gtg tca cga ggc
+att ta
+cac cag gat tcc ata
+cac agg a
+aca tcg aga tcg cca
+cct ac
+ata atc aac ctg ttc
+cct gcc a
+gcc ttg gca aga gat
+aag cat t
+gga aca gct tta cgc
+ctc tg
+gene ontology
+references
+142
+apoptosis
+(deveraux et al., 1997)
+121
+apoptosis
+(enari et al., 1995)
+105
+autophagy
+105
+autophagy
+103
+128
+complementactivated lysis
+inflammation
+(klionsky and emr, 2000;
+levine and klionsky, 2004)
+(klionsky and emr, 2000;
+levine and klionsky, 2004)
+(morgan and meri, 1994)
+109
+oxidative stress
+107
+oxidative stress
+117
+glycolysis
+(pannicke et al., 2005)
+(arnaud et al., 1988;
+osaki et al., 1966)
+(kalka et al., 2000)
+(rider et al., 2004;
+winkler, 1981)
+the marker genes to be analyzed were chosen based on the gene expression pattern in the rd/rd mouse published previously (rohrer et al., 2004).
+h.r. lohr et al. / experimental eye research 83 (2006) 380e389
+anterior chambers and lenses removed, eyecups bisected and
+frozen in oct (n ¼ 2 per genotype). fresh-frozen sections
+were cut at 15 mm, mounted onto poly-l-lysine coated slides
+and stored at 80  c. slides were thawed at room temperature
+for 30 s and fixed for 30 s in 75% ethanol. oct was removed
+by immersion in distilled water 2 times for 30 s each. tissue
+sections were then quickly dehydrated by a series of 30-s immersions in 75%, 95% and 100% ethanol followed by xylene
+for 5 min according to the arcturus bioscience, inc., protocol
+(mountainview, ca). nuclei from the onl were picked using
+a pixcell ii lcm system (arcturus bioscience, inc.), with
+a spot size ranging from 7.5 to 15 mm, depending on the
+size of the onl, avoiding contamination from neighboring
+layers (harada et al., 2000). nuclei from 2e4 retina sections
+were collected per sample. total rna was extracted from
+the captured cells by using the picopure rna isolation kit
+(arcturus bioscience, inc.). t7-based rna amplification
+was carried out by using the riboamp kit (arcturus bioscience, inc.) and cdna was synthesized using the sensiscript
+rt kit (qiagen, valencia, ca), both according to manufacturers’ instructions. this procedure yielded cdna equivalent
+to approximately 500 pg of rna of starting material as judged
+by comparing ct values for b-actin of lcm samples with
+those of samples with measurable rna concentrations. only
+samples that were negative for gfap were used, to ensure
+the absence of cross contamination with cells from the inner
+retina. quantitative real-time pcr was performed as described
+above.
+2.3. histology
+2.3.1. eye morphology
+paraffin sections were collected and processed for morphological analysis as described before (rohrer et al., 1999). in
+short, animals were decapitated, and eyes were enucleated
+and immersion-fixed in carnoy’s fixative for 2 h. eyes were
+dehydrated and embedded in paraffin in transverse orientation.
+seven micrometer sections of the eye were cut in dorsoventral
+orientation and dried onto poly-l-lysine-coated glass slides.
+sections were dewaxed and rehydrated through xylene and
+a graded series of ethanol, stained with toluidine blue solution
+and coverslipped using dpx medium. the number of rows of
+photoreceptor nuclei were counted in the central retina (superior and inferior, within 100 mm of the optic nerve head) as
+described previously (rohrer et al., 2003). two to three
+measurements were made per field, which were averaged to
+provide a single value for the entire retina. each group consisted of 4e7 animals.
+2.3.2. tunel
+tunel labeling was performed according to the protocol
+provided by the manufacturer (roche diagnostics, indianapolis,
+in). in short, eyes were fixed in 2% paraformaldehyde for 2 h at
+4  c followed by dehydration and paraffin embedding as
+described above. tunel labeling (tdt-mediated dutp nickend labeling) was performed on 7 mm paraffin sections, and
+the dna strand breaks were labeled with fluorescein for
+383
+visualization. slides were examined using a fluorescein
+isothiocyanate (fitc) filter on a zeiss microscope equipped
+with fluorescence. the number of tunel-positive nuclei per
+200 mm window was counted in the central retina (superior
+and inferior, within 100 mm of the optic nerve head) on 4e6
+sections per animal. these measurements were averaged to
+provide a single value for the entire retina. each group consisted
+of 2e3 animals.
+2.4. enzymatic assays
+enzymatic activity was measured using appropriate fluorescent substrates provided in the enzyme activity assay kits in
+retina homogenates (caspase 3 and lysozyme, molecular
+probes, eugene, or; cathepsin b, calbiochem, san diego,
+ca) as described previously (sharma and rohrer, 2004). to
+analyze activity in whole retinas, retinas were dissected, pooling two retinas per sample, the tissue resuspended in 100 ml
+lysis buffer, kept on ice at 4  c for 15 min, and then homogenized by tissue grinding and sonication on ice. the supernatant was collected after centrifugation at 20,000  g for
+15 min, transferred to a 96-well plate to which 10 ml of
+10x reaction buffer and 5 ml of substrate were added. after
+appropriate incubation times, the samples were read in a fluorometer equipped with appropriate excitation and emission filters. protein content was measured using the bradford folins
+reagent method (biorad laboratories, hercules, ca) and enzyme activities were expressed as relative fluorescence units
+(rfu) per milligram protein of each sample. the arbitrary
+values were presented as the mean  sd of three to five
+samples.
+3. results
+3.1. anatomical analysis
+to examine whether the temporal relationship between the
+multiple degenerative processes is comparable in unrelated
+models of photoreceptor dystrophy, marker gene expression
+was correlated with morphological endpoints, the thickness
+of the outer nuclear layer, and tunel staining. the morphologic data for both the rd/rd and rds/rds mouse have already
+been published (portera-cailliau et al., 1994) and are replotted
+here, whereas the anatomical data for the light-damage model
+was obtained for this publication. in fig. 1a the temporal relationship of photoreceptor cell loss and tunel staining in
+the three different dystrophies is documented. in the rd/rd
+mouse the number of tunel-positive cells occurs in a single
+wave, with the number of tunel-positive cells peaking at
+p14 (fig. 1a, left-hand column). in the rds/rds mouse,
+tunel-positive cells occur in two waves, involving an early
+wave (peaking at p18) and a late wave (ramping up by p30)
+(fig. 1a, middle column). finally, in the constant lightdamage model, tunel-positive cells can be detected within
+24 h of light onset, with a continued increase over time
+(fig. 1a, right-hand column).
+384
+(a)
+morplmlugy
+mds
+tunel
+(b)
+apoptosis
+7f mm i
+7.. blrc4
+(c)
+allmphlgy
+7r iyunymc
++ cmhepsins
+7 mm,
+(d)
+oxidaﬁve slress
+7f cluslenn
+7r cemlnplasmm
+(e)
+neuminﬂnmmllionl
+:mnplemenl acliv.
+*f gfap
+7-— cmu
+(f)
+mei-hnlism
+7k 6»pfk
+% mi i om. mum
+fald dung: ovrr age-malzhrd cantm| mm chug: nvn .gmmm cannn| fnld chug: over igc-malchzd comm! ram chang: mu agzmmm comm]
+fnld dung ovrr lge-mlchud cmhﬂ
+h.r. mm ('1 u! /eai7erimenm[ eye rmmch 83 (2006) 380—389
+rd/rd nb/rds llghl-damlg:
+m m m
+inn 3
+m we - 15
+99 ie rm 30
+m w :2 an 1,
+m m u 7“ 10
+sq
+m u
+20 60 x 50 m
+m 59 s in 5
+m, ‘ w a
+ﬂ 1 m
+m n .75
+‘ s a m u u m u 2n 2; 2n :1 m m .m a s m u m u
+1/5!” zu
+anxlnlzumuinn
+aolmuulatxmzz m a: m m m n 5 m}: :w :5
+81
+y a
+5" 5
+‘° .
+3n 3
+1” 1
+m i
+' o n
+4sllanldlsuwu m
+m n v
+m .5
+.4
+n u
+n m
+m e
+/ m 2
+n n
+ablmlzmmumzz m
+3 ‘ nu
+ma
+2 2 mo
+90 m
+.7 m
+. n ,0
+7n
+4 7 m
+.2 < «a y.
+, m 4 w
+3 \l\ \j m
+4 w a 1 m
+,5 m m
+4slmnulsum22 m a m x» m a s m u 2n u
+use id-ysl us: ways! .5 [am]
+#oft‘unel-ilbclcd cewrmm vnrruwauxlza «um.» ”oftunelrhbclcd ullmmn: #nkiunel-hhcladcgll/an:
+~ mtunel-labulcd mllsﬂnm
+onl mickness
+h.r. lohr et al. / experimental eye research 83 (2006) 380e389
+385
+3.2. temporal relationship between degenerative
+processes
+that oxidative stress markers are elevated, but is decreased
+subsequently (fig. 1f).
+retinal gene expression for speciﬁc gene clusters was com-
+pared to the known progression of outer nuclear layer loss and
+tunel staining as described above. genes for each individual
+cluster included: apoptosis e caspase 1 and birc4; lysosomal
+protease activity/autophagy e cathepsin s and lysozyme; oxi-
+dative stress e ceruloplasmin and clusterin; neuroinﬂammation
+e glial ﬁbrillary acidic protein (gfap); complement-activated
+lysis e complement component 1qb (c1qb); and metabolism/
+glycolysis e 6-phospho-fructo-kinase (6-pfk)).
+first, in the rd/rd mouse retina (fig. 1, left-hand column),
+markers for apoptosis (fig. 1b), autophagy (fig. 1c) and com-
+plement activation (fig. 1e) were activated in parallel and fol-
+low the time course of tunel labeling, suggesting that all
+three mechanisms actively participate in photoreceptor cell
+death. please note that birc4 expression, an endogenous cas-
+pase inhibitor is a mirror-image to that of caspase 1. oxidative
+stress markers (fig. 1d) are constitutively unregulated, sug-
+gesting that the lack of b-pde, which is expressed as early
+as p2.5 at the mrna level (mouse retina sage library,
+http://itstgp01.med.harvard.edu/retina/default.asp),
+to
+early oxidative stress. finally, message for 6pfk (fig. 1f) is
+upregulated until p10, suggesting that the photoreceptors re-
+quire excess atp to maintain their membrane potential in
+the presence of open cgmp-gated channels, whereas expres-
+sion drops once photoreceptor cell loss commences.
+leads
+second, in the rds/rds mouse retina (fig. 1, middle col-
+umn), markers for apoptosis (fig. 1b) and complement activa-
+tion (fig. 1e) again parallel tunel staining, whereas
+markers for autophagy (fig. 1c) are induced later, possibly
+in response to the presence of dying cells. oxidative stress
+markers (fig. 1d) and gfap, a marker for inﬂammation or ne-
+crosis (fig. 1e), are elevated to varying degrees throughout the
+entire time period studied. again, 6-pfk was found to be in-
+creased early, but decreased after postnatal day 14 (fig. 1f).
+third, in the light-damage model (fig. 1, right-hand col-
+umn), which is an oxidative stress model, the tunel-positive
+phase of degeneration is characterized by an increase in cas-
+pase 1 (fig. 1b), and the induction of autophagy genes
+(fig. 1c). interestingly, oxidative stress markers (fig. 1d),
+complement activation markers, and gfap levels (fig. 1e)
+are upregulated within less then 12 h after the onset of light.
+finally, message for 6-pfk is increased during the period
+3.3. veriﬁcation of outer nuclear layer-speciﬁc
+expression
+to conﬁrm that the genes identiﬁed in the whole retina by
+qrt-pcr reﬂect changes in gene expression in the photore-
+ceptors themselves, laser capture microdissection experiments
+were performed on retinas from all three animal models at the
+late time point, using all but two primers investigated at the
+whole retina level. only one of the lysosomal proteases was
+investigated, and gfap due to its’ known expression in glial
+cells served as a negative control as described in section 2.
+good correlation between the data determined for whole retina
+and photoreceptors was found (table 2), supporting the valid-
+ity of our experiments. for all genes, the trend (up- versus
+down-regulated) was conﬁrmed, although the absolute values
+did differ in some cases, suggesting that gene expression
+changes identiﬁed in the retina include both changes in the
+photoreceptors as well as in the inner retina.
+3.4. enzyme analysis for autophagy and apoptosis
+for the functional analysis, we focused on one time point
+during the execution phase of cell death, testing whether en-
+zymes that are known to be indicative of both apoptosis and
+autophagy are more active in the mutant or damaged retinas.
+the hallmarks of apoptosis are dna laddering, externalization
+of phosphatidylserine and activation of caspases (for review
+see adams, 2003; danial and korsmeyer, 2004), whereas the
+activation of proteases such the cathepsins, lysozyme and pro-
+teasomal proteins in the autophagosome/autolysosome-like or-
+ganelles is indicative of autophagy (klionsky and emr, 2000;
+levine and klionsky, 2004). thus, enzymatic assays for cas-
+pase 3, which is the main executor caspase, and is activated
+by caspase 1, cathepsin b and lysozyme were performed on
+time point during the peak of degeneration in rd/rd (p15),
+rds/rds (p30), and light-damaged (10 days of light-damage)
+retinas. in all three sets of retinas, enzymatic activities were
+increased at least 2-fold (fig. 2).
+4. discussion
+based on recent publications that a model involving only
+caspase-mediated cell death may not be sufﬁcient to explain
+fig. 1. temporal analysis of cell loss and marker gene expression. to correlate marker gene expression with cell loss and apoptosis, retinas from the three different
+models, rd/rd (left-hand column), rds/rds (middle column) and light-damage (right-hand column) were analyzed for morphology (a) and gene expression using
+quantitative rt-pcr (qrt-pcr) (bef). a: photoreceptor cell loss was documented by plotting the thickness of the outer nuclear layer as a percent of the age-
+matched control (red), and the number of tunel-positive cells per area of retina (black). please note that the data for the rd/rd and the rds/rds mouse are replotted
+from portera-caillau and colleagues (portera-cailliau et al., 1994), whereas those for the light-damage mouse model were newly obtained, following the same
+procedures. as shown by clarke and colleagues (clarke et al., 2000), cell loss data can be ﬁtted with an exponential, whereas tunel-labeling has a unique dis-
+tribution. data are expressed as mean values. bef: the temporal expression of a set of marker genes was examined using qrt-pcr on cdna generated from
+whole retina. candidates were examined from the following categories: (b) apoptosis e caspase 1 and birc4; (c) lysosomal protease activity/autophagy e ca-
+thepsin s and lysozyme; (d) oxidative stress e ceruloplasmin and clusterin; (e) neuroinﬂammation e glial ﬁbrillary acidic protein (gfap) and complement-ac-
+tivated lysis e complement component 1qb (c1qb); and (f) metabolism/glycolysis e 6-phospho-fructo-kinase (6-pfk)). to allow for direct comparison with the
+morphological correlate of apoptosis (tunel; in b-e) or photoreceptor cell loss (f), the relevant trace is replotted in each graph (gray). data are expressed as
+mean  sd (n ¼ 3).
+386
+h.r. lohr et al. / experimental eye research 83 (2006) 380e389
+table 2
+comparison of whole retina and onl nuclei using quantitative rt-pcr
+gene investigated
+name
+gene ontology
+birc4
+caspase 1
+c1qb
+ceruloplasmin
+clusterin
+lysozyme
+6-pfk
+apoptosis
+apoptosis
+complement activation
+oxidative stress
+oxidative stress
+autophagy
+metabolism
+p17 rd/rd
+retina
+ÿ6.66  1.26
+3.53  0.65
+3.20  0.46
+1.92  0.43
+2.19  0.48
+4.94  0.22
+ÿ6.66  0.99
+onl
+ÿ4.97  2.09
+3.37  1.36
+8.58  1.73
+1.89  0.80
+0.94  0.00
+23.03  2.73
+ÿ12.5  1.50
+p30 rds/rds
+retina
+ÿ9.34  1.88
+6.08  0.76
+4.99  2.21
+1.79  0.62
+4.49  1.32
+18.92  5.83
+ÿ1.52  0.21
+balb/c 10 day ld
+onl
+ÿ1.34  0.87
+11.17  3.33
+7.55  1.46
+8.56  3.52
+2.71  0.94
+1.24  0.07
+ÿ2.44  0.30
+retina
+ÿ3.08  0.39
+8.04  2.20
+5.14  1.70
+1.80  0.09
+2.85  0.18
+12.60  0.36
+ÿ4.30  0.0
+onl
+ÿ0.51  0.31
+23.53  3.55
+4.50  1.57
+8.57  0.02
+4.25  0.95
+4.36  1.18
+n.d.
+to conﬁrm that the pcr data obtained from the whole retina is a reﬂection of events in the photoreceptors lcm samples were obtained from the outer nuclear layer
+(onl) from p17 rd/rd, p30 rds/rds and 10 day light-damaged retinas. qrt-pcr was performed with a subset of the marker genes selected for the time course
+analysis, revealing good correlation between the two data sets. please note that the apparent difference between levels may be due to the fact that for example in
+a p17 rd/rd retina, the photoreceptors only represent a small portion of the overall number of cells, in comparison to the pure selection of the lcm sample.
+photoreceptor cell death in various photoreceptor dystrophies,
+we set out to further investigate whether and when the cas-
+pase-dependent and caspase-independent events occur during
+the time course of degeneration. we argued that a temporal
+analysis of these different mechanisms would enable us to
+establish a causal relationship between these events. in partic-
+ular, we argued that an event occurring either ahead or in
+parallel with the presence of tunel-positive cells is partici-
+pating in the demise of the photoreceptors, whereas an event
+occurring after the peak of tunel might be in response to
+the presence of dying cells. the second question asked
+whether photoreceptor degeneration in different models of
+photoreceptor dystrophies share a common repertoire of mech-
+anisms and execute cell death by activating the degenerative
+mechanisms in a comparable temporal order. the time course
+data, analyzing gene expression of a number of select marker
+genes for the identiﬁed events, suggests that
+three
+models, apoptosis and complement activation appear to partic-
+ipate in the elimination of photoreceptor cells. autophagy on
+the other hand appears to be involved in photoreceptor degen-
+eration in the rd/rd mouse and during light-damage, whereas
+in the rds/rds mouse this mechanism appears to be involved
+in clearing away the photoreceptor cell debris. in addition, it
+was found that 6-pfk is upregulated early in the process of de-
+generation, suggesting that additional apt is required to coun-
+terbalance the insult
+(e.g., maintain membrane potential,
+remove defective outer segments or adjust photoreceptor outer
+segment lengths), whereas later in degeneration, the drop in 6-
+pfk is either coincidental or precedes photoreceptor cell loss.
+although changes in gene expression are a powerful indicator
+that the activity of the pathways they participate in is altered, it
+has to be kept in mind that changes in gene expression are nei-
+ther sufﬁcient nor required for changes in activity. thus, in fol-
+low-up experiments we will analyze the activities of the
+pathways predicted to be involved, taking our clues from the
+timing established here.
+in all
+according to a recent review (pierce, 2001), there are at
+least four different mechanisms that are involved in photore-
+ceptor degeneration: 1) chronic metabolic overload; 2) disrup-
+tion of os disc morphogenesis; 3) dysfunction of the rpe; and
+4) chronic activation of the phototransduction cascade. it has
+been suggested that apoptosis is the common mediator of
+cell death under all these conditions (reviewed in travis,
+1998). however, our own experiments (rohrer et al., 2004;
+sharma and rohrer, 2004) and those of others suggest that
+other mechanisms such as the activation of calpain (doonan
+et al., 2005), the participation of a neuroinﬂammatory cascade
+(zarbin, 2004), or the involvement of autophagy (guimaraes
+et al., 2003), may play a role in retinal cell death both during
+degeneration and development. thus, the main goal of this
+study was to further characterize this suggested convergence
+of cell death mechanisms. for this purpose we chose three
+models of rod degeneration from three of the four mechanisms
+indicated above; the rd/rd mouse (mechanism 1), the rds/rds
+mouse (mechanism 2), and the light-damage model in albino
+mice (mechanism 4).
+4.1. morphological endpoints of photoreceptor cell loss
+in order to be able to correlate gene expression with mor-
+phological outcomes, cell loss was documented by examining
+the number of rod nuclei and the presence of tunel-positive
+cells over time. as shown by clarke and colleagues (clarke
+et al., 2000), photoreceptor degeneration in rd/rd, rds/rds
+and light-induced photoreceptor cell loss can be described
+by a ‘‘one-hit kinetic model’’, leading to an exponential de-
+cline in the number of cells (see also fig. 1a). in their model,
+it is presumed that the mutant or light-challenged photorecep-
+tors are in a mutant steady state (mss). cell death occurs ran-
+domly in cells after
+the concentration of a presumed
+pathogenic compound x has reached a threshold (summarized
+in (pacione et al., 2003)). differences in the mss would pro-
+duce the different time course of cell loss observed in different
+models. based on the time course of tunel-staining
+(fig. 1a) and the known onset of mss e in the wild type
+mouse b-pde expression starts wp2.5, the peripherin gene
+is expressed as early as p4.5 (mouse retina sage library,
+http://itstgp01.med.harvard.edu/retina/default.asp) and light-
+exposure leads to changes in gene expression within the ﬁrst
+24 h (chen et al., 2003 and fig. 1, right-hand column), in
+light-damage the pathogenic compound x appears to reach
+threshold fastest among the three models studied.
+h.r. lohr et al. / experimental eye research 83 (2006) 380e389
+387
+classically, three different types of cell death have been distin-
+guished: apoptosis, autophagy, and necrosis, as described
+above. however, the boundaries, in particular between autoph-
+agy and apoptosis, have never been clearly deﬁned, due to sig-
+niﬁcant cross talk. for example, cathepsin b has been
+implicated both in the apoptosis-dependent hepatocyte (guic-
+ciardi et al., 2000), 661w (sharma and rohrer, 2004), and rd/
+rd photoreceptor cell death (doonan et al., 2005; sharma and
+rohrer, 2004), as well as in apoptosis-independent photore-
+ceptor cell death (wenzel et al., 2005). in addition, if one of
+the two pathways is inhibited (i.e., by pharmacological inter-
+vention), the cell can still die by using the other mechanism
+(lockshin and zakeri, 2004). thus, cell death seems to involve
+a continuum of mechanisms.
+the early presence of the complement component c1qb in
+all three models is a novel ﬁnding. the complement system is
+part of the immune system. it is one of the major means by
+which the body recognizes foreign antigens and pathogens
+as well as tissue injury, ischemia, apoptosis, and necrosis (re-
+viewed in (bohana-kashtan et al., 2004; fearon and locksley,
+1996; holers, 1995)). the end result of the activation of
+the complement cascade is dependent upon the condition of
+activation, whether lytic or sublytic. the main activity appears
+to be lytic activation leading to the lysis of cells through the
+generation of
+the membrane attack complex. however,
+sublytic activation of the complement cascade can lead to
+the recruitment of inﬂammatory cells, the generation of pro-
+inﬂammatory, pro-thrombotic or pro-ﬁbrotic mediators, the
+enhanced activation of apoptosis and the clearance of apopto-
+tic cells by c1q interacting with c1q receptors. finally,
+sublytic activation may also exert anti-apoptotic effects by
+making cells more resistant to future lytic complement. with-
+out a more detailed analysis of the various complement-
+induced signaling pathways, it is however not possible to
+predict the role of the complement system in mouse photore-
+ceptor degeneration. the ﬁnding is however particularly inter-
+esting in light of the recent ﬁndings that mutations in the
+complement component, factor h, are a key factor in age-
+related macular degeneration (edwards et al., 2005; haines
+et al., 2005; klein et al., 2005).
+4.3. why caspase-dependent mechanisms aren’t enough
+although there is clear evidence that apoptotic mechanisms
+are involved in photoreceptor cell death (reviewed in travis,
+1998), they seem not to be sufﬁcient to account for all the
+cell loss occurring in the mouse models of photoreceptor dys-
+trophies. yoshizawa and coworkers (yoshizawa et al., 2002)
+demonstrated that caspase-3 inhibitors only delayed photore-
+ceptor degeneration in c3h mice carrying the rd gene. like-
+wise, the over-expression of bcl-2 in photoreceptors did not
+prevent or ameliorate photoreceptor degeneration (joseph
+and li, 1996). this in-vivo data is consistent with our ﬁndings
+in a cell culture model of the rd/rd photoreceptor (calcium-
+ionophore stimulated 661w photoreceptors) that shows that
+cell death is only transiently inhibited by the caspase 3 inhib-
+itor (sharma and rohrer, 2004).
+fig. 2. enzyme activity assays. enzymatic assays were performed on retina ex-
+tracts from the late stage of degeneration (p17 rd/rd; p30 rds/rds; and 10 days
+of light-damage). in all three sets of retinas, apoptosis mediated by caspase 3
+and autophagy mediated by cathepsin b and lysozyme was conﬁrmed. enzyme
+activities were expressed in relative ﬂuorescence units (rfu) per milligram of
+protein per each sample. data are expressed as mean  sd (n ¼ 3).
+4.2. common mechanisms of photoreceptor
+degeneration
+eight or nine time points in the progression of degeneration
+were picked for each model and gene expression was com-
+pared using quantitative rt-pcr. the temporal relationship
+between these processes suggest ﬁrst, that the upregulation
+of oxidative stress genes as well as an increase in glycolysis
+are early markers of photoreceptor degeneration; and second,
+that autophagy (with the exception of the rds/rds model), com-
+plement-mediated lysis and neuroinﬂammation appear to par-
+ticipate actively in the demise of the photoreceptors, rather
+than representing a secondary response to the presence of dy-
+ing photoreceptors.
+the presence of oxidative stress genes in the three models
+was to be expected (see below). altered metabolism has been
+demonstrated in both the rcs rat (graymore, 1964) and the
+rd/rd mouse. in the rd/rd mouse, metabolism, as judged by ox-
+ygen consumption, glucose utilization, lactic acid production
+and ldh5 activity, was increased prior to p12, followed by
+a rapid decrease (acosta et al., 2005; blanks et al., 1974;
+noell, 1965). thus, here we have conﬁrmed the time course
+of altered metabolism in the rd/rd mouse using a different
+marker (6-pfk expression, a key enzyme in glucose metabo-
+lism), which not only extends the data on altered metabolism
+in the rd/rd mouse, but also validates its choice as a marker for
+altered metabolism in the other two models.
+the presence of markers for apoptosis, autophagy, comple-
+ment-mediated lysis and neuroinﬂammation during the pres-
+ence of tunel-labeled cells, or even preceding the phase
+of tunel-labeling, further supports the notion that caspases
+are no longer the sole executioners of apoptosis (e.g., doonan
+et al., 2005; guicciardi et al., 2000; wenzel et al., 2005).
+388
+h.r. lohr et al. / experimental eye research 83 (2006) 380e389
+the requirement for additional mechanisms other then cas-
+pase-mediated apoptosis in the demise of the rds/rds photore-
+ceptors was also suggested by experiments demonstrating that
+although these photoreceptors express caspase 3 (hughes
+et al., 2004) (see table 2), their degeneration can only be de-
+layed, but not prevented by bcl-2 over-expression (nir et al.,
+2000).
+the presence of caspase-mediated mechanisms in light-
+induced photoreceptor degeneration has been unclear. it is
+agreed that rod degeneration in response to continuous light-ex-
+posure appears to involve apoptosis (i.e., photoreceptors are
+positive for tunel); yet li and colleagues (li et al., 2003) re-
+ported that caspase-3 is not up-regulated at the protein level and
+experiments by donovan and colleagues suggests that caspase-
+3 activity may not be increased during light-damage (donovan
+et al., 2001). however, both groups use rhodopsin-independent,
+bright light-induced photoreceptor degeneration, whereas the
+results reported here are from rhodopsin-dependent, moderate
+light-exposed animals, further conﬁrming the difference be-
+tween these two models (hao et al., 2002).
+taken together, our data suggests that irrespective of which
+event triggers rod photoreceptor cell death, whether a genetic
+defect or an environmental insult, the ﬁrst response represents
+an upregulation of stress genes and an apparent increase in
+glucose metabolism, to potentially provide sufﬁcient atp to
+maintain cellular homeostasis. after a certain delay, the time
+which is speciﬁc to each photoreceptor dystrophy model,
+cell death is initiated, which may involve multiple death path-
+ways
+such as apoptosis, autophagy, and complement-
+mediated lysis. the presence of this complex set of pathways
+clearly provides a signiﬁcant challenge to the identiﬁcation of
+treatment strategies for
+the prevention of photoreceptor
+degeneration.
+acknowledgements
+we thank drs. debora farber and gabriel travis for the rd/
+rd and rds/rds mice, respectively, craig crosson for helpful
+discussions and luanna bartholomew for editorial assistance.
+we wish to acknowledge use of the laser capture micro-
+dissection facility of the hollings cancer center tumor
+bank, supported by doe/ofﬁce of science and nih grant
+de-fg02-01er63121.
+references
+acosta, m.l., fletcher, e.l., azizoglu, s., foster, l.e., farber, d.b.,
+kalloniatis, m., 2005. early markers of retinal degeneration in rd/rd
+mice. mol. vis. 11, 717e728.
+adams, j.m., 2003. ways of dying: multiple pathways to apoptosis. genes
+dev. 17, 2481e2495.
+adamus, g., ortega, h., witkowska, d., polans, a., 1994. recovering: a potent
+uveitogen for the induction of photoreceptor degeneration in lewis rats.
+exp. eye res. 59, 447e455.
+akiyama, h., barger, s., barnum, s., bradt, b., bauer, j., cole, g.m.,
+cooper, n.r., eikelenboom, p., emmerling, m., fiebich, b.l.,
+finch, c.e., frautschy, s., grifﬁn, w.s., hampel, h., hull, m.,
+landreth, g., lue, l., mrak, r., mackenzie,
+i.r., mcgeer, p.l.,
+o’banion, m.k., pachter, j., pasinetti, g., plata-salaman, c., rogers, j.,
+rydel, r., shen, y., streit, w., strohmeyer, r., tooyoma, i., van
+muiswinkel, f.l., veerhuis, r., walker, d., webster, s., wegrzyniak, b.,
+wenk, g., wyss-coray, t., 2000. inﬂammation and alzheimer’s disease.
+neurobiol. aging 21, 383e421.
+arnaud, p., gianazza, e., miribel, l., 1988. ceruloplasmin. methods enzymol.
+163, 441e452.
+blanks, j.c., adinolﬁ, a.m., lolley, r.n., 1974. photoreceptor degeneration
+and synaptogenesis in retinal-degenerative (rd) mice. j. comp. neurol.
+156, 95e106.
+bohana-kashtan, o., ziporen, l., donin, n., kraus, s., fishelson, z., 2004.
+cell signals transduced by complement. mol. immunol. 41, 583e597.
+chen, l., dentchev, t., wong, r., hahn, p., wen, r., bennett, j., dunaief, j.l.,
+2003. increased expression of ceruloplasmin in the retina following photic
+injury. mol. vis. 9, 151e158.
+clarke, g., collins, r.a., leavitt, b.r., andrews, d.f., hayden, m.r.,
+lumsden, c.j., mcinnes, r.r., 2000. a one-hit model of cell death in in-
+herited neuronal degenerations. nature 406, 195e199.
+cohen, a.i., 1983. some cytological and initial biochemical observations on
+photoreceptors in retinas of rds mice. invest. ophthalmol. vis. sci. 24,
+832e843.
+danial, n.n., korsmeyer, s.j., 2004. cell death: critical control points. cell
+116, 205e219.
+deveraux, q.l., takahashi, r., salvesen, g.s., reed, j.c., 1997. x-linked iap
+is a direct inhibitor of cell-death proteases. nature 388, 300e304.
+donovan, m., carmody, r.j., cotter, t.g., 2001. light-induced photoreceptor ap-
+optosis in vivo requires neuronal nitric-oxide synthase and guanylate cyclase
+activity and is caspase-3-independent. j. biol. chem. 276, 23000e23008.
+doonan, f., donovan, m., cotter, t.g., 2005. activation of multiple pathways
+during photoreceptor apoptosis in the rd mouse. invest. ophthalmol. vis.
+sci. 46, 3530e3538.
+edwards, a.o., ritter 3rd, r., abel, k.j., manning, a., panhuysen, c.,
+farrer, l.a., 2005. complement factor h polymorphism and age-related
+macular degeneration. science 308, 421e424.
+enari, m., hug, h., nagata, s., 1995. involvement of an ice-like protease in
+fas-mediated apoptosis. nature 375, 78e81.
+faktorovich, e.g., steinberg, r.h., yasumura, d., matthes, m.t.,
+lavail, m.m., 1992. basic ﬁbroblast growth factor and local
+injury
+protect photoreceptors from light damage in the rat. j. neurosci. 12,
+3554e3567.
+farber, d.b., 1995. from mice to men: the cyclic gmp phosphodiesterase
+gene in vision and disease. the proctor lecture. invest. ophthalmol.
+vis. sci. 36, 263e275.
+farber, d.b., lolley, r.n., 1974. cyclic guanosine monophosphate: elevation
+in degenerating photoreceptor cells of the c3h mouse retina. science 186,
+449e451.
+fearon, d.t., locksley, r.m., 1996. the instructive role of innate immunity in
+the acquired immune response. science 272, 50e53.
+fox, d.a., poblenz, a.t., 1999. calcium overload triggers rod photoreceptor
+apoptotic cell death in chemical-induced and inherited retinal degenera-
+tions. ann. n.y. acad. sci. 893, 282e285.
+graymore, c., 1964. possible signiﬁcance of the isoenzymes of lactic dehydro-
+genase in the retina of the rat. nature 201, 615e616.
+guicciardi, m.e., deussing, j., miyoshi, h., bronk, s.f., svingen, p.a.,
+peters, c., kaufmann, s.h., gores, g.j., 2000. cathepsin b contributes
+to tnf-alpha-mediated hepatocyte apoptosis by promoting mitochondrial
+release of cytochrome c. j. clin. invest. 106, 1127e1137.
+guimaraes, c.a., benchimol, m., amarante-mendes, g.p., linden, r., 2003.
+alternative programs of cell death in developing retinal tissue. j. biol.
+chem. 278, 41938e41946.
+haines, j.l., hauser, m.a., schmidt, s., scott, w.k., olson, l.m., gallins, p.,
+spencer, k.l., kwan, s.y., noureddine, m., gilbert, j.r., schnetz-
+boutaud, n., agarwal, a., postel, e.a., pericak-vance, m.a., 2005.
+complement factor h variant increases the risk of age-related macular
+degeneration. science 308, 419e421.
+hao, w., wenzel, a., obin, m.s., chen, c.k., brill, e., krasnoperova, n.v.,
+eversole-cire, p., kleyner, y., taylor, a., simon, m.i., grimm, c.,
+h.r. lohr et al. / experimental eye research 83 (2006) 380e389
+389
+reme, c.e., lem, j., 2002. evidence for two apoptotic pathways in light-
+induced retinal degeneration. nat. genet. 32, 254e260.
+harada, t., harada, c., nakayama, n., okuyama, s., yoshida, k., kohsaka, s.,
+matsuda, h., wada, k., 2000. modiﬁcation of glial-neuronal cell interac-
+tions prevents photoreceptor apoptosis during light-induced retinal degen-
+eration. neuron 26, 533e541.
+he, l., poblenz, a.t., medrano, c.j., fox, d.a., 2000. lead and calcium
+produce rod photoreceptor cell apoptosis by opening the mitochondrial
+permeability transition pore. j. biol. chem. 275, 12175e12184.
+holers, v.m., 1995. complement. in: rich, r. (ed.), principles and practices
+of clinical immunology. mosby, st, louis, pp. 363e391.
+hughes, e.h., schlichtenbrede, f.c., murphy, c.c., broderick, c., van
+rooijen, n., ali, r.r., dick, a.d., 2004. minocycline delays photorecep-
+tor death in the rds mouse through a microglia-independent mechanism.
+exp. eye res. 78, 1077e1084.
+joseph, r.m., li, t., 1996. overexpression of bcl-2 or bcl-xl transgenes
+and photoreceptor degeneration. invest.ophthalmol. vis. sci. 37, 2434e2446.
+kalka, k., ahmad, n., criswell, t., boothman, d., mukhtar, h., 2000. up-
+regulation of clusterin during phthalocyanine 4 photodynamic therapy-
+mediated apoptosis of tumor cells and ablation of mouse skin tumors.
+cancer res. 60, 5984e5987.
+klein, r.j., zeiss, c., chew, e.y., tsai, j.y., sackler, r.s., haynes, c.,
+henning, a.k., sangiovanni,
+j.p., mane, s.m., mayne, s.t.,
+bracken, m.b., ferris, f.l., ott, j., barnstable, c., hoh, j., 2005. comple-
+ment factor h polymorphism in age-related macular degeneration. science
+308, 385e389.
+klionsky, d.j., emr, s.d., 2000. autophagy as a regulated pathway of cellular
+degradation. science 290, 1717e1721.
+lavail, m.m., kumar, n.n., gorrin, g.m., yasumura, d., matthes, m.t.,
+1999. age and monocular enucleation as potential determinants of light
+damage in the mouse retina.
+in: hollyﬁeld, j.g., anderson, r.e.,
+lavail, m.m. (eds.), retinal degenerative diseases and experimental
+therapy. plenum press, new york, pp. 317e324.
+levine, b., klionsky, d.j., 2004. development by self-digestion: molecular
+mechanisms and biological functions of autophagy. dev. cell 6, 463e477.
+li, f., cao, w., anderson, r.e., 2003. alleviation of constant-light-induced
+photoreceptor degeneration by adaptation of adult albino rat to bright
+cyclic light. invest. ophthalmol. vis. sci. 44, 4968e4975.
+liang, h., fesik, s.w., 1997. three-dimensional structures of proteins
+involved in programmed cell death. j. mol. biol. 274, 291e302.
+lockshin, r.a., zakeri, z., 2004. apoptosis, autophagy, and more. int. j.
+biochem. cell biol. 36, 2405e2419.
+mitas, m., mikhitarian, k., walters, c., baron, p.l., elliott, b.m.,
+brothers, t.e., robison, j.g., metcalf, j.s., palesch, y.y., zhang, z.,
+gillanders, w.e., cole, d.j., 2001. quantitative real-time rt-pcr detec-
+tion of breast cancer micrometastasis using a multigene marker panel.
+int. j. cancer 93, 162e171.
+morgan, b.p., meri, s., 1994. membrane proteins that protect against comple-
+ment lysis springer semin. immunopathol. 15, 369e396.
+nicholson, d.w., thornberry, n.a., 1997. caspases: killer proteases. trends
+biochem. sci. 22, 299e306.
+nicotera, p., leist, m., ferrando-may, e., 1999. apoptosis and necrosis: differ-
+ent execution of the same death. biochem. soc. symp. 66, 69e73.
+nir, i., kedzierski, w., chen, j., travis, g.h., 2000. expression of bcl-2 pro-
+tects against photoreceptor degeneration in retinal degeneration slow (rds)
+mice. j. neurosci. 20, 2150e2154.
+noell, w.k., 1965. aspects of experimental and hereditary retinal degenera-
+tion. in: graymore, c.n. (ed.), biochemistry of the retina. academic
+press, london, pp. 51e72.
+osaki, s., johnson, d.a., frieden, e., 1966. the possible signiﬁcance of the
+ferrous oxidase activity of ceruloplasmin in normal human serum.
+j. biol. chem. 241, 2746e2751.
+pacione, l.r., szego, m.j., ikeda, s., nishina, p.m., mcinnes, r.r., 2003.
+progress toward understanding the genetic and biochemical mechanisms
+of
+inherited photoreceptor degenerations. annu. rev. neurosci. 26,
+657e700.
+pannicke, t., uckermann, o., iandiev, i., wiedemann, p., reichenbach, a.,
+bringmann, a., 2005. ocular inﬂammation alters swelling and mem-
+brane characteristics of rat muller glial cells. j. neuroimmunol. 161,
+145e154.
+penn, j.s., anderson, r.e., 1992. effects of light history on the rat retina. in:
+osborne, n.n., chader, g. (eds.), progress in retinal research. pergamon
+press, new york, pp. 75e98.
+pierce, e.a., 2001. pathways to photoreceptor cell death in inherited retinal
+degenerations. bioessays 23, 605e618.
+portera-cailliau, c., sung, c.h., nathans, j., adler, r., 1994. apoptotic pho-
+toreceptor cell death in mouse models of retinitis pigmentosa. proc. natl.
+acad. sci. usa 91, 974e978.
+reme, c.e., wolfrum, u., imsand, c., hafezi, f., williams, t.p., 1999.
+photoreceptor autophagy: effects of light history on number and opsin
+content of degradative vacuoles.
+invest. ophthalmol. vis. sci. 40,
+2398e2404.
+rider, m.h., bertrand, l., vertommen, d., michels, p.a., rousseau, g.g.,
+hue, l., 2004. 6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase:
+head-to-head with a bifunctional enzyme that controls glycolysis.
+biochem. j. 381, 561e579.
+rohrer, b., korenbrot, j.i., lavail, m.m., reichardt, l.f., xu, b., 1999. role
+of neurotrophin receptor trkb in the maturation of rod photoreceptors and
+establishment of synaptic transmission to the inner retina. j. neurosci. 19,
+8919e8930.
+rohrer, b., matthes, m.t., lavail, m.m., reichardt, l.f., 2003. lack of p75
+receptor does not protect photoreceptors from light-induced cell death.
+exp. eye res. 76, 125e129.
+rohrer, b., pinto, f.r., hulse, k.e., lohr, h.r., zhang, l., almeida, j.s.,
+2004. multidestructive pathways triggered in photoreceptor cell death of
+the rd mouse as determined through gene expression proﬁling. j. biol.
+chem. 279, 41903e41910.
+sanyal, s., de ruiter, a., hawkins, r.k., 1980. development and degenera-
+tion of retina in rds mutant mice: light microscopy. j. comp. neurol.
+194, 193e207.
+sharma, a.k., rohrer, b., 2004. calcium-induced calpain mediates apoptosis
+via caspase-3 in a mouse photoreceptor cell line. j. biol. chem. 279,
+35564e35572.
+stone, j., maslim, j., valter-kocsi, k., mervin, k., bowers, f., chu, y.,
+barnett, n., provis, j., lewis, g., fisher, s.k., bisti, s., gargini, c.,
+cervetto, l., merin, s., peer, j., 1999. mechanisms of photoreceptor
+death and survival
+in mammalian retina. prog. retin. eye res. 18,
+689e735.
+travis, g.h., 1998. mechanisms of cell death in the inherited retinal degener-
+ations. am. j. hum. genet. 62, 503e508.
+travis, g.h., brennan, m.b., danielson, p.e., kozak, c.a., sutcliffe, j.g.,
+1989.
+identiﬁcation of a photoreceptor-speciﬁc mrna encoded by
+the gene responsible for retinal degeneration slow (rds). nature 338,
+70e73.
+van nie, r., ivanyi, d., demant, p., 1978. a new h-2-linked mutation, rds,
+causing retinal degeneration in the mouse. tissue antigens 12, 106e108.
+wenzel, a., grimm, c., samardzija, m., reme, c.e., 2005. molecular
+mechanisms of light-induced photoreceptor apoptosis and neuroprotection
+for retinal degeneration. prog. retina eye res. 24, 275e306.
+winkler, b.s., 1981. glycolytic and oxidative metabolism in relation to retinal
+function. j. gen. physiol. 77, 667e692.
+yoshizawa, k., kiuchi, k., nambu, h., yang, j., senzaki, h., kiyozuka, y.,
+shikata, n., tsubura, a., 2002. caspase-3 inhibitor transiently delays in-
+herited retinal degeneration in c3h mice carrying the rd gene. graefes
+arch. clin. exp. ophthalmol 240, 214e219.
+young, r.w., 1984. cell death during differentiation of the retina in the
+mouse. j. comp. neurol 229, 362e373.
+zarbin, m.a., 2004. current concepts in the pathogenesis of age-related mac-
+ular degeneration. arch. ophthalmol 122, 598e614.
+zhang, c., shen, j.k., lam, t.t., zeng, h.y., chiang, s.k., yang, f.,
+tso, m.o., 2005. activation of microglia and chemokines in light-induced
+retinal degeneration. mol. vis. 11, 887e895. f.

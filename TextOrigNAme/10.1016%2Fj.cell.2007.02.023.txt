@@ -1,0 +1,408 @@
+leading edge
+minireview
+autophagy: paying charon’s toll
+tamotsu yoshimori1,2,*
+1department of cell regulation, research institute for microbial diseases, osaka university, 3-1 yamadaoka, suita-osaka 565-
+0871, japan
+2crest, japan science and technology agency, kawaguchi-saitama 332-0012, japan
+*correspondence: tamyoshi@biken.osaka-u.ac.jp
+doi 10.1016/j.cell.2007.02.023
+autophagy (literally self-eating) has diverse cytoprotective functions but also is linked 
+to  programmed  cell  death  (pcd).  in  this  issue,  qu  et  al.  (2007)  analyze  the  role  of 
+autophagy in pcd during development. unexpectedly they find that autophagy induces 
+apoptotic cells to present a signal to ensure their clearance, which is crucial for mouse 
+embryonic morphogenesis.
+macroautophagy  (herein  referred  to  as  autophagy)  is 
+a  unique  form  of  membrane  trafficking  in  which  mem-
+brane  compartments  (autophagosomes)  engulf  both 
+organelles  and  cytosolic  macromolecules  and  deliver 
+them to the lysosome/vacuole for degradation (reviewed 
+in  mizushima,  2005).  although  electron  microscopists 
+first recognized the process in animal tissues in the early 
+1960s, it took 30 years to decipher the molecular com-
+ponents  of  this  curious  phenomenon.  groundbreaking 
+studies in yeast have identified over 20 autophagy-related 
+(atg) genes and have shed light on the molecular com-
+ponents of autophagy (reviewed in yorimitsu and klion-
+sky, 2005). in yeast, the primary function of autophagy 
+is to maintain viability during times of starvation. many 
+of  the  atg  genes  are  conserved  in  metazoans  includ-
+ing mammals, and extensive studies during the last ten 
+years have unexpectedly revealed a pleiotropic role for 
+autophagy in the protection and maintenance of cellu-
+lar life as well as in response to starvation (mizushima, 
+2005). on the other hand, a large body of evidence indi-
+cates  a  link  between  autophagy  and  programmed  cell 
+death (pcd) (reviewed in levine and yuan, 2005). this 
+minireview will briefly summarize our current knowledge 
+about  the  role  of  autophagy  in  animals  in  cellular  life 
+and death and will introduce a new function: to provide 
+apoptotic  cells  with  a  signal  to  ensure  their  clearance 
+in morphogenesis during development (qu et al., 2007). 
+this function is reminiscent of a story in greek mythol-
+ogy where a coin is placed in the mouth or hand of the 
+dead to pay charon for ferrying the spirit across the river 
+styx to the elysian fields.
+autophagy, a cellular guardian
+in mammals, severe starvation at birth, due to loss of the 
+placental nutrient supply, induces autophagy in various 
+neonatal tissues, such as heart, lung, and pancreas. in 
+the absence of atg5, which is required for autophago-
+some  formation,  mice  do  not  survive  neonatal  starva-
+tion  and  die  within  a  day  after  birth,  suggesting  that 
+autophagy is essential to overcome starvation (kuma et 
+al., 2004). in vitro, starvation usually induces apoptosis 
+low 
+in normal mammalian cells. however, cells that respond 
+to  il3—an  interleukin  that  directs  the  uptake  of  extra-
+cellular nutrients into cells—and lack the apoptotic pro-
+teins bax and bak can survive even for several weeks in 
+the absence of il3. autophagy is indispensable for this 
+long period of survival because small interfering (si)rna 
+against atg7 decreased the viability of these cells (lum 
+et al., 2005). how does autophagy antagonize nutrient 
+starvation?  perhaps,  the  products  of  self-degradation 
+in lysosomes, such as amino acids, support the tricar-
+boxylic acid (tca) cycle to generate atp necessary for 
+maintaining cell viability.
+animal  cells  exhibit 
+levels  of  constitutive 
+autophagy even under normal dietary conditions. what 
+is  the  role  of  this  basal  autophagy?  two  independent 
+studies  using  conditional  knockout  mice  whose  brains 
+lacked  atg5  and  atg7,  respectively,  demonstrated  that 
+absence of this basal autophagy in brain tissue caused 
+neurodegenerative  disease  (hara  et  al.,  2006;  kom-
+atsu et al., 2006). although these mice are not geneti-
+cally prone to the disease, cytoplasmic inclusion bodies 
+accumulated  in  their  neurons.  thus,  basal  autophagy 
+is probably critical for clearance of spontaneously and 
+constitutively  generated  misfolded  proteins.  further-
+more,  accumulating  evidence  strongly  suggests  that 
+both  autophagy  and  the  proteasome  defend  neurons 
+against aggregate-prone toxic mutant proteins (such as 
+expanded polyglutamine-containing proteins) that cause 
+neurodegenerative  disease.  in  this  case,  autophagy 
+seems to selectively degrade abnormal proteins in con-
+trast to basal and starvation-induced autophagy, which 
+is  thought  to  be  nonselective.  this  function  is  not  lim-
+ited to nerve cells—the α1-antitrypsin z mutant protein, 
+which  accumulates  in  the  endoplasmic  reticulum  (er) 
+of liver cells and causes liver degeneration, is targeted 
+by autophagosomes. in atg5-deficient cells, this mutant 
+protein  was  not  degraded  efficiently  and  accumulated 
+in large inclusion bodies that were observed at a lower 
+frequency in wild-type cells (kamimoto et al., 2006).
+the function of autophagy in animals extends beyond 
+the  original  definition  of  this  process,  self-eating.  the 
+cell 128, march 9, 2007 ©2007 elsevier inc.  833
+autophagic  machinery  is  applied  to  cellular  defense 
+against  invasive  pathogens,  which  are,  of  course,  not 
+intrinsic  components  of  cells.  for  example,  group  a 
+streptococcus enters host cells via the endocytic path-
+way  and  escapes  from  endosomes  into  the  cytoplasm 
+to  avoid  lysosomal  degradation.  however,  appearance 
+of  the  bacteria  in  the  cytoplasm  triggers  specialized 
+autophagy,  which  selectively  sequesters  and  kills  the 
+bacteria (nakagawa et al., 2004). some pathogens have 
+acquired  the  ability  to  circumvent  or  hijack  autophagy 
+to  survive  within  cells.  autophagy  against  unwelcome 
+guests such as pathogens is another example of selec-
+tive autophagy. therefore, autophagy may have evolved 
+in  higher  eukaryotes  as  an  active  defense  system.  in 
+addition  to  innate  immunity,  autophagy  also  partici-
+pates  in  adaptive  immunity.  some  cytosolic  antigens 
+are sequestered and degraded by autophagy and then 
+processed for presentation on mhc class ii molecules 
+(reviewed in mizushima, 2005). also, autophagic elimi-
+nation of superfluous organelles including peroxisomes, 
+mitochondoria, and the er maintains cellular homeosta-
+sis. developmental and anti-aging functions have been 
+also suggested for autophagy (mizushima, 2005).
+autophagy as pluto
+autophagy  is  a  remarkable  feature  of  certain  forms  of 
+nonapoptotic  pcd  termed  autophagic  cell  death  or 
+type  ii  cell  death  (levine  and  yuan,  2005).  the  term 
+autophagic cell death may have misled people into think-
+ing that autophagy triggers pcd. the term merely rep-
+resents the fact that a large number of autophagosomes 
+are observed in dying cells. is autophagy responsible for 
+cell death or is it induced to resist ongoing death? or is 
+autophagy merely a scavenger that clears cellular con-
+tent prior to death to relieve phagocytes?
+pharmacological  approaches  in  several  in  vitro  sys-
+tems  have  advocated  that  autophagy  executes  pcd. 
+however, 3-methyladenine (3-ma), the autophagy inhib-
+itor used in these experiments, inhibits not only class iii 
+pi3-kinase—which is essential in autophagosome forma-
+tion—but also other classes of pi3-kinases and has side 
+effects at the higher concentrations used for autophagy 
+inhibition (levine and yuan, 2005). given that a specific 
+inhibitor  of  autophagy  does  not  exist,  genetic  strate-
+gies such as loss of functions are the best approach to 
+analyze the involvement of autophagy in pcd. the first 
+experiment demonstrating the involvement of autophagy 
+in  cell  death  was  performed  in  mouse  l929  fibroblas-
+tic cells treated with zvad, a caspase 8 inhibitor, which 
+induces  nonapoptotic  death  in  this  cell  line  (yu  et  al., 
+2004). rnai-mediated knockdown of atg7 or beclin-1—
+a mammalian homolog of vps30/atg6 that is a compo-
+nent of class iii pi3-kinase—reduced cell death induced 
+by zvad in these cells. treatment with zvad also caused 
+selective  autophagic  degradation  of  catalase,  which 
+resulted in the accumulation of reactive oxygen species 
+leading to cell death (yu et al., 2006). a remaining ques-
+tion is how catalase is recognized and why autophagy 
+834  cell 128, march 9, 2007 ©2007 elsevier inc.
+does  not  target  this  enzyme  under  normal  conditions. 
+furthermore,  cell  death  induced  by  chemicals  such 
+as  etoposide  occurred  via  autophagy  in  cells  deficient 
+for apoptotic proteins bax and bak. this death did not 
+occur  when  atg5  and  beclin-1  were  silenced  (shimizu 
+et  al.,  2004).  it  was  reported  recently  that  autophagy 
+acts upstream of apoptosis in death signaling induced 
+by hiv envelope glycoproteins in uninfected bystander 
+cd4 t lymphocytes because rnai of beclin-1 and atg7 
+inhibited the apoptotic process (espert et al., 2006). the 
+results  suggest  that  autophagy  can  trigger  cell  death 
+under specific conditions.
+meanwhile,  there  is  evidence  suggesting  that  atg5 
+is  a  bifunctional  molecule  involved  in  both  autophagy 
+and pcd. atg5 was shown to play a crucial role in ifn-
+γ-induced  cell  death  in  hela  cells  through  interaction 
+with fas-associated protein with death domain (fadd). 
+however, rnai of fadd inhibited the atg5-mediated cell 
+death but did not inhibit formation of autophagosomes 
+(pyo  et  al.,  2005).  thus,  not  autophagy  itself  but  atg5 
+plays  a  role  in  the  signaling.  it  was  also  demonstrated 
+that  various  apoptotic  stimuli  caused  calpain-medi-
+ated  cleavage  of  atg5.  this  truncated  product  bound 
+to  antiapoptotic  protein  bcl-xl  in  mitochondoria  and 
+triggered  apoptosis  (yousefi  et  al.,  2006).  again,  atg5 
+functioned as a pro-death factor independent of its role 
+in autophagy.
+excessive  nonselective  autophagy  may  cause  cell 
+death  by  degrading  cellular  components  essential  for 
+cell viability or by degrading inhibitors of pcd, such as 
+antiapoptotic factors. indeed, two studies support this 
+possibility. beclin-1 was originally identified as a protein 
+binding to antiapoptotic bcl-2 protein, and bcl-2 nega-
+tively  regulates  autophagy  by  binding  to  beclin-1  (pat-
+tingre  et  al.,  2005).  intriguingly,  expression  of  beclin-1 
+mutants that cannot bind to bcl-2 induced a higher level 
+of  autophagy  than  the  level  observed  under  starvation 
+even  under  nutrient-rich  conditions  (pattingre  et  al., 
+2005).  this  mutant  also  simultaneously  promoted  cell 
+death. a high level of autophagy also could be achieved 
+in fly tissues by overexpression of atg1, a ser-thr kinase 
+that regulates autophagy, and this led to apoptotic cell 
+death (scott et al., 2007). in both cases, cell death was 
+blocked by atg5 rnai or in an atg8a mutant background, 
+respectively, which means that these forms of cell death 
+were probably due to higher levels of autophagy itself, 
+and not simply to beclin-1 or atg1.
+taken together, it is clear that autophagy can trigger 
+cell death in certain contexts including inhibition of apop-
+tosis, viral protein expression, and the presence of high 
+levels of autophagy. in addition, atg5 may link autophagy 
+to pcd. the situation in vivo is still unclear. autophagy 
+might contribute to immunodeficiency in an hiv-infected 
+animal.  in  normal  animals,  does  cell  death  induced  by 
+autophagy  have  any  physiological  significance?  when 
+autophagy  functions  as  a  cytoprotective  mechanism, 
+how do cells control its levels? currently the connection 
+between cell death and autophagy remains cryptic.
+figure 1. the many functions of autophagy
+autophagy has many protective roles but may also be involved in programmed cell death. qu et al. (2007) now show that autophagy, through the 
+production of atp, is important for presenting a signal (phosphatidylserine) on an apoptotic cell to ensure its clearance. this appears to be important 
+in morphogenesis during early mouse embryonic development.
+autophagy pays charon’s toll
+autophagy  is  prominent  in  pcd  during  developmental 
+processes  such  as  lumen  formation  in  some  organs. 
+however, as discussed above, if autophagy contributes 
+to this pcd, it could do so in a variety of ways. to under-
+stand  the  role  of  autophagy  in  pcd  associated  with 
+morphogenesis, qu et al. (2007) used an in vitro system 
+that  mimics  the  formation  of  the  proamniotic  cavity  in 
+the  early  mouse  embryo.  embryonic  cavitation  can  be 
+recapitulated  in  vitro  in  embryoid  bodies  (ebs)  formed 
+by  culturing  mouse  embryonic  stem  (es)  cells  in  the 
+absence  of  feeder  cells  and  leukemia-inhibitory  factor. 
+ebs are cell aggregates consisting of an outer endoder-
+mal cell layer and an inner ectodermal cell core. during 
+cavitation,  inner  cells  die  by  apoptosis,  and  neighbor-
+ing cells remove the dead cells by phagocytosis to form 
+a  cavity.  inner  ectodermal  cells  in  ebs  from  knockout 
+mice lacking beclin-1 or atg5 underwent apoptosis nor-
+mally but could not be eliminated because they were not 
+engulfed by neighboring cells. it is known that phagocy-
+tosis of apoptotic cells depends on signals from these 
+cells  including  exposure  of  phosphatidylserine  on  the 
+cell  surface  and  secretion  of  lysophosphatidylcholine. 
+beclin-1-  or  atg5-deficient  inner  ectodermal  cells  in 
+ebs  failed  to  produce  these  signals  efficiently.  thus, 
+autophagy  is  dispensable  for  apoptosis  during  embry-
+onic cavitation but essential for presentation of the sig-
+nal by apoptotic cells, which is crucial for their clearance 
+to form the embryonic cavity.
+qu  et  al.  further  demonstrated  that  atp  levels  were 
+significantly  lower  in  es  cells  lacking  autophagic  abil-
+ity.  addition  of  methylpyruvate—a  cell-permeable  form 
+of pyruvate serving as a substrate for the tca cycle— 
+rescued  the  defect  in  generating  the  signal  and  thus 
+restored the clearance of apoptotic cells. together with 
+the observation that autophagy is induced in inner ecto-
+dermal  cells  during  eb  development,  they  concluded 
+that  autophagy  induced  in  cells  undergoing  apoptosis 
+produced atp to generate the signal for being engulfed. 
+finally, they showed an increase in the number of apop-
+totic cells and a decrease in the number of engulfed cells 
+in the retina and lung of atg5 knockout mice embryos, 
+suggesting that autophagy helps clear apoptotic cells in 
+vivo as well.
+a  new  item  is  now  added  to  the  growing  list  of  the 
+functions of autophagy, which is neither cytoprotective 
+nor pro-cell death but contributes to development (fig-
+ure 1). this exciting finding brings up a number of issues. 
+why  is  autophagy  required  for  atp  generation  in  ebs 
+despite  cavitation  in  nutrient-rich  conditions?  perhaps 
+this  is  due  to  the  lack  of  signal  transduction  pathways 
+essential for nutrient uptake in the inner cells. interest-
+ingly,  autophagy  was  not  required  for  phosphatidyl-
+serine  exposure  in  single  es  cell  cultures  treated  with 
+apoptosis inducers such as etoposide (qu et al., 2007). 
+thus,  the  regulation  of  phosphatidylserine  exposure  in 
+es cells changes in the three-dimensional architecture 
+of cells and/or during development. the atp-dependent 
+mechanism for phosphatidylserine exposure in ebs is an 
+enigma.  in  the  final  stage  of  erythropoiesis,  nuclei  are 
+expelled from erythroid precursor cells and engulfed by 
+macrophages.  the  released  nuclei  expose  phosphati-
+dylserine  to  be  engulfed  (yoshida  et  al.,  2005).  phos-
+phatidylserine is normally confined to the inner leaflet of 
+the plasma membrane by action of an atp-dependent 
+aminophospholipid translocase that translocates phos-
+phatidylserine from the outer leaflet to the inner leaflet. 
+as the expelled nuclei contains an undetectable level of 
+atp and a higher level of ca2+, it has been hypothesized 
+that the aminophospholipid translocase becomes inac-
+tive, while the activated ca2+-dependent scramblase ran-
+domizes lipids across the bilayer. this causes a shift in 
+the lipid composition of the membrane with more phos-
+phatidylserine in the outer leaflet (yoshida et al., 2005). 
+thus, in contrast with qu et al., lower levels of atp cor-
+respond with phosphatidylserine exposure. future work 
+should  reconcile  these  discrepancies  and  clarify  the 
+mechanisms of autophagy-dependent surface exposure 
+of  phosphatidylserine  in  ebs.  discrepancy  also  exists 
+between  phenotypes  of  beclin-1  knockout  mouse  and 
+cell 128, march 9, 2007 ©2007 elsevier inc.  835
+atg5 knockout mouse. the former, but not the latter, fails 
+to form proamniotic cavities, consistent with the results 
+obtained in vitro. beclin-1 knockout mice are embryonic 
+lethal, whereas atg5 knockout mice are born without vis-
+ible abnormality (kuma et al., 2004). one possible expla-
+nation is that unknown factors compensate in embryos 
+for  the  lack  of  atg5  but  not  for  the  lack  of  beclin-1. 
+however, atg5 knockout mouse neonates show severe 
+defects  in  autophagy.  alternatively,  beclin-1  may  have 
+an additional function other than autophagy. in fact, its 
+yeast homolog vps30/atg6 functions in both autophagy 
+and membrane trafficking to the vacuole (yorimitsu and 
+klionsky, 2005).
+although  atg5  knockout  mice  did  not  exhibit  severe 
+developmental defects, the clearance of apoptotic cells 
+seemed to be impaired and an increase in the number 
+of  inflammatory  cells  including  lymphocytes  in  the  tis-
+sues was observed (qu et al., 2007). thus, insufficient 
+removal of apoptotic cells causes unwanted inflamma-
+tory responses indicating that this clearance function is 
+crucial not only for development but also tissue homeos-
+tasis in adult animals. interestingly, a variant of atg16l1, 
+an atg5-binding protein, is associated with crohn’s dis-
+ease (hampe et al., 2007). crohn’s disease is a chronic 
+inflammatory  disease  of  the  intestine,  the  cause  of 
+which  is  unknown.  given  that  physiological  regenera-
+tion  of  colonic  epithelium  is  accompanied  by  cell  loss 
+due to shedding or apoptosis, the effective clearance of 
+apoptotic cells, which may involve autophagy, might be 
+important to prevent inflammation.
+future directions
+in the dreamlike novel hard-boiled wonderland and the 
+end of the world, the author, haruki murakami, describes 
+a man whose consciousness exists in two distinct paral-
+lel worlds. murakami asks readers what consciousness 
+is and what reality is. like the protagonist in this book, 
+scientists working on autophagy seem to be wandering 
+between  two  worlds:  in  one  autophagy  kills  cells  and 
+in  the  other  it  sustains  cells.  qu  et  al.  now  add  a  new 
+dimension to this paradox by reporting that autophagy is 
+required for apoptotic cells to express the correct signal 
+so that they are cleared appropriately.
+although our knowledge of autophagy is growing day 
+by day, we need more insights into the regulation and 
+molecular  machinery  of  autophagy  to  further  under-
+stand  its  importance  in  diverse  cellular  processes. 
+although over 20 atg proteins have been identified, how 
+they function and are regulated is still largely unknown. 
+formation of autophagosomes stands apart from vesi-
+cle  formation  in  other  membrane  traffic.  in  endocytic 
+and secretory pathways, transport vesicles are formed 
+by  budding  from  the  large  flat  membrane  of  donor 
+organelles.  in  contrast,  autophagosomes  are  formed 
+de  novo  in  the  cytoplasm  so  that  it  requires  unique 
+mechanisms  other  than  those  used  in  the  canonical 
+836  cell 128, march 9, 2007 ©2007 elsevier inc.
+membrane traffic. no one knows how autophagosome 
+formation  initiates  and  how  the  membrane  elongates 
+and makes a curve autonomously. we need to further 
+explore the heart of the autophagic wonderland.
+references
+espert,  l.,  denizot,  m.,  grimaldi,  m.,  robert-hebmann,  v.,  gay,  b., 
+varbanov, m., codogno, p., and biard-piechaczyk, m. (2006). j. clin. 
+invest. 116, 2161–2172.
+hampe,  j.,  franke,  a.,  rosenstiel,  p.,  till,  a.,  teuber,  m.,  huse,  k., 
+albrecht, m., mayr, g., de la vega, f.m., briggs, j., et al. (2007). nat. 
+genet. 39, 207–211.
+hara, t., nakamura, k., matsui, m., yamamoto, a., nakahara, y., su-
+zuki-migishima, r., yokoyama, m., mishima, k., saito, i., okano, h., 
+and mizushima, n. (2006). nature 441, 885–889.
+kamimoto, t., shoji, s., hidvegi, t., mizushima, n., umebayashi, k., 
+perlmutter, d.h., and yoshimori, t. (2006). j. biol. chem. 281, 4467–
+4476.
+komatsu,  m.,  waguri,  s.,  chiba,  t.,  murata,  s.,  iwata,  j.,  tanida, 
+i., ueno, t., koike, m., uchiyama, y., kominami, e., and tanaka, k. 
+(2006). nature 441, 880–884.
+kuma, a., hatano, m., matsui, m., yamamoto, a., nakaya, h., yoshi-
+mori, t., ohsumi, y., tokuhisa, t., and mizushima, n. (2004). nature 
+432, 1032–1036.
+levine, b., and yuan, j. (2005). j. clin. invest. 115, 2679–2688.
+lum, j.j., bauer, d.e., kong, m., harris, m.h., li, c., lindsten, t., and 
+thompson, c.b. (2005). cell 120, 237–248.
+mizushima, n. (2005). cell death differ. 12 (suppl 2), 1535–1541.
+nakagawa, i., amano, a., mizushima, n., yamamoto, a., yamaguchi, 
+h.,  kamimoto,  t.,  nara,  a.,  funao,  j.,  nakata,  m.,  tsuda,  k.,  et  al. 
+(2004). science 306, 1037–1040.
+pattingre, s., tassa, a., qu, x., garuti, r., liang, x.h., mizushima, n., 
+packer,  m.,  schneider,  m.d.,  and  levine,  b.  (2005).  cell  122,  927–
+939.
+pyo, j.o., jang, m.h., kwon, y.k., lee, h.j., jun, j.i., woo, h.n., cho, 
+d.h.,  choi,  b.,  lee,  h.,  kim,  j.h.,  et  al.  (2005).  j.  biol.  chem. 280, 
+20722–20729.
+qu, x., zou, z., sun, q., luby-phelps, k., cheng, p., hogan, r., gilpin, 
+c., and levine, b. (2007). cell, this issue.
+scott, r.c., juhasz, g., and neufeld, t.p. (2007). curr. biol. 17, 1–11.
+shimizu,  s.,  kanaseki,  t.,  mizushima,  n.,  mizuta,  t.,  arakawa-ko-
+bayashi, s., thompson, c.b., and tsujimoto, y. (2004). nat. cell biol. 
+6, 1221–1228.
+yorimitsu,  t.,  and  klionsky,  d.j.  (2005).  cell  death  differ.  12  (suppl 
+2), 1542–1552.
+yoshida, h., kawane, k., koike, m., mori, y., uchiyama, y., and na-
+gata, s. (2005). nature 437, 754–758.
+yousefi,  s.,  perozzo,  r.,  schmid,  i.,  ziemiecki,  a.,  schaffner,  t., 
+scapozza, l., brunner, t., and simon, h.u. (2006). nat. cell biol. 8, 
+1124–1132.
+yu,  l.,  alva,  a.,  su,  h.,  dutt,  p.,  freundt,  e.,  welsh,  s.,  baehrecke, 
+e.h., and lenardo, m.j. (2004). science 304, 1500–1502.
+yu, l., wan, f., dutta, s., welsh, s., liu, z., freundt, e., baehrecke, e.h., 
+and lenardo, m. (2006). proc. natl. acad. sci. usa 103, 4952–4957.

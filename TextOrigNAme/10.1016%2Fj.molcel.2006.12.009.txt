@@ -1,0 +1,996 @@
+molecular cell
+article
+control of macroautophagy by calcium,
+calmodulin-dependent kinase kinase-b, and bcl-2
+maria høyer-hansen,1 lone bastholm,2 piotr szyniarowski,1 michelangelo campanella,3 gyo¨ rgy szabadkai,3,4
+thomas farkas,1 katiuscia bianchi,3,4 nicole fehrenbacher,1 folmer elling,2 rosario rizzuto,3
+ida stenfeldt mathiasen,1,5 and marja ja¨ a¨ ttela¨ 1,*
+1 apoptosis department and centre for genotoxic stress research, institute of cancer biology, danish cancer society,
+2100 copenhagen, denmark
+2 institute of molecular pathology, faculty of health sciences, university of copenhagen, 2100 copenhagen, denmark
+3 department of experimental and diagnostic medicine, section of general pathology, university of ferrara, 44100 ferrara, italy
+4 inserm u 807, necker faculty, paris v university, 75015 paris, france
+5 present address: cancer and immunobiology, novo nordisk a/s, dk-2760 ma˚ løv, denmark.
+*correspondence: mj@cancer.dk
+doi 10.1016/j.molcel.2006.12.009
+summary
+macroautophagy is an evolutionary conserved
+lysosomal pathway involved in the turnover of
+cellular macromolecules and organelles.
+in
+spite of its essential role in tissue homeostasis,
+the molecular mechanisms regulating mamma-
+lian macroautophagy are poorly understood.
+here, we demonstrate that a rise in the free
+cytosolic calcium ([ca2+]c) is a potent inducer
+of macroautophagy. various ca2+ mobilizing
+agents (vitamin d3 compounds, ionomycin, atp,
+and thapsigargin) inhibit the activity of mamma-
+lian target of rapamycin, a negative regulator of
+macroautophagy, and induce massive accumu-
+lation of autophagosomes in a beclin 1- and
+atg7-dependent manner. this process is medi-
+ated by ca2+/calmodulin-dependent kinase
+kinase-b and amp-activated protein kinase
+and inhibited by ectopic bcl-2 located in the en-
+doplasmatic reticulum (er), where it lowers the
+[ca2+]er and attenuates agonist-induced ca2+
+ﬂuxes. thus, an increase in the [ca2+]c serves
+as a potent inducer of macroautophagy and
+as a target for the antiautophagy action of
+er-located bcl-2.
+introduction
+cellular homeostasis is dependent on the balance
+between the biosynthesis and degradation of its compo-
+nents. macroautophagy (here referred to as autophagy)
+is an evolutionary conserved lysosomal pathway involved
+in the turnover of long-lived proteins, other cellular macro-
+molecules, and whole organelles (codogno and meijer,
+2005; kroemer and ja¨ a¨ ttela¨ , 2005; levine and klionsky,
+2004). it begins when a ﬂat membrane cistern wraps
+around cytoplasmic organelles and/or a portion of cytosol,
+thus forming a closed double-membrane-surrounded
+vacuole, the autophagosome that matures in a stepwise
+process involving fusion events with endolysosomal vesi-
+cles. the ﬁnal degradation step takes place within autoly-
+sosomes, where lysosomal hydrolases digest the luminal
+content of the autophagic vacuole to recyclable break-
+down products.
+autophagy proceeds in a low basal level in most if not all
+cells, and it plays a crucial role in nutrient delivery, remod-
+eling, differentiation, and removal of damaged molecules
+and organelles. accordingly, its deregulation in mice leads
+to either embryonic or perinatal lethality or neurodegener-
+ation and cancer (hara et al., 2006; komatsu et al., 2006;
+qu et al., 2003; yue et al., 2003). starvation, growth factor
+deprivation, protein aggregation, numerous anticancer
+treatments, and various other stresses increase autopha-
+gic activity above the basal
+levels. during starvation
+stress, autophagy-mediated recycling of nutrients is
+essential for the maintenance of cellular amino acid and
+energy levels and thereby for cell survival (lum et al.,
+2005; onodera and ohsumi, 2005). similarly, autophagy
+serves a protective function during neuronal development
+and in neurons challenged with aggregate-prone proteins
+(hara et al., 2006; komatsu et al., 2006; ravikumar et al.,
+2004). paradoxically, autophagy is also associated with
+nonapoptotic type ii cell death, also called autophagic
+degeneration (baehrecke, 2005; kroemer and ja¨ a¨ ttela¨ ,
+2005; tsujimoto and shimizu, 2005). even though autoph-
+agy genes act as mediators of the cell death in some
+experimental conditions, increasing evidence suggests
+that the accumulation of autophagosomes in dying cells
+or tissues commonly represents a failed rescue effort in
+response to external stress.
+autophagosome formation is mediated by a set of evo-
+lutionarily conserved autophagy-related proteins (atg pro-
+teins) and inhibited by a serine threonine protein kinase
+originally recognized as a target of rapamycin and thereby
+named tor (codogno and meijer, 2005; klionsky et al.,
+2003). tor functions as a sensor for cellular energy and
+amino acid levels and is negatively regulated by the
+amp-activated protein kinase (ampk) via a pathway
+molecular cell 25, 193–205, january 26, 2007 ª2007 elsevier inc. 193
+molecular cell
+control of autophagy by ca2+, camkk-b, and bcl-2
+figure 1. ca2+ is a mediator of autophagy
+(a and b) mcf-7-egfp-lc3 cells were left untreated (control) or treated with 100 nm eb1089 (eb) or 1,25-dihydroxyvitamin d3 (vd) for 72 hr, 100 mm
+atp for 48 hr, 10 mm ionomycin for 24 hr (iono), or 100 nm tg for 24 hr. when indicated, 20 mm bapta/am was added for the last 2 hr of the treatment.
+representative confocal images (20 mm scale bars) and histograms with percentages of green cellular cross-sections with over ﬁve lc3-positive dots
+are shown. the values represent mean ± sd for three independent samples. similar results were obtained in three independent experiments.
+(c) representative electron micrografs of mcf-7 cells treated with 100 mm atp for 48 hr or 1 mm ionomycin for 24 hr. arrows denote autophagosomes
+and n nulei (0.5 mm scale bars).
+(d) mcf-7 cells were treated with 100 nm eb1089 or 100 mm atp for 48 hr or with 10 mm ionomycin or 100 nm tg for 24 hr, and the increase in the
+degradation of long-lived proteins as compared to the untreated cultures was measured. the values represent mean ± sd for six independent
+duplicate experiments.
+194 molecular cell 25, 193–205, january 26, 2007 ª2007 elsevier inc.
+molecular cell
+control of autophagy by ca2+, camkk-b, and bcl-2
+involving the gtpase activating tuberous sclerosis com-
+plex (tsc1/2) and its substrate ras-family gtp binding
+protein rheb (sarbassov et al., 2005). ampk can be
+phosphorylated and activated by lkb1 tumor suppressor
+kinase at low energy levels and by ca2+/calmodulin-de-
+pendent protein kinase kinase-b (camkk-b) in response
+to an increase in the cytosolic-free calcium [ca2+]c (haw-
+ley et al., 2005; shaw et al., 2004; woods et al., 2005).
+even though the ampk-mediated inhibition of mammalian
+tor (mtor) has been fairly well established, direct evi-
+dence for its ability to induce autophagy is still lacking in
+mammalian cells. snf1, the yeast ortholog of ampk, has,
+however, been identiﬁed as a positive regulator of autoph-
+agy (wang et al., 2001).
+beclin 1, the mammalian ortholog of yeast atg6, repre-
+sents an interesting link between autophagic and apopto-
+tic machineries (levine and klionsky, 2004). beclin 1 is
+a bcl-2 interacting protein that promotes autophagosome
+formation when in complex with class iii phosphatidylino-
+sitol-3-kinase (pi3k) and p150 myristylated kinase,
+whereas the beclin 1-bcl-2 complex functions as a brake
+of autophagy and autophagic cell death (pattingre et al.,
+2005). intriguingly, the autophagy inhibition by bcl-2 is ev-
+ident only when bcl-2 resides in the er, where it has been
+suggested to regulate cellular ca2+ homeostasis (ferrari
+et al., 2002; oakes et al., 2006). it should be noted that
+bcl-2 and the proapoptotic bcl-2 proteins (bax and
+bak) have also been reported to enhance and inhibit
+the autophagic response, respectively (lum et al., 2005;
+shimizu et al., 2004). thus, the impact of bcl-2-like pro-
+teins on autophagy requires further exploration.
+a rise in the [ca2+]c triggers disparate responses such
+as changes in cell metabolism, muscle contraction, neuro-
+transmitter release, cell proliferation, and cell death (fer-
+rari et al., 2002). hitherto, practically nothing is known
+about the role of ca2+ in autophagosome formation.
+prompted by the ability of the ca2+-activated camkk-
+b to activate the putative autophagy inducer ampk, and
+the requirement of er location for the antiautophagy func-
+tion of bcl-2, we investigated the role of ca2+ in autophagy
+signaling in more detail. using state-of-the-art methods to
+detect autophagy and subcellular ca2+ levels, we show
+that ca2+ regulates autophagy via a signaling pathway in-
+volving camkk-b, ampk, and mtor and that er-located
+bcl-2 effectively inhibits this pathway. because both the
+camkk-ampk signaling pathway and autophagy are
+essential for eukaryotic cells from unicellular yeast to com-
+plex tissues such as brain, these data are likely to have
+broad implications for our understanding of autophagy-
+mediated regulation of cellular homeostasis and cell
+survival in general.
+results
+an increase in the [ca2+]c triggers autophagy
+the active form of vitamin d3 (1,25-dihydroxyvitamin d3)
+and its chemotherapeutic analog eb1089 induce a slow
+increase in the [ca2+]c and autophagy followed by autoph-
+agy-dependent cell death in mcf-7 breast cancer cells
+(høyer-hansen et al., 2005; mathiasen et al., 2002). in
+order to test whether the increase in the [ca2+]c actually
+serves as a mediator of the autophagic response, we
+studied the autophagosome formation in mcf-7 cells
+expressing the autophagosome-associated lc3 protein
+fused to the enhanced green ﬂuorescence protein
+(egfp-lc3). as expected, a three-day treatment of the
+cells with 100 nm 1,25-dihydroxyvitamin d3 or eb1089
+signiﬁcantly increased the number of
+the cells with
+autophagosomes (lc3-positive vesicles; figure 1a). re-
+markably, the addition of an intracellular ca2+ chelator
+bis-(o-aminophenoxy)-ethane-n,n,n,n0-tetraacetic acid/
+tetra(acetoxymethyl)-ester (bapta/am) to the cells for
+the last 2 hr of the treatment completely abolished the
+autophagosomes. thus, ca2+ is required for the formation
+of autophagosomes in response to vitamin d3 com-
+pounds, whereas their turnover by the fusion with the lyso-
+somal vesicles (i.e., the disappearance of the lc3-positive
+vesicles) appears to be ca2+ independent.
+prompted by the ability of bapta/am to inhibit 1,25-
+dihydroxyvitamin d3- and eb1089-induced autophago-
+some formation, we next investigated whether an increase
+in the [ca2+]c is enough to trigger autophagy. for this pur-
+pose, we treated the egfp-lc3 expressing mcf-7 cells
+with three stimuli that increase the [ca2+]c by different
+means: (1) atp that acts on p2 purinoreceptors to gener-
+ate inositol 1,4,5-triphosphate (ip3) that triggers the re-
+lease of ca2+ from the er through ip3 receptor-regulated
+channels, (2) ionomycin, a ca2+ ionophore that serves as
+a mobile ca2+ carrier that equilibrates ca2+ levels across
+biological membranes, including plasma and er mem-
+branes, and (3) thapsigargin (tg), an inhibitor of er
+ca2+-atpase (dixon et al., 1997; ferrari et al., 2002;
+kao, 1994). all treatments induced a signiﬁcant increase
+in the number of cells with lc3-positive vesicles, and in
+all cases, the effect was effectively inhibited by bapta/
+am (figure 1b). transmission electron microscopy (em)
+ensured that the induction of lc3-postive vesicles by all
+three ca2+ mobilizing agents correlated with the formation
+of autophagosomes, cytosolic vesicles surrounded by
+a double membrane (figure 1c and data not shown). im-
+portantly, all the ca2+ mobilizing agents also enhanced
+the degradation of long-lived proteins, indicating that the
+morphological changes observed by confocal microscopy
+(e) hela cells transiently transfected with egfp-lc3 were treated with 100 mm atp, 10 mm ionomycin, or 100 nm tg for 24 hr, and percentages of
+green cross-sections with over ﬁve lc3-positive dots were counted. when indicated, the treatment was followed by 1 hr incubation with 10 mm
+bapta/am. the values represent mean ± sd for three independent samples. similar results were obtained in two independent experiments.
+*p value < 0.05, **p value < 0.01, and ***p value < 0.001 as compared to control samples without bapta/am (a, b, and e) or untreated
+cells (d).
+molecular cell 25, 193–205, january 26, 2007 ª2007 elsevier inc. 195
+and transmission em reﬂected functional autophagy
+(figure 1d). furthermore, ca2+ mobilizing agents induced
+bapta/am-sensitive autophagosome formation in hela
+cervix carcinoma cells (figure 1e). consistent with the
+more potent autophagy inducing activity of tg as com-
+pared with atp, 24 hr treatment of mcf-7 cells with
+100 nm tg and 100 mm atp reduced the [ca2+]er by 87%
+and 39%, respectively (data not shown). it should also
+be noted that atp did not have any effect on cell growth
+or survival during a 5 day follow-up period, whereas tg,
+ionomycin, and vitamin d compounds induced cell death
+1–2 days after
+the appearance of autophagosomes
+(høyer-hansen et al., 2005) (data not shown).
+ca2+-induced autophagy is dependent on atg genes
+and camkk-b
+beclin 1, atg7, and class iii pi3k are required for the
+starvation-induced autophagosome formation. in order
+to test whether the ca2+-mediated autophagy proceeded
+by the same signaling pathway, we depleted mcf-7 cells
+for beclin 1 and atg7 by small interfering rnas (sirna)
+(figures 2a and 2b) or treated them with 3-methyl-
+adenine (3-ma), an inhibitor of class iii pi3k (figure 2c).
+all treatments signiﬁcantly inhibited the appearance of
+lc3-positive vesicles induced by eb1089, atp, ionomy-
+cin, and tg (figures 2b and 2c). furthermore, autoph-
+agy induced by ca2+ mobilizing agents was associated
+with the inhibition mtor kinase activity as judged by
+the reduced phosphorylation of its substrate, ribosomal
+protein s6 kinase 1 (p70s6k)
+in mcf-7 cells, and in
+immortalized murine embryonic ﬁbroblasts (figures 2d
+and 2e).
+in order to gain insight into the ca2+-induced signaling
+pathway mediating mtor inhibition and autophagy in-
+duction, we next tested whether the recently reported
+ca2+-camkk-b-ampk pathway was involved in this pro-
+cess (hawley et al., 2005; woods et al., 2005). for this
+purpose, we ﬁrst treated the cells with a camkk-a/b inhib-
+itor (sto-609) (tokumitsu et al., 2002). as demonstrated
+earlier in ionomycin-treated hela cells (woods et al.,
+2005), ca2+ mobilizing agents activated ampk in an
+sto-609-sensitive manner in mcf-7 cells (figure 3a).
+remarkably, the sto-609-mediated inhibition of ca2+-
+induced ampk activation was accompanied by a signiﬁ-
+cant inhibition of autophagy in mcf-7 cells and in non-
+transformed mcf-10a breast epithelial cells (figures
+3b–3d). these data suggest that camkk and ampk, in-
+deed, mediate ca2+-induced autophagy. accordingly,
+the inhibition of ampk either by camkk-b-speciﬁc sirna
+or by a pharmacological inhibitor (compound c) attenu-
+ated autophagy induced by ca2+-mobilizing agents in
+mcf-7 cells (figures 3e–3h). importantly, sto-609 and
+camkk-b sirna also inhibited the activation of ampk
+and the formation of autophagosomes in hela cervix
+carcinoma cells treated with ca2+-mobilizing agents
+(figure s1 in the supplemental data available with this
+article online).
+molecular cell
+control of autophagy by ca2+, camkk-b, and bcl-2
+er-localized bcl-2 inhibits
+eb1089- and atp-induced autophagy
+bcl-2 has been reported to regulate the cellular ca2+ han-
+dling and to inhibit starvation-induced autophagy (ferrari
+et al., 2002; pattingre et al., 2005). thus, we speculated
+that bcl-2 could inhibit autophagy via its effects on ca2+
+homeostasis. in order to test this hypothesis, we ex-
+pressed wild-type bcl-2 (bcl-2) and its mutants in which
+the carboxy-terminal hydrophobic sequence has been
+either removed (bcl-cyt), resulting in cytosolic expression,
+or exchanged to a corresponding membrane anchor from
+an er-speciﬁc isoform of cytochrome b5 (bcl-er) or l.
+monocytogenes acta (bcl-mito), resulting in a subcellular
+localization restricted to the er and mitochondria, respec-
+tively (zhu et al., 1996). western blot analysis and the abil-
+ity to inhibit tumor necrosis factor (tnf)-induced dna
+fragmentation and cell death conﬁrmed the equal expres-
+sion levels and the functionality of the bcl-2 chimeras, and
+the confocal microscopy veriﬁed their expected subcellu-
+lar location in mcf-7 cells (figure 4). only cells expressing
+bcl-er or wild-type bcl-2 showed colocalization with an
+er marker protein, sarcoplasmic reticulum ca2+-atpase
+(serca). similarly, only bcl-mito and wild-type bcl-2
+showed colocalization with the mitochondrial marker
+protein cytochrome c.
+next, we investigated the impact of bcl-2 chimeras on
+ca2+-mediated autophagy by transmission em. as we
+have shown earlier in the parental mcf-7 cells (høyer-
+hansen et al., 2005), a 5 day treatment of the mock-
+transfected cells with 100 nm eb1089 induced a massive
+accumulation of autophagic vacuoles surrounded by
+a double membrane (figures 5a and 5b). most of the vac-
+uoles contained cristae-like structures resembling mito-
+chondria, and the cross-sections of affected cells con-
+tained practically no normal mitochondria. neither the
+number of cellular cross-sections with eb1089-induced
+autophagic vacuoles nor the appearance of the vacuoles
+was affected by the ectopic expression of wild-type
+bcl-2, bcl-cyt, or bcl-mito, whereas the cross-sections
+of eb1089-treated bcl-er expressing cells were nearly
+devoid of autophagic structures (figures 5a and 5b).
+accordingly, only bcl-er was able to inhibit the eb1089-
+induced autophagosome formation as assessed by the
+translocation of egfp-lc3 into vesicular structures (fig-
+ure s2). akin to eb1089 treatment, bcl-er, but not bcl-
+mito, effectively inhibited autophagy in response to atp,
+whose ca2+ mobilizing activity depends on er ca2+ stores
+(figure 5c). on the contrary, the autophagosome forma-
+tion induced by ionomycin that triggers ca2+ ﬂuxes from
+both the er and the extracellular space was resistant to
+bcl-2 whether localized to er or mitochondrial mem-
+branes (figure 5c).
+er-localized bcl-2 lowers the [ca2+]er and
+reduces agonist-induced leak of ca2+ from the er
+indirect evidence suggests that the eb1089-induced in-
+crease in the [ca2+]c originates from the er (mathiasen
+et al., 2002). in order to test whether eb1089 renders the
+196 molecular cell 25, 193–205, january 26, 2007 ª2007 elsevier inc.
+molecular cell
+control of autophagy by ca2+, camkk-b, and bcl-2
+figure 2. involvement of atg genes, class iii pi3k, and
+mtor in ca2+-mediated autophagy
+(a) immunoblot analysis of beclin 1, atg7, and glyceraldehyde-3-phos-
+phate dehydrogenase (gapdh; loading control) in mcf-7-egfp-lc3
+cells treated with oligofectamine alone or together with control, beclin
+1 or atg7-speciﬁc sirna 72 hr earlier.
+(b) the cells (see [a]) were left untreated or treated with 100 nm
+eb1089 for 72 hr (eb), 100 mm atp for 48 hr, or 10 mm ionomycin
+(iono) or 100 nm tg for 24 hr and analyzed for autophagosome forma-
+tion 3 days after the sirna treatment. percentages of green cellular
+cross-sections with over ﬁve lc3-positive dots are shown. the values
+represent mean ± sd for combined data from three to ﬁve independent
+experiments.
+er membrane more permeable to ca2+, we measured
+kinetic changes of [ca2+]c after the application of tert-
+butylhydroquinone (tbhq), a reversible blocker of serca
+pumps. the resting [ca2+]c in fura-2-loaded cells was sig-
+niﬁcantly higher after 72 hr treatment with eb1089 (fig-
+ure 6a), conﬁrming our previous observations (mathiasen
+et al., 2002). furthermore, the [ca2+]c in the presence of
+tbhq and external ca2+ (1 mm) reached a lower steady
+state in eb1089-treated cells, proving again that the
+[ca2+]er is reduced by the drug. also, the velocity of
+[ca2+]c increase in the early phase after tbhq addition
+was greatly enhanced, allowing us to conclude that the
+eb1089 induced reduction in the [ca2+]er-reﬂected ca2+
+leak from the er rather than reduced ca2+ extrusion
+through the plasma membrane. moreover, we measured
+the effect of eb1089 on [ca2+]er in mcf-7 cells trans-
+fected with er-targeted aequorin (er-aeq), a ca2+ re-
+porter protein with highly selective subcellular localization
+(chiesa et al., 2001). eb1089 induced a time-dependent
+decrease in [ca2+]er, reaching signiﬁcance at day three
+when the [ca2+]er had fallen from 200 ± 8.3 mm to 159 ±
+12.6 mm (figure 6b). these kinetics suggest that the
+increase in the [ca2+]c that we have earlier shown to occur
+three days after the start of the eb1089 treatment is a
+result of eb1089-induced ca2+ release from the er
+(mathiasen et al., 2002).
+bcl-2 family proteins have been shown to regulate er
+ca2+ homeostasis in other cell types (pinton and rizzuto,
+2006). thus, we next investigated the effect of the bcl-2
+chimeras on the eb1089-induced fall in the [ca2+]er. as
+previously shown in different cell types, wild-type bcl-2
+signiﬁcantly lowered steady-state [ca2+]er in mcf-7 cells
+(figure 6c). this effect of the antiapoptotic bcl-2 family
+proteins has been shown to be the consequence of
+increased ca2+ leak from the er (pinton and rizzuto,
+2006), which may follow bcl-2-dependent phosphoryla-
+tion of the ip3 receptors in the er (oakes et al., 2005; white
+et al., 2005). these data suggest that the effect is dependent
+on er-localized bcl-2. indeed, cells expressing bcl-er
+had a more robust decrease in steady state [ca2+]er as
+compared to bcl-wt transfected cells, whereas bcl-mito
+(c) mcf-7-egfp-lc3 cells were treated with the indicated ca2+-
+mobilizing agents and analyzed as in (b). when indicated, 10 mm
+3-ma was added for the last 48 hr (eb and atp) or 24 hr (iono and
+tg) of the treatment. the values represent mean ± sd for three inde-
+pendent samples. similar results were obtained in three independent
+experiments.
+(d) proteins from mcf-7 cells left untreated (ctrl) or treated with
+100 nm eb, 100 mm atp, 10 mm ionomycin, or 100 nm tg for indicated
+times were analyzed by immunoblotting for the phosphorylated p70s6k
+(p-p70s6k) and total p70s6k (loading control). the asterisk (*) denotes
+the phosphorylated (top) and total (bottom) p85s6k recognized by
+the antibodies. the values indicate the p-p70s6k:p70s6k ratio as per-
+centages of that in control cells. similar results were obtained in two
+independent experiments.
+(e) proteins from nih3t3 cells left untreated (ctrl) or treated with 10 mm
+ionomycin for 12 hr or 100 nm tg for 24 hr were analyzed as in (d).
+*p value < 0.05, **p value < 0.01, and ***p value < 0.001 as compared
+to control sirna- (b) or vehicle-treated (c) samples.
+molecular cell 25, 193–205, january 26, 2007 ª2007 elsevier inc. 197
+molecular cell
+control of autophagy by ca2+, camkk-b, and bcl-2
+figure 3. ca2+ activates ampk and induces autophagosome formation via camkk-b
+(a) proteins from mcf-7 cells left untreated (ctrl) or treated with 100 nm eb, 100 mm atp, 10 mm ionomycin, or 100 nm tg for 24 hr were analyzed
+by immunobloting for p-ampk and total ampk expression. when indicated, 25 mm sto-609 was added for the last 12 hr. the values indicate the
+p-ampk:total ampk ratio as a percentage of that in control cells.
+(b and c) mcf-7-egfp-lc3 (b) and mcf10a-egfp-lc3 (c) cells were left untreated or treated with the indicated drugs as in (a) with or without 25 mm
+sto-609 for 24 hr. percentages of green cellular cross-sections with over ﬁve lc3-positive dots are shown. the values represent mean ± sd for one
+triplicate experiment.
+(d) the increase in the degradation of long-lived proteins was measured in mcf-7 cells treated with 100 nm eb1089 for 48 hr or 10 mm ionomycin or
+100 nm tg for 24 hr. when indicated, 25 mm sto-609 was added for the last 24 hr of the experiment. the values are expressed as percentages of
+untreated cells and represent mean ± sd for three independent duplicate experiments.
+(e) the mrna level of camkk-a, camkk-b, or porphobilinogen deaminase (pbgd) was analyzed by quantitative rt-pcr in mcf-7 cells 72 hr after
+the transfection with the indicated sirnas.
+(f) immunoblot analysis of proteins p-acc and hsc70 (loading control) from mcf7 cells 72 hr after the transfection with indicated sirnas. the cells
+were left untreated or treated with 10 mm ionomycin for the last 24 hr. the values indicate the p-acc:hsc70 ratios as percentages of the ratio in
+untreated control sirna-transfected cells.
+(g) mcf-7-egfp-lc3 treated with oligofectamine alone or together with either control or camkk-b-speciﬁc sirnas for 72 hr were left untreated or
+treated with 100 nm eb or 100 mm atp for the last 48 hr or with 10 mm ionomycin or 100 nm tg for the last 24 hr. the lc3 translocation was evaluated
+as in (b) and (c), and the values represent mean ± sd for three independent duplicate experiments.
+(h) mcf-7 cells were treated and analyzed as in (d) except for 5 mm compound c (comp c) that was added for the last 24 hr when indicated.
+the values represent mean ± sd for three independent duplicate experiments.
+*p value < 0.05, **p value < 0.01, and ***p value < 0.001 as compared to samples without sto-609 (b–d) or compound c (h) or with control sirna (g).
+and bcl-cyt did not change the [ca2+]er signiﬁcantly
+(figure 6c). importantly, only bcl-er was able to inhibit
+the eb1089-induced partial [ca2+]er depletion, whereas
+wild-type bcl-2, bcl-cyt, and bcl-mito failed to do so
+(figure 6d). notably, bcl-mito almost doubled the
+eb1089-induced decrease in the [ca2+]er. importantly,
+bcl-er also inhibited the atp-induced release of ca2+
+from the er as shown by its ability to signiﬁcantly inhibit
+both the atp-induced decrease in the [ca2+]er as well as
+the increase in the [ca2+]c (figures 6e and 6f). due to tech-
+nical problems, we could not test the effect of bcl-er
+in tg-induced ca2+ ﬂuxes by this method. it should,
+198 molecular cell 25, 193–205, january 26, 2007 ª2007 elsevier inc.
+molecular cell
+control of autophagy by ca2+, camkk-b, and bcl-2
+figure 4. characterization of mcf-7 cells expressing wild-type bcl-2 or the bcl-2 chimeras with restricted subcellular location
+(a) immunoblot analysis of parental mcf-7 cells and single-cell clones transfected with indicated plasmid constructs.
+(b) elisa-based analysis of apoptosis-associated dna fragmentation (right) and uptake of sytox as determined by facs analysis (left) in the
+indicated mcf-7 transfectants left untreated (control) or treated with the indicated concentrations of tnf for 36 hr. the values represent mean ±
+sd for combined data from four independent duplicate experiments.
+(c–f) representative confocal images (c and d) of the indicated mcf-7 transfectants costained with antibodies to serca (green; [c] and [e]) or
+cytochrome c (green; [d] and [f]) and bcl-2 (red). the proﬁles of relative intensities of the two ﬂuorophores along the red line marked in the pictures
+were used to evaluate the colocalization (e and f).
+molecular cell 25, 193–205, january 26, 2007 ª2007 elsevier inc. 199
+molecular cell
+control of autophagy by ca2+, camkk-b, and bcl-2
+figure 5. er-targeted bcl-2 inhibits eb1089- and atp-induced autophagy
+(a and b) mcf-7 cells transfected with the indicated bcl-2 constructs were treated with 100 nm eb for 5 days before ﬁxation for the transmission em. the
+large images were taken with a 50003 objective (1 mm scale bars) and the close-up images with a 20,0003 objective. examples of autophagic vacuoles are
+marked with arrows. percentages of cross-sections with autophagic vesicles were obtained by counting 30 randomly chosen cross-sections. the values
+represent mean ± sd for combined data from two independent experiments (bcl-cyt was tested only once) with two independent single-cell clones.
+(c) mcf-7 cells transfected with the indicated bcl-2 constructs were treated with 100 mm atp for 48 hr or 1 mm ionomycin for 24 hr and analyzed by
+transmission em as in (a). the values represent mean ± sd for data combined from two independent blocks.
+however, be noted that the decrease in the [ca2+]er in-
+duced by another serca pump inhibitor (tbhq) was effec-
+tively inhibited by bcl-er (data not shown). thus, we con-
+clude that bcl-er, either through a direct effect on the er
+membrane or indirectly by reducing the steady state
+[ca2+]er (the driving force for ca2+ leak), is able to speciﬁ-
+cally inhibit agonist-induced ca2+ release into the cyto-
+plasm, which might explain its capacity to inhibit ca2+-me-
+diated autophagosome formation.
+discussion
+ca2+ mobilizing agents trigger autophagy
+our data demonstrate that the ca2+ mobilizing agents
+are potent inducers of autophagy. a massive increase
+in the number of autophagosomes was evident following
+unrelated ca2+ mobilizing stimuli such as (1) vitamin d
+compounds that induce a slow release of ca2+ from
+the er, (2) atp that generates ip3 and activates ip3
+200 molecular cell 25, 193–205, january 26, 2007 ª2007 elsevier inc.
+molecular cell
+control of autophagy by ca2+, camkk-b, and bcl-2
+figure 6. bcl-er inhibits eb1089-in-
+duced calcium fluxes
+(a) for [ca2+]c measurements, fura-2-loaded
+mcf-7 cells were imaged as described in the
+experimental procedures. control cells and
+cells treated with 100 nm eb1089 for 72 hr
+were stimulated with 100 mm tbhq, as indi-
+cated. traces were calibrated according to
+standard protocols (szabadkai et al., 1999),
+and the mean ± sem of >40 cells from three in-
+dependent experiments is shown. resting
+[ca2+]c before tbhq addition was 66.4 ±
+2.6 nm in nontreated cells versus 92.6 ±
+2.7 nm after eb1089 treatment. steady-state
+plateau after
+tbhq addition was 408.4 ±
+19.8 nm in controls versus 385.0 ± 8.6 in
+eb1089-treated cells.
+(b) steady-state [ca2+]er was measured in
+mcf-7 cells transiently transfected with er-
+aeq and left untreated or treated with 100 nm
+eb1089 for the indicated periods. mean ± sem
+from nine experiments are shown. *p < 0.05.
+(c) [ca2+]er was measured in cells cotrans-
+fected with the er-aeq probe and the indi-
+cated bcl-2 constructs and is presented as
+mean ± sem from eight experiments as in (b).
+*p < 0.05.
+(d) the effect of differentially targeted bcl-2
+constructs on eb1089 induced ca2+ depletion.
+[ca2+]er was measured in cells transfected as in
+(c) and left untreated or treated with 100 nm
+eb1089 for 72 hr. the effect of eb1089 was cal-
+culated from paired data from the two groups
+(nontreated minus eb1089 treated). mean ±
+sem of the differences (d[ca2+]er) is shown
+from a minimum of nine experiments. *p < 0.05.
+(e) effect of bcl-2-er on steady-state [ca2+]er and atp-induced ca2+ release. mcf-7 cells were transiently transfected with the eraeq probe alone
+(control) or with bcl-2-er. after reconstitution of eraeq with coelenterazine (see experimental procedures), cells were perfused with ca2+-free krb
+solution containing 100 mm egta. krb containing 1 mm cacl2 was added as indicated to induce er ca2+ uptake. after reaching the steady-state
+[ca2+]er levels, cells were stimulated with 100 mm atp (arrows in the left panel). the left panel shows representative traces of [ca2+]er measurements
+from control and bcl-2-er-transfected cells, and the right panel shows mean ± sem of [ca2+]er changes after atp addition from greater than seven
+traces from two independent experiments.
+(f) effect of bcl-2-er on atp-induced ca2+ release. mcf-7 cells were transiently transfected with the cytaeq probe alone (control) or with er bcl-2-
+er. cells were perfused with krb containing 1 mm cacl2 and stimulated with 100 mm atp as indicated. the left panel shows representative traces of
+[ca2+]c measurements. the right panel shows mean ± sem of [ca2+]c peaks after atp addition from greater than seven traces from two separate
+experiments.
+receptor-regulated ca2+ channels in the er, (3) tg that
+inhibits er ca2+-atpase, and (4) ionomycin that allows
+ca2+ ﬂuxes from both the extracelluar space and the er
+(ferrari et al., 2002; kao, 1994; mathiasen et al., 2002).
+importantly, the accumulation of autophagosomes in-
+duced by all ca2+ mobilizing agents was accompanied
+by a signiﬁcant increase in the degradation rate of long-
+lived proteins that reﬂects functional autophagy. thus,
+the increase in the number of autophagosomes in cells
+treated with ca2+ mobilizing agents is due to the in-
+creased formation of autophagosomes rather than their
+defective turnover.
+even though the existing autophagy literature frequently
+lists ca2+ as a putative second messenger, the experi-
+mental challenging of this hypothesis has been very lim-
+ited. consistent with our data, seglen and coworkers
+have shown that calcium chelators (bapta/am, egta,
+and edta) suppress constitutive autophagy in hepato-
+cytes as analyzed by the sequestration of lactate dehydro-
+genase (ldh) into cytosolic vesicles (gordon et al., 1993).
+based on the inhibitory effect of ca2+ mobilizing agents in
+their model system, they concluded, however, that ldh
+autophagy depends on intracellular ca2+ stores rather
+than the increase in the [ca2+]c. this controversy may be
+due to the differences in experimental set ups. first, the
+ldh autophagy in hepatocytes was analyzed 3 hr after
+the stimuli, whereas the increase in atp-, ionomycin,
+tg-, and eb1089-induced autophagosome formation
+was ﬁrst evident after a lag time of 24–72 hr. second,
+the inhibitory effect of tg on ldh sequestration was de-
+tected only at micromolar concentrations, whereas the
+formation of autophagosomes in our model system was
+molecular cell 25, 193–205, january 26, 2007 ª2007 elsevier inc. 201
+evident at 100 nm. we have earlier shown that tg is an ef-
+fective inducer of lysosomal membrane permeabilization
+(høyer-hansen et al., 2005), an event that could explain
+the autophagy inhibitory effect of high concentrations of
+tg. third, the ldh sequestration assay may measure mi-
+croautophagy in addition to macroautophagy analyzed in
+this study. finally, bapta/am, which is hydrolyzed to
+a membrane-impermeable form by cytosolic esterases
+and thereby arrested in the cytosol, inhibited autophagy
+in both model systems. thus, the increased [ca2+]c rather
+than ca2+ in other cellular compartments appears respon-
+sible for the autophagy induction. this conclusion is
+further supported by the identiﬁcation of a cytosolic
+ca2+-activated kinase, camkk-b, as an essential media-
+tor of ca2+-induced autophagy, as well as by the ﬁnding
+that inhibition of autophagy by targeted bcl-2 constructs
+was related to their effect on agonist-induced ca2+
+release from the er and not on the steady-state [ca2+]er.
+ca2+ induces autophagy via a signaling pathway
+involving camkk-b and mtor
+our data show that ca2+ mobilizing agents induce auto-
+phagy via a signaling pathway involving camkk-b,
+a ca2+-activated kinase that was recently identiﬁed as
+a direct activator of ampk (hawley et al., 2005; woods
+et al., 2005). these data suggest that akin to the other
+known ampk kinase, lkb1, that triggers the repression
+of mtor under low atp conditions in an ampk- and
+tsc2-dependent manner (shaw et al., 2004), camkk-b
+may activate a similar pathway in response to an
+increase in the [ca2+]c (figure 7). the existence of such a
+pathway is strongly supported by our data showing that
+camkk-b and ampk are required for the ca2+-induced
+the ca2+-
+autophagosome formation. furthermore,
+induced camkk-b-dependent activation of ampk to-
+gether with the mounting evidence implicating ampk in
+the negative regulation of mtor points to ampk-tsc2-
+rheb pathway as a possible link between camkk-
+b and autophagy (sarbassov et al., 2005). it remains to
+be studied whether camkk-b-mediated suppression of
+mtor is sufﬁcient to trigger autophagy or whether ca2+
+mobilizing agents trigger parallel signaling pathways
+required for the process.
+er-localized bcl-2 affects ca2+ handling in the er
+and inhibits ca2+-mediated autophagy
+concordant with our data showing that bcl-2 has to locate
+to the er membrane in order to inhibit eb1089- and atp-
+induced autophagy, levine and coworkers have recently
+shown that er-localized, but not mitochondrial, bcl-2 in-
+hibits starvation-induced autophagy (pattingre et al.,
+2005). based on data suggesting that the autophagy in-
+hibitory effect of bcl-2 depends on the direct binding of
+bcl-2 with beclin 1, they speculated that the er-localized
+bcl-2-beclin 1 complex blocks a signal that is essential for
+the formation of the autophagy promoting beclin 1-class
+iii pi3k complex. we could, however, not detect any be-
+clin-1 associated with the er in untreated mcf-7 cells
+molecular cell
+control of autophagy by ca2+, camkk-b, and bcl-2
+figure 7. schematic presentation of the suggested signaling
+cascade from the increase in the [ca2+]c to autophagy
+the cartoon in the middle lineates the suggested signaling cascade
+leading from the increase in the free intracellular ca2+ to increased au-
+tophagy. the left and right panels indicate detection methods and
+tools used in this study to analyze and modulate the indicated events,
+respectively. the signaling molecules in italics were not studied in this
+work. for references see the text.
+or in cells treated with eb1089 or ionomycin. instead, we
+found beclin 1 in granular dots throughout the cytosol in
+control cells as well as in cells expressing ectopic bcl-
+er or beclin 1 (figure s3). furthermore, expression of ec-
+topic beclin 1 in mcf- 7 cells did not have any effect on
+steady-state [ca2+]er or atp-induced increase in [ca2+]c
+(data not shown). thus, our data suggest that er-located
+bcl-2 inhibits autophagy induced by ca2+ mobilizing
+agents by regulating the ca2+ homeostasis in a beclin 1-
+independent manner.
+if the antiautophagy function of
+bcl-2 was solely mediated by its effect on the steady-state
+[ca2+]er, wild-type bcl-2 should confer at least partial pro-
+tection against eb1089- and atp-induced autophagy in
+mcf-7 cells. this was, however, not the case. instead,
+the ability of the bcl-2 mutants to inhibit autophagy corre-
+lated with their ability to reduce the amount of agonist-in-
+duced ca2+ release from the er. these results, together
+with the inhibitory effect of bapta/am and the cytosolic
+induction of camkk-b, strongly argue for the involvement
+of [ca2+]c changes in the autophagy induction.
+the effect of bcl-2 on the [ca2+]er is controversial, and
+the literature contains conﬂicting data showing both in-
+creased and decreased [ca2+]er in bcl-2 expressing cells,
+202 molecular cell 25, 193–205, january 26, 2007 ª2007 elsevier inc.
+molecular cell
+control of autophagy by ca2+, camkk-b, and bcl-2
+depending on the cell type and the methods used (annis
+et al., 2004; ferrari et al., 2002; oakes et al., 2006). the
+studies in which [ca2+]er has been measured directly by
+er-targeted ca2+-sensitive photoproteins support the
+view that bcl-2 mainly acts on [ca2+]er by increasing the
+ca2+ permeability of the er membrane (foyouzi-yousseﬁ
+et al., 2000; pinton et al., 2000; vanden abeele et al.,
+2002). consistent with this view that is compatible with
+bcl-2 functioning as an ion channel or a modulator of an
+ion channel, bcl-2 reduced the steady-state [ca2+]er in
+the mcf-7 cells. this effect was even more prominent in
+cells expressing er-located bcl-2 and absent if bcl-2
+was targeted to mitochondrial membranes or cytosol,
+suggesting that bcl-2 has to physically interact with the
+er in order to reduce the [ca2+]er. indeed, recent work
+put forward a potential mechanism to explain the effect
+of bcl-2 family members on [ca2+]er, including their direct
+interaction with and phosphorylation of the er resident
+ca2+ release channel ip3r (pinton and rizzuto, 2006).
+along these lines, we cannot exclude that direct interac-
+tion of bcl-er with er membrane protein complexes
+may provide a mechanism to regulate autophagosome
+formation, which may function parallel to [ca2+]c regula-
+tion of camkk-b, described in this work.
+surprisingly, bcl-mito enhanced the eb1089-induced
+depletion of [ca2+]er. even though we do not have direct
+data to explain this phenomenon, two observations may
+provide some clue. first, er stress, which is induced by
+lowering the [ca2+]er, augments the colocalization of the
+er and mitochondrial networks, rendering bcl-mito in
+physical contact with the er (m. chami, b. oules, g.s.,
+and p. paterlini-brechot, unpublished data). second, the
+em images show that eb1089-treated bcl-mito cells
+have signiﬁcantly more dark electron-dense precipitates
+in their autophagosome-surrounded mitochondria (fig-
+ure 5a). similar precipitates appear after vast ca2+ load
+into mitochondria (pasquali-ronchetti et al., 1969), sug-
+gesting that ca2+ released by eb1089 in bcl-mito
+expressing cells is preferentially transported to the mito-
+this ca2+ load may
+chondrial matrix. consequently,
+induce mitochondrial stress and thereby enhance autoph-
+agy. in conclusion, by localizing to er and mitochondria,
+respectively, bcl-2 might inhibit the autophagy response
+by lowering the amount of free er ca2+ available for
+release and increase it via the enhanced mitochondrial
+uptake of ca2+. such a combined anti- and proautophagy
+function of bcl-2 may help to maintain autophagy at a level
+that is compatible with cell survival, rather than death.
+experimental procedures
+cell culture and treatments
+the mcf-7s1 breast carcinoma and hela cell cervix carcinoma cells
+were cultured in rpmi 1640 with glutamax (life technologies) supple-
+mented with 6% heat-inactivated fetal calf serum (fcs, biological
+industries) and antibiotics. nih3t3 murine embryonic ﬁbroblasts
+were grown in d-mem (life technologies) with 10% heat-inactivated
+fcs and 0.1 mmol/l nonessential amino acids (invitrogen). mcf10a
+breast epithelial cells expressing an ecotropic receptor were kindly
+provided by dr. joan brugge and d. lynch (harvard medical school,
+boston, ma, usa) and grown in dmem-f12 (life technologies) with
+10% heat-inactivated horse serum, 10 mg/ml insulin, 20 ng/ml epider-
+mal growth factor, 100 ng/ml choleratoxin, 500 ng/ml hydrochorti-
+sone, and antibiotics.
+eb1089 and 1,25-dihydroxyvitamin d3 were kindly provided by lise
+binderup (leo pharmaceuticals) and human tnf by anthony cerami
+(kenneth warren laboratories, tarrytown, ny, usa). ionomycin, tg,
+and 3-ma were purchased from sigma-aldrich (st. louis, mo),
+bapta/am and compound c from calbiochem, and sto-609 from
+tocris bioscience.
+transfections
+plasmids containing cdnas for wild-type bcl-2 and its organelle-
+speciﬁc mutants were kindly provided by b. leber and d.w. andrews
+(mcmaster university, hamilton, ontario, canada) and subcloned into
+the episomal vector pcep4 (invitrogen). rat lc3 inserted into pegfp-
+c1 (clontech) and pbabe-puro vectors was a generous gift from
+g. kroemer. the plasmid encoding er-aeq was described previously
+(pinton et al., 2000). cells were transfected by electroporation essen-
+tially as described before (ja¨ a¨ ttela¨ et al., 1995) with fugene hd
+(roche) according to the manufacturer’s instructions. mcf10a-ecor
+cells were infected with indicated retrovira as previously described
+(fehrenbacher et al., 2004).
+sirnas corresponding to the human cdna sequence for beclin-1
+(50-cagtttggcacaatcaata-30) and a control sirna (50-cgacc
+gagacaagcgcaag-30) were from dharmacon research, for atg7
+(50-caguggaucuaaaucucaaacugau-30)
+from invitrogen, and
+for camkk-a (50-ggaagcuuucccuacaggatt-30) and camkk-b
+(50-ggaucugaucaaaggcauctt-30) from ambion. mcf-7 and hela
+cells were transfected with 50 and 25 nm sirna, respectively, employ-
+ing oligofectamine (invitrogen).
+autophagy and apoptosis detection
+percentages of cells with egfp-lc3 translocation into dots (a mini-
+mum of 100 cells/sample) were counted in egfp-lc3 expressing cells
+ﬁxed in 3.7% formaldehyde and 0.19% picric acid (vol/vol) applying
+zeiss axiovert 100 m confocal laser scanning microscope.
+protein degradation and transmission em were evaluated as
+described previously (høyer-hansen et al., 2005). for quantifying
+autophagic cells in em images, a minimum of 30 cells was counted
+in each sample.
+cell death was analyzed by determining dna fragmentation
+(cytosolic histone-bound dna) employing the cell death detection
+elisaplus kit (roche) or by ﬂow cytometry (becton dickinson, san
+jose, ca) of cells stained with sytox green (s-7020, molecular
+probes) as described previously (høyer-hansen et al., 2005).
+immunodetection
+the primary antibodies used for immunoblot analysis included murine
+antibodies against bcl-2 (clone 124, boehringer mannheim), beclin 1
+(clone 20, bd transduction laboratories), gapdh (biogenesis), and
+p-p70s6k (thr389) (#9206, cell signaling technology, inc, danvers,
+ma); rabbit antibodies against p70s6k (#9202), ampk (#2630), and
+p-ampk (#2535) from cell signaling technology; atg7 from prosci
+incorporated (poway, ca, usa; #3617); and p-acc (#07-303) from
+upstate and hsc70 from stressgen. the appropriate peroxidase-
+conjugated secondary antibodies were from dako a/s and ecl
+immunoblotting reagents from amersham biosciences. the imagej
+and image gauge (fuji) densitometry software was used to quantify
+the proteins level.
+for immunocytochemistry, the cells were ﬁxed with 3.7% formalde-
+hyde and permeabilized in 0.2% triton x-100. after blocking in 5%
+donkey or goat serum, the slides were incubated with murine anti-
+bodies against cytochrome c (clone 6h2.b4 form pharmigen), serca
+(calbiochem), and beclin 1 (clone 20, bd transduction laboratories)
+as well as rabbit anti-bcl-2 (stressgen). the appropriate ﬂuorescent
+molecular cell 25, 193–205, january 26, 2007 ª2007 elsevier inc. 203
+secondary antibodies were from molecular probes. pictures were
+taken with a confocal laser scanning microscope (zeiss axiovert
+100m equipped with lsm510 system).
+rt-pcr
+the quantitative rt-pcr using porphobilinogen deaminase (pbdg)
+as an internal control was preformed essentially as described (rohde
+et al., 2005). the following primers were applied: camkk-a, 50-
+gacatcaagccatccaacct-30 and 50-gggcacttcccatagaca
+aa-30; camkk-b, 50-agaccaggcccgtttctact-30 and 50-gaa
+gatcttgcgggtctcag-30.
+dynamic in vivo [ca2+] measurements with targeted aequorin
+probes and fura-2
+for [ca2+]er measurements, er-aeq-transfected cells were reconsti-
+tuted with coelenterazine after er ca2+ depletion in a solution contain-
+ing [ca2+], 600 mm egta, and 1 mm ionomycin, as described (szabad-
+kai et al., 2004). cells were transferred to the perfusion chamber, and
+light signal was collected in a purpose-built luminometer and cali-
+brated into [ca2+] values (chiesa et al., 2001). all aequorin measure-
+ments were carried out in krb containing 1 mm cacl2 (krb/ca2+,
+krebs-ringer modiﬁed buffer: 135 mm nacl, 5 mm kcl, 1 mm
+mgso4, 0.4 mm k2hpo4, 1 mm cacl2, 5.5 mm glucose, and 20 mm
+hepes [ph 7.4]). kinetic imaging of [ca2+]c transients in fura-2-loaded
+cells was performed as previously described (szabadkai et al., 2004).
+statistical analysis
+independent experiments were pooled when the coefﬁcient of
+variance could be assumed identical. statistical signiﬁcance was
+evaluated by using one or two sample t tests. a p value of less than
+0.05 was considered signiﬁcant.
+supplemental data
+supplemental data include three ﬁgures and can be found with
+this article online at http://www.molecule.org/cgi/content/full/25/2/
+193/dc1/.
+acknowledgments
+we thank k. grøn henriksen, j. hinrichsen, t. chabaan, and d. czerny
+for excellent technical assistance and d. andrews, l. binderup,
+j. brugge, a. cerami, g. kroemer, b. leber, d. lynch, and b. levine
+for invaluable research tools. this work was supported by grants
+from the danish cancer society, danish medical research council,
+danish national research foundation, and meyer foundation to
+m.j., the association for international cancer research to m.j. and
+r.r., the novo nordisk foundation to m.j. and m.h.h., and the tele-
+thon-italy, italian university ministry (prin, firb, and local research
+grants), emilia-romagna prriitt program, and italian space agency
+(asi) to r.r.
+received: august 3, 2006
+revised: november 2, 2006
+accepted: december 11, 2006
+published: january 25, 2007
+references
+annis, m.g., yethon, j.a., leber, b., and andrews, d.w. (2004). there
+is more to life and death than mitochondria: bcl-2 proteins at the endo-
+plasmic reticulum. biochim. biophys. acta 1644, 115–123.
+baehrecke, e.h. (2005). autophagy: dual roles in life and death? nat.
+rev. mol. cell biol. 6, 505–510.
+molecular cell
+control of autophagy by ca2+, camkk-b, and bcl-2
+cent protein as valuable tools in the study of cell signalling. biochem. j.
+355, 1–12.
+codogno, p., and meijer, a.j. (2005). autophagy and signaling: their
+role in cell survival and cell death. cell death differ. 12 (suppl 2),
+1509–1518.
+dixon, c.j., bowler, w.b., fleetwood, p., ginty, a.f., gallagher, j.a.,
+and carron, j.a. (1997). extracellular nucleotides stimulate prolifera-
+tion in mcf-7 breast cancer cells via p2-purinoceptors. br. j. cancer
+75, 34–39.
+fehrenbacher, n., gyrd-hansen, m., poulsen, b., felbor, u., kallunki,
+t., boes, m., weber, e., leist, m., and ja¨ a¨ ttela¨ , m. (2004). sensitization
+to the lysosomal cell death pathway upon immortalization and trans-
+formation. cancer res. 64, 5301–5310.
+ferrari, d., pinton, p., szabadkai, g., chami, m., campanella, m., poz-
+zan, t., and rizzuto, r. (2002). endoplasmic reticulum, bcl-2 and ca2+
+handling in apoptosis. cell calcium 32, 413–420.
+foyouzi-yousseﬁ, r., arnaudeau, s., borner, c., kelley, w.l.,
+tschopp, j., lew, d.p., demaurex, n., and krause, k.h. (2000). bcl-
+2 decreases the free ca2+ concentration within the endoplasmic retic-
+ulum. proc. natl. acad. sci. usa 97, 5723–5728.
+gordon, p.b., holen, i., fosse, m., rotnes, j.s., and seglen, p.o.
+(1993). dependence of hepatocytic autophagy on intracellularly se-
+questered calcium. j. biol. chem. 268, 26107–26112.
+hara, t., nakamura, k., matsui, m., yamamoto, a., nakahara, y., su-
+zuki-migishima, r., yokoyama, m., mishima, k., saito, i., okano, h.,
+and mizushima, n. (2006). suppression of basal autophagy in neural
+cells causes neurodegenerative disease in mice. nature 441, 885–889.
+hawley, s.a., pan, d.a., mustard, k.j., ross, l., bain, j., edelman,
+a.m., frenguelli, b.g., and hardie, d.g. (2005). calmodulin-dependent
+protein kinase kinase-beta is an alternative upstream kinase for amp-
+activated protein kinase. cell metab. 2, 9–19.
+høyer-hansen, m., bastholm, l., mathiasen, i.s., elling, f., and ja¨ a¨ t-
+tela¨ , m. (2005). vitamin d analog eb1089 triggers dramatic lysosomal
+changes and beclin 1-mediated autophagic cell death. cell death
+differ. 12, 1297–1309.
+ja¨ a¨ ttela¨ , m., benedict, m., tewari, m., shayman, j.a., and dixit, v.m.
+(1995). bcl-x and bcl-2 inhibit tnf and fas-induced apoptosis and
+activation of phospholipase a2 in breast carcinoma cells. oncogene
+10, 2297–2305.
+kao, j.p. (1994). practical aspects of measuring [ca2+] with ﬂuores-
+cent indicators. methods cell biol. 40, 155–181.
+klionsky, d.j., cregg, j.m., dunn, w.a., jr., emr, s.d., sakai, y.,
+sandoval, i.v., sibirny, a., subramani, s., thumm, m., veenhuis, m.,
+and ohsumi, y. (2003). a uniﬁed nomenclature for yeast autophagy-
+related genes. dev. cell 5, 539–545.
+komatsu, m., waguri, s., chiba, t., murata, s., iwata, j.i., tanida, i.,
+ueno, t., koike, m., uchiyama, y., kominami, e., and tanaka, k.
+(2006). loss of autophagy in the central nervous system causes neuro-
+degeneration in mice. nature 441, 880–884.
+kroemer, g., and ja¨ a¨ ttela¨ , m. (2005). lysosomes and autophagy in cell
+death control. nat. rev. cancer 5, 886–897.
+levine, b., and klionsky, d.j. (2004). development by self-digestion:
+molecular mechanisms and biological functions of autophagy. dev.
+cell 6, 463–477.
+lum, j.j., bauer, d.e., kong, m., harris, m.h., li, c., lindsten, t., and
+thompson, c.b. (2005). growth factor regulation of autophagy and cell
+survival in the absence of apoptosis. cell 120, 237–248.
+mathiasen, i.s., sergeev, i.n., bastholm, l., elling, f., norman, a.w.,
+and ja¨ a¨ ttela¨ , m. (2002). calcium and calpain as key mediators of
+apoptosis-like death induced by vitamin d compounds in breast
+cancer cells. j. biol. chem. 277, 30738–30745.
+chiesa, a., rapizzi, e., tosello, v., pinton, p., de virgilio, m., fogarty,
+k.e., and rizzuto, r. (2001). recombinant aequorin and green ﬂuores-
+oakes, s.a., scorrano, l., opferman, j.t., bassik, m.c., nishino, m.,
+pozzan, t., and korsmeyer, s.j. (2005). proapoptotic bax and bak
+204 molecular cell 25, 193–205, january 26, 2007 ª2007 elsevier inc.
+molecular cell
+control of autophagy by ca2+, camkk-b, and bcl-2
+regulate the type 1 inositol trisphosphate receptor and calcium leak
+from the endoplasmic reticulum. proc. natl. acad. sci. usa 102,
+105–110.
+oakes, s.a., lin, s.s., and bassik, m.c. (2006). the control of endo-
+plasmic reticulum-initiated apoptosis by the bcl-2 family of proteins.
+curr. mol. med. 6, 99–109.
+onodera, j., and ohsumi, y. (2005). autophagy is required for mainte-
+nance of amino acid levels and protein synthesis under nitrogen
+starvation. j. biol. chem. 280, 31582–31586.
+pasquali-ronchetti, i., greenawalt, j.w., and carafoli, e. (1969). on
+the nature of the dense matrix granules of normal mitochondria.
+j. cell biol. 40, 565–568.
+pattingre, s., tassa, a., qu, x., garuti, r., liang, x.h., mizushima, n.,
+packer, m., schneider, m.d., and levine, b. (2005). bcl-2 antiapop-
+totic proteins inhibit beclin 1-dependent autophagy. cell 122,
+927–939.
+pinton, p., and rizzuto, r. (2006). bcl-2 and ca(2+) homeostasis in the
+endoplasmic reticulum. cell death differ. 13, 1409–1418.
+pinton, p., ferrari, d., magalhaes, p., schulze-osthoff, k., di virgilio,
+f., pozzan, t., and rizzuto, r. (2000). reduced loading of intracellular
+ca(2+) stores and downregulation of capacitative ca(2+) inﬂux in
+bcl-2-overexpressing cells. j. cell biol. 148, 857–862.
+qu, x., yu, j., bhagat, g., furuya, n., hibshoosh, h., troxel, a., rosen,
+j., eskelinen, e.l., mizushima, n., ohsumi, y., et al. (2003). promotion
+of tumorigenesis by heterozygous disruption of the beclin 1 autophagy
+gene. j. clin. invest. 112, 1809–1820.
+ravikumar, b., vacher, c., berger, z., davies, j.e., luo, s., oroz, l.g.,
+scaravilli, f., easton, d.f., duden, r., o’kane, c.j., and rubinsztein,
+d.c. (2004). inhibition of mtor induces autophagy and reduces toxic-
+ity of polyglutamine expansions in ﬂy and mouse models of huntington
+disease. nat. genet. 36, 585–595.
+rohde, m., daugaard, m., jensen, m.h., helin, k., nylandsted, j., and
+ja¨ a¨ ttela¨ , m. (2005). members of the heat-shock protein 70 family
+promote cancer cell growth by distinct mechanisms. genes dev. 19,
+570–582.
+sarbassov, d.d., ali, s.m., and sabatini, d.m. (2005). growing roles for
+the mtor pathway. curr. opin. cell biol. 17, 596–603.
+shaw, r.j., bardeesy, n., manning, b.d., lopez, l., kosmatka, m.,
+depinho, r.a., and cantley, l.c. (2004). the lkb1 tumor suppressor
+negatively regulates mtor signaling. cancer cell 6, 91–99.
+shimizu, s., kanaseki, t., mizushima, n., mizuta, t., arakawa-kobaya-
+shi, s., thompson, c.b., and tsujimoto, y. (2004). role of bcl-2 family
+proteins in a non-apoptotic programmed cell death dependent on
+autophagy genes. nat. cell biol. 6, 1221–1228.
+szabadkai, g., varnai, p., and enyedi, p. (1999). selective inhibition of
+potassium-stimulated rat adrenal glomerulosa cells by ruthenium red.
+biochem. pharmacol. 57, 209–218.
+szabadkai, g., simoni, a.m., chami, m., wieckowski, m.r., youle,
+r.j., and rizzuto, r. (2004). drp-1-dependent division of the mito-
+chondrial network blocks intraorganellar ca2+ waves and protects
+against ca2+-mediated apoptosis. mol. cell 16, 59–68.
+inuzuka, h., ishikawa, y.,
+tokumitsu, h.,
+i., and
+kobayashi, r. (2002). sto-609, a speciﬁc inhibitor of the ca(2+)/
+calmodulin-dependent protein kinase kinase. j. biol. chem. 277,
+15813–15818.
+ikeda, m., saji,
+tsujimoto, y., and shimizu, s. (2005). another way to die: autophagic
+programmed cell death. cell death differ. 12 (suppl 2), 1528–1534.
+vanden abeele, f., skryma, r., shuba, y., van coppenolle, f.,
+slomianny, c., roudbaraki, m., mauroy, b., wuytack, f., and prevar-
+skaya, n. (2002). bcl-2-dependent modulation of ca(2+) homeostasis
+and store-operated channels in prostate cancer cells. cancer cell 1,
+169–179.
+wang, z., wilson, w.a., fujino, m.a., and roach, p.j. (2001). antago-
+nistic controls of autophagy and glycogen accumulation by snf1p, the
+yeast homolog of amp-activated protein kinase, and the cyclin-
+dependent kinase pho85p. mol. cell. biol. 21, 5742–5752.
+white, c., li, c., yang, j., petrenko, n.b., madesh, m., thompson,
+c.b., and foskett, j.k. (2005). the endoplasmic reticulum gateway
+to apoptosis by bcl-x(l) modulation of the insp3r. nat. cell biol. 7,
+1021–1028.
+woods, a., dickerson, k., heath, r., hong, s.p., momcilovic, m.,
+johnstone, s.r., carlson, m., and carling, d.
+(2005). ca2+/
+calmodulin-dependent protein kinase kinase-beta acts upstream of
+amp-activated protein kinase in mammalian cells. cell metab. 2,
+21–33.
+yue, z., jin, s., yang, c., levine, a.j., and heintz, n. (2003). beclin 1,
+an autophagy gene essential for early embryonic development, is
+a haploinsufﬁcient tumor suppressor. proc. natl. acad. sci. usa
+100, 15077–15082.
+zhu, w., cowie, a., wasfy, g.w., penn, l.z., leber, b., and andrews,
+d.w. (1996). bcl-2 mutants with restricted subcellular location reveal
+spatially disinct pathways for apoptosis in different cell types. embo
+j. 15, 4130–4141.
+molecular cell 25, 193–205, january 26, 2007 ª2007 elsevier inc. 205

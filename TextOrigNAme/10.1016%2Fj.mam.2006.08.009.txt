@@ -1,0 +1,741 @@
+molecular aspects of medicine 27 (2006) 503–519
+www.elsevier.com/locate/mam
+review
+neuronal macroautophagy: from
+development to degeneration
+barry boland a, ralph a. nixon b,c,*
+a department of pharmacology, oxford university, oxford ox13qt, united kingdom
+b center for dementia research, nathan kline institute, orangeburg, ny 10962, usa
+c departments of psychiatry and cell biology, new york university, new york, ny 10016, usa
+abstract
+macroautophagy, a lysosomal pathway responsible for the turnover of organelles and long-
+lived proteins, has been regarded mainly as an inducible process in neurons, which is mobilized
+in states of stress and injury. new studies show, however, that macroautophagy is also consti-
+tutively active in healthy neurons and is vital to cell survival. neurons in the brain, unlike cells
+in the periphery, are protected from large-scale autophagy induction because they can use sev-
+eral diﬀerent energy sources optimally, receive additional nutrients and neurotrophin support
+from glial cells, and beneﬁt from hypothalamic regulation of peripheral nutrient supplies. due
+to its exceptional eﬃciency, constitutive autophagy in healthy neurons proceeds in the absence
+of easily detectable autophagic vacuole intermediates. these intermediates can accumulate
+rapidly, however, when late steps in the autophagic process are blocked. autophagic vacuoles
+also accumulate abnormally in aﬀected neurons of several major neurodegenerative diseases,
+including alzheimer’s disease and parkinson’s disease, where they have been linked to various
+aspects of disease pathogenesis including neuronal cell death. the build-up of autophagic vac-
+uoles in these neurological disorders and others may reﬂect either heightened autophagy
+induction, impairment in later digestive steps in the autophagy pathway, or both. determining
+the basis for av accumulation is critical for understanding the pathogenic signiﬁcance of
+autophagy in a given pathologic state and for designing possible therapies based on modulat-
+ing autophagy. in this review, we discuss the special features of autophagy regulation in the
+* corresponding author. address: nathan kline institute, new york university, school of medicine,
+140 old orangeburg road, orangeburg, ny 10962, usa. tel.: +1 845 398 5423; fax: +1 845 398 5422.
+e-mail address: nixon@nki.rfmh.org (r.a. nixon).
+0098-2997/$ - see front matter ó 2006 elsevier ltd. all rights reserved.
+doi:10.1016/j.mam.2006.08.009
+504
+b. boland, r.a. nixon / molecular aspects of medicine 27 (2006) 503–519
+brain, its suspected roles in neurodevelopment and plasticity, and recent progress toward
+understanding how dysfunctional autophagy contributes to neurodegenerative disease.
+ó 2006 elsevier ltd. all rights reserved.
+contents
+1.
+introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 504
+1.1. resistance of brain to autophagy induction by peripheral nutrient
+ﬂuctuation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 506
+1.2. neuronal autophagy in physiological states . . . . . . . . . . . . . . . . . . . . . . 507
+1.3. autophagy in brain development and plasticity . . . . . . . . . . . . . . . . . . . 510
+1.4. autophagy in neurodegeneration . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 511
+2. conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 514
+acknowledgements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 515
+references . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 515
+1. introduction
+cell survival depends on the capacity to change metabolic states in response to
+external stimuli that vary from early development to senescence. depending on
+the availability of nutrients (proteins, carbohydrates, and lipids) or trophic stimuli
+(growth factors and hormones), cells can switch metabolically from an anabolic state
+to one of catabolism. the turnover of cytoplasmic constituents for energy is regu-
+lated by the endosomal/autophagic/lysosomal (eal) system, complementing the
+degradation of most short-lived proteins by the ubiquitin-proteasome system.
+autophagy is the general term used to describe the ‘‘self-eating’’ or catabolism of
+cytoplasm, including organelles, which may occur by at least three distinct routes:
+chaperone-mediated autophagy (cma); microautophagy; and macroautophagy.
+while all three forms of autophagy ultimately end with the degradation of substrates
+within lysosomes, each process has unique features. chaperone-mediated autophagy
+involves the selective targeting of proteins containing a kferq-like peptide motif
+to lysosomes for degradation (majeski and dice, 2004), while microautophagy
+involves the pinocytosis of small quantities of cytosol directly by lysosomes (muller
+et al., 2000). the third form of autophagy, known as macroautophagy, involves the
+sequestration of cytosolic regions containing proteins, sugars, lipids, rna, and
+organelles, such as mitochondria, and perixosomes into double-membraned vacuoles
+that deliver their contents to late endosomal and lysosomal compartments for deg-
+radation (shintani and klionsky, 2004). while basal levels of autophagy ensure that
+intracellular protein aggregates and expired mitochondria are removed (brunk and
+terman, 2002; komatsu et al., 2005), autophagy has been largely recognized as an
+inducible process due to its markedly heightened activity by nutrient or growth fac-
+tor-deprivation, stress or pathogenic invasion (levine, 2005; kiﬃn et al., 2006).
+b. boland, r.a. nixon / molecular aspects of medicine 27 (2006) 503–519
+505
+when macroautophagy is induced, the sequestration of large regions of cytosol into
+autophagic vacuoles (avs), often with a diameter of 0.5 lm or larger, makes it the
+largest contributor to autophagic proteolysis, compared to cma and microauto-
+phagy (massey et al., 2006).
+although macroautophagy (hereafter referred to as autophagy) and protein syn-
+thesis are at opposite ends of the metabolic spectrum, both mechanisms are sensitive
+to intracellular amino acid levels and share a common signaling pathway, which is
+regulated by the growth regulating kinase, mtor (mammalian target of rapamycin)
+(beugnet et al., 2003). phosphorylation of mtor via the pi3 kinase/akt-signaling
+pathway induces protein synthesis, while mtor dephosphorylation inhibits protein
+synthesis and is linked with autophagy activation (somwar et al., 1998). mtor-
+mediated autophagy is particularly sensitive to the availability of speciﬁc amino
+acids (e.g. leucine and histidine), insulin, growth factors, and atp, and if the levels
+of any of these regulators decrease autophagy is activated (proud et al., 2001; lum
+et al., 2005).
+to date, seven autophagy-related ‘‘atg’’ proteins are known to directly regulate
+the formation of avs (for a detailed review see (ohsumi, 2001; levine and klionsky,
+2004). firstly, the atg12 ubiquitin-like conjugation system, comprised of atg 5, 7,
+10, and 12, regulates the elongation of the av isolation membrane, known as a
+phagophore (mizushima et al., 1998, 2001). secondly, the atg8 conjugation system
+(atg 3, 4, 7 and 8) regulates the attachment of the phospholipid, phosphatidyleth-
+anolamine (pe) to atg8 (ichimura et al., 2000). a mammalian homolog of atg8,
+which was ﬁrst characterized in yeast cells, is known as microtubule-associated pro-
+tein light chain 3 (map-lc3) (lang et al., 1998; ohsumi, 2001). map-lc3 is nor-
+mally cleaved from microtubule-associated proteins 1a and b by a cysteine protease,
+producing the cytosolic lc3-i isoform (kabeya et al., 2000). the neuronal cyto-
+plasm is densely packed with microtubules, and as a result, lc3-i is found abun-
+dantly throughout the neuronal cytoskeleton (mizushima, 2004; boland et al,
+unpublished observations, 2006).
+metabolic regulation of autophagic proteolysis was ﬁrst proposed by de duve and
+colleagues in the 1960s using cell fractionation and electron microscopy analyses of
+rat liver cells. in the 1980s, autophagy-signaling pathways were mainly characterized
+in yeast cells; however, the liver continues to be the most extensively used organ/cell
+type for research on mammalian autophagy. the ﬂuctuating presence of autophagy
+modulators, such as free amino acids, insulin, and adrenaline, and activators, such
+as glucagon, in the liver’s blood supply makes hepatocytes an ideal cell type to study
+autophagy repression and activation (seglen et al., 1991). nutrient supply to the
+brain, by contrast, is tightly regulated and autophagy induction is not apparent in
+cortical regions of the mouse brain, even after 48 h of food deprivation (mizushima,
+2004). to understand the brain’s resistance to starvation-induced autophagy, it is
+important to consider the unique adaptive mechanisms that protect neurons from
+nutritional deprivation and the unwanted repercussions of large-scale autophagy acti-
+vation. in this review, we will discuss why ongoing autophagy is less apparent in the
+healthy brain than in other tissues. we will also consider recent studies that suggest
+neuronal autophagy fulﬁlls important survival functions in neurodevelopment and
+506
+b. boland, r.a. nixon / molecular aspects of medicine 27 (2006) 503–519
+in mature neurons. finally, we will discuss the implications of autophagy dysfunction
+in neurodegenerative disease and the importance of distinguishing among varying
+possible molecular bases for autophagy-related pathology to deﬁne new therapeutic
+interventions in these disorders.
+1.1. resistance of brain to autophagy induction by peripheral nutrient ﬂuctuation
+despite using the greatest percentage of total body energy, the brain contains
+minimal energy reserves and is highly dependent on an external supply of nutrients.
+the selective uptake of substrates, such as glucose and amino acids (vannucci et al.,
+1997; hawkins et al., 2006), and peptide hormones, such as insulin and leptin
+(banks, 2004; zhang et al., 2005), across the blood-brain-barrier ensures optimal
+nutrient entry into the brain. when nutrient availability is low, the brain maintains
+a suﬃcient nutrient supply by increasing the catabolism of glycogen, adipose fat, and
+muscle from peripheral sources. glucose-sensitive neurons in the hypothalamus
+adjust peripheral glucose levels by autonomic stimulation of the pancreas to release
+glucagon and insulin, the adrenal medulla to release adrenaline and noradrenaline,
+and the pituitary gland to release hormones that regulate glucocorticoid and thyroid
+hormone levels (uyama et al., 2004). in addition to raising peripheral glucose levels,
+the autophagy-stimulating peptide, glucagon, increases free amino acid levels by
+fig. 1. the brain regulates peripheral glucose levels and autophagy through shared pathways. the brains
+ability to prioritize nutrient supply to itself at the expense of peripheral stores, prevents neurons
+undergoing starvation-induced autophagy in vivo. acutely sensitive hypothalamic neurons initiate the
+release of autophagic regulators, insulin and glucagon, in response to high or low nutrient availability. in
+addition, the blood brain barrier restricts insulin and glucagon access into the brain, prioritizing their
+eﬀects on peripheral tissues such as the liver, muscle and adipose fat. while the hypothalamus is most
+widely recognized as a brain region responsible for the regulation of glucose levels, it may also be
+considered the hierarchical regulator of autophagy in vivo.
+b. boland, r.a. nixon / molecular aspects of medicine 27 (2006) 503–519
+507
+inducing both glycogen breakdown and autophagy in the liver (deter and de duve,
+1967). insulin also assumes the dual function of increasing glucose uptake into cells
+while inhibiting autophagy (pfeifer, 1977). the hypothalamus, therefore, may be
+considered the hierarchical regulator of autophagy in vivo, in addition to its role
+as a regulator of blood glucose levels (fig. 1). phospho-mtor is particularly abun-
+dant in the paraventricular and arcuate neurons of the hypothalamus and is respon-
+sive to peripheral nutrient ﬂuctuation (cota et al., 2006). although mtor activity is
+minimally aﬀected in cortical and hippocampal regions of the brain by prolonged
+starvation for up to 48 h, mtor activity declines after 24 h of starvation in hypotha-
+lamic arcuate neurons and inﬂuences food intake in mice (cota et al., 2006).
+while large-scale autophagy in neurons is undesirable, constitutive autophagy is
+now recognized as a vital housekeeping function (komatsu et al., 2005). although
+autophagy helps to maintain energy stores, it also requires atp, the availability
+of which inﬂuences activity (sakai and ogawa, 1982). therefore, in addition to reg-
+ulating peripheral nutrient supply, the brain has evolved mechanisms that ensure
+optimal availability and utilization of energy substrates at a local level. neurons
+ensure maximum glucose utilization by having superior glucose uptake and higher
+expression of the glucose-degrading enzyme, hexokinase, compared to glial cells (van-
+nucci et al., 1997; cimino et al., 1998). neurons are also able to self-regulate synaptic
+activity depending on atp availability, which is mediated by atp-sensitive potas-
+sium channels ðkþ
+atpþ (peters et al., 2004). if atp levels progressively decline during
+profound hypoglycemia, reduced atp inhibition of kþ
+atp channels allows k+ ion
+inﬂux to hyperpolarize neurons, which decreases neurotransmission (levin et al.,
+2001). the ‘‘global silencing’’ of the brain that occurs during extreme starvation, dia-
+betes, and stroke, is believed to protect neurons from degenerating (mobbs et al.,
+2001) and may have interesting implications for neuronal autophagy regulation.
+neurons are also protected from nutrient deprivation at a local level by glial cells,
+which provide more than just scaﬀold-based support for neurons. glial cells release
+growth factors, cytokines, and other substrates that are essential for neuron survival.
+in the absence of vital growth factors such as ngf and/or gdnf, sympathetic gan-
+glion neurons die with extensive autophagic involvement (yu et al., 2003), highlight-
+ing roles of glial-derived growth factors in regulating neuronal autophagy as well as
+anabolic signaling. the brain stores minimal amounts of glycogen compared to other
+organs, and these stores are almost exclusively found in astrocytes (phelps, 1972).
+when blood glucose levels are low, astrocytic glycogen is degraded into lactate,
+ketones and glucose, which are released at gap junctions to nearby neurons (guzman
+and blazquez, 2001; ghosh et al., 2005). unlike most cells, neurons have evolved the
+ability to metabolize either glucose, lactate, or ketones, depending on which source is
+available (peters et al., 2004), thus ensuring neuronal energy supply is not compro-
+mised in times of low glucose availability.
+1.2. neuronal autophagy in physiological states
+after the discovery of lysosomes by de duve in the 1960s, neurons became a focus
+of early morphological investigations of autophagy (holtzman and novikoﬀ, 1965).
+508
+b. boland, r.a. nixon / molecular aspects of medicine 27 (2006) 503–519
+some of the ﬁrst important insights into the dynamic mechanisms of this process,
+however, came several decades later by hollenbeck and colleagues, whose studies
+characterized autophagosome-related compartments, their retrograde transport,
+and progressive maturation and fusion with lysosomes along neuritic processes (hol-
+lenbeck, 1993). by reporting on active real-time av formation at distal axonal
+regions, hollenbeck provided evidence that constitutive neuronal autophagy may
+serve as both a key mechanism for remodeling neurite and growth cone structure
+during neurite extension and as a neuroprotective mechanism by removing damaged
+proteins and organelles that may otherwise accumulate within axons. recent addi-
+tional studies have emphasized the importance of eﬃcient bi-directional vesicular
+transport and retrograde signaling for neuronal survival (bannai et al., 2004; reic-
+hardt and mobley, 2004).
+despite indications of active autophagy in developing cultured neurons, detec-
+tion of constitutive autophagy activity in neurons of the adult brain was elusive
+until recently. unlike ﬁbroblasts and hepatocytes that contain considerable num-
+bers of avs in nutrient-rich conditions, healthy neurons contain few avs (nixon
+et al., 2005) and express low levels of autophagosome-bound lc3-ii relative to
+lc3-i, which is several orders of magnitude more abundant (mizushima, 2004;
+yu et al., 2005). the unchanging levels and distribution of lc3-ii in the cortex
+after nutrient deprivation in mice also initially reinforced the idea that autophagy
+is minimally active in brain. however, this idea seemed at odds with the fact that
+macroautophagy is the only mechanism available to cells for the turnover of organ-
+elles: these structures have ﬁnite half-lives and neurons survive many decades.
+indeed, constitutive autophagy has recently been shown to be an indispensable
+function in neurons based on studies of transgenic mice in which either of two
+atg genes required for autophagy function were deleted speciﬁcally from neurons.
+mice lacking either atg5 or atg7 exhibit motor and behavioral deﬁcits by p14 as
+well as degeneration and loss of purkinje cell neurons in the cerebellum and pyra-
+midal neurons in the hippocampus (hara et al., 2006; komatsu et al., 2006). diﬀuse
+protein aggregates appear in surviving neurons within these brain regions and oth-
+ers, culminating in the formation of toxic inclusion bodies. because neuronal pro-
+teasome activity is not reduced in these mouse models, the results imply that
+autophagy is normally responsible for clearing aggregated proteins that are not
+degraded by the proteasome (rideout et al., 2004). severe neurodegeneration in
+mice that are deﬁcient in neuronal autophagy underscores the importance of con-
+stitutive autophagy for neuronal survival.
+the observation that avs are generally scarce in brain tissue although autophagy
+is active in healthy neurons can now also be understood from the kinetics of av for-
+mation and degradation. it has been shown that lc3-ii levels and distribution at a
+single point in time do not accurately represent levels of autophagic activity: auto-
+phagosome markers, such as lc3-ii, rise if autophagy is either induced or is blocked
+at a later autophagy step that slows or prevents degradation of the marker (tanida
+et al., 2004). this concept, applied to the brain, suggests that a very low frequency of
+autophagy intermediates, such as autophagosomes, can reﬂect either a low rate of
+autophagy or the eﬃciency of autophagosome turnover (and lc3-ii degradation)
+b. boland, r.a. nixon / molecular aspects of medicine 27 (2006) 503–519
+509
+av accumulation  =
+rate of av formation      –
+rate of av degradation
+induction signaling
+formation of phagophore
+elongation of phagophore
+sequestration of material
+av transport
+av fusion with endosomes/lysosomes
+hydrolytic av degradation
+fig. 2. av accumulation can arise from a change in the balance between av formation and av
+degradation, which are inﬂuenced in turn, by many factors, including several listed here.
+is very high. recent studies of neurons (boland et al., submitted) support this idea.
+primary neurons in culture have few avs but transiently accumulate many lc3-ii-
+positive autophagosomes after induction with rapamycin or serum withdrawal.
+inhibiting cathepsin activity, however, also rapidly and markedly elevates lc3-ii
+and increases numbers of autophagosomes without changing the activity of mtor,
+an index of autophagy induction. these observations imply that constitutive
+autophagy in neurons is quite active but is exceptionally eﬃcient at eliminating auto-
+phagosomes and later stage autophagic vacuoles once they are formed. a highly eﬃ-
+cient av processing system in cells that are also largely protected from nutritional
+ﬂuctuations could partly explain why few avs are normally seen in healthy neurons
+of the brain.
+these foregoing studies emphasize that ancillary criteria beyond the levels of
+autophagosome markers are required to accurately interpret the basis for any
+av accumulation within cells. distinguishing among factors that modulate the
+rate of av formation and the rate of av degradation (fig. 2) is now critical
+for understanding the basis for av accumulation in pathologic states and for
+interpreting how dyfunctional autophagy contributes to disease development
+(chu, 2006). indices of autophagy signaling and induction based on the activity
+of mtor and indices of autophagic protein turnover eﬃciency, such as metabolic
+labeling analyses (massey et al., 2006), have become essential to an assessment of
+autophagy in pathologic states. although single timepoint measurements of lc3-
+ii expression are diﬃcult to interpret, levels measured at multiple timepoints can
+be more informative; a tapering over time of an initial rise in lc3-ii, for exam-
+ple, is commonly seen with autophagy induction, while a progressive increase in
+lc3-ii over time is more consistent with impaired degradation (tanida et al.,
+2004). the morphology of diﬀerent populations of avs accumulating in neuro-
+pathological states is also informative when characterizing pathologic autophagy
+responses. as shown in fig. 3, for example, the avs associated with autophagy
+induction in primary cortical neurons are quite distinct from those that accumu-
+late when av fusion is impaired by vinblastine-induced disruption of the cyto-
+skeleton for short or long periods, or when degradation of autophagic cargoes
+is blocked by inhibiting lysosomal enzymes (henell and glaumann, 1984; tanida
+et al., 2004) (fig. 3, unpublished observations).
+510
+b. boland, r.a. nixon / molecular aspects of medicine 27 (2006) 503–519
+fig. 3. autophagic vacuole morphology in primary neurons after perturbations of macroautophagy. avs
+(arrows) appearing after induction by nutrient withdrawal (a) exhibit diﬀerent morphological features
+compared to those accumulating after inhibiting autophagosome-lysosome fusion with vinblastine (b, c).
+after short periods of vinvblastine treatment (1 h), distinct organellar structures are visible within enlarged
+vesicular compartments (b). after a longer treatment (6 h), a limited degree of hydrolysis with the av
+renders the intralumenal contents more electrons-dense and more homogeneous (c). in panel d, inhibition
+of cathepsins d, b and l by exposure of neurons to the protease inhibitors pepstatin and leupeptin yielded
+avs and autolysosomes with morphology distinct from that seen in a–c. the morphologic features of
+accumulating avs may be helpful in deﬁning the basis for a given autophagy pathology in disease states.
+magniﬁcation bar: 2 lm.
+1.3. autophagy in brain development and plasticity
+the involvement of autophagy in cell diﬀerentiation and development has been
+mainly studied in yeast, plants, nematodes, and ﬂies (levine and klionsky, 2004),
+although early morphologic studies of brain development were the basis for deﬁn-
+ing a form of neuronal programmed cell death (pcd) distinct from apoptosis and
+necrosis, called autophagic cell death (acd) (cao et al., 2006), which is character-
+ized by a marked proliferation of avs and the progressive disappearance of organ-
+elles (schweichel and merker, 1973; clarke, 1990). in acd, neurons destined for
+elimination internalize cytoplasmic components into autophagic compartments to
+eﬀect self-degradation. death occurs by hyperactive autophagy and an important
+criterion for preventing or slowing acd is by inhibiting autophagy (nixon and
+cataldo, 2006). while this concept has been validated for cells in some developing
+tissues (baehrecke, 2005), few examples of acd in brain tissue are well established
+by these criteria (nixon and cataldo, 2006). insights into the importance of
+autophagy in pcd during brain development, however, will
+likely come from
+the studies of mice in which either the atg5 or atg7 genes required for autophago-
+some formation are deleted speciﬁcally in neurons (hara et al., 2006; komatsu
+b. boland, r.a. nixon / molecular aspects of medicine 27 (2006) 503–519
+511
+et al., 2006). these mice survive to an early postnatal age indicating that brain
+development is still possible in the absence of atg5 or atg6, even though many pop-
+ulations later degenerate. because neural circuitry has not yet been analyzed, how-
+ever, the question of whether or not autophagy is essential for development,
+connectivity, or pcd of speciﬁc neuronal populations in developing mammalian
+brain is yet to be answered fully. it will also be important to establish in these
+future studies whether or not developing neurons compensate in some way for
+the loss of atg5 or atg7 function by inducing other
+lysosomal
+degradation.
+forms of
+the importance of beclin 1 (autophagy gene 6; atg6), a component of a pi3
+kinase protein complex essential for autophagy induction and cell growth control
+(liang et al., 1999; kihara et al., 2001), has also been investigated by generating mice
+lacking this gene. although no report has been published to date on neuronal defects
+in these beclin 1 ( / ) mice, their death at approximately 7.5 days in utero indicates
+that embryonic development is severely impaired (yue et al., 2003). the basis for a
+more profound eﬀect on embryogenesis when beclin 1 is deleted, compared to that
+seen in atg5 and atg7 null mice is not clear but might reﬂect more pervasive eﬀects
+of beclin 1 on cell function or, possibly, less eﬀective compensatory mechanisms in
+neurons for the loss of beclin 1 function.
+in the adult brain, long-term synaptic plasticity involves remodeling of nerve ter-
+minals not unlike the remodeling that occurs in developing neurons as they extend
+processes and form connections. this plasticity, which underlies long-term potenti-
+ation (ltp) and depression (ltd) (tang et al., 2002; hou and klann, 2004), is
+maintained partly by local protein synthesis at synaptic regions (steward and schu-
+man, 2001). the abundance of mtor in hippocampal dendrites has been interpreted
+as evidence for pre-synaptic protein synthesis and is supported by additional obser-
+vations that several translational proteins that are regulated by mtor, such as 4e-
+bp1, 4ebp-2, and eif-4e, are also present in post-synaptic hippocampal dendrites.
+notably, mtor activity appears to modulate post-synaptic ltp and ltd as well as
+nmda and ampa-mediated protein synthesis in dendrites (gong et al., 2006).
+autophagy, however, also regulates gabaa receptor traﬃcking and degradation
+via the atg8 homolog, gabarap (gaba receptor associated protein) (leil
+et al., 2004; rowland et al., 2006). it is, therefore, interesting to speculate that the
+regulation at synapses of both autophagy and protein synthesis by mtor activity
+is critical for diﬀerent aspects of synaptic plasticity and that mtor might act as a
+critical switch point that suppresses autophagy during synaptic strengthening
+(ltp) and induces it during ltd.
+1.4. autophagy in neurodegeneration
+while the brain is relatively protected from autophagy induction by nutritional
+deprivation compared to other tissues, neurons are, nevertheless, responsive to other
+stimuli that induce autophagy, particularly in pathologic states. neurotrophin
+deprivation, often a factor in neurodegeneration, is a strong stimulus for autophagy
+induction (xue et al., 1999). toxic factors, such as abnormal protein aggregation,
+512
+b. boland, r.a. nixon / molecular aspects of medicine 27 (2006) 503–519
+also stimulate autophagy in disease states (fortun et al., 2003; yamamoto et al.,
+2006), using in some cases a route that bypasses the nutrient-regulated mtor path-
+way (yamamoto et al., 2006). in addition, other pathologic factors impair the exe-
+cution of autophagy during its normal housekeeping role or after its induction in
+response to stress. as discussed earlier, either induction or impaired autophagy exe-
+cution in neurons can promote av accumulations, which are increasingly reported
+as pathological ﬁndings in certain neurodegenerative disorders. although av prolif-
+eration in degenerating cells has often been interpreted as an indication that autoph-
+agy over-activation is mediating neurodegeneration or acd, an alternative view is
+emerging that autophagy is induced in most of these disease settings to protect neu-
+rons by eliminating abnormal and potentially toxic proteins and organelles that
+might trigger injury or apoptosis (levine and yuan, 2005; nixon and cataldo,
+2006). degeneration and cell death can subsequently develop when etiologic factors
+in the disease directly or indirectly impair the eﬃcacy of autophagy in its neuropro-
+tective role. in some cases, progressive damage and destabilization of the membranes
+of the accumulating avs and lysosomes can lead to the cytoplasmic release of lyso-
+somal hydrolases and cell death (nixon and cataldo, 2006; kroemer and jaattela,
+2005).
+while the necessary criteria to establish acd have been applied to only a few
+neuropathological states so far, overactive autophagy seems to be a key factor medi-
+ating the degeneration of purkinje neurons in lurcher mice, which express a mutant
+form of the ionotropic glutamate receptor, grid2 (yue et al., 2002). an interaction
+between grid2 and beclin1 is the ﬁrst example of a direct link between neurotrans-
+mitter receptor function and autophagy regulation (yue et al., 2002). the possible
+modulation of autophagy by a grid2-beclin 1 interaction, and the role of gaba-
+rap in autophagy regulation and gaba receptor traﬃcking (kabeya et al.,
+2000), suggest important relationships between neurotransmission and autophagy
+activation in neurons, which might provide insights into the role of autophagy in
+excitotoxin-mediated neurodegeneration. autophagy is also activated in neurons
+exposed to hypoxic (zhu et al., 2005) or excitotoxic stimuli (borsello et al., 2003);
+however, an incisive role of autophagy over-activation in the degenerative process
+is not yet established. a pharmacological inhibitor of autophagy, 3-methyladenine
+(3ma), has also been shown to protect against cell death in certain in vitro settings,
+including chloroquine-treated cortical neurons (zaidi et al., 2001), nerve growth fac-
+tor (ngf)-deprived sympathetic neurons (xue et al., 1999), and cerebellar granule
+cells deprived of serum and k+ (canu et al., 2005). autophagy in these examples
+is considered to be either a triggering stimulus or a partner with either apoptotic
+or necrotic mechanisms in the cell death process (levine and yuan, 2005).
+in other neurodegenerative disease states
+in which autophagy has been
+implicated, the evidence suggests that neuronal cell death stems from a failure of
+autophagy to sustain an adequate level of degradative activity rather than overactive
+autophagy. studies of atg5 and atg7 gene deletion underscore the importance of a
+constitutive level of autophagosome formation for neuronal survival even in the
+absence of any disease factor that could elicit an autophagic response. further sup-
+porting the pathogenic signiﬁcance of autophagy failure are observations that
+b. boland, r.a. nixon / molecular aspects of medicine 27 (2006) 503–519
+513
+impeding the actions of one or more cathepsins essential for degrading autophago-
+some cargoes is associated with progressive neurodegeneration as shown in cathep-
+sin d ( / ) mice and cathepsin b and l ( / ) mice (koike et al., 2005). autophagy
+dysfunction associated with av accumulation in neurons can also arise from
+impaired vesicular transport (stokin et al., 2005), defective fusion of autophago-
+somes with lysosomes (ravikumar et al., 2005), or reduced lysosomal activity (bi
+et al., 1999). autophagosome–lysosome fusion is slowed in aging cells (terman,
+1995) and the accumulation of dysfunctional mitochondria in aging neurons (brunk
+and terman, 2002) lends additional support to the idea that age-related impairments
+of autophagy are likely to be an important factor in the development of some late-
+age-onset neurodegenerative diseases. the appearance of oxidative stress in the
+brain in many of these aging-related disorders may involve, in part, the impaired
+degradation of mitochondria (‘‘mitophagy’’), a major contributing factor to oxida-
+tive stress (lemasters, 2005).
+the emerging view that autophagy is initially induced as a neuroprotective
+response in stressed or injured neurons but is subsequently overwhelmed or
+impaired by disease-related factors could partly account for evidence that autophagy
+seems to be both induced and impaired in several major neurodegenerative diseases,
+including alzheimer’s disease (ad). impaired autophagic function in ad is evi-
+denced by a massive build-up of autophagy intermediates especially within dystro-
+phic dendrites of aﬀected neurons, indicating that the usually eﬃcient progression
+of autophagosomes to lysosomes is impeded (nixon et al., 2005). autophago-
+some–lysosome fusion is already known to be slowed by normal cell aging (marti-
+nez-vicente et al., 2005) and additional risk factors for ad, including mutations of
+presenilin, impair autophagy (nixon et al., in press; cataldo et al., 2004). autopha-
+gic vacuoles are highly enriched in c-secretase and actively generate the toxic amy-
+loid-b peptide (ab) during autophagy (yu et al., 2005). although normally most of
+the generated ab would be degraded within lysosomes, in ad and transgenic ad
+models, the marked buildup of autophagic intermediates within an impaired
+autophagy pathway is a signiﬁcant source and intracellular reservoir of ab (yu
+et al., 2005). ab within lysosomal compartments can destabilize av membranes
+and trigger release of hydrolytic enzymes into the cytoplasm (glabe, 2001). the
+e4 variant of the cholesterol carrier apolipoprotein e (apoe), a strong risk factor
+for ad, compounds this membrane injury (ji et al., 2002). therefore, in light of evi-
+dence that constitutive autophagy is required for neuron survival, a strong link
+seems to exist between ad, autophagic failure, neurodegeneration, amyloidogenesis,
+and possibly the intracellular accumulation of other disease-related proteins such as
+tau.
+autophagy failure in the presence of autophagy induction is also evident in other
+neurological disorders. juvenile neuronal ceroid lipofuscinosis caused by mutations
+of an endosomal/lysosomal membrane protein encoded by cln3, causes mental
+retardation, dementia and extensive neurodegeneration (cao et al., 2006). a genetic
+model of the disease, the cln3 ( / ) mouse, exhibits neurodegeneration associated
+with accumulations of avs containing incompletely degraded proteins, which is
+indicative of impaired autophagic proteolysis. metabolic studies of cln3 ( / )
+514
+b. boland, r.a. nixon / molecular aspects of medicine 27 (2006) 503–519
+mice conﬁrm that autophagic protein turnover is slowed in cerebellar cells even
+though levels of autophagy induction are higher than normal. further inhibiting
+autophagy promoted neurodegeneration in this mouse model (cao et al., 2006). sim-
+ilarly, in a model of ad, the ps/app mouse, inhibiting autophagic proteolysis with
+leupeptin promotes neurodegeneration at inhibitor doses that do not similarly aﬀect
+neurons in wild-type mice (nixon et al., 2001). stimulating proteolysis within avs
+may be beneﬁcial in states of autophagy impairment (butler et al., 2005). hunting-
+ton’s disease is a neurodegenerative disorder caused by gene mutations that encode
+abnormally long sequences of polyglutamine in the protein, huntingtin (htt). when
+overexpressed in cells, mutant htt accumulates in autophagic compartments in
+amounts proportionate to the length of the polyglutamine sequence in the protein
+(kegel et al., 2000), suggesting that its turnover by autophagy is impeded. inhibiting
+the formation of autophagosomes or impeding their fusion with lysosomes (raviku-
+mar et al., 2005) increases htt aggregation in cells in vitro and in vivo. by contrast,
+stimulating autophagy with rapamycin treatment reduces htt accumulation and neu-
+rodegeneration in cell and ﬂy models of polyglutamine disease and reduces neurolog-
+ical deﬁcits and htt aggregation in a mouse model of huntington’s disease
+(ravikumar et al., 2004); this suggests that inadequate levels of autophagy contrib-
+ute to the complex neuronal cell death pattern in this disease (hickey and chesselet,
+2003).
+2. conclusion
+the scarcity of autophagic vacuoles in a normal functioning brain yet their
+appearance in states of disease has previously led many to assume that autophagy
+in neurons is mainly an inducible process that is associated with neurodegenera-
+tion. recent studies, however, clearly demonstrate that autophagy is constitutively
+active in neurons, and is required for neuron survival. ongoing autophagic turn-
+over of proteins in neurons that proceeds in the absence of readily detectable auto-
+phagic vacuole intermediates, implies that the autophagic pathway is exceptionally
+eﬃcient in healthy neurons. this conclusion is reinforced by evidence that avs
+rapidly accumulate when late steps in the autophagy pathway are blocked. an
+important implication from these observations is that autophagic vacuole accumu-
+lation in neurodegenerative disease states often signiﬁes a failing autophagy system
+rather than simply an activation of autophagy as is frequently proposed. new evi-
+dence supports potential links between autophagic failure and neurodegeneration
+in several major neurodegenerative diseases, including alzheimer’s disease. contin-
+uing research eﬀorts that explore the role of autophagy in neurons will provide a
+better understanding of its complex involvement in neurodegenerative diseases. to
+date, therapeutic strategies based on facilitating eﬃcient autophagy show glimpses
+of promise in neurodegenerative disease models
+(ravikumar et al., 2004).
+therefore, there is hope that future therapies aimed at maintaining balanced auto-
+phagic activity in neurons will prove eﬀective in preventing some forms of
+neurodegeneration.
+b. boland, r.a. nixon / molecular aspects of medicine 27 (2006) 503–519
+515
+acknowledgements
+the authors gratefully acknowledge the assistance of heather braunstein in pre-
+paring this manuscript. research by the authors was supported by grants from the
+national institute on aging (ag 017617), the alzheimer’s association, and the
+wellcome trust (b. boland).
+references
+baehrecke, e.h., 2005. autophagy: dual roles in life and death? nat. rev. mol. cell biol. 6, 505–510.
+banks, w.a., 2004. the source of cerebral insulin. eur. j. pharmacol. 490, 5–12.
+bannai, h., inoue, t., nakayama, t., hattori, m., mikoshiba, k., 2004. kinesin dependent, rapid, bi-
+directional transport of er sub-compartment in dendrites of hippocampal neurons. j. cell sci. 117,
+163–175.
+beugnet, a., tee, a.r., taylor, p.m., proud, c.g., 2003. regulation of targets of mtor (mammalian
+target of rapamycin) signalling by intracellular amino acid availability. biochem. j. 372, 555–
+566.
+bi, x., zhou, j., lynch, g., 1999. lysosomal protease inhibitors induce meganeurites and tangle-like
+structures in entorhinohippocampal regions vulnerable to alzheimer’s disease. exp. neurol. 158, 312–
+327.
+borsello, t., croquelois, k., hornung, j.p., clarke, p.g., 2003. n-methyl-d-aspartate-triggered neuronal
+death in organotypic hippocampal cultures is endocytic, autophagic and mediated by the c-jun n-
+terminal kinase pathway. eur. j. neurosci. 18, 473–485.
+brunk, u.t., terman, a., 2002. the mitochondrial-lysosomal axis theory of aging: accumulation of
+imperfect autophagocytosis. eur. j. biochem. 269,
+damaged mitochondria as a result of
+1996–2002.
+butler, d., brown, q.b., chin, d.j., batey, l., karim, s., mutneja, m.s., karanian, d.a., bahr, b.a.,
+2005. cellular responses to protein accumulation involve autophagy and lysosomal enzyme activation.
+rejuvenation res. 8 (4), 227–237.
+canu, n., tuﬁ, r., seraﬁno, a.l., amadoro, g., ciotti, m.t., calissano, p., 2005. role of the
+autophagic–lysosomal system on low potassium-induced apoptosis in cultured cerebellar granule cells.
+j. neurochem. 92, 1228–1242.
+cao, y., espinola, j.a., fossale, e., massey, a.c., cuervo, a.m., macdonald, m.e., cotman, s.l., 2006.
+autophagy is disrupted in a knock-in mouse model of juvenile neuronal ceroid lipofuscinosis. j. biol.
+chem.
+cataldo, a.m., peterhoﬀ, c.m., schmidt, s.d., terio, n., duﬀ, k., beard, m., mathews, p.m., nixon,
+r.a., 2004. presenilin mutations in familial alzheimer’s disease and transgenic mouse models
+accelerate neuronal lysosomal pathology. jnen 63, 821–830.
+chu, c.t., 2006. autophagic stress in neuronal injury and disease. jnen. 65, 423–432.
+cimino, m., balduini, w., marini, p., cattabeni, f., court, j.a., bianchi, m., magnani, m., 1998.
+expression of hexokinase mrna in human hippocampus. brain res. mol. brain res. 53, 297–300, j.
+comp. neurol. 283, 425–437.
+clarke, p.g., 1990. developmental cell death: morphological diversity and multiple mechanisms. anat.
+embryol. (berl.) 181, 195–213.
+cota, d., proulx, k., smith, k.a., kozma, s.c., thomas, g., woods, s.c., seeley, r.j., 2006.
+hypothalamic mtor signaling regulates food intake. science 312, 927–930.
+deter, r.l., de duve, c., 1967. inﬂuence of glucagon, an inducer of cellular autophagy, on some physical
+properties of rat liver lysosomes. j. cell biol. 33, 437–449.
+fortun, j., dunn jr., w.a., joy, s., li, j., notterpek, l., 2003. emerging role for autophagy in the
+removal of aggresomes in schwann cells. j. neurosci. 23, 10672–10680.
+516
+b. boland, r.a. nixon / molecular aspects of medicine 27 (2006) 503–519
+ghosh, a., cheung, y.y., mansﬁeld, b.c., chou, j.y., 2005. brain contains a functional glucose-6-
+phosphatase complex capable of endogenous glucose production. j. biol. chem. 280, 11114–11119.
+glabe, c., 2001. intracellular mechanisms of amyloid accumulation and pathogenesis in alzheimer’s
+disease. j. mol. neurosci. 17, 137–145.
+gong, r., park, c.s., rezaei abbassi, n., tang, s.j., 2006. roles of glutamate receptors and the mtor
+signaling pathway in activity-dependent dendritic protein synthesis in hipocampal neurons. j. biol.
+chem.
+guzman, m., blazquez, c., 2001. is there an astrocyte-neuron ketone body shuttle? trends endocrinol.
+metab. 12, 169–173.
+hara, t., nakamura, k., matsui, m., yamamoto, a., nakahara, y., suzuki-migishima, r., yokoyama,
+m., mishima, k., saito, i., okano, h., mizushima, n., 2006. suppression of basal autophagy in neural
+cells causes neurodegenerative disease in mice. nature.
+hawkins, r.a., o’kane, r.l., simpson, i.a., vina, j.r., 2006. structure of the blood-brain barrier and its
+role in the transport of amino acids. j. nutr. 136, 218s–226s.
+henell, f., glaumann, h., 1984. eﬀect of leupeptin on the autophagic vacuolar system of rat hepatocytes.
+correlation between ultrastructure and degradation of membrane and cytosolic proteins. lab. invest.
+51, 46–56.
+hickey, m.a., chesselet, m.f., 2003. apoptosis in huntington’s disease. prog. neuropsychopharmacol.
+biol. psychiatry 27, 255–265.
+hollenbeck, p.j., 1993. products of endocytosis and autophagy are retrieved from axons by regulated
+retrograde organelle transport. j. cell biol. 121, 305–315.
+holtzman, e., novikoﬀ, a.b., 1965. lysomes in the rat sciatic nerve following crush. j. cell biol. 27, 651–
+669.
+ichimura, y., kirisako, t., takao, t., satomi, y., shimonishi, y., ishihara, n., mizushima, n., tanida,
+i., kominami, e., ohsumi, m., noda, t., ohsumi, y., 2000. a ubiquitin-like system mediates protein
+lipidation. nature 408, 488–492.
+ji, z.s., miranda, r.d., newhouse, y.m., weisgraber, k.h., huang, y., mahley, r.w., 2002.
+apolipoprotein e4 potentiates amyloid beta peptide-induced lysosomal leakage and apoptosis in
+neuronal cells. j. biol. chem. 277, 21821–21828.
+kabeya, y., mizushima, n., ueno, t., yamamoto, a., kirisako, t., noda, t., kominami, e., ohsumi,
+y., yoshimori, t., 2000. lc3, a mammalian homologue of yeast apg8p, is localized in autophagosome
+membranes after processing. embo. j. 19, 5720–5728.
+kegel, k.b. et al., 2000. huntingtin expression stimulates endosomal-lysosomal activity, endosome
+tubulation, and autophagy. j. neurosci. 20 (19), 7268–7278.
+kiﬃn, r., bandyopadhyay, u., cuervo, a.m., 2006. oxidative stress and autophagy. antioxid. redox
+signal. 8, 152–162.
+kihara, a., kabeya, y., ohsumi, y., yoshimori, t., 2001. beclin-phosphatidylinositol 3-kinase complex
+functions at the trans-golgi network. embo. rep. 2, 330–335.
+koike, m., shibata, m., waguri, s., yoshimura, k., tanida, i., kominami, e., gotow, t., peters, c., von
+figura, k., mizushima, n., saftig, p., uchiyama, y., 2005. participation of autophagy in storage of
+lysosomes in neurons from mouse models of neuronal ceroid-lipofuscinoses (batten disease). am. j.
+pathol. 167, 1713–1728.
+komatsu, m., waguri, s., ueno, t., iwata, j., murata, s., tanida, i., ezaki, j., mizushima, n.,
+ohsumi, y., uchiyama, y., kominami, e., tanaka, k., chiba, t., 2005.
+impairment of
+starvation-induced and constitutive autophagy in atg7-deﬁcient mice. j. cell biol. 169, 425–434.
+komatsu, m., waguri, s., chiba, t., murata, s., iwata, j.i., tanida, i., ueno, t., koike, m., uchiyama,
+y., kominami, e., tanaka, k., 2006. loss of autophagy in the central nervous system causes
+neurodegeneration in mice. nature.
+kroemer, g., jaattela, m., 2005. lysosomes and autophagy in cell death control. nat. rev. cancer 5, 886–
+897.
+lang, t., schaeﬀeler, e., bernreuther, d., bredschneider, m., wolf, d.h., thumm, m., 1998. aut2p and
+aut7p, two novel microtubule-associated proteins are essential for delivery of autophagic vesicles to
+the vacuole. embo. j. 17, 3597–3607.
+b. boland, r.a. nixon / molecular aspects of medicine 27 (2006) 503–519
+517
+leil, t.a., chen, z.w., chang, c.s., olsen, r.w., 2004. gabaa receptor-associated protein traﬃcs
+gabaa receptors to the plasma membrane in neurons. j. neurosci. 24, 11429–11438.
+lemasters, j.j., 2005. selective mitochondrial autophagy, or mitophagy, as a targeted defense against
+oxidative stress, mitochondrial dysfunction, and aging. rejuvenation res. 8, 3–5.
+levine, b., 2005. eating oneself and uninvited guests: autophagy-related pathways in cellular defense. cell
+120, 159–162.
+levine, b., klionsky, d.j., 2004. development by self-digestion: molecular mechanisms and biological
+functions of autophagy. dev. cell 6, 463–477.
+levine, b., yuan, j., 2005. autophagy in cell death: an innocent convict? j. clin. invest. 115 (10), 2679–
+2688, review.
+levin, b.e., dunn-meynell, a.a., routh, v.h., 2001. brain glucosensing and the k(atp) channel. nat.
+neurosci. 4, 459–460.
+liang, x.h., jackson, s., seaman, m., brown, k., kempkes, b., hibshoosh, h., levine, b., 1999.
+induction of autophagy and inhibition of tumorigenesis by beclin 1. nature 402, 672–676.
+lum, j.j., deberardinis, r.j., thompson, c.b., 2005. autophagy in metazoans: cell survival in the land of
+plenty. nat. rev. mol. cell biol. 6, 439–448.
+majeski, a.e., dice, j.f., 2004. mechanisms of chaperone-mediated autophagy. int. j. biochem. cell biol.
+36, 2435–2444.
+martinez-vicente, m., cuervo, a.m., sovak, g., 2005. protein degradation and aging. exp. gerontol. 40
+(8–9), 622–633.
+massey, a.c., kaushik, s., sovak, g., kiﬃn, r., cuervo, a.m., 2006. consequences of the selective
+blockage of chaperone-mediated autophagy. proc. natl. acad. sci. usa 103, 5805–5810.
+mizushima, n., 2004. methods for monitoring autophagy. int. j. biochem. cell biol. 36, 2491–2502.
+mizushima, n., sugita, h., yoshimori, t., ohsumi, y., 1998. a new protein conjugation system in human.
+the counterpart of the yeast apg12p conjugation system essential for autophagy. j. biol. chem. 273,
+33889–33892.
+mizushima, n., yamamoto, a., hatano, m., kobayashi, y., kabeya, y., suzuki, k., tokuhisa, t.,
+ohsumi, y., yoshimori, t., 2001. dissection of autophagosome formation using apg5-deﬁcient mouse
+embryonic stem cells. j. cell biol. 152, 657–668.
+mobbs, c.v., kow, l.m., yang, x.j., 2001. brain glucose-sensing mechanisms: ubiquitous silencing by
+aglycemia vs. hypothalamic neuroendocrine responses. am. j. physiol. endocrinol. metab. 281, e649–
+e654.
+muller, o., sattler, t., flotenmeyer, m., schwarz, h., plattner, h., mayer, a., 2000. autophagic tubes:
+vacuolar invaginations involved in lateral membrane sorting and inverse vesicle budding. j. cell biol.
+151, 519–528.
+nixon, r.a., cataldo, p.m., 2006. autophagy in neurodegenerative disease: friend, foe or turncoat? tins
+9, 528–535.
+nixon, r.a., mathews, p.m., cataldo, a.m., mohan, p.s., schmidt, s.d., duﬀ, k., berg, m., marks, n.,
+peterhoﬀ, c., sershen, h., 2001. in vivo perturbation of lysosomal function promotes neurodegen-
+eration in the ps1m146v/appk670n,m671l mouse model of alzheimer’s disease pathology. in:
+iqbal, k., sisodia, s.s., winblad, b. (eds.), alzheimer’s disease advances in etiology, pathogenesis
+and therapeutics. john wiley & sons, ltd., new york, pp. 687–696.
+nixon, r.a., wegiel, j., kumar, a., yu, w.h., peterhoﬀ, c., cataldo, a., cuervo, a.m., 2005. extensive
+involvement of autophagy in alzheimer disease: an immuno-electron microscopy study. j. neuropa-
+thol. exp. neurol. 64, 113–122.
+nixon, r.a., yu, w.h., cuervo, a.m., kumar, a., yang, d.-s., peterhoﬀ, c., in press. macroautophagy
+in alzheimer’s disease:
+failure of a neuroprotective mechanism. in: iqbal, k., winblad, b.
+(eds.), alzheimer’s disease and related disorders: clinical and basic research advances. p. 190–201.
+ohsumi, y., 2001. molecular dissection of autophagy: two ubiquitin-like systems. nat. rev. mol. cell
+biol. 2, 211–216.
+peters, a., schweiger, u., pellerin, l., hubold, c., oltmanns, k.m., conrad, m., schultes, b., born, j.,
+fehm, h.l., 2004. the selﬁsh brain: competition for energy resources. neurosci. biobehav. rev. 28,
+143–180.
+518
+b. boland, r.a. nixon / molecular aspects of medicine 27 (2006) 503–519
+pfeifer, u., 1977. inhibition by insulin of the physiological autophagic breakdown of cell organelles. acta
+biol. med. ger. 36, 1691–1694.
+phelps, c.h., 1972. barbiturate-induced glycogen accumulation in brain. an electron microscopic study.
+brain res. 39, 225–234.
+proud, c.g., wang, x., patel, j.v., campbell, l.e., kleijn, m., li, w., browne, g.j., 2001. interplay
+between insulin and nutrients in the regulation of translation factors. biochem. soc. trans. 29, 541–
+547.
+ravikumar, b., vacher, c., berger, z., davies, j.e., luo, s., oroz, l.g., scaravilli, f., easton, d.f.,
+duden, r., o’kane, c.j., rubinsztein, d.c., 2004. inhibition of mtor induces autophagy and
+reduces toxicity of polyglutamine expansions in ﬂy and mouse models of huntington disease. nat.
+genet. 36, 585–595.
+ravikumar, b., acevedo-arozena, a., imarisio, s., berger, z., vacher, c., o’kane, c.j., brown, s.d.,
+rubinsztein, d.c., 2005. dynein mutations impair autophagic clearance of aggregate-prone proteins.
+nat. genet. 37, 771–776.
+reichardt, l.f., mobley, w.c., 2004. going the distance, or not, with neurotrophin signals. cell 118, 141–
+143.
+rideout, h.j., lang-rollin, i., stefanis, l., 2004. involvement of macroautophagy in the dissolution of
+neuronal inclusions. int. j. biochem. cell biol. 36, 2551–2562.
+rowland, a.m., richmond, j.e., olsen, j.g., hall, d.h., bamber, b.a., 2006. presynaptic terminals
+independently regulate synaptic clustering and autophagy of gabaa receptors in caenorhabditis
+elegans. j. neurosci. 26, 1711–1720.
+sakai, m., ogawa, k., 1982. energy-dependent
+lysosomal wrapping mechanism (lwm) during
+autophagolysosome formation. histochemistry 76, 479–488.
+schweichel, j.u., merker, h.j., 1973. the morphology of various types of cell death in prenatal tissues.
+teratology 7, 253–266.
+seglen, p.o., gordon, p.b., holen, i., hoyvik, h., 1991. hepatocytic autophagy. biomed. biochim. acta
+50, 373–381.
+shintani, t., klionsky, d.j., 2004. autophagy in health and disease: a double-edged sword. science 306,
+990–995.
+somwar, r., sumitani, s., taha, c., sweeney, g., klip, a., 1998. temporal activation of p70 s6 kinase
+and akt1 by insulin: pi 3-kinase-dependent and -independent mechanisms. am. j. physiol. 275, e618–
+e625.
+steward, o., schuman, e.m., 2001. protein synthesis at synaptic sites on dendrites. annu. rev. neurosci.
+24, 299–325.
+stokin, g.b., lillo, c., falzone, t.l., brusch, r.g., rockenstein, e., mount, s.l., raman, r., davies, p.,
+masliah, e., williams, d.s., goldstein, l.s., 2005. axonopathy and transport deﬁcits early in the
+pathogenesis of alzheimer’s disease. science 307, 1282–1288.
+tanida, i., ueno, t., kominami, e., 2004. lc3 conjugation system in mammalian autophagy. int. j.
+biochem. cell biol. 36, 2503–2518.
+terman, a., 1995. the eﬀect of age on formation and elimination of autophagic vacuoles in mouse
+hepatocytes. gerontology 41 (suppl 2), 319–326.
+uyama, n., geerts, a., reynaert, h., 2004. neural connections between the hypothalamus and the liver.
+anat. rec. a discov. mol. cell evol. biol. 280, 808–820.
+vannucci, s.j., maher, f., simpson, i.a., 1997. glucose transporter proteins in brain: delivery of glucose
+to neurons and glia. glia. 21, 2–21.
+xue, l., fletcher, g.c., tolkovsky, a.m., 1999. autophagy is activated by apoptotic signalling
+in sympathetic neurons: an alternative mechanism of death execution. mol. cell neurosci. 14,
+180–198.
+yamamoto, a., cremona, m.l., rothman, j.e., 2006. autophagy-mediated clearance of huntingtin
+aggregates triggered by the insulin-signaling pathway. j. cell biol. 172, 719–731.
+yue, z., horton, a., bravin, m., dejager, p.l., selimi, f., heintz, n., 2002. a novel protein complex
+linking the delta 2 glutamate receptor and autophagy: implications for neurodegeneration in lurcher
+mice. neuron. 35, 921–933.
+b. boland, r.a. nixon / molecular aspects of medicine 27 (2006) 503–519
+519
+yue, z., jin, s., yang, c., levine, a.j., heintz, n., 2003. beclin 1, an autophagy gene essential for early
+embryonic development, is a haploinsuﬃcient tumor suppressor. proc. natl. acad. sci. usa 100,
+15077–15082.
+yu, l.y., jokitalo, e., sun, y.f., mehlen, p., lindholm, d., saarma, m., arumae, u., 2003. gdnf-
+deprived sympathetic neurons die via a novel nonmitochondrial pathway. j. cell biol. 163, 987–997.
+yu, w.h., cuervo, a.m., kumar, a., peterhoﬀ, c.m., schmidt, s.d., lee, j.h., mohan, p.s., mercken,
+m., farmery, m.r., tjernberg, l.o., jiang, y., duﬀ, k., uchiyama, y., naslund, j., mathews, p.m.,
+cataldo, a.m., nixon, r.a., 2005. macroautophagy – a novel beta-amyloid peptide-generating
+pathway activated in alzheimer’s disease. j. cell biol. 171, 87–98.
+zhang, f., chen, y., heiman, m., dimarchi, r., 2005. leptin: structure, function and biology. vitam.
+horm. 71, 345–372.
+zhu, c., wang, x., xu, f., bahr, b.a., shibata, m., uchiyama, y., hagberg, h., blomgren, k., 2005. the
+inﬂuence of age on apoptotic and other mechanisms of cell death after cerebral hypoxia-ischemia. cell
+death diﬀer. 12, 162–176.

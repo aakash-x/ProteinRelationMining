@@ -1,0 +1,902 @@
+seminars in cancer biology 17 (2007) 101–111
+review
+cell death by incompatibility in the fungus podospora
+b´erang`ere pinan-lucarr´e 1, mathieu paoletti, corinne clav´e
+laboratoire de g´en´etique mol´eculaire des champignons, institut de biochimie et de g´en´etique cellulaires,
+umr 5095 cnrs et universit´e de bordeaux 2, bordeaux, france
+abstract
+filamentous fungi are naturally able of somatic fusions. when cells of unlike genotype at speciﬁc het loci fuse, non-self recognition operates in
+the fusion cell and a cell death reaction termed cell death by incompatibility is triggered. in podospora anserina cell death by incompatibility is
+characterized by a dramatic vacuolar enlargement, induction of autophagy and cell lysis. autophagy contributes neither to vacuolar morphological
+changes nor to cell death but rather protects cells against death. autophagy could be involved in selective elimination of pro-death signals. vacuole
+collapse and cytoplasm acidiﬁcation might be the cause of cell death by incompatibility.
+© 2006 elsevier ltd. all rights reserved.
+keywords: filamentous fungi; cell death; non-self recognition; vegetative incompatibility; autophagy
+contents
+1.
+podospora anserina . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2. circumstances of cell death by incompatibility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3. genetic control of cell death by incompatibility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.
+the self-incompatible het-r hetv strain as a cell death model . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5. autophagy and cell death by incompatibility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.1. autophagy is strongly induced during cell death . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.2. accelerated cell death in autophagy mutants . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.3. biological role of autophagy prosurvival function in podospora . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.4. autophagy connects cell death by incompatibility and development . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6. mechanism of cell death by incompatibility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+idi-4, a transcriptional activator of the incompatibility reaction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6.1.
+6.2.
+podospora tor kinase inactivation mimics cell death by incompatibility . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6.3. vacuole-mediated cell death by incompatibility? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7. concluding remarks and perspectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+acknowledgements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+references . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+101
+103
+105
+106
+106
+107
+107
+107
+108
+108
+108
+108
+109
+109
+109
+109
+1. podospora anserina
+podospora anserina is a ﬁlamentous ascomycete belonging
+to the large eukaryotic fungal kingdom. fungi cannot photosyn-
+thesize their organic supply and are heterotrophic organisms like
+animals. they have to absorb nutrients from growth medium.
+corresponding author. tel.: +33 5 56 99 90 27; fax: +33 5 56 99 90 67.
+e-mail address: corinne.clave@ibgc.u-bordeaux2.fr (c. clav´e).
+1 present address: department of molecular biology and biochemistry, rut-
+gers, the state university of new jersey, piscataway, nj 08854, united states.
+1044-579x/$ – see front matter © 2006 elsevier ltd. all rights reserved.
+doi:10.1016/j.semcancer.2006.11.009
+since fungi have their protoplasm encased in cell walls as in
+plants, only substances in solution can be taken in. fungi possess
+an appropriate vegetative feeding system, the mycelium, which
+displays extensive interaction surface with external medium.
+the mycelium is a network of interconnected ﬁlaments, or
+hyphae, forming a colony with a circular margin (fig. 1a and
+b). each hypha is divided into haploid plurinucleated cells (or
+articles) separated by perforated cross-walls termed septa allow-
+ing for free passage of cytoplasm and organelles and thus the
+mycelium is actually a syncitium (figs. 1b, 2 and 3c). growth
+occurs by hyphal tip extension (apical growth) and branching.
+102
+b. pinan-lucarr´e et al. / seminars in cancer biology 17 (2007) 101–111
+fig. 1. vegetative and reproductive structures of podospora anserina. (a) the vegetative structure or mycelium is a network of interconnected ﬁlaments or
+hyphae appearing here as black threads. this mycelium results from 24 h growth after spore germination. (b) hyphae are observed by light microscopy. note
+compartimentalization in cells by transversal cross-walls termed septa (arrowheads) which are perforated. note also that hyphae are able to branch. nuclei can be
+detected using nomarski optics (arrows). (c and d) sexual organ differentiation from mycelium exposed to light. (c) conidiogenous hyphae producing male elements
+termed microconidia (arrowhead). (d) development of female organs or protoperithecia (black dots). note that hyphae appears here as white threads covering the
+medium surface. (e) a conidia suspension was spread over protoperithecia differentiating mycelium of opposite mating-type for fertilization. fertilization initiates
+protoperithecium development associated to a spectacular enlargement of the female organ leading to the formation of the perithecium (about 15-fold enlargement).
+different stages of differentiation are illustrated in this panel: unfertilized (arrowhead) and fertilized protoperithecia displaying intermediary development (thin
+arrow) or mature perithecia (large arrow). note that mature asci containing black spores are shown through the mature perithecium. note also the presence of a spore
+lying on medium surface projected out of the mature perithecium (diamond). (f) a rosette of mature asci is observed by light microscopy. it contains about 50 asci
+each containing 4 large spores except one that contains 8 small uninucleated spores (arrow). (g) a small spore was inoculated on germination medium and observed
+5 h30 later by light microscopy. note the appendix (arrow) attached to the spore suggesting that spores have a foot (pedes in latin); this feature led to the name
+podospora. (h) podospora hyphae are able to branch but also to fuse. steps preceding fusion are shown. unless otherwise stated scale bars represent 5 ␮m.
+b. pinan-lucarr´e et al. / seminars in cancer biology 17 (2007) 101–111
+103
+fig. 2. podospora anserina life cycle. microconidia and protoperithecia, the male and female sexual reproductive structures, respectively, differentiate from vegetative
+hyphae under starvation and light exposition. fertilization of female organ occurs following fusion of the male gamete of the opposite mating-type with the female
+apical receptive element termed trichogyne. each nucleus then proliferates in plurinucleate cells. then pairs of parental nuclei of opposite mating-type migrate
+into specialized cells, the ascogenous hyphae in which a strict ratio of 1:1 of each parental nucleus is maintained. then the tip of this hyphae differentiates to
+form a crozier. in the crozier, the two parental nuclei undergo a coordinate mitosis which yields after cellularization two monokaryotic basal and lateral cells
+and one dikaryotic cell which can differentiate into an ascus mother cell in which karyogamy takes place. this diploid cell is the only one observed during the
+entire life cycle. the diploid nucleus proceeds directly into meiosis while the cell is elongating to form the ascus. the basal and lateral cells can fuse and divide
+again leading to a new crozier. several asci are thus produced from each initial dikaryotic cell. after a postmeiotic mitosis, four large spores each containing two
+non-brother nuclei are delineated inside the ascus. a low and decreasing percentage of asci contain ﬁve to eight spores in which one to four large binucleated spores
+have been substituted by two uninucleated spores. the ascus on the right inside the perithecium contains three large binucleated spores and two small unicleated
+spores in place of the fourth one. mature perithecia throw out spores containing asci. under favourable growth conditions spores also called ascospores are able
+to germinate and to regenerate after apical growth, branching and fusion of hyphae, the vegetative structure termed mycelium. growth rate is about 7.5 mm per
+day in laboratory conditions. fusion between different individuals is shown illustrating the biological context of the incompatibility reaction. a complete life cycle
+takes approximately 1 week in the lab at optimal growth temperature of 26
+c. note that references to vignettes of fig. 1 are included. diagram was adapted from
+ref. [25].
+p. anserina has a limited vegetative growth and after several
+divisions, apical cells stop growing and die. this has been
+referred to as senescence and podospora is a valuable model
+system for the study of senescence (for review, see ref. [1]).
+specialized reproductive structures can differentiate from the
+mycelium, and sexual reproduction occurs between individu-
+als of opposite mating-type (figs. 1 and 2) (for a review, see
+ref. [2]).
+spore germination yields short hyphae which soon branch
+and fuse to form the incipient mycelium (fig. 1b, g and
+h). after 24 h a colony is produced (fig. 1a). in ﬁlamentous
+fungi, fusions between hyphae, termed anastomosis, frequently
+occur yielding the network of interconnected hyphae,
+i.e.
+the mycelium (fig. 1a and h). somatic fusions can occur
+both within and between individuals. cell death by incom-
+patibility is observed following fusion between individuals
+(fig. 2).
+2. circumstances of cell death by incompatibility
+cell death by incompatibility is deﬁned herein as the mani-
+festation of non-self recognition in ﬁlamentous fungi. non-self
+recognition results in the limitation or regulation of cell-cell
+interactions between individuals. most living organisms have
+developed non-self recognition systems that are especially
+important to preserve biological integrity in organisms able to
+form chimeras. indeed, organisms undergoing somatic fusion
+events also show evidence of somatic cell parasitism [3–5]. non-
+self recognition limits chimera formation to genetically identical
+or nearly identical cells and thus restricts somatic cell parasitism
+[6]. as mentioned earlier, in ﬁlamentous fungi somatic cell
+fusion is frequent within a single colony or between cells from
+different strains. in the latter case, if these strains bear genetic
+difference at speciﬁc loci (termed het or vic loci), a cell death
+reaction termed cell death by incompatibility is triggered in the
+104 b. pinuanuulnz/ 2! ul, /setmrmr,\ m cunm bmii/gv i 7 (2007) 101711]
+b. pinan-lucarr´e et al. / seminars in cancer biology 17 (2007) 101–111
+105
+fig. 4. podospora anserina het loci. nine het loci have been genetically described. five of them deﬁne the 5 allelic incompatibility systems. the het-v locus and
+the four remaining loci are involved in the 3 non-allelic incompatibility systems. arrows indicate incompatible interactions between alleles of the same locus or
+between speciﬁc alleles from different genes. non-allelic systems allow to generate self-incompatible strains by appropriate outcrosses. for example, the si het-r
+het-v genotype represents 25% of the progeny of a cross between the het-r het-v strain and the het-r het-v1 strain. molecular characterization of het loci indicated
+in bold has been performed.
+fusion cell [7,8]. this non-self recognition system is referred to
+as vegetative incompatibility in ﬁlamentous fungi. when incom-
+patible strains meet on solid medium, fusion cell death leads to
+the formation of an unpigmented barrier line in the confrontation
+area termed “barrage” which constitutes a marker of vegetative
+non-self recognition (fig. 3a). the cell death by incompatibil-
+ity initiated in the fusion cell is generally limited to this cell
+but sometimes extends to immediately adjacent cells. the seal-
+ing of the surrounding septal pores limits cell death propagation
+[9]. the woronin body is a peroxisome-related organelle that
+is centered on an hexagonal crystalline core which functions to
+seal septal pores in response to cellular damage in ﬁlamentous
+fungi [10]. pore sealing by woronin bodies might participate
+in the conﬁnement of cell death by incompatibility to a unique
+cell (fig. 3c). the destruction of the fusion cell limits trans-
+mission of infectious cytoplasmic elements and exploitation by
+aggressive genotypes [11–13]. vegetative incompatibility is thus
+thought to be a defense mechanism of adaptive value to ﬁlamen-
+tous fungi.
+3. genetic control of cell death by incompatibility
+vegetative incompatibility is a widespread phenomenon
+among ﬁlamentous fungi which has been mostly investigated
+in cryphonectria parasitica, neurospora crassa and p. anse-
+rina. this phenomenon results from the co-expression in the
+fusion cell of either two different het alleles of a single locus
+(allelic systems) or of two het genes from distinct loci (non-
+allelic systems) (fig. 4, for review, see ref. [7,8]). any given
+species displays about 10 different het loci. heteroallelism at
+one of these speciﬁc loci is sufﬁcient to trigger fusion cell death.
+non-self recognition is thought to be mediated by the interac-
+tion of different protein products encoded by incompatible het
+genes. heterocomplexes formation between incompatible het
+gene products has been evidenced in neurospora [14]. muta-
+tions that abolish heterodimerization block the incompatibility
+reaction [15].
+het genes are unrelated to those involved in non-self recogni-
+tion in other organisms [16,17]. more surprisingly, het genes are
+also different between fungal species. as an example, the neu-
+rospora het-c gene displays an ortholog in podospora which
+does not correspond to any of the known het loci of podospora
+[18]. inversely, genes characterized as het genes in podospora
+are absent from other fungal genomes (m. paoletti, unpublished
+results). this diversity of recognition control genes suggests that
+non-self recognition has emerged independently several times
+across taxa and even in fungi.
+fungal het genes encode various proteins such as transcrip-
+tion factors, enzymes or signalling proteins which could have
+another function in addition to their function in incompatibil-
+ity. for instance, podospora het-c gene is involved in spore
+formation and neurospora un-24 gene operating in het-6 incom-
+patibility encodes a subunit of ribonucleotide reductase involved
+in dna metabolism [19,20]. these genes could have been
+recruited during evolution to perform their additional function
+in incompatibility. interestingly many proteins involved in vege-
+tative incompatibility share a domain termed het domain [20].
+this domain is present in nearly all characterized het systems
+fig. 3. vegetative incompatibility hallmarks in podospora anserina. (a) in each panel, 16 cultures from compatible (left panel) or incompatible (right panel) strains
+are grown on solid synthetic medium. right panel: note the presence of “barrages”, namely unpigmented lines in confrontation area between incompatible mycelia
+(arrowhead). (b–e) cell death in the self-incompatible het-r het-v strain; (b) microscope examination of cell death progress between time 0 (top), 3 h45, 7 h, 9 h and
+10 h30 (bottom) after cell death triggering (temperature shift). arrowheads indicate septa; white arrowheads indicate septa appearing during cell death progress. note
+vacuolization in the second panel, vacuole fusion in the third panel, collapsus of the ﬁlament in the two lower panels and its propagation (horizontal arrow). (c) electron
+microscopy. top left, a woronin body displaying a typical hexagonal structure; top right: perforated cross-wall or septum allowing cytoplasmic exchange between
+cells; bottom: putative septal pore sealing by a woronin body during cell death by incompatibility. the arrow and arrowheads indicate a septal pore and woronin
+bodies respectively. (d and e) cytological evidence of induction of autophagy. (d) the het-r het-v strain expressing gfp-paatg8 fusion protein was observed
+by ﬂuorescence microscopy 1 h after cell death triggering. left panel, note the numerous ﬂuorescent autophagosomes. right panel, re-localization of ﬂuorescence
+inside vacuoles as a result of autophagic body delivery to vacuoles. larger autophagosome diameter: 2 ␮m. exposure time was longer for image acquisition in the
+right panel. (e) observation by electron microscopy of the het-r het-v strain 1 h after cell death triggering. left panel, large autophagosome as a double membrane
+vesicle with cytoplasmic content (diameter between 0.5 and 1.6 ␮m). right panel, a step preceding fusion between a vacuole and an autophagosome of similar size
+(diameter: 1.2 ␮m). note the low electron density of the vacuolar lumen rich in hydrolytic activities.
+106
+b. pinan-lucarr´e et al. / seminars in cancer biology 17 (2007) 101–111
+either in the het gene product itself or in an interacting part-
+ner [21]. the het domain could be responsible for cell death
+triggering. this domain is speciﬁc to ﬁlamentous fungi and
+present in numerous proteins (over 70) in aspergillus nidulans,
+magnaporthe grisea, n. crassa and p. anserina (m. paoletti,
+unpublished results) [6,22]. it has been proposed that the het
+domain expansion in ﬁlamentous ascomycetes may represent
+a niche adaptation strategy to process a large number of simi-
+lar stimuli associated with defense against pathogens, non-self
+recognition or analogous roles [22].
+in p. anserina, 8 het systems have been genetically deﬁned
+and four het genes (het-c, het-d, het-e and het-s) have been
+characterized (fig. 4). they deﬁne the non-allelic het-c/het-d,
+het-c/het-e [19,23,24] and the allelic het-s/het-s incompatibility
+systems [25]. the het-s and het-s incompatible alleles encode
+cytosolic proteins of 289 amino-acids that differ by 13 residues
+[26]. het-s is a prion (i.e. infectious protein) able to form
+infectious amyloid aggregates similar to those found in var-
+ious human protein deposition diseases [27–31]. the het-c
+gene encodes a glycolipid transfer protein (gltp) and dis-
+plays an ortholog that has been shown to function in pcd in
+plants [19,32,33]. the het-d and het-e genes encode paralo-
+gous proteins composed of three adjacent domains including
+an n-terminal het domain, an internal nacht domain and
+a c-terminal wd domain [20,23,34,35]. gtp binding to the
+nacht domain is essential to incompatibility function [36].
+wd-domains are composed of wd40 repeats, i.e. about 40 aa
+repeats that typically contain wd dipeptide at their c-terminus.
+wd domains are able to adopt ␤-propeller structures which
+top face deﬁnes a platform of interaction with other proteins
+[37]. het-d and het-e wd domains are recognition domains
+responsible for speciﬁcity of interaction with different het-
+c variants [23]. nacht proteins belong to the stand class
+of ntpases that include numerous cell death proteins orga-
+nized as multidomain proteins [38]. typically, downstream
+of the ntpase domain these proteins contain superstructure-
+forming repeats such as wd40 in het-d, het-e and apaf-1 or
+leucine–rich repeats in plant disease resistance proteins. there is
+an effector domain upstream of the ntpase domain. it has been
+proposed that stand ntpases use the c-terminal domain as
+a lever to transmit the conformational changes brought about
+by ntp hydrolysis to effector domains. when het-c interacts
+with incompatible het-d/het-e proteins, the conformational
+change induced by hydrolysis of gtp could expose and so acti-
+vate the het effector domain. cell death by incompatibility and
+pcd mechanisms in higher eukaryotes may thus be related to
+some extent.
+4. the self-incompatible het-r hetv strain as a cell
+death model
+characterization of cell death by incompatibility has been
+performed in podospora using self-incompatible (si) strains.
+si strains are homokaryotic strains bearing incompatible het
+genes in all nuclei. the co-expression of these het genes trig-
+gers cell death in all the cells and hence in the entire mycelium
+(figs. 3 and 4). the het-r het-v si strain proved particu-
+larly convenient as cell death triggering is thermosensitive
+[39]. the development of this cell death reaction has been
+recorded for 14 h after transfer to the restrictive temperature
+[40]. the death reaction occurs asynchronously in nearly all
+cells. the main feature of dying cells is vacuolization occur-
+ring through a rapid morphological change of the vacuolar
+compartment from a preexisting tubular network to round-
+shaped structures [41]. these spherical vacuoles invade most
+of the cell volume, fuse and ﬁnally cell lysis occurs (fig. 3b).
+cell collapsus could result either from vacuolar or cytoplasmic
+membrane rupture. this cell death reaction is also associ-
+ated with increased deposition of septa, accumulation of lipid
+droplets and abnormal deposition of cell wall material (fig. 3b
+and ref. [42]).
+si strains were used for two other purposes. first, mutations
+able to restore growth and suppress cell death were selected.
+the mod-c1 mutation and the association of the mod-a1 and
+mod-b1 mutations [43–45] are suppressors common to the
+three non-allelic systems. second, the si het-r het-v strain has
+been extensively used to characterize biochemical and molec-
+ular aspects of the incompatibility reaction. new proteolytic
+activities [46,47] and other enzymatic activities such as phe-
+noloxidases and dehydrogenases appear after induction of the
+reaction [48,49]. in addition, total rna synthesis is decreased
+and about 20 new proteins are synthesized [50,51]. hence the
+incompatibility reaction is associated with regulation of gene
+expression occurring at least in part at the transcriptional level
+and leading to the induction of a speciﬁc set of genes termed
+idi genes (induced during incompatibility) [51–53]. six of them
+have been characterized. the idi-1, idi-2 and idi-3 genes encode
+small putative cell wall proteins of unknown function [42,52].
+the idi-4 gene encodes a bzip transcription factor that is a
+transcriptional regulator of other idi genes and cell death as dis-
+cussed below [54,55]. a vacuolar protease accumulating during
+cell death by incompatibility has been puriﬁed [53]. the corre-
+sponding pspa gene is also an idi gene (idi-6/pspa). both idi-6
+and the last characterized idi-7/paatg8 genes are involved in
+the autophagic process, a ubiquitous catabolic pathway induced
+upon starvation and essential for differentiation in podospora
+([41] and see below) as in most eukaryotes [56]. in all si system
+investigated, induction of most idi genes is suppressed by mod
+mutations revealing a common regulatory pathway and empha-
+sizing the correlation between idi genes induction and cell death
+by incompatibility development.
+5. autophagy and cell death by incompatibility
+autophagy allows degradation and recycling of long-lived
+proteins and organelles in eukaryotic cells [57]. during this
+process induced upon starvation, some cytoplasmic material
+is sequestered in double-membrane vesicles called autophago-
+somes. these vesicles then fuse by their outer membrane to the
+vacuolar/lysosomal membrane and deliver single-membrane
+vesicles called autophagic bodies inside the lumen of these
+organelles for degradation. pspa protease is involved in
+autophagic body degradation in podospora [41]. idi-7/paatg8
+protein is the homolog of the yeast atg8 and the human
+b. pinan-lucarr´e et al. / seminars in cancer biology 17 (2007) 101–111
+107
+lc-3 autophagy proteins involved in autophagosome formation
+[58,59]. the green-ﬂuorescent protein (gfp)-paatg8 fusion
+protein is a cytological marker of autophagy, as it relocalizes
+from the cytoplasm to the autophagosome membrane and
+inside the vacuole when autophagy is induced by starvation in
+podospora [40,41].
+5.1. autophagy is strongly induced during cell death
+in compatible strains under nutrient starvation conditions,
+autophagy is induced and the idi-6 and idi-7/paatg8 genes are
+up-regulated [41]. upregulation of these genes is also observed
+during cell death by incompatibility suggesting the induction of
+the autophagic process. indeed using gfp-paatg8 fusion pro-
+tein ﬂuorescent autophagosomes were observed in the cytoplasm
+soon after triggering cell death by incompatibility (fig. 3d,
+[41]). autophagosomes were easily identiﬁable by their dou-
+ble membrane and their cytoplasmic content using electron
+microscopy (fig. 3e). autophagic bodies were observed in
+the presence of the vacuolar protease inhibitor pmsf which
+decreases degradation rates of these bodies [41]. all these obser-
+vations provide cytological evidences of autophagy induction
+during this cell death reaction. this induction in si strains is
+observed even on nutrient rich media and appears stronger than
+in compatible strain upon starvation, as illustrated by the greater
+number and larger size of autophagosomes which can reach up
+to 2 ␮m diameter (fig. 3d).
+the autophagic/vacuolar type of cell death (type ii) is deﬁned
+by the presence of autophagosomes or autophagic bodies inside
+the lysosome/vacuole degradative compartment of dying cells
+with or without large vacuoles [60]. cell death by incompatibil-
+ity displays the characteristics of type ii pcd.
+5.2. accelerated cell death in autophagy mutants
+autophagy was initially described as a cell survival mech-
+anism during nutrient starvation [61]. its association to type ii
+pcd raises the question of the function of autophagy during
+cell death. autophagy could have a causal role in cell death
+or a protective function against cell death or could constitute
+an epiphenomenon. to investigate the role of autophagy in cell
+death by incompatibility paatg1, the podospora ortholog of the
+saccharomyces cerevisiae atg1 gene essential to autophago-
+some formation in yeast, as well as idi-7/paatg8 gene have
+been inactivated [40]. autophagy abrogation was evidenced in
+the paatg1 mutant using the gfp-paatg8 marker. neither
+cell death by incompatibility nor vacuolization were suppressed
+in si paatg1 and si paatg8 autophagy mutants. this
+indicates that autophagy is not the cause of cell death by
+incompatibility and that a vacuolar cell death reaction without
+autophagy occurs in podospora. in contrast cell death is accel-
+erated in si paatg null mutants suggesting that autophagy
+has a protective role against cell death. a similar situation is
+also observed in dictyostelium (p. golstein, personal commu-
+nication). in higher eukaryotes atg genes function in vivo as
+negative regulators of pcd in the plant hypersensitive response
+(hr) and rnai silencing of atg genes triggers apoptosis in
+starved mammalian cells [62,63]. these observations point to
+autophagy having a protective function in some cases of cell
+death in various eukaryotes. a causal link between autophagy
+and cell death has been established in some models including
+a fungal model [64-67]. in autophagic cell death triggered by
+caspase-8 inhibition, autophagy causes cell death by selective
+elimination of the prosurvival protein catalase [68]. thus, occur-
+rence of cell death resulting from non-selective and extensive
+auto-digestion of the cell by autophagy remains to be formally
+demonstrated.
+autophagy involvement in vacuolization varies with organ-
+isms.
+in dictyostelium, atg1-1 mutation suppresses both
+autophagy and vacuolization [69]. further investigations reveal
+that this non-vacuolar cell death displays classical features of
+necrotic cell death [70]. in podospora, vacuolization still occurs
+in autophagy mutants indicating that autophagy does not take
+part in the dramatic vacuolar enlargement observed during cell
+death by incompatibility. the causative role of vacuoles in this
+vacuolar cell death remains to be established.
+5.3. biological role of autophagy prosurvival function in
+podospora
+autophagy delays cell death by incompatibility and could
+promote cell survival. it could eliminate “prodeath” signals such
+as, for example, a toxic complex formed between incompatible
+het gene products or damaged organelles, such as mitochon-
+dria. indeed selective autophagy can be triggered by intracellular
+components such as large cytosolic protein aggregates in yeast
+and plant cells or invading bacteria or viruses in mammalian cells
+(for review see ref. [71]). selective mitochondrial autophagy
+could also occur as already observed in yeast [72].
+the fact that autophagy antagonizes cell death by incompat-
+ibility raises the question of the biological signiﬁcance of the
+simultaneous induction of cell death and cell survival mecha-
+nisms. cell death by incompatibility is viewed as a fungal host
+defense mechanism protecting, for example, against the trans-
+fer of mycoviruses. when pcd occurs as a host defense in hr
+in plants, or in apoptosis triggered by viral infection, the cell
+death reaction has to be precisely spatially restricted. liu et al.
+have shown that autophagy negatively regulates pcd in the plant
+hypersensitive response and functions to restrict hr pcd to the
+site of pathogen infection [63]. like the hr, cell death by incom-
+patibility is precisely spatially restricted. in nature, cell death by
+incompatibility will essentially occur when strains of different
+het genotype fuse. however, this cell death reaction is limited
+to the fusion cell and some surrounding cells but never spreads
+throughout the parental strains despite the syncitial structure of
+fungal colonies. to survive an incompatible interaction fungal
+strains have to carefully control pcd. soon after the fusion the
+syncitial structure is lost as perforated cross-walls bordering the
+fusion cell are sealed (fig. 3c). the induction of autophagy
+in cells surrounding the fusion could participate together with
+cross-wall sealing to the protection of neighbouring cells from
+cell death. autophagy may be required to eliminate “prodeath”
+signal(s) or damaged organelles moving out of the fusion cell
+into adjacent cells.
+108
+b. pinan-lucarr´e et al. / seminars in cancer biology 17 (2007) 101–111
+5.4. autophagy connects cell death by incompatibility and
+development
+autophagy mutants fail to differentiate female reproductive
+organs [40,41]. development of female organs in ﬁlamen-
+tous fungi is an intricate developmental process which occurs
+when nutrients are exhausted. therefore, differentiation of pro-
+toperithecia in podospora has to rely on internal sources for
+nutrient supply. autophagy provides new amino acid pools from
+the degradation of preexisting proteins [73]. if autophagy is
+affected this internal nutrient supply providing the new “build-
+ing blocks” for differentiation of female tissue is abolished. this
+readily could explain why inactivation of autophagy genes leads
+to female sterility in podospora.
+during female organ development, the hyphae surrounding
+the protoperithecia reveal an increased septation and intense vac-
+uolization as observed during incompatibility (c.c. unpublished
+observation). bernet reported that a cell death reaction related
+to cell death by incompatibility occurs in these cells feeding
+the growing protoperithecium [74]. this process is reminiscent
+of the cell death reaction occurring during fruiting body for-
+mation in social micro-organisms such as myxococcus [75]. as
+autophagy antagonizes cell death by incompatibility, it could be
+required during differentiation to ensure both nutrient supply
+from dying cells and survival of differentiating mother cells.
+mod mutants which were isolated as suppressors of cell
+death by incompatibility also fail to differentiate female repro-
+ductive organs [76,77] further suggesting that in podospora,
+a related programmed cell death could occur both when dis-
+pensable somatic tissues undergo altruistic suicide essential for
+differentiation or when cell death is genetically controlled by
+incompatible het gene interactions.
+6. mechanism of cell death by incompatibility
+6.1. idi-4, a transcriptional activator of the
+incompatibility reaction
+the idi-4 gene encodes a basic leucine zipper (bzip) tran-
+scription factor [55]. the 25-kda idi-4 protein displays a
+putative n-terminal transactivation domain and a c-terminal
+bzip domain. the constitutive or inducible overexpression of
+idi-4 leads to cell death. strains which undergo idi-4-induced
+cell death display cytological hallmarks of cell death by incom-
+patibility notably induction of autophagy and induction of other
+idi genes such as idi-2 and idi-7/paatg8. however, deletion
+of idi-4 gene suppresses neither cell death by incompatibil-
+ity nor induction of other idi genes. the in vitro binding site
+of idi-4 b-zip domain is a pseudopalindromic atgantcat
+sequence closely resembling the gcn4/cpc binding site raising
+the possibility of an interplay and/or partial functional redun-
+dancy between idi-4 and cpc-type bzip factors which control
+amino acid metabolism in response to nutrient starvation in fungi
+[78]. this functional redundancy could be responsible for main-
+tained activation of idi-2 and idi-7 expression and cell death by
+incompatibility in si idi-4-deleted strain. idi-4 binding sites are
+present in the promoter region of the idi-7/paatg8 gene, and the
+bzip idi-4 peptide binds to the idi7/paatg8 promoter in vitro.
+together these results establish idi-4 as one of the transcription
+factors regulating autophagy and cell fate in podospora.
+lethal overexpression of idi-4 indicates that execution of
+cell death in podospora can be achieved by idi-4-controlled
+idi genes and by means of transcriptional activation. cell death
+by incompatibility and idi-4-induced cell death share similar
+cytological hallmarks. thus even if idi-4 regulates only a sub-
+set of the idi genes, it appears that these genes correspond
+to those responsible for the cytological alterations character-
+istic of incompatibility and ultimately for the execution of
+cell death. idi-4 is also a regulator of autophagy involved in
+cell survival and female organ differentiation. so idi-4 could
+control expression of proteins with pro-survival or pro-death
+functions. similarly e93 transcription factor induced during
+steroid-activated pcd of drosophila salivary glands controls
+upregulation of both apoptotic and autophagy genes [79].
+6.2. podospora tor kinase inactivation mimics cell death
+by incompatibility
+most of the idi genes were induced both during cell death
+by incompatibility and upon starvation, suggesting that het gene
+coexpression and starvation trigger the same pathway [42]. in
+yeast starvation-induced genes are negatively controlled by the
+tor protein kinase that controls cell growth in response to
+nutrient availability [80,81]. upon nutritional starvation, inac-
+tivation of tor leads to induction of autophagy, expression
+of starvation-induced genes and inhibition of transcription and
+translation. because het gene co-expression triggers similar
+responses in podospora we used the natural product rapamycin
+to speciﬁcally inhibit the podospora tor kinase (pator) and
+compare the two responses [42,82,83]. the entire speciﬁc set
+of idi genes is strongly induced by rapamycin treatment. the
+cytological hallmarks of het-r het-v incompatibility (increased
+septation, vacuolization, coalescence of lipid droplets, induction
+of autophagy and cell death) are also observed during rapamycin
+treatment. inactivation of the pator kinase mimics cell death
+by incompatibility.
+the similarity between the incompatibility reaction and
+pator inactivation could be explained by hypothesizing that
+the incompatible het gene interaction affects the tor pathway.
+two alternate models can be proposed. first, the interaction of
+the antagonistic het gene products might affect the general cel-
+lular metabolism and this perturbation might then be sensed by
+the tor pathway. indeed, the tor pathway is known to inte-
+grate a number of cellular signals such as nutrient availability,
+mitochondrial integrity or atp levels [84,85]. in this model,
+inactivation of the tor pathway would represent an indirect
+consequence of the deleterious effect of het gene interaction
+on cellular integrity. an alternate hypothesis would be that the
+het gene products belong to a signaling cascade feeding into
+the tor pathway. the het-c gene of podospora encodes a gly-
+colipid transfer protein and it has been proposed that acd11,
+the ortholog of podospora het-c which is involved in pcd in
+a. thaliana, is part of a sphingolipid signaling pathway. sph-
+ingolipid based signaling is involved in stress response both
+b. pinan-lucarr´e et al. / seminars in cancer biology 17 (2007) 101–111
+109
+in yeast and in higher eukaryotes. in podospora het-c medi-
+ated signaling could be involved in starvation response including
+female organ differentiation and sexual cycle development.
+6.3. vacuole-mediated cell death by incompatibility?
+modiﬁcations of the vacuolar compartment are frequently
+observed during cell death reactions. during developmental cell
+death in plants, a vacuolar enlargement is observed [86]. the
+emergence of vacuoles is also observed in some cell death mod-
+els such as developmental cell death in d. discoidum or neuronal
+cell death in caenorhabditis elegans [87,88]. in d. discoideum
+vacuolization results from autophagy induction [69]. in plants,
+vacuoles can have an essential role in pathogen-induced and
+developmental pcd [89–91]. in podospora, cell death by incom-
+patibility is always associated with vacuolization in wild type
+and autophagy mutants suggesting a contribution of the vacuo-
+lar compartment and its lytic activities to cell death. vacuolar
+remodelling is independent of the autophagic process but con-
+trolled by pator [83]. in plants, vacuole collapse has been
+shown to be a key event in the differentiation of vascular tis-
+sue, causing the release of sequestered hydrolytic enzymes and
+allowing them to attack organelles, ultimately leading to cell
+death [91]. vacuolar caspase-like proteases (vpes) are essen-
+tial for pcd activation during induction of the hypersensitive
+response [89,92]. hatsugai et al. observed a dramatic inhibition
+of vacuole collapse in vpe-suppressed plants suggesting that
+loss of vacuole integrity is dependent on vpes [92]. however
+vpes do not seem to be required for all pcd pathways in planta
+[90]. the concept of a similar cell death mechanism where lyso-
+somes and cathepsins function as executioners is emerging in
+mammals [93,94]. the build-up of various degradative activi-
+ties, among which the vacuolar pspa protease, is a hallmark of
+cell death by incompatibility. in time-lapse video studies, cell
+demise often coincided with vacuolar rupture. vacuolization is
+a common feature of cell death by incompatibility observed also
+in neurospora crassa where bursting of vacuoles is apparent [8].
+it is therefore likely that vacuole membrane permeabilization or
+rupture followed by liberation of lytic enzymes and acidiﬁcation
+of the cytoplasm is responsible for cell death by incompatibility
+in ﬁlamentous fungi. vpes orthologs have not been found in the
+podospora genome but similar functions could be performed by
+other proteins. the inside out destruction of the vacuole could
+be required for the induction of death by incompatibility in the
+fusion cell while intact vacuoles are required for a functional
+autophagic response to ensure survival of surrounding cells. as
+in plants, the vacuole could be involved in both cell death and
+cell survival [95].
+7. concluding remarks and perspectives
+in p. anserina cell death occurs also during the senescence
+phenomenon but it is not known to which extent this cell death
+reaction is related to cell death by incompatibility [1].
+the podospora genome sequence is now publicly available
+(http://podospora.igmors.u-psud.fr). this opens the way to a sys-
+tematic characterization of the het and cell death suppressor
+genes. in particular it will be of central interest to deﬁne the
+role of the fungal speciﬁc het domain in the execution of cell
+death in this large group of eukaryotes. in addition, future stud-
+ies will have to address the precise implication of the vacuole in
+fungal cell death. studying cell death in podospora which is a
+genetically tractable non-animal eukaryote may reveal mecha-
+nisms that are phylogenetically conserved, experimentally more
+accessible, and less redundant than in animal cells.
+acknowledgements
+we would like to thank sven j. saupe for helpful discussions
+and for critical reading of the manuscript. this work was sup-
+ported by grants from the european commission (transdeath –
+contract #511983) and conseil r´egional d’aquitaine (contract
+no. 2005130009ab). bpl was funded by the minist`ere de la
+recherche.
+references
+[1] lorin s, dufour e, sainsard-chanet a. mitochondrial metabolism and
+aging in the ﬁlamentous fungus podospora anserina. biochim biophys
+acta 2006;1757:604–10.
+[2] coppin e, debuchy r, arnaise s, picard m. mating types and sex-
+ual development in ﬁlamentous ascomycetes. microbiol mol biol rev
+1997;61:411–28.
+[3] buss lw. somatic cell parasitism and the evolution of somatic tissue com-
+patibility. proc natl acad sci usa 1982;79:5337–41.
+[4] lane eb, carlile mj. post-fusion somatic incompatibility in plasmodia of
+physarum polycephalum. j cell sci 1979;35:339–54.
+[5] scoﬁeld vl, schlumpberger jm, west la, weissman il. protochor-
+date allorecognition is controlled by a mhc-like gene system. nature
+1982;295:499–502.
+[6] micali oc, smith ml. biological concepts of vegetative self and nonself
+recognition in fungi. evol genet fungi, j xu, norfolk 2005.
+[7] saupe sj. molecular genetics of heterokaryon incompatibility in ﬁlamen-
+tous ascomycetes. microbiol mol biol rev 2000;64:489–502.
+[8] glass nl, kaneko i. fatal attraction: nonself recognition and heterokaryon
+incompatibility in ﬁlamentous fungi. eukaryot cell 2003;2:1–8.
+[9] beisson-schecroun
+j.
+incompatibilit´e
+nucl´eocytoplasmiques dans
+podospora anserina. ann genet 1962;4:3–50.
+interactions
+les ph´enom`enes de barrage chez le
+cellulaire
+et
+[10] jedd g, chua nh. a new self-assembled peroxisomal vesicle required for
+efﬁcient resealing of the plasma membrane. nat cell biol 2000;2:226–31.
+[11] cortesi p, mcculloch ce, song h, lin h, milgroom mg. genetic control of
+horizontal virus transmission in the chestnut blight fungus, cryphonectria
+parasitica. genetics 2001;159:107–18.
+[12] debets f, grifﬁths ajf. polymorphism of het genes prevents resource
+plunderingin neurospora crassa. mycol res 1998;102:1343–9.
+[13] debets f, yang x, grifﬁths aj. vegetative incompatibility in neurospora:
+its effect on horizontal transfer of mitochondrial plasmids and senescence
+in natural populations. curr genet 1994;26:113–9.
+[14] sarkar s, iyer g, wu j, glass nl. nonself recognition is mediated by het-
+c heterocomplex formation during vegetative incompatibility. embo j
+2002;21:4841–50.
+[15] wu j, saupe sj, glass nl. evidence for balancing selection operating at the
+het-c heterokaryon incompatibility locus in a group of ﬁlamentous fungi.
+proc natl acad sci usa 1998;95:12398–403.
+[16] maizels n. immunoglobulin gene diversiﬁcation. annu rev genet
+2005;39:23–46.
+[17] rivas s, thomas cm. molecular interactions between tomato and
+the leaf mold pathogen cladosporium fulvum. annu rev phytopathol
+2005;43:395–436.
+110
+b. pinan-lucarr´e et al. / seminars in cancer biology 17 (2007) 101–111
+[18] saupe sj, clave c, sabourin m, begueret j. characterization of hch, the
+podospora anserina homolog of the het-c heterokaryon incompatibility
+gene of neurospora crassa. curr genet 2000;38:39–47.
+[19] saupe s, descamps c, turcq b, begueret j. inactivation of the podospora
+anserina vegetative incompatibility locus het-c, whose product resembles a
+glycolipid transfer protein, drastically impairs ascospore production. proc
+natl acad sci usa 1994;91:5927–31.
+[20] smith ml, micali oc, hubbard sp, mir-rashed n, jacobson dj, glass
+nl. vegetative incompatibility in the het-6 region of neurospora crassa is
+mediated by two linked genes. genetics 2000;155:1095–104.
+[21] glass nl, dementhon k. non-self recognition and programmed cell death
+in ﬁlamentous fungi. curr opin microbiol 2006.
+[22] fedorova nd, badger jh, robson gd, wortman jr, nierman wc. com-
+parative analysis of programmed cell death pathways in ﬁlamentous fungi.
+bmc genomics 2005;6:177.
+[23] espagne e, balhadere p, penin ml, barreau c, turcq b. het-e and het-
+d belong to a new subfamily of wd40 proteins involved in vegetative
+incompatibility speciﬁcity in the fungus podospora anserina. genetics
+2002;161:71–81.
+[24] saupe s, turcq b, begueret j. a gene responsible for vegetative
+incompatibility in the fungus podospora anserina encodes a protein
+with a gtp-binding motif and g beta homologous domain. gene
+1995;162:135–9.
+[25] saupe s. a short history of small s: a prion of the fungus podospora
+anserina. protein-based inheritance. yo chernoff 2006.
+[26] deleu c, turcq b, begueret j. repa, a repetitive and dispersed dna
+sequence of the ﬁlamentous fungus podospora anserina. nucleic acids
+res 1990;18:4901–3.
+[27] coustou v, deleu c, saupe s, begueret j. the protein product of the het-
+s heterokaryon incompatibility gene of the fungus podospora anserina
+behaves as a prion analog. proc natl acad sci usa 1997;94:9773–8.
+[28] dos reis s, coulary-salin b, forge v, lascu i, begueret j, saupe sj.
+the het-s prion protein of the ﬁlamentous fungus podospora anse-
+rina aggregates in vitro into amyloid-like ﬁbrils. j biol chem 2002;277:
+5703–6.
+[29] maddelein ml, dos reis s, duvezin-caubet s, coulary-salin b, saupe sj.
+amyloid aggregates of the het-s prion protein are infectious. proc natl
+acad sci usa 2002;99:7402–7.
+[30] ritter c, maddelein ml, siemer ab, luhrs t, ernst m, meier bh, et
+al. correlation of structural elements and infectivity of the het-s prion.
+nature 2005;435:844–8.
+[31] balguerie a, dos reis s, ritter c, chaignepain s, coulary-salin b, forge
+v, et al. domain organization and structure-function relationship of the
+het-s prion protein of podospora anserine. embo j 2003;22:2071–81.
+[32] brodersen p, petersen m, pike hm, olszak b, skov s, odum n, et al.
+knockout of arabidopsis accelerated-cell-death11 encoding a sphingosine
+transfer protein causes activation of programmed cell death and defense.
+genes dev 2002;16:490–502.
+[33] mattjus p, turcq b, pike hm, molotkovsky jg, brown re. glycolipid
+intermembrane transfer is accelerated by het-c2, a ﬁlamentous fungus
+gene product involved in the cell-cell incompatibility response. biochem-
+istry 2003;42:535–42.
+[34] saupe s, turcq b, begueret j. sequence diversity and unusual variabil-
+ity at the het-c locus involved in vegetative incompatibility in the fungus
+podospora anserina. curr genet 1995;27:466–71.
+[35] koonin ev, aravind l. the nacht family - a new group of predicted
+ntpases implicated in apoptosis and mhc transcription activation. trends
+biochem sci 2000;25:223–4.
+[36] espagne e, balhadere p, begueret j, turcq b. reactivity in vegetative
+incompatibility of the het-e protein of the fungus podospora anserina
+is dependent on gtp-binding activity and a wd40 repeated domain. mol
+gen genet 1997;256:620–7.
+[37] smith tf, gaitatzes c, saxena k, neer ej. the wd repeat: a common
+architecture for diverse functions. trends biochem sci 1999;24:181–5.
+[38] leipe dd, koonin ev, aravind l. stand, a class of p-loop ntpases
+including animal and plant regulators of programmed cell death: multiple,
+complex domain architectures, unusual phyletic patterns, and evolution by
+horizontal gene transfer. j mol biol 2004;343:1–28.
+[39] labar`ere j. properties of an incompatibility system in podospora anserina
+fungus and value of this system for the study of incompatibility. c r acad
+sci hebd seances acad sci d 1973;276:1301–4.
+[40] pinan-lucarr´e b, balguerie a, clav´e c. accelerated cell death in
+podospora autophagy mutants. eukaryot cell 2005;4:1765–74.
+[41] pinan-lucarr´e b, paoletti m, dementhon k, coulary-salin b, clav´e c.
+autophagy is induced during cell death by incompatibility and is essen-
+tial for differentiation in the ﬁlamentous fungus podospora anserina. mol
+microbiol 2003;47:321–33.
+[42] dementhon k, paoletti m, pinan-lucarr´e b, loubradou-bourges n,
+sabourin m, saupe sj, et al. rapamycin mimics the incompatibility reac-
+tion in the fungus podospora anserina. eukaryot cell 2003;2:238–46.
+[43] belcour l, bernet j. sur la mise en ´evidence d’un g`ene dont la mutation
+supprime sp´eciﬁquement certaines manifestations d’incompatibilit´e chez
+le podospora anserina. cr acad sci paris 1969;269:712–4.
+[44] bernet j. sur un cas de suppression de l’incompatibilit´e cellulaire chez le
+champignon podospora anserina. c r acad sci paris 1971;273:1120–2.
+[45] bernet j, b´egueret j, labarere j. incompatibility in the fungus podospora
+anserine. are the mutation abolishing the incompatibility reaction riboso-
+mal mutations? mol gen genet 1973;124:35–50.
+[46] begueret j. protoplasmic incompatibility: possible involvement of prote-
+olytic enzymes. nat new biol 1972;235:56–8.
+[47] begueret j, bernet j. proteolytic enzymes and protoplasmic incompatibility
+in podospora anserina. nat new biol 1973;243:94–6.
+[48] boucherie h, bernet j. intracellular and extracellular phenoloxydases in
+the fungus podospora anserina: effect of a constitutive mutation involved
+in their posttranscriptional control. mol gen genet 1977;157:53–9.
+[49] boucherie h, bernet j. protoplasmic incompatibility and self-lysis in
+podospora anserina: enzymes activities associated with cell destruction.
+can j bot 1978;56:2171–6.
+[50] labar`ere j, b´egueret j, bernet j. incompatibility in podospora anserina:
+comparative properties of the antagonistic cytoplasmic factors of a nonal-
+lelic system. j bacteriol 1974;120:854–60.
+[51] boucherie h, dupont ch, bernet j. polypeptide synthesis during protoplas-
+mic incompatibility in the fungus podospora anserina. biochim biophys
+acta 1981;653:18–26.
+[52] bourges n, groppi a, barreau c, clav´e c, b´egueret j. regulation
+of gene expression during the vegetative incompatibility reaction in
+podospora anserina: characterization of three induced genes. genetics
+1998;150:633–41.
+[53] paoletti m, castroviejo m, b´egueret j, clav´e c. identiﬁcation and char-
+acterization of a gene encoding a subtilisin-like serine protease induced
+during the vegetative incompatibility reaction in podospora anserina. curr
+genet 2001;39:244–52.
+[54] dementhon k, saupe sj. dna-binding speciﬁcity of the idi-4 basic
+leucine zipper factor of podospora anserina deﬁned by systematic evo-
+lution of ligands by exponential enrichment (selex). eukaryot cell
+2005;4:476–83.
+[55] dementhon k, saupe sj, clav´e c. characterization of idi-4, a bzip tran-
+scription factor inducing autophagy and cell death in the fungus podospora
+anserina. mol microbiol 2004;53:1625–40.
+[56] levine b, klionsky dj. development by self-digestion: molecular mecha-
+nisms and biological functions of autophagy. dev cell 2004;6:463–77.
+[57] reggiori f, klionsky dj. autophagy in the eukaryotic cell. eukaryot cell
+2002;1:11–21.
+[58] kabeya y, mizushima n, ueno t, yamamoto a, kirisako t, noda t, et al.
+lc3, a mammalian homologue of yeast apg8p, is localized in autophago-
+some membranes after processing. embo j 2000;19:5720–8.
+[59] lang t, schaeffeler e, bernreuther d, bredschneider m, wolf dh, thumm
+m. aut2p and aut7p, two novel microtubule-associated proteins are
+essential for delivery of autophagic vesicles to the vacuole. embo j
+1998;17:3597–607.
+[60] bursch w, ellinger a, gerner c, frohwein u, schulte-hermann r. pro-
+grammed cell death (pcd). apoptosis, autophagic pcd, or others? ann n
+y acad sci 2000;926:1–12.
+[61] tsukada m, ohsumi y. isolation and characterization of autophagy-
+defective mutants of saccharomyces cerevisiae. febs lett 1993;333:
+169–74.
+b. pinan-lucarr´e et al. / seminars in cancer biology 17 (2007) 101–111
+111
+[62] boya p, gonzalez-polo ra, casares n, perfettini jl, dessen p, larochette
+n, et al. inhibition of macroautophagy triggers apoptosis. mol cell biol
+2005;25:1025–40.
+[63] liu y, schiff m, czymmek k, talloczy z, levine b, dinesh-kumar
+sp. autophagy regulates programmed cell death during the plant innate
+immune response. cell 2005;121:567–77.
+[64] pyo jo, jang mh, kwon yk, lee hj, jun ji, woo hn, et al. essen-
+tial roles of atg5 and fadd in autophagic cell death: dissection of
+autophagic cell death into vacuole formation and cell death. j biol chem
+2005;280:20722–9.
+[65] shimizu s, kanaseki t, mizushima n, mizuta t, arakawa-kobayashi s,
+thompson cb, et al. role of bcl-2 family proteins in a non-apoptotic
+programmed cell death dependent on autophagy genes. nat cell biol
+2004;6:1221–8.
+[66] yu l, alva a, su h, dutt p, freundt e, welsh s, et al. regulation of an
+atg7-beclin 1 program of autophagic cell death by caspase-8. science
+2004;304:1500–2.
+[67] veneault-fourrey c, barooah m, egan m, wakley g, talbot nj.
+autophagic fungal cell death is necessary for infection by the rice blast
+fungus. science 2006;312:580–3.
+[68] yu l, wan f, dutta s, welsh s, liu z, freundt e, et al. autophagic pro-
+grammed cell death by selective catalase degradation. proc natl acad sci
+usa 2006;103:4952–7.
+[69] kosta a, roisin-bouffay c, luciani mf, otto gp, kessin rh, golstein p.
+autophagy gene disruption reveals a non-vacuolar cell death pathway in
+dictyostelium. j biol chem 2004;279:48404–9.
+[70] laporte c, kosta a, klein g, aubry l, lam d, tresse e, et al. a necrotic
+cell death model in a protist. cell death differ 2006.
+[71] reggiori f, klionsky dj. autophagosomes: biogenesis from scratch? curr
+opin cell biol 2005;17:415–22.
+[72] kissova i, defﬁeu m, manon s, camougrand n. uth1p is involved in the
+autophagic degradation of mitochondria. j biol chem 2004;279:39068–74.
+[73] onodera j, ohsumi y. autophagy is required for maintenance of amino
+acid levels and protein synthesis under nitrogen starvation. j biol chem
+2005;280:31582–6.
+[74] bernet j. in podospora anserina, protoplasmic incompatibility genes are
+involved in the cell death control via multiple gene interactions. heredity
+1992;68:79–87.
+[75] kaiser d. control of multicellular development: dictyostelium and myx-
+ococcus. annu rev genet 1986;20:539–66.
+[76] boucherie h, bernet j. protoplasmic incompatibility and female organ
+formation in podospora anserina: properties of mutations abolishing both
+processes. mol gen genet 1974;135:163–74.
+[77] labarere jajb. a mutation inhibiting protoplasmic incompatibility in
+podospora anserina that suppresses an extracellular laccase and pro-
+toperitheciulm formation. j gen microbiol 1978;109:187–9.
+[78] wang p, larson tg, chen ch, pawlyk dm, clark ja, nuss dl. cloning
+and characterization of a general amino acid control transcriptional activa-
+tor from the chestnut blight fungus cryphonectria parasitica. fungal genet
+biol 1998;23:81–94.
+[79] lee cy, clough ea, yellon p, teslovich tm, stephan da, baehrecke eh.
+genome-wide analyses of steroid- and radiation-triggered programmed cell
+death in drosophila. curr biol 2003;13:350–7.
+[80] rohde j, heitman j, cardenas me. the tor kinases link nutrient sensing
+to cell growth. j biol chem 2001;276:9583–6.
+[81] schmelzle t, hall mn. tor, a central controller of cell growth. cell
+2000;103:253–62.
+[82] heitman j, movva nr, hall mn. targets for cell cycle arrest by the
+immunosuppressant rapamycin in yeast. science 1991;253:905–9.
+[83] pinan-lucarr´e b, iraqui i, clave c. podospora anserina target of
+rapamycin. curr genet 2006;50:23–31.
+[84] dennis pb, jaeschke a, saitoh m, fowler b, kozma sc, thomas g.
+mammalian tor: a homeostatic atp sensor. science 2001;294:1102–5.
+[85] desai bn, myers br, schreiber sl. fkbp12-rapamycin-associated
+protein associates with mitochondria and senses osmotic stress via mito-
+chondrial dysfunction. proc natl acad sci usa 2002;99:4319–24.
+[86] kuriyama h, fukuda h. developmental programmed cell death in plants.
+curr opin plant biol 2002;5:568–73.
+[87] cornillon s, foa c, davoust j, buonavista n, gross jd, golstein
+p. programmed cell death in dictyostelium. j cell sci 1994;107(pt
+10):2691–704.
+[88] hall dh, gu g, garcia-anoveros j, gong l, chalﬁe m, driscoll m.
+neuropathology of degenerative cell death in caenorhabditis elegans. j
+neurosci 1997;17:1033–45.
+[89] hatsugai n, kuroyanagi m, nishimura m, hara-nishimura i. a cellu-
+lar suicide strategy of plants: vacuole-mediated cell death. apoptosis
+2006;11:905–11.
+[90] lam e. vacuolar proteases livening up programmed cell death. trends cell
+biol 2005;15:124–7.
+[91] obara k, kuriyama h, fukuda h. direct evidence of active and rapid
+nuclear degradation triggered by vacuole rupture during programmed cell
+death in zinnia. plant physiol 2001;125:615–26.
+[92] hatsugai n, kuroyanagi m, yamada k, meshi t, tsuda s, kondo m, et
+al. a plant vacuolar protease, vpe, mediates virus-induced hypersensitive
+cell death. science 2004;305:855–8.
+[93] guicciardi me, leist m, gores gj. lysosomes in cell death. oncogene
+2004;23:2881–90.
+[94] leist m, jaattela m. four deaths and a funeral: from caspases to alternative
+mechanisms. nat rev mol cell biol 2001;2:589–98.
+[95] seay md, dinesh-kumar sp. life after death: are autophagy genes
+involved in cell death and survival during plant innate immune responses?
+autophagy 2005;1:185–6.

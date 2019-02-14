@@ -1,0 +1,2393 @@
+biochimica et biophysica acta 1766 (2006) 1 – 22
+www.elsevier.com/locate/bbacan
+review
+igf-i mediated survival pathways in normal and malignant cells
+raushan t. kurmasheva, peter j. houghton ⁎
+department of molecular pharmacology, st. jude children's research hospital, 332 n. lauderdale st., memphis, tn 38105-2794, usa
+received 14 october 2005; received in revised form 23 may 2006; accepted 25 may 2006
+available online 7 june 2006
+abstract
+the type-i and -ii insulin-like growth factors (igf-i, ii) are now established as survival- or proliferation-factors in many in vitro systems. of
+note igfs provide trophic support for multiple cell types or organ cultures explanted from various species, and delay the onset of programmed cell
+death (apoptosis) through the mitochondrial (intrinsic pathway) or by antagonizing activation of cytotoxic cytokine signaling (extrinsic pathway).
+in some instances, igfs protect against other forms of death such as necrosis or autophagy. the effect of igfs on cell survival appears to be
+context specific, being determined both by the cell origin (tissue specific) and the cellular stress that induces loss of cellular viability. in many
+human cancers, there is a strong association with dysregulated igf signaling, and this association has been extensively reviewed recently. igf-
+regulation is also disrupted in childhood cancers as a consequence of chromosomal translocations. igfs are implicated also in acute renal failure,
+traumatic injury to brain tissue, and cardiac disease. this article focuses on the role of igfs and their cellular signaling pathways that provide
+survival signals in stressed cells.
+© 2006 elsevier b.v. all rights reserved.
+contents
+introduction .
+1.
+igf-ir signaling .
+2.
+igfs as survival factors.
+3.
+igfs protecting against cellular stress .
+4.
+5. regulation of death-signaling proteins .
+6.
+igfs modulating signaling pathways in response to various cellular stresses .
+serum-deprivation .
+6.1.
+cytokines.
+6.2.
+loss of substrate attachment .
+6.3.
+6.4. oxidative stress .
+6.5. hypoxia/ischemia .
+6.6. uv radiation .
+6.7.
+6.8.
+6.9. anticancer drugs .
+6.10. membrane hyperpolarization .
+6.11. calcium influx .
+6.12. glucose stress .
+targeting igf-ir for cancer treatment .
+7.
+8. conclusions.
+acknowledgments .
+references .
+ceramide .
+fas/trail signaling .
+. 2
+. 2
+. 2
+. 3
+. 4
+. 5
+. 6
+. 6
+. 7
+. 8
+. 9
+. 10
+. 10
+. 10
+. 11
+. 13
+. 14
+. 14
+. 14
+. 15
+. 16
+. 16
+⁎ corresponding author. tel.: +1 901 495 3440; fax: +1 901 495 4290.
+e-mail address: peter.houghton@stjude.org (p.j. houghton).
+0304-419x/$ - see front matter © 2006 elsevier b.v. all rights reserved.
+doi:10.1016/j.bbcan.2006.05.003
+r.t. kurmasheva, p.j. houghton / biochimica et biophysica acta 1766 (2006) 1–22
+1. introduction
+the type-i and -ii insulin-like growth factors (igf-i, ii) are
+now established as survival- or proliferation-factors in many in
+vitro systems. of note igfs provide trophic support for multiple
+cell types or organ cultures explanted from various species, and
+delay the onset of programmed cell death (apoptosis) through
+the mitochondrial
+(intrinsic pathway) or by antagonizing
+activation of cytotoxic cytokine signaling (extrinsic pathway).
+in some instances igfs protect against other forms of death
+such as necrosis or autophagy. the effect of igfs on cell
+survival appears to be context specific, being determined both
+by the cell origin (tissue specific) and the cellular stress that
+induces loss of cellular viability. in many human cancers there is
+a strong association with dysregulated igf signaling, and this
+association has been extensively reviewed recently [1–19].
+igf-regulation is also disrupted in childhood cancers as a
+consequence of chromosomal translocations [20,21]. igfs are
+implicated also in acute renal failure, traumatic injury to brain
+tissue, and cardiac disease. this article focuses on the role of
+igfs and their cellular signaling pathways that provide survival
+signals in stressed cells.
+2. igf-ir signaling
+site-directed mutagenesis has been used to map specific
+receptor functions, signaling pathways and phenotypes asso-
+ciated with igf-ir signaling. domain-specific mutants of the
+igf-ir β-subunit have been used to analyze the role of
+specific tyrosines in the regulation of the invasive/metastatic
+phenotype [22]. the results identified three types of receptor-
+dependent
+functions in this model. dna synthesis was
+dependent only on an intact kinase domain (y-1131, y-1135,
+and y-1136), whereas protection from apoptosis and anchor-
+age-independent growth were dependent equally on the kinase
+domain and y-1250/1251 signaling. migration and invasion
+appeared to be dependent on kinase domain and enhanced
+through y-1250/1251 signaling.
+data support igf-ir mediated survival independent of irs-
+1 and shc [23]. extensive studies from baserga's laboratory
+[24–28] have used d32 murine hematopoeitic cells that lack
+irs-1 and irs-2 to identify signaling pathways downstream of
+igf-1r that are independent of irs proteins. upon withdrawal
+of interleukin-3 (il-3), d32 cells undergo rapid apoptosis.
+expression of wild type igf-1r allowed igf-1 rescue,
+independent of phosphatidylinositol 3′ kinase (pi3k) whereas
+mutant receptors lacking the catalytic domain tyrosines or
+mutation in the atp binding site (k1003) failed to rescue. a
+mutant that lacks the shc binding site (y950f) maintained
+viability for a shorter period. mutations of the serine cluster
+(s1280–1283), unique to the igf-1r, also abrogated the ability
+of igf-1 to maintain viability for 48 h in the absence of il-3.
+these mutational analyses demonstrated three major pathways
+of igf-1r signaling that protected from il-3 withdrawal-
+induced apoptosis. in the absence of irs proteins sustained
+activation of erk1/2 appears largely dependent on y950, with
+another pathway dependent on the serine cluster motif (s1280–
+1283), probably in cooperation with 14-3-3 proteins. the latter
+pathway results in translocation of raf-1 to mitochondria where
+it can phosphorylate the proapoptotic protein bad. however, the
+relationship between activation of erks and igf-1-mediated
+survival is not absolute [24]. these pathways are not shared
+with insulin receptor (ir) signaling. in the presence of irs-1,
+the major pathway activated is via pi3k and akt. phos-
+phorylation and inactivation of bad appears to be a common
+target for each pathway, fig. 1.
+a second approach to mapping receptor-transduced signal-
+ing pathways has been the use of chimeric receptors. a receptor
+comprised of the extracellular domain of the csf1 receptor and
+intracellular domain of the ir has been used to map signaling
+pathways downstream of ir. csf-1 stimulated glucose uptake,
+mitogen-activated protein kinases, and irs-1-associated pi3k
+in cells expressing the csf1r/ir, but not through a chimeric
+receptor with a deletion of 12 amino acids from its
+juxtamembrane domain (csf1r/irδ960) that was unable to
+phosphorylate irs-1 and shc. however the csf1r/irδ960
+chimera was as effective as the csf1r/ir in mediating csf-1
+protection of cells from staurosporine-induced apoptosis. these
+data indicate that
+the anti-apoptotic effects of the insulin
+receptor cytoplasmic domain can be mediated by signaling
+pathways distinct from those requiring irs-1 and shc. in
+contrast, mutant chimeras of trk/ir(y960f) or trk/igfir
+(y950f)
+failed to rescue from serum-starvation induced
+apoptosis when stimulated with neurotrophin-3 [29]. data
+from knockout mice also suggest
+in
+mediating igf-i protection under serum-starved conditions.
+irs-1-deficient brown pre-adipocyte cell
+lines showed a
+significant decrease in response to igf-i protection from
+apoptosis, whereas no changes were observed in the irs-2,
+irs-3, or irs-4-deficient cells. pi3k activity was decreased and
+akt phosphorylation was slightly reduced in these cells,
+whereas phosphorylation of the transcription factors camp
+response element-binding protein (creb) and fkhr by igf-1
+and insulin was markedly reduced in irs-1-deficient cells. irs
+proteins may therefore play differential roles in the anti-
+apoptotic effects of igf-1 with irs-1 being predominant.
+overexpression of irs-i in hep3b hepatoma cells led to
+activation of both the pi3k and erk1/2 pathways and
+conferred resistance to tgf-β-induced death [30].
+irs-1 is important
+3. igfs as survival factors
+there are accumulating data from multiple systems that serum-
+deprivation results in apoptosis, and that either igf-1 or -ii (as
+well as other growth factors) can support survival, at least for a
+limited period of time. in many systems igfs appear to play a
+unique role in protection. early studies using il-3-dependent
+hematopoietic cell lines showed that igf-1 could adequately
+substitute and delay apoptosis when substituted for il-3 [31].
+such results have been extended to such diverse models as
+cortical neuron cultures, cerebellar granule cells, cultured fetal
+ovaries and malignant cells from various species. thus the role of
+igfs in supporting survival under growth factor deficient con-
+ditions appears conserved in a wide range of cell types. indeed,
+r.t. kurmasheva, p.j. houghton / biochimica et biophysica acta 1766 (2006) 1–22
+fig. 1. signaling pathways induced by ligand binding to igf-ir that lead to phosphorylation and inactivation of the proapoptotic protein bad. activation of irs-1
+requires an active kinase function of igf-irβ, whereas y950 is required for shc binding and activation of the ras/mapk pathway. phosphorylation of s1283 appears
+a requirement for binding 14-3-3 proteins that lead to translocation of raf-1 to the mitochondria where it can phosphorylate bad (adapted from [25]).
+igf-mediated trophic support by stromal tissues may be common
+in mammals [32]. constitutive activation of c-myc also drives
+apoptosis under growth factor deprived conditions of growth [33],
+where igf-1, and to a lesser extent igf-ii and pdgf rescued,
+whereas egf, bfgf and bombesin had no effect in preventing
+cell death.
+importantly,
+these studies showed that igf-i or pdgf-
+mediated protection was not restricted to precommitment g1
+cells. further, protection by igf-i, but to a lesser extent by
+pdgf, was independent of protein synthesis, as igf-i provided
+substantial protection against serum-withdrawal even in the
+presence of the translation inhibitor cycloheximide. other
+studies have confirmed that igfs can prevent cycloheximide
+induced apoptosis in malignant and normal cell systems
+[34,35]. translation inhibitors, such as cycloheximide, rapidly
+activate mtor signaling, through an undefined pathway. this
+leads to activation of s6k1 which may have either pro- or anti-
+apoptotic activities. s6k1 can phosphorylate irs-1, which leads
+to proteasome-mediated degradation, and it can phosphorylate
+and inactivate the proapoptotic protein bad. potentially, under
+these conditions igf-1 may mediate survival through an irs-
+independent pathway described previously [25]. alternatively,
+inhibitors of translation may activate akt through mtor in
+the torc2 complex (j. zhan, p. houghton, unpublished data).
+4. igfs protecting against cellular stress
+while studies demonstrating the ability of igfs to support
+viability during serum-deficient growth have been informative,
+they do not shed light on the in vivo role of igfs in cell survival
+under normal physiological or pathological conditions. igfs
+protect mammalian cells from diverse stress-inducing insults in-
+cluding cytotoxic cytokines, hypoxia–ischemia, oxidative stress,
+and dna damage. in vivo studies support igfs in protecting
+against ischemic or traumatic brain injury. endogenous igf-1
+plays a significant role in recovery from insults such as hypoxia–
+ischemia and that administration of igf-1 can actively ameliorate
+damage. neurons and other cell types die hours or even days after
+initial injury due to activation of the apoptotic program. fol-
+lowing ischemic or traumatic brain injury igf-1 and its binding
+proteins and receptors are intensely induced within damaged
+brain regions, suggesting a possible role for igf-1 in the recovery
+process. exogenous administration of igf-1 within a few hours
+after brain injury is now established to be protective in both gray
+and white matter and leads to improved somatic function [36–38].
+igfs also support cell viability of rat retinal ganglial neurons or
+chick olfactory neurons following denervation [39–41]. igfs
+protect from acute renal failure caused by occlusion-reperfusion
+or after ureteral obstruction in rats [42–45], or in cerulien-induced
+r.t. kurmasheva, p.j. houghton / biochimica et biophysica acta 1766 (2006) 1–22
+pancreatitis [46], and partially protects against 5-fluorouracil-
+induced mucositis in a rat model [47].
+igfs have also demonstrated protective effects against specific
+and indirect apoptosis-inducing stimuli in organotypic cultures,
+primary cell cultures, 3d-cultures (spheroids) as well as in more
+traditional monolayer culture with continuous cell lines. specific
+death signals are transferred via death ligands, death receptors, and
+their intracellular signaling pathways, while indirect signals
+include a wide range of stimuli that potentially harm survival of
+cells, and include intercalating drugs, irradiation or altered intra-
+cellular signaling. thus, igf-i protected both isolated islets of
+langerhans from the cytotoxic effects of exogenous interleukin-
+1β (il-1β), tumor necrosis factor-α, (tnfα) and interferon-γ
+(ifnγ) [48], and ins-1 pancreatic β cells [49] suggesting con-
+cordance between the model systems. similarly igfs protected
+from u.v.-b irradiation in primary cultures of human karatino-
+cytes as well as continuous cultures [50,51] potentially allowing
+more time for repair of u.v.-induced cyclobutane thymine dimers.
+igfs also protect from apoptosis induced by overexpression of
+protooncogenes [33,52], although igf-i potentiated c-myc-driven
+apoptosis in human hepatoma cells [53]. igfs prevent apoptosis
+mediated by p53 [54], nitric oxide [55,56], oxidative stress
+induced by arachidonic acid or hydrogen peroxide [57–59]. igfs
+also offer some protection against cancer chemotherapeutic
+agents, ionizing radiation or their potential downstream effectors
+(e.g. ceramide). the potential for stromal-cell-derived igfs to
+protect is demonstrated by the observation that media from mg-
+63 osteoblast-like cells protected pc-3 prostate carcinoma cells
+from doxorubicin toxicity, or stromal cell protection of b cell
+precursors from dexamethasone-induced apoptosis [60]. in
+contrast, dexamethasone blocked igf-i rescue from apoptosis
+induced by hyperosmotic stress in rat l6 myoblasts [61]. how-
+ever, there are examples where igfs fail to protect, or even
+enhance the cytotoxic activity of tnfα in prostate cancer cells
+[62] or non-transformed murine cells [63,64]. conversely, tnfα
+has been reported to inhibit igf-i-stimulated growth of rhab-
+domyosarcoma cells [65]. similarly, although there are numerous
+reports indicating the effect of igfs preventing etoposide- or
+doxorubicin-induced apoptosis, there are exceptions [34,66]. the
+ability of igfs to rescue cells from drug-induced apoptosis is
+probably determined, in part, by the relative level of igf-i receptor
+expression [67], and by the mechanism of cell death that is
+induced. for example, in cortical neurons the calcium ionophore,
+ionomycin, induces apoptosis at low concentration that is rescued
+by igf-i, but at higher concentrations results in necrotic cell death
+that
+is not prevented by igfs [68]. nor did igf-i inhibit
+excitotoxic stress-induced necrosis [69], whereas it did attenuate
+myocyte necrosis in an in vivo model of non-occlusive coronary
+artery constriction [70].
+while the majority of data support a role for igfs in main-
+taining cell viability in the face of stress induced by various
+stimuli,
+these data should be interpreted with some caution
+regarding their physiological relevance. clearly, studies in vivo
+that demonstrate the positive effect of igf administration in
+ameliorating brain or coronary artery ischemia support an im-
+portant physiological role. however, mere protection against
+biochemical manifestations of apoptosis (caspase activation, or
+dna fragmentation) may just reflect an altered pathway for
+cellular death, rather than maintenance of proliferative or
+clonogenic potential. for example, igf-i mediated protection
+from ionizing radiation, as judged by dna fractionation, did not
+correlate with clonogenic survival [71]. dna fragmentation as a
+hallmark of apoptosis has also been challenged, as in cortical
+neurons slowly triggered excitotoxicity occurs by necrosis with
+dna fragmentation suggesting that interpreting internucleosomal
+dna fragmentation in isolation as evidence for apoptosis may be
+incorrect [69]. mccarthy et al. [72] concluded that in the process
+of apoptosis induced by deregulated oncogenes, dna damage, or
+pro-apoptotic proteins, caspases constitute part of the execution
+machinery that is engaged after the point at which cells become
+committed to die or can be rescued by survival factors. these cells
+have lost proliferative potential and all eventually die by a process
+involving cytoplasmic blebbing [72]. indeed it has been proposed
+that apoptosis is not the main mechanism for the death of cancer
+cells in response to common treatment regimens, and that if
+clonogenic survival is used to assess killing then apoptosis and the
+genes controlling it, appear to play little or no role in the sensitivity
+of these cells to killing by anticancer drugs and radiation [73].
+5. regulation of death-signaling proteins
+igf-mediated effects on transcription or posttranslational mo-
+dification of pro- and anti-apoptotic proteins have been reported
+following serum-deprivation, and may provide the mechanism by
+which igfs suppress apoptosis induced by either the cell-extrinsic
+(which is activated by death cytokines such as tnfα), or by the
+cell-intrinsic apoptotic pathways (which is activated after cellular
+damage). bcl-2, caspase, or apaf families of proteins constitute
+the core of apoptotic regulation. ligand binding to the igf-ir can
+activate akt, which in turn phosphorylates bad. once
+phosphorylated, bad can no longer bind bcl-xl or bcl-2,
+allowing these proteins to exert their protective effect at the
+mitochondrial
+level, potentially by blocking the release of
+cytochrome c, required for caspase activation [74]. the balance
+between anti-apoptotic (bcl-2, bcl-x) and pro-apoptotic (bax,
+bak, bad) proteins is important in determining if a given signal
+results in apoptosis [75]. activation of either pathway (extrinsic or
+intrinsic) results in increased activity of bad which links survival
+signals to the mitochondrial cell death machinery [76,77]. in
+vascular smooth muscle cells deprived of serum, igf-i stimulates
+phosphorylation of bad by a pi3k-dependent pathway. more-
+over, the proapoptotic effect of bad was attenuated by igf-i [78].
+the analysis of a mutant bad (where inactivating phos-
+phorylation sites are mutated) mice reveals that bad phosphor-
+ylation attenuates death pathway signaling by raising the
+threshold at which mitochondria release cytochrome c to induce
+cell death, and that a primary function of bad phosphorylation is
+to allow growth factors to block cell death induced by a variety
+apoptotic stimuli [77]. in addition to posttranslational modifica-
+tion of bad, igf-ir activation can regulate both pro- and apo-
+ptotic proteins, as well as transcription factors leading to inhibition
+of apoptosis. some of these pathways are summarized in fig. 2. in
+baf-3 cells, il-3 and igf-1 both inhibit cell death under serum-
+deprived conditions [79]. both factors were found to upregulate
+r.t. kurmasheva, p.j. houghton / biochimica et biophysica acta 1766 (2006) 1–22
+fig. 2. igf-ir-mediated survival through transcriptional regulation. igf-ir signaling via irs-1, akt or map kinases (erk1/2, p38) positively regulates transcription of
+antiapoptotic genes (red) and negatively regulates proapoptotic genes (green). igf-ir signaling regulates transcription factors that themselves regulate antiapoptotic programs.
+bcl-x at the mrna and protein levels and protect from apoptosis
+in the absence of protein synthesis. pi3k activation was involved
+in the upregulation of bcl-x mrna induced by both il-3 and
+igf-1, although of interest, pi3k activity was necessary only for
+inhibition of apoptosis by igf-1 but not il-3. the protective effect
+of igf-1 in pc12 cells is also associated with an up-regulation of
+bcl-xl mrna and protein levels [80]. in il-3-dependent murine
+myeloid progenitor cells serum-deprivation led to a time-
+dependent reduction in the expression of bcl-2 associated with
+an 8-fold increase in apoptosis after 24 h. igf-i and il-4
+maintained 10-fold higher levels of bcl-2 than in il-3-deprived
+cells. however, il-4 and igf-i do not change expression of bax,
+although they maintain high levels of bcl-2/bax heterodimers
+[81]. igf-i suppresses key elements of the intrinsic (mitochon-
+drial) death pathway in cerebellar granule neurons. igf-i blocked
+release of mitochondrial cytochrome c and the induction of the
+bh3-only bcl-2 family member, bim (bcl-2 interacting mediator
+of cell death), a mediator of bax-dependent cytochrome c release.
+the suppression of bim expression by igf-i was associated with
+inactivation of fkhrl1, a transcriptional regulator of bim. these
+data suggest that igf-i signaling through akt promotes survival
+by blocking the fkhrl1-dependent transcription of bim [82].
+igf-i also strongly suppressed the pro-apoptotic bh3-only
+protein bbc3 (bcl-2 binding component) mrna expression
+suggesting that bbc3 is a common target in diverse cell death-
+signaling pathways [54].
+the t cell death-associated gene 51 (tdag51) has also been
+suggested to play an important role in the anti-apoptotic effects of
+igf-i [83]. tdag51 was identified by cdna microarray
+analysis as a gene specifically induced by igf-i. igf-i stimulated
+induction of tdag1 in nih-3t3 cells, which overexpress the
+human igf-i receptor, is mediated through the p38 mapk
+pathway and not the erk, jnk, or pi3k pathways. down-
+regulation of tdag1 by sirna, reduced protein levels by ∼75%
+and abolished the ability of igf-i to rescue cells from serum
+starvation-induced apoptosis. exactly how tdag1 is involved in
+the anti-apoptotic actions of igf-i remains to be elucidated.
+6. igfs modulating signaling pathways in response to
+various cellular stresses
+the signaling pathways most frequently implicated in igf-
+mediated survival signaling are represented in figs. 1 and 2. igf-i
+or -ii binding to the igf-ir induces receptor phosphorylation,
+recruitment and phosphorylation of irs-1 (or irs-2) resulting in
+recruitment of p110, the catalytic subunit of pi3k, generation of
+phosphoinositol
+trisphosphate, and activation of pdk1, and
+subsequently akt. akt appears to be a critical component of the
+survival pathway, regulating the activities of components of the
+apoptotic machinery including the forkhead (fkhr-l1) tran-
+scription factor, bad, and glycogen synthase kinase 3β (gsk3β).
+a second major pathway implicated in survival signaling results
+from the recruitment of adaptor proteins to the activated igf-ir
+resulting in ras signaling and activation of transcriptional
+programs downstream of the extracellular receptor activated
+kinases (erk-1, -2). in the absence of irs expression, binding of
+14-3-3 to the igf-1r leads to a signaling pathway in which raf-1
+is translocated to the mitochondria where it may phosphorylate
+and inactivate bad.
+the requirement for activation of pi3k or erk1/2 in
+mediating igf-survival appears to be context specific depending
+on the model system and the stress stimulus used. for example, in
+r.t. kurmasheva, p.j. houghton / biochimica et biophysica acta 1766 (2006) 1–22
+3t3-l1 preadipocytes igf-i mediated survival under serum-
+starvation conditions required both activation of pi3k and erk1/
+2. in contrast, igf-i potentiation of tnfα induced apoptosis
+required only activation of pi3k [63]. similarly, the mode of
+death may impact whether igfs can protect. for example, in
+cortical neurons, igf-i rescues only from apoptosis induced by
+low concentrations of ionomycin [68].
+6.1. serum-deprivation
+although the effect of igfs in protecting from serum-
+deprivation have been reported in numerous model systems,
+relatively few studies have defined either the signaling pathways
+activated, or the putative mechanism by which apoptosis is
+prevented. igf-stimulation of the pi3k/akt pathway may be
+essential for some systems [79,84–86] whereas in other models
+pi3k signaling appears not to be essential for igf-mediated
+survival [87–90]. the role of signaling through the erk1/2
+pathway in igf-mediated survival also appears context specific.
+in most studies the dependence on signaling through one pathway
+or another has been determined by the ability of pi3k inhibitors
+(notably wortmannin and ly294002) to prevent igf-mediated
+rescue from serum-deprivation. wortmannin inhibits other
+members of the pikk family (mtor, atr), so is not absolutely
+specific. this agent also is highly unstable in culture medium,
+hence it is important to demonstrate that pi3k signaling is indeed
+inhibited during the time course of the rescue experiments,
+particularly where the inhibitor does not prevent igf-stimulated
+survival. similarly, demonstration of the erk1/2 pathway in
+survival has predominantly used inhibitors of mek1 such as
+pd98059. fortunately this agent is stable for several days under
+culture conditions. in sensory dorsal root ganglion cells deprived
+of nerve growth factor (ngf) in serum, igf-i mediated survival
+was blocked by inhibitors of pi3k, but not by pd98059 [91]. in
+human cd34+ early erythroid precursors multiple pathways
+appear to be required for igf-mediated survival. although cell
+proliferation was more related to simultaneous activation of jak-
+stat and erk1/2, the effect on cell survival correlated with
+activation of pi3k-akt, erk1/2 and jak-stat proteins [89]. in
+non-small cell lung cancer cell lines amphiregullin combined with
+igf-i strongly supports viability under serum-deprived conditions
+[87]. survival was not abrogated by inhibition of either the pi3k
+or erk1/2 pathways, but appeared to be pkc-dependent as small
+interfering rnas against pkcδ, pkcζ or p90rsk blocked rescue.
+the role of pi3k signaling and phosphorylation of the camp
+response-element binding protein (creb) in igf-i-mediated
+survival of cultured cortical neurons also appears uncertain [90],
+as the survival-promoting effect of bdnf was much weaker than
+that of igf-1 in serum deprivation yet both hormones induced
+similar levels of pi3k activation and akt phosphorylation.
+further phosphorylation of erk1/2 and creb was stimulated by
+bdnf much more potently than by igf-1, thus effectively
+dissociating these signaling events from survival.
+deprivation of serum results in activation of the c-jun n-
+terminal kinase (jnk) pathway in several model systems
+[84,85,88]. jnk1 and jnk2 were activated within 1 h of
+serum-withdrawal in schwann cells [84], and apoptosis was
+blocked by expression of a dominant negative jnk mutant. igf-
+i-mediated decrease of jnk activation was pi3k-dependent.
+interestingly, overexpression of bcl-xl also attenuated apoptosis,
+and also decreased activation of jnks. these results suggest a
+common mechanism by which bcl-xl and igfs suppress jnk
+activation-induced stress, although the signaling pathway in-
+volved is obscure. quite different results have been reported
+where igf-i rescue of il-3 dependent fl5.12 lymphocytic cells
+(overexpressing igf-ir) appears to be independent of pi3k/akt
+signaling. further, rather than suppressing jnk activation, igf-i
+induced a rapid and transient activation of jnk that was paralleled
+by a transient and robust phosphorylation of c-jun. activation of
+the jnk pathway by igf-i occurred in the presence of pi3k
+inhibitors. analysis of a series of fl5.12 cells expressing mutated
+igf-irs and analysis of 32d/igf-ir cells (deficient in irs
+proteins) showed that neither the c-terminus of igf-ir nor irs-1
+and irs-2 were required for jnk activation, although y950 of
+igf-ir was essential for full activation. dicumarol, an inhibitor
+of jnk activity suppressed igf-i-mediated activation of jnk and
+phosphorylation of c-jun but did not affect p38 and iκb
+phosphorylation or activation of akt. igf-i-mediated protection
+from apoptosis was completely suppressed by dicumarol [88]. in
+pc12 pheochromocytoma cells, complete removal of serum leads
+to rapid stimulation of the jnk pathway. igf-i inhibits jnk
+activation, whereas wortmannin even in the presence of serum
+stimulates jnk activity. this suggests igf-mediated signaling
+through the pi3k/akt pathway chronically inhibits the jnk
+pathway in pc12 cells. stimulation of jnk activity by serum
+withdrawal in pc12 cell clones stably expressing myr-akt was
+inhibited, as was phosphorylation of both jnks and a proximal
+activator, mkk4, in response to uv irradiation. interestingly,
+transient expression of myr-akt strongly inhibited cjun tran-
+sactivation mediated by mekk1 or mkk7-jnk3, (a gain-of-
+function fusion protein) that was associated with marked
+induction of jnk-interacting protein-1 (jip-1). from these results
+it was proposed that akt-mediated negative regulation of the
+jnk pathway is through induction of specific jip proteins and
+contributes to the antiapoptotic actions of akt signaling in
+neuronal cell types [85].
+6.2. cytokines
+the mechanism(s) by which igfs protect cells from tnf-α-
+induced apoptosis appear to be model-specific, and in many
+instances pathways have not been rigorously defined. the pro-
+inflammatory cytokines tnf-α and il-1β appear to act
+in
+synergy to locally suppress longitudinal growth of bone tissue, an
+effect that can be partially reversed by igf-i [92], although the
+signaling pathway(s) involved have not been reported. igf-ii
+partially reverses tnf-α induced apoptosis by suppressing the
+induction of fas receptor [93], and protects 3t3 fibroblasts from
+tnf-α, without preventing tnf-α-induced increase in arachi-
+donic acid. of note, protection was abrogated in presence of
+protein synthesis inhibitors [94]. a role for igfbp-3 as a mediator
+of apoptosis induced by tnf-α has also been proposed [95]. igf-
+i also protected isolated pancreas islet cells against cytokine
+(tnf-α, il-1β, inf-γ)-mediated cell death. this protective
+r.t. kurmasheva, p.j. houghton / biochimica et biophysica acta 1766 (2006) 1–22
+effect of igf-i was blocked by wortmannin demonstrating that
+the pi3k/akt pathway mediates survival [96]. igf-1 also
+blocked ‘extrinsic death’ induced by fasl, but not by ifn-γ
+combined with fasl in bovine granulosa cells [97].
+in ht29-d4 colon carcinoma cells igf-i fully protected from
+ifn-γ/tnfα induced apoptosis [98]. survival signaling initiated
+by igf-i was not dependent on pi3k, ribosomal p70 s6 kinase
+(s6k1) or pkc-mediated signaling. pharmacological inhibition of
+erk1/2 and p38 partially reversed igf-i protection. preventing
+degradation of iκbα, the inhibitor of nfκb, with bay 11-7082
+also blocked in part the igf-i antiapoptotic effect. complete
+reversal of the igf-i protection was obtained only when nfκb and
+either erk1/2 or p38 were inhibited together. because these
+pathways are also those used by tnf-α to signal inflammation and
+survival, these data point to cross talk between igf-i- and tnf-
+induced signaling. tnfα-induced il-8 production in these colon
+carcinoma cells was strongly enhanced by igf-i, and this effect
+was completely abrogated by both mapk and nfκb inhibitors.
+these findings suggest that the antiapoptotic function of igf-i in
+ht29-d4 cells is based on the enhancement of the survival
+pathways initiated by tnfα and mediated by p38, erk1/2, and
+nfκb, which act in concert to suppress the proapoptotic signals.
+cross-talk between the pi3k and sphingomyelinase pathways
+as a mechanism for regulation of cell survival/death decisions has
+also been reported [99]. igf-i and a constitutively active pi3k
+suppress both tumor tnf-α-induced apoptosis and ceramide
+generation. conversely, inhibition of the pi3k pathway enhanced
+tnf-α-induced ceramide generation and prevented survival. the
+expression of a constitutively active pi3k partially suppressed the
+ability of exogenous sphingomyelinase to induce ceramide
+generation, which was enhanced by inhibition of pi3k suggesting
+that cross-talk between pi3k and ceramide generation within cells
+is regulated downstream of activation of sphingomyelinase.
+the role of stat signaling in mediating igf responses to
+serum starvation or tnf-α has also been reported. under serum-
+starved conditions igf-1 down-regulated surface expression of
+the ifn-γ r2 chain as a consequence of increased internalization,
+and inhibited both ifn-γ-dependent stat-1 activation and
+apoptosis in t-cell lines [100]. in contrast, tnf-α downregulated
+ir kinase activity and caused a profound inhibition of downstream
+mitogenic signals including the mapk cascade and stat5, key
+pathways of proliferation and cell survival in kym-1 rhabdomyo-
+sarcoma cells [65]. tnf-α also inhibited igf-i-stimulated dna
+synthesis in mcf-7 breast cancer cells. tnf-α appears to act by
+inhibiting the igf-i receptor from phosphorylating irs-1 without
+affecting the tyrosine kinase activity of the igf-ir itself [101]. it
+has been proposed that the mechanism by which tnf-α-induces
+neural degeneration may also be mediated by suppression of igf-
+signaling and activation of pi3k [102]. one potential mechanism
+would be tnf-α induction of a protein phosphatase (ptpl1 or
+ptp1b) that regulates substrate phosphorylation.
+alternatively, it has been proposed that igfs suppress apo-
+ptosis by modulating the ability of tnf-α to activate jnk.
+microglia-derived tnf-α induced jnk activation of co-cultured
+gc4 cells, and both the toxicity of tnf-α and jnk activation
+were blocked by microglia-derived igf-ii [103]. these data
+implicate activation of jnk in tnf-α-mediated apoptosis, and
+are consistent with igf-i suppressing ngf-induced c-jun phos-
+phorylation in the developing chicken inner ear [104]. while
+activation of the jnk pathway normally promotes cell death, in
+sh-sy5y neuroblastoma cells it was found to promote survival
+of tnf-α treated cells. inhibiting the c-jun pathway completely
+reversed the ability of igf-i to rescue tnf-α toxicity [105].
+igf-i can also potentiate tnf-α-induced apoptosis. in 3t3-l1
+preadipocytes igf-i protected from apoptosis induced by serum-
+withdrawal, but it increased apoptosis induced by tnf-α under
+serum-free conditions. both the pi3k and erk pathways contri-
+buted to the anti-apoptotic action of igf-i on serum-starved cells,
+while pi3k but not erk1/2 activity is required for the paradoxical
+pro-apoptotic action of igf-i in the presence of tnf-α [63].
+similarly, low concentrations of tnf-α did not induce apoptosis of
+c2 myoblasts, but co-incubation of igf-i or igf-ii with tnf-α
+induced apoptosis. these results indicate that the effects of the igfs
+on muscle-derived cells may depend on the cytokine environment.
+in the absence of tnf-α, the igfs delay differentiation and
+promote myoblast proliferation whereas in the presence of tnf-α
+igfs induce apoptosis [64]. similarly, igf-i did not rescue rat
+cortical oligodendrocyte cells from tnf-α toxicity [62].
+6.3. loss of substrate attachment
+when normal cells are released from their attachment to ex-
+tracellular matrix, and plated under conditions that deny adhesion
+to a substratum they undergo a form of apoptosis termed anoikis
+[106]. under serum-free conditions 3t3 cells overexpressing the
+igf-ir (r-cells) undergo apoptosis when seeded on polyhydrox-
+yethylmethacrylate plates (that prevent substrate adherence) in
+serum-free medium. igf-i protects from anoikis, without
+inducing mitogenesis or dna synthesis, but induces a delayed
+tyrosyl phosphorylation of the focal adhesion kinase (fak). the
+importance of fak in protection from anoikis was strengthened
+by the observation that v-src-transformed r-cells, in which fak
+is constitutively phosphorylated, survive even in serum-free con-
+ditions [107]. igf-i protection of mouse embryo fibroblasts
+(mef) from anoikis is dependent on igf concentration and an
+adequate number of functional igf-i receptors. in mefs igf-i
+protection correlates best with ras activation and cell-to-cell
+aggregation, while pi3-kinase, akt and erk1/2 seem to play a
+lesser role [27].
+in mammary epithelial cells onset of apoptosis corresponded
+to the time at which igf-i expression decreased (∼16 h after loss
+of matrix adhesion), hence it was postulated that igf-1 expression
+may be linked to cell substrate adhesion [108]. it was found that
+igf-1 was able to maintain akt activity and phosphorylation of
+proapoptotic proteins in cells that have lost matrix contact.
+however akt was not able to phosphorylate and inactivate
+glycogen synthase kinase 3β (gsk-3β), under these conditions.
+the postulated mechanism is the rapid translocation of active
+akt away from gsk-3β when cells lose matrix contact.
+activation of gsk3β leads to rapid loss of cyclin d leading to
+a loss of cdk 4 activity and accumulation of hypophospho-
+rylated, active rb. this facilitates assembly of a repressor
+complex containing histone deacetylase, rb, and e2f that blocks
+transcription of the gene for igf-1, subsequent inactivation of
+r.t. kurmasheva, p.j. houghton / biochimica et biophysica acta 1766 (2006) 1–22
+akt, and accumulation of active proapoptotic proteins, and
+death. it is proposed that this feedback loop determines how long
+akt will remain active after cells lose matrix contact, and thus
+serves to regulate the onset of apoptosis.
+integrin-signaling and the ability of igfs to stimulate cell
+migration, division, and inhibit apoptosis have been examined
+extensively in vascular smooth muscle cells. it has been proposed
+that within the vessel wall ligand occupancy of the αvβ3 integrin
+[109] is required for assembly of a multicomponent membrane
+signaling complex that is necessary for cells to respond optimally
+to igf-i [110,111]. one integrin, αvβ3, expressed in smooth
+muscle cells modulates igf-i actions, and ligand occupancy of
+αvβ3 is required for igf-i to stimulate cell migration and
+division, fig. 3. ligand occupancy of αvβ3 stimulates tyrosine
+phosphorylation of the β3-subunit, resulting in recruitment of the
+tyrosine phosphatase shp-2 and its transfer to downstream
+signaling molecules mediated by an irs-i-related protein termed
+dok-1. shp-2 is transferred to another transmembrane protein,
+shps-1 that is dependent on igf-ir-mediated tyrosine phos-
+phorylation of shps-1 and engagement of integrin associated
+protein (iap). the transfer of shp-2 to shps-1 is also required
+for recruitment of the adaptor protein shc to shps-1. ligand
+occupancy of αvβ3 induces sustained shc phosphorylation and
+enhanced shc recruitment. shc activation results in sustained
+induction of erk1/2 required for optimal mitogenic response to
+igf stimulation and protection from apoptosis. if αvβ3 ligand
+occupancy is inhibited, there is no recruitment of the tyrosine
+phosphatase shp-2 to αvβ3 and its transfer to downstream
+signaling molecules is blocked. inhibition of the shc/shps-1
+complex formation results in failure to achieve sustained erk1/2
+activation and an attenuated mitogenic response. the importance
+of this pathway is that adhesion mediated by shc-linked integrin
+signaling promotes cell survival and progression through the g1
+phase of the cell cycle in response to mitogenic growth factors.
+the nuclear receptor coactivator aib1 (amplified in breast
+cancer 1) has also been implicated in igf-i mediated anchorage-
+independent survival [112]. aib1 is overexpressed in human
+breast cancers, is required for estrogen signaling, and has been
+reported to be rate-limiting for igf-i-dependent phenotypic
+changes and gene expression in breast cancer cells. reduction of
+endogenous aib1 levels by small interfering rna in mcf-7
+breast cancer cells prevented igf-i-stimulated anchorage-inde-
+pendent growth, promoted anoikis, and led to a significant
+decrease in the expression of several genes controlling the cell
+cycle and apoptosis. these effects in breast cancer cell lines were
+independent of their estrogen receptor status. of interest, aib1
+reduction decreased the expression of the igf-ir and irs-1 in
+mcf-7 cells and inhibited igf-i-stimulated activation of akt
+but not phosphorylation of erk1/2. it was concluded that aib1
+expression is required for igf-i-induced proliferation, signaling,
+cell survival, and increased expression of both igf-ir and irs-i
+genes in human breast cancer cells, suggesting positive feedback.
+6.4. oxidative stress
+igfs protect against apoptosis induced by agents that cause
+oxidative stress. these include nitric oxide (no) inducers/donors,
+h2o2 [58], and free fatty acids [57,113]. igf-1 inhibition of
+neuronal apoptosis in primary hippocampal neurons was
+associated with decreased caspase-3-like activation induced by
+no donors, sodium nitroprusside or 3-morpholin-osydnonimine.
+incubation with p13k inhibitors blocked the protective effects of
+igf-i and also blocked the effect of igf-1 preventing down-
+regulation in bcl-2 and upregulation in bax expression induced
+by no. adenovirus-mediated overexpression of the activated
+form of akt significantly inhibited no-induced cell death,
+caspase-3-like activation, and changes in bcl-2 and bax ex-
+pression, whereas expression of the kinase-defective form of
+akt almost completely blocked the effects of igf-1. these
+findings are similar those of yamaguchi et al. [56] and indicate
+that activation of akt is necessary for igf-i preventing no-
+induced apoptosis. however, some caution in interpreting results
+fig. 3. cooperation between integrin and igf-ir receptor signaling. binding of ligand to αvβ3 integrin stimulates association of a complex comprised of dok-1 and
+the tyrosine phosphatase shp-2 to the β3 subunit (1). igf-ir-mediated phosphorylation of the transmembrane docking protein shps-1 requires its association with
+integrin associated protein (iap) and creates a high affinity site for shp-2 binding (2), and shp-2 is recruited to shps-1 (3). recruitment of shp-2 to shps-1 is
+required for recruitment of shc (4) and sustained activation of erk1/2 mapk in response to igf-1 (adapted from [110]).
+r.t. kurmasheva, p.j. houghton / biochimica et biophysica acta 1766 (2006) 1–22
+using adenoviral vectors should be invoked as even replication
+deficient ‘empty’ adenovirus can activate the akt signaling
+pathway overriding translation [114] and other checkpoints.
+growth factors are known to stimulate ros (reactive oxygen
+species such as superoxide radical, h2o2, and hydroxyl radical).
+most data show that ros stimulate cell death [115–117], for
+example exogenous h2o2 causes apoptosis at low concentrations
+and necrosis at high concentrations [118]. recent data suggest,
+however, that ros can inhibit apoptosis in smooth muscle
+[117,119], leukemia cells [120], colorectal [121] and prostate
+cancer cells [122]. in human pancreatic adenocarcinoma mia
+paca-2 and panc-1 cells igf-1, fgf or serum induced ros
+produced by membrane nonmitochondrial nad(p)h oxidase
+(probably nox4, nonphagocytic oxidase) protects the cells from
+apoptosis. antisense to nox4, antioxidants or mnsod over-
+expression all induced apoptosis. on the other hand, both stim-
+ulation [115,116,123] and inhibition of apoptosis [117,120,
+122,124] was reported with antioxidants. in principle, ros can
+affect cell death both positively and negatively, and may cause
+apoptosis or necrosis by damaging the mitochondria and plasma
+membrane. however, ros are also known to activate anti-apop-
+totic pathways such as nf-κb and the heat-shock proteins such as
+hsp70 and hsp27 [125,126]. superoxide has also been reported to
+inhibit fas-induced apoptosis in a leukemia cell line [120].
+igf-i reduced arachidonic acid-induced apoptosis, and
+adenoviral mediated expression of a constitutively active akt,
+but not a “kinase-dead” variant, essentially prevented arachidonic
+acid-induced apoptosis. analysis of pro-apoptotic downstream
+targets of akt, implicated a role for akt-mediated phosphor-
+ylation and inhibition of gsk3α/β and the forkhead transcription
+factor, fkhrl1, in protection of oleic acid-induced apoptosis. it
+was postulated that down-regulation of the pro-apoptotic tumor
+suppressor protein, p53, via akt-mediated phosphorylation of
+mdm2 might also play a role in partially protecting β-cells from
+oleic acid-induced apoptosis as adenoviral mediated expression of
+wild type p53 potentiated oleic acid-induced beta-cell apoptosis,
+whereas expression of a dominant negative p53 partly inhibited
+β-cell apoptosis [113].
+6.5. hypoxia/ischemia
+the role of igfs in protecting against ischemia in vivo or
+hypoxia in vitro has been extensively studied [36,37,41,42,
+44,70,127,128]. wang et al. [119] tested the hypothesis that the
+transcriptional activation of igf-i is one of the underlying mech-
+anisms for hypoxia-induced neuroprotection. in a rodent model of
+hypoxia–ischemia, hypoxia preconditioning improved neuronal
+survival as demonstrated by decreased hypoxia–ischemia-
+induced neuronal apoptosis. hypoxia preconditioning resulted
+in an increase in neuronal igf-i mrna levels in cerebral cortex
+and hippocampus with or without hypoxia–ischemia. using
+primary neuronal cultures they demonstrated that as oxygen
+concentration decreased, neuronal survival also decreased, and
+survival could be increased by igf-i. igf-i treatment resulted in
+an activation of hypoxia-inducible factor 1α (hif-1α). increased
+hif-1α mrna was associated with increased dna binding
+activity alone or with subsequent hypoxia ischemia. overall,
+these results suggest that igf-i transcriptional activation is one of
+the metabolic adaptive responses to hypoxia, which is likely
+mediated by a direct activation of hif-1α.
+protection from neuronal cell death by these growth factors
+under hypoxic conditions derives at least partly from their
+ability to prevent down-regulation of certain anti-apoptotic
+proteins [127]. hypoxia-induced apoptosis in cortical neurons
+correlated with a rapid and sustained down-regulation of bcl-2,
+whereas levels of bax were unchanged. treatment with either
+igf-1 or bfgf, partly prevented neuronal death accompanied
+by inhibition of alterations in bcl-2 protein levels and caspase-
+3-like activities. thus, one component of hypoxia-driven
+neuronal cell death is by down-regulation of bcl-2 protein
+levels followed by sequential activation of the caspases. tagami
+et al. [129] demonstrated the ability of igf-i and antioxidants to
+protect against prolonged hypoxia followed by reperfusion in a
+rat model. it was postulated that igf-i attenuated p53-mediated
+apoptosis and thereby prevented cell death. in hippocampal
+neurons activation of
+igf-1r activated pi3k/akt, and
+intracerebral injection of igf-i or sodium orthovanadate, a
+protein tyrosine phosphatase inhibitor, prior to ischemic insult
+delayed neuronal death.
+further data implicate p53 in apoptosis induced by hypoxia or
+no treatments of primary cultured hippocampal neurons [56].
+although hypoxia and no induced p53, treatment with igf-i
+significantly inhibited transcriptional activity of p53, caspase-3-
+like activation, and neuronal death. igf-i effects were prevented
+by wortmannin, hence mediated through pi3k. adenovirus-
+mediated expression of activated-akt kinase also suppressed
+p53-dependent
+transcriptional activation of bax, suppressed
+caspase-3-like activity and suppressed neuronal cell death.
+however, surprisingly, constitutively active akt had no effect
+on the cellular accumulation and nuclear translocation of p53.
+overexpression of kinase-defective akt failed to suppress these
+same activities. it was proposed that it is through akt activation
+and suppression of p53′s transcriptional activity that neurons are
+rescued from hypoxia- or no-mediated cell death. however, the
+role of p53 in determining igf-i-mediated protection is not
+established as igfs protect in many cell lines where p53 is
+mutated. with the availability of genetically engineered mice with
+deletions in akt genes, or p53, it should be possible to un-
+equivocally define the role of these pathways in igf-1-mediated
+survival in vivo, or in primary cell cultures.
+igf-i also prevented hypoxia-induced apoptosis of cultured
+neonatal cardiomyocytes. antiapoptotic signals induced by igf-i
+appeared to be mediated by more than one signaling pathway,
+because pharmacological inhibition of the pi3k or mek1 sig-
+naling pathways each antagonized the protective effect of igf-i in
+an additive manner. igf-i-stimulation was followed by a pi3k-
+dependent phosphorylation of akt and bad and mek1-de-
+pendent phosphorylation of erk1/2. igf-i also induced
+phosphorylation of creb in a pi3k- and mek1-dependent
+manner. ectopic overexpression of a dominant-negative mutant of
+creb abolished the antiapoptotic effect of igf-i, and over-
+expression of dominant-negative creb or inhibition of pi3k
+abrogated igf-i stimulated accumulation of bcl-2 [130]. thus, in
+cardiomyocytes the antiapoptotic actions of igf-i requires
+10
+r.t. kurmasheva, p.j. houghton / biochimica et biophysica acta 1766 (2006) 1–22
+signaling both through pi3k but also erk1/2 leading to the
+activation of the creb-mediated transcription.
+a proapoptotic member of the bcl-2 family, bnip3 (bcl-2/
+e1b 19 kda interacting protein) is expressed in hypoxic regions
+of tumors considered to be resistant to radiation and some
+chemotherapeutic agents. during hypoxia, bnip3 expression is
+increased and upon forced overexpression bnip3 induced cell
+death. the apoptotic activities of bnip3 appeared to be modu-
+lated by both igfs and egf [131]. treatment of mcf-7 breast
+cancer cells with egf or igf-i effectively protected these cells
+from bnip3-induced cell death. an alternative mechanism by
+which hypoxia induces death is through upregulation of igfbp3
+[132]. potentially, igfs could neutralize the proapoptotic actions
+of igfbp3.
+resulting in apoptosis. however, it remains unclear if such mea-
+surements of apoptosis correlate with cell survival, as determined
+by clonogenic assay [134,135]. for example, in mcf-7 breast
+cancer cells apoptosis was induced after uv treatment but
+caspase-9 cleavage was unchanged with uv and/or igf-i treat-
+ment although this study did not address how igf-i protected
+against uv-induced damage [136]. similarly, there is discordance
+when the relationship between apoptotic activity and clonogenic
+radiosensitivity, following ionizing radiation, has been studied.
+igf-ir deficient mouse embryo fibroblast cell lines engineered to
+overexpress human igf-ir demonstrated significant dna
+fragmentation and increase in caspase-3-, -8-, and -9-like activ-
+ities. rather surprisingly,
+these cells were radioresistant as
+measured by a colony-forming assay [71].
+6.6. uv radiation
+6.7. ceramide
+kulik et al. [133] first reported that igf-i (but not egf or
+overexpression of activated pp60v-src) protected fibroblasts from
+apoptosis induced by uv-b light. antiapoptotic signaling was
+through the igf-ir, as kinase-defective mutants could not rescue
+from uv-b. protection by igf-i was not associated with activ-
+ation of erk1/2, p38, or s6k1 whereas protection was abrogated
+by pi3k inhibition. overexpression of activated pi3k was
+sufficient
+to provide protection against apoptosis, as was
+constitutively active membrane-targeted akt.
+using primary human keratinocytes kuhn et al. [51] found that
+insulin, signaling through the igf-ir, had a unique function in
+protecting against uv-b-induced apoptosis. activation of the
+igf-1r in combination with uv-b irradiation induced keratino-
+cytes to become post-mitotic. this survival function of the igf-1
+receptor in response to uv-b irradiation was influenced by
+activation of pi3k and erk1/2 pathways. it was proposed that
+activation of the igf-1r in conjunction with uv-b irradiation
+promotes keratinocyte survival at the expense of cell proliferation.
+the role of igf-i-induced activation of akt in protecting growth
+factor-deprived keratinocytes from uv-b induced apoptosis was
+also reported by decreane et al. [50]. however, in this study it was
+reported that igf-1 significantly and consistently delayed the
+onset of uv-b-induced apoptosis allowing igf-1-supplemented
+keratinocytes to repair significantly more cyclobutane thymine
+dimers than their growth factor-deprived counterparts. this
+increase in cyclobutane thymine removal resulted in enhanced
+survival if the amount of dna damage was not too high. to
+increase cell survival after uv-b irradiation, igf-1 supplemen-
+tation was required only during this initial time period in which
+extra repair was executed. the conclusion from these studies was
+that akt signaling increases cell survival after a genotoxic insult
+such as uv-b irradiation by postponing the induction of apo-
+ptosis, giving the dna repair mechanism more time to work, and
+not by inhibiting the apoptotic stimulus.
+the importance of the ‘intrinsic’ mitochondrial pathway in uv-
+induced apoptosis has been stressed in several studies. following
+uv-induced dna damage cytochrome c and other pro-apoptotic
+factors are released from the mitochondria, allowing for formation
+of the apoptosome and subsequent cleavage and activation of
+caspase-9 and activation of downstream caspases-3 and/or -7
+the sphingomyelin pathway signals apoptosis for ngf upon
+binding to p75 receptors, initiated by sphingomyelin hydrolysis
+to generate the second messenger ceramide. in organotypic
+cultures of otic vesicles ngf stimulates sphingomyelin hy-
+drolysis and the concomitant ceramide release and induces
+apoptosis that was suppressed by igf-i, which is a strong
+promoter of cell growth and morphogenesis for the developing
+inner ear [137]. igf-1 may also activate a novel survival mech-
+anism that selectively protects developing neurons against
+ceramide-induced apoptosis by up-regulation of erk1/2 and
+reduction of expression of the prostate apoptosis response-4
+gene (par-4) [138].
+stewart et al. [139] showed that lower concentrations of the
+sphingolipid analogue c2-ceramide were required to induce
+apoptosis in igf-ir-deficient compared to receptor positive
+murine fibroblasts, suggesting that igf-ir signaling functions as
+a survival receptor, but indicating also that ceramide is not
+inducing apoptosis by suppressing a survival effect of the igf-ir.
+hydrolysis of ceramide to sphingosine-1-phosphate was not the
+cause of increased erk1/2 activation, although mapk activation
+appeared to be important in the death signaling pathway as
+inhibitors of mek-1/2 reduced ceramide-induced apoptosis.
+using igf-ir-positive fibroblasts it was found that ceramide
+activated a tyrosine kinase that acts at the level of the igf-ir to
+increase cell death. sodium orthovanadate increased ceramide-
+induced death, and enhanced phosphorylation of a 75-kda pro-
+tein, found to associate with the igf-ir. as inhibitors of mek-1/
+2 decrease ceramide-induced apoptosis, it was speculated that the
+igf-ir-associated p75 may link into the raf kinase signaling
+pathway which may be involved in apoptosis [140].
+6.8. fas/trail signaling
+protection by igf-i from fasl or tnf-related apoptosis-
+inducing ligand (trail)/apo2 ligand-induced apoptosis appears
+to be mediated through the pi3k/akt pathway. akt exerts its
+antiapoptotic function through its ability to phosphorylate many
+key components of the cellular apoptotic regulatory circuit, such
+as bad, mdm2, forkhead transcription factors, and ped/pea-15
+as well as by its role in activating nfκb (reviewed in [141]).
+r.t. kurmasheva, p.j. houghton / biochimica et biophysica acta 1766 (2006) 1–22
+11
+in ovarian follicle granulosa cells igf-i activated both the
+pi3k and the erk1/2 pathways and protected against fas ligand-
+induced apoptosis. using specific inhibitors of these pathways it
+was shown that protection by igf-i was mediated by the pi3k-
+akt pathway and not the erk1/2 pathway [142]. treatment
+with igf-i, or expression of myr-akt, increased progression
+from g0/g1 to s phase of the cell cycle. roscovitine a cdk-2
+inhibitor that blocks cells at the g1/s transition prevented the
+protective effect of igf-i and myr-akt expression against
+apoptosis. it was thus concluded that activation of akt was not
+sufficient to protect granulosa cells from apoptosis in the absence
+of cell cycle progression and that cell cycle progression was
+required for protection. however, it is important to consider that
+roscovitine, as with other cdk inhibitors such as flavopiridol, may
+have activities in addition to inhibition of cdk-2 (e.g. inhibition of
+transcript elongation), and an alternative interpretation is that
+igf-i does not rescue from roscovitine-induced death. in bovine
+granulosa cells ifn-γ specifically antagonized igf-i-mediated
+rescue from fasl induced killing, possibly due to increased
+expression of the fas receptor [97].
+c-myc-induced apoptosis has also been shown to require the
+fas death receptor pathway and that igf-1 signaling suppresses
+this killing [143]. c-myc activation did not exacerbate killing
+induced by fadd or pro-caspase-8, suggesting that c-myc exerts
+its action downstream of the interaction of fas. it is of note,
+however that igf-i potentiated c-myc-induced cell death in huh-
+7 hepatoma cells that was related to enhanced oxidative stress
+under serum-free conditions [53]. the mechanisms regulating
+trail-induced death have been investigated in thyroid carcinoma
+cells [144]. igf-1 activated akt, up-regulated the caspase
+inhibitors cflip, ciap-2, xiap, and surviving, and attenuated
+trail-induced apoptosis. this effect was inhibited by an igf-1
+receptor neutralizing antibody, wortmannin, and the heat shock
+protein-90 chaperone inhibitor geldanamycin. transfection of
+constitutively active akt protected from trail. conversely,
+ifn-γ and tnf-α had a sensitizing effect preventing igf-i-
+mediated survival. it was proposed that microenvironmental
+paracrine survival factors, such as igf-1, modulate expression of
+caspase inhibitors, including the decoy receptor cflip, and protect
+from trail in a pi3k/akt-dependent manner.
+6.9. anticancer drugs
+as with other sections in this review, the role of igfs in
+protecting from apoptosis, or toxicities associated with the use of
+anticancer chemotherapeutic agents will be considered in intact
+organisms as the most definitive evidence of a true physiological
+role, and subsequently in ‘more artificial’ model systems. the
+varied role of igfs in protecting cancer cells may reflect the
+genomic plasticity of malignant cells hence data from the same
+putative cell line cultured in separate laboratories may differ due
+to genetic drift. in intact rodents igf-i has been demonstrated to
+enhance mucosal repair, and offer partial protection, following
+intestinal damage induced by chemotherapeutic agents such as 5-
+fluorouracil (5-fu) and methotrexate, or abdominal radiation
+[145–148]. although prophylactic igf-i only partially attenuates
+features of intestinal mucositis when assessed 48 h after 5-fu
+chemotherapy [47]. inhibiting igf-ir through use of a fully
+human igg2 antibody was effective in inhibiting the growth of
+human tumor xenografts, and markedly potentiated the activity of
+doxorubicin but was additive with either 5-fu or tamoxifen
+[149]. further examples are discussed later.
+igf-1 has also been shown to suppress myocardial apoptosis
+and improves myocardial function in experimental models of
+anthracycline-induced cardiomyopathy. igf-1 signaling modu-
+lated mitochondria membrane depolarization in cardiomyocytes
+treated with the cardiotoxin, doxorubicin, which rapidly induced
+loss of mitochondria electrochemical gradient and triggered
+mitochondria depolarization. addition of igf-1 restored the
+mitochondria electrochemical gradient [150]. the effects of igf-
+1 were blocked by pi3k inhibitors and a dominant negative akt,
+whereas constitutive active pi3k partially restored the mitochon-
+dria electrochemical gradient in doxorubicin-treated cells. these
+findings provide direct evidence that igf-i modulation of
+mitochondria function is mediated through activation of pi 3
+kinase and akt, but were considered to be independent of the k
+(atp) channel.
+dexamethasone, an agent used extensively in treatment of
+leukemias and multiple myeloma, induces overexpression of the
+pi3k subunit p85α, which, in turn, competes with pi3k for
+binding to irs-1, inhibiting pi3k activation and blocking igf-
+i-induced phosphorylation of akt. increased cellular p85α
+abundance, significantly inhibited igf-i rescue from apo-
+ptosis induced by mannitol, whereas constitutively active pi3k
+inhibited death induced by mannitol, even in the presence of
+dexamethasone [61].
+in contrast, igf-i has been reported to inhibit dexamethasone-
+induced apoptosis through a mechanism involving regulation of
+telomerase activity. igf-1, and il-6 have been reported to up-
+regulate telomerase activity without alteration of human telomer-
+ase reverse transcriptase (htert) protein expression in human
+multiple myeloma cells. increased telomerase activity triggered by
+these cytokines was mediated by pi3k/akt/nfκb signaling
+because the pi3k inhibitors wortmannin and ly294002 or an iκb
+kinase inhibitor (ps-1145) blocked constitutive and cytokine-
+induced up-regulation of telomerase activity. in multiple myeloma
+cells dexamethasone induced some apoptosis (with ∼64% of cells
+viable at 24 h) that was preceded by reduced telomerase activity.
+igf-1 and il-6 increased viability (∼87% viable at 24 h) in
+dexamethasone-treated cultures, although the protective effects
+were not seen at earlier time points, and later time points were not
+examined. the protective effect of these cytokines against
+dexamethasone-induced down-regulation of telomerase activity
+was blocked by both wortmannin and ps-1145. in contrast,
+protection against dexamethasone-induced apoptosis was blocked
+by wortmannin but not ps-1145. these results were interpreted to
+demonstrate that telomerase activity is related not only to trans-
+criptional regulation of htert by nfκb but also to posttran-
+scriptional regulation because of phosphorylation of htert by
+aktafter igf-i stimulation [151]. further studies will be required
+to confirm whether this is a general mechanism for protection from
+dexamethasone, or limited to this cell line.
+in multiple myeloma cell lines rapamycin, a specific inhibitor
+of the mtor s/t kinase, induced g0/g1 arrest, an effect being
+12
+r.t. kurmasheva, p.j. houghton / biochimica et biophysica acta 1766 (2006) 1–22
+associated with an increase of the cyclin-dependent kinase inhi-
+bitor p27kip1 and a decrease of cyclins d2 and d3 [152]. inte-
+restingly, in primary, mainly noncycling multiple myeloma cells,
+rapamycin induced apoptosis. more important, rapamycin
+sensitized both multiple myeloma cell lines and primary cells to
+dexamethasone-induced apoptosis. this effect was associated
+with a decreased expression of cyclin d2 and survivin. strikingly,
+the combination treatment with rapamycin and dexamethasone
+suppressed the antiapoptotic effects of exogenously added igf-i
+as well as its stimulation of s6k1 phosphorylation. one mecha-
+nism to explain this is that s6k1 has been reported to phos-
+phorylate and inactivate bad [153], thus rapamycin would block
+s6k1 activation through mtor. however, inhibition of mtor
+by rapamycin leads to increased phosphorylation of akt in many
+cancer cells, and in tumor biopsies from patients treated with
+rapamycin analogues. inactivation of s6k1 relieves the negative
+feedback on irs-1, its stabilization, and upregulation of igf-1r
+mediated signaling that activates akt [154].
+regulating kinase-1 (ask1)
+hosoi et al. [155] reported that rapamycin induced g1 cell
+cycle accumulation and apoptosis in two rhabdomyosarcoma
+cell lines under conditions of autocrine cell growth. exogenous
+insulin-like growth factor (igf)-i protected from apoptosis,
+without reactivating ribosomal s6k1 downstream of mtor.
+the mechanism by which rapamycin induced apoptosis was
+shown to be a consequence of tor inhibition leading to
+decreased activity of protein phosphatase-5, and activation of
+apoptosis signal
+leading to
+increased jnk activity and increased phospho-c-jun. interest-
+ingly, c-jun phosphorylation remained elevated only in p53
+mutant cells, whereas it returned to control levels in cells with
+wild type p53, or when p21cip1 was expressed [156,157].
+rescue from rapamycin-induced apoptosis was found to be
+independent of both akt and ras/erk1/2, but dependent on
+pi3k [158]. more recent data indicate that igf-i activates pkc
+isoforms downstream of pi3k, leading to phosphorylation of
+the proapoptotic protein bad (s112) and its subsequent
+sequestration by 14-3-3γ. in this study, phosphorylation of
+bad was consistent with other reports [159–161], however
+phosphorylation of bad was independent of erk1/2-activated
+kinases, (rsks). igf-i protection against apoptosis induced by
+the protein phosphatase inhibitor okadaic acid in rat cerebellar
+neurons also appeared to be dependent on pkc signaling [162].
+in contrast igf-i protected vascular smooth muscle cells from
+apoptosis induced by the pkc inhibitor calphostin c [163].
+inhibitors of pi3k and erk activation, but not p38, reversed
+igf-i protection.
+apoptosis signal-regulating kinase 1 (ask1) is a pivotal
+component of a signaling pathway induced by many death
+stimuli, including tnf-α, fas, and the anticancer drugs cisplatin
+and paclitaxel [164]. activation of ask1 and jnk via mkk4/7
+or p38 via mkk3/6 is implicated in apoptosis induced by several
+anticancer chemotherapeutic agents. at high concentrations
+paclitaxel, vinblastine, doxorubicin, and etoposide induce jnk
+activity, a kinase that conveys cellular stress and death signals
+although the exact significance in cell survival is not well
+established [165,166]. importantly, whereas etoposide, doxoru-
+bicin and vinblastine treatment activated jnk and induced
+apoptosis, only treatment with vinblastine increased levels of p-
+c-jun [166]. thus, the relevance of jnk activation in drug-
+induced apoptosis is unclear. there are also exceptions where
+enhanced jnk activity has been correlated with increased
+survival. mamay et al. [167] showed that igf-i alone induced a
+potent jnk response in breast cancer cell lines and this activity
+was reversed by inhibition of pi3k in mcf-7 but not t47d cells.
+co-treatment of cells with chemotherapy and igf-i led to
+additive jnk responses, and igf-i-mediated survival was akt
+dependent. in contrast, overexpression of jnk significantly
+enhances paclitaxel-induced apoptosis and inhibited igf-i-
+mediated survival. the inhibitory effect of jnk on survival
+was attributed to phosphorylation of irs-i at s312 since both
+paclitaxel and igf-i treatment enhanced phosphorylation, while
+ly294002 blocked igf-i-mediated phosphorylation. exactly
+how inhibition of pi3k could influence irs-i phosphorylation at
+s312 was not elucidated. one possibility is that inhibition of
+pi3k leads to inactivation of s6k1 and stabilization of irs-i
+[154,168]. further, s312 phosphorylation is considered to be an
+activating posttranslational modification and would be antici-
+pated to enhance igf-i mediated signaling. in contrast protection
+by igf-i from etoposide-induced apoptosis was associated with
+increasing the expression of bcl-2 and decreasing the activity of
+a 32-kda putative cysteine protease [169], although it is not clear
+that the kinetics for bcl-2 induction correlated with survival, and
+no experiments to test this were presented. signaling through the
+igf-ir-akt pathway also appears important in determining
+clonogenic survival of small cell lung cancer cells that are very
+sensitive to etoposide [170]. igf-i also protected from brefeldin
+a, paclitaxel and etoposide in rat parotid salivary acinar cells
+[171].
+in addition, to its role in myogenesis it has been shown that
+twist
+is a potential oncogene antagonizing p53-dependent
+apoptosis. this pathway appears highly conserved as in
+transgenic drosophila lines allowing ectopic expression of
+different twist orthologs, human twist antagonizes drosophila
+p53-dependent apoptosis [172]. twist has also been implicated
+in igf-i mediated resistance to etoposide [173]. downregula-
+tion of twist using antisense decreased significantly the ability
+of igf-1 to rescue nih-3t3 fibroblasts engineered to over-
+express the human igf-1 receptor from etoposide-induced
+apoptosis. of note, igf-i signaling through the igf-ir, (but not
+insulin in ir overexpressing 3t3 cells), increased the level of
+twist mrna as well as protein by 3-fold. the mek1/2
+inhibitor u0126 or expression of a dominant negative mek-1
+abolished the effect of igf-1 on twist mrna expression,
+suggesting that twist induction by igf-1 occurs via the mapk
+signaling pathway. importantly, in vivo administration of igf-i
+increased levels of twist
+in mouse skeletal muscle. these
+results implicate twist as an important factor involved in the
+anti-apoptotic actions of the igf-1 receptor.
+a novel role for igf-ir signaling in homologous recombina-
+tion-directed dna repair has been proposed that may impact on
+cellular responses to dna damage and genomic stability [174].
+using embryo fibroblasts engineered to express ∼30,000 igf-ir/
+cell it was found that in the presence of serum, addition of igf-i
+protected from cisplatin cytotoxicity. this effect correlated with
+r.t. kurmasheva, p.j. houghton / biochimica et biophysica acta 1766 (2006) 1–22
+13
+decreased dna damage (correlated with decreased phosphory-
+lated γh2ax nuclear foci), and increased reconstitution of gfp-
+fluorescence in an assay where the rare cutting endonuclease i-
+scei was used to generate double strand dna breaks within a
+transfected gfp plasmid. increased dna repair appears to
+involve an interaction between rad51 and irs-1. association
+occurs within the cytoplasm,
+involving the n-terminal ptp
+domain of irs-1 which is attenuated by igf-i-mediated irs-1
+tyrosine phosphorylation. in the absence of igf-i stimulation,
+localization of rad51 to the sites of damaged dna is diminished.
+these results point to a direct role of irs-1 in homologous
+recombination-directed dna repair and suggest a novel role for
+the igf-ir/irs-1 axis in supporting the stability of the genome. it
+is of interest to note that in serum-free conditions where embryo
+fibroblasts were quiescent, addition of igf-i selectively increased
+the cytotoxicity of cells overexpressing igf-ir. presumably, this
+was the result of stimulating proliferation. hence the effect of
+igf-i in protecting from or potentiating dna damage may
+depend upon the number of functional receptors. thus, one
+should consider pathways revealed only in cells expressing high
+receptor levels with some caution.
+increased expression of the igf-ir gene is correlated with
+acquisition of radioresistance for cell killing. as the ataxia-
+telangiectasia mutated (atm) gene product has a pivotal role in
+coordinating the cellular response to dna damage, shahrabani et
+al. [175] investigated a potential link between atm function and
+the igf-axis. they showed that igf-ir gene expression and igf-
+ir promoter activity were largely reduced in atm−/− cells. in
+addition, igf-i-induced igf-ir and irs-i phosphorylation were
+impaired in htert immortalized atm-deficient cells compared
+to immortalized fibroblasts. the data support the idea that the
+igf-ir gene is a novel downstream target in an atm-mediated
+dna damage response pathway, possibly mediated by sp1 and
+wt1 zinc-finger transcription factors. however, the radiomimetic
+agent neocarzinostatin induced a significant increase in igf-ir
+levels in cells without atm function, suggesting atm-
+independent signaling. because of the genomic instability of
+atm cells, it is not clear from these studies that atm deficiency
+and igf-ir regulation are directly linked. perhaps similar studies
+in early generation atm−/− mefs would be required to
+unambiguously establish the role of atm in igf-ir regulation.
+the protein-tyrosine phosphatase ptpl1 has also been
+implicated in igf-i-mediated survival following anti-estrogen
+treatment. in mcf-7 breast cancer cells ptpl1 expression
+triggers 4-hydroxytamoxifen-induced growth inhibition. in the
+presence of igf-i, 4-hydroxytamoxifen-induced apoptosis was
+significantly abrogated in ptpl1 antisense transfectants in
+which enzyme expression was downregulated. further, down-
+regulation of ptpl1 was associated with enhanced rescue by
+igf-i. the role of ptpl1 in apoptosis appears to be through a
+significant reduction in pi3k/akt pathway activation accom-
+panied by a decrease in irs-i phosphorylation. these results
+provide evidence that the ptpl1 tyrosine phosphatase has a
+role in the apoptotic process in human breast cancer cells treated
+with 4-hydroxytamoxifen that may be associated with an early
+inhibition of the irs-i/pi3k pathway and inhibition of igf-ir
+signaling [176]. protein tyrosine phosphatase-1b (ptp-1b) is
+also implicated in modulating igf-ir signaling as ptp-1b-
+deficient cells exhibited enhanced igf-i-mediated protection
+from apoptosis in response to serum withdrawal or etoposide
+killing [177]. in spontaneously immortalized ptp-1b−/− mefs,
+withdrawal of serum induced greater apoptosis than in ptp-
+1b+/+ cells. while igf-i did not protect ptp-ib+/+ cells from
+etoposide, the response to exogenous igf-i in terms of growth
+promotion and protection from etoposide in ptp-1b−/− clones
+was quite different. as the relative igf-i mediated activation of
+akt in these clones was similar, the exact role of ptp-1b
+consequently is somewhat unclear. re-expression of ptp-1b
+resulted in decreased igf-ir and akt activation, enhanced
+plating efficiency and igf-i-mediated motility, and decreased
+protection from etoposide-induced apoptosis, although the latter
+effect was quite small.
+igf-i also protects from cyclooxygenase (cox)-2 inhibi-
+tors, agents that demonstrate modest antineoplastic activity in
+experimental models of human malignancies. in bxpc-3
+pancreatic carcinoma cells coincubation with celecoxib
+(25 μm) and igf-i
+in 1% serum resulted in complete
+attenuation of the celecoxib-induced apoptosis, whereas igf-i
+had no effect at higher concentration of celecoxib (50 μm).
+igf-i-induced increase in cell viability was associated with
+inhibition of celecoxib-mediated g1 arrest and correlated with
+increased akt activation. these results suggest that alterations
+of igf-i levels or igf-i receptor signal transduction modulate
+the antineoplastic actions of cox-2 inhibitors at least under
+highly artificial conditions of low serum [178]. overexpression
+of cox-2 in non-small cell lung cancer lines has been shown to
+enhance the antiapoptotic and mitogenic effects of igf-i and
+igf-ii, and facilitate the autophosphorylation of igf-ir. the
+effects of cox-2 overexpression in promoting igf-i-mediated
+survival correlated with increased pi3k activity, and decreased
+expression of igfbp-3 [179].
+6.10. membrane hyperpolarization
+in weaver mice death of granule neurons appears to result from
+a point mutation in the girk2 gene, which encodes a g protein-
+activated, inwardly rectifying k+ channel protein. although the
+genetic defect was identified, the molecular mechanism by which
+the mutant k+ channel selectively attacks granule neurons in
+weaver mice is unclear. zhong et al. [180] cross-bred weaver mice
+with transgenic mice that overexpress igf-i in the cerebellum.
+igf-i protected granule neurons in vivo. the presence of the igf-
+i transgene doubled the number of cerebellar granule neurons in
+these mice by preventing their premature apoptosis in vivo,
+demonstrating a physiological role for igf-i in protecting against
+apoptosis potentially caused by altered cellular polarization. in
+vitro survival of explanted rat cerebellar granule neurons can be
+maintained by depolarizing (high) concentrations of potassium
+(25 mm), cyclic amp elevating agents and igf-i [181] that
+results in phosphorylation of gsk3β and its inactivation.
+inhibition of the survival signaling cascade initiated by these
+agents resulted in apoptosis and activation of gsk3β. impor-
+tantly, pharmacological inhibition of gsk3β rescued from cell
+death, leading to the conclusion that regulation of gsk3β is a
+14
+r.t. kurmasheva, p.j. houghton / biochimica et biophysica acta 1766 (2006) 1–22
+critical event common to survival by different factors in cerebellar
+granule neurons [182].
+7. targeting igf-ir for cancer treatment
+6.11. calcium influx
+in neurons, calcium influx can serve as both a signal
+promoting survival as well as in some instances promoting cell
+death. survival is promoted by igf-i and l-channel-mediated
+calcium influx [183,184]. l-channel activity is directly
+controlled by depolarization, but also is enhanced by igf-i
+through a pathway that requires pi3k, akt, and ultimately src-
+dependent phosphorylation of the channel [185–187]. marshall
+et al. [188] suggested that l channels and glutamate receptors
+perform antagonistic functions.
+igf-i, direct l channel
+stimulation, and blocking nmda receptor activity all improve
+survival and reduce nuclear c/ebpβ levels, while nmda
+receptor stimulation or blocking l channel activity decrease
+survival but increase nuclear c/ebpβ.
+calcium levels also regulate the activity of the pro-survival
+transcription factor, myocyte enhancer factor 2d (mef2d). in
+studies of butts et al. [189], mef2d was hyperphosphorylated
+and degraded in cerebellar granule neurons undergoing apoptosis
+induced by lowering the extracellular potassium concentration.
+igf-i significantly blocked the degradation of mef2d, and
+enhanced recovery of mef2 activity following restoration of
+intracellular calcium by protecting mef2d from caspase-de-
+pendent cleavage during apoptosis. these results suggest that
+igf-i can prolong the time of commitment to irreversible cell
+death and enhance the recovery of neurons subjected to an acute
+apoptotic stimulus by preserving the activity of the pro-survival
+factor mef2d.
+the mechanisms of glutamate toxicity and igf-i mediated
+survival in pro-oligodendroblasts has revealed that in contrast to
+igf-i mediated survival mechanisms in neurons, igf-i had no
+effect on the influx or recovery of intracellular calcium levels or
+on levels of major pro- and anti-apoptotic molecules including
+bax or bcl-xl. rather, igf-i prevented caspase-3 activation in
+these cells as long as 8 h after their exposure to glutamate,
+suggesting that delayed activation of igf-i-mediated survival
+pathways can block glutamate-mediated apoptosis in pro-
+oligodendroblasts. thus, igf-i disrupts the glutamate-mediated
+apoptotic pathway in these cells through mechanisms that are
+distinct from its survival-promoting actions in neurons.
+6.12. glucose stress
+igf-i partially protected neuroblastoma cells from growth
+retardation and decreased survival when they were cultured under
+conditions of low glucose, and significantly suppressed mrna
+levels of the apoptosis-related genes gadd45, fas, inos, nfκb,
+trail, without further affecting bcl-2 expression. in low glucose,
+igf-i acutely enhanced glucose transport and translocation of
+glut1 transporter to the plasma membrane. glut1 mrna
+expression was up-regulated by both igf-i and overexpression of
+bcl-2. the common effect of both igf-i and bcl-2 overexpression
+on enhancement of glut-1 expression suggests that this may be
+an important mechanism for enhanced survival [190].
+dysregulated igf-signaling has been implicated in numerous
+human cancers, either from its role in stimulating mitogenesis,
+motility and metastasis or its role in protecting against apoptosis.
+as described above, igf-signaling may also protect from cytotoxic
+drugs. consequently, the igf-1r has become a focus of drug
+development (reviewed in [191–193]) with numerous potent small
+molecule inhibitors, highly specific antibodies, or rnai/antisense
+approaches being developed for clinical trials. the activities of,
+adw742 [194–198] and aew541[199–203], two agents that
+target the receptor kinase have been reported in many tumor
+systems. similarly, antibodies directed at the igf-ir receptor
+[149,204–211] or igf-ii [209] appear to have good activity both in
+vitro and where tested, against tumor models in mice.
+adw742, a pyrrolo[2,3-d]pyrimidine derivative is competi-
+tive with atp binding and potently inhibits igf-ir in vitro kinase
+activity (ic50 ∼01.–0.2 μm). one of the concerns with deve-
+loping atp-competitive inhibitors of igf-ir is that such
+compounds may not discriminate between the ir, and hence
+induce a diabetic-like toxicity (hyperglycemia and hyperinsuli-
+nemia). in vitro adw742 shows similar potency against both ir
+and igf-ir, however of interest (and somewhat unexplained) is
+that in cell lines there is a 15-fold differential for inhibition of ir
+autophosphorylation [196]. the potential for treating small cell
+lung cancer (sclc) cell lines with adw742 has been in-
+vestigated. two populations of sclc lines were identified; those
+that had both igf-i/igf-ir and stem cell factor (scf)/kit
+autocrine growth loops and those that
+lacked the scf/kit
+pathway. the former lines were relatively resistant to adw742
+(ic50 4–7 μm) concentrations of drug that also inhibited scf/kit
+signaling. in contrast lines lacking scf/kit signaling were more
+sensitive (ic50 0.1–0.5 μm). combination of adw742 with
+imatinib (gleevec), an inhibitor of c-kit, was synergistic only in
+sclc lines with active scf/kit signaling. importantly, this study
+demonstrates the potential complexities of using specific inhi-
+bitors of a single pathway, and demonstrates the necessity for
+characterizing signaling pathways in tumors to achieve optimal
+drug efficacy. the same group found that adw742 combined
+with imatinib caused complete inhibition of phospho-akt, and
+was synergistically toxic to cells exposed the etoposide [195].
+adw742 and antibodies against igf-ir were found to block
+serum-stimulated growth of multiple myeloma cell lines and
+primary cultures [198]. in vivo daily treatment with adw742
+extended life span of mice bearing human multiple myeloma,
+although the effects were essentially cytostatic i.e. extension of
+lifespan essentially paralleled the duration of treatment. the
+efficacy of adw742 also appears to be schedule-dependent, as
+treatment of mice for only 4 days per week showed no activity,
+although on this schedule of administration it did potentiate the
+effect of the bifunctional dna alkylating agent melphalan.
+unsupervised hierarchical clustering analyses showed that gene
+expression profiles of multiple myeloma cells treated with either
+an anti-igfir antibody, or adw742 were unique from those
+induced by other drugs. igf-ir inhibition induced downregula-
+tion of several antiapoptotic proteins (mcl-1, survivin, ciap-2,
+flip) but not bcl-2. similarly, a second generation igf-ir
+r.t. kurmasheva, p.j. houghton / biochimica et biophysica acta 1766 (2006) 1–22
+15
+inhibitor (aew541) [203] caused downregulation of antiapopto-
+tic proteins including bcl-2, and increased bax in hepatocellular
+carcinoma cells or cells derived from gastrointestinal neuroendo-
+crine tumors [199,200]. however, apoptosis was associated with
+relatively high concentrations of aew541, and as in cellular
+assays kinases other than igf-ir and ir are inhibited [203] at
+these concentrations the role of igf-ir inhibition may be
+ambiguous. interestingly, cells derived from ewing sarcoma
+appear to be highly sensitive to aew541 both in vitro and as
+xenografts in mice. in addition aew541 potentiated the cytotoxic
+activity of vincristine, actinomycin d and ifosfamide [202].
+whether inhibition of igf-ir signaling may also induce toxicity
+in humans remains to be tested. clearly there is a concern over
+igf-ir-targeted agents inducing a diabetic syndrome, as do
+inhibitors of pi3k or akt, although no changes in plasma
+glucose or insulin were reported in mice treated with adw742.
+another potential concern is the possibility of irreversible
+impairment of neurological function as igfs appear to play an
+important role in neuronal survival [191]. inhibition of igf-ir
+may also have the potential to exacerbate hepatotoxicity when
+bile flow may be impaired as aew541 promoted bile acid
+toxicity in hepatocytes [212]. it is also worthwhile considering
+whether interactions between igf-ir-targeted agents and classi-
+cal cytotoxic agents is a consequence of igf-ir inhibition. for
+example, both imatinib (a 2-phenylamino-pyrimidine derivative)
+and erbb1-targeted agents, gefitinib and ci-1033 (4-anilino-
+quinazolines) are potent inhibitors of the abcg2 drug transporter
+[213–215], and probably other transporters associated with
+multidrug resistance [216]. thus, these agents may well potentiate
+antitumor activity of drugs associated with abc-transporter
+mediated resistance (vincristine, etoposide, topotecan, etc.) in-
+dependent of their primary tyrosine receptor kinase target.
+consequently, it is probable that these agents may exacerbate
+normal tissue toxicities of cytotoxic agents through igf-ir-
+independent mechanisms.
+high-affinity antibodies against igf-ir, however, should be
+highly specific. like the tyrosine kinase inhibitors, antibodies
+targeted to igf-ir inhibit ligand-induced autophosphorylation of
+the receptor. however, unlike small molecule inhibitors, anti-
+bodies prevent
+ligand binding, and may induce receptor
+internalization and degradation [149,205]. receptor downregula-
+tion may be important for in vivo antitumor activity [210]. like
+adw742 and aew541, anti-igfir antibodies inhibit cell
+proliferation leading to an increase in the g1 fraction. interest-
+ingly, in androgen-independent prostate cancer lines blocking
+igf-ir downregulates androgen-related genes [207]. antibodies
+directed to the igf-ir appear to have good in vivo activity against
+a variety of human tumor xenografts in mice, particularly when
+combined with standard cytotoxic agents. for example combined
+with gemcitabine antibodies induced regressions of bxpc-3
+pancreatic carcinoma models [206], or with 5-fluorouracil induced
+prolonged regression of colo205 colon tumors [149]. although
+igf-ir-targeted antibodies are unlikely to directly inhibit drug
+transporters, as do atp-competitive inhibitors, down regulation of
+akt signaling may abrogate abcg2 function, and potentially
+other transporters may be regulated through igf-ir-mediated
+signaling pathways. cohen et al. also reported development of a
+surrogate biomarker for antibody activity, where igf-ir down-
+regulation could be detected in human peripheral blood cells
+[149]. one note of caution is that the antibodies are species
+specific, hence may not reveal any exacerbation of toxicity when
+combined with standard cytotoxic agents in mouse models.
+combination of a chimeric humanized single chain antibody
+combined with tamoxifen also demonstrated good activity in a
+breast cancer xenograft model, providing evidence that
+targeting both the igf-ir and estrogen receptor may enhance
+therapeutic effect [217]. similarly, igf-ir signaling has been
+reported to confer resistance to trastuzimab (herceptin), an
+antibody that targets the her2 receptor [218]. igf-ir-irs-1
+signaling appears to confer resistance to trastuzimab through
+upregulation of skp2, a p27kip1 ubiquitin ligase, and subse-
+quent degradation of p27kip1 [219]. expression of a dominant
+negative igf-ir construct synergized with tratuzumab, sup-
+porting the idea of dual inhibition of these receptors as a ther-
+apeutic approach [220]. an alternative mechanism of igf-ir-
+mediated tratuzumab resistance is formation of igf-ir/her2
+heterodimeric receptors [221]. trastuzumab resistance was
+partially reversed by inhibition of the igf-ir kinase function by
+i-ome-ag538, but to a greater extent by the α-ir3 antibody
+that disrupted the her2/ifg-ir interaction. other approaches to
+increasing the therapeutic activity of igf-ir-directed antibodies
+is the development of bispecific antibodies that target igf-ir
+and erbb1 [222]. targeting receptor ligand rather than the
+receptor per se has proven a valuable approach for the anti-
+angiogenic antibody, bevituzimab (avastin), and high affinity
+fully human antibodies have been developed against igf-ii
+[223]. although no human results are currently available,
+promising activity of igf-ir kinase inhibitors or antibodies in
+preclinical models suggests that targeting this pathway alone, or
+most likely in combination with other pathway inhibitors, or
+combined with cytotoxic agents, may prove to be a useful the-
+rapeutic strategy.
+8. conclusions
+igf-i and -ii appear to protect against both intrinsic and
+extrinsic death stimuli; in many model systems igfs appear to
+have a unique function as other factors, such as egf, fgf and
+pdgf have little or no effect on survival. the most compelling
+evidence that igfs have a physiologic role in protecting cells from
+death comes from in vivo experiments where exogenous igfs
+show clear protection from ischemia–reperfusion insults as well as
+other trauma, and from experiments using primary tissue explants.
+the plethora of data demonstrating protection of malignant cells
+from cytotoxic agents, although numerically overwhelming, is less
+compelling, and may be cell-context specific. a major concern is
+whether igfs merely delay biochemical signs of apoptosis, but fail
+to ultimately alter clonogenic survival. many studies are limited in
+that data are presented for a single concentration of cytotoxic drug,
+and a single time point for assessing protection has been presented.
+consequently,
+is not possible to understand whether the
+protective effects of igfs occur over a broad range of drug
+concentrations, or whether they merely delay morphologic and
+biochemical signs of apoptosis. in the case of u.v. induced
+it
+16
+r.t. kurmasheva, p.j. houghton / biochimica et biophysica acta 1766 (2006) 1–22
+damage, such a delay in commitment appears to allow resolution
+of thymine dimers in dna, resulting in increased survival and
+clonogenic potential. potentially, such a delay in commitment to
+apoptosis could allow resolution of other forms of dna damage,
+although there is little published biochemical data to support this.
+whether this is a general phenomenon is obscured by the reliance
+on biochemical and morphological criteria for apoptosis rather
+than more rigorous assays such as clonogenic survival. one also
+has to be concerned that in vitro studies, particularly those that use
+monolayer culture, may generate results that cannot be translated
+to in vivo systems. perhaps of immediate importance and a
+challenge for the future will be determination of the role of igf-ir
+signaling in protection of tumor stem cells from cytotoxic agents or
+physiological stress. with the development of highly specific
+antibodies that bind and inactivate the igf-ir it should be possible
+to critically define the role of igf signaling in tumor growth, stem
+cell survival, and response to genotoxic damage. although less
+specific than antibodies,
+the development of small molecule
+inhibitors of the igf-ir will also allow for elucidation of a
+definitive role for igf-ir signaling in tumor growth and survival
+and to assess the role of igf-ir mediated signaling in response to
+cytotoxic agents under in vivo conditions.
+acknowledgments
+supported by ca23099, ca96696, ca77776, ca21675
+(cancer center support grant) and by american, lebanese, syrian
+associated charities (alsac).
+references
+[1] r.j. barnard, w.j. aronson, c.n. tymchuk, t.h. ngo, prostate cancer:
+another aspect of the insulin-resistance syndrome? obes. rev. 3 (2002)
+303–308.
+[2] m.s. sandhu, insulin-like growth factor-i and risk of type 2 diabetes and
+coronary heart disease: molecular epidemiology, endocr. dev. 9 (2005)
+44–54.
+[3] r. durai, w. yang, s. gupta, a.m. seifalian, m.c. winslet, the role of
+the insulin-like growth factor system in colorectal cancer: review of
+current knowledge, int. j. colorectal dis. 20 (2005) 203–220.
+[4] c. cocca, m. nunez, a. gutierrez, g. martin, g. cricco, v. medina, n.
+mohamad, e. rivera, r. bergoc, igf-i in mammary tumorigenesis and
+diabetes, anticancer res. 24 (2004) 2953–2965.
+[5] c. fottner, a. hoeflich, e. wolf, m.m. weber, role of the insulin-like
+growth factor system in adrenocortical growth control and carcinogen-
+esis, horm. metab. res. 36 (2004) 397–405.
+[6] l. jerome, l. shiry, b. leyland-jones, deregulation of the igf axis in
+cancer: epidemiological evidence and potential therapeutic interventions,
+endocr. relat. cancer 10 (2003) 561–578.
+[7] c.t. roberts jr., igf-1 and prostate cancer, novartis found. symp. 262
+(2004) 193–199 (discussion 199–204, 265–8).
+[8] d. leroith, c.t. roberts jr., the insulin-like growth factor system and
+cancer, cancer lett. 195 (2003) 127–137.
+[9] s.g. gray, i. stenfeldt mathiasen, p. de meyts, the insulin-like growth
+factors and insulin-signalling systems: an appealing target for breast
+cancer therapy? horm. metab. res. 35 (2003) 857–871.
+[10] j.g. scharf, f. dombrowski, r. novosyadlyy, c. eisenbach, i. demori,
+b. kubler, t. braulke, insulin-like growth factor (igf)-binding protein-1
+is highly induced during acute carbon tetrachloride liver injury and
+potentiates the igf-i-stimulated activation of rat hepatic stellate cells,
+endocrinology 145 (2004) 3463–3472.
+[11] j.g. scharf, w. schmidt-sandte, s.a. pahernik, g. ramadori, t.
+braulke, h. hartmann, characterization of the insulin-like growth factor
+axis in a human hepatoma cell line (plc), carcinogenesis 19 (1998)
+2121–2128.
+[12] p.e. lonning, s.i. helle, igf-1 and breast cancer, novartis found. symp.
+262 (2004) 205–212 (discussion 212–4, 265–8).
+[13] j.m. gross, d. yee, the type-1 insulin-like growth factor receptor
+tyrosine kinase and breast cancer: biology and therapeutic relevance,
+cancer metastasis rev. 22 (2003) 327–336.
+[14] w. zumkeller, the insulin-like growth factor system in hematopoietic
+cells, leuk. lymphoma 43 (2002) 487–491.
+[15] w. zumkeller, m. schwab,
+insulin-like growth factor system in
+neuroblastoma tumorigenesis and apoptosis: potential diagnostic and
+therapeutic perspectives, horm. metab. res. 31 (1999) 138–141.
+[16] w. zumkeller, m. westphal, the igf/igfbp system in cns malignancy,
+mol. pathol. 54 (2001) 227–229.
+[17] v. vella, g. pandini, l. sciacca, r. mineo, r. vigneri, v. pezzino, a.
+belfiore, a novel autocrine loop involving igf-ii and the insulin receptor
+isoform-a stimulates growth of thyroid cancer, j. clin. endocrinol.
+metab. 87 (2002) 245–254.
+[18] v. vella, l. sciacca, g. pandini, r. mineo, s. squatrito, r. vigneri, a.
+belfiore, the igf system in thyroid cancer: new concepts, mol. pathol.
+54 (2001) 121–124.
+[19] c. alexia, g. fallot, m. lasfer, g. schweizer-groyer, a. groyer, an
+evaluation of the role of insulin-like growth factors (igf) and of type-i
+igf receptor signalling in hepatocarcinogenesis and in the resistance of
+hepatocarcinoma cells against drug-induced apoptosis, biochem. phar-
+macol. 68 (2004) 1003–1015.
+[20] d.d. pravtcheva, t.l. wise, metastasizing mammary carcinomas in h19
+enhancers-igf2 transgenic mice, j. exp. zool. 281 (1998) 43–57.
+[21] w. wang, p. kumar, w. wang, j. epstein, l. helman, j.v. moore, s.
+kumar, insulin-like growth factor ii and pax3-fkhr cooperate in the
+oncogenesis of rhabdomyosarcoma, cancer res. 58 (1998) 4426–4433.
+[22] p. brodt, l. fallavollita, a.m. khatib, a.a. samani, d. zhang,
+cooperative regulation of the invasive and metastatic phenotypes by
+different domains of the type i insulin-like growth factor receptor beta
+subunit, j. biol. chem. 276 (2001) 33608–33615.
+[23] j.e. boehm, o.v. chaika, r.e. lewis, anti-apoptotic signaling by a
+colony-stimulating factor-1 receptor/insulin receptor chimera with a
+juxtamembrane deletion, j. biol. chem. 273 (1998) 7169–7176.
+[24] m. dews, m. prisco, f. peruzzi, g. romano, a. morrione, r. baserga,
+domains of the insulin-like growth factor i receptor required for the
+activation of extracellular signal-regulated kinases, endocrinology 141
+(2000) 1289–1300.
+[25] f. peruzzi, m. prisco, m. dews, p. salomoni, e. grassilli, g. romano, b.
+calabretta, r. baserga, multiple signaling pathways of the insulin-like
+growth factor 1 receptor in protection from apoptosis, mol. cell. biol. 19
+(1999) 7203–7215.
+[26] m. prisco, g. romano, f. peruzzi, b. valentinis, r. baserga, insulin and
+igf-i receptors signaling in protection from apoptosis, horm. metab.
+res. 31 (1999) 80–89.
+[27] b. valentinis, a. morrione, f. peruzzi, m. prisco, k. reiss, r. baserga,
+anti-apoptotic signaling of the igf-i receptor in fibroblasts following
+loss of matrix adhesion, oncogene 18 (1999) 1827–1836.
+[28] b. valentinis, g. romano, f. peruzzi, a. morrione, m. prisco, s. soddu,
+b. cristofanelli, a. sacchi, r. baserga, growth and differentiation signals
+by the insulin-like growth factor 1 receptor in hemopoietic cells are
+mediated through different pathways, j. biol. chem. 274 (1999)
+12423–12430.
+[29] b. urso, c.u. niesler, s. o'rahilly, k. siddle, comparison of anti-
+apoptotic signalling by the insulin receptor and igf-i receptor in
+preadipocytes and adipocytes, cell signal 13 (2001) 279–285.
+[30] s. tanaka, j.r. wands, insulin receptor substrate 1 overexpression in
+human hepatocellular carcinoma cells prevents transforming growth
+factor beta1-induced apoptosis, cancer res. 56 (1996) 3391–3394.
+[31] g. rodriguez-tarduchy, m.k. collins, i. garcia, a. lopez-rivas, insulin-
+like growth factor-i inhibits apoptosis in il-3-dependent hemopoietic cells,
+j. immunol. 149 (1992) 535–540.
+r.t. kurmasheva, p.j. houghton / biochimica et biophysica acta 1766 (2006) 1–22
+17
+[32] c.n. pagel, m.r. de niese, l.a. abraham, c. chinni, s.j. song, r.n.
+pike, e.j. mackie, inhibition of osteoblast apoptosis by thrombin, bone
+33 (2003) 733–743.
+[33] e.a. harrington, m.r. bennett, a. fanidi, g.i. evan, c-myc-induced
+apoptosis in fibroblasts is inhibited by specific cytokines, embo j. 13
+(1994) 3286–3295.
+[34] a. geier, r. beery, m. haimsohn, r. hemi, z. malik, a. karasik,
+epidermal growth factor, phorbol esters, and aurintricarboxylic acid are
+survival factors for mda-231 cells exposed to adriamycin, in vitro cell
+dev. biol., anim. 30a (1994) 867–874.
+[35] a. mooney, t. jobson, r. bacon, m. kitamura, j. savill, cytokines
+promote glomerular mesangial cell survival
+in vitro by stimulus-
+dependent inhibition of apoptosis, j. immunol. 159 (1997) 3949–3960.
+[36] k. fukunaga, t. kawano, akt is a molecular target for signal transduction
+therapy in brain ischemic insult, j. pharmacol. sci. 92 (2003) 317–327.
+[37] j. guan, l. bennet, p.d. gluckman, a.j. gunn, insulin-like growth factor-1
+and post-ischemic brain injury, prog. neurobiol. 70 (2003) 443–462.
+[38] i. kazanis, e. bozas, h. philippidis, f. stylianopoulou, neuroprotective
+effects of insulin-like growth factor-i (igf-i) following a penetrating
+brain injury in rats, brain res. 991 (2003) 34–45.
+[39] p. kermer, r. ankerhold, n. klocker, s. krajewski, j.c. reed, m. bahr,
+caspase-9: involvement in secondary death of axotomized rat retinal
+ganglion cells in vivo, brain res. mol. brain res. 85 (2000) 144–150.
+[40] m. mathonnet, i. comte, f. lalloue, c. ayer-le lievre, insulin-like
+growth factor i induced survival of axotomized olfactory neurons in the
+chick, neurosci. lett. 308 (2001) 67–70.
+[41] g. gutierrez-ospina, a. gutierrez de la barrera, j. larriva, m. giordano,
+insulin-like growth factor i partly prevents axon elimination in the
+neonate rat optic nerve, neurosci. lett. 325 (2002) 207–210.
+[42] g. gobe, x.j. zhang, l. cuttle, b. pat, d. willgoss, j. hancock, r.
+barnard, r.b. endre, bcl-2 genes and growth factors in the pathology of
+ischaemic acute renal failure, immunol. cell biol. 77 (1999) 279–286.
+[43] g. gobe, x.j. zhang, d.a. willgoss, e. schoch, n.a. hogg, z.h. endre,
+relationship between expression of bcl-2 genes and growth factors in
+ischemic acute renal failure in the rat, j. am. soc. nephrol. 11 (2000)
+454–467.
+[44] s.c. kiley, b.a. thornhill, s.s. tang, j.r. ingelfinger, r.l. chevalier,
+growth factor-mediated phosphorylation of proapoptotic bad reduces
+tubule cell death in vitro and in vivo, kidney int. 63 (2003) 33–42.
+[45] s. klahr, urinary tract obstruction, semin. nephrol. 21 (2001) 133–145.
+[46] g. gomez, h.m. lee, q. he, e.w. englander, t. uchida, g.h. greeley jr.,
+acute pancreatitis signals activation of apoptosis-associated and survival
+genes in mice, exp. biol. med. (maywood) 226 (2001) 692–700.
+[47] j.c. cool, j.l. dyer, c.j. xian, r.n. butler, m.s. geier, g.s. howarth,
+pre-treatment with insulin-like growth factor-i partially ameliorates 5-
+fluorouracil-induced intestinal mucositis in rats, growth horm. igf res.
+15 (2005) 72–82.
+[48] d.j. hill, j. petrik, e. arany, t.j. mcdonald, t.l. delovitch, insulin-like
+growth factors prevent cytokine-mediated cell death in isolated islets of
+langerhans from pre-diabetic non-obese diabetic mice, j. endocrinol.
+161 (1999) 153–165.
+[49] k. raile, a. berthold, u. banning, f. horn, g. pfeiffer, w. kiess, igfs,
+basic fgf, and glucose modulate proliferation and apoptosis induced by
+ifngamma but not by il-1beta in rat ins-1e beta-cells, horm. metab.
+res. 35 (2003) 407–414.
+[50] d. decraene, p. agostinis, r. bouillon, h. degreef, m. garmyn, insulin-
+like growth factor-1-mediated akt activation postpones the onset of
+ultraviolet b-induced apoptosis, providing more time for cyclobutane
+thymine dimer removal in primary human keratinocytes, j. biol. chem.
+277 (2002) 32587–32595.
+[51] c. kuhn, s.a. hurwitz, m.g. kumar, j. cotton, d.f. spandau, activation
+of the insulin-like growth factor-1 receptor promotes the survival of
+human keratinocytes following ultraviolet b irradiation, int. j. cancer 80
+(1999) 431–438.
+[52] a. eichten, d.s. rud, m. grace, s.o. piboonniyom, v. zacny, k.
+munger, molecular pathways executing the “trophic sentinel” response in
+hpv-16 e7-expressing normal human diploid fibroblasts upon growth
+factor deprivation, virology 319 (2004) 81–93.
+[53] y. xu, q. nguyen, d.c. lo, m.j. czaja, c-myc-dependent hepatoma cell
+apoptosis results from oxidative stress and not a deficiency of growth
+factors, j. cell. physiol. 170 (1997) 192–199.
+[54] j. han, c. flemington, a.b. houghton, z. gu, g.p. zambetti, r.j. lutz,
+l. zhu, t. chittenden, expression of bbc3, a pro-apoptotic bh3-only
+gene, is regulated by diverse cell death and survival signals, proc. natl.
+acad. sci. u. s. a. 98 (2001) 11318–11323.
+[55] h. matsuzaki, m. tamatani, n. mitsuda, k. namikawa, h. kiyama, s.
+miyake, m. tohyama, activation of akt kinase inhibits apoptosis and
+changes in bcl-2 and bax expression induced by nitric oxide in primary
+hippocampal neurons, j. neurochem. 73 (1999) 2037–2046.
+[56] a. yamaguchi, m. tamatani, h. matsuzaki, k. namikawa, h. kiyama,
+m.p. vitek, n. mitsuda, m. tohyama, akt activation protects hippo-
+campal neurons from apoptosis by inhibiting transcriptional activity of
+p53, j. biol. chem. 276 (2001) 5256–5264.
+[57] r. vento, n. d'alessandro, m. giuliano, m. lauricella, m. carabillo, g.
+tesoriere,
+induction of apoptosis by arachidonic acid in human
+retinoblastoma y79 cells: involvement of oxidative stress, exp. eye
+res. 70 (2000) 503–517.
+[58] r. kurzawa, w. glabowski, t. baczkowski, p. brelik, evaluation of
+mouse preimplantation embryos exposed to oxidative stress cultured with
+insulin-like growth factor i and ii, epidermal growth factor, insulin,
+transferrin and selenium, reprod. biol. 2 (2002) 143–162.
+[59] r. kurzawa, w. glabowski, t. baczkowski, b. wiszniewska, m.
+marchlewicz, growth factors protect in vitro cultured embryos from
+the consequences of oxidative stress, zygote 12 (2004) 231–240.
+[60] j. pifer, r.p. stephan, d.a. lill-elghanian, p.t. le, p.l. witte, role of
+stromal cells and their products in protecting young and aged b-lineage
+precursors from dexamethasone-induced apoptosis, mech. ageing dev.
+124 (2003) 207–218.
+[61] j.r. singleton, b.l. baker, a. thorburn, dexamethasone inhibits insulin-
+like growth factor signaling and potentiates myoblast apoptosis,
+endocrinology 141 (2000) 2945–2950.
+[62] s. humez, g. legrand, f. vanden-abeele, m. monet, p. marchetti, g.
+lepage, a. crepin, e. dewailly, f. wuytack, n. prevarskaya, role
+of endoplasmic reticulum calcium content
+in prostate cancer cell
+growth regulation by igf and tnfalpha, j. cell. physiol. 201 (2004)
+201–213.
+[63] c.u. niesler, b. urso, j.b. prins, k. siddle, igf-i inhibits apoptosis
+induced by serum withdrawal, but potentiates tnf-alpha-induced
+apoptosis, in 3t3-l1 preadipocytes, j. endocrinol. 167 (2000) 165–174.
+[64] e.j. foulstone, k.a. meadows, j.m. holly, c.e. stewart, insulin-like
+growth factors (igf-i and igf-ii)
+inhibit c2 skeletal myoblast
+differentiation and enhance tnf alpha-induced apoptosis, j. cell physiol.
+189 (2001) 207–215.
+[65] p. storz, h. doppler, j. horn-muller, g. muller, k. pfizenmaier, tnf down-
+regulation of receptor tyrosine kinase-dependent mitogenic signal pathways
+as an important step in cytostasis induction and commitment to apoptosis of
+kym-1 rhabdomyosarcoma cells, cell death differ. 7 (2000) 955–965.
+[66] c.e. gidding, g.s. germain, m.b. dilling, t.g. meeuwsen-de boer, r.a.
+ashmun, s.s. de graaf, k.a. veverka, w.a. kamps, p.j. houghton, the
+influence of recombinant human insulin-like growth factor-i (rhigf-i) on cell
+growth and cytotoxicity of drugs in childhood rhabdomyosarcoma cell lines
+and xenograft models, cancer chemother. pharmacol. 45 (2000) 21–30.
+[67] c. sell, r. baserga, r. rubin, insulin-like growth factor i (igf-i) and the
+igf-i receptor prevent etoposide-induced apoptosis, cancer res. 55
+(1995) 303–306.
+[68] b.j. gwag, l.m. canzoniero, s.l. sensi, j.a. demaro, j.y. koh, m.p.
+goldberg, m. jacquin, d.w. choi, calcium ionophores can induce either
+apoptosis or necrosis in cultured cortical neurons, neuroscience 90
+(1999) 1339–1348.
+[69] b.j. gwag, j.y. koh, j.a. demaro, h.s. ying, m. jacquin, d.w. choi,
+slowly triggered excitotoxicity occurs by necrosis in cortical cultures,
+neuroscience 77 (1997) 393–401.
+[70] b. li, m. setoguchi, x. wang, a.m. andreoli, a. leri, a. malhotra, j.
+kajstura, p. anversa,
+insulin-like growth factor-1 attenuates the
+detrimental impact of nonocclusive coronary artery constriction on the
+heart, circ. res. 84 (1999) 1007–1019.
+18
+r.t. kurmasheva, p.j. houghton / biochimica et biophysica acta 1766 (2006) 1–22
+[71] m. tezuka, h. watanabe, s. nakamura, d. yu, w. aung, t. sasaki, h.
+shibuya, m. miura, antiapoptotic activity is dispensable for insulin-like
+growth factor
+receptor-mediated clonogenic radioresistance after
+gamma-irradiation, clin. cancer res. 7 (2001) 3206–3214.
+[72] n.j. mccarthy, m.k. whyte, c.s. gilbert, g.i. evan, inhibition of ced-3/
+ice-related proteases does not prevent cell death induced by oncogenes,
+dna damage, or the bcl-2 homologue bak, j. cell biol. 136 (1997)
+215–227.
+[73] d.l. brown, w.w. kao, d.g. greenhalgh, apoptosis down-regulates
+inflammation under the advancing epithelial wound edge: delayed
+patterns in diabetes and improvement with topical growth factors,
+surgery 121 (1997) 372–380.
+[74] l. del peso, m. gonzalez-garcia, c. page, r. herrera, g. nunez,
+interleukin-3-induced phosphorylation of bad through the protein
+kinase akt, science 278 (1997) 687–689.
+[75] k.s. shindler, c.b. latham, k.a. roth, bax deficiency prevents the
+increased cell death of immature neurons in bcl-x-deficient mice,
+j. neurosci. 17 (1997) 3112–3119.
+[76] j. zha, h. harada, e. yang, j. jockel, s.j. korsmeyer, serine
+phosphorylation of death agonist bad in response to survival factor
+results in binding to 14-3-3 not bcl-x(l), cell 87 (1996) 619–628.
+[77] s.r. datta, a.m. ranger, m.z. lin, j.f. sturgill, y.c. ma, c.w. cowan,
+p. dikkes, s.j. korsmeyer, m.e. greenberg, survival factor-mediated
+bad phosphorylation raises the mitochondrial threshold for apoptosis,
+dev. cell 3 (2002) 631–643.
+[78] h. bai, m.j. pollman, y. inishi, g.h. gibbons, regulation of vascular
+smooth muscle cell apoptosis. modulation of bad by a phosphatidylino-
+sitol 3-kinase-dependent pathway, circ. res. 85 (1999) 229–237.
+[79] y. leverrier, j. thomas, a.l. mathieu, w. low, b. blanquier, j. marvel,
+role of pi3-kinase in bcl-x induction and apoptosis inhibition mediated
+by il-3 or igf-1 in baf-3 cells, cell death differ. 6 (1999) 290–296.
+[80] m. parrizas, d. leroith, insulin-like growth factor-1 inhibition of
+apoptosis is associated with increased expression of the bcl-xl gene
+product, endocrinology 138 (1997) 1355–1358.
+[81] c. minshall, s. arkins, j. straza, j. conners, r. dantzer, g.g. freund, k.w.
+kelley, il-4 and insulin-like growth factor-i inhibit the decline in bcl-2 and
+promote the survival of il-3-deprived myeloid progenitors, j. immunol. 159
+(1997) 1225–1232.
+[82] d.a. linseman, r.a. phelps, r.j. bouchard, s.s. le, t.a. laessig, m.l.
+mcclure, k.a. heidenreich, insulin-like growth factor-i blocks bcl-2
+interacting mediator of cell death (bim) induction and intrinsic death
+signaling in cerebellar granule neurons, j. neurosci. 22 (2002) 9287–9297.
+[83] y. toyoshima, m. karas, s. yakar, j. dupont, h. lee, d. leroith,
+tdag51 mediates the effects of insulin-like growth factor i (igf-i) on
+cell survival, j. biol. chem. 279 (2004) 25898–25904.
+[84] h.l. cheng, m.l. steinway, x. xin, e.l. feldman, insulin-like growth
+factor-i and bcl-x(l) inhibit c-jun n-terminal kinase activation and
+rescue schwann cells from apoptosis, j. neurochem. 76 (2001)
+935–943.
+[85] v. levresse, l. butterfield, e. zentrich, l.e. heasley, akt negatively
+regulates the cjun n-terminal kinase pathway in pc12 cells, j. neurosci.
+res. 62 (2000) 799–808.
+[86] c.l. delaney, h.l. cheng, e.l. feldman, insulin-like growth factor-i
+prevents caspase-mediated apoptosis in schwann cells, j. neurobiol. 41
+(1999) 540–548.
+[87] a. hurbin, j.l. coll, l. dubrez-daloz, b. mari, p. auberger, c.
+brambilla, m.c. favrot, cooperation of amphiregulin and insulin-like
+growth factor-1 inhibits bax- and bad-mediated apoptosis via a protein
+kinase c-dependent pathway in non-small cell lung cancer cells, j. biol.
+chem. 280 (2005) 19757–19767.
+[88] d. krause, a. lyons, c. fennelly, r. o'connor, transient activation of
+jun n-terminal kinases and protection from apoptosis by the insulin-like
+growth factor i receptor can be suppressed by dicumarol, j. biol. chem.
+276 (2001) 19244–19252.
+[89] j. ratajczak, m. majka, j. kijowski, m. baj, z.k. pan, l.a. marquez, a.
+janowska-wieczorek, m.z. ratajczak, biological significance of mapk,
+akt and jak-stat protein activation by various erythropoietic factors in
+normal human early erythroid cells, br. j. haematol. 115 (2001) 195–204.
+[90] m. yamada, k. tanabe, k. wada, k. shimoke, y. ishikawa, t. ikeuchi, s.
+koizumi, h. hatanaka, differences in survival-promoting effects and
+intracellular signaling properties of bdnf and igf-1 in cultured cerebral
+cortical neurons, j. neurochem. 78 (2001) 940–951.
+[91] j.w. russell, a.j. windebank, a. schenone, e.l. feldman, insulin-like
+growth factor-i prevents apoptosis in neurons after nerve growth factor
+withdrawal, j. neurobiol. 36 (1998) 455–467.
+[92] k. martensson, d. chrysis, l. savendahl, interleukin-1beta and tnf-
+alpha act in synergy to inhibit longitudinal growth in fetal rat metatarsal
+bones, j. bone miner. res. 19 (2004) 1805–1812.
+[93] a. ortiz, c. lorz, s. gonzalez-cuadrado, r. garcia del moral, f. o'valle,
+j. egido, cytokines and fas regulate apoptosis in murine renal interstitial
+fibroblasts, j. am. soc. nephrol. 8 (1997) 1845–1854.
+[94] y. wu, m. tewari, s. cui, r. rubin, activation of the insulin-like growth
+factor-i receptor inhibits tumor necrosis factor-induced cell death, j. cell.
+physiol. 168 (1996) 499–509.
+[95] r. rajah, k.w. lee, p. cohen, insulin-like growth factor binding
+protein-3 mediates
+factor-alpha-induced apoptosis:
+role of bcl-2 phosphorylation, cell growth differ. 13 (2002)
+163–171.
+tumor necrosis
+[96] r. aikin, l. rosenberg, d. maysinger, phosphatidylinositol 3-kinase
+signaling to akt mediates survival in isolated canine islets of langerhans,
+biochem. biophys. res. commun. 277 (2000) 455–461.
+[97] s.m. quirk, r.m. harman, r.g. cowan, regulation of fas antigen (fas,
+cd95)-mediated apoptosis of bovine granulosa cells by serum and
+growth factors, biol. reprod. 63 (2000) 1278–1284.
+[98] m.m. remacle-bonnet, f.l. garrouste, s. heller, f. andre, j.l. marvaldi,
+g.j. pommier, insulin-like growth factor-i protects colon cancer cells from
+death factor-induced apoptosis by potentiating tumor necrosis factor alpha-
+induced mitogen-activated protein kinase and nuclear factor kappab
+signaling pathways, cancer res. 60 (2000) 2007–2017.
+[99] m.e. burow, c.b. weldon, b.m. collins-burow, n. ramsey, a. mckee,
+a. klippel, j.a. mclachlan, s. clejan, b.s. beckman, cross-talk
+between phosphatidylinositol 3-kinase and sphingomyelinase pathways
+as a mechanism for cell survival/death decisions, j. biol. chem. 275
+(2000) 9628–9635.
+[100] p. bernabei, m. bosticardo, g. losana, g. regis, f. di paola, s. de
+angelis, m. giovarelli, f. novelli, igf-1 down-regulates ifn-gamma r2
+chain surface expression and desensitizes ifn-gamma/stat-1 signaling
+in human t lymphocytes, blood 102 (2003) 2933–2939.
+[101] w.h. shen, j.h. zhou, s.r. broussard, g.g. freund, r. dantzer, k.w.
+kelley, proinflammatory cytokines block growth of breast cancer cells by
+impairing signals from a growth factor receptor, cancer res. 62 (2002)
+4746–4756.
+[102] h.d. venters, r. dantzer, k.w. kelley, a new concept in neurodegenera-
+tion: tnfalpha is a silencer of survival signals, trends neurosci. 23
+(2000) 175–180.
+[103] r.s. nicholas, s. stevens, m.g. wing, d.a. compston, microglia-
+derived igf-2 prevents tnfalpha induced death of mature oligoden-
+drocytes in vitro, j. neuroimmunol. 124 (2002) 36–44.
+[104] c. sanz, y. leon, s. canon, l. alvarez, f. giraldez, i. varela-nieto,
+pattern of expression of the jun family of transcription factors during the
+early development of the inner ear: implications in apoptosis, j. cell sci.
+112 (pt 22) (1999) 3967–3974.
+[105] p. kenchappa, a. yadav, g. singh, s. nandana, k. banerjee, rescue of
+tnfalpha-inhibited neuronal cells by igf-1 involves akt and c-jun n-
+terminal kinases, j. neurosci. res. 76 (2004) 466–474.
+[106] s.m. frisch, h. francis, disruption of epithelial cell–matrix interactions
+induces apoptosis, j. cell biol. 124 (1994) 619–626.
+[107] b. valentinis, k. reiss, r. baserga, insulin-like growth factor-i-mediated
+survival from anoikis: role of cell aggregation and focal adhesion kinase,
+j. cell. physiol. 176 (1998) 648–657.
+[108] j.t. yu, r.g. foster, d.c. dean, transcriptional repression by rb-e2f
+and regulation of anchorage-independent survival, mol. cell. biol. 21
+(2001) 3325–3335.
+[109] l.a. maile, w.h. busby, k. sitko, b.e. capps, t. sergent, j. badley-
+clarke, d.r. clemmons, insulin-like growth factor-i signaling in smooth
+muscle cells is regulated by ligand binding to the 177cydmkttc184
+r.t. kurmasheva, p.j. houghton / biochimica et biophysica acta 1766 (2006) 1–22
+19
+sequence of the beta3-subunit of alphavbeta3, mol. endocrinol. 20
+(2006) 405–443.
+[110] d.r. clemmons, l.a. maile, interaction between insulin-like growth factor-
+i receptor and alphavbeta3 integrin linked signaling pathways: cellular
+responses to changes in multiple signaling inputs, mol. endocrinol. 19
+(2005) 1–11.
+[111] m. kwon, y. ling, l.a. maile, j. badley-clark, d.r. clemmons,
+recruitment of the tyrosine phosphatase src homology 2 domain tyrosine
+phosphatase-2 to the p85 subunit of phosphatidylinositol-3 (pi-3) kinase
+is required for
+insulin-like growth factor-i-dependent pi-3 kinase
+activation in smooth muscle cells, endocrinology 147 (2006) 1458–1465.
+[112] a. oh, h.j. list, r. reiter, a. mani, y. zhang, e. gehan, a. wellstein, a.t.
+riegel, the nuclear receptor coactivator aib1 mediates insulin-like growth
+factor i-induced phenotypic changes in human breast cancer cells, cancer
+res. 64 (2004) 8299–8308.
+[113] c.e. wrede, l.m. dickson, m.k. lingohr, i. briaud, c.j. rhodes, protein
+kinase b/akt prevents fatty acid-induced apoptosis in pancreatic beta-
+cells (ins-1), j. biol. chem. 277 (2002) 49676–49684.
+[114] c.c. o'shea, s. choi, f. mccormick, d. stokoe, adenovirus overrides
+cellular checkpoints for protein translation, cell cycle 4 (2005) 883–888.
+[115] h.u. simon, a. haj-yehia, f. levi-schaffer, role of reactive oxygen
+species (ros) in apoptosis induction, apoptosis 5 (2000) 415–418.
+[116] k. kannan, s.k. jain, oxidative stress and apoptosis, pathophysiology 7
+(2000) 153–163.
+[117] s. wedgwood, s.m. black, role of reactive oxygen species in vascular
+remodeling associated with pulmonary hypertension, antioxid. redox
+signal. 5 (2003) 759–769.
+[118] t. sakamoto, w.t. repasky, k. uchida, a. hirata, f. hirata, modulation
+of cell death pathways to apoptosis and necrosis of h2o2-treated rat
+thymocytes by lipocortin i, biochem. biophys. res. commun. 220
+(1996) 643–647.
+[119] t. abe, y. hara, y. abe, y. aida, k. maeda, serum or growth factor
+deprivation induces the expression of alkaline phosphatase in human
+gingival fibroblasts, j. dent. res. 77 (1998) 1700–1707.
+[120] m.v. clement, i. stamenkovic, superoxide anion is a natural inhibitor of
+fas-mediated cell death, embo j. 15 (1996) 216–225.
+[121] k.m. lin, c.a. ternent, d.r. adams, a.g. thorson, g.j. blatchford, m.a.
+christensen, p. watson, h.t. lynch, colorectal cancer in hereditary breast
+cancer kindreds, dis. colon rectum 42 (1999) 1041–1045.
+[122] s.s. brar, z. corbin, t.p. kennedy, r. hemendinger, l. thornton, b.
+bommarius, r.s. arnold, a.r. whorton, a.b. sturrock, t.p. huecksteadt,
+m.t. quinn, k. krenitsky, k.g. ardie, j.d. lambeth, j.r. hoidal, nox5
+nad(p)h oxidase regulates growth and apoptosis in du 145 prostate
+cancer cells, am. j. physiol. cell physiol. 285 (2003) c353–c369.
+[123] w. davis jr., z. ronai, k.d. tew, cellular thiols and reactive oxygen
+species in drug-induced apoptosis, j. pharmacol. exp. ther. 296 (2001)
+1–6.
+[124] x. lin, r.f. bulleit, insulin-like growth factor i (igf-i) is a critical
+trophic factor for developing cerebellar granule cells, brain res. dev.
+brain res. 99 (1997) 234–242.
+[125] d.r. green, death and nf-kappab in t cell activation: life at the edge,
+mol. cell 11 (2003) 551–552.
+[126] c. garrido, s. gurbuxani, l. ravagnan, g. kroemer, heat shock proteins:
+endogenous modulators of apoptotic cell death, biochem. biophys. res.
+commun. 286 (2001) 433–442.
+[127] m. tamatani, s. ogawa, m. tohyama, roles of bcl-2 and caspases in
+hypoxia-induced neuronal cell death: a possible neuroprotective mecha-
+nism of peptide growth factors, brain res. mol. brain res. 58 (1998)
+27–39.
+[128] x. wang, j. deng, d.w. boyle, j. zhong, w.h. lee, potential role of igf-
+i in hypoxia tolerance using a rat hypoxic-ischemic model: activation of
+hypoxia-inducible factor 1alpha, pediatr. res. 55 (2004) 385–394.
+[129] m. tagami, k. yamagata, k. ikeda, h. fujino, y. nara, k. nakagawa, a.
+kubota, f. numano, y. yamori, genetic vulnerability of cortical neurons
+isolated from stroke-prone spontaneously hypertensive rats in hypoxia
+and oxygen reperfusion, hypertens. res. 22 (1999) 23–29.
+[130] f.b. mehrhof, f.u. muller, m.w. bergmann, p. li, y. wang, w. schmitz,
+r. dietz, r. von harsdorf, in cardiomyocyte hypoxia, insulin-like growth
+factor-i-induced antiapoptotic signaling requires phosphatidylinositol-3-
+oh-kinase-dependent and mitogen-activated protein kinase-dependent
+activation of the transcription factor camp response element-binding
+protein, circulation 104 (2001) 2088–2094.
+[131] s. kothari, j. cizeau, e. mcmillan-ward, s.j. israels, m. bailes, k. ens,
+l.a. kirshenbaum, s.b. gibson, bnip3 plays a role in hypoxic cell death
+in human epithelial cells that is inhibited by growth factors egf and igf,
+oncogene 22 (2003) 4734–4744.
+[132] a.c. koong, n.c. denko, k.m. hudson, c. schindler, l. swiersz, c.
+koch, s. evans, h. ibrahim, q.t. le, d.j. terris, a.j. giaccia, candidate
+genes for the hypoxic tumor phenotype, cancer res. 60 (2000) 883–887.
+[133] g. kulik, a. klippel, m.j. weber, antiapoptotic signalling by the insulin-
+like growth factor i receptor, phosphatidylinositol 3-kinase, and akt,
+mol. cell. biol. 17 (1997) 1595–1606.
+[134] j.m. brown, b.g. wouters, apoptosis, p53, and tumor cell sensitivity to
+anticancer agents, cancer res. 59 (1999) 1391–1399.
+[135] j.m. brown, l.d. attardi, the role of apoptosis in cancer development
+and treatment response, nat. rev. cancer 5 (2005) 231–237.
+[136] h.a. ferguson, p.m. marietta, c.l. van den berg, uv-induced apoptosis
+is mediated independent of caspase-9 in mcf-7 cells: a model for
+cytochrome c resistance, j. biol. chem. 278 (2003) 45793–45800.
+[137] l.m. frago, y. leon, e.j. de la rosa, a. gomez-munoz, i. varela-nieto,
+nerve growth factor and ceramides modulate cell death in the early
+developing inner ear, j. cell sci. 111 (pt 5) (1998) 549–556.
+[138] e. bieberich, s. mackinnon, j. silva, r.k. yu, regulation of apoptosis
+during neuronal differentiation by ceramide and b-series complex
+gangliosides, j. biol. chem. 276 (2001) 44396–44404.
+[139] c.e. stewart, p.v. newcomb, p.b. savage, m. dickens, j. tavare, j.m.
+holly, increased, not decreased activation of the insulin-like growth
+factor
+receptor signalling pathway during ceramide-induced
+apoptosis, growth horm. igf res. 9 (1999) 131–142.
+(igf)
+[140] c.e. stewart, r. mihai, j.m. holly, increased tyrosine kinase activity but
+not calcium mobilization is required for ceramide-induced apoptosis,
+exp. cell res. 250 (1999) 329–338.
+[141] y.e. whang, x.j. yuan, y. liu, s. majumder, t.d. lewis, regulation of
+sensitivity to trail by the pten tumor suppressor, vitam. horm. 67
+(2004) 409–426.
+[142] c.l. hu, r.g. cowan, r.m. harman, s.m. quirk, cell cycle progression
+and activation of akt kinase are required for insulin-like growth factor i-
+mediated suppression of apoptosis in granulosa cells, mol. endocrinol. 18
+(2004) 326–338.
+[143] j.l. rohn, a.o. hueber, n.j. mccarthy, d. lyon, p. navarro, b.m.
+burgering, g.i. evan, the opposing roles of the akt and c-myc signalling
+pathways in survival from cd95-mediated apoptosis, oncogene 17 (1998)
+2811–2818.
+[144] v. poulaki, c.s. mitsiades, v. kotoula, s. tseleni-balafouta, a.
+ashkenazi, d.a. koutras, n. mitsiades, regulation of apo2l/tumor
+necrosis factor-related apoptosis-inducing ligand-induced apoptosis in
+thyroid carcinoma cells, am. j. pathol. 161 (2002) 643–654.
+[145] r. fraser, c. frisby, l.a. blackshaw, m. schirmer, g. howarth, e. yeoh,
+small intestinal dysmotility following abdominal irradiation in the rat
+small intestine, neurogastroenterol. motil. 10 (1998) 413–419.
+[146] r. fraser, c. frisby, m. schirmer, l.a. blackshaw, j. langman, g.
+howarth, e.k. yeoh, divergence of mucosal and motor effects of insulin-
+like growth factor (igf)-i and lr3igf-i on rat isolated ileum following
+abdominal irradiation, j. gastroenterol. hepatol. 15 (2000) 1132–1137.
+[147] g.s. howarth, r. fraser, c.l. frisby, m.b. schirmer, e.k. yeoh, effects
+of insulin-like growth factor-i administration on radiation enteritis in rats,
+scand. j. gastroenterol. 32 (1997) 1118–1124.
+[148] g.s. howarth, j.c. cool, a.j. bourne, f.j. ballard, l.c. read, insulin-
+like growth factor-i (igf-i) stimulates regrowth of the damaged intestine
+in rats, when administered following, but not concurrent with, metho-
+trexate, growth factors 15 (1998) 279–292.
+[149] b.d. cohen, d.a. baker, c. soderstrom, g. tkalcevic, a.m. rossi, p.e.
+miller, m.w. tengowski, f. wang, a. gualberto, j.s. beebe, j.d. moyer,
+combination therapy enhances the inhibition of tumor growth with the
+fully human anti-type 1 insulin-like growth factor receptor monoclonal
+antibody cp-751,871, clin. cancer res. 11 (2005) 2063–2073.
+20
+r.t. kurmasheva, p.j. houghton / biochimica et biophysica acta 1766 (2006) 1–22
+[150] h.c. lai, t.j. liu, c.t. ting, p.m. sharma, p.h. wang, insulin-like
+growth factor-1 prevents loss of electrochemical gradient in cardiac
+muscle mitochondria via activation of pi 3 kinase/akt pathway, mol.
+cell. endocrinol. 205 (2003) 99–106.
+[151] m. akiyama, t. hideshima, t. hayashi, y.t. tai, c.s. mitsiades, n.
+mitsiades, d. chauhan, p. richardson, n.c. munshi, k.c. anderson,
+cytokines modulate telomerase activity in a human multiple myeloma
+cell line, cancer res. 62 (2002) 3876–3882.
+[152] t. stromberg, a. dimberg, a. hammarberg, k. carlson, a. osterborg, k.
+nilsson, h. jernberg-wiklund, rapamycin sensitizes multiple myeloma
+cells to apoptosis induced by dexamethasone, blood 103 (2004)
+3138–3147.
+[153] h. harada, j.s. andersen, m. mann, n. terada, s.j. korsmeyer, p70s6
+kinase signals cell survival as well as growth, inactivating the pro-apoptotic
+molecule bad, proc. natl. acad. sci. u. s. a. 98 (2001) 9666–9670.
+[154] j.b. easton, r.t. kurmasheva, p.j. houghton, irs-1: auditing the
+effectiveness of mtor inhibitors, cancer cell 9 (2006) 153–155.
+[155] h. hosoi, m.b. dilling, t. shikata, l.n. liu, l. shu, r.a. ashmun, g.s.
+germain, r.t. abraham, p.j. houghton, rapamycin causes poorly
+reversible inhibition of mtor and induces p53-independent apoptosis in
+human rhabdomyosarcoma cells, cancer res. 59 (1999) 886–894.
+[156] q. huang, r.t. dunn ii, s. jayadev, o. disorbo, f.d. pack, s.b. farr, r.e.
+stoll, k.t. blanchard, assessment of cisplatin-induced nephrotoxicity by
+microarray technology, toxicol. sci. 63 (2001) 196–207.
+[157] j.x. huang, m. feldmeier, y.b. shui, d.c. beebe, evaluation of
+fibroblast growth factor signaling during lens fiber cell differentiation,
+invest. ophthalmol. vis. sci. 44 (2003) 680–690.
+[158] k.n. thimmaiah, j. easton, s. huang, k.a. veverka, g.s. germain, f.c.
+harwood, p.j. houghton, insulin-like growth factor i-mediated protection
+from rapamycin-induced apoptosis is independent of ras-erk1-erk2 and
+phosphatidylinositol 3′-kinase-akt signaling pathways, cancer res. 63
+(2003) 364–374.
+[159] y. tan, h. ruan, m.r. demeter, m.j. comb, p90(rsk) blocks bad-
+mediated cell death via a protein kinase c-dependent pathway, j. biol.
+chem. 274 (1999) 34859–34867.
+[160] a. bonni, a. brunet, a.e. west, s.r. datta, m.a. takasu, m.e.
+greenberg, cell survival promoted by the ras-mapk signaling pathway
+by transcription-dependent and -independent mechanisms, science 286
+(1999) 1358–1362.
+[161] y. tan, m.r. demeter, h. ruan, m.j. comb, bad ser-155 phosphor-
+ylation regulates bad/bcl-xl interaction and cell survival, j. biol.
+chem. 275 (2000) 25865–25869.
+[162] m.t. fernandez-sanchez, a. garcia-rodriguez, r. diaz-trelles, a. novelli,
+inhibition of protein phosphatases induces igf-1-blocked neurotrophin-
+insensitive neuronal apoptosis, febs lett. 398 (1996) 106–112.
+[163] k.d. krueger, w.j. hunter iii, m.g. delcore, d.k. agrawal, calphostin
+c as a rapid and strong inducer of apoptosis in human coronary artery
+smooth muscle cells, int. immunopharmacol. 3 (2003) 1751–1759.
+[164] l. zhang, x.s. wan, j.j. donahue, j.h. ware, a.r. kennedy, effects of
+the bowman–birk inhibitor on clonogenic survival and cisplatin- or
+radiation-induced cytotoxicity in human breast, cervical, and head and
+neck cancer cells, nutr. cancer 33 (1999) 165–173.
+[165] m. du, q.w. shen, m.j. zhu, role of beta-adrenoceptor signaling and
+amp-activated protein kinase in glycolysis of postmortem skeletal
+muscle, j. agric. food chem. 53 (2005) 3235–3239.
+[166] c. brantley-finley, c.s. lyle, l. du, m.e. goodwin, t. hall, d.
+szwedo, g.p. kaushal, t.c. chambers, the jnk, erk and p53
+pathways play distinct roles in apoptosis mediated by the antitumor
+agents vinblastine, doxorubicin, and etoposide, biochem. pharmacol.
+66 (2003) 459–469.
+[167] c.l. mamay, a.m. mingo-sion, d.m. wolf, m.d. molina, c.l. van den
+berg, an inhibitory function for jnk in the regulation of igf-i signaling
+in breast cancer, oncogene 22 (2003) 602–614.
+[168] y. shi, h. yan, p. frost, j. gera, a. lichtenstein, mammalian target of
+rapamycin inhibitors activate the akt kinase in multiple myeloma cells
+by up-regulating the insulin-like growth factor receptor/insulin receptor
+substrate-1/phosphatidylinositol 3-kinase cascade, mol. cancer ther. 4
+(2005) 1533–1540.
+[169] d. yin, n. tamaki, a.d. parent, j.h. zhang, insulin-like growth factor-i
+decreased etoposide-induced apoptosis in glioma cells by increasing bcl-2
+expression and decreasing cpp32 activity, neurol. res. 27 (2005) 27–35.
+[170] g.w. krystal, g. sulanke, j. litz, inhibition of phosphatidylinositol 3-
+kinase-akt signaling blocks growth, promotes apoptosis, and enhances
+sensitivity of small cell lung cancer cells to chemotherapy, mol. cancer
+ther. 1 (2002) 913–922.
+[171] k.h. limesand, k.a. barzen, d.o. quissell, s.m. anderson, synergistic
+suppression of apoptosis in salivary acinar cells by igf1 and egf, cell
+death differ. 10 (2003) 345–355.
+[172] m. gullaud, r. delanoue, j. silber, a drosophila model to study the
+functions of twist orthologs in apoptosis and proliferation, cell death
+differ. 10 (2003) 641–651.
+[173] j. dupont, a.m. fernandez, c.a. glackin, l. helman, d. leroith,
+insulin-like growth factor 1 (igf-1)-induced twist expression is involved
+in the anti-apoptotic effects of the igf-1 receptor, j. biol. chem. 276
+(2001) 26699–26707.
+[174] j. trojanek, t. ho, l. del valle, m. nowicki, j.y. wang, a. lassak, f.
+peruzzi, k. khalili, t. skorski, k. reiss, role of the insulin-like growth factor
+i/insulin receptor substrate 1 axis in rad51 trafficking and dna repair by
+homologous recombination, mol. cell. biol. 23 (2003) 7510–7524.
+[175] l. shahrabani-gargir, t.k. pandita, h. werner, ataxia-telangiectasia
+mutated gene controls insulin-like growth factor
+receptor gene
+expression in a deoxyribonucleic acid damage response pathway via
+mechanisms involving zinc-finger transcription factors sp1 and wt1,
+endocrinology 145 (2004) 5679–5687.
+[176] g. bompard, c. puech, c. prebois, f. vignon, g. freiss, protein-tyrosine
+phosphatase ptpl1/fap-1 triggers apoptosis in human breast cancer
+cells, j. biol. chem. 277 (2002) 47861–47869.
+[177] d.a. buckley, a. cheng, p.a. kiely, m.l. tremblay, r. o'connor,
+regulation of insulin-like growth factor type i (igf-i) receptor kinase
+activity by protein tyrosine phosphatase 1b (ptp-1b) and enhanced igf-
+i-mediated suppression of apoptosis and motility in ptp-1b-deficient
+fibroblasts, mol. cell. biol. 22 (2002) 1998–2010.
+[178] r.j. levitt, m. pollak, insulin-like growth factor-i antagonizes the
+antiproliferative effects of cyclooxygenase-2 inhibitors on bxpc-3
+pancreatic cancer cells, cancer res. 62 (2002) 7372–7376.
+[179] m. pold, k. krysan, a. pold, m. dohadwala, n. heuze-vourc'h, j.t.
+mao, k.l. riedl, s. sharma, s.m. dubinett, cyclooxygenase-2
+modulates the insulin-like growth factor axis in non-small-cell lung
+cancer, cancer res. 64 (2004) 6549–6555.
+[180] j. zhong, j. deng, j. phan, s. dlouhy, h. wu, w. yao, p. ye, a.j. d'ercole,
+w.h. lee, insulin-like growth factor-i protects granule neurons from
+apoptosis and improves ataxia in weaver mice, j. neurosci. res. 80 (2005)
+481–490.
+[181] s.r. d'mello, c. galli, t. ciotti, p. calissano, induction of apoptosis in
+cerebellar granule neurons by low potassium: inhibition of death by
+insulin-like growth factor i and camp, proc. natl. acad. sci. u. s. a. 90
+(1993) 10989–10993.
+[182] p.c. chin, n. majdzadeh, s.r. d'mello, inhibition of gsk3beta is a
+common event in neuroprotection by different survival factors, brain res.
+mol. brain res. 137 (2005) 193–201.
+[183] c. galli, o. meucci, a. scorziello, t.m. werge, p. calissano, g.
+schettini, apoptosis in cerebellar granule cells is blocked by high kcl,
+forskolin, and igf-1 through distinct mechanisms of action:
+the
+involvement of intracellular calcium and rna synthesis, j. neurosci.
+15 (1995) 1172–1179.
+[184] h. dudek, s.r. datta, t.f. franke, m.j. birnbaum, r. yao, g.m. cooper, r.a.
+segal, d.r. kaplan, m.e. greenberg, regulation of neuronal survival by the
+serine-threonine protein kinase akt, science 275 (1997) 661–665.
+[185] l.a. blair, j. marshall, igf-1 modulates n and l calcium channels in a pi
+3-kinase-dependent manner, neuron 19 (1997) 421–429.
+[186] l.a. blair, k.k. bence-hanulec, s. mehta, t. franke, d. kaplan, j. marshall,
+akt-dependent potentiation of l channels by insulin-like growth factor-1 is
+required for neuronal survival, j. neurosci. 19 (1999) 1940–1951.
+[187] k.k. bence-hanulec, j. marshall, l.a. blair, potentiation of neuronal l
+calcium channels by igf-1 requires phosphorylation of the alpha1
+subunit on a specific tyrosine residue, neuron 27 (2000) 121–131.
+r.t. kurmasheva, p.j. houghton / biochimica et biophysica acta 1766 (2006) 1–22
+21
+[188] j. marshall, b.m. dolan, e.p. garcia, s. sathe, x. tang, z. mao, l.a.
+blair, calcium channel and nmda receptor activities differentially
+regulate nuclear c/ebpbeta levels to control neuronal survival, neuron
+39 (2003) 625–639.
+[189] b.d. butts, d.a. linseman, s.s. le, t.a. laessig, k.a. heidenreich,
+insulin-like growth factor-i suppresses degradation of the pro-survival
+transcription factor myocyte enhancer
+factor 2d (mef2d) during
+neuronal apoptosis, horm. metab. res. 35 (2003) 763–770.
+[190] v.c. russo, k. kobayashi, s. najdovska, n.l. baker, g.a. werther,
+neuronal protection from glucose deprivation via modulation of glucose
+transport and inhibition of apoptosis: a role for the insulin-like growth
+factor system, brain res. 1009 (2004) 40–53.
+[191] e.a. bohula, m.p. playford, v.m. macaulay, targeting the type 1 insulin-
+like growth factor receptor as anti-cancer treatment, anticancer drugs 14
+(2003) 669–682.
+[192] e. surmacz, growth factor receptors as therapeutic targets: strategies to
+inhibit the insulin-like growth factor i receptor, oncogene 22 (2003)
+6589–6597.
+[193] f. hofmann, c. garcia-echeverria, blocking the insulin-like growth
+factor-i receptor as a strategy for targeting cancer, drug discov. today 10
+(2005) 1041–1047.
+[194] y. wang, m. malkowski, j. hailey, t. turek-etienne, t. tripodi, j.a.
+pachter, screening for small mol.ecule inhibitors of insulin-like growth
+factor receptor (igf-1r) kinase: comparison of homogeneous time-
+resolved fluorescence and 33p-atp plate assay formats, j. exp. ther.
+oncol. 4 (2004) 111–119.
+[195] g.s. warshamana-greene, j. litz, e. buchdunger, c. garcia-echeverria, f.
+hofmann, g.w. krystal, the insulin-like growth factor-i receptor kinase
+inhibitor, nvp-adw742, sensitizes small cell lung cancer cell lines to the
+effects of chemotherapy, clin. cancer res. 11 (2005) 1563–1571.
+[196] g.s. warshamana-greene, j. litz, e. buchdunger, f. hofmann, c.
+garcia-echeverria, g.w. krystal, the insulin-like growth factor-i
+(igf-i) receptor kinase inhibitor nvp-adw742, in combination with
+sti571, delineates a spectrum of dependence of small cell
+lung
+cancer on igf-i and stem cell factor signaling, mol. cancer ther. 3
+(2004) 527–535.
+[197] y. wang, y. sun, insulin-like growth factor receptor-1 as an anti-cancer
+target: blocking transformation and inducing apoptosis, curr. cancer
+drug targets 2 (2002) 191–207.
+[198] c.s. mitsiades, n.s. mitsiades, c.j. mcmullan, v. poulaki, r. shringarpure,
+m. akiyama, t. hideshima, d. chauhan, m. joseph, t.a. libermann, c.
+garcia-echeverria, m.a. pearson, f. hofmann, k.c. anderson, a.l. kung,
+inhibition of the insulin-like growth factor receptor-1 tyrosine kinase
+activity as a therapeutic strategy for multiple myeloma, other hematologic
+malignancies, and solid tumors, cancer cell 5 (2004) 221–230.
+[199] m. hopfner, v. baradari, a. huether, c. schofl, h. scherubl, the insulin-
+like growth factor receptor 1 is a promising target for novel treatment
+approaches in neuroendocrine gastrointestinal tumours, endocr. relat.
+cancer 13 (2006) 135–149.
+[200] m. hopfner, a. huether, a.p. sutter, v. baradari, d. schuppan, h.
+scherubl, blockade of igf-1 receptor tyrosine kinase has antineoplastic
+effects in hepatocellular carcinoma cells, biochem. pharmacol. 71 (2006)
+1435–1448.
+[201] w.h. gotlieb, i. bruchim, j. gu, y. shi, a. camirand, m.j. blouin, y.
+zhao, m.n. pollak, insulin-like growth factor receptor i targeting in
+epithelial ovarian cancer, gynecol. oncol. 100 (2006) 389–396.
+[202] k. scotlandi, m.c. manara, g. nicoletti, p.l. lollini, s. lukas, s. benini,
+s. croci, s. perdichizzi, d. zambelli, m. serra, c. garcia-echeverria, f.
+hofmann, p. picci, antitumor activity of the insulin-like growth factor-i
+receptor kinase inhibitor nvp-aew541 in musculoskeletal
+tumors,
+cancer res. 65 (2005) 3868–3876.
+[203] c. garcia-echeverria, m.a. pearson, a. marti, t. meyer, j. mestan, j.
+zimmermann, j. gao, j. brueggen, h.g. capraro, r. cozens, d.b. evans,
+d. fabbro, p. furet, d.g. porta, j. liebetanz, g. martiny-baron, s. ruetz, f.
+hofmann, in vivo antitumor activity of nvp-aew541—a novel, potent,
+and selective inhibitor of the igf-ir kinase, cancer cell 5 (2004) 231–239.
+[204] d. sachdev, s.l. li, j.s. hartell, y. fujita-yamaguchi, j.s. miller, d. yee, a
+chimeric humanized single-chain antibody against the type i insulin-like
+growth factor (igf) receptor renders breast cancer cells refractory to the
+mitogenic effects of igf-i, cancer res. 63 (2003) 627–635.
+[205] j. hailey, e. maxwell, k. koukouras, w.r. bishop, j.a. pachter, y.
+wang, neutralizing anti-insulin-like growth factor receptor 1 antibodies
+inhibit receptor function and induce receptor degradation in tumor cells,
+mol. cancer ther. 1 (2002) 1349–1353.
+[206] e.k. maloney, j.l. mclaughlin, n.e. dagdigian, l.m. garrett, k.m.
+connors, x.m. zhou, w.a. blattler, t. chittenden, r. singh, an anti-
+insulin-like growth factor i receptor antibody that is a potent inhibitor of
+cancer cell proliferation, cancer res. 63 (2003) 5073–5083.
+[207] j.d. wu, a. odman, l.m. higgins, k. haugk, r. vessella, d.l. ludwig,
+s.r. plymate, in vivo effects of the human type i insulin-like growth
+factor receptor antibody a12 on androgen-dependent and androgen-
+independent xenograft human prostate tumors, clin. cancer res. 11
+(2005) 3065–3074.
+[208] l. goetsch, a. gonzalez, o. leger, a. beck, p.j. pauwels, j.f. haeuw, n.
+corvaia, a recombinant humanized anti-insulin-like growth factor
+receptor type i antibody (h7c10) enhances the antitumor activity of
+vinorelbine and anti-epidermal growth factor receptor therapy against
+human cancer xenografts, int. j. cancer 113 (2005) 316–328.
+[209] m. goya, s. miyamoto, k. nagai, y. ohki, k. nakamura, k. shitara, h.
+maeda, t. sangai, k. kodama, y. endoh, g. ishii, t. hasebe, h. yonou,
+t. hatano, y. ogawa, a. ochiai, growth inhibition of human prostate
+cancer cells in human adult bone implanted into nonobese diabetic/severe
+combined immunodeficient mice by a ligand-specific antibody to human
+insulin-like growth factors, cancer res. 64 (2004) 6252–6258.
+[210] p.g. jackson-booth, c. terry, b. lackey, m. lopaczynska, p. nissley,
+inhibition of the biologic response to insulin-like growth factor i in mcf-
+7 breast cancer cells by a new monoclonal antibody to the insulin-like
+growth factor-i receptor. the importance of receptor down-regulation,
+horm. metab. res. 35 (2003) 850–856.
+[211] d. burtrum, z. zhu, d. lu, d.m. anderson, m. prewett, d.s. pereira, r.
+bassi, r. abdullah, a.t. hooper, h. koo, x. jimenez, d. johnson, r.
+apblett, p. kussie, p. bohlen, l. witte, d.j. hicklin, d.l. ludwig, a fully
+human monoclonal antibody to the insulin-like growth factor i receptor
+blocks ligand-dependent signaling and inhibits human tumor growth in
+vivo, cancer res. 63 (2003) 8912–8921.
+[212] p. dent, s.i. han, c. mitchell, e. studer, a. yacoub, j. grandis, s. grant,
+g.w. krystal, p.b. hylemon, inhibition of
+insulin/igf-1 receptor
+signaling enhances bile acid toxicity in primary hepatocytes, biochem.
+pharmacol. 70 (2005) 1685–1696.
+[213] p.j. houghton, g.s. germain, f.c. harwood, j.d. schuetz, c.f. stewart,
+e. buchdunger, p. traxler, imatinib mesylate is a potent inhibitor of the
+abcg2 (bcrp) transporter and reverses resistance to topotecan and sn-
+38 in vitro, cancer res. 64 (2004) 2333–2337.
+[214] c. erlichman, s.a. boerner, c.g. hallgren, r. spieker, x.y. wang, c.d.
+james, g.l. scheffer, m. maliepaard, d.d. ross, k.c. bible, s.h.
+kaufmann, the her tyrosine kinase inhibitor ci1033 enhances
+cytotoxicity of 7-ethyl-10-hydroxycamptothecin and topotecan by
+inhibiting breast cancer resistance protein-mediated drug efflux, cancer
+res. 61 (2001) 739–748.
+[215] c.f. stewart, m. leggas, j.d. schuetz, j.c. panetta, p.j. cheshire, j.
+peterson, n. daw, j.j. jenkins iii, r. gilbertson, g.s. germain, f.c.
+harwood, p.j. houghton, gefitinib enhances the antitumor activity and oral
+bioavailability of irinotecan in mice, cancer res. 64 (2004) 7491–7499.
+[216] m. leggas, j.c. panetta, y. zhuang, j.d. schuetz, b. johnston, f. bai, b.
+sorrentino, s. zhou, p.j. houghton, c.f. stewart, gefitinib modulates the
+function of multiple atp-binding cassette transporters in vivo, cancer
+res. 66 (2006) 4802–4807.
+[217] j.j. ye, s.j. liang, n. guo, s.l. li, a.m. wu, s. giannini, d. sachdev, d.
+yee, n. brunner, d. ikle, y. fujita-yamaguchi, combined effects of
+tamoxifen and a chimeric humanized single chain antibody against the
+type i igf receptor on breast tumor growth in vivo, horm. metab. res. 35
+(2003) 836–842.
+[218] y. lu, x. zi, y. zhao, d. mascarenhas, m. pollak, insulin-like growth
+factor-i receptor signaling and resistance to trastuzumab (herceptin),
+j. natl. cancer inst. 93 (2001) 1852–1857.
+[219] y. lu, x. zi, m. pollak, molecular mechanisms underlying igf-i-induced
+22
+r.t. kurmasheva, p.j. houghton / biochimica et biophysica acta 1766 (2006) 1–22
+attenuation of the growth-inhibitory activity of trastuzumab (herceptin) on
+skbr3 breast cancer cells, int. j. cancer 108 (2004) 334–341.
+[220] a. camirand, y. lu, m. pollak, co-targeting her2/erbb2 and insulin-
+like growth factor-1 receptors causes synergistic inhibition of growth in
+her2-overexpressing breast cancer cells, med. sci. monit. 8 (2002)
+br521–br526.
+[221] r. nahta, l.x. yuan, b. zhang, r. kobayashi, f.j. esteva, insulin-like
+growth factor-i receptor/human epidermal growth factor receptor 2
+heterodimerization contributes to trastuzumab resistance of breast cancer
+cells, cancer res. 65 (2005) 11118–11128.
+[222] d. lu, h. zhang, d. ludwig, a. persaud, x. jimenez, d. burtrum, p.
+balderes, m. liu, p. bohlen, l. witte, z. zhu, simultaneous blockade
+of both the epidermal growth factor receptor and the insulin-like
+growth factor receptor signaling pathways in cancer cells with a fully
+human recombinant bispecific antibody, j. biol. chem. 279 (2004)
+2856–2865.
+[223] y. feng, z. zhu, x. xiao, v. choudhry, j.c. barrett, d.s. dimitrov, novel
+human monoclonal antibodies to insulin-like growth factor (igf)-ii that
+potently inhibit the igf receptor type i signal transduction function, mol.
+cancer ther. 5 (2006) 114–120.

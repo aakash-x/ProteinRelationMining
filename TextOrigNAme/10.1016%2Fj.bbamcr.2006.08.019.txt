@@ -1,0 +1,1407 @@
+biochimica et biophysica acta 1763 (2006) 1463 – 1477
+www.elsevier.com/locate/bbamcr
+review
+metabolic functions of glycosomes in trypanosomatids
+paul a.m. michels a,⁎, frédéric bringaud b, murielle herman a, véronique hannaert a
+a research unit for tropical diseases, christian de duve institute of cellular pathology and laboratory of biochemistry,
+université catholique de louvain, icp-trop 74.39, avenue hippocrate 74, b-1200 brussels, belgium
+b laboratoire de génomique fonctionnelle des trypanosomatides, université victor segalen bordeaux 2, umr-5162 cnrs,
+146 rue léo saignat, 33076 bordeaux cedex, france
+received 30 april 2006; received in revised form 17 august 2006; accepted 18 august 2006
+available online 24 august 2006
+abstract
+protozoan kinetoplastida, including the pathogenic trypanosomatids of the genera trypanosoma and leishmania, compartmentalize several
+important metabolic systems in their peroxisomes which are designated glycosomes. the enzymatic content of these organelles may vary
+considerably during the life-cycle of most trypanosomatid parasites which often are transmitted between their mammalian hosts by insects. the
+glycosomes of the trypanosoma brucei form living in the mammalian bloodstream display the highest level of specialization; 90% of their protein
+content is made up of glycolytic enzymes. the compartmentation of glycolysis in these organelles appears essential for the regulation of this
+process and enables the cells to overcome short periods of anaerobiosis. glycosomes of all other trypanosomatid forms studied contain an
+extended glycolytic pathway catalyzing the aerobic fermentation of glucose to succinate. in addition, these organelles contain enzymes for several
+other processes such as the pentose-phosphate pathway, β-oxidation of fatty acids, purine salvage, and biosynthetic pathways for pyrimidines,
+ether-lipids and squalenes. the enzymatic content of glycosomes is rapidly changed during differentiation of mammalian bloodstream-form
+trypanosomes to the forms living in the insect midgut. autophagy appears to play an important role in trypanosomatid differentiation, and several
+lines of evidence indicate that it is then also involved in the degradation of old glycosomes, while a population of new organelles containing
+different enzymes is synthesized. the compartmentation of environment-sensitive parts of the metabolic network within glycosomes would,
+through this way of organelle renewal, enable the parasites to adapt rapidly and efficiently to the new conditions.
+© 2006 elsevier b.v. all rights reserved.
+keywords: trypanosome; glycosome; glycolysis; differentiation; metabolic adaptation; organelle turnover
+1. introduction
+glycosomes were initially discovered in trypanosoma
+brucei [1], the parasite that causes human african sleeping
+sickness. these organelles appeared to contain most of the
+glycolytic enzymes, hence their designation as glycosomes.
+compartmentation of glycolysis within organelles is unique; in
+abbreviations: atg, autophagy-related gene; gly3p, glycerol 3-phosphate;
+dhap, dihydroxyacetone phosphate; fh, fumarase; frd, fumarate reductase;
+gat, glycosomal abc transporter; gpo, glycerol-3-phosphate oxidase; hxk,
+hexokinase; mcf, mitochondrial carrier family; pat, peroxisomal abc
+transporter; pep, phosphoenolpyruvate; pepck, pep carboxykinase; pgk,
+phosphoglycerate kinase; pfk, phosphofructokinase; ppdk, pyruvate phos-
+phate dikinase; pts, peroxisome-targeting signal; pyk, pyruvate kinase; tao,
+trypanosome alternative oxidase; tca, tricarboxylic acid
+⁎ corresponding author. tel.: +32 2 764 74 73; fax: +32 2 762 68 53.
+e-mail address: michels@bchm.ucl.ac.be (p.a.m. michels).
+0167-4889/$ - see front matter © 2006 elsevier b.v. all rights reserved.
+doi:10.1016/j.bbamcr.2006.08.019
+other organisms this metabolic process is essentially cytosolic.
+glycosomes were subsequently also found in related protozoa
+(reviewed in [2–7]), all belonging to the kinetoplastida, a group
+that also comprises other parasites causing serious tropical
+diseases in humans such as trypanosoma cruzi and a variety of
+leishmania species, as well as parasites of other vertebrates,
+invertebrates and plants, and free-living organisms. these
+organelles belong to the peroxisome family, although initially
+some doubt existed about this affiliation because of the absence
+of catalase, the hallmark peroxisomal enzyme, from trypano-
+soma and leishmania glycosomes and the almost exclusively
+glycolytic role of
+the organelles in t. brucei; glycolytic
+enzymes comprise up to 90% of the glycosomal protein content
+when these parasites live in the mammalian bloodstream. yet,
+like peroxisomes, these organelles are bounded by a single
+phospholipid bilayer, contain no dna and catalase could be
+detected in glycosomes of some other kinetoplastids. also
+1464
+p.a.m. michels et al. / biochimica et biophysica acta 1763 (2006) 1463–1477
+in
+enzymes of ether-lipid metabolism are often present
+glycosomes [8,9], although not in those of bloodstream-form
+t. brucei. furthermore, subsequent research showed that the
+biogenesis of glycosomes occurs along similar routes as that of
+peroxisomes, and involves homologous proteins (peroxins)
+(reviewed in [7]), and more recent biochemical studies as well
+as genomic and proteomic analyses revealed more similarities at
+the metabolic level between glycosomes and other members of
+the peroxisome family (see below, sections 5, 6 and 7).
+2. glycosomes during the life-cycle of trypanosomatids
+many kinetoplastida have a complicated life-cycle [10,11].
+this holds particularly true for the best-studied kinetoplastid
+organisms, the parasites belonging to the genera trypanosoma
+and leishmania. these organisms are transmitted between their
+mammalian hosts by insects. both in the mammal and the
+insect, they often transit through different parts of the body,
+each time being exposed to highly different environmental
+conditions. most transitions involve the cellular differentiation
+of the parasite enabling it to adapt to the new environment
+encountered, or to prepare itself for the next one. for example,
+t. brucei is introduced into the mammalian bloodstream by the
+bite of a tsetse fly. there it finds a largely constant, glucose-rich
+environment, allowing it to proliferate rapidly while producing
+all its atp by a high rate of aerobic glycolysis or, at places
+where the oxygen level
+is low, by anaerobic glycolysis.
+sequestering of the major part of the glycolytic pathway inside
+glycosomes has been shown essential for glycolysis, atp
+production and growth of these bloodstream-form trypano-
+somes [12–14], and provides them with a unique mechanism
+for quickly switching from aerobic to anaerobic glycolysis (see
+section 3) [1,15,16]. this mechanism allows the trypanosomes
+to overcome short periods of anaerobiosis, although it does not
+enable them to synthesize sufficient atp for sustaining growth
+[17]. mitochondrial systems such as the tricarboxylic acid
+(tca) cycle, respiratory chain and the oxidative phosphoryla-
+tion machinery are largely repressed at this stage of the life-
+cycle (reviewed in [3,18–20]). such glycolysis-dependent,
+long-slender trypanosomes are not prepared for life in the insect
+midgut, where the concentration of sugars is usually very low
+and that of amino acids, notably proline and threonine high;
+therefore, they quickly die when ingested by a next fly taking a
+meal. however, in the bloodstream the long-slender forms may
+differentiate into short-stumpy trypanosomes which are still
+glycolysis-dependent but have a partially de-repressed mito-
+chondrial system, allowing them to survive in the insect midgut.
+upon ingestion, these short-stumpy trypanosomes differentiate
+rapidly into so-called procyclic forms with a much more
+elaborate mitochondrial system, and also a considerably
+different, more extensive glycosomal metabolic network (see
+sections 4 and 5). in a period of 2–3 weeks, the trypanosomes
+move from the midgut, via the foregut and proboscis to the
+salivary glands, while undergoing additional differentiation
+steps resulting in morphologically distinct forms [21] which so
+far have not yet been metabolically characterized. it is likely
+that the metabolic repertoire of the glycosomes varies with the
+different environments encountered by each of these differen-
+tiated forms. the mammalian-infective metacyclic form, that
+finally develops in the salivary glands, is prepared again for an
+exclusively glycolytic metabolism in the mammalian blood.
+in contrast
+to t. brucei, which resides extracellularly
+throughout
+its life-cycle, t. cruzi and leishmania species
+have additional, intracellular stages in their mammalian hosts:
+t. cruzi in the cytosol of various tissues, leishmania in the
+lysosomes of macrophages. consequently, their metabolism has
+to be able to rely also on the nutrients available in these highly
+specific environments, with consequences for the adaptability
+of their metabolism. moreover, these parasites are transmitted
+by different insects (triatomine bugs and sand flies, respective-
+ly) and follow also different tracks within the insect vector. a
+need for metabolic adaptability to cope with different environ-
+ments is possibly also important for each of the many other,
+biochemically less well-characterized kinetoplastids irrespec-
+tive whether they infect one or more specific hosts or are free
+living. as will be argued below, glycosomes are likely to play
+an important role in the metabolic adaptation to each of the
+environments to which kinetoplastid organisms are exposed.
+3. compartmentation of glycolysis in glycosomes in
+bloodstream-form t. brucei
+when parasitizing the mammalian bloodstream, the african
+trypanosome t. brucei is, for its free-energy needs, totally
+dependent on a continuous supply of glucose present in the
+blood and body fluids of its host. all atp synthesized by this
+organism comes from the conversion of glucose into pyruvate,
+the end-product of trypanosome glycolysis in this vertebrate
+stage. the seven enzymes involved in the conversion of glucose
+into 3-phosphoglycerate are present inside the glycosome, while
+those catalyzing the last part of the pathway are localized in the
+cytosol (fig. 1) [1]. the pyruvate is excreted into the host's
+bloodstream. within the glycosome, consumption and produc-
+tion of atp and nadh by glycolysis are balanced:
+the
+intraglycosomal consumption of atp by hexokinase (hxk)
+and phosphofructokinase (pfk) is compensated by the atp
+production by phosphoglycerate kinase (pgk). net atp
+formation occurs in the cytosol, in the reaction catalyzed by
+pyruvate kinase (pyk). similarly,
+the glycosomal nadh
+resulting from the reaction catalyzed by glyceraldehyde-3-
+phosphate dehydrogenase is re-oxidized inside the organelle
+followed by the transfer of
+the electrons to o2 via a
+mitochondrial glycerol-3-phosphate oxidase (gpo). this pro-
+cess involves a glycosomal nadh-dependent glycerol-3-
+phosphate dehydrogenase, a putative transporter (‘shuttle’) in
+the glycosomal membrane which exchanges glycerol 3-
+phosphate (gly3p) for dihydroxyacetone phosphate (dhap),
+and the mitochondrial gpo. the gpo is in fact a system
+comprising an fad-linked glycerol-3-phosphate dehydrogen-
+ase that is most likely associated with the outer surface of the
+mitochondrial
+inner membrane, ubiquinone and a terminal
+oxidase, known as the trypanosome alternative oxidase (tao).
+this respiratory process seems not to be involved in free-energy
+transduction. the tao is insensitive to cyanide, but can be
+p.a.m. michels et al. / biochimica et biophysica acta 1763 (2006) 1463–1477
+1465
+fig. 1. schematic representation of glycolysis in the bloodstream-form of t. brucei. under aerobic conditions, glucose is converted into pyruvate. under anaerobic
+conditions equimolar amounts of glycerol and pyruvate are produced. abbreviations: 1,3bpga, 1,3-bisphosphoglycerate; dhap, dihydroxyacetone phosphate; f-6-p,
+fructose 6-phosphate; fbp, fructose 1,6-bisphosphate; g-3-p, glyceraldehyde 3-phosphate; g-6-p, glucose 6-phosphate; gly-3-p, glycerol 3-phosphate; pep,
+phosphoenolpyruvate; 3-pga, 3-phosphoglycerate; pi, inorganic phosphate; uq, ubiquinone pool. enzymes are: 1, hexokinase: 2, glucose-6-phosphate isomerase; 3,
+phosphofructokinase; 4, aldolase; 5,
+triosephosphate isomerase; 6, glycerol-3-phosphate dehydrogenase; 7, glycerol kinase; 8, glyceraldehyde-3-phosphate
+dehydrogenase; 9, glycosomal phosphoglycerate kinase; 10, phosphoglycerate mutase; 11, enolase; 12, pyruvate kinase; 13, fad-dependent glycerol-3-phosphate
+dehydrogenase; 14, alternative oxidase.
+inhibited by salicylhydroxamic acid. inhibition of tao mimics
+the effect of a lack of oxygen on carbohydrate metabolism of the
+bloodstream form. under these conditions, nad+ is regenerated
+by the reduction of dhap to gly3p, followed by the formation
+of glycerol that is excreted by the organism. this is achieved by
+reversal of the glycerol kinase reaction,
+thus synthesizing
+glycerol and atp from gly3p and adp [1,15,16]. however, this
+reverse reaction is thermodynamically unfavourable and only
+feasible by mass action at high gly3p concentration and a high
+adp/atp ratio, conditions that are difficult to attain in an entire
+cell but may occur in a small, closed compartment. by this
+reverse reaction, the atp/adp balance within the glycosomes is
+maintained; the atp formed in the glycerol kinase reaction
+compensates for the loss of one molecule of atp in the pgk
+reaction, because now one molecule of 3-phosphoglycerate,
+rather than two, is produced per molecule of glucose consumed.
+as a consequence, glucose is dismutated into equimolar
+amounts of pyruvate and glycerol, with net synthesis of only
+one molecule of atp.
+the regulation of glycolysis in trypanosomes differs largely
+from that of other organisms. there is an apparent lack of
+activity regulation of the glycolytic enzymes hxk and pfk
+[22–24]. in most organisms, the activities of these two key
+enzymes are highly regulated by their products, by metabolites
+further downstream in the metabolism or by other (allosteric)
+effectors [25]. this regulation serves two purposes. first, it
+prevents the loss of atp by futile cycling when glycolysis and
+it has been
+gluconeogenesis occur simultaneously. second,
+1466
+p.a.m. michels et al. / biochimica et biophysica acta 1763 (2006) 1463–1477
+argued, and experimentally confirmed by using saccharomyces
+cerevisiae mutants, that the ‘turbo design’ of glycolysis requires
+a tight regulation of the first steps of glycolysis [26]. indeed,
+absence of regulation may lead to unrestricted accumulation of
+glycolytic intermediates, a situation that will be highly toxic for
+the cell.
+proper compartmentation of glycolytic enzymes inside
+glycosomes and possession of intact organelles are essential
+for the survival of bloodstream-form t. brucei. indeed, several
+experiments have provided evidence that mislocalization of
+glycolytic enzymes is deleterious for the parasite. trypano-
+somes contain two major isoenzymes of pgk located in
+different compartments of the cell: one (pgkg), present in
+glycosomes, is only expressed in the mammalian bloodstream-
+form parasites, while a cytosolic enzyme (pgkc) operates
+predominantly in procyclic trypanosomes [27,28]. blood-
+stream-form trypanosomes were rapidly killed when, from an
+additional ectopic gene, pgkc or a truncated form of pgkg
+without the glycosome-targeting signal (pts1) was expressed
+[29]. expression of an inactive pgkc had no effect, indicating
+that the toxicity depends both on enzyme activity and cytosolic
+location. similar growth inhibition has been observed after
+transfection of bloodstream-form t. brucei with the gene of s.
+cerevisiae triosephosphate isomerase expressed as a cytosolic
+enzyme [17]. furthermore, partial relocation of glycosomal
+matrix proteins to the cytosol upon depletion of peroxins pex2,
+6, 10, 12 or 14 by rna interference (rnai) readily killed
+bloodstream-form cells [13,14,30,31].
+to understand why the presence of a glycolytic enzyme in
+the wrong compartment is detrimental for trypanosomes, one
+has to know the function or consequences of this form of
+metabolic compartmentation. to this aim, a mathematical
+model of glycolysis in bloodstream-form t. brucei was
+developed on the basis of kinetic data as determined for the
+different glycolytic enzymes [32]. one question addressed was
+how the functional behaviour of trypanosome glycolysis would
+change if
+the pathway were not compartmentalized [12].
+according to the computer model this would not significantly
+affect the steady-state glycolytic flux. but, strikingly, it will
+lead to toxic accumulation of hexose-phosphates upon addition
+of glucose. such toxic accumulation is prevented by
+compartmentation, since the kinases at the beginning of the
+pathway respond to the glycosomal atp/adp ratio, not the
+cytosolic one. the glycosomal atp/adp ratio, which,
+according to the computer model, is usually low, controls the
+activity of hxk and pfk and maintains the concentration of
+the hexose-phosphates constrained within a narrow range. if
+the enzymes would sense the higher cytosolic atp/adp ratio,
+their activity would not be restrained and the intermediates
+would accumulate. therefore, the computer analysis suggested
+that
+the glycolytic pathway within a
+membrane that is poorly permeable for solutes is essential for
+the parasite, because it compensates for the lack of activity
+regulation of its enzymes. indeed, experimental data have been
+obtained to support
+the notion that compartmentation of
+glycolysis serves such a regulatory function and will be
+presented in section 4.
+the sequestering of
+4. glycosomes and energy metabolism in insect-stage
+t. brucei and other trypanosomatids
+during its journey through the tsetse fly, t. brucei undergoes
+to each new
+several differentiation steps, adapting itself
+environment encountered. the procyclic form living in the
+midgut is, with the bloodstream form, the only one that so far
+could be axenically cultured and has thus been made amenable
+to biochemical investigations. also the promastigote leishma-
+nia spp. and epimastigote t. cruzi, which propagate in the
+midgut of their respective insect vectors, are commonly studied
+in laboratories. although the metabolic networks, both within
+the glycosomes and the fully developed mitochondrion, of all
+these insect-stage trypanosomatids seem very similar, most of
+the recent data regarding glycosomes and energy metabolism
+pertain to procyclic trypanosomes, since gene silencing by
+rnai could be extensively used in t. brucei [33,34], but failed
+to be functional in the other parasites [35,36].
+when grown in commonly used glucose-rich media,
+procyclic t. brucei and epimastigote t. cruzi primarily use the
+glucose as carbon source [37,38], whereas amino acids
+(including l-proline) are the main energy source present in
+their insect vector [39]. in glucose-depleted medium, however,
+procyclic trypanosomes considerably increase the rate of l-
+proline consumption (6-fold), indicating that it is the major
+carbon source used by the parasite in its natural environment
+and glucose, when present, exerts a negative control on l-
+proline metabolism [40]. glucose is catabolized in the
+glycosomes, as described above for the bloodstream-form
+trypanosome (see section 3), whereas l-proline degradation
+takes place in the mitochondrion. glycolysis appeared dispens-
+able, since procyclics of several strains have been successfully
+adapted to glucose-depleted media with no significant effect on
+growth rate [40,41]. interesting is the non-essential role of
+glycosomes in procyclic trypanosomes grown in glucose-
+depleted media, as exemplified by the analysis of a pex14
+knock-down mutant [14]. procyclic trypanosomes were killed
+by rnai-dependent depletion of pex14 only when glucose
+was present, suggesting that glycosomes are only essential to
+compartmentalize a functional glycolytic pathway. this obser-
+vation strengthens the hypothesis that glycosomes serve to
+prevent the dangerous effect of the turbo design of glycolysis
+[12,26]
+this
+hypothesis was provided by the observation that rnai-
+mediated knockdown of hxk rescued procyclic cells from
+glucose toxicity, even though glycosomal proteins were
+mislocalized to the cytosol [42].
+(see section 3). experimental support
+for
+the extensive tracheal system of insects renders all organs
+and tissues, including the digestive tractus, highly aerobic [43].
+consequently,
+insect parasites have developed an aerobic
+metabolism, exemplified by the presence of two distinct mito-
+chondrial terminal oxidases (the cyanide-sensitive cytochrome
+oxidase and the salicylhydroxamic acid-sensitive tao), both
+using oxygen as electron sink. indeed, the midgut trypanoso-
+matids cannot adapt
+to long-term growth under anaerobic
+conditions and go into reversible or irreversible metabolic arrest
+during anoxia [44–46]. although they are dependent on oxygen
+p.a.m. michels et al. / biochimica et biophysica acta 1763 (2006) 1463–1477
+1467
+for proliferation, the insect-stage trypanosomatids developed a
+fermentative-like metabolism, since glucose (and l-proline) is
+converted into partially oxidized end-products (succinate,
+acetate,
+lactate, ethanol and/or glycerol, depending on the
+species) by so-called aerobic fermentation [47].
+in these insect-stage trypanosomes too, glucose is essentially
+metabolized inside the glycosomes (fig. 2), but with three main
+differences compared with the bloodstream form of the parasite
+(for recent reviews see [5,18–20]). first, pgk is present in the
+cytosol and, therefore, 3-phosphoglycerate is produced in this
+compartment [27]. second, phosphoenolpyruvate (pep) pro-
+duced in the cytosol forms a metabolic branching point and is
+the substrate for two glycosomal kinases, i.e., pep carbox-
+ykinase (pepck) and pyruvate phosphate dikinase (ppdk)
+[48–50]. the pep-co2 condensation catalyzed by pepck is
+the initial step to the production,
+inside glycosomes, of
+succinate, a major end-product excreted by most trypanosoma-
+tids [20,46,47,51,52]. third, instead of being the final end-
+product, pyruvate is further converted into acetate, lactate and l-
+alanine in the mitochondrion and/or the cytosol [46,51,53,54].
+the two former changes imply that the mechanism by with the
+redox potential and atp/adp ratio are balanced within
+glycosomes of procyclic trypanosomes differs from that in the
+bloodstream form of t. brucei.
+the production of succinate from pep involves two
+glycosomal nadh-dependent oxido-reductases, malate dehy-
+drogenase and fumarate reductase (frdg) [49,51], which
+provide a means for the re-oxidation of nadh produced in
+fig. 2. schematic representation of glucose metabolism in the procyclic form of t. brucei. excreted end products of glucose metabolism (acetate, l-alanine, glycerol,
+l-lactate, succinate and co2) are in white characters on a black background. arrows with different thicknesses tentatively represent the metabolic flux at each
+enzymatic step. dashed arrows indicate steps which are supposed to occur at a background level or not at all. the mitochondrial outer membrane is permeable to
+metabolites and is only shown in the vicinity of the schematic electron-transport chain. abbreviations: aa, amino acid; 1,3bpga, 1,3-bisphosphoglycerate; c,
+cytochrome c; coash, coenzyme a; dhap, dihydroxyacetone phosphate; f-6-p, fructose 6-phosphate; fbp, fructose 1,6-bisphosphate; g-3-p, glyceraldehyde 3-
+phosphate; g-6-p, glucose 6-phosphate; gly-3-p, glycerol 3-phosphate; oa, 2-oxoacid; pep, phosphoenolpyruvate; 3-pga, 3-phosphoglycerate; pi, inorganic
+phosphate; ppi, inorganic pyrophosphate; succoa, succinyl-coa; uq, ubiquinone pool. enzymes are: 1, hexokinase: 2, glucose-6-phosphate isomerase; 3,
+phosphofructokinase; 4, aldolase; 5,
+triosephosphate isomerase; 6, glycerol-3-phosphate dehydrogenase; 7, glycerol kinase; 8, glyceraldehyde-3-phosphate
+dehydrogenase; 9, glycosomal phosphoglycerate kinase; 10, cytosolic phosphoglycerate kinase; 11, phosphoglycerate mutase; 12, enolase; 13, pyruvate kinase; 14,
+phosphoenolpyruvate carboxykinase; 15, pyruvate phosphate dikinase; 16, glycosomal malate dehydrogenase; 17, cytosolic (and glycosomal) fumarase (fhc); 18,
+glycosomal nadh-dependent fumarate reductase; 19, mitochondrial fumarase (fhm); 20, mitochondrial nadh-dependent fumarate reductase; 21, glycosomal
+adenylate kinase; 22, malic enzyme; 23, unknown enzyme; 24, alanine aminotransferase; 25, pyruvate dehydrogenase complex; 26, acetate:succinate coa-transferase;
+27, unknown enzyme; 28, succinyl-coa synthetase; 29, fad-dependent glycerol-3-phosphate dehydrogenase; 30, rotenone-insensitive nadh dehydrogenase; 31,
+alternative oxidase; 32, f0f1-atp synthase; i, ii, iii and iv, complexes of the respiratory chain.
+1468
+p.a.m. michels et al. / biochimica et biophysica acta 1763 (2006) 1463–1477
+the organelle by the glycolytic glyceraldehyde-3-phosphate
+dehydrogenase. theoretically,
+two nadh molecules are
+consumed per molecule of succinate produced for a single
+nadh molecule produced per molecule of pep synthesized
+from glucose, implying that only half of pep produced in the
+cytosol needs to be re-routed to the organelle and converted into
+succinate in order to balance the nadh/nad+ ratio. however,
+the fraction of pep metabolized in the glycosome is
+significantly higher than expected, since approximately 70%
+of the glucose consumed is converted into succinate [51,55].
+this apparent discrepancy probably results from the existence
+of a second succinate production pathway,
+located in the
+mitochondrion, fed by malate produced in the glycosomes (fig.
+2), which accounts for 14–44% of succinate produced from the
+glucose metabolism [52]. for each succinate molecule produced
+in the mitochondrion, a single nadh molecule is formed in the
+glycosomes, instead of two. assuming that the glycosomal
+succinic fermentation is sufficient for maintaining the glycoso-
+mal redox balance, the gly3p/dhap shuttle described for the
+bloodstream-form t. brucei seems a superfluous pathway in the
+procyclic cells. however, also this insect form of the parasite
+expresses a functional shuttle, providing additional metabolic
+flexibility that may be beneficial under particular growth
+conditions [56]. this is exemplified by the observation that
+rnai-dependent depletion of the glycosomal frd activity
+does not affect growth rate while glucose is still consumed,
+albeit at a reduced level, suggesting that an alternative way
+(possibly the gly3p/dhap shuttle) is used by this mutant to
+substitute for nadh oxidation by frdg [51].
+surprisingly, the glycosomal succinic fermentation pathway
+may make a detour to the cytosolic compartment (fig. 2). two
+class i fumarases, respectively located in the cytosol (fhc) and
+the mitochondrion (fhm), have recently been identified,
+suggesting the absence of fumarase in the glycosomes [57].
+indeed, a recent proteomic analysis of glycosomes isolated
+from procyclic trypanosomes did not reveal a fumarase [58],
+but contrasts with the previous detection of significant fh
+activity in glycosomal fractions of procyclic trypanosomes
+[51]. these contradictory data may be correlated to the
+presence of a cryptic pts1 at the c-terminal extremity of t.
+brucei fhc (aklv). one could imagine that this cryptic pts1
+becomes functional after a form of decrypting (by the activity
+of a carboxypeptidase) dependent on environmental condi-
+tions. a similar cryptic pts1 is present at
+the c-terminal
+extremity of the orthologous t. cruzi fh (skll), whereas a
+somewhat different sequence is found in the l. major enzyme
+(sktla). in the latter case, but also for the trypanosoma
+species, alternative possibilities to explain the dual localization
+are the existence of non-consensus targeting sequences or
+piggy-back transport as discussed in more detail elsewhere [7].
+nonetheless, whatever the import signal and mechanism, the
+variability in the dual localization suggests a regulation of the
+import process. the unexpected cytosolic location of fhc may
+be attributed to the requirement of fumarate (instead of nad+)
+as electron acceptor for the cytosolic dihydroorotate dehydro-
+genase, an essential enzyme of de novo pyrimidine biosyn-
+thesis [59,60].
+the relocation of pgk to the cytosol of trypanosomes when
+they differentiate from bloodstream to procyclic forms results
+from the expression of a different isoenzyme, pgkc instead of
+pgkg. this change has been interpreted in relation to the
+necessity to balance the atp production and consumption
+inside the glycosomes: in procyclics the phosphorylation of the
+glycolytically produced adp would be performed by pepck
+during the glycosomal succinic fermentation. however, the
+conversion of a significant part of pep into pyruvate by the
+cytosolic pyk implies that the pepck reaction would not
+contribute sufficiently to maintaining the glycosomal atp/adp
+balance. consequently, at
+least another glycosomal atp-
+producing step is required to complete the metabolic scheme.
+this function may be fulfilled by a constitutively expressed
+third pgk isoform, the glycosomal pgka [27,28,61,62]. the
+dual localization of pgk activity (pgka and pgkc) may help
+to maintain the atp balance inside the glycosomes of procyclic
+trypanosomes by altering the ratio of the fluxes from 1,3-
+bisphosphoglycerate to 3-phosphoglycerate via the two differ-
+ent routes (fig. 2). however, the contribution by pgka to
+glycosomal atp production is debated, since its relative amount
+is very low compared to the other isoforms in t. brucei, it has a
+low specific activity, and its activity is not detectable in
+glycosomal fractions of procyclic trypanosomes ([48], and fb,
+unpublished data). the alternative of glycosomal atp produc-
+tion by glycerol kinase is thermodynamically unfavoured, and
+thus unlikely, and indeed the procyclic form does not excrete
+significant amounts of glycerol when grown under standard
+conditions [46,47,51]. ppdk is another glycosomal atp-
+producing enzyme, which utilizes pep, amp and ppi
+to
+produce pyruvate, atp and pi [50,63]. this ppi-dependent
+enzyme was proposed to substitute for pyrophosphatase in order
+to hydrolyze the ppi produced in the glycosomes by
+biosynthetic pathways (see section 5) which would otherwise
+be inhibited [4,5,50,63]. this hypothesis implies that the rate of
+atp production by ppdk depends on the flux of
+the
+glycosomal ppi-generating pathways, which should be signif-
+icantly lower than the catabolic flux of glucose. consequently,
+the ppdk activity is probably not sufficient to maintain the
+glycosomal atp/adp balance, as confirmed experimentally,
+since the viability and glucose metabolism are not affected by
+ppdk gene knockout
+[38]. alternatively, atp could be
+imported from outside the glycosomes, similar as reported for
+peroxisomes, where the yeast ant1p and human pmp34
+nucleotide transporters are involved in the exchange of amp-
+adp and atp across the membrane, to provide intraperox-
+isomal atp for β-oxidation or activation of fatty acids,
+respectively [64,65]. indeed, the recent proteomic analysis of
+glycosomes from procyclic trypanosomes identified a protein
+homologous to mitochondrial atp/adp carriers, but a
+mitochondrial contamination of the glycosomal-enriched frac-
+tion cannot be excluded [58]. the presence of several atp-
+producing pathways in addition to a putative nucleotide
+transporter may provide an important metabolic flexibility for
+adaptation to rapid environmental changes. however, questions
+remain as to how the glycosomal atp/adp balance is
+maintained in procyclic trypanosomatids.
+p.a.m. michels et al. / biochimica et biophysica acta 1763 (2006) 1463–1477
+1469
+the exclusively glycosomal
+adaptive forms of all trypanosomatids analyzed to date,
+except the slender bloodstream form of t. brucei, express the
+nadh-dependent frd activity [51,66–69] and produce
+significant amounts of excreted succinate from glucose
+[20,47].
+interestingly, succinate production seems to be
+correlated with the presence of a pgk activity in the cytosol,
+since the bloodstream form of t. brucei is the only one lacking
+the pgkc isoform. all other trypanosomatid forms analyzed
+express at least one cytosolic pgk isoform, often simulta-
+isoforms [27,28,70–72]. in other
+neously with glycosomal
+words,
+localization of pgk is
+restricted to bloodstream-form t. brucei and correlates with the
+absence of the glycosomal succinic fermentation pathway.
+thus, the repression of the succinic fermentation pathway by
+bloodstream-form t. brucei is accompanied with the repression
+of the cytosolic pgk in favour of the glycosomal isoform in
+order
+to balance the glycosomal atp/adp ratio. these
+adaptations to the glucose-rich environment of the vertebrate
+blood came along with the repression of the mitochondrial tca
+cycle enzymes and respiratory chain.
+interestingly this
+expression strategy appears to be a recent evolutionary
+adaptation by t. brucei, because it is not found in all other
+trypanosomatids including its closest known relative, t.
+congolense, which has a very similar
+it also
+propagates in the blood of vertebrates after transmission by
+tsetse flies. the bloodstream form of t. congolense excretes
+succinate and expresses both the glycosomal and cytosolic pgk
+isoforms [47,70]. the t. congolense orthologous gene (c2pgk)
+of the t. brucei glycosomal pgkg gene encodes a cytosolic
+isoform. consequently, pgka is the only glycosomal isoform
+expressed in t. congolense [70]. in conclusion, all trypanoso-
+matids analyzed so far developed the largely glycosomally-
+located metabolic network for aerobic fermentation of glucose.
+only the long-slender bloodstream form of t. brucei could
+afford to considerably reduce this network to the mere
+glycolytic pathway, possibly as a result of its constant and
+glucose-rich environment.
+life cycle;
+5. other metabolic systems in glycosomes
+besides the glycolytic pathway and its extra branches
+towards glycerol and succinate production, many other
+enzymes, often parts of pathways, have been found inside
+glycosomes during the last 20 years (fig. 3). most of these
+enzymes were not, or only at very low activity, detectable in
+bloodstream-form t. brucei, but were shown to be present in
+glycosomes of cultured procyclic t. brucei and/or insect- or
+mammalian-stage cells of leishmania species or t. cruzi,
+mostly upon cell fractionation, sometimes by immunofluores-
+cence studies with intact cells. and indeed most of the enzymes
+were shown to possess a pts1 or pts2. for example, the key
+enzyme of the gluconeogenic pathway, fructose-1,6-bispho-
+sphatase, possesses peroxisome-targeting signals [73] and
+indeed was demonstrated to be present in glycosomes of t.
+brucei. the observation that
+this enzyme is expressed
+simultaneously with the glycolytic pfk (vh, unpublished
+result), and the apparent absence from trypanosomatid pfk of
+activity regulation mechanisms found in other organisms
+[23,24] raise the still unsolved question as to how futile atp
+hydrolysis resulting from the combined activity of these two
+glycosomal enzymes is avoided.
+also another glucose consuming process,
+the oxidative
+branch of the pentose-phosphate pathway, is compartmentalized
+inside glycosomes [74,75]. although most of the enzymes of
+this pathway in the three trypanosomatids for which the genome
+sequencing has been completed appear to have a pts, often a
+substantial part of their activity was found in the cytosol,
+indicating only partial compartmentation;
+the
+cytosolic contribution is even predominant [76]. intriguingly,
+genes encoding a sedoheptulose-1,7-bisphosphatase with a
+pts1 have been found in t. brucei and t. cruzi. this is a calvin
+cycle enzyme, usually only found in plastids of plants and algae
+and in some fungi and ciliates where it is possibly present in the
+cytosol exerting a still unknown function. possibly the
+trypanosomatids acquired the sedoheptulose-1,7-bisphospha-
+tase by lateral gene transfer [73,77]; we hypothesize that the
+parasites employ it in a modified pentose-phosphate pathway
+(fig. 3a), as described in more detail elsewhere [5].
+in t. cruzi
+is important
+all trypanosomatids studied contain various isoforms of
+adenylate kinase, an enzyme that
+for atp
+homeostasis. in t. brucei seven genes encoding the enzyme
+for several cell compartments have been found, including one
+for a glycosomal enzyme [78]. the importance of this enzyme
+for glycosomal metabolism has been shown by computer
+simulation of metabolism and expression knockdown using
+rnai [32,78].
+a glycosomal localization has previously also been reported
+for most enzymes of the purine salvage pathway in different
+trypanosomatids and for a bifunctional enzyme, resulting from a
+gene fusion, catalyzing the last two of the six steps usually
+comprising the de novo pyrimidine biosynthetic pathway,
+whereas the other four enzymes were found in the cytosol
+(fig. 3b and c) (reviewed in [4,79]). interestingly, the genes of
+the enzymes for pyrimidine biosynthesis are organized in a
+highly unusual way for trypanosomatids, i.e., in an operon-like
+manner, similar
+found
+elsewhere [80]. this organization and the sequence similarity
+strongly suggest that these genes were acquired by lateral gene
+transfer. as mammalian peroxisomes, trypanosomatid glyco-
+somes have been shown to contain the first two steps of ether-
+lipid biosynthesis, alkyl-dhap synthase and dhap acyltrans-
+ferase (fig. 3f) [8,9]. also common with peroxisomes is the
+association with glycosomes of some enzymes of β-oxidation
+of fatty acids, such as 2-enoyl-coa hydratase and an nadph-
+dependent 3-hydroxyacyl-coa dehydrogenase (fig. 3e)
+[81,82]. for t. brucei it was shown that these two enzymes
+behave as a bifunctional enzyme [82].
+in cyanobacteria and not
+to that
+as mentioned above,
+the peroxisomal marker enzyme
+catalase is absent from trypanosoma and leishmania species,
+but it has been found in other kinetoplastids such as crithidia
+luciliae, phytomonas sp. and trypanoplasma borelli, where it
+was located in the glycosomes [2,3]. but in recent years, a
+different peroxide detoxification system has been unravelled
+in trypanosomatids and components of it were found also in
+1470
+p.a.m. michels et al. / biochimica et biophysica acta 1763 (2006) 1463–1477
+in line with the possession of a pts by
+the glycosomes,
+some of them [83]. the unique trypanosomatid system is a
+cascade comprising a modified form of glutathione, n1,n8-bis
+(glutathionyl)spermidine designated trypanothione,
+trypa-
+nothione reductase, a thioredoxin-related protein called try-
+paredoxin and 2-cys-peroxiredoxin-type tryparedoxin
+peroxidases and glutathione peroxidases (fig. 3h) (reviewed
+in [84]). also other enzymes involved in oxidative stress
+defence have been detected in glycosomes such as one of the
+four iron-dependent superoxide dismutase isoenzymes of try-
+panosomatids [85,86].
+the recently completed genome sequencing projects for t.
+brucei, t. cruzi and l. major [87] have allowed to get further
+insight into the metabolic repertoire of glycosomes by searching
+all protein sequences with either a potential c-terminal pts1 or
+an n-terminal pts2 [80]. moreover, proteomic analyses of
+glycosomes purified from both bloodstream- and procyclic-
+form t. brucei have been initiated [58]. in the bioinformatic
+analysis of l. major, 191 potential pts1-containing proteins
+and 68 potential pts2-containing proteins with homologues in
+t. brucei and t. cruzi were identified. about 50% of these were
+hypothetical proteins to which no function could be attributed as
+fig. 3. overview of glycosomal metabolic processes other than glycolysis. pathways or single reactions are depicted of which enzymes are probably at least in part
+sequestered in glycosomes of some life-cycle stages of t. brucei, t. cruzi and/or leishmania species, as concluded from experiments involving cell fractionation in
+conjunction with activity assays, immunoblotting and/or mass-spectrometry based proteomics, or immunofluorescence microscopy of intact cells and/or from the
+identification of a (putative) peroxisome-targeting signal in the amino-acid sequence. the two circles given at each reaction indicate the probability of a glycosomal
+localization of the enzyme: the left circle signifies the availability of experimental support (filled circle) or the lack (so far) of such support (open circle); a filled right
+circle indicates the presence of a (potential) pts, an open circle no detectable pts. the pathways or processes indicated are: (a) pentose-phosphate pathway, (b)
+purine salvage, (c) pyrimidine biosynthesis, (d) energy homeostasis, (e) β-oxidation, (f) ether-lipid biosynthesis, (g) squalene synthesis, (h) oxidative-stress
+protection. in addition to the enzymes highlighted here many more candidate glycosomal enzymes and hypothetical proteins have been identified by genomic searches
+and proteomic analysis [80,58]. the sedoheptulose-1,7-bisphosphatase is proposed to connect the glycolytic and pentose-phosphate pathways, allowing to vary the
+yield for nadh and atp from glycose metabolism according to the cells requirements, as discussed in more detail in [5]. for a more extensive discussion of the
+various reactions, the subcellular localization of the enzymes and their expression in the different trypanosomatids life-cycle stages, see the main text and references
+[4,5,58,80].
+p.a.m. michels et al. / biochimica et biophysica acta 1763 (2006) 1463–1477
+1471
+fig. 3 (continued ).
+yet. the results of these genomic and proteomic studies largely
+confirm the earlier experimental findings described above,
+while filling in some gaps in pathways (fig. 3). however, the
+proteomic study did not detect any enzymes of β-oxidation,
+although two enzymes were found with a candidate pts2 in all
+three trypanosomatids: the bifunctional 2-enoyl-coa hydratase/
+3-hydroxyacyl-coa dehydrogenase mentioned above and 3-
+ketoacyl-coa thiolase. possibly, the proteomic analysis was
+performed with trypanosomes cultured under conditions by
+which the pathway was repressed. however, the bifunctional
+enzyme may also be targeted differently, since its sequence
+contains also a candidate mitochondrial
+transit peptide.
+additionally, the genome sequences of t. cruzi and l. major
+revealed candidate glycosomal enzymes that should allow these
+parasites to feed the glycolytic pathway also with various other
+sugars than glucose [80].
+the glycosome also harbours some enzymes of
+mevalonate pathway for
+the biosynthesis of
+the
+isoprenoids,
+precursors of many important compounds such as squalene
+and eventually sterols (fig. 3g). three enzymes, responsible for
+the conversion of mevalonate to 5-pyrophospho-mevalonate
+were each shown to possess a pts in at least two of the three
+trypanosomatids. the same holds true for a fourth enzyme
+further in the pathway, squalene synthase, converting farnesyl-
+pyrophosphate into squalene. the first enzyme of the pathway,
+3-hydroxy-3-methyl-glutaryl-coa reductase had previously
+been localized to mitochondrion and glycosomes [88];
+its
+sequence has indeed a candidate mitochondrial transit peptide
+but not an identifiable pts. the proteomic analysis detected the
+mevalonate kinase only in glycosomes of procyclic cells.
+in addition to adenylate kinase mentioned above, glyco-
+somes may contain another enzyme involved in atp homeo-
+stasis, arginine kinase (fig. 3h). t. brucei and t. cruzi, but not
+leishmania species, contain this enzyme; in t. brucei even
+three genes were identified coding for enzymes differing only in
+their n- and c-termini. one of them has a putative pts1.
+1472
+p.a.m. michels et al. / biochimica et biophysica acta 1763 (2006) 1463–1477
+the proteomic analysis identified the enzyme in
+indeed,
+glycosomes of bloodstream- but not procyclic-form trypano-
+somes. studies with t. cruzi have shown that phospho-arginine
+is particularly important during periods of stress; it is likely that
+this phosphagen acts as an energy reserve during differentiation
+steps [89,90].
+6. metabolite transporters in the glycosomal membrane
+as for peroxisomes, several lines of evidence provide strong
+support for the notion that the membrane of glycosomes is
+poorly permeable (reviewed in [7]). first, the biphasic kinetics
+of radioactive labelling of glycolytic intermediates, when
+trypanosomes received a pulse of 14c-glucose, suggested the
+existence of two pools of intermediates: a rapidly labelled
+glycosomal one, representing 20–30% of the total pool of
+glycolytic metabolites and a slowly labelled cytosolic pool
+representing 70–80% of the intermediates [91]. exchange
+between both pools of intermediates appeared to happen only
+very slowly. second, under anaerobic conditions bloodstream-
+form trypanosomes are still capable of performing glycolysis by
+producing one molecule of pyruvate and one molecule of
+glycerol per molecule of glucose consumed instead of two
+molecules of pyruvate. as discussed in section 3, this involves
+the reversal of
+the glycerol kinase reaction, driven by
+accumulation of gly3p and a low atp/adp ratio as can only
+be achieved in a small, closed compartment separate from the
+cytosol. further strong indications for the glycosomal mem-
+brane as a permeability barrier are the above mentioned
+importance of maintaining a redox (nadh/nad+) balance,
+the apparent requirement of stoichiometry for the sum of
+reactions inside the organelle [32], and the observed detrimental
+effects resulting from mislocalization of glycolytic enzymes
+[17,29].
+the existence of the permeability barrier implies the need for
+transporter molecules or pores for the exchange of specific
+substrates, products and intermediates. so far, two groups of
+candidate solute carriers, homologous to known transporters of
+peroxisomal membranes [64,92] (see also elsewhere in this
+issue) have been identified in glycosomes: abc transporters
+[93] and mcf proteins belonging to the mitochondrial carrier
+family [58]. three so-called half-abc transporters (called
+gat1-3,
+for glycosomal abc transporter) have been
+identified in the glycosomal membrane of t. brucei, and
+homologues were found in the genomes of t. cruzi and l.
+major. t. brucei gat2 has been shown to complement, to a
+limited extent, growth on oleate by saccharomyces cerevisiae
+cells deficient in both peroxisomal fatty-acid transporters pat1
+and pat2 [94]. gat1 and gat3 were not able to complement
+the deficiency; no information is as yet available about their
+substrate specificity. gat1 is predominantly expressed in
+procyclic t. brucei. interestingly, gat2 is only expressed in
+bloodstream-form t. brucei in which glycolysis is by large the
+major
+theoretical
+reasons, we consider it doubtful that abc transporters are
+involved in the transport of glycolytic intermediates. the atp
+yield of glycolysis is low: maximally two molecules of atp
+function of glycosomes. however,
+for
+per molecule of glucose consumed. any further decrease of
+this yield by spending atp for
+transmembrane transport
+processes within the glycolytic process itself would be highly
+disadvantageous for the cell, and thus unlikely. we therefore
+consider it more likely that other kinds of transport processes
+are responsible for the glycolytic intermediates. a first option
+is the involvement of mcf transporters. indeed, trypanoso-
+matid genomes contain several mcf homologues, most of
+them probably present in the inner mitochondrial membrane
+[87]. but the recent proteomic analysis detected three of them
+in glycosome preparations of procyclic t. brucei [58]. how-
+ever, none has been found so far in glycosome preparations
+from bloodstream-form cells. the three mcf molecules found
+in procyclic glycosomes present
+the highest percentage of
+identity/similarity to phosphate carriers, dicarboxylate carriers
+and atp/adp exchangers. however their functional identity
+remains to be determined and their glycosomal localization
+confirmed.
+several other possibilities for solute translocation through the
+glycosomal membrane may be considered. (1) entry into or exit
+from glycosomes by diffusion along the (electro)chemical
+gradient via specific transporters or pores not belonging to a
+known class of proteins and that remain to be identified (2)
+exchange or antiport processes not involving mcf proteins, in
+which the import of one metabolite is obligatory coupled to the
+export of another one. also in this case, the energy would be
+provided by the transmembrane gradients of the compounds.
+kinetic and stoichiometric analyses suggest that such exchange
+is very likely to happen for the transport of gly3p and dhap
+[95,96]. antiport systems for other metabolites could be
+imagined as well. (3) a more speculative possibility is an
+association of substrate-specific soluble enzymes (in the
+glycosomal matrix or cytosol) with non-specific carriers or
+pores in the glycosomal membrane, thus creating a kind of
+specific ‘group-translocation process’ by which the vectorial
+process is driven by its coupling to the enzymatic conversion.
+this might, for example, be the case for glucose uptake and its
+subsequent phosphorylation by hxk, resembling the pep-
+dependent phosphotransferase system responsible for glucose
+transport in many bacteria [97]. however the glycosomal system
+would be fundamentally different from the bacterial one,
+because in trypanosomes glucose phosphorylation is performed
+by an authentic atp-dependent hxk. interestingly, trypanoso-
+matid hxk seems to have affinity for membranes. furthermore,
+it could be imagined that also other enzymes may associate with
+such a non-specific pore or transporter, either other sugar-phos-
+phorylating enzymes or enzymes catalyzing entirely different
+reactions at the beginning or end of a glycosomal pathway. the
+former option may be the case in glycosomes of the fish parasite
+trypanoplasma borreli, where the full set of glycolytic enzymes
+could be found except hxk [98]. the fact that the metabolic
+schemes presented above invoke many solute translocation steps
+through the glycosomal membrane, together with the observed
+low protein content of the membranes and the difficulty in
+identifying such candidate transporters by classical biochemical
+means and modern genomic and proteomic analyses seem to
+make it worth to experimentally pursue the latter option.
+p.a.m. michels et al. / biochimica et biophysica acta 1763 (2006) 1463â€“1477
+1473
+7. role of glycosomes in metabolic programming during
+differentiation of trypanosomatids
+as described above, the life-cycle of trypanosomatids is
+highly complex; the parasites are at every step morphologically
+and metabolically well adapted to a distinct compartment of
+their specific hosts. as the successive differentiation stages may
+encounter highly different environments, the parasites have to
+rapidly change their metabolism to cope with the altered
+conditions. the compartmentation of environment-sensitive
+parts of metabolism within glycosomes could be a way by
+which the trypanosomes achieve such flexibility. as explained
+in previous sections, the enzymatic content of the organelles
+may vary considerably from one adaptive form to the other;
+therefore, it could be imagined that a rapid way to adapt the
+cell's metabolism is changing its glycosome population by
+specifically destroying the old, not anymore adapted organelles
+and inducing the synthesis of new ones, similar as has been
+reported for yeast peroxisomes when growth conditions change
+(fig. 4).
+the peroxisome renewal process has been studied in detail in
+methylotrophic yeasts. glucose-grown hansenula polymorpha
+contains only one or two small peroxisomes. when these cells
+are transferred to methanol-containing medium, proteins of
+methanol assimilation are imported so the organelles grow and
+new organelles are formed by fission from the mature ones
+[99,100]. after fission the mature organelles lose the capacity to
+incorporate new protein; protein import
+is confined to the
+smaller organelles that have budded off. the other part of the
+process is the removal of
+the redundant organelles. the
+degradation of peroxisomes occurs by a process called
+pexophagy, a specific form of autophagy, as described in detail
+elsewhere in this issue (reviewed in [101,102]). autophagy and
+pexophagy share several proteins with the cytoplasm-to-
+vacuole targeting (cvt) pathway by which some newly
+synthesized vacuolar proteins of yeasts are routed to their
+organelles. this specific degradation of peroxisomes can occur
+by two different ways. the first one, known as micropex-
+ophagy, involves the complete engulfment of the organelles by
+extended vacuole arms. the second one, called macropexo-
+phagy is even more selective: the organelles to be degraded are
+surrounded by membranous layers to form an autophagosome,
+whose membrane will fuse with that of the vacuole. the
+induction of either micro- or macropexophagy depends on the
+nature of a nutrient signal and differs between species. by the
+combination of selective and induced degradation and synthesis
+of peroxisomes, yeasts can create a population of organelles
+with a different set of enzymes, and thus adapt efficiently and
+rapidly to new environmental conditions.
+the situation might be similar for trypanosomatids:
+the
+glycosomes may be heterogeneous; a subset of proliferation-
+competent organelles may give rise to a population with
+enzymes that allows differentiating parasites to deal with the
+new conditions encountered by the new life-cycle stage,
+whereas the old organelles could be degraded specifically.
+indeed, recent evidence suggests the presence of autop-
+hagy processes in these organisms, particularly during the
+differentiation from one life-cycle stage into the next one. first,
+the occurrence of autophagy has been reported previously for l.
+major [103,104], and our recent database searches using the
+three trypanosomatid genomes against 40 autophagy-related
+genes (atg) coding for proteins involved in these processes
+fig. 4. model of the turnover of glycosomes during different steps of the trypanosome's life cycle. for details, see text. modified from [108].
+1474
+p.a.m. michels et al. / biochimica et biophysica acta 1763 (2006) 1463–1477
+showed that the autophagy machinery is at least partially present
+in these organisms [105]. in eukaryotic cells, the cvt and
+autophagy pathways can be divided in different steps including
+the induction and signalling, the cargo selection and packaging,
+the vesicle nucleation, the retrieval, the docking and fusion, and
+finally, the vesicle breakdown [106]. many of the proteins
+involved in these steps are implicated in different cellular
+processes, others are specific for one or more forms of
+autophagy. for each of the different steps, orthologues were
+either confidently identified in at least one trypanosomatid
+database or were found to be likely present. only the cvt
+pathway seemed absent. however, for each step of autophagy
+only half of the proteins were identified, suggesting that the
+autophagy process in trypanosomatids is much simpler than that
+of yeast, but still viable from a genomic point of view since no
+key compounds were absent. recently, autophagy was found to
+play a role in the differentiation and acquisition of the virulence
+of l. major [107]. an atg4 null mutant was unable to
+differentiate into the infective form. using a fluorescent atg8
+fusion protein as an autophagosome marker, an increase of
+autophagy was monitored during differentiation. these results
+confirmed the presence of these two proteins, which were both
+classified as ‘likely to be present’ in the genomic survey, as well
+as the presence of a specific autophagy structure,
+the
+autophagosomes, in trypanosomatids.
+furthermore, our genomic analysis seemed to indicate that
+the parasites possess the molecular machinery to degrade
+selectively their glycosomes by a process analogous to either
+macro- or micropexophagy. this analysis needs now to be
+confirmed experimentally. our (mh and pm) unpublished
+results with t. brucei have revealed that, during the differen-
+tiation of this parasite from the bloodstream to the procyclic
+form, glycosomes co-localize with enlarged lysosomes and
+glycosomal enzymes specific for
+the bloodstream form
+disappear rapidly after differentiation, concomitant with the
+synthesis of specific procyclic ones.
+together,
+the available data support
+the hypothesis that
+glycosomes are rapidly replaced during the transition between
+different
+life-cycle stages of the parasites. this process is
+possibly similar to pexophagy in yeasts; it may be simplified
+and involve different or additional proteins than the yeast atg
+orthologues found in the genomic search. the compart-
+mentation of
+the enzymes in glycosomes and the rapid
+replacement of these organelles by others with a different
+metabolic capacity may therefore augment the adaptability of
+the trypanosomes to different environmental conditions. since
+glycosomes may provide this increased metabolic adaptability
+to all trypanosomatids and at the various steps when they
+transform from one life-cycle stage to the next one, it may be
+considered as a highly important function of these organelles.
+8. conclusions
+glycosomes of kinetoplastida share some metabolic func-
+tions with peroxisomes of other organisms, such as defense
+against reactive oxygen species and an involvement in ether-
+lipid biosynthesis and β-oxidation of fatty acids, but they are
+the glycolysis. moreover,
+unique in sequestering the glycolytic pathway, as well as some
+other parts of the network for carbohydrate metabolism. this
+subcellular organization of metabolism appears to have some
+important consequences for these organisms. proper biogenesis
+of glycosomes and correct glycosome-targeting of glycolytic
+enzymes is essential for trypanosomes when grown on glucose,
+probably because incorrect or incomplete compartmentation
+affects the regulation of
+the
+compartmentation enables these organisms to overcome short
+periods of anaerobiosis, albeit without sustaining growth.
+interestingly, the enzymatic content of glycosomes may vary
+importantly between different
+life-cycle stages of parasitic
+trypanosomatids. possibly, the sequestering of their pathways
+for carbohydrate metabolism within glycosomes enables the
+parasites to adapt rapidly to new nutritional conditions during
+the differentiation of one life-cycle stage to the next by the ‘en
+bloc’ degradation of one population of organelles through
+autophagy, concomitant with the synthesis of a new population
+of glycosomes with a different enzymatic content. this
+glycosome-dependent capacity for efficient and rapid metabolic
+adaptation may have played an important role in the successful
+radiation of kinetoplastids as parasites with multiple, highly
+different niches in one or several host species.
+acknowledgements
+the research by pm and vh was supported through grants
+from the ‘fonds de la recherche scientifique médicale’ (frsm)
+of the ‘communauté française de belgique’ and the interuni-
+versity attraction poles-belgian federal office for scientific,
+technical and cultural affairs. the research by fb received
+support from the cnrs, the conseil régional d'aquitaine and
+the ministère de l'education nationale de la recherche et de la
+technologie. mh acknowledges a phd scholarship from the
+‘fonds pour la formation à la recherche dans l'industrie et dans
+l'agriculture’ (fria) and the université catholique de louvain.
+we are grateful to dr. fred opperdoes for helpful discussions
+and critical reading of the manuscript.
+references
+[1] f.r. opperdoes, p. borst, localization of nine glycolytic enzymes in a
+microbody-like organelle in trypanosoma brucei: the glycosome, febs
+lett. 80 (1977) 360–364.
+[2] f.r. opperdoes, compartmentation of carbohydrate metabolism in
+trypanosomes, annu. rev. microbiol. 41 (1987) 127–151.
+[3] v. hannaert, p.a.m. michels, structure, function, and biogenesis of
+glycosomes in kinetoplastida, j. bioenerg. biomembr. 26 (1994) 205–212.
+[4] p.a.m. michels, v. hannaert, f. bringaud, metabolic aspects of
+glycosomes in trypanosomatidae—new data and views, parasitol.
+today 16 (2000) 482–489.
+[5] v. hannaert, f. bringaud, f.r. opperdoes, p.a.m. michels, evolution
+of energy metabolism and its compartmentation in kinetoplastida,
+kinetoplastid biol. dis. 2 (2003) 11 (http://www.kinetoplastids.com/
+content/2/1/11).
+[6] m. parsons, glycosomes: parasites and the divergence of peroxisomal
+purpose, mol. microbiol. 53 (2004) 717–724.
+[7] j. moyersoen, j. choe, e. fan, w.g.j. hol, p.a.m. michels, biogenesis
+of peroxisomes and glycosomes: trypanosomatid glycosome assembly is
+a promising new drug target, fems microbiol. rev. 28 (2004) 603–643.
+p.a.m. michels et al. / biochimica et biophysica acta 1763 (2006) 1463–1477
+1475
+[8] f.r. opperdoes, localization of the initial steps in alkoxyphospholipid
+biosynthesis in glycosomes (microbodies) of trypanosoma brucei, febs
+lett. 169 (1984) 35–39.
+[9] n. heise, f.r. opperdoes, the dihydroxyacetonephosphate pathway for
+biosynthesis of ether lipids in leishmania mexicana promastigotes,
+mol. biochem. parasitol. 89 (1997) 61–72.
+[10] k. vickerman, the evolutionary expansion of the trypanosomatid
+flagellates, int. j. parasitol. 24 (1994) 1317–13131.
+[11] a.g. simpson, j.r. stevens, j. lukes, the evolution and diversity of
+kinetoplastid flagellates, trends parasitol. 22 (2006) 168–174.
+[12] b.m. bakker, f.i.c. mensonides, b. teusink, p. van hoek, p.a.m.
+michels, h.v. westerhoff, compartmentation protects trypanosomes
+from the dangerous design of glycolysis, proc. natl. acad. sci. u. s. a.
+97 (2000) 2087–2092.
+[13] j.c. guerra-giraldez, l. quijada, c.e. clayton, compartmentation of
+enzymes in a microbody, the glycosome, is essential in trypanosoma
+brucei, j. cell sci. 115 (2002) 2651–2658.
+[14] t. furuya, p. kessler, a. jardim, a. schnaufer, c. crudder, m. parsons,
+glucose is toxic to glycosome-deficient trypanosomes, proc. natl. acad.
+sci. u. s. a. 99 (2002) 14177–14182.
+[15] d.j. hammond, r.a. aman, c.c. wang, the role of compartmen-
+tation and glycerol kinase in the synthesis of atp within the
+glycosome of trypanosoma brucei,
+j. biol. chem. 260 (1985)
+15646–15654.
+[16] i. kralova, d.j. rigden, f.r. opperdoes, p.a.m. michels, glycerol
+kinase of trypanosoma brucei. cloning, molecular characterization and
+mutagenesis, eur. j. biochem. 267 (2000) 2323–2333.
+[17] s. helfert, a.m. estevez, b. bakker, p. michels, c. clayton, roles of
+triosephosphate isomerase and aerobic metabolism in trypanosoma
+brucei, biochem. j. 357 (2001) 117–125.
+[18] s. besteiro, m.p. barrett, l. rivière, f. bringaud, energy generation in
+insect stages of trypanosoma brucei: metabolism in flux, trends
+parasitol. 21 (2005) 185–191.
+[19] j.j. van hellemond, b.m. bakker, a.g.m. tielens, energy metabolism
+and its compartmentation in trypanosoma brucei, adv. microb. physiol.
+50 (2005) 199–226.
+[20] f. bringaud, l. rivière, v. coustou, energy metabolism of trypanoso-
+matids: adaptation to available carbon sources, mol. biochem. parasitol.
+149 (2006) 1–9.
+[21] j. van den abbeele, y. claes, d. van bockstaele, d. le ray, m.
+coosemans, trypanosoma brucei spp. development in the tsetse fly:
+characterization of
+the post-mesocyclic stages in the foregut and
+proboscis, parasitology 118 (1999) 469–478.
+[22] m. nwagwu, f.r. opperdoes, regulation of glycolysis in trypanosoma
+brucei: hexokinase and phosphofructokinase activity, acta trop. 39
+(1982) 61–72.
+[23] c.n. cronin, k.f. tipton, purification and regulatory properties of
+phosphofructokinase from trypanosoma (trypanozoon) brucei brucei,
+biochem. j. 227 (1985) 113–124.
+[24] c. lopez, n. chevalier, v. hannaert, d.j. rigden, p.a.m. michels, j.l.
+ramirez, leishmania donovani phosphofructokinase. gene characteriza-
+tion, biochemical properties and structure-modeling studies, eur. j.
+biochem. 269 (2002) 3978–3989.
+[25] l.a. fothergill-gilmore, p.a.m. michels, evolution of glycolysis, prog.
+biophys. mol. biol. 59 (1993) 105–235.
+[26] b. teusink, m.c. walsh, k. van dam, h.v. westerhoff, the danger of
+metabolic pathways with turbo design, trends biochem. sci. 23 (1998)
+162–169.
+[27] k.a. osinga, b.w. swinkels, w.c. gibson, p. borst, g.h. veeneman,
+j.h. van boom, p.a.m. michels, f.r. opperdoes, topogenesis of
+microbody enzymes: a sequence comparison of the genes for the
+glycosomal (microbody) and cytosolic phosphoglycerate kinases of
+trypanosoma brucei, embo j. 4 (1985) 3811–3817.
+[28] w.c. gibson, b.w. swinkels, p. borst, post-transcriptional control of the
+differential expression of phosphoglycerate kinase genes in trypanosoma
+brucei, j. mol. biol. 201 (1988) 315–325.
+[29] j. blattner, s. helfert, p. michels, c. clayton, compartmentation of
+phosphoglycerate kinase in trypanosoma brucei plays a critical role in
+parasite energy metabolism, proc. natl. acad. sci. u. s. a. 95 (1998)
+11596–11600.
+[30] j. moyersoen, j. choe, a. kumar, f.g.j. voncken, w.g.j. hol, p.a.m.
+michels, characterization of trypanosoma brucei pex14 and its role in
+the import of glycosomal matrix proteins, eur. j. biochem. 270 (2003)
+2059–2067.
+[31] h. krazy, p.a.m. michels, identification and characterization of three
+peroxins-pex6, pex10 and pex12-involved in glycosome biogenesis in
+trypanosoma brucei, biochim. biophys. acta 1763 (2006) 6–17.
+[32] b.m. bakker, p.a.m. michels, f.r. opperdoes, h.v. westerhoff,
+glycolysis in bloodstream form trypanosoma brucei can be understood
+in terms of the kinetics of the glycolytic enzymes, j. biol. chem. 272
+(1997) 3207–3215.
+[33] h. ngo, c. tschudi, k. gull, e. ullu, double-stranded rna induces
+mrna degradation in trypanosoma brucei, proc. natl. acad. sci.
+u. s. a. 95 (1998) 14687–14692.
+[34] e. ullu, c. tschudi, t. chakraborty, rna interference in protozoan
+parasites, cell. microbiol. 6 (2004) 509–519.
+[35] k.a. robinson, s.m. beverley, improvements in transfection efficiency
+and tests of rna interference (rnai) approaches in the protozoan
+parasite leishmania, mol. biochem. parasitol. 128 (2003) 217–228.
+[36] w.d. darocha, k. otsu, s.m. teixeira, j.e. donelson, tests of
+cytoplasmic rna interference (rnai) and construction of a tetracy-
+cline-inducible t7 promoter system in trypanosoma cruzi, mol.
+biochem. parasitol. 133 (2004) 175–186.
+[37] j.j. cazzulo, b.m. franke de cazzulo, j.c. engel, j.j. cannata, end
+products and enzyme levels of aerobic glucose fermentation in
+trypanosomatids, mol. biochem. parasitol. 16 (1985) 329–343.
+[38] v. coustou, s. besteiro, m. biran, p. diolez, v. bouchaud, p. voisin,
+p.a.m. michels, p. canioni, t. baltz, f. bringaud, atp generation in
+the trypanosoma brucei procyclic form: cytosolic substrate level
+phosphorylation is essential, but not oxidative phosphorylation, j. biol.
+chem. 278 (2003) 49625–49635.
+[39] e. bursell, the role of proline in energy metabolism, plenum press,
+new york, 1981.
+[40] n. lamour, l. rivière, v. coustou, g.h. coombs, m.p. barrett, f.
+bringaud, proline metabolism in procyclic trypanosoma brucei is down-
+regulated in the presence of glucose, j. biol. chem. 280 (2005)
+11902–11910.
+[41] j.c. morris, z. wang, m.e. drew, p.t. englund, glycolysis modulates
+trypanosome glycoprotein expression as revealed by an rnai library,
+embo j. 21 (2002) 4429–4438.
+[42] p.s. kessler, m. parsons, probing the role of compartmentation of
+glycolysis in procyclic form trypanosoma brucei: rna interference
+studies of pex14, hexokinase, and phosphofructokinase, j. biol. chem.
+280 (2005) 9030–9036.
+[43] g. manning, m.a. krasnow, development of the drosophila tracheal
+system, in: a. martinez-arias, m. bate (eds.), the development of
+drosophila, cold spring harbor press, cold spring harbor, 1993,
+pp. 609–685.
+[44] j.j. van hellemond, a.g.m. tielens, inhibition of the respiratory chain
+results in a reversible metabolic arrest in leishmania promastigotes, mol.
+biochem. parasitol. 85 (1997) 135–138.
+[45] a.o. stoppani, r. docampo, j.f. de boiso, a.c. frasch, effect of
+inhibitors of electron transport and oxidative phosphorylation on trypa-
+nosoma cruzi respiration and growth, mol. biochem. parasitol. 2 (1980)
+3–21.
+[46] s.w. van weelden, b. fast, a. vogt, p. van der meer, j. saas, j.j.
+van hellemond, a.g.m. tielens, m. boshart, procyclic trypanosoma
+brucei do not use krebs cycle activity for energy generation, j. biol.
+chem. 278 (2003) 12854–12863.
+[47] j.j. cazzulo, aerobic fermentation of glucose by trypanosomatids,
+faseb j. 6 (1992) 3153–3161.
+[48] f.r. opperdoes, d. cottem, involvement of the glycosome of trypa-
+in carbon dioxide fixation, febs lett. 143 (1982)
+nosoma brucei
+60–64.
+[49] f.r. opperdoes, a. markos, r.f. steiger, localization of malate
+dehydrogenase, adenylate kinase and glycolytic enzymes in glycosomes
+1476
+p.a.m. michels et al. / biochimica et biophysica acta 1763 (2006) 1463–1477
+and the threonine pathway in the mitochondrion of cultured procyclic
+trypomastigotes of trypanosoma brucei, mol. biochem. parasitol. 4
+(1981) 291–309.
+[50] f. bringaud, d. baltz, t. baltz, functional and molecular characterization
+of a glycosomal ppi-dependent enzyme in trypanosomatids: pyruvate,
+phosphate dikinase, proc. natl. acad. sci. u. s. a. 95 (1998) 7963–7968.
+[51] s. besteiro, m. biran, n. biteau, v. coustou, t. baltz, p. canioni, f.
+bringaud, succinate secreted by trypanosoma brucei is produced by a
+novel and unique glycosomal enzyme, nadh-dependent fumarate
+reductase, j. biol. chem. 277 (/2002) 38001–38012.
+[52] v. coustou, s. besteiro, l. riviere, m. biran, n. biteau, j.m. franconi,
+m. boshart, t. baltz, f. bringaud, a mitochondrial nadh-dependent
+fumarate reductase involved in the production of succinate excreted by
+procyclic trypanosoma brucei, j. biol. chem. 280 (2005) 16559–16570.
+[53] j.j. van hellemond, f.r. opperdoes, a.g.m. tielens, trypanosomatidae
+produce acetate via a mitochondrial acetate:succinate coa transferase,
+proc. natl. acad. sci. u. s. a. 95 (1998) 3036–3041.
+[54] l. rivière, s.w. van weelden, p. glass, p. vegh, v. coustou, m. biran,
+j.j. van hellemond, f. bringaud, a.g.m. tielens, m. boshart, acetyl:
+succinate coa-transferase in procyclic trypanosoma brucei. gene
+identification and role in carbohydrate metabolism, j. biol. chem. 279
+(2004) 45337–45346.
+[55] s.w. van weelden, j.j. van hellemond, f.r. opperdoes, a.g.m. tielens,
+new functions for parts of the krebs cycle in procyclic trypanosoma
+brucei, a cycle not operating as a cycle, j. biol. chem. 280 (2005)
+12451–12460.
+[56] d.g. guerra, a. decottignies, b.m. bakker, p.a.m. michels, the
+mitochondrial fad-dependent glycerol-3-phosphate dehydrogenase of
+trypanosomatidae and the glycosomal redox balance of insect stages of
+trypanosoma brucei and leishmania spp. mol. biochem. parasitol.
+149 (2006) 155–169.
+[57] v. coustou, m. biran, s. besteiro, l. rivière, t. baltz, j.m. franconi, f.
+bringaud, fumarate is an essential intermediary metabolite produced
+by the procyclic trypanosoma brucei, j. biol. chem. 281 (2006)
+26832–26846.
+[58] c. colasante, m. ellis, t. ruppert, f. voncken, comparative proteomics
+of glycosomes from bloodstream form and procyclic culture form try-
+panosoma brucei brucei, proteomics 6 (2006) 3275–3293.
+[59] e. takashima, d.k. inaoka, a. osanai, t. nara, m. odaka, t. aoki, k.
+inaka, s. harada, k. kita, characterization of the dihydroorotate
+dehydrogenase as a soluble fumarate reductase in trypanosoma cruzi,
+mol. biochem. parasitol. 122 (2002) 189–200.
+[60] t. annoura, t. nara, t. makiuchi, t. hashimoto, t. aoki, the origin of
+dihydroorotate dehydrogenase genes of kinetoplastids, with special
+reference to their biological significance and adaptation to anaerobic,
+parasitic condition, j. mol. evol. 60 (2005) 113–127.
+[61] k. alexander, m. parsons, a phosphoglycerate kinase-like molecule
+localized to glycosomal microbodies: evidence that the topogenic signal
+is not at the c-terminus, mol. biochem. parasitol. 46 (1991) 1–10.
+[62] k. alexander, m. parsons, characterization of a divergent glycosomal
+microbody phosphoglycerate kinase from trypanosoma brucei, mol.
+biochem. parasitol. 60 (1993) 265–272.
+[63] h. acosta, m. dubourdieu, w. quinones, a. caceres, f. bringaud, j.l.
+concepcion, pyruvate phosphate dikinase and pyrophosphate metabo-
+lism in the glycosome of trypanosoma cruzi epimastigotes, comp.
+biochem. physiol., b biochem. mol. biol. 138 (2004) 347–356.
+[64] l. palmieri, h. rottensteiner, w. girzalsky, p. scarcia, f. palmieri, r.
+erdmann, identification and functional
+the yeast
+peroxisomal adenine nucleotide transporter, embo j. 20 (2001)
+5049–5059.
+reconstitution of
+[65] w.f. visser, c.w. van roermund, h.r. waterham, r.j.a. wanders,
+identification of human pmp34 as a peroxisomal atp transporter,
+biochem. biophys. res. commun. 299 (2002) 494–497.
+[66] v.h. obungu, j.k. kiaira, n.k. olembo, m.r. njobu, pathways of
+glucose catabolism on procyclic trypanosoma congolense, indian j.
+biochem. biophys. 36 (1999) 305–311.
+[67] m. sanchez-moreno, d. lasztity, i. coppens, f.r. opperdoes, charac-
+terization of carbohydrate metabolism and demonstration of glycosomes
+in a phytomonas sp. isolated from euphorbia characias, mol. biochem.
+parasitol. 54 (1992) 185–199.
+[68] a. boveris, c.m. hertig, j.f. turrens, fumarate reductase and other
+mitochondrial activities in trypanosoma cruzi, mol. biochem. parasitol.
+19 (1986) 163–169.
+[69] m. chen, m. bennedsen, l. zhai, a. kharazmi, purification and
+enzymatic activity of an nadh-fumarate reductase and other mito-
+chondrial activities of leishmania parasites, apmis 109 (2001)
+801–808.
+[70] h.l. parker, t. hill, k. alexander, n.b. murphy, w.r. fish, m. parsons,
+three genes and two isozymes: gene conversion and the compartmen-
+talization and expression of the phosphoglycerate kinases of trypano-
+soma (nannomonas) congolense, mol. biochem. parasitol. 69 (1995)
+269–279.
+[71] c.a. adjé, f.r. opperdoes, p.a.m. michels, organization, sequence and
+stage-specific expression of the phosphoglycerate kinase genes of
+leishmania mexicana mexicana, mol. biochem. parasitol. 90 (1997)
+155–168.
+[72] g. mckoy, m. badal, q. prescott, h. lux, d.t. hart, characterisation of
+phosphoglycerate kinase genes in leishmania major and evidence for the
+absence of a third closely related gene or isoenzyme, mol. biochem.
+parasitol. 90 (1997) 169–181.
+[73] v. hannaert, e. saavedra, f. duffieux, j.p. szikora, d.j. rigden, p.a.m.
+michels, f.r. opperdoes, plant-like traits associated with metabolism of
+trypanosoma parasites, proc. natl. acad. sci. u. s. a. 100 (2003)
+1067–1071.
+[74] n. heise, f.r. opperdoes, purification, localisation and characterisation
+of glucose-6-phosphate dehydrogenase of trypanosoma brucei, mol.
+biochem. parasitol. 99 (1999) 21–32.
+[75] f. duffieux, j. van roy, p.a.m. michels, f.r. opperdoes, molecular
+characterization of the first two enzymes of the pentose-phosphate path-
+way of trypanosoma brucei. glucose-6-phosphate dehydrogenase and
+6-phosphogluconolactonase, j. biol. chem. 275 (2000) 27559–27565.
+[76] d.a. maugeri, j.j. cazzulo, the pentose phosphate pathway in trypa-
+nosoma cruzi, fems microbiol. lett. 234 (2004) 117–123.
+[77] m. rogers, p.j. keeling, lateral transfer and recompartmentalization of
+calvin cycle enzymes of plants and algae, j. mol. evol. 58 (2004)
+367–375.
+[78] m.l. ginger, e.s. ngazoa, c.a. pereira, t.j. pullen, m. kabiri, k.
+becker, k. gull, d. steverding, intracellular positioning of isoforms
+explains an unusually large adenylate kinase gene family in the parasite
+trypanosoma brucei, j. biol. chem. 280 (2005) 11781–11789.
+[79] n.s. carter, n. rager, b. ullman, purine and pyrimidine transport and
+metabolism,
+in: j.j. marr, t.w. nilsen, r.w. komuniecki (eds.),
+molecular medical parasitology, academic press/elsevier science ltd.,
+london, 2003, pp. 197–223.
+[80] f.r. opperdoes, j.p. szikora, in silico prediction of the glycosomal
+enzymes of leishmania major and trypanosomes, mol. biochem.
+parasitol. 147 (2006) 193–206.
+[81] d.t. hart, f.r. opperdoes, the occurrence of glycosomes (microbodies)
+in the promastigote stage of four major leishmania species, mol.
+biochem. parasitol. 13 (1984) 159–172.
+[82] e.a.c. wiemer, l. ijlst, j. van roy, r.j.a. wanders, f.r. opperdoes,
+identification of 2-enoyl coenzyme a hydratase and nadp+-
+dependent 3-hydroxyacyl-coa dehydrogenase activity in glycosomes
+of procyclic trypanosoma brucei, mol. biochem. parasitol. 82 (1996)
+107–111.
+[83] s.r. wilkinson, d.j. meyer, m.c. taylor, e.v. bromley, m.a. miles,
+j.m. kelly, the trypanosoma cruzi enzyme tcgpxi is a glycosomal
+peroxidase and can be linked to trypanothione reduction by glutathione
+or tryparedoxin, j. biol. chem. 277 (2002) 17062–17071.
+[84] s. muller, e. liebau, r.d. walter, r.l. krauth-siegel, thiol-based
+redox metabolism of protozoan parasites, trends parasitol. 19 (2003)
+320–328.
+[85] s.r. wilkinson, s.r. prathalingam, m.c. taylor, a. ahmed, d. horn,
+j.m. kelly, functional characterisation of
+the iron superoxide
+dismutase gene repertoire in trypanosoma brucei, free radic. biol.
+med. 40 (2006) 198–209.
+p.a.m. michels et al. / biochimica et biophysica acta 1763 (2006) 1463–1477
+1477
+[86] f. dufernez, c. yernaux, d. gerbod, c. noel, m. chauvenet, r.
+wintjens, v.p. edgcomb, m. capron, f.r. opperdoes, e. viscogliosi, the
+presence of four iron-containing superoxide dismutase isozymes in
+trypanosomatidae: characterization, subcellular localization, and phylo-
+genetic origin in trypanosoma brucei, free radic. biol. med. 40 (2006)
+210–225.
+[87] m. berriman, e. ghedin, c. hertz-fowler, g. blandin, h. renauld, d.c.
+bartholomeu, n.j. lennard, e. caler, n.e. hamlin, b. haas, et al., the
+genome of the african trypanosome trypanosoma brucei, science 309
+(2005) 416–422.
+[88] n. heise, f.r. opperdoes, localisation of a 3-hydroxy-3-methylglutaryl-
+coenzyme a reductase in the mitochondrial matrix of trypanosoma
+brucei procyclics, z. naturforsch., c 55 (2000) 473–477.
+[89] c.a. pereira, g.d. alonso, s. ivaldi, a.m. silber, m.j. alves, l.a.
+bouvier, m.m. flawia, h.n. torres, arginine metabolism in trypano-
+soma cruzi is coupled to parasite stage and replication, febs lett. 526
+(2002) 111–114.
+[90] c.a. pereira, g.d. alonso, s. ivaldi, a.m. silber, m.j. alves, h.n.
+torres, m.m. flawia, arginine kinase overexpression improves trypa-
+nosoma cruzi survival capability, febs lett. 554 (2003) 201–205.
+[91] n. visser, f.r. opperdoes, p. borst, subcellular compartmentation of
+glycolytic intermediates in trypanosoma brucei, eur. j. biochem. 118
+(1981) 521–526.
+[92] f.l. theodoulou, m. holdsworth, a. baker, peroxisomal abc
+transporters, febs lett. 580 (2006) 1139–1155.
+[93] c. yernaux, m. fransen, c. brees, s. lorenzen, p.a.m. michels, try-
+identification and
+panosoma brucei glycosomal abc transporters:
+membrane targeting, mol. membr. biol. 23 (2006) 157–172.
+[94] e.h. hettema, c.w. van roermund, b. distel, m. van den berg, c.
+vilela, c. rodrigues-pousada, r.j.a. wanders, h.f. tabak, the abc
+transporter proteins pat1 and pat2 are required for import of long-chain
+fatty acids into peroxisomes of saccharomyces cerevisiae, embo j. 15
+(1996) 3813–3822.
+[95] b.m. bakker, p.a.m. michels, f.r. opperdoes, h.v. westerhoff, what
+controls glycolysis in bloodstream form trypanosoma brucei? j. biol.
+chem. 274 (1999) 14551–14559.
+[96] m.a. albert, j.r. haanstra, v. hannaert, j. van roy, f.r. opperdoes,
+b.m. bakker, p.a.m. michels, experimental and in silico analyses of
+glycolytic flux control
+j. biol. chem. 280 (2005) 28306–28315.
+in bloodstream form trypanosoma brucei,
+[97] p.w. postma, j.w. lengeler, g.r. jacobson, phosphoenolpyruvate:
+carbohydrate phosphotransferase systems of bacteria, microbiol. rev.
+57 (1993) 543–594.
+[98] f.r. opperdoes, e. nohynkova, e. van schaftingen, a.m. lambeir, m.
+veenhuis, j. van roy, demonstration of glycosomes (microbodies) in the
+bodonid flagellate trypanoplasma borelli (protozoa, kinetoplastida),
+mol. biochem. parasitol. 30 (1988) 155–163.
+[99] r. erdmann, m. veenhuis, w.h. kunau, peroxisomes: organelles at the
+crossroads, trends cell biol. 7 (1997) 400–407.
+[100] i.j. van der klei, m. veenhuis, yeast peroxisomes:
+function and
+biogenesis of a versatile cell organelle, trends microbiol. 5 (1997)
+502–509.
+[101] j.c. farré, s. subramani, peroxisome turnover by micropexophagy: an
+autophagy-related process, trends cell biol. 14 (2004) 515–523.
+[102] w.a. dunn jr., j.m. cregg, j.a.k.w. kiel, i.j. van der klei, m. oku, y.
+sakai, a.a. sibirny, o.v. stasyk, m. veenhuis, pexophagy. the selective
+autophagy of peroxisomes, autophagy 1 (2005) 75–83.
+[103] a. bera, s. singh, r. nagaraj, t. vaidya, induction of autophagic cell
+death in leishmania donovani by antimicrobial peptides, mol. biochem.
+parasitol. 127 (2003) 23–35.
+[104] u.e. schaible, p.h. schlesinger, t.h. steinberg, w.f. mangel, t.
+kobayashi, d.g. russell, parasitophorous vacuoles of leishmania
+mexicana acquire macromolecules from the host cell cytosol via two
+independent routes, j. cell sci. 112 (1999) 681–693.
+[105] m. herman, s. gillies, p.a. michels, d.j. rigden, autophagy and related
+processes in trypanosomatids. insights from genomic and bioinformatics
+analyses, autophagy 2 (2006) 107–118.
+[106] d.j. klionsky, the molecular machinery of autophagy: unanswered
+questions, j. cell sci. 118 (2005) 7–18.
+[107] s. besteiro, r.a.m. williams, l.s. morrison, g.h. coombs, j.c.
+mottram, endosome sorting and autophagy are essential for differenti-
+ation and virulence of leishmania major, j. biol. chem. 281 (2006)
+11384–11396.
+[108] p.a.m. michels, j. moyersoen, h. krazy, n. galland, m. herman, v.
+hannaert, peroxisomes, glyoxysomes and glycosomes, mol. membr.
+biol. 22 (2005) 133–145.

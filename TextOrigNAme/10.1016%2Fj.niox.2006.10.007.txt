@@ -1,0 +1,991 @@
+nitric oxide 16 (2007) 339–347
+www.elsevier.com/locate/yniox
+nitric oxide diﬀerentially regulates the gene expression of caspase
+genes but not some autophagic genes
+simon w. rabkin *, shaun s. klassen
+university of british columbia, room d410, 2733 heather street, vancouver, b.c., canada v5z 3j5
+received 20 july 2006; revised 26 september 2006
+available online 28 october 2006
+abstract
+nitric oxide (no) is fundamentally important molecule which produces a wide range of cellular eﬀects with the most poorly under-
+stood one being alteration in the sensitivity to cell death. the objective of this study was to test the hypothesis that no would diﬀeren-
+tially aﬀect caspase or autophagy gene expression in a manner that might account for the disparate actions of no to either enhance or
+protect against cell death. neonatal mouse cardiomyocytes in culture were treated with the no donor sin-1 (3-morpholinosydnonimine
+hydrochloride) for up to 20 h. rna was collected, after either 2, 4 or 20 h, labeled and hybridized to cdna microarray slides the con-
+centration of sin-1 was selected after concentration response studies of sin-1 on cell viability, assessed by the mtt assay. the cdna
+microarrays were used that contained the mouse genome version 2.0 with genes for enzymes crucial to apoptosis, namely caspases-1, -2,
+-3, -6, -7, -8, -9, -11, -12 and -14, as well as for enzymes crucial to autophagy namely beclin-1, apg5l and apg12l. considering the entire
+20 h period, treatment with sin-1 was associated with signiﬁcant (p < 0.05) changes in ﬁve caspases. in contrast, there were no changes
+in the three separate genes involved in autophagy. time course experiments showed a consistent increase in caspase-8, -11 and -14, and a
+consistent decrease in caspase-1 and -6. notably, caspase-1 showed a persistent and marked reduction so that after 20 h of treatment,
+caspase-1 was dramatically reduced, almost ten fold, to 0.14 ± 0.11 of control. in conclusion, these results suggest that: (i) no regulates
+the expression of genes involved in apoptotic but not some involved in autophagic cell death; (ii) the more recently discovered caspase-14
+may have a role in the heart; (iii) no-induced alteration of diﬀerent caspases may explain the ability of no to either enhance or protect
+against cell death depending on whether associated factors involve, respectively caspases-8, -11, and -14 or -1 and -6.
+ó 2006 elsevier inc. all rights reserved.
+keywords: caspases-8 caspase-11; caspase-14 caspase-1 caspase-6 transcription nitric oxide cardiomyocyte
+nitric oxide (no), an important regulator in cell signal-
+ing and cell function, plays a crucial but confusing role in
+the modulation of cell viability or cell death. no can pro-
+mote cell death or inhibit cell death [1–6]. the duality of
+the role played by no in cell death has been attributed
+to the cellular concentration of no, its combination with
+the intracellular environment, and its interactions with
+other biological molecules such as oxygen or superoxide
+[5]. nevertheless, these explanations may not be adequate
+to explain these diametrically opposite eﬀects especially
+* corresponding author.
+e-mail address: rabkin@interchange.ubc.ca (s.w. rabkin).
+1089-8603/$ - see front matter ó 2006 elsevier inc. all rights reserved.
+doi:10.1016/j.niox.2006.10.007
+considering the diﬀerent modes of cell death, each with
+its multiple mechanisms.
+cell death is of critical importance in cell types that are
+essentially terminally diﬀerentiated because the loss of cell
+number is translated into a loss of organ function. of the
+three major modes of cell death—oncosis or necrosis,
+apoptosis and autophagy—apoptosis and autophagy are
+highly regulated and subject to genetic control [7]. while
+apoptosis can be caspase-independent, the major mecha-
+nism for cell death in apoptosis operates through this fam-
+ily of cysteine aspartate proteases which cleave proteins
+after an aspartate residue and are known as caspases
+[8,9]. caspases have been classiﬁed into groups based on
+substrate speciﬁcity, structural similarities and function
+[8]. while not precise, such classiﬁcations are conceptually
+340
+s.w. rabkin, s.s. klassen / nitric oxide 16 (2007) 339–347
+useful. caspases have been divided into those that are acti-
+vated during apoptosis (caspase-2, -3, -6, -7, -8, -9, and -10)
+and those that undergo activation during inﬂammatory
+responses (caspase-1, -4, -5, and -11) [10,11]. they can be
+further divided into known or hypothetical roles in the cas-
+pase cascade, speciﬁcally apical caspases (caspase-2, -8, -9,
+and -10) which are thought to be primarily responsible for
+initiating caspase-activation cascades, and downstream or
+eﬀector caspases (caspase-3, -6, and -7), which appear to
+be responsible for the actual destruction of the cell during
+apoptosis. autophagic cell death is less well understood
+but is characterized by sequestration of cytoplasm and
+organelles in double or multi-membrane autophagic vesi-
+cles, and their delivery to and subsequent degradation by
+the cell’s own lysosomal system [12]. in some settings,
+autophagy and apoptosis
+seem to be interconnected
+positively or negatively, suggesting ‘molecular switches’
+between apoptosis and autophagy [12]. while some investi-
+gators contend that autophagy is primarily a pro-survival
+rather
+than a pro-death mechanism, others disagree
+[12,13]. autophagy is regulated by a set of genes discrete
+from those regulating caspases. there are approximately
+17 gene products essential for autophagy and related path-
+ways in yeast, referred to as the atg genes with most of
+these having orthologs in higher eukaryotes [14]. amongst
+these is the mammalian gene encoding beclin 1, a novel
+bcl-2-interacting, coiled-coil protein, with structural simi-
+larity to the yeast autophagy gene, apg6/vps30 [15].
+while no is recognized to aﬀect caspase activation [16],
+there is little data on the eﬀect of no on caspase gene
+expression and less on autophagy gene expression. thus
+the objective of this study was to test the hypothesis that
+no would diﬀerentially aﬀect caspase or autophagy gene
+expression in a manner that might account for the dispa-
+rate actions of no to either enhance or protect against cell
+death.
+materials and methods
+cell culture
+neonatal mouse cardiomyocytes were cultured from
+cd1 mice as described [17]. brieﬂy, 1-day-old mice were
+sacriﬁced by decapitation. the heart was excised and trans-
+ferred to a petri dish containing dulbecco’s modiﬁed eagle
+medium, (dmem) supplemented with 10% fetal calf serum
+and 1% antibiotic/antimycotic (10,000 mg/ml streptomycin
+sulfate, 10,000 u/ml penicillin g sodium, and 25 lg/ml
+amphotericin b). the atria were removed and the ventricles
+manually minced in collagenase solution (1 mg/ml collage-
+nase type i, 0.6 mg/ml bovine serum albumin, 3 lm cacl2
+in dmem) into approximately 1 mm2 pieces. the tissue
+was then digested with agitation for 7 min at 37 °c. the ini-
+tial digestate was discarded, as it contained predominantly
+red blood cells and damaged cells. the digestion was repeat-
+ed two more times with 2 ml collagenase solution, adding
+the digestate to 2 ml of dmem with 10% fcs and 1% anti-
+biotic/antimycotic divided between two test tubes, and leav-
+ing the large tissue pieces behind. following this, the
+remaining tissue was subjected to 5 · 7 min at 37 °c agita-
+tion periods in digestion medium (0.005% trypsin, 0.1%
+bsa, 1.1 · 105 dornase units dnase in dms8 salt solu-
+tion (116 mm nacl, 5.4 mm kcl, 0.4 mm nah2po4–
+h2o, 0.75 mm na2po4–7 h2o, 5.5 mm glucose in water)),
+with the digestate being added to the dmem tubes follow-
+ing each period. the digestate was then centrifuged at
+1000 g for 5 min to pellet the cells. the supernatant was
+then removed and the cell pellet resuspended in dmem
+with 10% fcs and 1% antibiotic/antimycotic, and incubat-
+ed at 37 °c and 5% co2 in 60 mm culture dishes at a density
+of 3 · 106 cells per dish, or in 96-well microtitre plates at
+30,000 cells per well.
+assessment of cell viability (mtt assay)
+the mtt assay, an index of cell viability, is based on
+the ability of viable cells to reduce mtt (3-[4, 5-dimethyl-
+thiazol-2-yl]-2, 5-diphenyl tetrazolium bromide) from a yel-
+low water-soluble dye to a dark blue insoluble formazan
+product [18]. cardiomyocytes, seeded in multiwell microti-
+tre plates and incubated at 37 °c for 72 h, were treated with
+drugs or other agents or their diluent and returned to the
+incubator for 24 h. mtt dye (promega, madison, wi,
+usa), was added to each well for the last 4 h of treatment.
+the reaction was stopped with the addition of solubiliza-
+tion reagent (promega, madison, wi, usa.) and the opti-
+cal density was determined at 570 nm on a multiwell plate
+reader (bio-rad model #3550, bio-rad, mississauga, can-
+ada) as previously described [4,17]. the absorbance curve
+of the mtt dye exhibits a linear portion ranging from
+570 to 655 nm. background absorbance of medium in the
+absence of cells was subtracted. all samples were assayed
+in duplicate and the mean for each experiment was
+calculated.
+measurement of no by modiﬁcation of greiss assay
+no was measured by the modiﬁed greiss assay as pre-
+viously outlined [6]. brieﬂy, culture medium, after the treat-
+ment period, was removed and it (100 ll) was reacted with
+50 ll of sulfanilamide (10 mg/ml in 5% orthophosphoric
+acid) and 50 ll of n-(1-naphthyl)ethylenediamine (1 mg/
+ml) in a multiwell microtitre plate. similarly, diﬀerent con-
+centrations of sodium nitrite were reacted with sulfanil-
+amide and n-(1-naphthyl)ethylenediamine to produce a
+ ) concen-
+standard curve for determining the nitrite (no2
+tration in each sample. the absorbance was measured at a
+wavelength of 570 nm on a multiwell plate reader, and the
+nitrite concentration in each sample was determined.
+gene expression
+cells were cultured in dishes for 72 h. at 20, 4, and 2 h
+prior to cell collection, sin-1 or diluent was added to the
+s.w. rabkin, s.s. klassen / nitric oxide 16 (2007) 339–347
+341
+medium. following the incubation time, cells were collect-
+ed and rna isolated with qiagen rneasy mini kit,
+according to the manufacturer’s protocols (qiagen, missis-
+sauga, canada). rna was resuspended in rnase-free
+water,
+its concentration assessed by measurement at
+260 nm, and kept at  70 °c.
+a 3dna array 350ä expression array detection kit
+(genisphere, hatﬁeld, penn, usa) was used for labeling
+and hybridizing rna to microarray slides. microarray
+procedures were followed as outlined in the manufactur-
+er’s protocols. cdna microarrays were printed at the
+gene array facility at vancouver hospital, based on
+the mouse genome version 2.0 and included caspases-1,
+-2, -3, -6, -7, -8, -9, -11, -12, and -14 as well as beclin-1,
+apg5l and apg12l. procedures were followed as outlined
+in the manufacturer’s protocols. cdna was synthesized
+from isolated rna. five to ten micrograms of rna
+from either controls or treatments were combined with
+reverse transcriptase (rt) primer (cy5 for controls, cy3
+for treatments) and heated at 80 °c to facilitate anneal-
+ing. superase-in rnase inhibitor was added, and then
+superscript ii first strand buﬀer (gibco), dntp mix,
+dtt, and superscript ii enzyme (gibco) were added.
+this was then incubated for 2 h at 42 °c to allow the
+reverse transcription of cdna to occur. following this,
+naoh/edta was added to stop the reaction. incubation
+at 65 °c for 10 min denatured the dna/rna hybrids
+and degraded the rna. the reaction was neutralized
+by the addition of tris-hcl, ph 7.5. the cdna controls
+and treatments from each time point were combined and
+concentrated using millipore microconò ym-30 centrifu-
+gal filter devices. following concentration, the cdna
+was resuspended in a formamide-based hybridization
+buﬀer, warmed, and added to a microarray beneath a
+sigmacote-treated lifterslip. hybridization of the cdna
+to the array was then allowed to proceed overnight in a
+dark humidiﬁed chamber at 42 °c. the lifterslip is then
+removed and the array washed with a series of ssc/sds
+buﬀers and ethanol, and then centrifuged to dry. fluoro-
+phores cy3 and cy5 3dna capture reagents were then
+mixed with formamide-based hybridization buﬀer and
+anti-fade reagent, warmed, added to the array beneath
+a lifterslip and then incubated for 2.5–3 h in a dark
+humidiﬁed chamber at 45°c. following this hybridiza-
+tion, the lifterslip was removed and the arrays washed
+with a series of ssc/sds buﬀers and centrifuged to
+dry. they were stored in a light-protective box until
+scanned.
+microarrays were scanned on a perkin elmer micro-
+array analysis system utilizing scanarray express version
+2.2 software (perkin elmer, fremont, ca, usa) to obtain
+the array image ﬁles. array image ﬁles were then analyzed
+using imagene 6.0 (biodiscovery, el segundo, ca, usa)
+and genespring 7.0 (silicon genetics, palo alto, ca,
+usa) software to quantitate the ﬂuorophores’ intensities
+at each spot on the array, which corresponds to relative
+gene expression values.
+materials, drugs and chemicals
+hydrochloride) was
+culture media, fetal calf serum, antibiotic-antimycotic
+was obtained from gibco (burlington, canada). sin-1
+(3-morpholinosydnonimine
+from
+sigma chemical co. (st. louis, mo. usa). all chemicals,
+unless otherwise stated, were purchased from fischer sci-
+entiﬁc (ottawa, ontario, canada). 3dna array 350ä
+expression array detection kit was purchased from gen-
+isphere (hatﬁeld, pa, usa). rneasy mini kit for rna
+collection was purchased from qiagen (mississauga,
+canada).
+data analysis
+the data are presented as means ± sem. hypothesis
+testing used one way anova.
+results
+cardiomyocytes in culture were treated with the no
+donor sin-1 (3-morpholinosydnonimine hydrochloride)
+for 24 h and an assessment of total cell death was used to
+characterize the ability of sin-1 to alter cell viability.
+sin-1 treatment produced little alteration of mtt absor-
+bance at 570 nm at concentrations of 100 lm or less. in
+contrast, sin-1 at concentrations of 1000 lm or greater
+produced signiﬁcant reductions in absorbance (fig. 1
+insert). considering the direct relationship between mtt
+absorbance and cardiomyocyte cell number [4,17], the per-
+cent change in cell death compared to control was calculat-
+ed. sin-1, 1000 lm produced a 75.2 ± 18.2 % increase in
+cell death while 10,000 lm produced a 100% increase in
+cell death i.e., no viable cells (fig. 1). no-induced cell
+death encompasses apoptosis and necrosis or oncosis but
+the mtt assay is a good representation of both apoptotic
+and necrotic cell death in these cardiomyocytes (4,17).
+reproducibility of
+the microarray technique was
+assessed by comparing the results in the untreated (control)
+samples (fig. 2). the average ﬂuorescence intensities of the
+caspase spots in the microarray in the untreated (control)
+samples (cy5-bound samples), at 2 and 20 h, were correlat-
+ed with those observed at 4 h (the midpoint of the experi-
+ment). there was
+correlation
+(r = 0.8925, p < 0.001) indicating a high level of reproduc-
+ibility. taken together, these values represent a high conﬁ-
+dence in the control spots being consistent between
+experimental time points, and denote that any changes seen
+in the treatment spots may be safely interpreted as being a
+direct result of the treatments themselves.
+a highly
+signiﬁcant
+considering the concentration eﬀect relationship of
+sin-1 and cell death (fig. 1), sin-1, 500 lm was selected
+as the concentration that would induce only a small
+amount of cell death and permit examination of gene
+expression in viable cells. sin-1, 500 lm produced
+an increase in nitrite in the medium, as measured by the
+to
+greiss
+from 13.8 ± 14.8 lm in control
+reaction,
+342
+s.w. rabkin, s.s. klassen / nitric oxide 16 (2007) 339–347
+**
+0.2
+0.1
+0.0
+**
+100
+10
+sin-1[um]
+1000
+10000
+100
+50
+10
+100
+1000
+10000
+sin-1[um]
+fig. 1. sin-1 at high concentrations induces loss of cell viability as assessed by the mtt assay. cardiomyocytes were grown for 72 h in wells of a
+microtitre plate and treated with sin-1 at 1, 10, 100, 1000 or 10,000 mm or diluent (0) (n = 4 for each) for 24 h. the mtt dye was added for the ﬁnal 4 h.
+reactions were stopped and the absorbance was read at 570 nm. the data is represented as a percent change in cell death compared to control. each
+histogram shows the mean value ± sem. the inset is a histogram showing the absorbance values for each treatment. signiﬁcant diﬀerences from untreated
+control cells are indicated (*p < 0.05, **p < 0.01).
+1000000
+r=0.8925
+table 1
+the average change in gene expression over the treatment period for key
+enzymes involved in apoptosis (caspases) and autophagy
+protein
+caspase-1
+caspase-2
+caspase-3
+caspase-6
+caspase-7
+caspase-8
+caspase-9
+caspase-11
+caspase-12
+caspase-14
+apg5l
+apg12l
+beclin 1
+fold change (relative to control)
+signiﬁcance
+0.47 ± 0.27
+1.88 ± 0.60
+0.89 ± 0.18
+0.74 ± 0.11
+0.92 ± 0.06
+1.84 ± 0.29
+1.11 ± 0.06
+1.66 ± 0.24
+1.17 ± 0.12
+2.11 ± 0.57
+0.89 ± 0.14
+1.09 ± 0.09
+1.10 ± 0.08
+p = 0.04
+p = 0.14
+p > 0.2
+p = 0.02
+p > 0.2
+p = 0.008
+p > 0.2
+p = 0.0096
+p > 0.2
+p = 0.05
+p > 0.2
+p > 0.2
+p > 0.2
+were no changes in the three genes involved in autophagy
+namely beclin-1, apg5l and apg12l. caspase-8 was
+increased 1.8-fold greater than control, caspase-11 was
+increased 1.7 fold and caspase-14 was increased 2.1-fold.
+all these changes were statistically signiﬁcant (p < 0.05).
+caspase-2 was also increased but the change was not signif-
+icant because of the large variance. two caspases showed a
+signiﬁcant reduction in gene expression. caspase 1 was
+reduced to 0.43 of control and caspase-6 was reduced to
+0.74 of control. there were no signiﬁcant changes in cas-
+pase-3, -7, -9 and -12.
+the increase in caspase gene expression was evident after
+2 h of sin-1 treatment and persisted throughout the 20 h
+treatment period for each of the three caspases that were
+increased, namely capase-8, caspase-11 and caspase-14
+(fig. 3). caspase-2 showed a more variable response and
+10000
+100
+10
+100
+1000
+10000 100000
+cy5 intensity (4h)
+fig. 2. reproducibility of microarray data. a comparison of the caspase
+control spots on the microarrays was used to evaluate reproducibility of
+the experiments. from each experiment, the cy5 intensities of the control
+samples at 2 h (squares) and 20 h (triangles) for the diﬀerent caspases are
+plotted against those observed at 4 h (the midpoint of experiment).
+correlation analysis reveals an r value of 0.8925 for all samples,
+representative of highly reproducible results throughout the time courses
+for each caspase.
+177.8 ± 21.6 lm after treatment with sin-1. this nitrite
+concentration was of the same order of magnitude as the
+mean plasma nitrite concentration in the mouse 30 days
+after acute coronary artery ligation [19]. cells were treated
+with sin-1 for 2, 4 and 20 h and the intensity value at each
+time point for each gene being examined was divided by the
+intensity value of the control at the same time point to yield
+the fold change relative to control. considering the entire
+20 h period, sin-1 treatment was associated with signiﬁ-
+cant changes in ﬁve caspases (table 1). in contrast, there
+s.w. rabkin, s.s. klassen / nitric oxide 16 (2007) 339–347
+343
+caspase-8
+caspase-11
+caspase-14
+2.0
+4.0
+20.0
+treatment with sin (h)
+fig. 3. time course of the changes in gene expression for the caspase
+genes showing a consistent increase over the 20 h of treatment. microarray
+analysis following treatment of cardiomyocytes with 0.5 mm sin-1
+demonstrated increased caspase-8, -11, and -14 gene expression at 2, 4,
+and 20 h. cy5 (control) and cy3 (treatment) intensities were measured
+(n = 3 for each) and compared to produce fold-change results relative to
+control. the data is presented as
+the mean fold change of
+expression ± sem.
+caspase-1
+caspase-6
+1.5
+1.0
+0.5
+0.0
+2.0
+4.0
+20.0
+treatment with sin (h)
+fig. 4. time course of the changes in gene expression for the caspase
+genes showing a consistent decrease over the 20 h of treatment. micro-
+array analysis following treatment of cardiomyocytes with 0.5 mm sin-1
+demonstrated decreased caspase-1 and -6 gene expression at 2, 4, and 20 h.
+cy5 (control) and cy3 (treatment) intensities were measured (n = 3 for
+each) and compared to produce fold-change results relative to control.
+the data is presented as the mean fold change of expression ± sem.
+could possibly be increased with longer exposure times. in
+contrast, caspase-6 expression was reduced with the maxi-
+mum reduction after 2 h of treatment. caspase-1 expression
+continued to decrease over time and after 20 h of treatment
+showed a marked reduction to 0.14 ± 0.11 of control
+(fig. 4). caspase-3 showed a deﬁnite reduction at 2 h
+(0.5 ± 0.1 of control) but was at control levels thereafter.
+discussion
+our study is the ﬁrst to provide data indicating that no
+alters cardiac caspase gene expression and does so in a
+diﬀerential manner. caspases -8, -11 and -14 were deﬁnitely
+increased and possibly caspase-2 as well, while caspases-1
+and -6 were deﬁnitely decreased and caspase-3 showed a
+transient decrease in response to no treatment. our data
+are supported by experiments in melanoma cells treated
+with the speciﬁc inos inhibitor aminoguanidine (amg)
+for 24 h,
+in which caspase-1, caspase-3, caspase-6 gene
+expression was increased while caspase-10 was not signiﬁ-
+cantly changed [20]. our ﬁnding that no reduces cas-
+pase-1, caspase-6 and possibly caspase-3 expression are
+consistent with reduction in no generation being associat-
+ed with increases in gene expression of these caspases [20].
+our study presents novel data, compared to that investiga-
+tions [20], as it provides direct evidence on the action of
+no by using an eﬀective no donor, examined more than
+four caspases, and showed that the eﬀects are directly
+attributable to no rather than the product of one nos
+isoenzyme which can have speciﬁc subcellular distribution
+and discrete cellular eﬀects [21]. in pulmonary artery
+endothelial cells,
+the no donor noc-18 induced or
+repressed genes across diﬀerent families of genes, but only
+one caspase appeared to be examined, namely caspase-8
+which was increased [22]. tissue speciﬁc diﬀerences in
+response to no are important as the responses to no vary
+between tissues in part because of the diﬀerent physiologic
+function between tissues. the speciﬁcity of no to aﬀect
+caspases is suggested by the absence of any change in three
+separate genes involved in autophagy namely beclin-1,
+apg5l and apg12l.
+diﬀerential expression of caspase genes in response to
+no provides a novel potential explanation for the duality
+of the role of no to promote cell death or inhibit cell death
+[2–6]. overall we found no induced cell death in cardio-
+myocytes and we suggest that part of the explanation is
+due to no-induced increased expression of caspases -8,
+-11, and -14. in other circumstances where cell death is
+induced by stimuli that involve predominately a central
+role for caspase-1 and -6, the presence of no in this setting
+decreases caspase-1 and -6 expression and in turn reduces
+cardiac cell death. thus diﬀerential caspase gene expression
+may account for the apparent paradoxical eﬀect of no to
+either increase or decrease cell death.
+chromosomal location of caspases does not account for
+the action of no on caspase gene expression. the chromo-
+somal location of caspase-8 is close to that of caspase-10
+[23] yet no altered caspase-8 but had no eﬀect on caspase
+10. indeed the caspases aﬀected by no are all on diﬀerent
+chromosomes. caspase-8 is located on chromosome 2
+(2q33-q34), caspase-14 is located on chromosome 19
+(19p13.1), caspase-11 is on chromosome-8 (8q11), cas-
+pase-1 on chromosome 11 (11q23) and caspase-6 on chro-
+mosome 4 (4q25) [23,24].
+caspase-8, an apical or upstream caspase, is a critical
+activator of the caspase cascade in some forms of apopto-
+sis, namely, the death receptor (extrinsic) pathway. cas-
+pase-8 proenzyme is recruited to ligand-activated death
+receptor multimers, where it oligomerizes and comprises
+344
+s.w. rabkin, s.s. klassen / nitric oxide 16 (2007) 339–347
+a part of a death-inducing signaling complex (disc), at
+which point it is autoactivated and released into the cytosol
+to trigger apoptosis [25]. the signiﬁcance of caspase-8 with-
+in this pathway is demonstrated whereby targeted disrup-
+tion of the caspase-8 gene prevents apoptosis induction
+by tnf receptors, fas/apo1, and dr3 [26]. furthermore,
+transgenic mice generated with a cardiac-restricted expres-
+sion of an ft-binding protein/caspase-8 fusion protein
+show massive cardiac myocyte apoptosis and have short-
+ened survival times following treatment with the small mol-
+ecule fk1012h2, which induces oligomerization of the
+binding protein component and leads to autoactivation
+of caspase-8 [27]. caspase-8 inhibitors prevent cardiac
+myocyte death, cardiac dilation and contractile dysfunction
+in this murine model [27]. caspase-8 gene expression is sub-
+ject to regulation by factors such as e2f-1 transcription
+factor [28]. also, interventions such as irradiation, which
+are known to increase no production [29], induce expres-
+sion of caspase-8 [30]. thus no mediated induction of cas-
+pase-8 gene expression would be anticipated to induce an
+increase in cell death. the structure of the human cas-
+pase-8 gene is identical to the mouse with regard to exon/
+intron organization and exon size [31], and so these exper-
+iments are of particular signiﬁcance when extrapolating
+results to human.
+caspase-11, in contrast to most other caspases, is usual-
+ly not constitutively expressed but is readily induced by
+pro-inﬂammatory stimuli
+[32] or cellular ischemia [33].
+transcriptional control of caspase-11 expression is the
+dominant mechanism for regulation of caspase-11 because
+of its minimal constitutive expression and autoactivation
+[34]. this transcriptional control is mediated through vari-
+ous factors, but notably nf-jb in response to lps insult
+and stat1 in response to ifn-c, both of which bind to
+the caspase-11 gene promoter at binding sites upstream
+of the transcription initiation site, resulting in upregulation
+of the gene product [34]. caspase-11 gene expression is dif-
+ferentially regulated compared to caspase-1 [35]. caspase-
+11 can activate the caspase cascade leading to apoptosis
+[36], and cardiac ischemia followed by reperfusion increas-
+es caspase-11 activation through a p38 mitogen-activated
+protein kinase (mapk) dependent mechanism [37]. con-
+sidering that no is released in myocardial ischemic reper-
+fusion injury [38] and no activates p38 mapk [39],
+there is reasonable support for the concept of no mediat-
+ing increases in caspase-11 gene expression in cardiomyo-
+cytes leading to cell death.
+caspase-14 is expressed in a broad range of epithelial
+cell types including human epidermal, breast, prostate,
+and stomach [40] and can be upregulated by transcription-
+al activation [41]. to our knowledge, our study is the ﬁrst
+to suggest the presence of caspase-14 in cardiomyocytes.
+caspase-14 is an intriguing caspase as it possesses an
+unusually short prodomain, and it preferentially associates
+with large prodomain caspases [42,43]. however, unlike
+other short prodomain caspases,
+it is not activated by
+multiple death stimuli [42,43]. similar to other procaspases
+it
+requires proteolytic processing within its catalytic
+domain prior to dimerization and generation of the com-
+petent enzyme [44]. interestingly, however, the substrate
+preferences for the human and mouse enzymes are diﬀer-
+ent, with data suggesting that human caspase-14 is compa-
+rable to cytokine activator caspases-1, -4, and -5 while in
+the mouse it is more comparable to initiator caspases-8
+and -9 [44]. in agreement with this observation, we found
+similar expression changes in caspase-14 and caspase-8 in
+response to no. this commonality of responses is sup-
+ported by data in the brain following reperfusion injury,
+in which there is proteolytic processing of both procas-
+pase-8 and -14 [45]. nitric oxide production is a major
+candidate as a contributor to cell death in the brain in
+response to ischemia/hypoxia, as demonstrated by an inhi-
+bition of no production being associated with neuropro-
+tection [46]. considering this alongside the signiﬁcance of
+no in the heart, and also the relative lack or data sur-
+rounding caspase-14, we suggest a possible role for cas-
+pase-14 in cardiac cell death.
+no induced a marked reduction in caspase-1 which
+increased with greater treatment times. indeed, the eﬀect
+of no on caspase-1 gene expression was consistent and
+was most dramatic, being almost a tenth of baseline by
+20 h following no treatment. caspase-1 is mainly known
+as a controller of crucial components of inﬂammatory
+and immune responses, with its activation occurring in
+the inﬂammosome [11]. the formation of the inﬂammo-
+some, comprising procaspase-1 and -5 as well as the
+card-containing protein nalp-1, results in the process-
+ing and activation of the cytokines il-1b and il-18, which
+play a central role in the immune responses [11]. the tran-
+scriptional regulation pattern of caspase-1 has received lit-
+tle attention. the p53-related protein p73 has been
+observed to regulate caspase-1 transcription, an ability
+which is required for ifn-c-induced activation of cas-
+pase-1 transcription [47]. loss of caspase-1 expression in
+gastric carcinoma cell lines correlates inversely with p53
+expression [48]. as no has been linked to inﬂammation
+[49], our data suggest that no may operate in the inﬂam-
+matory process by decreasing caspase-1 expression through
+a modulation of p73 signaling pathways, and possibly p53
+pathways as well.
+in mediating
+interestingly,
+cardiomyocyte
+caspase-1 is also a mediator of apoptosis, especially in
+some forms of cardiac and neuronal cell death [50].
+brain injury induced by middle cerebral artery occlusion,
+a mouse model of stroke, is signiﬁcantly reduced in cas-
+pase-1-deﬁcient mice [51]. in the heart, caspase-1 is oper-
+cell death and
+ative
+impairment in contractile function in myocardial
+ische-
+mia [52].
+caspase-1 overexpression in
+human ovarian cancer cells induces apoptosis [53]. the
+eﬀect of no on caspase-1 gene expression may act in
+concert with the recognized ability of no to inhibit cas-
+pase-1 activation [16]. thus, no-induced enhancement of
+survival maybe operative through reduction in caspase-1
+expression.
+s.w. rabkin, s.s. klassen / nitric oxide 16 (2007) 339–347
+345
+caspase-6 is an eﬀector caspase and can be activated by
+initiator caspases, but it can also be activated by caspase-3
+[54]. the expression of caspase-6 correlates with apoptosis
+in certain malignancies [55]. in the streptozotocin-induced
+diabetic rat, the heart shows an increased activity of cas-
+pase-6, but not caspase-3 and -7, in association with an
+increase in apoptosis [56]. in transient global brain ische-
+mic injury, there is a time-dependent activation of cas-
+pase-6 in both neurons and glia in ischemia-sensitive
+regions of the brain [45] and active caspase-6 is strongly
+implicated in human neuronal degeneration and apoptosis
+[57].
+the relationship of caspase-6 expression and cell surviv-
+al has been infrequently investigated. in colon cancer cell
+lines, reduction of caspase-6 expression by small interfering
+rna inhibits apoptosis induced by lamin a cleavage [58].
+proteolysis of lamin a is involved in the caspase-mediated
+nuclear disruption characteristic of apoptosis [59]. our
+results, which show a down-regulation of caspase-6 follow-
+ing no treatment, suggest that no may function through
+a lamin a-independent apoptotic pathway. an intriguing
+potential mechanism involves p53, as p53 exerts transcrip-
+tional control over caspase-6 through a binding site within
+the third intron, leading to transactivation of the caspase
+gene [60]. a decrease in p53 binding activity to this site fol-
+lowing no treatment could lead to direct reduction in cas-
+pase-6 expression which may be caused by a secondary
+factor displacing p53 from the dna rather than a direct
+modulation of p53 itself. caspase-6 expression and activa-
+tion has been linked to transcription factor ap-2a [55]. ap-
+2a binds to the bcl-2 promoter and cause its transcriptional
+repression, leading to apoptosis via the cytochrome c-de-
+pendent intrinsic mitochondrial pathway [61]. our data
+suggest that no-induced decrease in caspase-6 expression
+may allow for heightened levels of ap-2a transcription,
+leading to repression of bcl-2 and apoptosis.
+several
+limitations of this study should be borne in
+mind. first, gene expression was examined only in cardio-
+myocytes. however, no has considerable importance in
+the heart as no exerts a direct eﬀect on regulation of con-
+tractility, modulation of oxygen consumption, substrate
+utilization, hypertrophy, sensitivity to apoptosis, and myo-
+cyte repair [62]. furthermore, no may play a particularly
+important role in myocardial reperfusion injury [38]. sec-
+ond, we used microarrays and mrna expression proﬁling,
+which have some inherent uncertainty. because such small
+amounts of rna are required to perform an experiment,
+minor discrepancies in speciﬁcity or binding between exper-
+iments can lead to seemingly large fold changes when com-
+paring treatments to standards. we attempted to minimize
+these problems by examining diﬀerent time points during
+no treatment. additionally, identifying changes in ﬂuoro-
+phore intensity amidst signiﬁcant background noise inten-
+sity may lead to false-positive
+[63]. probe
+speciﬁcity may also be a factor, especially where two genes
+share signiﬁcant sequence homology [64]. similarly, if a
+number of isoforms are present on the microarray, a conﬁ-
+reports
+dent assessment of which is diﬀerentially expressed in a
+given experiment may be diﬃcult to make [64]. further ver-
+iﬁcation of the results through secondary procedures (for
+example northern blots) would strengthen the data
+obtained by the arrays. despite these technical shortcom-
+ings of the method, the results obtained provide a good
+appraisal of the genetic response being examined. these
+results, of course, are limited to the genetic response. dif-
+ferences in transcript expression patterns need to be cor-
+roborated with studies examining protein expression
+levels, activity (where appropriate) and functional diﬀer-
+ences. however, changes in response to a factor such as
+no can be due to a direct action of no on caspase activa-
+tion so that gene expression studies are indispensable in
+understanding the overall eﬀect of no on caspases. the
+ability of no to induce transcriptional regulation is recog-
+nized [65], so that its occurrence in cardiomyocytes is not
+unexpected. further research into the concepts presented
+herein will require measurement of the interested genes
+by rt-pcr in cells following in situ stimulation by other
+no donors and additional examination of the interactions
+between gene and protein expression, and how they relate
+to functional action. one can ask the question whether
+the eﬀects of sin-1 are speciﬁc to this no donor and
+whether other no donors would produce the same
+response. to the extent that the responses are dependant
+on sin-1, this would suggest that they are more closely
+linked with conditions such as acute myocardial infarction
+which is associated with increased cardiac peroxynitrite
+generation [21,66]. nevertheless it is likely that our data
+can be extrapolated to other no donors, as the no donor
+noc-18 also increased caspase-8 gene expression [22].
+these data suggest that the eﬀect is mediated by no and
+its metabolites and is not restricted to an action of sin-1
+per se. another concern is that we did not measure the
+amount of cell death at 500 lm sin-1, the concentration
+that was used to evaluate gene expression. however, at
+1000 lm, there is widespread damage to the cells, and
+the observed changes in rna would not be solely due to
+direct eﬀects of no on gene expression; at 100 lm, no cell
+death was detectable. therefore a midpoint was selected.
+the data suggest a dose response relationship between
+sin-1 and cell death and the concentration dependent cell
+death with other no donors is well recognized in cardio-
+myocytes [4]. thus it is highly unlikely that 500lm sin-1
+would produce anything else other than a mid level of cell
+death. lastly it is diﬃcult to be certain how the concentra-
+tion of no and its metabolites (such as peroxynitrite) at
+the cellular level in the current study compare to the most
+clinical conditions. however the concentration of sin-1
+used in our study generated nitrite concentration levels that
+were within two fold of plasma levels seen in mice one
+month after acute coronary artery ligation [19], and no
+levels immediately after acute myocardial infarction should
+be even higher than at the one month time point [66].
+in summary, these results suggest that no regulates
+the expression of genes involved in apoptotic but not
+346
+s.w. rabkin, s.s. klassen / nitric oxide 16 (2007) 339–347
+autophagic cell death. in addition, several caspases that
+have not previously been linked to the heart, such as cas-
+pase-6 and -14, may have an important role in the heart.
+importantly, our results suggest that the transcriptional
+activation of caspases can be divided into three groups,
+and that no-induced alteration of diﬀerent caspases may
+explain the ability of no to either enhance or protect
+against cell death depending on whether associated factors
+involve, respectively caspases-8, -11, and -14 or -1 and -6.
+references
+[1] b.m. choi, h.o. pae, s.i. jang, y.m. kim, h.t. chung, nitric oxide
+as a pro-apoptotic as well as anti-apoptotic modulator, j. biochem.
+mol. biol. 35 (2002) 116–126.
+[2] j.p. kolb, mechanisms involved in the pro- and anti-apoptotic role of
+no in human leukemia, leukemia 14 (2000) 1685–1694.
+[3] g. melino, m.v. catani, m. corazzari, p. guerrieri, f. bernassola,
+nitric oxide can inhibit apoptosis or switch it into necrosis, cell mol.
+life sci. 57 (2000) 612–622.
+[4] s.w. rabkin, j.y. kong, nitroprusside induces cardiomyocyte death:
+interaction with hydrogen peroxide, am. j. physiol. heart circ.
+physiol. 279 (2000) h3089–h3100.
+[5] c. stefanelli, c. pignatti, b. tantini, i. stanic, f. bonavita, c.
+muscari, c. guarnieri, c. clo, c.m. caldarera, nitric oxide
+can function as either a killer molecule or an antiapoptotic
+eﬀector in cardiomyocytes, biochim. biophys. acta 1450 (1999)
+406–413.
+[6] m.y. tsang, s.e. cowie, s.w. rabkin, palmitate increases nitric
+oxide synthase activity that is involved in palmitate-induced cell death
+in cardiomyocytes, nitric. oxide 10 (2004) 11–19.
+[7] g. kroemer, w.s. el deiry, p. golstein, m.e. peter, d. vaux, p.
+vandenabeele, b. zhivotovsky, m.v. blagosklonny, w. malorni,
+r.a. knight, m. piacentini, s. nagata, g. melino, classiﬁcation of
+cell death: recommendations of the nomenclature committee on cell
+death, cell death diﬀer. 12 (suppl 2) (2005) 1463–1467.
+[8] n.a. thornberry, y. lazebnik, caspases: enemies within, science 281
+(1998) 1312–1316.
+[9] d.w. nicholson, caspase structure, proteolytic substrates, and
+function during apoptotic cell death, cell death diﬀer. 6 (1999)
+1028–1042.
+[10] m. lamkanﬁ, w. declercq, m. kalai, x. saelens, p. vandenabeele,
+alice in caspase land. a phylogenetic analysis of caspases from worm
+to man, cell death diﬀer. 9 (2002) 358–361.
+[11] f. martinon, j. tschopp, inﬂammatory caspases: linking an intra-
+cellular innate immune system to autoinﬂammatory diseases, cell 117
+(2004) 561–574.
+[12] d. gozuacik, a. kimchi, autophagy as a cell death and tumor
+suppressor mechanism, oncogene 23 (2004) 2891–2906.
+[13] b. levine, j. yuan, autophagy in cell death: an innocent convict? j.
+clin. invest. 115 (2005) 2679–2688.
+[14] d.j. klionsky, j.m. cregg, w.a. dunn jr., s.d. emr, y. sakai, i.v.
+sandoval, a. sibirny, s. subramani, m. thumm, m. veenhuis, y.
+ohsumi, a uniﬁed nomenclature for yeast autophagy-related genes,
+dev. cell 5 (2003) 539–545.
+[15] x.h. liang, s. jackson, m. seaman, k. brown, b. kempkes, h.
+hibshoosh, b. levine, induction of autophagy and inhibition of
+tumorigenesis by beclin 1, nature 402 (1999) 672–676.
+[16] s. dimmeler, j. haendeler, m. nehls, a.m. zeiher, suppression of
+apoptosis by nitric oxide via inhibition of interleukin-1beta-convert-
+ing enzyme (ice)-like and cysteine protease protein (cpp)-32-like
+proteases, j. exp. med. 185 (1997) 601–607.
+[17] j.y. kong, s.w. rabkin, angiotensin ii does not induce apoptosis
+but rather prevents apoptosis in cardiomyocytes, peptides 21 (2000)
+1237–1247.
+[18] t. mosmann, rapid colorimetric assay for cellular growth and
+survival: application to proliferation and cytotoxicity assays, j.
+immunol. methods 65 (1983) 55–63.
+[19] q. feng, x. lu, d.l. jones, j. shen, j.m. arnold, increased inducible
+nitric oxide synthase expression contributes to myocardial dysfunc-
+tion and higher mortality after myocardial
+infarction in mice,
+circulation 104 (2001) 700–704.
+[20] o. salvucci, m. carsana, i. bersani, g. tragni, a. anichini,
+antiapoptotic role of endogenous nitric oxide in human melanoma
+cells, cancer res. 61 (2001) 318–326.
+[21] u. forstermann, i. gath, p. schwarz, e.i. closs, h. kleinert,
+isoforms of nitric oxide synthase. properties, cellular distribution and
+expressional control, biochem. pharmacol. 50 (1995) 1321–1332.
+[22] l. li, j. zhang, e.r. block, j.m. patel, nitric oxide-modulated
+marker gene expression of signal transduction pathways in lung
+endothelial cells, nitric oxide 11 (2004) 290–297.
+[23] j. grenet, t. teitz, t. wei, v. valentine, v.j. kidd, structure and
+chromosome localization of the human casp8 gene, gene 226 (1999)
+225–232.
+[24] d.p. cerretti, c.j. kozlosky, b. mosley, n. nelson, k. van ness,
+t.a. greenstreet, c.j. march, s.r. kronheim, t. druck, l.a.
+cannizzaro, et al., molecular cloning of
+the interleukin-1 beta
+converting enzyme, science 256 (1992) 97–100.
+[25] i. lavrik, a. krueger, i. schmitz, s. baumann, h. weyd, p.h.
+krammer, s. kirchhoﬀ, the active caspase-8 heterotetramer is
+formed at the cd95 disc, cell death diﬀer. 10 (2003) 144–145.
+[26] e.e. varfolomeev, m. schuchmann, v. luria, n. chiannilkulchai,
+j.s. beckmann, i.l. mett, d. rebrikov, v.m. brodianski, o.c.
+kemper, o. kollet, t. lapidot, d. soﬀer, t. sobe, k.b. avraham, t.
+goncharov, h. holtmann, p. lonai, d. wallach, targeted disruption
+of the mouse caspase 8 gene ablates cell death induction by the tnf
+receptors, fas/apo1, and dr3 and is lethal prenatally, immunity 9
+(1998) 267–276.
+[27] d. wencker, m. chandra, k. nguyen, w. miao, s. garantziotis,
+s.m. factor, j. shirani, r.c. armstrong, r.n. kitsis, a mechanistic
+role for cardiac myocyte apoptosis in heart failure, j. clin. invest. 111
+(2003) 1497–1504.
+[28] q. cao, y. xia, m. azadniv, i.n. crispe, the e2f-1 transcription
+factor promotes caspase-8 and bid expression, and enhances fas
+signaling in t cells, j. immunol. 173 (2004) 1111–1117.
+[29] y. ibuki and r. goto, ionizing radiation-induced macrophage
+activation: augmentation of nitric oxide production and its signiﬁ-
+cance, cell. mol. biol. (noisy. -le-grand) 50 online pub (2004)
+ol617-ol626.
+[30] j. yasumoto, y. imai, a. takahashi, k. ohnishi, k. yuki, t. kirita, t.
+ohnishi, analysis of apoptosis-related gene expression after x-ray
+irradiation in human tongue squamous cell carcinoma cells harboring
+wild-type or mutated p53 gene, j. radiat. res. (tokyo) 44 (2003) 41–45.
+[31] k. sakamaki, s. tsukumo, s. yonehara, molecular cloning and
+characterization of mouse caspase-8, eur. j. biochem. 253 (1998)
+399–405.
+[32] p. schotte, r. schauvliege, s. janssens, r. beyaert, the cathepsin b
+inhibitor z-fa.fmk inhibits cytokine production in macrophages
+stimulated by lipopolysaccharide, j biol chem. 276 (2001) 21153–
+21157.
+[33] d.c. harrison, r.p. davis, b.c. bond, c.a. campbell, m.f. james,
+a.a. parsons, k.l. philpott, caspase mrna expression in a rat
+model of focal cerebral ischemia, brain res. mol. brain res. 89
+(2001) 133–146.
+[34] r. schauvliege, j. vanrobaeys, p. schotte, r. beyaert, caspase-11
+gene expression in response to lipopolysaccharide and interferon-
+gamma requires nuclear factor-kappa b and signal transducer and
+activator of transcription (stat) 1, j. biol. chem. 277 (2002) 41624–
+41630.
+[35] x.y. lin, m.s. choi, a.g. porter, expression analysis of the human
+caspase-1 subfamily reveals speciﬁc regulation of the casp5 gene by
+lipopolysaccharide and interferon-gamma, j. biol. chem. 275 (2000)
+39920–39926.
+s.w. rabkin, s.s. klassen / nitric oxide 16 (2007) 339–347
+347
+[36] s.j. kang, s. wang, h. hara, e.p. peterson, s. namura, s. amin-
+hanjani, z. huang, a. srinivasan, k.j. tomaselli, n.a. thornberry,
+m.a. moskowitz, j. yuan, dual role of caspase-11 in mediating
+activation of caspase-1 and caspase-3 under pathological conditions,
+j. cell biol. 149 (2000) 613–622.
+[37] m. wang, b.m. tsai, a. kher, l.b. baker, g.m. wairiuko, d.r.
+meldrum, role of endogenous testosterone in myocardial proinﬂam-
+matory and proapoptotic signaling after acute ischemia-reperfusion,
+am. j. physiol. heart circ. physiol. 288 (2005) h221–h226.
+[38] g. ambrosio, i. tritto, reperfusion injury: experimental evidence
+and clinical implications, am. heart j. 138 (1999) s69–s75.
+[39] j.s. kim, z.y. park, y.j. yoo, s.s. yu, j.s. chun, p38 kinase
+mediates nitric oxide-induced apoptosis of chondrocytes through the
+inhibition of protein kinase c zeta by blocking autophosphorylation,
+cell death diﬀer. 12 (2005) 201–212.
+[40] s. hu, s.j. snipas, c. vincenz, g. salvesen, v.m. dixit, caspase-14 is
+a novel developmentally regulated protease, j. biol. chem. 273 (1998)
+29648–29653.
+[41] g. pistritto, m. jost, s.m. srinivasula, r. baﬀa, j.l. poyet, c. kari,
+y. lazebnik, u. rodeck, e.s. alnemri, expression and transcrip-
+tional regulation of caspase-14 in simple and complex epithelia, cell
+death diﬀer. 9 (2002) 995–1006.
+[42] c.m. van de, g. van loo, s. pype, w. van criekinge, d.b. van, i.f.
+molemans, w. fiers, w. declercq, p. vandenabeele, identiﬁcation of
+a new caspase homologue: caspase-14, cell death diﬀer. 5 (1998)
+838–846.
+[43] m. ahmad, s.m. srinivasula, r. hegde, r. mukattash, t. fernan-
+des-alnemri, e.s. alnemri, identiﬁcation and characterization of
+murine caspase-14, a new member of the caspase family, cancer res.
+58 (1998) 5201–5205.
+[44] j. mikolajczyk, f.l. scott, s. krajewski, d.p. sutherlin, g.s.
+salvesen, activation and substrate speciﬁcity of caspase-14, bio-
+chemistry 43 (2004) 10560–10569.
+[45] m. krajewska, r.e. rosenthal, j. mikolajczyk, h.r. stennicke, t.
+wiesenthal, j. mai, m. naito, g.s. salvesen, j.c. reed, g. fiskum,
+s. krajewski, early processing of bid and caspase-6, -8, -10, -14 in the
+canine brain during cardiac arrest and resuscitation, exp. neurol. 189
+(2004) 261–279.
+[46] j. rodrigo, a.p. fernandez, d. alonso, j. serrano, p. fernandez-
+vizarra, r. martinez-murillo, m.l. bentura, a. martinez, nitric
+oxide in the rat cerebellum after hypoxia/ischemia, cerebellum 3
+(2004) 194–203.
+[47] n. jain, s. gupta, c. sudhakar, v. radha, g. swarup, role of p73 in
+regulating human caspase-1 gene transcription induced by interferon-
+{gamma} and cisplatin, j. biol. chem. 280 (2005) 36664–36673.
+[48] c.d. jee, h.s. lee, s.i. bae, h.k. yang, y.m. lee, m.s. rho, w.h.
+kim, loss of caspase-1 gene expression in human gastric carcinomas
+and cell lines, int. j. oncol. 26 (2005) 1265–1271.
+[49] l. bosca, m. zeini, p.g. traves, s. hortelano, nitric oxide and cell
+viability in inﬂammatory cells: a role for no in macrophage function
+and fate, toxicology 208 (2005) 249–258.
+[50] r.m. friedlander, apoptosis and caspases in neurodegenerative
+diseases, n. engl. j. med. 348 (2003) 1365–1375.
+[51] g.p. schielke, g.y. yang, b.d. shivers, a.l. betz, reduced ischemic
+brain injury in interleukin-1 beta converting enzyme-deﬁcient mice, j.
+cereb. blood flow metab. 18 (1998) 180–185.
+[52] f.m. syed, h.s. hahn, a. odley, y. guo, j.g. vallejo, r.a. lynch,
+d.l. mann, r. bolli, g.w. dorn, proapoptotic eﬀects of caspase-1/
+interleukin-converting enzyme dominate in myocardial
+ischemia,
+circ. res. 96 (2005) 1103–1109.
+[53] q. feng, p. li, c. salamanca, d. huntsman, p.c. leung, n.
+auersperg, caspase-1alpha is down-regulated in human ovarian
+cancer cells and the overexpression of caspase-1alpha induces
+apoptosis, cancer res. 65 (2005) 8591–8596.
+[54] e.a. slee, m.t. harte, r.m. kluck, b.b. wolf, c.a. casiano, d.d.
+newmeyer, h.g. wang, j.c. reed, d.w. nicholson, e.s. alnemri,
+d.r. green, s.j. martin, ordering the cytochrome c-initiated caspase
+cascade: hierarchical activation of caspases-2, -3, -6, -7, -8, and -10 in
+a caspase-9-dependent manner, j. cell biol. 144 (1999) 281–292.
+[55] m. vakkala, p. paakko, y. soini, expression of caspases 3, 6 and 8 is
+increased in parallel with apoptosis and histological aggressiveness of
+the breast lesion, br. j. cancer 81 (1999) 592–599.
+[56] j. bojunga, d. nowak, p.s. mitrou, d. hoelzer, s. zeuzem, k.u.
+chow, antioxidative treatment prevents activation of death-receptor-
+and mitochondrion-dependent apoptosis in the hearts of diabetic rats,
+diabetologia 47 (2004) 2072–2080.
+[57] h. guo, s. albrecht, m. bourdeau, t. petzke, c. bergeron, a.c.
+leblanc, active caspase-6 and caspase-6-cleaved tau in neuropil
+threads, neuritic plaques, and neuroﬁbrillary tangles of alzheimer’s
+disease, am. j. pathol. 165 (2004) 523–531.
+[58] s.c. lee, j. chan, m.v. clement, s. pervaiz, functional proteomics
+of resveratrol-induced colon cancer cell apoptosis: caspase-6-medi-
+ated cleavage of lamin a is a major signaling loop, proteomics (2006).
+[59] d.r. croft, m.l. coleman, s. li, d. robertson, t. sullivan, c.l.
+stewart, m.f. olson, actin-myosin-based contraction is responsible
+for apoptotic nuclear disintegration, j. cell biol. 168 (2005) 245–255.
+[60] t.k. maclachlan, w.s. el deiry, apoptotic threshold is lowered by
+p53 transactivation of caspase-6, proc. natl. acad. sci. usa 99
+(2002) 9492–9497.
+[61] n. wajapeyee, r. britto, h.m. ravishankar, k. somasundaram,
+apoptosis induction by ap-2alpha involves transcriptional repression
+of bcl-2, j. biol. chem. 281 (2006) 16207–16219.
+[62] p.b. massion, m. pelat, c. belge, j.l. balligand, regulation of the
+mammalian heart function by nitric oxide, comp. biochem. physiol.
+a mol. integr. physiol. 142 (2005) 144–150.
+[63] h.m. fathallah-shaykh, microarrays: applications and pitfalls,
+arch. neurol. 62 (2005) 1669–1672.
+[64] r. kothapalli, s.j. yoder, s. mane, t.p. loughran jr., microarray
+results: how accurate are they? bmc bioinformatics 3 (2002) 22.
+[65] s. dhakshinamoorthy, a.g. porter, nitric oxide-induced transcrip-
+tional up-regulation of protective genes by nrf2 via the antioxidant
+response element counteracts apoptosis of neuroblastoma cells, j.
+biol. chem. 279 (2004) 20096–20107.
+[66] p. liu, c.e. hock, r. nagele, p.y. wong, formation of nitric oxide,
+ischemia-reperfusion
+superoxide, and peroxynitrite in myocardial
+injury in rats, am. j. physiol. 272 (1997) h2327–h2336.

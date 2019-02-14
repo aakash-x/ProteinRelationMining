@@ -1,0 +1,935 @@
+insight  review
+nature|vol 443|19 october 2006|doi:10.1038/nature05293
+cell death in the nervous system
+dale e. bredesen1,2, rammohan v. rao1 & patrick mehlen1,3 
+neurodegenerative diseases such as alzheimer’s disease and parkinson’s disease trigger neuronal cell death 
+through endogenous suicide pathways. surprisingly, although the cell death itself may occur relatively late 
+in the course of the degenerative process, the mediators of the underlying cell-death pathways have shown 
+promise as potential therapeutic targets.
+thank heaven! the crisis — the danger, is past, and the 
+lingering illness, is over at last — and the fever called 
+“living” is conquered at last.
+from for annie, by edgar allan poe
+programmed cell death (pcd) has a critical role in the development 
+of the nervous system, and both anti-pcd and pro-pcd modulators 
+feature prominently in the establishment of neural architecture. it has 
+been 100 years since the first description of developmental neuronal-
+cell death1, and more than 50 years since levi-montalcini showed that 
+such physiological cell death is inhibited by soluble factors such as nerve 
+growth factor2. dysregulation of cell-death programmes features in 
+developmental and neoplastic disorders of the nervous system, and 
+there is increasing evidence to suggest that such dysregulation may also 
+occur in neurodegenerative, infectious, traumatic, ischaemic, metabolic 
+and demyelinating disorders.
+in 1964, lockshin and his colleagues introduced the term pro-
+grammed cell death to describe the apparently predetermined pattern 
+by which specific cells die during insect development3. in 1966, it was 
+shown that this process requires protein synthesis, at least in some 
+cases2, indicating that it is the result of an active cellular suicide process. 
+then, in 1972, john kerr and his colleagues coined the term apoptosis 
+to describe a morphologically relatively uniform set of cell deaths seen 
+in many different situations, from development to insult response to 
+cell turnover4.
+although pcd has often been equated with apoptosis, non-apoptotic 
+forms also exist5–9, and neurodegenerative conditions such as hunting-
+ton’s disease, amyotrophic lateral sclerosis (als) and ischaemia show 
+cell deaths that do not fulfil the criteria for apoptosis7.
+classical developmental studies support the view that at least three 
+different forms of pcd are distinguishable (table 1): type i, also known 
+as nuclear or apoptotic; type ii, also known as autophagic3,5,8; and type 
+iii, also known as cytoplasmic5,6,8,10. these occur reproducibly in spe-
+cific nuclei and with specific frequencies, at particular times of nerv-
+ous-system development. but these cell-death pathways may also be 
+activated by various insults, such as dna damage or the accumulation 
+of misfolded proteins.
+neurodegenerative diseases are associated with a number of insults 
+that may trigger pcd: misfolded proteins, reactive oxygen and nitrogen 
+species, mitochondrial-complex inhibition, calcium entry, excitotoxic-
+ity, trophic-factor withdrawal, and death-receptor activation to name a 
+few. in some cases, however, deaths occur that do not fit neatly into any 
+of the three classes of pcd, and these more controversial forms of death 
+are also discussed below.
+temporal studies of neurodegenerative models suggest, however, that 
+pcd may be a relatively late event in the neurodegenerative process, 
+and that death is preceded by early functional alterations (for example, 
+electrophysiological deficits and cellular-stress-pathway activation) and 
+microanatomical deficits (such as neurite retraction and synapse loss; 
+see page 768). surprisingly, then, various approaches aimed at inhibit-
+ing pcd have led to improved outcomes in neurodegenerative models, 
+indicating that these pathways could have an important role in neuro-
+degenerative diseases. furthermore, recent studies have suggested that 
+death in the nervous system may trigger stem-cell proliferation and 
+survival, and so the work on cell death pathways — the subject of this 
+review — offers many potential points of entry into the therapeutics of 
+neurodegenerative disease states. 
+classical apoptosis
+apoptosis (from the greek, ‘falling away’), also referred to as nuclear 
+or type i pcd, is the best-characterized type of pcd (box 1). mor-
+phologically, cells typically round up, form blebs, undergo zeiosis (an 
+appearance of boiling due to rapid bleb formation), chromatin conden-
+sation, nuclear fragmentation and the budding off of apoptotic bodies. 
+phosphatidylserine, which is usually located at the plasma membrane 
+and faces inwards on live cells, now faces both inwards and outwards11. 
+these morphological and histochemical changes are largely the result of 
+activation of a set of cell-suicide cysteine proteases, the caspases12,13.
+the biochemical activation of classical apoptosis occurs through two 
+main pathways (box 1). these are the extrinsic pathway, which origi-
+nates through the activation of cell-surface death receptors such as fas, 
+and results in the activation of caspase-8 or -10 (ref. 14), and the intrinsic 
+pathway, which originates from mitochondrial release of cytochrome c 
+and associated activation of caspase-9. a third, less well-characterized 
+pathway — essentially a second intrinsic pathway — originates from 
+the endoplasmic reticulum (er) and also results in the activation of 
+caspase-9 (refs 15–17). other organelles, such as the nucleus and golgi 
+apparatus, have damage sensors that link to apoptotic pathways18.
+various biochemical responders, both physiological and pathological, 
+act on the intrinsic pathway of apoptosis. whether triggered by dna 
+damage or by sensors associated with other organelles, the typical out-
+come is that the balance between pro-apoptotic members of the bcl-2 
+family and anti-apoptotic members is shifted toward the pro-apoptotic 
+members (box 1), which leads (although not invariably) to the cell’s 
+demise. but both the intrinsic and the extrinsic apoptotic pathways ulti-
+mately rely on the activation of caspases for death to ensue. 
+caspases are cysteine-aspartyl-specific proteases that cleave with 
+remarkable specificity at a small subset of aspartic acid residues. there 
+are two types of apoptotic caspase: initiators and effectors. the initiator 
+1buck institute for age research, 8001 redwood boulevard, novato, california 94945, usa. 2university of california, san francisco, 450 parnassus, san francisco, california 94143, usa. 
+3apoptosis, cancer and development laboratory, université de lyon, centre léon bérard, 28 rue laennee, 69008 lyon, france. 
+796
+ ©2006
+nature  publishing group
+nature|vol 443|19 october 2006
+insight  review
+caspases cleave inactive forms of effector caspases, thereby activating 
+them; effector caspases (for example, caspase-3 and 7) in turn cleave 
+other protein substrates in the cell, resulting in the apoptotic process.
+both type of caspase are relatively inactive (the effectors more so 
+than the initiators) when first synthesized, but they differ markedly in 
+terms of their activation. initiator caspases (caspase-8, 9 and 10) exist as 
+monomers and bind to other proteins by means of what is known as the 
+caspase activation and recruitment domain (card) in caspase-9 and a 
+death effector domain (ded) in caspase-8 and 10. this protein–protein 
+interaction results in dimerization of the caspases, which leads to their 
+activation. contrary to earlier models, cleavage of initiator caspases is 
+neither required nor sufficient for activation19. however, the effector 
+caspases exist as dimers in the cell and are activated by cleavage rather 
+than induced proximity. cleavage produces a tetramer with two large 
+subunits and two small subunits with a substrate specificity that differs 
+from initiator caspases.
+the caspase substrates — the number of which is unknown but is 
+probably somewhere between 0.5% and 5% of proteins — contribute to 
+the apoptotic phenotype in various ways, such as by activation of pro-
+teolytic cascades, inactivation of repair, dna cleavage, mitochondrial 
+permeabilization and initiation of the process of phagytosis to clear up 
+the dying cells, apoptotic bodies and debris.
+origami meets apoptosis
+misfolded proteins are constantly being produced, and for some pro-
+teins such misfolded species represent a significant fraction of the 
+overall output. misfolded proteins trigger a protective stress response, 
+known as the unfolded-protein response (upr; fig. 1). although this 
+response may put off a cellular catastrophe for a short time, prolonged 
+er stress and upr activation completely overwhelm the cellular pro-
+tective mechanism, ultimately resulting in the activation of suicide 
+pathways20–23 (box 2). morover, misfolded proteins also aggregate as 
+oligomers and higher-order multimers, both of which may interact with 
+critical cellular targets such as chaperones and transcription factors, 
+among others. 
+these pathways are of particular interest in neurodegenerative disease 
+studies because they are implicated in all the main examples of such dis-
+eases24. disorders such as alzheimer’s disease (ad), parkinson’s disease 
+(pd), huntington’s disease (hd), als and prion-protein diseases all 
+share one common feature: accumulation and aggregation of misfolded 
+proteins20,21 (see pages 774 and 803).
+mediators of cell death induced by misfolded proteins have recently 
+been identified (box 2). bcl-2 family proteins also seem to have a key 
+role in the cellular-suicide decision process25, and in the communica-
+tion between the er and the mitochondria. bax/bak double knockout 
+cells demonstrate no caspase activation following er stress, indicating 
+that these are required mediators26. bik may function to activate bax 
+and bak in this pathway, whereas bi-1 inhibits bax activation and 
+translocation to the er27. other bcl-2 family proteins are also involved, 
+such as puma and noxa, as well as p53 (ref. 28).
+rather than true protein misfolding, prion proteins may trigger pcd 
+when they are in an alternative, physiologically relevant conformation29. 
+the prion protein exists in three different topologies: a secreted form, 
+a transmembrane form in which the amino terminus is extracellular 
+(ntm), and a transmembrane form in which the carboxy terminus is 
+extracellular (ctm). the latter form is pro-apoptotic and associated 
+with neurodegeneration in vivo, whereas the secreted form is anti-
+apoptotic. it remains to be seen whether other proteins have similar 
+features.
+autophagic cell death
+desperate times call for desperate measures, and cells have a host of 
+protective stress responses, most of which switch into execution mode 
+during prolonged activation. during starvation, cells may only be able 
+to survive by a process known as autophagy (from the greek, ‘self eat-
+ing’). autophagy occurs in diverse organisms and is subdivided into 
+macroautophagy, microautophagy and chaperone-mediated autophagy.  
+it complements the proteasomal pathway in that long-lived proteins, 
+protein aggregates, and organelles are degraded by this regulated lyso-
+somal pathway of degradation (see page 780). targets for degradation 
+— for example, damaged mitochondria or aggregates of misfolded 
+proteins — are encircled by a process that is essentially an intracellular 
+form of phagocytosis. the newly membrane-delimited structure — an 
+autophagosome — then fuses with a lysosome, resulting in the degra-
+dation of the contents of the autophagosome. the molecular details of 
+this process have been best characterized in yeast, in which a number of 
+atg (autophagy) genes have been identified, most of which have clear 
+orthologues in higher eukaryotes.
+because the degradation of molecules and organelles by autophagy 
+results in the production of energy and amino acids for protein syn-
+thesis, it is a cellular protective pathway that, although constitutively 
+active at a low level, can be markedly upregulated by nutrient starvation. 
+table 1 | characteristics of dying cells
+characteristics 
+established forms of cell death 
+apoptosis 
+autophagic 
+atypical forms of cell death
+paraptosis 
+calcium-mediated 
+aif/parp-dependent 
+oncosis
+morphology
+autophagic vacuoles 
+er swelling, 
+mitochondrial swelling 
+membrane whorls 
+mild chromatin 
+condensation
+serum, amino-acid 
+starvation, protein 
+aggregates 
+chromatin  
+condensation, nuclear  
+fragmentation, 
+apoptotic bodies
+include death 
+receptors, trophic-  
+factor withdrawal,  
+dna damage, viral
+infections
+caspases, bh1–3,  
+bh3 proteins 
+caspase inhibitors, 
+bh1–4 proteins 
+type i pcd, nuclear 
+pcd 
+triggers 
+mediators 
+inhibitors 
+examples 
+note the difference in morphology present in each form, as well as the differences in biochemical mediators, inducers, and inhibitors. at present, only apoptosis and autophagic pcd are generally accepted as 
+being legitimate forms of pcd; however, ongoing research should reveal which of the additional candidates represent novel pathways of pcd. dn, dominant-negative; deg, degeneration; u0126, a mitogen-
+activated protein kinase inhibitor. (images reproduced, with permission, from refs 58–62.)
+erk2, nur77 
+u0126 (mek), 
+dn nur77 
+type iii pcd, 
+cytoplasmic pcd 
+jnk1? mkk7? 
+atg orthologues 
+jnk inhibitors? 
+type ii pcd 
+calpains, 
+cathepsins
+calreticulin, 
+some calpain
+inhibitors?
+c. elegans deg 
+mutants 
+dna damage, 
+glutamate, nitric 
+oxide
+calcium entry, 
+c. elegans deg  
+mutants 
+some excitotoxic 
+pcd
+ischaemic pcd
+cellular swelling
+ischaemia,
+excitotoxicity
+trophotoxicity 
+parp, aif 
+jnk
+parp inhibitors 
+jnk inhibitors 
+ ©2006
+nature  publishing group
+797
+insight  review
+nature|vol 443|19 october 2006
+after release from the mitochondria, 
+cytochrome c induces conformational change 
+and heptamerization of the cytosolic protein 
+apaf-1. the heptamer binds caspase-9, which 
+results in its activation and the cleavage of 
+effector caspases such as caspase-3 and 7. 
+these active caspases can still be held in 
+check by inhibitor of apoptosis proteins (iaps) 
+such as xiap68, which may function as direct 
+inhibitors of caspase activity and as e3 ligases 
+that mediate caspase degradation69. this iap-
+mediated block may be released by proteins 
+such as smac70,71 and omi (also known as 
+htra2)72, which are also released from the 
+mitochondria.
+fission and fusion of mitochondria73,74 
+also seem to function in cell death. fission 
+is mediated by drp1 and fis1, and inhibition 
+of these proteins blocks the induction of 
+apoptosis by staurosporine74. pro-apoptotic 
+proteins may be recruited to the mitochondria 
+by drp1, and mitochondrial remodelling may 
+enhance the release of cytochrome c and other 
+mitochondrial proteins. this could have special 
+relevance to pcd during neurodegeneration, 
+because mutations in the mitochondrial fusion 
+mediator opa1 are associated with optic 
+atrophy75,76. ongoing work should clarify the 
+roles of mitochondrial fission and fusion, and 
+their mediators, in pcd and neurodegeneration.
+box 1 | intrinsic and extrinsic apoptotic pathways 
+in the best-characterized example of the 
+extrinsic pathway (panel a) fas is bound by 
+the trimeric fas ligand (fasl). this results in 
+the recruitment of fadd though fas’s death 
+domain (dd) and caspase-8 through fadd’s 
+death effector domain (ded)63. the proximity 
+of the initiator caspase, which results from its 
+recruitment to the trimeric fas–fadd complex, 
+leads to its activation, and the subsequent 
+activation of effector caspases (such as caspase-
+3 and 7) by cleavage. furthermore, the extrinsic 
+pathway interacts with the intrinsic pathway via 
+caspase-8 cleavage of bid to produce tbid.
+whereas the extrinsic pathway uses caspase-
+8 (or caspase-10) to initiate cell death, the 
+intrinsic pathway relies on caspase-9 (panel b). 
+the propensity of cells to undergo apoptosis, 
+known as the apostat, is largely determined 
+by the balance between anti-apoptotic and 
+pro-apoptotic members of the bcl-2 family 
+of proteins. there are three types of pro-
+apoptotic bcl-2-family protein. first, the 
+multidomain proteins, such as bax and bak, 
+have bcl-2 homology domains 1–3 (bh1–3), 
+which can permeabilize mitochondrial outer 
+membranes64. second, the bh3-only proteins, 
+such as bim and tbid, activate bax and bak 
+and may participate in pore formation. third, 
+the bh3-only derepressors such as puma, 
+noxa and bad sequester the anti-apoptotic 
+bcl-2 and bcl-xl (and related proteins with 
+bh1–4 domains), freeing up bh1–3 proteins 
+to permeabilize the mitochondria. this 
+causes the release of various pro-apoptotic 
+mitochondrial proteins, such as cytochrome c 
+and smac (also known as diablo), into the 
+cytosol. other proteins that are unrelated to 
+bcl-2 can also influence the actions of the bcl-2 
+family members65–67. 
+death receptor
+(for example, fas)
+initiator caspase
+(caspase-8)
+active initiator 
+caspase
+(uncleaved 
+homodimer)
+ligand
+(fasl)
+adaptor
+(fadd)
+bid
+active effector 
+caspase
+(heterotetramer)
+effector caspase
+bcl-2
+family
+intracellular
+death signal
+bh1–3
+activator bh3
+interference
+tbid
+cytochrome c 
+release
+smac
+omi
+cytochrome c
+derepressor bh3
+cytochrome c
+apaf-1
+(∆apaf-1)
+cleavage, activation 
+of effector caspases
+apoptosome
+heptamerization 
+of apaf-1
+xiap
+xiap
+extrinsic pathway
+smac
+omi
+initiator caspase
+(caspase-9, initially monomeric)
+intrinsic pathway
+nutrient withdrawal inactivates tor (target of rapamycin), activating 
+an atg complex30. in a second step, vesicle nucleation occurs, and then, 
+in a third step, vesicle expansion occurs, followed finally by the recy-
+cling of atg proteins. the importance of this pathway in vivo has been 
+illustrated by atg7 conditionally null mice31, which show various cellu-
+lar abnormalities such as ubiquitin-positive aggregates and apparently 
+damaged mitochondria.  furthermore, mice deficient in autophagy due 
+to knockout of beclin 1 are nonviable32.
+although the roles of the autophagic process in protein and organel-
+lar degradation, and in cellular protection during nutrient starvation, 
+are well accepted, the role of autophagy in pcd is more controver-
+sial30,32,33. this is in part because the term ‘autophagic cell death’ has 
+been used for two potentially distinct observations: cell death associated 
+with autophagy and cell death requiring autophagy. most examples of 
+autophagic cell death represent the former. however, increasing evi-
+dence suggests that the autophagic process is required for at least some 
+cell deaths. for example, haploinsufficiency of beclin 1 leads to a tumour 
+predisposition phenotype, indicating that autophagy is tumour sup-
+pressive32. more direct evidence has been provided by cells whose apop-
+totic machinery has been inhibited: when mouse embryonic fibroblasts 
+(mefs) that are null for both bax and bak are treated with the apoptosis 
+inducers staurosporine or etoposide they undergo a form of cell death 
+that is associated with autophagosomes, is dependent on atg5 and bec-
+lin 1 and is inhibited by the autophagy/class iii phosphatidylinositol-3 
+kinase inhibitor 3-methyladenine33.
+furthermore, lenardo’s group found that caspase inhibition by 
+zvad-fmk (a general caspase inhibitor) in l929 cells results in 
+autophagy-dependent pcd34, which has been proposed to be mediated 
+by the selective degradation of catalase35. on the one hand, this may alert 
+us to the possibility that anti-apoptotic therapies carry the potential risk 
+of inducing non-apoptotic pcd; on the other hand, it may argue that 
+therapeutics directed at multiple cell-death pathways will be required 
+for optimal efficacy in diseases that involve pcd. because cell death 
+associated with some neurodegenerative diseases (or disease-associated 
+mutants, such as α-synuclein) is associated with an autophagic mor-
+phology, these implications are potentially important for the develop-
+ment of effective therapies to prevent or ameliorate neurodegenerative 
+disorders36.
+it is clear that in vivo testing to establish whether the autophagic pro cess 
+is required for any form(s) of pcd is needed, and the required genetic 
+and pharmacological tools are increasingly available. many questions in 
+this area remain unanswered. if autophagy is a cellular-protective pro-
+gramme that — like the upr — at some point activates pcd, what is the 
+signal that initiates pcd? how important is the role of autophagic pcd 
+in neurodegeneration? does autophagic pcd occur in vivo in the absence 
+of apoptosis inhibition? are there ‘executioners’ analogous to caspases 
+in autophagic pcd? given the common finding of protein aggregates in 
+neurodegenerative diseases, is a defect in autophagy a common underly-
+ing problem in these diseases? if so, does this contribute to the triggering 
+of cell death in neurodegenerative diseases?
+alternative cell-death programmes
+in comparison with apoptosis, little is known about autophagic pcd, 
+and even less is known about other non-apoptotic forms of pcd. in fact, 
+798
+ ©2006
+nature  publishing group
+nature|vol 443|19 october 2006
+insight  review
+bip binds misfolded protein
+er stress: translation arrest
+translation
+translation
+er stress: increased 
+protein folding 
+golgi
+s2p
+s1p
+eif2α
+eif2α
+er stress: increased 
+protein degradation
+low
+activity
+high
+activity
+xbp1(u)
+xbp1(s)
+xbp1 message
+perk
+atf6
+ire1
+atf6dc
+bip
+er
+figure 1 | misfolded proteins and endoplasmic-reticulum stress.  a, in addition to its role as an er chaperone protein, bip also regulates the activation of the 
+three proximal er-stress transducers — ire1, perk and atf6. all three transducers contain an amino-terminal luminal domain that interacts with bip. 
+under normal conditions, bip serves as a negative regulator of ire1, perk and atf6 activation. when misfolded proteins accumulate and result in er 
+stress, bip binds to these proteins. bip is thus released from the transducers, which are consequently activated. the activation of all three proximal sensors 
+results in reduction in the amount of new protein translocated into the er lumen, increased degradation of er-localized proteins and increased protein-
+folding capacity of the er. b, bip release from perk correlates with oligomerization, trans-autophosphorylation and activation of downstream signalling 
+by perk. perk-dependent phosphorylation of eif2α on ser 51 leads to attenuation of protein translation and thereby reduces the workload of the er. 
+c, bip release from atf6 permits transport of aft6 to the golgi compartment for regulated intramembrane proteolysis by site-1 protease (s1p) and site-2 
+protease (s2p) to generate a 50-kda cytosolic b-zip-containing fragment (atf6dc). atf6dc translocates to the nucleus to activate er-stress inducible 
+target genes that code for proteins involved in protein folding. this bip-regulated activation provides a direct mechanism to sense the folding capacity of 
+the er. d, accumulation of misfolded proteins in the er causes bip to release ire1. ire1 is a type i transmembrane protein that contains both a serine/
+threonine kinase domain and an endoribonuclease domain; the latter processes an intron from x-box protein 1 (xbp1) mrna, rendering it competent for 
+translation to produce the 41-kda xbp1(s) protein. unspliced xbp1 mrna encodes a basic leucine-zipper protein, xbp1(u), that lacks transactivation 
+activity and is more labile than xbp1(s). xbp1(s) binds to the promoters of several genes involved in retrograde transport of misfolded proteins from the 
+er to the cytosol and in er-induced protein degradation.
+so far, other forms of pcd have not been generally accepted by the sci-
+entific community. however, as has previously been noted37, such forms 
+of cell death have been observed repeatedly, although their genetics and 
+biochemical pathways are poorly understood. type iii pcd5, or cyto-
+plasmic cell death, is a ‘necrosis-like’ form of pcd that includes swelling 
+of the er and mitochondria, and lacks typical apoptotic features such 
+as apoptotic bodies and nuclear fragmentation. it has recently been 
+noted that the hyperactivation of the tyrosine-kinase receptor insulin-
+like growth factor i receptor (igfr) induces a non-apoptotic form of 
+cell death known as paraptosis9. this was shown to be programmatic 
+— in that it required transcription and translation — and was found to 
+be morphologically indistinguishable from type iii pcd. neither bcl-2 
+nor caspase inhibitors block this form of pcd, nor are caspases acti-
+vated, but inhibitors of extracellular signal-regulated kinase 2 (erk2) 
+— but not erk1 — were found to inhibit paraptosis38, as was aip-1 (a 
+pcd-interacting protein also known as alix).
+the idea that pcd might be induced by hyperactivation of a trophic 
+factor receptor — trophotoxicity — is compatible with earlier observa-
+tions that some trophic factors may increase neuronal cell death, for 
+example that induced by excitotoxicity39. such an effect might be pro-
+tective against neoplasia, in that it may eliminate cells that would oth-
+erwise undergo autocrine-loop-stimulated oncogenesis. the resulting 
+programme would necessarily be non-apoptotic, because trophic factors 
+inactivate apoptotic signalling. 
+aponecrosis is a term applied to a combination of apoptosis and 
+necrosis40. many cytotoxins induce pcd at low concentrations but at 
+higher concentrations induce necrotic cell death, presumably because 
+the cell’s homeostatic processes are overwhelmed before the cell-death 
+programmes can be completed. in fact, this is the most common pattern 
+seen with cellular toxins, from hydrogen peroxide and other oxidants 
+to mitochondrial toxins such as antimycin a40. nicotera, lipton and 
+their colleagues showed that glutamate-induced neuronal-cell death 
+could proceed through apoptosis or necrosis, depending on mitochon-
+drial membrane potential and cellular energy state41. however, in most 
+cases, the necrotic morphology associated with aponecrosis has not been 
+proved not to be programmed. so, it is still not clear whether aponecrosis 
+represents a combination of apoptosis and a non-apoptotic form of pcd, 
+or whether it represents a combination of apoptosis and non-program-
+matic cell death.
+forms of cell death have been described that do not fit the criteria for 
+any of the three types of developmental cell death (table 1). for exam-
+ple, a non-apoptotic, caspase-independent form that does not resemble 
+type ii or type iii developmental pcd has been described by driscoll 
+and her colleagues42 in c. elegans expressing mutant channel proteins 
+such as mec-4(d). a uniform, necrosis-like cell death — characterized 
+morphologically by membranous whorls not seen in other types of cell 
+death — is triggered by calcium entry, mediated by specific calpains and 
+cathepsins, and inhibited by calreticulin.
+a fifth apparent form of pcd has been described by the dawsons and 
+their colleagues, who showed that a non-apoptotic form of cell death 
+depends on the activation of poly-(adp-ribose) polymerase (parp) 
+and the consequent translocation of apoptosis-inducing factor (aif) 
+from the mitochondria to the nucleus43. aif is a flavoprotein described 
+by kroemer and colleagues44 that is involved with dna fragmentation, 
+along with endonuclease g and dna-fragmentation factor. this form 
+of pcd was shown to be activated by agents that induce dna damage, 
+and shows a morphology and biochemistry that is, as far as we know, 
+distinct from pcd types i–iii.
+it is likely that, as additional data are gathered from other cell-death 
+paradigms, novel biochemical pathways of pcd will be characterized.  
+ ©2006
+nature  publishing group
+799
+insight  review
+nature|vol 443|19 october 2006
+box 2 | endoplasmic-reticulum stress and cell death
+er stress is coupled to specific independent death pathways, as well as 
+demonstrating involvement with the intrinsic and extrinsic apoptotic 
+pathways. studies from various laboratories have disclosed the roles of 
+several er-stress-induced cell-death modulators and effectors through 
+the use of biochemical, pharmacological and genetic tools. these er-
+stress-induced cell-death modulators include various members of the 
+bcl-2 family (bcl-2, bcl-xl, bax, bak, bi-1 and bik), bap31 and p53-
+dependent gene products such as noxa and puma.
+bap31, an er-membrane protein, binds bcl-2 (or bcl-xl) and a caspase-
+8-containing pro-apoptotic complex77. when bap31 is cleaved, a pro-
+apoptotic p20 fragment is derived, which, among other effects, induces 
+mitochondrial fission, enhancing cytochrome c release78. conversely, 
+bar, which is expressed primarily in neurons of the central nervous 
+system, also bridges bcl-2 and caspase-8 but functions as an anti-
+apoptotic protein79.
+chop (also known as gadd153), a transcription factor induced during 
+er stress and activated by p38 mitogen-activated protein kinase, may 
+also function as an er-stress-induced cell-death modulator. it has been 
+proposed to promote er-stress-induced cell death by downregulating 
+bcl-2 expression.
+recent data have also implicated the calcium-binding protein 
+apoptosis-linked gene-2 (alg-2), and valosin-containing protein (vcp) 
+as mediators of er-stress-induced pcd. p23 interacts with puma and 
+inhibits apoptosis, an effect that is reversed after cleavage. an alg-2-
+interacting protein known as alix (or aip-1) links motor-neuron-cell 
+death during development as well as neuronal death in a hd model to the 
+endolysosomal system80. 
+in addition to the two main pathways that initiate the caspase cascade 
+— namely, the extrinsic and intrinsic pathways — some studies point 
+for example, there is an extensive literature on the morphological crite-
+ria for another potential form of pcd — oncosis — but the biochemical 
+underpinnings of oncosis have not yet been described. oncosis refers to 
+a specific morphology of cell death — cellular swelling — that is typically 
+induced by ischaemia and is thought to be mediated by the failure of 
+plasma-membrane ionic pumps. one potential mediator of oncosis is a 
+calpain-family protease (possibly a mitochondrial calpain45).
+triggering cell death in neurodegeneration
+as noted above, a number of different and potentially interrelated 
+insults may occur as part of the neurodegenerative process. the role of 
+the cell-death machinery in neurodegenerative diseases is controversial, 
+figure 2 | caspase cleavage in alzheimer’s disease.  an antibody specific 
+for the neoepitope generated by cleavage of app at the caspase-cleavage site, 
+asp 664, demonstrates reactivity (brown) in the hippocampus of a patient 
+with alzheimer’s disease. 
+to a caspase-12-mediated apoptotic pathway that involves the er and 
+the upr (at least in murine cells), although this is a controversial area 
+of research. caspase-12 may be activated by calpain or caspase-7, or by 
+er-stress-activated ire1, which may recruit caspase-12 through tumour-
+necrosis-factor receptor-associated factor 2 protein (traf2). 
+oligomerized ire1 also binds traf2, signalling downstream kinases 
+(ask1 and jnk) that, in turn, cause activation of pro-apoptotic proteins 
+and cell death.
+er stress
+ire1
+traf2
+caspase-12?
+bl-1
+caspase-7
+bik
+ca2+
+vcp
+p23
+alg-2
+noxa
+puma
+bap31
+perk
+atf6
+bar
+caspase-
+p20
+ask1
+jnk
+p-jnk
+bax
+bak
+bcl-2
+caspase-9
+caspase-3
+apoptosis
+p19
+chop
+bcl-2
+cytochrome c
+especially because synaptic loss and electrophysiological abnormalities 
+typically precede cell loss in these disease states (see page 768). however, 
+recent studies suggest a critical role for cell-death mediators in neuro-
+degenerative diseases, even before the reduction in neuronal number. 
+for example, in a transgenic mouse model of ad that features senile 
+plaques, synapse and memory loss, but little or no neuronal loss, muta-
+tion of the caspase cleavage site at asp 664 in the amyloid precursor pro-
+tein (app) completely suppressed synapse loss, dentate gyral atrophy, 
+astrogliosis and memory loss, even though senile plaque number and 
+amyloid-β concentrations were unaffected46. in an analogous study with 
+an hd-transgenic mouse model, mutation of the caspase-6 site (but not 
+the caspase-3 sites) in polyglutamine-expanded huntingtin prevented 
+both the neurodegeneration and motor abnormalities characteristic of 
+huntington’s disease47.
+more direct evidence for caspase activation in neurodegeneration 
+(fig. 2) comes from the employment of antibodies directed against 
+neo-epitopes derived by caspase cleavage46,48 and from the inhibition 
+of neurodegeneration by caspase inhibitors49,50. however, some neuro-
+degenerative models and diseases clearly demonstrate non-apoptotic 
+forms of pcd7. determining which pcd pathways are triggered in each 
+neurodegenerative disease, which pathway accounts for each fraction 
+of cell death, the mechanism(s) by which each pathway is triggered, and 
+the interactions between the various pathways should shed new light 
+on the degenerative process and its potential treatment or prevention. 
+perhaps even more important will be dissecting the pathways mediating 
+sub apoptotic events such as synaptosis and wallerian degeneration — 
+likely to be important features in the neurodegenerative process — and 
+understanding how the interplay between these various processes results 
+in the neurodegenerative phenotype.
+the ability to initiate the neurodegenerative process, with widely 
+varying insults — from misfolded proteins to reactive oxygen species 
+to caspase recruitment complexes, as well as other mechanisms — and 
+yet produce a relatively small number of syndromes indicates the exist-
+ence of a death network that can be entered from many different sites 
+but once triggered follows similar interdependent biochemical pathways 
+with little dependence on the point of entry. this idea is compatible with 
+800
+ ©2006
+nature  publishing group
+nature|vol 443|19 october 2006
+insight  review
+the findings that therapeutics aimed at different pathways (for example, 
+caspase activation, mitochondrial release of cytochrome c, metal binding 
+and reactive-oxygen-species scavenging) all have partly salutary effects. 
+however, it also suggests that a complete halt of the neurodegenerative 
+process may require therapeutics that address all the interacting path-
+ways of the network.
+targeting programmed cell death
+neuronal loss is a relatively late event in neurodegenerative diseases, 
+following neuronal dysfunction, synapse loss and, often, somal atrophy. 
+but targeting pcd has been successful in at least some model systems of 
+neurodegeneration, and it is possible that targeting multiple pcd path-
+ways will be even more effective. caspase inhibition in vivo retarded the 
+degeneration in transgenic mouse models of both als and hd, despite 
+the fact that the morphological description of neuronal cell death in 
+these diseases is not compatible with apoptosis49,50. bcl-2 expression 
+in a transgenic model of als delayed symptom onset and increased 
+lifespan, but did not alter the disease duration51.
+minocycline, a second-generation tetracycline that inhibits mitochon-
+drial cytochrome c release, effected neuroprotection in mouse models 
+of hd, pd and als52. minocycline is orally bioavailable, penetrates 
+the blood–brain barrier and has been proved safe for use in humans. 
+it is currently being evaluated in clinical trials in patients with hd and 
+als52.
+rasagiline, which has been approved for the treatment of pd, has also 
+been proposed to target apoptosis, but because it is a potent, selective, 
+irreversible inhibitor of monoamine oxidase type b, its therapeutic effect 
+on pd may have nothing to do with effects on apoptosis.
+trophic factors have multiple effects, including the inhibition of apop-
+tosis, the stimulation of neural precursors and the stimulation of neurite 
+outgrowth. the literature is rife with examples of trophic-factor ther-
+apy for various neurological conditions, and although many have been 
+unsuccessful, the delivery of the correct factor(s) to the right target in the 
+correct concentration for a particular disease still holds great promise 
+(although hyperactivation of at least some trophic-factor receptors may 
+induce pcd). a recent study of fibroblast growth factor 2 (fgf2) in 
+a mouse model of hd prolonged survival, improved motor perform-
+ance and reduced polyglutamine aggregates53. a number of approaches 
+have been taken to deliver nerve growth factor (ngf) to patients with 
+ad, the most recent being by means of genetically engineered fibrob-
+lasts in a phase i trial54. in this study, improvements in cognition and 
+positron-emission tomography (used to monitor fluorodeoxyglucose 
+uptake) were documented. glial-derived neurotrophic factor (gdnf) 
+has shown promise in the treatment of pd55.
+hd may represent one of the best possibilities for trophic-factor 
+therapy: presymptomatic diagnosis is readily available, and although 
+a number of different trophic factors have shown promise in animal 
+models (for example, fgf2, ngf and ciliary neurotrophic factor56), 
+brain-derived neurotrophic factor (bdnf) is both reduced in the disease 
+and therapeutic in models. furthermore, cysteamine has been shown to 
+increase bdnf levels in brain57.
+a lifeline 
+exciting recent evidence suggests that pathological processes may 
+stimulate neurogenesis in the brain and may redirect the migration 
+of nascent neurons towards the site of pathology. and, under certain 
+circumstances, stimulating neurogenesis can improve the performance 
+and survival of mice with neurodegenerative disease. these and similar 
+results raise the question of whether stem-cell exhaustion or senescence 
+after prolonged stimulation might have a role in the long-term course of 
+neurodegenerative disease. furthermore, although the factors linking 
+neurodegeneration to neural-stem-cell proliferation and inhibition of 
+pcd are largely unknown, the potential for therapy using these putative 
+factors is likely to be significant. reconciliation of cell-death pathways 
+with neurodegenerative and regenerative mechanisms should offer an 
+improved understanding of disease and open avenues for therapeutic 
+intervention. 
+1. 
+2. 
+3. 
+studnicka, f. k. in lehrbuch der vergleichende mikroskopischen anatomie der wirbeltiere (ed. 
+oppel, a.) 1–256 (fischer, germany, 1905). 
+levi-montalcini, r. the nerve growth factor: its mode of action on sensory and 
+sympathetic nerve cells. harvey lect. 60, 217–259 (1966).
+lockshin, r. a. & williams, c. m. programmed cell death. ii. endocrine potentiation of 
+the breakdown of the intersegmental muscles of silkmoths. j. insect physiol. 10, 643–649 
+(1964).
+4.  kerr, j. f., wyllie, a. h. & currie, a. r. apoptosis: a basic biological phenomenon with 
+wide-ranging implications in tissue kinetics. br. j. cancer 26, 239–257 (1972).
+5.  clarke, p. g. developmental cell death: morphological diversity and multiple mechanisms. 
+anat. embryol. 181, 195–213 (1990).
+6.  cunningham, t. j. naturally occurring neuron death and its regulation by developing 
+neural pathways. int. rev. cytol. 74, 163–186 (1982).
+8. 
+7.  dal canto, m. c. & gurney, m. e. development of central nervous system pathology in 
+a murine transgenic model of human amyotrophic lateral sclerosis. am. j. pathol. 145, 
+1271–1279 (1994).
+schweichel, j. u. & merker, h. j. the morphology of various types of cell death in prenatal 
+tissues. teratology 7, 253–266 (1973).
+sperandio, s., de belle, i. & bredesen, d. e. an alternative, non-apoptotic form of 
+programmed cell death. proc. natl acad. sci. usa 97, 14376–14381 (2000).
+9. 
+10.  oppenheim, r. w. naturally occurring cell death during neural development. trends 
+11. 
+neurosci. 17, 487–493 (1985).
+fadok, v. a. et al. exposure of phosphatidylserine on the surface of apoptotic lymphocytes 
+triggers specific recognition and removal by macrophages. j. immunol. 148, 2207–2216 
+(1992).
+12.  thornberry, n. a. & lazebnik, y. caspases: enemies within. science 281, 1312–1316 (1998).
+13.  yuan, j., shaham, s., ledoux, s., ellis, h. m. & horvitz, h. r. the c. elegans cell death gene 
+ced-3 encodes a protein similar to mammalian interleukin-1β-converting enzyme. cell 75, 
+641–652 (1993).
+14.  salvesen, g. s. & dixit, v. m. caspases: intracellular signaling by proteolysis. cell 91, 
+443–446 (1997).
+15.  morishima, n., nakanishi, k., takenouchi, h., shibata, t. & yasuhiko, y. an endoplasmic 
+reticulum stress-specific caspase cascade in apoptosis. cytochrome c-independent 
+activation of caspase-9 by caspase-12. j. biol. chem. 277, 34287–34294 (2002).
+16.  rao, r. v. et al. coupling endoplasmic reticulum stress to the cell death program. an apaf-
+1-independent intrinsic pathway. j. biol. chem. 277, 21836–21842 (2002).
+17.  yuan, j. & yankner, b. a. caspase activity sows the seeds of neuronal death. nature cell 
+biol. 1, e44–e45 (1999).
+18.  green, d. r. & kroemer, g. pharmacological manipulation of cell death: clinical 
+applications in sight? j. clin. invest. 115, 2610–2617 (2005).
+19.  fuentes-prior, p. & salvesen, g. s. the protein structures that shape caspase activity, 
+specificity, activation and inhibition. biochem. j. 384, 201–232 (2004).
+20.  kopito, r. r. & ron, d. conformational disease. nature cell biol. 2, e207–e209 (2000).
+21.  taylor, j. p., hardy, j. & fischbeck, k. h. toxic proteins in neurodegenerative disease. 
+23.  sherman, m. y. & goldberg, a. l. cellular defenses against unfolded proteins: a cell 
+biologist thinks about neurodegenerative diseases. neuron 29, 15–32 (2001).
+24.  rao, r. v. & bredesen, d. e. misfolded proteins, endoplasmic reticulum stress and 
+neurodegeneration. curr. opin. cell biol. 16, 653–662 (2004).
+25.  scorrano, l. et al. bax and bak regulation of endoplasmic reticulum ca2+: a control point 
+for apoptosis. science 300, 135–139 (2003).
+26.  ruiz-vela, a., opferman, j. t., cheng, e. h. & korsmeyer, s. j. proapoptotic bax and bak 
+control multiple initiator caspases. embo rep. 6, 379–385 (2005).
+27.  chae, h. j. et al. bi-1 regulates an apoptosis pathway linked to endoplasmic reticulum 
+stress. mol. cell 15, 355–366 (2004).
+28.  li, j., lee, b. & lee, a. s. endoplasmic reticulum stress-induced apoptosis: multiple 
+pathways and activation of p53-up-regulated modulator of apoptosis (puma) and 
+noxa by p53. j. biol. chem. 281, 7260–7270 (2006).
+29.  hegde, r. s. et al. a transmembrane form of the prion protein in neurodegenerative 
+disease. science 279, 827–834 (1998).
+30.  levine, b. & yuan, j. autophagy in cell death: an innocent convict? j. clin. invest. 115, 
+2679–2688 (2005).
+31.  komatsu, m. et al. impairment of starvation-induced and constitutive autophagy in atg7-
+deficient mice. j. cell biol. 169, 425–434 (2005).
+32.  yue, z., jin, s., yang, c., levine, a. j. & heintz, n. beclin 1, an autophagy gene essential for 
+early embryonic development, is a haploinsufficient tumor suppressor. proc. natl acad. 
+sci. usa 100, 15077–15082 (2003).
+33.  shimizu, s. et al. role of bcl-2 family proteins in a non-apoptotic programmed cell death 
+dependent on autophagy genes. nature cell biol. 6, 1221–1228 (2004).
+34.  yu, l. et al. regulation of an atg7-beclin 1 program of autophagic cell death by caspase-8. 
+science 304, 1500–1502 (2004).
+35.  yu, l. et al. autophagic programmed cell death by selective catalase degradation. proc. 
+natl acad. sci. usa 103, 4952–4957 (2006).
+36.  gomez-santos, c. et al. dopamine induces autophagic cell death and α-synuclein 
+increase in human neuroblastoma sh-sy5y cells. j. neurosci. res. 73, 341–350 (2003).
+37.  hengartner, m. o. the biochemistry of apoptosis. nature 407, 770–776 (2000).
+38.  sperandio, s. et al. paraptosis: mediation by map kinases and inhibition by aip-1/alix. cell 
+death differ. 11, 1066–1075 (2004).
+39.  koh, j. y., gwag, b. j., lobner, d. & choi, d. w. potentiated necrosis of cultured cortical 
+neurons by neurotrophins. science 268, 573–575 (1995).
+40.  formigli, l. et al. aponecrosis: morphological and biochemical exploration of a syncretic 
+process of cell death sharing apoptosis and necrosis. j. cell physiol. 182, 41–49 (2000).
+41.  ankarcrona, m. et al. glutamate-induced neuronal death: a succession of necrosis or 
+apoptosis depending on mitochondrial function. neuron 15, 961–973 (1995).
+42.  syntichaki, p., xu, k., driscoll, m. & tavernarakis, n. specific aspartyl and calpain 
+proteases are required for neurodegeneration in c. elegans. nature 419, 939–944 (2002).
+22.  sitia, r. & braakman, i. quality control in the endoplasmic reticulum protein factory. 
+science 296, 1991–1995 (2002).
+nature 426, 891–894 (2003).
+ ©2006
+nature  publishing group
+801
+insight  review
+nature|vol 443|19 october 2006
+43.  yu, s. w. et al. mediation of poly(adp-ribose) polymerase-1-dependent cell death by 
+apoptosis-inducing factor. science 297, 259–263 (2002).
+44.  susin, s. a. et al. molecular characterization of mitochondrial apoptosis-inducing factor. 
+nature 397, 441–446 (1999).
+45.  liu, x., van vleet, t. & schnellmann, r. g. the role of calpain in oncotic cell death. annu. 
+rev. pharmacol. toxicol. 44, 349–370 (2004).
+46.  galvan, v. et al. reversal of alzheimer’s-like pathology and behavior in human app 
+transgenic mice by mutation of asp664. proc. natl acad. sci. usa 103, 7130–7135 (2006).
+47.  graham, r. k. et al. cleavage at the caspase-6 site is required for neuronal dysfunction 
+and degeneration due to mutant huntingtin. cell 125, 1179–1191 (2006).
+48.  yang, f. et al. antibody to caspase-cleaved actin detects apoptosis in differentiated 
+neuroblastoma and plaque-associated neurons and microglia in alzheimer’s disease. am. 
+j. pathol. 152, 379–389 (1998).
+49.  friedlander, r. m., brown, r. h., gagliardini, v., wang, j. & yuan, j. inhibition of ice slows 
+als in mice. nature 388, 31 (1997).
+50.  ona, v. o. et al. inhibition of caspase-1 slows disease progression in a mouse model of 
+huntington’s disease. nature 399, 263–267 (1999).
+51.  kostic, v., jackson-lewis, v., de bilbao, f., dubois-dauphin, m. & przedborski, s. bcl-2: 
+prolonging life in a transgenic mouse model of familial amyotrophic lateral sclerosis. 
+science 277, 559–562 (1997).
+52.  friedlander, r. m. apoptosis and caspases in neurodegenerative diseases. n. engl. j. med. 
+348, 1365–1375 (2003).
+53.  jin, k. et al. fgf-2 promotes neurogenesis and neuroprotection and prolongs survival in 
+a transgenic mouse model of huntington’s disease. proc. natl acad. sci. usa 102, 18189–
+18194 (2005).
+54.  tuszynski, m. h. et al. a phase 1 clinical trial of nerve growth factor gene therapy for 
+alzheimer disease. nature med. 11, 551–555 (2005).
+55.  lang, a. e. et al. randomized controlled trial of intraputamenal glial cell line-derived 
+neurotrophic factor infusion in parkinson disease. ann. neurol. 59, 459–466 (2006).
+56.  kordower, j. h., isacson, o. & emerich, d. f. cellular delivery of trophic factors for the 
+treatment of huntington’s disease: is neuroprotection possible? exp. neurol. 159, 4–20 
+(1999).
+57.  borrell-pages, m. et al. cystamine and cysteamine increase brain levels of bdnf in 
+huntington disease via hsj1b and transglutaminase. j. clin. invest. 116, 1410–1424 
+(2006).
+58.  kerr, j. f. r. & harmon, b. v. in apoptosis: the molecular basis of cell death (eds tomei, l. d. 
+& cope, f. o.) 321 (cold spring harbor laboratory press, plainview, new york, 1991).
+59.  bursch, w. et al. autophagic and apoptotic types of programmed cell death exhibit 
+different fates of cytoskeletal filaments. j. cell sci. 113, 1189–1198 (2000).
+60.  hall, i. h., elkins, a. l., karthikeyan, s. & spielvogel, b. f. the cytotoxicity of 1-
+(phenylmethyl)-4,7,10-tris-[(4’methylphenyl) sulfonyl]-1,4,7,10-tetraazacyclododecane 
+in human tmolt3 t leukemic cells. anticancer res. 17, 1195–1198 (1997).
+61.  susin, s. a. et al. two distinct pathways leading to nuclear apoptosis. j. exp. med. 192, 
+571–580 (2000).
+62.  ohno, m. et al. ‘apoptotic’ myocytes in infarct area in rabbit hearts may be oncotic 
+myocytes with dna fragmentation: analysis by immunogold electron microscopy 
+combined with in situ nick end-labeling. circulation 98, 1422–1430 (1998).
+63.  muzio, m. et al. flice, a novel fadd-homologous ice/ced-3-like protease, is recruited 
+to the cd95 (fas/apo-1) death-inducing signaling complex. cell 85, 817–827 (1996).
+64.  kuwana, t. et al. bid, bax, and lipids cooperate to form supramolecular openings in the 
+outer mitochondrial membrane. cell 111, 331–342 (2002).
+65.  guo, b. et al. humanin peptide suppresses apoptosis by interfering with bax activation. 
+nature 423, 456–461 (2003).
+66.  schuler, m., bossy-wetzel, e., goldstein, j. c., fitzgerald, p. & green, d. r. p53 induces 
+apoptosis by caspase activation through mitochondrial cytochrome c release. j. biol. chem. 
+275, 7337–7342 (2000).
+67.  lin, b. et al. conversion of bcl-2 from protector to killer by interaction with nuclear orphan 
+receptor nur77/tr3. cell 116, 527–540 (2004).
+68.  deveraux, q. l., takahashi, r., salvesen, g. s. & reed, j. c. x-linked iap is a direct inhibitor of 
+cell-death proteases. nature 388, 300–304 (1997).
+69.  holley, c. l., olson, m. r., colon-ramos, d. a. & kornbluth, s. reaper eliminates iap 
+proteins through stimulated iap degradation and generalized translational inhibition. 
+nature cell biol. 4, 439–444 (2002).
+70.  du, c., fang, m., li, y., li, l. & wang, x. smac, a mitochondrial protein that promotes 
+cytochrome c-dependent caspase activation by eliminating iap inhibition. cell 102, 33–42 
+(2000).
+71.  verhagen, a. m. et al. identification of diablo, a mammalian protein that promotes 
+apoptosis by binding to and antagonizing iap proteins. cell 102, 43–53 (2000).
+72.  martins, l. m. et al. the serine protease omi/htra2 regulates apoptosis by binding xiap 
+through a reaper-like motif. j. biol. chem. 277, 439–444 (2002).
+73.  bossy-wetzel, e., barsoum, m. j., godzik, a., schwarzenbacher, r. & lipton, s. a. 
+mitochondrial fission in apoptosis, neurodegeneration and aging. curr. opin. cell biol. 15, 
+706–716 (2003).
+74.  lee, y. j., jeong, s. y., karbowski, m., smith, c. l. & youle, r. j. roles of the mammalian 
+mitochondrial fission and fusion mediators fis1, drp1, and opa1 in apoptosis. mol. biol. cell. 
+15, 5001–5011 (2004).
+75.  frezza, c. et al. opa1 controls apoptotic cristae remodeling independently from 
+mitochondrial fusion. cell 126, 177–189 (2006).
+76.  cipolat, s. et al. mitochondrial rhomboid parl regulates cytochrome c release during 
+apoptosis via opa1-dependent cristae remodeling. cell 126, 163–175 (2006).
+77.  ng, f. w. et al. p28 bap31, a bcl-2/bcl-xl- and procaspase-8-associated protein in the 
+endoplasmic reticulum. j. cell biol. 139, 327–338 (1997).
+78.  breckenridge, d. g., stojanovic, m., marcellus, r. c. & shore, g. c. caspase cleavage 
+product of bap31 induces mitochondrial fission through endoplasmic reticulum calcium 
+signals, enhancing cytochrome c release to the cytosol. j. cell biol. 160, 1115–1127 (2003).
+79.  roth, w. et al. bifunctional apoptosis inhibitor (bar) protects neurons from diverse cell 
+death pathways. cell death differ. 10, 1178–1187 (2003).
+80.  mahul-mellier, a. l., hemming, f. j., blot, b., fraboulet, s. & sadoul, r. alix, making a 
+link between apoptosis-linked gene-2, the endosomal sorting complexes required for 
+transport, and neuronal death in vivo. j. neurosci. 26, 542–549 (2006).
+acknowledgements we apologize to all colleagues whose papers we were unable 
+to cite owing to space limitations. we thank s. rabizadeh, a. kurakin, v. galvan, d. 
+madden, l. egger, j. fombonne, t.-v. nguyen, n. rooke, k. niazi, a. swistowski, k. 
+poksay and s. chen for critical reading of the manuscript, and m. susag, l. sheridan 
+and r. abulencia for manuscript preparation.
+author information reprints and permissions information is available at 
+npg.nature.com/reprintsandpermissions. the authors declare no competing 
+financial interests. correspondence should be addressed to d.e.b. 
+(dbredesen@buckinstitute.org).
+802
+ ©2006
+nature  publishing group

@@ -1,0 +1,591 @@
+febs letters 581 (2007) 2156–2161
+molecular machinery of autophagosome formation in yeast,
+minireview
+saccharomyces cerevisiae
+kuninori suzuki, yoshinori ohsumi*
+department of cell biology, division of molecular cell biology, national institute for basic biology, nishigonaka 38, okazaki, aichi 444-8585 japan
+received 11 december 2006; accepted 18 january 2007
+available online 12 march 2007
+edited by thomas so¨ llner
+abstract autophagy is a degradation process accompanied by
+dynamic membrane organization. in the yeast, saccharomyces
+cerevisiae, about 30 atg (autophagy-related) genes have been
+identiﬁed as important genes for autophagy. among them, 17
+are indispensable for formation of the autophagosome, an orga-
+nelle enclosed by a double lipid bilayer during starvation-induced
+autophagy. recently, a central structure for autophagosome gen-
+eration, termed the pre-autophagosomal structure, was identi-
+ﬁed. despite intensive study, many questions regarding the
+mechanisms underlying autophagosome formation remain unan-
+swered. in this review, we will give an overview of recent studies
+on the mechanisms of autophagosome formation and discuss
+these unresolved questions.
+ó 2007 federation of european biochemical societies. published
+by elsevier b.v. all rights reserved.
+keywords: autophagy; autophagosome; atg genes; pre-
+autophagosomal structure; nutrient starvation
+1. introduction
+cellular homeostasis is balanced between the synthesis and
+degradation of proteins, nucleic acids, ribosomes, and organ-
+elles. the ubiquitin-proteasome pathway is a selective protein
+degradation pathway. in contrast, macroautophagy, hereafter
+referred to as autophagy, is a major pathway of bulk and
+non-selective degradation. in the yeast, saccharomyces cerevi-
+siae, autophagy has been studied as a cellular response for sur-
+vival during nutrient-limited conditions [1]. recent studies have
+shown that during nutrient-rich growth, autophagy contributes
+to the transport of vacuolar hydrolases to the vacuolar lumen in
+yeast [2], and the clearance of protein aggregates and defense
+against invasion of viruses or bacteria in mammalian cells [3].
+moreover, autophagy has a role in anti-aging in plants [4].
+*corresponding author. fax: +81 564 55 7516.
+e-mail address: yohsumi@nibb.ac.jp (y. ohsumi).
+abbreviations: as-pi3k, autophagy-speciﬁc phosphatidylinositol 3-k-
+inase; atg genes, autophagy-related genes; cop, coatmer; cvt, cyt-
+oplasm-to-vacuole targeting; er, endoplasmic reticulum; gfp, green
+ﬂuorescent protein; im, isolation membrane; nsf, n-ethylmaleimide-
+sensitive fusion protein; pas, pre-autophagosomal structure; pe, ph-
+osphatidylethanolamine; ptdins(3)p, phosphatidylinositol 3-phos-
+phate; ptdins(3, 5)p2, phosphatidylinositol 3, 5-bisphosphate; snap,
+soluble nsf attachment protein; snare, snap receptor
+breakdown of the autophagic system has maladaptive and of-
+ten fatal pathological eﬀects in higher eukaryotes; protein fold-
+ing diseases, neurodegenerative diseases, and neonatal death
+immediately after birth have been associated with defective
+autophagy [3]. this process is required for development and
+diﬀerentiation in yeasts, slime molds, nematodes, and ﬂies; that
+is, autophagy is required for remodeling of cells accompanied
+with bulk degradation of cellular components [5]. thus, recent
+studies have revealed several aspects of cellular processes
+involving autophagy during vegetative growth conditions.
+2. process of autophagy
+because autophagy is dramatically activated in such severe
+environments to adapt and survive, the process of autophagy
+long has been studied under nutrient-limited conditions. here-
+after, we mainly focus on autophagy that has been described in
+the yeast s. cerevisiae exposed to nutrient-starvation condi-
+tions. recent studies have revealed that autophagy proceeds
+through the following steps (fig. 1): (i) detection of starvation
+signals; (ii) transmission of these signals to the autophago-
+some-generating apparatus known as the pre-autophagosomal
+structure (pas); (iii) generation of an isolation membrane
+(im) from the pas; (iv) expansion of the im; (v) fusion of
+the leading edges of the im to complete autophagosome for-
+mation; (vi) fusion of the outer membrane of the autophago-
+some with the vacuolar membrane and subsequent release of
+autophagic bodies, whose membranes are derived from the in-
+ner membrane of the autophagosome; (vii) disintegration of
+the autophagic body and degradation of the contents by vacu-
+olar hydrolases; and (viii) transport of the resulting amino
+acids and lipids to the cytoplasm for recycling.
+starvation signals are sensed and transmitted to the tor sig-
+naling pathway, which is one of the master regulators of cell
+growth [6]. during vegetative growth, tor kinase is active, and
+it phosphorylates several downstream proteins. when tor ki-
+nase is inactivated by nutrient limitation or treatment with rap-
+amycin, several cellular responses, including autophagy, are
+induced. this response results in autophagosome formation.
+3. autophagosome
+the autophagosome in the yeast s. cerevisiae is encircled by
+double lipid bilayers and is about 400–900 nm in diameter [7].
+0014-5793/$32.00 ó 2007 federation of european biochemical societies. published by elsevier b.v. all rights reserved.
+doi:10.1016/j.febslet.2007.01.096
+k. suzuki, y. ohsumi / febs letters 581 (2007) 2156–2161
+2157
+fig. 1. autophagy in the yeast saccharomyces cerevisiae. autophagy proceeds through the following steps: (i) sensation of starvation signals; (ii)
+transmission of these signals to the autophagosome-generating machinery known as the pas (pre-autophagosomal structure); (iii) generation of an
+isolation membrane (im) from the pas; (iv) expansion of the im; (v) fusion of the leading edges of the im to complete autophagosome formation;
+(vi) fusion of the outer membrane of the autophagosome with the vacuolar membrane and subsequent release of autophagic bodies, whose membrane
+is derived from the inner membrane of the autophagosome; (vii) disintegration of the autophagic body and degradation of its contents by vacuolar
+hydrolases; and (viii) transport of the resulting amino acids and lipids to the cytoplasm for recycling.
+the autophagosomal membrane is rich in lipids and poor in
+proteins [8], and is much larger than typical secretory vesicles,
+suggesting that it is composed of the minimal components nec-
+essary to load the maximum material destined to be degraded.
+the outer membrane of the autophagosome fuses with the vac-
+uolar membrane by using general fusion machinery [9]. the
+autophagic body, the structure surrounded by the inner lipid
+bilayer, is released into the lumen of the vacuole [7]. conse-
+quently, the autophagic body is degraded by vacuolar hydro-
+lases.
+interestingly, the machinery employed in autophagosome
+formation is common to that in a biosynthetic pathway under
+vegetative growth conditions. this pathway, called the cyto-
+plasm-to-vacuole targeting (cvt) pathway, delivers a few vac-
+uolar hydrolases to the vacuole in about 150-nm vesicles,
+named cvt vesicles, which are also composed of double lipid
+bilayers. aminopeptidase i (ape1) [10] and a-mannosidase
+[11] are among the proteins transported by the cvt pathway.
+ape1 forms dodecamers [12], which are organized into large
+complexes that are about 150 nm in diameter; ultimately, this
+complex is enwrapped by a cvt vesicle and delivered to the
+vacuole [2].
+[10]. interestingly, these groups of genes showed considerable
+overlap [14]. moreover, other types of autophagy have been
+described by several groups, and the genes involved in each
+of these types had been named independently: gsa (glucose-
+induced selective autophagy) [15], paz (pexophagy zeocin-
+resistant) [16] and pdd (peroxisome degradation-deﬁcient)
+[17]. to avoid confusion, the nomenclature was consolidated;
+all genes were referred to as atg (autophagy-related) genes
+[18].
+currently, 27 atg have been identiﬁed in s. cerevisiae.
+most are grouped into three large groups by their function:
+non-selective autophagy (17 genes), selective autophagy (7
+genes), and degradation of autophagic bodies (2 genes) [19].
+one can regard selective autophagy as a type of macroauto-
+phagy in which cargo proteins and organelles are selectivity en-
+wrapped. thus, autophagosome formation mediated by genes
+involved in non-selective autophagy is essential for selective
+autophagy. among all of the genes involved in this pathway,
+the 17 atg genes compose the machinery of autophagosome
+formation. the proteins they encode make up the autophago-
+some at a perivacuolar and restricted site called the pas
+[20,21]. hereafter, we will focus on these 17 genes and their
+role in the molecular basis of autophagosome formation.
+4. atg genes required for autophagy
+using yeast genetic techniques, mutants deﬁcient in the
+autophagic and the cvt pathways were obtained in s. cerevi-
+siae. apg (autophagy) [1] and aut (autophagy) [13] genes
+were identiﬁed as essential genes for autophagy, and cvt
+genes were identiﬁed as those required for the cvt pathway
+5. atg genes involved in autophagosome formation
+the contents of the autophagosome are sequestered by dou-
+ble lipid bilayers. despite their role in biosynthesis rather
+than degradation, we consider cvt vesicles to be variants of
+autophagosomes, owing to similarities in their topology and
+2158
+k. suzuki, y. ohsumi / febs letters 581 (2007) 2156–2161
+formation. an autophagosome is formed through nucleation
+and expansion steps (fig. 2a) [22,23]. the nucleation step is
+suﬃcient for generating a minimum-size autophagosome, such
+as a cvt vesicle. subsequent membrane expansion is needed to
+form a normal-sized autophagosome. because genes involved
+in the expansion step are not necessary for cvt vesicle forma-
+tion, they can bypass the cvt phenotype upon nitrogen starva-
+tion or rapamycin treatment, whereas these in the nucleation
+step cannot, resulting in the emergence of mature ape1 [22].
+the 17 atg proteins are categorized into six functional units
+[21]: (i) the atg1 protein kinase and its regulators [24]; (ii) the
+atg2æatg18 complex [21]; (iii) the atg8 system [25]; (iv) the
+atg12 system [26]; (v) the autophagy-speciﬁc phosphatidylino-
+sitol 3-kinase (as-pi3k) complex [27]; and (vi) atg9 [28]. atg8
+and atg12 are ubiquitin-like proteins [29]. atg8 is conjugated
+to phosphatidylethanolamine (pe) by serial reactions of atg4
+(an atg8 processing enzyme), atg7 (an e1-like protein), and
+atg3 (an e2-like protein). atg12 is activated by atg7 and con-
+jugated to atg5 by atg10 (an e2-like protein) to become the
+atg12–atg5 conjugate [30]. this conjugate is organized into
+a complex by associating with atg16 to form the at-
+g16 æ atg5–atg12 complex [31]. formation of atg8-pe and
+the atg16 æ atg5–atg12 complex is essential for autophago-
+some formation. as a consequence, autophagosome formation
+is accomplished by six functional complexes or modiﬁed pro-
+teins:
+the atg1 protein kinase and its regulators (atg1,
+atg13, and atg17), the atg2 æ atg18 complex, atg8-pe, the
+atg16 æ atg5–atg12 complex, the as-pi3k complex (vps30/
+atg6 and atg14), and atg9.
+among these, the atg2 æ atg18 complex, the atg16 æ atg5–
+atg12 complex, the as-pi3k complex, and atg9 are required
+for the nucleation step, whereas atg8-pe is involved in the
+nucleation
+cvt vesicle
+nucleation 
++ 
+expansion
+autophagosome
+atg8-pe
+atg2.atg18 atg16.atg5-atg12
+atg1
+as-pi3k
+atg13
+atg9
+atg17
+fig. 2. atg genes required for autophagosome formation in the yeast
+saccharomyces cerevisiae. (a) the 17 atg genes are distinguished by
+the step they are involved in. the nucleation step is required for
+formation of the cvt vesicle, a minimum closed vesicle. in addition to
+the nucleation step, an expansion step is needed to form the
+autophagosome, a larger membrane-bound structure. (b) a hierarchy
+diagram of the 17 atg proteins. the atg proteins/complexes are
+recruited to the pas on the basis of this hierarchy [21]. atg17 behaves
+as a scaﬀold protein in pas organization. dotted proteins/complexes
+function in the nucleation step, and the others are involved in the
+expansion step.
+expansion step (fig. 2b). the atg1 kinase and its regulators
+showed a complicated phenotype: atg1 is essential for nucle-
+ation, but its regulators (atg13 and atg17) are required for
+the expansion step. recently, atg29 has been found to be re-
+quired for the expansion step [32]. the role of atg29 needs
+to be investigated further.
+6. atg proteins involved in expansion
+atg13 and atg17, the regulators of the atg1 serine/threonine
+protein kinase, are required for the expansion step [33–35]. as
+noted, inactivation of tor kinase induces autophagy. which
+atg protein receives the autophagy-inducing signal
+from
+tor? atg13 is hyper-phosphorylated under growing condi-
+tions, and our group found that dephosphorylation of atg13p
+is closely related to tor inactivation. upon tor kinase inacti-
+vation by rapamycin treatment or nitrogen starvation, atg13p
+is rapidly dephosphorylated within several minutes [24]. the
+identities of the phosphatases involved in this reaction are un-
+known, but inactivation of tor kinase directly or indirectly
+leads to dephosphorylation of atg13p. dephosphorylated
+atg13p binds to atg1p [36]. this binding activates the atg1p
+kinase activity from a basal level. atg17 is also involved in this
+activation step, but its involvement is possibly indirect (see be-
+low). one study demonstrated that a conformational change of
+atg1p initiate autophagosome formation [33]. to elucidate the
+mechanisms of autophagy induction by atg1 kinase and its
+regulators, the substrates of atg1 kinase must be determined.
+atg8-pe is another molecule involved in the expansion step
+[22]. atg8 is highly expressed during autophagy [37]. this
+expression is essential for the expansion of the im; inhibition
+of protein synthesis by cycloheximide immediately aﬀects the
+size of autophagosomes [22]. in the process of autophagosome
+formation, atg8-pe localizes to the ims [37]. this also sug-
+gests a role for atg8-pe in im expansion. cleavage of atg8-
+pe to atg8 by atg4 is also required for generation of normal
+autophagosomes [38]. in the absence of atg8-pe cleavage, the
+curvature of the im and the direction of im expansion are
+abnormal (our unpublished observation). the responses of
+atg13 and atg8 to rapamycin are independent of each other
+[22]. at least two signaling pathways are activated upon initi-
+ation of autophagosome formation.
+7. atg proteins required for nucleation
+the as-pi3k complex (vps30/atg6, atg14, vps15, and
+vps34) and the atg2 æ atg18 complex are essential for nucle-
+ation. the functions of both complexes are closely related to
+phosphoinositide processing. in s. cerevisiae, vps34 is the sole
+pi3k [39] and is essential for autophagosome formation [27].
+the role of the as-pi3k complex is apparently to produce
+phosphatidylinositol 3-phosphate (ptdins(3)p) at the pas.
+the localization of this complex at the pas is controlled by
+atg14 [40]. our systematic localization analysis of atg proteins
+suggests that one role of the as-pi3k complex is to recruit
+other eﬀector proteins to the pas [21].
+atg18 has been reported to be an eﬀector protein bound to
+phosphatidylinositol 3, 5-bisphosphate (ptdins(3, 5)p2) [41]. in
+yeast, ptdins(3, 5)p2
+sole
+synthesized by fab1,
+the
+is
+k. suzuki, y. ohsumi / febs letters 581 (2007) 2156–2161
+2159
+required for
+ptdins(3)p 5-kinase, from ptdins(3)p produced by vps34 [42].
+thus, in the absence of pi3k activity, yeast cells are able to
+produce neither ptdins(3)p nor ptdins(3, 5)p2. fab1 is dispens-
+able for autophagosome formation [41]; thus, ptdins(3, 5)p2 is
+not
+activity. ptdins(3)p and
+ptdins(4)p have also been suggested to be binding partners
+of atg18 [41,43]. our recent study showed that atg18 is re-
+cruited to the pas in a manner dependent upon the as-
+pi3k complex, suggesting that ptdins(3)p is a key player in
+autophagosome formation by recruiting atg18.
+autophagic
+atg2 forms a complex with atg18, but the localization pat-
+terns of these proteins are diﬀerent [21]; whereas atg2 localizes
+only to the pas, atg18 additionally localizes to the vacuolar
+membrane. in the absence of atg2, atg18 disappears from
+the pas, but it is still seen at the vacuolar membrane [21]. this
+pattern may exist because of ptdins(3)p produced by the pi3k
+complex required for the vacuolar protein sorting pathway or
+ptdins(3, 5)p2 generated by fab1. atg2 and atg18 reciprocally
+require each other to localize to the pas [21]. presumably, for-
+mation of the atg2 æ atg18 complex acquires the ability to
+bind to phosphoinositides required for pas localization. how-
+ever, the functions of atg2 and atg18 in the nucleation step
+remain to be elucidated.
+the atg16 æ atg5–atg12 complex is another complex re-
+quired for the nucleation step. in mammalian cells, atg5 is
+localized to the outer face of expanding ims and detaches just
+after completion of autophagosome formation; this observa-
+tion suggests that this complex plays a coatmer-like role in
+autophagosome formation [44]. like the atg2 æ atg18 com-
+plex, localization of the atg16 æ atg5–atg12 complex to the
+pas depends on the as-pi3k complex [21], suggesting that
+this complex interacts with ptdins(3)p.
+among atg proteins, atg9 is known as the only integral
+membrane protein [28]. fluorescence microscopy reveals that
+atg9-gfp exists as two populations: one in the pas and an-
+other in the periphery, composed of a few dozen small punc-
+tate structures moving rapidly around the cytoplasm. lack
+of atg1 activity leads to atg9 accumulation to the pas;
+atg9 is abundant in the pas at non-permissive temperatures
+in the atg1ts strain, but this accumulation is not seen at permis-
+sive temperatures. this study proposed the hypothesis that
+atg9 is recycled between the pas and the cytoplasmic pool
+[45,46]. the most important issue to be addressed at the pres-
+ent time is the relationship between the pas and peripheral
+pools. does atg9 really cycle between these two pools? if this
+cycle exists,
+is it essential for autophagosome formation?
+regardless of these details, however, it is clear that atg9 is dee-
+ply involved in the nucleation step. in the absence of atg9,
+pas organization is severely damaged, with a number of atg
+proteins missing from the pas [21]. this phenotype is compat-
+ible with atg9 mainly playing a role in recruiting the as-pi3k
+complex to the pas.
+8. machinery involved in expansion of the isolation membrane
+ptdins(3)p is a lipid involved in autophagosome formation,
+but it does not seem to be suﬃciently abundant to account for
+the large amount of lipids required for the expanding im. it is
+one possibility that lipids are carried by a structure containing
+the transmembrane protein atg9. in an atg9-recycling model,
+the atg9-structure provides lipids to the pas or expanding
+ims and recycles back to the cytoplasmic pool to recruit lipids
+to be delivered [45]. it has been proposed that mitochondria
+may serve as a lipid source [47]. direct evidence of involvement
+of atg9 recycling in expansion of the im, however, has not yet
+been obtained.
+atg8-pe and the atg16 æ atg5–atg12 complex are known to
+localize to the im [20,44]. atg8-pe is tightly associated with
+membranes [38]; if it plays a role in delivering lipids to the
+expanding im, then atg8-pe containing structures should be
+targeted to the pas or im. because pe is a cone-shaped
+phospholipid, it cannot be the only constituent of a vesicle;
+incorporation of other lipids is required. the route of atg8-
+pe traﬃcking has not been described fully; however, it is likely
+that atg8-pe is ultimately delivered to the pas or the expand-
+ing edge of the ims. atg8-pe is localized on both of the im
+membranes, but the atg16 æ atg5–atg12 complex resides only
+on the outer face. the association of atg8-pe with the at-
+g16 æ atg5–atg12 complex possibly underlies the curvature of
+the im [48]. once autophagosome formation is complete, the
+atg16 æ atg5–atg12 complex is uncoated immediately. this
+reaction may be mediated by cleavage of atg8-pe by atg4,
+resulting in a fusion-competent autophagosome.
+9. source of the isolation membrane
+the nascent autophagosome is a curved membrane sac
+called the im (fig. 1). the autophagosome becomes mature
+upon fusion of the leading edges of the expanding ims. during
+expansion of the ims, the outer and the inner faces of unit
+membranes appear diﬀerentiated (see above) [44,49]. the prop-
+erties underlying the diﬀerence between the outer and inner
+faces remain to be elucidated. localization analysis of the
+other atg proteins on the ims will help reveal the mechanisms
+by which these diﬀerences are established.
+the mechanisms of im expansion are not fully understood.
+although it is likely that multiple organelles are involved in
+supplying membranes to the im, the possible main source of
+the im is the endoplasmic reticulum (er) membrane. involve-
+ment of conventional vesicular transport was suspected by a
+negative observation with electron microscopy: typical secre-
+tory vesicles were not found at the leading edge of the expand-
+ing ims [37]. however, the er membrane plays an important
+role in the expansion of ims. formation of the copii vesicle
+is essential for er-to-golgi transport. a mutant defective in
+the subcomplex required for copii vesicle formation (sec23/
+24) participates in autophagosome formation, but other mu-
+tants (sec12 and sec13/31) do not [9]. interestingly, the autoph-
+agy defect of the sec24 mutant is rescued by overexpression of
+the sec24 homologue sfb2; deletion of the gene encoding this
+protein does not aﬀect autophagic activity [50]. conventional
+copii vesicles may not be involved in expansion of the ims,
+but some copii proteins may mediate ﬂow in the early secre-
+tory pathway required for autophagosome formation.
+to examine the possible involvement of the er in auto-
+phagosome formation, the er was labeled with an hdel
+(his-asp-glu-leu)
+signal peptide-tagged gfp (hdel-
+gfp), which has a retention sequence to the er lumen [51].
+a fraction of hdel-gfp was transported to the vacuole
+upon starvation and stained the vacuolar lumen. this trans-
+port was blocked in the autophagy-defective mutants, suggest-
+ing that the hdel-gfp transport depends on autophagy. on
+2160
+k. suzuki, y. ohsumi / febs letters 581 (2007) 2156–2161
+the other hand, a protein on the golgi membrane was not
+delivered to the vacuole. immunoelectron microscopy revealed
+that fragmented er membranes were enclosed within auto-
+phagosomes; yet, involvement of er membranes the in expan-
+sion of ims has not been shown to date. this approach has
+been diﬃcult, because very few marker proteins of the im have
+been identiﬁed. more such markers must be identiﬁed in order
+to further investigate the membrane sources of the im.
+it is unlikely that canonical vesicular transport is involved in
+expansion of the im (see above). similarly, conventional fu-
+sion machinery used in the endomembrane system, nsf (n-
+ethylmaleimide-sensitive fusion protein), snap (soluble nsf
+attachment protein), and snare (snap receptor) [52–54],
+is not involved in expansion of the im and completion of auto-
+phagosome formation. in the mutant of sec18, a gene encod-
+ing the sole yeast nsf, most vesicular traﬃcking events,
+including autophagosome fusion to the vacuole, are blocked,
+but autophagosomes are normally formed [9]. also, sec17
+(snap) and vti1 (snare) mutants are defective in auto-
+phagosome fusion to the vacuole, but not in autophagosome
+formation [9]. however, we cannot exclude the possibility that
+residual activity of these proteins at non-permissive tempera-
+tures is suﬃcient for the fusion event during expansion of
+the im, or that these mutants are not defective in the fusion
+event required for expansion of the im. because the essential
+proteins for conventional vesicular traﬃcking are not required
+for expansion of the im, there likely exists an unknown traf-
+ﬁcking system from the er to the im.
+10. role of the pre-autophagosomal structure in expansion of the
+isolation membrane
+the six atg complexes/proteins concentrate and work at the
+pas [20]. although speciﬁc targeting mechanisms have not yet
+been identiﬁed, it is likely that the main role of the pas is to
+generate ims by concentrating atg proteins to a restricted site.
+two models are possible regarding the relationship between
+the pas and the im (fig. 3). in one model, the pas generates
+ims (fig. 3a); in the second, the pas is directly converted into
+ims (fig. 3b). in yeast, atg8 and most other atg proteins still
+localize to the pas even after production of autophagosomes
+[20]; this seems to support the former model. in the case of
+yeast, the pas seems to associate with the im until it becomes
+a mature autophagosome; this suggests that the pas is respon-
+sible for sealing the im. on the other hand, in mammals, a
+crescent-shaped membrane labeled with atg5 is transformed
+to a mature autophagosome, after which atg5 leaves the mem-
+brane of the autophagosome [44]. this observation suggests
+the pas matures and transforms into the autophagosome.
+these hypotheses raise the signiﬁcant question of whether
+the crescent-shaped membrane is a counterpart of the pas
+in yeast. it is still possible to hypothesize the existence of the
+multiple pas structures in mammals. recently, our group
+found that atg17 determines the site of pas organization
+(fig. 2b) [21], but unfortunately the homologue of atg17
+has not yet been identiﬁed in mammals. in order to character-
+ize the mammalian pas equivalent, a functional homologue of
+atg17p must be identiﬁed.
+11. concluding remarks
+juhasz and neufeld have discussed the origins of autophagic
+membranes in their review [55]. two models of im expansion
+were presented: one is a maturation model, in which pre-exist-
+ing organelle membranes are delivered to or mature into the
+im. if this model is true, the pas might play a converter-like
+role from the er membrane to the im. the pas pumps ims
+out of the er by coating the membranes with atg8-pe and the
+atg16 æ atg5–atg12 complex, generating the correct curvature.
+there is the possibility that the pas is a uniquely diﬀerentiated
+region of the er. a second proposed model is the assembly
+model; non-vesicular transport or de novo synthesis of mem-
+brane is responsible for im expansion. however, as enzymes
+required for lipid synthesis do not occur among the atg pro-
+teins, general lipid synthetic pathways would have to be in-
+volved in this synthesis. determining the lipid composition
+fig. 3. two models for the relationship between the pas and the im. (a) the pas plays a role in producing the ims and persists after the
+autophagosome matures. (b) the pas is converted directly into the im. proteins required during autophagosome formation disassemble and
+disperse to the cytoplasm immediately after the autophagosome matures.
+k. suzuki, y. ohsumi / febs letters 581 (2007) 2156–2161
+2161
+of ims and autophagosomes should provide insight into this
+issue.
+recent studies have elucidated the process of autophagy at
+the molecular level; parts of the machine (atg proteins) and
+the factory (pas) have already been found. the most impor-
+tant outstanding mystery concerns the precise materials that
+make up these structures. to identify them may require the
+isolation of ims or autophagosomes and their subsequent
+material analysis. quite recently, atg31 has been character-
+ized as a gene required for im expansion [56].
+references
+[1] tsukada, m. and ohsumi, y. (1993) febs lett. 333, 169–174.
+[2] baba, m., osumi, m., scott, s.v., klionsky, d.j. and ohsumi, y.
+(1997) j. cell biol. 139, 1687–1695.
+[3] shintani, t. and klionsky, d.j. (2004) science 306, 990–995.
+[4] hanaoka, h., noda, t., shirano, y., kato, t., hayashi, h.,
+shibata, d., tabata, s. and ohsumi, y. (2002) plant physiol. 129,
+1181–1193.
+[5] levine, b. and klionsky, d.j. (2004) dev. cell 6, 463–477.
+[6] kamada, y., sekito, t. and ohsumi, y. (2004) curr. top.
+microbiol. immunol. 279, 73–84.
+[7] takeshige, k., baba, m., tsuboi, s., noda, t. and ohsumi, y.
+(1992) j. cell biol. 119, 301–311.
+[8] baba, m., osumi, m. and ohsumi, y. (1995) cell struct. funct.
+20, 465–471.
+[24] kamada, y., funakoshi, t., shintani, t., nagano, k., ohsumi,
+m. and ohsumi, y. (2000) j. cell biol. 150, 1507–1513.
+[25] ichimura, y. et al. (2000) nature 408, 488–492.
+[26] mizushima, n., noda, t. and ohsumi, y. (1999) embo j. 18,
+3888–3896.
+[27] kihara, a., noda, t., ishihara, n. and ohsumi, y. (2001) j. cell
+biol. 152, 519–530.
+[28] noda, t., kim, j., huang, w.p., baba, m., tokunaga, c.,
+ohsumi, y. and klionsky, d.j. (2000) j. cell biol. 148, 465–480.
+[29] ohsumi, y. (2001) nat. rev. mol. cell biol. 2, 211–216.
+[30] mizushima, n. et al. (1998) nature 395, 395–398.
+[31] kuma, a., mizushima, n., ishihara, n. and ohsumi, y. (2002) j.
+biol. chem. 277, 18619–18625.
+[32] kawamata, t., kamada, y., suzuki, k., kuboshima, n.,
+akimatsu, h., ota, s., ohsumi, m. and ohsumi, y. (2005)
+biochem. biophys. res. commun. 338, 1884–1889.
+[33] abeliovich, h., zhang, c., dunn jr., w.a., shokat, k.m. and
+klionsky, d.j. (2003) mol. biol. cell 14, 477–490.
+[34] cheong, h., yorimitsu, t., reggiori, f., legakis, j.e., wang,
+c.w. and klionsky, d.j. (2005) mol. biol. cell 16, 3438–3453.
+[35] kabeya, y., kamada, y., baba, m., takikawa, h., sasaki, m.
+and ohsumi, y. (2005) mol. biol. cell 16, 2544–2553.
+[36] matsuura, a., tsukada, m., wada, y. and ohsumi, y. (1997)
+gene 192, 245–250.
+[37] kirisako, t., baba, m., ishihara, n., miyazawa, k., ohsumi, m.,
+yoshimori, t., noda, t. and ohsumi, y. (1999) j. cell biol. 147,
+435–446.
+[38] kirisako, t. et al. (2000) j. cell biol. 151, 263–276.
+[39] schu, p.v., takegawa, k., fry, m.j., stack, j.h., waterﬁeld,
+m.d. and emr, s.d. (1993) science 260, 88–91.
+[9] ishihara, n. et al. (2001) mol. biol. cell 12, 3690–3702.
+[40] obara, k., sekito, t. and ohsumi, y. (2006) mol. biol. cell 17,
+[10] harding, t.m., morano, k.a., scott, s.v. and klionsky, d.j.
+1527–1539.
+(1995) j. cell biol. 131, 591–602.
+[11] hutchins, m.u. and klionsky, d.j. (2001) j. biol. chem. 276,
+20491–20498.
+[41] dove, s.k. et al. (2004) embo j. 23, 1922–1933.
+[42] gary, j.d., wurmser, a.e., bonangelino, c.j., weisman, l.s.
+and emr, s.d. (1998) j. cell biol. 143, 65–79.
+[12] kim, j., scott, s.v., oda, m.n. and klionsky, d.j. (1997) j. cell
+[43] stromhaug, p.e., reggiori, f., guan, j., wang, c.w. and
+biol. 137, 609–618.
+[13] thumm, m., egner, r., koch, b., schlumpberger, m., straub,
+m., veenhuis, m. and wolf, d.h. (1994) febs lett. 349, 275–
+280.
+klionsky, d.j. (2004) mol. biol. cell 15, 3553–3566.
+[44] mizushima, n. et al. (2001) j. cell biol. 152, 657–668.
+[45] reggiori, f., tucker, k.a., stromhaug, p.e. and klionsky, d.j.
+(2004) dev. cell 6, 79–90.
+[14] harding, t.m., hefner-gravink, a., thumm, m. and klionsky,
+[46] reggiori, f., monastyrska, i., shintani, t. and klionsky, d.j.
+d.j. (1996) j. biol. chem. 271, 17621–17624.
+(2005) mol. biol. cell 16, 5843–5856.
+[15] yuan, w., tuttle, d.l., shi, y.j., ralph, g.s. and dunn jr.,
+[47] reggiori, f., shintani, t., nair, u. and klionsky, d.j. (2005)
+w.a. (1997) j. cell sci. 110, 1935–1945.
+autophagy 1, 101–109.
+[16] mukaiyama, h., oku, m., baba, m., samizo, t., hammond,
+a.t., glick, b.s., kato, n. and sakai, y. (2002) genes cells 7,
+75–90.
+[17] titorenko, v.i., keizer, i., harder, w. and veenhuis, m. (1995) j.
+[48] reggiori, f. and klionsky, d.j. (2005) curr. opin. cell biol. 17,
+415–422.
+[49] kabeya, y. et al. (2000) embo j. 19, 5720–5728.
+[50] hamasaki, m., noda, t. and ohsumi, y. (2003) cell struct.
+bacteriol. 177, 357–363.
+funct. 28, 49–54.
+[18] klionsky, d.j. et al. (2003) dev. cell 5, 539–545.
+[19] wang, c.w. and klionsky, d.j. (2003) mol. med. 9, 65–76.
+[20] suzuki, k., kirisako, t., kamada, y., mizushima, n., noda, t.
+[51] hamasaki, m., noda, t., baba, m. and ohsumi, y. (2005) traﬃc
+6, 56–65.
+[52] beckers, c.j., block, m.r., glick, b.s., rothman, j.e. and balch,
+and ohsumi, y. (2001) embo j. 20, 5971–5981.
+w.e. (1989) nature 339, 397–398.
+[21] suzuki, k., kubota, y., sekito, t. and ohsumi, y. (2007) gene
+cells. 12, 209–218.
+[22] abeliovich, h., dunn, w.a., kim jr., j. and klionsky, d.j.
+(2000) j. cell biol. 151, 1025–1034.
+[53] graham, t.r. and emr, s.d. (1991) j. cell biol. 114, 207–218.
+[54] mayer, a., wickner, w. and haas, a. (1996) cell 85, 83–94.
+[55] juhasz, g. and neufeld, t.p. (2006) plos biol. 4, e36.
+[56] kabeya, y., kawamata, t., suzuki, k. and ohsumi, y. (in press).
+[23] noda, t., suzuki, k. and ohsumi, y. (2002) trends cell biol. 12,
+biochem. biophys. res. commun.
+231–235.

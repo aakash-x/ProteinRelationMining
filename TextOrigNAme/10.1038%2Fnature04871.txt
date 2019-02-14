@@ -1,0 +1,954 @@
+nature|vol 441|25 may 2006|doi:10.1038/nature04871
+insight  review
+hypoxia signalling in cancer and approaches 
+to enforce tumour regression
+jacques pouysségur1, frédéric dayan1 & nathalie m. mazure1
+tumour cells emerge as a result of genetic alteration of signal circuitries promoting cell growth and 
+survival, whereas their expansion relies on nutrient supply. oxygen limitation is central in controlling 
+neovascularization, glucose metabolism, survival and tumour spread. this pleiotropic action is orchestrated 
+by hypoxia-inducible factor (hif), which is a master transcriptional factor in nutrient stress signalling. 
+understanding the role of hif in intracellular ph (phi) regulation, metabolism, cell invasion, autophagy and 
+cell death is crucial for developing novel anticancer therapies. there are new approaches to enforce necrotic 
+cell death and tumour regression by targeting tumour metabolism and phi-control systems.
+we have learned, over the past two decades, how mammalian cells 
+perceive signals to induce cell-cycle progression, proliferation and 
+survival. two major pathways that are frequently mutated in human 
+cancer, the ras–extracellular signal-regulated kinase (erk)1–3 and the 
+phosphatidylinositol-3-oh kinase (pi(3)k)–akt4 (see the review 
+in this issue by shaw and cantley, page 424) signalling cascades, are 
+activated by a vast array of growth factor polypeptides, hormones and 
+extracellular matrix proteins5. activation of these two pathways is suf-
+ficient to trigger multiple cycles of division and survival of normal cells 
+under the ‘rich’ conditions of tissue culture. in vivo, however, grow-
+ing cells must constantly instruct the microenvironment to maintain 
+a supply of essential nutrients. it is remarkable that the ras–erk and 
+pi(3)k–akt pathways also control the expression of the ubiquitous 
+vascular endothelial growth factor-a (vegf-a), which is a key factor 
+in vascularization/angiogenesis6,7. during embryonic development or 
+in the context of tumour expansion, growing cells rapidly outstrip the 
+supply of nutrients. although cells sense and respond to variations in 
+concentrations of all nutrients, oxygen sensing has emerged as a central 
+control mechanism of vasculogenesis8,9.
+at the heart of this regulatory system is hif10,11, which controls, 
+among other gene products, the expression of two key angiogenic fac-
+tors: vegf-a12 and angiopoietin-2 (ang-2)13. this finding has placed 
+the hypoxia-signalling pathway at the forefront of nutritional control 
+— a notion reinforced by the fact that growth factors enhance hif 
+expression and converge with hypoxia in inducing maximal expression 
+of vegf-a.
+hif can induce a vast array of gene products controlling energy 
+metabolism, neovascularization, survival, phi and cell migration, and 
+has become recognized as a strong promoter of tumour growth14. this 
+pro-oncogenic feature is only one facet of the dual action of hif. besides 
+being a ‘guardian’ of oxygen homeostasis, hif is capable of inducing 
+pro-apoptotic genes14 leading to autophagy and cell death, which can 
+be features of hypoxic tissues. in this regard, hif can be likened to p53, 
+which has dual roles as a guardian of genome integrity and a promoter 
+of apoptosis. 
+in this review we highlight the most recently revealed features of 
+hypoxia signalling, and the role of hif as a master gene controlling nutri-
+tional stress, angiogenesis, tumour metabolism, invasion and autophagy/
+cell death. finally, we discuss potential new and exciting approaches to 
+enforce tumour regression by exploiting the emerging basic knowledge 
+of tumour metabolism, autophagy and cell death. 
+regulating angiogenesis with vegf-a and angiopoietin-2
+growth factors and hypoxia converge in the regulation of key angiogenic 
+genes. the cellular expansion of tumours progressively distances cells 
+from the vasculature, and thus from oxygen and nutrients. tumour cells, 
+like growing embryonic cells, send out signals that initiate the formation 
+of new blood vessels. this adaptive process, termed angiogenesis, is a 
+general feature of every tissue; however, it is often exacerbated in solid 
+tumours. thus, new tumour vessels showing structural malformations, 
+chaotic blood flow and local regions of hypoxia might nonetheless pre-
+vail. although many molecules and receptors have been characterized 
+in this biological process, at least two factors seem critical for initiating 
+vessel sprouting. these are vegf-a15,16 and ang-2 (ref. 17), which are 
+two receptor ligands expressed and secreted in response to hypoxia. 
+vegf-a is expressed in most cells, and attracts and guides sprout-
+ing neovessels into oxygen-depleted regions of the tumour mass18,19. 
+endothelial cells situated at the tip of the sprouts sense and navigate 
+through the environment using long filopodia that are rich in vegf 
+receptor-2 (vegfr-2)19. thus, migration of the tip cells is guided by 
+a graded distribution of vegf-a, particularly the long spliced forms 
+that are retained in the extracellular matrix.
+although in hypoxia the binding of hif to the vegf promoter is a 
+key determinant in its expression, two other major transcriptional 
+controls are mediated through the ras–erk and pi(3)k–akt path-
+ways6,20 (fig. 1a). vegf-a messenger rna is upregulated by the erk 
+pathway through the phosphorylation of the transcription factor sp1 
+and its recruitment to the proximal region of the vegf promoter21 (fig. 
+1a). this regulation is independent of hypoxic stress and reflects the 
+intensity of growth-factor stimulation or oncogenic signals. transcrip-
+tional activation also occurs through erk-induced phosphorylation of 
+hif-1α22 and the coactivator p300, which might improve the accessibility 
+of rna polymerase ii to the vegf promoter. other levels of regulation 
+of vegf-a occur, including the stabilization of the mrna through the 
+stress-activated kinase p38 (ref. 23), and translation by means of internal 
+ribosome entry site (ires) sequences present in 5´ non-coding regions 
+of vegf-a24 and hif-1α mrnas25, which are two important attributes 
+for translation of vegf-a under nutrient deprivation. this is another 
+1institute of signalling, developmental biology and cancer research, cnrs umr-6543, university of nice, centre antoine lacassagne, 33 avenue valombrose, 06189 nice, france.
+ ©2006
+nature  publishing group
+437
+insight  review
+nature|vol 441|25 may 2006
+point of convergence between growth factors and hypoxia signalling at 
+the level of translation. as a ‘survival’ cytokine, vegf-a is translated 
+under conditions where the cell’s general translational machinery is 
+turned off. 
+the second molecule induced by hypoxia is ang-2, a receptor lig-
+and restricted to endothelial cells17,26 that allows vessel remodelling by 
+antagonizing the related molecule ang-1. as shown in fig. 1b, ang-1, 
+through tie-2 receptor tyrosine kinase signalling and platelet-derived 
+growth factor-b (pdgf-b) action, induces pericyte recruitment27 and 
+growth factors
+oncogenes
+ras            erk1/erk2
+stress kinases
+p38 mapk
+α β
+(1) transcription
+hypoxia
+hif-1
+ap-1
+sp-1
+vegf-a
+(2) mrna
+stabilization
+stabilization
+activation
+hif-1α
+ires
+(3) translation
+hypoxia
+ang-1
+ang-2
+vegf
+tie-2
+tie-2
+vegfr2
+notch
+cyclin d–cdk4–prb
+quiescent state
+pc
+sprouting
+angiogenesis
+figure 1 | vegf-a and angiopoietin-2 are key angiogenic factors induced 
+by hypoxia.  a, control of vascular endothelial growth factor-a (vegf-a) 
+expression. vegf-a expression is controlled at three levels: transcription, 
+messenger rna stability and translation. the ras–mek–extracellular 
+signal-regulated kinase (erk) pathway stimulates transcription through 
+phosphorylation of the transcription factors sp1 and hypoxia-inducible 
+factor-1α (hif-1α) subunit, and their recruitment to the vegf promoter. 
+the transcription factor activator protein-1 (ap-1) might also modulate 
+vegf transcription. hif-1 is a heterodimer of a hypoxia-stabilized and 
+activated α-subunit and an oxygen-insensitive β-subunit. vegf-a mrna 
+is stabilized through the stress-activated kinase p38, and the translation 
+of vegf-a is ensured under hypoxic and nutrient-depleted conditions 
+by means of internal ribosome entry site (ires) sequences. under these 
+energy-reduced conditions, classic cap-dependent translation is inhibited. 
+b, vegf-a and angiopoietin-2 (ang-2) are two angiogenic factors induced 
+by hypoxia. blood capillaries are maintained in a mature and dormant state 
+through the recruitment of pericytes (pc) through platelet-derived growth 
+factor-b (pdgf-b) and the signalling of the endothelial receptor tie-2 upon 
+ang-1 binding. in addition, activation of the notch pathway through cyclin 
+d/cdk4 and retinoblastoma protein (prb) phosphorylation contributes to 
+the quiescence of endothelial cells. ang-2 is an antagonist ligand for tie-2 in 
+endothelial cells and, like vegf-a, is induced under low oxygen conditions 
+through the hif. the initiation of sprouting angiogenesis requires the 
+destabilization of capillaries. this action is mediated by ang-2, thereby 
+blocking tie-2 signalling and allowing vegf-a-induced cell migration and 
+division. mapk, mitogen-activated protein kinase.
+maturation of blood capillaries. these capillary endothelial cells are 
+rendered quiescent through the activation of the notch pathway28, thus 
+becoming unresponsive to vegf-a action, unless ang-2 is also secreted, 
+leading to vessel destabilization. ang-2 is a natural ang-1 antagonist, 
+which displaces ang-1 from its receptor thus arresting tie-2 signalling. 
+therefore ang-2 secretion from weibel–palade bodies29 is a critical, 
+and perhaps limiting, step in angiogenesis permitting vessel remodel-
+ling upon vegf-a action. it is remarkable that this angiogenic ‘couple’ 
+— vegf-a and ang-2 — is expressed under hypoxic control when 
+and where nutrients are needed. however, the precise mechanism of 
+regulation of ang-2 expression in hypoxia remains to be defined.
+a master regulator of oxygen homeostasis
+more than a decade ago, semenza and colleagues showed that the 
+nuclear factor hif binds to the epo gene and induces its transcription 
+in hypoxia10. hif is now known to induce many genes involved in the 
+response to hypoxia14,30. hif was shown in vitro, in a variety of cell-
+culture systems, to be activated at a cut-off point of about 5% oxygen 
+(40 mmhg), and to progressively increase its activity with a decrease 
+in oxygen gradient down to 0.2–0.1% oxygen (1.6–0.8 mmhg), close 
+to anoxia. hif belongs to the large family of basic-helix–loop–helix 
+(bhlh) proteins and is a heterodimer of a constitutively expressed and 
+stable hif-1β subunit, and one of three oxygen-regulated hif-α sub-
+units (hif-1α, hif-2α or hif-3α). hif activation is a multi-step process 
+involving hif-α stabilization, nuclear translocation, heterodimerization, 
+transcriptional activation and interaction with other proteins (see refs 31, 
+32 for reviews). in the nucleus, hif binds to so-called hypoxia-response 
+elements (hres), with the minimal core sequence 5´-rcgtg-3´, which 
+are adjacent to auxiliary motifs specifying the responsive genes (about 
+100 genes have now been characterized). yet identifying exactly how hif 
+becomes activated in hypoxia has been challenging.
+hif does not directly sense variations in oxygen tension (po2). the key 
+regulation is orchestrated by a class of 2-oxoglutarate-dependent and 
+iron-dependent dioxygenases belonging to the largest known family of 
+non-haem oxidizing enzymes (ec 1.14.11.2). because the activity of 
+these enzymes is strictly dependent on the cellular po2, they are the true 
+oxygen-sensing molecules controlling the hypoxic response33. two types 
+of oxygen sensor control hif action. the first are referred to as prolyl 
+hydroxylase domain (phd) proteins34–36. phds hydroxylate two prolyl 
+residues (p402 and/or p564) in the human hif-1α region referred to as 
+the oxygen-dependent degradation domain (oddd; fig. 2). this hif-α 
+modification specifies rapid interaction with the tumour-suppressor 
+protein von hippel–lindau (vhl), a component of an e3 ubiquitin 
+ligase complex37,38. subsequently, hif-α subunits become marked with 
+polyubiquitin chains that drive them to destruction by the proteasomal 
+system39,40. hif-1α, in well-oxygenated cells (21% o2), displays one of 
+the shortest half-lives (<5 min) among cellular proteins40. of the three 
+phd isoforms in humans, phd2 is the key limiting enzyme target-
+ing hif-1α for degradation under normoxic conditions41, whereas the 
+physiological roles of phd1 and phd3, which are active under chronic 
+hypoxia, remain to be investigated (see ref. 33 for a review).
+the second type of oxygen sensor controlling the hypoxic response 
+is an asparaginyl hydroxylase, referred to as factor inhibiting hif-1 
+(fih)42. this enzyme hydroxylates an asparagine residue (n803) in the 
+most carboxy-terminal transcriptional activation domain (c-tad) of 
+human hif-1α. this covalent modification abrogates c-tad interac-
+tion with transcriptional co-activators, such as p300 and its paralogue 
+cbp (fig. 2). thus, the two metabolic sensors, phd2 and fih, by con-
+trolling both the destruction and inactivation of hif-α subunits, ensure 
+full repression of the hif pathway in well-oxygenated cells. an intrigu-
+ing feature of hif-α subunits is the occurrence of apparently ‘bicephal-
+ous’ transcriptional activation domains (amino (n)-tad and c-tad). 
+interestingly, only c-tad, which interacts with p300/cbp, is subjected 
+to hydroxylation and inhibition by fih. we propose that n-tad and 
+c-tad could discriminate between the induction of different hypoxic 
+genes, as deletion of c-tad in a naturally occurring spliced form of 
+hif-1α retains one-third of the transcriptional activity43.
+438
+ ©2006
+nature  publishing group
+nature|vol 441|25 may 2006
+insight  review
+in a model describing the microenvironment of a blood vessel (fig. 3), 
+we propose that cells exposed to a decreasing oxygen gradient will first 
+express a subset of genes regulated by n-tad, followed by a second 
+subset of genes regulated by c-tad at lower oxygen concentrations. 
+this model integrates the interesting finding that phds have a much 
+lower affinity for oxygen and 2-oxoglutarate than fih44. therefore, if 
+this notion applies in vivo, phds will be inactivated at oxygen values 
+that still maintain fih activity and therefore keep c-tad under repres-
+sion. this model is supported by the existence of at least two classes of 
+hif-dependent gene: those that are sensitive and non-sensitive to the 
+activity of fih45. thus, the two tads, together with the oxygen-sensitive 
+discriminator fih, constitute a cellular device that allows fine-tuning 
+of specific hif gene expression along the hypoxic gradient45. one par-
+ticular hif-induced gene that seems not to be repressed by the activity 
+of fih is the pro-apoptotic bnip3, a member of the bh3-only protein 
+family of cell death factors46. this finding came as a surprise, because 
+we were expecting that a gene inducing cell death should be maintained 
+under strict and tight control, and expressed only under severe hypoxic 
+conditions. the current hypothesis is that bnip3-induced cell death 
+is revealed only by severe acidosis associated with deep o2 depletion47 
+(fig. 3). bnip3 ‘activation’ by acidosis requires further investigation.
+hif meets the mtor pathway
+as well as activating angiogenesis, hypoxic stress also leads to attenua-
+tion of protein synthesis by means of emerging regulatory mechanisms 
+implicating the mtor (mammalian target of rapamycin) pathway.
+mtor is a conserved serine/threonine protein kinase that phospho-
+rylates a series of substrates involved in protein translation, including 
+the eukaryotic initiation factor 4e-binding protein-1 (4ebp1) and 
+ribo somal p70 s6 kinase (s6k)48,49. as a chief orchestrator of protein 
+synthesis, the mtor pathway integrates a variety of signals. mtor is 
+activated by rheb–gtp, a small g protein, itself negatively regulated 
+by the gtpase activity of the tumour suppressor complex tsc2–tsc1, 
+which was first identified as being mutated in patients with tuberous 
+sclerosis complex (tsc)50,51 (fig. 4). the upstream activators of mtor 
+proteasome
+instability
+inactivation
+oddd
+p300
+hlh
+pas
+n-tad
+c-tad
+826
+hif-1α
+pro 402
+pro 564 asn 803
+vhl
+ho
+oh
+oh
+oxygen
+sensors
+hif prolyl-hydroxylase
+phd2
+hif asparaginyl-hydroxylase
+fih
+figure 2 | oxygen sensors contribute to the destruction and inactivation 
+of hif-1α.  the transcription factor hif (hypoxia-inducible factor) is a 
+member of the basic-helix–loop–helix perarntsim (bhlh–pas) family 
+of proteins with two pas domains, a and b. hif is a heterodimer of an 
+oxygen-sensitive α-subunit and an oxygen-insensitive β-subunit. two 
+oxygen sensors termed prolyl-hydroxylase domain (phd) protein and 
+factor inhibiting hif-1 (fih) determine, respectively, the stability and 
+activity of hif-1α. the phds, by hydroxylating two proline residues (402 
+and 564) in a region called the oxygen-dependent degradation domain 
+(oddd), initiate the binding of a component of an e3 ubiquitin ligase, the 
+von hippel–lindau (vhl) protein, which marks hif-1α for destruction 
+by the proteasome. fih, by hydroxylating an asparagine residue in the 
+carboxy-terminal transcriptional activation domain (c-tad) of hif-1α, 
+inhibits the binding of cofactors, such as p300, that are required for the 
+transcription of certain hif-dependent genes. a second transcriptional 
+activation domain, n-tad, which overlaps the oddd, is fih independent 
+and might be implicated in distinct gene expression.
+oxygenated cells
+highly hypoxic cells
+phd
+fih
+phd
+fih
+phd
+fih
+bnip-3
+necrosis
+bnip-3
+acidosis
+bnip-3
+ca ix
+n-tad
+genes
+n-tad genes
+c-tad genes
+hypoxic gradient
+figure 3 | working model of two sets of hif-1-regulated genes.  in the 
+tissue microenvironment, cells situated at various distances from blood 
+capillaries will experience different oxygen tensions (po2), as illustrated by 
+a decreasing gradient. a parallel increase in the extracellular acidity due to 
+the accumulation of lactate and co2 is noted as cells become more distant 
+from capillaries. hypoxia induces the expression of carbonic anhydrase 
+ix (ca ix), which helps to retain a relatively neutral intracellular ph. 
+the expression of the proapoptotic protein bnip-3 is induced under 
+moderately hypoxic conditions, but requires acidosis to promote cell 
+death. thus, under the extreme conditions of low po2 and acidosis, necrotic 
+areas are often visible. a decreasing po2 gradient from the blood vessel to 
+the tumour core will also determine the activity of the prolyl hydroxylase 
+domain (phd) proteins and factor inhibiting hif-1 (fih). the michaelis 
+constant (km) of the phd proteins and fih predict that the former has a 
+lower affinity for oxygen and is therefore more rapidly inhibited than the 
+latter. so, at a moderate po2, hif-1α (hypoxia-inducible factor-1α) will 
+be stable because the phd proteins are inhibited, but genes dependent 
+on carboxy-terminal transcription activation domain (c-tad) activity 
+will not be induced because c-tad inhibition is maintained by fih 
+activity. however, genes requiring only the amino-terminal transcription 
+activation domain (n-tad) will be induced. as the po2 decreases further, 
+the inhibition of c-tad will be released and hif-1α will attain full 
+transcriptional activity. in this way the ‘bicephalous’ transcriptional 
+nature of hif-1α will, in an fih-dependent or fih-independent manner, 
+differentially regulate two sets of genes.
+are myriad growth factors, hormones and extracellular matrix compo-
+nents known to promote cell growth and survival through activation of 
+the pi(3)k–akt and ras–erk cardinal pathways. all these activators 
+converge at the level of the tsc2–tsc1 integrator complex. direct phos-
+phorylation of tsc2, by either akt (see the review in this issue by shaw 
+and cantley, page 424) or erks52, inhibits its intrinsic gtpase activity 
+leading to mtor activation. interestingly, nutrients (amino acids and 
+glucose) also inhibit the tsc2–tsc1 complex through a mechanism 
+that has not been fully resolved, which results in activation of protein 
+synthesis53,54. translation of hif-1α has been found to be particularly 
+sensitive to growth factors that activate mtor55,56.
+in contrast to these multiple mtor-activation inputs, mtor, and 
+therefore protein synthesis, is shut down under stress conditions 
+generated by energy depletion or hypoxia (fig. 4). in response to an 
+increase in the amp:atp ratio, the upstream kinase lkb1 phospho-
+rylates and activates amp-activated protein kinase (ampk)57. once 
+activated, ampk phosphorylates several downstream substrates, 
+resulting in a decrease in energy demand by switching off atp-con-
+suming pathways58. direct phosphorylation of tsc2 by ampk leads 
+to activation of the tsc2–tsc1 complex and subsequent mtor 
+inhibition. hif/hypoxia negatively regulates mtor in two ways: 
+ ©2006
+nature  publishing group
+439
+insight  review
+nature|vol 441|25 may 2006
+growth
+factors
+nutrients
+pi(3)k
+pten
+ampk
+lkb1
+energy
+depletion
+hypoxia
+akt
+erks
+tsc2/1
+redd1
+hif-1
+rheb
+bnip3
+rapamycin
+mtor
+raptor
+autophagy
+death
+cell growth
+and survival
+s6k
+4ebp1
+cell survival
+to stresses
+protein synthesis
+figure 4 | hypoxia meets the mtor pathway.  the blue arrows in the left 
+and central parts of this diagram denote the converging pathways activating 
+mtor (mammalian target of rapamycin) at the level of the tumour 
+suppressor complex (tsc2–tsc1). mtor, which is sensitive to rapamycin, 
+controls protein synthesis through the phosphorylation of 4e-binding 
+protein-1 (4ebp1) and p70 s6 kinase (s6k). growth factors, through akt-
+dependent and extracellular signal-regulated kinase (erk)-dependent 
+phosphorylation, suppress the gtpase activity of the tsc complex, leading 
+to full activation of gtp–rheb, which is the activator of the mtor–raptor 
+complex. nutrients and growth factors cooperate in the optimal activation 
+of this pathway, which is essential for relaying growth and survival signals. 
+by contrast, depletion of nutrients or energy (amino acids, atp or oxygen) 
+inhibits mtor through independent activation of the tsc complex (red 
+arrows). suppression of mtor in response to hypoxia requires gene 
+induction (redd1), whereas a decrease in atp rapidly shuts down mtor 
+by activation of the amp kinase (ampk), thereby directly phosphorylating 
+tsc2. the hypoxia-mediated inhibition of mtor favours the concomitant 
+induction of pro-apoptotic bnip3 and macro-autophagy, which are two 
+processes that are often associated with necrotic cell death in tumours. 
+hif-1, hypoxia-inducing factor-1; lkb1, serine/threonine kinase; pi(3)k, 
+phosphatidylinositol-3-oh kinase; pten, phosphatase and tensin 
+homologue.
+first, hypoxia inhibits mtor by an increase in amp, leading to the 
+activation of ampk59; and second, a more direct link between hif 
+and mtor was established in drosophila, in which the hif-induced 
+paralogue gene products, scylla and charybdis (redd1/rtp801 
+in mammals), activate the tsc complex resulting in mtor inhibi-
+tion60,61. therefore, hypoxia, through two independent mechanisms 
+— ampk activation and hif-induced redd1 — suppresses mtor 
+activity (fig. 4). these restricted nutrient conditions associated with 
+low mtor activity favour rapid activation of macro-autophagy, which 
+is the ultimate survival process before cell death62. we believe that 
+the rapid induction of bnip3 in a hypoxic microenvironment con-
+tributes to cell survival via autophagy up to a point of no return, in 
+which severe acidic areas induce necrotic cell death by means of a 
+bnip3-dependent action47,63. human tumour cells often silence, by 
+promoter methylation, the expression of bnip3 (ref. 64). whether 
+this bnip3 ablation allows tumour cells to invade, metastasize and 
+resist this nutrition-deprived and hypoxia-induced cell death requires 
+further investigation65.
+from hypoxia to tumour invasion
+hypoxia, or genetic alterations of the hypoxia signalling cascade66,67 
+leading to the constitutive expression of hif, could promote intense and 
+chaotic neovascularization that facilitates tumour spread. 
+it has now been firmly established that hif has important roles in 
+tumour progression. several immunohistochemical analyses have indi-
+cated that hif-1α and hif-2α are overexpressed in primary and meta-
+static human cancers, and that the level of expression, either as a result of 
+tumour hypoxia or genetic alterations, is correlated with tumour angio-
+genesis and patient mortality14,67. tumour progression and invasion 
+are often associated with the increased capacity of the cells to promote 
+extracellular matrix remodelling, increased migration and digestion of 
+the basement membrane. are these key features of cancer cells regulated 
+by hif? from the myriad genes induced by hif, only a limited set of 
+gene products possesses this potential. this group includes vimentin, 
+fibronectin, keratins 14, 18 and 19, matrix metalloproteinase 2 (mmp2), 
+cathepsin d and urokinase plasminogen activator receptor (upar)14. 
+other factors promoting migration can be added to this list, such as the 
+autocrine motility factor (amf)68, the receptor tyrosine kinase c-met69 
+and the cytokine receptor cxcr4 (ref. 70; fig. 5).
+another landmark of invasion and a crucial feature of epithelium–
+mesenchyme transition (emt) is the loss of e-cadherin expression71. 
+interestingly, hypoxia and genetic lesions (vhl deletion in renal cell car-
+cinoma) leading to hif activation are associated with a concomitant 
+loss of e-cadherin. after its proposal in 1999 (ref. 72), the first evidence 
+linking hif to decreased expression of e-cadherin was demonstrated 
+in ovarian carcinoma: immunolocalization of nuclear hif-1α showed a 
+strong topological correlation with loss of e-cadherin73. another immu-
+nological study in early genetic lesions in kidney showed concomitant 
+expression of carbonic anhydrase ix (ca ix), an hif-dependent gene 
+product, with loss of e-cadherin74. the intriguing question is how 
+hypoxia represses e-cadherin. e-cadherin is controlled at the tran-
+scriptional level by the labile nuclear factor family, snail/slug71, so that 
+any situation leading to snail/slug activation will repress e-cadherin. 
+an unexpected link has just emerged in a class of secreted enzymes, 
+the lysyl oxidase family (lox), which is known to modify extracellular 
+matrix components75 but also to have some intracellular function, such 
+as activation of snail. two key lysine residues, k98 and k137, of snail 
+have been found to be essential in a loxl2-induced conformational 
+change that renders snail partly immune to glycogen synthase kinase-β3 
+(gsk-β3)-induced degradation76. interestingly, high expression of lox 
+and loxl2 was previously reported only in breast cancer cells with a 
+highly invasive metastatic phenotype77. in a separate study, stable abla-
+tion of lox by short-hairpin rna (shrna) in the mda-231 breast 
+cancer line reduced lung and liver metastasis in mice bearing orthotopic 
+tumours78. perhaps the most exciting and relevant finding for this dis-
+cussion is that lox is highly induced by hif-1 (refs 30, 79), therefore 
+establishing the missing link in this new molecular cascade of hypoxia 
+signalling and metastasis: hif–lox–snail–e-cadherin (fig. 5). besides 
+this predicted cascade, an alternative mechanism in renal cell carcinoma 
+has been proposed in which hif-1 could alter the mrna levels of the 
+e-cadherin repressors tcf3, zfhx1a and zfhx1b80.
+approaches to enforcing tumour regression
+a strong correlation between hif-1α expression and increased patient 
+mortality is well documented for many types of human cancer. in 
+tumour-xenograft and orthotopic mouse models, manipulation of 
+the levels of either hif-1α or hif-2α has demonstrated a causal link 
+between hif-α expression and tumour progression14. perhaps the best 
+example concerns the renal cell carcinoma line 786-0, lacking vhl, in 
+which it was elegantly demonstrated that hif-2α expression was indeed 
+causal for tumour growth81. along this line, it is interesting to note the role 
+of hif-2α in promoting cancer stem cells by specific octamer-binding 
+transcription factor 4 (oct-4) induction82. collectively, these findings 
+suggest that hif, a promoter of early invasive lesions, is a promising 
+therapeutic target in cancer. a lot of effort has been put into identifying 
+molecules that successfully inhibit hif-1α expression and/or activity83. 
+however, the pleiotypic action of hif could represent a major con-
+cern with such an approach. it might be more appropriate to identify 
+and target the key gene products specifying hif-dependent invasion 
+and tumour metabolism. the first good example of targeting an hif-
+440
+ ©2006
+nature  publishing group
+nature|vol 441|25 may 2006
+insight  review
+normal
+epithelium
+basement
+membrane
+ecm
+h2o
+co2
+na+
+nhe-1
+mct 1–4
+lactate–
+h+
+co2
+ca ix
+ae
+cl–
+hco3
+h+
+↑↑
+glycolysis
+hif-1
+hypoxia
+glucose
+glut-1
+hif
+migration
+pgi/amf
+tgf-α
+c-met
+proteolysis
+cathepsin d
+upar
+mmp2
+adhesion
+e-cadherin loss (emt)
+keratin 14, 18, 19
+vimentin
+hypoxia/hif
+lox induction
+snail activation 
+e-cadherin
+repression
+e-cadherin loss
+invasion
+figure 5 | hypoxia-induced loss of e-cadherin through the lysyl oxidase–
+snail activation pathway.  cell migration from the primary tumour and 
+invasion into adjacent connective tissue are two steps leading to metastasis 
+in carcinomas. invasion requires a proteolytic modification of the 
+extracellular matrix (ecm), migration and loss of cell–cell adhesion. 
+a, hypoxia-inducible factor (hif) induces markers that activate proteolysis, 
+including cathepsin d, urokinase-type plasminogen-activator receptor 
+(upar) and matrix metalloproteinase-2 (mmp2), and factors stimulating 
+migration such as phosphoglucose isomerase/autocrine-motility factor 
+(pgi/amf), transforming growth factor-α (tgf-α) and the spreading 
+factor c-met. epithelial–mesenchymal transition is also considered to be 
+a trait of tumour cell invasion and is associated with a downregulation of 
+epithelial cadherin (e-cadherin), which is essential for maintaining cell–cell 
+adhesion. normal epithelial cells lie on a basement membrane that makes 
+contact with the ecm. b, under low-oxygen conditions (hypoxia), hif is 
+active and induces the expression of lysyl oxidase (lox). a member of the 
+same family, loxl2, was found to activate the transcription factor snail, 
+which is a strong repressor of e-cadherin. this pathway might account for 
+the invasion and metastatic process induced by hypoxia. 
+dependent gene product is the anti-vegf-a therapeutic strategy84. 
+major advances have been reported recently in the treatment of meta-
+static colon and renal cancers with this anti-angiogenic approach, and 
+others, such as targeting ang-2 (ref. 85), are likely to follow.
+however, every success story has its drawbacks. the concern about 
+anti-angiogenic therapy is the inherent selection of cancer cells that adapt 
+to more hypoxic conditions and, in particular, to tumour acidosis, which 
+is a hallmark of anaerobic glycolysis86,87. what new approaches can we 
+propose to anticipate and counteract this drawback? in solid tumours, 
+immunohistochemistry often shows large fronts of hif-1α nuclear 
+expression delineating areas of necrosis. how can we magnify and 
+acidosis
+necrosis
+phi-regulator
+figure 6 | intracellular-ph-regulating systems as potential anti-cancer 
+targets.  the intracellular ph (phi) of tumours can become highly acidic 
+as a result of the overproduction of lactic and carbonic acids. to survive 
+and proliferate, cells must extrude these acids and maintain a balance 
+between the extracellular and phi) through the activity of several pumps, 
+exchangers and transporters. intracellular h+ ions are primarily extruded 
+through the growth-factor-activatable and amiloride-sensitive na+/h+ 
+exchanger (nhe-1; target 1). lactic acid is excreted from cells by members 
+of the h+/lactate co-transporter family (monocarboxylate transporters 
+(mcts) 1–4; target 2). metabolically generated co2 diffuses rapidly across 
+the plasma membrane and meets the membrane-bound ectoenzyme 
+carbonic anhydrase ix (ca ix) or ca xii, which converts it into carbonic 
+acid (target 3). uptake of the weak base hco3
+dependent and na+-independent cl–/hco3
+intracellular alkalinization (target 4). inhibiting target 1 profoundly 
+reduces tumour incidence in the context of glycolytic tumour cells. it 
+is expected that combined pharmacological actions on targets 1–4 will 
+accelerate tumour necrotic cell death by intracellular acidosis. glut-1, 
+glucose transporter-1; hif-1, hypoxia-inducible factor-1.
+– via a member of the na+-
+– exchangers contributes to 
+accelerate necrotic cell death in tumours? although tumour cells have 
+selected many mechanisms to escape and resist programmed cell death, 
+they cannot avoid atp depletion-induced necrosis. several steps must be 
+combined to enforce necrotic cell death in tumours: the first is to magnify 
+acidosis by increased anaerobic glycolysis, the second is to antagonize phi 
+regulation and the third might be to stop macro-autophagy. 
+the first of these steps can be conveyed through anti-angiogenic 
+treatment, which is the best way to enforce tumour hypoxia and hif-1 
+expression, and to stimulate the production of lactic acid and co2 in 
+the tumour. 
+for the second step, we need to identify the key phi-regulating sys-
+tems to be antagonized (representative examples are outlined in fig. 6). 
+hypoxic tumour cells in particular ‘learn’ how to counteract local acido-
+sis, which is a major constraint in protein synthesis and cell growth. 
+they induce, through hif-1α membrane-bound ectoenzymes, ca ix 
+or ca xii, which catalyse the hydration of co2 to bicarbonate88. the 
+rapidly formed bicarbonate is pumped in by a member of the ubiquitous 
+bicarbonate/cl– exchanger family89, leading to cellular alkalinization 
+and subsequent acidification of the extracellular milieu, to the benefit 
+of the cell. two additional key transporters, extruding h+ from the cell, 
+are the lactate/h+ symporters, in particular monocarboxylate trans-
+porter-4 (mct-4) induced by hif-1 (refs 90, 91), and the growth factor 
+and amiloride-sensitive na+/h+ exchanger (nhe1)92,93. preliminary 
+experiments conducted with ras-transformed fibroblasts deleted in 
+nhe1, in glycolysis (pgi–) or in both, have established proof of principle 
+for tumour regression by manipulating tumour acidosis94. tumour cells 
+lacking nhe1 showed a drastic reduction in tumour incidence unless 
+the production of lactic acid was genetically suppressed94. an ideal 
+ ©2006
+nature  publishing group
+441
+insight  review
+nature|vol 441|25 may 2006
+translation of this concept to tumour therapy would be to associate 
+specific inhibitors for nhe1 (cariporide), bicarbonate/cl– exchangers 
+(s3705)95, mct-1 lactate/h+ symporter96 and/or blockers of carbonic 
+anhydrases (acetazolamide). 
+the third step to accelerate tumour necrosis might be to suppress, in 
+combination with other treatments, macro-autophagy97, which is a proc-
+ess commonly induced by hypoxia and representing the ‘ultimate’ nutri-
+tional source for tumour cells to survive low-nutrient conditions98. we 
+expect that this ‘phi-targeted’ therapy, combined with anti-angiogenesis 
+to increase hypoxia-mediated acidosis, will synergistically induce the 
+collapse and massive shrinkage of solid tumours. 
+preclinical studies exploiting the inducible expression of shrna 
+together with the above-mentioned drugs in tumour mouse models 
+should lead to the following: the identification of the best molecular 
+hif-dependent targets to suppress; the recognition of the best associa-
+tions of drugs targeting tumour metabolism; and the definition of the 
+most appropriate therapeutic windows.
+concluding remarks and perspectives
+the hif signalling cascade has emerged as an important nutrient-driven 
+genomic response allowing tumour cells to survive, expand and invade. 
+as a result, tumour hypoxia or hif expression is strongly associated 
+with a diminished therapeutic response and malignant progression99. 
+we should therefore consider systematically assessing by immuno-
+histochemistry both hif-1α/2α and e-cadherin expression in biopsies 
+of patients presenting with early tumour lesions. detecting an early 
+marker of potential malignity and identifying patients at risk would be a 
+step forward for clinicians, but cannot be compared with a cure. drugs 
+targeting hif-1 will be available soon and there is no doubt that they 
+will have important clinical applications14,83. however, in inflammatory 
+cells, hif-1 serves a key function in energy metabolism and its blockade 
+results in severe immunodeficiency100. thus, as discussed for nuclear 
+factor-κb (nf-κb; see the review in this issue by karin, page 431), pro-
+longed and prominent inhibition of hif-1 is unlikely to be proposed in 
+cancer prevention. alternatively, as emphasized in this review, it seems 
+more appropriate to target the most relevant hif-induced gene products/
+functions of the tumour microenvironment. we strongly believe that the 
+singularities of tumour metabolism will serve as a source of inspiration 
+for developing novel cancer therapeutic approaches.
+although the biology of hypoxia signalling has progressed rapidly, 
+and many of the hif-induced gene products have been characterized, 
+their exact functions within the tumour microenvironment remain to be 
+determined. new exciting areas in hif signalling that intercept with the 
+nf-κb response and inflammation101, cell differentiation, notch signal-
+ling102 and stem cell auto-renewal82 are blowing fresh oxygen into this 
+area of cancer biology. 
+1. 
+2. 
+pages, g. et al. mitogen-activated protein kinases p42mapk and p44mapk are required for 
+fibroblast proliferation. proc. natl acad. sci. usa 90, 8319–8323 (1993).
+pouyssegur, j. & lenormand, p. fidelity and spatio–temporal control in map kinase (erks) 
+signalling. eur. j. biochem. 270, 3291–3299 (2003).
+3.  marshall, c. how do small gtpase signal transduction pathways regulate cell cycle entry? 
+4.  downward, j. mechanisms and consequences of activation of protein kinase b/akt. curr. 
+curr. opin. cell biol. 11, 732–736 (1999).
+opin. cell biol. 10, 262–267 (1998).
+5.  kinbara, k., goldfinger, l. e., hansen, m., chou, f. l. & ginsberg, m. h. ras gtpases: 
+6. 
+7. 
+9. 
+integrins’ friends or foes? nature rev. mol. cell biol. 4, 767–776 (2003).
+rak, j. et al. oncogenes and tumor angiogenesis: differential modes of vascular endothelial 
+growth factor up-regulation in ras-transformed epithelial cells and fibroblasts. cancer res. 
+60, 490–498 (2000).
+berra, e., pages, g. & pouyssegur, j. map kinases and hypoxia in the control of vegf 
+expression. cancer metastasis rev. 19, 139–145 (2000).
+8.  carmeliet, p. et al. role of hif-1α in hypoxia-mediated apoptosis, cell proliferation and 
+tumour angiogenesis. nature 394, 485–490 (1998).
+pugh, c. w. & ratcliffe, p. j. regulation of angiogenesis by hypoxia: role of the hif system. 
+nature med. 9, 677–684 (2003).
+10.  wang, g. l. & semenza, g. l. purification and characterization of hypoxia-inducible factor 
+1. j. biol. chem. 270, 1230–1237 (1995).
+11.  semenza, g. l. regulation of mammalian o2 homeostasis by hypoxia-inducible factor 1. 
+annu. rev. cell dev. biol. 15, 551–578 (1999).
+ikeda, e., achen, m. g., breier, g. & risau, w. hypoxia-induced transcriptional activation 
+and increased mrna stability of vascular endothelial growth factor in c6 glioma cells. 
+j. biol. chem. 270, 19761–19766 (1995).
+13.  mandriota, s. j. & pepper, m. s. regulation of angiopoietin-2 mrna levels in bovine 
+microvascular endothelial cells by cytokines and hypoxia. circ. res. 83, 852–859 (1998).
+14.  semenza, g. l. targeting hif-1 for cancer therapy. nature rev. cancer 3, 721–732 (2003).
+15.  ferrara, n. et al. heterozygous embryonic lethality induced by targeted inactivation of the 
+vegf gene. nature 380, 439–442 (1996).
+16.  ferrara, n., gerber, h. p. & lecouter, j. the biology of vegf and its receptors. nature med. 
+9, 669–676 (2003).
+17.  maisonpierre, p. c. et al. angiopoietin-2, a natural antagonist for tie2 that disrupts in vivo 
+angiogenesis. science 277, 55–60 (1997).
+18.  carmeliet, p. blood vessels and nerves: common signals, pathways and diseases. nature 
+19.  gerhardt, h. et al. vegf guides angiogenic sprouting utilizing endothelial tip cell filopodia. 
+rev. genet. 4, 710–720 (2003).
+j. cell biol. 161, 1163–1177 (2003).
+20.  pages, g. & pouyssegur, j. transcriptional regulation of the vascular endothelial growth 
+factor gene: a concert of activating factors. cardiovasc. res. 65, 564–573 (2005).
+21.  milanini-mongiat, j., pouyssegur, j. & pages, g. identification of two sp1 phosphorylation 
+sites for p42/p44 mitogen-activated protein kinases: their implication in vascular 
+endothelial growth factor gene transcription. j. biol. chem. 277, 20631–20639 (2002).
+22.  richard, d. e., berra, e., gothie, e., roux, d. & pouyssegur, j. p42/p44 mitogen-activated 
+protein kinases phosphorylate hypoxia-inducible factor 1α (hif-1α) and enhance the 
+transcriptional activity of hif-1. j. biol. chem. 274, 32631–32637 (1999).
+23.  pages, g., berra, e., milanini, j., levy, a. p. & pouyssegur, j. stress-activated protein kinases 
+(jnk and p38/hog) are essential for vascular endothelial growth factor mrna stability. 
+j. biol. chem. 275, 26484–26491 (2000).
+24.  huez, i. et al. two independent internal ribosome entry sites are involved in translation 
+initiation of vascular endothelial growth factor mrna. mol. cell biol. 18, 6178–6190 (1998).
+25.  lang, k. j., kappel, a. & goodall, g. j. hypoxia-inducible factor-1α mrna contains an 
+internal ribosome entry site that allows efficient translation during normoxia and hypoxia. 
+mol. biol. cell 13, 1792–1801 (2002).
+26.  hegen, a. et al. expression of angiopoietin-2 in endothelial cells is controlled by positive 
+and negative regulatory promoter elements. arterioscler. thromb. vasc. biol. 24, 1803–1809 
+(2004).
+27.  lindblom, p. et al. endothelial pdgf-b retention is required for proper investment of 
+pericytes in the microvessel wall. genes dev. 17, 1835–1840 (2003).
+28.  noseda, m. et al. notch activation induces endothelial cell cycle arrest and participates in 
+contact inhibition: role of p21cip1 repression. mol. cell biol. 24, 8813–8822 (2004).
+29.  fiedler, u. et al. the tie-2 ligand angiopoietin-2 is stored in and rapidly released upon 
+stimulation from endothelial cell weibel–palade bodies. blood 103, 4150–4156 (2004).
+30.  manalo, d. j. et al. transcriptional regulation of vascular endothelial cell responses to 
+hypoxia by hif-1. blood 105, 659–669 (2005).
+31.  brahimi-horn, c., mazure, n. & pouyssegur, j. signalling via the hypoxia-inducible factor-1α 
+requires multiple posttranslational modifications. cell signal. 17, 1–9 (2005).
+32.  semenza, g. l. hydroxylation of hif-1: oxygen sensing at the molecular level. physiology 
+(bethesda) 19, 176–182 (2004).
+33.  berra, e., ginouves, a. & pouyssegur, j. the hypoxia-inducible-factor hydroxylases bring 
+fresh air into hypoxia signalling. embo rep. 7, 41–45 (2006).
+34.  bruick, r. k. & mcknight, s. l. a conserved family of prolyl-4-hydroxylases that modify hif. 
+science 294, 1337–1340 (2001).
+35.  jaakkola, p. et al. targeting of hif-α to the von hippel–lindau ubiquitylation complex by o2-
+regulated prolyl hydroxylation. science 292, 468–472 (2001).
+36.  epstein, a. c. et al. c. elegans egl-9 and mammalian homologs define a family of 
+dioxygenases that regulate hif by prolyl hydroxylation. cell 107, 43–54 (2001).
+37.  kaelin, w. g. jr. the von hippel–lindau gene, kidney cancer, and oxygen sensing. j. am. 
+38.  maxwell, p. h., pugh, c. w. & ratcliffe, p. j. activation of the hif pathway in cancer. curr. 
+soc. nephrol. 14, 2703–2711 (2003).
+opin. genet. dev. 11, 293–299 (2001).
+39.  kallio, p. j., wilson, w. j., o’brien, s., makino, y. & poellinger, l. regulation of the hypoxia-
+inducible transcription factor 1α by the ubiquitin–proteasome pathway. j. biol. chem. 274, 
+6519–6525 (1999).
+40.  berra, e., richard, d. e., gothie, e. & pouyssegur, j. hif-1-dependent transcriptional activity 
+is required for oxygen-mediated hif-1α degradation. febs lett. 491, 85–90 (2001).
+41.  berra, e. et al. hif prolyl-hydroxylase 2 is the key oxygen sensor setting low steady-state 
+levels of hif-1α in normoxia. embo j. 22, 4082–4090 (2003).
+42.  lando, d. et al. fih-1 is an asparaginyl hydroxylase enzyme that regulates the 
+transcriptional activity of hypoxia-inducible factor. genes dev. 16, 1466–1471 (2002).
+43.  gothie, e., richard, d. e., berra, e., pages, g. & pouyssegur, j. identification of alternative 
+spliced variants of human hypoxia-inducible factor-1α. j. biol. chem. 275, 6922–6927 
+(2000).
+44.  koivunen, p., hirsila, m., gunzler, v., kivirikko, k. i. & myllyharju, j. catalytic properties of 
+the asparaginyl hydroxylase (fih) in the oxygen sensing pathway are distinct from those of 
+its prolyl 4-hydroxylases. j. biol. chem. 279, 9899–9904 (2004).
+45.  dayan, f., roux, d., brahimi-horn, c., pouyssegur, j. & mazure, n. the oxygen-sensor 
+factor inhibiting hif-1 (fih) controls the expression of distinct genes through the 
+bi-functional transcriptional character of hif-1α. cancer res. 66, 3688–3698 (2006).
+46.  bruick, r. k. expression of the gene encoding the proapoptotic nip3 protein is induced by 
+hypoxia. proc. natl acad. sci. usa 97, 9082–9087 (2000).
+47.  webster, k. a., graham, r. m. & bishopric, n. h. bnip3 and signal-specific programmed 
+death in the heart. j. mol. cell cardiol. 38, 35–45 (2005).
+48.  guertin, d. a. & sabatini, d. m. an expanding role for mtor in cancer. trends mol. med. 11, 
+353–361 (2005).
+49.  nobukini, t. & thomas, g. the mtor/s6k signalling pathway: the role of the tsc1/2 
+tumour suppressor complex and the proto-oncogene rheb. novartis found. symp. 262, 
+148–154; discussion 154–159, 265–268 (2004).
+50.  brugarolas, j. & kaelin, w. g. jr. dysregulation of hif and vegf is a unifying feature of the 
+familial hamartoma syndromes. cancer cell 6, 7–10 (2004).
+51.  tee, a. r., manning, b. d., roux, p. p., cantley, l. c. & blenis, j. tuberous sclerosis complex 
+gene products, tuberin and hamartin, control mtor signaling by acting as a gtpase-
+activating protein complex toward rheb. curr. biol. 13, 1259–1268 (2003).
+12. 
+442
+ ©2006
+nature  publishing group
+nature|vol 441|25 may 2006
+insight  review
+52.  ma, l., chen, z., erdjument-bromage, h., tempst, p. & pandolfi, p. p. phosphorylation and 
+functional inactivation of tsc2 by erk implications for tuberous sclerosis and cancer 
+pathogenesis. cell 121, 179–193 (2005).
+53.  hara, k. et al. amino acid sufficiency and mtor regulate p70 s6 kinase and eif-4e bp1 
+through a common effector mechanism. j. biol. chem. 273, 14484–14494 (1998).
+54.  peng, t., golub, t. r. & sabatini, d. m. the immunosuppressant rapamycin mimics a 
+starvation-like signal distinct from amino acid and glucose deprivation. mol. cell biol. 22, 
+5575–5584 (2002).
+55.  fukuda, r. et al. insulin-like growth factor 1 induces hypoxia-inducible factor 1-mediated 
+vascular endothelial growth factor expression, which is dependent on map kinase and 
+phosphatidylinositol 3-kinase signaling in colon cancer cells. j. biol. chem. 277, 38205–
+38211 (2002).
+56.  thomas, g. v. et al. hypoxia-inducible factor determines sensitivity to inhibitors of mtor 
+in kidney cancer. nature med. 12, 122–127 (2006).
+57.  shaw, r. j. et al. the tumor suppressor lkb1 kinase directly activates amp-activated 
+kinase and regulates apoptosis in response to energy stress. proc. natl acad. sci. usa 101, 
+3329–3335 (2004).
+58.  kahn, b. b., alquier, t., carling, d. & hardie, d. g. amp-activated protein kinase: ancient 
+energy gauge provides clues to modern understanding of metabolism. cell metab. 1, 15–25 
+(2005).
+59.  hardie, d. g. new roles for the lkb1–ampk pathway. curr. opin. cell biol. 17, 167–173 (2005).
+60.  reiling, j. h. & hafen, e. the hypoxia-induced paralogs scylla and charybdis inhibit growth 
+by down-regulating s6k activity upstream of tsc in drosophila. genes dev. 18, 2879–2892 
+(2004).
+61.  brugarolas, j. et al. regulation of mtor function in response to hypoxia by redd1 and the 
+tsc1/tsc2 tumor suppressor complex. genes dev. 18, 2893–2904 (2004).
+62.  lum, j. j. et al. growth factor regulation of autophagy and cell survival in the absence of 
+apoptosis. cell 120, 237–248 (2005).
+63.  bacon, a. l. & harris, a. l. hypoxia-inducible factors and hypoxic cell death in tumour 
+physiology. ann. med. 36, 530–539 (2004).
+64.  okami, j., simeone, d. m. & logsdon, c. d. silencing of the hypoxia-inducible cell death 
+protein bnip3 in pancreatic cancer. cancer res. 64, 5338–5346 (2004).
+65.  manka, d., spicer, z. & millhorn, d. e. bcl-2/adenovirus e1b 19 kda interacting protein-3 
+66. 
+knockdown enables growth of breast cancer metastases in the lung, liver, and bone. cancer 
+res. 65, 11689–11693 (2005).
+isaacs, j. s. et al. hif overexpression correlates with biallelic loss of fumarate hydratase 
+in renal cancer: novel role of fumarate in regulation of hif stability. cancer cell 8, 143–53 
+(2005).
+67.  kim, w. y. & kaelin, w. g. role of vhl gene mutation in human cancer. j. clin. oncol. 22, 
+4991–5004 (2004).
+68.  funasaka, t., yanagawa, t., hogan, v. & raz, a. regulation of phosphoglucose isomerase/
+autocrine motility factor expression by hypoxia. faseb j. 19, 1422–1430 (2005).
+69.  pennacchietti, s. et al. hypoxia promotes invasive growth by transcriptional activation of 
+the met protooncogene. cancer cell 3, 347–361 (2003).
+70.  staller, p. et al. chemokine receptor cxcr4 downregulated by von hippel–lindau tumour 
+suppressor pvhl. nature 425, 307–311 (2003).
+71.  thiery, j. p. epithelial–mesenchymal transitions in development and pathologies. curr. 
+opin. cell biol. 15, 740–746 (2003).
+72.  beavon, i. r. regulation of e-cadherin: does hypoxia initiate the metastatic cascade? mol. 
+73. 
+pathol. 52, 179–188 (1999).
+imai, t. et al. hypoxia attenuates the expression of e-cadherin via up-regulation of snail in 
+ovarian carcinoma cells. am. j. pathol. 163, 1437–1447 (2003).
+74.  esteban, m. a. et al. cancer res. 66, 3567–3575 (2006).
+75.  thomassin, l. et al. the pro-regions of lysyl oxidase and lysyl oxidase-like 1 are required for 
+deposition onto elastic fibers. j. biol. chem. 280, 42848–42855 (2005).
+76.  peinado, h. et al. a molecular role for lysyl oxidase-like 2 enzyme in snail regulation and 
+tumor progression. embo j. 24, 3446–3458 (2005).
+77.  kirschmann, d. a. et al. a molecular role for lysyl oxidase in breast cancer invasion. cancer 
+res. 62, 4478–4483 (2002).
+78  erler, j. t. et al. lysyl oxidase is essential for hypoxia-induced metastasis. nature 440, 
+1222–1226 (2006).
+79.  denko, n. c. et al. investigating hypoxic tumor physiology through gene expression 
+patterns. oncogene 22, 5907–5914 (2003).
+80.  krishnamachary, b. et al. hypoxia-inducible factor-1-dependent repression of e-cadherin 
+in von hippel–lindau tumor suppressor-null renal cell carcinoma mediated by tcf3, 
+zfhx1a, and zfhx1b. cancer res. 66, 2725–2731 (2006).
+81.  kondo, k., klco, j., nakamura, e., lechpammer, m. & kaelin, w. g. jr. inhibition of hif is 
+necessary for tumor suppression by the von hippel–lindau protein. cancer cell 1, 237–46 
+(2002).
+82.  covello, k. l. et al. hif-2α regulates oct-4: effects of hypoxia on stem cell function, 
+embryonic development, and tumor growth. genes dev. 20, 557–570 (2006).
+83.  kong, d. et al. echinomycin, a small-molecule inhibitor of hypoxia-inducible factor-1 dna-
+binding activity. cancer res. 65, 9047–9055 (2005).
+84.  ferrara, n. & kerbel, r. angiogenesis as a therapeutic target. nature 438, 967–974 
+(2005).
+85.  oliner, j. et al. suppression of angiogenesis and tumor growth by selective inhibition of 
+angiopoietin-2. cancer cell 6, 507–516 (2004).
+86.  newell, k., franchi, a., pouyssegur, j. & tannock, i. studies with glycolysis-deficient cells 
+suggest that production of lactic acid is not the only cause of tumor acidity. proc. natl acad. 
+sci. usa 90, 1127–1131 (1993).
+87.  cardone, r. a., casavola, v. & reshkin, s. j. the role of disturbed ph dynamics and the 
+na+/h+ exchanger in metastasis. nature rev. cancer 5, 786–795 (2005).
+88.  potter, c. & harris, a. l. hypoxia inducible carbonic anhydrase ix, marker of tumour 
+hypoxia, survival pathway and therapy target. cell cycle 3, 164–167 (2004).
+89.  romero, m. f., fulton, c. m. & boron, w. f. the slc4 family of hco3-transporters. pflügers 
+arch. 447, 495–509 (2004).
+90.  halestrap, a. p. & meredith, d. the slc16 gene family-from monocarboxylate transporters 
+(mcts) to aromatic amino acid transporters and beyond. pflügers arch. 447, 619–628 
+(2004).
+91.  ullah, m. s., davies, a. j. & halestrap, a. p. the plasma membrane lactate transporter 
+mct4, but not mct1, is up-regulated by hypoxia through a hif-1α dependent mechanism. 
+j. biol. chem. 281, 9030–9037 (2006).
+92.  sardet, c., franchi, a. & pouyssegur, j. molecular cloning, primary structure, and 
+expression of the human growth factor-activatable na+/h+ antiporter. cell 56, 271–280 
+(1989).
+93.  counillon, l. & pouyssegur, j. the expanding family of eucaryotic na+/h+ exchangers. 
+j. biol. chem. 275, 1–4 (2000).
+94.  pouyssegur, j., franchi, a. & pages, g. phi, aerobic glycolysis and vascular endothelial 
+growth factor in tumour growth. novartis found. symp. 240, 186–196; discussion 196–198 
+(2001).
+95.  wong, p., kleemann, h. w. & tannock, i. f. cytostatic potential of novel agents that inhibit 
+the regulation of intracellular ph. br. j. cancer 87, 238–245 (2002).
+96.  murray, c. m. et al. monocarboxylate transporter mct1 is a target for 
+immunosuppression. nature chem. biol. 1, 371–376 (2005).
+97.  lum, j. j., deberardinis, r. j. & thompson, c. b. autophagy in metazoans: cell survival in 
+the land of plenty. nature rev. mol. cell biol. 6, 439–448 (2005).
+98.  kondo, y., kanzawa, t., sawaya, r. & kondo, s. the role of autophagy in cancer 
+development and response to therapy. nature rev. cancer 5, 726–734 (2005).
+99.  vaupel, p. the role of hypoxia-induced factors in tumor progression. oncologist 9 
+100.  cramer, t. et al. hif-1α is essential for myeloid cell-mediated inflammation. cell 112, 
+(suppl. 5), 10–17 (2004).
+645–657 (2003).
+101.  cummins, e. p. & taylor, c. t. hypoxia-responsive transcription factors. pflügers arch. 450, 
+363–371 (2005).
+102.  gustafsson, m. v. et al. hypoxia requires notch signaling to maintain the undifferentiated 
+cell state. dev. cell 9, 617–628 (2005).
+acknowledgements we thank all our laboratory members for their discussion and 
+support, and particularly c. brahimi-horn for thoroughly reviewing and critically 
+reading the manuscript. because of space constraints, we apologize to the many 
+research groups whose citations were omitted or cited indirectly. financial support 
+was from the centre national de la recherche scientifique (cnrs), centre a. 
+lacassagne, ministère de l’education, de la recherche et de la technologie, 
+ligue nationale contre le cancer (equipe labellisée), the gip hmr (contract no. 
+1/9743b-a3) and conseil regional paca.
+author information reprints and permissions information is available at 
+npg.nature.com/reprintsandpermissions. the authors declare no competing 
+financial interests. correspondence should be addressed to j.p. (pouysseg@unice.fr).
+ ©2006
+nature  publishing group
+443

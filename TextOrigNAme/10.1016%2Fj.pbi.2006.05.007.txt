@@ -1,0 +1,490 @@
+autophagy in the control of programmed cell death
+shalaka patel, jeffrey caplan and sp dinesh-kumar
+programmed cell death (pcd) is essential for plant
+development and immunity. localized pcd is associated with
+the hypersensitive response (hr), which is a constituent
+of a successful plant innate immune response. plants have
+developed mechanisms to meticulously prevent hr-pcd
+lesions from spreading. our understanding of these
+mechanisms is still in its incipient stages. a recent study
+demonstrated that autophagy, a universally conserved
+process of macromolecule turnover, plays a pivotal role
+in controlling hr-pcd. the molecular identity of the
+mediators between the pcd and hr pathways is still
+obscure, but recent work has begun to shed light on the
+relationship between hr-pcd and autophagy and to
+suggest possible mechanisms for the regulation of
+these pathways.
+currently, we know very little about the mechanisms that
+limit hr-pcd to the initiation site. it is clear that hrpcd that is induced at the site of infection should be
+carefully controlled; otherwise, uncontrolled pcd would
+cause damage to the surrounding uninfected cells.
+because plants cells, unlike animal cells, that are undergoing pcd are not removed by phagocytosis, healthy
+cells need to be protected from toxic materials that might
+be transported from dying cells. recent evidence indicates that autophagy that is induced during the plant
+innate immune response is one mechanism by which hrpcd is controlled [7]. in this review, we discuss the role
+of autophagy in hr-pcd and propose possible mechanisms by which autophagy controls hr-pcd.
+autophagy in plants
+addresses
+department of molecular, cellular, and developmental biology, yale
+university, new haven, connecticut 06520-8103, usa
+corresponding author: dinesh-kumar, sp (savithramma.dineshkumar@yale.edu)
+current opinion in plant biology 2006, 9:391â€“396
+this review comes from a themed issue on
+biotic interactions
+edited by anne osbourn and sheng yang he
+available online 19th may 2006
+1369-5266/$ â€“ see front matter
+# 2006 elsevier ltd. all rights reserved.
+doi 10.1016/j.pbi.2006.05.007
+introduction
+programmed cell death (pcd) plays an important role
+during development, senescence and immunity in multicellular organisms [1,2]. the most extensively studied
+form of plant pcd is the hypersensitive response (hr) to
+pathogen infection [1,3]. although the biological relevance of hr-pcd is not fully understood, its timely
+activation is thought to be essential for containment of
+the pathogen to the infection site.
+some of our understanding about the control and execution of hr-pcd comes from the analysis of lesion mimic
+mutants that exhibit spontaneous hr-like pcd in the
+absence of a pathogen [4]. additionally, several studies
+have implicated the role of signaling molecules, such as
+reactive oxygen species (ros), nitric oxide (no) and
+salicylic acid (sa), in hr-pcd [5,6].
+www.sciencedirect.com
+autophagy is a process that is conserved across strata and
+entails the engulfment of cytoplasmic constituents into
+double-membraned vesicles called autophagosomes,
+which are then targeted to the vacuole or to lysosomes
+for degradation [8]. genetic screens in yeast have identified several autophagy (atg) genes that are required for
+proper autophagic activity [9]. even though autophagylike activity has been observed in numerous plant morphological studies over the past three decades, significant
+progress in understanding autophagic machinery in plants
+has been made only recently [10,11]. most of the yeast
+orthologs of atg genes are present in plants, and two
+main approaches have been used to assess the function of
+these genes: complementation of yeast atg mutants and
+rna interference (rnai) or knockout plants.
+the arabidopsis atg genes atatg4a/b, atatg8 and
+atatg6/beclin 1 have been shown to complement their
+respective yeast deletion strains by restoring their ability
+to form autophagosomes or to perform autophagic activity
+[7,12,13]. the arabidopsis knockout mutant atg7 has a
+senescence defect and hypersensitivity to nitrogen and
+carbon starvation, consistent with a requirement for
+autophagy during nutrient limitation in yeast and other
+higher eukaryotes [14]. autophagy might also play a role
+in normal plant development because senescence is
+accelerated in an atatg4a/atatg4b double mutant even
+under nutrient-rich conditions [12]. arabidopsis atg3,
+atg5, atg9 and atg13 mutants have identical developmental
+phenotypes: accelerated senescence, bolting and reduced
+seed set [10,11].
+autophagy as a regulator of pcd in plants
+the tobacco n resistance protein specifically recognizes
+the 50 kda helicase domain of the tobacco mosaic virus
+(tmv) replicase protein, triggering hr-pcd and limiting
+current opinion in plant biology 2006, 9:391â€“396
+392 biotic interactions
+figure 1
+autophagy is required to prevent spread of hr-pcd. (a) silencing of the autophagy gene beclin 1 induces uncontrolled hr-pcd upon infection with
+tmv-green fluorescent protein (gfp). representative photographs of leaves from non-silenced control (vigs-vector) and beclin 1-silenced
+(vigs-beclin 1) plants infected with tmv-gfp. in uv illumination photographs, green fluorescence indicates tmvâ€“gfp infection spots and red
+color in the background is due to chlorophyll autofluorescence. dpi, days post infection. reprinted from liu et al. [7] with permission.
+(b) autophagy is induced during hr-pcd. lysotracker red-stained autolysosome-like structures are present inside the vacuole (green) in nonsilenced control plants (left panel) but absent from beclin 1-silenced plants (right panel) each infected with tmv. red structures are
+chloroplasts. scale bar represents 10 mm. reprinted from liu et al. [7].
+tmv to the infection site [15]. to identify regulators of
+hr-pcd, liu et al. [7] performed a high-throughput
+virus-induced gene silencing (vigs) screen in n-containing (nn) nicotiana benthamiana plants. in this screen,
+silencing of the plant ortholog of the yeast and mammalian atg6/beclin 1 resulted in uncontrolled hr-pcd
+upon tmv infection, indicated by the spread of hrpcd into healthy uninfected tissue ([7]; figure 1a).
+this phenotype is dependent on the presence of the n
+gene because beclin 1 silencing does not induce pcd
+upon tmv infection in plants that lack the n gene.
+silencing of atg6/beclin 1 in nn plants compromises
+the induction of autophagy at the site of hr-pcd and in
+surrounding healthy tissue ([7]; figure 1b). interestingly, beclin 1 is also required to limit hr-pcd that is
+induced by the activation of other resistance genes [7].
+besides beclin 1, other autophagy genes, including those
+that encode vps34/class iii phosphatidylinositol-3kinase (pi3k), atg3 and atg7, are necessary to restrict
+hr-pcd to the infection site. these results indicate that
+autophagy plays a pro-survival function by preventing the
+current opinion in plant biology 2006, 9:391â€“396
+death of healthy uninfected cells during a plant defense
+response.
+the findings of liu et al. [7] imply that there is a prodeath signal that moves out of the hr lesion into the
+surrounding uninfected tissue. therefore, autophagy
+most likely alters the induction, movement, and/or recognition of the pro-pcd signal. alternatively, the inherent
+degradative function of autophagy could facilitate the
+degradation of a pro-pcd signal in cells adjacent to
+the site of signal production.
+possible pcd mediators
+possible candidates for a pro-pcd signal include ros,
+no or an unidentified secreted protein- or lipid-based
+signal. as extracellular ros are produced before the
+onset of hr-pcd, ros have been thought to function
+as pro-pcd signals, either by directly killing the pathogen or by acting as signaling molecules that mediate
+defense responses [5]. in animals, the nadph oxidase
+complex is responsible for the production of ros [16].
+www.sciencedirect.com
+autophagy in the control of programmed cell death patel, caplan and dinesh-kumar 393
+in arabidopsis, the respiratory burst oxidase homolog (rboh)
+genes, atrbohd and atrbohf, encode the gp91phox component of nadph oxidase. these two atrboh genes are
+required for the production of most of the ros generated
+during hr-pcd [17].
+like ros, no is produced rapidly before the initiation of
+hr-pcd, but unlike ros, no induces cell death
+through cyclic gmp [6]. nitric oxide synthase 1 is responsible for the production of 80% of no during pathogen
+infection, while the remaining 20% might be produced by
+nitrate reductase or via an unidentified pathway [18]. in
+certain animal cells, low levels of no can protect cells
+from apoptosis and high no concentrations can induce
+apoptosis [19]. it is unclear, however, if no is both a proand an anti-death signal in plants.
+recently emerging evidence has indicated that ros
+generated by nadph oxidase have anti-pcd function
+rather than pro-pcd function [20]. the excess ros
+production in the lsd1 (lesion simulating disease 1) lesion
+mimic mutant was thought to cause uncontrolled hrpcd [21]. it was therefore hypothesized that a lsd1
+atrbohd atrbohf triple mutant would suppress the lsd1
+phenotype [20]. although the triple mutant shows
+decreased ros production; and unexpectedly, it accentuates the lsd1 cell death. this phenotype is suppressed by
+overexpression of atrbohd. additionally, application of
+exogenous superoxide activates atrbohd function to
+negatively regulate cell death in the lsd1 mutant [20].
+these results indicate that the ros generated by atrbohd and atrbohf are not the cause of hr-pcd but
+function to negatively regulate it. interestingly, in beclin
+1-silenced plants, h2o2 is not the signal that causes
+uncontrolled hr-pcd (y liu, m schiff, sp dineshkumar, unpublished). it is still possible, however, that
+superoxide or no might be responsible for spreading
+hr-pcd in beclin 1-silenced plants. given the results
+obtained from beclin 1-silencing, an interesting question
+would be, â€˜is autophagy required to limit pcd in the lsd1
+mutant?â€™ this could be tested by constitutively activating
+autophagy in the lsd1 mutant.
+another interesting question is, â€˜what role(s) do ros
+play in hr-pcd?â€™ given that treatment with the
+nadph oxidase inhibitor diphenylene iodonium
+decreases hr-pcd in the lsd1 mutant, it is clear that
+ros derived from flavin-containing oxidases that are
+encoded by genes other than atrbohd and atrbohf are
+responsible for pcd. genes encoding other flavin-containing oxidases and their corresponding proteins are
+unknown. their characterization will be pivotal in the
+understanding the role of ros in pcd. an analysis of
+autophagic activity in nadph oxidase and other flavincontaining oxidase mutants will be instrumental in developing an understanding of the complex interplay between
+ros, autophagy and pcd.
+www.sciencedirect.com
+autophagy â€” pro or anti cell death?
+in plants, autophagy is not required for hr-pcd execution but is required to limit pcd to the infection sites
+[7]. therefore, our data suggest that autophagy has an
+anti-pcd function in innate immunity. however, examination of the function of atg genes in other higher
+eukaryotes indicates that autophagy might have a dual
+role: pro- and/or anti-cell death [22â€“25,26]. whether
+autophagy functions in cell survival or cell death could
+depend on the level of autophagy induced during a given
+physiological condition [26]. in animal cells, the antiapoptotic protein bcl-2 interacts with beclin 1 to control
+the level of induction of autophagy [26,27], indicating
+an important cross talk between the two cell-death pathways. although no sequence homolog of bcl-2 has yet
+been identified in plants, a functional homolog might be
+present. the identification and functional characterization of proteins that work in conjunction with beclin 1 will
+shed light on the mechanism by which autophagy regulates hr-pcd during the innate immune response of
+plants.
+possible mediators of the crosstalk between
+pcd and autophagy
+vacuolar-processing enzyme
+cysteine proteases called caspases are key executioners
+of pcd in metazoans [28]. although caspase-like activities have been detected in plants, genes that encode
+caspase orthologs have not been identified. recent data
+indicate, however, that vacuolar-processing enzyme
+(vpe) exhibits caspase-1 like activity [29]. moreover,
+silencing of vpe results in a loss of tmv-induced hrpcd [29].
+the processing of vpe by the translocation of its precursor to the vacuole is reminiscent of the processing of
+carboxypeptidase y (cpy) in yeast [30]. trafficking of
+the cpy during cytoplasm-to-vacuole transport (cvt)
+uses several components of the autophagic pathway,
+including atg6/beclin 1 [8]. a cvt pathway has not
+been described in plants; however, beclin 1 could facilitate the autophagic degradation of vpe and, hence,
+silencing of beclin 1 might result in increased vpe levels
+that lead to uncontrolled hr-pcd. alternatively, beclin
+1 could facilitate the processing and maturation of vpe
+that is needed for hr-pcd initiation, but prevent the
+spread of pcd through a vpe-independent pathway.
+undoubtedly, an examination of vpe levels and vpe
+processing in beclin1-silenced plants should provide
+insights on these possibilities.
+avrpto-dependent pto-interacting protein 3
+in mammals, autophagy is regulated by two different
+pi3k [8]. vps34/class iii pi3k associates with beclin
+1, and together, these proteins are required for the
+activation of autophagy. by contrast, class i pi3k inhibits
+autophagy, presumably by activating 3-phosphoinositidecurrent opinion in plant biology 2006, 9:391â€“396
+394 biotic interactions
+figure 2
+proposed model for autophagy regulation by pi3k and ceramides. green letters indicate the presence of homologs of these components in
+plants; black letters indicate the absence of these components in plants. question marks indicate an uncertain signaling event.
+dependent kinase 1 (pdk1) and protein kinase b (pkb/
+akt) (figure 2). pdk1 and pkb proteins are activated
+when bound by phosphatidylinositol 3,4,5-triphosphate
+(ptdins[3,4,5]p3), a class i pi3k product. pdk1 is known
+to interact directly with pkb and to phosphorylate this
+protein ([31]; figure 2).
+opposing roles could be that the class iii pi3k must
+associate with beclin 1 to form a scaffold that positively
+regulates autophagy. in this scenario, interaction with
+beclin 1 would quench pi3k activity. when pi3k is
+unbound, however, the products of the active pi3k might
+inhibit autophagy.
+recent evidence indicates that the tomato homolog of
+pkb/akt, avrpto-dependent pto-interacting protein 3
+(adi3), is phosphorylated by tomato pdk1 (lepdk1),
+in analogy to the mammalian system [32]. silencing of
+adi3 and pdk1 leads to localized cell death without
+pathogen infection, indicating that these genes function
+as negative regulators of pcd. as discussed previously,
+liu et al. [7] demonstrated that the plant class iii pi3k
+is important for restricting hr-pcd to the infection site.
+plants
+i pi3k and consequently lack
+ptdins(3,4,5)p3 [33], so how are adi3 and lepdk1 acti-
+vated? one possibility is that binding to the class iii
+pi3k product ptdins3p activates these kinases (figure 2).
+in fact, arabidopsis pdk1 preferentially binds ptdins3p
+rather than ptdins(3,4,5)p3 in vitro [34]. so, do plant adi3
+and pdk1 function to inhibit autophagy? and does class
+iii pi3k play a role in plants (i.e. facilitating pcd and
+negatively controlling autophagy) that is opposite to its
+role in mammals? one possible explanation for these
+lack class
+ceramides
+in animals, ceramides have been shown to control auto-
+phagy by stimulating beclin 1 expression and by interfering
+with pkb activation [35]. as in mammalian cells, c2-
+ceramide induces pcd in arabidopsis cells and proto-
+plasts [36,37]. the arabidopsis ceramide kinase mutant
+accelerated cell death 5 (acd5) shows acute cell death after an
+infection with the pathogen pseudomonas syringae [36].
+treatment of acd5 mutant protoplasts with unphosphory-
+lated ceramides induces pcd, whereas phosphorylated
+ceramides inhibit pcd. since autophagy is stimulated by
+ceramides in animals, it would be interesting to test if
+autophagy is affected in acd5 mutants that accumulate
+unphosphorylated lipid ceramides.
+concluding remarks
+the prevention of pcd by autophagy has raised impor-
+tant questions about crosstalk between these pathways.
+silencing of beclin 1 and class iii pi3k suggests that
+current opinion in plant biology 2006, 9:391â€“396
+www.sciencedirect.com
+autophagy in the control of programmed cell death patel, caplan and dinesh-kumar 395
+autophagy might prevent a pro-death signal from initiating pcd in healthy tissue. ros and no are likely
+candidates for the pro-death signal because they can
+spread cell-to-cell and have been implicated as signals
+that initiate cell death; however, it is possible that the
+pro-death signal is an unidentified secreted protein- or
+lipid-based signal. once the signal has been identified,
+it will be crucial to understand how it turns on pcd
+and whether autophagy prevents its function. furthermore, what are the signals that induce or downregulate
+autophagy during a plant defense response, and does
+autophagy have additional roles during disease resistance?
+it is possible that autophagy is required to process and/or
+traffic pathogenesis-related proteins or signaling components during plant defense. further examination of the
+striking conservation of autophagy between plants and
+animals will continue to provide valuable insight, while
+powerful forward genetic screens and biochemical approaches will be required to discover components that are
+specific to the interplay between pcd and autophagy in
+plants.
+acknowledgements
+we thank tessa burch-smith and montrell seay for critical reading of the
+review. autophagy work in spd-k lab is supported by grants from the
+us national institute of health (nih) and national science foundation
+(nsf).
+references and recommended reading
+papers of particular interest, published within the annual period of
+review, have been highlighted as:
+ of special interest
+ of outstanding interest
+1.
+greenberg jt, yao n: the role and regulation of programmed
+cell death in plantâ€“pathogen interactions. cell microbiol 2004,
+6:201-211.
+2.
+rogers hj: cell death and organ development in plants.
+curr top dev biol 2005, 71:225-261.
+3.
+soosaar jl, burch-smith tm, dinesh-kumar sp: mechanisms of
+plant resistance to viruses. nat rev microbiol 2005, 3:789-798.
+4.
+lorrain s, vailleau f, balague c, roby d: lesion mimic mutants:
+keys for deciphering cell death and defense pathways in
+plants? trends plant sci 2003, 8:263-271.
+5.
+torres ma, dangl jl: functions of the respiratory burst oxidase
+in biotic interactions, abiotic stress and development.
+curr opin plant biol 2005, 8:397-403.
+6.
+delledonne m: no news is good news for plants. curr opin
+plant biol 2005, 8:390-396.
+7.
+
+liu y, schiff m, czymmek k, talloczy z, levine b, dinesh-kumar sp:
+autophagy regulates programmed cell death during the plant
+innate immune response. cell 2005, 121:567-577.
+this work established a close association between hr-pcd and autophagy. hr-pcd triggered by pathogen infection spreads in an uncontrolled fashion when the plant autophagy gene beclin 1 is silenced.
+besides beclin 1, several other putative plant orthologs of yeast autophagy genes, such as class iii pi3k/vps30, atg3 and atg7, also function
+to restrict pcd. this indicates that autophagy plays a central role in the
+regulation of pcd during the plant innate immune response.
+8.
+klionsky dj: the molecular machinery of autophagy:
+unanswered questions. j cell sci 2005, 118:7-18.
+9.
+levine b, klionsky dj: development by self-digestion:
+molecular mechanisms and biological functions of autophagy.
+dev cell 2004, 6:463-477.
+www.sciencedirect.com
+10. thompson ar, vierstra rd: autophagic recycling: lessons from
+yeast help define the process in plants. curr opin plant biol
+2005, 8:165-173.
+11. bassham dc, laporte m, marty f, moriyasu y, ohsumi y,
+olsen lj, yoshimoto k: autophagy in development and stress
+responses of plants. autophagy 2006, 2:2-11.
+12. hanaoka h, noda t, shirano y, kato t, hayashi h, shibata d,
+tabata s, ohsumi y: leaf senescence and starvation-induced
+chlorosis are accelerated by the disruption of an arabidopsis
+autophagy gene. plant physiol 2002, 129:1181-1193.
+13. ketelaar t, voss c, dimmock sa, thumm m, hussey pj:
+arabidopsis homologues of the autophagy protein atg8 are a
+novel family of microtubule binding proteins. febs lett 2004,
+567:302-306.
+14. doelling jh, walker jm, friedman em, thompson ar, vierstra rd:
+the apg8/12-activating enzyme apg7 is required for proper
+nutrient recycling and senescence in arabidopsis thaliana.
+j biol chem 2002, 277:33105-33114.
+15. marathe r, anandalakshmi r, liu y, dinesh-kumar sp:
+the tobacco mosaic virus resistance gene n. mol plant pathol
+2002, 3:167-172.
+16. sumimoto h, miyano k, takeya r: molecular composition and
+regulation of the nox family nad(p)h oxidases. biochem
+biophys res commun 2005, 338:677-686.
+17. torres ma, dangl jl, jones jd: arabidopsis gp91phox
+homologues atrbohd and atrbohf are required for
+accumulation of reactive oxygen intermediates in the plant
+defense response. proc natl acad sci usa 2002, 99:517-522.
+18. zeidler d, zahringer u, gerber i, dubery i, hartung t, bors w,
+hutzler p, durner j: innate immunity in arabidopsis thaliana
+lipopolysaccharides activate nitric oxide synthase (nos) and
+induce defense genes. proc natl acad sci usa 2004, 101:1581115816.
+this work showed that treatment of arabidopsis leaves and suspension
+cells with lipopolysaccharides (lps) from gram-negative bacteria and
+lipoteichoic acid from gram-positive bacteria triggered no production.
+induction of no was followed by the activation of defense genes. further,
+nitric oxide synthase (atnos1) mutants showed increased susceptibility to
+the pathogen p. syringae.
+19. brune b: the intimate relation between nitric oxide and
+superoxide in apoptosis and cell survival. antioxid redox signal
+2005, 7:497-507.
+20. torres ma, jones jd, dangl jl: pathogen-induced, nadph
+ oxidase-derived reactive oxygen intermediates suppress
+spread of cell death in arabidopsis thaliana. nat genet 2005,
+37:1130-1134.
+this excellent paper extends the work of torres et al. [17]. the authors
+created a triple mutant of atrbohd atrbohf lsd1. lsd1 is a lesion mimic
+mutant that induces uncontrolled cell death and, unexpectedly, the triple
+mutant amplifies the lsd1 mutant cell death phenotype. application of
+exogenous superoxide activates rbohd function to negatively regulate
+cell death in the lsd1 mutant. further, this work demonstrates that this cell
+death is dependent on the plant immune response activator salicylic acid.
+21. jabs t, dietrich ra, dangl jl: initiation of runaway cell death in
+an arabidopsis mutant by extracellular superoxide. science
+1996, 273:1853-1856.
+22. yu l, alva a, su h, dutt p, freundt e, welsh s, baehrecke eh,
+lenardo mj: regulation of an atg7â€“beclin 1 program of
+autophagic cell death by caspase-8. science 2004,
+304:1500-1502.
+the caspase inhibitor zvad (n-benzyloxycarbonyl-valyl-alanyl-aspartylfluoromethylketone) induced non-apoptotic, possibly autophagic, cell
+death in mouse l929 fibroblastic cells that required the autophagy genes
+atg7 and beclin 1.
+23. shimizu s, kanaseki t, mizushima n, mizuta t, arakawa
+kobayashi s, thompson cb, tsujimoto y: role of bcl-2 family
+proteins in a non-apoptotic programmed cell death dependent
+on autophagy genes. nat cell biol 2004, 6:1221-1228.
+bax/bak / double knockout mice that lack apoptosis were capable of
+undergoing non-apoptotic death upon stimulation with etoposide. this
+death was dependent on the presence of the autophagy genes atg5 and
+beclin 1.
+current opinion in plant biology 2006, 9:391â€“396
+396 biotic interactions
+24. lum jj, bauer de, kong m, harris mh, li c, lindsten t,
+thompson cb: growth factor regulation of autophagy and
+cell survival in the absence of apoptosis. cell 2005,
+120:237-248.
+the authors observe that autophagy is required for cell survival after
+growth factor removal in apoptosis-deficient bax/bak / bone marrow
+cells.
+25. boya p, gonzalez-polo ra, casares n, perfettini jl, dessen p,
+larochette n, metivier d, meley d, souquere s, yoshimori t et al.:
+inhibition of macroautophagy triggers apoptosis. mol cell biol
+2005, 25:1025-1040.
+the authors show that hela cells die via an apoptotic pathway when
+autophagy is compromised either genetically or pharmacologically. additionally, this death is abolished when the cells are treated with caspase
+inhibitors, indicating that autophagy assists in cell survival by inhibiting
+the induction of apoptosis.
+26. pattingre s, tassa a, qu x, garuti r, liang xh, mizushima n,
+ packer m, schneider md, levine b: bcl-2 antiapoptotic
+proteins inhibit beclin 1-dependent autophagy. cell 2005,
+122:927-939.
+this excellent paper shows that the function of mammalian beclin 1
+during autophagy is inhibited by its interaction with the anti-apoptotic
+protein bcl-2, which binds to a domain that is speculated to be important
+for autophagy. bcl-2â€™s interaction with beclin 1 disrupts the formation of
+autophagosomes in yeast and mammalian cells. additionally, beclin 1
+mutants that are unable to bind bcl-2 induce greater autophagy in mcf7
+breast carcinoma cells than is seen in wildtype beclin 1 cells. the authors
+conclude that, in addition to being an anti-apoptotic protein, bcl-2 is also
+an anti-autophagy protein that helps maintain autophagy levels that
+promote cell survival.
+the authors show that the cysteine protease vacuolar processing enzyme
+(vpe) possesses caspase-1 activity. silencing of vpe by vigs prevents
+tmv-induced hr-pcd in tobacco plants.
+30. seay m, dinesh-kumar sp: life after death: are autophagy
+genes involved in cell death and survival during plant innate
+immune responses? autophagy 2005, 1:185-186.
+this review discusses the two contrasting roles of the plant vacuole
+during pathogen infection: one being cell death mediated by vpe and the
+second being cell survival mediated by autophagy.
+31. vivanco i, sawyers cl: the phosphatidylinositol 3-kinase akt
+pathway in human cancer. nat rev cancer 2002, 2:489-501.
+32. devarenne tp, ekengren sk, pedley kf, martin gb: adi3 is a
+ pdk1-interacting agc kinase that negatively regulates plant
+cell death. embo j 2006, 25:255-265.
+the work described in this paper identifies adi3, a homolog of pkb/akt
+that interacts with both avrpto (a p. syringae effector protein) and pto
+kinase (a tomato resistance protein). silencing of either adi3 or its
+phosphorylator pdk1 leads to cell death, indicating that this pathway
+negatively regulates plant pcd.
+33. mueller-roeber b, pical c: inositol phospholipid metabolism in
+arabidopsis. characterized and putative isoforms of inositol
+phospholipid kinase and phosphoinositide-specific
+phospholipase c. plant physiol 2002, 130:22-46.
+34. deak m, casamayor a, currie ra, downes cp, alessi dr:
+characterization of a plant 3-phosphoinositide-dependent
+protein kinase-1 homologue which contains a pleckstrin
+homology domain. febs lett 1999, 451:220-226.
+27. liang xh, kleeman lk, jiang hh, gordon g, goldman je, berry g,
+herman b, levine b: protection against fatal sindbis virus
+encephalitis by beclin 1, a novel bcl-2-interacting protein.
+j virol 1998, 72:8586-8596.
+35. scarlatti f, bauvy c, ventruti a, sala g, cluzeaud f, vandewalle a,
+ghidoni r, codogno p: ceramide-mediated macroautophagy
+involves inhibition of protein kinase b and up-regulation of
+beclin 1. j biol chem 2004, 279:18384-18391.
+28. ho pk, hawkins cj: mammalian initiator apoptotic caspases.
+febs j 2005, 272:5436-5453.
+36. liang h, yao n, song jt, luo s, lu h, greenberg jt: ceramides
+modulate programmed cell death in plants. genes dev 2003,
+17:2636-2641.
+29. hatsugai n, kuroyanagi m, yamada k, meshi t, tsuda s,
+kondo m, nishimura m, hara-nishimura i: a plant vacuolar
+protease, vpe, mediates virus-induced hypersensitive cell
+death. science 2004, 305:855-858.
+current opinion in plant biology 2006, 9:391â€“396
+37. townley he, mcdonald k, jenkins gi, knight mr, leaver cj:
+ceramides induce programmed cell death in arabidopsis cells
+in a calcium-dependent manner. biol chem 2005, 386:161-166.
+www.sciencedirect.com

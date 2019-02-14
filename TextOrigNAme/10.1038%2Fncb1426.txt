@@ -1,0 +1,1907 @@
+a rt i c l e s
+autophagic and tumour suppressor activity of a novel 
+beclin1-binding protein uvrag
+chengyu liang1, pinghui feng1, bonsu ku2, iris dotan3, dan canaani3, byung-ha oh2 and jae u. jung1,4
+autophagy, the degradation of cytoplasmic components, is an evolutionarily conserved homeostatic process involved in 
+environmental adaptation, lifespan determination and tumour development. the tumor suppressor beclin1 is part of the pi(3) 
+kinase class iii (pi(3)kc3) lipid-kinase complex that induces autophagy. the autophagic activity of the beclin1–pi(3)kc3 
+complex, however, is suppressed by bcl-2. here, we report the identification of a novel coiled–coil uv irradiation resistance-
+associated gene (uvrag) as a positive regulator of the beclin1–pi(3)kc3 complex. uvrag, a tumour suppressor candidate that 
+is monoallelically mutated at high frequency in human colon cancers, associates with the beclin1–bcl-2–pi(3)kc3 multiprotein 
+complex, where uvrag and beclin1 interdependently induce autophagy. uvrag-mediated activation of the beclin1–pi(3)kc3 
+complex promotes autophagy and also suppresses the proliferation and tumorigenicity of human colon cancer cells. these 
+results identify uvrag as an essential component of the beclin1–pi(3)kc3 lipid kinase complex that is an important signalling 
+checkpoint for autophagy and tumour-cell growth.
+autophagy is an evolutionarily conserved and highly regulated home-
+ostatic  process  by  which  cytoplasmic  components  are  degraded  for 
+removal or turnover through a lysosomal pathway1–5. the process has 
+an important housekeeping role as it promotes protein turnover and 
+removes damaged or surplus organelles. genetic analysis in yeast has 
+identified at least 16 autophagy-related genes (atg) that encode com-
+ponents of the autophagy machinery4. in yeast, atg6–vps30–beclin1 
+is part of the pi(3)kc3–vps34, vps15 and atg14 complex, which par-
+ticipates in autophagosome formation by mediating the localization 
+of other autophagy proteins to the pre-autophagosomal membrane6,7. 
+in mammalian cells, beclin1 interacts with pi(3)kc3–vps34 to facili-
+tate autophagosome formation8, however, a mammalian orthologue of 
+yeast atg14 has not been identified. in addition to the role of beclin1 
+in autophagy, it also functions as a tumour suppressor in mammalian 
+cells. beclin1 is monoallelically deleted in a high percentage of human 
+breast, ovarian and prostate cancers9–12, and its expression suppresses the 
+tumorigenicity of human cancer lines10. furthermore, monoallelic dis-
+ruption of beclin1 in mice increases the incidence of tumours, indicat-
+ing that beclin1 is a haploinsufficient tumour suppressor gene and that 
+monoallelic deletions of this gene may contribute to the pathogenesis 
+of human cancers9–12.
+the  prosurvival  function  of  autophagy  is  also  evolutionarily 
+conserved  from  yeast  to  mammals  and  is  best  characterized  dur-
+ing  nutrient  deficiency5.  however,  excessive  autophagy  results  in 
+autophagic cell death that is morphologically distinct from apoptosis13. 
+despite  this  morphological  difference,  there  is  extensive  cross-talk 
+between autophagy and apoptosis. for instance, several pro-apoptotic 
+signals  (including  tnf,  trail,  and  fadd)  induce  autophagy14–16. 
+conversely, anti-apoptotic signalling pathways (such as pi(3)k–akt–
+tor), suppress autophagy5,17. furthermore, anti-apoptotic cellular bcl-2 
+(cbcl-2) interacts with beclin1, thereby inhibiting beclin1-dependent 
+autophagy. thus, bcl-2 not only has anti-apoptotic function but also 
+serves as an anti-autophagy protein through its inhibitory interaction 
+with beclin1 (ref. 18). in contrast, it has been reported that overexpression 
+of bcl-xl or bcl-2 enhances etoposide-induced autophagy19. although 
+the basis of this difference has not yet been resolved, autophagy and 
+apoptosis seem to be interconnected both positively and negatively.
+a  common  aspect  of  gamma  herpesviruses,  including  murine  γ-
+herpesvirus-68  (γhv-68),  kaposi’s  sarcoma-associated  herpesvirus 
+(kshv), herpesvirus saimiri and rhesus rhadinovirus20, is that they 
+encode viral homologues of bcl-2, designated vbcl-2, and these viral bcl-
+2 genes effectively prevent cells from undergoing apoptosis in response 
+to various stresses21–23. γhv68 vbcl-2 is not required for γhv68 lytic 
+replication, but it is required for efficient reactivation and/or latent 
+infection  of  γhv68  (refs 24,  25).  here,  we  report  the  identification 
+of uvrag, a tumour suppressor candidate that copurifies with the 
+vbcl-2–beclin1–pi(3)kc3 complex. uvrag is recruited to the vbcl-
+2–beclin1–pi(3)kc3 multiprotein complex through its central coiled–
+coil domain, and this interaction promotes autophagy and suppresses 
+the tumorigenicity of human colon cancer cells. in contrast, γhv68 
+1department of microbiology and molecular genetics and tumor virology division, new england primate research center, harvard medical school, 1 pine hill 
+drive, southborough, ma 01772, usa. 2center for biomolecular recognition, department of life sciences, pohang university of science and technology, pohang, 
+kyungbuk, 790-784, korea. 3department of biochemistry, tel-aviv university, tel-aviv 69978, israel.
+4correspondence should be addressed to j.u.j. (e-mail: jae_jung@hms.harvard.edu)
+received 18 april 2006; accepted 25 may 2006; published online 25 june 2006; doi: 10.1038/ncb1426
+688 
+nature cell biology  volume 8 | number 7 | july 2006
+ ©2006
+nature  publishing group
+mr(k)
+pi(3)kc3
+uvrag
+beclin1
+gst−vbcl-2
+gst
+ib:
+anti-uvrag
+anti-beclin1
+anti-beclin1
+anti-uvrag
+anti-tubulin
+98 -
+62 -
+49 -
+28 -
+17 -
+vbcl-2
+beclin1
+88
+pi(3)kc3
+c2
+aaa
+sgr
+bh1
+171
+150
+bd
+ccd
+244
+337
+ecd
+448
+250
+acc
+530
+catalytic
+887
+uvrag
+42
+c2
+147 200
+269
+ccd
+699
+ip:
+anti-beclin1
+mr(k)
+- 75
+- 60
+pre
+wcl
+ip:
+ib:
+pre
+anti-pi(3)kc3
+anti-uvrag
+mr(k)
+- 100
+- 60
+- 75
+- 50
+anti-pi(3)kc3
+anti-uvrag
+anti-tubulin
+wcl
+- 100
+- 75
+- 50
+mbp−uvragccd
+his−beclin1ccd
+complex
+mbp−uvragccd
+his−beclin1ccd
+d + uvrag
+d + uvrag
+d + uvrag
+beclin1 + uvrag
+beclin1ec
+beclin1
+beclin1
+ip: anti-v5
+ib: anti-flag
+wcl
+ib: anti-v5
+beclin1ecd−v5
+wcl
+ib: anti-flag
+uvrag
+flag−uvrag
+beclin1−v5
+beclin1ccd−v5
+beclin1bd−v5
+flag−uvrag
+0.2
+0.8
+0.2
+0.07
+0.2 0.2
+0.2 0.6
+0.2
+0.2
+0.03
+0.2
+0.04 0.05 0.07 0.1
+0.2 0.2 0.2
+0.2
+0.2
+0.2
+1 2 3
+4 5
+1 2 3
+4 5
+a rt i c l e s
+d + beclin1
+c2 + beclin1
+uvrag
+uvrag
+uvrag
+uvrag
+uvrag + beclin1
+c2
+uvrag
+beclin1
+ip: anti-flag
+ib: anti-v5
+wcl
+ib: anti-v5
+wcl
+ib: anti-flag
+wcl
+ib: anti-tubulin
+mr(k)
+beclin1−v5 60 -
+beclin1−v5
+60 -
+flag−uvrag
+flag−uvragc2
+flag−uvragccd
+tubulin
+mr(k)
+60 -
+beclin1−v5
+f-uvrag∆ccd
+f-uvrag∆c2
+beclin1−v5
+2 3 4
+ip: anti-flag
+ib: anti-v5
+wcl
+ib: anti-flag
+wcl
+ib: anti-v5
+chx
+flag-uvrag vector
+tubulin
+flag-uvrag beclin1−v5
+tubulin
+0 0.5 1 2 time (h)
+ib: anti-flag
+ib: anti-tubulin
+ib: anti-flag
+ib: anti-tubulin
+ 1
+ ×
+complex of uvragccd & beclin1ccd
+beclin1 ccd
+−10
+−20
+−30
+200
+210
+220
+230
+240
+250
+wavelength (nm)
+figure 1 identification of beclin1, pi(3)kc3 and uvrag as vbcl-2 binding 
+proteins. (a) vbcl-2 binding proteins. after transfection, 293t cells were 
+used for gst-pulldown and the purified proteins were detected by silver 
+staining. (b) schematic representation of vbcl-2, beclin1, pi(3)kc3 and 
+uvrag protein structure. bd, bcl-2 binding domain; acc, accessory 
+domain; bh1, bcl-2 homologue 1. (c) uvrag binds beclin1 through 
+its ccd. after transfection with beclin1-v5, together with full-length or 
+fragments of flag–uvrag, 293t whole cell lysates (wcls) were used for 
+immunoprecipitation (ip) with anti-flag followed by immunoblotting (ib) 
+with anti-v5. (d) interactions between endogenous uvrag and beclin1 
+and between endogenous uvrag and pi(3)kc3. 293t cell lysates were 
+used for immunoprecipitation with preimmune sera or anti-beclin1, 
+followed by immunoblotting with anti-uvrag or anti-beclin1, or for 
+immunoprecipitation with preimmune sera or anti-uvrag, followed by 
+immunoblotting with anti-pi(3)kc3. (e) uvragccd is required for beclin1 
+interaction. after transfection with beclin1–v5 (lanes 2 and 4) together 
+with flag–uvrag∆ccd (lanes 1 and 2) or flag–uvrag∆c2 (lanes 3 and 
+4), wcls were used for immunoprecipitation with anti-flag followed 
+by immunoblotting with anti-v5. (f) beclin1 binds uvrag through its 
+ccd. after transfection with flag–uvrag together with full-length or 
+fragments of beclin1–v5, wcls were used for immunoprecipitation with 
+anti-v5 followed by immunoblotting with anti-flag. (g) an increase in 
+uvrag stability induced by beclin1. after transfection with flag–uvrag 
+and empty vector or flag–uvrag and beclin1–v5, wcls were treated 
+with cycloheximide (chx, 20 µg ml–1) for the indicated time, followed by 
+immunoblotting with anti-flag. (h) uvrag directly interacts with beclin1. 
+mbp–uvragccd (lane 1), his6–beclin1ccd (lane 2) or mixtures of both 
+proteins in a concentration dependent manner (lanes 3-8), were subjected 
+to native gel electrophoresis. the numbers indicate the concentration 
+(nmol) of protein. arrows indicate the purified mbp–uvragccd, his6–
+beclin1ccd and complex between these two. (i) beclin1ccd and uvragccd 
+associate into a α-helical heterodimer. after removing the n-terminal his6 
+and mbp tags, the beclin1ccd and the preformed beclin1ccd–uvragccd 
+complex were subjected to circular dichroism spectroscopic analysis. 
+the raw data for this experiment are presented in the supplementary 
+information, fig. s5.
+nature cell biology  volume 8 | number 7 | july 2006 
+689   
+ ©2006
+nature  publishing group
+a rt i c l e s
+vbcl-2 expression significantly inhibits autophagy in a beclin1 bind-
+ing-dependent manner, as was previously shown with cellular bcl-2 and 
+kshv vbcl-2 (ref. 18). these results suggest that the beclin1–pi3kc3 
+autophagic complex contains two regulatory proteins, uvrag and bcl-
+2, which modulate beclin1–pi(3)kc3-mediated autophagic activity in 
+positive and negative manners, respectively.
+results
+identification of uvrag as a beclin1 binding protein
+cellular proteins that bound to γhv68 gst–vbcl-2 mammalian fusion 
+protein in 293t cells were purified. polypeptides with apparent molecu-
+lar weights (mrs) of 60, 78 and 100 k specifically interacted with gst–
+vbcl-2, whereas they did not interact with gst alone (fig. 1a). the 60, 
+78 and 100 k polypeptides were identified as cellular beclin1, uvrag 
+and pi(3)kc3, respectively (fig. 1a). beclin1 has been shown to interact 
+with bcl-2 and pi(3)kc3, which regulates autophagosome formation6,8,18. 
+uvrag was initially identified through its ability to partially comple-
+ment uv sensitivity in xeroderma pigmentosum cells, and is localized 
+to the human chromosomal subregion 11q13, which is frequently impli-
+cated in the development of a variety of human malignancies, including 
+breast and colon cancers26–28. interestingly, as seen with beclin1(refs 9, 10), 
+uvrag is monoallelically mutated in various human colon cancer cells 
+and tissues, suggesting that uvrag is a tumour suppressor candidate29. 
+full-length uvrag is predicted to contain an amino-terminal proline-
+rich sequence followed by a potential calcium-dependent phospholipid 
+binding c2 domain (aa 42–147) and a central coiled–coil domain (ccd, 
+aa 200–269; fig. 1b and see supplementary information, fig. s1). to 
+define the architecture of the vbcl-2–beclin1–uvrag–pi(3)kc3 com-
+plex, which protein primarily interacts with uvrag was determined. 
+beclin1, but not vbcl-2 or pi(3)kc3, interacted with uvrag (fig. 1c 
+and data not shown). interactions between endogenous uvrag and 
+beclin1, and between uvrag and pi(3)kc3, were also readily detected 
+in human 293t cells by coimmunoprecipitation (fig. 1d). to further 
+delineate the interaction between beclin1 and uvrag, each uvrag 
+domain was tested for beclin1 binding. the uvrag ccd bound to 
+beclin1 as effectively as full-length uvrag and deletion of the ccd 
+but not the c2 domain completely abolished beclin1 binding (fig. 1c, 
+e). beclin1 contains three distinct domains: a bcl-2 binding domain 
+(aa 88–150), a coiled–coil domain (ccd, aa 144–269), and the evolu-
+tionarily conserved domain (ecd, aa 244–337; fig. 1b)8. as observed 
+with uvrag, the beclin1 ccd also bound to uvrag as effectively as 
+full-length beclin1 (fig. 1f). furthermore, this interaction significantly 
+increased the half-life of uvrag (fig. 1g). these results indicate that 
+uvrag and beclin1 interact through their coiled–coil domains.
+to confirm that this interaction was direct, recombinant six histidine 
+his6–beclin1 ccd and maltose-binding protein (mbp) –uvrag ccd 
+were produced in escherichia coli. whereas the mbp–uvrag ccd 
+appeared unstructured as it exhibited a smeared band pattern in a native 
+gel, a mixture of mbp–uvrag ccd and beclin1 ccd migrated as a 
+single sharp band near the top of the gel, indicating complex formation 
+between the two proteins (fig. 1h). the band position was identical to 
+that of the preformed mbp–uvrag ccd–his6–beclin1 ccd com-
+plex when both proteins were coexpressed in e. coli (data not shown). 
+additionally, the preformed complex was subsequently recovered and 
+separated using sds–page to further confirm the presence of mbp–
+uvrag ccd and his6–beclin1 ccd proteins (see supplementary 
+information, fig. s2a, b). the uvrag ccd protein was unstable and 
+precipitated when the mbp tag was cleaved, wherease the beclin1 ccd 
+protein was stable in solution when the his6 tag was cleaved and adopted 
+a α-helical conformation (fig. 1i). finally, the preformed uvrag ccd–
+beclin1 ccd complex without the tags was soluble and also exhibited a 
+circular dichroism spectrum of a typical α-helical protein (fig. 1i). these 
+results demonstrate that uvrag and beclin1 directly interact through 
+their coiled–coil domains by forming an α-helical bundle structure and 
+that the coiled–coil domain of uvrag seems to undergo a structural 
+transition on complex formation with the beclin1 ccd.
+vbcl-2–beclin1–pi(3)kc3–uvrag multiprotein complex
+as observed for the interaction with cbcl-2 (ref. 30), the bcl-2 bind-
+ing domain of beclin1 was sufficient to bind to γhv68 vbcl-2 in 293t 
+cells (fig. 2a). previous work showed that alanine substitution at the 
+conserved vbcl-2 residues ser 85, gly 86 and arg 87 (called vbcl-2aaa) 
+within the bh3 binding groove abrogated its interaction with a bh3 pep-
+tide31. similarly, the mutations in vbcl-2aaa abolished its interaction with 
+beclin1, indicating that the bh3 binding groove in vbcl-2 is involved in 
+the interaction with beclin1 (fig. 2b). to analyse the interaction between 
+vbcl-2 and uvrag and between vbcl-2 and pi(3)kc3, 293t cells were 
+transfected with ha-tagged vbcl-2 and v5-tagged beclin1, together 
+with flag-tagged uvrag or flag-tagged pi(3)kc3 in various combi-
+nations. vbcl-2 bound to uvrag or pi(3)kc3 only in the presence of 
+beclin1, indicating that beclin1 mediates these interactions (fig. 2c, d). 
+this binding was also specific as vbcl-2aaa, which failed to bind beclin1, 
+did not bind uvrag and pi(3)kc3 under the same conditions (fig. 2c 
+and see supplementary information, fig. s2c). because of this shared 
+property between cellular and viral bcl-2 proteins for beclin1 binding, 
+bacterially purified mbp–uvrag ccd, his6–beclin1 ccd and bcl-
+xl (∆loop and ∆transmembrane; ∆tm) were used for in vitro binding 
+assays. these proteins effectively formed a triple complex in vitro, sug-
+gesting that bcl-2 and uvrag interactions with beclin1 are independ-
+ent and do not directly compete with one another (see supplementary 
+information, fig. s2d).
+pi(3)kc3 contains three distinct domains: the n-terminal c2 domain, 
+the central accessory domain and the carboxy-terminal catalytic domain 
+(fig. 1b). to identify which pi(3)kc3 domain binds beclin1, expression 
+vectors encoding individual domains were cotransfected with a beclin1 
+expression vector in 293t cells. the n-terminal c2 domain of pi(3)kc3 
+bound beclin1 as efficiently as full-length pi(3)kc3 (fig. 2e). conversely, 
+both the ccd and ecd beclin1 domains were required and sufficient 
+for interacting with pi(3)kc3 (fig. 2f). similarly to vbcl-2, pi(3)kc3 
+was capable of interacting with uvrag or the uvrag ccd only in 
+the presence of beclin1 (fig. 2g and data not shown). these results col-
+lectively indicate that beclin1 functions as a platform for the formation 
+of the vbcl-2–uvrag–pi(3)kc3 complex, in which the binding of each 
+constituent is likely to require a different region of beclin1 (fig. 2h).
+uvrag induces autophagy
+human hct116 colon cancer cells contain a monoallelic frameshift 
+mutation in the uvrag gene that generates a premature stop codon29. 
+in fact, hct116 cells expressed a significantly reduced level of endog-
+enous uvrag compared with 293t, nih3t3 and mcf7 cells (fig. 3a). 
+to evaluate the effect of uvrag on autophagy, hct116.vector and 
+hct116.uvrag cells stably carrying empty expression vector and 
+690 
+nature cell biology  volume 8 | number 7 | july 2006
+ ©2006
+nature  publishing group
+input (1%)
+vbcl-2
+ha−vbcl-2
+ha−vbcl-2
+beclin1−v5
+beclin1ccd−v5
+beclin1bd−v5
+tubulin
+d + vbcl-2
+beclin1 + vbcl-2
+beclin1
+beclin1
+d + vbcl-2
+d + vbcl-2
+beclin1ec
+ip: anti-v5
+ib: anti-ha
+wcl
+ib: anti-ha
+wcl
+ib: anti-v5
+beclin1ecd−v5
+wcl
+ib: anti-tubulin
+a rt i c l e s
+beclin1−v5
+ha−vbcl-2
+beclin1−v5
+ha−vbcl-2
+tubulin
+−vbcl-2
+ha
+−vbcl-2aaa
+ha
+−+
+ip: anti-v5
+ib: anti-ha
+wcl
+ib: anti-v5
+wcl
+ib: anti-ha
+wcl
+ib: anti-tubulin
+vbcl-2aaa + beclin1 + uvrag
+vbcl-2 + beclin1 + uvrag
+vbcl-2aaa + uvrag
+vbcl-2 + uvrag
+ip: anti-ha
+ib: anti-flag
+wcl
+ib: anti-flag
+wcl
+ib: anti-v5
+wcl
+ib: anti-ha
+vbcl-2
+flag−
+pi(3)kc3
+ha−
+vbcl-2
+beclin1
+−v5
+flag−
+pi(3)kc3
+vbcl-2 + beclin1 + pi(3)kc3
+vbcl-2 + pi(3)kc3
+pi(3)kc3
+ip: anti-ha
+ib: anti-flag
+wcl
+ib: anti-ha
+wcl
+ib: anti-v5
+wcl
+ib: anti-flag
+mr(k)
+60 -
+60 -
+beclin1
+−v5
+beclin1
+−v5
+cat
+c2
+beclin1 + pi(3)kc3acc
+beclin1 + pi(3)kc3
+beclin1 + pi(3)kc3
+beclin1 + pi(3)kc3
+beclin1
+mr(k)
+ip: anti-flag
+ib: anti-v5
+wcl
+ib: anti-v5
+flag−
+pi(3)kc3
+- 100
+wcl
+ib: anti-flag
+flag−
+uvrag
+flag−
+uvrag
+beclin1
+−v5
+ha-
+vbcl-2
+uvrag
+input
+mr(k)
+100  -
+flag−
+pi(3)kc3
+beclin1
+−v5
+d + pi(3)kc3
+d + ct + pi(3)kc3
+d + pi(3)kc3
+d + pi(3)kc3
+d + pi(3)kc3
+beclin1 + pi(3)kc3
+d + ec
+beclin1ec
+beclin1ec
+pi(3)kc3
+beclin1
+beclin1
+beclin1
+mr(k)
+ip: anti-v5
+ib: anti-flag
+wcl
+ib: anti-flag
+- 75
+wcl
+ib: anti-v5
+- 15
+- 10
+ccd + ecd
+ecd + ct
+ccd
+ecd
+bd
+mr(k)
+100 -
+ha−
+pi(3)kc3
+beclin1
+−v5 60 -
+ha-
+100 -
+pi(3)kc3
+flag−uvrag∆ccd
+flag−uvragccd
+d + pi(3)kc3 + beclin1
+d + pi(3)kc3 + beclin1
+d + pi(3)kc3
+d + pi(3)kc3
+uvrag
+uvrag
+uvrag
+∆c
+∆c
+pi(3)kc3
+uvrag
+ip: anti-flag
+ib: anti-ha
+wcl
+ib: anti-v5
+wcl
+ib: anti-ha
+wcl
+ib: anti-flag
+bcl-2
+bh3b
+c2
+pi(3)kc3
+acc
+catalytic
+bcl2-b ccd
+ccd
+ecd
+beclin1
+2 uvrag
+figure 2 uvrag interacts with beclin1, pi(3)kc3 and vbcl-2. (a) the 
+bcl-2 binding domain of beclin1 is sufficient to bind vbcl-2. at 48 h 
+posttransfection with wild-type and mutant beclin1–v5, together with 
+ha–vbcl-2, wcls of 293t cells were used for immunoprecipitation 
+with anti-v5 followed by immunoblotting with anti-ha. (b) the loss of 
+beclin1 interaction of vbcl-2aaa mutant. at 48 h posttransfection with 
+wild-type ha–vbcl-2 or vbcl-2aaa mutant, together with beclin1–v5, 
+wcls of 293t cells were used for immunoprecipitation with anti-v5, 
+followed by immunoblotting with anti-ha. (c) vbcl-2 interaction with 
+wild-type uvrag in the presence of beclin1. at 48 h posttransfection 
+with flag–uvrag together with beclin1–v5 and ha–vbcl-2 or vbcl–2aaa 
+mutant, wcls of 293t cells were used for immunoprecipitation with 
+anti-ha followed by immunoblotting with anti-flag. (d) vbcl-2 interaction 
+with pi(3)kc3 in the presence of beclin1. at 48 h posttransfection 
+with ha–vbcl-2 together with flag–pi(3)kc3 and beclin1-v5, wcls of 
+293t cells were used for immunprecipitation with anti-ha followed by 
+immunoblotting with anti-flag. (e) pi(3)kc3 n-terminal c2 domain binds 
+beclin1. at 48 h posttransfection with beclin1–v5 together with full-
+length or fragments of flag–pi(3)kc3, wcls of 293t cells were used for 
+immunoprecipitation with anti-flag followed by immunoblotting with anti-
+v5. cat, catalytic domain. (f) beclin1ccd and beclin1ecd are sufficient for 
+binding pi(3)kc3. at 48 h posttransfection with flag–pi(3)kc3 together 
+with full-length or fragments of beclin1–v5, wcls of 293t cells were 
+used for immunoprecipitation with anti-v5 followed by immunoblotting 
+with anti-flag. ct, c terminus (aa 337–448). (g) pi(3)kc3 interaction 
+with uvrag in the presence of beclin1. at 48 h posttransfection with 
+flag–uvrag∆ccd or uvragccd together with ha– pi(3)kc3 and beclin1–v5, 
+wcls of 293t cells were used for immunoprecipitation with anti-flag 
+followed by immunoblotting with anti-ha. (h) schematic representation 
+of the beclin1–bcl-2–uvrag–pi(3)kc3 multiprotein complex. bh, bcl-2 
+homologue; bh3b, bh3 binding motif. the raw data for a−d, f and g are 
+presented in the supplementary information, fig. s5. 
+nature cell biology  volume 8 | number 7 | july 2006 
+691   
+ ©2006
+nature  publishing group
+a rt i c l e s
+293t
+flag−uvrag
+293t
+3t3
+hct116 mcf7
+ib:
+anti-uvrag
+ib:
+anti-tubulin
+hct116.
+vector
+hct116.
+uvrag
+hct116.
+vector
+hct116.
+uvrag
+mr(k)
+- 18
+- 16
+lc3-i
+lc3-ii
+anti-tubulin
+no starvation
+starvation 3 h
+normal conditions
+starvation conditions
+hct116.vector
+hct116.uvrag
+hct116.uvrag
+hct116.uvrag
+no starvation
+starvation
+hct116.vector
+hct116.uvrag
+hct116.vector
+hct116.uvrag
+90
+80
+70
+60
+50
+40
+30
+20
+10
+73
+63
+14
+7.5
+12
+hct116.vector
+hct116.uvrag
+nutrient rich
+starvation
+starvation+3-ma
+90
+80
+70
+60
+50
+40
+30
+20
+10
+63
+52
+27
+10
+12
+hct116.vector
+hct116.uvrag
+no treatment
+rapamycin
+rapamycin+3-ma
+figure 3 autophagosome formation induced by uvrag expression. 
+(a) uvrag expression and lc3 process in hct116 cells. the same 
+protein amounts of 293t, nih3t3, hct116 and mcf7 cells were used 
+for immunoblotting with anti-uvrag and anti-tubulin. wcls of 293t 
+cells transfected with flag-tagged uvrag were included as controls. 
+wcls of hct116.vector and hct16.uvrag were incubated with or 
+without starvation conditions and used for immunoblotting with anti-
+lc3 and anti-tubulin. the raw data for this experiment is presented 
+in the supplementary information, fig. s5. (b) electron microscopy 
+of autophagy in hct116 cells. hct116.vector and hct116.uvrag 
+cells were incubated under normal or starvation conditions for 4 h and 
+subjected to scanning electron microscopy. scale bars (from left to right 
+panels) represent 2 nm, 0.5 nm, 0.2 nm and 0.2 nm. the arrows indicate 
+autophagosome or autolysosome. (c) uvrag induces autophagosome 
+formation in hct116 cells. after transfection with gfp–lc3 vector, 
+hct116.vector and hct116.uvrag cells were maintained under 
+normal conditions or starved for 3 h. gfp–lc3 was detected using an 
+inverted fluorescence microscope. arrows indicate autophagosomes. 
+the scale bars represent 10 µm. (d) after transfection with gfp–lc3 
+vector, hct116.vector and hct116.uvrag cells were maintained 
+under normal conditions, starved for 3 h in the absence or presence of 
+10 mm 3-methyladenine or treated with or without 2 µm rapamycin or 
+rapamycin + 10 mm 3-methyladenine. autophagome was quantified as the 
+mean ± s.d. of combined results from three independent experiments. 
+uvrag  expression  vector,  respectively,  were  generated.  hct116.
+vector and hct116.uvrag cells were then cultured under normal 
+or starvation conditions and then examined by electron microscopy, 
+which reveals the ultrastructure of autophagy as double-membrane 
+vacuoles with visible cytoplasmic contents4. under normal conditions, 
+the basal number of autophagic vacuoles per cell was significantly higher 
+in hct116.uvrag cells than in hct116.vector cells (fig. 3b and see 
+supplementary information, fig. s3a). starvation conditions further 
+increased the number of autophagic vacuoles in hct116.uvrag cells 
+(fig. 3b and see supplementary information, fig. s3a).
+to  measure  autophagic  activity,  immunoblotting  was  performed 
+with an antibody against lc3, a mammalian homologue of the yeast 
+atg8. during autophagy, the lc3 precursor (lc3-i) undergoes cleav-
+age and lipidation to a processed form (lc3-ii)1,32–34. a large portion of 
+lc3-i was processed to lc3-ii in hct116.uvrag cells under nor-
+mal conditions, whereas little or no processed lc3-ii was detected in 
+hct116.vector cells (fig. 3a). on starvation, lc3-ii could be detected 
+in hct116.vector cells, whereas near complete processing of lc3-i was 
+observed in hct116.uvrag cells (fig. 3a). to further quantify the 
+level of autophagy, gfp–lc3 was used to indicate autophagosomes. 
+692 
+nature cell biology  volume 8 | number 7 | july 2006
+ ©2006
+nature  publishing group
+120
+100
+80
+60
+40
+20
+100
+vector
+uvrag
+101
+102
+lysotracker
+103
+104
+140
+120
+100
+80
+60
+40
+20
+normal condition
+wortmanin (1 µm)
+a rt i c l e s
+hct116.
+vector
+100
+14
+hct116.
+uvrag
+132
+16
+hct116.uvrag∆ccd
+102
+18.50
+90
+80
+70
+60
+50
+40
+30
+20
+10
+67
+59%
+59
+22
+47
+34
+nih3t3.vector
+nih3t3.uvrag
+4.7
+4.1
+2.6
+1.4
+1.4
+nih3t3.vector
+nih3t3.uvrag
+90
+80
+70
+60
+50
+40
+30
+20
+10
+60
+73
+54
+34
+28
+27
+nih3t3.vector
+nih3t3.uvrag
+4.1
+1.4
+1.8
+nih3t3.vector
+nih3t3.uvrag
+nutrient rich starvation starvation+3-ma
+nutrient rich starvation starvation+3-ma
+figure 4 uvrag expression increases the volume and relative enzymatic 
+activity of lysosomal compartments. (a) hct116.vector and hct116.uvrag 
+cells were labelled with lysotracker and subjected to flow cytometry analysis. 
+hct116.vector, hct116.uvrag, and hct116.uvrag ∆ccd cells were 
+treated with or without wortmannin (1 µm) for 2 h and their lysates were used 
+to measure the lysosomal acid phosphatase enzymatic activity. data represents 
+mean ± s.d. of three experiments. (b) uvrag induces autophagosome 
+formation in nih3t3 cells. after transfection with gfp–lc3 vector, nih3t3.
+vector and nih3t3.uvrag cells were maintained under normal conditions, 
+starved for 3 h in the absence or presence of 10 mm 3-methyladenine 
+or treated with or without 2 µm rapamycin or rapamycin + 10 mm 3-
+methyladenine. data represents mean ± s.d. of three experiments.
+on autophagic stimulation, gfp–lc3 redistributes from a diffuse stain-
+ing pattern in the cytoplasm and nucleus to a cytoplasmic punctate 
+structure that specifically labels preautophagosomal and autophago-
+somal membranes33. hct116.vector cells showed a low level of base-
+line autophagosome formation that increased minimally in response to 
+starvation or rapamycin treatment (fig. 3c, d). in contrast, the ectopic 
+expression of uvrag in hct116 cells dramatically induced autophago-
+some formation under normal conditions, and it weakly increased on 
+starvation or rapamycin treatment (fig. 3c, d). additionally, treatment 
+with the pi(3)k inhibitor, 3-methyladenine (3ma), drastically inhibited 
+uvrag-induced autophagosome formation (fig. 3c, d). the volume 
+and enzymatic activity of the lysosomal compartments were quantified 
+by labelling cells with lysotracker fluorochrome and measuring acid 
+phosphatase activity, respectively. both assays revealed that hct116.
+uvrag cells displayed detectably elevated levels of lysosomal volume 
+and acid phosphatase enzymatic activity compared with hct116.vector 
+cells (fig. 4a). finally, overexpression of uvrag in autophagy-com-
+petent nih3t3 mouse fibroblasts considerably increased basal, star-
+vation-induced and rapamycin-induced autophagosome formation, 
+which was effectively blocked by 10 mm 3ma (fig. 4b). these results 
+indicate that uvrag overexpression significantly induces autophago-
+some formation.
+nature cell biology  volume 8 | number 7 | july 2006 
+693   
+ ©2006
+nature  publishing group
+a rt i c l e s
+80
+70
+60
+50
+40
+30
+20
+10
+no starvation
+starvation (3 h)
+vector
+uvrag
+uvrag
+∆c
+uvrag
+∆c2
+uvrag
+control sirna
+beclin1 sirna
+control
+(no starvation)
+control
+(starvation 4h)
+uvrag
+(no starvation)
+uvrag
+(starvation 4h)
+80
+70
+60
+50
+40
+30
+20
+10
+hct116.
+vector
+hct116.
+uvrag
+control
+na
+sir
+beclin1
+na
+sir
+control
+na
+sir
+beclin1
+na
+sir
+hct116.
+vector
+hct116.
+uvrag
+control
+na
+sir
+beclin1
+na
+sir
+control
+na
+sir
+beclin1
+na
+sir
+beclin1
+tubulin
++ vector
++ uvrag
++ uvragccd
++ uvrag∆ccd
+mcf7.control mcf7.beclin
+mcf7.beclinecd
+ccd
+70
+60
+50
+40
+30
+20
+10
+empty vector
+(no starvation)
+empty vector
+(starvation 4h)
+uvrag
+(no starvation)
+uvrag
+(starvation 4h)
+uvragccd
+(no starvation)
+uvragccd
+(starvation 4h)
+∆ccd
+uvrag
+(no starvation)
+∆ccd
+uvrag
+(starvation 4h)
+80
+70
+60
+50
+40
+30
+20
+10
+control sirna (no starvation)
+uvrag sirna (no starvation)
+control sirna (starvation 4 h)
+uvrag sirna (starvation 4 h)
+cf7.vector
+cf7.beclin1
+∆ec
+cf7.beclin1
+na
+na
+uvrag sir
+control sir
+na
+na
+uvrag sir
+control sir
+mcf7. vector
+control sirna
+mcf7. vector
+uvrag sirna
+mcf7. beclin1
+control sirna
+mcf7. beclin1
+uvrag sirna
+na
+na
+uvrag sir
+control sir
+anti-uvrag
+anti-tubulin
+anti-uvrag
+anti-tubulin
+anti-uvrag
+anti-tubulin
+figure 5 beclin1 and uvrag interdependently induce autophagosome 
+formation. (a) autophagic activity of uvrag mutants. hct116 cells 
+expressing wild-type or mutant uvrag were transfected with gfp–lc3 
+expression vector and incubated under normal or starvation conditions for 
+3 h. autophagy was quantified as described in fig. 3. (b) effect of wild-type 
+and mutant uvrag on beclin1-mediated autophagy. mcf7.vector, mcf7.
+beclin1 and mcf7.beclin1∆ecd cells were cotransfected with wild-type 
+uvrag or its mutant expression vector together with gfp–lc3 expression 
+vector. at 16–18 h posttransfection, cells were incubated under normal 
+or starvation conditions for 4 h. autophagy was quantified as described in 
+fig. 3. the scale bars represent 20 µm. (c, d) interdependence between 
+uvrag and beclin1 for autophagosome induction. hct116.vector and 
+hct116.uvrag cells (c) or mcf7.vector, mcf7.beclin1 and mcf7.
+beclin1∆ecd cells (d) were transfected with control sirna, beclin1 sirna 
+or uvrag sirna together with gfp–lc3 expression vector as indicated. 
+autophagy was quantified as described in fig. 3.  wcls of these cells were 
+used for immunoblotting with anti-uvrag, anti-beclin1 or anti-tubulin. 
+the scale bars represent 20 µm. in all figures, data represents mean ± s.
+d. of three experiments. the raw data for c and d are presented in the 
+supplementary information, fig s5.
+beclin1 and uvrag interdependently induce 
+autophagosome formation
+to  delineate  the  role  of  uvrag–beclin1  interaction  in  autophagy, 
+hct116 cells that stably expressed uvrag mutants were generated: 
+uvragccd mutant encoding the ccd only, uvrag∆ccd mutant in 
+which the central ccd was deleted, and uvrag∆c2 mutant in which 
+the  n-terminal  c2  domain  was  deleted.  immunoblotting  showed 
+that uvragccd, uvrag∆ccd and uvrag∆c2 mutant proteins were 
+expressed at levels equivalent to wild-type uvrag (data not shown). 
+the degree of autophagosome formation was then measured in these 
+cells using gfp–lc3. uvrag∆ccd failed to interact with beclin1 and 
+thus did not induce autophagosome formation, and uvrag∆c2 showed 
+reduced autophagosome formation activity compared with wild-type 
+uvrag  (fig. 5a).  furthermore,  hct116.uvrag∆ccd  cells  showed 
+no difference in the lysosomal acid phosphatase enzymatic activity to 
+hct116.vector cells (fig. 4a). interestingly, the uvragccd mutant sup-
+pressed both basal and starvation-induced autophagosome formation 
+(fig. 5a). these results indicate that uvrag interaction with beclin1 is 
+necessary for its activity to induce autophagosome formation, and that 
+the n-terminal c2 domain also contributes to efficient autophagosome 
+formation. furthermore, it is likely that uvragccd functions as a domi-
+nant-negative mutant to suppress autophagosome formation by seques-
+tering endogenous beclin1 away from the autophagy machinery.
+the  effect  of  uvrag  on  beclin1-mediated  autophagy  was  also 
+investigated using human mcf7 breast carcinoma cells. mcf7 cells 
+show a low or undetectable level of endogenous beclin1 because of 
+694 
+nature cell biology  volume 8 | number 7 | july 2006
+ ©2006
+nature  publishing group
+ip: anti-pi(3)kc3
+ib: anti-beclin1
+input
+vector uvrag uvrag∆ccd
+ib: anti-pi(3)kc3
+ib: anti-beclin1
+ip: anti-beclin1
+ib: anti-flag
+ib: anti-flag
+ib: anti-beclin1
+40 ×
+100 ×
+40 ×
+100 ×
+a rt i c l e s
+6.5
+2.8
+vector
+uvrag
+ptdins-3-p
+origin
+60
+50
+40
+30
+20
+10%
+no starvation
+starvation
+44
+37
+18
+12
+41
+29
+3t3.vector
+3t3.vbcl-2
+3t3.vbcl-2aaa
+figure 6 increase of the beclin1–pi(3)kc3 interaction and pi(3)kc3 
+activity by uvrag. (a) increased beclin1–pi(3)kc3 interaction by uvrag 
+and continued interaction of uvrag with beclin1 on stress conditions. 
+hct116.vector, hct116.uvrag and hct116.uvrag∆ccd cells were used 
+for immunoprecipitation with anti-pi(3)kc3 followed by immunoblotting 
+with anti-beclin1. wcls were used for immunoblotting with anti-beclin1 
+and anti-pi(3)kc3. hct116.uvrag cells expressing flag-tagged uvrag 
+were incubated under nutrient-rich conditions (lanes 1 and 2), starvation 
+for 4 h (lane 3), or 2 µm rapamycin treatment for 2 h (lane 4). wcls were 
+then used for immunoprecipitation with anti-beclin1 (lanes 2, 3 and 4) or 
+preimmune antibody (lane 1) followed by immunoblotting with anti-flag. 
+the raw data for this experiment are presented in the supplementary 
+information, fig. s5. (b) increased pi(3)kc3 activity by uvrag. at 48 h 
+posttransfection with flag-tagged pi(3)kc3 with beclin1 (lane 1), with 
+beclin1 + uvrag (lane 2) or with beclin1 + uvrag∆ccd vector (lane 3), 
+wcls of 293t cells were used for immunoprecipitation with anti-flag 
+followed by an assay for pi(3)kc3 lipid kinase activity, as described in 
+the methods. at 16 h posttransfection with p40(phox) px–egfp fusion, 
+hct116.vector and hct116.uvrag cells were detected using an inverted 
+fluorescence microscope. p40(phox) px–egfp-positive vesicles were 
+quantified as the mean ± s.d. of combined results from three independent 
+experiments. the scale bars represent 10 µm. (c) suppression of 
+autophagy by γhv68 vbcl-2. at 18 h posttransfection with gfp–lc3 
+vector, nih3t3.vector, nih3t3.vbcl-2 and nih3t3.vbcl-2aaa, cells were 
+incubated under normal or starvation conditions for 4 h. subsequently, 
+gfp–lc3 was detected using an inverted fluorescence microscope and 
+autophagy was quantified as mean ± s.d. of combined results from three 
+independent experiments.
+its  monoallelic  deletion  and  fail  to  increase  autophagic  activity  on 
+starvation10.  in  contrast,  tetracycline-induced  expression  of  wild-
+type beclin1 in these cells considerably enhances starvation-induced 
+autophagy, whereas the beclin1∆ecd mutant, which fails to interact with 
+pi(3)kc3, is incapable of inducing autophagy8. to evaluate the role of 
+uvrag in beclin1-dependent autophagy, mcf7.vector, mcf7.beclin1 
+and mcf7.beclin1∆ecd cells were transfected with expression vectors 
+encoding  wild-type  uvrag,  uvragccd  or  uvrag∆ccd  together 
+with gfp–lc3 expression vector. the degree of autophagosome for-
+mation was then measured in these cells under normal and starvation 
+conditions. in agreement with a previous study8, tetracycline-induced 
+expression of beclin1, but not beclin1∆ecd, enhanced basal and starva-
+tion-induced autophagosome formation (fig. 5b). wild-type uvrag 
+further augmented beclin1-induced autophagosome formation under 
+both normal and starvation conditions, but this was not the case for 
+uvrag∆ccd (fig. 5b). however, this activity of wild-type uvrag was 
+not observed in mcf7.beclin1∆ecd cells, indicating the essential role 
+of the beclin1–pi(3)kc3 interaction in uvrag-induced autophagy 
+(fig. 5b). interestingly, as seen in hct116 cells (fig. 5b), uvragccd 
+suppressed both basal and starvation-induced autophagosome forma-
+tion in mcf7.control and mcf7.beclin1 cells (fig. 5b).
+to investigate the potential interdependence between uvrag and 
+beclin1 for autophagy induction, a small interference rna (sirna) 
+was used to knockdown endogenous beclin1 expression in hct116 
+cells  or  endogenous  uvrag  in  mcf7  cells.  at  48 h  posttransfec-
+tion, beclin1 sirna, but not a control scrambled sirna, significantly 
+reduced endogenous beclin1 expression in hct116 cells, which sub-
+sequently attenuated the uvrag-induced autophagosome formation 
+under both normal and starvation conditions (fig. 5c). reciprocally, 
+knockdown  of  endogenous  uvrag  expression  considerably  sup-
+pressed beclin1-induced autophagosome formation in mcf7 cells 
+(fig. 5d). the sirna-mediated reduction of uvrag expression in 
+hela cells also considerably decreased starvation-induced autophago-
+some  formation  (see  supplementary  information,  fig. s3b).  these 
+results indicate that beclin1 and uvrag are interdependent when 
+inducing autophagosome formation.
+nature cell biology  volume 8 | number 7 | july 2006 
+695   
+ ©2006
+nature  publishing group
+a rt i c l e s
+8.e + 06
+7.e + 06
+6.e + 06
+5.e + 06
+4.e + 06
+3.e + 06
+2.e + 06
+1.e + 06
+1.e + 05
+time (days)
+vector
+uvrag
+uvragccd
+uvrag∆ccd
+vector
+uvrag
+vector
+uvrag
+vector
+uvrag
+uvragccd
+uvrag∆ccd
+uvrag∆c2
+1000
+900
+800
+700
+600
+500
+400
+300
+200
+100
+800
+700
+600
+500
+400
+300
+200
+100
+773
+510
+460
+230
+vector
+uvrag
+uvrag
+∆c
+uvrag
+vector
+uvrag
+∆c
+uvrag
+figure 7 effect of uvrag ectopic expression on growth groperties. 
+(a) proliferation rates. hct116.vector, hct116.uvrag, hct116.
+uvrag∆c2, hct116.uvrag∆ccd and hct116.uvragccd cells (1 × 105 per 
+well) were seeded into 6-well microtitre plates. cell numbers were counted 
+on the days indicated. the results represent means of three independent 
+assays. (b) anchorage independence. hct116.vector, hct116.uvrag, 
+hct116.uvrag∆c2, hct116.uvrag∆ccd and hct116.uvragccd cells 
+(1 × 104) were incubated in soft agar as described in the methods. 
+after ten days, colonies were photographed and counted. the scale 
+bars represent 50 µm. (c) tumorigenicity. hct116.vector, hct116.
+uvrag and hct116.uvrag∆ccd cells (1 × 107) were subcutaneously 
+injected into 5 nude mice, separately. at 16 days postinoculation, mice 
+and tumours were photographed and tumour weights were measured. 
+arrows indicate location of tumours. colony number (b) and tumour 
+mass (c) were quantified as means ± s.d. of combined results from five 
+independent experiments.
+increase in beclin1–pi(3)kc3 interaction and pi(3)kc3 
+enzymatic activity by uvrag
+the beclin1–pi(3)kc3 complex and its lipid kinase activity participate 
+in nucleation or initiation of preautophagosomal membrane formation6,7. 
+although beclin1 and pi(3)kc3 were expressed at equivalent levels, 
+the beclin1–pi(3)kc3 interaction was more pronounced in hct116.
+uvrag cells than in hct116.vector and hct116.uvrag∆ccd cells 
+(fig. 6a).  in  addition,  uvrag  expression  significantly  increased 
+pi(3)kc3 lipid kinase enzymatic activity (fig. 6b). as the px domain 
+of p40(phox) specifically binds to phosphatidylinositol 3-phosphate 
+(ptdins-3-p) produced by pi(3)kc3 (ref. 35), the p40(phox) px–egfp 
+fusion protein was used as a noninvasive probe to measure ptdins-3-p 
+levels and distribution. p40(phox) px–egfp was visible in hct116.
+vector cells as a few punctate structures that appeared to be ptdins-
+3-p-rich  vesicles  (fig. 6b).  the  intensity  and  number  of  p40(phox) 
+px–egfp–stained  vesicles,  however,  were  considerably  higher  in 
+hct116.uvrag cells (fig. 6b).
+previous work showed differential interactions between cbcl-2 and 
+beclin1 — for example, nutrient-rich conditions promote strong interac-
+tions, whereas starvation conditions support only minimal interactions18. 
+unlike the bcl-2–beclin1 interaction, however, the uvrag–beclin1 
+interaction was not affected by autophagy-inducing conditions such as 
+starvation or rapamycin treatment (fig. 6a). thus, although autophagy 
+conditions induce the dissociation of bcl-2 from beclin1 (ref. 18), they 
+seem to have no effect on the interaction between uvrag and beclin1. 
+furthermore, as the role of cbcl-2 in autophagy induction is controver-
+sial18, 19, the manner in which γhv68 vbcl-2 affects autophagic activity in 
+mouse fibroblasts was examined. as seen with cbcl-2 and kshv vbcl-2 
+(ref. 18), γhv68 vbcl-2 severely suppressed basal and starvation-induced 
+autophagosome formation in nih3t3 cells (fig. 6c). in contrast, the 
+696 
+nature cell biology  volume 8 | number 7 | july 2006
+ ©2006
+nature  publishing group
+homeostasis
+survival/death
+tumorigenesis
+balanced
+autophagy
+amplified
+autophagy
+low
+autophagy
+low
+autophagy
+autophagosome
+autophagosome
+autophagosome
+autophagosome
+repressor
+bcl-2
+pi(3)kc3
+repressor
+repressor
+repressor
+bcl-2
+pi(3)kc3
+bcl-2
+pi(3)kc3
+bcl-2
+pi(3)kc3
+beclin1
+uvrag
+activator
+beclin1
+uvrag
+activator
+normal conditions
+stressed conditions
+uvrag
+activator
+beclin1
+knockdown
+beclin1
+uvrag
+knockdown
+normal cells
+tumour cells
+figure 8 schematic representation of a model for a cross-regulatory 
+mechanism of beclin1-mediated modulation of autophagy. the smaller 
+image for bcl-2 in survival/death in normal cells indicates that the binding 
+to beclin1 is weak under stressed conditions.
+vbcl-2aaa mutant, which failed to interact with beclin1, had little or no 
+effect (fig. 6c). these results further confirm that bcl-2 inhibits, rather 
+than facilitates, autophagy under starvation conditions.
+effect of ectopic expression of uvrag on growth and 
+tumorigenicity of hct116 cells
+as beclin1 (refs 9, 10) and uvrag29 are both monoallelically mutated in 
+various human cancers, and autophagy affects tumour development and/or 
+progression36, the effect of uvrag-induced autophagy on cell growth was 
+evaluated by comparing proliferation rates, anchorage-independent growth 
+and in vivo tumorigenicity of hct116.vector, hct116.uvrag, hct116.
+uvragccd, hct116.uvrag∆ccd and hct116.uvrag∆c2 cells. wild-
+type uvrag expression significantly suppressed the proliferation rate 
+of hct116 cells, whereas uvrag∆ccd did not have this effect (fig. 7a). 
+uvrag∆c2  also  suppressed  hct116  proliferation,  although  slightly 
+less so than wild-type uvrag (fig. 7a). in striking contrast, hct116.
+uvragccd cells grew two to threefold faster than hct116.vector cells 
+(fig. 7a). in a soft-agar growth assay, hct116.uvrag cells grew very 
+poorly and formed small colonies, whereas hct116.vector and hct116. 
+uvrag∆ccd cells showed efficient growth and colony formation under the 
+same conditions (fig. 7b). the number and size of hct116.uvragccd 
+colonies was significantly greater compared with those of hct116.vector 
+and hct116.uvrag∆ccd colonies (fig. 7b). it should be noted that despite 
+their significant effect on cell growth, wild-type uvrag and its mutants 
+neither induced cell death nor affected cell viability under nutrient rich 
+(10% serum) conditions (see supplementary information, fig. s4).
+to evaluate the effect of uvrag expression on tumorigenicity, nude 
+mice were inoculated with 1 × 107 living cells of hct116.vector, hct116.
+uvrag  and  hct116.uvrag∆ccd  and  the  masses  of  the  resultant 
+tumours were measured 16 days postinoculation. consistent with the 
+inhibitory effect on proliferation rate and anchorage-independent growth, 
+wild-type uvrag markedly suppressed the tumorigenicity of hct116 
+cells. tumour mass in the hct116.uvrag mice was reduced tenfold 
+compared  with  the  hct116.vector  and  hct116.uvrag∆ccd  mice 
+(fig. 7c). collectively, these results demonstrate that uvrag effectively 
+suppresses the proliferation rate, anchorage-independent growth and tum-
+origenicity of hct116 human colon cancer cells, and that this tumour 
+suppressor activity of uvrag requires interaction with beclin1.
+a rt i c l e s
+discussion
+here, we describe uvrag as a novel beclin1-binding protein. uvrag, 
+which is ubiquitously expressed, was initially identified through its abil-
+ity to partially complement the uv sensitivity of xeroderma pigmen-
+tosum cells. the uvrag gene localizes to the chromosome 11q13, a 
+region that is frequently implicated in the development of a variety of 
+human malignancies26, 27. recently, uvrag was also found to be one 
+of the genes interrupted by a constitutional inversion in a patient with a 
+left–right axis malformation37. furthermore, as seen with beclin1 (ref. 9), 
+uvrag is monoallelically mutated in various human cancers29. it is 
+thus intriguing that mutations in beclin1 and uvrag are always het-
+erozygous, suggesting that both genes are essential for cell survival and 
+possibly that their reduced expression is important for tumour develop-
+ment and/or progression. our data show that uvrag expression is low 
+in hct116 human colon cancer cells, that hct116 cells are defective 
+in autophagy, and that uvrag expression not only markedly restores 
+autophagy but also suppresses the proliferation and tumorigenicity of 
+these cells. these results suggest that the autophagic protein uvrag, as 
+with beclin1, potentially functions as a tumour suppressor.
+beclin1  and  pi(3)kc3  are  essential  for  vesicle  nucleation  and 
+autophagosome formation4. we found that uvrag expression mark-
+edly increased autophagy, whereas the uvrag∆ccd mutant, which failed 
+to interact with beclin1, did not induce autophagy. in addition, sirna-
+mediated knock down of uvrag or beclin1 suppressed autophagy, 
+demonstrating that uvrag and beclin1 induce autophagy interdepend-
+ently. interestingly, uvragccd, which contained the beclin1-binding 
+coiled–coil domain, had striking phenotypes — suppression of beclin1-
+mediated autophagy and enhancement of cell-growth transformation. 
+this suggests that uvragccd functions as a dominant negative mutant 
+by sequestering beclin1 from the autophagy machinery. it has been spec-
+ulated that autophagy may both benefit and hinder tumour development 
+and/or progression13,36,38. we demonstrated that the effects of wild-type 
+uvrag and its mutants on the level of autophagy reversely correlate 
+with their effects on the proliferation rate and tumorigenicity of tumour 
+cells, suggesting that the uvrag and beclin1 tumour suppressors coop-
+erate to induce autophagy and ultimately suppress the proliferation and 
+tumorigenicity of cancerous cells. this suggest that autophagy is likely 
+to associate with tumour suppression more than tumour growth.
+using a γhv68 vbcl-2 affinity column, we purified a large protein 
+complex  containing  beclin1–uvrag–vbcl-2–pi(3)kc3,  in  which 
+beclin1 serves as a platform. remarkably, each interaction with beclin1 is 
+genetically separable. previously, bcl-2 expression was shown to interfere 
+with the beclin1–pi(3)kc3 interaction and reduce pi(3)kc3 activity, 
+resulting in the inhibition of autophagy18. conversely, we demonstrate 
+that uvrag expression enhances the beclin1–pi3kc3 interaction and 
+increases pi3(k)c3 activity, thereby promoting autophagy. these results 
+suggest that the level of beclin1–pi(3)kc3 interaction, controlled by 
+uvrag and bcl-2, is one of many contributing factors that regulate 
+autophagic activity. it is also noteworthy that, at least during starvation, 
+cellular and viral bcl-2 are likely to function as autophagy inhibitors 
+rather than as promoters.
+based on the anti-autophagic activity of bcl-2 and its differential 
+interaction with beclin1 under normal conditions versus autophagic 
+conditions, a previous study proposed that the relative binding between 
+bcl-2 and beclin1 governs the threshold for activation of autophagy and 
+autophagy gene-dependent cell death18. our study demonstrates that 
+nature cell biology  volume 8 | number 7 | july 2006 
+697   
+ ©2006
+nature  publishing group
+a rt i c l e s
+beclin1 functions as a platform to form a bcl-2–uvrag–pi(3)kc3 
+multiprotein complex in which binding of each constituent requires 
+a different region of beclin1. on interaction with beclin1, uvrag 
+markedly facilitates pi(3)kc3 lipid kinase activity, thereby enhancing 
+autophagy. furthermore, unlike the bcl-2–beclin1 interaction, which 
+declines during starvation18, the uvrag–beclin1 interaction remains 
+intact under autophagy-inducing conditions. based on these results, we 
+propose that uvrag and bcl-2 function as activator and repressor, 
+respectively, and that their interaction may fine-tune beclin1 activity to 
+modulate autophagy within a homeostatic range, under normal condi-
+tions (fig. 8). under stressed conditions, however, bcl-2 weakly associ-
+ates with the beclin–pi(3)kc3 complex, whereas uvrag remains in 
+the complex, resulting in continuously activating signal transduction 
+and thus unbalanced, amplified autophagy. finally, due to genetic muta-
+tions in beclin1 and uvrag in tumour cells, the reduced expression of 
+these proteins leads to a low level of autophagy, which may allow tumour 
+cells to grow in a discordant manner (fig. 8). taken together, our results 
+outline a potential cross-regulatory mechanism of beclin1-mediated 
+modulation of autophagy. it is remarkable that a mammalian pi(3)kc3 
+complex carries two tumour suppressors, uvrag and beclin1, and a 
+proto-oncogene, bcl-2, to regulate its lipid kinase activity, indicating 
+not only that this step is an important checkpoint for autophagy-related 
+signal transduction, but also that autophagy is a vital cellular regulatory 
+mechanism that guides tumour-cell growth. 
+methods
+autophagy analyses. for starvation, cells were washed three times with pbs and 
+incubated in hank’s solution (invitrogen, san diego, ca) for 2–4 h at 37 °c. cells 
+were treated with hank’s solution containing 10 mm 3-methyladenine (sigma, st 
+louis, mo) or complete medium containing 2 µm rapamycin (sigma). autophagy 
+was assessed by gfp–lc3 redistribution, lc3 mobility shift and electron micro-
+scopy. for gfp–lc3 redistribution, hct116, hela, mcf7 or nih3t3 cells 
+were transfected with a gfp–lc3 expression plasmid. at 16–18 h posttransfec-
+tion, gfp–lc3 was detected under normal and starvation conditions using an 
+inverted fluorescence microscope. the percentage of gfp–lc3-positive cells 
+with punctuate staining was determined in three independent experiments. to 
+quantitate gfp–lc3-positive autophagosomes per transfected cell, six random 
+fields representing 200 cells were counted. for the lc3 mobility shift assay, cells 
+were treated for 30 min on ice, lysed with 1% triton x-100 and then subjected to 
+immunoblot analysis with an antibody against lc3 (santa cruz biotech, santa 
+cruz, ca). for electron microscopy, cells were fixed with 3% glutaraldehyde in 
+0.1 m sodium phosphate buffer at ph 7.4 followed by 1% oso4 and embedded 
+in eponate resin (ted pella, redding, ca). thin sections were cut and stained 
+with uranyl acetate and sato’s lead stain and examined using a jeol1010 trans-
+mission electron microscope.
+sirna  suppression  of  gene  expression.  all  sirnas  were  produced 
+by  dharmacon  research  (lafayette,  co).  sirnas  specific  for  human 
+beclin1  (5′–aagauccuggaccgugucacc-3′),  human  uvrag  (5′–
+ucacuuguguaguacugaa-3′)  and  a  nonspecific  scrambled  control 
+sirna were transfected using dharmafect reagent (dharmacon) according 
+to the manufacturers’ protocol. at 48–72 h posttransfection, cells were ana-
+lysed for autophagy.
+5–10 µci γ-32p-atp for 15 min at room temperature. the kinase reactions were 
+terminated by the addition of hcl and extracted with chloroform:methanol (1:1). 
+extracted phospholipid products were separated on silica gel 60a (merck vwr, 
+gibbstown, nj). radiolabelled ptdins-3-p was visualized with a fuji phosphor 
+imager scanner.
+note: supplementary information is available on the nature cell biology website.
+acknowledgements
+this work was partly supported by u.s. public health service grants ca82057, 
+ca91819, ca31363, ca106156, and rr00168 (juj), the creative research 
+initiative of korea ministry of science and technology (b.-h.o and b.-s.k.). p.f. 
+is a leukemia & lymphoma society fellow. we thank b. levine, m.j. hardwick, s. 
+virgin, s. field, n. mizushima, t. yoshimori, j. backer and y. ohsumi for providing 
+reagents, t. seo and s. dann for helping with the pi3kc3 assay, s. gygi for mass 
+spectrometry, j. mackey for performing electron microscopy, and t.c. taylor and 
+k.g. toney for helping with manuscript preparation. finally, we thank all members 
+of tumor virology division for discussions.
+competing financial interests
+the authors declare that they have no competing financial interests.
+published online at http://www.nature.com/naturecellbiology/
+reprints and permissions information is available online at http://npg.nature.com/
+reprintsandpermissions/
+1.  boya, p. et al. inhibition of macroautophagy triggers apoptosis. mol. cell biol. 25, 
+1025–1040 (2005).
+2.  klionsky, d. j. the molecular machinery of autophagy: unanswered questions. j. cell 
+sci. 118, 7–18 (2005).
+3.  levine, b. eating oneself and uninvited guests: autophagy-related pathways in cellular 
+defense. cell 120, 159–162 (2005).
+4.  levine, b. & klionsky, d. j. development by self-digestion: molecular mechanisms and 
+biological functions of autophagy. dev. cell 6, 463–477 (2004).
+5.  lum, j. j., deberardinis, r. j. & thompson, c. b. autophagy in metazoans: cell survival 
+in the land of plenty. nature rev. mol. cell biol. 6, 439–448 (2005).
+6.  kihara, a., noda, t., ishihara, n. & ohsumi, y. two distinct vps34 phosphatidyli-
+nositol 3-kinase complexes function in autophagy and carboxypeptidase y sorting in 
+saccharomyces cerevisiae. j. cell biol. 152, 519–530 (2001).
+7.  suzuki, k. et al. the pre-autophagosomal structure organized by concerted functions 
+of apg genes is essential for autophagosome formation. embo j. 20, 5971–5981 
+(2001).
+8.  furuya n., yu j., byfield m., pattingre s & b., l. the evolutionarily conserved domain 
+of beclin 1 is required for vps34 binding, autophagy and tumor suppressor function. 
+autophagy 1, 46–52 (2005).
+9.  aita, v. m. et al. cloning and genomic organization of beclin 1, a candidate tumor sup-
+pressor gene on chromosome 17q21. genomics 59, 59–65 (1999).
+10. liang, x. h. et al. induction of autophagy and inhibition of tumorigenesis by beclin 1. 
+nature 402, 672–676 (1999).
+11. qu, x. et al. promotion of tumorigenesis by heterozygous disruption of the beclin 1 
+autophagy gene. j. clin. invest. 112, 1809–1820 (2003).
+12. yue, z., jin, s., yang, c., levine, a. j. & heintz, n. beclin 1, an autophagy gene 
+essential for early embryonic development, is a haploinsufficient tumor suppressor. 
+proc. natl acad. sci. usa 100, 15077–15082 (2003).
+13. gozuacik, d. & kimchi, a. autophagy as a cell death and tumor suppressor mechanism. 
+oncogene 23, 2891–2906 (2004).
+14. jia, l. et al. inhibition of autophagy abrogates tumour necrosis factor alpha induced 
+apoptosis in human t-lymphoblastic leukaemic cells. br. j. haematol. 98, 673–685 
+(1997).
+15. mills, k. r., reginato, m., debnath, j., queenan, b. & brugge, j. s. tumor necrosis fac-
+tor-related apoptosis-inducing ligand (trail) is required for induction of autophagy dur-
+ing lumen formation in vitro. proc. natl acad. sci. usa 101, 3438–3443 (2004).
+16. thorburn, j. et al. selective inactivation of a fas-associated death domain protein 
+(fadd)-dependent apoptosis and autophagy pathway in immortal epithelial cells. mol. 
+biol. cell 16, 1189–1199 (2005).
+17. arico, s. et al. the tumor suppressor pten positively regulates macroautophagy by 
+inhibiting the phosphatidylinositol 3-kinase/protein kinase b pathway. j. biol. chem. 
+276, 35243–35246 (2001).
+18. pattingre, s. et al. bcl-2 antiapoptotic proteins inhibit beclin 1-dependent autophagy. 
+cell 122, 927–939 (2005).
+pi(3)kc3 kinase assay. pi(k)c3 (hvps34) kinase assay was performed in vitro 
+as previously described39. briefly, flag-tagged pi(3)kc3 expressed in cells was 
+immunoprecipitated with anti-flag (abgent, san diego, ca), washed successively 
+with lysis buffer, washing buffer (100 mm tris–hcl at ph 7.4, 500 mm licl) 
+and reaction buffer (10 mm tris–hcl at ph 7.4, 100 mm nacl, 1 mm edta) 
+and was then preincubated for 10 min at room temperature with 60 µl reac-
+tion buffer supplemented with 125 mm atp, 10 mm mncl2 and 2 µg sonicated 
+phosphatidylinositol (sigma). the in vitro kinase assay was initiated by adding 
+19. shimizu, s. et al. role of bcl-2 family proteins in a non-apoptotic programmed cell 
+death dependent on autophagy genes. nature cell biol. 6, 1221–1228 (2004).
+20. virgin, h. w. t. et al. complete sequence and genomic analysis of murine gammaher-
+pesvirus 68. j. virol. 71, 5894–5904 (1997).
+21. polster, b. m., pevsner, j. & hardwick, j. m. viral bcl-2 homologs and their role in 
+virus replication and associated diseases. biochim. biophys. acta. 1644, 211–227 
+(2004).
+22. roy, d. j., ebrahimi, b. c., dutia, b. m., nash, a. a. & stewart, j. p. murine gammaher-
+pesvirus m11 gene product inhibits apoptosis and is expressed during virus persistence. 
+arch. virol. 145, 2411–2420 (2000).
+698 
+nature cell biology  volume 8 | number 7 | july 2006
+ ©2006
+nature  publishing group
+23. wang, g. h., garvey, t. l. & cohen, j. i. the murine gammaherpesvirus-68 m11 protein 
+inhibits fas- and tnf-induced apoptosis. j. gen. virol. 80, 2737–2740 (1999).
+24. de lima, b. d., may, j. s., marques, s., simas, j. p. & stevenson, p. g. murine gam-
+maherpesvirus 68 bcl-2 homologue contributes to latency establishment in vivo. j. 
+gen. virol. 86, 31–40 (2005).
+25. gangappa, s., van dyk, l. f., jewett, t. j., speck, s. h. & virgin, h. w. iv. identification 
+of the in vivo role of a viral bcl-2. j. exp. med. 195, 931–940 (2002).
+26. bekri, s. et al. detailed map of a region commonly amplified at 11q13->q14 in human 
+breast carcinoma. cytogenet. cell. genet. 79, 125–131 (1997).
+27. perelman, b. et al. molecular cloning of a novel human gene encoding a 63-kda protein 
+and its sublocalization within the 11q13 locus. genomics 41, 397–405 (1997).
+28. goi, t. et al. ascending colon cancer with hepatic metastasis and cholecystolithiasis 
+in a patient with situs inversus totalis without any expression of uvrag mrna: report 
+of a case. surg. today 33, 702–706 (2003).
+29. ionov, y., nowak, n., perucho, m., markowitz, s. & cowell, j. k. manipulation of non-
+sense mediated decay identifies gene mutations in colon cancer cells with microsatellite 
+instability. oncogene 23, 639–645 (2004).
+30. liang, x. h. et al. protection against fatal sindbis virus encephalitis by beclin, a novel 
+bcl-2-interacting protein. j. virol. 72, 8586–8596 (1998).
+a rt i c l e s
+31. loh, j. et al. a surface groove essential for viral bcl-2 function during chronic infection 
+in vivo. plos pathog. 1, e10 (2005).
+32. tanida, i., ueno, t. & kominami, e. lc3 conjugation system in mammalian autophagy. 
+int. j. biochem. cell. biol. 36, 2503–2518 (2004).
+33. mizushima, n., yamamoto, a., matsui, m., yoshimori, t. & ohsumi, y. in vivo analysis 
+of autophagy in response to nutrient starvation using transgenic mice expressing a 
+fluorescent autophagosome marker. mol. biol. cell 15, 1101–1111 (2004).
+34. kabeya,  y.  et  al.  lc3,  a  mammalian  homologue  of  yeast  apg8p,  is  localized  in 
+autophagosome membranes after processing. embo j. 19, 5720–5728 (2000).
+35. vieira, o. v. et al. distinct roles of class i and class iii phosphatidylinositol 3-kinases 
+in phagosome formation and maturation. j. cell biol. 155, 19–25 (2001).
+36. levine, b. & yuan, j. autophagy in cell death: an innocent convict? j. clin. invest. 115, 
+2679–2688 (2005).
+37. iida, a. et al. identification of a gene disrupted by inv(11)(q13.5;q25) in a patient with 
+left-right axis malformation. hum. genet. 106, 277–287 (2000).
+38. lum, j. j. et al. growth factor regulation of autophagy and cell survival in the absence 
+of apoptosis. cell 120, 237–248 (2005).
+39. nobukuni, t. et al. amino acids mediate mtor/raptor signaling through activation of 
+class 3 phosphatidylinositol 3oh-kinase. proc. natl acad. sci. usa 102, 14238–
+14243 (2005).
+nature cell biology  volume 8 | number 7 | july 2006 
+699   
+ ©2006
+nature  publishing group
+supplementary information
+nature
+cell biology
+mmxmmxml
+ww!ww
+wmmmmnmnmmmmuu
+sunxmmmmvmrmmsnmmnmm
+nﬂxmzmnmxmmnmmx
+weiss! mmummrmxnvmmsumm
+www xmssmmmsmnm
+wwwwsw! xmmoou
+wmvawmhiw
+ngeswvme amino and sequence. bold letters indicate the pepmes the n-termma‘ pm‘ine-rich sequence (k), the c2 domam(undel1ined),and
+identified fmm mass spectrometry analysis. symbo‘s indicate the pml‘mes in the centra‘ cmled-co‘h domain (aoume underlined).
+ww\v nature (om/naturecellbiology w
+© 2005 nam" publlihlng group
+s u p p l e m e n ta ry  i n f o r m at i o n
+figure s2 uvrag, becin1 and bcl-2 interaction. (a) native gel. 0.2 nmol of 
+the mbp-uvrag ccd (lane 1), his6-beclin1 ccd (lane 2), and preformed 
+complex (lane 3) were separated through native gel. (b) sds-page. 0.2 
+nmol of mbp-uvrag ccd-his6-beclin1 ccd preformed complex (lane 3) 
+was recovered by mono q column and separated through sds-page. 0.2 
+nmol of the mbp-uvrag ccd (lane 1) and his6-beclin1 ccd (lane 2) were 
+included as controls. (c) vbcl-2 aaa mutant does not interact with pi3kc3. 
+at 48 h posttransfection with gst, gst-vbcl-2, or gst-vbcl-2 aaa construct 
+together with flag-tagged pi3kc3 and v5-tagged beclin1, wcl of 293t cells 
+were used for gst pulldown followed by immunoblotting with anti-flag. the 
+raw data for this experiment is presented in the supplementary information, 
+fig s5. (d) triple complex. 0.2 nmol of the mbp-uvrag ccd, his6-beclin1 
+ccd, bcl-xl ∆loop and ∆tm were mixed for 30 min and subjected to amylose 
+column purification. purified proteins were separated through sds-page.
+2 
+www.nature.com/naturecellbiology
+© 2006 nature publishing group  
+s u p p l e m e n ta ry  i n f o r m at i o n
+figure s3 uvrag-induced autophagy. (a) electron microscopic quantitation 
+of autophagosome. results shown represent the mean ±sem number of 
+autophagic vacuoles per cell. (b). essential role of uvrag in beclin1-
+mediated autophagy. hela cells were transfected with control sirna or 
+uvrag-specific sirna together with the gfp-lc3 expression vector. at 24, 
+48 and 72 h posttransfection, gfp-lc3-positive cells with punctate staining 
+were photographed (top panel) and counted (bottom panel). autophagy was 
+quantified as the percentage of gfp-positive cells with punctate staining. 
+the scale bars represent 20µm.
+www.nature.com/naturecellbiology 
+© 2006 nature publishing group  
+supplementary information
+?.-
+.2
++nnmv-r
+-;-nnntu;;u; ‘
+'i'trmutvunm '
++2nnolmw: m,
++mlnumuu‘x
+ﬁgles‘lno effect of uvrag wtand mutants an the viabih’ty of hci’116 hve :ehs aftertrypan blue staining. the results represent means ((5a) of
+cells. 1x105 hct116 cehs carrying vector, uvrag wt 0r its mutants were three independent assays.
+seeded into a weh plates and cell viability (“/a) was determined by counting
+4 www.nature com/naturecellb‘olocy
+© zoos mum publllhlng group
+supplem entary information
+‘7 ° o as ‘6 <9 0.
+f3- iéxﬁf? xfsff‘ 3n"? ifs} 3w?
+i“- ‘“_
+n— n— ... ‘
+' .4 '4'“
+1l— u—
+so—
+u."-
+- - - - 4
+u—
+"_ - ""3”“
+"_ id—
+- ‘w
+i. an. ,1- wcl wcl
+"_ lnavl l1uvl am.
+yiiimi not can mﬂgﬂe
+f p: m in
+.- am w":- w i m: mm ‘3?“-
+gr» mm "’°
+"ll -m
+‘1” —m
+~19
+“” nan
+' - "w > "—100 —m
+wu-
+> “—1! d‘ —-“" -- n “4"“
+0‘ j —n '7! —u
+mmnwmnmmw
+.1 g» " .9’ _
+«*7 ev": . . '3‘“, . .3 i’s’ﬁiﬁgf fﬁgﬂ?
+-«nw _- _" ..-~ 3,: . -
+—n”ﬂ‘5 ~‘_ " '_'f " _"""§“~_-_“
+> . a ~ ~ —i - -’.
+m -1u m. :
+>_—.‘ lug. *
+_,, %.-’_n 5 .- ‘ “"
+“3 —ii
+ian. _" nn- _. 35"“ m
+muwmmﬁuu mmllguounmnnn fig s5
+ﬁngongmal ge‘ scan.
+w\/\'\v nature ( 0m!naturecellbiology
+© zoos nature publishing group
+supplem entary information
+m2“? w‘?‘ “‘3 we.“ i?$ﬁ§%§§' 3w 3’?
+no—
+n-0 :12-
+2:. ‘ 0 "_
+i: "'—
+.1.
+.—
+m 3.. n_ m.
+mmwmmnﬂh g“. mmwmwngzc
+9 e e " {’0' 4"”),
+iii §’$_m ii$$ i’fi' :31 $159931”?er
+_'1‘—
+i'w —‘n
+> c -
+>- _" m:- ,,_ __ ... .-
+-u u “—
+15—
+:12,: h l ,,_ :1: :2.
+mmwwnformd liﬂilmlﬂﬂﬁh
+swaﬁéfé nwﬁé’iﬁ ggwg
+15.—
+15— "_ l‘ w-.-
+f:avl 5..“
+man- eﬁi‘ 1'55
+thlmlpllunlofﬂgﬂ mumpllunfamzi
+ion.
+n- 11— “mm
+um“ nrm- ncm- icm c... m
+m m y... m .a u-u mmmmmm
+--
+20— 35“_. ~ 3‘ u—
+‘,_ ‘ u.“ -‘ 5" ‘”‘ w
+.5-.- — om ‘ m — ~‘
+.. “<_
+o \,
+....... ....,. . ; “ ' '
+u—i .-
+mmnwmhmh mmig-imnmm mmnplmlmm
+ﬁgjesongmal ge‘ scan.
+h \v\‘\/\/\‘ nature ( ()m/ naturh'ellb‘ologv'
+© zoos nature publishing group
+supplem entary information
+mm mm
+m_ w my imw: m w... mm: am,
+1“—
+1..— hd- ‘ a
+75—
+r- - ‘5“
+75— .00- m
+l - — —4
+54—. ‘ 4 - —— <3 ‘
+75—
+a k- - "_
+mumm-
+mw ‘5“...- '"l-ﬂ
+m. full you sun for flg.§:(lcf( pmll)
+' z 3 a
+1 .1 s 1‘ ‘w 1 z a 4
+150— 10.-
+--u—.w“q "‘
+75— - ‘
+‘m—
+u-
+15—
+“ im’l‘ ‘
+m. full 9. an {or flg‘hmghl pm»)
+:9‘
+mo— - _.
+75_
+i: ah.
+est mm
+isms ‘ ‘ .
+7|.an . ‘ ‘
+i: m
+51-“: b" bin”
+_ m: m.“ _ _ .
+. . msw . . '
+11.- full ml mu m- fmszc
+ﬁgjesongmal ge‘ scan.
+www nature r 0w naturh'ellblololy
+© 2005 nature publishing group
+supplemental data 
+experimental procedures 
+cell culture 
+  hct116,  nih3t3,  hela,  mcf7  and  293t  cells  were  cultured  in  dulbecco's  modified 
+eagle's medium (dmem) supplemented with 10% fetal bovine serum, 2 mm  l-glutamine, 1% 
+penicillin-streptomycin 
+(gibco-brl).  mcf7.control 
+cells,  mcf7.beclin1 
+cells 
+and 
+mcf7.beclin∆ecd cells were generously provided by dr. b. levine and maintained in dmem 
+supplemented  with  10%  tet-system-approved  fbs  (clontech),  300  µg/ml  hygromycin  and  1 
+µg/ml  doxycycline,  as  described  previously18.  transient  transfections  were  performed  with 
+fugene  6  (roche),  lipofectamine  2000  (invitrogen),  or  calcium  phosphate  (clontech) 
+following  the  manufacturer’s  instructions.  hct116  and  nih3t3  stable  cell  lines  were 
+established using a standard protocol of selection with 2 µg/ml of puromycin.  
+plasmid construction 
+  all  constructs  for  transient  gene  expression  in  mammalian  cells  were  derived  from 
+pcdna5/frt/to (invitrogen). a dna fragment corresponding to the coding sequence of the 
+γhv-68  m11  gene  was  amplified  from  s11  cell  genomic  dna  by  polymerase  chain  reaction 
+(pcr) and subcloned into plasmid pcdna5/frt/to between restriction sites kpni and noti or 
+pef-ires-puro  between  aflii  and  noti  for  selection  of  stable  transfectants.  the  gst-tagged 
+vbcl-2  sequence  was  cloned  into  a  pcdna5/frt/to  derivative  encoding  an  n-terminal  gst 
+epitope tag between bamhi and noti sites. ha-tagged vbcl-2 and kshv bcl-2, the flag-tagged 
+and ha-tagged versions of both pi3k and uvrag were cloned between to the kpni and noti 
+© 2006 nature publishing group  
+sites of pcdna5/frt/to encoding an n-terminal ha tag or flag tag. v5-tagged beclin1 was 
+expressed  from  a  modified  pcdna5/frt/to  encoding  a  c-terminal  v5  tag;  the  belcin1 
+sequence was inserted between the bamhi and xhoi sites. ha-tagged vbcl-2 aaa mutant was 
+generated  by  pcr  using  oligonucleotide-directed  mutagenesis  to  replace  serine-85,  glycine-86 
+and arginine-87 with alanine; the pcr product was subcloned into pcdna5/frt/to. truncated 
+mutants  of  pi3kc3,  uvrag  and  beclin1  were  made  by  subcloning  pcr  products  of  cdna 
+fragments containing  each  separate domain of the associated  gene into pcnda5/frt/to. the 
+uvrag ∆ccd mutant, lacking the coiled-coil domain (aa 200-269), was constructed by two-
+step  pcr–directed  mutagenesis.  all  constructs  were  sequenced  using  an  abi  prism  377 
+automatic dna sequencer to verify 100% agreement with the original sequence. the ha-tagged 
+bcl-2  family  expression  vectors  were  kindly  provided  by  dr.  m.j.  hardwick  (john  hopkins 
+university).  pegfp-lc3  and  p40px-egfp  plasmids  were  kindly  provided  by  drs.  t. 
+yoshimori  (osaka  university  graduate  school  of  dentistry)  and  s.  field  (university  of 
+california, san diego), respectively.   
+in vivo gst pulldown, protein purification and mass spectrometry 
+to  identify  vbcl-2-binding  proteins,  293t  cells  expressing  gst  or  gst-vbcl-2  fusion 
+proteins were harvested and lysed with np40 buffer (50 mm hepes, ph 7.4, 150 mm nacl, 1 
+mm edta, 1% (v/v) np40) supplemented with a complete protease inhibitor cocktail (roche). 
+post-centrifuged  supernatants  were  pre-cleared  with  protein  a/g  beads  at  40c  for  2  h.  pre-
+cleared  lysates  were  mixed  with  a  50%  slurry  of  glutathione-conjugated  sepharose  beads 
+(amersham  biosciences),  and  the  binding  reaction  was  incubated  for  4  h  at  40c.  precipitates 
+were washed extensively with lysis buffer. proteins bound to glutathione beads were eluted and 
+© 2006 nature publishing group  
+separated  on  a  nupage  4-12%  bis-tris  gradient  gel  (invitrogen).  after  silver  staining 
+(invitrogen), specific protein bands were excised and analyzed by ion-trap mass spectrometry at 
+the  harvard  taplin  biological  mass  spectrometry  facility,  and  amino  acid  sequences  were 
+determined by tandem mass spectrometry and database searches. 
+immunoblot analysis and immunoprecipitation assay 
+for 
+immunoblotting,  polypeptides  were 
+resolved  by  sds-polyacrylamide  gel 
+electrophoresis (page) and transferred to a pvdf membrane (bio-rad). immunodetection was 
+achieved with anti-v5 (1:5000) (invitrogen), anti-flag (1:5000) (sigma), anti-ha (1:5000), anti-
+gst  (1:2000)  (santa  cruz  biotech),  anti-tubulin  (1:1000)  (santa  cruz  biotech),  anti-beclin1 
+(1:500) (bd bioscience), anti-pi3kc3 (1:250) (abgent). rabbit anti-uvrag was diluted 1:500 
+for immunoblotting. the proteins were visualized by a chemiluminescence reagent (pierce) and 
+detected by a fuji phosphor imager.  
+for  immunoprecipitation,  cells  were  harvested  and  then  lysed  in  np40  buffer 
+supplemented  with  a  complete  protease  inhibitor  cocktail  (roche).  after  pre-clearing  with 
+protein a/g agarose beads for 1 h at 40c, whole-cell lysates were used for immunoprecipitation 
+with the indicated antibodies. generally, 1-4  µg of commercial antibody was added to 1 ml of 
+cell  lysate,  which  was  incubated  at  40c  for  8  to  12  h.  after  addition  of  protein  a/g  agarose 
+beads, the incubation was continued for 1 h. immunoprecipitates were extensively washed with 
+lysis buffer and eluted with sds loading buffer by boiling for 5 min 
+protein stability 
+© 2006 nature publishing group  
+at  24  h  posttransfection  with  beclin1  with  uvrag,  293t  cells  were  treated  with  20  µg/ml 
+cycloheximide  for  8  h.  at  each  time  point,  1  ×  106  cells  were  collected  and  subjected  to 
+immunoblotting with anti-flag or anti-tubulin. 
+production of recombinant beclin1 ccd and uvrag ccd. 
+the constructs were generated based on a standard polymerase chain reaction protocol. beclin1 
+ccd (residues 144-269) and uvrag ccd (residues 196-274) were expressed in the bacterial 
+strain  bl21  (de3)  (novagen)  individually  using  the  vectors  pproex  hta  (invitrogen)  and  a 
+modified  pmal-c2  (new  england  biolabs),  respectively,  or  co-expressed  using  a  vector 
+construct containing trc or tac promoter at the upstream of each gene segment. beclin1 ccd 
+and  uvrag  ccd  contained  a  his6  tag  and  a  his6-fused  mbp  tag,  respectively,  at  the  n-
+terminus  of  each  protein.  two  proteins  were  individually  purified  using  ni-nta  columns 
+(novagen),  and  the  complex  of  both  proteins  produced  by  coexpression  was  purified  using 
+amylose resin (new england biolabs) and further purified using a mono q column (amersham 
+pharmacia) after cleaving the tags with tev protease. 
+circular dichroism spectroscopy.  
+data were collected on a jasco j-810. cd spectrum was recorded with the preformed beclin1 
+ccd and uvrag ccd complex (2.5 (cid:31)m) in 20 mm phosphate buffer (ph 7.5) at 25 oc over 
+the range of 200–250 nm in a nitrogen atmosphere. the spectrum was the accumulation of three 
+scans corrected by subtracting signals from the buffer control. 
+lysosomal volume and enzymatic assay 
+© 2006 nature publishing group  
+to measure the lysosomal volume, cells were dissociated with cell dissociation buffer (sigma) 
+and labeled with lysotracker green dnd-26 (ltr; 50nm; molecular probes) for 45min 37°c, 
+followed by flow cytometry analysis. lysosomal acid phosphatase activity was assayed using 4-
+methylumbelliferyl phosphate (4-mup) substrates. hct116 cells were lysed with enzyme lysis 
+buffer (50mm tris-hcl ph 7.4, 1% triton-x100, 300mm nacl) supplemented with a complete 
+protease inhibitor cocktail (roche). the supernatants were incubated at 37°c for 60-90min with 
+1mm 4-mup substrate in 0.1m sodium acetate buffer (ph 4.5), the reaction was stopped by the 
+addition  of  0.5m  glycine  buffer  ph  10.3,  and  the  fluorescence  was  measured  at  excitation 
+355nm/ emission 460nm. 
+characterization of cell growth in vitro 
+hct116 cells (1 × 105) or nih3t3 cells (1 × 105) were plated into 6-well microtiter plates. cell 
+numbers were counted with a hemocytometer (beckman coulter) at each time point for 10 days. 
+cell counts were performed in triplicate. 
+soft agar colony formation assay 
+to  evaluate  anchorage-independent  colony  formation,  hct116.vector,  hct116.uvrag, 
+hct116.uvrag ccd or hct116.uvrag ∆ccd cells (1 × 104) were suspended in complete 
+medium containing 0.3% nobel agar (difco) supplemented with 2 µg/ml puromycin and plated 
+in  6-well  plates  over  a  basal  layer  of  complete  medium  containing  0.5%  agar.  colonies  were 
+scored 10 days after plating and were photographed by phase-contrast microscopy. images were 
+captured  with  the  qcapture  software  program.  clonogenicity  was  determined  in  repeated 
+experiments. 
+© 2006 nature publishing group  
+tumorigenicity in nude mice
+nude mice were subcutaneously injected with 1 x 107 hctllénector, hct116.uvrag 0r
+hct116.uvrag accd cells. at 16 days postinoculation, mice were euthanized, and their
+tumors were weighed.
+© 2006 natule publishing group

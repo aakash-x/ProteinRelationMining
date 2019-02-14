@@ -1,0 +1,990 @@
+biochimica et biophysica acta 1763 (2006) 1767 – 1775
+www.elsevier.com/locate/bbamcr
+review
+pexophagy: autophagic degradation of peroxisomes
+yasuyoshi sakai a,⁎, masahide oku a,1, ida j. van der klei b, jan a.k.w. kiel b,⁎
+a division of applied life sciences, graduate school of agriculture, kyoto university, kitashirakawa-oiwake, sakyo-ku, kyoto 606-8502, japan
+b eukaryotic microbiology, groningen biomolecular sciences and biotechnology institute, university of groningen, p.o. box 14, 9750 aa haren, the netherlands
+received 27 april 2006; received in revised form 16 august 2006; accepted 18 august 2006
+available online 24 august 2006
+abstract
+the abundance of peroxisomes within a cell can rapidly decrease by selective autophagic degradation (also designated pexophagy). studies in
+yeast species have shown that at least two modes of peroxisome degradation are employed, namely macropexophagy and micropexophagy. during
+macropexophagy, peroxisomes are individually sequestered by membranes, thus forming a pexophagosome. this structure fuses with the vacuolar
+membrane, resulting in exposure of the incorporated peroxisome to vacuolar hydrolases. during micropexophagy, a cluster of peroxisomes is
+enclosed by vacuolar membrane protrusions and/or segmented vacuoles as well as a newly formed membrane structure, the micropexophagy-
+specific membrane apparatus (mipa), which mediates the enclosement of the vacuolar membrane. subsequently, the engulfed peroxisome cluster
+is degraded. this review discusses the current state of knowledge of pexophagy with emphasis on studies on methylotrophic yeast species.
+© 2006 elsevier b.v. all rights reserved.
+keywords: atg gene; autophagy; peroxin; pexophagy; sequestration; vacuole
+1. introduction
+the abundance of peroxisomes can rapidly change in
+response to changing environmental and/or physiological
+conditions. for example, the number of peroxisomes rapidly
+increases upon induction of peroxisome proliferation.
+in
+rodents, this is observed upon administration of peroxisome
+proliferators, whereas in yeast species, peroxisome proliferation
+is induced during growth of cells on specific carbon sources
+(e.g. oleic acid or methanol). generally, these responses are the
+result of metabolic adaptations to new physiological conditions
+that require peroxisomal metabolism. the opposite process, a
+rapid decrease in peroxisome abundance, can also be induced.
+thus, when the peroxisome proliferation stimulus is removed,
+and/or peroxisomal metabolism is not
+required anymore,
+peroxisomes are degraded by lysosomes/vacuoles through
+autophagic pathways. this process is called “pexophagy”, and
+⁎ corresponding authors. j.a.k.w. kiel is to be contacted at tel.: +31 50
+3632218; fax: +31 50 3632154.
+e-mail addresses: ysakai@kais.kyoto-u.ac.jp (y. sakai),
+j.a.k.w.kiel@rug.nl (j.a.k.w. kiel).
+1 present address: national institute for basic biology, myodaijicho, okazaki
+444-8585, japan.
+0167-4889/$ - see front matter © 2006 elsevier b.v. all rights reserved.
+doi:10.1016/j.bbamcr.2006.08.023
+occurs selectively towards peroxisomes. therefore, it is distinct
+from non-selective autophagy, which is generally induced by
+nutrient starvation [1].
+while the molecular mechanism of peroxisome assembly
+has been studied extensively for a long time, and more than
+30 proteins involved in peroxisome biogenesis (peroxins,
+encoded by pex genes) have been identified and character-
+ized in detail [2], the molecular mechanisms of pexophagy
+have begun to be uncovered only during the last few years.
+nevertheless, 15 atg genes (genes involved in autophagy-
+related processes; see below) and 15 other genes have been
+shown to be responsible for pexophagy (table 1). impor-
+tantly, many of these genes are conserved from lower to
+higher eukaryotes.
+this review summarizes our current knowledge on the
+molecular mechanisms involved in pexophagy, focusing on
+studies performed with the methylotrophic yeast species hanse-
+nula polymorpha and pichia pastoris. as was the case with
+peroxisome assembly,
+these yeasts are very suitable model
+organisms to study the molecular events in pexophagy. in
+methylotrophic yeast species, peroxisomes are massively induced
+when cells are grown on methanol. under these conditions, the
+organelles harbour key enzymes of methanol metabolism. upon a
+shift of methanol-grown cells to media containing glucose or
+1768
+y. sakai et al. / biochimica et biophysica acta 1763 (2006) 1767–1775
+table 1
+identified genes involved in macro- and micropexophagy in methylotrophic yeasts
+gene
+involvement in pexophagy
+molecular feature of gene product
+reference
+macro-
+hp
+pp
+micro-
+pp
+yes
+yes
+yes
+yes
+yes
+(yes)
+(yes)
+yes
+yes
+yes
+yes
+yes
+yes
+(yes)
+yes
+(yes)
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+atg1
+atg2
+atg3
+atg4
+atg7
+atg8
+atg9
+atg11
+atg16
+atg18
+atg21
+atg24
+atg25
+atg26
+atg28
+gcn1
+gcn2
+gcn3
+gcn4
+pep4
+pex3
+pex14
+pik1
+pfk1
+tup1
+vac8
+vam7
+vps15
+vps34
+ypt7
+the confirmed involvements or non-involvements of the denoted genes in each of the pexophagic pathways are indicated as ‘yes’ or ‘no’, respectively. the parentheses
+mean that the conclusion is based on unpublished results. hp, h. polymorpha; pp, p. pastoris.
+serine/threonine kinase
+peripheral membrane protein
+e2 (ubiquitin conjugating enzyme)-like protein
+processing enzyme for atg8
+e1 (ubiquitin activating enzyme)-like function
+ubiquitin-like modifier protein
+integral membrane protein
+coiled-coil protein
+component of atg5/atg12/atg16 complex
+protein with wd40 motifs
+protein with wd40 motifs
+sorting nexin (snx) family member
+coiled-coil protein
+udp::glucose sterol glucosyltransferase
+coiled-coil protein
+regulation of general amino acid control
+regulation of general amino acid control
+regulation of general amino acid control
+regulation of general amino acid control
+vacuolar protease
+peroxisome membrane protein; peroxin
+peroxisome membrane protein; peroxin
+phosphatidylinositol 4-kinase
+α-subunit of phosphofructokinase complex
+general repressor of transcription
+vacuolar membrane protein
+snare protein, homologous to snap25
+scaffold protein for vps34
+phosphatidylinositol 3-kinase
+gtpase of the rab family
+[5]
+[19,46]
+[5,32]
+[47]
+[31,40]
+[46]
+[49]
+[11]
+[35]
+[33]
+[14,15,36]
+[48]
+[46]
+[46]
+[46]
+yes
+yes
+yes
+yes
+yes
+(yes)
+yes
+[34]
+[29,46,57]
+[24]
+yes
+yes
+yes
+yes
+(yes)
+yes
+yes
+yes
+yes
+(yes)
+no
+yes
+(yes)
+(yes)
+[30,46]
+[50]
+[46]
+[23]
+[22]
+[36]
+[56]
+[60]
+yes
+yes
+ethanol, these organelles become redundant and are rapidly and
+selectively degraded [3,4]. easy handling of yeast cells in inducing
+pexophagy and in genetic manipulation, together with the large
+size of peroxisomes and vacuoles, make it possible to study the
+events of pexophagy in detail.
+2. the main modes of pexophagy: macropexophagy and
+micropexophagy
+as is the case with general autophagy, there are two main
+modes of pexophagy, i.e. macropexophagy (pexophagy through a
+macroautophagic process; see fig. 1) and micropexophagy
+(pexophagy through a microautophagic process; see fig. 2).
+during macropexophagy, peroxisomes are selectively sequestered
+one by one by a newly synthesized isolation membrane, which
+wraps around the peroxisome and forms a double (or multi-)-
+membrane layered structure termed pexophagosome. the pex-
+ophagosome is then delivered to the vacuole, where its outer
+membrane fuses with the vacuolar membrane, resulting in
+hydrolysis of the sequestered organelle by vacuolar enzymes [3].
+during micropexophagy, the vacuole forms protrusions and often
+septates to form new compartments along a cluster of peroxi-
+somes. vacuolar protrusion or septation continues until the entire
+peroxisome cluster is nearly enclosed by vacuolar membranes. at
+the same time, a double-membrane flattened sac, designated the
+micropexophagy-specific membrane apparatus (mipa), is synthe-
+sized at the peroxisome surface, completing the sequestration of
+the peroxisome cluster from the cytosol [5]. mipa synthesis is
+followed by membrane fusion, releasing the peroxisome cluster
+into the lumen of the vacuole, where it becomes degraded.
+the isolation of yeast mutants defective in pexophagy have
+enabled the identification of the molecular components required
+for micro- and macropexophagy. many of the isolated genes
+were common to both modes of pexophagy (table 1). several
+also overlapped with genes necessary for other autophagy-
+related pathways, i.e. non-selective nitrogen starvation-induced
+macroautophagy and the cytoplasm-to-vacuole-targeting (cvt)
+pathway. such genes are now collectively designated atg genes
+[6]. the molecular mechanisms of the two modes of pexophagy
+are described in sections 4 and 5.
+3. organism-dependent modes of pexophagy
+although macro- and micropexophagy constitute the modes of
+pexophagy that have been most studied, they are not always
+induced by the same factors. furthermore, in some organisms
+y. sakai et al. / biochimica et biophysica acta 1763 (2006) 1767â€“1775
+1769
+fig. 1. membrane dynamics during macropexophagy. methanol-grown cells of a methylotrophic yeast contain a number of mature peroxisomes as well as one (or few)
+immature organelle(s). upon induction of macropexophagy (step 1), a single mature organelle is tagged for degradation. subsequently, a double (or multi-) membrane
+layer starts to sequester the tagged organelle, resulting in the formation of a pexophagosome (step 2). upon completion of sequestration, the outer membrane layer of
+the pexophagosome fuses with the vacuolar membrane (step 3). fusion takes place at the vertex, resulting in incorporation of the boundary domain of the fusion
+complex into the vacuolar lumen (step 4). upon fusion, the peroxisome becomes incorporated in the vacuole, where it is degraded by vacuolar hydrolases (step 5).
+successively, other mature peroxisomes become degraded in the same way, leaving only the single (or few) immature peroxisome(s) that can function as the progenitor
+(s) of newly formed organelles upon renewed peroxisome induction. key: p, peroxisome; v, vacuole. the asterisk indicates the pexophagosome.
+possible different modes of removal of superfluous peroxisomes
+have been observed.
+3.1. pexophagy in methylotrophic yeast species
+in methylotrophic yeast species, both micro- and macropex-
+ophagy occur, but the trigger to induce the different modes of
+pexophagy is species dependent. glucose-adaptation of methanol-
+grown cells induces macropexophagy in h. polymorpha and
+micropexophagy in p. pastoris. however, ethanol
+induces
+macropexophagy in both methylotrophic yeast species. recently,
+the pexophagy mode in p. pastoris was suggested to be more
+related to the intracellular atp level than to the kind of carbon
+source per se [7]. at high atp levels, micropexophagy was
+induced, whereas at lower atp levels, macropexophagy occurred.
+one possible interpretation is that under a high atp level
+condition, p. pastoris cells make a commitment to degrade all
+peroxisomes. under a low atp level condition, the cells may still
+be prepared for a return to methanol-containing medium. because
+in h. polymorpha peroxisome degradation occurs via macropex-
+ophagy irrespective of the carbon source, this type of regulation
+may not be applicable to all yeast species.
+in h. polymorpha, peroxisome degradation is also induced at
+n-limitation conditions [8]. morphologically, this process resem-
+bles micropexophagy in p. pastoris: vacuolar protrusions engulf a
+cluster of peroxisomes, followed by its uptake into the vacuole.
+however,
+the authors observed that also other cytoplasmic
+components were degraded at these conditions. therefore, this
+(non-selective) mode of peroxisome degradation was designated
+microautophagy.
+fig. 2. membrane dynamics during micropexophagy. (a) after shifting methanol-grown p. pastoris cells to glucose medium, a rounded vacuole begins to invaginate
+and septate, thereby engulfing the peroxisome cluster (stage 1). prior to the complete sequestration of peroxisomes by vacuolar membranes, the micropexophagy-
+specific membrane apparatus (mipa) is formed, which mediates fusion between the tips of the invaginating vacuole (stage 2). finally, membrane scission occurs on
+the inner side of the vacuolar membrane followed by lysis of the peroxisomes. concomitantly, peroxisomal matrix proteins diffuse into the vacuolar lumen (stage 3).
+key: vac, vacuole; ps, peroxisome cluster. (b) fluorescent image of a micropexophagic cell during stage 1. gfp-atg8 (green) localizes on the cup-shaped mipa,
+which is present between the tips of the invaginating vacuole (red: fm 4-64), and at the surface of the peroxisome (blue: bfp-skl).
+1770
+y. sakai et al. / biochimica et biophysica acta 1763 (2006) 1767â€“1775
+3.2. pexophagy in saccharomyces cerevisiae
+in s. cerevisiae the mode of pexophagy is still
+largely
+unknown. in this yeast, pexophagy is generally induced by
+shifting cells to n-starvation medium supplemented with
+glucose. such a change may simultaneously induce both
+macro- and micropexophagy (cf. [9]). most atg proteins have
+been shown to be involved in pexophagy in baker's yeast (cf.
+[10]). a remarkable exception is s. cerevisiae atg21,
+that
+does not seem to be required for pexophagy, while its h.
+polymorpha counterpart is essential for both macropexophagy
+and microautophagy [11].
+3.3. pexophagy in yarrowia lipolytica
+lipolytica it
+in another study,
+also for the yeast y.
+is still unclear how
+pexophagy takes place. gunkel et al. [12] never observed
+formation of pexophagosomes,
+indicative of macropexo-
+phagy. conversely,
+the typical character-
+istics of micropexophagy were not found [13]. hence, it is
+lipolytica utilizes an alternative transport
+possible that y.
+route to the vacuole to turn-over peroxisomes.
+it was
+reported that deletion of ylatg26 had no effect on
+peroxisome degradation [14], while p. pastoris atg26 mutants
+are affected in both micro- and macropexophagy [14,15]. on
+the other hand, mutants in the y. lipolytica ortholog of the s.
+cerevisiae trs85 gene, encoding a component of
+the
+transport protein particle (trapp) complex, were found to
+be affected in pexophagy [16]. in s. cerevisiae, the trapp
+complex plays a key role in the late stages of endoplasmic
+reticulum to golgi traffic. in both yeast species, trs85p is
+required for all autophagy-related pathways. this suggests
+that in y. lipolytica and s. cerevisiae, an early stage of the
+secretory pathway might function as a source of membrane
+material that is used to sequester proteins/organelles from the
+cytoplasm, prior to their uptake by the vacuole. so far, the
+role of trs85 in pexophagy has not been investigated in
+other yeast species.
+3.4. pexophagy in mammals
+peroxisome degradation in mammalian cells appears to
+follow two very diverse pathways (for review see [17]), i.e.
+autophagy-related and autolysis-related. under physiological
+conditions, autophagosomes that deliver cytoplasmic material
+to lysosomes very rarely contain peroxisomes, which remain
+stably in the cell. however, this situation changes dramatically,
+when cells treated with peroxisome proliferating agents are
+released from this treatment. during drug treatment, the cells
+contain an excessive number of peroxisomes, as well as a
+population of peroxisomes of a much larger size. upon drug
+removal, superfluous peroxisomes are quickly degraded by two
+pathways. the first one includes the uptake of especially the
+larger peroxisomes into autophagosome-like structures. mor-
+phological data suggested that a sequestration event occurs by
+smooth er that
+isolates the target peroxisomes from the
+cytoplasm, a process reminiscent of macropexophagy. that
+peroxisome degradation in mammalian cells relies heavily on
+autophagy-related processes was confirmed in studies with a
+conditional atg7 knock-out mouse [18]. in p. pastoris, atg7
+is required for micro- and macropexophagy ([19]; table 1).
+similarly, in mouse atg7 mutant cells, peroxisomes were no
+longer observed in autophagosomes, while in control cells, the
+majority of the superfluous peroxisomes were removed via
+pexophagy [18].
+the second mode of peroxisome degradation in mammals is
+unrelated to autophagy, but involves permeabilization of the
+peroxisomal membrane mediated by 15-lipoxygenase
+(reviewed in [17]). upon lysis, the contents of the peroxisome
+become digested by cytosolic proteases. remarkably, such a
+disintegration of peroxisomes was also observed in the yeast h.
+polymorpha in a constructed strain where the levels of the
+peroxin pex3 had been strongly reduced [20]. this suggests that
+loss of certain peroxisomal membrane proteins may destabilize
+the peroxisomal membrane, resulting in its lysis. currently, it is
+unknown what the contribution is of this mode of peroxisome
+degradation in various cell types.
+4. molecular events of macropexophagy
+macropexophagy involves three characteristic steps: recog-
+nition of the organelle destined for degradation, formation of the
+pexophagosome, and fusion with the vacuole (fig. 1).
+4.1. recognition
+macropexophagy has been mainly studied in h. polymor-
+pha. several lines of evidence suggest that methanol-grown h.
+polymorpha cells generally contain several, relatively large
+mature organelles, together with one or a few, small immature
+ones. during macropexophagy, especially the mature organelles
+are thought to be degraded, leaving the few small peroxisomes
+unaffected. this is corroborated by the finding that h.
+polymorpha mpp1 cells, which contain only a single peroxi-
+some, do not degrade the organelle upon induction of
+pexophagy [21]. this characteristic of macropexophagy allows
+the cell to again rapidly proliferate new peroxisomes in response
+to changing nutrient conditions. furthermore, it implies that
+macropexophagy must be tightly regulated. recent data suggest
+that specific membrane-bound protein-complexes on the
+peroxisome determine the difference in susceptibility of the
+two types of organelles (see below).
+initiation of peroxisome sequestration requires recognition
+of the organelle to be degraded. studies on the identification of
+such determinants in h. polymorpha have led to the identifica-
+tion of two peroxisomal membrane proteins that play an
+important role in the initial steps of macropexophagy [22,23].
+remarkably, both proteins are peroxins and therefore also
+required for the biogenesis of peroxisomes. the first committed
+step in macropexophagy appears to be the removal of pex3 from
+the peroxisomal membrane, followed by its degradation by the
+proteasome [23]. when pex3 removal is prevented, e.g. in a
+mutant lacking vps34, peroxisomes are not sequestered and
+remain stably in the cytosol [24]. hppex3 is a membrane-
+y. sakai et al. / biochimica et biophysica acta 1763 (2006) 1767–1775
+1771
+associated component of the peroxisomal membrane [25].
+hazra et al. [26] have provided evidence suggesting that the
+function of pex3 in an immature peroxisome is to bridge two
+peroxin complexes that are essential for protein translocation.
+such pex3 molecules might not be accessible for
+the
+degradation machinery, possibly explaining why immature
+organelles are not susceptible to macropexophagy. in mature
+peroxisomes,
+the import complexes are presumed to have
+separated thereby allowing detachment of pex3 upon induction
+of macropexophagy [27]. in addition to pex3, the peroxin
+pex14 also plays an important role in macropexophagy. unlike
+pex3, the presence of pex14 at the peroxisomal membrane is
+required for recognition of the organelle by the macropex-
+ophagy machinery [22]. remarkably, only minute amounts of
+pex14 suffice during macropexophagy [28]. it was hypothe-
+sized that the n-terminal region of pex14 requires recognition
+by a so-far unknown receptor protein (see below) to enable
+organelle sequestration (cf. [27,29]).
+4.2. sequestration
+peroxisomes destined for degradation become sequestered
+by multiple membrane layers to produce the pexophagosome,
+prior to uptake into the vacuole. a number of atg proteins is
+required for this sequestration step. thus, h. polymorpha
+strains lacking vps34, atg1 or atg11 do not sequester
+peroxisomes [24,30,31]. in contrast, in h. polymorpha cells
+deleted for atg8, atg21, atg25, vam7 or ypt7, peroxisome
+sequestration has been observed, but
+is not always fully
+completed ([11,32–34], v. todde et al., unpublished data). in
+p. pastoris, 14 proteins involved in macropexophagy have
+been identified (table 1). ppatg24 cells are blocked at the
+pexophagosome–vacuole fusion stage of macropexophagy
+[35]. electron micrographic data of stasyk et al. [14] suggested
+that in a ppatg26 mutant, the formation of pexophagosomes
+was significantly retarded. nevertheless, peroxisomes remained
+intact, implying also a block in pexophagosome–vacuole fusion
+events. recent data from the group of sakai indicate that the
+activity of ppatg26, an udp::glucose sterol glucosyltransfer-
+ase, appears to be required for efficient expansion of
+pexophagosome membranes, rather than during the fusion
+event. apparently, ppatg26 controls the lipid flow to the
+pexophagosome ([36], s. yamashita and y. sakai, unpublished
+results). for most other p. pastoris atg proteins, it is uncertain
+at what stage of peroxisome sequestration they function during
+macropexophagy.
+the membranes that engulf individual peroxisomes during
+macropexophagy are of unknown origin. certain morphological
+data suggest that mitochondria may play a distinct role in the
+formation of the sequestering membranes [37]. indeed, data in
+s. cerevisiae seem to support a role for mitochondria in
+autophagy-related processes [38].
+peroxisome sequestration is generally initiated at a specific
+spot (possibly the site of pex3 release/pex14 recognition) at the
+peroxisomal membrane. subsequently, sequestering mem-
+branes grow until
+they completely engulf the peroxisome.
+this sequestration process has many features in common with
+the cvt pathway in s. cerevisiae (reviewed by [39]). analogous
+to the cvt pathway, a receptor-like protein (cf. atg19 in the cvt
+pathway) is presumably required for peroxisome recognition
+(possibly by binding to pex14). this is thought to be followed
+by binding of the receptor–peroxisome complex to atg11 at the
+pre-autophagosomal structure (pas). this structure, to which a
+number of atg proteins become recruited, is thus responsible for
+the formation of cvt vesicles, autophagosomes as well as
+pexophagosomes (cf. [27]). in s. cerevisiae, atg11 is only
+required for the selective transport of peroxisomes and cvt
+cargo to the vacuole [40]. similarly, h. polymorpha and p.
+pastoris atg11 mutants are exclusively disturbed in pexophagy
+[31,40].
+the membrane composition of
+the pexophagosome is
+probably not identical to that of a normal autophagosome,
+although a number of components are shared between these
+structures. in both h. polymorpha and p. pastoris cells, atg8
+has been shown to be located on the pexophagosome [5,32].
+atg8 is a protein that becomes conjugated to phosphatidy-
+lethanolamine on the pas [41], and is also found on
+autophagosomes and cvt vesicles in s. cerevisiae. next to
+this, h. polymorpha pexophagosomes also contain the
+that presumably
+macropexophagy-specific protein atg25,
+the function of
+also travels via the pas [33]. possibly,
+atg25 is related to the completion of
+the sequestering
+membrane or the fusion of these membranes with the vacuolar
+membrane. for this latter process, also the snare vam7 and
+the gtpase ypt7 are essential in h. polymorpha ([34]; v.
+todde et al., unpublished data). in p. pastoris, atg26 was also
+localized to the pexophagosome ([36], s. yamashita and y.
+sakai, unpublished results). a ppatg26 mutant was affected in
+the recruitment of ppatg8 to the pexophagosome, which
+correlates well with the delayed lipid flow to the sequestering
+membranes (see above).
+4.3. pexophagosome–vacuole fusion
+during homotypic vacuolar fusion, three distinct membrane
+domains can be identified on the fusion complex: the vertex, the
+boundary edge and the outside edge, and fusion normally occurs
+at the vertex [42]. in fluorescence time-lapse studies in p.
+pastoris, the fusion event between the pexophagosome and the
+vacuole was analysed in detail [35]. internalization of the
+boundary domain of
+the fusion complex was observed,
+implying that, like in homotypic vacuolar fusion, fusion had
+occurred at the vertex. furthermore, it was demonstrated that in
+a ppatg24 strain, macropexophagy was blocked at
+the
+pexophagosome–vacuole fusion step [35]. during macropex-
+ophagy a major portion of ppatg24, a phosphatidylinositol 3-
+phosphate-binding protein, localized to both the vertex and the
+boundary regions in the pexophagosome–vacuole fusion
+complex. remarkably, a minor portion of ppatg24 also
+colocalized with the pas component ppatg17. in s. cerevisiae
+atg17 is required for macroautophagy, but not pexophagy or the
+cvt pathway [43]. therefore, it is likely that ppatg24 may not
+only be involved in pexophagosome–vacuole fusion events, but
+also in fusion events between autophagosomes and the vacuole.
+1772
+y. sakai et al. / biochimica et biophysica acta 1763 (2006) 1767–1775
+5. molecular events during micropexophagy
+morphological and genetic studies of micropexophagy in p.
+pastoris revealed three characteristic membrane dynamics:
+vacuolar engulfment of peroxisomes, formation of the mipa at
+the peroxisomal surface, and vacuolar membrane fusion (fig. 2a).
+5.1. vacuolar engulfment
+one of the most characteristic features of micropexophagy is
+the dynamics of the vacuole to engulf clustered peroxisomes. this
+dynamic change can be followed by electron microscopy or by
+fluorescence microscopy in real time [44,45]. in the latter case, the
+vacuolar membrane stained with fm4-64 was visualized along
+with a peroxisome-targeted version of gfp (gfp-pts1). the
+vacuolar membrane was observed to develop protrusions along the
+peroxisome surface, often accompanied by septations [46]. the
+extending part of the vacuolar membrane, designated “vacuolar
+sequestering membrane”, determines the amount of peroxisome
+sequestration from the cytosol [37,47]. the extent to which this
+sequestering membrane was formed has been used as a measure to
+determine the stage of micropexophagy in which mutants were
+disturbed [45,46].
+gene-tagging mutagenesis produced p. pastoris mutant
+strains defective in micropexophagy. among these mutants,
+some exhibited a deficiency in engulfment of the peroxisome
+cluster. several groups demonstrated that mutations in ppatg11,
+ppatg18 and ppatg28 abrogated the formation of the vacuolar
+sequestering membrane [40,48,49]. on the other hand, muta-
+tions of ppatg2 or ppatg9 caused incomplete formation of the
+sequestering membrane [47,50]. ppatg11 and ppatg28 are
+hypothesized to function in the recognition of peroxisomes as
+the target for degradation. these two proteins possess coiled-
+coil regions and are presumed to interact with peroxisomal
+membrane protein(s).
+in forming the sequestering membrane, several proteins
+were found to concentrate at one site juxtaposed to the
+vacuole. this perivacuolar structure, which is probably similar
+to the pas in s. cerevisiae, contained ppatg9, ppatg11 [47]
+and possibly ppatg28. ppatg9 translocates from some
+peripheral sites to the vacuolar sequestering membrane via
+this perivacuolar structure, which depends on multiple atg
+proteins. these findings suggest that the perivacuolar structure
+plays an important role in the formation of the vacuolar
+sequestering membrane.
+5.2. formation of the membrane structure mipa
+many p. pastoris atg mutants were not able to sequester
+peroxisome clusters completely, although they apparently had a
+normal vacuolar sequestering membrane. these strains were
+mutated in either ppatg1, ppatg2, ppatg3, ppatg4, ppatg7,
+ppatg8 or ppatg26. among these proteins, atg8, which was
+localized to the mipa, is regarded as the key molecule that follows
+the membrane dynamics during micropexophagy.
+atg8 homologs (including mammalian lc3), which are
+their
+processed by atg4 and expose a glycine residue at
+carboxyl termini, are known to undergo modification by the
+lipid phosphatidylethanolamine through a ubiquitin-like path-
+way, which is catalyzed by the e1 enzyme atg7 and the e2
+enzyme atg3 [41]. this ubiquitin-like pathway is necessary for
+the recruitment of ppatg8 to the mipa [5]. as the formation of
+the mipa was vital for the completion of micropexophagy, it
+was concluded that micropexophagy also required formation of
+a double-membrane structure,
+like pexophagosomes and
+autophagosomes in other autophagic pathways.
+ppatg26 is the second protein that was found to reside on the
+mipa. this protein acts as a udp-glucose::sterol glucosyl-
+transferase to produce sterol glucoside [15]. recent data
+indicate that this protein is also needed for the formation of
+the mipa. the function of ppatg26 is dependent on its intra-
+molecular domains, the ph (pleckstrin homology) and gram
+(named after glucosyltransferases, rab-like gtpase activators,
+and myotubularins) domains. phosphatidylinositol 4′-mono-
+phosphate (pi4p) appears to recruit ppatg26 to the site of mipa
+formation through its interaction with the gram domain [36].
+pppik1 is mainly responsible for the production of the pi4p.
+additionally, sterol glucoside production by the catalytic
+activity of ppatg26 initiates membrane elongation to form the
+mipa. these findings indicate that,
+in addition to certain
+proteins, several specific lipids are required for the formation of
+the mipa.
+in addition to a role for ppatg8 and ppatg11 in mipa
+formation (see below), ppatg11 also appears to be involved in
+the recognition of peroxisomes during vacuolar engulfment,
+while ppatg8 represses vacuolar engulfment under micropex-
+ophagy non-inducing conditions. furthermore, ppatg7 and
+ppatg2 appear to be involved in the formation of both the
+vacuolar sequestering membrane and the mipa suggesting a
+coordinated regulatory mechanism of these membrane events.
+however, the details remain unclear at present.
+5.3. vacuolar membrane fusion
+after vacuolar engulfment and mipa formation, vacuolar
+membrane fusion occurs enabling incorporation of the target
+peroxisomes. single-cell observations indicated that the vacuo-
+lar membrane fused to the mipa [5]. although it is possible that
+a “homotypic” fusion of vacuolar membranes may occur at the
+incorporation step, we assume that a “heterotypic” membrane
+fusion event occurs between the vacuolar membrane and the
+mipa.
+at present, two proteins are implicated to act at the fusion
+step. ppvac8 is a candidate, whose ortholog in s. cerevisiae
+(vac8) is known to act in homotypic fusion of the vacuolar
+membrane [51,52]. vac8 is also known to function in the cvt
+pathway in s. cerevisiae [53,54]. the other candidate is
+ppatg24. disruption of the gene encoding ppatg24 caused
+fragmented vacuoles suggesting that
+is required for the
+the vacuolar membrane [35]. the
+homotypic fusion of
+localization of ppatg24 at
+the sequestering
+membrane during micropexophagy is consistent with the notion
+that ppatg24 mediates the fusion between the mipa and the
+vacuolar (sequestering) membrane. ppatg24 belongs to the
+the tips of
+it
+y. sakai et al. / biochimica et biophysica acta 1763 (2006) 1767–1775
+1773
+sorting nexin family and possesses a px domain (phox
+homology domain). biochemical analysis indicated that the
+px domain of ppatg24 binds phosphatidylinositol 3′-mono-
+phosphate, suggesting a function in the fusion step, similar to
+that reported for the homotypic fusion of vacuolar membranes
+in s. cerevisiae [55].
+5.4. other aspects of micropexophagy
+peroxisomes are degraded after they are incorporated in the
+vacuole. none of the molecules required for this step have been
+clearly identified. based on fluorescence microscopy studies, it
+is presumed that a mutation in ppgcn1, ppgcn2, ppgcn3 or
+ppgcn4 inhibits micropexophagy after incorporation of the
+peroxisomes into the vacuole [46], but detailed functions of
+these gcn proteins are not clear. a vacuolar protease pppep4 is
+thought to function in the lysis of the incorporated components.
+however, microscopic observations showed that in the pppep4
+mutant micropexophagy is inhibited at an earlier stage, i.e. at
+the vacuolar engulfment stage. this might reflect pleiotropic
+effects of pep4 disruption on vacuole functioning.
+5.5. microautophagy in h. polymorpha
+as denoted above, during nitrogen limitation, h. polymor-
+pha cells degrade peroxisomes via a micropexophagy-related
+process. this n-starvation induced microautophagy involves at
+least hpvps34, hpatg1, hpatg8, hpatg11, hpatg21 and
+hpvam7 [8,11,30–32,34]. however, microautophagy proceeds
+normally in an hpatg25 mutant, indicating that hpatg25 is a
+macropexophagy-specific protein [33]. moreover, there is no
+requirement for the peroxisomal protein pex14p in micro-
+autophagy in h. polymorpha [28]. this suggests a completely
+different mode of peroxisome recognition by the microauto-
+phagic machinery. remarkably, recruitment of hpatg8 to a
+putative mipa, and localization of significant amounts of
+hpatg11 at the vacuolar membrane, as seen in p. pastoris
+during micropexophagy [5,40], have not been observed in h.
+polymorpha [31,32]. instead, during n-limitation, both hpatg8
+and hpatg11 remain localized at a perivacuolar structure.
+6. perspectives
+during the last years, many studies have attempted to assign
+a role for the atg and other proteins involved in macro-and/or
+micropexophagy. however,
+there remain many unanswered
+issues.
+one important issue is to clarify the signaling pathways
+inducing pexophagy. so far, only two factors have been
+identified that might mediate signaling in micropexophagy.
+one is pppfk1, the alpha subunit of phosphofructokinase, and
+the other is ppvps15, a serine/threonine kinase that is part of a
+phosphatidylinositol 3-kinase complex [56,57]. in pppfk1 and
+ppvps15 mutants, glucose adaptation did not result in a change
+in vacuolar morphology, implying that micropexophagy was
+halted at a very early stage. interestingly, pppfk1 was needed
+only for micropexophagy, and not for macropexophagy in p.
+pastoris, while its function in micropexophagy was independent
+of its kinase activity. in order to uncover the signaling pathways,
+more factors have to be isolated.
+another matter is how peroxisomes are recognized for
+sequestration. during macropexophagy the peroxisomal mem-
+brane proteins pex3 and pex14 are required, but a putative
+receptor protein bridging pex14 and atg11 has yet
+to be
+uncovered. the h. polymorpha genome encodes an atg19-
+related protein, but this is not involved in pexophagy (v. todde
+et al., unpublished data). similarly, ppatg11 and ppatg28 are
+thought
+to be involved in peroxisome recognition during
+micropexophagy, but interacting proteins on the peroxisomal
+membrane are still missing. pex14 does not seem to play a role
+in recognition during micropexophagy.
+also the source of the membranes that sequester individual
+peroxisomes into pexophagosomes during macropexophagy is
+unknown. similarly, what might be the membrane source for the
+mipa? is it possible that these membranes are similar to those
+that form cvt vesicles? a possible source for the membranes of
+the mipa is the golgi apparatus where pppik1 is assumed to be
+localized [36].
+what is the role of the cytoskeleton in pexophagy? reggiori
+et al. [58] have provided evidence that in s. cerevisiae the actin
+cytoskeleton is essential for the cvt pathway and pexophagy. it
+has been speculated that scatg11 might be involved in both
+peroxisome recognition and transport along actin cables to the
+pas [59]. since the mode of pexophagy in s. cerevisiae is
+unclear,
+to understand the role of the actin
+cytoskeleton in micro- and macropexophagy in methylotrophic
+yeast species.
+is crucial
+it
+finally, what are the molecular events that define membrane
+fusion? certain proteins, like ppatg24 and hpatg25, seem to
+be exclusively required at the fusion step during micro-and/or
+macropexophagy. apparently, these fusion events are distinct
+from homotypic vacuole fusion and heterotypic autophago-
+some–vacuole fusion.
+acknowledgements
+y.s. is supported by a grant-in-aid for scientific research
+on priority areas 399 and 504, and the national institute for
+basic biology cooperative research program. m.o.
+is a
+recipient of research fellowships for young scientists (pd) from
+the japanese society for the promotion of science at nibb. i.j.
+k. holds a pionier grant from the netherlands organization
+for the advancement of pure research (nwo/alw). j.a.k.w.
+k is supported by a grant from aard-en levens wetenschappen
+(alw), which is subsidized by the dutch organization for the
+advancement of pure research (nwo).
+references
+[1] d.j. klionsky, y. ohsumi, vacuolar import of proteins and organelles from
+the cytoplasm, annu. rev. cell dev. biol. 15 (1999) 1–32.
+[2] p.e. purdue, p.b. lazarow, peroxisome biogenesis, annu. rev. cell dev.
+biol. 17 (2001) 701–752.
+[3] m. veenhuis, a. douma, w. harder, m. osumi, degradation and turnover
+of peroxisomes in the yeast hansenula polymorpha induced by selective
+1774
+y. sakai et al. / biochimica et biophysica acta 1763 (2006) 1767–1775
+inactivation of peroxisomal enzymes, arch. microbiol. 134 (1983)
+193–203.
+[4] d.l. tuttle, a.s. lewin, w.a. dunn jr., selective autophagy of
+peroxisomes in methylotrophic yeasts, eur. j. cell biol. 60 (1993)
+283–290.
+[5] h. mukaiyama, m. baba, m. osumi, s. aoyagi, n. kato, y. ohsumi, y.
+sakai, modification of a ubiquitin-like protein paz2 conducted micro-
+pexophagy through formation of a novel membrane structure, mol. biol.
+cell 15 (2004) 58–70.
+[6] d.j. klionsky, j.m. cregg, w.a. dunn jr., s.d. emr, y. sakai, i.v.
+sandoval, a. sibirny, s. subramani, m. thumm, m. veenhuis, y. ohsumi,
+a unified nomenclature for yeast autophagy-related genes, dev. cell 5
+(2003) 539–545.
+[7] y. ano, t. hattori, n. kato, y. sakai, y. ano, t. hattori, m. oku, h.
+mukaiyama, m. baba, y. ohsumi, n. kato, y. sakai, intracellular atp
+correlates with mode of pexophagy in pichia pastoris, biosci. biotechnol.
+biochem. 69 (2005) 1527–1533.
+[8] a.r. bellu, a.m. kram, j.a.k.w. kiel, m. veenhuis, i.j. van der klei,
+glucose-induced and nitrogen-starvation-induced peroxisome degradation
+are distinct processes in hansenula polymorpha that involve both common
+and unique genes, fems yeast res. 1 (2001) 23–31.
+[9] i. monastryska, k. sjollema, i.j. van der klei, j.a.k.w. kiel, m. veenhuis,
+microautophagy and macropexophagy may occur simultaneously in
+hansenula polymorpha, febs lett. 568 (2004) 135–138.
+[10] m.u. hutchins, m. veenhuis, d.j. klionsky, peroxisome degradation in
+saccharomyces cerevisiae is dependent on machinery of macroautophagy
+and the cvt pathway, j. cell sci. 112 (1999) 4079–4087.
+[11] a.n. leão-helder, a.m. krikken, g. gellissen, i.j. van der klei, m.
+veenhuis, j.a.k.w. kiel, atg21p is essential for macropexophagy and
+microautophagy in the yeast hansenula polymorpha, febs lett. 577
+(2004) 491–495.
+[12] k. gunkel, i.j. van der klei, g. barth, m. veenhuis, selective peroxisome
+degradation in yarrowia lipolytica after a shift of cells from acetate/oleate/
+ethylamine into glucose/ammonium sulfate-containing media, febs lett.
+451 (1999) 1–4.
+[13] t.y. nazarko, j.m. nicaud, a.a. sibirny, observation of the yarrowia
+lipolytica peroxisome-vacuole dynamics by fluorescence microscopy with
+a single filter set, cell biol. int. 29 (2005) 65–70.
+[14] o.v. stasyk, t.y. nazarko, o.g. stasyk, o.s. krasovska, d. warnecke, j.m.
+nicaud, j.m. cregg, a.a. sibirny, sterol glucosyltransferases have different
+functional roles in pichia pastoris and yarrowia lipolytica, cell biol. int. 27
+(2003) 947–952.
+[15] m. oku, d. warnecke, t. noda, f. muller, e. heinz, h. mukaiyama, n.
+kato, y. sakai, peroxisome degradation requires catalytically active sterol
+glucosyltransferase with a gram domain, embo j. 22 (2003)
+3231–3241.
+[16] t.y. nazarko, j. huang, j.m. nicaud, d.j. klionsky, a.a. sibirny, trs85 is
+required for macroautophagy, pexophagy and cytoplasm to vacuole
+targeting in yarrowia lipolytica and saccharomyces cerevisiae, autophagy
+1 (2005) 37–45.
+[17] s. yokota, degradation of normal and proliferated peroxisomes in rat
+hepatocytes: regulation of peroxisomes quantity in cells, microsc. res.
+tech. 61 (2003) 151–160.
+[18] j. iwata, j. ezaki, m. komatsu, s. yokota, t. ueno, i. tanida, t. chiba, k.
+tanaka, e. kominami, excess peroxisomes are degraded by autophagic
+machinery in mammals, j. biol. chem. 281 (2006) 4035–4041.
+[19] w. yuan, p.e. stromhaug, w.a. dunn jr., glucose-induced autophagy of
+peroxisomes in pichia pastoris requires a unique e1-like protein, mol.
+biol. cell 10 (1999) 1353–1366.
+[20] r.j.s. baerends, s.w. rasmussen, r.e. hilbrands, m. van der heide, k.n.
+faber, p.t. reuvekamp, j.a.k.w. kiel, j.m. cregg, i.j. van der klei, m.
+veenhuis, the hansenula polymorpha per9 gene encodes a peroxisomal
+membrane protein essential for peroxisome assembly and integrity, j. biol.
+chem. 271 (1996) 8887–8894.
+[21] a.n. leão-helder, a.m. krikken, i.j. van der klei, j.a.k.w. kiel, m.
+veenhuis, transcriptional down-regulation of peroxisome numbers affects
+selective peroxisome degradation in hansenula polymorpha, j. biol.
+chem. 278 (2003) 40749–40756.
+[22] a.r. bellu, m. komori, i.j. van der klei, j.a.k.w. kiel, m. veenhuis,
+peroxisome biogenesis and selective degradation converge at pex14p, j.
+biol. chem. 276 (2001) 44570–44574.
+[23] a.r. bellu, f.a. salomons, j.a.k.w. kiel, m. veenhuis, i.j. van der klei,
+removal of pex3p is an important stage in selective peroxisome
+degradation in hansenula polymorpha, j. biol. chem. 277 (2002)
+42875–42880.
+[24] j.a.k.w. kiel, k.b. rechinger, i.j. van der klei, f.a. salomons, v.i.
+titorenko, m. veenhuis, the hansenula polymorpha pdd1 gene
+product, essential for the selective degradation of peroxisomes,
+is a
+homologue of saccharomyces cerevisiae vps34p, yeast 15 (1999)
+741–754.
+[25] g.j. haan, k.n. faber, r.j.s. baerends, a. koek, a. krikken, j.a.k.w.
+kiel, i.j. van der klei, m. veenhuis, hansenula polymorpha pex3p is a
+peripheral component of the peroxisomal membrane, j. biol. chem. 277
+(2002) 26609–26617.
+[26] p.p. hazra, i. suriapranata, w.b. snyder, s. subramani, peroxisome
+remnants in pex3delta cells and the requirement of pex3p for interactions
+between the peroxisomal docking and translocation subcomplexes, traffic
+3 (2002) 560–574.
+[27] j.a.k.w. kiel, j.a. komduur,
+i.j. van der klei, m. veenhuis,
+macropexophagy in hansenula polymorpha: facts and views, febs
+lett. 549 (2003) 1–6.
+[28] b. de vries, v. todde, p. stevens, f. salomons, i.j. van der klei, m.
+veenhuis, pex14p is not required for microautophagy and in catalytic
+amounts for macroautophagy, autophagy 2 (2006) 183–188.
+[29] a.n. leão, j.a.k.w. kiel, peroxisome homeostasis in hansenula
+polymorpha, fems yeast res. 4 (2003) 131–139.
+[30] j.a. komduur, m. veenhuis, j.a.k.w. kiel, the hansenula polymorpha
+pdd7 gene is essential for both macro- and micropexophagy, fems yeast
+res. 3 (2003) 27–34.
+[31] j.a. komduur, molecular aspects of peroxisome degradation in hanse-
+nula polymorpha. phd thesis, university of groningen, the netherlands,
+2004.
+[32] i. monastyrska, m. van der heide, a.m. krikken, j.a.k.w. kiel, i.j. van
+der klei, m. veenhuis, atg8 is essential for macropexophagy in hanse-
+nula polymorpha, traffic 6 (2005) 66–74.
+[33] i. monastryska, j.a.k.w. kiel, a.m. krikken, j.a. komduur, m.
+veenhuis, i.j. van der klei, the hansenula polymorpha atg25 gene
+encodes a novel coiled-coil protein that is required for macropexophagy,
+autophagy 1 (2005) 92–100.
+[34] p. stevens, i. monastyrska, a.n. leão-helder, i.j. van der klei, m.
+veenhuis, j.a.k.w. kiel, hansenula polymorpha vam7p is required for
+macropexophagy, fems yeast res. 5 (2005) 985–997.
+[35] y. ano, t. hattori, m. oku, h. mukaiyama, m. baba, y. ohsumi, n. kato,
+y. sakai, a sorting nexin ppatg24 regulates vacuolar membrane dynamics
+during pexophagy via binding to phosphatidylinositol-3-phosphate, mol.
+biol. cell 16 (2005) 446–457.
+[36] s. yamashita, m. oku, y. wasada, y. ano, y. sakai, a pi4p-signaling
+pathway for the synthesis of a nascent membrane structure in selective
+autophagy, j. cell biol. 173 (2006) 709–717.
+[37] w.a. dunn jr., j.m. cregg, j.a.k.w. kiel, i.j. van der klei, m. oku, y.
+sakai, a. sibirny, o.v. stasyk, m. veenhuis, pexophagy: the selective
+autophagy of peroxisomes, autophagy 1 (2005) 75–83.
+[38] f. reggiori, t. shintani, h. chong, u. nair, d.j. klionsky, atg9 cycles
+between mitochondria and the preautophagosomal structure in yeasts,
+autophagy 1 (2005) 101–109.
+[39] t. shintani, w.p. huang, p.e. stromhaug, d.j. klionsky, mechanism of
+cargo selection in the cytoplasm to vacuole targeting pathway, dev. cell. 3
+(2002) 825–837.
+[40] j. kim, y. kamada, p.e. stromhaug, j. guan, a. hefner-gravink, m. baba,
+s.v. scott, y. ohsumi, w.a. dunn jr., d.j. klionsky, cvt9/gsa9 functions
+in sequestering selective cytosolic cargo destined for the vacuole, j. cell
+biol. 153 (2001) 381–396.
+[41] y. ichimura, t. kirisako, t. takao, y. satomi, y. shimonishi, n. ishihara,
+n. mizushima, i. tanida, e. kominami, m. ohsumi, t. noda, y. ohsumi,
+a ubiquitin-like system mediates protein lipidation, nature 408 (2000)
+488–492.
+y. sakai et al. / biochimica et biophysica acta 1763 (2006) 1767–1775
+1775
+[42] l. wang, e.s. seeley, w. wickner, a.j. merz, vacuole fusion at a ring of
+vertex docking sites leaves membrane fragments within the organelle, cell
+108 (2002) 357–369.
+[43] d.c. nice, t.k. sato, p.e. stromhaug, s.d. emr, d.j. klionsky,
+cooperative binding of the cytoplasm to vacuole targeting pathway
+proteins, cvt13 and cvt20, to phosphatidylinositol 3-phosphate at the pre-
+autophagosomal structure is required for selective autophagy, j. biol.
+chem. 277 (2002) 30198–30207.
+[44] d.l. tuttle, w.a. dunn jr., divergent modes of autophagy in the
+methylotrophic yeast pichia pastoris, j. cell sci. 108 (1995) 25–35.
+[45] y. sakai, a. koller, l.k. rangell, g.a. keller, s. subramani, peroxisome
+degradation by microautophagy in pichia pastoris:
+identification of
+specific steps and morphological intermediates, j. cell biol. 141 (1998)
+625–636.
+[46] h. mukaiyama, m. oku, m. baba, t. samizo, a.t. hammond, b.s. glick,
+n. kato, y. sakai, paz2 and 13 other paz gene products regulate vacuolar
+engulfment of peroxisomes during micropexophagy, genes cells 7 (2003)
+75–90.
+[47] t. chang, l.a. schroder, j.m. thomson, a.s. klocman, a.j. tomasini, p.
+e. stromhaug, w.a. dunn jr., ppatg9 encodes a novel membrane protein
+that traffics to vacuolar membranes, which sequester peroxisomes during
+pexophagy in pichia pastoris, mol. biol. cell 16 (2005) 4941–4953.
+[48] o.v. stasyk, o.g. stasyk, r.d. matheweson, j.c. farre, v.y. nazarko, o.
+s. krasovska, s. subramani, j.m. cregg, a.a. sibirny, atg28, a novel
+coiled-coil protein involved in autophagic degradation of peroxisomes in
+the methylotrophic yeast pichia pastoris, autophagy 2 (2006) 30–38.
+[49] j. guan, p.e. stromhaug, m.d. george, p. habibzadegah-tari, a. bevan,
+w.a. dunn jr., d.j. klionsky, cvt18/gsa12 is required for cytoplasm-to-
+vacuole transport, pexophagy, and autophagy in saccharomyces cerevisiae
+and pichia pastoris, mol. biol. cell 12 (2001) 3821–3838.
+[50] p.e. stromhaug, a. bevan, w.a. dunn jr., gsa11 encodes a unique 208-kda
+protein required for pexophagy and autophagy in pichia pastoris, j. biol.
+chem. 276 (2001) 42422–42435.
+[51] y.x. wang, e.j. kauffman, j.e. duex, l.s. weisman, fusion of docked
+membranes requires the armadillo repeat protein vac8p, j. biol. chem. 276
+(2001) 35133–35140.
+[52] m. veit, r. laage, l. dietrich, l. wang, c. ungermann, vac8p release
+from the snare complex and its palmitoylation are coupled and essential
+for vacuole fusion, embo j. 20 (2001) 3145–3155.
+[53] y.x. wang, n.l. catlett, l.s. weisman, vac8p, a vacuolar protein with
+armadillo repeats, functions in both vacuole inheritance and protein
+targeting from the cytoplasm to vacuole, j. cell biol. 140 (1998)
+1063–1074.
+[54] s.v. scott, d.c. nice, j.j. nau, l.s. weisman, y. kamada, i. keizer-
+gunnink, t. funakoshi, m. veenhuis, y. ohsumi, d.j. klionsky, apg13p
+and vac8p are part of a complex of phosphoproteins that are required for
+cytoplasm to vacuole targeting, j. biol. chem. 275 (2000) 25840–25849.
+[55] c. boeddinghaus, a.j. merz, r. laage, c. ungermann, a cycle of vam7p
+release from and ptdins 3-p-dependent rebinding to the yeast vacuole is
+required for homotypic vacuole fusion, j. cell biol. 157 (2002) 79–89.
+[56] w. yuan, d.l. tuttle, y.j. shi, g.s. ralph, w.a. dunn jr., glucose-
+induced microautophagy in pichia pastoris requires the alpha-subunit of
+phosphofructokinase, j. cell sci. 110 (1997) 1935–1945.
+[57] o.v. stasyk, i.j. van der klei, a.r. bellu, s. shen, j.a.k.w. kiel, j.m.
+cregg, m. veenhuis, a pichia pastoris vps15 homologue is required in
+selective peroxisome autophagy, curr. genet. 36 (1999) 262–269.
+[58] f. reggiori,
+i. monastyrska, t. shintani, d.j. klionsky, the actin
+cytoskeleton is required for selective types of autophagy, but not
+nonspecific autophagy,
+in the yeast saccharomyces cerevisiae, mol.
+biol. cell 16 (2005) 5843–5856.
+[59] i. monastyrska, t. shintani, d.j. klionsky, f. reggiori, atg11 directs
+autophagosome cargoes to the pas along actin cables, autophagy 2 (2006)
+119–121.
+[60] a.n. leão-helder, a.m. krikken, m.g. lunenborg, j.a.k.w. kiel, m.
+veenhuis, i.j. van der klei, hansenula polymorpha tup1p is important for
+peroxisome degradation, fems yeast res. 4 (2004) 789–794.

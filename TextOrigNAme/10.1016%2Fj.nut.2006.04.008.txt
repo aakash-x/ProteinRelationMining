@@ -1,0 +1,1558 @@
+nutrition 22 (2006) 830 – 844
+review article
+www.elsevier.com/locate/nut
+abstract
+proteolytic and lipolytic responses to starvation
+patrick f. finn, ph.d., and j. fred dice, ph.d.*
+department of molecular and cellular physiology, tufts university school of medicine, boston, massachusetts, usa
+manuscript received december 29, 2005; accepted april 12, 2006.
+mammals survive starvation by activating proteolysis and lipolysis in many different tissues. these
+responses are triggered, at least in part, by changing hormonal and neural statuses during starvation.
+pathways of proteolysis that are activated during starvation are surprisingly diverse, depending on tissue
+type and duration of starvation. the ubiquitin-proteasome system is primarily responsible for increased
+skeletal muscle protein breakdown during starvation. however, in most other tissues, lysosomal path-
+ways of proteolysis are stimulated during fasting. short-term starvation activates macroautophagy,
+whereas long-term starvation activates chaperone-mediated autophagy. lipolysis also increases in re-
+sponse to starvation, and the breakdown of triacylglycerols provides free fatty acids to be used as an
+energy source by skeletal muscle and other tissues. in addition, glycerol released from triacylglycerols
+can be converted to glucose by hepatic gluconeogenesis. during long-term starvation, oxidation of free
+fatty acids by the liver leads to the production of ketone bodies that can be used for energy by skeletal
+muscle and brain. tissues that cannot use ketone bodies for energy respond to these small molecules by
+activating chaperone-mediated autophagy. this is one form of interaction between proteolytic and
+lipolytic responses to starvation. © 2006 elsevier inc. all rights reserved.
+keywords:
+autophagy; ketone bodies; lipolysis; protein degradation; starvation; ubiquitin
+introduction
+throughout evolution organisms have had to adapt to
+oscillating conditions in nutrient availability. decreases in
+nutrients lead to cellular responses that maintain cellular
+energy levels so that the organism is able to recover from
+starvation [1,2]. responses to starvation in higher eu-
+karyotes are complex and are initiated in part by hormonal
+changes in response to decreasing levels of glucose and
+amino acids in the blood. there are different hormones that
+contribute to the physiologic responses to starvation, but we
+focus on the resulting metabolic consequences. a summary
+of the hormones, their changes in concentration during
+fasting, the effects of these changing concentrations, and
+select literature reviews can be found in table 1.
+a response that all eukaryotes have to starvation is to
+increase protein degradation. the proteolytic pathways
+function during starvation to liberate amino acids that can
+then be used to synthesize new proteins required for sur-
+vival or catabolized into krebs cycle intermediates to sup-
+ply cells with energy. liberated amino acids provide an
+average of 4.4 kcal/g [3]. there are no specialized cells or
+organelles that store protein, so normal, functional proteins
+must be used to supply the amino acids.
+triacylglycerols (tags) are a more concentrated energy
+source, providing an average of 9.5 kcal/g [3]. many tissues
+contain lipid stores, but most are stored in adipose tissue.
+adipose tissue consists largely (⬎90% by weight) of the stored
+lipid droplet. the catabolism of lipids generates fatty acids that
+can be used directly by skeletal muscle or be further metabo-
+lized to acetyl coenzyme a (coa) for use in the krebs cycle.
+proteolytic pathways activated by starvation
+the ubiquitin-proteasome system (ups) and two different
+lysosomal pathways of proteolysis are activated in starvation.
+ubiquitin-proteasome system
+* corresponding author. tel.: ⫹617-636-6707; fax: ⫹617-636-0445.
+e-mail address: james.dice@tufts.edu (j. f. dice).
+the ups is the most widely studied proteolytic pathway,
+and it is the ups that is responsible for the breakdown of
+0899-9007/06/$ – see front matter © 2006 elsevier inc. all rights reserved.
+doi:10.1016/j.nut.2006.04.008
+p. f. finn and j. f. dice / nutrition 22 (2006) 830 – 844
+831
+table 1
+hormonal responses to starvation with respect to concentration and major effects
+hormone
+insulin
+glucagon
+gh
+igf-1
+glucocorticoids
+epinephrine
+t3 and t4
+concentration during
+starvation
+effect on tissues
+decreased
+increased
+increased
+decreased
+increased
+increased
+decreased
+increases blood glucose, increases protein and lipid catabolism,
+decreases protein synthesis
+stimulates gluconeogenesis and glycogenolysis, increases
+protein degradation in liver
+stimulates lipolysis
+decreases protein synthesis and induces protein degradation
+increases protein degradation, lipolysis, and gluconeogenesis
+decreases proteolysis and increases lipolysis
+lowers basal metabolic rate, thereby decreasing the need for
+lipolysis and proteolysis
+reference
+[131]
+[132]
+[133]
+[134]
+[135]
+[136]
+[135]
+gh, growth hormone; igf-1, insulin-like growth factor-1; t3, triiodothyronine; t4, thyroxine
+skeletal muscle proteins during starvation. the ups medi-
+ates degradation of select proteins within the cytosol or
+nucleus in an adenosine triphosphate (atp)-dependent
+manner and is a critical component of a number of impor-
+tant cellular processes [4 –10]. table 2 presents a partial list
+of known substrates for the ups. they include proteins that
+are critical for cell cycle progression, gene transcription,
+and growth. the ups is important for many aspects of
+cellular physiology, so it should not be surprising that com-
+plete inhibition of the ups is lethal to cells and organisms
+[11].
+ubiquitin is a 76 –amino acid polypeptide that is con-
+served from yeast to mammals. ubiquitin is constitutively
+expressed but can be upregulated during times of cell stress
+such as during starvation and heat shock [4].
+the ups requires covalent conjugation of ubiquitin mol-
+ecules onto the target protein. ubiquitin molecules are con-
+jugated to one another to form an ubiquitin chain that marks
+the protein for degradation by the 26s proteasome. protein
+ubiquitination is mediated by an enzyme cascade that in-
+volves at least four classes of enzymes: an ubiquitin-acti-
+vating enzyme (e1), a ubiquitin-conjugating enzyme (e2), a
+ubiquitin-protein ligase (e3), and a ubiquitin-ubiquitin li-
+gase (e4; fig. 1). multiple isoforms of many of these
+enzymes exist and undoubtedly contribute to recognition of
+a wide variety of different classes of protein substrates [8].
+it is well known that intracellular protein degradation
+requires atp [5], and several steps in the ubiquitination and
+degradation of protein substrates are atp dependent. many
+different laboratories have contributed to our understanding
+of the mechanisms of ubiquitination, but much of the story
+was discovered by avram hersko, aaron ciechanover, and
+irwin rose who received the 2004 nobel prize in chemistry
+for this work. a pivotal discovery showed that the protein
+atp-dependent proteolysis factor 1 (apf-1) formed cova-
+lent complexes with substrate proteins in an atp-dependent
+manner. this conjugation promoted degradation of the pro-
+tein [6]. apf-1 was identiﬁed as ubiquitin based on its
+sequence identity and the fact that apf-1 and ubiquitin
+were substrates for the same enzymes [7].
+table 2
+selected examples of substrates for the ubiquitin/proteasome system
+function
+protein
+reference
+cell cycle regulators
+transcriptional factors
+regulators of metabolism
+transmembrane proteins
+cyclin a
+cyclin b
+cyclin d
+cyclin e
+chk1 kinase inhibitor
+erk3
+p21
+p27
+sic1
+cdk9
+myo d
+c-myc
+id1
+id3
+foxo3a
+c-jun
+hif-1
+nf␬b
+map kinase phosphatase
+protein kinase c␣
+wee1
+chk1 kinase
+hmgcoa reductase
+cytochrome p450
+nmda receptor
+growth hormone receptor
+prolactin receptor
+t cell receptor
+egf receptor
+pdgf receptor
+fgf receptor
+dopamine transporter
+[137]
+[137]
+[137]
+[137]
+[138]
+[139]
+[139]
+[140]
+[141]
+[142]
+[143]
+[144]
+[143]
+[145]
+[146]
+[147]
+[148]
+[149]
+[150]
+[151]
+[152]
+[153]
+[154]
+[155]
+[156]
+[157]
+[158]
+[159]
+[160]
+[161]
+[162]
+[163]
+cdk9, cyclin-dependent kinase-9; chk1, dna checkpoint; egf, epider-
+mal growth factor; erk3, extracellular regulator kinase-3; fgf, ﬁbroblast
+growth factor; foxo3a, forkhead transcription factor 3a; hif-1, hypoxia-
+inducible factor-1; hmg-coa, 3-hydroxy-3-methylglytaryl coenzyme a; id,
+inhibitor of differentiation; myod, myogenic transcription factor d; nf␬b,
+nuclear factor-␬b; nmda, n-methyl-d-aspartate; p21, 21-kda cell cycle
+kinase inhibitor; p27, 27-kda cell cycle kinase inhibitor; pdgf, platelet-
+derived growth factor; sic i, cyclin-dependent kinase inhibitor
+832
+p. f. finn and j. f. dice / nutrition 22 (2006) 830 – 844
+chaperones to fold and unfold protein substrates [19]. in
+addition, the regulatory cap contains an ubiquitin isopepti-
+dase that can degrade polyubiquitin chains [20]. the pro-
+teasome also requires atp for its assembly [21].
+there is a growing number of cell surface proteins that
+are ubiquitinated and delivered to lysosomes for degrada-
+tion (table 2). there are also several examples of mem-
+brane proteins that can be ubiquitinated and pulled out of
+the membrane during degradation by the proteasome or
+delivered to lysosomes for proteolysis [22,23]. the differ-
+ence between these two proteolytic fates may depend on the
+number of ubiquitins attached to the protein and the lysines
+to which subsequent ubiquitins are attached. for example,
+ubiquitin chains consisting of more than four molecules
+attached through k48 in ubiquitin provide a preferential
+target to the 26s proteasome [24]. shorter ubiquitin chains
+attached through k63 are efﬁciently targeted to lysosomes
+[25].
+the catabolism of muscle protein is essential to provid-
+ing energy to the animal during short-term starvation. mus-
+cle cells have the ability to degrade protein by lysosomal
+and ups pathways [26,27]. however, lysosomal pathways
+account for only approximately 10 –20% of total skeletal
+muscle proteolysis [26,27]. in contrast, muscle wasting dur-
+ing different catabolic states including starvation can be
+inhibited by treatment with proteasome inhibitors [28,29].
+muscle biopsies from patients undergoing weight loss have
+shown an increase in expression of ubiquitin, e2 enzymes,
+and subunits of the proteasome [30 –33]. further, gene ex-
+pression proﬁles of skeletal muscle in starving mice also
+fig. 2. structure and activities of the 26s proteasome. the proteasome core
+consists of 14␣and 14␤subunits arranged in stacked rings. the ␣-subunits
+bind to unfolded proteins, and the ␤-subunits have threonine protease
+activities. a regulatory complex may bind to both ends of the proteasome
+core to form the 26s proteasome. the regulatory complex contains sub-
+units that bind to polyubiquitin chains and molecular chaperones that can
+unfold and refold proteins. the regulatory complex also contains a ubi-
+quitin isopeptidase that hydrolyzes the ubiquitin chain. atpases, adenosine
+triphosphatases.
+fig. 1. the ub system. in an adenosine triphosphate– dependent manner,
+e1 activates ub and then transfers it to e2. e2 then transfers ub to e3,
+which covalently attaches ub to the substrate. e3s work with an e4 to build
+a polyubiquitin chain on the substrate protein. ubh and ubp can remove
+ub from substrate proteins or degrade ub chains, respectively. e1, ubi-
+quitin-activating enzyme; e2, ubiquitin-conjugating enzyme; e3, ubi-
+quitin-protein ligase; e4, ubiquitin-ubiquitin ligase; ub, ubiquitin; ubh,
+ubiquitin hydrolases; ubp, ubiquitin proteases.
+the ﬁrst step of the cascade is activation of ubiquitin by
+e1. in this step, a thiol ester bond is formed between the
+reactive cysteine of e1 and the carboxyl terminal glycine of
+ubiquitin in an atp-dependent manner. a similar thiol ester
+bond is formed between ubiquitin and e2s [8]. in the next
+step of substrate-ubiquitin conjugation, ubiquitin is trans-
+ferred from an e2 to an e3 [9]. the e3 enzyme recognizes
+features of the substrate protein and then forms an isopep-
+tide bond between the carboxyl terminal glycine of ubi-
+quitin and an ⑀-amino group of a lysine in the substrate
+protein [9,10]. the amino terminal ␣-amino group can also
+be ubiquitinated [12], and certain substrates that lack lysines
+can be ubiquitinated on cysteines [13]. an ubiquitin-ubi-
+quitin ligase, e4, contributes to forming a polyubiquitin
+chain on the substrate protein. once the protein is tagged for
+degradation, it is delivered to the 26s proteasome (fig. 2),
+where it is degraded in an atp-dependent manner [14].
+features of a protein that make it a good substrate for
+ubiquitination are complex. in some cases, the amino ter-
+minal amino acid is recognized by a particular e3 [15]. in
+other cases, internal sequences such as the destruction box
+in cyclins and in certain kinases [16] or the ken box in
+other kinases and phosphatases [17] are required for their
+ubiquitination.
+the core of the 26s proteasome consists of four stacked
+seven-membered rings (fig. 2). the ␣-subunits are able to
+bind to unfolded proteins, whereas the ␤-subunits have
+threonine protease activities [18]. the regulatory caps con-
+tain several different atpases that can act as molecular
+p. f. finn and j. f. dice / nutrition 22 (2006) 830 – 844
+833
+have indicated increased expression of ubiquitin, certain
+proteasome subunits, and a particular e3 [34]. together
+these data indicate that, under catabolic conditions such as
+weight loss, the ups pathway is responsible for most mus-
+cle proteolysis.
+during this short-term starvation, insulin levels decrease
+and glucocorticoids increase, which trigger skeletal muscle
+cells to increase their rates of proteolysis. epinephrine also
+increases during starvation, which decreases skeletal muscle
+proteolysis, but the overall effect is to increase skeletal
+muscle protein degradation [35]. certain amino acids that
+are liberated during muscle cell proteolysis travel to the
+liver, where they are converted to glucose or utilized for
+energy.
+increased degradation of muscle proteins during starva-
+tion applies mostly to fast-twitch muscles rather than to
+slow-twitch muscles [36]. however, most skeletal muscle
+types show some increase in proteolysis during starvation
+[36].
+recently, caspase-3 has been implicated in the initial
+proteolytic event that induces degradation of muscle myo-
+ﬁbrils [37]. activation of caspase-3 is necessary to cleave
+actomyosin/myoﬁbrils, which liberates protein fragments
+that are then degraded by the ups pathway [37].
+as starvation progresses the amount of total muscle
+proteolysis decreases [1]. in humans the ﬁrst day of starva-
+tion results in degradation of 75 g of muscle protein, but
+later in starvation only 20 g of muscle protein is degraded
+per day [1]. one cause of this protein-sparing effect is
+activation of lipolysis (see below), which provides free fatty
+acids (ffas) as an alternative fuel for muscle, liver, kidney,
+and heart.
+there now appears to be crosstalk between adipose tis-
+sue and muscle tissue [38]. the amount of muscle protein
+that is lost during the initial hours of starvation is inversely
+related to the amount of total body fat within an individual.
+in obese patients who are losing weight, the total amount of
+muscle proteolysis is lower than in lean patients [39].
+whether or not this decreased proteolysis in obese people
+simply reﬂects their required increased exercise in daily
+movements remains to be established.
+lysosomal autophagic pathways
+and
+chaperone-mediated
+autophagy, literally meaning “self-eating,” is made up
+of several different processes including microautophagy,
+macroautophagy,
+autophagy
+(cma), each of which requires atp [40]. these autophagic
+processes function in response to external (starvation) and
+internal (damaged organelles, oxidative stress, protein ag-
+gregation) stimuli. in the following sections, two classes of
+autophagy that increase in response to starvation are re-
+viewed (fig. 3). a third lysosomal proteolytic pathway,
+microautophagy, may [41] or may not [40] be activated by
+starvation.
+fig. 3. lysosomal pathways of proteolysis that are increased during star-
+vation. macroautophagy is described in detail in the text. it is activated in
+many tissues in response to short-term starvation. chaperone-mediated
+autophagy is also described in detail in the text and is activated by
+long-term starvation and other forms of stress. ap, autophagosome; l,
+lysosome; n, nucleus.
+macroautophagy
+macroautophagy is the most widely studied form of
+autophagy in saccharomyces cerevisiae and mammalian
+cells. in macroautophagy there is a sequestration of a sec-
+tion of cytosol that contains proteins and/or organelles by a
+double membrane vesicle called an autophagosome (ap;
+fig. 3). the ap then fuses with endosomes to become an
+amphisome, and the amphisome subsequently fuses with
+lysosomes and acquires lysosomal enzymes that degrade
+internal components. in macroautophagy these internalized
+components include proteins, sugars, lipids, and nucleic
+acids. lysosomes contain hydrolytic enzymes capable of
+digesting all of these compounds [42].
+by taking advantage of yeast genetics, researchers have
+been able to determine approximately 20 genes and proteins
+necessary for macroautophagy [43]. these genes are termed
+atg followed by a number, and corresponding proteins are
+called atgp. the origin of the sequestering double mem-
+brane has been debated for some years. some researchers
+had evidence in mammalian liver that the ap membrane
+originated from the endoplasmic reticulum [44,45] or the
+golgi network [46], whereas other researchers maintained
+that the ap membrane originated de novo from a condensed
+region of the cytoplasm termed the phagophore [47]. re-
+cently, a perivacuolar structure has been described as the
+preautophagosome, which is where the initial step of se-
+questration begins in yeast [48,49]. the preautophagosome
+contains proteins and lipids necessary for the formation and
+expansion of the ap. the origins of this structure are cur-
+rently being deﬁned.
+proteins involved in the formation of aps use two con-
+jugation systems related to the ubiquitination of proteins.
+one ubiquitin-like conjugation system begins with atg12p
+binding to the e1-like enzyme atg7p [50 –55]. the atg7p
+834
+p. f. finn and j. f. dice / nutrition 22 (2006) 830 – 844
+acids also inhibit protein degradation in skeletal muscle
+[60], kidney [61], and heart [62]. in these cases, leucine and
+phenylalanine alone achieve maximal inhibition in skeletal
+muscle [60], leucine and glutamine are maximally effective
+in kidney [61], and leucine alone shows maximum inhibi-
+tion in heart [62].
+target of rapamycin
+leucine increases protein synthesis in liver and muscle
+cells [63] and inhibits macroautophagy more potently than
+any other amino acid. treating hepatocytes with amino
+acids resulted in phosphorylation of the 40s ribosomal pro-
+tein s6 [64]. this phosphorylation of s6 could be prevented
+by treatment with the target of rapamycin (tor) inhibitor
+rapamycin [65,66]. the percentage of s6 phosphorylation
+was inversely related to the activity of macroautophagy
+[67]. we now know that tor (mtor in mammals) inhibits
+macroautophagy.
+tor is a central protein on which many signaling path-
+ways converge and from which many signaling pathways
+emanate to sense amino acid levels, intracellular atp lev-
+els, and the presence of insulin [65,66]. the signaling events
+converge on mtor and ultimately lead to phosphorylation of
+s6 mediated by p70s6 kinase [67]. activated mtor leads to
+multiple events that eventually result in stimulating the
+initiation of protein synthesis [67]. the mechanism by
+which mtor signaling inhibits autophagy is unknown, but it
+is clear that inhibition of tor/mtor by rapamycin activates
+macroautophagy in several cell types [65– 68]. future work
+should focus on determining how macroautophagy is in-
+duced by the absence of mtor signaling.
+phosphatidylinositol 3-kinase
+phosphatidylinositol 3-kinases
+(pi3ks) constitute a
+group of ubiquitous enzymes that phosphorylate the inositol
+head group of phosphoinositides at the 3-hydroxyl position
+[69] to form phosphatidyl-monophosphates, phosphatidyl-
+diphosphates, or phosphatidyl-triphosphates [70].
+of eight pi3ks known to exist, the class i group has been
+the most extensively studied [71]. class i pi3ks are in-
+volved in a multitude of cellular processes such as cell
+growth and survival, insulin signaling, inﬂammation, and
+immunity [71]. in contrast to the extensive knowledge on
+class i pi3ks, much less is known about class ii pi3ks.
+they may be especially important in regulating cell motility
+[72]. in mammals there is a single class iii pi3k that is not
+stimulated by receptors and plays a role in membrane traf-
+ﬁcking, vacuolar sorting, and autophagy [70,73,74]. the
+pi3k inhibitors, wortmannin and ly294002, inhibit auto-
+phagy in isolated rat hepatocytes [75] and in other cell types
+[76,77]. further support for involvement of pi3k in mac-
+roautophagy is that the macroautophagy inhibitor 3-methyl-
+adenine is a pi3k inhibitor [47,78].
+the pi3ks that are required for macroautophagy exist in
+fig. 4. macroautophagy requires two forms of ubiquitin-like conjugation.
+(a) protein conjugation system required for macroautophagy. atg12p is
+covalently linked to atg5p through the actions of atg7p, an e1 enzyme,
+and atg10p, an e2 enzyme. (b) lipid conjugation system required for
+macroautophagy. atg8pr refers to atg8p that normally ends in arginine.
+atgp7 is homologous to the ubiquitin activating enzyme e1. atg4p clips
+off the c-terminal arginine and atg3p, an e2, catalyzes conjugation of pe
+to the exposed c-terminal glycine. atp, adenosine triphosphate; e1, ubi-
+quitin-activating enzyme; e2, ubiquitin-conjugating enzyme; pe, phos-
+phatidylethanolamine.
+then transfers atg12p to atg10p, an e2-like enzyme
+[51,52]. an atg12p-atg5p complex is then formed [53]
+(fig. 4). once the atg12p-atg5p complex forms, it interacts
+with atg16p, which then facilitates its multimerization [49].
+the oligomerized atg12p-atg5p-atg16p can reach sizes of
+350 kda in yeast and 800 kda in mammals [55]. the
+atg12p-atg5p-atg16p complex is necessary for expansion
+of the ap structure, but is absent in the mature ap [56]. the
+function of the atg12p-atg5p-atg16p complex is unknown.
+another ubiquitin-like conjugation system results in a co-
+valent lipid modiﬁcation of a protein [57]. once macroau-
+tophagy is activated, the carboxyl terminus of atg8p (mi-
+crotubule-associated protein light chain-3 in mammals) is
+cleaved by atg4p. this cleavage allows atg7p and atg3p,
+which function similarly as e1 and e2 enzymes in the
+ubiquitin pathway and are homologs of these enzymes,
+respectively, to conjugate atg8p to a phosphatidylethanol-
+amine molecule [57] (fig. 4). the lipidated atg8p (called
+microtubule-associated protein light chain-3ii in mammals)
+can serve as a marker for macroautophagy [58], whereas the
+non-lipidated form (microtubule-associated protein light
+chain-3i) is constitutively expressed [58].
+macroautophagy is activated transiently during the ﬁrst
+24 h of starvation in vivo [59]. macroautophagy in the liver
+is inhibited by insulin and amino acids and stimulated by
+glucagon [40]. not all amino acids inhibit macroautophagy
+equally. for example, in the liver, leucine can inhibit mac-
+roautophagy more effectively than any other single amino
+acid, but to achieve maximal inhibition, leucine must be
+present with phenylalanine, tyrosine, glutamine, proline,
+histidine, tryptophan, methionine, and alanine [40]. amino
+p. f. finn and j. f. dice / nutrition 22 (2006) 830 – 844
+835
+fig. 5. mechanisms of chaperone-mediated autophagy. (1) hsc70 with cochaperones including hsc70 interacting protein (hip), hsp70-hsp90 organizing
+protein (hop), bcl2-associated athanogene-1 (bag-1), and 40- and 90-kda heat shock proteins recognizes a peptide motif that includes the kferq-related
+peptide in cytosolic substrate proteins. (2) the complex binds to the multisubunit lamp-2a receptor on the lysosomal membrane. (3) the substrate protein
+is unfolded before traversing the lysosomal membrane through the putative translocon formed by the multiple lamp-2a transmembrane segments. (4) an
+intra–ly-hsc70 is required for substrate entry into the lysosome matrix. (5) once inside the lysosome, the substrate protein is degraded at different rates by
+lysosomal proteases. (6) the hsc70/cochaperone complex is released from the lysosomal membrane and (7) is now available to bind to another cytosolic
+protein with a kferq-like motif. adopted from majeski and dice [84]. hsc70, 70-kda heat shock cognate protein; lampa-2a, lysosome-associated
+membrane protein-2a; ly-hsc70, luminal isoform of 70-kda heat shock cognate protein.
+a complex in yeast and in mammals. in yeast, the complex
+consists of vps34p-vps15p and atg14p-atg6p [71,72]. in
+mammalian cells, the class iii pi3k is in a complex with its
+adaptor protein p150 and the tumor-suppressor beclin1
+(atg6p) [79,80]. the discovery that beclin1 is involved in
+macroautophagy has provided a link between tumor pro-
+gression and decreased macroautophagy [81].
+the proper regulation of macroautophagy is essential to
+maintain cellular homeostasis. when yeast are starved and
+macroautophagy is blocked, cells rapidly lose intracellular
+amino acids [82], protein synthesis fails, and cells die [83].
+chaperone-mediated autophagy
+during prolonged starvation, cma is responsible for
+degrading approximately 30% of cytosolic proteins in cell
+types such as hepatocytes, renal cells, and ﬁbroblasts [40].
+substrates for cma contain a pentapeptide motif related to
+kferq and are bound by a chaperone/cochaperone com-
+plex containing the heat shock cognate protein of 70 kda
+(hsc70) [84]. the substrate/chaperone/cochaperone com-
+plex then docks to the receptor, lysosome-associated mem-
+brane protein-2a (lamp-2a). once bound to the lysoso-
+mal membrane, the substrate is unfolded and internalized
+into the lumen of the lysosome, presumably through a trans-
+locon formed by oligomerized lamp-2a, with the help of
+a luminal isoform of hsc70 (ly-hsc70), and degraded (fig. 5)
+[84].
+in vitro cma degradation assay
+highly puriﬁed lysosomes are able to selectively degrade
+substrates of cma such as glyceraldehyde 3-phosphate
+dehydrogenase or ribonuclease a (rnase a) [85] but not
+non-substrates of cma such as ovalbumin [85]. these
+isolated lysosomes could degrade proteins without adding
+any exogenous factors; however, the addition of atp, an
+atp-regenerating system, and hsc70 increased proteolysis
+[85,86]. the degradation of substrate proteins was satura-
+ble, and substrates could compete with one another for
+import [85– 87]. binding of substrate proteins was permitted
+at 4°c, but translocation was inhibited [85].
+kferq motif in substrate proteins
+kferq was ﬁrst described as the necessary sequence for
+the more rapid degradation of microinjected [3h]rnase a
+in response to serum withdrawal [88]. [3h]rnase a can be
+cleaved with subtilisin into two fragments: residues 1–20
+836
+p. f. finn and j. f. dice / nutrition 22 (2006) 830 – 844
+table 3
+substrates and non-substrates for chaperone-mediated autophagy
+sequence representation* reference
+kferq ⫹□⫺⫹q
+rkveq ⫹⫹□⫺ q
+q ⫺□⫹□
+qdlkf
+q ⫹□□⫺
+qrffe
+kvvkq ⫹□□⫹q‡
+qrdkv q ⫹⫺ ⫹□
+q ⫹□□⫺
+qkild
+qkkel q ⫹ ⫹ ⫺ □
+q □⫹⫺ □
+qfrel
+ikldq □ ⫹□⫺ q
+dvvrq ⫺□□⫹q
+q ⫹□□⫺
+qrive
+vkelq □ ⫹⫺□q
+qkvfd q ⫹□□⫺
+q ⫺□□⫹
+qellr
+protein substrates
+ribonuclease a
+aspartate aminotransferase
+pyruvate kinase
+hemoglobin (␤-chain)
+glyceraldehyde 3-phosphate
+dehydrogenase
+hsc70
+aldolase-b
+paired box gene-2
+inhibitor of nf-␬b
+annexin ii
+annexin iv
+protein non-substrates
+rnase s-protein
+ovalbumin
+lysozyme
+ubiquitin
+hexokinase
+␤-galactosidase
+annexin v
+annexin xi
+insulin a chain
+green ﬂuorescent protein
+[88]
+[164]
+[165]
+[87]
+[96]
+[91]
+[166]
+[167]
+[168]
+[168]
+[88]
+[87]
+[169]
+[169]
+[87]
+[168]
+[168]
+[170]
+hsc70, 70-kda heat shock cognate protein; nf-␬b, nuclear factor-␬b;
+rnase-s protein, ribonuclease a residues 21–124
+* representation of amino acid types: ⫹ ⫽ k, r; ⫺ ⫽ d, e; □ ⫽ f, i,
+l, v. non-substrates do not have kferq motifs.
+† from e. a. beard and j. f. dice (unpublished results).
+‡ this putative kferq does not contain an acidic amino acid; however,
+lipid modiﬁcation of a lysine followed by lipolysis can convert it to a
+negatively charged side change [151].
+§ l. j. terlecky and j. f. dice (unpublished results).
+储 m. han and j. f. dice (unpublished results).
+(rnase-s peptide) and residues 21–124 (rnase-s protein)
+[88]. rnase-s protein was degraded at the same rate in the
+presence or absence of serum, whereas rnase-s peptide
+was degraded more rapidly in response to serum withdrawal
+[88]. these data suggested that the ﬁrst 20 amino acids
+contained a targeting sequence necessary for enhanced deg-
+radation in response to serum withdrawal and the critical
+sequence was eventually narrowed to amino acids 7–11,
+kferq [89].
+since the discovery of the targeting sequence, many
+cma substrates have been identiﬁed by different research-
+ers (table 3). by analyzing sequences of the cma sub-
+strates, it became clear that the exact kferq sequence is
+not necessary for degradation by cma [90]. the sequence
+motif necessary for degradation by cma was determined to
+be a glutamine (q) at one end and in any order a hydro-
+phobic (f), an acidic (e), a basic (r), and a second hydro-
+phobic or basic amino acid (k) [79]. accordingly, the tar-
+geting sequence can be best described as (⫹,⫺,□,⫹/□), q
+or q, (⫹,⫺,□,⫹/□), where the material within the paren-
+thesis can be in any order, and conservative replacements
+are allowed (⫹ ⫽ k, r; ⫺ ⫽ d, e; and □ ⫽ f, i, l, v)
+[40,84].
+approximately 30% of cytosolic proteins can be immu-
+noprecipitated with an antibody against kferq [90]. pro-
+teins such as aldolase-b have multiple kferq-like motifs,
+but only one is necessary for enhanced proteolysis due to
+serum withdrawal [91]. further studies demonstrated that
+hsc70 could recognize the kferq-like region of rnase a,
+suggesting that hsc70 might be involved in cma [92].
+70-kda heat shock cognate protein
+hsc70 in the cytosol and on the lysosomal membrane
+(lym-hsc70) is in a complex with several other chaperones
+and cochaperones [93]. the cytosolic form stimulates
+cma, probably by unfolding protein substrates [94]. an
+isoform of hsc70 without other chaperones and cochaper-
+ones also exists in the lysosomal lumen (ly-hsc70) [95].
+ly-hsc70 is internalized into the lysosomal lumen by mac-
+roautophagy [86] and by cma [96]. hsc70 has two
+kferq-like motifs (table 3).
+ly-hsc70 appears to facilitate the transport of substrates
+into the lysosome for degradation, although direct evidence
+remains inconclusive. populations of lysosomes that contain
+more ly-hsc70 are more active in cma compared with
+populations of lysosomes with lower levels of ly-hsc70
+[86].
+a role for ly-hsc70 in cma was demonstrated by using
+endocytosed anti-hsc70 antibodies. cma was abolished in
+ﬁbroblasts pretreated with anti-hsc70 antibodies [96]. heat
+shock proteins of 70 kda are required to pull substrates into
+the lumen of the mitochondria and endoplasmic reticulum
+[97], so ly-hsc70 may play a similar role in lysosomes.
+lamp-2a recycles between the lumen and the mem-
+brane of the lysosome [98]. selective degradation of pro-
+teins by cma depends in part on levels of lamp-2a in the
+membrane [99]. during active proteolysis by cma,
+lamp-2a is internalized and recycled back to the lysoso-
+mal membrane [98]. anti-hsc70 antibodies decrease the
+reinsertion of lamp-2a into the lysosomal membrane [98].
+therefore, the inhibitory effect of anti-hsc70 antibodies on
+cma may be an indirect effect caused by decreased levels
+of lamp-2a at the lysosomal membrane.
+lysosome-associated membrane protein-2a
+lamp-2a is a 96-kda protein located in the lysosomal
+membrane. the bulk of the protein resides in the lysosomal
+lumen and is heavily glycosylated, presumably to protect it
+from the harsh environment of the lysosome. lamp-2a has
+a single transmembrane domain and a 12–amino acid cyto-
+solic tail (fig. 6).
+lamp-2a was identiﬁed as the receptor for cma [99]
+based on the fact that substrate proteins could speciﬁcally
+p. f. finn and j. f. dice / nutrition 22 (2006) 830 – 844
+837
+[94]. competing out methotrexate binding to dhfr by
+adding its natural substrate, dihydrofolate, permitted it to be
+internalized into lysosomes more efﬁciently [94]. these
+data indicate that substrates must be unfolded before being
+translocated into the lysosome.
+activation of cma
+activation of cma during times of prolonged nutrient
+deprivation presumably provides a mechanism for increased
+organismal survival under such conditions. cma may be a
+mechanism by which individual cells can sacriﬁce proteins
+that are less needed during starvation and use the amino
+acids for necessary cell processes. for example, during
+starvation glycolytic rates decrease [34], so glycolytic en-
+zymes such as glyceraldehyde 3-phosphate dehydrogenase
+and aldolase-b might be safely decreased in concentration
+due to proteolysis by cma.
+much is known about the mechanisms of cma, and the
+way in which this proteolytic pathway is activated is be-
+coming clear. levels of lamp-2a [85,100] and ly-hsc70
+increase in response to starvation [2]. recent work has
+identiﬁed ketone bodies, a physiologic indicator of starva-
+tion that is derived by lipolysis, as activators of cma that
+oxidize proteins within the cell and mark them for degra-
+dation [101] . during rapid lipolysis, amino acids or carbo-
+hydrates are also required to restore intermediates of the
+citric acid cycle that become rate limiting for the reaction
+cycle [3]. ketone bodies stimulating cma appears to be a
+mechanistic link between lipolysis and this pathway of
+proteolysis.
+we speculate that other links between proteolysis and
+lipolysis will be discovered. for example, carnitine is es-
+sential for fatty acid oxidation (see below), and carnitine is
+synthesized from trimethyllysines derived from protein deg-
+radation [102]. it may be that certain cma substrates are
+enriched for trimethyllysines, but this conjecture remains to
+be proved.
+interactions between macroautophagy and cma
+macroautophagy is active only early in starvation [69],
+whereas cma is active only in prolonged starvation [2]. it
+seems possible that macroautophagy can selectively de-
+grade intracellular inhibitors of cma. although macroau-
+tophagy is considered to be non-selective in terms of protein
+substrates, there is some selectivity in this process [103]. in
+this case, macrautophagy would have to be activated before
+cma could operate. mutations that block macroautophagy
+might also block cma. another possibility is that macro-
+autophagy is limited in time because some of the atg
+proteins are substrates of cma. in this case, cma would be
+required to turn off macroautophagy. this possibility could
+be tested by speciﬁcally inhibiting cma [104] and testing
+whether macroautophagy is increased in response to this
+treatment.
+fig. 6. diagram of lamp-2a in the lysosomal membrane. the sequence
+shown for the cytosolic tail is the human lamp-2a. lampa-2a, lyso-
+some-associated membrane protein-2a.
+bind to the cytosolic tail of lamp-2a [99]. although sub-
+strates alone can interact with lamp-2a [99], that interac-
+tion is enhanced by the presence of the chaperone complex
+(a. m. cuervo and j. f. dice, unpublished results). over-
+expression of lamp-2a in cells in culture revealed that the
+binding of substrate to lamp-2a is a rate-limiting step of
+cma [99]. further, there is a direct correlation with the
+amount of lamp-2a in the lysosomal membrane and cma
+activity in vitro and in vivo [100].
+at the lysosomal membrane, lamp-2a forms a multi-
+mer, which may function as the translocon for substrates of
+cma [100]. the cytosolic tail of lamp-2a contains four
+amino acids that are required for substrate binding (krhh)
+and are unique to lamp-2a compared with other lamp
+isoforms [100]. interestingly lamp-2a levels decrease
+with age as does the activity of cma [96]. a decrease in the
+ability for cells to process damaged proteins may lead to a
+variety of pathologies such as cancer and alzheimer’s, par-
+kinson’s, and huntington’s diseases.
+substrates of cma must be unfolded
+proteins that are transported into mitochondria and the
+endoplasmic reticulum must be unfolded to traverse the
+membrane, but proteins can be translocated into peroxi-
+somes in a fully folded state [97]. to address this question
+for lysosomal import of cma substrates, derivatives of
+dihydrofolate reductase (dhfr) were used. dhfr can be
+placed into a tightly bound, protease-resistant conformation
+by incubating it with its competitive inhibitor, methotrexate.
+the binding of dhfr to lysosomes was not affected by the
+presence of methotrexate, but its import was greatly reduced
+838
+p. f. finn and j. f. dice / nutrition 22 (2006) 830 – 844
+fig. 7. metabolism of tag stored in adipose tissue. atl, adipose triac-
+ylglycerol lipase; dag, diacylglycerol; ffa, free fatty acid; hsl, hor-
+mone-sensitive lipase; mag, monoacylglycerol; mgl, monoacylglycerol
+lipase; tag, triacylglycerol.
+lipolytic responses to starvation
+fat breakdown is important in starvation to provide the
+caloric needs for metabolism. in addition, sustained lipoly-
+sis results in ketone body formation, which stimulates cma
+in tissues that do not metabolize ffas, thus ensuring a
+continued low level of proteolysis during a primarily lipo-
+lytic phase of starvation.
+breakdown of tag
+lipids, stored in adipose tissue, liver, and skeletal mus-
+cle, are used to survive long-term starvation [105]. lipids
+are stored in adipose tissue in the form of tag. during
+starvation, tag is broken down into ffas, which are
+released into the circulation and supply other tissues such as
+skeletal muscle, heart, liver, and kidney with energy [106].
+glycerol is also released from the breakdown of tag and is
+converted to glucose by the liver [107]. catabolism of tag
+within adipose tissue is regulated by a number of neural and
+hormonal signals [107–109].
+once adipose tissue receives the appropriate signals,
+tag begins to be broken down. initially, hormone-sensitive
+lipase (hsl) was thought to be the only lipase responsible
+for catabolism of tag, but recent work has identiﬁed a
+second lipase that is also involved in the catabolism of tag
+in mice. adipose triacylglycerol lipase (atl) functions in
+the initial hydrolysis of tag into diacylglycerol and ffa
+(fig. 7) [110]. atl activity increases during starvation and
+in response to epinephrine and glucocorticoids. although
+hsl can hydrolyze tag, atl is much more efﬁcient and
+appears to be the rate-limiting enzyme involved in the
+hydrolysis of tag into diacylglycerol, at least in mice.
+the second step in the catabolism of lipids is the break-
+down of diacylglycerol into monoacylglycerol (fig. 7) me-
+diated by hsl. the main regulators of hsl are insulin,
+which inhibits hsl, and epinephrine, which stimulates
+hsl. the lowered insulin and elevated epinephrine during
+fasting activates hsl. monoacylglycerol is then catabolized
+into ffa and glycerol by the enzyme monoacylglycerol
+lipase [111]. therefore, catabolism of each tag molecule
+liberates three ffa molecules and one molecule of glycerol
+(fig. 7). after approximately 24 h of starvation, ffa and
+glycerol concentrations begin to increase in the blood, in-
+dicating that lipolysis is induced [112].
+ffas produced by tag catabolism are released into the
+blood plasma, where they travel to the liver, skeletal muscle,
+heart, and kidney to be used as substrates for energy pro-
+duction. ffas are poorly soluble in the aqueous environ-
+ment of the blood so they are delivered to tissues mostly
+bound to albumin [113]. once ffas arrive at speciﬁc tis-
+sues, they are transported across the membrane by fatty acid
+transport proteins [114]. ffas may also enter cells by a
+passive ﬂip-ﬂop through the lipid bilayer [114]. once in the
+cytosol, ffas may be shuttled around by a variety of lipid-
+carrier proteins, such as fatty acid binding protein-c or
+caveolin-1, which deliver them to a multitude of destina-
+tions such as the endoplasmic reticulum or mitochondria
+[115]. conversely, speciﬁc ffa binding proteins in cells
+may not be necessary because ffas will bind to many
+hydrophobic pockets within proteins [115].
+perilipin a
+the major protein that associates with lipid droplets in
+fat cells, perilipin a, plays critical roles in lipogenesis and
+lipolysis [116,117]. phosphorylation of perilipin a by pro-
+tein kinase-a [117] allows phosphorylated hsl to bind to
+the lipid droplet and begin lipolysis [118]. perilipin may
+also act as a barrier for access of atl to the lipid droplet
+[119]. perilipin knockout mice have dramatically decreased
+fat stores when compared with normal mice, and isolated
+adipocytes show increased lipolysis when compared with
+adipocytes from control animals [120].
+movement of acyl-coa into the mitochondria
+during starvation ffas accumulate in hepatocytes, car-
+diac myocytes, renal tubular cells, and skeletal muscle tis-
+sue, where they are oxidized (␤-oxidation) in the mitochon-
+dria into acetyl-coa for use in the krebs cycle or for
+production of ketone bodies. accumulation of ffa in hepa-
+tocytes results in the conversion to acyl-coa by the cyto-
+solic enzyme acyl-coa synthetase. acyl-coa cannot be
+directly transferred into the mitochondria, so this step be-
+comes an important point of regulation for the ␤-oxidation
+of fatty acids [121]. for acyl-coa to be translocated into the
+mitochondria, the acyl group must be transferred from the
+coa to carnitine,
+translocated across the mitochondrial
+membrane, and then transferred back from carnitine to coa
+(fig. 8). this step is performed by the enzymes carnitine
+palmitoyl transferase-i on the outer membrane and carnitine
+acylcarnitine translocase and carnitine palmitoyl
+trans-
+ferase-ii on the inner mitochondrial membrane. to maintain
+appropriate levels of carnitine within the cytoplasm, carni-
+tine acylcarnitine translocase exchanges acylcarnitine with
+carnitine [122]. the ﬁnal stages of ␤-oxidation in the mi-
+tochondria take place by a variety of enzymatic reactions
+that ultimately lead to the production of acetyl-coa.
+p. f. finn and j. f. dice / nutrition 22 (2006) 830 – 844
+839
+ies in the form of three molecules: acetoacetate, ␤-hydroxy-
+butyrate (boh), and acetone (fig. 9) [124]. of these three
+molecules, only acetoacetate and boh are metabolically
+active, but acetone provides a convenient volatile odor for
+detection of ketosis.
+production of ketone bodies serves an important function
+for survival during starvation. ketone bodies, boh specif-
+ically, play a role in the regulation of lipolysis [125] by
+interacting with the nicotinic acid receptor protein up reg-
+ulated in macrophages by interferon gamma (puma-g),
+which decreases the rate of lipolysis, thereby prolonging
+lipid stores within the body and promoting long-term sur-
+vival [125].
+although the liver possesses the enzymes necessary for
+ketone body production, it does not produce the necessary
+enzymes to metabolize these compounds. as a result, ke-
+tone bodies accumulate in the blood and function to provide
+a source of energy to tissues such as brain, heart, muscle,
+and kidney during conditions of glucose scarcity [124].
+ketone bodies suppress muscle proteolysis by unknown
+mechanisms [126]. during starvation, concentrations of ke-
+tone bodies increase to concentrations of up to 12 mm
+[127].
+although muscle tissue can metabolize ketone bodies
+and ffas, the brain can metabolize only ketone bodies.
+astrocytes can synthesize ketone bodies during starvation,
+which would provide additional nutrition to the brain in
+times of nutrient deprivation [128].
+although this review has focused only on the proteolytic
+and lipolytic effects of starvation, there are a number of
+other responses that occur within the starving animal to
+maintain life. for example, as listed in table 1, the most
+active form of thyroid hormone, triiodothyronine, decreases
+during starvation. the decrease of this hormone and the
+production of the inactive reverse triiodothyronine decrease
+the metabolic rate [129], which decrease the amount of
+fig. 9. formation of ketone bodies within mitochondria by condensation of
+acetyl-coa. metabolic conversions of acetoacetate, ␤-hydroxybutyrate,
+and acetone are shown. enzymes that catalyze the different steps are
+indicated by arrows. coa, coenzyme a; hmg-coa, 3-hydroxy-3-meth-
+ylglytaryl coenzyme a; nad, nicotinamide adenine dinucleotide;
+nadh⫹, nicotinamide adenine dinucleotide (oxidized).
+fig. 8. transport of acyl-coa into mitochondria by the carnitine shuttle.
+see text for details. cat, carnitine acetyltransferase; coa, coenzyme a;
+cpti, carnitine palmitoyl transferase-i; cptii, carnitine palmitoyl trans-
+ferase-ii; ct, acylcarnitine transferase.
+ffa entry into the mitochondria is a regulated process.
+in the fed state, insulin maintains high levels of malonyl-
+coa. high levels of malonyl-coa inhibit ffa entry into
+the mitochondria by directly inhibiting carnitine palmitoyl
+transferase-i [102]. as blood glucose decreases, so do cel-
+lular glycolysis levels. this results in a decrease of the
+activity of acetyl-coa carboxylase, the enzyme responsible
+for the production of malonyl-coa. once malonyl-coa
+production decreases, carnitine palmitoyl transferase-i be-
+comes activated and ffas can gain entry into the mitochon-
+dria. during the fed state, high levels of malonyl-coa not
+only inhibits ␤-oxidation of fatty acids but also stimulates
+lipogenesis [102].
+ffas and glycerol inhibit lipolysis [121]. such negative
+feedback inhibition is common in cell physiology, but the
+mechanisms for this inhibition are unknown.
+production of ketone bodies
+during starvation, a great demand is placed on the liver
+to provide energy for the rest of the organism. as insulin
+levels decrease and glucagon levels increase, the liver be-
+gins to deplete glycogen stores to provide glucose for ex-
+trahepatic tissues. as starvation persists to 24 h, an in-
+creased demand is placed on the liver to produce enough
+energy for survival. for example, the liver needs to maintain
+the krebs cycle for intrahepatic atp production and glu-
+coneogenesis for supplying glucose to extrahepatic tissues.
+because these two processes require the same intermediates,
+with oxaloacetate being rate limiting [123], the krebs cycle
+and gluconeogenesis begin to slow down. as a result,
+acetyl-coa accumulates in the mitochondria, which leads to
+a series of condensation reactions that produce ketone bod-
+840
+p. f. finn and j. f. dice / nutrition 22 (2006) 830 – 844
+energy required for survival. this response in turn spares
+lipid and protein to extend life.
+concluding remarks
+proteolysis is activated during short-term starvation to
+supply the body with amino acids for energy and continued
+protein synthesis. although we have predominately dis-
+cussed the proteolysis that occurs in liver and in muscle,
+virtually all tissues, except brain and testes/ovaries, undergo
+some form of increased proteolysis to survive during star-
+vation. most amino acids can be metabolized into krebs
+cycle intermediates, which in turn produce atp. activation
+of proteolytic cascades during starvation serves to provide
+energy and to spare lipid stores in case the period of star-
+vation is only a few hours. as starvation persists, protein
+catabolism decreases to spare this important cellular com-
+ponent as energy is derived from lipolysis. this protein-
+sparing effect is regulated by a variety of complex hor-
+monal, neuronal, and cellular regulatory events.
+physiologic responses to starvation are as complex as
+they are interesting. one way that proteolytic pathways and
+lipolytic pathways interact is through ketone bodies. ketone
+bodies inhibit protein degradation in skeletal muscle, a
+reasonable response because in this tissue ketone bodies can
+be used for energy.
+because ketone bodies circulate in the blood at high
+concentrations and most cells and tissues are able to inter-
+nalize them regardless of whether or not they can metabo-
+lize them [130]. therefore, it appears that multiple cell
+types are exposed to high levels of ketone bodies and are
+unable to metabolize them. interestingly, the appearance of
+ketone bodies during starvation coincides with activation of
+cma. ketone bodies stimulate cma in cell types that
+cannot metabolize boh for energy. future work will shed
+light on the complexities and intricacies of the vast physi-
+ologic responses to starvation.
+references
+[1] cahill gf jr. starvation in man. n engl j med 1970;282:668 –75.
+[2] cuervo am, knecht e, terlecky sr, dice jf. activation of a
+selective pathway of lysosomal proteolysis in rat liver by prolonged
+starvation. am j physiol 1995;269:c1200 – 8.
+[3] ganong wf. review of medical physiology. 23rd ed. new york:
+lange/mcgraw-hill; 2003.
+[4] ozkaynak e, finley d, varshavsky a. the yeast ubiquitin gene:
+head-to-tail repeats encoding a polyubiquitin precursor protein. na-
+ture 1984;312:663– 6.
+[5] simpson mv. the release of labeled amino acids from the proteins
+of rat liver slices. j biol chem 1953;201:143–54.
+[6] hershko a, ciechanover a, heller h, haas al, rose ia. proposed
+role of atp in protein breakdown: conjugation of protein with
+multiple chains of the polypeptide of atp-dependent proteolysis.
+proc natl acad sci usa 1980;77:1783– 6.
+[7] wilkinson kd, urban mk, haas al. ubiquitin is the atp-depen-
+dent proteolysis factor i of rabbit reticulocytes. j biol chem 1980;
+255:7529 –32.
+[8] pickart cm, rose ia. functional heterogeneity of ubiquitin carrier
+proteins. j biol chem 1985;260:1573– 81.
+[9] hershko a. ubiquitin: roles in protein modiﬁcation and breakdown.
+cell 1983;34:11–2.
+[10] varshavsky a. recent studies of the ubiquitin system and the n-end
+rule pathway. harvey lect 2000;96:93–116.
+[11] szlanka t, haracska l, kiss i, deak p, kurucz e, ando i, et al.
+deletion of proteasomal subunit s5a/rpn10/p54 causes lethality,
+multiple mitotic defects and overexpression of proteasomal genes in
+drosophila melanogaster. j cell sci 2003;116:1023–33.
+[12] ciechanover a. n-terminal ubiquitination. methods mol biol 2005;
+301:255–70.
+[13] cadwell k, coscoy l. ubiquitination on nonlysine residues by a
+viral e3 ubiquitin ligase. science 2005;309:127–30.
+[14] benaroudj n, zwickl p, seemuller e, baumeister w, goldberg al.
+atp hydrolysis by proteasome regulatory complex pan serves
+multiple functions in protein degradation. mol cell 2003;11:69 –78.
+[15] tasaki t, mulder lc, iwamatsu a, lee mj, davydov iv, var-
+shavsky a, et al. a family of mammalian e3 ubiquitin ligases that
+contain the ubr box motif and recognize n-degrons. mol cell biol
+2005;25:7120 –36.
+[16] stewart s, fang g. destruction box-dependent degradation of aurora
+b is mediated by the anaphase-promoting complex/cyclosome and
+cdh1. cancer res 2005;65:8730 –5.
+[17] leismann o, lehner cf. drosophila securin destruction involves a
+d-box and a ken-box and promotes anaphase in parallel with
+cyclin a degradation. j cell sci 2003;116:2453– 60.
+[18] seeger m, ferrell k, dubiel w. the 26s proteasome: a dynamic
+structure. mol biol rep 1997;24:83– 8.
+[19] braun bc, glickman m, kraft r, dahlmann b, kloetzel pm, finley
+d, et al. the base of the proteasome regulatory particle exhibits
+chaperone-like activity. nat cell biol 1999;1:221– 6.
+[20] hu m, li p, song l, jeffrey pd, chenova ta, wilkinson kd, et al.
+structure and mechanisms of the proteasome-associated deubiquiti-
+nating enzyme usp14. embo j 2005;24:3747–56.
+[21] imai j, maruya m, yashiroda h, yahara i, tanaka k. the molecular
+chaperone hsp90 plays a role in the assembly and maintenance of
+the 26s proteasome. embo j 2003;22:3557– 67
+[22] he lq, cai f, liu y, liu mj, tan zp, pan q, et al. cx31 is
+assembled and trafﬁcked to cell surface by er-golgi pathway and
+degraded by proteasomal or lysosomal pathways. cell res 2005;15:
+455– 64.
+[23] shin y, klucken j, patterson c, hyman bt, mclean pj. the
+co-chaperone carboxyl
+terminus of hsp70-interacting protein
+(chip) mediates alpha-synuclein degradation decisions between
+proteasomal
+chem
+2005;280:23727–34.
+lysosomal
+pathways.
+and
+biol
+[24] elsasser s, finley d. delivery of ubiquitinated substrates to protein-
+unfolding machines. nat cell biol 2005;7:742–9.
+[25] hicke l, dunn r. regulation of membrane protein transport by
+ubiquitin and ubiquitin-binding proteins. annu rev cell dev biol
+2003;19:141–72.
+[26] mitch we, goldberg al. mechanisms of muscle wasting. the role
+of the ubiquitin-proteasome pathway. n engl j med 1996;335:
+1897–905.
+[27] attaix d, aurousseau e, combaret l, kee a, larbaud d, ralliere c,
+et al. ubiquitin-proteasome– dependent proteolysis in skeletal mus-
+cle. reprod nutr dev 1998;38:153– 65.
+[28] fang ch, li bg, tiao g, wang jj, fischer je, hasselgren po. the
+molecular regulation of protein breakdown following burn injury is
+different in fast- and slow-twitch skeletal muscle. int j mol med
+1998;1:163–9.
+[29] price sr, bailey jl, wang x, jurkovitz c, england bk, ding x, et
+al. muscle wasting in insulinopenic rats results from activation of
+p. f. finn and j. f. dice / nutrition 22 (2006) 830 – 844
+841
+the atp-dependent, ubiquitin-proteasome proteolytic pathway by a
+mechanism including
+invest
+1996;98:1703– 8.
+transcription.
+j clin
+gene
+[30] williams a, sun x, fischer je, hasselgren po. the expression of
+genes in the ubiquitin-proteasome proteolytic pathway is increased
+in skeletal muscle from patients with cancer. surgery 1999;126:
+744 –9.
+[31] hobler sc, williams a, fischer d, wang jj, sun x, fischer je, et
+al. activity and expression of the 20s proteasome are increased in
+skeletal muscle during sepsis. am j physiol 1999;277:r434 – 40.
+[32] mansoor o, beaufrere b, boirie y, ralliere c, taillandier d, au-
+rousseau e, et al. increased mrna levels for components of the
+lysosomal, ca2⫹-activated, and atp-ubiquitin– dependent proteo-
+lytic pathways in skeletal muscle from head trauma patients. proc
+natl acad sci usa 1996;93:2714 – 8.
+[33] tiao g, hobler s, wang jj, meyer ta, luchette fa, fischer je, et
+al. sepsis is associated with increased mrnas of the ubiquitin-
+proteasome proteolytic pathway in human skeletal muscle. j clin
+invest 1997;99:163– 8.
+[34] jagoe rt, lecker sh, gomes m, goldberg al. patterns of gene
+expression in atrophying skeletal muscles: response to food depri-
+vation. faseb j 2002;16:1697–712.
+[35] kadowaki m, kamata t, noguchi t. acute effect of epinephrine on
+muscle proteolysis in perfused rat hindquarters. am j physiol 1996;
+270:e961–7.
+[36] li jb, goldberg al. effects of food deprivation on protein synthesis
+and degradation in rat skeletal muscles. am j physiol 1976;231:
+441– 8.
+[37] mitch we, bailey jl, wang x, jurkovitz c, newby d, price sr.
+evaluation of signals activating ubiquitin-proteasome proteolysis in
+a model of muscle wasting. am j physiol 1999;276:c1132– 8.
+[38] argiles jm, lopez-soriano j, almendro v, busquets s, lopez-
+soriano fj. cross-talk between skeletal muscle and adipose tissue:
+a link with obesity? med res rev 2005;25:49 – 65.
+[39] dulloo ag, jacquet j. the control of partitioning between protein
+and fat during human starvation: its internal determinants and bio-
+logical signiﬁcance. br j nutr 1999;82:339 –56.
+[40] dice jf. lysosomal pathways of protein degradation. georgetown,
+tx: landes bioscience; 2000.
+[41] roberts p, moshitch-moshkovitz s, kvam e, o’toole e, winey m,
+goldfarb ds. piecemeal microautophagy of nucleus in saccharo-
+myces cerevisiae. mol biol cell 2003;14:129 – 41.
+[42] mortimore ge, neely an, cox jr, guinivan ra. proteolysis in
+homogenates of perfused rat liver: responses to insulin, glucagon
+and amino acids. biochem biophys res commun 1973;54:89 –95.
+[43] klionsky dj, cregg jm, dunn wa jr, emr sd, sakai y, sandoval
+iv, et al. a uniﬁed nomenclature for yeast autophagy-related genes.
+dev cell 2003,5:539 – 45.
+[44] dunn wa jr. studies on the mechanisms of autophagy: formation of
+the autophagic vacuole. j cell biol 1990;110:1923–33.
+[45] furuno k, ishikawa t, akasaki k, lee s, nishimura y, tsuji h, et
+al. immunocytochemical study of the surrounding envelope of au-
+tophagic vacuoles in cultured rat hepatocytes. exp cell res 1990;
+189:261– 8.
+[46] yamamoto a, masaki r, tashiro y. characterization of the isola-
+tion membranes and the limiting membranes of autophagosomes in
+rat hepatocytes by lectin cytochemistry. j histochem cytochem
+1990;38:573– 80.
+[47] seglen po, gordon pb. 3-methyladenine: speciﬁc inhibitor of au-
+tophagic/lysosomal protein degradation in isolated rat hepatocytes.
+proc natl acad sci usa 1982;79:1889 –92.
+[48] suzuki k, kirisako t, kamada y, mizushima n, noda t, ohsumi
+y. the pre-autophagosomal structure organized by concerted func-
+tions of apg genes is essential for autophagosome formation.
+embo j 2001;20:5971– 81.
+[49] noda t, suzuki k, ohsumi y. yeast autophagosomes: de novo
+structure. trends cell biol
+a membrane
+formation
+of
+2002;12:231–5.
+[50] mizushima n, noda t, yoshimori t, tanaka y, ishii t, george
+md, et al. a protein conjugation system essential for autophagy.
+nature 1998;395:395– 8.
+[51] kim j, dalton vm, eggerton kp, scott sv, klionsky dj. apg7p/
+cvt2p is required for the cytoplasm-to-vacuole targeting, macroau-
+tophagy, and peroxisome degradation pathways. mol biol cell
+1999;10:1337–51.
+[52] tanida i, mizushima n, kiyooka m, ohsumi m, ueno t, ohsumi y,
+et al. apg7p/cvt2p: a novel protein-activating enzyme essential for
+autophagy. mol biol cell 1999;10:1367–79.
+[53] kametaka s, matsuura a, wada y, ohsumi y. structural and
+functional analyses of apg5, a gene involved in autophagy in yeast.
+gene 1996;178:139 – 43.
+[54] mizushima n, noda t, ohsumi y. apg16p is required for the
+function of the apg12p-apg5p conjugate in the yeast autophagy
+pathway. embo j 1999;18:3888 –96.
+[55] mizushima n, kuma a, kobayashi y, yamamoto a, matsubae m,
+takao t, et al. mouse apg16l, a novel wd-repeat protein, targets
+to the autophagic isolation membrane with the apg12-apg5 conju-
+gate. j cell sci 2003;116:1679 – 88.
+[56] george md, baba m, scott sv, mizushima n, garrison bs, oh-
+sumi y, et al. apg5p functions in the sequestration step in the
+cytoplasm-to-vacuole targeting and macroautophagy pathways. mol
+biol cell 2000;11:969 – 82.
+[57] ichimura y, kirisako t, takao t, satomi y, shimonishi y, ishihara
+n, et al. a ubiquitin-like system mediates protein lipidation. nature
+2000;408:488 –92.
+[58] tanida i, minematsu-ikeguchi n, ueno t, kominami e. lysosomal
+turnover, but not cellular level, of endogenous lc3 is a marker for
+autophagy. autophagy 2005;1:84 –91.
+[59] mizushima n, yamamoto a, matsui m, yoshimori t, ohsumi y. in
+vivo analysis of autophagy in response to nutrient starvation using
+transgenic mice expressing a ﬂuorescent autophagosome marker.
+mol biol cell 2004;15:1101–11.
+[60] jefferson ls, li jb, rannels sr. regulation by insulin of amino
+acid release and protein turnover in the perfused rat hemicorpus.
+j biol chem 1977;252:1476 – 83.
+[61] rabkin r, tsao t, shi jd, mortimore g. amino acids regulate
+kidney cell protein breakdown. j lab clin med 1991;117:505–13.
+[62] chua bh. speciﬁcity of leucine effect on protein degradation in
+perfused rat heart. j mol cell cardiol 1994;26:743–51.
+[63] tischler me, desautels m, goldberg al. does leucine, leucyl-
+trna, or some metabolite of leucine regulate protein synthesis and
+degradation in skeletal and cardiac muscle? j biol chem 1982;257:
+1613–21.
+[64] luiken jj, blommaart ef, boon l, van woerkom gm, meijer aj.
+cell swelling and the control of autophagic proteolysis in hepato-
+cytes: involvement of phosphorylation of ribosomal protein s6?
+biochem soc trans 1994;22:508 –11.
+[65] dennis pb, jaeschke a, saitoh m, fowler b, kozma sc, thomas g.
+mammalian tor: a homeostatic atp sensor. science 2001;294:
+1102–5.
+[66] meijer aj. amino acids as regulators and components of nonpro-
+teinogenic pathways. j nutr 2003;133:2057s– 62s.
+[67] blommaart ef, luiken jj, blommaart pj, van woerkom gm, mei-
+jer aj. phosphorylation of ribosomal protein s6 is inhibitory for
+autophagy
+j biol chem
+1995;270:2320 – 6.
+hepatocytes.
+isolated
+in
+rat
+[68] van sluijters da, dubbelhuis pf, blommaart ef, meijer aj. ami-
+no-acid– dependent signal transduction. biochem j 2000;351:545–
+50.
+[69] fry mj, waterﬁeld md. structure and function of phosphatidylino-
+sitol 3-kinase: a potential second messenger system involved in
+842
+p. f. finn and j. f. dice / nutrition 22 (2006) 830 – 844
+growth
+1993;340:337– 44.
+control. phil trans r soc lond b biol sci
+[70] wymann mp, pirola l. structure and function of phosphoinositide
+3-kinases. biochim biophys acta 1998;1436:127–50.
+[71] anderson ke, jackson sp. class i phosphoinositide 3-kinases. int
+j biochem cell biol 2003;35:1028 –33.
+[72] maffucci t, cooke ft, foster fm, traer cj, fry mj, falasca m.
+class ii phosphoinositide 3-kinase deﬁnes a novel signaling path-
+way in cell migration. j cell biol 2005;169:789 –99.
+[73] vanhaesebroeck b, leevers sj, ahmadi k, timms j, katso r,
+driscoll pc, et al. synthesis and function of 3-phosphorylated ino-
+sitol lipids. annu rev biochem 2001;70:535– 602.
+[74] petiot a, ogier-denis e, blommaart ef, meijer aj, codogno p.
+distinct classes of phosphatidylinositol 3’-kinases are involved in
+signaling pathways that control macroautophagy in ht-29 cells.
+j biol chem 2000;275:992– 8.
+[75] blommaart ef, krause u, schellens jp, vreeling-sindelarova h,
+meijer aj. the phosphatidylinositol 3-kinase inhibitors wortmannin
+and ly294002 inhibit autophagy in isolated rat hepatocytes. eur
+j biochem 1997;243:240 – 6.
+[76] pommery n, henichart jp. involvement of pi3k/akt pathway in
+prostate cancer—potential strategies for developing targeted thera-
+pies. mini rev med chem 2005;5:1125–32.
+[77] cohen g, makranz c, spira m, kodama t, reichert f, rotshenker
+s. non-pkc dag/phorbol-ester receptor(s) inhibit complement re-
+ceptor-3 and npkc inhibit scavenger receptor-ai/ii–mediated my-
+elin phagocytosis but cpkc, pi3k, and plcgamma activate myelin
+phagocytosis by both. glia 2006;53:538 –50.
+[78] blommaart ef, luiken jj, meijer aj. regulation of hepatic protein
+degradation. contrib nephrol 1997;121:101– 8.
+[79] kihara a, noda t, ishihara n, ohsumi y. two distinct vps34
+phosphatidylinositol 3-kinase complexes function in autophagy and
+carboxypeptidase y sorting in saccharomyces cerevisiae. j cell biol
+2001;152:519 –30.
+[80] kihara a, kabeya y, ohsumi y, yoshimori t. beclin-phosphati-
+dylinositol 3-kinase complex functions at the trans-golgi network.
+embo rep 2001;2:330 –5.
+[81] liang xh, jackson s, seaman m, brown k, kempkes b, hibshoosh
+h, et al. induction of autophagy and inhibition of tumorigenesis by
+beclin 1. nature 1999;402:672– 6.
+[82] onodera j, ohsumi y. autophagy is required for maintenance of
+amino acid levels and protein synthesis under nitrogen starvation.
+j biol chem 2005;280:31582– 6.
+[83] eisler h, frohlich ku, heidenreich e. starvation for an essential
+amino acid induces apoptosis and oxidative stress in yeast. exp cell
+res 2004;300:345–53.
+[84] majeski ae, dice jf. mechanisms of chaperone-mediated autoph-
+agy. int j biochem cell biol 2004;36:2435– 44.
+[85] terlecky sr, dice jf. polypeptide import and degradation by iso-
+lated lysosomes. j biol chem 1993;268:23490 –5.
+[86] cuervo am, dice jf, knecht e. a population of rat liver lysosomes
+responsible for the selective uptake and degradation of cytosolic
+proteins. j biol chem 1997;272:5606 –15.
+[87] cuervo am, terlecky sr, dice jf, knecht e. selective binding and
+uptake of ribonuclease a and glyceraldehyde-3-phosphate dehydrog-
+enase by isolated rat liver lysosomes. j biol chem 1994;269:26374 –
+80.
+[88] backer jm, bourret l, dice jf. regulation of catabolism of micro-
+injected ribonuclease a requires the amino-terminal 20 amino acids.
+proc natl acad sci usa 1983;80:2166 –70.
+[89] dice jf, chiang hl, spencer ep, backer jm. regulation of catab-
+olism of microinjected ribonuclease a. identiﬁcation of residues
+7–11 as the essential pentapeptide. j biol chem 1986;261:6853–9.
+[90] chiang hl, dice jf. peptide sequences that target proteins for
+enhanced degradation during serum withdrawal. j biol chem 1988;
+263:6797– 805.
+[91] susan pp, dunn wa, jr. starvation-induced lysosomal degradation
+of aldolase b requires glutamine 111 in a signal sequence for
+chaperone-mediated transport. j cell physiol 2001;187:48 –58.
+[92] terlecky sr, chiang hl, olson ts, dice jf. protein and peptide
+binding and stimulation of in vitro lysosomal proteolysis by the
+73-kda heat shock cognate protein. j biol chem 1992;267:9202–9.
+[93] agarraberes fa, dice jf. a molecular chaperone complex at the
+lysosomal membrane is required for protein translocation. j cell sci
+2001;114:2491–9.
+[94] salvador n, aguado c, horst m, knecht e. import of a cytosolic
+protein into lysosomes by chaperone-mediated autophagy depends
+on its folding state. j biol chem 2000;275:27447–56.
+[95] agarraberes fa, terlecky sr, dice jf. an intralysosomal hsp70 is
+required for a selective pathway of lysosomal protein degradation.
+j cell biol 1997;137:825–34.
+[96] cuervo am, dice jf. age-related decline in chaperone-mediated
+autophagy. j biol chem 2000;275:31505–13.
+[97] agarraberes fa, dice jf. protein translocation across membranes.
+biochim biophys acta 2001;1513:1–24.
+[98] cuervo am, dice jf. regulation of lamp2a levels in the lysosomal
+membrane. trafﬁc 2000;1:570 – 83.
+[99] cuervo am, dice jf. a receptor for the selective uptake and
+degradation of proteins by lysosomes. science 1996;273:501–3.
+[100] cuervo am, dice jf. unique properties of lamp2a compared to
+other lamp2 isoforms. j cell sci 2000;113:4441–50.
+[101] finn pf, dice jf. ketone bodies stimulate chaperone-mediated
+autophagy. j biol chem 2005;280:25864 –70.
+[102] foster dw. the role of the carnitine system in human metabolism.
+ann ny acad sci 2004;1033:1–16.
+[103] onodera j, ohsumi y. ald6p is a preferred target for autophagy in
+yeast, saccharomyces cerevisiae. j biol chem 2004;279:16071– 6.
+[104] finn pf, mesires nt, vine m, dice jf, effects of small molecules
+on chaperone-mediated autophagy. autophagy 2005;1:141–5.
+[105] ravikumar b, carey pe, snaar je, deelchand dk, cook db, neely
+rd, et al. real-time assessment of postprandial fat storage in liver
+and skeletal muscle in health and type 2 diabetes. am j physiol
+endocrinol metab 2005;288:e789 –97.
+[106] zechner r, strauss jg, haemmerle g, lass a, zimmermann r.
+lipolysis: pathway under construction. curr opin lipidol 2005;16:
+333– 40.
+[107] large v, peroni o, letexier d, ray h, beylot m. metabolism of
+lipids in human white adipocyte. diabetes metab 2004;30:294 –309.
+[108] spiegelman bm, flier js. obesity and the regulation of energy
+balance. cell 2001;104:531– 43.
+[109] flier js. obesity wars: molecular progress confronts an expanding
+epidemic. cell 2004;116:337–50.
+[110] zimmermann r, strauss jg, haemmerle g, schoiswohl g, birner-
+gruenberger r, riederer m, et al. fat mobilization in adipose tissue
+is
+science
+2004;306:1383– 6.
+triglyceride
+adipose
+promoted
+by
+lipase.
+[111] farooqui aa, taylor wa, pendley ce ii, cox jw, horrocks la.
+spectrophotometric determination of lipases, lysophospholipases,
+and phospholipases. j lipid res 1984;25:1555– 62.
+[112] horowitz jf, coppack sw, paramore d, cryer pe, zhao g, klein
+s. effect of short-term fasting on lipid kinetics in lean and obese
+women. am j physiol 1999;276:e278 – 84.
+[113] richieri gv, ogata rt, kleinfeld am. thermodynamics of fatty
+acid binding to fatty acid-binding proteins and fatty acid partition
+between water and membranes measured using the ﬂuorescent probe
+adifab. j biol chem 1995;270:15076 – 84.
+[114] kalant d, cianﬂone k. regulation of fatty acid transport. curr opin
+lipidol 2004;15:309 –14.
+[115] stremmel w, pohl l, ring a, herrmann t. a new concept of
+cellular uptake and intracellular trafﬁcking of long-chain fatty acids.
+lipids 2001;36:981–9.
+[116] londos c, sztalryd c, tansey jt, kimmel ar. role of pat
+proteins in lipid metabolism. biochimie 2005;87:45–9.
+p. f. finn and j. f. dice / nutrition 22 (2006) 830 – 844
+843
+[117] tansey jt, sztalryd c, hlavin fm, kimmel ar, londos c. the
+central role of perilipin in lipid metabolism and adipocyte lipolysis.
+life 2004;56:379 – 85.
+[118] yeaman sj. hormone-sensitive lipase—new roles for an old en-
+zyme. biochem j 2004;379:11–22.
+[119] moore hp, silver rb, mottillo ep, bernlohr da, granneman jg.
+perilipin targets a novel pool of lipid droplets for lipolytic attack by
+hormone-sensitive lipase. j biol chem 2005;280:43109 –20.
+[120] souza sc, muliro kv, liscum l, lien p, yamamoto mt, schaffer
+je, et al. modulation of hormone-sensitive lipase and protein kinase
+a-mediated lipolysis by perilipin a in an adenoviral reconstituted
+system. j biol chem 2002;277:8267–72.
+[121] getty-kaushik l, richard am, corkey be. free fatty acid regula-
+tion of glucose-dependent intrinsic oscillatory lipolysis in perifused
+isolated rat adipocytes. diabetes 2005;54:629 –37.
+[122] eaton s. control of mitochondrial beta-oxidation ﬂux. prog lipid
+res 2002;41:197–239.
+[123] lopes-cardozo m, mulder i, van vugt f, hermans pg, van den
+bergh sg, klazinga w, et al. aspects of ketogenesis: control and
+mechanism of ketone-body formation in isolated rat-liver mitochon-
+dria. mol cell biochem 1975;9:155–73.
+[124] hegardt fg. mitochondrial 3-hydroxy-3-methylglutaryl-coa syn-
+thase: a control enzyme in ketogenesis. biochem j 1999;338:569 –
+82.
+[125] taggart ak, kero j, gan x, cai tq, cheng k, ippolito m, et al.
+(d)-beta— hydroxybutyrate inhibits adipocyte lipolysis via the nic-
+otinic acid receptor puma-g. j biol chem 2005;280:26649 –52.
+[126] thompson jr, wu g. the effect of ketone bodies on nitrogen
+metabolism in skeletal muscle. comp biochem physiol b 1991;100:
+209 –16.
+[127] fery f, balasse eo. ketone body production and disposal in dia-
+betic ketosis. a comparison with fasting ketosis. diabetes 1985;34:
+326 –32.
+[128] guzman m, blazquez c. ketone body synthesis in the brain: pos-
+sible neuroprotective effects. prostaglandins leukot essent fatty
+acids 2004;70:287–92.
+[129] kokkoris p, pi-sunyer fx. obesity and endocrine disease. endo-
+crinol metab clin north am 2003;32:895–914.
+[130] pierre k, pellerin l. monocarboxylate transporters in the central
+nervous system: distribution, regulation and function. j neurochem
+2005;94:1–14.
+[131] johnston dg, pernet a, mcculloch a, blesa-malpica g, burrin
+gm, alberti kg. some hormonal inﬂuences on glucose and ketone
+body metabolism in normal human subjects. ciba found symp
+1982;87:168 –91.
+[132] mortimore ge, poso ar. intracellular protein catabolism and its
+control during nutrient deprivation and supply. annu rev nutr
+1987;7:539 – 64.
+[133] wellbourne tc, milford l, carter p. the role of growth hormone in
+endocrinol metab
+utilization.
+substrate
+1997;11:699 –707.
+baillieres
+clin
+[134] thissen jp, underwood lf, ketelslegers jm. regulation of insulin-
+like growth factor-i in starvation and injury. nutr rev 1999;57:167–
+76.
+[135] douvon i, steingart de. effect of obesity and starvation on thyroid
+hormone, growth hormone, and cortisol secretion. endocrinol metab
+clin north am 2002;31:173– 89.
+[136] lafontan m, barbe p, galitzky j, tavernier g, langin d, carpene
+c, et al. adrenergic regulation of adipocyte metabolism. hum re-
+prod 1997;12:6 –20.
+[137] kraft c, gmachi m, peters jm. methods to measure ubiquitin-
+dependent proteolysis mediated by the anaphase-promoting com-
+plex. methods 2006;38:39 –51.
+[138] kuo ml, den besten w, bertwistle d, roussel me, sherr cj.
+n-terminal polyubiquitination and degradation of the arf tumor
+suppressor. genes dev 2004;18:1862–74.
+[139] coulombe p, rodier g, bonneil e, thibault p, meloche s. n-
+terminal ubiquitination of extracellular signal-related kinase-3 and
+p21 directs their degradation by the proteasome. mol cell biol
+2004;24:140 –50.
+[140] kotoshiba s, kamura t, hara t, ishida n, nakayama ki. molecular
+dissection of the interaction between p27 and kip1 ubiquitylation-
+promoting complex, the ubiquitin ligasae that regulates proteolysis
+of p27 in g1 phase. j biol chem 2005; 280:17694 –700.
+[141] petroski md, deshaies rj. redundant degrons ensure the rapid
+destruction of sic1 at the g1/s transition of the budding yeast cell
+cycle. cell cycle 2003;2:410 –1.
+[142] kiernan rf, emiliani s, nakayama k, castro a, labbe jc, loren t,
+et al. interaction between cyclin t1 and scf(skp2) targets cdk9
+for ubiquitination and degradation by the proteasome. mol cell biol
+2001;21:7956 –70.
+[143] sun i, trausch-azar js, ciechanover a, schwartz al. ubiquitin-
+proteasome-mediated degradation,
+intracellular localization, and
+protein synthesis of myod and id1 during muscle differentiation.
+j biol chem 2005;280:26448 –56.
+[144] sears rc. the life cycle of c-myc: from synthesis to degradation.
+cell cycle 2004;1:1133–7.
+[145] berse m, bounpheng m, huang x, christy b, pollmann c, dubiel
+w. ubiquitin-dependent degradation of id1 and id3 is mediated by
+the cop9 signalosome. j mol biol 2004;343:361–70.
+[146] plas dr, thompson cb. akt activation promotes degradation of
+tuberin and foxo3a via the proteasome. j biol chem 2003;278:
+12361– 6.
+[147] wei w, jin j, schlisio s, harper jw, kaelin wg jr. the v-jun
+point mutation allows c-jun to escape gsk3-dependent recogni-
+tion and destruction by the fbw7 ubiquitin ligase. cancer cell
+2005;8:25–33.
+[148] chan da, sutphin pd, yen se, giaccia aj. coordinate regulation
+of the oxygen-dependent degradation domains of hypoxia-inducible
+factor 1 alpha. mol cell biol 2005;25:6415–26.
+[149] roff m, thompson j, rodriguez ms, jacque jm, baleux f,
+arenzana-seisdedos f, hay rt. role of ikappabalpha ubiquitina-
+tion in signal-induced activation of nfkappab in vivo. j biol chem
+1996;271:7844 –50.
+[150] katagiri c, masuda k, urano t, yamashita k, araki y, kikuchi k,
+shima h. phosphorylation of ser-446 determines stability of
+mkp-7. j biol chem 2005;280:14716 –22.
+[151] faghiri z, bazan ng. selective relocalization and proteasomal
+downregulation of pkcalpha induced by platelet-activating factor in
+retinal pigment epithelium. invest ophthalmol vis sci 2006;47:
+397– 404.
+[152] hashimoto o, ueno t, kimura r, ohtsubo m, nakamura t, koga
+h, et al. inhibition of proteasome-dependent degradation of wee1 in
+g2-arrested hep3b cells by tgf beta 1. mol carcinog 2003;36:
+171– 82.
+[153] zhang yw, otterness dm, chiang gg, xie w, liu yc, mercurio
+f, abraham rt. genotoxic stress targets human chk1 for degrada-
+tion by the ubiquitin-proteasome pathway. mol cell 2005;19:607–
+18.
+[154] hampton ry, bhakta h. ubiquitin-mediated regulation of 3-hy-
+droxy-3-methylglutaryl-coa reductase. proc natl acad sci usa
+1997;94:12944 – 8.
+[155] morishima y, peng hm, lin hl, hollenberg pf, sunahara rk,
+osawa y, et al. regulation of cytochrome p450 2e1 by heat shock
+protein 90-dependent stabilization and chip-dependent proteasomal
+degradation. biochemistry 2005;44:16333– 40.
+[156] kato a, rouach n, nicoll ra, bredt ds. activity-dependent
+nmda receptor degradation mediated by retrotranslocation and
+ubiquitination. proc natl acad sci usa 2005;102:5600 –5.
+[157] strous gj, van kerkhof p. the ubiquitin-proteasome pathway and
+the regulation of growth hormone receptor availability. mol cell
+endocrinol 2002;197:143–51.
+844
+p. f. finn and j. f. dice / nutrition 22 (2006) 830 – 844
+[158] lu jc, piazza tm, schuler la. proteasomes mediate prolactin-
+induced receptor down-regulation and fragment generation in breast
+cancer cells. j biol chem 2005;280:33909 –16.
+[159] yu h, kopito rr. the role of multiubiquitination in dislocation and
+degradation of the alpha subunit of the t cell antigen receptor. j biol
+chem 1999;274:36852– 8.
+[160] haglund k, sigismund s, polo s, szymkiewicz i, di fiore pp, dikic
+i. multiple monoubiquitination of rtks is sufﬁcient for their endo-
+cytosis and degradation. nat cell biol 2003;5:461– 6.
+[161] mori s, tanaka k, omura s, saito y. degradation process of
+ligand-stimulated platelet-derived growth factor beta-receptor in-
+volves ubiquitin-proteasome proteolytic pathway. j biol chem
+1995;270:29447–52.
+[162] monsonego-ornan e, adar r, rom e, yayon a. fgf receptors
+ubiquitylation: dependence on tyrosine kinase activity and role in
+downregulation. febs lett 2002;528:83–9.
+[163] miranda m, wu cc, sorkina t, korstjens dr, sorkin a. enhanced
+ubiquitylation and accelerated degradation of the dopamine transporter
+mediated by protein kinase c. j biol chem 2005;280:35617–24.
+[164] rote k, rechsteiner m. degradation of microinjected proteins:
+effects of lysosomotropic agents and inhibition of autophagy. j cell
+physiol 1983;116:103–10.
+[165] slot l, lauridsen a, hedil k. intracellular protein degradation in
+serum-deprived human ﬁbroblasts. biochem j 1986;237:491– 8.
+[166] franch h, sooparb s, du j, brown n. a mechanism regulating
+proteolysis of speciﬁc proteins during renal tubular cell growth.
+j biol chem 2001;275:19126 –31.
+[167] cuervo a, hu w, lim b, dice j. i␬b is a substrate for a selective
+pathway of lysosomal proteolysis. mol biol cell 1998;9:1995–2010.
+[168] cuervo a, gomes a, barnes j, dice j. selective degradation of
+annexins by chaperone-mediated autophagy. j biol chem 2000:275:
+33329 –35.
+[169] neff n, bourret l, miao p, dice j. degradation of proteins micro-
+injected into imr-90 human diploid ﬁbroblasts. j cell biol 1981;
+91:184 –94.
+[170] backer jm, dice jf, covalent linkage of ribonuclease s-peptide to mi-
+croinjected proteins causes their intracellular degradation to be enhanced
+during serum withdrawal. proc natl acad sci usa 1986;83:5830–4.

@@ -1,0 +1,963 @@
+archives of biochemistry and biophysics 462 (2007) 220–230
+minireview
+abb
+www.elsevier.com/locate/yabbi
+autophagy, ageing and apoptosis: the role of oxidative
+stress and lysosomal iron
+tino kurz a, alexei terman b, ulf t. brunk a,*
+a division of pharmacology, faculty of health sciences, linko¨ ping university, linko¨ ping, sweden
+b division of geriatric medicine, faculty of health sciences, linko¨ ping university, linko¨ ping, sweden
+received 15 november 2006, and in revised form 10 january 2007
+available online 2 february 2007
+abstract
+as an outcome of normal autophagic degradation of ferruginous materials, such as ferritin and mitochondrial metalloproteins, the
+lysosomal compartment is rich in labile iron and, therefore, sensitive to the mild oxidative stress that cells naturally experience because of
+their constant production of hydrogen peroxide. diﬀusion of hydrogen peroxide into the lysosomes results in fenton-type reactions with
+the formation of hydroxyl radicals and ensuing peroxidation of lysosomal contents with formation of lipofuscin that amasses in long-
+lived postmitotic cells. lipofuscin is a non-degradable polymeric substance that forms at a rate that is inversely related to the average
+lifespan across species and is built up of aldehyde-linked protein residues. the normal accumulation of lipofuscin in lysosomes seems to
+reduce autophagic capacity of senescent postmitotic cells—probably because lipofuscin-loaded lysosomes continue to receive newly
+formed lysosomal enzymes, which results in lack of such enzymes for autophagy. the result is an insuﬃcient and declining rate of auto-
+phagic turnover of worn-out and damaged cellular components that consequently accumulate in a way that upsets normal metabolism.
+in the event of a more substantial oxidative stress, enhanced formation of hydroxyl radicals within lysosomes jeopardizes the membrane
+stability of particularly iron-rich lysosomes, speciﬁcally of autophagolysosomes that have recently participated in the degradation of
+iron-rich materials. for some time, the rupture of a limited number of lysosomes has been recognized as an early upstream event in many
+cases of apoptosis, particularly oxidative stress-induced apoptosis, while necrosis results from a major lysosomal break. consequently,
+the regulation of the lysosomal content of redox-active iron seems to be essential for the survival of cells both in the short- and the
+long-term.
+ó 2007 elsevier inc. all rights reserved.
+keywords: ageing; apoptosis; autophagy; lipofuscin; lysosomes; oxidative stress; redox-active iron
+the normal turnover of cellular components, as well as
+the degradation and replacement of damaged or mal-
+formed elements, is eﬀectively regulated and involves a
+number of pathways (fig. 1). the lysosomal compartment
+provides cells with the ability to recycle organelles and
+long-lived proteins by a process termed autophagy (auto-
+phagocytosis); see fig. 2 for a schematic representation
+of the three diﬀerent forms of autophagy recognized in
+mammalian cells (i.e. macro-, micro- and chaperone-medi-
+ated autophagy). apart
+from being involved in the
+* corresponding author. fax: +46 13 149106.
+e-mail address: ulf.brunk@imv.liu.se (u.t. brunk).
+0003-9861/$ - see front matter ó 2007 elsevier inc. all rights reserved.
+doi:10.1016/j.abb.2007.01.013
+turnover of the cell’s own structures, the lysosomal com-
+partment is also a centre for the breakdown of extracellular
+molecules that have been taken up by endocytosis. this is
+particularly important for professional scavengers, such
+as mobile and tissue-ﬁxed macrophage-type cells, including
+retinal pigment epithelial cells (rpe)1.
+in the late 1950s, lysosomes became recognized as a new
+type of organelle by christian de duve and his colleagues,
+1 abbreviations used: 3-ap, 3-amino propanal; ao, acridine orange;
+atg, autophagy regulating genes; dfo, desferrioxamine; le, lysosomal
+enzymes; msdh, o-methyl-serine dodecylamide hydrochloride; ros,
+reactive oxygen species; rpe, retinal pigment epithelium; sih, salicylal-
+dehyde isonicotinoyl hydrazone.
+t. kurz et al. / archives of biochemistry and biophysics 462 (2007) 220–230
+221
+fig. 1. turnover of biological structures. damaged, worn-out or super-
+ﬂuous cellular components are constantly degraded into their building
+blocks that are then recycled (a). depending on the structure to be turned
+over, the cell uses diﬀerent degradation processes. autophagy, the focus of
+this review, is highlighted (b).
+working in belgium at the universite´ catholique de lou-
+vain. they suggested that the destabilization of lysosomes
+might jeopardize the survival of cells and, therefore, nick-
+named lysosomes ‘suicide bags’ [1]. however, lysosomes
+look more or less normal under the transmission electron
+microscope, even if a signiﬁcant amount of their many pro-
+teolytic enzymes have leaked out, while they vary markedly
+with regard to their sensitivity to stress [2,3]. thus, as evi-
+denced below, lysosomes became incorrectly characterised
+as sturdy organelles that do not disintegrate until the cell
+is already devitalized. therefore, until about a decade
+ago (reviewed in [4]), lysosomes were considered responsi-
+ble only for necrosis, but not for the induction of pro-
+grammed cell death (apoptosis) of still viable cells. this
+old view is still reﬂected in many contemporary textbooks,
+and diﬀering opinions on the matter have been expressed
+until now.
+the development of ﬂow cytoﬂuorometry and confocal
+laser scanning microscopy for the study of living cells, in
+combination with the use of lysosomotropic ﬂuorochromes
+and labelled antibodies against the many lysosomal mem-
+brane proteins and receptors that have been characterized
+following the recent clariﬁcation of autophagy-related
+genes (atg) and their related proteins, demonstrated the
+surprisingly varied and complex nature of the lysosomal
+compartment [5–8]. rupture of a moderate number of indi-
+vidual lysosomes of the lysosomal compartment, which at
+forming early endosomes,
+fig. 2. autophagic pathways in mammalian cells. the cell can take up
+extracellular material by invagination of the plasma membrane (endocy-
+tosis),
+that maturate into acidiﬁed late
+endosomes, which receive lysosomal enzymes via vesicles from the trans-
+golgi network (tgn). further maturation leads to lysosomes. some
+cytosolic macromolecules are directly engulfed by invagination of the
+lysosomal membrane (microautophagy), whereas organelles (e.g. mito-
+chondria) are being enclosed by a newly formed membrane leading to
+formation of an autophagosome (macroautophagy), which then can fuse
+with either a late endosome or a lysosome (perhaps also with secretory
+vesicles from the tgn) forming an autophagolysosome. certain proteins
+are delivered to lysosomes with the help of chaperones such as hsp73
+(chaperone-mediated autophagy).
+any moment consists of vacuoles that fuse and divide [9],
+leads to apoptosis; while a more general rupture results
+in necrosis [4,10–12].
+the accumulation within lysosomes of the age pigment,
+lipofuscin, (as also of ceroid, which is very similar, or even
+identical, at the molecular level despite being disease- and
+not ageing-related) has been found to be a result of incom-
+plete autophagic degradation with ensuing peroxidation of
+remaining intralysosomal contents (reviewed in [13]). the
+presence of redox-active iron within lysosomes is of funda-
+mental importance both to the process whereby lysosomes
+are destabilised under oxidative stress and also to the for-
+mation of lipofuscin/ceroid. in the following parts of this
+review some essentials about lysosomal labile iron will be
+highlighted.
+role of lysosomes in cellular iron metabolism
+as indicated above, autophagy is a key function of the
+lysosomal compartment in all cells, except erythrocytes that
+lack organelles, including lysosomes. since many macro-
+molecules contain iron (e.g. ferritin and mitochondrial
+electron-transport complexes), the lysosomal compartment,
+where autophagic degradation of these structures occurs, is
+rich in this particular transition element [14–21]. when
+fe(ii) does not have all of its six coordinates ligated, it is
+222
+t. kurz et al. / archives of biochemistry and biophysics 462 (2007) 220–230
+ þ oh 
+capable of catalyzing a homolytic splitting of hydrogen
+peroxide resulting in the formation of the extremely reac-
+tive hydroxyl radicals (fenton reaction).
+fe2þ þ h2o2 ! fe3þ þ ho
+this is related to the low lysosomal ph (4.5–5.5) and the
+presence of reducing equivalents, such as cysteine [22–24].
+at ph around 5, cysteine reduces iron(iii) to iron(ii),
+while the cys-s
+that is formed is removed by combining
+with cysteine and subsequent reduction of dioxygen. since
+mitochondria undergoing autophagic degradation continue
+to produce superoxide anion radicals for a while, the
+intralysosomal reduction of fe(iii) to fe(ii) may also take
+place
+superoxide.
+moreover, since lysosomes do not contain hydrogen perox-
+ide-degrading enzymes, such as catalase or glutathione
+peroxidase (except those autophagocytosed that are rapidly
+degraded), any hydrogen peroxide molecules that diﬀuse
+into lysosomes [25] will induce the formation of hydroxyl
+radicals or similarly reactive iron-centered radicals.
+through the reducing capacity of
+redox-active iron is a threat to cells. therefore, iron is
+cautiously transported and stored in a non-redox-active
+form in transferrin and ferritin, respectively. lysosomes
+seem to be the only place where large amounts of redox-ac-
+tive iron temporarily exist before entering the cytosol for
+further transit to sites where iron is either required for ana-
+bolic purposes or destined for storage in ferritin. some
+investigators believe that when low mass iron is required,
+it is released directly within the cytosol [26,27]. however,
+this may not necessarily be the case since some ﬁndings
+point
+to another mechanism for iron release, namely
+through autophagic degradation of ferritin and iron-rich
+mitochondrial proteins, followed by transport of lysosomal
+low mass iron to the cytosol [17,19–21,28,29]. a strong
+argument for this hypothesis is that exposure of cells in cul-
+ture to inhibitors of lysosomal enzymes prevents the release
+of iron from ferritin [29]. another important argument is
+the ﬁnding that exposure of cells to dfo, which is endocy-
+tosed and propagated into the lysosomal compartment
+where it remains, results in a major decrease of cytosolic
+labile (calcein-chelatable) iron [28]. since such a decline
+of cytosolic labile iron would hardly occur if low mass iron
+could be liberated directly in the cytosol, this ﬁnding sug-
+gests that iron must be liberated from ferritin within lyso-
+somes, where dfo will act as a sink for low mass iron,
+preventing its transport to the cytosol [28].
+at least some lysosomal low mass iron, although prob-
+ably partly complexed, is apparently redox-active because
+lysosomes burst when cells are under oxidative stress (see
+above) as a result of the production of hydroxyl radicals
+or similarly reactive iron-centered radicals. low mass iron,
+released in late endosomes following transferrin-mediated
+iron uptake from the outside of cells, is transported into
+the cytosolic pool of labile iron with the help of nramp-
+type proteins [30–32]. perhaps such proteins are also
+involved in the transportation of lysosomal low mass iron
+to the cytosol. we do not know, however, if iron bound
+to transporters is readily redox-active. recently, evidence
+was found for an alternative mechanism of delivering iron
+from endosomes/lysosomes to mitochondria that involves
+a direct transport between these two types of organelles
+following temporary close contact [33].
+a beneﬁcial side-eﬀect of ferritin autophagy, in relation
+to lysosomal and cellular resistance to oxidative stress, is
+that ferritin, before being degraded, might be able to tem-
+porarily chelate intralysosomal labile iron, thereby reduc-
+ing its concentration and, therefore, the sensitivity of
+lysosomes to oxidative stress [34,35]. since autophagy is a
+continual process (see above), degraded lysosomal ferritin
+would constantly be replaced—and a state of equilibrium
+would be created between cytosolic and lysosomal ferritin.
+the concentration of lysosomal labile iron would then be
+determined by the autophagic turnover of ferruginous
+materials, the content of cytosolic iron binding proteins,
+such as ferritin or metallothionein, which is another iron-
+binding protein [24], and the rate of autophagy of such pro-
+teins. this idea is compatible with the fact that cells rich in
+ferritin, metallothioneins and some other stress-induced
+phase ii proteins are indeed resistant to oxidative stress
+[24,34,36,37]. if this hypothesis is correct, there is another
+side to the coin. diseases involving iron-overload, such as
+advanced conditions of haemochromatosis, in which ferri-
+tin is more or less iron-saturated, then, rather than acting
+as a protector of lysosomes, it might change into a mole-
+cule that adds additional
+increases
+lysosomal sensitivity to oxidative stress.
+iron and, therefore,
+besides hemochromatosis, an increasing number of other
+pathologies have been shown to depend on an intracellular
+accumulation of iron (in particular within mitochondria
+and lysosomes) with consequent enhanced sensitivity to oxi-
+dative stress. as pointed out in this review, there is a close
+relation between mitochondria and lysosomes; since the
+former are degraded by the latter, any accumulation of iron
+inside mitochondria will as well result in lysosomal iron
+loading. friedreich ataxia is associated with a deﬁciency of
+the frataxin protein, a mitochondrial iron chaperone that
+chelates iron in a non-redox-active form and thus protects
+from hydroxyl radical formation. it participates in the for-
+mation of iron-sulfur clusters, which are cofactors of several
+enzymes. the lack of frataxin results in the accumulation of
+excessive amounts of labile iron intramitochondrially and
+increased mitochondrial vulnerability to oxidative stress
+that results in neuronal damage [38]. aceruloplasminemia
+patients lack ferroxidase ceruloplasmin activity, which
+results in iron accumulation within a variety of tissues with
+neurologic symptoms, retinal degeneration and diabetes
+[39,40]. sideroblastic anemia is characterized by iron-laden
+perinuclear mitochondria of developing red blood cells
+and, sometimes, neurons and other cell types, due to an enzy-
+matic defect of the heme synthesis [41]. there is also accumu-
+lating evidence that
+iron accumulation
+contributes to the development of several common neurode-
+generative diseases, such as the alzheimer, parkinson and
+huntington diseases [39,42].
+intraneuronal
+t. kurz et al. / archives of biochemistry and biophysics 462 (2007) 220–230
+223
+fig. 3. role of lysosomes in iron metabolism. circulating transferrin-iron complexes bind to the transferrin receptors along the plasma membrane. this
+complex is internalized by the cell forming an early endosome (receptor-mediated endocytosis). following maturation to an acidiﬁed late endosome, iron is
+released to the cytoplasm, whereas transferrin and its receptor are transported back to the plasma membrane. iron from the cytoplasmic labile iron pool
+(where it is bound only by weak chelators) is quickly used for incorporation into certain proteins or stored in ferritin. autophagy of iron-containing
+proteins leads to release of iron inside lysosomes (or in the case of non-iron-saturated ferritin to a temporary iron binding prior to its degradation) from
+where it is fed back into the labile iron pool.
+for a schematic view on the involvement of lysosomes
+in iron metabolism, see fig. 3, while fig. 4 shows the out-
+come on hela cells of a cytochemical technique, the sul-
+ﬁde-silver method—ssm, for the demonstration of heavy
+metals, which normally means iron since this heavy metal
+is the only one that normally occurs in any signiﬁcant
+amount in most cells (except b-cells, prostatic epithelial
+cells and some neurons, which all are rich in zinc).
+when actively dividing cells are depleted of iron (e.g. by
+being exposed to iron chelators) they ﬁrst stop proliferating
+and then, within hours, start to show signs of apoptosis.
+this response has been exploited in order to treat malig-
+nancies, and several iron-chelators with enough speciﬁcity
+for malignant cells are now in clinical trials [43]. paradox-
+ically, it has been found that such apoptosis induced by
+iron-depletion is preceded by lysosomal destabilization,
+indicating that lysosomal damage can be induced both by
+iron overload and by iron depletion [44,45]. this again sug-
+gests that
+labilization might be a common
+upstream event in apoptosis induced by a variety of factors
+in addition to the presence of oxidants.
+lysosomal
+role of lysosomes in lipofuscin-formation and ageing
+as pointed out (see introduction), biological organisms
+continuously recycle their constituents, and lysosomal
+fig. 4. cytochemical demonstration of lysosomal iron in hela cells with the sulphide-silver method. cells were subjected to the high ph, high
+s2  modiﬁcation of the cytochemical sulphide-silver method [18]. after 25 min of development (a) only a few dark-stained iron-containing lysosomes are
+visible (arrows), indicating particularly iron-rich lysosomes (see text), whereas after 40 min of development a strong and widespread lysosomal-type
+pattern is found (b), indicating at least some iron in almost all lysosomes.
+224
+t. kurz et al. / archives of biochemistry and biophysics 462 (2007) 220–230
+degradation is the most important of the available path-
+ways. lysosomal enzymes degrade not only cytosolic bio-
+molecules, such as proteins and lipids, but also (by
+macroautophagy) whole organelles, including mitochon-
+dria, endoplasmic reticulum, ribosomes and peroxisomes
+[7,46]. there are good reasons to believe that worn-out lyso-
+somes can also be turned over through macroautophagy, as
+suggested by the presence of lysosomal membrane compo-
+nents inside lysosomes [47,48] and by the accumulation of
+altered lysosomes following inhibition of autophagy by
+3-methyladenine [49]. proteins, mainly short-lived, are also
+decomposed by proteasomes (multicatalytic proteinase
+complexes), which are active in the cytoplasm, as well as
+in the nucleus [50,51]. in addition, many short-lived cytosol-
+ic proteins are cleaved by calpains, which are calcium
+dependent cysteine proteases [52]. mitochondria possess
+their own proteolytic system represented by the matrix
+lon- and membrane-bound aaa proteases [53,54] allow-
+ing degradation of some defective mitochondrial proteins
+without autophagy.
+although most altered biomolecules and organelles are
+eﬃciently degraded, some of them accumulate with age,
+suggesting the inherent inadequacy of the cellular turnover
+mechanisms. because these damaged structures are partial-
+ly or completely dysfunctional, yet occupying space and
+interfering with normal cellular functions (see below), they
+are called biological ‘garbage’ or ‘waste’ [55]. biological
+includes lipofuscin, which is an intralysosomal
+‘waste’
+‘garbage’ material, as well as extralysosomally located
+damaged macromolecules and organelles. fig. 5a illus-
+trates the mechanisms behind lipofuscin formation in post-
+mitotic cells, while fig. 5b shows the consequences of
+enhanced oxidative stress, i.e. the stability of the lysosomal
+membrane may be jeopardized because of extensive intra-
+lysosomal ho
+formation.
+it has long been known that lipofuscin accumulation
+and other manifestations of cellular ageing are primarily
+observed in long-lived postmitotic cells, such as neurons,
+cardiac myocytes and rpe cells [56]. in contrast, such
+changes are not typical of intestinal epithelium, epidermis,
+bone marrow or other actively proliferating cell popula-
+tions. although mature enterocytes, keratinocytes and
+blood cells are also postmitotic,
+they are frequently
+replaced through diﬀerentiation of stem cells, which is asso-
+ciated with constant division resulting in multifold dilution
+of biological ‘garbage’. over recent years, adult brains and
+hearts have also been shown to contain stem cells that can
+diﬀerentiate into mature neurons and myocytes [57,58].
+however, the replacement of diﬀerentiated neurons and
+myocytes (if any) occurs very slowly, making their life long
+enough to accumulate considerable amounts of ‘waste’
+material.
+the only type of age-related damage that can readily
+accumulate in proliferating cell populations is non-lethal
+mutations that have neither been repaired nor eliminated
+as a result of apoptosis. such nuclear and mitochondrial
+fig. 5. consequences of intralysosomal formation of hydroxyl radicals under normal and oxidative stress conditions. under normal conditions, hydrogen
+peroxide, originating mainly from mitochondria, is eﬃciently inactivated by the cell’s antioxidative shield. only a small portion of this oxidant manages to
+diﬀuse into lysosomes, a compartment rich in cystein and redox-active iron, originating from the degradation of iron-containing proteins. hydrogen
+peroxide and iron react in the fenton reaction yielding hydroxyl radicals, which lead to intralysosomal oxidation/peroxidation. some oxidation products
+polymerize and become undegradable (lipofuscin) and thus accumulate in lysosomes of long-lived postmitotic cells, which do not dilute the pigment by
+division (a). under oxidative stress conditions, the cellular anti-oxidative defence mechanisms may be overwhelmed [110], allowing diﬀusion of large
+amounts of hydrogen peroxide into lysosomes, where an increased production of hydroxyl radicals not only leads to oxidation of lysosomal contents but
+also to peroxidation of the lysosomal membrane, resulting in its subsequent rupture with release of harmful lysosomal enzymes. this applies to dividing as
+well as non-dividing cells (b).
+t. kurz et al. / archives of biochemistry and biophysics 462 (2007) 220–230
+225
+dna mutations may accumulate in actively proliferative
+tissues [59,60], occasionally resulting in the development
+of malignant tumours [61]. these facts, however, do not
+exclude a fundamental role for the progressive alterations
+of
+in the ageing process
+[56,62,63].
+long-lived postmitotic cells
+lipofuscin (age pigment) is an intralysosomal material
+that cannot be degraded. it is primarily composed of oxida-
+tively modiﬁed protein and lipid degradation residues. it
+also contains some carbohydrates and metals, including
+iron, copper, aluminum, zinc, calcium and manganese
+[13,64]. lipofuscin has a yellow-brownish color and dis-
+plays a wide-spectrum autoﬂuorescence. in the electron
+microscope,
+lipofuscin-loaded lysosomes usually appear
+as irregularly shaped osmiophilic granules of variable size
+and density.
+the fact that lipofuscin cannot be degraded has been
+demonstrated in cultured cardiac myocytes and ﬁbroblasts
+that also failed to rid themselves of lipofuscin through exo-
+cytosis [65–67]. these in vitro observations seem to be chal-
+lenged by a recent study, showing that the removal of an
+eyestalk of a crustacean may lead to a decrease of lipofus-
+cin in the neurons of the contralateral eyestalk [68]. this
+study, however, does not completely exclude a possible
+reduction in lipofuscin content due to activation of neuro-
+nal stem cell division and diﬀerentiation in response to
+injury.
+the
+iron,
+there is accumulating evidence that the conversion of
+autophagocytosed material into undegradable substances
+primarily occurs in lysosomes. the presence of redox-ac-
+tive
+free diﬀusion of hydrogen peroxide
+through the lysosomal membrane, and low ph promote
+the formation of hydroxyl radicals via fenton reactions
+(see above). this causes massive radical damage to
+autophagocytosed biomolecules
+(many of which are
+membrane-derived proteins and lipids) and cross-linking
+of macromolecules ensues, making them resistant
+to
+degradation by lysosomal enzymes [69]. this hypothesis
+is strongly supported by the fact that the combination
+of oxidative stress and lysosomal protease inhibition
+(which delays degradation of autophagocytosed macro-
+molecules and thus allows more time for their oxida-
+tion) dramatically accelerates
+lipofuscin formation in
+cultured cells [65].
+lipofuscin can originate from diﬀerent types of auto- or
+heterophagocytosed material. in many cells, especially in
+highly aerobic ones, such as cardiac myocytes and neurons,
+autophagocytosed mitochondria constitute the bulk of
+intralysosomal undegradable material. the mitochondrial
+lipofuscin components is evidenced by the
+origin of
+presence of abundant atp synthase
+in
+pigment-loaded lysosomes [70]. as suggested by experi-
+ments on growth-arrested ﬁbroblasts, speciﬁc components
+of lysosomes, such as membranes and proteins, may also
+be sources of lipofuscin [49]. in professional scavenger cells
+with active phagocytosis, such as macrophages, microglial
+cells and rpe cells, a large portion of their lipofuscin
+subunit
+contents derives from heterophagocytosed extracellular
+material [71–73].
+although lipofuscin is often considered a harmless hall-
+mark of ageing, there is accumulating evidence that this is
+not the case. most importantly, lipofuscin has been found
+to interfere with autophagy [67] thus decreasing intracellu-
+lar turnover. lipofuscin-loaded rpe cells show decreased
+capacity to phagocytose rod outer segments [74] and are
+increasingly sensitive to light [75], perhaps explaining the
+increased risk of macular degeneration in the elderly. inter-
+estingly, the rate of lipofuscin accumulation is inversely
+related to the lifespan, rapid in short-lived species, and
+slow in long-lived ones when similar types of postmitotic
+cells are compared [76], telling us that lipofuscin accumula-
+tion,
+indeed, most probably has deleterious eﬀects on
+cellular function.
+the mitochondrial-lysosomal axis theory of ageing
+as pointed out earlier, lipofuscin progressively accumu-
+lates within the lysosomal compartment, which, from a
+physiological point of view, may be considered as a box
+receiving enzymes by fusion with trans-golgi-derived vesi-
+cles (formerly, primary lysosomes) and substrates to be
+degraded by fusion with endosomes and autophagosomes.
+at any speciﬁc moment, however, the compartment is
+divided into a number of vacuoles with diameters usually
+not exceeding 1–3 lm, showing fusion and ﬁssion and
+exchange of material [9,77].
+lipofuscin occupies increasingly larger portions of indi-
+vidual lysosomes of long-lived postmitotic cells, often not
+allowing them to contain any other type of material. how-
+ever, lipofuscin-loaded lysosomes, which are bounded by a
+10 nm thick lysosomal membrane, retain their ability to
+receive acid hydrolases by fusion with late endosomes
+and newly formed mature lysosomes. the number of lipo-
+fuscin-loaded lysosomes (earlier termed residual bodies)
+within long-lived postmitotic cells increases with age. as
+a result, a large portion of newly formed lysosomal
+enzymes ends-up within lipofuscin-loaded lysosomes where
+they cannot perform any useful activity because lipofuscin
+is undegradable.
+consequently, in senescent postmitotic cells, large num-
+bers of lysosomes contain nothing but lipofuscin and lytic
+enzymes. as the number of lipofuscin-loaded lysosomes
+increases, more and more newly produced lysosomal
+enzymes are delivered from the trans-golgi area to lipofus-
+cin-loaded lysosomes rather than to late endosomes or
+autophagosomes where they would be able to perform
+useful activities.
+the aged cell may compensate for this ‘drainage’ of
+lysosomal enzymes from useful purposes by increasing
+the synthesis of lytic enzymes. finally, however, the pro-
+duction of such enzymes can no longer be increased, and
+from then on there will be a growing deﬁciency of lysosom-
+al degradation capacity resulting in a prolonged half-life of
+structures that are normally turned-over by autophagy.
+226
+t. kurz et al. / archives of biochemistry and biophysics 462 (2007) 220–230
+fig. 6. imperfect autophagy and ‘waste’ accumulation. lysosomal enzymes are produced in the trans-golgi network (tgn) and transported via vesicles
+to late endosomes that acidify and maturate into lysosomes (see fig. 2) that in turn fuse with autophagosomes (aps). the continual fusion and ﬁssion of
+the lysosomal vacuoles ensures the distribution of acid hydrolases within the lysosomal compartment including aps. in contrast to a young cell (a) that
+may contain only few lysosomes with the undegradable age-pigment lipofuscin (lf), senescent post-mitotic cells (b) contain a large number of lipofuscin-
+containing lysosomes, to which more and more lysosomal enzymes are directed in a useless eﬀort to degrade lipofuscin. these lysosomal enzymes are lost
+for useful purposes, e.g. for the degradation of newly autophagocytosed material, resulting in a delayed turnover and the accumulation of waste products.
+damaged/dysfunctional mitochondria are indicated by dark shade. mt, mitochondria, aggr, indigestible protein aggregates (aggresomes).
+paradoxically, however, senescent postmitotic cells contain
+large amounts of lysosomal enzymes, although misplaced
+in lipofuscin-containing lysosomes. the more extensive
+the formation of lipofuscin-loaded lysosomes is, the larger
+is the loss of lysosomal enzymes from normal activity and
+the longer will be the half-life of structures that are normal-
+ly degraded by autophagy. for a schematic view on the
+function of the lysosomal compartment in young and
+senescent cells, see fig. 6.
+since mitochondria are turned-over by autophagy,
+depression of this activity will result in the accumulation
+of aged mitochondria with abnormal functions, such as
+production of less atp and more ros than is normally
+the case [78–80]. when the number of defective mitochon-
+dria exceeds a certain threshold, we believe the cell would
+be short of atp and oxidative stress would grow abnor-
+mally intense. such cells would be unable to respond to
+increased functional demands, being able to perform basic
+tasks only, and thus inﬂexible in a way that is a general
+characteristic of ageing. experimental support of the mito-
+chondrial-lysosomal axis theory is provided by a recent
+observation on cultured neonatal rat cardiac myocytes
+showing that the rate of lipofuscin accumulation by single
+cells positively correlates with both oxidative stress and
+mitochondrial damage [81].
+the mitochondrial-lysosomal axis theory of ageing [82]
+suggests that decreased adaptability of senescent postmi-
+totic cells is a consequence of intralysosomal accumulation
+of lipofuscin that creates a situation where an insuﬃciency
+of lysosomal enzymes makes normal autophagic turnover
+increasingly diﬃcult. the result is an accumulation of
+defective structures, especially mitochondria, which will
+disturb the metabolism of the senescent postmitotic cell
+in several ways;
+lack of atp would be one important
+feature. since lipofuscin is rich in iron, increased cellular
+oxidative stress may also result in lysosomal rupture due
+to intralysosomal fenton-type reactions and in apoptotic
+cell death if lysosomal destabilization exceeds a certain
+value [4].
+role of lysosomes in apoptosis
+lysosomes. therefore,
+during oxidative stress,
+large amounts of hydrogen
+peroxide may enter the lysosomal compartment resulting
+in the formation of abundant hydroxyl radicals, or high-
+ly reactive iron-centered radicals, both of which endan-
+ger the stability of
+it was not
+surprising that studies on lysosomal stability during oxi-
+dative stress revealed that, rather than being the sturdy
+organelles they were earlier considered to be, lysosomes
+were quite sensitive to oxidative stress, suﬀering mem-
+brane labilization and rupture leading to apoptosis or
+necrosis [4]. in this context, it is interesting to note that
+the concentration of vitamin e in lysosomal membranes
+is by far the highest of all cellular membranes and more
+than 30 times higher than that of microsomal mem-
+branes [83]. perhaps a selective pressure during evolution
+to decrease peroxidative chain-reactions within lysosomal
+membranes, following the formation of hydroxyl radi-
+cals, or highly reactive iron-centered radicals, resulted
+in an accumulation of
+the chain-breaking antioxidant
+vitamin e.
+t. kurz et al. / archives of biochemistry and biophysics 462 (2007) 220–230
+227
+it was
+shown that
+the connection between lysosomal
+labilization and
+apoptosis remained controversial for many years, even
+after
+intralysosomal chelation of
+redox-active iron by desferrioxamine (dfo) prevented
+lysosomal rupture as well as apoptosis following exposure
+to oxidative stress [84,85]. the reason for this uncertainty
+was that dfo was assumed to penetrate cellular mem-
+branes, albeit very slowly, and therefore dfo was not con-
+sidered to operate intralysosomally, but rather in the
+cytosol. later however, it became clear that dfo does
+not pass cellular membranes but is taken up by ﬂuid-phase
+endocytosis [86–88]. it was also proven that dfo has the
+same eﬀect when it is conjugated to starch, when the result-
+ing large complex can only be internalized by endocytosis
+and, therefore, transported through early and late endo-
+somes to lysosomes, where it remains without being
+degraded [84].
+exposure of cells
+to hydrogen peroxide following
+pre-treatment with the lipophilic iron-chelator, sih, which
+eﬃciently binds most labile cellular iron (see below), signif-
+icantly depresses lysosomal rupture as well as mitochondri-
+al and cellular damage, indicating that hydrogen peroxide
+per se is not injurious but requires the presence of redox-
+active iron [45,89]. this ﬁnding raises the possibility that
+cytosolic labile iron may be needed for oxidative stress-
+induced apoptosis and that lysosomal destabilization and
+apoptosis, respectively, could be independent phenomena.
+in order
+the case, we
+exposed cells to a speciﬁc lysosomal detergent, msdh,
+together with sih. it then turned out that lysosomal
+labilization still caused apoptosis and, consequently, cyto-
+solic labile iron is not required for apoptosis [kurz et al.
+unpublished].
+to ﬁnd out whether
+this
+is
+in order to show a clear relation between lysosomal rup-
+ture and damage to living cells (including apoptosis), it was
+necessary to induce lysosomal rupture with methods other
+than oxidative stress and without aﬀecting cellular labile
+iron. ways of doing so include the use of lysosomotropic
+photosensitizers, detergents and aldehydes. lysosomotropic
+compounds are weak bases that become charged after
+attracting one or more protons and then captured in the acid-
+ic compartment due to a mechanism named proton trapping.
+such compounds must have pka values between 6 and 10.
+the most speciﬁc ones have pka values around 6, which
+implies that they will become selectively protonized in lyso-
+somes, since these have a ph of about 5, but not in the cytosol
+or in compartments with a ph of about 7.
+a commonly used lysosomotropic compound is the lipo-
+philic ﬂuorochrome acridine orange (ao), which pene-
+trates cellular membranes, has a pka value of 10 and,
+thus, becomes protonized not only in lysosomes, but also
+in the cytosol. ao is a metachromatic ﬂuorochrome that,
+when activated by blue light, gives a distinct red ﬂuores-
+cence at the high lysosomal concentration that results from
+an exposure of living cells to a low concentration of ao,
+and a weak green ﬂuorescence at the low cytosolic concen-
+tration that is then obtained.
+since lysosomal ao-emitted red ﬂuorescence under
+exciting blue light implies an energy transfer strong enough
+to form oxidizing singlet oxygen, ao is also a photo-sensi-
+tizer. consequently, when cells are initially exposed to ao
+and then illuminated with blue light, lysosomal membranes
+are peroxidized and start to decompose [90].
+some two decades ago, firestone and co-workers devel-
+oped a number of synthetic lysosomotropic detergents (e.g.
+msdh) that selectively rupture lysosomes [91]. later it
+was shown that sphingosine is a natural lysosomotropic
+detergent [11]. using msdh and sphingosine, it was possi-
+ble to show that rupture of a moderate number of lyso-
+somes
+induced apoptosis, accompanied by caspase-3
+activation, while more extensive lysosomal rupture induced
+necrosis, without activation of such eﬀector caspases [10].
+similarly, the lysosomotropic aldehyde 3-amino prop-
+anal (3-ap) bursts lysosomes, as a result, it is thought, of
+inactivating the thiol-rich lysosomal membrane proton
+pump. these cells also undergo apoptosis or necrosis in
+relation to the magnitude of lysosomal break [92,93].
+these ﬁndings strongly suggest that lysosomal labiliza-
+tion induces apoptosis, whether directly or indirectly, due
+to the action of lysosomal contents, mainly proteolytic
+enzymes [94,95]. the release of lysosomal contents also
+induces mitochondrial damage resulting in the enhanced
+production of superoxide radicals and hydrogen peroxide
+(i.e. oxidative stress; see further below),
+implying that
+lysosomal damage results in further oxidative stress and
+lysosomal damage through an amplifying loop process [95].
+additional evidence in favour of the hypothesis that
+lysosomes may be generally involved in apoptosis appeared
+when it was found that growth factor starvation and liga-
+tion of the fas (cd95) death receptor induced lysosomal
+labilization hours before any objective signs of apoptosis
+were found [44]. in living cells, membrane destabilization
+may only involve a minor percentage of all lysosomes, so
+a very sensitive assay method is required to detect it. the
+ao relocation method was introduced for this purpose
+[96]. as pointed out above, ao is a metachromatic
+lysosomotropic ﬂuorochrome that gives an intense red
+ﬂuorescence at high concentrations, and a weak green
+ﬂuorescence at low concentrations, when the exciting blue
+light of an argon laser (488 nm) is used. the loss of a small
+number of lysosomes is not easy to detect using the ao
+uptake method, because a decline from an intense red
+ﬂuorescence to a less intense one is diﬃcult to measure.
+however, it turned out that assaying the increase of green
+ﬂuorescence when a few lysosomes burst and release their
+ao content to the cytosol is much more sensitive, since
+green ﬂuorescence then increases from low values [97,98].
+a disadvantage of the ao relocation method is that it
+can only be used early in the process of lysosomal destabi-
+lization, because lysosomal hydrolytic enzymes destabilize
+the plasma membrane, causing relocalized ao to leak
+out of the cell rather than increasing cytosolic green
+ﬂuorescence. because of this, it is found that over the 30-
+90 min following an initial lysosomal destabilization, the
+228
+t. kurz et al. / archives of biochemistry and biophysics 462 (2007) 220–230
+early increase in cytosolic green ﬂuorescence secondary to
+ao relocation is usually reversed to a decline and, ﬁnally,
+when the plasma membrane is fully permeable to ao, there
+is a diminished cytosolic green ﬂuorescence compared to
+control cells. by then the cell has started the apoptotic pro-
+cess, but many lysosomes are still intact and show bright
+red ﬂuorescence.
+many forms of apoptosis are regulated by activation of
+the p53 gene. exactly how the p53 protein triggers the
+apoptotic cascade is a topic of intense research [99]. if lyso-
+somal labilization is a general phenomenon in apoptosis it
+could be assumed that such labilization should be found
+early in the process of p53 activation. the p53 protein
+exists in a mutated thermolabile form that is inactive at
+37 °c but structurally stable and active at 32 °c [100].
+when cells that overexpress the thermolabile form of p53
+at a stable rate are grown at 37 °c they are intact, but when
+transferred to 32 °c they undergo apoptosis within 8–10 h.
+by 3 h after the transfer to the lower temperature the cells
+already start showing signs of early lysosomal destabiliza-
+tion [98]. these ﬁndings add to the evidence that lysosomal
+rupture may be an early upstream event in many forms of
+apoptosis. additional proof is that cells exposed to ionizing
+radiation also show early lysosomal labilization that occurs
+before the start of clear-cut apoptosis [101–103].
+even if lysosomes seem to be more deeply involved in
+apoptosis than generally accepted, additional questions still
+remain to be answered. first among those is the question as
+to whether or not lysosomes are always labilized early in
+the apoptotic process and, if so, how? lysosomal rupture
+as a result of oxidative stress is well understood, but why
+is ligation of the fas receptor and, perhaps, other death
+lysosomal contents
+receptors as well, or p53 activation, followed by lysosomal
+destabilization? moreover, it is not well understood how
+the release of
+induces apoptosis,
+although much new information has been gathered during
+the last
+few years. it has been found that cytosolic
+phospholipases become activated by released lysosomal
+contents, and that they in turn attack lysosomal and mito-
+chondrial membranes [94]. it has also been demonstrated
+that lysosomal cysteine cathepsins are able to truncate
+and activate bid [104]. furthermore, under certain condi-
+tions activated bax may attach to lysosomal membranes
+and cause their destabilization [105].
+recently, a protein was discovered (lapf-lysosome
+associated apoptosis-inducing protein containing ph and
+fyve domains), that is a member of a widespread new family
+of proteins (phaﬁns-proteins containing the above domains),
+and that induces apoptosis by attaching itself to lysosomal
+membranes, causing lysosomal permeabilization and activa-
+tion of the lysosomal-mitochondrial pathway [106].
+it has also been reported that ligation of the tumour
+necrosis factor receptor (tnf-r) and the fas receptor
+(fas-r) induces activation of a neutral membrane-bound
+sphingomyelinase that in turn causes the formation of
+ceramide, which is cleaved into sphingosine [107]. sphingo-
+sine is a lysosomotropic detergent causing lysosomal
+labilization [11].
+the
+intimate relationship between lysosomes and
+mitochondria in the execution of apoptosis is emphasized
+in the lysosomal-mitochondrial axis theory of apoptosis
+[95]. this theory (see fig. 7 for a schematic representation)
+suggests that there is crosstalk between these two organ-
+elles and an amplifying feedback loop that results in
+fig. 7. the lysosomal-mitochondrial interplay in apoptosis. lysosomal membrane rupture can be induced in a number of diﬀerent ways causing
+apoptosis. released lysosomal enzymes (le) can attack other proteins and mitochondria, triggering cytochrome c release with an ampliﬁcation of the
+apoptotic program, leading to further lysosomal rupture. for details, see text.
+t. kurz et al. / archives of biochemistry and biophysics 462 (2007) 220–230
+229
+increasing lysosomal rupture and mitochondrial permeabi-
+lization with release of pro-apoptotic molecules. presently,
+programmed cell death is often classiﬁed as type i and type
+ii, where type i is the caspase-dependent form (classical
+apoptosis), while type ii (autophagic) involves extensive
+autophagy, in which cell components are chieﬂy degraded
+by lysosomal enzymes [108]. it has, however, already been
+found that this dichotomy does not hold and that overlaps
+exist [109]. probably we will soon know if these cell death
+mechanisms need to be partly or completely merged.
+acknowledgments
+supported by linko¨ ping university hospital funding.
+we are grateful to stephen hampson for excellent linguis-
+tic advice.
+references
+[1] c. de duve, in: t. hayashi (ed.), subcellular particles, the ronald
+press, new york, 1959, pp. 128–159.
+[2] u.t. brunk, j.l. ericsson, histochem. j. 4 (1972) 479–491.
+[3] e. nilsson, r. ghassemifar, u.t. brunk, histochem. j. 29 (1997)
+857–865.
+[4] u.t. brunk, j. neuzil, j.w. eaton, redox rep. 6 (2001) 91–97.
+[5] w. bursch, cell death diﬀer. 8 (2001) 569–581.
+[6] d.j. klionsky, j.m. cregg, w.a. dunn jr., s.d. emr, y. sakai, i.v.
+sandoval, a. sibirny, s. subramani, m. thumm, m. veenhuis, y.
+ohsumi, dev. cell 5 (2003) 539–545.
+[7] a.m. cuervo, mol. cell. biochem. 263 (2004) 55–72.
+[8] e.h. baehrecke, nat. rev. mol. cell biol. 6 (2005) 505–510.
+[9] u. brunk, exp. cell res. 79 (1973) 15–27.
+[10] w. li, x. yuan, g. nordgren, h. dalen, g.m. dubowchik, r.a.
+firestone, u.t. brunk, febs lett. 470 (2000) 35–39.
+[11] k. ka˚gedal, m. zhao, i. svensson, u.t. brunk, biochem. j. 359
+(2001) 335–343.
+[12] f. antunes, e. cadenas, u.t. brunk, biochem. j. 356 (2001)
+549–555.
+[29] t.z. kidane, e. sauble, m.c. linder, am. j. physiol. cell physiol.
+291 (2006) 445–455.
+[30] j.r. forbes, p. gros, blood 102 (2003) 1884–1892.
+[31] m.d. fleming, m.a. romano, m.a. su, l.m. garrick, m.d.
+garrick, n.c. andrews, proc. natl. acad. sci. usa 95 (1998)
+1148–1153.
+[32] m.w. hentze, m.u. muckenthaler, n.c. andrews, cell 117 (2004)
+285–297.
+[33] a.s. zhang, a.d. sheftel, p. ponka, blood 105 (2005) 368–375.
+[34] b. garner, w. li, k. roberg, u.t. brunk, free radic. res. 27
+(1997) 487–500.
+[35] b. garner, k. roberg, u.t. brunk, free radic. res. 29 (1998)
+103–114.
+[36] a. viarengo, b. burlando, n. ceratto, i. panfoli, cell. mol. biol. 46
+(2000) 407–417.
+[37] p. arosio, s. levi, free radic. biol. med. 33 (2002) 457–463.
+[38] m. pandolfo, j. neural transm. (suppl.) (2006) 143–146.
+[39] d. berg, m.b. youdim, top. magn. reson. imaging 17 (2006) 5–17.
+[40] h. miyajima, neuropathology 23 (2003) 345–350.
+[41] m. fontenay, s. cathelin, m. amiot, e. gyan, e. solary, oncogene
+25 (2006) 4757–4767.
+[42] j.c. sipe, p. lee, e. beutler, dev. neurosci. 24 (2002) 188–196.
+[43] d.r. richardson, adv. exp. med. biol. 509 (2002) 231–249.
+[44] u.t. brunk, i. svensson, redox rep. 4 (1999) 3–11.
+[45] t. kurz, b. gustafsson, u.t. brunk, febs j. 273 (2006) 3106–3117.
+[46] b. levine, d.j. klionsky, dev. cell 6 (2004) 463–477.
+[47] j.g. barriocanal, j.s. bonifacino, l. yuan, i.v. sandoval, j. biol.
+chem. 261 (1986) 16755–16763.
+[48] i.v. sandoval, j.w. chen, l. yuan, j.t. august, arch. biochem.
+biophys. 271 (1989) 157–167.
+[49] y. stroikin, h. dalen, s. loof, a. terman, eur. j. cell biol. 83
+(2004) 583–590.
+[50] j. myung, k.b. kim, c.m. crews, med. res. rev. 21 (2001)
+245–273.
+[51] c. wojcik, g.n. demartino, int. j. biochem. cell biol. 35 (2003)
+579–589.
+[52] h. sorimachi, s. ishiura, k. suzuki, biochem. j. 328 (1997) 721–732.
+[53] i. arnold, t. langer, biochim. biophys. acta 1592 (2002) 89–96.
+[54] h. bakala, e. delaval, m. hamelin, j. bismuth, c. borot-laloi, b.
+corman, b. friguet, eur. j. biochem. 270 (2003) 2295–2302.
+[55] a. terman, redox rep. 6 (2001) 15–26.
+[56] b.l. strehler, time, cells, and ageing, academic press, new york,
+[13] a. terman, u.t. brunk, int. j. biochem. cell biol. 36 (2004)
+1977.
+1400–1404.
+[14] h. miyawaki, j. natl. cancer inst. 34 (1965) 601–623.
+[15] a. brun, u. brunk, j. histochem. cytochem. 18 (1970) 820–827.
+[16] i. schraufsta¨tter, p.a. hyslop, j.h. jackson, c.g. cochrane, j. clin.
+invest. 82 (1988) 1040–1050.
+[17] i. sakaida, m.e. kyle, j.l. farber, mol. pharmacol. 37 (1990)
+435–442.
+[18] j.m. zdolsek, k. roberg, u.t. brunk, free radic. biol. med. 15
+(1993) 1–11.
+[19] d.c. radisky, j. kaplan, biochem. j. 336 (1998) 201–205.
+[20] s. roberts, a. bomford, j. biol. chem. 263 (1988) 19181–
+19187.
+[21] b. vaisman, e. fibach, a.m. konijn, blood 90 (1997) 831–838.
+[22] r.l. pisoni, t.l. acker, k.m. lisowski, r.m. lemons, j.g. thoene,
+[57] g. zitnik, g.m. martin, j. neurosci. res. 70 (2002) 258–263.
+[58] h. oh, s.b. bradfute, t.d. gallardo, t. nakamura, v. gaussin, y.
+mishina, j. pocius, l.h. michael, r.r. behringer, d.j. garry, m.l.
+entman, m.d. schneider, proc. natl. acad. sci. usa 100 (2003)
+12313–12318.
+[59] m.s. turker, mech. ageing dev. 117 (2000) 1–19.
+[60] r.w. taylor, m.j. barron, g.m. borthwick, a. gospel, p.f.
+chinnery, d.c. samuels, g.a. taylor, s.m. plusa, s.j. needham,
+l.c. greaves, t.b. kirkwood, d.m. turnbull, j. clin. invest. 112
+(2003) 1351–1360.
+[61] j. campisi, nat. rev. cancer 3 (2003) 339–349.
+[62] d. harman, adv. exp. med. biol. 266 (1989) 3–15.
+[63] g. barja, free radic. biol. med. 33 (2002) 1167–1172.
+[64] r.d. jolly, b.v. douglas, p.m. davey, j.e. roiri, gerontology 41
+j. cell biol. 110 (1990) 327–335.
+(suppl. 2) (1995) 283–295.
+[23] f.q. schafer, g.r. buettner, free radic. biol. med. 28 (2000)
+1175–1181.
+[24] s.k. baird, t. kurz, u.t. brunk, biochem. j. 394 (2006) 275–283.
+[25] j.h. walton, h.a. lewis, j. am. chem. soc. 38 (1916) 633–638.
+[26] h. takagi, d. shi, y. ha, n.m. allewell, e.c. theil, j. biol. chem.
+273 (1998) 18685–18688.
+[65] a. terman, u.t. brunk, mech. ageing dev. 104 (1998) 277–291.
+[66] a. terman, u.t. brunk, mech. ageing dev. 100 (1998) 145–156.
+[67] a. terman, h. dalen, u.t. brunk, exp. gerontol. 34 (1999)
+943–957.
+[68] d.b. fonseca, m.r. sheehy, n. blackman, p.m. shelton, a.e.
+prior, neurobiol. aging 26 (2005) 69–76.
+[27] x. liu, w. jin, e.c. theil, proc. natl. acad. sci. usa 100 (2003)
+[69] u.t. brunk, c.b. jones, r.s. sohal, mutat. res. 275 (1992)
+3653–3658.
+395–403.
+[28] m. tenopoulou, p.t. doulias, a. barbouti, u. brunk, d. galaris,
+[70] m. elleder, j. sokolova, m. hrebicek, acta neuropathol. (berl). 93
+biochem. j. 387 (2005) 703–710.
+(1997) 379–390.
+230
+t. kurz et al. / archives of biochemistry and biophysics 462 (2007) 220–230
+[71] e.k. winstanley, v.w. pentreath, mech. ageing dev. 29 (1985)
+299–307.
+[72] m. honavar, p.l. lantos, mech. ageing dev. 41 (1987) 161–175.
+[73] j.m. burke, c.m. skumatz, invest. ophthalmol. vis. sci. 39 (1998)
+1478–1486.
+[92] z. yu, w. li, j. hillman, u.t. brunk, brain res. 1016 (2004) 163–169.
+[93] w. li, x.m. yuan, s. ivanova, k.j. tracey, j.w. eaton, u.t.
+brunk, biochem. j. 371 (2003) 429–436.
+[94] m. zhao, u.t. brunk, j.w. eaton, febs lett. 509 (2001) 399–404.
+[95] m. zhao, f. antunes, j.w. eaton, u.t. brunk, eur. j. biochem. 270
+[74] s. sundelin, u. wihlmark, s.e. nilsson, u.t. brunk, curr. eye res.
+(2003) 3778–3786.
+17 (1998) 851–857.
+[96] j. zdolsek, h. zhang, k. roberg, u. brunk, free radic. res.
+[75] u. wihlmark, a. wrigstad, k. roberg, s.e. nilsson, u.t. brunk,
+commun. 18 (1993) 71–85.
+free radic. biol. med. 22 (1997) 1229–1234.
+[97] i. rundquist, m. olsson, u. brunk, acta pathol. microbiol.
+[76] m. nakano, f. oenzil, t. mizuno, s. gotoh, gerontology 41
+immunol. scand. 92 (1984) 303–309.
+(suppl. 2) (1995) 69–79.
+[77] u. brunk, j.l. ericsson, j. ultrastruct. res. 38 (1972) 1–15.
+[78] t. ozawa, physiol. rev. 77 (1997) 425–464.
+[79] e. cadenas, k.j. davies, free radic. biol. med. 29 (2000) 222–230.
+[80] a. terman, u.t. brunk, exp. gerontol. 39 (2004) 701–705.
+[81] a. terman, h. dalen, j.w. eaton, j. neuzil, u.t. brunk, ann. n.
+y. acad. sci. 1019 (2004) 70–77.
+[82] u.t. brunk, a. terman, eur. j. biochem. 269 (2002) 1996–2002.
+[83] x. wang, p.j. quinn, prog. lipid res. 38 (1999) 309–336.
+[84] t. kurz, a. leake, t. von zglinicki, u.t. brunk, biochem. j. 378
+(2004) 1039–1045.
+[85] z. yu, h.l. persson, j.w. eaton, u.t. brunk, free radic. biol.
+med. 34 (2003) 1243–1252.
+[86] j.b. lloyd, h. cable, c. rice-evans, biochem. pharmacol. 41 (1991)
+1361–1363.
+[87] h. cable, j.b. lloyd, j. pharm. pharmacol. 51 (1999) 131–134.
+[88] k. o¨ llinger, u.t. brunk, free radic. biol. med. 19 (1995) 565–574.
+[89] t. sˇ imunek, c. boer, r.a. bouwman, r. vlasblom, a.m. verstei-
+len, m. sˇterba, v. gersˇl, r. hrdina, p. ponka, j.j. de lange, w.j.
+paulus, r.j. musters, j. mol. cell. cardiol. 39 (2005) 345–354.
+[90] j.m. zdolsek, g.m. olsson, u.t. brunk, photochem. photobiol. 51
+(1990) 67–76.
+[98] x.m. yuan, w. li, h. dalen, j. lotem, r. kama, l. sachs, u.t.
+brunk, proc. natl. acad. sci. usa 99 (2002) 6286–6291.
+[99] a.j. levine, w. hu, z. feng, cell death diﬀer. 13 (2006)
+1027–1036.
+[100] d. michalovitz, o. halevy, m. oren, cell 62 (1990) 671–680.
+[101] k. abok, e. blomquist, j. ericsson, u. brunk, virchows arch. b.
+cell pathol. incl. mol. pathol. 42 (1983) 119–129.
+[102] k. abok, i. rundquist, b. forsberg, u. brunk, virchows arch. b.
+cell pathol. incl. mol. pathol. 46 (1984) 307–320.
+[103] s. paglin, t. hollister, t. delohery, n. hackett, m. mcmahill,
+e. sphicas, d. domingo, j. yahalom, cancer res. 61 (2001)
+439–444.
+[104] t. cirman, k. oresic, g.d. mazovec, v. turk, j.c. reed, r.m.
+myers, g.s. salvesen, b. turk, j. biol. chem. 279 (2004) 3578–3587.
+[105] a.e. feldstein, n.w. werneburg, z. li, s.f. bronk, g.j. gores,
+am. j. physiol. gastrointest. liver physiol. 290 (2006) 1339–1346.
+[106] w. chen, n. li, t. chen, y. han, c. li, y. wang, w. he, l. zhang,
+t. wan, x. cao, j. biol. chem. 280 (2005) 40985–40995.
+[107] m.e. guicciardi, m. leist, g.j. gores, oncogene 23 (2004)
+2881–2890.
+[108] g. kroemer, s.j. martin, nat. med. 11 (2005) 725–730.
+[109] r.a. lockshin, z. zakeri, int. j. biochem. cell biol. 36 (2004)
+[91] r.a. firestone, j.m. pisano, r.j. bonney, j. med. chem. 22 (1979)
+2405–2419.
+1130–1133.
+[110] h. sies, klin. wochenschr. 69 (1991) 965–968.

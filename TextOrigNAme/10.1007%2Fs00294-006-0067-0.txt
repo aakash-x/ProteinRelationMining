@@ -1,0 +1,1104 @@
+curr genet (2006) 49: 403–413
+doi 10.1007/s00294-006-0067-0
+r es e ar c h a rt i c l e
+akio nakashima æ takahiro hasegawa
+saori mori æ masaru ueno æ shigeyasu tanaka
+takashi ushimaru æ shusei sato æ masahiro uritani
+a starvation-speciﬁc serine protease gene, isp6+, is involved in both
+autophagy and sexual development in schizosaccharomycespombe
+received: 29 november 2005 / revised: 23 february 2006 / accepted: 25 february 2006 / published online: 21 march 2006
+ó springer-verlag 2006
+abstract schizosaccharomyces pombe isp6+ gene en-
+codes a vacuolar serine protease, which is speciﬁcally
+induced during nitrogen starvation. an isp6-disruption
+mutant, isp6d, grew normally under normal conditions
+but was defective in large-scale protein degradation
+during nitrogen starvation, a hallmark of autophagy.
+vacuoles are the organelles for such drastic protein
+degradation but those of isp6d were apparently aber-
+isp6d was infertile under nitrogen source-free
+rant.
+conditions with poor expression of ste11+, a gene criti-
+cal for sexual development. a protein kinase a-disrup-
+tion mutant, pka1d,
+is prone to sexual development
+because expression of ste11+ is derepressed. however,
+isp6dpka1d still showed defects in ste11+ expression and
+sexual development under nitrogen source-free condi-
+tions. isp6d and isp6dpka1d were able to initiate sexual
+development
+to produce spores when only a small
+amount of a nitrogen source was present. pat1 protein
+kinase negatively controls meiosis, and a temperature-
+sensitive mutant of pat1, pat1-114,
+initiates meiosis
+irrespective of ploidy at the restrictive temperature.
+isp6dpat1-114 did not start meiosis under
+however,
+nitrogen source-free conditions even at the restrictive
+isp6+
+temperature. these observations suggest
+contributes to sexual development by providing a
+nitrogen source through autophagy.
+that
+communicated by c. hoﬀman
+a. nakashima æ s. mori æ m. ueno æ m. uritani (&)
+department of chemistry, faculty of science,
+shizuoka university, 836 oya,
+422-8539 shizuoka, japan
+e-mail: scmurit@ipc.shizuoka.ac.jp
+tel.: +81-54-2384761
+fax: +81-54-2373384
+t. hasegawa æ s. tanaka æ t. ushimaru
+department of biology and geoscience, faculty of science,
+shizuoka university, 836 oya, 422-8539 shizuoka, japan
+s. sato
+kazusa dna research institute,
+292-0812 kisarazu, yana, japan
+present address: a. nakashima
+biosignal research center, kobe university, 1-1 rokkodai-cho,
+nada-ku, 657-8501 kobe, japan
+present address: s. mori
+division for gene research,
+center for biological resources and informatics,
+tokyo institute of technology, b-65. 4259, nagatsuta,
+midori-ku, 226-8501 yokohama, japan
+present address: m. ueno
+department of molecular biotechnology,
+graduate school of advanced sciences of matter,
+hiroshima university, 1-3-1 kagamiyama,
+739-8530 higashi-hiroshima, japan
+keywords fission yeast æ nitrogen starvation æ protein
+degradation æ autophagy æ sexual development
+introduction
+in yeasts, growth and development are controlled by the
+status of nutrients. schizosaccharomyces pombe cells
+proliferate with vegetative growth in a nutrient-rich
+medium. however, when transferred to a nitrogen source-
+poor medium, they stopped vegetative growth and initi-
+ation of sexual development (for review egel 1989;
+yamamoto et al. 1997; davey 1998). sexual development
+is initiated by a critical
+transcription factor ste11
+(sugimoto et al. 1991), whose expression is controlled
+with both cyclic amp-dependent protein kinase a (pka)
+and wis1-spc1 stress-activated protein kinase (sapk)
+cascade. pka represses the expression of ste11+ under
+nutrient-rich conditions. during nitrogen starvation,
+pka is inactivated and the expression of ste11+ is dere-
+pressed (maeda et al. 1994; watanabe and yamamoto
+1996; kunitomo et al. 2000; higuchi et al. 2002). a null
+mutant for pka1+, defective in the catalytic subunit of
+pka, shows an elevated level of ste11+ expression even
+under nutrient-rich conditions; hence, it is apt to commit
+to sexual development. sapk cascade is activated by
+nitrogen starvation, which causes induction of ste11+ at
+404
+the transcriptional level (kato et al. 1996; shiozaki and
+russell 1996; wilkinson et al. 1996). cgs1+ encodes a
+regulatory subunit of pka. its mutation leads to the
+constitutive activation of pka. the cgs1 null mutant and
+a point mutant of cgs1+ (cgs1-1) fail to respond to
+nitrogen starvation (devoti et al. 1991; kunitomo et al.
+2000), although the sterility of the cgs1-1 is overcome by
+pregrowth on a minimal medium rather than a yeast ex-
+tract rich medium (stiefel et al. 2004). tor1+ is a gene for a
+phosphatidylinositol 3-kinase related kinase, which is in-
+volved in the response to various stresses including
+nitrogen starvation, high osmolarity, etc. the null mu-
+tants for tor1+ are unable to respond to nitrogen starva-
+tion (kawai et al. 2001; weisman and choder 2001).
+although the genes for sexual development are
+transcribed with ste11, meiosis is repressed with pat1
+kinase (also known as ran1) (beach et al. 1985; iino and
+yamamoto 1985). inactivation of pat1 triggers the ini-
+tiation of pre-meiotic dna replication, meiosis, and
+spore formation. normally, pat1 is inactivated with a
+speciﬁc inhibitor mei3 that is expressed speciﬁcally in
+diploid cells (mcleod and beach 1988), but haploid cells
+carrying pat1 temperature-sensitive mutation (pat1-114)
+undergo meiosis at a restrictive temperature irrespective
+of the nutrient conditions and ploidy (beach et al. 1985;
+iino and yamamoto 1985).
+besides sexual development, nitrogen limitation in-
+duces autophagy, a system that operates the large-scale
+degradation of cellular components including cytoplas-
+mic protein, rna, and organelles. by degrading cellular
+components, autophagy contributes to the recycling of
+nutrients needed for survival and sexual development
+under starved conditions. this takes place in the vacu-
+oles, the lysosome-like organelles in yeasts. the molec-
+ular mechanism of autophagy has been studied in
+saccharomyces cerevisiae (for a review see kim and
+klionsky 2000; ohsumi 2001). it involves a large num-
+ber of genes and prb1 is one of the major ones, which
+encodes a vacuolar protease (moehle et al. 1987) and
+whose mutants are defective in autophagy and nitrogen
+starvation response (zubenko et al. 1979; teichert et al.
+1989; takeshige et al. 1992). small vesicles called auto-
+phagosomes envelop cytoplasmic materials that are
+destined for degradation. the autophagosomes and the
+cytoplasmic materials are transported to the vacuoles,
+where they are digested for the recycling of nutrients. in
+prb1 mutants, autophagosomes are transported to the
+vacuoles; however, they are not digested but are accu-
+mulated in the vacuoles. the accumulated vesicles are
+referred to as autophagic bodies. hence, the degradation
+of cytoplasmic materials is severely blocked.
+schizosaccharomyces pombe isp6+ encodes a putative
+serine protease that is very similar to the s. cerevisiae
+prb1, ﬁrst identiﬁed as one of the genes that are tran-
+scribed speciﬁcally during nitrogen starvation (sato
+et al. 1994). in a recent report, isp6+ is also transcribed
+in response to several environmental stresses, such as
+oxidative, osmotic, and heat stresses (chen et al. 2003).
+moreover, the gene is transcribed with a ccaat-
+binding complex (nakashima et al. 2002a), and it is in-
+volved in the activation of a nuclease and large-scale
+rna degradation during nitrogen starvation (naka-
+shima et al. 2002b). a disruption mutant (isp6d) is
+deﬁcient in sexual development during nitrogen starva-
+tion. these results lead to the possibility that isp6+
+contributes to sexual development through autophagy.
+however, whether isp6+ is involved in autophagy and
+how it is involved in sexual development remain to be
+studied. s. pombe is advantageous for this study because
+molecular genetics is available and much knowledge has
+been accumulated on the molecular mechanism of sexual
+development. so far, little is known about autophagy,
+and characterization of this gene is expected to provide
+important information on autophagy in s. pombe.
+here, we report that isp6+ was required for large-
+scale protein degradation and the structural changes in
+vacuoles during nitrogen starvation, which suggested
+that isp6+ is critical for autophagy. isp6d failed to ex-
+press ste11+, and it did not initiate mating in a nitrogen-
+free medium. when the medium contained a small
+amount of a nitrogen source, isp6d underwent mating as
+normal as that of the wild type strains. isp6 would
+function for autophagy to supply a nitrogen source,
+which is used to commit to or to complete the sexual
+development process when a nitrogen source
+is
+unavailable from the environment.
+materials and methods
+strains and media
+the s. pombe strains used in this study are listed in
+table 1. cells were cultured in emm3 as described
+previously (kawai et al. 2001). emm3 contained 0.5%
+ammonium chloride, emm3 1/10n 0.05% ammonium
+chloride, and emm3-n no ammonium chloride.
+ammonium chloride is the major and virtually the sole
+nitrogen source in the media. treatment for nitrogen
+starvation and the counting of cell numbers were con-
+ducted as described (nakashima et al. 2002b). general
+and molecular genetic techniques followed standard
+protocols (moreno et al. 1991). transformation of s.
+pombe cells was performed by the lithium acetate
+method (okazaki et al. 1990). cell cycle analyses were
+conducted as described previously (kawai et al. 2001).
+construction of mutants
+to construct the isp6dpka1d double mutant, cells of
+isp6d were mated with those of pka1d (jz633) on
+emm3 1/10n plate to generate the diploid cells, and
+tetrads were dissected. as described below, isp6d is able
+to perform mating on the plate. ura4+-containing cells
+were selected, and each mutation was conﬁrmed with
+southern hybridization. isp6dpat1-114 was created by a
+one-step gene disruption of isp6+ in pat1-114 (grimm
+table 1 s. pombe strains used
+in this study
+strain
+genotype
+405
+source
+jy800
+jy476
+ss006
+jz858
+mk30
+jz633
+an3011
+an2011
+an3092
+an3102
+an13
+an1020
+h90 ade6-m210 leu1-32 ura4-d18
+m. yamamoto
+h90 ade6-m210 leu1-32
+m. yamamoto
+h90 ade6-m210 leu1-32 ura4-d18 isp6d::ura4+
+s. sato
+h90 ade6-m216 leu1-32 ura4-d18 cgs1d::ura4+
+m. yamamoto
+h90 ade6-m210 leu1-32 ura4-d18 tor1d::ura4+
+laboratory stock
+h90 ade6-m216 leu1-32 ura4-d18 pka1d::ura4+
+y. watanabe
+h90 ade6-m216 leu1-32 ura4-d18 isp6d::ura4+ pka1d::ura4+
+this study
+h+ ade6-m216 leu1-32 ura4-d18 isp6d::ura4+ pka1d::ura4+
+this study
+h90 ade6-m210 leu1-32 ura4-d18 wis1-dd-12myc::ura4+
+k. okazaki
+h90 ade6-m210 leu1-32 ura4-d18 isp6::ura4+ wis1-dd-12myc::ura4+ this study
+h– pat1-114 ura4-d18
+k. tanaka
+h– pat1-114 ura4-d18 isp6d::ura4+
+this study
+et al. 1988). the isp6::ura4+ fragment was ampliﬁed by
+polymerase chain reaction (pcr) using the genome
+dna from isp6d as a template and a set of the following
+primers: 5¢-ggatcccatatgagaattccttattc
+aaatctt-3¢ and 5¢-ctcgagtctagattcttgag
+caccattgaaagc-3¢
+(underlined sequences were
+added for restriction enzyme sites). the fragment was
+puriﬁed and then introduced into pat1-114 cells. stable
+ura4+-containing transformants were selected, and the
+disruption was conﬁrmed by southern hybridization.
+the suspension, 11 ll of a bovine serum albumin solu-
+tion (10 mg/ml) was added and mixed well. the protein
+was used as a carrier to precipitate cellular proteins
+eﬃciently. the mixture was centrifuged at 12,000 g for
+15 min at 4°c, the supernatant was spotted onto a paper
+disk (whatman 3mm 2.4 cm diameter), and the radio-
+activity on the disk was measured with a liquid scintil-
+lation counter after drying. results were expressed as a
+percentage of the radioactivity in the acid-soluble frac-
+tion to the radioactivity in the initial total fraction.
+mating and sporulation
+northern blotting
+cells at the mid-log phase (1·107 cells/ml) were har-
+vested, washed twice with sterile water, and aliquots
+(5 ll) of the cell suspension were dropped onto emm3-
+n and emm3 1/10n plates. cells with the prep1-isp6+
+plasmid were cultured in emm3 with thiamine, which
+were then transferred to emm3 without thiamine and
+cultured for 10 h to induce isp6+ before plating. in
+prep1-isp6+, expression of isp6+ is controlled under
+the thiamine-repressible nmt1+ promoter (maundrell
+1993). after incubation for 3 days at 25°c, sexual
+development was inspected through a microscope. the
+numbers of unmated cells, zygotes, asci, and free spores
+were counted, and the eﬃciencies for mating and spor-
+ulation were calculated according to the equations as
+previously described (kunitomo et al. 1995). three
+independent experiments were repeated, and in each
+experiment, more than 1,000 cells were counted.
+measurement of protein degradation
+protein degradation was measured as described (tsuk-
+ada and ohsumi 1993) with slight modiﬁcations. cells at
+the mid-log phase were collected, suspended in emm3
+containing [u-14c]l-phenylalanine (1.85 mbq/mmol) at
+a ﬁnal concentration of 11.1 kbq/ml, and then incu-
+bated for 2 h. labeled cells were harvested, washed
+twice with emm3-n, and incubated in the same med-
+ium at 30°c. at intervals, aliquots (0.1 ml) of the culture
+were withdrawn, mixed quickly with 11 ll of 100% tri-
+chloroacetic acid solution, and kept on ice overnight. to
+total rna was prepared and northern blotting was
+performed as described (kawai et al. 2001). the entire
+coding regions of ste11+ and atf1+ were ampliﬁed with
+pcr and were used as probes.
+staining of vacuoles and nuclei
+the vacuoles were stained as previously described (vida
+and emr 1995; brazer et al. 2000). in brief, living cells at
+the mid-log phase were incubated with 50 lm fm 4-64
+(molecular probes inc. eugene, or, usa) in emm3
+for 15 min at 30°c, transferred to a fresh emm3, and
+then cultured for 30 min at the same temperature. the
+cells were harvested, washed twice with emm3-n, and
+then cultured in the same medium before inspection
+under a ﬂuorescent microscope with a cooled ccd
+camera (sensys, ol.1401e). for staining the nuclei, the
+cells were ﬁxed with methanol at  20°c overnight, wa-
+shed once with the pbs buﬀer, and then treated with
+4¢,6¢-diamidino-2-phenylindole
+(dapi) as described
+previously (moreno et al. 1991).
+electron microscopy
+the cells were collected, washed with 0.1 m phosphate
+buﬀer (ph 7.4), and ﬁxed with a mixture of 2% glutar-
+aldehyde and 2% paraformaldehyde in the same buﬀer
+for 2 h at 4°c. the cells were washed with the same
+buﬀer and post-ﬁxed with 2% potassium permanganate
+406
+for 2 h at 4°c. after washing with distilled water, block
+staining was carried out with 0.5% uranyl acetate for 1 h
+at 4°c, and then the cells were embedded in 2% agar.
+the agar blocks were dehydrated with a graduated
+acetone series and were embedded in spurr resin. ul-
+trathin sections were stained with uranyl acetate and
+lead citrate and were then observed with a transmission
+electron microscope (hitachi h-7500) at 80 kv.
+results
+isp6d is defective in autophagy
+autophagy occurs during nitrogen starvation, which is
+always associated with bulk protein degradation on a
+large scale. in order to examine the involvement of isp6+
+gene in autophagy, ﬁrstly, protein degradation was
+measured in isp6d (ss006) under a nitrogen starvation
+condition. before nitrogen starvation, the cells were la-
+beled with a radioactive amino acid. the labeled cells
+were transferred into a nitrogen-free medium (emm3-
+fig. 1 bulk protein degradation in isp6d during nitrogen starva-
+tion. a bulk protein degradation in isp6d during nitrogen
+starvation. cells were labeled with [14c] l-phe, transferred into
+emm3-n, and then incubated at 30°c for the times indicated. at
+each time, the cells were soaked in an acid solution, and the amount
+of radioactivity in the acid-soluble fraction was measured with a
+liquid scintillation counter. the value was divided by the amount of
+radioactivity that cells absorbed at 0 h, which is shown as a
+percentage. open circles wild type (jy476), closed circles isp6d
+(ss006), open triangles cgs1d (jz858), closed triangles wild type
+(jy476) with 1 mm pmsf. b complement of the defective protein
+degradation of isp6d by ectopic expression of isp6+. open circles
+isp6d with prep1, closed circles isp6d with prep1-isp6. experi-
+mental procedures followed those in (a). a, b average of three
+independent experiments that provided similar results
+n) without the radioactive amino acid and then incu-
+bated. the amount of radioactivity in the acid-soluble
+fraction was measured at intervals. the acid-soluble
+fraction contains both free amino acids and small pep-
+tides, while proteins are precipitated; thus, it represented
+the amount of protein degradation. in the wild type
+(jy476), the amount of protein degradation increased in
+proportion to the duration of nitrogen starvation
+(fig. 1a). in isp6d, the amount of protein degradation
+was about one-third of that of wild type during nitrogen
+starvation. this defect was completely rescued by
+expressing isp6+ from prep1-isp6+ (fig. 1b).
+isp6+
+encodes a serine protease, which is speciﬁcally inhibited
+by phenylmethylsulfonyl ﬂuoride (pmsf). when pmsf
+was present in the medium, protein degradation for the
+wild type was reduced to a level similar to that of isp6d
+(fig. 1a). the results suggest that isp6+ is very impor-
+tant for the bulk protein degradation during nitrogen
+starvation.
+we next studied the possibility that the defect in the
+protein degradation is linked to the mutations defective
+in the nitrogen starvation response. both cgs1d (jz858)
+and tor1d (mk30) are not able to respond to nitrogen
+starvation and are thus completely sterile as previously
+described (devoti et al. 1991; kunitomo et al. 2000;
+kawai et al. 2001; weisman and choder 2001). as
+shown in fig. 1a, both the mutants showed the same
+protein degradation as the wild type (data not shown for
+tor1d), indicating that protein degradation is not always
+associated with the mutation in the nitrogen starvation
+response and suggesting that the bulk protein degrada-
+tion speciﬁcally requires isp6+.
+vacuoles are the central organelle for autophagy, and
+the autophagy mutants show an aberrant
+some of
+structure of the vacuoles (takeshige et al. 1992). the
+vacuoles were then visualized using ﬂuorescence dye
+(fm4-64) staining and observed through a ﬂuorescence
+microscope. in contrast to s. cerevisiae, the vacuoles in
+s. pombe are much smaller in size. in the log phase,
+small round shaped vacuoles were observed in both the
+wild type and isp6d (fig. 2a). after 8 h of nitrogen
+starvation, the wild-type cells became stuﬀed with vac-
+uoles. in isp6d, somewhat larger-sized vacuoles were
+observed in smaller numbers
+(indicated by white
+arrowheads), which suggests that isp6+ is involved in the
+morphology of the vacuoles during nitrogen starvation.
+the vacuoles of cgs1d were the same as those of the wild
+type, indicating that the unusual morphology of vacu-
+oles is not tightly linked to the mutation in the nitrogen
+starvation response.
+in the s. cerevisiae prb1 mutant, small vesicles called
+autophagic bodies are accumulated in the vacuoles
+during nitrogen starvation (takeshige et al. 1992; su-
+riapranata et al. 2000; epple et al. 2001). in the wild
+type, accumulation of autophagic bodies is not observed
+because they are degraded rapidly. we then examined
+whether the vacuoles of isp6d accumulate such small
+vesicles. the 8 h nitrogen-starved cells were observed
+with electron microscopy. as shown in fig. 2b, the
+407
+fig. 2 morphology of the
+vacuoles in isp6d. a
+morphology of the vacuoles
+through a ﬂuorescence
+microscope. cells of the wild
+type (jy476, left panels), isp6d
+(ss006, middle panels), and
+cgs1d (jz858, right panels) were
+grown to the mid-log phase in
+emm3 and treated with fm4-
+64. the cells were then
+microscopically observed (log,
+upper panels) or incubated in
+emm3-n for 8 h before
+observation (-n, lower panels).
+‘‘fm4-64’’ denotes the
+ﬂuorescence micrographs of the
+cells. the cells were observed
+under a nomarski microscope
+(the lower panels of fm4-64).
+the white arrowheads indicate
+cells harboring small numbers
+of larger-sized vacuoles. bar,
+10 lm. b electron microscopic
+observation of the vacuoles in
+nitrogen-starved cells.
+exponentially growing cells of
+isp6d were incubated in
+emm3-n for 8 h and then
+harvested, ﬁxed with
+glutaraldehyde, and observed
+through an electron
+microscope. a, c isp6d (ss006).
+b, d wild type (jy476). the
+arrows indicate the vacuoles,
+where small electron dense
+vesicles are accumulated. v
+denotes the vacuoles and n the
+nuclei. c, d low magniﬁcation of
+(a) and (d), respectively
+vacuoles of isp6d were stuﬀed with small vesicle-like
+particles, and the electron-dense materials of the parti-
+cles were the same as cytoplasm materials (indicated by
+arrows). such characteristic pictures were obtained in
+almost all samples. in the wild type cells, accumulation
+of such particles was not observed.
+isp6d is defective in mating initiation
+isp6d was examined under
+sexual development of
+nitrogen starvation conditions. table 2 indicates that
+zygotes, asci, and spores were not detected from more
+than 5,000 cells of isp6d (table 2, fig. 3a). interest-
+ingly,
+in almost every mutant cell, a dapi-stained
+nucleus showed an abnormal shape; it was ﬂat rather
+table 2 mating and sporulation of the mutants in emm3-n
+strains
+mating
+eﬃciencya (%)
+sporulation
+eﬃciencyb (%)
+wild type (jy476)
+isp6d (ss006)
++prep1
++prep1-isp6+
+pka1d (jz633)
+isp6dpka1d (an3011)
+wis1-dd (an3092)
+isp6dwis1-dd (an3102)
+61.9±6.1
+0.00±0.0
+1.05±0.57
+74.9±2.7
+41.5±3.5
+2.41±0.4
+50.5±5.1
+3.99±1.5
+96.4±1.1
+0.00±0.0
+0.00±0.0
+94.7±0.7
+95.6±1.9
+14.3±6.0
+92.6±5.4
+10.4±5.5
+amating eﬃciency was expressed as a percentage of the number of
+zygotes, asci, and free spores to the number of total cells
+bsporulation eﬃciency was expressed as a percentage of the num-
+ber of asci and free spores to the numbers of zygotes, asci, and free
+spores
+408
+than round. the ﬂat shaped nucleus was located at the
+tip instead of the center of the cell (fig. 3a).
+initiation of mating requires an hmg-box tran-
+scription factor ste11, which is critical to gene expres-
+sion for sexual development, and the transcriptional
+induction of ste11+ is triggered by nitrogen starvation
+(sugimoto et al. 1991). we then checked the possibility
+that the transcription of ste11+ is aberrant in isp6d. the
+ste11+ transcript was analyzed by northern blotting. as
+shown in fig. 3b, ste11+ was expressed at basal levels at
+time zero in both the wild type and isp6d. at 6 h after
+nitrogen starvation, ste11+ was well induced in the wild
+type, while it was hardly induced in isp6d. therefore,
+isp6d has a defect in the transcriptional induction of
+ste11+ during nitrogen starvation. the basal level of
+ste11+ transcription seemed rather high. in our experi-
+mental conditions, the transcript of ste11+ was detected
+signiﬁcantly even in the log phase, which may be due to
+the medium conditions. the cells were cultured in a
+synthetic minimal medium, emm3, rather than com-
+plete media.
+expression of ste11+ is regulated by several tran-
+scription factors including bzip dna-binding protein
+atf1 (takeda et al. 1995; kanoh et al. 1996; watanabe
+and yamamoto 1996; ohmiya et al. 2000). thus, ste11+
+is not expressed in atf1d. atf1+ itself is induced with
+nitrogen starvation. in isp6d, atf1+ was expressed nor-
+mally with nitrogen starvation (fig. 3b), suggesting that
+isp6+ aﬀects speciﬁcally the expression of ste11+ at the
+step at least after the transcription of atf1+.
+cell cycle arrest at g1 is a prerequisite for commit-
+ment to mating. we then conducted cell-cycle analyses
+using ﬂow cytometry. the cells of isp6d were starved for
+nitrogen for 8 and 24 h before analysis. the cells of the
+wild type showed the accumulation of the 1c peak,
+indicating that the cells became arrested at the g1 phase
+(fig. 3c). in isp6d, however, there was no 1c peak; the
+major peak was 2c instead. the results showed that the
+isp6d cells were not arrested at g1. cells of atf1d fail to
+arrest at g1 during nitrogen starvation; however, the
+expression of atf1+ was normal in isp6d. slight accu-
+mulation of the 4c peak was observed in isp6d cells
+during nitrogen starvation. the reason is not clear;
+however, it is possible that cytokinesis was incomplete in
+isp6d cells.
+loss of isp6+ was epistatic over mutations causing
+a constitutively active signal pathway for nitrogen
+starvation
+the signal for nitrogen starvation is transmitted by
+pka, whose catalytic subunit is encoded by pka1+.
+hence, pka1d is highly derepressed for sexual develop-
+ment (maeda et al. 1994). the isp6dpka1d double mu-
+tant (an3011) was examined for genetic epistasis to
+sexual development. in the log phase, isp6dpka1d and
+pka1d (jz633) were similar in cell morphology. average
+cell length of isp6dpka1d at the cell division was also
+fig. 3 sexual development of isp6d during nitrogen starvation. a
+cells of isp6d in emm3-n. exponentially growing cells of the wild
+type (jy476) and isp6d (ss006) were placed on the emm3-n
+plates and incubated at 25°c for 3 days. cells were observed under
+a nomarski microscope (upper panels) or through a ﬂuorescence
+microscope after the nuclei were dapi-stained (lower panels).
+‘‘wt’’ denotes the wild type. bar, 10 lm. b expression of ste11+ in
+isp6d during nitrogen starvation. cells of the wild type (jy476) and
+isp6d (ss006) grown to the mid-log phase were transferred to
+emm3-n and cultured at 30°c for the times indicated. at each
+time, the total rna (25 lg) was extracted from the cells, placed in
+each lane, analyzed by agarose gel electrophoresis, and then
+transferred to a nylon membrane. blots on the membrane were
+hybridized with the probes for ste11+ (top panel) and for atf1+
+(middle panel). rrna stained with ethidium bromide is displayed to
+verify approximately equal loading of rna in each lane (bottom
+panel). an arrowhead indicates the transcript of ste11+. c cell-cycle
+analysis of isp6d cells during nitrogen starvation. cells of the wild
+type (jy476) and isp6d (ss006) were grown to the mid-log phase,
+transferred to emm3-n and cultured at 30°c. at the times
+indicated, the cells were subjected to ﬂow cytometry
+409
+highly expressed under the nutrient conditions (0 h), and
+this level was maintained during nitrogen starvation
+(fig. 4b). in the log phase, isp6dpka1d expressed ste11+
+as well as pka1d, however, during nitrogen starvation,
+the double mutant expressed ste11+ only poorly. these
+results suggested that the loss of isp6+ was epistatic to
+the mutation of pka1+ on the expression of ste11+ and
+mating during nitrogen starvation.
+nitrogen starvation activates wis1-spc1 sapk,
+which leads to sexual development (kato et al. 1996;
+shiozaki and russell 1996; wilkinson et al. 1996). the
+wis1-dd encodes a constitutively active wis1 with sub-
+fig. 4 genetic interaction between isp6+ and pka1+ for sexual
+development. a micrographs of the cells of isp6d, pka1d, and
+isp6dpka1d in the mid-log phase (log, upper panels) and with
+nitrogen starvation for 3 days (-n, lower panels). cells of isp6d
+(ss006), pka1d (jz633), and isp6dpka1d (an3011) were grown to
+the mid-log phase in emm3 at 30°c, placed onto emm3-n plates,
+and incubated at 25°c for 3 days. bar, 10 lm. b northern blotting
+of ste11+ in isp6dpka1d during nitrogen starvation. cells of the
+wild type (jy476), isp6d (ss006), isp6dpka1d (an3011 h90 and
+an2011 h+), and pka1d (jz633) were grown to the mid-log phase,
+transferred into emm3-n, and cultured at 30°c. at 0 and 6 h, the
+total rna was extracted from the cells and treated as mentioned in
+fig. 3b. blots were hybridized with the probe for ste11+ (top), and
+rrna stained with ethidium bromide is displayed to verify
+approximately equal loading of rna in each lane (bottom). an
+arrowhead indicates the transcript of ste11+
+similar to that of pka1d but was shorter than that of
+isp6d (fig. 4a, the upper panels). in the log phase cul-
+ture, isp6dpka1d cells initiated sexual development as
+well as pka1d, while the cells of both the wild type and
+isp6d did not mate: the mating eﬃciencies of isp6dpka1d
+and pka1d were 2.6 and 2.3%, respectively. these ﬁnd-
+ings suggested that pka1+ was epistatic to isp6+ in log
+phase culture. in the nitrogen-free medium, isp6dpka1d
+initiated sexual development at an eﬃciency of 2.4%
+while pka1d did so at 42% (fig. 4a, table 2). it should
+be noted that the value (2.4%) is proximal to that before
+starvation (2.6%, see above). therefore, we concluded
+that isp6dpka1d virtually did not produce either zygotes
+or asci in emm3-n.
+expression of ste11+ is repressed with pka, and
+pka1d is highly derepressed for ste11+ expression (wa-
+tanabe and yamamoto 1996; kunitomo et al. 2000;
+higuchi et al. 2002). transcription of ste11+ was then
+examined with northern blotting. in pka1d, ste11+ was
+isp6dpat1-114 during nitrogen
+fig. 5 sexual development of
+starvation. a iodine-staining of the colonies of isp6dpat1-114 and
+pat1-114 after incubation at the restrictive temperature. exponen-
+isp6dpat1-114 (an1020) and pat1-114
+tially growing cells of
+(an13) were spotted onto the emm3 and emm3-n plates and
+incubated at the restrictive temperature (34°c) for 3 days on either
+the emm3 plate (upper panel) or the emm3-n plate (lower panel).
+colonies were stained with iodine vapor. b fluorescence micro-
+graphs of the cells after staining the nuclei with dapi. cells were
+sampled from the plates in (a), treated for dapi-staining, and then
+observed under a ﬂuorescence microscope. under each panel, the
+percentages of the number of cells containing more than three
+nuclei relative to the number of total cells are shown. bar, 10 lm
+410
+table 3 mating and sporulation of the mutants in emm3 1/10n
+strains
+mating
+eﬃciencya (%)
+sporulation
+eﬃciencyb (%)
+wild type (jy476)
+isp6d (ss006)
+pka1d (jz633)
+isp6dpka1d (an3011)
+wis1-dd (an3092)
+isp6dwis1-dd (an3102)
+55.3±2.1
+49.2±3.0
+74.2±0.7
+44.9±2.3
+73.1±4.1
+47.2±7.8
+85.2±1.8
+12.7±1.0
+95.1±0.3
+6.90±2.83
+87.3±2.6
+6.49±0.54
+amating eﬃciency was expressed as a percentage of the number of
+zygotes, asci, and free spores to the number of total cells
+bsporulation eﬃciency was expressed as a percentage of the num-
+ber of asci and free spores to the numbers of zygotes, asci, and free
+spores. free spores that do not have clear outlines and asci con-
+taining such spores were not counted
+stitutions of both ser469 to asp469 and thr473 to asp473.
+the isp6dwis1-dd double mutant (an3102) was basi-
+cally defective in mating (table 2). the results suggested
+that the loss of isp6+ was also epistatic to activation of
+the sapk pathway in sexual development.
+isp6dpat1-114 failed to conduct pat1ts-inactivation-in-
+duced meiosis under nitrogen starvation
+we studied whether isp6+ is required for meiosis. a
+heterozygous diploid isp6d/isp6d strain did not undergo
+meiosis (data not shown). meiosis is negatively regulated
+by pat1 kinase. the temperature-sensitive pat1-114
+mutant performs meiosis and sporulation at
+the
+fig. 6 sexual development of isp6d with a small amount of a
+nitrogen source. micrographs of the cells of isp6d in emm3 1/10n.
+experimental procedures followed those of fig. 3a except that the
+medium was emm3 1/10n. arrowheads indicate the asci contain-
+ing spores with unclear outlines. ‘‘wt’’ denotes the wild type. bar,
+10 lm
+restrictive temperature (34°c) irrespective of ploidy and
+nutrient conditions (beach et al. 1985; iino and ya-
+mamoto 1985). a double mutant of isp6d and pat1-114
+(isp6dpat1-114, an1020) was examined for the ability to
+initiate meiosis. cells cultured at a permissive tempera-
+ture (26.5°c) were spotted onto either emm3 or
+emm3-n plates and then incubated at 34°c to allow
+them to undergo meiosis and sporulation. spores accu-
+mulate glycogen. the eﬃciency of spore formation was
+then monitored through iodine staining of the polysac-
+isp6dpat1-114 cells were
+charide. on emm3 plates,
+stained as well as pat1-114 (an13) (fig. 5a, the upper
+panel). microscopic observation followed by staining
+the nuclei with dapi conﬁrmed asci with three to four
+nuclei in each ascus (fig. 5b). the frequencies of meiosis
+were 74 and 94% in isp6dpat1-114 and pat1-114,
+respectively. on emm3-n plates, however, isp6dpat1-
+114 remained unstained with iodine (fig. 5a, the lower
+panel). the frequency of meiosis was 2.4%, which was
+much smaller than 95% in pat1-114. these results indi-
+cated that isp6+ was necessary for the progression of
+meiosis only under nitrogen starvation but not under
+nutrient-rich conditions, suggesting that isp6+ is needed
+in some steps after inactivation of pat1.
+small amount of a nitrogen source rescued the mating
+defect of isp6d
+during our investigation, we noticed that, when cultured
+to the stationary phase in emm3, some of the isp6d cells
+mated with each other, formed zygotes and even asci
+with spores (data not shown). thus, in the stationary
+phase, isp6+ is not required for mating and meiosis. this
+may be due to the diﬀerence in the amount of nitrogen
+source in the media. emm3-n contained no nitrogen
+source while the stationary phase culture would have
+contained some nitrogen source. the sexual develop-
+ment of isp6d was then examined in a nitrogen-limited
+medium containing only one tenth of the nitrogen source
+(emm3 1/10n). haploid isp6d cells mated with each
+other at a frequency of 49%, which was comparable to
+that of the wild type, 55% (table 3). thus, the mating
+defect in isp6d was rescued by a small amount of a
+nitrogen source in the medium.
+some of the cells have developed to asci (fig. 6,
+table 3), implying that even meiosis has occurred in
+emm3 1/10n. in many asci, however, the spores ap-
+peared to carry unclear outlines (fig. 6, indicated by
+arrowheads), suggesting that these spores are immature.
+as shown in table 3, the rate of the cells that developed
+to asci with mature spores (that means spores having
+clear outlines) was only 13%, much lower than that in
+the wild type, 85%. the above results suggested that
+isp6+ was required for the production of mature spores.
+in emm3 1/10n, isp6dpka1d performed mating and
+sporulation as well as isp6d but less than pka1d (ta-
+isp6dwis1-dd also showed similar results in
+ble 3).
+emm3 1/10n (table 3).
+discussion
+in this study, we presented experimental evidence that
+the isp6+ gene was involved in autophagy and contrib-
+utes to sexual development by providing a nitrogen
+source through autophagy. isp6+ was required for the
+nitrogen starvation-stimulated large-scale protein deg-
+radation (fig. 1), which is characteristic of autophagy
+(takeshige et al. 1992). the morphology of the vacuoles
+was aberrant in the nitrogen-starved isp6d using ﬂuo-
+rescence microscopy analyses (fig. 2a). furthermore,
+the small vesicle-like bodies were accumulated in the
+vacuoles in isp6d according to electron microscopy
+(fig. 2b). in the process of autophagy, cellular compo-
+nents are enclosed within small vesicles, which are then
+degraded in the vacuoles. some of the autophagy mu-
+tants, such as the prb1 mutant, are defective in the last
+stage, showing accumulation of autophagic bodies in the
+vacuoles (takeshige et al. 1992). in s. cerevisiae, auto-
+phagy makes the cells survive and promotes sexual
+development. isp6d cells are infertile, and the viability
+was reduced to 3.5% after 2 days of nitrogen starvation,
+while the wild type showed 86% viability. isp6+ is in-
+volved in the large-scale degradation of cellular rna
+during nitrogen starvation (nakashima et al. 2002b),
+which is also implicated in autophagy in s. cerevisiae.
+these ﬁndings agree with the idea that isp6+ is involved
+in autophagy.
+one of the major roles of autophagy is to provide
+nutrients. even when nutrients are unavailable from the
+medium, the cells can obtain nutrients with the help of
+autophagy. in isp6d, cellular nutrients would be less
+recyclable. hence, the cells of isp6d would be in a seri-
+ously starved state. isp6d cells are unable to undergo
+sexual development in the nitrogen-free medium (fig. 3,
+table 2), but were able to do so when the medium
+contained a small amount of a nitrogen source (fig. 6,
+table 3). the ﬁndings suggest that isp6+ is responsible
+for the supply of a nitrogen source, and that the nitrogen
+source is important for the initiation of sexual devel-
+opment.
+under nitrogen starvation, the nuclei in the mutants
+with the isp6d background showed an abnormal ﬂat
+shape and were located at the tip instead of the center of
+the cell (figs. 3a, 5b). a similar phenomenon was ob-
+served in a few mutants, which were taf1d (ueno et al.
+2001) and one of the autophagy defective mutants (a.
+nakashima and m. uritani, unpublished data). these
+mutants failed to respond to nitrogen starvation, sug-
+gesting that maintaining the nucleus in a proper shape
+and position requires some machinery for the nitrogen
+starvation response. interestingly, such nuclear mor-
+phology seems to resemble the ﬂat chromatin that is
+adhered to the cell periphery in wild type g0 cells cul-
+tured for a prolonged period in nitrogen-limited medium
+(su et al. 1996). as described above, isp6d cells were not
+arrested at the g1 phase (fig. 3c) and reduced viability
+during nitrogen starvation, suggesting that isp6d cells
+411
+did not enter the g0 phase. thus, the nuclear morpho-
+logical change observed in isp6d would not be due to the
+entry into the dormant g0 state. prolonged starvation in
+wild type cells would result in the exhaustion of nutri-
+ents, and the mutant cells defective in autophagy would
+accumulate a lower amount of nutrients. therefore, it is
+possible that cellular nutrient status is related to nuclear
+morphology.
+morishita and shimoda have previously reported
+that the s. pombe ste12 mutant contains a few large
+vacuoles and an eccentrically located nucleus. the au-
+thors have suggested that the enlarged vacuoles interfere
+with the normal positioning of the nucleus (morishita
+and shimoda 2000). in this study, we demonstrated that
+isp6d also had a small number of large vacuoles under
+nitrogen starvation (fig. 2a). therefore, during nitrogen
+starvation, the aberrant shape and positioning of nu-
+cleus in isp6d may be caused by large-size vacuoles.
+isp6d was defective in expressing ste11+ during
+nitrogen starvation (fig. 3b), showing that isp6+ (or
+recycling of the nitrogen source) is required for ste11+
+expression. the expression of ste11+ is derepressed in
+pka1d (watanabe and yamamoto 1996; kunitomo et al.
+2000; higuchi et al. 2002); hence, it has a high tendency
+towards mating (maeda et al. 1994). however, isp6dp-
+ka1d hardly initiated mating and never expressed ste11+
+during nitrogen starvation (fig. 4, table 2). thus, isp6
+may act downstream of pka1. alternatively, the isp6/
+autophagy pathway and cyclic amp-pka1 pathway ex-
+ert independently each other. in addition, ste11+ is
+positively regulated by the sapk cascade, (kato et al.
+1996; shiozaki and russell 1996; wilkinson et al. 1996)
+and wis1-dd mutation results in the constitutive acti-
+vation of sapk (shiozaki et al. 1998); however, the
+isp6dwis1-dd double mutant was unable to commit to
+mating (table 2). therefore, when cells do not have
+suﬃcient nutrients, the expression of ste11+ is repressed
+even though pka is inactivated or the sapk cascade is
+activated.
+it is possible that ste11+ is not expressed because of
+the shortage of certain nutrients necessary for tran-
+scription, such as ribonucleotides. however, atf1+ was
+expressed normally (fig. 3b). the expression of ste11+
+would be regulated by a speciﬁc mechanism that moni-
+tors the nitrogen source status in cells.
+isp6d was defective in the induction of ste11+; how-
+ever, ste11+ overexpression did not rescue the defect in
+mating (data not shown). thus,
+in addition to the
+expression of ste11+, mating requires another step that
+depends on the function of isp6+. when starved, hap-
+loid cells become arrested at the g1 phase, which is a
+prerequisite for mating. isp6d cells were not arrested at
+g1 (fig. 3c), which may explain why the overexpression
+of ste11+ failed to suppress the mating defect of this
+mutant. a nitrogen source may be required for cell-cycle
+progression during nitrogen starvation.
+when isp6dpat1-114 was placed on the nitrogen-free
+medium plate, the double mutant was deﬁcient in mei-
+osis even at the restrictive temperature (fig. 5). meiosis-
+412
+speciﬁc genes are controlled by the mei4 transcription
+factor (horie et al. 1998; abe and shimoda 2000), whose
+expression depends on the initiation of the pre-meiotic
+dna synthesis (iino et al. 1995). interestingly, mei4+
+was expressed in isp6dpat1-114, but the pattern of
+transcription was diﬀerent from that in pat1-114 (a.
+nakashima and m. uritani, unpublished data). the
+results
+the
+involvement of isp6+ at least at the transcriptional
+regulation of mei4+.
+imply that meiosis also requires
+thus
+in conclusion, our data demonstrate that isp6 plays
+important roles in autophagy, expression of ste11+, and
+progression towards mating and meiosis under nitrogen
+starvation. when the medium contained a small amount
+of a nitrogen source, isp6d underwent mating as normal
+as that of the wild-type strains. isp6 would function for
+autophagy to supply a nitrogen source, which is used to
+commit to or to complete the sexual development pro-
+cess when a nitrogen source is unavailable from the
+environment. conversely, sexual development would be
+arrested at mating or meiosis when a nitrogen source
+was not supplied from either the medium or autophagy.
+future studies will examine mechanisms by which
+recycled nutrients through autophagy are sensed and
+used to promote sexual development.
+in s. cerevisiae and mammalian cells, autophagy has
+been extensively studied, but in s. pombe, little has been
+investigated yet. this study would provide a few
+important clues for further studies on autophagy in s.
+pombe. the main response to starvation is autophagy
+and sexual development. thus, in order to obtain an
+overview of the nitrogen starvation response, it is nec-
+essary to study the relation between autophagy and
+sexual development. such a study would provide
+important insight into the mechanism of response to
+nitrogen starvation.
+acknowledgements the authors thank m. yamamoto, y. watan-
+abe, k. tanaka, and k. okazaki for providing the strains and t.
+toda, k. takegawa, and h. masuda for critical reading of the
+manuscript. this work was supported in part by the sasakawa
+scientiﬁc research grant from the japan science society.
+references
+abe h, shimoda c (2000) autoregulated expression of schizo-
+saccharomyces pombe meiosis-speciﬁc transcription factor mei4
+and a genome-wide search for its target genes. genetics
+154:1497–1508
+beach d, rodgers l, gould j (1985) ran1+ controls the transi-
+tion from mitotic division to meiosis in ﬁssion yeast. curr genet
+10:297–311
+brazer sc, williams hp, chappell tg, cande wz (2000) a ﬁssion
+yeast kinesin aﬀects golgi membrane recycling. yeast 16:149–
+166
+chen d, toone wm, mata j, lyne r, burns g, kivinen k,
+brazma a, jones n, ba¨ hler j (2003) global transcriptional
+responses of ﬁssion yeast to environmental stress. mol biol cell
+14:214–229
+davey j (1998) fusion of a ﬁssion yeast. yeast 14:1529–1566
+devoti j, seydoux g, beach d, mcleod m (1991) interaction
+between ran1+ protein kinase and camp dependent protein
+kinase as negative regulators of ﬁssion yeast meiosis. embo j
+10:3759–3768
+egel r (1989) mating-type genes. meiosis, and sporulation. in:
+nasim a, young p, johnson bf (eds) molecular biology of the
+ﬁssion yeast. academic, san diego, pp 31–73
+epple ud, suriapranata i, eskelinen el, thumm m (2001) aut5/
+cvt17p, a putative lipase essential for disintegration of auto-
+phagic bodies inside the vacuole. j bacteriol 183:5942–5955
+grimm c, kohli j, murray j, maundrell k (1988) genetic engi-
+neering of schizosaccharomyces pombe: a system for gene dis-
+ruption and replacement using the ura4+ gene as a selectable
+marker. mol gen genet 215:81–86
+horie s, watanabe y, tanaka k, nishiwaki s, fujioka h, abe h,
+yamamoto m, shimoda c (1998) the schizosaccharomyces
+pombe mei4+ gene encodes a meiosis-speciﬁc transcription
+factor containing a forkhead dna-binding domain. mol cell
+biol 18:2118–2129
+higuchi t, watanabe y, yamamoto m (2002) protein kinase a
+regulates sexual development and gluconeogenesis through
+phosphorylation of
+the zn ﬁnger transcriptional activator
+rst2p in ﬁssion yeast. mol cell biol 22:1–11
+iino y, yamamoto m (1985) negative control for the initiation of
+meiosis in schizosaccharomyces pombe. proc natl acad sci
+usa 82:2447–2451
+iino y, hiramine y, yamamoto m (1995) the role of cdc2 and
+other genes in meiosis in schizosaccharomyces pombe. genetics
+140:1235–1245
+kanoh j, watanabe y, ohsugi m, iino y, yamamoto m (1996)
+schizosaccharomyces pombe gad7+ encodes a phosphoprotein
+with a bzip1 domain, which is required for proper g1 arrest
+and gene expression under nitrogen starvation. genes cells
+1:391–408
+kato t, okazaki k, murakami h, stettler s, fants pa, okayama
+h (1996) stress signal, mediated by a hog1-like map kinase,
+controls sexual development
+in ﬁssion yeast. febs lett
+378:207–212
+kawai m, nakashima a, ueno m, ushimaru t, aiba k, doi h,
+uritani m (2001) fission yeast tor1 functions in response to
+various stresses including nitrogen starvation, high osmolarity,
+and high temperature. curr genet 39:166–174
+kim j, klionsky dj (2000) autophagy, cytoplasm-to-vacuole tar-
+geting pathway, and pexophagy in yeast and mammalian cells.
+annu rev biochem 69:303–342
+kunitomo h, sugimoto a, wilkinson cr, yamamoto m (1995)
+schizosaccharomyces pombe pac2+ controls the onset of sexual
+development via a pathway independent of the camp cascade.
+curr genet 28:32–38
+kunitomo h, higuchi t, iino y, yamamoto m (2000) a zinc-
+ﬁnger protein, rst2p, regulates transcription of the ﬁssion yeast
+ste11+ gene, which encodes a pivotal transcription factor for
+sexual development. mol biol cell 11:3205–3217
+maeda t, watanabe y, kunitomo h, yamamoto m (1994)
+cloning of the pka1 gene encoding the catalytic subunit of the
+camp-dependent protein kinase in schizosaccharomyces pom-
+be. j biol chem 269:9632–9637
+maundrell k (1993) thiamine-repressible expression vectors prep
+and prip for ﬁssion yeast. gene 123:127–130
+mcleod m, beach d (1988) a speciﬁc inhibitor of the ran1+
+protein kinase regulates entry into meiosis in schizosacchar-
+omyces pombe. nature 332:509–514
+moehle cm, tizard r, lemmon sk, smart j, jones ew (1987)
+protease b of the lysosomelike vacuole of the yeast saccharo-
+myces cerevisiae is homologous to the subtilisin family of serine
+proteases. mol cell biol 7:4390–4399
+moreno s, klar a, nurse p (1991) molecular genetic analysis of
+ﬁssion yeast schizosaccharomyces pombe. methods enzymol
+194:795–823
+morishita m, shimoda c (2000) positioning of medial actin rings
+aﬀected by eccentrically located nuclei in a ﬁssion yeast mutant
+having large vacuoles. fems microbiol lett 188:63–67
+nakashima a, ueno m, ushimaru t, uritani m (2002a)
+involvement of a ccaat-binding complex in the expression of
+a nitrogen-starvation-speciﬁc gene isp6+,
+omyces pombe. biosci biotechnol biochem 66:2224–2227
+in schizosacchar-
+nakashima a, yoshida m, nakayama k, kato-furuno a, ueno
+m, ushimaru t, uritani m (2002b) genes for a nuclease and a
+protease are involved in the drastic decrease in cellular rna
+amount in ﬁssion yeast cells during nitrogen starvation. j bio-
+chem 131:391–398
+ohmiya r, yamada h, kato c, aiba h, mizuno t (2000) the
+prr1 response regulator is essential for sexual development in
+ﬁssion yeast. mol gen genet 264:441–451
+ohsumi y (2001) molecular dissection of autophagy: two ubiqu-
+itin-like systems. nat rev mol cell biol 2:211–216
+okazaki k, okazaki n, kume k, jinno s, tanaka k, okayama h
+(1990) high-frequency transformation method and library
+transducing vectors for cloning mammalian cdnas by trans-
+complementation of schizosaccharomyces pombe. nucleic acids
+res 18:6485–6489
+sato s, suzuki h, widyastuti u, hotta y, tabata s (1994) iden-
+tiﬁcation and characterization of genes induced during sexual
+diﬀerentiation in schizosaccharomyces pombe. curr genet
+26:31–37
+shiozaki k, russell p (1996) conjugation, meiosis, and the osmotic
+stress response are regulated by spc1 kinase through atf1
+transcription factor in ﬁssion yeast. genes dev 10:2276–2288
+shiozaki k, shiozaki m, russell p (1998) heat stress activates
+ﬁssion yeast spc1/sty1 mapk by a mekk-independent
+mechanism. mol biol cell 9:1339–1349
+stiefel j, wang l, kelly da, janoo rt, seitz j, whitehall sk,
+hoﬀman cs (2004) suppressors of an adenylate cyclase dele-
+tion in the ﬁssion yeast schizosaccharomyces pombe. eukaryot
+cell 3:610–619
+su ss, tanaka y, samejima i, tanaka k, yanagida m (1996) a
+nitrogen starvation-induced dormant g0 state in ﬁssion yeast:
+the establishment from uncommitted g1 state and its delay for
+return to proliferation. j cell sci 109:1347–1357
+sugimoto a, iino y, maeda t, watanabe y, yamamoto m (1991)
+schizosaccharomyces pombe ste11+ encodes a transcription
+factor with an hmg motif that is a critical regulator of sexual
+development. genes dev 5:1990–1999
+suriapranata i, epple ud, bernreuther d, bredschneider m,
+sovarasteanu k, thumm m (2000) the breakdown of auto-
+phagic vesicles inside the vacuole depends on aut4p. j cell sci
+113:4025–4033
+413
+takeda t, toda t, kominami k, kohnosu a, yanagida m, jones
+n (1995) schizosaccharomyces pombe atf1+ encodes a tran-
+scription factor required for sexual development and entry into
+stationary phase. embo j 14:6193–6208
+takeshige k, baba m, tsuboi s, noda t, ohsumi y (1992)
+autophagy in yeast demonstrated with proteinase-deﬁcient
+mutants and conditions for its induction. j cell biol 119:301–
+311
+teichert u, mechler b, mu¨ ller h, wolf dh (1989) lysosomal
+(vacuolar) proteinases of yeast are essential catalysts for protein
+degradation, diﬀerentiation, and cell survival. j biol chem
+264:16037–16045
+tsukada m, ohsumi y (1993) isolation and characterization of
+autophagy-defective mutants of saccharomyces cerevisiae.
+febs lett 333:169–174
+ueno m, kurokawa r, renauld h, watanabe k, ushimaru t,
+uritani m, yoshinaga k, hiraoka y (2001) schizosacchar-
+omyces pombe taf1+ is required for nitrogen starvation-induced
+sexual development and for entering the dormant g0 state.
+curr genet 38:307–313
+vida ta, emr sd (1995) a new vital stain for visualizing vacuolar
+membrane dynamics and endocytosis in yeast. j cell biol
+128:779–792
+watanabe y, yamamoto m (1996) schizosaccharomyces pombe
+pcr1+ encodes a creb/atf protein involved in regulation of
+gene expression for sexual development. mol cell biol 16:704–
+711
+weisman r, choder m (2001) the ﬁssion yeast tor homolog,
+tor1+, is required for the response to starvation and other
+stresses via a conserved serine. j biol chem 276:7027–7032
+wilkinson mg, samuels m, takeda t, toone wm, shieh jc,
+toda t, millar jb, jones n (1996) the atf1 transcription
+factor is a target for the sty1 stress-activated map kinase
+pathway in ﬁssion yeast. genes dev 10:2289–2301
+yamamoto m, imai y, watanabe y (1997) mating and sporula-
+tion in schizosaccharomyces pombe. in: broach jr, jones ew
+(eds) the molecular and cellular biology of the yeast saccha-
+romyces. cell cycle and cell biology, vol 3. cold spring harbor
+laboratory press, cold spring harbor, pp 1037–1106
+zubenko gs, mitchell ap, jones ew (1979) septum formation,
+cell division, and sporulation in mutants of yeast deﬁcient in
+protease b. proc natl acad sci usa 76:2395–2399

@@ -1,0 +1,519 @@
+non-self recognition and programmed cell
+death in filamentous fungi
+n louise glass and karine dementhon
+non-self recognition resulting in programmed cell death is a
+ubiquitous phenomenon in filamentous ascomycete fungi and is
+termed heterokaryon incompatibility (hi). recent analyses show
+that genes containing predicted het domains are often involved
+in hi; however, the function of the het domain is unknown.
+autophagy is induced as a consequence of hi, whereas the
+presence of a predicted transcription factor, vib-1, is required for
+hi. morphological features associated with apoptosis in
+filamentous fungi are induced by various stresses and drugs, and
+also during hi. future analyses will reveal whether common or
+different genetic mechanisms trigger death by non-self
+recognition and death by various environmental onslaughts.
+addresses
+the plant and microbial biology department, the university of california
+berkeley, ca 94720-3102, usa
+corresponding author: glass, n louise (lglass@nature.berkeley.edu)
+hi is genetically regulated in filamentous ascomycete
+species by het loci (named after heterokaryon) [2,4,5]. the
+observed acquisition of novel het genes through interspecies gene transfer in ophiostoma novo-ulmi indicated that
+new het specificities can undergo fixation within a population [6]. dna polymorphisms associated with het allele
+specificity can be under selection for diversity, a feature
+common to genes under balancing selection [7,8,9], an
+observation that is consistent with their role in mediating
+non-self recognition. hi also prevents transmission of
+mycoviruses by hyphal fusion [10]. these observations
+support the hypothesis that non-self recognition confers a
+selective advantage and that genetic mechanisms favor het
+gene divergence and subsequent fixation in populations
+of filamentous ascomycete fungi.
+the genetics of recognition
+the importance of identity
+two types of genetic system, termed ‘allelic’ and ‘nonallelic’, regulate hi in filamentous ascomycete fungi
+[2,4,5]. in allelic hi, non-self recognition is triggered
+by alleles of different specificity at the same locus, for
+example at het-s in p. anserina (figure 2) [4]. the het-s
+locus is unusual in that allelic specificity is not stable
+because the het-s can fold into two different conformations; one which doesn’t trigger hi and one, an infectious
+prion form, [het-s], which does [11]. the [het-s]
+prion also functions as a meiotic drive element in crosses
+between het-s and het-s strains [12,13]. recent structural
+studies indicate that the prion-forming domain of [hets] is essential for conferring non-self recognition and hi
+[14]; the corresponding region in the non-prion form,
+het-s, is also required for hi [15].
+the ability to distinguish oneself from another is a
+ubiquitous phenomenon among all living things. as a
+filamentous fungal colony grows across a substrate in
+nature, it will encounter many other microorganisms,
+including bacteria, fungal colonies of the same or of
+different species, protist species and insects. interactions
+between different fungal species, such as podospora anserina and coprinopsis cinerea, can result in the generation of
+hydrogen peroxide and death of hyphae [1]. non-self
+recognition between genetically different isolates of the
+same fungal species often results in compartmentalization
+and death of hyphae that undergo fusion between the two
+strains, a phenomenon termed ‘heterokaryon incompatibility’ (hi; figure 1) [2]. macroscopically, this interaction often results in a ‘barrage’, or demarcation zone
+between incompatible fungal colonies. although the formation of a barrage is often used to infer genetically
+different individuals, an association between hi and
+barrage-formation is not always observed [3].
+an example of non-allelic incompatibility between
+closely linked genes is the het-c/pin-c haplotype in neurospora crassa, whereas non-allelic interactions among the
+unlinked loci, het-r and het-v, mediate hi in p. anserina
+(figure 2) [16,17]. interestingly, five of the six molecularly characterized het interactions involve predicted
+proteins that share a common 150 amino acid domain,
+termed the het domain (pfam06985; n. crassa het-6, tol
+and pin-c and p. anserina het-d and het-e). outside of the
+het domain, these genes are dissimilar in sequence and
+domain structure (figure 3). het domain genes often
+interact with another gene (non-allelic hi interactions).
+for example, in n. crassa, het-c/pin-c hi requires a plasma
+membrane protein (het-c) and a het domain protein
+(pin-c; figure 3) [16]. a non-self recognition complex
+between un-24 (encoding ribonucleotide reductase) and
+het-6 (a het domain gene) loci is associated with an
+inversion [7]; specific alleles at un-24 and het-6 are in
+current opinion in microbiology 2006, 9:553–558
+this review comes from a themed issue on
+growth and development
+edited by judy armitage and joseph heitman
+available online 10th october 2006
+1369-5274/$ – see front matter
+# 2006 elsevier ltd. all rights reserved.
+doi 10.1016/j.mib.2006.09.001
+www.sciencedirect.com
+current opinion in microbiology 2006, 9:553–558
+554 growth and development
+figure 1
+confocal micrographs showing hyphal fusion and heterokaryon formation between two colonies that are all isogenic at all het loci (a–d) (one
+strain [kd02-10] was transformed with cytoplasmic gfp vector and the second strain [rm01-01] was transformed with a histone h1 construct
+tagged with dsred) or between strains that differ in het-c haplotype (e–h) (one strain [kd06-15] was transformed with the cytoplasmic gfp
+vector and the second strain is the same as used in [a–d]). panels (a) and (e), differential interference contrast (dic) micrographs. panels (b) and
+(f), fluorescent micrographs showing cytoplasmic gfp fluorescence. panels (c) and (g), fluorescent micrographs showing nuclear dsred fluorescence.
+panels (d) and (h) are merged images. the arrow in panel (d) shows a healthy heterokaryotic hypha, whereas the arrow in panel (h) shows
+compartmentalized fusion cell. note that the nuclear h1-dsred signal is diffuse in the incompatible fusion cell (g,h), presumably because of
+nuclear degradation. scale bar=10 mm.
+severe linkage disequilibrium. hi that is associated with
+the het-6 haplotype requires genetic differences at both
+un-24 and het-6. in p. anserina, non-self recognition
+mediated by pahet-c/het-d or pahet-c/het-e requires a
+glycolipid transfer protein (pahet-c) [18] and a het
+domain protein (het-e or het-d) [19]. interestingly,
+in the plant species arabidopsis thaliana, an ortholog of
+pahet-c, acd11, has been implicated in programmed cell
+death (pcd) [20].
+predicted het domain genes are specific to and common
+in filamentous ascomycete genomes. the n. crassa genome
+contains 50 het domain genes, the human pathogen
+aspergillus fumigatus has seven, whereas the plant pathogen
+stagonospora nodorum has 150. genetic analysis and
+modeling analysis indicate that the number of het loci
+required for non-self recognition in fungal populations is
+between 7 and 12 [2,21], suggesting that not all predicted
+het domain genes are involved in hi. phylogenetic
+analysis of het domain genes in the genomes of different
+aspergillus species (the numbers of genes range between 7–
+38) indicate multiple gene duplication events, rapid diversification and gene loss [22]. het domain genes
+involved in hi are highly polymorphic within fungal
+populations. for example, alleles of different specificity
+at n. crassa pin-c or het-6 show only 47–68% identity at the
+amino acid level (depending on the allele comparison)
+[7,16]. in p. anserina het-e and het-d, sequence variation
+is associated with allelic specificity [19]. although polymorphisms associated with specificity have been identified
+figure 2
+non-self recognition resulting in hi through non-allelic interactions of closely-linked het genes (n. crassa het-c/pin-c), non-allelic interactions between
+unlinked het genes (p. anserina het-v/het-r) and allelic interactions (p. anserina het-s/het-s).
+current opinion in microbiology 2006, 9:553–558
+www.sciencedirect.com
+non-self recognition and programmed cell death in filamentous fungi glass and dementhon 555
+figure 3
+interactions between predicted het domain proteins ( pin-c, tol, het-6, het-e and het-d) and their partners (het-c, mat, un-24 and pahet-c).
+interactions between un-24 and het-6 are inferred on the basis of population analyses and a decrease in fitness in meiotic progeny; specific alleles
+at het-6 and un-24 show severe linkage disequilibrium [7,9].
+in the non-allelic or gene complex partners of het domain
+genes (such as n. crassa het-c, un-24 and pahet-c; [2]), these
+genes do not show similar levels of duplication, divergence
+and loss among filamentous ascomycete species [22].
+little is understood about how molecular interactions
+between alternate het genes mediate non-self recognition
+and trigger hi. loss-of-function mutations at het-c, pin-c,
+tol, mat, pahet-c, het-e and het-s do not affect the vegetative
+growth phenotype of mutants. however, such mutants
+fail to distinguish self from non-self and will form vigorous heterokaryons with strains with which they were
+formerly incompatible. thus, incompatibility cannot be
+a result of disruption of an essential cellular function
+encoded by het genes. models depict physical interaction
+between proteins encoded by het loci as a pre-requisite for
+non-self recognition. in support of this hypothesis, a
+het-c heterocomplex composed of alternative hetc proteins is associated with hi in n. crassa, suggesting
+that a het-c/pin-c heterocomplex might play a role in
+non-self recognition [16,23].
+signaling death
+compartmentalization by septal plugging, increased
+septation, vacuolization of plugged compartments and
+accumulation of lipid bodies are common microscopic
+features associated with hi. two new approaches to
+identify components of the death pathway have been
+used recently: the characterization of genes induced
+during hi [24–26]; and the identification of mutations
+which suppress hi [16,27].
+www.sciencedirect.com
+the p. anserina het-r/het-v system shows temperature
+sensitivity; strains containing incompatible het-r and
+het-v alleles grow like the wild type at 32 8c, but undergo
+massive cell death when shifted to 26 8c [24]. genes
+induced during het-r/het-v incompatibility (idi family)
+include genes for predicted cell wall proteins (idi-1, idi2 and idi-3), a predicted bzip transcription factor (idi-4)
+and orthologs of autophagy genes in saccharomyces cerevisiae (idi-6 and idi-7) [17,26,28]. during autophagy, organelles and cytoplasm are engulfed in specialized vesicles
+termed autophagosomes and targeted to the vacuole for
+degradation and recycling. the idi genes are induced
+under nitrogen starvation and treatment with rapamycin,
+a specific inhibitor of the tor (for ‘target of rapamycin’)
+kinase; treatment of the cells with rapamycin mimicked
+the effects of hi [24]. autophagy, first described as a
+cellular response to nutrient starvation, has been associated with pcd in metazoans [29]. however, p. anserina
+mutants in the s. cerevisiae orthologs of atg1, a protein
+kinase involved in the induction of autophagy and atg8,
+a gene required for autophagosome formation, showed
+accelerated cell death associated with hi [28]. although
+the bzip dna-binding domain of idi-4 binds to the idi-7
+promoter, inactivation of idi-4 does not affect hi [25,30].
+these observations indicate that the induction of autophagy during hi is a cell survival response in conflict with
+death signaling pathways.
+in n. crassa, mutations in a putative transcription factor
+gene, vib-1, (for vegetative incompatibility blocked) suppress both mat and het-c/pin-c incompatibility [27,31,32].
+current opinion in microbiology 2006, 9:553–558
+556 growth and development
+the mat locus encodes transcription factors required for
+entry into sexual reproduction; fusion between opposite
+mating types during vegetative growth results in hi
+(figure 3). recent results suggest that vib-1 is required
+for the expression of het domain genes, pin-c, tol and het6 [33]. recently, a strain containing mutations in an
+ortholog of vib-1 in aspergillus nidulans was shown to be
+defective in protease production in response to nutrient
+limitation [34]. these data suggest that mutations in vib-1
+might suppress hi both because het domain genes are
+not expressed and because downstream effectors of hi
+might be lacking.
+more than one way to die?
+pcd mechanisms are ubiquitous in both prokaryotic and
+eukaryotic species. filamentous fungal genomes contain
+the complement of genes involved in pcd in s. cerevisiae,
+and also have homologs of genes, involved in pcd in
+metazoans, that are not present in s. cerevisiae or saccharomyces pombe [2,22,35,36]. several biochemical assays
+have been used to assess cellular changes associated with
+apoptosis in filamentous fungi, including deoxynucleotidyltransferase-mediated dutp nick end labeling
+(tunel) for dna degradation, annexin-fitc (fluorescein) binding for the presence of phosphatidylserine on
+the outer leaflet of the plasma membrane and 2,70 -dichlorodihydrofluorescein diacetate for reactive oxygen species
+(ros) production. in addition, the exclusion of propidium iodide and the blockage of cell death by treatment
+with the translation inhibitor cycloheximide are used to
+differentiate apoptosis from necrosis. the results of these
+assays show that apoptosis in filamentous fungi occurs in
+response to treatment with hydrogen peroxide, phytosphingosine, antifungal proteins (pafs), amphotericin b
+and farnesol [37,38–40,41]. farnesol is involved in
+quorum sensing in candida albicans [42], but causes
+apoptosis in a. nidulans, implying that this signaling
+molecule might be used in interspecies antagonistic
+interactions [37]. apoptotic characters such as dna
+degradation are also associated with hi in n. crassa
+[43], entry into stationary phase in a. fumigatus [44] and
+asexual sporulation in a. nidulans [45].
+in c. albicans, mutations that block ras signaling —
+including those in ras1, cdc35 (encoding adenylate
+cyclase), tpk1 and tpk2, which encode regulatory subunits of pka — suppress or delay the apoptotic
+response upon exposure to low levels of acetic acid,
+h202 and amphotericin b [46,47]. by contrast, mutations that result in constitutive activation of the ras
+pathway, such as ras1val13 (daras), accelerate entry
+into the apoptotic pathway in c. albicans and colletotrichum trifolii [41,47], although ras activation by itself
+is not sufficient to kill cells. treatment of c. trifolii with
+proline suppressed apoptosis associated with daras as
+well as apoptosis associated with a variety of stresses
+[41]. in a. nidulans, resistance to pafs and farnesol was
+current opinion in microbiology 2006, 9:553–558
+associated with a dominant-interfering mutations in the
+a–subunit of g protein, fadag203r [39] or mutations in
+the gb subunit (dsfad), respectively [37], whereas
+mutations that hyperactivated g protein signaling
+(dflba) resulted in increased sensitivity to farnesol. a
+predicted poly(adp-ribose) polymerase (parp) ortholog in a. nidulans was also shown to be required for
+farnesol-induced nuclear condensation [48]. parp is a
+highly conserved enzyme that is implicated in the stress
+response and in apoptosis in metazoans [49]. crosstalk
+between camp and g protein signaling occurs in several fungi [50], although the exact mechanisms vary
+among fungal species. these observations suggest that
+alterations of nutrient signaling pathways might mediate the commitment of hyphae to enter the apoptotic
+and hi pathways.
+conclusion: life after death?
+the process of pcd in filamentous ascomycete fungi
+occurs as a result of non-self recognition, treatment with
+various drugs and during developmental processes. work
+in p. anserina and n. crassa suggest that protein interaction
+and conformation alterations might be a molecular
+mechanism for non-self recognition. genetic analyses
+of hi and of apoptosis induction by drug treatment
+suggest that signaling pathways involved in nutrient
+sensing might be recruited to trigger death. analyses in
+p. anserina indicate that the induction of cell survival
+mechanisms, such as autophagy, also occur in concert
+with death signaling, thus complicating analysis of signal
+transduction mechanisms associated with death. future
+work will determine the commonalities and differences in
+pcd or apoptosis induced by hi between a variety of
+environmental triggers. specifically, do all of these triggers mediate death by a common signaling and dismantling pathway, or are there many ways to die, depending
+on which cellular pathway is perturbed?
+acknowledgements
+we thank sarah brown, betsy hutchison, julie welch and dr jianping sun
+and dr sven saupe for critical reading of this manuscript. our work cited in
+this review was made possible by a national institutes of health grant
+gm060468 to nlg. we thank drs steve ruzin and denise schichnes from
+the national research council (cnr) biological imaging center for
+technical assistance with figure 1 and randy morgenstein for construction
+of the ccg-1 h1-dsred plasmid and the n. crassa ccg-1 h1-dsred strain.
+references and recommended reading
+papers of particular interest, published within the annual period of
+review, have been highlighted as:
+ of special interest
+ of outstanding interest
+1.
+silar p: peroxide accumulation and cell death in filamentous
+fungi induced by contact with a contestant. mycol res 2005,
+109:137-149.
+our understanding of interactions between different fungal species and
+between fungi and bacteria is rudimentary. this study showed that
+interactions between different fungal species and between fungal species
+and bacteria are specific and often antagonistic. p. anserina and c.
+cinerea were shown to produce peroxide, resulting in death of hyphae
+in the interaction zone.
+www.sciencedirect.com
+non-self recognition and programmed cell death in filamentous fungi glass and dementhon 557
+2.
+glass nl, kaneko i: fatal attraction: nonself recognition and
+heterokaryon incompatibility in filamentous fungi.
+eukaryot cell 2003, 2:1-8.
+3.
+micali co, smith ml: on the independence of barrage
+formation and heterokaryon incompatibility in neurospora
+crassa. fungal genet biol 2003, 38:209-219.
+4.
+saupe sj: molecular genetics of heterokaryon incompatibility
+in filamentous ascomycetes. microbiol mol biol rev 2000,
+64:489-502.
+5.
+esser k: heterogenic incompatibility in fungi. in the mycota:
+growth, differentiation and sexuality, edn 2. edited by esser k:
+springer; 2006:141-166. [kues u and fischer r (series editor),
+vol 1.]
+6.
+
+paoletti m, buck kw, brasier cm: selective acquisition of novel
+mating type and vegetative incompatibility genes via
+interspecies gene transfer in the globally invading eukaryote
+ophiostoma novo-ulmi. mol ecol 2006, 15:249-262.
+this study showed the selective acquisition of alternative mating type and
+het loci in a clonal population of the dutch elm fungal pathogen o. novoulmi through interspecies transfer. sexual reproduction and heterokaryon
+incompatibility was associated with a reduction in the spread of deleterious viruses in the originally clonal populations.
+7.
+
+micali co, smith ml: a nonself recognition gene complex in
+neurospora crassa. genetics 2006:1-2 http://dx.doi.org/
+10.1534/genetics.106.057562.
+an inversion associated with hi, mediated by two linked het genes, un-24
+and het-6, led to the hypothesis that the occurrence of the inversion
+resulted in un-24–het-6 evolving into a non-self recognition gene
+complex.
+8.
+9.
+wu j, saupe sj, glass nl: evidence for balancing selection
+operating at the het-c heterokaryon incompatibility locus in a
+group of filamentous fungi. proc natl acad sci usa 1998,
+95:12398-12403.
+mir-rashed n, jacobson dj, dehghany mr, micali oc, smith ml:
+molecular and functional analyses of incompatibility genes at
+het-6 in a population of neurospora crassa. fungal genet biol
+2000, 30:197-205.
+10. biella s, smith ml, aist jr, cortesi p, milgroom mg:
+programmed cell death correlates with virus transmission in a
+filamentous fungus. proc biol sci 2002, 269:2269-2276.
+11. maddelein m-l, dos reis s, duvezin-caubet s, coulary-salin b,
+saupe sj: amyloid aggregates of the het-s prion protein are
+infectious. proc natl acad sci usa 2002, 99:7402-7407.
+12. dalstra hjp, van der zee r, swart k, hoekstra rf, saupe sj,
+debets ajm: non-mendelian inheritance of the het-s prion or
+het-s prion domains determines the het-s spore killing
+system in podospora anserina. fungal genet biol 2005,
+42:836-847.
+13. dalstra hjp, swart k, debets ajm, saupe sj, hoekstra rf:
+sexual transmission of the [het-s] prion leads to meiotic drive
+in podospora anserine. proc natl acad sci usa 2003,
+100:6616-6621.
+14. ritter c, maddelein ml, siemer ab, luhrs t, ernst m, meier bh,
+saupe sj, riek r: correlation of structural elements and
+infectivity of the het-s prion. nature 2005, 435:844-848.
+the amyloid fibril secondary structure of the [het-s] carboxyl-terminal
+prion domain was evaluated by fluorescence studies, quenched hydrogen-exchange nuclear magnetic resonance (nmr) and solid-state nmr.
+the b-sheet structure associated with the amyloid form of [het-s]
+correlated with prion infectivity.
+15. balguerie a, dos reis s, ritter c, chaignepain s, coulary-salin b,
+forge v, bathany k, lascu i, schmitter jm, riek r et al.: domain
+organization and structure-function relationship of the het-s
+prion protein of podospora anserine. embo j 2003,
+22:2071-2081.
+16. kaneko i, dementhon k, xiang q, glass nl: nonallelic
+ interactions between het-c and a polymorphic locus, pin-c,
+are essential for nonself recognition and programmed cell
+death in neurospora crassa. genetics 2006, 172:1545-1555.
+previously, it was believed that het-c functioned as an allelic het locus
+(with three specificities) in n. crassa. this study showed that het-c
+incompatibility is mediated by non-allelic interactions between closely
+www.sciencedirect.com
+linked genes: het-c, encoding a glycine-rich plasma membrane protein
+and pin-c, encoding a highly polymorphic het domain protein.
+17. bourges n, groppi a, barreau c, clavé c, bégueret j: regulation
+of gene expression during the vegetative incompatibility
+reaction in podospora anserine. characterization of three
+induced genes. genetics 1998, 150:633-641.
+18. mattjus p, turcq b, pike hm, molotkovsky jg, brown re:
+glycolipid intermembrane transfer is accelerated by het-c2,
+a filamentous fungus gene product involved in cell–cell
+incompatibility response. biochemistry 2003, 42:535-542.
+19. espagne e, balhadere p, penin m-l, barreau c, turcq b: het-e
+and het-d belong to a new subfamily of wd40 proteins
+involved in vegetative incompatibility specificity in the fungus
+podospora anserina. genetics 2002, 161:71-81.
+20. brodersen p, petersen m, pike hm, olszak b, skov s, odum n,
+jorgensen lb, brown re, mundy j: knockout of arabidopsis
+accelerated-cell-death11 encoding a sphingosine
+transfer protein causes activation of programmed cell death
+and defense. genes dev 2002, 16:490-502.
+21. muirhead ca, glass nl, slatkin m: multilocus self-recognition
+systems in fungi as a cause of trans-species polymorphism.
+genetics 2002, 161:633-641.
+22. fedorova n, badger j, robson g, wortman j, nierman w:
+ comparative analysis of programmed cell death pathways in
+filamentous fungi. bmc genomics 2005, 6:177.
+a bioinformatics approach was used to evaluate the presence of genes in
+filamentous fungal genomes that are known to be involved in pcd, with a
+focus on the genomes of aspergillus species. phylogenetic profiling
+identified more than 100 putative pcd-associated genes in aspergillus.
+23. sarkar s, iyer g, wu j, glass nl: nonself recognition is
+mediated by het-c heterocomplex formation during
+vegetative incompatibility. embo j 2002, 21:4841-4850.
+24. dementhon k, paoletti m, pinan-lucarre b, loubradoubourges n, sabourin m, saupe sj, clave c: rapamycin mimics
+the incompatibility reaction in the fungus podospora anserina.
+eukaryot cell 2003, 2:238-246.
+25. dementhon k, saupe sj, clave c: characterization of idi-4, a
+bzip transcription factor inducing autophagy and cell death in
+the fungus podospora anserina. mol microbiol 2004,
+53:1625-1640.
+26. pinan-lucarre b, paoletti m, dementhon k, coulary-salin b,
+clave c: autophagy is induced during cell death by
+incompatibility and is essential for differentiation in the
+filamentous fungus podospora anserina. mol microbiol 2003,
+47:321-333.
+27. xiang q, glass nl: the control of mating type heterokaryon
+incompatibility by vib-1, a locus involved in het-c heterokaryon
+incompatibility in neurospora crassa. fungal genet biol 2004,
+41:1063-1076.
+28. pinan-lucarre b, balguerie a, clave c: accelerated cell death in
+ podospora autophagy mutants. eukaryot cell 2005,
+4:1765-1774.
+genes involved in autophagy are induced during hi in p. anserina.
+however, autophagy mutants (paatg1 and paatg8) showed accelerated cell death during hi. these data indicate that hi induces genes
+associated with death as well as genes involved in protection, and
+implicate nutrient-sensing signaling pathways in these processes.
+29. baehrecke eh: autophagy: dual roles in life and death?
+nat rev mol cell biol 2005, 6:505-510.
+30. dementhon k, saupe sj: dna-binding specificity of the idi-4
+basic leucine zipper factor of podospora anserina defined by
+systematic evolution of ligands by exponential enrichment
+(selex). eukaryot cell 2005, 4:476-483.
+31. xiang q, glass nl: identification of vib-1, a locus involved in
+vegetative incompatibility mediated by het-c in neurospora
+crassa. genetics 2002, 162:89-101.
+32. xiang q, glass nl: chromosome rearrangements in isolates
+that escape from het-c heterokaryon incompatibility in
+neurospora crassa. curr genet 2004, 44:329-338.
+current opinion in microbiology 2006, 9:553–558
+558 growth and development
+33. dementhon k, iyer g, glass nl: vib-1 is required for expression
+of genes necessary for programmed cell death in neurospora.
+eukaryot cell 2006, in press.
+34. katz me, gray k-a, cheetham bf: the aspergillus nidulans
+xprg ( phog) gene encodes a putative transcriptional activator
+involved in the response to nutrient limitation.
+fungal genet biol 2006, 43:190-199.
+35. lu bck: programmed cell death in fungi. in the mycota: growth,
+differentiation and sexuality, edn 2. edited by esser k: springer;
+2006:167-187. [kues u and fischer r (series editor), vol 1.]
+36. ludovico p, madeo f, silva m: yeast programmed cell death: an
+intricate puzzle. iubmb life 2005, 57:129-135.
+37. semighini cp, hornby jm, dumitru r, nickerson kw, harris sd:
+farnesol-induced apoptosis in aspergillus nidulans reveals a
+possible mechanism for antagonistic interactions between
+fungi. mol microbiol 2006, 59:753-764.
+farnesol, which is a quorum-sensing molecule in c. albicans, was shown
+to induce apoptosis in a. nidulans, suggesting that fungi employ the same
+molecule for either developmental or antagonistic purposes.
+38. cheng j, park ts, chio lc, fischl as, ye xs: induction of
+apoptosis by sphingoid long-chain bases in aspergillus
+nidulans. mol cell biol 2003, 23:163-177.
+39. leiter e, szappanos h, oberparleiter c, kaiserer l, csernoch l,
+pusztahelyi t, emri t, pocsi i, salvenmoser w, marx f: antifungal
+protein paf severely affects the integrity of the plasma
+membrane of aspergillus nidulans and induces an
+apoptosis-like phenotype. antimicrob agents chemother 2005,
+49:2445-2453.
+40. mousavi saa, robson gd: oxidative and amphotericin
+b-mediated cell death in the opportunistic pathogen
+aspergillus fumigatus is associated with an apoptotic-like
+phenotype. microbiol 2004, 150:1937-1945.
+containing proline, suggesting that proline functions as an antioxidant and
+inhibitor of apoptosis.
+42. hornby jm, jensen ec, lisec ad, tasto jt, jahnke b,
+shoemaker r, dussault p, nickerson kw: quorum sensing in the
+dimorphic fungus candida albicans is mediated by farnesol.
+appl environ microbiol 2001, 67:2982-2992.
+43. marek sm, wu j, glass nl, gilchrist dg, bostock rm: nuclear
+dna degradation during heterokaryon incompatibility in
+neurospora crassa. fungal genet biol 2003, 40:126-137.
+44. mousavi saa, robson gd: entry into the stationary phase is
+associated with a rapid loss of viability and an apoptotic-like
+phenotype in the opportunistic pathogen aspergillus
+fumigatus. fungal genet biol 2003, 39:221-229.
+45. thrane c, kaufmann u, stummann bm, olsson s: activation of
+caspase-like activity and poly (adp-ribose) polymerase
+degradation during sporulation in aspergillus nidulans.
+fungal genet biol 2004, 41:361-368.
+46. phillips aj, sudbery i, ramsdale m: apoptosis induced by
+environmental stresses and amphotericin b in candida
+albicans. proc natl acad sci usa 2003, 100:14327-14332.
+47.
+phillips aj, crowe jd, ramsdale m: ras pathway signaling
+accelerates programmed cell death in the pathogenic fungus
+candida albicans. proc natl acad sci usa 2006, 103:726-731.
+environmental stresses induce pcd and necrosis in c. albicans. this
+study showed that progression from an apoptotic state to necrosis is
+modulated by rasâ€“campâ€“protein kinase a signals. ras activation might
+induce pcd in c. albicans, either by inhibiting anti-apoptotic functions
+(stress response) or by activating pro-apoptotic functions.
+48. semighini c, savoldi m, goldman gh, harris sd: functional
+characterization of the putative aspergillus nidulans poly
+(adp-ribose) polymerase homologue, prpa. genetics 2006,
+173:87-98.
+41.
+chen c, dickman mb: proline suppresses apoptosis in the
+fungal pathogen colletotrichum trifolii. proc natl acad sci usa
+2005, 102:3459-3464.
+apoptosis is induced in colletotrichum trifolii
+in response to several
+stresses. however, cellular aspects associated with apoptosis under
+stress conditions were abrogated when c. trifolii was grown on medium
+49. koh dw, dawson tm, dawson vl: mediation of cell death by
+poly(adp-ribose) polymerase-1. pharmacol res 2005, 52:5-14.
+50. hoffman cs: except in every detail: comparing and contrasting
+g-protein signaling in saccharomyces cerevisiae and
+schizosaccharomyces pombe. eukaryot cell 2005, 4:495-503.
+current opinion in microbiology 2006, 9:553â€“558
+www.sciencedirect.com

@@ -1,0 +1,1444 @@
+l e t t e r s
+calpain-mediated cleavage of atg5 switches 
+autophagy to apoptosis
+shida yousefi1, remo perozzo2, inès schmid1, andrew ziemiecki3, thomas schaffner4, leonardo scapozza2, 
+thomas brunner4 and hans-uwe simon1,5
+autophagy-related gene (atg) 5 is a gene product required 
+for the formation of autophagosomes. here, we report that 
+atg5, in addition to the promotion of autophagy, enhances 
+susceptibility towards apoptotic stimuli. enforced expression of 
+atg5-sensitized tumour cells to anticancer drug treatment both 
+in vitro and in vivo. in contrast, silencing the atg5 gene with 
+short interfering rna (sirna) resulted in partial resistance to 
+chemotherapy. apoptosis was associated with calpain-mediated 
+atg5 cleavage, resulting in an amino-terminal cleavage product 
+with a relative molecular mass of 24,000 (mr 24k). atg5 
+cleavage was observed independent of the cell type and the 
+apoptotic stimulus, suggesting that calpain activation and atg5 
+cleavage are general phenomena in apoptotic cells. truncated 
+atg5 translocated from the cytosol to mitochondria, associated 
+with the anti-apoptotic molecule bcl-xl and triggered 
+cytochrome c release and caspase activation. taken together, 
+calpain-mediated atg5 cleavage provokes apoptotic cell death, 
+therefore, represents a molecular link between autophagy and 
+apoptosis — a finding with potential importance for clinical 
+anticancer therapies.
+autophagy is a highly conserved process that occurs in yeast, plants 
+and in mammalian cells. by means of autophagy, the cell keeps a con-
+stant balance between biosynthetic and catabolic processes, which 
+also include the degradation of entire organelles. a portion of the 
+cytoplasm is sequestered in an autophagosome and its contents are 
+degraded on fusion with lysosomes1,2. although autophagy promotes 
+a cell-survival response3, morphological features of autophagy have 
+also been observed in dying cells, where caspases (key enzymes in 
+the process of apoptosis) were suppressed or not sufficiently acti-
+vated.  therefore,  autophagic  cell  death  has  been  considered  as  a 
+“fail-safe”  mechanism  under  conditions  in  which  apoptosis  does 
+not work4,5. thus, a switch from apoptosis to autophagic cell death 
+can occur. however, whether autophagy could promote apoptosis 
+was not known.
+the  process  of  autophagosome  formation  is  regulated  by  several 
+autophagy genes (atgs)1,2. atg5- (ref. 6) or atg6- (also known as beclin-
+1)7,8 deficient mouse embryonic stem cells contain decreased numbers 
+of autophagic vesicles, suggesting that at least some atgs are essential 
+for autophagy. we were interested in the effect of elevating atg5 levels 
+in cells and used two techniques for this purpose: first, hela cells were 
+stably transfected with the gfp-tagged full-length human atg5 (ncbi; 
+accession number, 12803724), gfp-tagged cytochrome c9, gfp-tagged 
+microtubule-associated protein light chain (lc3, atg8) or no insert. 
+second, jurkat cells received atg5 using lentiviral gene transfer. as con-
+trol, the same vector with a gfp cdna insert was used. in both systems, 
+isolated exogenous atg5 gene transfer resulted in cells exhibiting signs of 
+increased autophagy (see supplementary information, fig. s1).
+we next investigated whether elevated atg5 levels and subsequent 
+increased autophagic activity were associated with changes in the sus-
+ceptibility of cells to undergo death receptor-mediated or stress-medi-
+ated death. compared with gfp-transfected (or untransfected) cells, 
+an  increased  susceptibility  to  undergo  death  was  observed  in  cells 
+with enforced expression of atg5. atg5 sensitized cells to cd95-, cera-
+mide- and anticancer drug- (etoposide and doxorubicin) mediated cell 
+death, independent of the cell type. as an additional control, lc3 was 
+overexpressed in hela cells and no increased susceptibility to death 
+was observed (fig. 1a). increased atg5 levels were also associated with 
+increased caspase-3 activity after cd95 stimulation of hela cells, as 
+well as with increased apoptotic morphology and phosphatidylinositol 
+redistribution within the plasma membrane in anti-cd95 antibody and 
+staurosporine treated jurkat cells, suggesting that the type of death was 
+apoptosis (fig. 1b, c).
+to further understand the requirement for atg5 in induction of apop-
+tosis, atg5 levels were reduced using short interfering rna (sirna; 
+fig. 1d). atg5-deficient hela and breast cancer mda-ma-231 cells 
+exhibited markedly reduced sensitivity towards the cytotoxic agents 
+staurosporine and doxorubicin, respectively. it should be noted, how-
+ever, that atg5-deficient cells die in long-term cultures (5–7 days), pos-
+sibly due to insufficient removal of defective cell organelles that may 
+1department of pharmacology, university of bern, ch-3010 bern, switzerland. 2pharmaceutical biochemistry group, school of pharmaceutical sciences, epgl, 
+university of geneva, ch-1211 geneva 4, switzerland. 3department of clinical research, university of bern, ch-3010 bern, switzerland. 
+4department of pathology, university of bern, ch-3010 bern, switzerland.
+5correspondence should be addressed to h.-u.s. (e-mail: hus@pki.unibe.ch)
+received 31 may 2006; accepted 3 august 2006; published online 24 september 2006; doi: 10.1038/ncb1482
+1124 
+nature cell biology  volume 8 | number 10 | october 2006 
+ ©2006
+nature  publishing group
+l e t t e r s
+mda-ma-231 cells
+100
+80
+60
+40
+20
+50
+40
+30
+20
+10
+jurkat cells
+gfp
+atg5
+d95
+d95
+gfp + anti-c
+atg5 + anti-c
+hela cells
+gfp
+atg5 + etoposide
+etoposide
+atg5
+100
+80
+60
+40
+20
+50
+40
+30
+20
+10
+0c
+immature neutrophils
+gfp
+atg5
+atg5 + ceramide
+gfp + ceramide
+hela cells
+gfp
+atg5
+atg + doxorubicin
+doxorubicin
+50
+40
+30
+20
+10
+0c
+50
+40
+30
+20
+10
+0c
+control
+atg5
+atg + doxorubicin
+doxorubicin
+hela cells
+n.s.
+control
+lc3
+lc3 + doxorubicin
+doxorubicin
+jurkat cells
+jurkat cells
+medium
+0.2
+staurosporine
+0.1
+0.5
+vad + staurosporine
+0.7
+0.3
+1.5
+hela cells
+control
+atg5
+97.7
+2.0
+51.0
+47.0
+96.0
+0.3
+0.7
+0.8
+0.2
+0.5
+control
+3.0
+0.5
+atg5
+98.5
+0.5
+29.5
+68.5
+85.5
+13.5
+0.2
+0.15
+0.1
+0.05
+gfp
+atg5
+d95
+d95
+atg5 + anti-c
+gfp + anti-c
+50
+40
+30
+20
+10
+50
+atg5 + anti-cd95
+10
+atg5 + vad + anti-cd95
+phosphatidylserine redistribution
+50
+40
+30
+20
+10
+hela cells
+control
+atg5 sir
+na
+na +
+staurosporine
+staurosporine
+atg5 sir
+mda-ma-231 cells
+hela cells
+atg5
+gapdh
+mda-ma-231 cells
+atg5
+gapdh
+na
+control
+atg5 sir
+na +
+doxorubicin
+doxorubicin
+atg5 sir
+control
+na
+atg5 sir
+figure 1 atg5 regulates cytotoxicity of death triggers. (a) cell death 
+was analysed after the activation of death pathways in the presence 
+and absence of enforced atg5 expression (18 h cultures). values are 
+means ± s.e.m. of three independent experiments. (b) the cell death 
+regulated by atg5 is apoptosis. all data presented are from 5 h cultures. 
+caspase-3-like activity analysed in hela cells (graph). morphology of 
+jurkat cells is also shown. the numbers in the lower right corner indicate 
+the percentage of cell death, which was determined in parallel experiments 
+using flow cytometry. (c) staurosporine induced redistribution of 
+phosphatidylserine was enhanced in atg5 overexpressing jurkat cells and 
+blocked by z-vad-fmk. numbers indicate the results of the quantitative 
+analysis (percentage) of each dot blot. (d) reduction of drug-induced cell 
+death by silencing of atg5. values are means ± s.e.m. of three independent 
+experiments (18 h cultures). the effects of the atg5 sirna on atg5 and 
+gapdh levels were analysed by immunoblotting. the asterisks indicate 
+p <0.05. n.s., no significant difference.
+nature cell biology  volume 8 | number 10 | october 2006  
+1125   
+ ©2006
+nature  publishing group
+l e t t e r s
+accumulate in cells with reduced autophagic activity3. in addition to 
+these in vitro findings, we also obtained evidence for an apoptosis-sen-
+sitizing role foratg5 in vivo (see supplementary information, fig. s2).
+to test the hypothesis that atg5 has a role in apoptosis pathways, the 
+model of spontaneous neutrophil apoptosis10 was used in initial experi-
+ments. interestingly, an additional anti-atg5-reactive molecule with an 
+mr of 24k was detected in blood neutrophils from healthy donors that 
+had been cultured in the absence of survival factors for 7 h. in contrast, 
+in the presence of the survival factor gm-csf, the 24k protein was 
+not detected within this time period. moreover, when the 24k form 
+appeared, full-length 33k atg5 was markedly reduced. in 24 h neu-
+trophil cultures, the anti-atg5 antibody recognized the 24k protein only 
+and the 33k protein was no longer detected (fig. 2a). next, jurkat cells 
+were stimulated with an anti-cd95 antibody known to induce apop-
+tosis in these cells. in this model, the 24k anti-atg5-reactive molecule 
+was rapidly detected (after 3 h stimulation) and its presence seemed to 
+increase over time (fig. 2b).
+other apoptosis triggers and cell types were also used. for instance, 
+apoptosis was induced by staurosporine in jurkat, hl-60 and eol 
+cells. within 5 h of apoptosis induction, the 24k protein, which was 
+associated with caspase-3 cleavage, was detected by immunoblot-
+ting (see supplementary information, fig. s3a). in addition, anti-
+cd95 treatment for 5 h was associated with the appearance of the 
+24k protein in eosinophils and this was accompanied by cleavage of 
+poly(adp–ribose)polymerase (parp), suggesting increased caspase-
+3 activity in these cells (see supplementary information, fig. s3b). 
+cycloheximide (chx) or actinomycin d treatment caused, similarly 
+to cd95 activation, the appearance of 24k atg5 in jurkat cells, making 
+it unlikely that the molecule is newly synthesized during the process 
+of apoptosis (fig. 2b). these data suggest that 33k atg5 might be a 
+target of one or more proteases that are activated during apoptosis, 
+consistently resulting in a 24k fragment of atg5, independent of the 
+apoptotic stimulus or the type of cell.
+to obtain direct evidence for the atg5 cleaving protease in apoptotic 
+cells, a cell-free system, in which functionally active caspases, cathepsins 
+or calpains were incubated with in vitro translated  35s-labelled full-
+length atg5, was used. several effector and initiator caspases (fig. 3a), 
+in addition to the cathepsins b and d (fig. 3b), were unable to process 
+atg5. however, atg5 was cleaved by both calpain-1 and calpain-2 to a 
+24k fragment and this cleavage was blocked by three different calpain 
+inhibitors (fig. 3c). to identify the calpain cleavage site in atg5, recom-
+binant atg5 was digested with calpain and the products were sequenced 
+by edman degradation. the relative molecular mass of truncated atg5, 
+determined by mass spectrometry after hplc selection, was 23.447k 
+(fig. 3d). cleavage of atg5 occurred at thr 193, suggesting that the 
+24k form of atg5 represents an n-terminal fragment of the protein 
+(fig. 3e). an atg5 molecule carrying a six-amino-acid deletion sur-
+rounding the cleavage site (atg5∆191–196) that was calpain-resistant was 
+generated (fig. 3f).
+to examine whether inhibition of calpains blocks atg5 cleavage in 
+intact cells undergoing apoptosis, blood neutrophils were incubated in 
+the presence and absence of the calpain inhibitor alln, which inhibited 
+both apoptosis (data not shown) and the occurrence of 24k atg5 in 
+untreated and anti-cd95-treated neutrophils (7 h cultures). similarly, 
+cleavage of bax, which is a target of calpain11,12, was blocked with alln, 
+indicating successful calpain inhibition. in contrast with atg5 and bax, 
+time (h)
+gm-csf
+mr(k)
+33
+24
+mr(k)
+33
+24
+neutrophils
+24
+fresh
+control
+atg5
+gapdh
+jurkat cells
+untreated
+act. d
+hx
+d95
+anti-c
+medium
+atg5
+gapdh
+anti-cd95
+3 h
+5 h
+7 h
+figure 2 apoptosis is associated with atg5 cleavage as assessed by 
+immunoblotting. (a) spontaneous neutrophil apoptosis. apoptosis was 
+associated with the appearance of a 24k anti-atg5-reactive protein. 33k 
+atg5 disappeared during apoptosis in a time-dependent manner. hela 
+cells overexpressing atg5 served as positive control. (b) anti-cd95-induced 
+apoptosis of jurkat cells. apoptosis was associated with the appearance of 
+a 24k anti-atg5-reactive protein and a reduction of 33k atg5 in a time-
+dependent manner. the 24k anti-atg5-reactive protein was also visible in 
+jurkat cells after treatment with actinomycin d (act. d) or cycloheximide 
+(chx; 5 h treatment in both cases). gapdh expression indicates equal 
+loading in each panel. all immmunoblots are representative of at least three 
+independent experiments.
+atg6 (refs 7, 8) did not seem to be a target of proteases in this system 
+(fig. 3g). the importance of calpain for atg5 cleavage in intact cells 
+was also demonstrated using hela cells lacking detectable amounts of 
+the common 28k calpain subunit13. calpain-deficient hela cells were 
+generated using specific sirna. in calpain-deficient cells, staurosporine 
+treatment was not associated with atg5 cleavage, confirming that calpain 
+is indeed the protease responsible (fig. 3h).
+as enzymatic inhibition of calpain blocked neutrophil apoptosis12, 
+we wanted to determine whether calpain-mediated cleavage of atg5 
+was critical for apoptosis. overexpression of atg5∆191–196 in atg5-defi-
+cient hela cells (treated with atg5 sirna, see fig. 1d), did not result in 
+increased sensitivity to staurosporine (fig. 3i), suggesting that calpain-
+mediated cleavage of atg5 is a critical pro-apoptotic event in at least 
+some forms of apoptosis.
+to examine the possibility that the 24k n-terminal cleavage product 
+of atg5 regulates apoptosis, it was transiently overexpressed in hela 
+cells. in cells overexpressing the 24k truncated form evidence for the 
+induction of apoptosis was observed (nuclear condensation), although 
+less  efficiently  compared  with  bax  (fig. 4a).  in  addition  to  nuclear 
+condensation, 24k atg5-induced cell death was associated with cyto-
+chrome c release into the cytosol, whereas, at least for a certain period 
+of time, mitochondrial staining with mitotracker orange was unchanged 
+(fig. 4b). the ability of 24k atg5 to induce apoptosis was not a conse-
+quence of cell detachment because more than 50% of the apoptotic cells 
+expressing truncated atg5 were still adherent.
+1126 
+nature cell biology  volume 8 | number 10 | october 2006 
+ ©2006
+nature  publishing group
+mr(k)
+33
+atg5
+bid
+mr(k)
+33
+mr(k)
+22
+15
+atg5
+bid
+mr(k)
+22
+15
+caspase-7
+caspase-8
+caspase-6
+caspase-3
+caspase-9
+control
+caspase-8
+control
+cathepsin b
+cathepsin d
+control
+cathepsin b
+control
+l e t t e r s
+atg5
+atg5
+mr(k)
+33
+24
+calpain-1
+control
+calpain-2
+calpain-1
+control
+e64-d + calpain-1
+alln + calpain-1
+calpastatin + calpain-1
+ 1
+mr(k)
+60
+33
+24
+21
+18
+1.5
+1.0
+23447.1
+32722.4
+0.5
+25000 30000 35000
+mass (m/z)
+neutrophils
+atg6
+atg5
+bax
+gapdh
+fresh
+medium
+d95
+anti-c
+d95
+alln
+alln + anti-c
+calpain
+cleavage
+human (188−197)
+mouse (188−197)
+drosophila (190−198)
+c. elegans (186−195)
+mr(k)
+28
+33
+24
+hela cells
+control
+calpain sirna
+calpain
+atg5
+gapdh
+staurosporine
+staurosporine
+medium
+medium
+50
+45
+40
+35
+30
+25
+20
+15
+10
+0c
+mr(k)
+33
+24
+atg5∆191-196
+calpain-1
+control
+calpain-2
+hela cells
+staurosporine
+control
+atg5 sir
+atg5 sir
+na
+∆191-196
+na + staurosporine
+∆191-196 + staurosporine 
+na + atg5
+atg5 sir
+na + atg5
+atg5 sir
+figure 3 atg5 is cleaved by calpain. (a) caspases-3, -6, -7, -8 and -9 
+did not cleave 35s-atg5. to control the reaction conditions, 35s-bid was 
+cleaved by caspase-8. the enzymatic activity of caspases-3, -6, -7 and 
+-9 were controlled by incubating them together with lysates of jurkat 
+cells and subsequent caspase-3 immunoblotting experiments (data not 
+shown). (b) cathepsins b and d did not cleave 35s-atg5. to control the 
+reaction conditions, 35s-bid was cleaved by cathepsin b. (c) calpains-1 
+and -2 cleaved 35s-atg5. the calpain inhibitors calpastatin, alln and 
+e64-d completely prevented calpain-mediated cleavage of 35s-atg5. 
+(d) following calpain-mediated cleavage of recombinant atg5 in vitro, 
+the sample was fractionated by preparative reversed-phase hplc and 
+analysed by mass spectrometry. the exact relative molecular masses for 
+full-length and truncated atg5 are indicated. (e) recombinant atg5 was 
+digested with calpain and the products sequenced by edman degradation. 
+calpain cleaved atg5 at thr 193. comparison of atg5 sequences of 
+different species demonstrates the presence of the same calpain cleavage 
+site in mice. the sequence alignment was perfromed with clustal w using 
+sequence data obtained from genbank. the position of the six-amino-acid 
+deletion causing calpain resistance is indicated in red. (f) a six-amino-
+acid deletion surrounding the cleavage site (35s-atg5∆191–196) led to a loss 
+of the calpain cleavage fragment. (g) calpain inhibition by alln blocked 
+both cleavage of bax and atg5 in spontaneous and fas receptor-mediated 
+apoptosis of neutrophils. in contrast, atg6 did not show evidence for 
+cleavage and its levels remained unchanged in this system. results of 7 h 
+cultures are shown. (h) atg5 is not cleaved in apoptotic hela cells (5 h 
+staurosporine treatment) lacking the small subunit of calpain, which was 
+silenced by using specific sirna. (i) calpain resistant atg5∆191–196 was 
+unable to sensitize hela cells lacking endogeneous atg5 (due to gene 
+silencing, see fig. 1c) to staurosporine-induced cell death. values are 
+means ± s.e.m. of three independent experiments (18 h cultures). 
+to further exclude the possibility that truncated atg5 induces apop-
+tosis  as  a  consequence  of  cell  rounding  and  detachment  (anoikis), 
+jurkat cells were transfected with full-length and truncated atg5 using a 
+lentiviral transfection system (fig. 4c). again, 24k atg5 induced cell 
+death in a time-dependent manner, whereas full-length atg5 had no 
+significant effect compared with gfp-transfected cells. morphological 
+changes were again observed in the 24k atg5 transfected cells, which 
+were consistent with apoptosis (fig. 4c).
+nature cell biology  volume 8 | number 10 | october 2006  
+1127   
+ ©2006
+nature  publishing group
+hela cells
+jurkat cells
+control
+24k
+atg5
+100
+80
+60
+40
+20
+24k atg5
+33k atg5
+gfp
+24k
+atg
+gfp
+time (d)
+l e t t e r s
+hela cells
+n.s.
+80
+70
+60
+50
+40
+30
+20
+10
+24k atg5
+33k atg5
+vector
+bax
+β-galactosidase
+hoechst
+red: mitochondria
+green: cytochrome c
+30
+25
+20
+15
+10
+cem cells
+time (d)
+24k atg − bcl2
+24k atg + bcl2
+gfp − bcl2
+gfp + bcl2
+cem
+mr(k)
+33
+24
+cem−bcl2
+33
+24
+staurosporine
+medium
+hela cells
+atg5
+atg5∆191−196
+atg5
+gapdh
+atg5
+gapdh
+atg5 sirna
+24k atg5
+fluorescence
+70
+60
+50
+40
+30
+20
+10
+hela cells
+control
+24k atg5
+na
+atg5
+na + 24k atg5
+atg5 + 24k atg5
+atg5 sir
+atg5 sir
+figure 4 enforced expression of truncated atg5 induces apoptosis, which is 
+blocked by bcl-2. (a) hela cells were transiently transfected with 24k and 
+33k atg5 for 24 h and subsequently analysed by hoechst staining. values 
+are means ± s.e.m. of three independent experiments. bax transfection was 
+used as a positive control. (b) representative images after hoechst staining 
+demonstrating nuclear fragmentation of hela cells that were transfected 
+with 24k atg5 using lentiviral gene transfer for 24 h. quantitative analysis 
+of these experiments is shown in a. control and transfected cells were loaded 
+with mitotracker orange and subsequently processed for cytochrome c 
+immunostaining. enforced expression of 24k atg5 resulted in cytochrome c 
+release into the cytosol and apoptosis (nuclear condensation, cell shrinkage; 
+approximately 80% of the cells). (c) jurkat cells were transfected with 24k 
+and 33k atg5 using lentiviral gene transfer. cell death was observed as 
+a consequence of enforced expression of truncated atg5 within two days. 
+morphological analysis (diff-quik) is also shown and revealed that the type 
+of death was apoptosis (nuclear condensation, cell shrinkage). (d) cem cells 
+that either lacked bcl-2 or expressed high levels of bcl-2 received truncated 
+atg5 or gfp by lentiviral gene transfer. in the absence of bcl-2, induction of 
+apoptosis as assessed by dna fragmentation was observed due to enforced 
+expression of truncated atg5 within two days. apoptosis was largely blocked 
+in cells expressing high levels of bcl-2. gfp transfection did not affect 
+viability of the cells in this system. (e) staurosporine-induced atg5 cleavage 
+(5 h treatment) in cem cells independent of bcl-2 expression. blots were 
+stripped and reprobed with anti-gapdh antibody. (f) detection of autophagic 
+activity by staining of acidic vesicular organelles (vaos, red) followed by 
+flow cytometric analysis in genetically modified hela cells. that 24k 
+atg5 did not induce autophagy was confirmed by transmission electron 
+microscopy (data not shown). (g) cell death after 24k atg5 gene transfer in 
+hela cells exhibiting different autophagic activities. values are means ± s.
+e.m. of three independent experiments (lentiviral gene transfer for 24 h). 
+the asterisks indicate p <0.05. n.s., no significant difference. the scale 
+bars represent 10 µm.
+overexpression of 24k atg5 in cem cells also resulted in rapid 
+dna fragmentation. however, in the presence of high levels of bcl-
+2 (ref. 14), transfection of truncated atg5 had only little death activ-
+ity (fig. 4d). interestingly, although bcl-2-expressing cem cells were 
+largely protected from staurosporine-induced apoptosis, endogenous 
+atg5 was equally cleaved in these cells compared with control cells 
+(fig. 4e). therefore, cleavage of atg5 is not necessarily associated with 
+cell death and seems to occur within a pro-apoptotic pathway proximal 
+to mitochondria.
+to  determine  whether  atg5-mediated  increased  autophagy  is 
+required  for  increased  susceptibility  to  apoptosis,  hela  cells  with 
+different levels of autophagic activity were examined. as expected, 
+atg5 sirna treatment resulted in decreased autophagic activity and 
+enforced atg5 expression accelerated autophagy. interestingly, calpain-
+resistant atg5∆191–196 also stimulated autophagy, suggesting that calpain 
+cleavage is not required for inducing autophagy. in contrast, overex-
+pression of 24k atg5 did not induce autophagy (fig. 4f). transfection 
+of the construct for 24k atg5 in these different cells revealed that cell 
+death occurs independently of autophagic activity (fig. 4g). therefore, 
+the autophagic activity of atg5 does not seem to be required for the 
+apoptotic effect of truncated atg5.
+as 24k atg5 induced cytochrome c release and apoptosis in dif-
+ferent cell types not protected by high levels bcl-2, we reasoned that 
+truncated atg5 would activate the mitochondrial death pathway and 
+investigated whether atg5 translocates to mitochondria when apop-
+tosis was induced. non-apoptotic and anti-cd95 antibody-stimulated 
+hela cells were analysed by immunofluorescence staining and con-
+focal microscopy. in non-apoptotic cells, atg5 was observed in the 
+cytosol and exhibited diffuse cellular staining with little mitochon-
+drial localization detected. in contrast, after treatment with anti-cd95 
+1128 
+nature cell biology  volume 8 | number 10 | october 2006 
+ ©2006
+nature  publishing group
+hela cells
+atg5
+vdac
+atg5−vdac
+images of
+colocalization
+l e t t e r s
+0.8
+0.6
+0.4
+0.2
+medium
+d95
+anti-c
+cytochrome c
+cytochrome c
+vdac
+mitochondria (supernatant)
+mitochondria (pellet)
+mr(k)
+14
+14
+34
+atg5
+cytochrome c
+vdac
+medium
+anti-cd95
+neutrophils
+fresh
+c m
+hela cells
+caspase-3
+time (h)
+mr(k)
+33
+24
+14
+34
+mr(k)
+32
+19
+17
+gapdh
+33k atg5
+24k atg5
+mr(k)
+33
+24
+ µ
+ µ
+ µ
+24k atg5
+jurkat cells
+ 2
+ +
+ µ
+ µ
+33k atg5
+ 3
+ +
+medium
+staurosporine
+medium
+staurosporine
+atg5
+bax
+atg5
+bcl-xl
+total lysate
+ip: anti-bax
+ip: anti-bax
+total lysate
+total lysate
+ip: anti-bcl-xl
+ip: anti-bcl-xl
+total lysate
+figure 5 truncated atg5 translocates to mitochondria, binds to bcl-xl 
+but not bax and releases cytochrome c into the cytosol. (a) confocal 
+microscopy of hela cells were treated with anti-cd95 antibody for 5 h or 
+left untreated. cells were stained with anti-atg5 and anti-vdac antibodies. 
+in untreated cells, there was only little evidence for colocalization of 
+atg5 and vdac. in anti-cd95 antibody treated cells some of the atg5 
+colocalized with vdac. the images of colocalization were prepared using 
+imaris software. numerical analysis was performed on 10 cells in each 
+group and the correlation coefficient calculated. the error bars represent 
+the s.e.m. (b) subcellular fractionation of blood neutrophils that were 
+left untreated to induce spontaneous apoptosis. after 4 h incubation, 
+cleavage of atg5 was evident and both full-length and truncated a tg5 
+were present in the cytosol. after 8 h incubation, some 24k atg5 but not 
+full-length atg5 was found in the mitochondrial fraction. mitochondrial 
+association of truncated atg5 coincided with the release of cytochrome c 
+into the cytosol. the same data were observed in staurosporine-induced 
+apoptosis of jurkat cells (data not shown). c, cytosol; m, mitochondria. 
+(c) cytochrome c release assay. truncated and full-length recombinant 
+atg5 were added to isolated mitochondria and incubated at 37 °c for 1 h. 
+supernatants and mitochondrial pellets were then analysed for cytochrome 
+c by immunoblotting. truncated bid (tbid) was used as a positive control for 
+mitochondrial permeabilization. truncated atg5 released cytochrome c in a 
+concentration-dependent manner, indicating mitochondrial permeabilization. 
+full-length atg5 had only little effect in this system. (d) hela cells were 
+transfected with 24k and 33k atg5 using lentiviral gene transfer for 24 h 
+and analysed for caspase-3 cleavage. gapdh expression demonstrates 
+equal loading. (e) jurkat cells were treated with staurosporine for 5 h or left 
+untreated. staurosporine induced atg5 cleavage and both full-length and 
+truncated atg5 were present in total lysates. truncated but not full-length 
+atg5 was detected in bcl-xl immunoprecipitates obtained from apoptotic 
+jurkat cells. no evidence for physical interaction between atg5 and bax 
+was obtained. the lower panels demonstrate that both bax and bcl-xl were 
+enriched following immunoprecipitation. the asterisk indicates p <0.05. 
+the scale bars represent 10 µm.
+nature cell biology  volume 8 | number 10 | october 2006  
+1129   
+ ©2006
+nature  publishing group
+l e t t e r s
+antibodies,  colocalization  of  atg5  and  the  mitochondrial  marker 
+vdac was observed, suggesting that either full-length or truncated 
+atg5 (or both) translocated to mitochondria (fig. 5a).
+to identify the form of atg5 translocating to mitochondria during 
+apoptosis, we separated cytosol and membranes in neutrophils undergo-
+ing apoptosis and subsequently detected atg5 by immunoblotting. the 
+24k atg5 fragment associated with neutrophil apoptosis was first visible 
+in the cytosol and subsequently appeared in the mitochondrial fraction, 
+giving rise to the possibility that truncated atg5, but not full-length atg5, 
+translocates to mitochondria. in addition, the appearance of 24k atg5 in 
+the mitochondrial fraction correlated with the detection of cytochrome 
+c in the cytosol (fig. 5b).
+to demonstrate that cytochrome c is released as a consequence of a 
+physical interaction between mitochondria and truncated 24k atg5, 
+isolated mouse liver mitochondria were incubated with recombinant 
+full-length 33k and truncated 24k atg5. truncated bid (tbid) is know 
+to permeabilize mitochondria and was therefore used as a positive con-
+trol. the 24k form of atg5 released cytochrome c from mitochondria 
+in a concentration-dependent manner and similarly to tbid (fig. 5c). 
+in contrast, full-length atg5 released only little and almost undetect-
+able amounts of cytochrome c in this system. we also observed that the 
+24k atg5-mediated cytochrome c release was associated with caspase-3 
+cleavage (fig. 5d) and that the induced apoptosis can be blocked by the 
+pan-caspase inhibitor, z-vad-fmk (data not shown). together, these data 
+suggest that the 24k atg5 fragment translocates to mitochondria and 
+releases, either alone or in concert with other pro-apoptotic proteins, 
+cytochrome c to activate effector caspases.
+to  investigate  whether  truncated  atg5  may  trigger  cytochrome c 
+release by binding to members of the bcl-2 family, an immunoprecipi-
+tation–immunoblot analysis was performed in whole-cell lysates. in both 
+non-apoptotic and staurosporine-treated (5 h) apoptotic jurkat cells, 
+full-length and truncated atg5 did not seem to bind to bax. in contrast, 
+truncated atg5, but not full-length atg5, associated with bcl-xl in apop-
+totic, but not in non-apoptotic, jurkat cells (fig. 5e) — a finding that was 
+confirmed in apoptotic hela cells and neutrophils (data not shown).
+thus, the possibility exists that truncated atg5 promotes apop-
+tosis by blocking the function of bcl-xl leading to bax activation. 
+this  type  of  mechanism  has  been  described  for  some  bh3-only 
+proteins  that  inactivate  bcl-2-like  survival  proteins,  which  keep 
+cells alive by inactivating bax–bak-like proteins15. however, it is 
+not currently known whether binding of truncated atg5 to bcl-xl 
+leads to bcl-xl inactivation and subsequent activation of bax–bak-
+like molecules. clearly, further work is required to understand the 
+precise mechanism of the apoptosis-promoting effect of truncated 
+atg5. nevertheless, atg5-induced death was blocked by high levels 
+of expression of bcl-2, supporting the hypothesis that truncated atg5 
+targets mitochondria to release cytochrome c and perhaps other 
+pro-apoptotic factors.
+direct death signalling through translocation to mitochondria has 
+previously been reported for proteins not belonging to the bcl-2 fam-
+ily. for instance, recent studies demonstrated that a fraction of p53 
+translocates to mitochondria during stress-induced apoptosis, but not 
+during growth arrest16,17. similarly, no atg5 cleavage and translocation 
+was observed in non-proliferating viable cells. the mechanism of p53-
+mediated cytochrome c release involved, at least in part, the disrup-
+tion of the bax-bcl-xl
+18 and/or the bak–mcl-1 complex19. interestingly, 
+transcription factor 3 (ref. 20), the peutz-jegher gene product lkb1 
+(ref. 21) and cofilin22 have also been shown to translocate to mitochon-
+dria and to subsequently promote apoptosis.
+the ubiquitous expression of both calpain and atg5 suggests that the 
+new intracellular death pathway described here is important for multiple 
+cells in different lineages. calpain has previously been described as being 
+an upstream regulator of apoptosis that targets bax, generating an mr 18k 
+fragment with increased pro-apoptotic activity11,12. our observation of 
+atg5 cleavage in cells, independent of the apoptotic trigger, suggests that 
+calpain activation is a general phenomenon associated with apoptosis. 
+moreover, at least in certain circumstances (for instance in drug-induced 
+apoptosis), cleavage of atg5 by calpain represents a critical pro-apoptotic 
+event. further work is required to understand how calpain is activated 
+in the process of apoptosis.
+in summary, we provide mechanistic insight into the functional 
+roles of both calpain and atg5 in regulating pro-apoptotic signalling 
+pathways and report that cells with elevated amounts of atg5 exhibit 
+increased autophagic activity and increased likelihood to undergo 
+apoptosis compared with normal cells. however, the increased death 
+susceptibility mediated by atg5 does not seem to be dependent on 
+its capacity to induce autophagy. when cell death is inducted, atg5 
+is used to promote apoptosis, which is mitochondria and caspase-
+dependent. the data reported here have obvious ramifications for the 
+treatment of cancer. 
+methods
+cells. isolations of blood neutrophils23, blood eosinophils24 and bone marrow-
+derived immature neutrophils25,26 were performed as previously described. please 
+see supplementary information, methods for information on cell lines.
+cell cultures. cells were cultured at 1 × 106 per ml and, where indicated, treated 
+with gm-csf (25 ng ml–1), alln (10 µm), anti-cd95 receptor monoclonal anti-
+body (1 µg ml–1 ch11; mbl international corp., woburn, ma), staurosporine 
+(0.5 µm), etoposide (0.5 µm; bristol-myers squibb ag, baar, switzerland) and 
+doxorubicin (0.5 µm; sigma, buchs, switzerland) for the indicated times.
+gel electrophoresis and immunoblotting. cells (1–2.5 × 106) were washed with 
+pbs, lysed with modified ripa-buffer (0.5% sodium deoxycholate, 1% np40 
+in pbs) supplemented with a protease inhibitor-cocktail (sigma) and 100 µm 
+pmsf with frequent vortexing on ice for 30 min. alternatively, cells were lysed 
+with 2× loading buffer (invitrogen, paisley, uk) and sonicated. after a 10 min 
+centrifugation  step  to  remove  insoluble  particles,  equal  amounts  of  the  cell 
+lysates were loaded on nupagegels. separated proteins were electrotransferred 
+onto pvdf membranes (immobilion-p; millipore, bedford, ma). the filters 
+were incubated with primary antibodies at 4 °c overnight in tbs, 0.1% tween-
+20, 3% non-fat dry milk. the primary antibodies were: polyclonal anti-atg5 
+(1:5000),  polyclonal  anti-caspase-3  (1:1000;  bd  biosciences,  erembodegem, 
+belgium), polyclonal anti-parp (1:1000; cell signaling, danvers, ma), polyclo-
+nal anti-beclin-1 (1:1000; cell signalling), monoclonal anti-gfp (1:5000; becton 
+dickinson biosciences), monoclonal anti-calpain (small subunit, clone p1, 1/1000; 
+chemicon international, inc. chandlers ford, uk) and monoclonal anti-gapdh 
+(1/5000; chemicon international). filters were washed in tbs,  0.1% tween-20 for 
+30 min and incubated with the appropriate hrp-conjugated secondary antibody 
+(amersham, dübendorf, switzerland) in tbs, 0.1% tween-20, 5% non-fat dry 
+milk for 1 h. filters were developed by an ecl-technique (ecl-kit, amersham). 
+in some experiments, immunoprecipitation was performed before immunoblot-
+ting (see supplementary information, methods).
+subcellular fractionation. freshly purified neutrophils were cultured for the 
+indicated times, washed with cold pbs and digitonin-permeabilized essentially as 
+previously described27. equal amounts of proteins supplemented with nupage-
+loading buffer were loaded on 12% nupage gels and subsequently transferred 
+to pvdf membranes. filters were incubated with polyclonal anti-atg5 (1:5000), 
+1130 
+nature cell biology  volume 8 | number 10 | october 2006 
+ ©2006
+nature  publishing group
+monoclonal  anti-cytochrome  c  (1:5000;  becton  dickinson  biosciences)  and 
+monoclonal  anti-vdac  (1:5000;  calbiochem-novabiochem  corp.,  la  jolla, 
+ca) antibodies.
+determination of cell death and apoptosis. cell death was assessed by uptake 
+of 1 µm ethidium bromide and flow cytometric analysis (facs calibur; becton 
+dickinson, heidelberg, germany)28. to determine whether cell death was apop-
+tosis, morphologic analysis using 10 µm hoechst (molecular probes, leiden, the 
+netherlands) or diff-quik (baxter, düdingen, switzerland), as well as annexin v 
+staining29 and dna fragmentation12,29 assays were performed. caspase-3 activity 
+was measured as enzymatic conversion of the colorimetric substrate ac-devd-
+pna at 405 nm according to the manufacturer`s instructions (quantizyme cas-
+pase-3 cellular activity assay kit; biomol international, exeter, uk).
+determination of autophagic activity. vacuolization and double membrane 
+structures  were  analysed  by  transmission  electron  microscopy.  induction  of 
+autophagy was further demonstrated using gfp-lc3 (kind gift from t. yoshimori, 
+osaka university, osaka, japan), which was expressed in hela cells. cells were 
+cultured under the indicated conditions and analysed by confocal microscopy and 
+immunoblotting. the development of acidic vesicular organelles (avos), which 
+correlates with autophagic activity, was also measured using the lysosomotropic 
+fluorescent dye acridine orange and flow cytometry30.
+in vitro protease cleavage assay. to directly determine which intracellular pro-
+tease cleaved atg5, 35s-atg5 or 35s-atg5∆191–196 were incubated (see below) with 
+4 u caspase-3, 4 u caspase-8, 0.5 u calpain-1, 0.5 u calpain-2, 0.1 u cathepsin 
+b and 0.1 u cathepsin d in caspase buffer (50 mm hepes at ph 7.4, 100 mm 
+nacl, 10% sucrose, 1 mm edta, 0.1% chaps, 10 mm dtt), cathepsin buffer 
+(340 mm naoac, 60 mm acetic acid, 4 mm edta, 8 mm dtt, 0.1% chaps 
+at ph 5.5) and calpain buffer (20 mm pipes, 100 mm nacl, 10 mm dtt, 0.1% 
+chaps, 10% sucrose, 1 mm cacl2 at ph 7.2), respectively, at 37 °c for 1 h. 
+35s-bid served as positive control in the caspase and cathepsin experiments. 
+the specificity of calpain action was controlled by using the following calpain 
+inhibitors: e64-d (50 µm), calpastatin-derived peptide (10 µm), alln (10 µm). 
+the reaction was stopped by adding loading buffer plus 1 mm dtt. samples 
+were heated at 90 °c for 5 min and subsequently analysed by sds–page fol-
+lowed by autoradiography.
+subcloning of truncated atg5. for transduction of cells and the production 
+of recombinant protein, the predicted cdna of truncated atg5 was cloned into 
+pcdna3 vector (invitrogen), hiv-derived vector pwpt (gift from d. trono, 
+swiss institute of technology (efpl), lausanne, switzerland), pegfp-n1 vec-
+tor (clontech, st-germain-en-laye, france) and pet-15b plasmid. the end 
+sequence of truncated atg5 was recognized by the following primer sequence: 
+5′-tcacgttgtctgatatattctaaag-3′ (the underlined sequence repre-
+sents an artificially introduced stop codon).
+lentiviral gene transfer. full-length and truncated atg5 were subcloned into 
+the hiv-derived vector pwpt, which contains a cytomegalovirus (cmv) pro-
+moter32. stable atg5 gene silencing was performed using plvthm (gift from 
+d. trono), a lentiviral vector for sirna delivery33. oligonucleotides suitable for 
+sirna experiments were designed against the mouse atg5 sequence5. the cal-
+pain-resistant atg5∆191–196 was generated using quikchange site-directed muta-
+genesis kit (stratagene europe, amsterdam, the netherlands). to downregulate 
+the small subunit of calpain (nm_001749) in hela cells, calpain-specific sirnas 
+in plko.1-puro were obtained from sigma. for more information, please see 
+supplementary information, methods.
+confocal laser scanning microscopy. cytospins were made from neutrophils 
+on non-coated slides12. hela cells were allowed to grow overnight on washed 
+coverslips. indirect immunostainings for atg5 and vdac were performed at 4 °c 
+overnight by using the following primary antibodies: anti-atg5 (1:100; diluted 
+in blocking buffer) and anti-vdac monoclonal antibody (1:50). incubation 
+with appropriate tritc- and fitc-conjugated secondary antibodies (jackson 
+immunoresearch laboratories, milan analytica, la roche, switzerland) was 
+performed in the dark at room temperature for 1 h. the slides were analysed by 
+confocal microscopy (lsm 510, carl zeiss, heidelberg, germany). the scale bars 
+shown in each photograph represent 10 µm.
+l e t t e r s
+for colocalization studies, unprocessed, unfiltered and undeconvoluted data 
+sets were analysed using the imaris software (bitplane ag, zurich, switzerland), 
+considering every singular layer of a stack separately. quantitative data of colocali-
+zation events were determined by the statistics modules in the colocalization and 
+voxelshop software of the imaris package. intensities were given as sum of all colo-
+calizing voxels in a data set and a computer image was generated. for quantitative 
+analysis of colocalization, the pearson’s correlation coefficient was calculated34.
+analysis of the mitochondrial release of cytochrome c in vitro. mitochondria 
+were freshly isolated from the liver of 2-month-old mice35. briefly, isolated mito-
+chondria were incubated with 0.5 µm recombinant bax and tbid, as well as with 
+the indicated concentrations of the 24k and 33k forms of atg5 at 37 °c for 1 h. 
+after centrifugation at 20,000g for 15 min, the supernatants were analysed for 
+the presence of cytochrome c by immunoblotting. to exclude the possibility of 
+mitochondrial damage during isolation, the supernatant was also analysed after 
+centrifugation of the mitochondria but before their incubation with recombinant 
+proteins. mitochondrial pellets were resuspended in lysis buffer and were addi-
+tionally analysed by immunoblotting.
+statistical analysis. an analysis of variance test and student’s t-test were used to 
+compare mean levels. p <0.05 was considered statistical significant. 
+note: supplementary information is available on the nature cell biology website.
+acknowledgments
+this work was supported by the swiss national science foundation (grant no. 
+310000-107526 and 310000-112078).
+competing financial interests
+the authors declare that they have no competing financial interests.
+published online at http://www.nature.com/naturecellbiology/
+reprints and permissions information is available online at http://npg.nature.com/
+reprintsandpermissions/
+1.  levine, b. & klionsky, d. j. development by self-digestion: molecular mechanisms and 
+biological functions of autophagy. dev. cell 6, 463–477 (2004).
+2.  gozuacik, d. & kimchi, a. autophagy as a cell death and tumor suppressor mechanism. 
+oncogene 23, 2891–2906 (2004).
+3.  blommaart, e. f., luiken, j. j. & meijer, a. j. autophagic proteolysis: control and 
+specificity. histochem. j. 29, 365–385 (1997).
+4.  yu, l. et al. regulation of an atg7–beclin 1 program of autophagic cell death by 
+caspase-8. science 304, 1500–1502 (2004).
+5.  shimizu, s. et al. role of bcl-2 family proteins in a non-apoptotic programmed cell 
+death dependent on autophagy genes. nature cell biol. 6, 1221–1228 (2004).
+6.  mizushima, n. et al. dissection of autophagosome formation using apg5-deficient 
+mouse embryonic stem cells. j. cell. biol. 152, 657–667 (2001).
+7.  qu, x. et al. promotion of tumorigenesis by heterozygous disruption of the beclin 1 
+gene. j. clin. invest. 112, 1809–1820 (2003).
+8.  yue, z., jin, s., yang, c., levine, a. j. & heintz, n. beclin 1, an autophagy gene 
+essential for early embryonic development, is a haploinsufficient tumor suppressor. 
+proc. natl acad. sci. usa 100, 15077–15082 (2003).
+9.  goldstein, j. c., waterhouse, n. j., juin, p., evan, g. i. & green, d. r. the coordinate 
+release of cytochrome c during apoptosis is rapid, complete and kinetically invariant. 
+nature cell biol. 2, 156–162 (2000).
+10. simon, h.-u. neutrophil apoptosis pathways and their modifications in inflammation. 
+immunol. rev. 193, 101–110 (2003).
+11. gao, g. & dou, q. p. n-terminal cleavage of bax by calpain generates a potent proap-
+optotic 18-kda fragment that promotes bcl-2-independent cytochrome c release and 
+apoptotic cell death. j. cell biochem. 80, 53–72 (2000).
+12. altznauer, f., conus, s., cavalli, a., folkers, g. & simon, h.-u. calpain-1 regulates 
+bax and subsequent smac-dependent caspase-3 activation in neutrophil apoptosis. j. 
+biol. chem. 279, 5947–5957 (2004).
+13. arthur, j. s., elce, j. s., hegadorn, c., williams, k. & greer, p. a. disruption of the 
+murine calpain small subunit gene, capn4: calpain is essential for embryonic develop-
+ment but not for cell growth and division. mol. cell. biol. 20, 4474–4481 (2000).
+14. martin, s. j. et al. early redistribution of plasma membrane phosphatidylserine is a 
+general feature of apoptosis regardless of the initiating stimulus: inhibition by overex-
+pression of bcl-2 and abl. j. exp. med. 182, 1545–1556 (1995).
+15. strasser, a. the role of bh3-only proteins in the immune system. nature rev. immunol.  
+5, 189–200 (2005).
+16. marchenko, n. d., zaika, a. & moll, u. m. death signal-induced localization of p53 
+protein to mitochondria: a potential role in apoptotic signaling. j. biol. chem. 275, 
+16202–16212 (2000).
+17. mihara, m. et al. p53 has a direct apoptogenic role at the mitochondria. mol. cell 11, 
+577–590 (2003).
+18. chipuk, j. e. et al. direct activation of bax by p53 mediates mitochondrial membrane 
+permeabilization and apoptosis. science 303, 1010–1014 (2004).
+nature cell biology  volume 8 | number 10 | october 2006  
+1131   
+ ©2006
+nature  publishing group
+l e t t e r s
+19. leu, j. i., dumont, p., hafey, m., murphy, m. e. & george, d. l. mitochondrial p53 
+activates bak and causes disruption of a bak-mcl1 complex. nature cell biol. 6, 
+443–450 (2004).
+20. li, h. et al. cytochrome c release and apoptosis induced by mitochondrial targeting of 
+nuclear orphan receptor tr3. science 289, 1159–1164 (2000).
+21. karuman, p. et al. the peutz-jegher gene product lkb1 is a mediator of p53-dependent 
+cell death. mol. cell 7, 1307–1319 (2001).
+22. chua, b. t. et al. mitochondrial translocation of cofilin is an early step in apoptosis 
+induction. nature cell biol. 5, 1083–1089 (2003).
+23. daigle, i., yousefi, s., colonna, m., green, d. r. & simon, h.-u. death receptors bind 
+shp-1 and block cytokine-induced anti-apoptotic signaling in neutrophils. nature med. 
+8, 61–67 (2002).
+24. simon, h.-u. et al. eosinophils maintain their capacity to signal and release eosinophil 
+cationic protein upon repetitive stimulation with the same agonist. j. immunol. 165, 
+4069–4075 (2000).
+25. altznauer, f. et al. inflammation-associated cell cycle-independent block of apoptosis 
+by survivin in terminally differentiated neutrophils. j. exp. med. 199, 1343–1354 
+(2004).
+26. martinelli, s. et al. induction of genes mediating interferon-dependent extracellular trap 
+formation during neutrophil differentiation. j. biol. chem. 279, 44123–44132 (2004).
+27. adrain, c., creagh, e. m. & martin, s. j. apoptosis-associated release of smac/diablo 
+from mitochondria requires active caspases and is blocked by bcl-2. embo j. 20, 
+6627–6636 (2001).
+28. yousefi, s., green, d. r., blaser, k. & simon, h.-u. protein-tyrosine phosphorylation 
+regulates apoptosis in human eosinophils and neutrophils. proc. natl acad. sci. usa 
+91, 10868–10872 (1994).
+29. von gunten, s. et al. siglec-9 transduces apoptotic and nonapoptotic death signals 
+into neutrophils depending on the proinflammatory cytokine environment. blood 106, 
+1423–1431 (2005).
+30. takeuchi, h., kanzawa, t., kondo, y. & kondo, s. inhibition of platelet-derived growth 
+factor signalling induces autophagy in malignant glioma cells. br. j. cancer 90, 1069–
+1075 (2004).
+31. wolf, b. b. et al. calpain functions in a caspase-independent manner to promote 
+apoptosis-like events during platelet activation. blood 94, 1683–1692 (1999).
+32. bovia, f. et al. efficient transduction of primary human b lymphocytes and nondivid-
+ing myeloma b cells with hiv-1-derived lentiviral vectors. blood 101, 1727–1733 
+(2003).
+33. wiznerowicz, m. & trono d. conditional suppression of cellular genes: lentivi-
+rus vector-mediated drug-inducible rna interference. j. virol. 77, 8957–8961 
+(2003).
+34. costes, s. v. et al. automatic and quantitative measurement of protein-protein colo-
+calization in live cells. biophys. j. 86, 3993–4003 (2004).
+35. uren, r. t. et al. mitochondrial release of pro-apoptotic proteins: electrostatic interac-
+tions can hold cytochrome c but not smac/diablo to mitochondrial membranes. j. 
+biol. chem. 280, 2266–2274 (2005).
+1132 
+nature cell biology  volume 8 | number 10 | october 2006 
+ ©2006
+nature  publishing group
+s u p p l e m e n ta ry  i n f o r m at i o n
+cyto c - gfp
+atg5-gfp
+gfp
+atg5
+33 kda
+atg5-gfp
+atg5
+gapdh
+hela
+lc3-gfp
+lc3-i
+lc3-ii
+atg5
+gapdh
+hela
+lc3-gfp
+100
+80
+60
+40
+20
+1 µm
+0.6 µm
+8 µm
+0.5 µm
+2 µm
+0.6 µm
+control
+atg5
+hela
+jurkat
+cyto c - gfp
+atg5-gfp
+lc3-gfp
+figure s1 enforced expression of atg5 promotes autophagy. a, hela cells 
+were stably transfected with gfp-tagged atg5 (upper panel) and jurkat 
+with atg5 (lower panel). hela cells were analyzed following hoechst 
+staining by overlaying phase contrast and fluorescence images. jurkat cells 
+were analyzed following diff-quik staining and regular light microscopy. 
+atg5-overexpressing cells increased their size and shape, and 
+demonstrated evidence for vacuolization. atg5 expression was controlled 
+by confocal microscopy and immunoblotting, respectively (right panels). 
+the nucleus in the upper right panel was stained with propidium iodide. 
+the white lines indicate the border between the intracellular and the 
+extracellular space that was visible at a larger magnification. bar, 10 µm. 
+b, transmission electron microscopy (tem). hela cells stably transfected 
+with gfp-tagged atg5 were compared with hela cells expressing gfp-
+tagged cytochrome c (cyto c) and gfp-tagged lc3 (atg8). enforced 
+expression of atg5 but not cytochrome c or lc3 resulted in increased cell 
+size and in the appearance of autophagic vacuoles, which were defined 
+as double-membrane vacuolar structures containing cytoplasmic contents 
+(arrow heads). note that different magnifications were used (bars). right: 
+quantitative analysis of atg5-induced autophagy. vacuolated cells were 
+defined as having 10 or more autophagic vacuoles by tem. the percentage 
+of vacuolated hela cells dramatically increased following enforced atg5 
+expression. c, immunoblotting. in gfp-lc3 labeled cells overexpressing 
+atg5, lc3-ii, indicative for autophagosome formation, was detected. 
+d, confocal microscopy. in control cells, lc3 shows a cytoplasmic 
+distribution. following enforced atg5 expression, gfp-lc3 showed 
+punctate staining, which may represent lc3-ii.
+www.nature.com/naturecellbiology 
+© 2006 nature publishing group  
+s u p p l e m e n ta ry  i n f o r m at i o n
+gfp
+atg5
+exp. 1          exp. 2         exp. 1       exp. 2
+1.8
+1.6
+1.4
+1.2
+0.8
+0.6
+0.4
+0.2
+tumor weight [g]
+gfp
+gfp +
+doxo
+atg5
+atg5 +
+doxo
+gfp
+atg5
+doxorubicin
+no 
+doxorubicin
+h&e
+cae
+figure s2 atg5 inhibits tumor growth and increases efficacy of anticancer 
+drugs in vivo. mda-ma-231 cells with normal and enforced atg5 expression 
+were implanted in nude mice and the tumors were analyzed 18 days later. 
+a, left panel: photographs of explanted tumors. right panel: tumor weights 
+of explanted tumors (means ± s.e.m of two independent experiments). 
+almost no tumor growth was seen in mice that received atg5 overexpressing 
+tumors and doxorubicin (doxo) treatment. b, histological analysis. atg5 
+overexpressing tumors exhibited increased cell size and vacuolization (black 
+arrows) as well as neutrophil infiltration (red arrows).
+2 
+www.nature.com/naturecellbiology
+© 2006 nature publishing group  
+s u p p l e m e n ta ry  i n f o r m at i o n
+33 kda
+24 kda
+32 kda
+19 kda
+17 kda
+jurkat    hl-60     eol
+atg5
+caspase-3
+gapdh
+eosinophils
+33 kda
+24 kda
+116 kda
+89 kda
+atg5
+parp
+gapdh
+figure s3 apoptosis is associated with atg5 cleavage as assessed by 
+immunoblotting. a, staurosporine-induced apoptosis (5-h treatment) in 
+cells of different lineages. apoptosis was associated with the appearance of 
+a 24-kda anti-atg5-reactive protein. blots were stripped and reprobed with 
+anti-caspase-3 antibody, demonstrating evidence for staurosporine-induced 
+caspase-3 activation. b, anti-cd95-induced apoptosis (5-h treatment) 
+of blood eosinophils. apoptosis was associated with the appearance of a 
+24-kda anti-atg5-reactive protein and parp cleavage, indicating caspase 
+activation.
+www.nature.com/naturecellbiology 
+â© 2006 nature publishing group  
+supplementary information 
+atg5 gene transfer results in increased autophagy 
+as  analyzed  by  light  microscopy,  atg5  overexpressing  cells  increased  their  cellular 
+size.  moreover,  the  hela  cells  became  more  flat  and  in  jurkat  cells,  we  observed 
+vacuole-like  structures.  atg5  was  seen  in  the  cytoplasm,  mostly  in  the  perinuclear 
+area  as  determined  by  fluorescence  analysis  (fig.  s1a).  in  addition,  we  analyzed 
+these cells by transmission electron microscopy. atg5 but not lc3 or cytochrome c 
+overexpression  resulted  in  a  dramatic  increase  of  double  membrane  vacuolar 
+structures  containing  visible  cytoplasmic  contents1,2  and  of  the  cell  size  (febs 
+letters 2006; 580: 2623) both characteristic features of autophagy (fig. s1b).  
+lc3  is  considered  as  a  biomarker  for  autophagy  (embo  j.  2000;  19:  5720 
+and mol. biol. cell 2004; 15: 1101). to further demonstrate that atg5 indeed induces 
+autophagy, we overexpressed gfp-lc3 in the presence and absence of concurrent 
+atg5  overexpression  in  hela  cells.  immunoblot  analysis  using  anti-gfp  antibody 
+revealed  that  atg5  overexpression  was  associated  with  the  conversion  of  cytosolic 
+lc3-i  into  the  autophagosome-specific  isoform  lc3-ii  (fig.  s1c).  moreover,  atg5 
+overexpression  resulted  in  multiple  gfp-lc3  dots,  whereas  control  cells  showed  a 
+diffuse  lc3  expression  pattern  (fig.  s1d).  both  the  generation  of  lc3-ii  and  the 
+appearance  of  punctate  gfp-lc3  are  accepted  methods  for  monitoring  autophagy 
+(embo  j.  2000;  19:  5720  and  mol.  biol.  cell  2004;  15:  1101).  taken  together, 
+isolated exogenous atg5 gene transfer resulted in cells exhibiting signs of increased 
+autophagy. 
+â© 2006 nature publishing group  
+anticancer effect of atg5 in vivo 
+since  atg5  expression  appeared  to  correlate  with  the  susceptibility  of  cells  to 
+undergo anticancer drug-mediated apoptosis in vitro (see fig. 1), we asked whether 
+the  new  insight  linking  autophagy  with  apoptosis  could  be  translated  into  a  new 
+strategy  for  the  treatment  of  cancer  under  in  vivo  conditions.  breast  cancer  cells 
+expressing endogenous and increased levels of atg5 were subcutaneously injected 
+in immunodeficient nude mice and tumor growth was observed in the presence and 
+absence  of  doxorubicin  therapy  over  a  time  period  of  18  days.  within  this  time 
+period,  no  death  occurred  due  to  the  cancer  or  the  drug  treatment.  tumor  growth 
+was  analyzed  by  measuring  the  tumor  weight  after  sacrificing  the  mice  at  day  18. 
+doxorubicin  induced  growth  inhibition  of  approximately  65%.  strikingly,  atg5 
+overexpression alone reduced tumor growth by approximately 83%. the combination 
+of atg5 overexpression and doxorubicin treatment did almost completely block tumor 
+growth (approximate inhibition was 95%) (fig. s2a). the histological analysis of the 
+tumors demonstrated, besides high frequency of apoptosis/necrosis, increased size 
+and  some  vacuolization  of  the  remaining  cancer  cells  that  received  the  atg5  gene 
+(fig.  s2b), confirming the morphological characteristics noticed in hela and jurkat 
+cells with enforced atg5 expression under in vitro conditions (fig. s1). in addition, we 
+observed large neutrophil infiltration associated with the implantation of cancer cells 
+expressing  high  levels  of  atg5.  neutrophil  infiltration  became  particularly  obvious 
+when sections were stained with chloroacetate esterase (cae) (fig. s2b).  
+â© 2006 nature publishing group  
+supplementary information methods 
+reagents.  gm-csf  was  from  novartis  pharma  gmbh  (nürnberg,  germany). 
+staurosporine  and  recombinant  tbid  were  obtained  from  apotech  (distributed  by 
+alexis biochemicals, lausen, switzerland). recombinant caspases -3, -6, -7, -8 and 
+-9  were  from  alexis  biochemicals.  enzymatically  active  calpain-1,  calpain-2, 
+cathepsin b, and cathepsin d, as well as calpastatin-derived peptide and alln were 
+obtained  from  calbiochem-novabiochem  corp.  (distributed  by  juro  supply  gmbh, 
+lucerne, 
+switzerland). 
+(l)-3-carboxy-trans-2,3-epoxypropionyl-leu-amido-(4-
+guanidino-)butane-ethylester  (e64-d)  and  all  other  chemicals  were,  unless  stated 
+otherwise, from sigma (buchs, switzerland). 
+production of recombinant atg5 and polyclonal anti-human atg5 antibody. the 
+atg5  cdna  was  obtained  by  rt-pcr  using  cdna  from  hela  cells.  primers  were 
+designed based on the published sequence (ncbi, acc #12803724) and synthesized 
+by  mwg-biotech  ag,  ebersberg,  germany).  sequences  were  as  follows:  5’-cgg 
+gat cca tga cag atg aca aag atg tgc-3’ and 5’-gga agc ttt caa tct 
+gtt  ggc  tgt  ggg-3’.  these  primers  included  restriction  sites  (underlined).  the 
+pcr-product  was  subcloned  into  pqe-30  with  a  [his]6-affinity  tag  (qiagen,  basel, 
+switzerland).  the  atg5  sequence  was  confirmed  by  sequence  analysis. 
+recombinant atg5 was produced and purified using nickel column chromatography. 
+polyclonal rabbit antisera were raised against purified [his]6-atg5 fusion protein. the 
+production of anti-atg5 antibodies was controlled by immunoblotting using [his]6-atg5 
+and unrelated [his]6 – fusion proteins.  
+© 2006 nature publishing group  
+cell  lines.  jurkat,  hela,  hl-60,  and  mda-mb-231  cells  were  obtained  from 
+american  type  culture  collection  (atcc,  rockville,  md,  usa).  cem  cells 
+overexpressing bcl-214 as well as control cem cells were from dr. s. martin (dublin, 
+ireland).  hela  cells  expressing  cytochrome-c-gfp9  were  provided  by  dr.  d.  r. 
+green (san diego, ca, usa). all cells except hela, hl-60, and mda-mb-231 cells 
+were  grown  in  rpmi  1640  with  10%  heat-inactivated  fetal  calf  serum  (complete 
+culture  medium,  life  technologies,  basel,  switzerland).  hela  and  mda-mb-231 
+cells were grown in dmem medium and hl-60 cells in iscove medium (both life 
+technologies) supplemented with 5% heat-inactivated fetal calf serum. all cell lines 
+were maintained by serial passage and used in their logarithmic growth phase. 
+transmission  electron  microscopy.  cells  (1  x  106)  were  resuspended  in  1  ml  of 
+2.5% phosphate-buffered glutaraldehyde at 4oc. they were then washed with pbs 
+and  postfixed  with  1%  oso4  for  1.5  h  at  room  temperature.  cell  blocks  were  then 
+embedded in spurr’s low viscosity resin (electron microscopy sciences, hatfield, pa, 
+usa). grey thin sections were contrasted with uranylacetate and lead citrate. cells 
+were observed with an electron microscope (zeiss em 10 c, oberkochen, germany), 
+and 20 to 30 cells were photographed per sample. 
+human  tumor  xenograft  model.  unmodified,  gfp-  and  atg5-overexpressing 
+human  breast  cancer  mda-ma-231  cells  (5  x  106)  were  implanted  in  the  dorsal 
+subcutis  of  athymic  female  nude  mice  (harlan,  horst,  netherlands).  when  the 
+tumors  were  between  40-50  mm3,  each  group  of  animals  was  pair  matched  into 
+doxorubicin  treatment  and  control  subgroups. tumor measurements were taken by 
+callipers and converted to tumor volume (v) using the formula (v = w2 x l/2), where 
+© 2006 nature publishing group  
+w and l are the smaller and larger diameters, respectively.  doxorubicin (10 mg/kg 
+bodyweight; adriblastin®, pfizer ag, zurich, switzerland) was administered via i.p. on 
+the day of pair matching, on day 7, and on day 14. on day 18, mice were sacrificed 
+and  the  tumors  were  explanted  and  subsequently  weighed  and  histologically 
+analyzed. the animal experiments were conducted according to the guidelines of the 
+state of bern, switzerland. 
+in  vitro  transcription  and  translation.  0.5  µg  of  purified  plasmids  (pet-15b, 
+novagen,  distributed  by  vwr  international,  lucerne,  switzerland)  containing 
+sequence  verified  cdnas  encoding  full-length  atg5,  truncated  atg5,  or  del191-196 
+atg5  (see  below),  as  well  as  bid  (vector  was  kindly  provided  by  dr.  k.  schulze-
+osthoff,  düsseldorf,  germany)  were  in  vitro-transcribed  and  translated  using  a 
+coupled 
+transcription/translation  tnt  kit  (promega,  catalys  ag,  wallisellen, 
+switzerland) according to manufacturer`s instructions.  
+identification  of  the  calpain  cleavage  site.    recombinant  atg5  was  produced  by 
+cloning  the  atg5  cdna  into  pet-15b  expression  vector  using  the  following  primer 
+sequences: 5’-gca gcc ata tga cag atg aca aag atg tgc-3’ and 5’-cag 
+ccg gat cct caa tct gtt ggc tgt ggg-3’ (underlined sequences represent 
+ndel and bamhi restriction sites). the atg5 sequence was confirmed by sequencing. 
+atg5  was  expressed  in  terrific  broth  at  20°c  using  bl21(de3)  codon+-ril  cells. 
+recombinant  atg5  was  isolated  and  purified  by  nickel  column  chromatography. 
+fractions containing the protein were collected and digested with thrombin to remove 
+the [his]6-tag. protein quality was assessed by sds-page, and concentrations were 
+calculated by amino acid analysis.  
+© 2006 nature publishing group  
+calpain  digestion  of  atg5  was  essentially  performed  as  described  before31. 
+samples  for  edman  sequencing  were  prepared  by  blotting  the  separated  cleavage 
+products  onto  pvdf  membranes  and  cutting  out  the  bands  corresponding  to  the 
+fragments  of  interest.  fragments  for  mass  spectrometry  were  isolated  by  hplc. 
+edman  sequencing  and  mass  spectrometry  were  performed  at  the  protein  service 
+laboratory of the institute of molecular & biophysics at the swiss federal institute of 
+technology (zurich) on a fee-for-service basis. 
+transient transfection of cells. full-length and truncated atg5 were subcloned into 
+pcdna3  vector.  hela  cells  (1  x  105  cells)  were  transfected  in  six-well  plates  using 
+lipofectaminetm  2000  (invitrogen).  cells  were  morphologically  analyzed  24  h  later 
+following  hoechst  staining  using  a  fluorescence  microscope.  co-transfection  of 
+pcmv  β-galactosidase  was  used  to  normalize  the  transfection  efficiencies  in  these 
+experiments. 
+lentiviral  gene  transfer.    full-length  and  truncated  atg5  were  subcloned  into  the 
+hiv-derived  vector  pwpt,  which  contains  a  cytomegalovirus  (cmv)  promoter32. 
+recombinant  viruses  were  produced  by  calcium  transfection  together  with  the 
+envelope vector pmd.g and the packaging vector pcmvr8.91 (all provided by dr. d. 
+trono,  university  of  geneva,  switzerland)  into  293t  cells.  in  parallel  experiments, 
+pwpt  containing  gfp  was  produced  and  used  for  control  experiments.  the 
+supernatants were collected after 24 h and 48 h, cleared by low-speed centrifugation 
+(2000  rpm  for  10  min),  filtered  through  0.22  µm  filter  (millipore  ag,  volketswil, 
+switzerland),  and  immediately  added  to  immature  neutrophils,  hela,  jurkat,  cem, 
+and  mda-mb-231  cells.  the  expression  of  atg5  and  its  cleavage  product  after 
+© 2006 nature publishing group  
+transduction (24 h) was controlled by immunoblotting. the efficacy of gene transfer 
+was also controlled by counting gfp positive cells following pwpt-gfp transduction 
+and  was  usually  100%.  for  analyzing  autophagy  by  immunoblotting  and  confocal 
+microscopy, cells were transfected with lc3-gfp, which we subcloned into pwpt. 
+stable  atg5  gene  silencing  was  performed  using  plvthm  (gift  of  dr.  d. 
+trono, geneva, switzerland), a lentiviral vector for sirna delivery33. oligonucleotides 
+suitable  for  sirna  experiments  have  been  designed  according  to  the  mouse  atg5 
+sequence5.  to  generate  the  template  for  human  atg5  sirna,  we  used  the 
+corresponding human sequences and incorporated them in a short hairpin structure, 
+using the stem loop sequence 5’-ttc aag aga-3’. the following annealed primers 
+were used for ligation: 5’ – cgc gtc ccc aac ttg ttt cac gct ata tca ttc 
+aag aga tga tat agc gtg aaa caa gtt ttt ttg gaa at – 3’ and 5’ – cga 
+ttt cca aaa aaa ctt gtt tca cgc tat atc atc tct tga atg ata tag 
+cgt  gaa  aca  agt  tgg  gga  –  3’  (reverse  sequence).  both  primers  were 
+phosphorylated  on  both  sites.  after  annealing,  atg5 sirna was directly cloned into 
+plvthm using mlui and clai restriction sites. the atg5 sirna construct was verified 
+by  sequence  analysis.  virus  production  was  performed  as  described  above. 
+following  transduction,  usually  100%  were  gfp  positive  and  silencing  of  the  atg5 
+gene was controlled by immunoblotting. 
+the  calpain-resistant  atg5  (del191-196)  was  generated  using  quikchange 
+site-directed  mutagenesis  kit  (stratagene  europe,  amsterdam,  the  netherlands) 
+along  with  the  following  primers:  forward,  5’  –  cgt  tat  atc  ccc ttt aga ata 
+tat cct ttc att cag aag ctg ttt cg – 3’; reverse, 5’ – cga aac agc ttc 
+tga atg aaa gga tat att cta aag ggg ata taa cg - 3’. the construct was 
+subjected  to  dna  sequencing  to  ensure  accuracy  and  lentiviral  gene  transfer  was 
+© 2006 nature publishing group  
+performed using pwpt. to downregulate the small subunit of calpain (nm_001749) 
+in hela cells, we obtained calpain-specific sirnas (5’ – cgc aca cat tac tcc 
+aac  att  –  3’  and 5’ – cgc cac aga act cat gaa cat – 3’) in plko.1-puro 
+from sigma. for controls, we used non-targeted sirna with the following sequence: 
+5’ – caa caa gat gaa gag cac caa – 3’. gene silencing was again controlled 
+by immunoblotting.  
+stable  transfection  of  cells.  hela  cells  were  transfected  with  full-length  atg5  in 
+pegfp-n1  vector  (clontech,  becton  dickinson  biosciences)  by  calcium  phosphate 
+precipitation.  g418  resistant  clones  were  screened  for  gfp  expression  using  flow 
+cytometry  and  fluorescence  microscopy.  expression  of  atg5  was  additionally 
+controlled by immunoblotting. the obtained clones were used for functional studies 
+as well as size controls in the immunoblotting experiments. 
+immunoprecipitation. cells (1 x 107) were washed with pbs and buffer a (50 mm 
+hepes,  ph  7.2,  143  mm  kcl,  5  mm  mgcl2,  1  mm  egta,  phosphatases  and 
+proteases inhibitors), and then lysed in buffer a plus 0.2% np-40 on ice for 30 min. 
+cell lysates were passed 10-15 times through a 26-gauge needle, centrifuged, and 
+precleared  with  100  µl  of  50%  protein  a-sepharose  (sigma)  at  4°c  for  1h.  
+immunoprecipitations were performed using 5 µl of affinity-purified rabbit anti-human 
+bax and bcl-xl s18 antibodies (both santa cruz biotechnology, inc., distributed by 
+labforce) in the presence of 2.5 mg/ml ovalbumine at 4°c for 2h. fifty µl of a 50% 
+protein  a-sepharose  suspension  were  added  and  the  immune  complexes  captured 
+on a rotating wheel at 4°c for 90 min. immunocomplexes were washed three times in 
+© 2006 nature publishing group  
+buffer a and boiled at 95°c for 5 min before loading on 12% nupage gels (invitrogen 
+ag, basel, switzerland).  
+analysis of the mitochondrial release of cytochrome c in intact cells. to assess 
+the status of cytochrome c release from individual cells, hela cells were grown on 
+coverslips  and  loaded  with  500  nm  mitotracker  orange  (molecular  probes)  at  37oc 
+for  10  min.  cells  were  subsequently  fixed  with  4%  paraformaldehyde  solution  and 
+then immunostained with anti-cytochrome c monoclonal antibody (1/100). staining of 
+the primary monoclonal antibody was visualized by incubation with fitc-conjugated 
+secondary  antibody,  and  slides  were  analyzed  by  confocal 
+laser  scanning 
+microscopy (lsm 510)12. 
+© 2006 nature publishing group

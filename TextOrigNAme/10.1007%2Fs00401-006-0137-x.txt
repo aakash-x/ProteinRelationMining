@@ -1,0 +1,1062 @@
+acta neuropathol (2006) 112:691–702 
+doi 10.1007/s00401-006-0137-x
+original paper
+on the variety of cell death pathways in the lurcher mutant 
+mouse
+jörg bäurle · karel kranda · sabine frischmuth 
+received: 18 may 2006 / revised: 22 august 2006 / accepted: 22 august 2006 / published online: 13 september 2006
+ springer-verlag 2006
+abstract apoptosis  as  well  as  autophagy  have  been
+implicated  in  the  death  of  cerebellar  purkinje  cells
+(pcs) in the lurcher (lc/+) mutant mouse and at least
+two  diverent  apoptotic  pathways  participate  in  the
+transsynaptic death of granule cells (gc) and inferior
+olivary  (io)  neurones.  the  relative  contribution  of
+these  pathways  can  only  be  assessed  from  their
+momentary  involvement at  any stage of the complete
+course of  neurodegeneration. here  we used  quantita-
+tive labelling for activated caspase-3 (casp-3) and flu-
+oro-jade  b  (fj-b)  to  investigate  the  spatio-temporal
+pattern  of  neuronal  death  from  p6  to  p67  in  lc/+
+mutants. activated casp-3 was present only in narrow
+time intervals (p14 to p22 in pcs; p14 to p28 in gcs)
+and in small subpopulations of pcs, gcs, and io neu-
+rones.  fj-b  positive  pcs  were  detected  during  a
+broader period (p14 to p28), and outnumbered casp-3
+labelled pcs by a factor exceeding eight. nevertheless,
+fj-b labelling was restricted to pcs and never found in
+either  gc  or  io  neurones.  in  conclusion,  we  present
+the  wrst  complete  time  course  and  extent  of  casp-3
+activation in lc/+ mutants and show that the majority
+of  dying  neurones  in  lc/+  mutants  undergo  casp-3
+independent  cell  death.  the  cellular  overload  pro-
+duced by the initial gene defect in lc/+ mutants appar-
+ently activates a variety of apoptotic and non-apoptotic
+pathways within the same neuronal population. more-
+over,  we  present  the  wrst  evidence  for  the  ability  of
+j. bäurle (&) · k. kranda · s. frischmuth
+campus benjamin franklin, department of physiology, 
+charité—universitätsmedizin berlin, arnimallee 22, 
+14195 berlin, germany
+e-mail: joerg.baeurle@charite.de
+fj-b to selectively label a discrete population of dying
+pcs,  implying  a  higher selectivity  of  fj-b  than previ-
+ously supposed.
+keywords apoptosis · autophagy · excitotoxicity · 
+activated caspase-3 · fluoro jade-b
+calbindind-28k
+fluoro-jade
+granule cell
+abbreviation
+bsa bovine serum albumin
+calb
+casp-3 caspase-3
+fitc fluorescein isothiocyanate
+fj
+gc
+glur♥2 glutamate receptor delta 2
+grid2 glutamate receptor ionotrophic delta 2 gene
+io
+lc/+
+pap
+pbs
+pc
+pcr polymerase chain reaction
+tbs
+inferior olive
+lurcher mutant
+postnatal day
+peroxidase-antiperoxidase
+phosphate-buvered saline
+purkinje cell
+tris-buvered saline
+introduction
+in  the  lurcher  (lc/+)  mutant  mouse  [39],  a  point
+mutation in the ♥2 glutamate receptor (glur♥2) gene
+[58]  leads  to  the  degeneration  of  almost  all  purkinje
+cells (pcs), about 95% of which die between postnatal
+day (p) 8 and p25 [6, 18, 48, 52, 53]. the lc/+ mutation
+causes large constitutive inward currents in cerebellar
+pcs  leading  to  their  chronic  depolarisation  [58]  and
+123
+692
+acta neuropathol (2006) 112:691–702
+death  [6].  apparently,  the  excitotoxic  processes  that
+characterise this type of mutation make lc/+ mice suit-
+able  to  serve  as  an  animal  model  for  investigating
+excitotoxicity in a variety of human neurodegenerative
+conditions [8, 21, 23, 51].
+recent evidence suggests that more than one singu-
+lar  mechanism  accounts  for  the  death  of  pcs  in  lc/+
+mutants  because:  (a)  deletion  of  bax  expression
+altered  the  pattern  of  caspase-3  activation  and  also
+delayed but not prevented cell death of lc/+ pcs [11,
+45]. this implies  not  only  that lc/+ pcs can  die by  a
+bax-independent pathway but also that bax is involved
+in activating caspase-3 during the normal course of pc
+death in lc/+ mutants [11, 45, 51]. (b) the overexpres-
+sion of bcl-2, that can also delay the death of lc/+ pcs,
+provides  a  further  argument  for  apoptosis  being
+involved in lc/+ pc death [56, 57]. (c) a delay in the
+death of lc/+ pcs was also observed after elimination
+of  the  serine  protease  tissue  plasminogen  activator
+(tpa) [37], suggesting that a receptor-mediated apop-
+totic  pathway  normally  may  also  contribute  to  the
+death  of  lc/+  pcs.  (d)  on  the  other  hand,  glur♥2lc
+can induce autophagy in pcs via a signalling pathway
+mediated by this mutated receptor and a novel isoform
+of  a  pdz  domain-containing  protein  (n-pist)  and
+beclin1 [55]. as dying lc/+ pcs also contain autopha-
+gic  vacuoles  in  vivo  [55],  the  autophagic  mechanisms
+probably contribute to the death of lc/+ pcs.
+the  primary  loss  of  pcs  in  the  lc/+  cerebellum  is
+followed  by  a  secondary,  target-related  transsynaptic
+degeneration of cerebellar granule cells (gc) and infe-
+rior  olivary  (io)  neurones.  apoptosis-related  death
+avects  about  56%  of  gcs  between  p8  and  p12,
+whereby almost 90% of all gcs are lost at p60 [6, 37].
+target-related death of io neurones, already apparent
+at p11, comprises about 70% of the complete neuronal
+population in adult lc/+ mutants [6, 9, 20]. in contrast
+to observations made in case of pcs, the elimination of
+bax expression rescued lc/+ gcs but not io neurones.
+bcl-2  overexpression,  on  the  other  hand,  rescued  io
+neurones without avecting the survival of gcs [11, 45].
+this  implies  that  gcs  and  io  neurones  perish  via
+diverent apoptotic pathways [51].
+despite  these  diverences,  casp-3  activation  has
+been observed in all these three cell types [29, 44, 49].
+however, the relative contribution of casp-3 mediated
+apoptosis to the general cell death can only be assessed
+from the full time course of degeneration in the  lc/+
+mutant  and  the  regional  analysis  of  neuronal  types
+avected.  it  was  our  intention  to  examine  the  parallel
+time  courses  of  casp-3  activation  and  fluoro-jade  b
+(fj-b)  labelling  in  lc/+  mutants  during  the  complete
+period of degeneration proceeding in pcs, gcs and io
+123
+neurones. fj-b was selected for its ability to label only
+dying  neurones,  and  the  presumed  low  selectivity  for
+any particular mode of death process [42]. fj-b appar-
+ently labelled neurones dying from various causes such
+as  neurotoxicity  [13,  16,  22,  41],  excitotoxicity  [5,  14,
+19], and ischaemia [26, 30, 38].
+to  allow  parallel  comparison  of  cell  loss  with  the
+pattern of casp-3 and fj-b staining, the progression of
+cell  loss  was  also  monitored  with  nissl-staining  and
+with antibodies against calbindin d-28 k (calb), which
+is a reliable marker for the identiwcation of cerebellar
+pcs and io neurones [3, 4, 31]. finally, our main objec-
+tive was to examine whether cell death in lc/+ mutants
+may follow various routes and whether the chronologi-
+cal correlation of staining patterns produced by the cell
+death  markers  used  in  the  study  may  allow  a  better
+insight into the diversity of death pathways.
+materials and methods
+animals
+experimental  animals  were  wild  type  (+/+)  mice
+(b6cba)  and  the  ovspring  of  lc/+  breeder  pairs
+(b6cbacaaw-j/a-grid2lc) purchased from the jack-
+son  laboratories  (bar  harbor,  usa).  mice,  kept
+under a daily light period of 12 h, consumed food and
+water ad lib. the lc/+ mutants, aged from p14 to p67,
+were phenotypically recognised by their ataxia and his-
+tologically  conwrmed  by  their  atrophic  cerebellum.
+younger animals (<p14), where the above procedure is
+insuycient to unequivocally determine the presence of
+the  lc-allele,  were  genotyped  according  to  a  method
+described  previously  [37]  (for  details  see  below).  in
+total, 62 murine brains (30 +/+ and 32 lc/+) were dis-
+sected  on  postnatal  days  p6,  p8,  p14,  p16,  p19,  p22,
+p28, p32, p52 and p67. all experiments were approved
+by  the  local  “animal  care  and  use  committee”  and
+conform to nih guidelines.
+genotyping
+genomic  dna  of  the  lc/+  ovspring  was  extracted
+(dneasy  tissue  kit,  qiagen,  hilden,  germany)  from
+tails at p2, according to the method of lu and tsirka
+[37]. a polymerase chain reaction (pcr) of the lc-allele
+of  the  glutamate  receptor  ionotrophic  delta  2  gene
+(grid2)  was  performed  by  an  acii-mediated  diges-
+tion,  using  a  forward  primer  [5⬘-primer  (5⬘-cggg
+tgatagtgaggaaag-3⬘, mwg-biotech)] and a
+reverse  primer  (5⬘-cgggtgatagtgaggaaa
+g-3⬘, mwg-biotech). pcr was conducted with 200 ng
+acta neuropathol (2006) 112:691–702
+693
+of  genomic  dna  (taq  pcr  core  kit,  qiagen)  in  a
+total  volume  of  50 ♯l.  reactions  included  an  initial
+denaturation  at  94°c  for  3 min  and  subsequent  30
+cycles  of  denaturation  at  94°c  for  30 s,  annealing  at
+55°c for 45 s, and extension at 72°c for 60 s. the pcr
+product  was  puriwed  with  a  minielute  pcr  puriwca-
+tion  kit  (qiagen)  and  digested  with  acii  restriction
+enzyme  (neb,  uk).  samples  of  the  digested  pcr
+product were subjected to electrophoresis (3% gena-
+garose tiny, genaxxon, stazangen, germany). bands
+were visualised with ethidium bromide and compared
+with a dna-marker (puc 19/mspi, roth, karlsruhe,
+germany).  the  wild  type  and  the  lc-allele  yielded
+respective 90 and 108 bp bands (fig. 1).
+tissue preparation and histology
+after  a  lethal  dose (1.75 g/kg body weight)  of chloral
+hydrate, all mice were transcardially perfused. initially,
+the  perfusion  proceeded  with  a  warm  saline  at  37°c
+and  subsequently with 4% paraformaldehyde in po4-
+buver  (0.1  m,  ph  7.4)  at  4°c  for  a  total  of  30 min.
+fixed brains were immediately dissected, embedded in
+agar and cut parasagitally in ice-cold po4-buver with a
+vibratome  (series  1000;  tpi  inc.,  st.  louis,  usa)  at
+50 ♯m  intervals.  consecutive  sections  were  either
+mounted on gelatine-coated slides and dried on a slide
+warmer  for  10–30 min  at  about  50°c  (for  fj-b  and
+nissl-stain)  or  further  processed  for  free-xoating
+immunohistochemistry  as  follows:  section  1 = nissl-
+stain,  section  2 = fj-b 
+labelling,  section  3 = anti-
+cleaved  casp-3,  section  4 = anti-calb.  staining  for
+nissl-substance  conformed  to  a  standard  thionin-
+staining protocol.
+m +/+
+lc/+
+190 bp
+147 bp
+110 bp
+67 bp
+108 bp
+90 bp
+fig. 1 genotyping  of  lc/+  mutants,  based  on  acii-mediated
+digestion. a single 90 bp band identiwed +/+ and the additional
+108 bp band identiwed lc/+ mice
+fluoro-jade b staining
+staining  proceeded  according  to  the  protocol  of
+schmued and hopkins [42]. solution of fj-b (histo-
+chem  inc.  jeverson,  ar,  usa)  was  always  freshly
+prepared from 0.01% stock solution, normally stored
+at 4°c in the dark for up to 2 months. the  wnal dye
+concentration  was  0.0004%  in  0.1%  acetic  acid.
+slides  with  mounted  sections  were  immersed  in  1%
+naoh in 80% etoh for 5 min, followed by 2 min in
+70%  etoh  and  2 min  in  dh2o.  slides  were  then
+transferred  to  freshly  prepared  0.06%  kmno4  in
+dh2o.  they  remained  in  the  solution,  under  gentle
+shaking, for 10 min. then the slides were washed for
+2 min  in  dh2o,  subsequently  stained  in  the  fj-b
+staining  solution  for 20 min  in  the  dark on a  shaker
+and  wnally  washed  three  times  in  dh2o  for  1 min.
+after the removal of excess water, the sections were
+dried  for  10 min  in  the  dark  on  a  slide  warmer  at
+about 50°c. dry slides were immersed in xylene for
+at least 1 min and cover slipped with dpx mounting
+medium (ems, washington, usa). all sections were
+examined  with  a  zeiss  epixuorescent  microscope
+equipped  with  a  xuorescein  isothiocyanate  (fitc)
+wlter.
+immunohistochemistry
+alternate  brain  sections  of  mutant  and  wild  type
+mice, matched for age, were simultaneously immuno-
+incubated  with  either  mouse  monoclonal  antibodies
+against calb (clone 300, swiss antibodies, bellinzona,
+switzerland)  or  with  rabbit  monoclonal  antibodies
+against cleaved casp-3 (asp 175 5a1, cell signalling
+technology, beverly, ma, usa). anti-calb is one of
+the  most  frequently  used  markers  for  the  selective
+and golgi-like labelling of cerebellar pcs [7, 17, 27].
+anti-cleaved casp-3 is directed against amino-termi-
+nal  residues  adjacent  to  (asp175)  in  human  casp-3.
+the speciwcity of this antibody for the activated form
+of  casp-3  has  been  widely  documented  in  western
+blot,  immunocytochemical  and  immunohistochemi-
+cal approaches [25, 33]. preabsorption of anti-cleaved
+casp-3 with blocking peptide (#1050, cell signalling
+technology,  usa)  for  2 h  prior  to  immunoincuba-
+tion  as  well  as  excluding  the  primary  antiserum
+completely  prevented  all  immunostaining  in  both
+conditions.  prior  to  immunoincubation  endogenous
+peroxidase  was  blocked  with  2%  h2o2  and  10%
+methanol in phosphate-buvered saline (pbs; 0.01 m,
+ph 7.5) for 20 min. after washing twice for 5 min in
+dh2o and for 5 min in tris-buvered saline (tbs; 0.05
+m,  ph  7.6),  non-speciwc  binding  was  minimised  by
+123
+694
+acta neuropathol (2006) 112:691–702
+preincubation  in  a  solution  containing  10%  rabbit
+(for  calb)  or  goat  (for  casp-3)  serum,  1%  bovine
+serum  albumin  (bsa)  and  0.5%  triton-x-100  in
+tbs.  the  calb-antibody  was  used  at  a  dilution  of
+1:10,000 and anti-casp-3 at 1:100. brain sections were
+incubated  overnight  under  gentle  shaking  with  the
+primary antisera at 4°c in a humid chamber. immu-
+nohistochemistry  followed  a  standard  protocol  for
+the  peroxidase-antiperoxidase  (pap)-method  [47].
+unconjugated  rabbit  anti-mouse  (for  calb)  or  goat
+anti-rabbit (for casp-3) secondary antibodies (dako,
+denmark),  diluted  at  1:100  were  incubated  under
+gentle shaking  for 2 h at room temperature. after  a
+3 £ 5 min  wash  in  tbs,  the  sections  were  incubated
+at  room  temperature  for  1 h  in  pap-mouse  (calb,
+dako)  or  pap-rabbit  (casp-3,  dako)  solutions,
+diluted  1:50.  after  three  additional  washing  steps  in
+tbs, the binding sites were visualised by reacting the
+peroxidase  with  0.05%  diaminobenzidine  (sigma,
+germany) in tbs containing 0.03% h2o2 for 5 min.
+finally,  the  sections  were  washed  again  in  tbs  and
+dh2o, then mounted on gelatine-coated glass-slides,
+dried on a hot plate, dehydrated in a graded series of
+etoh and xylene and cover slipped.
+quantiwcation
+we  performed  cell  counts  in  50 ♯m  thick  parasagittal
+sections in each of at least three mice at each pertinent
+postnatal age to gain some quantitative estimate on the
+relative  incidence  of  casp-3-  and  fj-b-labelled  pcs
+and gcs in lc/+ mutants. to minimize the inxuence of
+latero-medial diverences in the cross-sectional area of
+the  cerebellar  cortex  between  diverent  sections,  sec-
+tions  were  sampled  systematically  from  all  brains.
+beginning  with  the  lateral  most  section  that  included
+cerebellar  cortex,  we  counted  labelled  cells  in  every
+fourth  section  up  to  the  midsagittal  level.  this  sam-
+pling strategy provided a mean of 18 sampled sections
+from an average of about 75 sections per hemicerebel-
+lum.  to  avoid  a  possible  bias  from  potential  regional
+diverences in the density of labelled neurons, counting
+was performed over the complete cross-sectional area
+of  all  sampled  sections.  only  those  stained  neurons
+with  a  clearly  discernible  cell  body  were  counted.
+finally, cell counts from all sampled sections of a given
+brain were summarized and divided by the number of
+sampled sections to obtain the number of positive cells
+per section.
+the  signiwcance  of  the  diverence  in  cell  counts  for
+lc/+ mutants at diverent ages was calculated with the
+wilcoxon  test  for  independent  samples  (mann–whit-
+ney u test).
+123
+results
+progression of cell death in the cerebellar cortex
+of lc/+ mutants
+the  time  course  of  neuronal  degeneration  in  lc/+
+mutants, together with the extent of cell loss in the var-
+ious  neuronal populations  has  been extensively  docu-
+mented [6, 9, 12, 18, 20, 37, 48, 52, 53]. hence, we did
+not  attempt  to  replicate  these  studies,  as  quantifying
+the  absolute  cell  loss  at  each  postnatal  age  selected
+would  have  been  beyond  the  scope  of  this  investiga-
+tion.  in  this  study,  we  quantitatively  evaluated  the
+extent and time course of neuronal death with casp-3
+immunohistochemistry and fj-b labelling. in parallel,
+we used also nissl-staining (fig. 2a, e, f, g) to qualita-
+tively  assess  the reduction  of the  granule cell  popula-
+tion and calb-immunohistochemistry (fig. 2b, c, h–m)
+to monitor pc loss. in wild types, the normal postnatal
+development of the cerebellum was virtually complete
+by  the  end  of  the  second  postnatal  week  (fig. 2a,  b).
+the wrst signs of degeneration in lc/+ mutants, such as
+axonal swellings and torpedoes in pc-wbres, appeared
+at  around  p8  (not  shown  here  at  this  age,  but  see
+fig. 2 k–m,  [12]).  even  at  p14,  the  cell  loss  in  lc/+
+mutants is barely visible, because the gc layer appears
+normal  and  the  pc  layer  has  only  few  interruptions
+(compare  fig. 2a,  b  with  e,  h).  however,  even  at  p14
+there  must  be  some  cell  loss,  because  the  cross  sec-
+tional area of the lc/+ cerebellum is only about 45% of
+the area seen in the age matched wild type. a higher
+magniwcation revealed that almost all pc-axons of lc/
++ mutants show axonal swellings [12]. these swellings,
+never seen in age-matched wild types (compare fig. 2k
+with  c),  are  signs  of  impending  cell  death.  by  p22
+(fig. 2f, i, l), large proportions of gc and pc popula-
+tions in the cerebellar cortex have already disappeared.
+concomitant to the loss of pc-bodies, the majority of
+pc-wbres and axonal varicosities have also disappeared
+by  p22  (fig. 2l).  at  the  end  of  the  fourth  postnatal
+week (p28), only remnants of gcs, pcs (fig. 2g, j), and
+axonal swellings (fig. 2m) remain in the cerebellar cor-
+tex. although further progression of cell loss could be
+observed from p28 until around p52 (not shown), the
+small number of remaining neurones at p28 precludes
+a high rate of cell death during this period.
+chronology of caspase-3 activation in the cerebellum 
+of lc/+ mutants
+from  the  above  histologically  documented  neuronal
+loss,  we  expected  that  the  highest  rate  of  cell  death
+should  appear  during  the  third  and  fourth  postnatal
+acta neuropathol (2006) 112:691–702
+695
+fig. 2 nissl-staining  (a,  e–g),  calbindin  d-28k  immunohisto-
+chemistry (b, c, h–m), immunolabelling for cleaved caspase-3 (n–
+p),  and  fj-b  staining  (d,  q–v)  in  sagittal  sections  (50 ♯m)  from
+wild type brains (a–d) and lc/+ mutants (e–v) aged between p14
+and p28. genotype and age are always indicated. cytoarchitec-
+tonic boundaries are delineated by dots (d, q–s). nissl-staining in
+lc/+ mutants (e–g) documents a massive gc loss between p14
+and p28, when compared to a wild type (a) at p14. anti-calbindin
+d-28k  demonstrates  the  disappearance  of  the  majority  of  pcs
+from p14 to p28 in lc/+ mutants (h–j), compared to the wild type
+(b). higher magniwcation of calbindin d-28k labelled pcs (k–m)
+exhibits numerous swellings and torpedo-like structures (arrow-
+heads)  in pc-axons of lc/+ mutants, not usually present in the
+wild type (c). caspase-3 (n, o) is activated in pcs (arrows) and in
+gcs (arrowheads) of lc/+ mutants at p14 and p22, whereas only
+some gcs but no pcs are labelled at p28 (p). fj-b staining in wild
+types (d) resulted in the lack of intense xuorescence signals in any
+cerebellar cell type or structure. fj-b selectively highlights pcs
+(arrows) in lc/+ mutants (q–v), including their cell bodies, den-
+dritic trees and axonal swellings (arrowheads) in the white sub-
+stance. this is apparent at all ages examined (t–v). no gcs were
+stained with fj-b. gcl granule cell layer, ml molecular layer, p
+postnatal day, pc purkinje cell, ws white substance. the calibra-
+tion bars provide the scale as follows: 100 ♯m (d, n, o, p, q, r, s)
+1,000 ♯m (a, b, e, f, g, l, j) 50 ♯m (c, k, l, m) 30 ♯m (t, u, v). all im-
+ages were adjusted for brightness and contrast
+123
+696
+acta neuropathol (2006) 112:691–702
+weeks. this expectation was met by patterns of casp-3
+activation  observed 
+in  pcs  and  gcs  (fig. 2n–p;
+table 1).  casp-3  positive  pcs  and  gcs  were  present
+only  in  the  two  narrow  periods  ranging  from  p14  to
+p22,  and  from  p14  to  p28.  approximately  three  such
+casp-3  labelled  pcs  and  about  ten  gcs  per  section
+could  be  detected  at  p14  in  the  lc/+  cerebellum
+(table 1).  during  the  third  postnatal  week  (i.e.  from
+p14  to  p22),  the  number  of  casp-3  labelled  pcs
+increased slightly. it reached its maximum value of 4.2
+pcs per section at p22 (level of signiwcance: p = 0.19).
+in  contrast,  the  number  of  casp-3  labelled  gcs
+increased  about  20-fold  (p < 0.0005)  during  the  third
+postnatal week, with a maximum of 183 labelled gcs
+per section observed at p22. the most prominent rela-
+tive increase of labelled pcs occurred between p14 and
+p16, whereas the strongest increase in the percentage
+of casp-3 positive gcs was about 3 days later. in older
+lc/+  mice,  the  incidence  of  casp-3  positive  cells
+decreased  in  both  populations,  in  fact,  not  a  single
+immunolabelled pc and very few immunopositive gcs
+(p < 0.0005; fig. 2p, table 1) could be detected in any
+of the three animals at p28. in summary, the chronol-
+ogy  of  casp-3  activation  closely  parallels  the  time
+course of  degeneration  as determined  from  the  histo-
+logical observations described in the previous section.
+the  period  of  highest  prevalence  of  dying  pcs  and
+gcs  at  p14  to  p28  coincides  with  that  of  casp-3
+positive  pcs  and  gcs.  the  apparent  cell  death  rate
+peaks at around p22.
+fj-b labelling in the cerebellum of wild types 
+and lc/+ mutants
+in  all  sections  and  at  all  postnatal  ages  investigated
+(shown  only  for  p14  in  fig. 2d),  the  cerebella  of  wild
+types showed only very faint background labelling but no
+discernible xuorescence signal that could be attributed to
+a neuronal phenotype. apart from the neuronal staining
+table 1 mean number of anti-cleaved casp-3 and fj-b labelled
+purkinje (pc) and granule cells (gc) in the cerebellar cortex of
+lc/+ mutants counted at diverent postnatal ages
+casp-3 [n/sect.]
+pc
+3.0 (§2.6)
+3.7 (§3.1)
+4.1 (§3.6)
+4.2 (§3.9)
+0.0
+gc
+9.7 (§3.2)
+14.2 (§11.3)
+98.7 (§29.6)
+183.0 (§54.7)
+5.7 (§4.2)
+fj-b [n/sect.]
+pc
+3.2 (§3.1)
+7.8 (§5.6)
+16.3 (§11.6)
+24.0 (§16.9)
+6.8 (§5.0)
+gc
+0.0
+0.0
+0.0
+0.0
+0.0
+p14
+p16
+p19
+p22
+p28
+mean values are given as cell numbers per section. standard devi-
+ations are given in brackets, for levels of signiwcance see the text
+123
+in lc/+ mutants described below, fj-b also appeared to
+label meninges, red blood cells and the choroid plexus.
+this we observed in both mutant and wild type mice of
+any age and independent of the state of neurodegenera-
+tion, thus conwrming earlier reports [42, 43].
+in lc/+ mutants, fj-b labelling was restricted to pcs
+and  their  processes.  it  was  never  found  in  gcs  at  any
+age investigated (fig. 2q, r, s). this is in a sharp contrast
+to  casp-3  immunohistochemistry,  which  labelled  many
+gcs  in  the  progressively  thinning  gc-layer  within  the
+period from p14 to p28 (fig. 2e–g; table 1).
+fj-b  positive  pcs  became  wrst  visible  at  p14
+(fig. 2q) and their incidence was very similar to that of
+casp-3  labelled  pcs  (table 1).  the  number  of  fj-b
+stained  pcs  continuously  increased  between  p14  and
+p22  before  reaching  the  maximum  at  p22,  which
+exceeded  the  number  at  p14  more  than  tenfold
+(p < 0.0005;  table 1).  in  older  animals,  the  rate  of
+labelled pcs at p28 declined below seven pcs per sec-
+tion (p < 0.0005) (fig. 2s; table 1). this rate continued
+declining  until  not  a  single  positive  pc  could  be
+detected in the cerebellum at p32.
+chronological incidence and morphology of casp-3 
+and fj-b labelled pcs
+the number of fj-b stained pcs exceeded that of casp-
+3  labelled  pcs  at  any  postnatal  age  investigated.  this
+diverence in incidence has increased with age, reaching
+a  maximum  at  p22  where  the  ratio  of  casp-3  positive
+pcs  to fj-b  labelled pcs reached 1:8.5. the postnatal
+period in which pcs activated casp-3 appeared earlier
+and  was  shorter  than  the  period  characterized  by
+observable fj-b positive pcs. not a single casp-3 posi-
+tive pc was detected at p28, where less than 5% of pcs
+still remain in the cerebellum of lc/+ mutants [6, 18, 48,
+52,  53]  (fig. 2j).  however,  at  p28  the  number  of  fj-b
+stained pcs remained higher than that of casp-3 stained
+pcs at their peak of incidence around p22.
+fj-b  stained  pc  somata  and  dendrites  appeared
+swollen  and  these  pcs  frequently  showed  signs  of
+disintegration (fig. 2t–v, q–s), reminiscent of the mor-
+phology that is characteristic for an advanced phase of
+degeneration. in many cases, fragmented or detached
+pc  dendrites  and  somata  were  labelled  by  fj-b.  we
+identiwed these fragments as of pc origin on the basis
+of their locality and spatial arrangement in the molecu-
+lar layer (fig. 2q–s). signs of fragmentation were virtu-
+ally  absent  in  casp-3  labelled  pcs  (fig. 2n,  o),  which
+were  morphologically  similar  to  calb-positive  pcs
+(fig. 2k–m). in contrast to casp-3, which failed to rec-
+ognise axonal processes or varicosities of degenerating
+pcs,  fj-b  stained  not  only  pc-bodies  and  dendrites
+acta neuropathol (2006) 112:691–702
+697
+but  also  axons  together  with  their  characteristic
+swellings  (arrowheads  in  figs. 2q–s,  3).  transpassing
+pc-wbres  were  also  seen  in  the  gc-layer.  only  occa-
+sionally  did  these  wbres  show  one  or  more  of  the
+varicosities characteristic for lc/+ pcs.
+fj-b labelling in the projection pathways and targets 
+of purkinje cells
+fj-b stained degenerating pc-axons along their com-
+plete  route  from  the  cerebellar  cortex  through  the
+white substance (fig. 3a) to the deep cerebellar and the
+vestibular  nuclei.  this  staining  also  included  terminal
+arborizations  and  synaptic  boutons  in  the  pc  projec-
+tion targets of the deep cerebellar (fig. 3c) and vestib-
+ular  nuclei  (fig. 3e).  fj-b  positive  wbres  and  axonal
+swellings were most abundantly labelled in the cerebel-
+lar  white  substance  (fig. 3a)  and  the  deep  cerebellar
+nuclei (fig. 3c) but much less so in the vestibular nuclei
+(fig. 3e).  although  the  density  of  these  wbres  succes-
+sively decreased with the increasing extent of the pc-
+loss in the cerebellar cortex, some fj-b labelled axonal
+segments and varicosities were still present in the white
+substance and in the cerebellar projection targets long
+after  all  the  somata  in  the  pc-layer  had  disappeared.
+this observation indicates a protracted form of axonal
+degeneration in lc/+ mutants. the route, morphology
+and  chronological  appearance  of  fj-b  labelled  wbres
+and  swellings,  together  with  their  close  similarity  to
+calb-immunolabelled  pc-axons  on  adjacent  sections
+(fig. 3b,  d,  f),  strongly  suggest  that  these  wbres  origi-
+nate from degenerating pcs.
+cell loss, casp-3 activation and fj-b labelling 
+in the inferior olive of lc/+ mutants
+an atrophy of the io complex, characterised with calb
+labelling in age-matched wild types and lc/+ mutants,
+became apparent already at  p14 (compare fig. 4a, c).
+cell  death  of  io-neurones  proceeded  after  p14,  dra-
+matically reducing the  size of the io complex by p22
+(fig. 4b, d).
+however, activation of casp-3 was detected only in
+few io-neurones. their incidence never exceeded one
+fig. 3 fj-b labelling (left ver-
+tical column) and calbindin 
+d-28k immunohistochemis-
+try (right vertical column) in 
+the cerebellar white substance 
+(ws), the deep cerebellar nu-
+clei (dcn) and the vestibular 
+nuclei (vn) of lc/+ mutants 
+aged 22 days. the calibration 
+bar of 50 ♯m provides the 
+scale (a, b, c, d, e, f). the imag-
+es shown were adjusted for 
+brightness and contrast
+123
+acta neuropathol (2006) 112:691–702
+698
+fig. 4 parasagittal sections 
+(50 ♯m) of the inferior olivary 
+complex from wild types (a, b) 
+and lc/+ mutants (c–h), aged 
+14 (left vertical column) and 
+22 days (right vertical col-
+umn). immunolabelling with 
+anti-calbindin d-28k (a–d) 
+reveals a decrease in volume 
+and cellular density in the 
+inferior olive of lc/+ mutants 
+at p14 (c), when compared to 
+the wild type (a), and a further 
+reduction at p22 (b, d). repre-
+sentative sections labelled 
+with anti-cleaved caspase-3 
+(e, f) show very few immuno-
+positive cell bodies (arrows). 
+there is no fj-b staining of 
+adjacent sections (g, h). cali-
+bration bars are 400 ♯m (a, b, 
+c, d), and 150 ♯m (e, f, g, h). 
+all images were adjusted for 
+brightness and contrast
+immunopositive neurone per section at any age studied
+(fig. 4e, f). similarly, fj-b seemed to be even less par-
+tial for staining dying io-neurones in adjacent sections.
+in  fact,  fj-b  failed  to  label  any  single  io-neurone  in
+lc/+ mutants at any postnatal age between p6 and p67
+(representative sections are shown in fig. 4 for p14 and
+p22).
+casp-3 activation and fj-b labelling during 
+developmental cell loss
+to examine whether fj-b can label neurones that per-
+ish  as  a  result  of  normal  postnatal  development,  we
+attempted  to  label  adjacent  sections  taken  from  the
+brains  of  wild  types  and  lc/+  mutants  with  fj-b  and
+anti-cleaved-casp-3 at p6. neurones densely immuno-
+labelled by antibodies against cleaved casp-3 appeared
+not  only  in  the  cerebellum  (fig. 5d,  e)  but  were  also
+scattered  throughout  other  brain  areas  (fig. 5a–c)  of
+wild types as well as lc/+ mutants. fj-b, on the other
+hand,  failed  to  label  any  neurones  in  the  equivalent
+brain areas at p6 in any of the three wild types and lc/
++ mutants.
+discussion
+here  we  present  the  wrst  complete  time  course  of
+casp-3 and fj-b labelling in the lc/+ mutant from the
+beginning (at p6) to the cessation (at p67) of neurode-
+123
+generation in the cerebellum and inferior olive. this is
+also the wrst comparative study documenting the selec-
+tive ability of these two markers to label dying neuro-
+nes under neurodegenerative conditions with a known
+time  course  and  extent  of  degeneration  in  identiwed
+cell populations. moreover, we demonstrated the abil-
+ity of casp-3 and fj-b to label neurones that are sorted
+out  during  the  course  of  normal  development  in  the
+murine brain.
+the clear diverences among the patterns and chro-
+nologies of labelling obtained with casp-3 and fj-b in
+the  lc/+  mutant  over  several  new  insights  into  the
+diversity  and  relative  importance  of  the  diverent
+modes  of  cell  death  operative  in  the  cerebellum  and
+brainstem of this mutant as well as into the speciwcity
+of  the  markers  for  any  of  the  major  cell  death  path-
+ways.
+the narrow time window in which casp-3 labelling
+was  present  in  the  cerebellum,  the  scarcity  of
+labelled pcs and gcs and the almost total absence of
+labelled  io  neurones  indicates  that  this  protease  is
+not activated in all degenerating neurons in the lc/+
+mutant. these results agree with, as well as augment
+previous  observations,  that  during  the  phase  of  the
+most pronounced degeneration (p15 to p20) in lc/+
+mutants there is an increased expression of pro-cas-
+pase-3 in the minority (about 25%) of pcs and acti-
+vated  casp-3  is  detectable  in  even  fewer  pcs  [44].
+hence,  casp-3  activation  does  not  predominantly
+mediate the primary cell death in the pc population
+acta neuropathol (2006) 112:691–702
+699
+fig. 5 brain sections of 
+6-day-old wild types showing 
+various areas (a–e) immuno-
+labelled with anti-cleaved cas-
+pase-3. the developmental 
+cell loss can be observed in the 
+inferior colliculus (a), the gig-
+antocellular nucleus of the 
+brainstem (b), the parietal 
+cortex (c) and the cerebellum 
+(d, e). f shows no fj-b stain-
+ing of adjacent cerebellar sec-
+tion. calibration bars are 
+30 ♯m (a, b), 50 ♯m (c, d, e, f). 
+all images were adjusted for 
+brightness and contrast
+in lc/+ mutants. nor does it play any major role dur-
+ing  secondary  transsynaptic  degeneration  of  gcs
+and io neurones.
+this  low  incidence  of  casp-3  labelled  pcs  sharply
+contrasts  with  more  plentiful  pcs  labelled  with  fj-b.
+the ability of fj-b to label pcs also extended beyond
+the  p14  to  p22  period,  where  no  pcs  could  be  evec-
+tively stained with antibodies against activated casp-3.
+despite  the  apparent  multitude  of  fj-b-positive  pcs,
+in comparison to the evidence for the death of the com-
+plete pc population in lc/+ mutants, the stained cells
+may  not  represent  all  dying  pcs  at  that  period.  this
+possibility is also indicated by the diverent morphology
+of casp-3 and fj-b labelled pcs. the evidence for this
+apparent scarcity of labelled cells leads to the inevita-
+ble conclusion that neither casp-3 nor fj-b is able to
+highlight  all  pcs  undergoing  degeneration.  the  same
+conclusion can be made about the transsynaptic degen-
+eration of gcs and io neurones, because the number
+of casp-3 labelled gcs is very low in comparison to the
+degeneration of 90% of the complete gc population.
+furthermore, in the io, casp-3 labelled neurones were
+almost  completely  absent.  from  these  observations  it
+appears  that  the  diversity  of  death  mechanisms  that
+operate  in  the  lc/+  mutant  is  higher  than  hitherto
+assumed.
+the  death  of  pcs  was  recently  attributed  to  the
+operation  of  autophagic  mechanisms  in  lc/+  mutants
+[55]  because  of  the  linkage  of  the  mutated  glur♥2lc
+with beclin1 and the presence of autophagic vacuoles
+in lc/+ pcs in vivo [55]. however, pcs in lc/+ mutants
+are insulted at least twice, by activation of autophagy
+via the glur♥2lc [55] and by excitotoxicity, caused by
+the  gain-of-function  of  this  receptor  [58].  moreover,
+beclin1  has  also  been  suggested  as  a  potential  link
+between autophagy and apoptosis [32, 55], pointing to
+the possibility that autophagic and apoptotic pathways
+may be interrelated.
+in  synopsis  with  the  chronological  incidence  of
+casp-3 and fj-b labelled pcs, gcs and io neurones,
+the implication of the above observations is that multi-
+ple  cell-death  pathways  are  activated  in  parallel  and
+that a substantial number of pcs and gcs, and virtu-
+ally  all  io  neurones,  die  via  pathways  that  neither
+123
+700
+acta neuropathol (2006) 112:691–702
+necessitate  casp-3  activation  nor  provide  the  targets
+necessary for fj-b binding.
+contrary to prevailing assumptions that fj-b stains
+all degenerating neurones, irrespective of their death
+pathway [41, 42], only a small portion of all dying neu-
+rones could be labelled by fj-b in lc/+ mutants. the
+apparent  scarcity  of  fj-b  labelling  may  rexect  its
+selectivity for various modes of cell death rather than
+for a particular cell type because fj-b is a very evec-
+tive  label  for  dying  pcs  and  gcs  of  leaner  mutants
+[15]  and  3-acetylpyridine  treated  necrotic  io  neuro-
+nes  [28].  from  the  available  reports  it  appears  that
+fj-b is in certain cases unable to stain apoptotic neu-
+rones as documented in the rat spinal cord damaged
+by a moderate mechanical contusion [1, 10, 40] and in
+the  dorsal  root  ganglia  after  acrylamide  treatment
+[28] that is known to cause degeneration of peripheral
+nerve wbres [34].
+in  the  present  study,  the  apparent  lack  of  fj-b
+labelling in lc/+ gcs and io neurones, both consid-
+ered  to  die  via  apoptotic  pathways  (for  review  see
+[51]), and the subtotal labelling of the dying pc popu-
+lation,  indicate  that  the  selectivity  of  fj-b  appears
+higher  than  previously  assumed.  in  particular,  those
+apoptotic neurons that undergo cell death via casp-3
+activation seem to be spared from fj-b labelling. this
+assumption is further supported by extensive casp-3
+labelling and the absence of any fj-b labelled neu-
+rones  in  the  normal  murine  brain  at  p6,  where  the
+normal  developmental  cell  death  is  well  in  progress
+[36, 51, 54].
+the outstanding question is what type of molecular
+targets,  expressed  only  by  dying  neurones,  is  actually
+labelled by fj-b. apparently, the vast majority of stim-
+uli leading to fj-b positive degeneration entails neuro-
+toxicants, ischaemia, excitotoxicity, surgical trauma, or
+neuronal  overactivation  (for  references  see  introduc-
+tion). such noxious stimuli interfere with intracellular
+homeostasis and the eventual bioenergetic breakdown
+triggers apoptosis [50]. the loss of intracellular integ-
+rity and/or a homeostatic imbalance are consequences
+of lysosomal self-degradation in the course of hyperac-
+tivated autophagy [2, 35, 46] but are also observed dur-
+ing necrosis [35]. the  potential binding sites for  fj-b
+with  aynity  for  molecules  with  multiple  positive
+charge groups [42] are almost certainly cationic. con-
+ceivably,  the  intracellular  availability  of  such  binding
+sites increases as cell death or cell defence mechanisms
+produce  more  positively  charged  molecules.  other
+options such as a disruption of intracellular homeosta-
+sis possibly altering the intracellular ph or the redox-
+state  of  latent  targets  may  also  provide  the  substrate
+for fj-b binding.
+123
+however,  such  extreme  conditions  are  unnecessary
+for  activating  apoptotic  pathways  in  the  transsynaptic
+degeneration of gcs and io neurones in lc/+ mutants,
+where the withdrawal of retrograde trophic interactions
+in  otherwise “healthy” neurones is suycient to trigger
+the  event  [58].  the  subsequent  lysosomal  degradation
+in transsynaptic degeneration proceeds via phagocytosis
+rather than via autolysis [2, 24, 46]. hence, this mode of
+apoptosis, similar to the mechanism supposedly operat-
+ing during development [59], probably removes cells by
+phagocytosis  in  the  absence  of  any  major  homeostatic
+and/or biochemical imbalance.
+fj-b labelling in lc/+ pcs includes cell bodies, den-
+drites  and  axonal  arborizations,  terminating  in  the
+deep  cerebellar  and  vestibular  nuclei,  all  of  which
+exhibiting the typical swellings. this property of fj-b
+not  only  revealed  a  protracted  loss  of  innervation  in
+the pc projection targets in lc/+ brains but also indi-
+cates that cellular disintegration may represent a pre-
+requisite for the binding of this compound.
+the advanced morphological signs of degeneration,
+in particular an apparent cell fragmentation, that cha-
+racterise  fj-b  positive  lc/+  pcs  but  not  casp-3
+labelled pcs indicate that fj-b predominantly binds to
+non-apoptotic,  i.e.  necrotic  and  autophagic  neurons.
+this  diverence  in  the  morphology,  together  with  the
+much  higher  incidence  of  fj-b  labelled  pcs,  implies
+that the majority of fj-b labelled pcs undergoes casp-
+3 independent death. thus, fj-b appears to preferen-
+tially bind molecular targets in those pcs that are in a
+terminal stage of death and this particular death stage
+is apparently absent in the casp-3 dependent apoptotic
+pathway.
+in  conclusion,  only  a  minority  of  dying  pcs,  gcs
+and io neurones may undergo casp-3 mediated apop-
+tosis in lc/+ mutants. the majority of pcs, a fraction
+of  the  gc  population,  and  almost  all  io  neurones
+therefore  must  die  via  other  pathways.  this  casp-3
+independent  cell  death  can  be  highlighted  by  fj-b
+labelling in a portion of the pc population but not in
+the  transsynaptically-degenerating  gcs,  io  neurones
+or in those neurones that are sorted out during devel-
+opmental cell death. this diverential pattern of casp-3
+and fj-b labelling in lc/+ mutants shows that fj-b is a
+much more selective marker than previously assumed
+and suggests that cellular overload and disintegration,
+as observed in excitotoxicity, autophagy and necrosis,
+may provide important prerequisites for fj-b binding.
+moreover, the failure of both markers to reveal the full
+extent  of  degeneration  caused  by  the  lc/+  mutation
+points  out  the  heterogeneity  and  multitude  of  death
+pathways active in each of the degenerating cell popu-
+lations.
+acta neuropathol (2006) 112:691–702
+701
+acknowledgments we wish to thank ms h. wolynski for tech-
+nical assistance and dr l.c. schmued for stimulating discussions.
+this study was supported in part by the sonnenfeld-stiftung.
+references
+1. anderson  kj,  fugaccia  i,  schev  sw  (2003)  fluoro-jade  b
+stains quiescent and reactive astrocytes in the rodent spinal
+cord. j neurotrauma 20:1223–1231
+2. baehrecke  eh  (2005)  autophagy:  dual  roles  in  life  and
+death? nat rev mol cell biol 6:505–510
+3. batini c (1990) cerebellar localization and colocalization of
+gaba  and  calcium  binding  protein-d28k.  arch  ital  biol
+128:127–149
+4. bäurle j, vogten h, grüsser-cornehls u (1998) course and
+targets of the calbindin d-28k subpopulation of primary ves-
+tibular averents. j comp neurol 402:111–128
+5. blum d, hemming fj, galas mc,torch s, cuvelier l, schiv-
+mann sn, sadoul r. (2004) increased alix (apoptosis-linked
+gene-2 interacting protein x) immunoreactivity in the degen-
+erating striatum of rats chronically treated by 3-nitropropion-
+ic acid. neurosci lett 368:309–313
+6. caddy  kw,  biscoe  tj  (1979)  structural  and  quantitative
+studies on the normal c3h and lurcher mutant mouse. phi-
+los trans r soc lond b biol sci 287:167–201
+7. celio mr, baier w, schärer l, gregersen hj, de viragh pa,
+norman aw (1990) monoclonal antibodies directed against
+the calcium  binding protein calbindin d-28k. cell  calcium
+11:599–602
+8. choi dw (1995) calcium: still center-stage in hypoxic-ische-
+mic neuronal cell death. trends neurosci 18:58–60
+9. chu  t, hullinger  h,  schilling k, oberdick  j  (2000)  spatial
+and  temporal  changes  in  natural  and  target  deprivation-in-
+duced  cell  death  in  the  mouse  inferior  olive.  j  neurobiol
+43:18–30
+10. citron ba, arnold pm, sebastian c, qin f, malladi s, amee-
+nuddin s, landis me, festov bw (2000) rapid upregulation
+of caspase-3 in rat spinal cord after injury: mrna, protein,
+and cellular localization correlates with apoptotic cell death.
+exp neurol 166:213–226
+11. doughty ml, de jager pl, korsmeyer sj, heintz n (2000)
+neurodegeneration in lurcher mice occurs via multiple cell
+death pathways. j neurosci 20:3687–3694
+12. dumesnil-bousez n, sotelo c (1992) early development of
+the lurcher cerebellum: purkinje cell alterations and impair-
+ment of synaptogenesis. j neurocytol 21:506–529
+13. eisch  aj,  schmued  lc,  marshall  jf  (1998)  characterizing
+cortical neuron injury with fluoro-jade labeling after a neu-
+rotoxic regimen of methamphetamine. synapse 30:329–333
+14. eyüpoglu iy, savaskan ne, brauer au, nitsch r, heimrich
+b (2003) identiwcation of neuronal cell death in a model of
+degeneration in the hippocampus. brain res protoc 11:1–8
+15. frank  tc,  nunley  mc,  sons  hd,  ramon  r,  abbott  lc
+(2003)  fluoro-jade  identiwcation  of  cerebellar  granule  cell
+and purkinje cell death in the alpha1a calcium ion channel
+mutant mouse, leaner. neuroscience 118:667–680
+16. freyaldenhoven  te,  ali  sf,  schmued  lc  (1997)  systemic
+administration of mptp induces thalamic neuronal degener-
+ation in mice. brain res 759:9–17
+17. garcia-segura lm, baetens d, roth j, norman aw, orci l
+(1984)  immunohistochemical  mapping  of  calcium-binding
+protein immunoreactivity in the rat central nervous system.
+brain res 296:75–86
+18. garin n, hornung jp, escher g (2002) distribution of post-
+synaptic gaba(a) receptor aggregates in the deep cerebel-
+lar  nuclei  of  normal  and  mutant  mice.  j  comp  neurol
+447:210–217
+19. harkany  t,  grosche  j,  mulder  j,  horvath  km,  keijser  j,
+hortobagyi t, luiten pg, hartig w (2001) short-term conse-
+quences of n-methyl-d-aspartate excitotoxicity in rat magno-
+cellular  nucleus  basalis:  evects  on  in  vivo  labelling  of
+cholinergic neurons. neuroscience 108:611–627
+20. heckroth ja, eisenman lm (1991) olivary morphology and
+olivocerebellar topography in adult lurcher mutant mice. j
+comp neurol 312:641–651
+21. hollman m, heinemann s (1994) cloned glutamate recep-
+tors. annu rev neurosci 17:31–103
+22. hopkins  kj,  wang  g,  schmued  lc  (2000)  temporal  pro-
+gression of kainic acid induced neuronal and myelin degener-
+ation in the rat forebrain. brain res 864:69–80
+23. hu b, zheng f (2005) diverential evects on current kinetics
+by point mutations in the lurcher motif of nr1/nr2a recep-
+tors. j pharmacol exp ther 312:899–904
+24. kerr jf, wyllie ah, currie ar (1972) apoptosis: a basic bio-
+logical phenomenon with wide-ranging implications in tissue
+kinetics. br j cancer 26:239–257
+25. kim ht, waters k, stoica g, qiang w, liu n, scoweld vl,
+wong pk (2004) activation of endoplasmic reticulum stress
+signaling pathway is associated with neuronal degeneration in
+momulv-ts1-induced  spongiform  encephalomyelopathy.
+lab invest 84:816–827
+26. kokaia  z,  andsberg  g,  yan  q,  lindvall  o  (1998)  rapid
+alterations of bdnf protein levels in the rat brain after focal
+ischemia:  evidence  for  increased  synthesis  and  anterograde
+axonal transport. exp neurol 154:289–301
+27. kretsinger rh (1980) crystallographic studies of calmodulin
+and homologs. ann ny acad sci 356:14–19
+28. krinke  gj,  classen  w,  vidotto  n,  suter  e,  würmlin  ch
+(2001) detecting necrotic neurons with xuoro-jade stain. exp
+toxic pathol 53:365–372
+29. kuida k, zheng ts, na s, kuan c, yang d, karasuyama h,
+rakic p, flavell ra (1996) decreased apoptosis in the brain
+and  premature  lethality  in  cpp32-dewcient  mice.  nature
+384:368–372
+30. larsson e, lindvall o, kokaia z (2001) stereological assess-
+ment  of  vulnerability  of  immunocytochemically  identiwed
+striatal and hippocampal neurons after global cerebral ische-
+mia in rats. brain res 913:117–132
+31. legrand c, thomasset m, parkes co, clavel mc, rabie a
+(1983) calcium-binding protein in the developing rat cerebel-
+lum.  an 
+immunocytochemical  study.  cell  tissue  res
+233:389–402
+32. liang xh, kleeman lk, jiang hh, gordon g, goldman je,
+berry g, herman b, levine b (1998) protection against fatal
+sindbis virus encephalitis by beclin, a novel bcl-2-interacting
+protein. j virol 72:8586–8596
+33. liu hn, giasson bi, mushynski we, almazan g (2002) ampa
+receptor-mediated  toxicity  in  oligodendrocyte  progenitors
+involves  free  radical  generation  and  activation  of  jnk,
+calpain and caspase 3. j neurochem 82:398–409
+34. lopachin  rm,  balaban  cd,  ross  jf  (2003)  acrylamide
+axonopathy revisited. toxicol appl pharmacol 188:135–153
+35. lossi l, cantile c, tamagno i, merighi a (2005) apoptosis
+in the mammalian cns: lessons from animal models. vet j
+170:52–66
+36. lossi  l,  merighi  a  (2003)  in  vivo  cellular  and  molecular
+mechanisms  of neuronal apoptosis  in the  mammalian cns.
+prog neurobiol 69:287–312
+123
+702
+acta neuropathol (2006) 112:691–702
+37. lu w, tsirka se (2002) partial rescue of neural apoptosis in
+the lurcher mutant mouse through elimination of tissue plas-
+minogen activator. development 129:2043–2050
+38. pennypacker kr, eidizadeh s, kassed ca, o’callaghan jp,
+sanberg  pr,  willing  ae  (2000)  expression  of  fos-related
+antigen-2  in  rat  hippocampus  after  middle  cerebral  arterial
+occlusion. neurosci lett 289:1–4
+39. phillips rjs (1960) “lurcher,” a new gene in linkage group
+xi of the house mouse. j genet 57:35–42
+40. schev sw, rabchevsky ag, fugaccia i, main ja, lump je
+jr (2003) experimental modeling of spinal cord injury: char-
+acterization of a force-dewned injury device. j neurotrauma
+20:179–193
+41. schmued lc, albertson c, slikker w jr (1997) fluoro-jade: a
+novel xuorochrome for the sensitive and reliable histochemical
+localization of neuronal degeneration. brain res 751:37–46
+42. schmued lc, hopkins kj (2000) fluoro-jade b: a high ayn-
+ity xuorescent marker for the localization of neuronal degen-
+eration. brain res 874:123–130
+43. schmued lc, stowers cc, scallet ac, xu l (2005) fluoro-
+jade c results in ultra high resolution and contrast labeling of
+degenerating neurons. brain res 1035:24–31
+44. selimi  f,  doughty  m,  delhaye-bouchaud  n,  mariani  j
+(2000a) target-related and intrinsic neuronal death in lurch-
+er mutant mice are both mediated by caspase-3 activation. j
+neurosci 20:992–1000
+45. selimi f, vogel mw, mariani j (2000b) bax inactivation in
+lurcher mutants rescues cerebellar granule cells but not pur-
+kinje  cells  or  inferior  olivary  neurons.  j  neurosci  20:5339–
+5345
+46. shintani t, klionsky dj (2004) autophagy in health and dis-
+ease: a double-edged sword. science 306:990–995
+47. sternberger la, hardy ph jr, cuculis jj, meyer hg (1970)
+the  unlabeled  antibody  enzyme  method  of  immunohisto-
+chemistry:  preparation  and  properties  of  soluble  antigen-
+antibody  complex  (horseradish  peroxidase-antihorseradish
+peroxidase) and its use in identiwcation of spirochetes. j his-
+tochem cytochem 18:315–333
+48. swisher da, wilson db (1977) cerebellar histogenesis in the
+lurcher (lc) mutant mouse. j comp neurol 173:205–218
+49. thornberry na, rosen a, nicholson dw (1997) control of
+apoptosis by proteases. adv pharmacol 41:155–177
+50. toninello a, salvi m, mondovi b (2004) interaction of bio-
+logically active amines with mitochondria and their role in the
+mitochondrial-mediated  pathway  of  apoptosis.  curr  med
+chem 11:2349–2374
+51. vogel mw (2002) cell death, bcl-2, bax, and the cerebellum.
+cerebellum 1:277–287
+52. wetts r, herrup k (1982a) interaction of granule, purkinje
+and  inferior  olivary  neurons  in  lurcher  chimaeric  mice.  i.
+qualitative studies. j embryol exp morphol 68:87–98
+53. wetts r, herrup k (1982b) interaction of granule, purkinje
+and  inferior  olivary  neurons  in  lurcher  chimeric  mice.  ii.
+granule cell death. brain res 250:358–362
+54. wood ka, dipasquale b, youle rj (1993) in situ labeling of
+granule cells for apoptosis-associated dna fragmentation re-
+veals diverent mechanisms of cell loss in developing cerebel-
+lum. neuron 11:621–632
+55. yue z, horton a, bravin m, dejager pl, selimi f, heintz n
+(2002) a novel protein complex linking the delta 2 glutamate
+receptor and autophagy: implications for neurodegeneration
+in lurcher mice. neuron 35:921–933
+56. zanjani  hs,  rondi-reig  l,  vogel  mw,  martinou  jc,  del-
+haye-bouchaud n, mariani j (1998) overexpression of a hu-
+bcl-2 gene in lurcher mutant mice delays purkinje cell death.
+c r acad sci iii 321:633–640
+57. zanjani hs, vogel mw, martinou jc, delhaye-bouchaud n,
+mariani  j  (1998)  postnatal  expression  of  hu-bcl-2  gene  in
+lurcher  mutant  mice  fails  to  rescue  purkinje  cells  but  pro-
+tects inferior olivary neurons from target-related cell death. j
+neurosci 18:319–327
+58. zuo j, de jager pl, takahashi ka, jiang w, linden dj, hei-
+ntz n (1997) neurodegeneration in lurcher mice caused by
+mutation in delta2 glutamate receptor gene. nature 388:769–
+773
+59. zweifel  ls,  kuruvilla  r,  ginty  dd  (2005)  functions  and
+mechanisms of retrograde neurotrophin signalling. nat rev
+neurosci 6:615–625
+123

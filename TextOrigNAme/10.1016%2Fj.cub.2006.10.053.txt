@@ -1,0 +1,1125 @@
+current biology 17, 1–11, january 9, 2007 ª2007 elsevier ltd all rights reserved doi 10.1016/j.cub.2006.10.053
+article
+direct induction of autophagy
+by atg1 inhibits cell growth
+and induces apoptotic cell death
+ryan c. scott,1 ga´ bor juha´ sz,1
+and thomas p. neufeld1,*
+1 department of genetics,
+cell biology, and development
+university of minnesota
+minneapolis, minnesota 55455
+summary
+background: to survive starvation and other forms of
+stress, eukaryotic cells undergo a lysosomal process
+of cytoplasmic degradation known as autophagy. au-
+tophagy has been implicated in a number of cellular
+and developmental processes,
+including cell-growth
+control and programmed cell death. however, direct ev-
+idence of a causal role for autophagy in these processes
+is lacking, resulting in part from the pleiotropic effects
+of signaling molecules such as tor that regulate auto-
+phagy. here, we circumvent this difﬁculty by directly
+manipulating autophagy rates in drosophila through
+the autophagy-speciﬁc protein kinase atg1.
+results: we ﬁnd that overexpression of atg1 is sufﬁcient
+to induce high levels of autophagy, the ﬁrst such demon-
+stration among wild-type atg proteins. in contrast to
+ﬁndings in yeast, induction of autophagy by atg1 is de-
+pendent on its kinase activity. we ﬁnd that cells with
+high levels of atg1-induced autophagy are rapidly elimi-
+nated, demonstrating that autophagy is capable of in-
+ducing cell death. however, this cell death is caspase
+dependent and displays dna fragmentation, suggesting
+that autophagy represents an alternative induction of ap-
+optosis, rather than a distinct form of cell death. in addi-
+tion, we demonstrate that atg1-induced autophagy
+strongly inhibits cell growth and that atg1 mutant cells
+have a relative growth advantage under conditions of
+reduced tor signaling. finally, we show that atg1 ex-
+pression results in negative feedback on the activity of
+tor itself.
+conclusions: our results reveal a central role for atg1 in
+mounting a coordinated autophagic response and dem-
+onstrate that autophagy has the capacity to induce cell
+death. furthermore, this work identiﬁes autophagy as
+a critical mechanism by which inhibition of tor signal-
+ing leads to reduced cell growth.
+introduction
+under starvation conditions, eukaryotic cells recover nu-
+trients via autophagy, a lysosome-mediated process of
+bulk cytoplasmic degradation. through autophagy, long-
+lived proteins, organelles, and other components of the
+cytoplasm are nonselectively engulfed within special-
+ized double-membraned vesicles known as autophago-
+somes. subsequent fusion of the outer autophagosomal
+*correspondence: neufeld@ahc.umn.edu
+membrane with the lysosome results in a structure
+known as the autolysosome, in which the inner mem-
+brane and its cytoplasmic cargo are degraded. break-
+down products released from the autolysosome supply
+the cell with an internal source of nutrients that can sup-
+port essential metabolic processes during starvation [1].
+approximately 20 atg (autophagy-related) genes spe-
+ciﬁcally required for autophagy have been discovered
+in saccharomyces cerevisiae [2–4], and many of these
+genes have functional homologs in metazoans [1, 5].
+in addition to survival of starvation, autophagy has
+been implicated in many aspects of health and develop-
+ment, including aging, programmed cell death, patho-
+genic infection, stress responses, neurodegenerative
+and muscle disorders, cellular remodeling, cancer, and
+cell growth [1, 6]. as in many of these processes, evi-
+dence for a role of autophagy in cell-growth control is
+largely correlative. autophagy is promoted by several
+tumor suppressor genes including pten, tsc1 and 2,
+and beclin 1, and it is inhibited by growth-promoting
+pathways such as type i pi3k and target of rapamycin
+(tor) signaling [5, 7–10]. a variety of conditions that
+stimulate cell growth, such as growth factor addition,
+partial hepatectomy, and refeeding after starvation,
+also inhibit autophagy, while growth-suppressive sig-
+nals, such as contact inhibition and substrate detach-
+ment, induce autophagy [11]. together, these correlative
+ﬁndings are consistent with a model in which the cata-
+bolic effects of autophagy act as a brake on cell growth
+during development. however, this issue is complicated
+by the pleiotropic nature of the signaling pathways that
+regulate autophagy. for example, in addition to inhibit-
+ing autophagy, the tor pathway controls cell metabo-
+lism and biosynthesis by promoting ribosome biogene-
+sis, protein synthesis, and nutrient uptake [12]. the
+relevant contribution of each of these downstream effec-
+tor pathways to net cell growth is poorly understood.
+autophagy is also known to be involved in pro-
+grammed cell death and distinguishes type ii (autopha-
+gic) from type i (apoptotic) cell death. autophagic cell
+death is characterized by an abundance of autophago-
+somes and autolysosomes in the dying cell and differs
+from apoptotic cell death in that dying cells are degraded
+by their own lysosomal enzymes, rather than by phago-
+cytosis [13]. it has been difﬁcult, however, to establish
+whether autophagy plays a causal role in type ii cell
+death or represents a failed attempt at cell survival in
+cells undergoing programmed cell death. death signals
+often induce features of both apoptosis and autophagy,
+and mutations that disrupt autophagy have been shown
+to suppress cell death in some cases [14–16] and hasten
+it in others [2, 17]. thus, as in the case for cell growth,
+much of the support for a direct role for autophagy in
+cell death rests on correlative evidence.
+one approach to addressing the potential role of au-
+tophagy in functions such as cell death and growth
+would be to induce autophagy directly, independent of
+the signaling pathways that normally control it. in yeast,
+current biology
+multiple signaling pathways, including tor, ampk, and
+ras/pka, converge on the ser-thr kinase atg1 to regu-
+late autophagy [18–20]. in addition, atg1 interacts with
+multiple components of
+the autophagic machinery,
+through direct association, through phosphorylation,
+and/or through effects on intracellular localization [18,
+21, 22]. thus, atg1 may represent a nodal point for con-
+trolling multiple steps in the autophagic process in
+response to various inductive cues.
+interestingly, the role of atg1 kinase activity in yeast is
+the subject of some debate, and studies from different
+groups that used atp analog-sensitive and kinase-
+defective atg1 mutants have reached conﬂicting conclu-
+sions. one study reported that atg1 kinase activity is
+required for the autophagy-related biosynthetic cyto-
+plasm to vacuole targeting (cvt) pathway but not for au-
+tophagy, and concluded that atg1 plays a structural role
+in autophagy [23]. however, other studies with similar
+reagents found a requirement for atg1 kinase activity in
+both cvt and autophagy [18, 24].
+we have previously shown that the drosophila mela-
+nogaster homolog of atg1 is required for autophagy in
+the larval fat body, an organ analogous to the vertebrate
+liver with roles in nutrient storage and mobilization [5].
+here, we investigate the effects of drosophila atg1
+loss of function and overexpression on autophagy in-
+duction, cell-growth control, and cell death. our ﬁndings
+indicate that atg1 expression is sufﬁcient to effect a full
+autophagic response, resulting in a marked inhibition of
+cell growth and a rapid induction of apoptotic cell death.
+results
+overexpression of atg1 induces autophagy
+null mutation of atg1 results in a severe block of starva-
+tion-induced autophagy and leads to fully penetrant le-
+thality by the late pupal stage [5]. to test the effects of
+atg1 overexpression, we generated multiple transgenic
+lines expressing wild-type atg1 under gal4/uas con-
+trol. we also used an independently generated line
+(gs10797), in which uas regulatory sequences have
+been inserted upstream of the endogenous atg1 gene.
+in control experiments, weak expression of uas-atg1
+was sufﬁcient to partially rescue atg1 null mutants to
+adult viability (34% of expected progeny; see figure s1a
+in the supplemental data available online) and partially
+rescued the autophagy defect of these mutants, as mea-
+sured by lysotracker red staining, an effective marker
+of autolysosomes in fat body tissue [5, 25]. similar to
+wild-type larvae, atg1 mutants rescued by uas-atg1
+showed no lysotracker staining when fed normally (fig-
+ures s1b and s1g) but regained some capability to in-
+duce autophagy under starvation conditions (figures
+s1c and s1g).
+to address whether atg1 overexpression is sufﬁcient
+to induce autophagy in fed animals, we expressed high
+levels of transgenic atg1 via the heat shock-inducible
+hsp70-gal4 driver. ultrastructural analysis showed
+that heat shock alone does not increase the abundance
+of autophagic structures in fat body cells of normally fed
+larvae (figure 1a). in contrast, heat shock-induced over-
+expression of atg1 resulted in the formation of autopha-
+gosomes and autolysosomes throughout fat body cells
+of fed animals (figure 1b). these autophagic structures
+were indistinguishable from those generated by starva-
+tion [5], with readily identiﬁable cytoplasmic compo-
+nents in various stages of degradation. robust induc-
+tion of autophagy in response to heat shock-induced
+atg1 overexpression was also evident by lysotracker
+staining in live fat body tissue from fed larvae (compare
+figures 1c and 1d; figure 1i). punctate lysotracker
+staining was also observed in response to constitutive
+expression of atg1 throughout the fat body (see below),
+in fat body cell clones (figure s1e), and in eye and wing
+imaginal disc cells (data not shown). in addition, we oc-
+casionally observed localization of autolysosomes to
+the perinuclear region by tem and lysotracker staining
+(figures s1e and s3g and data not shown). this is con-
+sistent with recent observations that mammalian atg9,
+a potential marker of the membrane source of autopha-
+gosomes, is recruited from the perinuclear trans-golgi
+network in response to starvation in an atg1-dependent
+manner [26]. accumulation of atg1-induced autolyso-
+somes in the perinuclear region may therefore represent
+an early site of autolysosome formation.
+to determine whether autophagy induced by atg1
+overexpression utilizes the same molecular compo-
+nents as starvation-induced autophagy, we ﬁrst exam-
+ined the localization of gfp-atg8a and gfp-atg8b, spe-
+ciﬁc markers of the autophagosomal membrane [5, 27,
+28]. as previously described, gfp-atg8b was distrib-
+uted uniformly in control fat body cells from fed animals
+(figure 1e). in contrast, heat shock-induced overexpres-
+sion of atg1 resulted in redistribution of gfp-atg8b to a
+punctate pattern (figure 1f), similar to the effects of
+starvation [5]. in costaining experiments, gfp-atg8-la-
+beled punctae were often observed adjacent to or over-
+lapping with lysotracker-positive spots (figure 1g), as
+previously observed in starved wild-type animals [5]. ex-
+pression of atg1 in the developing retinal cells behind
+the morphogenetic furrow of the eye imaginal disc with
+gmr-gal4 also resulted in punctate localization of
+gfp-atg8a in normally fed animals, as compared to
+control cells ahead of the furrow (figure s2c). interest-
+ingly, atg1 overexpression also led to a marked increase
+in abundance of gfp-atg8a and gfp-atg8b in both eye
+and wing imaginal discs. in these experiments, atg1 was
+overexpressed in the posterior region of eye or wing
+discs with gmr-gal4 or en-gal4, respectively, caus-
+ing increased levels of hsp70-driven gfp-atg8 relative
+to the anterior regions of these discs (compare figures
+s2a and s2b, and data not shown). an increase in
+gfp-atg8b levels was also observed in atg1-overex-
+pressing eye and wing discs by immunoblot analysis
+(figure s2e and data not shown). gfp-atg8 expression
+is regulated by heterologous promoter and utr se-
+quences in these lines [5], and atg1 overexpression
+did not affect the abundance of gfp alone nor of a con-
+trol gfp fusion (data not shown), so we conclude that
+atg1 has a posttranslational effect on gfp-atg8 levels,
+perhaps through stabilization of gfp-atg8 protein.
+thus, atg8 levels are increased under autophagy-induc-
+ing conditions, both transcriptionally [27, 29] (g.j., l.g.
+puska´ s, o. komonyi, b. e´ rdi, p. maro´ y, t.p.n., and m.
+sass, unpublished data) and posttranscriptionally.
+to further explore the requirement for known compo-
+nents of the autophagic machinery, we tested whether
+mutations in other atg genes affect the ability of atg1
+atg1-induced autophagy inhibits growth and survival
+figure 1. overexpression of atg1 induces autophagy
+(a–g) induction of autophagy by heat shock-induced overexpres-
+sion of atg1. tem showing no induction of autophagy in the fat
+body of normally fed animals by heat shock alone (a), whereas
+heat shock-induced overexpression of atg1 (b) results in the accu-
+mulation of autolysosomes (arrows) and autophagosomes (arrow-
+heads). heat shock alone shows no lysotracker staining (c), while
+heat shock-induced atg1 overexpression results in punctate lyso-
+tracker staining (red) (d). induction of atg1 overexpression leads
+to a redistribution of gfp-atg8b (green) from uniform staining (e)
+to a punctate pattern (f). many gfp-atg8-positive punctae are
+found either adjacent to (small arrowheads) or overlapping with
+(large arrowheads) lysotracker-labeled structures (g). n indicates
+the nucleus in (a); l indicates a lipid droplet in (a) and (b).
+(h) mutation of atg8a disrupts atg1-induced lysotracker staining.
+(i) quantitation of lysotracker staining. single asterisk indicates a
+signiﬁcant difference from wild-type: p < 0.0001; double asterisk
+overexpression to induce autophagy. we identiﬁed a p
+element insertion in the coding region of atg8a and gen-
+erated a deletion in the atg3 locus, previously shown to
+be required for autophagy in drosophila through rnai
+analysis [30]. each of these mutations caused a signiﬁ-
+cant decrease in starvation-induced autophagy (com-
+pare figure s3a to s3b and s3e; figure s3k), which
+could be rescued by transgenic expression of the re-
+spective wild-type gene (figure s3c, s3f, and s3k)
+and by excision of the p insertion from atg8a (figures
+s3d and s3k). importantly, each mutation also caused
+a signiﬁcant inhibition of atg1-induced autophagy (fig-
+ures 1h and 1i; figures s3g, s3h, and s3k). together,
+these results indicate that atg1 is both necessary and
+sufﬁcient to induce a complete autophagic response
+and that atg1-induced autophagy engages at least
+some of the same molecular machinery as starvation-in-
+duced autophagy.
+atg1-dependent autophagy restricts cell growth
+inhibition of autophagy is strongly correlated with the
+cell-growth effects of tor signaling, suggesting that
+as a catabolic process, autophagy may inhibit growth.
+to determine whether the increased level of autophagy
+in tor pathway mutants contributes to their reduced
+rate of cell growth, we ﬁrst examined the growth proper-
+ties of mitotic clones in the wing imaginal disc. we found
+that clones of cells with a null mutation in pdk1, a posi-
+tive regulator of the tor pathway [12], were reduced in
+size by 78% as compared with their wild-type twin spot
+(figures 2a and 2e). clones doubly mutant for pdk1 and
+atg1 showed no signiﬁcant difference in size from pdk1
+mutant clones (figures 2b and 2e), indicating that while
+loss of pdk1 induces autophagy [5], this does not con-
+tribute signiﬁcantly to the reduced growth rate of pdk1
+null mutant cells. this result is consistent with our previ-
+ous ﬁnding that rnai-mediated inhibition of autophagy
+does not alleviate the growth defect of tor null mutant
+cells [5].
+we reasoned that the severe block to tor signaling
+in pdk1 and tor null mutants may lead to metabolic
+changes that mask the potential growth effects of au-
+tophagy. for example, the reduction of nutrient import
+in tor null mutant cells [31] may engender a requirement
+for nutrients generated by autophagy, and thus the po-
+tential growth-suppressive effects of autophagy may
+be balanced or outweighed by its metabolic beneﬁts un-
+der these severe conditions. to test the potential growth
+effects of autophagy under conditions of more moder-
+ately reduced tor signaling, we treated larvae with
+a concentration of rapamycin that causes a 2-fold delay
+in larval development. in normally fed animals, the size
+of atg1 null mutant clones did not differ signiﬁcantly
+from their twin spot controls (figures 2c and 2e). in
+indicates a signiﬁcant difference from atg1 overexpression alone:
+p = 0.0001. error bars indicate standard deviation (sd).
+scale bars represent 1 mm in (a) and (b) and 10 mm in (c)–(h). nuclei
+are marked in blue in (c)–(h).
+genotypes: (a, c) hsp70-gal4/+. (b, d) hsp70-gal4/uas-atg19.
+(e) hsp70-gfp-atg8b6b/hsp70-gfp-atg8b6b; hsp70-gal4/tm6b.
+(f, g) hsp70-gfp-atg8b6b/hsp70-gfp-atg8b6b; hsp70-gal4/
+uas-atg16b. (h) atg8akg07569/y; hsp70-gal4/uas-atg16b. (i) as
+in (c), (d), and (h).
+current biology
+figure 2. atg1 expression leads to reduced cell size
+(a–d) growth effects of atg1 loss of function in wing disc clones.
+pdk1 mutant clones (loss of gfp) display decreased clone size rel-
+ative to the wild-type twin spot (increased gfp) (a). simultaneous
+loss of atg1 (b) fails to rescue this reduction in size. atg1 mutant
+clones do not display a growth phenotype when grown on normal
+medium (c), but growth on medium containing 2 mm rapamycin
+gives the atg1 mutant clones a relative growth advantage over
+wild-type (d).
+(e) quantitation of relative clone size in wing discs. mean clone size
+normalized to wild-type twin spot within the same image. dotted line
+indicates a 1:1 ratio (no growth phenotype). double dagger indicates
+no signiﬁcant difference from pdk1 mutant clones: p = 0.44; single
+dagger indicates an insigniﬁcant difference from wild-type twin
+spot: p = 0.28; asterisk indicates a signiﬁcant difference from wild-
+type twin spot: p = 0.016. n indicates clone number.
+(f–h) cell size effects of atg1 in the fat body. clonal loss of atg1
+function (loss of gfp, arrowheads) has no effect on fat body cell
+size in normally fed animals (f), but results in a relative growth ad-
+vantage in animals starved of all nutrients for 45 hr (g). clonal over-
+expression of atg1 (gfp-positive cells, arrowhead) (h) results in a
+marked reduction in cell size. actin cytoskeleton (red) is labeled
+with phalloidin (f and g) or a-spectrin antibody (h); nuclei are
+marked in blue. dna channel in (h) shows two representative confo-
+cal sections. insets show phalloidin (or a-spectrin) channels of
+respective images.
+(i) quantitation of relative cell size in fat body. mean cell size normal-
+ized to wild-type (homozygous and heterozygous) cells within the
+same image. wild-type column includes cells from both fed and
+starved animals. dagger indicates no signiﬁcant difference from
+wild-type: p = 0.54; asterisk indicates a signiﬁcant difference from
+wild-type: p < 0.0001. n indicates cell number.
+scale bars represent 10 mm. error bars indicate sd.
+genotypes: (a) hsﬂp/+; pdk15 frt80b/ubi-gfp frt80b. (b) hsﬂp/+;
+pdk15 atg1d3d frt80b/ubi-gfp frt80b. (c, d) hsﬂp/+; atg1d3d
+frt80b/ubi-gfp frt80b.
+(f, g) hsﬂp/+;
+(e) as in (a)–(d).
+contrast, addition of rapamycin to the media gave atg1
+mutant clones a signiﬁcant growth advantage over
+wild-type cells, resulting in a 59% larger average clone
+size compared to the wild-type twin spot (figures 2d
+and 2e).
+to test the growth functions of autophagy under more
+physiological conditions, we examined the effects of
+starvation on the relative size of wild-type and atg1 mu-
+tant cells in the larval fat body. we found that, as in wing
+discs, atg1 mutant cells did not show a signiﬁcant differ-
+ence in size relative to neighboring wild-type cells in nor-
+mally fed animals (figures 2f and 2i), consistent with
+the low rates of autophagy observed under these condi-
+tions. prolonged starvation, however, gave atg1 mutant
+cells a 2.3-fold growth advantage over their wild-type
+neighbors (figures 2g and 2i). similar results were ob-
+served in cells expressing an rnai construct targeting
+atg5 (data not shown). we conclude that under physio-
+logical conditions that reduce tor signaling, induction
+of autophagy is partially responsible for the observed re-
+duced rates of cell growth. these results are consistent
+with recent ﬁndings that autophagy is required for star-
+vation-induced size reduction of mouse embryonic ﬁ-
+broblasts, via a tetracycline-regulated atg5 expression
+system [32].
+as a complement to these genetic loss-of-function
+studies, we tested the growth effects of autophagy in-
+duced by uas-atg1 expression. clonal overexpression
+of atg1 caused a striking inhibition of fat body cell
+growth, resulting in a 94% decrease in cell area (figures
+2h and 2i). a corresponding decrease in nuclear size and
+dna content was also observed in atg1-expressing cells
+(figure 2h; see also below), indicating that high levels of
+autophagy inhibit the endoreplicative cell cycle of these
+cells. constitutive expression of atg1 throughout the fat
+body, or in the eye or wing imaginal disc, also resulted in
+a marked reduction in size of these organs (see below,
+figure s2g, and data not shown). together, these results
+indicate that autophagy is necessary for normal growth
+inhibition in response to reduced tor signaling and is
+sufﬁcient to inhibit cell growth independent of upstream
+signaling.
+high levels of autophagy lead
+to apoptotic cell death
+autophagy and cell death are correlated in a number of
+contexts, but the causal relationships are unclear. to
+test the potential role of autophagy in promoting cell
+death, we induced clones of gfp-marked wing imaginal
+disc cells overexpressing atg1 and assayed the per-
+centage of gfp-positive cells at successive intervals af-
+ter induction. although this approach does not monitor
+individual cells in real time, it allowed us to make strong
+inferences about their survival by assaying large num-
+bers of cells across multiple time points. we found
+that, in contrast to control cells expressing gfp alone,
+most cells overexpressing atg1 were eliminated within
+36 hr of induction (figures 3a–3c). reduced cell num-
+bers were noticeable by 12 hr after induction, the earliest
+time point at which we could identify gfp expression.
+cg-gal4/+; atg1d3d frt80b/uas-2x egfp frt80b. (h) hsﬂp/+;
+act>cd2>gal4 uas-gfp/uas-atg16b. (i) as in (f)–(h).
+atg1-induced autophagy inhibits growth and survival
+figure 3. overexpression of atg1 leads to cell elimination
+(a–c) elimination of atg1-overexpressing clones in the wing disc.
+wild-type controls show consistent numbers of gfp-positive cells
+at 12, 24, 36, 48, and 60 hr after induction by heat shock (a). cells
+overexpressing atg1 (gfp-positive cells) are abundant 12 hr after
+heat shock, but are eliminated over time (b). mean numbers of
+gfp-positive cells, expressed as a percentage of total cells (c). as-
+terisk indicates a signiﬁcant difference from the wild-type control:
+p < 0.0001.
+(d) mutation of atg8a delays elimination of atg1-overexpressing
+cells. mean numbers of gfp-positive cells are expressed as a per-
+centage of total cells. double asterisk indicates a signiﬁcant differ-
+ence from atg1 overexpression alone: p < 0.03.
+scale bars represent 10 mm. nuclei are marked in blue. error bars
+indicate sd.
+genotypes: (a) hsﬂp/+; act>cd2>gal4 uas-gfp/+. (b) hsﬂp/+;
+act>cd2>gal4 uas-gfp/uas-atg16b. (c) as in (a) and (b). (d)
+atg1: hsﬂp/y; tub>cd2>gal4/+; uas-atg16b/+. atg1 atg8a-: hsﬂp
+atg8akg07569/y; tub>cd2>gal4/+; uas-atg16b/+.
+elimination of atg1-overexpressing cells was signiﬁ-
+cantly reduced in an atg8a mutant background (fig-
+ure 3d), suggesting that cell death resulted directly
+from increased autophagy.
+cells undergoing autophagic cell death have been ob-
+served to display signs of apoptosis [33, 34]. we there-
+fore examined atg1-overexpressing cells for caspase
+activity and dna fragmentation, hallmark features of
+apoptotic cells. we found that 20% of wing disc cells
+clonally overexpressing atg1 displayed caspase activa-
+tion, as shown by active caspase-3 antibody staining
+(figure 4a). similarly, terminal uridine nick end labeling
+(tunel) revealed dna fragmentation in 22% of atg1-
+overexpressing cells (figure 4b). consistent with these
+observations, coexpression of the caspase inhibitor
+p35 was sufﬁcient to delay the death of atg1-overex-
+pressing cells, although these cells were also eventually
+eliminated (figure 4c). similar effects on caspase-3 ac-
+tivation and tunel staining were observed in fat body
+cells clonally overexpressing atg1 (figures 4d and 4e).
+we also observed that atg1 overexpression resulted in
+reduced or absent ﬁlamentous actin staining at the pe-
+riphery of these cells and that they often became frag-
+mented and/or engulfed by neighboring wild-type cells
+(figures 4f and 4g).
+constitutive expression of atg1 throughout the fat
+body (see figure 5c) also resulted in substantial apopto-
+sis (13% positive for caspase activation, 17% for tunel;
+figure s3i), and this cell death was reduced by 94% in
+atg3 mutants (p < 0.0001; figure s3j). tunel and active
+caspase-3 staining resulting from clonal atg1 overex-
+pression were also reduced by 33% and 35%, respec-
+tively, in atg8a mutants, consistent with their partial
+reduction in atg1-induced lysotracker staining (see fig-
+ure 1h) and elimination (see figure 3d). these results
+indicate that the apoptosis observed in atg1-overex-
+pressing cells is due to high levels of autophagy.
+the reduced eye size resulting from atg1 overexpres-
+sion (compare figures s2f and s2g) also appears to be
+due in part to apoptosis, because coexpression of the
+caspase inhibitors diap1 or p35 resulted in a partial sup-
+pression of this phenotype (figure s2h and data not
+shown). finally, we found that atg1 overexpression me-
+diated by gmr-gal4 led to a decrease in adult viability
+and that this was suppressed by coexpression of p35 or
+diap1 (figure s2d).
+together, these results indicate that constitutive over-
+expression of atg1 leads to a form of cell death that is
+both caspase and autophagy dependent, with features
+typical of apoptosis, such as dna and cytoskeletal frag-
+mentation. we therefore conclude that, in addition to
+promoting cell survival, autophagy has the capacity to
+promote cell death when induced to high levels.
+atg1-dependent phenotypes are modulated
+by the tor pathway
+in yeast, suppression of autophagy by tor signaling is
+transduced to the core atg machinery in part through
+regulation of the assembly and activity of a multiprotein
+complex containing atg1, atg13, and atg17. under
+growth-promoting conditions, tor-dependent hyper-
+phosphorylation of atg13 reduces its afﬁnity for atg1,
+resulting in dissociation of atg13 from the complex
+and decreased kinase activity of atg1. upon tor inacti-
+vation, dephosphorylation of atg13 increases its afﬁnity
+for atg1, leading to increased atg1 kinase activity and
+induction of autophagy [18]. whether these aspects of
+atg1 regulation by tor signaling are conserved in
+higher eukaryotes is unclear, because homologs of
+atg13 or atg17 have not been identiﬁed in animals.
+to investigate the connection between tor and atg1
+in drosophila, we tested whether increased tor activity
+affected the ability of atg1 overexpression to induce au-
+tophagy. as described above, heat shock-driven over-
+expression of atg1 led to induction of autophagy in the
+fat body of normally fed larvae (figures 5a and 5e). how-
+ever, we found that in animals mutant for tsc2 (a nega-
+tive regulator of tor), induction of autophagy by heat
+current biology
+figure 4. atg1 overexpression induces apoptosis
+(a) wing discs display active caspase 3 staining (arrowheads) in
+20% (615%, p = 0.007) of cells overexpressing atg1 (gfp-positive
+cells).
+(b) wing discs show dna fragmentation in 22% (66%, p = 0.0002) of
+atg1-overexpressing cells (gfp-positive cells) by tunel staining
+(arrowheads).
+(c) coexpression of p35 reduces elimination of atg1-overexpressing
+cells. mean numbers of gfp-positive cells are expressed as a per-
+centage of total cells. double asterisk indicates a signiﬁcant differ-
+ence from atg1 overexpression alone: p < 0.020; dagger indicates
+no signiﬁcant difference from the wild-type control: p = 0.63.
+(d–g) fat body cells overexpressing atg1 die by apoptosis.
+(d) an atg1-overexpressing cell (arrowhead) staining for active cas-
+pase 3.
+(e) atg1-overexpressing cells (arrowheads) staining positive for
+tunel. tunel and dna channels show two representative confo-
+cal sections.
+shock-induced atg1 overexpression was signiﬁcantly
+reduced (figures 5b and 5e). similarly, induction of
+autophagy and inhibition of cell growth by constitutive
+expression of atg1 throughout the fat body (figure 5c)
+was strongly suppressed by coexpression of the small
+gtpase rheb, an upstream activator of tor signaling
+(figure 5d). overexpression of rheb also signiﬁcantly
+delayed the elimination of wing disc cells caused by
+atg1 overexpression (figure 5f). these results are con-
+sistent with the idea that tor signaling in drosophila
+may inhibit atg1 activity as in yeast, although they do
+not rule out parallel, opposing inputs to autophagy by
+atg1 and tor.
+atg1 negatively feeds back on tor signaling
+although studies in yeast indicate that atg1 is directly
+associated with multiple components of the autophagic
+machinery, the effects of atg1 overexpression on cell
+growth and autophagy in drosophila could in principle
+be indirect, for example through modulation of signaling
+pathways that regulate autophagy, such as pi3k and
+tor. to address this possibility, we examined the effect
+of atg1 overexpression on cellular and biochemical
+markers of pi3k and tor activity. the intracellular local-
+ization of the transcription factor foxo serves as an
+in vivo readout of pi3k activity, because it resides in the
+nucleus under conditions of low pi3k activity and reloc-
+alizes to the cytoplasm in response to pi3k-dependent
+phosphorylation by akt [35]. foxo itself has also been
+shown to induce autophagy (g.j., l.g. puska´ s, o. komo-
+nyi, b. e´ rdi, p. maro´ y, t.p.n., and m. sass, unpublished
+data). however, we found that foxo localization was
+unchanged by overexpression of atg1 in fat body cells
+(figure 6a), indicating that overexpression of atg1 does
+not
+induce autophagy by affecting pi3k signaling
+upstream of akt.
+as a measure of tor activity, we examined the effect
+of atg1 overexpression on s6k phosphorylation. tor
+speciﬁcally phosphorylates drosophila s6k at thr398,
+homologous to thr389 of s6k1 in mammals [12]. west-
+ern blot analysis showed that while total s6k levels in-
+creased slightly in fat body from larvae overexpressing
+atg1, phosphorylation of s6k at thr398 was strongly
+reduced (figure 6e). rheb overexpression increased
+the level of s6k phosphorylation as expected and re-
+stored s6k phosphorylation when co-overexpressed
+with atg1. these results suggest that atg1 overexpres-
+sion leads to a downregulation of tor activity. while
+this effect alone could, in theory, account for the effect
+of atg1 overexpression on autophagy and cell size, sev-
+eral observations suggest that this is not the case. tor
+mutant fat body cells show constitutive autophagy [5]
+(f) atg1-overexpressing cells with aberrant actin staining (large ar-
+rowhead) or that have fragmented and been absorbed into neigh-
+boring cells (small arrowheads).
+(g) a cell overexpressing atg1 (arrowhead) has lost most peripheral
+actin staining and has been completely engulfed by a neighboring
+fat body cell.
+scale bars represent 10 mm. nuclei are marked in blue. error bars
+indicate sd.
+genotypes: (a, b, d–g) hsﬂp/+; act>cd2>gal4 uas-gfp/uas-
+atg16b.
+(c) control: hsﬂp/+; act>cd2>gal4 uas-gfp/+. atg1:
+hsﬂp/+; act>cd2>gal4 uas-gfp/uas-atg16b. atg1 p35: hsﬂp/+;
+act>cd2>gal4 uas-gfp/uas-atg16b uas-p35.
+atg1-induced autophagy inhibits growth and survival
+figure 5. regulation of atg1 by tor signaling
+(a–d) atg1-induced autophagy is suppressed by activation of the
+tor pathway. heat shock-induced overexpression of atg1 (a) in-
+duces autophagy as shown by lysotracker staining (red), but muta-
+tion of tsc2 inhibits this induction (b). overexpression of rheb
+rescues atg1-overexpression phenotypes. overexpression of atg1
+throughout the fat body (c) results in variable reduction in cell size
+and induction of autophagy. simultaneous overexpression of rheb
+(d) rescues these effects.
+(e) quantitation of lysotracker staining. double asterisk indicates
+a signiﬁcant difference from atg1 overexpression alone: p = 0.0051.
+(f) coexpression of rheb delays elimination of atg1-overexpressing
+cells. mean numbers of gfp-positive cells are expressed as a per-
+centage of total cells. double asterisk indicates a signiﬁcant differ-
+ence from atg1 overexpression alone: p < 0.002.
+scale bars represent 10 mm. nuclei are marked in blue. error bars in-
+dicate sd.
+genotypes: (a) hsp70-gal4/uas-atg16b. (b) hsp70-gal4 gig192/
+uas-atg16b gig109.
+(d) cg-
+gal4/+; uas-atg1gs10797/uas-rhebep50.084-loxp. (e) as in (a) and
+(f) atg1: hsﬂp/+; act>cd2>gal4/uas-atg16b. atg1 rheb:
+(b).
+hsﬂp/+; act>cd2>gal4/uas-atg16b uas-rhebav4.
+(c) cg-gal4/+; uas-atg1gs10797/+.
+figure 6. feedback by atg1 on tor
+(a) atg1 overexpression (gfp-positive cell) does not cause foxo
+(red) to localize to the nucleus (arrowhead). inset shows foxo chan-
+nel.
+(b) tor null cells (loss of gfp, arrowheads) are 70% smaller than sur-
+rounding wild-type cells; p < 0.0001. inset shows phalloidin channel.
+(c and d) overexpression of atg1 in a tor mutant background. in tor
+null animals, cells overexpressing atg1 (gfp-positive cells) show in-
+creased lysotracker staining (c) and a 58% reduction in size (d); p =
+0.0003. dna channel in (d) shows three representative confocal sec-
+tions. inset in (c) shows lysotracker channel with clonal boundaries
+outlines in yellow. inset in (d) shows phalloidin channel; arrowheads
+indicate atg1-overexpressing cells.
+(e) western blot showing a decrease in s6k phosphorylation in fat
+body from larvae overexpressing atg1, but not from animals overex-
+pressing both atg1 and rheb.
+(f) inhibitory feedback by atg1.
+scale bars represent 10 mm. nuclei are marked in blue.
+genotypes: (a) hsﬂp/+; act>cd2>gal4 uas-gfp/uas-atg16b. (b)
+hsﬂp; tordp frt40a/uas-2x egfp frt40a fb-gal4. (c) hsﬂp;
+tordp/tordp; act>cd2>gal4 uas-gfp uas-atg1gs10797/+.
+(d)
+hsﬂp; tordp/tordp; act>cd2>gal4 uas-gfp/uas-atg16b. (e) con-
+trol: hsp70-gal4/+. atg1: hsp70-gal4/uas-atg16b. rheb: hsp70-
+gal4/uas-rhebep50.084-loxp. atg1 rheb: hsp70-gal4/uas-atg16b
+uas-rhebep50.084-loxp.
+and are reduced in size (figure 6b). however, we found
+that overexpression of atg1 in tor null mutant animals
+led to a further increase in autophagy (figure 6c) and
+a further decrease in cell size (figure 6d), indicating
+that these effects are largely independent of tor. more-
+over, the growth reduction of atg1-overexpressing cells
+is signiﬁcantly more severe than that of tor null mutant
+cells (94% versus 70%; p < 0.0001; compare figures
+2h and 6b), further indicating that the size reduction in
+atg1-expressing cells is at least partially tor indepen-
+dent. thus, downregulation of tor activity by atg1
+overexpression does not fully account for its effects on
+autophagy and cell size. rather, these data are best de-
+scribed by a model whereby atg1 overexpression nega-
+tively feeds back on tor (figure 6f), leading to a further
+activation of autophagy and reduced cell growth.
+the kinase domain of atg1 is essential for induction
+of autophagy
+as described above, it is unclear whether the kinase
+activity of atg1 is required for proper induction of au-
+tophagy in yeast. to address this issue, we generated
+current biology
+a kinase-negative mutant of drosophila atg1 (atg1k38q)
+through site-directed mutagenesis of lysine 38, in the
+atp binding site of the kinase domain. this residue is ho-
+mologous to lysine 54 of yeast atg1, which has been
+shown to be required for normal kinase activity [18].
+we found that expression of atg1k38q did not lead to
+increased autophagy in the fat body of normally fed an-
+imals (figure 7a), nor was it able to rescue the autoph-
+agy defect in atg1 null mutants (figures s1d and s1g).
+consistent with these results, clonal expression of
+atg1k38q in the wing imaginal disc did not result in cell
+elimination, caspase activation, or dna fragmentation
+(figure 7f and data not shown), unlike wild-type atg1.
+interestingly, we found that expression of atg1k38q
+was sufﬁcient to inhibit starvation- or rapamycin-in-
+duced autophagy when expressed in clones (figure 7b
+and figure s1f) or throughout the fat body (compare
+figures 7c and 7d; figure 7e), suggesting that kinase-
+defective atg1 interferes with the function of wild-type
+atg1, acting as a dominant-negative mutant. similarly,
+expression of atg1k38q in the eye partially rescued the
+lethality and reduced adult eye size caused by atg1
+overexpression, but had no effect on eye morphology
+when expressed alone (figures s2d, s2i, and s2j, re-
+spectively).
+expression of atg1k38q was not completely without
+effect, however. we observed that it leads to a partial re-
+duction in tor activity (figure 7g), as well as a modest
+decrease in cell size (see figures 7a and 7b). these ﬁnd-
+ings imply an as yet undetermined function of atg1 that
+does not rely on its kinase activity. indeed, the fact that
+atg1k38q was able to rescue a low percentage of atg1
+mutant ﬂies to adulthood (figure s1a)
+implies that
+atg1 has a kinase-independent function outside regula-
+tion of autophagy. we therefore conclude that while
+atg1 appears to have undetermined kinase-indepen-
+dent function, the kinase activity of atg1 is essential
+for its ability to promote autophagy in drosophila.
+discussion
+regulation of autophagy by atg1
+delivery of cytoplasmic components to the lysosome
+through autophagy involves multiple distinct steps in-
+cluding nucleation, expansion and closure of the auto-
+phagosome, and its subsequent fusion with the lyso-
+some. these membrane-trafﬁcking events require the
+recruitment and subsequent retrieval of a large number
+of autophagy-speciﬁc atg proteins, as well as general
+factors involved in vesicle trafﬁcking. given this com-
+plexity, the ﬁnding that overexpression of a single atg
+protein is sufﬁcient to accomplish all essential steps in
+this process is striking. autophagy occurs constitutively
+at a basal rate in most eukaryotic cells [6], so accelera-
+tion of a single rate-limiting step by overexpression of
+atg1 may be sufﬁcient to increase the overall rate of au-
+tophagy. alternatively, the interaction of atg1 with mul-
+tiple atg proteins suggests that atg1 may function at
+multiple steps in the autophagic process. identiﬁcation
+of the relevant in vivo substrates of atg1 will help to clar-
+ify this issue. a recent yeast proteomic microarray study
+identiﬁed a number of in vitro substrates of atg1, includ-
+ing atg8 and atg18, which function in autophagosomal
+expansion and retrieval of components of
+the
+figure 7. induction of autophagy requires atg1 kinase activity
+(a–d) expression of kinase-defective atg1 inhibits autophagy.
+atg1k38q expression has no effect on autophagy in fed animals (a)
+but cell autonomously inhibits induction of autophagy in the fat
+body of starved animals (b). tissue-wide induction of autophagy
+by starvation (c) is inhibited by expression of kinase inactive atg1
+(d). insets show the lysotracker channel of the respective images,
+with clonal boundaries outlined in yellow.
+(e) quantitation of lysotracker staining. asterisk indicates a signiﬁ-
+cant difference from wild-type: p < 0.0001.
+(f) wing disc cells overexpressing kinase-defective atg1 are not
+eliminated. mean numbers of gfp-positive cells are expressed as
+a percentage of total cells. dagger indicates no signiﬁcant difference
+from the wild-type control: p > 0.1.
+(g) kinase-defective atg1 leads to a modest reduction in tor sig-
+naling. nonconsecutive lanes are shown from the same western
+blot.
+scale bars represent 10 mm. nuclei are marked in blue. error bars
+indicate sd.
+genotypes:
+(a, b) hsﬂp/+; act>cd2>gal4 uas-gfp/uas-
+atg1kq13a. (c) cg-gal4/+. (d) cg-gal4/+; uas-atg1kq13a/+. (e)
+as in (c) and (d). (f) control: hsﬂp/+; act>cd2>gal4 uas-gfp/+.
+atg1k38q: hsﬂp/+; act>cd2>gal4 uas-gfp/uas-atg1kq13a. (g)
+control: hsp70-gal4/+. atg1: hsp70-gal4/uas-atg16b. atg1k38q:
+hsp70-gal4/uas-atg1kq13a.
+atg1-induced autophagy inhibits growth and survival
+autophagic machinery, respectively, as well as general
+factors involved in vesicle transport and vacuolar func-
+tion [21].
+the role of the kinase activity of yeast atg1 in regulat-
+ing autophagy is the matter of some debate, and differ-
+ent groups have drawn conﬂicting conclusions. a con-
+sensus view, however, may be that autophagy and the
+cvt pathway require different levels of atg1 kinase ac-
+tivity or that atg1 has different substrates under differing
+nutrient conditions. in higher eukaryotes, the role of
+atg1 kinase activity may differ from that in yeast, but
+the cvt pathway has not been observed in metazoan
+cells. consistent with the ﬁndings of ohsumi and col-
+leagues [18, 24], however, our results indicate that the
+kinase domain of drosophila atg1 is required for autoph-
+agy, as indicated by the fact that the kinase-inactive
+atg1k38q mutant failed to restore starvation-induced
+autophagy to atg1 mutants and was unable to induce
+autophagy when overexpressed. however, the partial re-
+duction in size and tor activity observed upon expres-
+sion of atg1k38q, as well as its partial rescue of atg1
+mutants, indicate that atg1 may have other, kinase-inde-
+pendent functions beyond regulating autophagy.
+the mechanisms by which upstream signaling path-
+ways regulate atg1 are also likely to differ between yeast
+and multicellular organisms, because essential compo-
+nents of the tor-regulated atg1 complex such as atg13
+and atg17 are not readily identiﬁable in animal genomes.
+nonetheless, our results are consistent with a similar
+negative regulation of atg1 by tor, as indicated by
+the fact that activation of tor signaling by rheb overex-
+pression or tsc2 mutation suppressed the ability of atg1
+to induce autophagy.
+increased atg1 activity in re-
+sponse to loss of tor signaling is likely to be critical
+for cell homeostasis and survival, as shown by the fact
+that animals doubly mutant for atg1 and tor show a syn-
+thetic embryonic lethal phenotype [5]. in addition, our
+results demonstrate an unexpected mode of signaling
+from atg1 to tor, in which increased atg1 levels lead
+to downregulation of tor kinase activity. it is unclear
+whether this reﬂects a direct effect of atg1 on the activity
+of tor or an upstream regulator, or an indirect conse-
+quence of the high level of autophagy in these cells, per-
+haps through increased turnover of tor-signaling com-
+ponents. the ﬁnding that a pool of tor protein resides
+on intracellular vesicles [31, 36] and that tor signaling
+is reduced in endocytic mutants [31] suggests that
+tor activity may respond to rates of vesicular trafﬁck-
+ing, such as autophagy. regardless of mechanism,
+these results suggest the existence of a self-reinforcing
+feedback loop, whereby increased atg1 levels lead to
+downregulation of tor activity, resulting in further acti-
+vation of atg1. in contrast, we have shown previously
+that induction of autophagy in response to loss of tor
+signaling is dampened by the resultant inactivation of
+s6k, which is required for normal autophagy [5]. thus,
+tor-mediated regulation of autophagy involves both
+positive and negative feedback.
+autophagy as a negative effector of cell growth
+autophagy is a catabolic process that inversely corre-
+lates with cell growth, suggesting that increased levels
+of autophagy observed in growth-restricted cells may
+contribute to their reduced growth rate. the results
+presented here provide genetic support for this model.
+our data indicate that clones of autophagy-defective
+cells have a growth advantage over wild-type cells un-
+der physiological conditions that normally induce au-
+tophagy, including starvation and rapamycin treatment.
+these results are conﬁrmed by the marked size reduc-
+tion of cells overexpressing atg1, further supporting
+the role of autophagy as a negative effector of growth
+in tor signaling. thus, autophagy is partly responsible
+for the growth restriction resulting from physiological in-
+hibition of tor signaling and is capable of inhibiting
+growth independent of tor signaling.
+in contrast to the growth advantage we observed in
+autophagy-defective cells, previous studies with yeast
+or cultured mammalian cells reported that inhibition of
+autophagy results in rapid cell death in response to star-
+vation [2, 17]. this difference is likely due to the mosaic
+nature of our experiments, in which clones of atg1 mu-
+tant cells are surrounded by autophagy-competent
+wild-type cells and may in effect parasitize nutrients lib-
+erated through the autophagic activity of their neighbors.
+this is likely to be particularly evident in fat body cells,
+which are specialized for nutrient storage and mobiliza-
+tion. we note that this genetic mosaicism is similar to
+the situation facing tumor cells within wild-type tissues.
+thus, the increased growth capacity resulting from dis-
+ruption of autophagy may contribute to the tumorigenic-
+ity of cells mutant for tumor suppressors such as pten,
+tsc1 and 2, beclin 1/atg6 [5, 7, 8], and possibly lc3/
+atg8 and atg7 [37].
+whereas autophagy had an inhibitory effect on cell
+growth under physiological conditions, this was not the
+case in cells with severely disrupted tor signaling,
+such as in cells with null mutations in pdk1 (this report)
+or tor [5], despite the strong correlation of reduced cell
+growth and increased autophagy in these cells. disrup-
+tion of autophagy had no effect on the growth of pdk1
+null cells and actually led to a further decrease in cell
+size of tor mutants. in the complete absence of tor sig-
+naling, nutrient uptake is severely curtailed [31], and un-
+der these extreme conditions, the metabolic beneﬁts of
+nutrients liberated by autophagy may outweigh its po-
+tential growth-inhibitory catabolic effect. we conclude
+that autophagy has context-dependent effects on cell
+growth, providing for a rudimentary level of metabolism
+and growth under conditions of severe nutrient depriva-
+tion, acting as a net inhibitor of growth under conditions
+of reduced tor signaling, and strongly inhibiting cell
+growth when induced to high levels. these ﬁndings
+add autophagy to the growing list of effector pathways
+and cellular processes through which tor signaling
+controls cell growth, including translation, transcription,
+nutrient import, and endocytosis.
+autophagy and cell death
+previous studies in a number of experimental systems
+indicate that the role of autophagy in cell death is also
+likely to be context dependent. for example, autophagy
+has been found to protect against cell death in cases of
+growth factor withdrawal, starvation, and neurodegen-
+eration [17, 38, 39] but to be required for some cases
+of autophagic cell death [14–16, 40]. thus, observations
+of autophagic structures in dying cells are equally con-
+sistent with a causal, neutral, or even inhibitory role of
+current biology
+10
+autophagy in cell death. the ability to induce autophagy
+through atg1 overexpression has enabled us to directly
+test the potential role of autophagy in promoting cell
+death. our results indicate that induction of autophagy
+is sufficient to induce cell death. we find that death resulting from atg1-induced autophagy is suppressed by
+caspase inhibition and is associated with caspase activation, dna fragmentation, and cytoskeletal disruption,
+suggesting that high levels of autophagy result in apoptotic cell death. the connection between apoptosis
+and autophagy is further supported by the recent demonstration that overexpression of the antiapoptotic protein bcl-2 can inhibit autophagy by interacting with the
+atg6 homolog beclin 1 [41]. mutant versions of beclin
+1 that are unable to bind bcl-2 stimulate autophagy
+and promote cell death, similar to the effects of atg1.
+by what mechanisms might autophagy lead to cell
+death? the observation that starvation-induced autophagy is reversible and does not normally result in cell elimination suggests that starvation conditions may be protective against autophagy-induced death. induction of
+autophagy is tolerated or even beneficial in cells with
+reduced biosynthetic activity, but may be detrimental
+in cells whose resources are devoted to continued
+growth. self-limiting mechanisms also serve to prevent
+starvation-induced autophagy from proceeding at continuously high levels [5, 41]. during autophagic cell
+death, alternate activation of the autophagic machinery
+may circumvent these feedback mechanisms, resulting
+in high levels of sustained autophagy that are destructive
+to the cell. in addition, the level of atg1 gene expression
+may be critical; it is not upregulated under starvation
+conditions [27], but its levels peak at the beginning of
+the drosophila pupal stage [42], when autophagic cell
+death is induced. autophagic cell death may also result
+from the selective degradation of specific survivalpromoting or death-inhibiting factors. in this regard, it
+was recently shown that the caspase-inhibitor zvad results in targeted autophagic degradation of catalase,
+leading to accumulation of radical oxygen species and
+death [16].
+concluding remarks
+in summary, our results demonstrate that constitutive
+induction of autophagy inhibits cell growth and leads to
+cell death, highlighting the importance of physiological
+mechanisms that restrain this process. in addition, the
+finding that atg1 expression is sufficient to induce autophagy provides a new tool for experimental or therapeutic manipulation of autophagy. compounds that target the kinase activity of atg1 may lead to novel therapies
+for the wide range of diseases linked to autophagy.
+experimental procedures
+gfp-marked overexpression clones in the fat body were generated
+through heat shock-independent induction as described [43] and in
+the wing disc by means of 1 hr heat shock at 37 c, 36–48 hr after
+hatching (elimination studies) or 30–60 min heat shock at 37 c,
+24–52 hr after hatching (staining). mutant clones in the fat body
+were generated by flp/frt mitotic recombination [44] by means
+of 2 hr heat shock at 37 c, 0–8 hr after egg laying. cell elimination
+was quantitated with 5 images of each genotype; an average of
+208 cells were quantitated. because ubi-gfp was found to have
+variable expression in the fat body, uas-gfp driven by fb-gal4
+or cg-gal4 was used as a marker in that tissue. mutant clones in
+the wing disc were generated with 2 hr heat shock at 37 c, 24–28
+hr after hatching. 72–96 hr after hatching, untreated larvae containing mutant clones were dissected immediately (fed) or starved for
+45 hr on pbs (starved). rapamycin-treated larvae were raised on
+2 mm rapamycin in fly medium from hatching and were dissected
+192–196 hr after hatching. hsp70-gal4-driven overexpression
+of atg1 was induced by 2 hr (1 hr in figure 5) heat shock at 37 c,
+48–72 hr after hatching, followed by 6 hr recovery at room temperature. significance was determined in all experiments by two-tailed
+p values from unpaired t test. see supplemental data for additional
+procedures.
+supplemental data
+supplemental data include three figures and supplemental experimental procedures and can be found with this article online
+at http://www.current-biology.com/cgi/content/full/17/1/1/dc1/.
+acknowledgments
+we thank members of the neufeld lab for helpful discussions and
+comments on the manuscript. this work was supported by national
+institutes of health grant ro1 gm62509.
+received: june 6, 2006
+revised: october 20, 2006
+accepted: october 26, 2006
+published: january 8, 2007
+references
+1. levine, b., and klionsky, d.j. (2004). development by selfdigestion: molecular mechanisms and biological functions of
+autophagy. dev. cell 6, 463–477.
+2. tsukada, m., and ohsumi, y. (1993). isolation and characterization of autophagy-defective mutants of saccharomyces cerevisiae. febs lett. 333, 169–174.
+3. thumm, m., egner, r., koch, b., schlumpberger, m., straub, m.,
+veenhuis, m., and wolf, d.h. (1994). isolation of autophagocytosis mutants of saccharomyces cerevisiae. febs lett. 349,
+275–280.
+4. klionsky, d.j., cregg, j.m., dunn, w.a., jr., emr, s.d., sakai, y.,
+sandoval, i.v., sibirny, a., subramani, s., thumm, m., veenhuis,
+m., et al. (2003). a unified nomenclature for yeast autophagyrelated genes. dev. cell 5, 539–545.
+5. scott, r.c., schuldiner, o., and neufeld, t.p. (2004). role and
+regulation of starvation-induced autophagy in the drosophila
+fat body. dev. cell 7, 167–178.
+6. shintani, t., and klionsky, d.j. (2004). autophagy in health and
+disease: a double-edged sword. science 306, 990–995.
+7. arico, s., petiot, a., bauvy, c., dubbelhuis, p.f., meijer, a.j., codogno, p., and ogier-denis, e. (2001). the tumor suppressor
+pten positively regulates macroautophagy by inhibiting the
+phosphatidylinositol 3-kinase/protein kinase b pathway. j.
+biol. chem. 276, 35243–35246.
+8. liang, x.h., jackson, s., seaman, m., brown, k., kempkes, b.,
+hibshoosh, h., and levine, b. (1999). induction of autophagy
+and inhibition of tumorigenesis by beclin 1. nature 402, 672–676.
+9. petiot, a., ogier-denis, e., blommaart, e.f., meijer, a.j., and
+codogno, p. (2000). distinct classes of phosphatidylinositol
+30 -kinases are involved in signaling pathways that control macroautophagy in ht-29 cells. j. biol. chem. 275, 992–998.
+10. noda, t., and ohsumi, y. (1998). tor, a phosphatidylinositol
+kinase homologue, controls autophagy in yeast. j. biol. chem.
+273, 3963–3966.
+11. neufeld, t.p. (2004). role of autophagy in developmental cell
+growth and death: insights from drosophila. in autophagy,
+d.j. klionsky, ed. (georgetown: landes bioscience), pp. 224–
+232.
+12. wullschleger, s., loewith, r., and hall, m.n. (2006). tor signaling in growth and metabolism. cell 124, 471–484.
+13. clarke, p.g. (1990). developmental cell death: morphological
+diversity and multiple mechanisms. anat. embryol. (berl.) 181,
+195–213.
+32. hosokawa, n., hara, y., and mizushima, n. (2006). generation of
+cell lines with tetracycline-regulated autophagy and a role for
+autophagy in controlling cell size. febs lett. 580, 2623–2629.
+33. debnath, j., mills, k.r., collins, n.l., reginato, m.j., muthu-
+swamy, s.k., and brugge, j.s. (2002). the role of apoptosis in
+creating and maintaining luminal space within normal and
+oncogene-expressing mammary acini. cell 111, 29–40.
+34. martin, d.n., and baehrecke, e.h. (2004). caspases function in
+autophagic programmed cell death in drosophila. development
+131, 275–284.
+35. puig, o., marr, m.t., ruhf, m.l., and tjian, r. (2003). control of
+cell number by drosophila foxo: downstream and feedback
+regulation of the insulin receptor pathway. genes dev. 17,
+2006–2020.
+36. kunz, j., schneider, u., howald, i., schmidt, a., and hall, m.n.
+(2000). heat repeats mediate plasma membrane localization
+of tor2p in yeast. j. biol. chem. 275, 37011–37020.
+37. jin, s. (2006). autophagy, mitochondrial quality control, and
+oncogenesis. autophagy 2, 80–84.
+38. hara, t., nakamura, k., matsui, m., yamamoto, a., nakahara, y.,
+suzuki-migishima, r., yokoyama, m., mishima, k., saito, i.,
+okano, h., et al. (2006). suppression of basal autophagy in neu-
+ral cells causes neurodegenerative disease in mice. nature 441,
+885–889.
+39. komatsu, m., waguri, s., chiba, t., murata, s., iwata, j., tanida,
+i., ueno, t., koike, m., uchiyama, y., kominami, e., et al. (2006).
+loss of autophagy in the central nervous system causes neuro-
+degeneration in mice. nature 441, 880–884.
+40. yu, l., alva, a., su, h., dutt, p., freundt, e., welsh, s., baeh-
+recke, e.h., and lenardo, m.j. (2004). regulation of an atg7-
+beclin 1 program of autophagic cell death by caspase-8. sci-
+ence 304, 1500–1502.
+41. pattingre, s., tassa, a., qu, x., garuti, r., liang, x.h., mizush-
+ima, n., packer, m., schneider, m.d., and levine, b. (2005).
+bcl-2 antiapoptotic proteins inhibit beclin 1-dependent auto-
+phagy. cell 122, 927–939.
+42. arbeitman, m.n., furlong, e.e., imam, f., johnson, e., null, b.h.,
+baker, b.s., krasnow, m.a., scott, m.p., davis, r.w., and white,
+k.p. (2002). gene expression during the life cycle of drosophila
+melanogaster. science 297, 2270–2275.
+43. britton, j.s., lockwood, w.k., li, l., cohen, s.m., and edgar,
+b.a. (2002). drosophila’s insulin/pi3-kinase pathway coordi-
+nates cellular metabolism with nutritional conditions. dev. cell
+2, 239–249.
+44. xu, t., and rubin, g.m. (1993). analysis of genetic mosaics in de-
+veloping and adult drosophila tissues. development 117, 1223–
+1237.
+atg1-induced autophagy inhibits growth and survival
+11
+14. shimizu, s., kanaseki, t., mizushima, n., mizuta, t., arakawa-
+kobayashi, s., thompson, c.b., and tsujimoto, y. (2004). role
+of bcl-2 family proteins in a non-apoptotic programmed cell
+death dependent on autophagy genes. nat. cell biol. 6, 1221–
+1228.
+15. veneault-fourrey, c., barooah, m., egan, m., wakley, g., and
+talbot, n.j. (2006). autophagic fungal cell death is necessary
+for infection by the rice blast fungus. science 312, 580–583.
+16. yu, l., wan, f., dutta, s., welsh, s., liu, z., freundt, e., baeh-
+recke, e.h., and lenardo, m. (2006). autophagic programmed
+cell death by selective catalase degradation. proc. natl. acad.
+sci. usa 103, 4952–4957.
+17. lum, j.j., bauer, d.e., kong, m., harris, m.h., li, c., lindsten, t.,
+and thompson, c.b. (2005). growth factor regulation of auto-
+phagy and cell survival in the absence of apoptosis. cell 120,
+237–248.
+18. kamada, y., funakoshi, t., shintani, t., nagano, k., ohsumi, m.,
+and ohsumi, y. (2000). tor-mediated induction of autophagy via
+an apg1 protein kinase complex. j. cell biol. 150, 1507–1513.
+19. wang, z., wilson, w.a., fujino, m.a., and roach, p.j. (2001). an-
+tagonistic controls of autophagy and glycogen accumulation by
+snf1p, the yeast homolog of amp-activated protein kinase, and
+the cyclin-dependent kinase pho85p. mol. cell. biol. 21, 5742–
+5752.
+20. budovskaya, y.v., stephan, j.s., deminoff, s.j., and herman,
+p.k.
+(2005). an evolutionary proteomics approach identiﬁes
+substrates of the camp-dependent protein kinase. proc. natl.
+acad. sci. usa 102, 13933–13938.
+21. ptacek, j., devgan, g., michaud, g., zhu, h., zhu, x., fasolo, j.,
+guo, h., jona, g., breitkreutz, a., sopko, r., et al. (2005). global
+analysis of protein phosphorylation in yeast. nature 438, 679–
+684.
+22. reggiori, f., tucker, k.a., stromhaug, p.e., and klionsky, d.j.
+(2004). the atg1-atg13 complex regulates atg9 and atg23 re-
+trieval transport from the pre-autophagosomal structure. dev.
+cell 6, 79–90.
+23. abeliovich, h., zhang, c., dunn, w.a., jr., shokat, k.m., and
+klionsky, d.j. (2003). chemical genetic analysis of apg1 reveals
+a non-kinase role in the induction of autophagy. mol. biol. cell
+14, 477–490.
+24. kabeya, y., kamada, y., baba, m., takikawa, h., sasaki, m., and
+ohsumi, y. (2005). atg17 functions in cooperation with atg1 and
+atg13 in yeast autophagy. mol. biol. cell 16, 2544–2553.
+25. rusten, t.e., lindmo, k., juha´ sz, g., sass, m., seglen, p.o.,
+brech, a., and stenmark, h. (2004). programmed autophagy in
+the drosophila fat body is induced by ecdysone through regula-
+tion of the pi3k pathway. dev. cell 7, 179–192.
+26. young, a.r., chan, e.y., hu, x.w., kochl, r., crawshaw, s.g.,
+high, s., hailey, d.w., lippincott-schwartz, j., and tooze, s.a.
+(2006). starvation and ulk1-dependent cycling of mammalian
+atg9 between the tgn and endosomes. j. cell sci. 119, 3888–
+3900.
+27. kirisako, t., baba, m., ishihara, n., miyazawa, k., ohsumi, m.,
+yoshimori, t., noda, t., and ohsumi, y. (1999). formation pro-
+cess of autophagosome is traced with apg8/aut7p in yeast.
+j. cell biol. 147, 435–446.
+28. kabeya, y., mizushima, n., ueno, t., yamamoto, a., kirisako, t.,
+noda, t., kominami, e., ohsumi, y., and yoshimori, t. (2000).
+lc3, a mammalian homologue of yeast apg8p, is localized in
+autophagosome membranes after processing. embo j. 19,
+5720–5728.
+29. zinke, i., schutz, c.s., katzenberger, j.d., bauer, m., and pan-
+kratz, m.j. (2002). nutrient control of gene expression in dro-
+sophila: microarray analysis of starvation and sugar-dependent
+response. embo j. 21, 6162–6173.
+30. juha´ sz, g., csiko´ s, g., sinka, r., erde´ lyi, m., and sass, m.
+(2003). the drosophila homolog of aut1 is essential for autoph-
+agy and development. febs lett. 543, 154–158.
+31. hennig, k.m., colombani, j., and neufeld, t.p. (2006). tor co-
+ordinates bulk and targeted endocytosis in the drosophila mel-
+anogaster fat body to regulate cell growth. j. cell biol. 173, 963–
+974.

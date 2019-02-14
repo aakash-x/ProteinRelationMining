@@ -1,0 +1,1121 @@
+molecular cell 22, 463–475, may 19, 2006 ª2006 elsevier inc. doi 10.1016/j.molcel.2006.04.014
+a short mitochondrial form of p19arf induces
+autophagy and caspase-independent cell death
+sharon reef,1 einat zalckvar,1 ohad shifman,2
+shani bialik,1 helena sabanay,3 moshe oren,2
+and adi kimchi1,*
+1 department of molecular genetics
+2 department of molecular cell biology
+3 chemical research support
+weizmann institute of science
+rehovot 76100
+israel
+summary
+the tumor suppressor functions of p19arf have been
+attributed to its ability to induce cell cycle arrest or ap-
+optosis by activating p53 and regulating ribosome bio-
+genesis. here we describe another cellular function of
+p19arf, involving a short isoform (smarf, short mito-
+chondrial arf) that localizes to a proteinase k-resis-
+tant compartment of the mitochondria. smarf is a
+product of internal initiation of translation at met45,
+which lacks the nucleolar functional domains. the hu-
+man p14arf mrna likewise produces a shorter iso-
+form. smarf is maintained at low levels via protea-
+some-mediated degradation, but
+increases in
+response to viral and cellular oncogenes. ectopic ex-
+pression of smarf reduces mitochondrial membrane
+potential (djm) without causing cytochrome c re-
+lease or caspase activation. the dissipation of djm
+does not depend on p53 or bcl-2 family members.
+smarf induces massive autophagy and caspase-in-
+dependent cell death that can be partially rescued by
+knocking down atg5 or beclin-1, suggesting a differ-
+ent prodeath function for this short isoform.
+it
+introduction
+the arf tumor suppressor protein (p19arf in mouse
+and p14arf in human) is an activator of p53 that antago-
+nizes the function of p53’s inhibitor, mdm2. arf inhibits
+mdm2 by sequestrating it to the nucleolus (tao and lev-
+ine, 1999; weber et al., 1999) and by inhibiting its e3 pro-
+tein ubiquitin ligase activity (honda and yasuda, 1999;
+midgley et al., 2000). arf is induced by oncoproteins
+such as c-myc (zindy et al., 1998), e2f-1 (bates et al.,
+1998), and b-catenin (damalas et al., 2001) and is thus
+an important mediator in the activation of p53 in re-
+sponse to oncogenes (lowe and sherr, 2003). yet, the
+seminal ﬁnding that mice lacking p19arf, p53, and
+mdm2 are more tumor prone than those lacking only
+p53 and mdm2 raised the possibility that p19arf can
+also act independently of the mdm2-p53 axis in tumor
+surveillance (weber et al., 2000a). consistent with this
+notion, studies performed in cell culture have shown
+that the two cellular effects of p19arf, i.e., inhibition of
+cell growth/proliferation and induction of apoptosis,
+can also occur in a p53-mdm2-independent manner
+(matsuoka et al., 2003; nakazawa et al., 2003; sugimoto
+*correspondence: adi.kimchi@weizmann.ac.il
+et al., 2003; suzuki et al., 2003; tsuji et al., 2002). the in-
+hibitory functions on cellular growth have been associ-
+ated with inhibition of rrna processing in the nucleolus
+via physical interactions with nucleophosmin/b23 (bert-
+wistle et al., 2004; sugimoto et al., 2003). yet, p53-inde-
+pendent molecular mechanisms mediating the prodeath
+mode of action of p19arf have not been thoroughly de-
+termined.
+the murine p19arf is composed of 169 amino acids, is
+highly basic and hydrophobic, and localizes primarily to
+nucleoli (weber et al., 1999). the human p14arf ortholog
+is composed of only 132 amino acids and shares only
+limited sequence homology with the mouse protein
+(stott et al., 1998). yet, p14arf is also a basic and hydro-
+phobic protein that often localizes predominantly to the
+nucleolus (lohrum et al., 2000), and it retains all known
+tumor suppressor functions of the mouse p19arf pro-
+tein as well as p19arf’s capability to induce p53-inde-
+pendent apoptosis (hemmati et al., 2002).
+initiation of
+here we report on a mitochondrial short form of
+p19arf, designated smarf (short mitochondrial arf),
+which results from internal
+translation.
+smarf causes dissipation of mitochondrial membrane
+potential (djm), in a p53- and bcl-2-family-independent
+manner, without releasing cytochrome c. it leads to the
+induction of massive autophagy and to caspase-inde-
+pendent cell death. notably, although the mouse and
+the human arf mrna share only limited sequence ho-
+mology, the ability to produce a shorter protein form is
+preserved between the orthologs, emphasizing the im-
+portance of this arf isoform.
+results
+internal initiation of translation generates a short
+form of p19arf
+the murine p19arf is composed of 169 amino acids
+(figure 1a). in addition to the full-length protein, ectopic
+expression of p19arf-flag cdna in 293t cells gave rise
+to a shorter, faster migrating form, which we designated
+smarf (figure 1b). the levels of smarf corresponded
+to about 1%–5% of total p19arf protein. it should be
+noted that this form was detected only under gel condi-
+tions that efﬁciently resolved low-molecular-weight pro-
+teins, which may explain why smarf has not been pre-
+viously reported. smarf was detected by western
+blotting with either anti-flag or anti-p19arf antibodies
+(figures 1b and 1c), indicating that smarf contains
+an intact c terminus. it was also present when cells
+were directly lysed in sample loading buffer (figure 1c),
+excluding the possibility that smarf is a degradation
+product generated during the extraction procedure.
+one mechanism that may account for the formation of
+smarf is translation from an internal initiation site. in
+fact, the p19arf mrna sequence contains a single addi-
+tional met at position 45 (figure 1a), which potentially
+could function as an internal initiation site. expression
+of a plasmid in which met1 was converted to ile
+(p19arf m1i) resulted in abundant production of a
+protein product whose electrophoretic mobility was
+molecular cell
+464
+figure 1. internal initiation of translation generates a short form of p19arf
+(a) schematic representation of p19arf protein sequence. bold letters deﬁne the mdm2 binding domains. the underlined segment (26–37) cor-
+responds to the nucleolar localization signal. met 45 is marked.
+(b) flag-tagged p19arf was immunoprecipitated from 293t cells, 24 hr after transfection, with m2-flag beads. proteins were analyzed by west-
+ern blot of 12% gels using anti-flag antibodies.
+(c) 293t cells transfected with p19arf for 24 hr were lysed with np40 buffer or with sample loading buffer, and lysates were subjected to western
+blot analysis on 12% gels with anti-p19arf antibodies. the asterisk indicates the position of a nonspeciﬁc band crossreacting with the p19arf
+antibody.
+(d) lysates from 293t cells transfected with wt p19arf, p19arf m1i, p19arf m45i, or dnp19arf for 24 hr were analyzed by western blot of 12%
+gels using anti-p19arf antibodies.
+(e) wt p19arf and dnp19arf plasmids were subjected to an in vitro transcription/translation reaction, followed by immunoprecipitation with
+m2-flag beads. the migration of the in vitro-translated polypeptides was compared to that of proteins extracted from transfected cells.
+(f) western blot analysis of extracts of the indicated cells (p2 wt mefs or immortalized nih3t3, 35-8, or sv40-transformed mefs) reacted with
+anti-p19arf antibodies. nih3t3 cells, lacking the p19arf locus, were used as a negative control.
+(g) early-passage (p5) p53 null mefs or 35-8 cells were infected with retroviruses encoding c-myc or e2f-1, or with an empty vector. three days
+after selection, the expression levels of p19arf forms were compared by western blotting with p19arf, myc, e2f-1, and tubulin antibodies on
+12% sds-page. this result was reproduced in three independent experiments.
+identical to that of smarf, with almost no full-length
+p19arf evident (figure 1d). in contrast, conversion of
+met45 to ile (p19arf m45i) abolished almost completely
+the presence of smarf, even though full-length p19arf
+was produced efﬁciently (figure 1d). as expected, sub-
+stitution of both met1 and met45 by ile abolished the ex-
+pression of both isoforms (data not shown). deletion of
+the ﬁrst 40 amino acids of p19arf generated a protein
+product with the same gel migration proﬁle as the prod-
+uct of m1i (dnp19arf, figure 1d). in vitro translation in
+reticulocyte lysates further conﬁrmed the existence of
+internal translation initiation. in vitro translation from
+the full-length p19arf mrna gave rise to two protein
+products. the shorter form had the same electropho-
+retic mobility on gels as the translation product of the
+dnp19arf plasmid (figure 1e, right panel) and as protein
+product expressed from this plasmid in transfected cells
+(compare left to right panel in figure 1e). interestingly, in
+the in vitro reaction, both proteins were produced in
+equal proportions, suggesting that translation from the
+second met is as efﬁcient as from the ﬁrst. however,
+in vivo, the short form comprises only a small fraction
+of the total. thus, there must be additional regulatory
+mechanisms that inﬂuence translation rates or protein
+stability in vivo. a plasmid in which met45 was con-
+verted to ala (m45a) failed to produce smarf upon
+in vitro translation (data not shown). taken together,
+the data suggest that the p19arf open reading frame
+contains two initiation sites and that the primary mech-
+anism for smarf production is internal
+initiation of
+translation at met45.
+this short form was also endogenously expressed in
+nontransfected cells. as shown in figure 1f, the anti-
+p19arf antibodies recognized a short p19arf form that
+was present at low levels (compared to the full-length
+protein) in cells under steady-state growth conditions.
+this band was apparent in primary and immortalized
+mouse embryonic ﬁbroblasts (i.e.,
+in early passage
+[p2] of wt mef cultures and in 35-8 cells that are mef-
+derived immortalized cells that lack p53) but not in
+nih3t3 cells which lack the ink4a/arf locus. as ex-
+pected, the electrophoretic mobility of the endogenous
+a short mitochondrial form of p19arf
+465
+figure 2. smarf is degraded rapidly by the proteasome
+(a) 35-8 cells were treated with cycloheximide (20 mg/ml) for the indicated times or remained untreated. the expression levels of p19arf forms
+were compared by western blotting using p19arf antibody on 12% sds-page.
+(b) cells were treated with both cycloheximide and the proteasome inhibitor mg132 (100 mm) for the indicated times. cell lysates were analyzed
+as described for (a).
+smarf was a bit faster than that of the recombinant
+flag-tagged smarf (compare figures 1c and 1f; the
+common nonspeciﬁc band can be used as an internal
+size reference).
+notably, smarf levels were elevated in response to
+ectopic expression of viral and cellular oncogenes. in
+sv40-transformed mouse embryonic ﬁbroblasts, the ex-
+pression of smarf increased more than 10-fold (fig-
+ure 1f, right panel). additionally, introduction of two cel-
+lular oncoproteins, e2f-1 and c-myc,
+into p53 null
+primary mefs (p5) or into the 35-8 cell line led to an in-
+crease in smarf protein levels of 1.5- to 3-fold
+(figure 1g). this moderate yet reproducible increase
+was also detected at the level of the p19arf full-length
+protein, consistent with previous reports (bates et al.,
+1998; zindy et al., 1998). thus, the two isoforms of
+p19arf are subjected to upregulation in response to hy-
+perproliferative signals of cellular and viral oncogenes.
+smarf is a short-lived protein that is degraded
+by the proteasome
+we next examined whether the relative low steady-state
+levels of smarf are due to differences in the protein
+turnover. to this end, the stability of the two p19arf
+forms following administration of cycloheximide was
+measured in the 35-8 cells. notably, after as little as 10
+min, smarf protein expression levels were already re-
+duced, while the full-length p19arf protein expression
+levels remained almost unchanged even after several
+hours of cycloheximide treatment (figure 2a). thus,
+smarf is a short-lived protein with a half-life of less
+than 1 hr, in contrast to the much more stable full-length
+p19arf, which has been reported to display a half-life
+of w6 hr (kuo et al., 2004). furthermore, the proteasome
+inhibitor mg132 signiﬁcantly inhibited the turnover of
+smarf (figure 2b), indicating that smarf’s low steady-
+state levels are maintained by proteasome-mediated
+degradation. the signiﬁcant difference in the turnover
+rates of the two translational products of arf may ex-
+plain why the ratio of smarf to full-length p19arf is
+much lower in cells than in in vitro translation systems.
+of note, in the sv40-transformed ﬁbroblasts shown in
+figure 1f, the half-life of smarf was 2-fold greater
+than in the p53 null ﬁbroblasts (data not shown).
+the human p14arf mrna also produces a shorter
+unstable protein that is translated from an internal
+atg
+the human arf mrna also contains an internal met at
+position 48 (figure 3a). in fact, in vitro translation of wt
+p14arf in reticulocyte lysate gave rise to two protein
+products, the ﬁrst corresponding to the full-length pro-
+tein and the second to a faster migrating protein desig-
+nated hsmarf (human smarf) that might correspond
+to translation initiation from met 48 (figure 3b). in vitro
+translation of a plasmid in which met 1 was converted
+to ala resulted in production of a protein product whose
+electrophoretic mobility was identical
+to that of
+hsmarf, with almost no full-length p14arf evident
+(figure 3b). in contrast, conversion of met 48 to ala sig-
+niﬁcantly reduced the expression of hsmarf (data not
+shown). however, hsmarf was barely detectable in
+293t cells upon transfection with the wt p14arf plasmid,
+unless the proteasome inhibitor mg132 was added. re-
+markably, after 17 hr of treatment with mg132, steady-
+state levels of hsmarf approached those of
+the
+full-length p14arf (figures 3c and 3d). these results in-
+dicate that the hsmarf’s rapid turnover is mediated by
+the proteasome, even more efﬁciently than the murine
+smarf. hsmarf was detected by western blotting
+with either anti-flag (figures 3c and 3d) or anti-p14arf
+antibodies (data not shown), indicating that it contains
+an intact c terminus. as expected, expression of a p14
+m1a plasmid in mg132-treated 293t cells resulted in
+abundant production of a protein product whose elec-
+trophoretic mobility was identical to that of hsmarf,
+with almost no full-length p14arf evident. thus, the pro-
+duction and controlled degradation of a short, internally
+initiated translation product are conserved properties of
+both the murine p19arf and human p14arf orthologs.
+this feature is not limited to human and mouse; the rat
+p19arf, which we cloned and expressed in 293t cells,
+molecular cell
+466
+figure 3. the human p14arf mrna also produces a shorter product that is rapidly degraded
+(a) schematic representation of the protein sequence of exon 1b of mouse p19arf and human p14arf. the human and mouse internal methio-
+nines are marked in bold, and a gap has been introduced to maximize regional alignment.
+(b) wt p14arf and mutant p14arf m1a plasmids were subjected to an in vitro transcription/translation reaction, followed by immunoprecipitation
+with m2-flag beads. the proteins were separated by 15% sds-page. western blot analysis was carried out using anti-flag antibodies.
+(c) 293t cells ectopically expressing p14arf were treated with 10 mm mg132 for the indicated times, and lysates were subjected to western blot
+analysis on 15% gels with anti-flag antibodies.
+(d) 293t cells ectopically expressing wt p14arf or mutant p14arf m1a plasmids were treated with dmso or 10 mm mg132 for 17 hr. cell lysates
+were analyzed as described for (c).
+(e) 293t cells ectopically expressing rat p19arf were treated with 10 mm mg132 for 17 hr. proteins were separated by 15% sds-page and blot-
+ted to a nitrocellulose membrane, followed by probing with anti-flag antibodies. shown are two different exposures of the same blot in order to
+clearly visualize both full-length rat p19arf and rsmarf.
+also produced a short form that was readily detectable
+only upon proteasome inhibition (figure 3e).
+smarf localizes to mitochondria
+two segments of p19arf, namely residues 1–14 and 26–
+37, have been shown to be critical for the established
+functions of p19arf, i.e., nucleolar localization, mdm2
+binding, and p53-dependent cell cycle arrest (weber
+et al., 2000b) (see also figure 1a). additionally, the ﬁrst
+14 amino acids were recently shown to be essential for
+arf-mediated inhibition of ribosomal rna processing
+(sugimoto et al., 2003), most probably through interac-
+tion with nucleophosmin/b23 (bertwistle et al., 2004; ita-
+hana et al., 2003). since smarf lacks all these important
+functional domains, it may localize to other cellular com-
+partments and function differently. to determine the lo-
+calization of smarf, hela cells were transiently trans-
+fected with p19arf m1i, which mainly expresses
+smarf, and were immunostained with anti-flag anti-
+bodies. surprisingly, all
+transfected cells exhibited
+strong punctate cytoplasmic staining, and in most of
+the transfectants (>75%), no nucleolar staining was evi-
+dent (figure 4a, upper panels). to determine the nature
+of the punctate staining, the p19arf m1i plasmid was co-
+transfected with the mito-dsred plasmid, which targets
+a red ﬂuorescent protein speciﬁcally to the mitochondria
+due to its fusion with a mitochondrial targeting se-
+quence. a perfect overlap between the anti-flag stain-
+ing and the mito-dsred signal was observed (figure 4a),
+indicating that smarf localizes to mitochondria. smarf
+mitochondrial localization was also conﬁrmed by confo-
+cal microscopy (data not shown). notably, while hela
+cells cotransfected with luciferase, gfp, and mito-
+dsred plasmids exhibited the typical spread and tubu-
+lar morphology of mitochondria (figure 4a,
+lower
+panels), the morphology of the mitochondria in cells ex-
+pressing smarf was abnormal; they were condensed,
+rounded, and clustered in the perinuclear region (fig-
+ure 4a). to conﬁrm that
+the endogenous smarf
+detected at low levels in 35-8 mefs (see figure 1f)
+also localizes to the mitochondria, these cells were
+costained with anti-p19arf and anti-cytochrome c anti-
+bodies. signiﬁcantly, positive mitochondrial staining
+could be detected in a small fraction of the cells, in ad-
+dition to the expected, much more prominent nucleolar
+staining of the full-length protein (figure 4b). the stain-
+ing was speciﬁc since no mitochondrial staining could
+be detected with the same antibodies in nih3t3 cells
+that do not express any p19arf (figure 4b).
+in order to conﬁrm the mitochondrial localization of
+smarf by another approach, mitochondria were sepa-
+rated from the nuclear and cytosolic fractions by differ-
+ential centrifugation. the biochemical cell fractionations
+were performed in 35-8 cells to assess endogenous pro-
+teins and in 293t cells transfected with dnp19arf to as-
+sess ectopically expressed smarf; p19arf m45a was
+used as a control. proteinase k, a nonspeciﬁc serine
+protease that cannot penetrate mitochondrial mem-
+branes, was used to determine whether smarf is pres-
+ent inside the mitochondria or associates with the outer
+surface of the organelle. both endogenous and exoge-
+nous smarf were detected predominantly in the pro-
+teinase k-resistant compartment of the mitochondria
+(figures 4c and 4d). smarf was subjected to degrada-
+tion upon addition of the detergent triton-x (figure 4d).
+this pattern of resistance to proteinase k was similar to
+that of cytochrome c (figure 4d, left bottom lane), sug-
+gesting that smarf is an intramitochondrial protein. in
+contrast, bcl-xl and bcl-2, which are surface mitochon-
+drial proteins, were completely exposed to proteinase k
+even in the absence of detergent and therefore were
+completely proteolyzed (figure 4d, right lanes). of
+note, a minor portion of full-length p19arf was present
+in the mitochondrial preparations (figure 4c) and, in
+contrast to smarf, was sensitive to proteinase k diges-
+tion (w80% digestion, figure 4d). therefore, it is possi-
+ble that the presence of full-length p19arf reﬂects non-
+speciﬁc contamination of the mitochondrial fraction,
+a short mitochondrial form of p19arf
+467
+figure 4. smarf localizes to mitochondria
+(a) hela cells grown on glass coverslips were transiently cotransfected with mito-dsred and either p19arf m1i or luciferase and gfp. after 24 hr,
+cells were immunostained with anti-flag antibodies and examined by ï¬‚uorescent light microscopy. scale bar represents 10 mm.
+(b) a fraction of endogenous p19arf also exhibits mitochondrial staining. 35-8 and nih3t3 cells were immunostained with anti-p19arf and anti-
+cytochrome c antibodies. scale bar represents 5 mm.
+(c) smarf localizes within the mitochondria. cellular extracts from 35-8 and 293t cells transfected with dnp19arf or p19arf m45a were frac-
+tionated into nuclear, cytosolic, and mitochondrial fractions (40 mg of each fraction of 35-8 cells per lane and 25 mg of each fraction of 293t trans-
+fectants per lane). note that the nuclear fraction was contaminated with unlysed cells. the enriched mitochondrial fraction was subjected to pro-
+teinase k treatment (1 mg/ml). to assess the purity of the fractions, mthsp70 and a-tubulin were used as markers for the mitochondria and
+cytoplasm, respectively.
+(d) the enriched mitochondrial fraction from 35-8 cells (100 mg per lane) was assayed before and after proteinase k treatment, in the presence or
+absence of triton x-100 as indicated, and western blotted for p19arf, cytochrome c, bcl-xl, and bcl-2.
+molecular gen
+  
+468
+a b
+alm-flaﬁ w
+e .o
+33 w
+4mm; 2 m
+5 w
+e a
+e a
+n :2
+mm“; - i
+o :0
+° com. um anmsuts
+nih3t3
+anu-rlau mm c
+anpwarf g
+9“ mgmm
+mama; ah mom
+g m 39..
+m 19-:
+m‘ m? m3 m‘
+d hm
+overlay+dafl
+and‘mrf -
+e .nmpmnf overlavaapl
+mo v
+:5 9a
+35-! g 3.,
+0 7n
+i an
+g sn
+3 40
+bszak 2 3“
+am 3 10
+g m
+iucmmg iucmpw iucmplv
+mm 35.5 baxbakdko
+f am act“
+mm m," m: :an!k\»)ﬂ.mws
+‘ v 2(—
+9..
+., w - - cum»
+5.. 3:-
+m -- “m
+1,, 2‘-
+n 22— “mm
+.. 14—
+mm mm am mm! 34-)“.wa
+am hchl
+‘z
+9.1:
+figure 5. smarf causes disswpallon ouwm m a p53- and bcl-z—famny-maepemem manner
+(ad hela m nmm ceus were transiently lranslected «or 24 hr wnn me indicated plasmids, incubaled for an mm wun mllotracker red. immu-
+unstained wulh ann-hag antibodies, and viewed by ﬂuorescent ngm microscopy. the armws intimate translecled cells that ran to 9mm
+muotracker red staining. scale bar represents 5 pm.
+(e) quanmanon of "man ceus ethmng reduced alum, as ana‘yzed m (a). data presented are the mean :sd calculated lmm mpllcales of 1 no
+lranslected cells each.
+a short mitochondrial form of p19arf
+469
+while smarf’s resistance to proteinase k indicates that
+it is a genuine resident of the mitochondria.
+smarf causes dissipation of djm
+to assess possible effects of smarf on mitochondrial
+function, a ﬂuorescent mitochondrial dye, mitotracker
+red (cmx-ros, molecular probes), which accumulates
+only in actively respiring mitochondria that have an in-
+tact djm, was used. hela and nih3t3 cells expressing
+either wt p19arf or dnp19arf were stained with mito-
+tracker red, ﬁxed, and then immunostained with anti-
+flag antibodies. surprisingly, nearly 100% of cells trans-
+fected with the dnp19arf plasmid lacked mitotracker
+dye uptake, while nontransfected neighboring cells ex-
+hibited strong mitotracker staining (figure 5a). unlike
+the dnp19arf-expressing cells, the adjacent nontrans-
+fected cells displayed the typical spread and tubular
+morphology of mitochondria. these observations sug-
+gested that smarf not only impairs the structure of
+the mitochondria but also dramatically dissipates
+djm. these data were compared to the outcome of
+transfections with the wt p19arf plasmid, which ex-
+presses high levels of full-length p19arf and small
+amounts of smarf. as expected, most of the cells dis-
+played the typical p19arf nucleolar staining and strong
+mitotracker staining, suggesting that djm in these
+transfectants was not impaired (figure 5a). yet,
+in
+a small fraction of the transfected cells, mainly those
+displaying the highest p19arf expression levels, extra-
+nuclear staining was evident in addition to the nucleolar
+distribution; in some of those cells, mitotracker uptake
+was reduced (figure 5a). this further supports the con-
+clusion that
+the mitochondrial presence of smarf
+causes dissipation of djm. figure 5b shows a quantita-
+tive comparison of the extent of loss of djm in nih3t3
+cells expressing full-length p19arf, dnp19arf, or p19arf
+m45a. the proportion of cells exhibiting reduced djm
+correlated with the levels of smarf produced:
+dnp19arf, which produces large amounts of the short
+form only, caused loss of mitotracker staining in nearly
+100% of transfected cells, while djm was intact in most
+of the cells transfected with p19arf m45a, which ex-
+presses almost exclusively full-length p19arf. an inter-
+mediate phenotype (30%) was observed with the wt
+p19arf plasmid, which is capable of producing both
+forms. thus, these experiments imply that smarf, but
+not full-length p19arf, is capable of mediating the re-
+duction in djm and that the ectopically expressed
+smarf has to exceed some threshold levels in order
+to damage the mitochondria. to conﬁrm that the loss
+of mitotracker red staining was in fact a result of
+smarf-mediated reduction in djm, ﬂow cytometric
+analysis of transfected nih3t3 cells stained with the mi-
+tochondrial probe dioc6 was performed. facs analysis
+was performed on the entire cell population (w50%
+transfection efﬁciency). smarf caused a complete
+loss of djm in 39.1% of the total cells (i.e., in most of
+the transfectants) (figure 5c). thus, two independent
+experimental methods prove that smarf induces dissi-
+pation of the djm. despite loss of djm at 24 hr, cyto-
+chrome c was not released from the mitochondria in the
+majority of cells (figure 5d), indicating that the outer mi-
+tochondrial membrane was intact. notably, hsmarf
+was also detected in the mitochondria and caused dissi-
+pation of the djm (data not shown).
+smarf damages djm in a p53- and
+bcl-2-independent manner
+in order to test whether smarf’s function is coupled to
+the known mitochondrial signaling pathways that in-
+volve p53 and the bcl-2 family proteins, the mitochon-
+drial effect of smarf was assessed in the presence
+and absence of these regulators. it was found that
+smarf was also capable of reducing the djm in the
+35-8 mef-derived cell
+is p53 deﬁcient
+(figure 5e), indicating that p53 is not required for the mi-
+tochondrial effects of this p19arf form. introduction of
+dnp19arf into bax/bak double null mefs likewise re-
+sulted in dissipation of djm (figure 5e). furthermore,
+smarf’s ability to dissipate djm was not impaired by
+overexpressing either bcl-2 or bcl-xl (figure 5f). this
+indicates that smarf damages the mitochondrial mem-
+brane in a manner that involves neither p53 nor the bcl-2
+family.
+line that
+smarf induces autophagy and caspase-
+independent cell death
+in order to assess the cellular outcome of smarf ex-
+pression, 293t cells were transfected with dnp19arf
+and were further analyzed at 48 hr. cells transfected
+with control plasmid reached near conﬂuency (fig-
+ure 6a). in contrast, culture dishes transfected with
+dnp19arf contained many rounded, ﬂoating, dying
+cells, similar to cultures that were transfected with
+tnfr-1 (p55 tumor necrosis factor receptor-1), which
+triggers typical caspase-dependent cell death (fig-
+ure 6a). the drop in cell survival
+in response to
+dnp19arf transfection was further quantiﬁed at 72 hr
+(c) nih3t3 cells expressing luciferase (black) or smarf (red) were assayed for loss of djm 24 hr after transfection by ﬂow cytometric analysis of
+dioc6 ﬂuorescence. histograms represent cell counts versus ﬂuorescence intensity. three distinct populations of cells were deﬁned by their
+levels of ﬂuorescent intensities: m1 cells with dramatic reduction in djm, m2 cells with an intermediate state of djm, and m3 cells with intact
+djm. note that the transfection efﬁciency, as determined by the percent of gfp-positive cells, was 50%, but the entire cell population, com-
+prising both transfected and nontransfected cells, was analyzed.
+(d) nih3t3 cells were transiently transfected for 24 hr with dnp19arf plasmid, immunostained with anti-cytochrome c and rabbit anti-flag an-
+tibodies, and viewed by ﬂuorescent light microscopy. scale bar represents 5 mm.
+(e) 35-8 cells and bax/bak double knockout immortalized mefs were transiently transfected for 24 hr with the dnp19arf plasmid, stained with
+mitotracker red and anti-p19arf antibodies, and viewed by ﬂuorescent light microscopy. the arrows indicate transfected cells that failed to
+exhibit mitotracker red staining. scale bar represents 5 mm. the graph represents quantitation of transfected cells exhibiting loss of mitochon-
+drial potential upon transfection of nih3t3, 35-8 cells, and bax/bak double knockout immortalized mefs with either luciferase or dnp19 together
+with gfp. data presented are the mean 6sd calculated from triplicates of 100 transfected cells each.
+(f) nih3t3 cells were cotransfected with luciferase or dnp19arf and either bcl-2 or bcl-xl together with gfp. after 24 hr, cells were stained with
+mitotracker red. gfp-positive cells were visualized by ﬂuorescent microscopy and scored for the reduction in mitotracker staining. data pre-
+sented are the mean 6sd calculated from triplicates of 100 transfected cells each. western blot analysis veriﬁed the ectopic expression of the
+transfected plasmids.
+molecular cell
+470
+figure 6. smarf induces cell death that involves autophagic vesicle formation
+(a) representative photographs of cells 48 hr after transfection with cat, dnp19arf, or tnfr-1 plasmids. transfection efﬁciency corresponded
+to w90%. scale bar represents 200 mm.
+(b) quantiﬁcation of cell viability 72 hr after transfection with control, dnp19arf, or tnfr-1, using neutral red assay in 293t cells (left panel) or
+luciferase activity assay in 293-luc cells (middle panel). the right panel represents quantitation of cell death as measured by assessing the per-
+cent of trypan blue-positive cells out of total cells. total cell number is also shown. data presented are the mean 6sd of triplicate plates and are
+representative of three independent experiments. the asterisk denotes signiﬁcance level of p < 0.02.
+(c) western blot analysis of extracts of the indicated transfected 293t cells, reacted with anti-parp, anti-cleaved caspase-3, or anti-flag anti-
+bodies.
+(d) localization of gfp-lc3 in cells cotransfected with either luciferase, dnp19arf, or tnfr-1. scale bar represents 40 mm.
+(e) quantitation of the percentage of cells with punctate gfp-lc3 ﬂuorescence per total gfp-lc3-positive cells, 48 hr after transfection, in the
+presence or absence of zvad-fmk. data presented are the mean 6sd of triplicate plates.
+a short mitochondrial form of p19arf
+471
+and compared to the outcome of transfection with
+tnfr-1. two independent viability assays were used,
+the neutral red dye uptake assay and a second sensi-
+tive assay that measures cellular luciferase activity in vi-
+able cells. as shown in figure 6b, smarf reduced cell
+viability to a similar extent as tnfr-1. in parallel, the ex-
+tent of cell death was directly measured by trypan blue
+staining. a signiﬁcant increase in the percent of trypan
+blue-positive cells was observed in dnp19arf transfec-
+tants, similar to the extent of cell death induced by
+tnfr-1 (figure 6b, right panel). yet, molecular analysis
+revealed that the type of cell death is different in each
+case. western blot analysis of parp-1 and caspase-3
+cleavage conﬁrmed that tnfr-1 induced classical apo-
+ptotic cell death involving caspase activation (fig-
+ure 6c). smarf, in contrast, induced caspase-indepen-
+dent cell death, which was not accompanied by parp-1
+or caspase-3 cleavage (figure 6c) and which was not
+blocked by the pancaspase inhibitor zvad-fmk (data
+not shown). although mitochondrial function was im-
+paired by smarf (figure 5), atp production was main-
+tained in these cells (data not shown), probably by gly-
+colysis, suggesting that cell death is not a result of
+atp depletion.
+further characterization of the cell death phenotype
+suggested that smarf activates autophagy. this was
+ﬁrst assessed by examining the localization of gfp-
+tagged lc3 (microtubule-associated protein 1 light
+chain 3). vesicular accumulation of lc3 is a marker of
+autophagy, as recruitment of modiﬁed lc3 to the na-
+scent autophagic vesicle is an early event in autophago-
+some formation (kabeya et al., 2000). to this end, the
+gfp-tagged lc3 plasmid was coexpressed with either
+an irrelevant control plasmid or with dnp19arf or
+tnfr-1 plasmids. diffuse cytoplasmic localization of
+gfp-lc3 was observed when it was expressed together
+with the control or with the tnfr-1 plasmids, whereas
+around 60% of the cells that expressed smarf showed
+punctate ﬂuorescent staining indicative of autophagic
+vesicles (figure 6d). furthermore, the number of auto-
+phagic cells showing punctate staining of lc3 was not
+signiﬁcantly reduced upon administration of the pan-
+caspase inhibitor zvad-fmk (figure 6e). the presence
+of autophagic vesicles was further conﬁrmed by exami-
+nation of 293t transfectants by transmission em (tem).
+as expected, in control-transfected cells, autophagic
+vesicles were rarely observed (figure 6fa). in contrast,
+numerous double membrane-enclosed vesicles sur-
+rounding cytoplasmic matter and organelles appeared
+in dnp19arf-transfected cells (figures 6fb–6fg).
+to determine the relative kinetics with which the dif-
+ferent smarf-induced events occurred, 293t cells
+were cotransfected with dnp19arf together with gfp-
+lc3 and were stained with mitotracker red at the indi-
+cated times. most of the cells (96%) exhibited reduced
+djm as early as 24 hr after transfection (figure 6g). in
+contrast, autophagic vesicles accumulated more slowly.
+punctate localization of gfp-lc3 was ﬁrst observed at
+24 hr in 47% of the cells and reached a value of 61% after
+48 hr (figure 6g). thus, the disruption of djm clearly
+precedes the development of autophagy in smarf-
+expressing cells.
+knockdown of endogenous autophagic proteins
+protects against smarf-induced cell death
+recent studies have documented several scenarios in
+which induction of autophagy triggers cell death (mills
+et al., 2004; shimizu et al., 2004; yu et al., 2004) while
+in many other cellular settings autophagy is cytoprotec-
+tive (reviewed by gozuacik and kimchi [2004]). to as-
+sess the involvement of autophagy in smarf-induced
+cell death, shrna plasmids were generated to target
+two key mediators of autophagosome formation, atg5
+and beclin-1. atg5 is part of a ubiquitin-like pathway
+necessary for the formation of the autophagic vesicle.
+it is covalently conjugated to atg12, enabling the for-
+mation of a large multiprotein complex that is recruited
+to the nascent autophagosomal membrane (mizushima
+et al., 2001). beclin-1 is a regulator of a class iii phospha-
+tidylinositol 3-kinase complex, which is involved in the
+nucleation of the autophagosomes (liang et al., 1999).
+both atg5 and beclin-1 protein levels were partially re-
+duced upon transfection with the shrna constructs
+(figure 7a). the reduction in protein expression was
+functionally signiﬁcant since, as expected, the atg5 or
+beclin-1 shrnas partially reduced autophagosome for-
+mation by amino acid deprivation (figure 7b). to assess
+the effect of atg5 or beclin-1 reductions on smarf-in-
+duced autophagy, 293t cells in which atg5 or beclin-1
+was knocked down were cotransfected with gfp-lc3
+and dnp19arf. it was found that the extent of autophagy
+induced by smarf was partially reduced by knocking
+down either atg5 or beclin-1 in a statistically signiﬁcant
+manner (figure 7c). to determine whether autophagy is
+causative to the smarf-induced cell death, or is rather
+a cytoprotective mechanism, we measured the outcome
+of knockdown of atg5 or beclin-1 on cell viability. to
+this end, 293-luc cells in which atg5 or beclin-1 protein
+levels were reduced by the shrna plasmids were sub-
+sequently transfected with control or dnp19arf plas-
+mids, and the survival assay was performed 72 hr later.
+it was found that the knockdown of the autophagic pro-
+teins attenuated rather than increased the ability of
+smarf to induce cell death (figure 7d). this result
+was obtained repeatedly in three independent experi-
+ments. western blotting conﬁrmed that equal levels of
+smarf were expressed in all transfectants (figure 7a).
+thus, the massive autophagy that is induced by smarf
+positively contributes to the cell death process.
+discussion
+this work highlights a new mode of regulation of p19arf
+expression that occurs at the level of translation and
+confers a nonnucleolar death-inducing function to
+p19arf.
+involves the production of a previously
+it
+(f) transmission electron micrographs of 293t cells transfected with luciferase (a) or dnp19arf ([fb–fg]; [fe] is a magniﬁcation of [fb]). the ‘‘m’’
+indicates mitochondria, the ‘‘n’’ indicates nucleus. the black bar represents 1 mm, the white bar represents 200 nm. white arrows point to
+autophagic vesicles.
+(g) quantitation of 293t cells cotransfected with gfp-lc3 and dnp19arf plasmids exhibiting reduced djm and punctate gfp-lc3 ﬂuores-
+cence per total gfp-lc3-positive cells at the indicated times. data presented are the mean 6sd of triplicate plates.
+molecular cell
+472
+figure 7. knockdown of endogenous autophagic proteins protects against smarf-induced cell death
+(a) 293-luc cells were transfected with control, atg5, or beclin-1 shrna plasmids. after 48 hr, the cells were retransfected with control (cat) or
+dnp19arf plasmids. western blot analysis was performed 72 hr later, with anti-atg5, anti-beclin-1, or anti-flag antibodies. actin was used as
+a loading control.
+(b) 293t cells were transfected with control, atg5, or beclin-1 shrna plasmids. after 4 days, the cells were cotransfected with gfp-lc3.
+twenty-four hours later, the cells were starved in ebss for 3 hr at 37ºc. the cells with punctate gfp-lc3 were quantiﬁed per total gfp-lc3-
+positive cells. data presented represent mean 6sd calculated from triplicates of 100 transfected cells each. the asterisk denotes signiﬁcance
+level of p < 0.001.
+(c) 293t cells were transfected with control, atg5, or beclin-1 shrna plasmids. after 4 days, the cells were cotransfected with gfp-lc3 and
+control or dnp19arf plasmids. twenty-four hours later, the cells with punctate gfp-lc3 were quantiﬁed per total gfp-lc3-positive cells. data
+presented represent mean 6sd calculated from triplicates of 100 transfected cells each. the asterisk denotes signiﬁcance level of p < 0.001.
+(d) 293 cells that stably express luciferase (293-luc) were transfected with the indicated shrna plasmids. after 48 hr, the cells were retrans-
+fected with control (cat) or dnp19arf plasmids, and the survival assay was performed 72 hr later. the overall cell survival was determined
+by dividing the average luciferase activity values (from triplicates) of cells transfected with dnp19arf by the average values of the cells trans-
+fected with control for each knockdown.
+uncharacterized translation product, smarf, which re-
+sults from internal initiation at met45. this form lacks
+the n-terminal region encompassing the domains re-
+quired for the various nucleolar functions of p19arf
+and, instead, translocates to a proteinase k-resistant
+compartment of the mitochondria.
+in healthy cells,
+smarf accumulates to low steady-state levels, due to
+its rapid turnover, and thus is not harmful to cells.
+forced expression of this form, however, leads to dissi-
+pation of the djm and ultimately to autophagic vesicle
+formation and caspase-independent cell death.
+smarf causes the dissipation of the inner membrane
+potential by a mechanism that does not involve the dif-
+ferent bcl-2 family members that were examined. fur-
+thermore, no signs of cytochrome c release into the cy-
+toplasm and subsequent caspase activation were
+detected, suggesting that the outer membrane is not
+damaged by smarf. thus smarf does not trigger
+type i caspase-dependent cell death. instead, smarf
+induced the formation of autophagosomes. autophagy
+can be used by cells to protect them from adverse con-
+ditions or alternatively may lead to their ﬁnal destruction
+(reviewed by gozuacik and kimchi [2004]). the electron
+microscopy studies performed here showed that
+smarf induces a large number of autophagosomes in
+cells, which engulf different intracellular components in-
+cluding mitochondria, er, and bulk cytoplasm. knock-
+ing down two important elements in the autophagy
+pathways, atg5 and beclin-1, partially compromised
+both autophagic activity and cell death, implying that
+autophagy is necessary for smarf-induced cell death.
+several studies suggest that damaged mitochondria
+may be a trigger for the induction of autophagy (elmore
+et al., 2001; rodriguez-enriquez et al., 2004). in particu-
+lar, in yeast grown under nonstarvation conditions, au-
+tophagy can be induced by impairing the mitochondrial
+electrochemical transmembrane potential (priault et al.,
+2005). thus, it is possible, although not yet proven, that
+the smarf-induced mitochondrial depolarization may
+signal the induction of autophagic vesicle formation.
+since atp levels were not reduced in smarf-express-
+ing cells, it is unlikely that the signaling operates through
+induction of amp kinase (ampk) and mtor inhibition.
+ectopic expression of cellular and viral oncogenes led
+to elevation of smarf protein levels, suggesting that
+both the nucleolar full-length p19arf and the mitochon-
+drial short form are regulated by oncogenes. the exis-
+tence of these two isoforms of p19arf may thus enable
+hyperproliferative signals to activate two concurrent
+pathways that may both contribute to the cell’s defen-
+sive response to transformation. the ﬁrst pathway in-
+volves the known nucleolar functions of the full-length
+protein, i.e., regulation of p53 stability and activity by
+binding to mdm2 (honda and yasuda, 1999; midgley
+et al., 2000; tao and levine, 1999; weber et al., 1999)
+and interference with the processing and maturation of
+a short mitochondrial form of p19arf
+473
+preribosomal rna, thereby restraining protein synthesis
+and cell growth (bertwistle et al., 2004; itahana et al.,
+2003; sugimoto et al., 2003). the second pathway, acti-
+vated by the short form, utilizes a mitochondria-based
+mechanism to induce autophagy and caspase-indepen-
+dent cell death. this mitochondrial pathway may act as
+a back-up to the nuclear pathway, particularly in circum-
+stances when p53 and/or the caspase-dependent apo-
+ptotic pathway are nonfunctional.
+it is noteworthy that in response to dna damage,
+a fraction of p53 may also localize to the mitochondria
+and activate a mitochondrial-based death pathway,
+yet by a different mechanism that involves bcl-2 family
+members (mihara et al., 2003). furthermore, p53 was re-
+cently linked to autophagy by activating ampk and in-
+hibiting mtor activity upon glucose deprivation and is
+also a target for activation by ampk (feng et al., 2005;
+jones et al., 2005). however, those mechanisms do
+not appear to bear any relationship to the arf activity
+described in the present study.
+notably, the human p14arf ortholog is also capable of
+producing hsmarf, which can localize to and impair the
+mitochondria, despite its retention of a second nucleolar
+localization signal (weber et al., 2000b). thus the mito-
+chondrial function of arf is conserved between the dis-
+parate human and mouse orthologs. a comparison of
+sequence databases revealed, however, that while the
+human, mouse, and hamster genes all have a second
+met at a similar position, there is no corresponding
+met in the published sequences from other species
+such as rat, opossum, and pig. yet, expression of the
+cdna for rat p19arf produced a shorter form of the pro-
+tein in the presence of proteasome inhibition, similar to
+what was observed for the human protein. thus, while
+it is likely that the rat ortholog utilizes another mecha-
+nism to generate its short form, the production of
+smarf is conserved among mammals, suggesting
+that this form serves an essential cellular function.
+in summary, an already complex picture involving the
+existence of alternative reading frames of the ink4a/
+arf locus has now become even more exciting with
+the discovery of an alternative translation product of
+the arf mrna. the interesting activities associated
+with this short arf isoform may in fact be critical to
+arf’s tumor suppressor function.
+experimental procedures
+dna constructs, transfections, and infections
+all cell lines were grown as previously described (cohen et al., 1997;
+raveh et al., 2001). 293t and hela cells were transiently transfected
+by the standard calcium phosphate technique. nih3t3 cells, 35-8
+cells, and bax/bak double knockout immortalized mefs were tran-
+siently transfected with lipofectamine (invitrogen). retroviral medi-
+ated infections were performed as previously described (cohen
+et al., 1997; raveh et al., 2001). to induce autophagy by amino
+acid deprivation, cells were washed twice with pbs and then incu-
+bated in earle’s balanced salt solution (ebss, biological industries)
+for 3 hr at 37ºc. p19arf and p14arf were expressed from pcdna3
+plasmids tagged at their c terminus with the flag epitope. methio-
+nine substitution mutants were generated by site-directed mutagen-
+esis (quikchange site-directed mutagenesis kit, stratagene). rat
+p19arf was cloned from a rat bladder cdna library (kind gift of n. de-
+kel, weizmann institute of science) by pcr using primers corre-
+sponding to accession number ay679727, with a flag tag at the 30
+end of the cdna. to generate psuper-based shrna vectors tar-
+geting beclin-1, atg5, and hcred (control), 19-mer oligos corre-
+sponding to nucleotides 1339–1357 of beclin-1 (accession number
+nm003766), 779–797 of atg5 (accession number nm004849)
+(boya et al., 2005), and 99–117 of hcred (accession number
+af363776) were annealed and ligated into the bglii and hindiii of
+the psuper vector (brummelkamp et al., 2002). myc and e2f-1
+were produced from pbabe-puro-derived retroviruses that were
+used to infect cells under puromycin selection conditions as previ-
+ously described (raveh et al., 2001). cells were viewed live on an in-
+verted ix70 microscope (olympus) equipped with a cplan 103 ob-
+jective (n.a. 0.25) and a dvc digital camera (digital video camera
+co.). images were captured using the c-view v2.1 imaging program
+and processed with adobe photoshop.
+protein analysis
+cell lysis, immunoprecipitations, and immunoblotting were done as
+previously described (raveh et al., 2001). proteins were separated
+on 10%, 12%, or 15% sds-page. the following monoclonal anti-
+bodies were used: anti flag, anti a-tubulin, and anti actin (sigma);
+anti c-myc, anti e2f-1, and anti bcl-2 (santa cruz biotechnology);
+anti cytochrome c (bd biosciences); and anti parp (biomol). poly-
+clonal antibodies to p19arf (abcam); mitochondrial hsp70/grp75,
+bcl-xl, and beclin-1 (santa cruz biotechnology); cleaved caspase-3
+(cell signaling); and atg5 (a generous gift from n. mizushima) were
+used. detection was done by either hrp-conjugated goat anti-mouse
+or anti-rabbit secondary antibodies (jackson immunoresearch),
+followed by enhanced chemiluminescence (supersignal, pierce)
+in vitro transcription and translation assay
+wt p19arf, p19arf mutant, wt p14arf, and p14arf mutant plasmids
+were used as templates for coupled in vitro transcription/translation
+from the t7 promoter (tnt reticulocyte lysate systems, promega)
+by conventional procedures, using a complete amino acid mixture.
+the reaction products were immunoprecipitated with m2-flag
+beads and then subjected to western blot analysis on 12% or, where
+indicated, 15% gels.
+analysis of protein stability in vivo
+the turnover of the endogenous smarf in 35-8 cells was monitored
+by western blot analysis of cell extracts following the addition of
+20 mg/ml cycloheximide (sigma). in addition, when indicated, the
+proteasome inhibitor mg132 (calbiochem; 10 mm or 100 mm) was
+included.
+cell fractionation and proteinase k sensitivity assays
+cell pellets were suspended in isotonic him buffer (200 mm manni-
+tol, 70 mm sucrose, 1 mm egta, 10 mm hepes [ph 7.5]) with pro-
+tease inhibitors, incubated 10 min on ice, homogenized by multiple
+passages through a 25g needle, and centrifuged at 300 3 g at 4ºc
+for 10 min to pellet the nuclear fraction. to reduce the amount of un-
+lysed cells in the nuclear fraction, the homogenization procedure
+was repeated twice in the nuclear fraction. the ﬁnal pellets were ex-
+tracted with plb buffer containing protease inhibitors (nuclear frac-
+tion). the supernatant (s1) was recentrifuged at 10,000 3 g at 4ºc for
+10 min to pellet mitochondria, and the supernatant was saved as the
+cytosolic fraction. unless indicated otherwise, the crude mitochon-
+dria fraction was resuspended in him buffer and treated for 30 min
+with proteinase k (0.1 or 1 mg/ml) in the presence or absence of tri-
+ton x-100 (1% ﬁnal concentration). proteolysis was stopped by the
+addition of 5 nm pmsf. the mitochondrial pellets were extracted
+with plb buffer containing protease inhibitors to give the mitochon-
+drial fraction.
+immunostaining
+wt p19arf and derived mutants were transfected into hela, nih3t3,
+35-8, 293t cells, or bax/bak double knockout mefs grown on glass
+coverslips. when indicated, after 24 hr the cells were treated with
+100 nm mitotracker dye (cmx-ros, molecular probes) in growth
+medium for 30 min at 37ºc and then ﬁxed and permeabilized by sub-
+sequent incubations in 3.7% formaldehyde, methanol, and acetone.
+cells were then permeabilized/blocked with 0.4% triton-x 100
+(sigma) in 10% normal goat serum (biological industries) and incu-
+bated for 1 hr with mouse anti-flag antibodies (sigma), followed
+by fitc-conjugated donkey anti-mouse secondary antibodies
+molecular cell
+474
+(jackson immunoresearch) or rabbit polyclonal anti-flag (sigma),
+followed by rhodamine-redx (rrx)-conjugated goat anti-rabbit
+(jackson immunoresearch). to stain endogenous p19arf, 35-8
+cells and nih3t3 cells were permeabilized with 0.5% triton-x-100
+in 4% paraformaldehyde solution for 5 min and then ﬁxed with para-
+formaldehyde for 20 min. cells were incubated with antibodies to
+p19arf (abcam) or cytochrome c (bd biosciences) and then incu-
+bated with cy-2-conjugated donkey anti-rabbit antibodies or rho-
+damine-conjugated goat anti-mouse antibodies (jackson immu-
+noresearch). cells were ﬁnally stained with dapi
+(0.5 mg/ml,
+sigma). to visualize autophagosomes, 293t cells grown on glass
+coverslips in the presence or absence of 100 mm zvad-fmk (sigma)
+were cotransfected with 1 mg gfp-lc3 and 9 mg luciferase,
+dnp19arf, or tnfr-1 expression plasmids. stained cells were
+viewed by ﬂuorescent microscopy (olympus bx41) with 603 (n.a.
+1.25) or 1003 (n.a. 1.3) uplan-fl oil immersion objectives, and digital
+images were obtained with a dp50 ccd camera using viewﬁnder-
+lite and studiolite software (olympus). composites and merged
+images were generated in photoshop (adobe systems).
+flow cytometric analysis of djm
+perturbations in djm were monitored by ﬂow cytometry. trans-
+fected nih3t3 cells were collected in culture medium by trypsiniza-
+tion and stained with 40 nm 3,30dihexyloxacarbocyanine (dioc6,
+sigma) for 30 min at 37ºc. samples were then analyzed by a facs-
+can cytometer (becton dickinson), using an excitation laser of 488
+nm and emission ﬁlter of 530/30 nm.
+viability assays
+for the neutral red assay, 293t cells were transfected with control
+(cat), dnp19arf, or tnfr-1 plasmids, and cell viability was mea-
+sured via the uptake of the vital dye neutral red (sigma) according
+to the manufacturer’s instructions. for the luciferase-based survival
+assay, a monoclonal population of 293 cells stably transfected with
+pcdna3-luciferase was generated by g418 selection (293-luc). 293-
+luc cells were then transfected with control (cat), dnp19arf, or
+tnfr-1 plasmids. for some experiments, cells were transfected 2
+days in advance with shrna plasmids. cell viability was assessed
+by measuring luciferase activity (promega) according to the manu-
+facturer’s instructions, using an anthos lucy3 microplate luminom-
+eter. the overall cell survival in the shrna experiments was deter-
+mined by dividing the mean luciferase activity (from triplicates) of
+cells transfected with dnp19arf by the mean activity of cells trans-
+fected with control (cat) for each knockdown experiment. for try-
+pan blue staining, 293t cells were transfected with control (cat),
+dnp19arf, or tnfr-1 plasmids, and cell death was measured by
+uptake of trypan blue (sigma) into cells that had lost membrane
+integrity.
+transmission electron microscope
+293t cells were transfected with luciferase (control) or dnp19arf
+plasmids. cells were ﬁxed for 1 hr in karnovsky’s ﬁxative (3% para-
+formaldehyde, 2% glutaraldehyde, 5 mm cacl2 in 0.1 m cacodylate
+buffer [ph 7.4], containing 0.1 m sucrose). cells were scraped, pel-
+leted, and embedded with agar noble to a ﬁnal concentration of
+1.7% and postﬁxed with 1% oso4, 0.5% potassium dichromate,
+and 0.5% potassium hexacyanoferrate in 0.1 m cacodylate buffer.
+the pellet was stained en bloc with 2% aqueous uranyl acetate fol-
+lowed by ethanol dehydration and embedded in embed (ems). sec-
+tions (75 nm) were cut, stained with 2% uranyl acetate in 50% etha-
+nol and lead citrate, and examined using a fei cm12 eindhoven
+transmission electron microscope at an accelerating voltage of
+120 kv. digital images were obtained with megaview3 ccd camera
+(sis gmbh).
+acknowledgments
+we thank n. mizushima and t. yoshimori for providing the gfp-lc3
+plasmid and anti-atg5 antibodies. we thank d. gozuacik for helpful
+discussions, g. shohat for help and advice, and a. gross for re-
+agents and advice. this work was supported by the israel science
+foundation administered by the israel academy of sciences and
+humanities (to a.k.) and by grants from the european union
+(lshb-ct-2004-511983) (to a.k.) and from the center of excellence
+grant from the flight attendant medical research institute (famri)
+(to a.k. and m.o). a.k. is the incumbent of the helena rubinstein
+chair of cancer research.
+received: september 14, 2005
+revised: january 13, 2006
+accepted: april 17, 2006
+published: may 18, 2006
+references
+bates, s., phillips, a.c., clark, p.a., stott, f., peters, g., ludwig,
+r.l., and vousden, k.h. (1998). p14arf links the tumour suppres-
+sors rb and p53. nature 395, 124–125.
+bertwistle, d., sugimoto, m., and sherr, c.j. (2004). physical and
+functional interactions of the arf tumor suppressor protein with nu-
+cleophosmin/b23. mol. cell. biol. 24, 985–996.
+boya, p., gonzalez-polo, r.a., casares, n., perfettini, j.l., dessen,
+p., larochette, n., metivier, d., meley, d., souquere, s., yoshimori,
+t., et al. (2005). inhibition of macroautophagy triggers apoptosis.
+mol. cell. biol. 25, 1025–1040.
+brummelkamp, t.r., bernards, r., and agami, r. (2002). a system
+for stable expression of short interfering rnas in mammalian cells.
+science 296, 550–553.
+cohen, o., feinstein, e., and kimchi, a.
+(1997). dap-kinase is
+a ca2+/calmodulin-dependent, cytoskeletal-associated protein ki-
+nase, with cell death-inducing functions that depend on its catalytic
+activity. embo j. 16, 998–1008.
+damalas, a., kahan, s., shtutman, m., ben-ze’ev, a., and oren, m.
+(2001). deregulated beta-catenin induces a p53- and arf-depen-
+dent growth arrest and cooperates with ras in transformation.
+embo j. 20, 4912–4922.
+elmore, s.p., qian, t., grissom, s.f., and lemasters, j.j. (2001). the
+mitochondrial permeability transition initiates autophagy in rat hepa-
+tocytes. faseb j. 15, 2286–2287.
+feng, z., zhang, h., levine, a.j., and jin, s. (2005). the coordinate
+regulation of the p53 and mtor pathways in cells. proc. natl.
+acad. sci. usa 102, 8204–8209.
+gozuacik, d., and kimchi, a. (2004). autophagy as a cell death and
+tumor suppressor mechanism. oncogene 23, 2891–2906.
+hemmati, p.g., gillissen, b., von haefen, c., wendt, j., starck, l.,
+guner, d., dorken, b., and daniel, p.t. (2002). adenovirus-mediated
+overexpression of p14(arf) induces p53 and bax-independent ap-
+optosis. oncogene 21, 3149–3161.
+honda, r., and yasuda, h. (1999). association of p19(arf) with
+mdm2 inhibits ubiquitin ligase activity of mdm2 for tumor suppres-
+sor p53. embo j. 18, 22–27.
+itahana, k., bhat, k.p., jin, a., itahana, y., hawke, d., kobayashi, r.,
+and zhang, y. (2003). tumor suppressor arf degrades b23, a nucle-
+olar protein involved in ribosome biogenesis and cell proliferation.
+mol. cell 12, 1151–1164.
+jones, r.g., plas, d.r., kubek, s., buzzai, m., mu, j., xu, y., birn-
+baum, m.j., and thompson, c.b. (2005). amp-activated protein ki-
+nase induces a p53-dependent metabolic checkpoint. mol. cell 18,
+283–293.
+kabeya, y., mizushima, n., ueno, t., yamamoto, a., kirisako, t.,
+noda, t., kominami, e., ohsumi, y., and yoshimori, t. (2000). lc3,
+a mammalian homologue of yeast apg8p, is localized in autophago-
+some membranes after processing. embo j. 19, 5720–5728.
+kuo, m.l., den besten, w., bertwistle, d., roussel, m.f., and sherr,
+c.j. (2004). n-terminal polyubiquitination and degradation of the arf
+tumor suppressor. genes dev. 18, 1862–1874.
+liang, x.h., jackson, s., seaman, m., brown, k., kempkes, b., hib-
+shoosh, h., and levine, b. (1999). induction of autophagy and inhibi-
+tion of tumorigenesis by beclin 1. nature 402, 672–676.
+lohrum, m.a., ashcroft, m., kubbutat, m.h., and vousden, k.h.
+(2000). identiﬁcation of a cryptic nucleolar-localization signal
+in
+mdm2. nat. cell biol. 2, 179–181.
+lowe, s.w., and sherr, c.j. (2003). tumor suppression by ink4a-arf:
+progress and puzzles. curr. opin. genet. dev. 13, 77–83.
+gram of autophagic cell death by caspase-8. science 304, 1500–
+1502.
+zindy, f., eischen, c.m., randle, d.h., kamijo, t., cleveland, j.l.,
+sherr, c.j., and roussel, m.f. (1998). myc signaling via the arf tu-
+mor suppressor regulates p53-dependent apoptosis and immortal-
+ization. genes dev. 12, 2424–2433.
+a short mitochondrial form of p19arf
+475
+matsuoka, m., kurita, m., sudo, h., mizumoto, k., nishimoto, i., and
+ogata, e. (2003). multiple domains of the mouse p19arf tumor sup-
+pressor are involved in p53-independent apoptosis. biochem. bio-
+phys. res. commun. 301, 1000–1010.
+midgley, c.a., desterro, j.m., saville, m.k., howard, s., sparks, a.,
+hay, r.t., and lane, d.p. (2000). an n-terminal p14arf peptide
+blocks mdm2-dependent ubiquitination in vitro and can activate
+p53 in vivo. oncogene 19, 2312–2323.
+mihara, m., erster, s., zaika, a., petrenko, o., chittenden, t., pan-
+coska, p., and moll, u.m. (2003). p53 has a direct apoptogenic role
+at the mitochondria. mol. cell 11, 577–590.
+mills, k.r., reginato, m., debnath, j., queenan, b., and brugge, j.s.
+(2004). tumor necrosis factor-related apoptosis-inducing ligand
+(trail) is required for induction of autophagy during lumen forma-
+tion in vitro. proc. natl. acad. sci. usa 101, 3438–3443.
+mizushima, n., yamamoto, a., hatano, m., kobayashi, y., kabeya,
+y., suzuki, k., tokuhisa, t., ohsumi, y., and yoshimori, t. (2001).
+dissection of autophagosome formation using apg5-deﬁcient
+mouse embryonic stem cells. j. cell biol. 152, 657–668.
+nakazawa, y., kamijo, t., koike, k., and noda, t. (2003). arf tumor
+suppressor induces mitochondria-dependent apoptosis by modula-
+tion of mitochondrial bcl-2 family proteins. j. biol. chem. 278,
+27888–27895.
+priault, m., salin, b., schaeffer, j., vallette, f.m., di rago, j.p., and
+martinou, j.c. (2005). impairing the bioenergetic status and the bio-
+genesis of mitochondria triggers mitophagy in yeast. cell death dif-
+fer. 12, 1613–1621.
+raveh, t., droguett, g., horwitz, m.s., depinho, r.a., and kimchi, a.
+(2001). dap kinase activates a p19arf/p53-mediated apoptotic
+checkpoint to suppress oncogenic transformation. nat. cell biol.
+3, 1–7.
+rodriguez-enriquez, s., he, l., and lemasters, j.j. (2004). role of
+mitochondrial permeability transition pores in mitochondrial au-
+tophagy. int. j. biochem. cell biol. 36, 2463–2472.
+shimizu, s., kanaseki, t., mizushima, n., mizuta, t., arakawa-
+kobayashi, s., thompson, c.b., and tsujimoto, y. (2004). role of
+bcl-2 family proteins in a non-apoptotic programmed cell death
+dependent on autophagy genes. nat. cell biol. 6, 1221–1228.
+stott, f.j., bates, s., james, m.c., mcconnell, b.b., starborg, m.,
+brookes, s., palmero, i., ryan, k., hara, e., vousden, k.h., and pe-
+ters, g. (1998). the alternative product from the human cdkn2a lo-
+cus, p14(arf), participates in a regulatory feedback loop with p53
+and mdm2. embo j. 17, 5001–5014.
+sugimoto, m., kuo, m.l., roussel, m.f., and sherr, c.j. (2003). nu-
+cleolar arf tumor suppressor inhibits ribosomal rna processing.
+mol. cell 11, 415–424.
+suzuki, h., kurita, m., mizumoto, k., nishimoto, i., ogata, e., and
+matsuoka, m. (2003). p19arf-induced p53-independent apoptosis
+largely occurs through bax. biochem. biophys. res. commun.
+312, 1273–1277.
+tao, w., and levine, a.j. (1999). p19(arf) stabilizes p53 by blocking
+nucleo-cytoplasmic shuttling of mdm2. proc. natl. acad. sci. usa
+96, 6937–6941.
+tsuji, k., mizumoto, k., sudo, h., kouyama, k., ogata, e., and mat-
+suoka, m. (2002). p53-independent apoptosis is induced by the
+p19arf tumor suppressor. biochem. biophys. res. commun. 295,
+621–629.
+weber, j.d., taylor, l.j., roussel, m.f., sherr, c.j., and bar-sagi, d.
+(1999). nucleolar arf sequesters mdm2 and activates p53. nat. cell
+biol. 1, 20–26.
+weber, j.d., jeffers, j.r., rehg, j.e., randle, d.h., lozano, g.,
+roussel, m.f., sherr, c.j., and zambetti, g.p. (2000a). p53-indepen-
+dent functions of the p19(arf) tumor suppressor. genes dev. 14,
+2358–2365.
+weber, j.d., kuo, m.l., bothner, b., digiammarino, e.l., kriwacki,
+r.w., roussel, m.f., and sherr, c.j. (2000b). cooperative signals
+governing arf-mdm2 interaction and nucleolar localization of the
+complex. mol. cell. biol. 20, 2517–2528.
+yu, l., alva, a., su, h., dutt, p., freundt, e., welsh, s., baehrecke,
+e.h., and lenardo, m.j. (2004). regulation of an atg7-beclin 1 pro-

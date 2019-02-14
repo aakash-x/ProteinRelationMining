@@ -1,0 +1,591 @@
+biochemical and biophysical research communications 356 (2007) 405–410
+www.elsevier.com/locate/ybbrc
+cis1/atg31 is required for autophagosome formation
+in saccharomyces cerevisiae q
+yukiko kabeya a, tomoko kawamata a, kuninori suzuki a,b, yoshinori ohsumi a,b,*
+a division of molecular cell biology, national institute for basic biology, myodaiji 38, okazaki 444-8585, japan
+b school of life science, the graduate university for advance studies, okazaki 444-8585, japan
+received 21 february 2007
+available online 7 march 2007
+abstract
+autophagy is the bulk degradation of cytosolic materials in lysosomes/vacuoles of eukaryotic cells. in the yeast saccharomyces cere-
+visiae, 17 atg proteins are known to be involved in autophagosome formation. genome wide analyses have shown that atg17 interacts
+with numerous proteins. further studies on these interacting proteins may provide further insights into membrane dynamics during
+autophagy. here, we identify cis1/atg31 as a protein that exhibits similar phenotypes to atg17. atg31 null cells were defective in
+autophagy and lost viability under starvation conditions. localization of atg31 to pre-autophagosomal structures (pas) was dependent
+on atg17. coimmunoprecipitation experiments indicated that atg31 interacts with atg17. together, atg31 is a novel protein that, in
+concert with atg17, is required for proper autophagosome formation.
+ó 2007 elsevier inc. all rights reserved.
+keywords: autophagy; starvation; atg; autophagosome; pas; rapamycin
+autophagy is an intracellular degradation system that
+responds to nutrient starvation. the process is highly con-
+served from yeast to higher eukaryotes. upon induction,
+cytoplasmic components, including organelles, are enclosed
+in double membrane structures, termed autophagosomes,
+and delivered to the lysosome/vacuole to be degraded.
+from recent studies in yeast, it is thought that a structure
+near the vacuole, called the pre-autophagosomal structure
+(pas)
+role in autophagosome
+formation.
+[1,2], plays a pivotal
+abbreviations: atg genes, autophagy-related genes; cvt, cytoplasm to
+vacuole targeting; gfp, green ﬂuorescent protein; pas, pre-autophagos-
+omal structure.
+q this work was supported in part by grants-in-aid for scientiﬁc
+research from the ministry of education, culture, sports, science and
+technology of japan.
+* corresponding author. address: division of molecular cell biology,
+national institute for basic biology, myodaiji 38, okazaki 444-8585,
+japan. fax: +81 564 55 7516.
+e-mail address: yohsumi@nibb.ac.jp (y. ohsumi).
+0006-291x/$ - see front matter ó 2007 elsevier inc. all rights reserved.
+doi:10.1016/j.bbrc.2007.02.150
+about 30 autophagy-related (atg) genes have been
+identiﬁed in yeast and are required for the degradative
+autophagic pathway, the biosynthetic cytoplasm to vacuole
+(cvt) pathway, or both. both pathways are accompanied
+by topologically similar membrane phenomena. the cvt
+pathway is a selective process that transports at least two
+vacuolar resident hydrolases, aminopeptidase i (ape1) [3]
+and a-mannosidase [4], via small double-membrane vesi-
+cles, termed cvt vesicles [5,6]. there is a signiﬁcant diﬀer-
+ence in the sizes of the autophagosome (300–900 nm in
+diameter) and the cvt vesicle (140–160 nm) [6]. studies in
+yeast have shown that 17 atg proteins, atg1–10, 12–14,
+16–18, and atg29, are involved in autophagosome (ap)
+formation. hereafter, these proteins will be referred to as
+ap-atg proteins. among these proteins, atg17 and
+atg29 are dispensable for cvt vesicle formation, although
+most ap-atg proteins are required for formation of cvt
+vesicles.
+atg17 was initially identiﬁed by two-hybrid screen using
+atg1 as bait [7]. atg13 and atg17 are involved in activation
+of the kinase, atg1 [7]. previous studies have demonstrated
+406
+y. kabeya et al. / biochemical and biophysical research communications 356 (2007) 405–410
+that atg17 forms a complex with atg1 and atg13 under
+starvation conditions, and this physical
+interaction is
+required for proper autophagosome formation [8]. a sys-
+tematic ﬂuorescence microscopy analysis showed that
+atg17 is essential for organization of the pas [9].
+a genome wide two-hybrid assay and a global mass spec-
+trometry analysis in s. cerevisiae suggested that atg17 inter-
+acts with numerous proteins [10,11]. these proteins are
+additional candidates to function together with atg17 in
+autophagy, and we have now tested whether they are
+required for autophagy.
+intriguingly, one disruptant,
+ydr022cd/cis1d, showed a defect in autophagosome forma-
+tion. cis1 was originally identiﬁed as a suppressor of cik1,
+a kinesin-associated protein that is localized to the spindle
+pole bodies and is required for both karyogamy and mitotic
+spindle organization [12–14]. a previous study showed that
+overexpression of cis1 rescued the temperature-sensitive
+growth defect of cik1d cells [12]. however, in our hands,
+the function of cis1 as a suppressor of cik1 was quite
+weak. rather, cis1d cells showed a distinctive defect in
+autophagy, similar to atg17d cells. here, we demonstrate
+that the cis1 protein functions mainly in autophagosome
+formation and propose to rename cis1 as atg31.
+materials and methods
+yeast strains, media, and plasmids. the strains utilized in this study are
+listed in table 1. media for growth of yeast cells, starvation, and induction
+of autophagy have been described previously [7,15]. yky6, yky61, and
+yky62 were generated using the one-step gene replacement method
+described previously [16]. the region containing the disruption marker
+and the ﬂanking sequences was ampliﬁed by pcr using genomic dna
+prepared from the by4741 cis1d::kanmx strain [17]. the resulting cas-
+sette was transformed into the yky6 strain to generate yky79. the
+atg17d strain was constructed using a previously described method [7].
+to obtain patg31, a 1.6 kb fragment containing the entire atg31
+gene was cloned from yeast genomic dna into prs316 [18].
+antibodies. antisera against ape1 [19], atg8 [20], atg12 [21], atg13 [7],
+and pgk [22] were described previously. mouse monoclonal anti-myc
+epitope antibody 9e10 was purchased from babco.
+table 1
+yeast strains used in this study
+strain
+genotype
+by4741
+atg1d
+atg7d
+atg13d
+atg17d
+atg31d/cis1d
+yky6
+yky61
+yky62
+yky77
+yky79
+sey6210
+sty1133
+yky65
+mata his3d leu2d met15d ura3d
+by4741 atg1d::kanmx
+by4741 atg7d::kanmx
+by4741 atg13d::kanmx
+by4741 atg17d::kanmx
+by4741 cis1d::kanmx
+by4741 atg17::atg17-gfp-his3
+by4741 atg31::atg31-13myc-kanmx
+by4741 atg31::atg31-gfp-kanmx
+yky62 atg17d::his3
+yky6 atg31d::kanmx
+mata leu2 his3 trp1 lys2 suc2 ura3
+sey6210 ape1::mrfp-ape1-leu2
+mata/a his3/his3 leu2/leu2 lys2/lys2
+met15/met15 suc2/suc2 ura3/ura3
+atg31-gfp-kanmx/atg31
+ape1/mrfp-ape1-leu2
+source
+resgen
+resgen
+resgen
+resgen
+resgen
+resgen
+this study
+this study
+this study
+this study
+this study
+ref. [31]
+ref. [29]
+this study
+other methods. fluorescence microscopy [1], alkaline phosphatase
+(alp) assays [23,24], cell viability assays [25], protein extraction [8],
+immunoblot analysis [8,26], and immunoprecipitations [8] were conducted
+as described previously.
+results
+cis1d/atg31d is speciﬁcally defective in autophagy
+currently, it is thought that atg17 is the most important
+protein for organization of the pre-autophagosomal struc-
+ture (pas); atg17 has a role in localization of other ap-
+atg proteins to the pas [9]. we examined whether any
+of the large number of proteins that interact with atg17
+[10,11] are involved in autophagy. interestingly, a disrup-
+tant, ydr022cd/cis1d, showed a defect in autophagosome
+formation. manning et al. originally identiﬁed the cis1
+gene as a suppressor of cik1 (chromosome instability
+and karyogamy 1) [12]. in that study, a multi copy plasmid
+harboring cis1 allowed cik1d cells to grow on solid med-
+ium at the restrictive temperature. to substantiate the sup-
+pressive activity of cis1, we overexpressed cis1 in cik1d
+mutant cells. we observed minimal suppressive activity of
+cis1 (data not shown), suggesting that cis1 is mainly
+involved in autophagy.
+wild-type cells accumulated autophagic bodies in the
+vacuole under starvation conditions in the presence of
+phenylmethanelusulfonylﬂuoride (pmsf), while cis1d cells
+did not (fig. 1a). a defect of cis1d mutant cells was also
+conﬁrmed by examining autophagic activity using the
+alp assay (fig. 1b). a truncated form of pho8 (pho8d60)
+expressed in the cytosol is delivered to the vacuole via
+autophagy and processed to an active form [23,24]. alp
+activity did not increase when the cis1d mutant cells were
+cultured in starvation medium sd(-n) for 6 h, providing
+further evidence that cis1 is essential for autophagy. a
+low copy plasmid harboring cis1 rescued the autophagy
+defect in the cis1 mutant strain (fig. 1a and b). the cis1d
+cells also showed a loss of viability phenotype under nitro-
+gen starvation (fig. 1c). together, these results show that
+cis1 plays a critical role in autophagosome formation.
+hereafter, we refer to cis1 as atg31.
+the phosphorylation state of atg13 is extremely sensi-
+tive to nutrient conditions in a tor-dependent manner
+[7]. we examined the phosphorylation of atg13 by immu-
+noblot in the presence and the absence of rapamycin
+(fig. 2a). both in wild-type and atg31d cells, atg13 was
+mostly hyperphosphorylated in growth medium, and was
+eﬃciently dephosphorylated after rapamycin treatment.
+these results suggest that atg31 is not involved in dephos-
+phorylation of atg13.
+autophagy requires two ubiquitin-like conjugation sys-
+tems, in which atg8 and atg12 are covalently bound to
+phosphatidylethanolamine (pe) and atg5, respectively
+[27,28]. we assessed the amounts of pe-conjugated atg8
+and atg5-conjugated atg12 in the atg31d mutant by
+sds–page in the presence of 6 m urea. as shown in
+y. kabeya et al. / biochemical and biophysical research communications 356 (2007) 405–410
+407
+120
+100
+80
+60
+40
+20
+wt
+1δ
+17δ
+strain
+100
+50
+time (day)
+cis1δ
+vec
+p[cis1]
+fig. 1. cis1/atg31 is essential for autophagy. (a) the cis1 mutant is defective in accumulation of autophagic bodies. wild-type (by4741; a) and cis1d
+(by4741 background) strains transformed with either vector alone (b) or a low copy cis1 plasmid (c) were incubated for 6 h under nitrogen and carbon
+starvation conditions in the presence of 1 mm phenylmethanelusulfonylﬂuoride. dic (diﬀerential interference contrast) images are shown. bar = 5 lm.
+(b) autophagic activity in cis1d cells. wild-type cells (by4741) or the indicated mutant strains (in the by4741 background) expressing pho8d60 were
+shifted from yepd medium (white bars) to sd(-n) medium and incubated for 6 h (black bars). autophagic activity was measured by alkaline
+phosphatase (alp) assay as described in materials and methods. error bars indicate the sd of three independent experiments. (c) the cis1d strain is
+sensitive to nitrogen starvation. wild-type (by4741, closed circle), atg16d (open square), and cis1d (open circle) cells were cultured in nitrogen starvation
+medium. aliquots were removed at the indicated times and spread onto yepd plates. the number of colonies was determined after 2–3 days.
+fig. 2b, the atg31d mutant possessed normal levels of
+atg8-pe and atg12–atg5 conjugates, indicating that the
+atg31 protein is not involved in these two ubiquitin-like
+reactions.
+although the atg31d mutant is defective in autophago-
+some formation, we found that prape1 import occurred
+under both growing and starvation conditions in atg31d
+cells (fig. 2c). these results show that the phenotype of
+atg31d cells is very similar to those of the atg17d and
+atg29d mutants, suggesting that atg31 is the third ap-
+atg protein that is not required for the cvt pathway.
+atg31 is localized at the pre-autophagosomal structure
+(pas)
+next, we examined the localization of atg31-gfp by
+ﬂuorescence microscopy. atg31-gfp was chromosomally
+integrated, and the atg31-gfp strain was normal
+in
+autophagy judging by alp assay (data not shown). the
+cells were grown in sd + ca medium and treated with
+rapamycin for 3 h. atg31-gfp was visible as a punctate
+dot near the vacuole and diﬀused in the cytosol prior to
+rapamycin treatment (fig. 3a). after treatment with rapa-
+mycin for 3 h, brighter dots were observed. it is known that
+most ap-atg proteins are localized at the pas, very prox-
+imal to the vacuole [1]. we next examined the distribution
+of atg31 and ape1, a pas marker; these two proteins were
+shown to colocalize (fig. 3b). thus, the granular staining
+of atg31 presented in the literature presumably represented
+the pas; we were not able to see atg31 localization at the
+spindle pole bodies.
+the localization of ap-atg proteins is intimately inter-
+connected [9]. in particular, atg17 is required for the local-
+ization of other ap-atg proteins to the pas [9]. we
+examined the localization of atg31-gfp in the atg17d
+strain by ﬂuorescence microscopy after treatment with rap-
+amycin for 3 h. as shown in fig. 3c, in the atg17d strain,
+atg31-gfp punctate staining disappeared. in contrast, in
+atg31d cells, atg17-gfp staining primarily showed a
+pas pattern, as in wild-type cells (fig. 3c). therefore,
+the pas localization of atg31-gfp requires atg17.
+atg31 physically associates with atg17
+the analysis of the gfp localization pattern along with
+the previous two-hybrid and mass spectrometry analyses
+suggested that atg31 and atg17 form a protein complex.
+to conﬁrm that atg31 indeed interacts with atg17, coim-
+munoprecipitation experiments were performed. for the
+biochemical analysis, we constructed cells that had chro-
+408
+y. kabeya et al. / biochemical and biophysical research communications 356 (2007) 405–410
+13δ
+31δ
+wt
+- + - + - + - + - +
+17δ
+1δ
+10
+7δ
+31δ
+wt
+- + - + - + - +
+17δ
+1δ
+31δ
+wt
+- + - + - + - +
+17δ
+strain
+rapamycin
+atg13
+pgk
+strain
+rapamycin
+atg8
+atg8-pe
+atg12-atg5
+strain
+starvation
+prape1
+mape1
+fig. 2. phenotypes of atg31d cells are similar to those of atg17d cells.
+(a) rapamycin-dependent dephosphorylation of atg13 is normal
+in
+atg31d cells. wild-type (by4741) or the indicated mutant (by4741
+background) strains overexpressing atg13 were grown in yepd and
+then treated with rapamycin for 1 h. samples were collected and atg13
+was detected by immunoblotting using an anti-atg13 antibody. equal
+amounts of cell
+lysates were loaded onto the gel. pgk served as a
+loading control.
+involved in two ubiquitin-like
+(b) atg31 is not
+conjugation reactions. wild-type (by4741) or the indicated mutant
+(by4741 background) cells were grown in yepd or treated with
+rapamycin for 3 h. total cell
+lysates were separated by sds–page
+containing 6 m urea and subjected to immunoblotting using anti-atg8
+(top) and anti-atg12 (bottom) antibodies. (c) atg31 is dispensable for
+the cvt pathway. wild-type (by4741) or the indicated mutant (by4741
+background) strains were grown in yepd medium (lanes: 1, 3, 5, 7, and
+9), washed, and incubated in sd(-n) medium for 6 h (lanes: 2, 4, 6, 8,
+and 10). cell lysates were prepared and analyzed by immunoblotting
+using an anti-ape1 antibody.
+mosomally integrated c-terminally myc tagged atg31.
+cells expressing atg31-myc showed normal autophagic
+activity, which was comparable to the level in wild-type
+cells (data not shown). cells were grown in yepd, con-
+verted to spheroplasts, and treated with rapamycin for
+1 h. total lysates were subjected to immunoprecipitation
+using anti-myc antibody. immunoblotting showed that
+atg17 was present in anti-myc immunoprecipitates pre-
+pared from cells expressing atg31-myc (fig. 4), conﬁrm-
+ing that atg31 and atg17 interact. the amount of atg17
+bound to atg31-myc did not change with rapamycin treat-
+ment, suggesting that atg31 constitutively forms a com-
+plex with atg17.
+atg31-gfp
+dic
+atg31-gfp
+dic
+atg31-gfp
+mrfp-ape1
+merge
+dic
+atg31-gfp
+atg17-gfp
+wt
+17δ
+wt
+31δ
+0 h
+3 h
+3 h
+0 h
+3 h
+fig. 3. localization of atg31-gfp. (a) atg31-gfp displayed punctate
+perivacuolar dots and diﬀuse cytosolic staining. wild-type cells expressing
+atg31-gfp (yky62) were grown in sd + ca medium (0 h) and treated
+with 0.2 lg/ml rapamycin for 3 h prior to ﬂuorescence microscopy
+analysis. dic, diﬀerential interference contrast. bar = 3 lm. (b) atg31
+colocalizes with ape1. wild-type cells (yky65) expressing combinations
+of atg31-gfp and mrfp-ape1 were incubated with rapamycin for 3 h.
+fluorescence and dic images are shown. bar = 2 lm.
+(c) atg31
+localization to the pas depends on atg17. wild-type (yky62) and
+atg17d (yky77) cells expressing atg31-gfp were prepared and exam-
+ined as indicated. wild-type (yky6) and atg31d (yky79) strains
+expressing atg17-gfp were examined as indicated. bar = 5 lm.
+ip: α-myc
+cell lysate
+3 4
+atg31-myc
+atg17
+rapamycin
+- + - +
+- + - +
+strain
+untagged
+atg31
+-myc
+untagged
+atg31
+-myc
+fig. 4. atg31 physically associates with atg17. wild-type cells expressing
+atg31-myc (yky61) were converted to spheroplasts and treated with
+rapamycin for 1 h. total lysates were immunoprecipitated with an anti-
+myc antibody and immunoblotted with an anti-myc and atg17 antibod-
+ies. a control was performed with wild-type cells (by4741; ‘untagged’).
+for the experiment, approximately 0.5% of the total lysate or 20% of the
+total immunoprecipitated sample was loaded per lane.
+y. kabeya et al. / biochemical and biophysical research communications 356 (2007) 405–410
+409
+discussion
+acknowledgments
+this study demonstrates that the yeast atg31/cis1 pro-
+tein plays a role in autophagy. atg31 functions with atg17
+at the pas in order to form normal autophagosomes under
+starvation conditions.
+a recent study showed that atg17 acts as a scaﬀolding
+protein to organize ap-atg proteins to the pas [9]. two-
+hybrid assay [10], mass spectrometry analysis [11], and
+coimmunoprecipitation demonstrate that atg31 forms a
+complex with atg17 and suggest that atg31 functions
+coordinately with atg17 at the pas. expectedly, defects
+in the atg31d mutant are very similar to those of atg17d;
+for example, in atg31d cells, autophagic bodies are not
+accumulated in the vacuole, but prape1 is transported nor-
+mally into the vacuole. furthermore, the atg31d mutant
+also displays phenotypes common to mutant cells lacking
+other ap-atg genes, including loss of viability under star-
+vation conditions and defective sporulation [30]. atg31 is
+not required for the dephosphorylation of atg13, atg8-
+pe formation, or atg12–atg5 conjugation. these observa-
+tions indicate that atg31 belongs to the same functional
+unit as atg17.
+it was shown previously that overexpressed cis1/atg31
+restores the growth of cik1d cells at the restrictive temper-
+ature [12]. however, the role of cis1/atg31 in karyogamy
+remains to be elucidated. cik1 was reported to localize to
+cytoplasmic microtubules and spindle pole bodies in a
+kar3-dependent manner [13,14]. cis1/atg31 was predicted
+to share this localization. however, atg31-gfp did not
+colocalize with spc42-rfp, a marker protein for spindle
+pole bodies (our unpublished results). instead, we showed
+that atg31 locates to the pas. we have also shown that
+cik1 and kar3 are dispensable for autophagy (our unpub-
+lished results). in addition, any other ap-atg proteins are
+not required for karyogamy. these data support a role for
+atg31 in autophagy rather than karyogamy and mitosis.
+loss of atg17 abolishes the pas localization of most
+ap-atg proteins [9]. atg31 is primarily located to the
+pas and requires atg17 for correct localization. similarly,
+several ap-atg proteins failed to target to the pas in
+atg31d mutant cells (our unpublished results), suggesting
+that atg31 and atg17 coordinately play a role in the
+recruitment of ap-atg proteins to the pas as a scaﬀolding
+protein complex.
+in addition to atg31, atg17 interacts with atg29 [29].
+because atg29 is required for the formation of autophago-
+somes, but not cvt vesicles [29], we speculate that atg31
+and atg29 cooperate to orchestrate pas organization via
+interaction with atg17, or that atg31 forms a complex
+with atg29 through atg17. considering that atg17 is the
+most upstream component of pas organization in our
+hierarchy map [9], it is an attractive idea that atg31 func-
+tions in pas organization as well as atg17. further analy-
+sis of
+these proteins is needed to provide additional
+information about the mechanism of pas organization
+and autophagosome formation.
+we thank t. sekito (in our laboratory) for the sty1133
+strain, and the national institute for basic biology center
+for analytical instruments for technical assistance.
+references
+[1] k. suzuki, t. kirisako, y. kamada, n. mizushima, t. noda, y.
+ohsumi, the pre-autophagosomal structure organized by concerted
+functions of apg genes is essential for autophagosome formation,
+embo j. 20 (2001) 5971–5981.
+[2] t. noda, k. suzuki, y. ohsumi, yeast autophagosomes: de novo
+formation of a membrane structure, trends cell biol. 12 (2002) 231–235.
+[3] d.j. klionsky, r. cueva, d.s. yaver, aminopeptidase i of saccha-
+romyces cerevisiae is localized to the vacuole independent of the
+secretory pathway, j. cell biol. 119 (1992) 287–299.
+[4] t. yoshihisa, y. anraku, a novel pathway of import of alpha-
+mannosidase, a marker enzyme of vacuolar membrane, in saccharo-
+myces cerevisiae, j. biol. chem. 265 (1990) 22418–22425.
+[5] s.v. scott, m. baba, y. ohsumi, d.j. klionsky, aminopeptidase i is
+targeted to the vacuole by a nonclassical vesicular mechanism, j. cell
+biol. 138 (1997) 37–44.
+[6] m. baba, m. osumi, s.v. scott, d.j. klionsky, y. ohsumi, two
+distinct pathways for targeting proteins from the cytoplasm to the
+vacuole/lysosome, j. cell biol. 139 (1997) 1687–1695.
+[7] y. kamada, t. funakoshi, t. shintani, k. nagano, m. ohsumi, y.
+ohsumi, tor-mediated induction of autophagy via an apg1 protein
+kinase complex, j. cell biol. (2000) 1507–1513.
+[8] y. kabeya, y. kamada, m. baba, h. takikawa, m. sasaki, y.
+ohsumi, atg17 functions in cooperation with atg1 and atg13 in yeast
+autophagy, mol. biol. cell 16 (2005) 2544–2553.
+[9] k. suzuki, y. kubota, t. sekito, y. ohsumi, hierarchy of atg
+proteins in pre-autophagosomal structure organization, genes cells
+12 (2007) 209–218.
+[10] p. uetz, l. giot, g. cagney, t.a. mansﬁeld, r.s. judson, j.r.
+knight, d. lockshon, v. narayan, m. srinivasan, p. pochart, a.
+qureshi-emili, y. li, b. godwin, d. conover, t. kalbﬂeisch, g.
+vijayadamodar, m. yang, m. johnston, s. fields, j.m. rothberg, a
+comprehensive analysis of protein–protein interactions in saccharo-
+myces cerevisiae, nature 403 (2000) 623–627.
+[11] n.j. krogan, g. cagney, h. yu, g. zhong, x. guo, a. ignatchenko,
+j. li, s. pu, n. datta, a.p. tikuisis, t. punna, j.m. peregrin-alvarez,
+m. shales, x. zhang, m. davey, m.d. robinson, a. paccanaro, j.e.
+bray, a. sheung, b. beattie, d.p. richards, v. canadien, a. lalev, f.
+mena, p. wong, a. starostine, m.m. canete, j. vlasblom, s. wu, c.
+orsi, s.r. collins, s. chandran, r. haw, j.j. rilstone, k. gandi, n.j.
+thompson, g. musso, p. st onge, s. ghanny, m.h. lam, g. butland,
+a.m. altaf-ul, s. kanaya, a. shilatifard, e. o’shea, j.s. weissman,
+c.j. ingles, t.r. hughes, j. parkinson, m. gerstein, s.j. wodak, a.
+emili, j.f. greenblatt, global landscape of protein complexes in the
+yeast saccharomyces cerevisiae, nature 440 (2006) 637–643.
+[12] b.d. manning, r. padmanabha, m. snyder, the rho-gef rom2p
+localizes to sites of polarized cell growth and participates in cytoskeletal
+functions in saccharomyces cerevisiae, mol. biol. cell 8 (1997) 1829–1844.
+[13] b.d. page, l.l. satterwhite, m.d. rose, m. snyder, localization of
+the kar3 kinesin heavy chain-related protein requires the cik1
+interacting protein, j. cell biol. 124 (1994) 507–519.
+[14] m.d. rose, nuclear fusion in the yeast saccharomyces cerevisiae,
+annu. rev. cell dev. biol. 12 (1996) 663–695.
+[15] c. kaiser, s. michaelis, a. mitchell, methods in yeast genetics, cold
+spring harbor laboratory press, cold spring harbor, ny, 1994.
+[16] m.s. longtine, a. mckenzie 3rd, d.j. demarini, n.g. shah, a.
+wach, a. brachat, p. philippsen, j.r. pringle, additional modules for
+versatile and economical pcr-based gene deletion and modiﬁcation
+in saccharomyces cerevisiae, yeast 14 (1998) 953–961.
+410
+y. kabeya et al. / biochemical and biophysical research communications 356 (2007) 405–410
+[17] g. giaever, a.m. chu, l. ni, c. connelly, l. riles, s. veronneau, s.
+dow, a. lucau-danila, k. anderson, b. andre, a.p. arkin, a.
+astromoﬀ, m. el-bakkoury, r. bangham, r. benito, s. brachat, s.
+campanaro, m. curtiss, k. davis, a. deutschbauer, k.d. entian, p.
+flaherty, f. foury, d.j. garﬁnkel, m. gerstein, d. gotte, u.
+guldener, j.h. hegemann, s. hempel, z. herman, d.f. jaramillo,
+d.e. kelly, s.l. kelly, p. kotter, d. labonte, d.c. lamb, n. lan,
+h. liang, h. liao, l. liu, c. luo, m. lussier, r. mao, p. menard,
+s.l. ooi, j.l. revuelta, c.j. roberts, m. rose, p. ross-macdonald,
+b. scherens, g. schimmack, b. shafer, d.d. shoemaker, s. sookhai-
+mahadeo, r.k. storms, j.n. strathern, g. valle, m. voet, g.
+volckaert, c.y. wang, t.r. ward, j. wilhelmy, e.a. winzeler, y.
+yang, g. yen, e. youngman, k. yu, h. bussey, j.d. boeke, m.
+snyder, p. philippsen, r.w. davis, m. johnston, functional proﬁling
+of the saccharomyces cerevisiae genome, nature 418 (2002) 387–391.
+[18] r.s. sikorski, p. hieter, a system of shuttle vectors and yeast host
+strains designed for eﬃcient manipulation of dna in saccharomyces
+cerevisiae, genetics 122 (1989) 19–27.
+[19] m. hamasaki, t. noda, y. ohsumi, the early secretory pathway
+contributes to autophagy in yeast, cell. struct. funct. 28 (2003) 49–54.
+[20] t. kirisako, m. baba, n. ishihara, k. miyazawa, m. ohsumi, t.
+yoshimori, t. noda, y. ohsumi, formation process of autophago-
+some is traced with apg8/aut7p in yeast, j. cell biol. 147 (1999) 435–
+446.
+[21] a. kuma, n. mizushima, n. ishihara, y. ohsumi, formation of the
+350 kd apg12–apg5æapg16 multimeric complex, mediated by
+apg16 oligomerization, is essential for autophagy in yeast, j. biol.
+chem. 277 (2002) 18619–18625.
+[22] m. baba, k. takeshige, n. baba, y. ohsumi, ultrastructural analysis
+of the autophagic process in yeast: detection of autophagosomes and
+their characterization, j. cell biol. 124 (1994) 903–913.
+[23] t. noda, a. matsuura, y. wada, y. ohsumi, novel system for
+monitoring autophagy in the yeast saccharomyces cerevisiae, bio-
+chem. biophys. res. commun. 210 (1995) 126–132.
+[24] t. noda, y. ohsumi, tor, a phosphatidylinositol kinase homologue,
+controls autophagy in yeast, j. biol. chem. 273 (1998) 3963–3966.
+[25] a. matsuura, m. tsukada, y. wada, y. ohsumi, apg1p, a novel
+protein kinase required for the autophagic process in saccharomyces
+cerevisiae, gene 192 (1997) 245–250.
+[26] t. kirisako, y. ichimura, h. okada, y. kabeya, n. mizushima, t.
+yoshimori, m. ohsumi, t. takao, t. noda, y. ohsumi, the
+reversible modiﬁcation regulates the membrane-binding state of
+apg8/aut7 essential for autophagy and the cytoplasm to vacuole
+targeting pathway, j. cell biol. 151 (2000) 263–275.
+[27] y. ichimura, t. kirisako, t. takao, y. satomi, y. shimonishi, n.
+ishihara, n. mizushima, i. tanida, e. kominami, m. ohsumi, t.
+noda, y. ohsumi, a ubiquitin-like system mediates protein lipida-
+tion, nature 408 (2000) 488–492.
+[28] n. mizushima, t. noda, t. yoshimori, y. tanaka, t. ishii, m.d.
+george, d.j. klionsky, m. ohsumi, y. ohsumi, a protein conjuga-
+tion system essential for autophagy, nature 395 (1998) 395–398.
+[29] t. kawamata, y. kamada, k. suzuki, n. kuboshima, h. akimatsu,
+s. ota, m. ohsumi, y. ohsumi, characterization of a novel
+autophagy-speciﬁc gene, atg29, biochem. biophys. res. commun.
+338 (2005) 1884–1889.
+[30] a.h. enyenihi, w.s. saunders, large-scale functional genomic
+analysis of sporulation and meiosis in saccharomyces cerevisiae,
+genetics 163 (2003) 47–54.
+[31] j.s. robinson, d.j. klionsky, l.m. banta, s.d. emr, protein sorting
+in saccharomyces cerevisiae: isolation of mutants defective in the
+delivery and processing of multiple vacuolar hydrolases, mol. cell
+biol. 8 (1988) 4936–4948.

@@ -1,0 +1,2096 @@
+biochimica et biophysica acta 1758 (2006) 1864 – 1884
+www.elsevier.com/locate/bbamem
+review
+ceramides and other bioactive sphingolipid backbones in health and disease:
+lipidomic analysis, metabolism and roles in membrane structure,
+dynamics, signaling and autophagy
+wenjing zheng a, jessica kollmeyer a, holly symolon a, amin momin a, elizabeth munter a,
+elaine wang a, samuel kelly a, jeremy c. allegood a, ying liu a, qiong peng a, harsha ramaraju a,
+m. cameron sullards a, myles cabot b, alfred h. merrill jr. a,⁎
+a school of biology, chemistry and biochemistry and the petit institute of bioengineering and bioscience, georgia institute of technology, atlanta,
+b the john wayne cancer institute, saint john’s health center, santa monica, ca 90404, usa
+ga 30332-0230, usa
+received 27 july 2006; accepted 16 august 2006
+available online 22 august 2006
+abstract
+sphingolipids are comprised of a backbone sphingoid base that may be phosphorylated, acylated, glycosylated, bridged to various headgroups
+through phosphodiester linkages, or otherwise modified. organisms usually contain large numbers of sphingolipid subspecies and knowledge
+about the types and amounts is imperative because they influence membrane structure, interactions with the extracellular matrix and neighboring
+cells, vesicular traffic and the formation of specialized structures such as phagosomes and autophagosomes, as well as participate in intracellular
+and extracellular signaling. fortunately, “sphingolipidomic” analysis is becoming feasible (at least for important subsets such as all of the
+backbone “signaling” subspecies: ceramides, ceramide 1-phosphates, sphingoid bases, sphingoid base 1-phosphates, inter alia) using mass
+spectrometry, and these profiles are revealing many surprises, such as that under certain conditions cells contain significant amounts of “unusual”
+species: n-mono-, di-, and tri-methyl-sphingoid bases (including n,n-dimethylsphingosine); 3-ketodihydroceramides; n-acetyl-sphingoid bases
+(c2-ceramides); and dihydroceramides, in the latter case, in very high proportions when cells are treated with the anticancer drug fenretinide (4-
+hydroxyphenylretinamide). the elevation of dhceramides by fenretinide is befuddling because the 4,5-trans-double bond of ceramide has been
+thought to be required for biological activity; however, dhceramides induce autophagy and may be important in the regulation of this important
+cellular process. the complexity of the sphingolipidome is hard to imagine, but one hopes that, when partnered with other systems biology
+approaches, the causes and consequences of the complexity will explain how these intriguing compounds are involved in almost every aspect of
+cell behavior and the malfunctions of many diseases.
+© 2006 elsevier b.v. all rights reserved.
+keywords: sphingolipidomics; lipidomics; signaling; autophagy; disease; cancer
+abbreviations: 3ksa, 3-ketosphinganine; 3ksr, 3-ketosphinganine reductase; 4hpr, n-(4-hydroxyphenyl) retinamide; asmase, acid sphingomyelinase;
+bsmase, alkaline sphingomyelinase; c2-cer, n-acetylsphingosine; cer, ceramide; cer1p, ceramide 1-phosphate; cerk, ceramide kinase; cert, ceramide
+transporter; cgalt, udp-galactose:ceramide galactosyltransferase; cglct, udp-glucose:ceramide glucosyltransferase; des, dihydroceramide desaturase(s); dhcer,
+dihydroceramide; esi, electrospray; galcer, galactosylceramide; gfp, green fluorescent protein; glccer, glucosylceramide; lc, liquid chromatography; lc3,
+microtubule-associated protein light chain 3; ms, mass spectrometry; ms/ms and msn, tandem mass spectrometry; nbd-cer, n-[6-(7-nitrobenz-2-oxa-1,3-diazol-4-
+yl)amino]hexanoylceramide, nbd-cer; nsmase, neutral sphingomyelinase; paf, platelet-activating factor; pdk1, 3-phosphoinositide-dependent kinase 1; phyto-,
+phytosphingosine containing; pi3k, phosphoinositide-3-kinase; pka, protein kinase a; pkc, protein kinase c; pp1, phosphoprotein phosphatases 1; pp2a,
+phosphoprotein phosphatases 2a; q, quadrupole, q; s1p, sphingosine-1-phosphate; s1pp, sphingosine-1-phosphate phosphatase; sa, sphinganine; sa1p, sphinganine
+1-phosphate; sdk1, sphingosine-dependent kinase 1; sm, sphingomyelin; smase, sphingomyelinase; sms, sphingomyelin synthase; sphk, sphingosine kinase(s);
+spl, sphingosine 1-phosphate lyase; spt, serine palmitoyltransferase; tnf, tumor necrosis factor
+⁎ corresponding author. tel.: +1 404 385 2842; fax: +1 404 385 2917.
+e-mail address: al.merrill@biology.gatech.edu (a.h. merrill).
+0005-2736/$ - see front matter © 2006 elsevier b.v. all rights reserved.
+doi:10.1016/j.bbamem.2006.08.009
+w. zheng et al. / biochimica et biophysica acta 1758 (2006) 1864–1884
+contents
+1.
+2.
+3.
+4.1.
+4.2.
+ceramide turnover to sphingosine .
+sphingosine metabolism .
+4. removal of ceramide by hydrolysis or incorporation into other sphingolipids .
+5. removal of ceramide by metabolism to more complex sphingolipids .
+5.1.
+5.2.
+5.3. glucosylceramides and galactosylceramides.
+5.4. other ceramide metabolites .
+subcellular localization of sphingolipid biosynthesis and turnover .
+6.
+7. biological activities of the lipid backbones of sphingolipids .
+sphingomyelins .
+ceramide-1-phosphates .
+sphingoid bases .
+ceramides .
+structures and properties of the lipid backbone(s) of sphingolipids .
+1.1.
+1.2.
+lipidomic analysis of sphingolipids .
+formation of the lipid backbones of sphingolipids .
+3.1.
+(dihydro)ceramide synthase(s)
+3.2. dihydroceramide desaturase(s)
+formation of long-chain ceramide from exogenous short-chain ceramide .
+3.2.1. generation of ceramide by the reverse reaction of ceramidase .
+3.2.2. generation of c2-ceramide by platelet-activating factor (paf)-dependent transacetylase .
+3.2.3. generation of ceramide by turnover of complex sphingolipids .
+3.2.4.
+sphingosine, other sphingoid bases and sphingoid base 1-phosphates as bioactive species .
+ceramides and cer1p as bioactive species .
+phosphoprotein phosphatases 1 and 2a .
+protein kinase c (pkc) .
+cathepsin d .
+possible mechanisms for cer and dhcer induced autophagy.
+7.1.
+7.2.
+7.3.
+7.4.
+7.5.
+7.6. other possible targets of cer .
+7.7. dhcer as bioactive species? .
+sphingolipids and autophagy .
+8.1.
+summarizing comments .
+9.
+acknowledgements .
+references .
+8.
+1865
+. 1866
+. 1866
+. 1868
+. 1868
+. 1870
+. 1871
+. 1872
+. 1872
+. 1872
+. 1872
+. 1873
+. 1873
+. 1873
+. 1873
+. 1873
+. 1873
+. 1873
+. 1873
+. 1874
+. 1874
+. 1874
+. 1874
+. 1875
+. 1875
+. 1876
+. 1876
+. 1876
+. 1876
+. 1877
+. 1878
+. 1879
+. 1879
+. 1880
+j. l. w. thudichum wrote in 1876 that through chemistry
+one could understand “…the nature of evils in the shape of
+disease, and the means of curing or mitigating them” [1] and
+soon thereafter, in his classic treatise the chemistry of the
+brain [2], described an enigmatic compound he named
+“sphingosin.” within a century,
+the chemical structures of
+thousands of individual sphingolipids (as the category was
+later named by herb carter) [3] had been elucidated [4],1 and
+a substantial fraction of these compounds were known to be
+involved in diseases due to defective sphingolipid turnover
+(niemann–pick disease, gaucher, etc.) [4–6] (for discussion
+of the diseases involving acid ceramidase, see the review by
+schuchman and coworkers in this monograph)
+[7]. soon
+thereafter, the first successes in treatment were underway [8].
+by the end of
+the twentieth century, sphingolipids were
+known to be involved in essentially all aspects of cell
+regulation as well as almost every type of disease. for
+examples, phospho- and glyco-sphingolipids are the binding
+1 a compilation of most of the known species in a working model for the
+biosynthetic pathway is available at www.sphingomap.org.
+the toxicity,
+targets for a large number of bacteria, bacterial toxins, and
+viruses [9] (see also the review by gulbins and coworkers in
+this monograph) [10]; disruption of de novo sphingolipid
+biosynthesis accounts for
+teratogenicity and
+fumonisins, which are common food
+carcinogenicity of
+contaminants in many parts of the world (in addition,
+the
+finding that fumonisins inhibit ceramide synthase was the first
+discovery of diseases caused by disruption of sphingolipid
+biosynthesis) [11,12]; abnormalities in one subunit of serine
+palmitoyltransferase (sptlc1) cause hereditary sensory
+neuropathy type 1 (hsn1) (which represents the first human
+genetic disease to be attributed to mutation in a gene for
+[13,14]; many categories of
+sphingolipid biosynthesis)
+sphingolipids have long been known to be abnormal
+in
+cancer [15] and are now known to participate in many of the
+mechanisms used by cells to coordinate signals from the
+external environment with cell division and survival [16,17]—
+furthermore,
+they have been shown in vivo to be orally
+chemopreventive in experimental animals [18–20], appear to
+have chemotherapeutic potential in human clinical trials [21],
+and may even provide new strategies for immunotherapy [22–
+1866
+w. zheng et al. / biochimica et biophysica acta 1758 (2006) 1864–1884
+functions at multiple levels, and it
+24] (for more information on sphingolipids and cancer, also
+see the reviews in this monograph by levade and co-workers
+and ghidoni et al.) [25,26]; many categories of sphingolipids
+are also being implicated in cardiovascular disease [27],
+diabetes and the so-called lipotoxicity [28], alzheimer's
+disease [29–32] and many others too numerous to list here
+(for recent reviews, see [33] and other chapters in this recent
+book on sphingolipid biology as well as in this monograph).
+there is,
+indeed, an evolving field of sphingolipid-based
+therapeutics [34]. a challenge for this field is to find clear
+paths through the complex mechanisms and sometime
+contradictory findings due at least in part to the large number
+of structurally and metabolically interrelated bioactive species.
+to complicate matters further, sphingolipids are engaged in
+biological
+is not
+implausible for the following sequelae of events to occur:
+(i) in the basal state (which may be defined as the state
+immediately before addition of an agonist or toxic challenge,
+or as a selected starting point for a progressive biological
+event, such as the cell cycle), an ensemble of membrane
+sphingolipids will be present in a particular region of, say, the
+plasma membrane where they help define the physical
+the membrane and possibly interact with
+properties of
+proteins in that membrane,
+the extracellular matrix or
+neighboring cells; (ii) in response to receptor activation or
+other stimulus, the sphingolipid composition may change due
+to addition,
+the
+membrane architecture with respect
+to the mobility, con-
+formation and/or composition of the other proteins and lipids,
+and (iv) producing sphingolipid metabolites that may serve as
+second messengers to activate or inhibit specific downstream
+targets.
+the
+metabolites may promote major changes in membrane
+morphology such as the formation of phagosomes, autopha-
+gosomes and other specialized structures, which can also have
+if asked
+both structural and signaling components. thus,
+whether changes
+signaling or
+the answer would be “both.” it
+membrane reorganization,
+would be useful to have a single term, perhaps “sphingaling,”
+for the entire spectrum of mechanisms whereby sphingolipids
+influence cell behavior.
+removal or metabolism, altering (iii)
+in the course of
+these changes, some of
+in sphingolipids
+reflect
+while there are many views about where one might begin to
+study such a complex subject, an approach favored by
+thudichum was to “…proceed by a severe process, that of
+analysis, for nothing less than the results of analysis of work
+done can establish as proved what many feel as a sentiment….”
+[1]. and he also considered this to be the approach that would
+ultimately result in a better understanding of disease: “the
+reader will thus be better able to appreciate the reasons which
+have caused me to give so much attention to the chemolysis of
+the principles extracted from the brain, and to surmise the
+grounds which influence me not to coincide with those who
+propose to avoid this laborious effort, and to carry on research
+by a kind of fishing for supposed disease-poisons, of which,
+according to my view of the subject, the attempt of the boy to
+catch a whale in his mother's washing-tub is an appropriate
+parabole.” [2].
+in this millennium, thudichum's approach would be called
+“systems biology” with investigators approaching biology using
+the tools of genomics, proteomics, metabolomics, lipidomics and
+all of the other “omics” at their disposal. therefore, this review is
+written from the perspective of emerging “sphingolipidomic”
+technologies, and attempts to overlay what these methods can
+conveniently measure thus far (mostly the lipid backbones and a
+few of the complex species) within a framework of knowledge
+about the metabolism and function of these molecules. it will
+also highlight what are likely to be the first deliverables of
+sphingolipidomic approaches, which are the surprises that fall
+outside of the scope of the original hypothesis—which in some
+cases may even cause a change of paradigm.
+1. structures and properties of the lipid backbone(s) of
+sphingolipids
+although the names and structures of the lipid backbones of
+sphingolipids are now generally known, as more investigators
+have entered this field and expanded the types of organisms that
+are studied, the likelihood of encountering the same term for
+different molecular species has also increased (for example,
+“sphingosine” from most mammalian sphingolipids will be
+comprised mainly of an 18-carbon alkyl chain whereas that
+from fruit flies has primarily 14 carbons) [35]. thus, there is a
+growing need for greater clarity in defining the specific
+compounds that have been analyzed and a more standardized
+nomenclature [36].
+1.1. sphingoid bases
+sphingolipids are defined by the presence of a backbone
+sphingoid base (i.e., a 2-aminoalk[ane or ene]1,3-diol with
+2s,3r stereochemistry), which can be distinguished by chain
+length, number of double bonds, and whether or not there are
+additional hydroxyls by the nomenclature described in the
+legend to fig. 1. although different organisms can display
+considerable variation in the sphingoid base backbone [37],
+there are usually only a few structural variants in any one
+species;
+for example, humans have primarily sphingosine
+(d18:1) (often abbreviated “so”), sphinganine (d18:0) (often
+abbreviated “sa” or “dhso” for dihydrosphingosine) and
+4-hydroxysphinganine (t18:0) (often abbreviated “phyto” for
+phytosphingosine, an old name for this compound) (fig. 1) plus
+small amounts of the longer chain length homologs d20:1 and
+d20:0 and in skin, 6-hydroxy-sphingosine (6-t18:1). in contrast,
+insects often contain sphingoid bases with a shorter alkyl-chain
+length (14 and 16 carbons) [35] and plants have sphingoid bases
+with the double bonds in additional positions along the alkyl
+chain [38] (fig. 1).
+one of the distinctive features of sphingoid bases is that they
+bear a net positive charge at neutral ph, which is rare among
+naturally occurring lipids [39], and with aqueous solubilities
+>1 μm,
+they can relatively easily move among different
+membranes [40]. however, it should also be borne in mind that
+the pka of the amino group (7 and 8) is lower than usually
+found in simple amines [41] (due in part to intramolecular
+w. zheng et al. / biochimica et biophysica acta 1758 (2006) 1864–1884
+1867
+fig. 1. structures of representative sphingolipids. the abbreviations are gal, galactose; glc, glucose; p, phosphate; d18:1, dihydroxysphingoid base with 18 carbons
+and one double bond; t18:0, trihydroxysphingoid base with no double bonds (phytosphingosine), etc.
+therefore, a substantial
+hydrogen bonding),
+fraction is
+uncharged and able to move across membrane bilayers, as
+schematically depicted in fig. 2. likewise, they can become
+trapped in vesicles that have an acidic ph [42], and under some
+conditions so can act as a lysosomotrophic agent
+[43].
+sphingoid bases are also bound by albumin, and are usually
+administered to cells as a 1:1 (mol:mol) complex to solubilize
+the sphingoid base as well as serve as “buffer” the detergent
+effects [44]. for more information about biophysical considera-
+tions for sphingoid bases and ceramides, the reader is referred to
+fig. 2. schematic representation of some aspects of sphingolipid dynamics in cells. the diagram shows the fate of sphingolipids made de novo in the endoplasmic
+reticulum (er) from serine and palmitoyl-coa by serine palmitoyltransferase (spt) to sphinganine (sa), and formation of dihydroceramide (dhcer) by ceramide
+synthases (cs) and desaturation of dhcer to cer by dhcer desaturase (des). this is followed by trafficking to and through the golgi, where sphingomyelin (sm)
+and most glycosphingolipids (gsl) are made and delivered to the plasma membrane (pm); alternatively, the (dh)cer (and possibly other sphingolipids) may be
+incorporated into other intracellular compartments such as mitochondria or autophagosomes. also shown is synthesis of galactosylceramide (galcer) in the lumen of
+the er and synthesis of sphingomyelin (sm) in the pm by sm synthase (sms), as well as sm turnover via sphingomyelinases (smase) to cer as well as the
+downstream metabolites sphingosine (so) and sphingosine 1-phosphate (sop). the turnover of sphingolipids (including both long-chain and short-chain cer) occurs in
+several intracellular locations, but for simplicity, the production in the pm and vesicles such as lysosomes are shown to illustrate how the products can be recycled,
+degraded, or in the case of sop, secreted from the cell.
+1868
+w. zheng et al. / biochimica et biophysica acta 1758 (2006) 1864–1884
+the review by f.m. goñi and a. alonso in this monograph [45],
+and for more complex sphingolipids, the review by b. maggio
+[46].
+phosphorylation of so increases the polarity considerably
+although it is nonetheless difficult to prepare solutions of s1p
+because the charge is internally neutralized as the zwitterion;
+therefore, it is helpful to consult the technical literature when
+using this compound (http://www.avantilipids.com/synthetic-
+sphingosine-1-phosphate.asp). n-methyl-derivatives have also
+been reported but rarely [47], however, in this report, we will
+describe a situation where they have been found in cells using
+mass spectrometry.
+1.2. ceramides
+the term ceramide (cer) is often used specifically for n-
+acylsphingosines, which is the preferred practice, however,
+when investigators use a method that does not distinguish
+among backbone species (such as analysis by thin-layer
+chromatography under most conditions, or the diglyceride
+kinase assay), the term will likely include all n-acyl-sphingoid
+bases, regardless of the backbone. the terms “dihydrocera-
+mide” (dhcer) and “phytoceramide” (phytocer) are often used
+to designate “ceramides” with these other backbones (i.e., n-
+acyl-sphinganines and n-acyl-4-hydroxysphinganine, respec-
+tively), and when the fatty acyl chain length is specified, this is
+often shown by the carbon number before the name, such as
+c16-cer for n-palmitoyl-sphingosine. here, too, it is helpful to
+use the shorthand nomenclature suggested by the lipid maps
+consortium [36] where ceramides would have a d18:1 back-
+bone, dihydroceramides would have d18:0, etc. and the amide
+linked fatty acids can also be designated by this nomenclature
+(e.g., n-palmitoylsphingosine would be d18:0/16:0).
+the fatty acids are typically 16 to 26 carbon atoms in
+length (with shorter and longer species being found under
+special conditions, for example, the water barrier of skin has a
+30-carbon, ω-hydroxyl fatty acid) and mostly saturated, with
+the most common unsaturated species in mammals being
+nervonic acid (fig. 1). the ceramides of skin, epithelial cells,
+and other sources (such as plants) often have α-hydroxy-fatty
+acids (fig. 1).
+since both alkyl chains of most ceramides are saturated, the
+phase transition temperatures of sphingolipids are usually
+quite high, typically >37°. naturally occurring ceramides are
+highly hydrophobic and essentially insoluble in aqueous
+medium (cmc <10− 10 m). when studies require the delivery
+of ceramides to enzyme assays or cells, this water-insolubility
+is often circumvented using detergents or liposomes, organic
+solvents (e.g., ethanol and dodecane, 98:2), or short-chain
+analogs (such as n-acetylsphingosine, c2-cer,
+through n-
+octanoylsphingosine, c8-cer) [44]. use of these analogs is
+informative, but
+the short-chain cer have very different
+biophysical properties than the natural species [48]; further-
+more, when added to cells, the short-chain fatty acid may be
+removed and replaced with a long-chain fatty acid [49] as
+depicted schematically in fig. 2 (although this changes the
+molecular species, the products are ceramides with a more
+physiological composition). also useful are fluorescent
+analogs, such as n-[6-(7-nitrobenz-2-oxa-1,3-diazol-4-yl)
+amino]hexanoylceramide (nbd-cer) that are readily taken
+up by cells and have proven very useful
+in studies of
+sphingolipid transport and metabolism because the nbd-fatty
+acid is not recycled into other lipid classes [50]. nbd-dhcer
+is also desaturated and can serve as an in situ substrate for
+dhcer desaturase [51].
+although the aqueous solubility of long-chain cer is low,
+they can nonetheless be considered as amphiphiles because the
+hydroxyl group at the first carbon and the amide bond are
+hydrophilic moieties [48,52]. some of the biological responses
+to cer generation are probably due to their influence on the
+structure of membrane rafts and caveolae, promotion of the
+membrane curvature, and induction of membrane “leakiness” to
+aqueous solutes (which has been proposed to play a role in
+release of pro-apoptotic mediators from mitochondria) [53,54].
+one would additionally predict that production of cer could be
+used to promote membrane curvature by trapping of the cer on
+one leaflet by phosphorylation, which may be how this
+metabolite participates in phagocytosis [55]. ceramide 1-
+phosphate also plays a major role in cell signaling [56].
+addition of headgroups to produce sphingomyelins (sm),
+glycosphingolipids, and 1-o-acylceramides also changes the
+properties; however, a discussion of more complex sphingoli-
+pids falls outside the scope of this review.
+2. lipidomic analysis of sphingolipids
+a lipidomic analysis would be defined as “sphingolipido-
+mic” analysis if it determines all of the molecular species of
+sphingolipids, which for mammals probably numbers in the tens
+of thousands considering that there are over 400 headgroup
+variants, at least a half dozen sphingoid bases (if one includes
+minor species) and in most sphingolipids, about a dozen major
+fatty acid variants. hence, currently available
+and minor
+methods are able to analyze only subsets of
+the full
+sphingolipidome [57–59]. fortunately, this includes at least
+one approach (liquid chromatography, electrospray tandem
+mass spectrometry, lc esi ms/ms)
+is capable of
+providing structure specific and quantitative analysis of all of
+the “signaling” backbone species (cer and cer 1-phosphates,
+sphingoid base and sphingoid base 1-phosphates and others)
+[57,58]).
+that
+mass spectrometry has been applied to sphingolipids for at
+least four decades using many ionization methods, including
+maldi and electrospray (esi), and mass analyzers, such as
+sectors, quadrupoles (q), time-of flight (tof), ion traps and
+fourier-transform ion cyclotron resonance (ft-icr)
+(for
+primary references to these methods see the reviews cited
+above). some of the advantages of mass spectrometry are that it
+provides:
+(a) a high level of specificity with regard to
+identification of complex compounds via molecular mass,
+especially when analyzed by tandem mass spectrometry (ms/
+ms and msn modes); (b) levels of sensitivity that are orders of
+magnitude lower than classical techniques, so compounds can
+be detected even if they are present in attamol to fmol amounts
+w. zheng et al. / biochimica et biophysica acta 1758 (2006) 1864–1884
+1869
+(usually analyzed with ∼106 cells or even fewer); (c) a signal
+response can be correlated to analyte concentration provided
+there are appropriately matched internal standards to normalize
+for differences in ionization and fragmentation of individual
+molecular species; and (d) a dynamic range of several orders of
+magnitude for some forms of ms/ms, which allows analysis of
+compounds that vary in abundance over this same range in
+biological samples (for example,
+typically high abundance
+sphingolipids such as sphingomyelins versus signaling meta-
+bolites). to achieve these goals, a number of decisions
+regarding the handling of the samples (both extraction methods
+and separation of isomeric and isobaric species prior to mass
+spectrometry), internal standards, ionization technique, instru-
+ment, and mass spectrometry scanning method must be made
+judiciously.
+the success of mass spectrometric analyses fundamentally
+depends on the gas phase chemistry of the compounds of
+interest and whether or not they produce ions that are useful
+as unique and sensitive identifiers for the individual species.
+in this regard, sphingolipids have proven to be particularly
+amenable to mass spectrometric analyses because they are
+relatively easily ionized, and many fragment to products that
+are characteristic for the headgroup and backbone subclasses
+[58]
+(fig. 3). for examples, both long-chain bases and
+complex sphingolipids readily ionize via positive ion esi to
+form primarily (m + h)+ ions, and sphingoid base-1-phos-
+phates, sm, sulfatides, and gangliosides may also form
+(m–h)− ions via negative ion esi. furthermore,
+the
+fragmentation profiles for both sphingoid bases and many
+complex sphingolipids (figs. 1 and 3) provide information
+about the headgroups and types of sphingoid bases and fatty
+acids in the backbones. however, when fragmentation leaves
+the ion on the headgroup rather than the ceramide backbone
+(as occurs with sm,
+for example), only the overall
+composition of the backbone is determined, not the nature
+of the individual components, unless newer techniques are
+used (m. cameron sullards, personal communication). to
+deal with the complexity of the compounds that are being
+analyzed (especially for the higher order glycosphingolipids)
+and, hence, the potential number of fragments, a systematic
+nomenclature has been developed which describes these
+fingerprint fragmentations [60–63].
+as part of
+its goal of developing mass spectrometric
+methods that will eventually allow analysis of the entire
+lipidome, the lipid maps consortium (www.lipidmaps.org)
+has developed extraction protocols, mass spectrometric
+methods using esi and both triple quadrupole and hybrid
+quadrupole-ion trap instruments, and internal standards (which
+have recently been made available for purchase by avanti
+polar lipids, alabaster, al)
+for analysis of mammalian
+sphingolipids up to mono- and usually di-hexosylceramides
+(for sphingolipids, these have been published [58], but will
+continue to undergo refinement). at present, the published
+methods are able to analyze all of the species shown in fig. 4
+as well as compounds such as lysosphingomyelin, psychosine
+and n-methylsphingoid bases.
+fig. 3. major routes of dissociation of sphingolipids. for sphingoid bases and most derivatives, including sphingoid base 1-phosphates, ceramides, ceramide 1-
+phosphates, and glycosphingolipids, although for the latter, glycosidic bond cleavage usually predominates and cleavage of the ceramide backbone is achieved in ms/
+ms/ms (and other msn) modes. note that the nature of the sphingoid base (sphingosine vs. sphinganine vs. 4-hydroxysphinganine can be deduced from the m/z of the
+fragmentation product, although this is often confirmed by an independent method such as mobility on liquid chromatography. also shown (lower right) are examples
+of headgroup cleavage sites in complex glycosphingolipids and the nomenclature used to describe the cleavages. capital letters are used to label cleavages where the
+charge is retained on the fragment starting from the carbohydrate end of the compound (a, b, c…) versus cleavages where the charge is retained on the fragment with
+the ceramide backbone (…x, y, z).
+1870
+w. zheng et al. / biochimica et biophysica acta 1758 (2006) 1864–1884
+3. formation of the lipid backbones of sphingolipids
+biosynthesis of the lipid backbone of sphingolipids is not
+only important to form the lipid “anchor” for the more complex
+downstream products [64–67], but also because many of the
+biosynthetic intermediates are highly bioactive and can affect
+cell behavior (and when disrupted, result in disease) [64–67].
+de novo begins with the condensation of serine and a fatty
+acyl-coa (e.g., palmitoyl-coa for ceramides with an 18-carbon
+sphingoid base backbone) by serine palmitoyltransferase (spt)
+[68] to form 3-ketosphinganine (3ksa), followed by reduction
+of 3ksa to sphinganine (sa), which is then n-acylated to
+dhcer and (in most cases) desaturated to cer in the endo-
+plasmic reticulum [69,70] as shown in figs. 2 and 4 (cer can
+also be made by recycling of so, as also shown).
+serine palmitoyltransferase (spt) belongs to a family of
+pyridoxal 5′-phosphate (plp)-dependent α-oxoamine synthases
+[71] that are, in most cases, soluble homodimers, whereas spt is
+(in most species) a membrane-bound heterodimer (with the
+known exception being the spt from sphingomonas paucimo-
+bilis) [72]. in mammals, two gene products (sptlc1 and
+sptlc2) are necessary for spt activity, whereas in yeast a third
+subunit has been found [73]. human sptlc1 and sptlc2 have
+∼20% identity, and the sptlc2 subunit has a conserved lysine
+residue in a consensus pyridoxal phosphate-binding motif [71]
+that is lacking in sptlc1 [74] which implies that spt has only
+one catalytic active site. missense mutations of sptlc1 that are
+at
+the interface of the sptlc1/sptlc2 and close to the
+presumed active site lysine of sptlc2 [75] have been linked to
+the most common hereditary sensory neuropathy type i (hsn1)
+[13,14]. both components of the spt heterodimer are required
+for activity, and expression of each subunit has been found to
+affect the amounts of the other, even in mice with reduced
+expression of one of the subunits [76].
+spt activity can be regulated transcriptionally and post-
+transcriptionally. both positive and negative regulation at a
+transcriptional level has been seen with a number of agents,
+including endotoxin and cytokines [77], uvb irradiation
+[78], and other agents [79]. certain types of synthetic and
+naturally occurring agents change spt activity with no effect
+on spt mrna amount,
+retinoic acid [80],
+[81], etoposide [82], and n-(4-hydroxyphenyl)
+resveratrol
+retinamide (4-hpr) [83]. a major regulator of activity is the
+supply of
+the substrates, serine and palmitate [84]. spt
+appears also to be regulated by s1p, although the mechanism
+is not known [85].
+such as
+3-ketosphinganine reductase (3ksr) is located in the er
+with the active site facing the cytosolic side [86]. the gene
+fig. 4. de novo sphingolipid biosynthesis highlighting the branching of the pathway at acylation of sphinganine by the lass (cers) family ceramide synthases. starting
+at the top is the biosynthesis of sphinganine, which can be acylated by the lass gene products shown with their fatty acyl-coa preference. the abbreviation shows the
+sphingoid base backbone using the abbreviated nomenclature of fig. 1 followed by the alkyl-chain length and number of double bonds of the fatty acid. each
+dihydroceramide (dhcer) can be desaturated to the comparable ceramide (cer) and both have several possible fates, as illustrated by the overlay within the dashed box
+on the left: conversion to (dh)cer phosphate, (dh)cerp; (dh)sphingomyelin, (dh)sm; glucosyl(dh)cer, glc(dh)cer; galactosyl(dh)cer, gal(dh)cer; or
+hydrolysis to the free sphingoid base, that can be phosphorylated (sap and sop). not shown are the equivalent conversions that could be effected for backbone 4-
+hydroxydihydroceramides (phytoceramide). one additional pathway shown at the left is the synthesis of n-acetyl-sphinganine and -sphingosine (c2cer) by
+transacetylation (ta) from platelet activating factor (paf).
+w. zheng et al. / biochimica et biophysica acta 1758 (2006) 1864–1884
+1871
+(tsc10) was first identified in yeast [87], followed by the
+discovery that the 3ksr of mammals is encoded by a gene
+previously described as the follicular
+lymphoma variant
+translocation-1 (fvt-1) gene. the mrna of fvt-1 is
+transcribed ubiquitously in different tissues of humans and
+mice, with greater abundance of steady state mrna observed in
+placenta, lung, kidney, stomach, and small intestine [86]. the
+fvt-1 protein is predicted to have three transmembrane
+domains; the n-terminus is in the lumen of the er, whereas
+the active site residues and the c-terminus are in the cytosol
+[86].
+reduction of 3ksa is not thought to be rate limiting because
+ksr activity in vitro is higher than for spt [88]; however,
+3ksa based sphingolipids have been reported in mitochondria
+[89] (although the structural assignment is somewhat incon-
+clusive because these authors also reported the presence of an
+implausible t21:1 phytosphingosine in mitochondria). we have
+not seen 3ksa in cells by esi ms/ms, however, one can
+envision that one might be able to overload the reduction step
+by producing 3ksa at an elevated rate. to test this hypothesis,
+we examined hek cells that were stably transfected with both
+sptlc1 and sptlc2 (obtained from david uhlinger and
+david perry), which have a 4–8 fold increase in de novo
+sphingolipid biosynthesis. even in these cells, there were no
+detectable 3-keto-sphingolipids when analyzed by mass
+spectrometry; however, when the cells were incubated with
+supplemental serine and palmitate, 3-ketodihydroceramides
+were readily detected [58] (fig. 5). therefore, it appears that
+when there is “overflow” of 3ksa, it is more likely to be
+acylated than accumulate as the sphingoid base.
+3.1. (dihydro)ceramide synthase(s)
+at one time, it was thought that cells may contain one or two
+that would utilize a wide
+(dihydro)ceramide synthase(s)
+fig. 5. appearance of 3-ketodihydroceramides in cells overexpressing serine
+palmitoyltransferase when provided with the precursors serine and palmitic acid.
+shown in the hatched bars are the amounts of 3-ketodihydroceramides
+(expressed as pmol/mg of cellular protein) with different acyl chain lengths,
+as measured by liquid chromatography tandem mass spectrometry in hek cells
+stably overexpressing serine palmitoyltransferase. when the culture medium is
+supplemented with 10 mm serine and 0.1 mm palmitate (+p and s), which
+increases the rate of sphingoid base formation (not shown), the black bars show
+increases in 3-ketodihydroceramides that occur. for comparison, the amounts of
+ceramide in these cells are shown in the gray bars.
+there are at
+spectrum of sphingoid bases and fatty acyl-coa's [90]. the
+first genes coding for cer synthase(s) were identified in sac-
+charomyces cerevisiae, where two genes (lag1p and lac1p)
+were found to account for synthesis of yeast cer (which contain
+c26-fatty acids) [91,92], and a lower molecular weight protein
+was later found to be required for activity [93]. mammalian
+homologs of lag1p were then identified and the first (lass1) was
+shown to be highly selective for stearoyl-coa and to make c18-
+(dh)cer [94], which was followed by characterization of
+additional substrate selective (dh)cer synthases [94,95]. it is
+now known that
+least six genes for (dh)cer
+synthase(s) family (lass1–lass6) in mammalian cells [96]
+and, which appear to optimally utilize the fatty acyl-coa's
+shown in fig. 4, although some of these assignments should be
+regarded as tentative until the enzymes are purified and the
+activities can be examined more rigorously (the most definitive
+proof has been for lass5 because it has been purified and the
+reconstituted activity still selects c16:0 fatty acyl-coa) [97] . it
+has also been suggested by futerman and colleagues that these
+genes should be renamed cers as a more logical name for cer
+synthases than lass) [98]. all but lass1 contain a hox
+domain, a transcription factor
+involved in developmental
+regulation [95–99], but it would seem to be necessary for the
+lass proteins to be post-translationally modified (i.e.,
+proteolytically cleaved)
+these motifs to function as
+transcription factors (which would be interesting, indeed).
+for
+as the lass genes for individual subspecies of cer have
+been identified, links between specific cer's and cell regulation/
+disease have become easier to discern. for example, ogretmen
+and co-workers [100] have discovered that head and neck tumors
+have lower proportions of c18-cer than neighboring normal
+tissue and that transfection of the lass1 gene into head and
+neck tumor cells in culture suppressed cell growth. relatively
+little is known about this subclass of ceramides. however, in a
+“sphingolipidomic” analysis of cells for sarah spiegel's lab
+[101], we have observed that administration of exogenous so
+causes significant enrichment of c18-cer. a similar finding has
+been made using cells overexpressing spt (ying liu and a.h.
+merrill, jr., unpublished data), therefore, it appears that lass1
+is subject to regulation by the availability of its sphingoid base
+substrate.
+cer synthase activity is inhibited by fumonisins, a family of
+mycotoxins produced by fusarium verticillioides [102] that
+cause a wide range of diseases of agriculture animals (equine
+leukoencephalomalacia and porcine pulmonary edema) and
+humans (cancer and birth defects) [12]. the structure of
+fumonisin b1 and the characteristics of the inhibition suggest
+that the aminopentol backbone competes for binding of the
+sphingoid base substrate, whereas the anionic tricarballylic
+acids may interfere with binding of the fatty acyl-coa [103].
+the inhibition of cer synthase(s) causes the accumulation of sa
+and sa-1-phosphate as well as depletion of complex sphingo-
+lipids—all of which are likely to contribute to the toxicity/
+carcinogenicity [103,104] and teratogenicity [12,105] of the
+fumonisins. there is also an intriguing interplay between
+sphingolipids and tnfα in modulating fumonisin-induced
+hepatotoxicity [106–108] which might be related to the known
+1872
+w. zheng et al. / biochimica et biophysica acta 1758 (2006) 1864–1884
+ability of cytokines to induce serine palmitoyltransferase [77]
+and other suggested links between de novo sphingolipid
+biosynthesis and turnover in tnfα signaling and toxicity
+[109,110].
+3.2. dihydroceramide desaturase(s)
+after the initial suggestion that incorporation of the 4,5-
+trans-double bond of so occurred at the dhcer level [111],
+this was established conclusively by a combination of in vivo
+labeling studies [112] and development of an assay for this
+highly labile enzyme [113]. dhcer desaturases were then
+cloned from plants [114,115],
+leading to the subsequent
+identification of the desaturase genes from many organisms:
+δ4-desaturase (des1) genes of homo sapiens, mus musculus,
+drosophila melanogaster, and candida albicans and a bifunc-
+tional δ4-desaturase/c4-hydroxylase (des2)
+from homo
+sapiens and mus musculus [116–119]. although both des1
+and des2 genes exist
+in yeast, saccharomyces cerevisiae
+sphingolipids contain mainly phytoso as a sphingoid base
+[120], which is a so fairly prevalent in skin, intestine, and
+kidney cells [121]. des activity is influenced by the alkyl chain
+length of the sphingoid base and fatty acid, the stereochemistry
+of the sphingoid base (d-erythro versus l-threo-dihydrocer-
+amides), the nature of headgroup, and the ability to utilize
+alternative reductants [113]. introduction of the 4,5-double
+bond can be analyzed using nbd-dhcer, which reveals
+interesting features about the stereoselectivity of the reaction
+and subsequent metabolism [51].
+relatively little is known about des1 and des2, but the
+desaturation reaction can be reproduced in vitro using either
+dhcer or dihydrosphingomyelin [113] with nadh or nadph
+and molecular oxygen as co-substrates, and appears to be part of
+the cytochrome b5 electron transport system of the er. dhcer
+desaturase(s) are inhibited by dithiothreitol (dtt) and n-
+acetylcysteine, hence, one can envision that elevation of cellular
+thiols could suppress formation of ceramides [113]. the
+characteristics of this enzyme are similar to other desaturases,
+and inhibitors and redox effectors known to affect δ9-stearoyl-
+coa desaturase and δ1-plasmanyl-ethanolamine desaturase
+severely inhibited dihydroceramide desaturation [113,122].
+3.2.1. generation of ceramide by the reverse reaction of
+ceramidase
+ceramidase catalyzes the hydrolysis of cer, but the reverse
+reaction (cer synthesis from free fatty acid and so) is not
+only possible due to microscopic reversibility, but has been
+found to be relatively rapid under certain conditions
+[123,124]. the reverse reaction has strict stereochemical
+requirements for d-erythro-sphingosine [123,124], d-erythro-
+sphinganine, and d-erythro-phytosphingosine but can accom-
+modate a wide spectrum of a fatty acids,
+including both
+saturated and unsaturated fatty acids [123] and chain lengths
+varying from c8 to c22 [124]. detergents, ph, and various
+lipids such as cardiolipin, phosphatidylcholine, and lysopho-
+sphatidylcholine can affect the hydrolysis reverse activity of
+ceramidase(s) [124].
+3.2.2. generation of c2-ceramide by platelet-activating factor
+(paf)-dependent transacetylase
+sphingoid bases can be acetylated by a platelet-activating
+factor (paf)-dependent transacetylase that transfers the acetyl
+group from paf in a coa-independent manner [125]. the paf-
+dependent transacetylase is widely distributed among the tissues
+and appears to be less active with sa than so [126].
+nonetheless, c2-dhcer has been found in cells and animals
+treated with fumonisin b1 (as well as the untreated controls)
+[103], and it
+is not clear if this is produced by the paf
+transacylase or a more generic acetyltransferase used in
+detoxification of xenobiotics.
+3.2.3. generation of ceramide by turnover of complex
+sphingolipids
+(smase)
+[90,127–130],
+in contemplating the sources of the lipid backbones in cells,
+one must take into account not only the compounds that are
+derived from de novo sphingolipid synthesis, but also that cer
+are also produced by turnover of complex sphingolipids that are
+in the cell or taken up from culture medium. the major sources
+for the ceramide backbone are the hydrolysis sphingomyelin
+(sm) by sphingomyelinase(s)
+the
+hydrolysis of glccer and galcer by glycohydrolases [131],
+and dephosphorylation of cer1p by lipid phosphatase(s) [132].
+sphingomyelinase(s) are distinguished according to their ph
+optima and subcellular localization, and to date several have
+been characterized:
+lysosomal acid sphingomyelinase
+(asmase), zinc ion-dependent secretory sphingomyelinase
+(ssmase), neutral magnesium ion-dependent smase (nsmase),
+and alkaline smase (bsmase) [133]. inducers of sm turnover
+are diverse and include the tumor necrosis factor (tnf) receptor
+family ligands, anticancer drugs, oxidants, and conditions
+known to induce cellular stress [133]. these are all categorized
+as phospholipase c's, i.e., cleave the phosphodiester bond on
+the side of the linkage to cer, so the products are cer and
+choline phosphate. the venom of the brown recluse spider and
+some other organisms contain smase d's that produce cer 1-
+phosphate and choline, and a similar activity has been found in
+some bacteria, which has been suggested to reflect lateral gene
+transfer [134]. recent studies (k. uyesugi et al., manuscript in
+preparation) have found that
+the venom also hydrolyzes
+ceramide phosphoethanolamine, which is the major phospho-
+sphingolipids in flies and many other insects.
+reversal of synthesis is another potential source of cer
+because sm synthases convert diacylglycerol (dag) plus sm
+to cer and phosphatidylcholine (pc). this activity is found
+mostly localized in the golgi and, to some extent, the plasma
+membrane [135]. it has been suggested that the ratios of pc/sm
+and dag/cer are intrinsically related, with possible implica-
+tions for cross-talk between glycerolipid and sphingolipid
+signaling [130].
+turnover of glycosphingolipids is also an important source
+of cer and the degree to which the backbone is salvaged versus
+degraded varies considerably depending on the cell type and
+conditions [136]. one of the first reports suggesting that
+glycosphingolipids may contribute to cer signaling has recently
+been published [137].
+w. zheng et al. / biochimica et biophysica acta 1758 (2006) 1864–1884
+1873
+3.2.4. formation of
+short-chain ceramide
+long-chain ceramide from exogenous
+in studies of the effects of short-chain cer, investigators at
+the medical university of south carolina found that exogen-
+ously added short-chain cer undergoes deacylation followed by
+recycling of the so backbone by reacylation with a long-chain
+fatty acid [49], and because the reacylation was inhibited by
+fb1 [49], they suggest that cer synthase may be responsible.
+4. removal of ceramide by hydrolysis or incorporation into
+other sphingolipids
+the partner to formation of the lipid backbones is their
+removal, and this occurs both by turnover and utilization to
+biosynthesize more complex sphingolipids.
+4.1. ceramide turnover to sphingosine
+ceramidases catalyze the hydrolysis of cer to free fatty acid
+and sphingoid base. there are three types of mammalian
+ceramidases classified by the ph optimum of the activity and
+subcellular localization: acid ceramidase [138], neutral/alkaline
+ceramidase [123,139], and alkaline ceramidase [140]. cerami-
+dase controls cellular cer amount by responding to extracellular
+stimuli, such as interleukin-1β [141], nitric oxide [142],
+oxidized low density lipoprotein [143], and platelet-derived
+growth factor [144].
+4.2. sphingosine metabolism
+cer degradation is the only known source of intracellular so
+[145] (i.e., there is no known reaction that adds the 4,5-double
+bond to sa directly), therefore, free so is either derived from
+sphingolipid turnover or taken up from an exogenous source
+(which could be a substantial route since blood is thought to
+contain ca 0.1 to 1 μm so and s1p) [146,147]. in addition, sa
+shares many of the biochemical properties of so [41], and sa (as
+well as sa1p) amounts can be very high, as exemplified by the
+levels that are achieved when cells are treated with fumonisin
+b1 to inhibit cer synthase [103,148].
+cellular amounts of so are controlled (c.f., fig. 2) by: (a)
+removal by reacylation, as mentioned above for the recycling of
+the so from short-chain cer, and as part of recycling of other
+categories of sphingolipids [131]; (b) removal by phosphoryla-
+tion by so kinases (sphk1 and sphk2) [149], which are well
+established to be important mediators of cell migration, survival,
+differentiation, angiogenesis, and development [150], (c)
+production from s1p by the hydrolysis by s1p phosphatase
+(s1pp) [151], and possibly other lipid phosphatases, and (d)
+irreversible degradation by s1p lyase (spl), a plp-dependent
+enzyme that catalyzes the cleavage of s1p to ethanolamine
+phosphate and a long-chain aldehyde [152]. the turnover of
+sphingoid bases does not only remove potential signaling
+molecules but also provides precursors for other lipids, and in
+at least one system, the turnover of sphingoid bases has been
+estimated to account for as much as one third of the ethanolamine
+phosphate in phosphatidylethanolamine [153,154].
+studies of s1p lyase using mass spectrometry to characterize
+the consequences of overexpressing lyase activity illustrate the
+types of surprises that use of sphingolipidomics can produce
+[152]. one might predict from the scheme shown in fig. 2 that
+overexpression of the lyase would not only deplete cells of s1p
+(as well as sa1p), but also reduce cer and other complex
+sphingolipids because sphingoid bases in general would be
+diverted to degradation. as predicted, the cells had reduced
+baseline so and s1p but had elevated stress-induced cer
+generation that correlated with increased cell death due to
+apoptosis. the most likely explanation for this seeming paradox
+is that de novo sphingolipid biosynthesis was elevated in s1p
+lyase overexpressing cells because s1p appears to function as a
+feedback regulator of the pathway [85].
+5. removal of ceramide by metabolism to more complex
+sphingolipids
+cer is at
+the branchpoint for biosynthesis hundreds of
+complex sphingolipids as summarized in [155] and can be seen
+in www.sphingomap.com. the initial metabolites that are
+formed directly from cer
+in
+mammalian cells are shown in the left overlay of fig. 4 (sm,
+glccer, galcer and cer1p, etc.) and each (as well as a less
+prevalent pathway, 1-acylation) are discussed briefly below:
+(as well as from dhcer)
+5.1. sphingomyelins
+cer is metabolized to sm at
+the cis and medial golgi
+[156,157] and plasma membrane [158,159] by sm synthases
+that catalyze the transfer of phosphorylcholine from phospha-
+tidylcholine to the 1-hydroxyl of cer [160,161]. a family of
+integral membrane proteins have been identified as responsible
+for sm synthesis; sms1 localized to the golgi, and sms2
+localized to the plasma membrane [162].
+5.2. ceramide-1-phosphates
+cer is phosphorylated by cer kinase (cerk) , a cytosolic
+enzyme that has some similarity with so kinases, but additional
+conserved regions that are unique to cerk [163], cerk is
+active with a variety of cer with fatty acyl chain lengths >4
+carbons, and displays higher activity when the sphingoid base
+has a 4,5-trans double bond [164]. cer1p synthesis has been
+reported to be inhibited by a novel f-12509a oletin isomer, k1,
+which has been reported to inhibit cerk without effecting
+other so kinases [165].
+5.3. glucosylceramides and galactosylceramides
+glccer is synthesized by udp-glucose:cer glucosyltransfer-
+ase (cglct, or sometimes abbreviated gcs) on the cytosolic
+side of the golgi apparatus, and possibly the smooth er, which
+[166–168] a number of
+utilizes cer and udp-glucose.
+inhibitors of cglct have been developed [169], such as d,l-
+threo-1-phenyl-2-decanoylamino-3-morpholino-1-propanol
+(pdmp) [170], ppmp [171], n-butyldeoxygalactonojirimycin
+1874
+w. zheng et al. / biochimica et biophysica acta 1758 (2006) 1864–1884
+beginning to be able to discern the subcellular localization of the
+compounds [212] but this is undoubtedly the next step in the
+evolution of this technology. the trafficking of sphingolipids
+has been part of many elegant studies [213–215] and is
+discussed by futerman and co-workers in another review in this
+monograph [216]. the relatively recent finding [217,218] of a
+critical cer trafficking protein, cert, illustrates how there are
+undoubtedly participants in these processes that yet await
+discovery.
+7. biological activities of the lipid backbones of
+sphingolipids
+that
+mindful
+the lipid backbones of sphingolipids are
+involved not just in “signaling” but also “sphingaling,” the
+following section provides a brief overview of the molecular
+targets of the bioactive sphingolipid backbones (so and cer and
+the 1-phosphates) (fig. 6) as a context for understanding the
+need for lipidomic analysis, and some surprises that have
+surfaced in these analyses.
+7.1. sphingosine, other sphingoid bases and sphingoid base
+1-phosphates as bioactive species
+the first sphingolipids that were shown to affect an
+identifiable cell signaling target in vitro and with intact cells
+was the inhibition of protein kinase c by so [219–221]. follow-
+up structure–function studies discovered that essentially all
+stereoisomers as well as n-methyl-derivatives (mono-, di- and
+tri-methyl-), chain length homologs, etc. are inhibitory
+[41,222]. the inhibition by the n-methyl-derivatives was
+presumed to be of marginal physiologic interest because these
+(nb-dnj), [172] n-alkyl-deoxygalactonojirimycin (n-alkyl-
+dgj) [173] and in blocking glccer synthesis, these compounds
+can increase cer [174]. some of the p-glycoprotein antagonists
+also limit glccer synthesis [175], however it is not known
+whether this is by interference with lipid flippase(s) [176] or
+through cglct interaction. once cer reaches the golgi, it (as
+well as glccer) also must traverse the membrane for synthesis
+of sm and the higher order glycosphingolipids.
+galactosylceramide (galcer) is synthesized in the lumen of
+the er by udp-galactose:cer galactosyltransferase (cgalt, or
+sometimes abbreviated cgt) [177,178]. because galcer is
+synthesized in the lumen of the er, the substrates must traverse
+the membrane. little is known about the ability of cer to flip
+across the er membrane, however, udp-galactose transport is
+thought to involve the udp-galactose transporter 2 (ugt2), a
+splice variant of ugt1 that contains an er locating di-lysine
+motif (kvkas) [179] and in some cases, ugt1 [177].
+if
+although this review is focused on the lipid backbones of
+it warrants mention that glccer [180–188],
+sphingolipids,
+galcer [189], and downstream metabolites are also modulators
+of cell behavior, hence,
+interference with backbone
+metabolism also affects these compounds, they may contribute
+to changes in cell phenotype. in addition, glycosphingolipid
+turnover is clearly important as exemplified by the nature of the
+pathologies associated with glycosphingolipid storage diseases
+[190–198]. although accumulation of the substrate of the
+defective hydrolase plays a role in these diseases (e.g., glccer
+in gaucher's disease [199–201] and galcer in krabbe's disease
+[202]), accumulation of other highly bioactive compounds, such
+as psychosine (a lysoglycosphingolipid that lacks the fatty acyl
+sidechain but retains the carbohydrate headgroup) also appears
+to play a role in pathogenesis [203,204].
+5.4. other ceramide metabolites
+in addition to these major products, 1-o-acylceramide is
+synthesized by 1-o-acylceramide synthase which transfers the
+sn-2-acyl group of phosphatidylethanolamine or phosphatidyl-
+choline to cer [205]. 1-o-acylceramide synthase is encoded for
+by the lecithin:cholesterol acyltransferase-like lysophospholi-
+pase gene (llpl) [206], and is inhibited by pdmp [207].
+some sphingolipids are covalently attached to protein, for
+examples: ω-hydroxy-cer and -glccer are attached to surface
+proteins of skin [208,209] and inositol-phosphocer are used as
+membrane anchors for some fungal proteins [210,211].
+6. subcellular localization of sphingolipid biosynthesis and
+turnover
+the scheme in fig. 2 for the localization of sphingolipid
+biosynthesis and turnover depicts only a small fraction of the
+intracellular compartments – and within a compartment, the
+presence of different microdomains – that can determine
+whether a sphingolipid of interest has access to the pertinent
+enzyme or target, which is clearly required for a complete
+picture of sphingolipid metabolism and function. unfortunately,
+the analysis of cellular metabolites by mass spectrometry is only
+fig. 6. summary of some of the key signaling targets that are affected by the
+lipid backbones of sphingolipids and their metabolic interrelationships (protein
+kinase a, pka; 3-phosphoinositide-dependent kinase 1, pdk1; sphingosine
+dependent kinase 1, sdk1; protein kinase c, pkc; protein phosphatase 1,
+pp1; protein phosphatase 2a, pp2a; acid sphingomyelinase, asmase;
+phospholipase a2, pla2; sphingosine-1-phosphase, s1p). also noted is that
+the biophysical properties of ceramides and ceramide 1-phosphates may play
+important
+roles in cell signaling by changing raft properties, making
+membranes leaky, etc.
+w. zheng et al. / biochimica et biophysica acta 1758 (2006) 1864–1884
+1875
+compounds had only been noted indirectly [47]; therefore, it
+was much to our surprise when we have recently found
+substantial amounts of n-methyl- and n,n,n-trimethyl-sphin-
+goid bases (as well as the n,n-dimethyl-derivative, but in barely
+detectable amounts) by mass spectrometry in hek 293 cells
+treated with exogenous so (fig. 7). this figure also illustrates
+another change that is often seen upon addition of exogenous
+so, a marked elevation in sa1p (and depending on the time
+point and concentration, we often also see elevations in sa and
+s1p, not shown). the elevation in sa (1-phosphate) is likely due
+to the competition of exogenously added so for cer synthase,
+diverting a portion of the newly made sa to sa1p (c.f., fig. 2).
+therefore, when investigators add exogenous sphingoid bases
+to cells (including as short-chain cer), there are changes in a
+large number of endogenous metabolites as well as the
+induction of new species, such as the n-methyl-derivatives,
+that may be contributing to the cell behavior(s) under study.
+other targets that have been identified for sphingoid bases
+(fig. 6) are a so dependent protein kinase (which has been
+identified as a proteolytic fragment of protein kinase cδ, also
+termed the protein kinase cδ kinase domain, pkcδkd) that
+phosphorylates 14-3-3 protein [223]; pdk1 [224]; protein
+kinase a type ii, which is activated by so independent of camp
+[225]; casein kinase [226]; and a number of ion channels
+[103,227–230]. in addition, so has recently been suggested to
+be an endogenous agonist for the cb1 cannabanoid receptor
+(and for this receptor also to bind the so analog fty720) [231].
+in addition, in yeast, sa and 4-hydroxysa (phytosphingosine)
+affect several protein kinase pathways and appear to play key
+roles in signaling, for example, for heat shock [232]. less has
+been done in mammalian systems to link changes in free
+sphingoid bases with downstream responses, with the exception
+of pathological conditions where sphingoid bases are elevated
+several orders of magnitude in animals that consume toxic
+amounts of fumonisins [233].
+fig. 7. appearance of n-methyl-sphingoid bases in hek cells incubated with
+sphingosine. shown in the foreground are the amounts of sphingoid bases in
+hek cells under usual culture conditions (sphingosine, so; sphinganine, sa; and
+the 1-phosphates, sop and sap) as well as the amounts of metabolites with
+mono-, di- and tri-methylation of the amino group (n-me, n-me2 and n-me3),
+as measured by liquid chromatography tandem mass spectrometry. the black
+bars show the amounts of these compounds after incubation of the cells with
+1 μm sphingosine for 24 h.
+sphingoid base 1-phosphates are, arguably, fast becoming the
+most extensively studied sphingolipid mediators, and rather than
+discuss them here, the reader is referred to the review in this
+series by spiegel and co-workers [233] or others from this lab on
+targeting s1p in cancer [234], neural and vascular development
+[235], and asthma [236], for just a few of the important links
+between s1p and disease. it is also worth noting in fig. 6, that en
+route to formation of sphingoid base 1-phosphates (and after
+their dephosphorylation, in the reverse direction), one removes
+or produces another highly bioactive compound (so) — indeed,
+it is often overlooked that free sphingoid bases are often as, or
+more, cytotoxic than ceramides [237] (hence, in some cases
+where s1p is protective against cell death, might this be due to
+protection of the cells against accumulation of so or another
+sphingolipid that might otherwise cause cytotoxicity?). con-
+tinuing this train of thought, so is also produced from/or can lead
+to cer, or which can be produced from/lead to cer1p or more
+complex sphingolipids. these interrelationships underscore the
+difficulty of knowing which bioactive compounds are important
+in a given biological process; however, this opportunity for
+coordinate regulation of many signaling pathways may be the
+biological rationale for this pathway.
+other “lyso”-type sphingolipids (i.e., ones with a free amino
+group) include sphingosylphosphocholine (lysosm) [238–240]
+and psychosine (e.g., galactosylsphingosine) [203,204]. both
+are highly bioactive and, especially for the former, emerging as
+likely new categories of backbone lipid signals.
+7.2. ceramides and cer1p as bioactive species
+soon after sphingosine was suggested to be a sphingolipid
+second messenger, cer also became a candidate [241] and
+proved to be the first backbone sphingolipid metabolite that
+fulfilled the traditional requirement of a second messenger
+signaling system, namely that it was produced in response to cell
+stimulation, cer (or at least shorter chain analogs) were able to
+induce comparable cell responses, and at least one protein was
+identified as a direct target for cer in studies with intact cells and
+in vitro [242,243]. of tremendous value to these studies was the
+finding that the target (protein phosphatase pp2a, and later,
+other cer targets) [243,244] was not activated – or at least only
+weekly activated – by dihydrocer (e.g., c2-dhcer vs. c2-cer)
+[245], which ruled out non-specific, membrane disruption as the
+mechanism of action of the exogenously added cer. this
+selectivity has been seen for all of the other cer targets shown in
+fig. 6 (except for the biophysical effects of cer), which has
+resulted in the impression that dhcer are not involved in cell
+regulation. this may, indeed, not be correct as will be discussed
+later in this review.
+although there are many signaling pathways that are affected
+by cer, at present, the following appear to be direct targets of
+cer:
+7.3. phosphoprotein phosphatases 1 and 2a
+these multimeric proteins are activated by cer [244,246]
+and perform critical functions for cell growth, survival and
+1876
+w. zheng et al. / biochimica et biophysica acta 1758 (2006) 1864–1884
+apoptosis [247]. activation of pp2a can induce apoptosis by
+inactivating the anti-apoptotic target akt [248] and bcl2 [249],
+and activating the pro-apoptotic proteins bad [250] and bax
+[251]. activated pp1 appears to induce apoptosis through
+alternative splicing bcl-x and caspase-9 [252]. another target
+of cer, ksr (kinase suppressor of ras), may be downstream of
+pp2a activation [253,254]. ksr is an essential upstream
+regulator of tnfα-stimulated erk1/erk2 activation, most
+likely mediated via direct phosphorylation of raf-1 [255], and
+can protect intestinal epithelial cells from under going apoptosis
+during tnfα [256]. recent structural elucidation of the ksr
+c1 domain by nmr has revealed the presence of a cysteine rich
+region which are normally associated with lipid and protein;
+hence, cer may also interact with ksr directly [257].
+7.4. protein kinase c (pkc)
+many members of the pkc family are affected by cer. cer
+promotes phosphorylation and translocation of pkcα, pkcδ
+and pkcε [258–260] to the golgi but inhibits the juxtanuclear
+translocation of pkcβ2 [261, 262]. pkcξ is activated by the
+direct binding of cer, which leads to the formation of a pro-
+apoptotic complex with prostate apoptosis response-4 (par4)
+[263]. activated pkcξ also regulates gene expression through
+the nuclear factor-kappa b (nf-κb) [264] activity, while it
+modulates alternative splicing of mrna by phosphorylating
+hnrnpa1 to causes it to translocate to the nucleus [265].
+7.5. cathepsin d
+cer was first found to bind to cathepsin d when this protease
+was isolated by cer affinity chromatography [266]. production
+of cer by acid sphingomyelinase (a-smase) in response to
+tnfα, cd95, and chemotherapeutic agents [267] activates
+cathepsin d to induce caspase-independent apoptosis. the
+endosomal protease activity of cathepsin d is responsible for
+cleaving and activating bid [268], a pro-apoptotic protein that
+affects the release of cytochrome c and activation of caspase 3
+and 9.
+7.6. other possible targets of cer
+it has been reported that cer directly binds to activate stress-
+activated protein kinase (sapk/jnk) and induces glomerular
+epithelial cells to undergo apoptosis [269]. one can also
+envision that any cer binding protein, such as cert and
+enzymes that utilize cer as an enzymatic substrate (or product),
+may function as cer sensors if they either serve as a depot
+(buffer) or possibly transduce information to other regulatory
+pathways via protein–protein interactions. more information
+about cer binding proteins has been provided in the review by
+hannun and colleagues in this monograph [270].
+as noted earlier, the biophysical properties of cer allow
+membranes to undergo structural changes that can be viewed as
+analogous to the activation or inactivation of a signaling target
+[271]. lipid microdomains (rafts)
+that are enriched in
+sphingolipids promote assembly of receptors and proteins that
+favor signaling activation, and this has been suggested to
+contribute to signaling via cd95 [272], fasl [273], fcγrii
+[274], uv-induced caspase activation [275], and the clustering
+of the p2x7 receptor responsible for pla2 activation [276,277].
+induction of membrane “leakiness” [52–54] might be regarded
+as analogous to opening of an ion channel, and if the channel is
+large enough, perhaps sufficient to allow efflux of pro-apoptotic
+mediators.
+phosphorylation of cer to produce cer 1-phosphate is
+multifunctional, with the consequences being (not necessarily in
+this temporal order nor ranking of importance): (a) consumption
+of cer, therefore, termination of structural and signaling (i.e.,
+“sphingaling”) processes that depend on cer per se; (b)
+appearance of a negatively charged phospholipid that, pre-
+sumably, will be located on only one side of the bilayer, hence,
+could promote membrane curvature; (c) alteration of the surface
+charge of the membrane and its capacity to bind ions, proteins,
+etc.; (d) selective interactions with other membrane components
+(within the membrane or bound to the surface) to induce
+conformation changes that activate or inhibit the biochemical
+function(s) of the cellular components (such as to activate a
+protein kinase); and, (e) creation of a new species that can be
+acted upon by enzymes, binding proteins, etc. to terminate these
+changes and progress to the next step in the chain of events
+linked to these molecules (which may be another step in a
+signaling cascade or reestablishment of the initial “basal” state).
+as discussed in the review in this monograph by a. gómez-
+muñoz and coworkers [278], production of cer 1-phosphate has
+been associated with key regulatory processes such as
+stimulation of dna synthesis and induction of proliferating-
+cell nuclear antigen [279] as well as inhibition of apoptosis
+(through suppression of acid sphingomyelinase activity to
+prevent accumulation of cer) [280], stimulation of pi3-kinase
+leading to activation of the transcription factor nf-κb and
+upregulation of anti-apoptotic bclxl [281], and activation of
+phospholipase a2 and eicosanoid production [282–284]. cer1p
+also plays an important role in phagocytosis [55].
+7.7. dhcer as bioactive species?
+dhcer are generally regarded to be innocuous because they
+have generally not been found to mimic cer in studies of cer
+targets in vitro nor when short-chain (dh)cer have been added
+to intact cells [245]. therefore, we were quite surprised when
+mass spectrometric analysis of cells treated with 4-hydroxy-
+phenylretinamide (4hpr, also called fenretinide) – an agent
+that has heretofore been thought to cause large increases in cer
+to induce growth arrest and apoptosis as at least part of the
+mechanism of action of this cancer chemotherapeutic agent
+[83,285,286] – did not display increases in cer (fig. 8, gray
+bars) (indeed, in some cases, cer mass decreased), but rather
+large increases in dhcer (fig. 8, black bars). this distinction
+was overlooked before because the previous studies analyzed
+cer by techniques such as thin-layer chromatography or
+quantitation with diglyceride kinase where the dhcer are not
+readily distinguishable from cer. the possibility that agents
+thought to elevate cer might instead cause increases in dhcer
+w. zheng et al. / biochimica et biophysica acta 1758 (2006) 1864–1884
+1877
+it
+roles in digestion of
+while autophagy is most often thought of as a mechanism to
+supply essential nutrients during starvation,
+is now also
+considered to be part of ongoing cell maintenance as well as to
+play important
+foreign organisms
+(xenophagy) and antigen presentation [295]. autophagy has
+been described as a “double-edged sword” [296] because it can
+both contribute to, and protect
+from, disease [297]. for
+example, in cancer autophagy can be utilized by tumors as a
+means to avoid apoptosis in a nutrient and growth-factor limited
+environment but can also be a chemotherapeutic target by
+suppression of autophagy or conversion of safe to lethal
+autophagy (by destabilization of the autophagolysosome and
+leakage of proteases into the cytoplasm) [298,299].
+fig. 8. elevation of dihydroceramide (and not ceramide) in the human prostate
+cancer cell line du145 by treatment with fenretinide (4-hydroxyphenylretina-
+mide, 4hpr). the du145 cells were treated with the shown concentrations of
+fenretinide then the cer (in grey) and dhcer (in black) were analyzed by liquid
+chromatography tandem mass spectrometry.
+has only rarely been considered before (an exception being a
+recent study of the effects of γ-tocopherol on lncap cells
+which also noted an elevation in dhcer) [287],2 and raises the
+question: can dhcer also serve as bioactive species, and if so,
+how?
+it
+from a biophysical perspective,
+is relatively easy to
+envision how dhcer might perform different cell functions
+than cer because they have a higher dipole potential compared
+to cer, which could decrease the packing density [289]; they
+have a lesser tendency than cer to promote flip-flop [290]; and
+are less prone to form membrane channels [291]. in addition to
+these biophysical properties (or perhaps because of them), we
+have found a cellular process that can be induced by dhcer –
+the formation of autophagosomes – and this may be one of the
+cell regulatory functions of these sphingolipid backbones.
+8. sphingolipids and autophagy
+autophagy (“self-eating”) is a normal physiologic mechan-
+ism for the turnover of cellular proteins, excess and damaged
+organelles [292,293], and is sometimes subdivided into three
+types [294]: microautophagy, where cytosolic components are
+directly engulfed by lysosomes; chaperone-mediated autop-
+hagy, which uses transport proteins to move components into
+the lysosome; and macroautophagy (which is often referred to
+as “autophagy,” including in this review), where proteins and
+organelles are sequestered into double membrane vesicles
+known as autophagosomes that fuse with lysosomes to form
+autophagolysosomes, where the degradation is completed.
+2 schulz et al. [288] a. schulz, t. mousallem, m. venkataramani, d.a.
+persaud-sawin, a. zucker, c. luberto, a. bielawska, j. bielawski, j.c.
+holthuis, s.m. jazwinski, l. kozhaya, g.s. dbaibo and r.m. boustany, j.
+biol. chem. 281 (2006) 2784-94. have also used 4hpr to elevate dhcer, but
+acknowledge in their manuscript that this was suggested to them by our
+discovery that 4hpr inhibits dhcer desaturation.
+recent studies have elegantly established that addition of
+exogenous cer can induce autophagy, and the autophagy
+induced by agents such as tamoxifen involves endogenous
+sphingolipids [300,301]. to establish that autophagosomes are
+being formed, these investigations have used: (a) microscopy to
+establish that structures resembling macroautophagosomes are
+induced in malignant glioma cells (u373-mg and t98g) and
+colon cancer (ht29) cells after treatment with c2-cer; (b)
+measurement of the rate of protein degradation, one of the
+functions of formation of autophagosomes, which is increased
+in ht-29 cells after treatment with c2-cer (and to show that the
+effect was attenuated by the autophagy inhibitor 3-methylade-
+nine, 3ma) [302]; and (c) examination of the appearance of
+large, acidic vesicular organelles that can be visualized by
+acridine orange staining (and more specifically, monodansylca-
+daverine, mdc) and are considered characteristic of autophagic
+vacuoles,
+in cells treated with c2-cer. in a more recent
+approach that has become feasible due to advances in the
+understanding of the early molecular events of autophagy, cells
+have been transfected with a genetic construct
+for green
+fluorescent protein (gfp)-tagged lc3 protein (microtubule-
+associated protein light chain 3), which is normally distributed
+throughout the cytoplasm but is recruited to the er membrane
+and appears in a punctate pattern early in the formation of
+autophagosomes [303]. this punctate pattern was observed
+after the cells were treated with c2-cer [300] and by other
+perturbations of sphingolipid metabolism [304]. therefore,
+these investigations have shown that cer induces autophagy by
+all of
+this
+phenomenon.
+the accepted criteria for establishment of
+in addition to the induction of autophagy by exogenous
+short-chain cer, codogno and co-workers [301] have shown
+that tamoxifen (which elevates endogenous cer by inhibition of
+glccer synthase [285]) induces autophagy. this study not only
+found that changes in endogenous cer were correlated with
+autophagy, but also, showed that tamoxifen-induced autophagy
+was suppressed when cer synthesis was blocked by the spt
+inhibitor myriocin (isp1) [301]. therefore, endogenous cer can
+serve as a mediator in the induction of autophagy by other
+agents.
+in agreement with these investigations, we have found that
+transfection of du145 cells with gfp-tagged lc3 protein
+results in clustering of gfp-lc3 into punctate structures after
+addition of c2-cer (fig. 9, upper right panel) versus the control
+1878
+w. zheng et al. / biochimica et biophysica acta 1758 (2006) 1864–1884
+fig. 9. induction of autophagy by n-acetyl-sphingosine (c2cer), -sphinganine (c2dhcer) and fenretinide (4hpr). du145 cells were transfected with a gfp-tagged
+lc3 protein (a marker of autophagosomes) then after 24 h, treated with the shown compounds (at 10 μm) and examined by confocal microscopy after an additional
+24 h. the arrows highlight regions where lc3-gfp fluorescence is associated with autophagosomes (auϕ) versus the cytoplasm (c) and, for reference, the darker
+nuclear region (nuc).
+cells with vehicle only (fig. 9, top left panel). in addition, cells
+treated with 4hpr (fig. 9, lower right panel) also displayed
+more punctate fluorescence than the control. because we have
+found that 4hpr elevates dhcer, not cer, in these cells (fig.
+8), du145 cells were treated with c2-dhcer under the same
+conditions, which clearly caused gfp-lc3 fluorescence to
+appear in punctate (autophagosomal) vesicles (fig. 9, lower
+left). therefore, exogenous dhcer is able to induce autophagy
+in du145 cells, and it is likely that the induction of autophagy
+by 4hpr is due to the large increase in endogenous dhcer
+(fig. 8). it would be interesting to know if some of the recently
+developed chemical
+inhibitors of dhcer desaturase have
+similar effects on cells [305].
+8.1. possible mechanisms for cer and dhcer induced
+autophagy
+exogenously added c2-cer and elevation of endogenous
+cer with tamoxifen increase beclin 1 [301], an upstream
+regulator of autophagy [306]. suppression of beclin 1
+expression with sirna blunted the autophagic response of
+u-251 glioblastoma cells to c2-cer, and it is possible that it
+may facilitate the interaction of pi3k with upstream regulators
+of autophagy [307]. class i pi3k and akt are suppressors of
+autophagy, and cer is a well-known activator of pp2a, which
+inhibits akt activation [301,308,309]. c2-cer has also been
+shown to relieve il-13-mediated inhibition of autophagy [310],
+which is thought to involve the class i pi3k/akt pathway
+[304]. induction of autophagic cell death might also involve
+bnip3, a cell-death inducing mitochondrial protein that was
+induced by c2-cer in u373-mg and t98g cells [300].
+intriguingly, none of these signaling pathways are known to
+be induced by both cer and dhcer, therefore, it is possible that
+there is another role for these compounds that involves other
+target(s), or a biophysical effect of (dh)cer such as the
+induction of membrane curvature since the formation of
+autophagosomes involves major changes in membrane archi-
+tecture. it
+is also possible that a key mediator is another
+sphingolipid metabolite(s) of cer and dhcer (such as the 1-
+phosphate, since cer1p is known to play a role in phagocytosis)
+[55].
+another backbone lipid metabolite has been implicated in
+autophagy is s1p [304]. over-expression of spkk1 promoted
+autophagy which was not inhibited by fb1, which indicates its
+mechanism is not dependent on n-acylation of sphingoid bases
+(i.e., may be separate from cer). unlike cer-mediated
+autophagy, sphk1-mediated autophagy was not associated
+with an increase in beclin 1 protein [304] nor an inhibition of
+w. zheng et al. / biochimica et biophysica acta 1758 (2006) 1864–1884
+1879
+akt or the class i pi3k; however, the downstream regulator of
+the pi3k/akt pathway and autophagy inhibitor mtor was
+inhibited by sphk1 over-expression. a particularly interesting
+finding of this study was that suppression of sphk1 expression
+or activity by an inhibitor caused lethal autophagy, whereas,
+sphk1 protected cells from apoptosis during starvation. hence,
+what one envisions could be happening as cells make more
+autophagosomes, etc. with respect to the possible consequences
+for cell survival has been summarized in the model shown in
+fig. 10.
+this model begins with the presumption that elevation of cer
+or dhcer induces the formation of autophagosomes, which
+may be a more widely occurring phenomenon that is currently
+appreciated because even a “classic” inducer of autophagy (i.e.,
+serum starvation) has been seen to elevate cer [311]. after
+autophagosomes are formed, they acquire lysosomal enzymes
+such as acid ceramidase, which will hydrolyze at least some of
+the cer (or dhcer) to sa and so, which will, in analogy to
+lysosomal degradation of sphingolipids (c.g., fig. 2), will efflux
+from the autophagolysosome to the cytosol and be reacylated or
+phosphorylated. the finding that so kinase promotes autophagy
+that does not progress to cell death suggests that
+the
+phosphorylation of sa and so removes these potentially
+cytotoxic compounds (since free sphingoid bases are well
+known to be cytotoxic) [41,43,237], in addition to activating
+anti-apoptotic targets be controlled by sphingoid base 1-
+in the absence of
+phosphates [101,149,233]. therefore,
+fig. 10. a hypothetical model that integrates the possible roles of multiple
+sphingolipid backbones in the modulation of autophagy and autophagic death.
+the scheme suggests that elevations in ceramide (cer) and/or dihydrocer
+(dhcer) by various means (#1) may promote the formation of autophago-
+somes (#2) that will be converted to autophagolysosomes by incorporation of
+lysosomal hydrolases, resulting in cleavage of (dh)cer to sphinganine and
+sphingosine, (sa)so (#3). if (sa)so exit the autophagolysosome (#4), they can
+undergo phosphorylation to sphinganine 1-phosphate (sap) and sphingosine
+1-phosphate (sop) by sphingosine kinase (sphk1) (#5a), which should favor
+cell survival. if efflux is not facilitated by trapping the sphingoid bases in the
+cytoplasm by phosphorylation, they may accumulate in the autophagolyso-
+some and – perhaps in combination with (dh)cer – destabilize the
+membrane (#5b) resulting in release of cathepsins (including cathepsin d,
+which might be further activated by cer) (#6a) to ultimately activate caspases
+(#6b) and cell death (r.i.p.).
+sufficient so kinase activity, sphingoid bases could accumulate,
+destabilize the autophagolysosomes, and cause release of
+cathepsins and other cytotoxic factors [312,313]. this is an
+attractive scenario because cer are activators of cathepsin d,
+which in turn are known to be able to activate caspases and
+induce apoptosis [266–268].
+considering that
+it
+is not surprising that
+the functions of autophagy include
+degradation of damaged proteins and organelles and to enable
+cells to deal with other stressful (e.g., low-nutrient) condi-
+tions,
+the pathway would have a
+mechanism to do so safely, but to switch to a lethal mode
+when the damage/stress is too severe for the cell to maintain
+other normal characteristics (such as an undamaged genome,
+etc.). these descriptors parallel the current thinking about the
+effects of the lipid backbones of sphingolipids on cell survival
+versus death, with sphingosine-1-phosphate being primarily
+an inhibitor of apoptosis whereas cer and so promote
+the scheme in fig. 10 – even if over-
+apoptosis. thus,
+simplified – may serve as a useful model for additional
+studies of the interplay between sphingolipid metabolism and
+autophagy because a better understanding of
+these inter-
+relationships could lead to new strategies for controlling
+autophagy in muscular and neurodegeneration,
+infection,
+cancer and other disease.
+9. summarizing comments
+that the lipid backbones of sphingolipids play critical roles
+in membrane structure and signaling is now beyond doubt, but
+as has been illustrated for autophagy, it is not necessarily clear
+for a given biological phenomenon if only one compound and
+its cellular target(s) are sufficient
+to regulate that cellular
+function, or
+if an ensemble of metabolically interrelated
+compounds are necessary because their effects are synergistic,
+with the synergy including temporal and/or spatial coordina-
+tion. most complex biological processes require many levels
+of coordinate regulation, and because sphingolipid metabolites
+are capable of being lethal, one would assume that
+the
+regulation of these compounds would be very sophisticated.
+indeed, until we have technologies like “sphingolipidomics” in
+their future, more comprehensive, forms (that allow not only
+the molecules to be identified and quantified, but also the
+subcellular locations to be known), our understanding of how
+a given biologic process is regulated by sphingolipids will be
+incomplete. it is encouraging, nonetheless, that even if this is a
+still somewhat of a fishing expedition, the works of many
+sphingolipidologists – starting with thudichum – have
+enlarged the waters so we now have a reasonable chance of
+finding a whale.
+acknowledgements
+the majority of the new findings described in this review
+were uncovered using resources provided by the lipid maps
+consortium grant gm069338, and in some cases, as part of
+research under nci-u19-ca87525. the authors thank collea-
+gues who have also helped in the evolution of these ideas by
+1880
+w. zheng et al. / biochimica et biophysica acta 1758 (2006) 1864–1884
+their findings and discussions, and in particular katie fluke,
+chris haynes, carrie pack and may wang.
+references
+[1] j.l.w. thudichum, the popular science monthly (1876) 724–727.
+[2] j.l.w. thudichum, a treatise on the chemical constitution of brain,
+bailliere, tindall, and cox, london, 1884.
+[3] h.c. carter, w.j. haines, w.e. ledyard, w.p. norris, j. biol. chem. 169
+(1947) 77–82.
+[4] s. hakomori,
+in: j.n. kanfer, s. hakomori
+(eds.), sphingolipid
+biochemistry, plenum press, new york, 1983, pp. 1–165.
+[5] k. sandhoff, t. kolter, philos. trans. r. soc. london, ser. b biol. sci.
+358 (2003) 847–861.
+[6] r.w. watts, philos. trans. r. soc. london, ser. b biol. sci. 358 (2003)
+975–983.
+[7] e. schuchman, biochim. biophys. acta 1758 (2006) 2133–2138.
+[8] r.o. brady, annu. rev. med. 57 (2006) 283–296.
+[9] k. hanada, jpn. j. infect. dis. 58 (2005) 131–148.
+[10] e. gulbins, biochim. biophys. acta 1758 (2006) 2139–2146.
+[11] e. wang, w.p. norred, c.w. bacon, r.t. riley, a.h. merrill jr., j. biol.
+chem. 266 (1991) 14486–14490.
+[12] w.f. marasas, r.t. riley, k.a. hendricks, v.l. stevens, t.w. sadler, j.
+gelineau-van waes, s.a. missmer, j. cabrera, o. torres, w.c.
+gelderblom, j. allegood, c. martinez, j. maddox, j.d. miller, l. starr,
+m.c. sullards, a.v. roman, k.a. voss, e. wang, a.h. merrill jr., j. nutr.
+134 (2004) 711–716.
+[13] k. bejaoui, c. wu, m.d. scheffler, g. haan, p. ashby, l. wu, p. de jong,
+r.h. brown jr., nat. genet. 27 (2001) 261–262.
+[14] j.l. dawkins, d.j. hulme, s.b. brahmbhatt, m. auer-grumbach, g.a.
+nicholson, nat. genet. 27 (2001) 309–312.
+[15] s. hakomori, proc. natl. acad. sci. u. s. a. 99 (2002) 10231–10233.
+[16] e. suzuki, k. handa, m.s. toledo, s. hakomori, proc. natl. acad. sci.
+u. s. a. 101 (2004) 14788–14793.
+[17] b. ogretmen, y.a. hannun, nat. rev., cancer 4 (2004) 604–616.
+[18] e.m. schmelz, a.s. bushnev, d.l. dillehay, d.c. liotta, a.h. merrill jr.,
+nutr. cancer 28 (1997) 81–85.
+[19] e.m. schmelz, d.l. dillehay, s.k. webb, a. reiter, j. adams, a.h.
+merrill jr., cancer res. 56 (1996) 4936–4941.
+[20] a. senchenkov, d.a. litvak, m.c. cabot, j. natl. cancer inst. 93 (2001)
+347–357.
+[21] g.k. schwartz, d. ward, l. saltz, e.s. casper, t. spiess, e. mullen, j.
+woodworth, r. venuti, p. zervos, a.m. storniolo, d.p. kelsen, clin.
+cancer res. 3 (1997) 537–543.
+[22] p. fredman, k. hedberg, t. brezicka, biodrugs 17 (2003) 155–167.
+[23] v.v. parekh, m.t. wilson, l. van kaer, crit. rev. immunol. 25 (2005)
+183–213.
+[24] b. visentin, j.a. vekich, b.j. sibbald, a.l. cavalli, k.m. moreno, r.g.
+matteo, w.a. garland, y. lu, s. yu, h.s. hall, v. kundra, g.b. mills,
+r.a. sabbadini, cancer cell 9 (2006) 225–238.
+[25] t. levade, biochim. biophys. acta (2006).
+[26] r. ghidoni, biochim. biophys. acta (2006).
+[27] w.s. kim, c.e. chalfant, b. garner, curr. vasc. pharmacol. 4 (2006)
+151–454.
+[28] s.a. summers, prog. lipid res. 45 (2006) 42–72.
+[29] h. hayashi, n. kimura, h. yamaguchi, k. hasegawa, t. yokoseki, m.
+shibata, n. yamamoto, m. michikawa, y. yoshikawa, k. terao, k.
+matsuzaki, c.a. lemere, d.j. selkoe, h. naiki, k. yanagisawa, j.
+neurosci. 24 (2004) 4894–4902.
+[30] h. satoi, h. tomimoto, r. ohtani, t. kitano, t. kondo, m. watanabe, n.
+oka, i. akiguchi, s. furuya, y. hirabayashi, t. okazaki, neuroscience
+130 (2005) 657–666.
+[31] i.y. tamboli, k. prager, e. barth, m. heneka, k. sandhoff, j. walter, j.
+biol. chem. 280 (2005) 28110–28117.
+[32] x. han, curr. alzheim. res. 2 (2005) 65–77.
+[33] t. hirabayashi, y. igarashi, a.h. merrill jr., sphingolipid biology, 1st ed.
+springer, 2006.
+[34] t.e. fox, c.m. finnegan, r. blumenthal, m. kester, cell. mol. life sci..
+63 (2006) 1017–1023.
+[35] h. fyrst, d.r. herr, g.l. harris, j.d. saba, j. lipid res. 45 (2004)
+54–62.
+[36] e. fahy, s. subramaniam, h.a. brown, c.k. glass, a.h. merrill jr., r.c.
+murphy, c.r. raetz, d.w. russell, y. seyama, w. shaw, t. shimizu, f.
+spener, g. van meer, m.s. vannieuwenhze, s.h. white, j.l. witztum,
+e.a. dennis, j. lipid res. 46 (2005) 839–861.
+[37] k.-a. karlsson, lipids (1970) 6–43.
+[38] m.c. sullards, d.v. lynch, a.h. merrill jr., j. adams, j. mass spectrom.
+35 (2000) 347–353.
+[39] t. hikita, k. tadano-aritomi, n. iida-tanaka, s.b. levery, i. ishizuka, s.
+hakomori, neurochem. res. 27 (2002) 575–581.
+[40] c.w. slife, e. wang, r. hunter, s. wang, c. burgess, d.c. liotta, a.h.
+merrill jr., j. biol. chem. 264 (1989) 10371–10377.
+[41] a.h. merrill jr., s. nimkar, d. menaldino, y.a. hannun, c. loomis, r.m.
+bell, s.r. tyagi, j.d. lambeth, v.l. stevens, r. hunter, et al.,
+biochemistry 28 (1989) 3138–3145.
+[42] m.j. hope, p.r. cullis, j. biol. chem. 262 (1987) 4360–4366.
+[43] k. kagedal, m. zhao, i. svensson, u.t. brunk, biochem. j. 359 (2001)
+335–343.
+[44] y.a. hannun, a.h. merrill jr., r.m. bell, methods enzymol. (1991)
+316–328.
+[45] f.m. goni, biochim. biophys. acta (2006).
+[46] b. maggio, biochim. biophys. acta (2006).
+[47] y. igarashi, s. hakomori, biochem. biophys. res. commun. 164 (1989)
+1411–1416.
+[48] j. sot, f.m. goni, a. alonso, biochim. biophys. acta 1711 (2005)
+12–19.
+[49] b. ogretmen, b.j. pettus, m.j. rossi, r. wood, j. usta, z. szulc, a.
+bielawska, l.m. obeid, y.a. hannun, j. biol. chem. 277 (2002)
+12960–12969.
+[50] r.e. pagano, m.a. sepanski, o.c. martin, j. cell biol. 109 (1989)
+2067–2079.
+[51] j.w. kok, m. nikolova-karakashian, k. klappe, c. alexander, a.h.
+merrill jr., j. biol. chem. 272 (1997) 21128–21136.
+[52] f.m. goni, f.x. contreras, l.r. montes, j. sot, a. alonso, biochem.
+soc. symp. (2005) 177–188.
+[53] l.r. montes, m.b. ruiz-arguello, f.m. goni, a. alonso, j. biol. chem.
+277 (2002) 11788–11794.
+[54] l.j. siskind, r.n. kolesnick, m. colombini, mitochondrion 6 (2006)
+118–125.
+[55] v. hinkovska-galcheva, l.a. boxer, a. kindzelskii, m. hiraoka, a.
+abe, s. goparju, s. spiegel, h.r. petty, j.a. shayman, j. biol. chem.
+280 (2005) 26612–26621.
+[56] a. gomez-munoz, febs lett. 562 (2004) 5–10.
+[57] s. levery, methods enzymol. (2005) 300–368.
+[58] a.h. merrill jr., m.c. sullards, j.c. allegood, s. kelly, e. wang,
+methods 36 (2005) 207–224.
+[59] x. han, r.w. gross, mass spectrom. rev. 24 (2005) 367–412.
+[60] b. domon, c.e. costello, biochemistry 27 (1988) 1534–1543.
+[61] b. domon, j.e. vath, c.e. costello, anal. biochem. 184 (1990) 151–164.
+[62] j. adams, ann. q., mass spectrom. rev. (1993) 51–85.
+[63] q. ann, j. adams, j. am. soc. mass spectrom. (1992) 260–263.
+[64] k. hanada, m. nishijima, m. kiso, a. hasegawa, s. fujita, t. ogawa, y.
+akamatsu, j. biol. chem. 267 (1992) 23527–23533.
+[65] m.m. nagiec, j.a. baltisberger, g.b. wells, r.l. lester, r.c. dickson,
+proc. natl. acad. sci. u. s. a. 91 (1994) 7899–7902.
+[66] k. hanada, m. nishijima, t. fujita, s. kobayashi, biochem. pharmacol.
+59 (2000) 1211–1216.
+[67] a.h. merrill jr., j. biol. chem. 277 (2002) 25843–25846.
+[68] k. hanada, biochim. biophys. acta 1632 (2003) 16–30.
+[69] e.c. mandon, i. ehses, j. rother, g. van echten, k. sandhoff, j. biol.
+chem. 267 (1992) 11144–11148.
+[70] s. yasuda, m. nishijima, k. hanada, j. biol. chem. 278 (2003)
+4176–4183.
+w. zheng et al. / biochimica et biophysica acta 1758 (2006) 1864–1884
+1881
+[71] m.m. nagiec, r.l. lester, r.c. dickson, gene 177 (1996) 237–241.
+[72] h. ikushiro, h. hayashi, h. kagamiyama, j. biol. chem. 276 (2001)
+18249–18256.
+[73] r.c. dickson, r.l. lester, m.m. nagiec, methods enzymol. 311 (2000)
+3–9.
+[74] k. hanada, t. hara, m. nishijima, o. kuge, r.c. dickson, m.m. nagiec,
+j. biol. chem. 272 (1997) 32108–32114.
+[75] k. gable, g. han, e. monaghan, d. bacikova, m. natarajan, r.
+williams, t.m. dunn, j. biol. chem. 277 (2002) 10194–10200.
+[76] m.r. hojjati, z. li, x.c. jiang, biochim. biophys. acta 1737 (2005)
+44–51.
+[77] r.a. memon, w.m. holleran, a.h. moser, t. seki, y. uchida, j. fuller,
+j.k. shigenaga, c. grunfeld, k.r. feingold, arterioscler. thromb.
+vasc. biol. 18 (1998) 1257–1265.
+[78] a.m. farrell, y. uchida, m.m. nagiec, i.r. harris, r.c. dickson, p.m.
+elias, w.m. holleran, j. lipid res. 39 (1998) 2031–2038.
+[79] s.c. linn, h.s. kim, e.m. keane, l.m. andras, e. wang, a.h. merrill
+jr., biochem. soc. trans. 29 (2001) 831–835.
+[80] t. herget, c. esdar, s.a. oehrlein, m. heinrich, s. schutze, a. maelicke,
+g. van echten-deckert, j. biol. chem. 275 (2000) 30344–30354.
+[81] f. scarlatti, g. sala, g. somenzi, p. signorelli, n. sacchi, r. ghidoni,
+faseb j. 17 (2003) 2339–2341.
+[82] d.k. perry, j. carton, a.k. shah, f. meredith, d.j. uhlinger, y.a.
+hannun, j. biol. chem. 275 (2000) 9078–9084.
+[83] h. wang, b.j. maurer, c.p. reynolds, m.c. cabot, cancer res. 61 (2001)
+5102–5105.
+[84] a.h. merrill jr., e. wang, r.e. mullins, biochemistry 27 (1988) 340–345.
+[85] e.c. mandon, g. van echten, r. birk, r.r. schmidt, k. sandhoff, eur. j.
+biochem. 198 (1991) 667–674.
+[106] r.p. sharma, n. bhandari, q. he, r.t. riley, k.a. voss, toxicology 159
+(2001) 69–79.
+[107] k.a. voss, r. riley, c. dunn, j. christopher corton, toxicology 222
+(2006) 165–174.
+[108] q. he, j. kim, r.p. sharma, toxicol. sci. 80 (2004) 335–342.
+[109] s.g. meyer, h. de groot, biochim. biophys. acta 1643 (2003) 1–4.
+[110] y. osawa, h. uchinami, j. bielawski, r.f. schwabe, y.a. hannun, d.a.
+brenner, j. biol. chem. 280 (2005) 27879–27887.
+[111] d.e. ong, r.n. brady, j. biol. chem. 248 (1973) 3884–3888.
+[112] a.h. merrill jr., e. wang, j. biol. chem. 261 (1986) 3764–3769.
+[113] c. michel, g. van echten-deckert, j. rother, k. sandhoff, e. wang, a.h.
+merrill jr., j. biol. chem. 272 (1997) 22432–22437.
+[114] p. sperling, u. zahringer, e. heinz, j. biol. chem. 273 (1998)
+28590–28596.
+[115] p. sperling, a. blume, u. zahringer, e. heinz, biochem. soc. trans. 28
+(2000) 638–641.
+[116] f. omae, m. miyazaki, a. enomoto, m. suzuki, y. suzuki, a. suzuki,
+biochem. j. 379 (2004) 687–695.
+[117] f. omae, m. miyazaki, a. enomoto, a. suzuki, febs lett. 576 (2004)
+63–67.
+[118] y. mizutani, a. kihara, y. igarashi, febs lett. 563 (2004) 93–97.
+[119] p. ternes, s. franke, u. zahringer, p. sperling, e. heinz, j. biol. chem.
+277 (2002) 25512–25518.
+[120] d. haak, k. gable, t. beeler, t. dunn, j. biol. chem. 272 (1997)
+29704–29710.
+[121] l. coderch, o. lopez, a. de la maza, j.l. parra, am. j. clin. dermatol. 4
+(2003) 107–129.
+[122] l. geeraert, g.p. mannaerts, p.p. van veldhoven, biochem. j. 327 (pt. 1)
+(1997) 125–132.
+[86] a. kihara, y. igarashi, j. biol. chem. 279 (2004) 49243–49250.
+[87] t. beeler, d. bacikova, k. gable, l. hopkins, c. johnson, h. slife, t.
+[123] k. kita, n. okino, m. ito, biochim. biophys. acta 1485 (2000) 111–120.
+[124] n. okino, x. he, s. gatt, k. sandhoff, m. ito, e.h. schuchman, j. biol.
+dunn, j. biol. chem. 273 (1998) 30688–30694.
+chem. 278 (2003) 29948–29953.
+[88] r.d. williams, e. wang, a.h. merrill jr., arch. biochem. biophys. 228
+(1984) 282–291.
+[89] d. ardail, i. popa, k. alcantara, a. pons, j.p. zanetta, p. louisot, l.
+thomas, j. portoukalian, febs lett. 488 (2001) 160–164.
+[90] a.h. merrill jr., d.d. jones, biochim. biophys. acta 1044 (1990) 1–12.
+[91] i. guillas, p.a. kirchman, r. chuard, m. pfefferli, j.c. jiang, s.m.
+jazwinski, a. conzelmann, embo j. 20 (2001) 2655–2665.
+[92] s. schorling, b. vallee, w.p. barz, h. riezman, d. oesterhelt, mol. biol.
+cell 12 (2001) 3417–3427.
+[93] b. vallee, h. riezman, embo j. 24 (2005) 730–741.
+[94] k. venkataraman, c. riebeling, j. bodennec, h. riezman, j.c. allegood,
+m.c. sullards, a.h. merrill jr., a.h. futerman, j. biol. chem. 277
+(2002) 35642–35649.
+[95] c. riebeling, j.c. allegood, e. wang, a.h. merrill jr., a.h. futerman, j.
+biol. chem. 278 (2003) 43452–43459.
+[96] y. mizutani, a. kihara, y. igarashi, biochem. j. 390 (2005) 263–271.
+[97] s. lahiri, a.h. futerman, j. biol. chem. 280 (2005) 33735–33738.
+[98] y. pewzner-jung, s. ben-dor, a.h. futerman, j. biol. chem. (2006).
+[99] i. guillas, j.c. jiang, c. vionnet, c. roubaty, d. uldry, r. chuard, j.
+wang, s.m. jazwinski, a. conzelmann, j. biol. chem. 278 (2003)
+37083–37091.
+[100] s. koybasi, c.e. senkal, k. sundararaj, s. spassieva, j. bielawski, w.
+osta, t.a. day, j.c. jiang, s.m. jazwinski, y.a. hannun, l.m. obeid, b.
+ogretmen, j. biol. chem. 279 (2004) 44311–44319.
+[101] m. maceyka, h. sankala, n.c. hait, h. le stunff, h. liu, r. toman, c.
+collier, m. zhang, l.s. satin, a.h. merrill jr., s. milstien, s. spiegel, j.
+biol. chem. 280 (2005) 37118–37129.
+[102] w.f. marasas, environ. health perspect.. 109 (suppl. 2) (2001) 239–243.
+[103] a.h. merrill jr., m.c. sullards, e. wang, k.a. voss, r.t. riley, environ.
+health perspect. 109 (suppl. 2) (2001) 283–289.
+[104] r.t. riley, e. enongene, k.a. voss, w.p. norred, f.i. meredith, r.p.
+sharma, j. spitsbergen, d.e. williams, d.b. carlson, a.h. merrill jr.,
+environ. health perspect. 109 (suppl. 2) (2001) 301–308.
+[105] j. gelineau-van waes, l. starr, j. maddox, f. aleman, k.a. voss, j.
+wilberding, r.t. riley, birth defects res. a clin. mol. teratol. 73
+(2005) 487–497.
+[125] t. lee, adv. exp. med. biol. 416 (1996) 113–119.
+[126] t.c. lee, m.c. ou, k. shinozaki, b. malone, f. snyder, j. biol. chem.
+271 (1996) 209–217.
+[127] a. van helvoort, w. van't hof, t. ritsema, a. sandra, g. van meer, j.
+biol. chem. 269 (1994) 1763–1769.
+[128] t. kudoh, m.a. velkoff, d.a. wenger, biochim. biophys. acta 754
+(1983) 82–92.
+[129] m.w. spence, j.t. clarke, h.w. cook, j. biol. chem. 258 (1983)
+8595–8600.
+[130] w.d. marggraf, j.n. kanfer, biochim. biophys. acta 793 (1984)
+[131] g. tettamanti, glycoconj. j. 20 (2004) 301–317.
+[132] o. boudker, a.h. futerman, j. biol. chem. 268 (1993) 22150–22155.
+[133] n. marchesini, y.a. hannun, biochem. cell. biol. 82 (2004) 27–44.
+[134] m.h. cordes, g.j. binford, bioinformatics 22 (2006) 264–268.
+[135] g. van meer, curr. opin. cell biol. 5 (1993) 661–673.
+[136] g. tettamanti, r. bassi, p. viani, l. riboni, biochimie 85 (2003)
+346–353.
+423–437.
+[137] r. valaperta, v. chigorno, l. basso, a. prinetti, r. bresciniani, a. preti,
+t. miyagi, s. sonnino, faseb j. 20 (2006) 1227–1229.
+[138] j. koch, s. gartner, c.m. li, l.e. quintern, k. bernardo, o. levran, d.
+schnabel, r.j. desnick, e.h. schuchman, k. sandhoff, j. biol. chem.
+271 (1996) 33110–33115.
+[139] s. el bawab, p. roddy, t. qian, a. bielawska, j.j. lemasters, y.a.
+hannun, j. biol. chem. 275 (2000) 21508–21513.
+[140] c. mao, r. xu, z.m. szulc, a. bielawska, s.h. galadari, l.m. obeid, j.
+biol. chem. 276 (2001) 26577–26588.
+[141] m. nikolova-karakashian, e.t. morgan, c. alexander, d.c. liotta, a.h.
+merrill jr., j. biol. chem. 272 (1997) 18718–18724.
+[142] a. huwiler, j. pfeilschifter, h. van den bosch, j. biol. chem. 274 (1999)
+7190–7195.
+[143] n. auge, m. nikolova-karakashian, s. carpentier, s. parthasarathy, a.
+negre-salvayre, r. salvayre, a.h. merrill jr., t. levade, j. biol. chem.
+274 (1999) 21533–21538.
+[144] e. coroneos, m. martinez, s. mckenna, m. kester, j. biol. chem. 270
+(1995) 23305–23309.
+1882
+w. zheng et al. / biochimica et biophysica acta 1758 (2006) 1864–1884
+[145] j. rother, g. van echten, g. schwarzmann, k. sandhoff, biochem.
+biophys. res. commun. 189 (1992) 14–20.
+[146] y. yatomi, y. igarashi, l. yang, n. hisano, r. qi, n. asazuma, k. satoh,
+y. ozaki, s. kume, j. biochem. (tokyo) 121 (1997) 969–973.
+[147] a.h. merrill, t.b. caligan, e. wang, k. peters, j. ou, methods enzymol.
+312 (2000) 3–9.
+[148] m.c. sullards, a.h. merrill jr., sci. stke 2001 (2001) pl1.
+[149] m. maceyka, s.g. payne, s. milstien, s. spiegel, biochim. biophys.
+acta 1585 (2002) 193–201.
+[150] m.j. kluk, t. hla, biochim. biophys. acta 1582 (2002) 72–80.
+[151] s.m. mandala, prostaglandins 64 (2001) 143–156.
+[152] u. reiss, b. oskouian, j. zhou, v. gupta, p. sooriyakumaran, s. kelly, e.
+wang, a.h. merrill jr., j.d. saba, j. biol. chem. 279 (2004) 1281–1290.
+[153] e.r. smith, p.l. jones, j.m. boss, a.h. merrill jr., j. biol. chem. 272
+(1997) 5640–5646.
+[154] e.r. smith, a.h. merrill jr., j. biol. chem. 270 (1995) 18749–18758.
+[155] a.h. merrill jr., k. sandhoff, in: d.e. vance, j.e. vance (eds.), new
+comprehensive biochemistry: biochemistry of lipids, lipoproteins, and
+membranes, elsevier science publishers, amsterdam, 2002.
+[156] a.h. futerman, b. stieger, a.l. hubbard, r.e. pagano, j. biol. chem.
+265 (1990) 8650–8657.
+[157] d. jeckel, a. karrenbauer, r. birk, r.r. schmidt, f. wieland, febs lett.
+261 (1990) 155–157.
+[158] a. van den hill, g.p. van heusden, k.w. wirtz, biochim. biophys. acta
+833 (1985) 354–357.
+[159] m. malgat, a. maurice, j. baraud, j. lipid res. 27 (1986) 251–260.
+[160] m.d. ullman, n.s. radin, j. biol. chem. 249 (1974) 1506–1512.
+[161] d.r. voelker, e.p. kennedy, biochemistry 21 (1982) 2753–2759.
+[162] k. huitema, j. van den dikkenberg, j.f. brouwers, j.c. holthuis, embo
+j. 23 (2004) 33–44.
+[163] m. sugiura, k. kono, h. liu, t. shimizugawa, h. minekura, s. spiegel,
+t. kohama, j. biol. chem. 277 (2002) 23294–23300.
+[164] d.s. wijesinghe, a. massiello, p. subramanian, z. szulc, a. bielawska,
+c.e. chalfant, j. lipid res. 46 (2005) 2706–2716.
+[165] j.w. kim, y. inagaki, s. mitsutake, n. maezawa, s. katsumura, y.w.
+ryu, c.s. park, m. taniguchi, y. igarashi, biochim. biophys. acta 1738
+(2005) 82–90.
+[166] h. coste, m.b. martel, r. got, biochim. biophys. acta 858 (1986)
+[185] a. schwarz, a.h. futerman, brain res. dev. brain res. 108 (1998)
+125–130.
+[186] a. schwarz, a.h. futerman, j. neurosci. 17 (1997) 2929–2938.
+[187] e. lloyd-evans, d. pelled, c. riebeling, j. bodennec, a. de-morgan, h.
+waller, r. schiffmann, a.h. futerman, j. biol. chem. 278 (2003)
+23594–23599.
+[188] s. yegneswaran, h. deguchi, j.h. griffin, j. biol. chem. 278 (2003)
+14614–14621.
+[189] a. raas-rothschild, i. pankova-kholmyansky, y. kacher, a.h. futer-
+man, glycoconj. j. 21 (2004) 295–304.
+[190] g. dawson, j.y. oh, clin. chim. acta 75 (1977) 149–153.
+[191] e. korkotian, a. schwarz, d. pelled, g. schwarzmann, m. segal, a.h.
+futerman, j. biol. chem. 274 (1999) 21673–21678.
+[192] u.h. schueler, t. kolter, c.r. kaneski, g.c. zirzow, k. sandhoff, r.o.
+brady, j. inherited metab. dis. 27 (2004) 649–658.
+[193] i. ron, m. horowitz, hum. mol. genet. 14 (2005) 2387–2398.
+[194] g. dacremont, j.a. kint, d. carton, g. cocquyt, clin. chim. acta 52
+(1974) 365–367.
+[195] o. nilsson, g. hakansson, s. dreborg, c.g. groth, l. svennerholm,
+clin. genet. 22 (1982) 274–279.
+[196] a. erikson, k. johansson, j.e. mansson, l. svennerholm, neuropedia-
+trics 24 (1993) 237–238.
+[197] m. horowitz, a. zimran, hum. mutat. 3 (1994) 1–11.
+[198] m. jmoudiak, a.h. futerman, br. j. haematol. 129 (2005) 178–188.
+[199] g. dawson, lipids 8 (1973) 154–156.
+[200] y. ben-yoseph, m. hungerford, h.l. nadler, arch. biochem. biophys.
+196 (1979) 93–101.
+[201] d. jesionek-kupnicka, a. majchrowska, j. krawczyk, j. wendorff, m.
+barcikowska, s. lukaszek, p.p. liberski, folia neuropathol. 35 (1997)
+155–162.
+[202] y. suzuki, neurochem. res. 23 (1998) 251–259.
+[203] a. abe, j.a. shayman, j. biol. chem. 273 (1998) 8467–8474.
+[204] u.h. schueler, t. kolter, c.r. kaneski, j.k. blusztajn, m. herkenham,
+k. sandhoff, r.o. brady, neurobiol. dis. 14 (2003) 595–601.
+[205] m. hiraoka, a. abe, j.a. shayman, j. biol. chem. 277 (2002)
+10090–10099.
+[206] l. lee, a. abe, j.a. shayman, j. biol. chem. 274 (1999) 14662–14669.
+[207] m.e. stewart, d.t. downing, j. lipid res. 42 (2001) 1105–1110.
+[208] p.w. wertz, d.t. downing, biochem. biophys. res. commun. 137
+[209] t. doering, h. brade, k. sandhoff, j. lipid res. 43 (2002) 1727–1733.
+[210] r. bosson, m. jaquenoud, a. conzelmann, mol. biol. cell 17 (2006)
+[167] a.h. futerman, r.e. pagano, biochem. j. 280 (pt. 2) (1991) 295–302.
+[168] d. jeckel, a. karrenbauer, k.n. burger, g. van meer, f. wieland, j. cell
+(1986) 992–997.
+biol. 117 (1992) 259–267.
+[169] a. abe, s.r. wild, w.l. lee, j.a. shayman, curr. drug metab. 2 (2001)
+2636–2645.
+6–12.
+331–338.
+[170] r.r. vunnam, n.s. radin, chem. phys. lipids 26 (1980) 265–278.
+[171] a. abe, n.s. radin, j.a. shayman, l.l. wotring, r.e. zipkin, r.
+sivakumar, j.m. ruggieri, k.g. carson, b. ganem, j. lipid res. 36
+(1995) 611–621.
+[172] f.m. platt, g.r. neises, g.b. karlsson, r.a. dwek, t.d. butters, j. biol.
+chem. 269 (1994) 27108–27114.
+[173] s.s. liour, r.k. yu, neurochem. res. 27 (2002) 1507–1512.
+[174] n.s. radin, j.a. shayman, j. inokuchi, adv. lipid res. 26 (1993)
+183–213.
+[175] y. lavie, h. cao, a. volner, a. lucci, t.y. han, v. geffen, a.e.
+giuliano, m.c. cabot, j. biol. chem. 272 (1997) 1682–1687.
+[176] p.d. eckford, f.j. sharom, biochem. j. 389 (2005) 517–526.
+[177] h. sprong, b. kruithof, r. leijendekker, j.w. slot, g. van meer, p. van
+der sluijs, j. biol. chem. 273 (1998) 25880–25888.
+[211] t. fontaine, t. magnin, a. melhert, d. lamont, j.p. latge, m.a.
+ferguson, glycobiology 13 (2003) 169–177.
+[212] h. nygren, k. borner, b. hagenhoff, p. malmberg, j.e. mansson,
+biochim. biophys. acta 1737 (2005) 102–110.
+[213] j.c. holthuis, t. pomorski, r.j. raggers, h. sprong, g. van meer,
+physiol. rev. 81 (2001) 1689–1723.
+[214] d.l. marks, r.e. pagano, trends cell biol. 12 (2002) 605–613.
+[215] t. ait slimane, d. hoekstra, febs lett. 529 (2002) 54–59.
+[216] a.h. futerman, biochim. biophys. acta (2006).
+[217] k. hanada, k. kumagai, s. yasuda, y. miura, m. kawano, m. fukasawa,
+m. nishijima, nature 426 (2003) 803–809.
+[218] k. kumagai, s. yasuda, k. okemoto, m. nishijima, s. kobayashi, k.
+hanada, j. biol. chem. 280 (2005) 6488–6495.
+[219] y.a. hannun, c.r. loomis, a.h. merrill jr., r.m. bell, j. biol. chem.
+261 (1986) 12604–12609.
+[178] h. sprong, s. degroote, t. nilsson, m. kawakita, n. ishida, p. van der
+sluijs, g. van meer, mol. biol. cell 14 (2003) 3482–3493.
+[220] a.h. merrill jr., a.m. sereni, v.l. stevens, y.a. hannun, r.m. bell, j.m.
+kinkade jr., j. biol. chem. 261 (1986) 12610–12615.
+[179] r. kabuss, a. ashikov, s. oelmann, r. gerardy-schahn, h. bakker,
+glycobiology 15 (2005) 905–911.
+[180] s.c. datta, n.s. radin, lipids 23 (1988) 508–510.
+[181] y.a. hannun, r.m. bell, science 243 (1989) 500–507.
+[182] r. harel, a.h. futerman, j. biol. chem. 268 (1993) 14476–14481.
+[183] a. schwarz, e. rapaport, k. hirschberg, a.h. futerman, j. biol. chem.
+270 (1995) 10990–10998.
+[184] s. boldin, a.h. futerman, j. neurochem. 68 (1997) 882–885.
+[221] e. wilson, m.c. olcott, r.m. bell, a.h. merrill jr., j.d. lambeth, j. biol.
+chem. 261 (1986) 12616–12623.
+[222] y.
+igarashi, s. hakomori, t. toyokuni, b. dean, s. fujita, m.
+sugimoto, t. ogawa, k. el-ghendy, e. racker, biochemistry 28 (1989)
+6796–6800.
+[223] a. hamaguchi, e. suzuki, k. murayama, t. fujimura, t. hikita, k.
+iwabuchi, k. handa, d.a. withers, s.c. masters, h. fu, s. hakomori,
+biochem. biophys. res. commun. 307 (2003) 589–594.
+w. zheng et al. / biochimica et biophysica acta 1758 (2006) 1864–1884
+1883
+[224] c.c. king, f.t. zenke, p.e. dawson, e.m. dutil, a.c. newton, b.a.
+hemmings, g.m. bokoch, j. biol. chem. 275 (2000) 18108–18113.
+[225] y. ma, s. pitson, t. hercus, j. murphy, a. lopez, j. woodcock, j. biol.
+chem. 280 (2005) 26011–26017.
+[226] o.b. mcdonald, y.a. hannun, c.h. reynolds, n. sahyoun, j. biol.
+chem. 266 (1991) 21773–21776.
+[227] c. grimm, r. kraft, g. schultz, c. harteneck, mol. pharmacol. 67 (2005)
+798–805.
+[228] m. yasukochi, a. uehara, s. kobayashi, j.r. berlin, pflugers arch. 445
+(2003) 665–673.
+[229] a. titievsky, i. titievskaya, m. pasternack, k. kaila, k. tornquist, j.
+biol. chem. 273 (1998) 242–247.
+[230] l.j. siskind, s. fluss, m. bui, m. colombini, j. bioenerg. biomembr. 37
+(2005) 227–236.
+[231] s.w. paugh, m.p. cassidy, h. he, s. milstien, l.j. sim-selley, s. spiegel,
+d.e. selley, mol. pharmacol. (2006).
+[232] k. liu, x. zhang, c. sumanasekera, r.l. lester, r.c. dickson, biochem.
+soc. trans. 33 (2005) 1170–1173.
+[233] s. spiegel, biochim. biophys. acta (2006).
+[234] s. milstien, s. spiegel, cancer cell 9 (2006) 148–150.
+[235] k. mizugishi, t. yamashita, a. olivera, g.f. miller, s. spiegel, r.l.
+proia, mol. cell. biol. 25 (2005) 11113–11121.
+[236] p.s. jolly, h.m. rosenfeldt, s. milstien, s. spiegel, mol. immunol. 38
+(2002) 1239–1245.
+[237] v.l. stevens, s. nimkar, w.c. jamison, d.c. liotta, a.h. merrill jr.,
+biochim. biophys. acta 1051 (1990) 37–45.
+[238] e. kostenis, j. cell. biochem. 92 (2004) 923–936.
+[239] v.s. kamanna, b.v. bassa, s.h. ganji, d.d. roh, histol. histopathol. 20
+(2005) 603–613.
+[240] f.a. mathieson, g.f. nixon, br. j. pharmacol. 147 (2006) 351–359.
+[241] t. goldkorn, k.a. dressler, j. muindi, n.s. radin, j. mendelsohn, d.
+menaldino, d. liotta, r.n. kolesnick, j. biol. chem. 266 (1991)
+16092–16097.
+[242] y.a. hannun, l.m. obeid, r.a. wolff, adv. lipid res. 25 (1993) 43–64.
+[243] r.t. dobrowsky, c. kamibayashi, m.c. mumby, y.a. hannun, j. biol.
+chem. 268 (1993) 15523–15530.
+[244] c.e. chalfant, k. kishikawa, m.c. mumby, c. kamibayashi, a.
+bielawska, y.a. hannun, j. biol. chem. 274 (1999) 20313–20317.
+[245] a. bielawska, h.m. crane, d. liotta, l.m. obeid, y.a. hannun, j. biol.
+chem. 268 (1993) 26226–26232.
+[246] b.j. pettus, c.e. chalfant, y.a. hannun, biochim. biophys. acta 1585
+(2002) 114–125.
+[247] r.m. ray, s. bhattacharya, l.r. johnson, j. biol. chem. 280 (2005)
+31091–31100.
+[248] p.p. ruvolo, x. deng, t. ito, b.k. carr, w.s. may, j. biol. chem. 274
+(1999) 20296–20300.
+[249] c.w. chiang, c. kanies, k.w. kim, w.b. fang, c. parkhurst, m. xie, t.
+henry, e. yang, mol. cell. biol. 23 (2003) 6350–6362.
+[250] m. xin, x. deng, j. biol. chem. 281 (2006) 18859–18867.
+[251] c.l. chen, c.f. lin, c.w. chiang, m.s. jan, y.s. lin, mol. pharmacol.
+70 (2006) 510–517.
+[252] c.e. chalfant, k. rathman, r.l. pinkerman, r.e. wood, l.m. obeid, b.
+ogretmen, y.a. hannun, j. biol. chem. 277 (2002) 12587–12595.
+[253] y. zhang, b. yao, s. delikat, s. bayoumy, x.h. lin, s. basu, m.
+mcginley, p.y. chan-hui, h. lichenstein, r. kolesnick, cell 89 (1997)
+63–72.
+[254] b. yao, y. zhang, s. delikat, s. mathias, s. basu, r. kolesnick, nature
+378 (1995) 307–310.
+[255] f. yan, d.b. polk, cancer res. 61 (2001) 963–969.
+[256] f. yan, s.k. john, d.b. polk, cancer res. 61 (2001) 8668–8675.
+[257] m. zhou, d.a. horita, d.s. waugh, r.a. byrd, d.k. morrison, j. mol.
+biol. 315 (2002) 435–446.
+[258] t. kajimoto, y. shirai, n. sakai, t. yamamoto, h. matsuzaki, u.
+kikkawa, n. saito, j. biol. chem. 279 (2004) 12668–12676.
+[259] a. aschrafi, r. franzen, s. shabahang, d. fabbro, j. pfeilschifter, a.
+huwiler, biochim. biophys. acta 1634 (2003) 30–39.
+[260] k. kashiwagi, y. shirai, m. kuriyama, n. sakai, n. saito, j. biol. chem.
+277 (2002) 18037–18045.
+[261] k.p. becker, k. kitatani, j. idkowiak-baldys, j. bielawski, y.a. hannun,
+j. biol. chem. 280 (2005) 2606–2612.
+[262] k.p. becker, y.a. hannun, j. biol. chem. 278 (2003) 52747–52754.
+[263] g. wang, j. silva, k. krishnamurthy, e. tran, b.g. condie, e. bieberich,
+j. biol. chem. 280 (2005) 26415–26424.
+[264] j. lozano, e. berra, m.m. municio, m.t. diaz-meco, i. dominguez, l.
+sanz, j. moscat, j. biol. chem. 269 (1994) 19200–19202.
+[265] m.m. municio, j. lozano, p. sanchez, j. moscat, m.t. diaz-meco, j.
+biol. chem. 270 (1995) 15884–15891.
+[266] m. heinrich, m. wickel, w. schneider-brachert, c. sandberg, j. gahr, r.
+schwandner, t. weber, p. saftig, c. peters, j. brunner, m. kronke, s.
+schutze, embo j. 18 (1999) 5252–5263.
+[267] m. heinrich, m. wickel, s. winoto-morbach, w. schneider-brachert, t.
+weber, j. brunner, p. saftig, c. peters, m. kronke, s. schutze, adv. exp.
+med. biol. 477 (2000) 305–315.
+[268] m. heinrich, j. neumeyer, m. jakob, c. hallas, v. tchikov, s. winoto-
+morbach, m. wickel, w. schneider-brachert, a. trauzold, a. hethke, s.
+schutze, cell death differ. 11 (2004) 550–563.
+[269] a. huwiler, c. xin, a.k. brust, v.a. briner, j. pfeilschifter, biochim.
+biophys. acta 1636 (2004) 159–168.
+[270] y. hannun, biochim. biophys. acta (2006).
+[271] r.n. kolesnick, f.m. goni, a. alonso, j. cell. physiol. 184 (2000)
+285–300.
+[272] h. grassme, a. jekle, a. riehle, h. schwarz, j. berger, k. sandhoff, r.
+kolesnick, e. gulbins, j. biol. chem. 276 (2001) 20589–20596.
+[273] n. cahuzac, w. baum, v. kirkin, f. conchonaud, l. wawrezinieck, d.
+marguet, o. janssen, m. zornig, a.o. hueber, blood (2005).
+[274] a.b. abdel shakor, k. kwiatkowska, a. sobota, j. biol. chem. 279
+(2004) 36778–36787.
+[275] j.a. rotolo, j. zhang, m. donepudi, h. lee, z. fuks, r. kolesnick, j.
+biol. chem. (2005).
+[276] m. garcia-marcos, e. perez-andres, s. tandel, u. fontanils, a. kumps,
+e. kabre, a. gomez-munoz, a. marino, j.p. dehaye, s. pochet, j. lipid
+res. (2006).
+[277] h.w. huang, e.m. goldberg, r. zidovetzki, biochem. biophys. res.
+commun. 220 (1996) 834–838.
+[278] a. gomez-munoz, biochim. biophys. acta (2006).
+[279] a. gomez-munoz, p.a. duffy, a. martin, l. o'brien, h.s. byun, r.
+bittman, d.n. brindley, mol. pharmacol. 47 (1995) 833–839.
+[280] a. gomez-munoz, j.y. kong, b. salh, u.p. steinbrecher, j. lipid res. 45
+(2004) 99–105.
+[281] a. gomez-munoz, j.y. kong, k. parhar, s.w. wang, p. gangoiti, m.
+gonzalez, s. eivemark, b. salh, v. duronio, u.p. steinbrecher, febs
+lett. 579 (2005) 3744–3750.
+[282] b.j. pettus, a. bielawska, s. spiegel, p. roddy, y.a. hannun, c.e.
+chalfant, j. biol. chem. 278 (2003) 38206–38213.
+[283] b.j. pettus, a. bielawska, p. subramanian, d.s. wijesinghe, m.
+maceyka, c.c. leslie, j.h. evans, j. freiberg, p. roddy, y.a. hannun,
+c.e. chalfant, j. biol. chem. 279 (2004) 11320–11326.
+[284] b.j. pettus, c.e. chalfant, y.a. hannun, curr. mol. med. 4 (2004)
+405–418.
+[285] h. wang, a.g. charles, a.j. frankel, m.c. cabot, urology 61 (2003)
+1047–1052.
+[286] a. erdreich-epstein, l.b. tran, n.n. bowman, h. wang, m.c. cabot, d.
+l. durden, j. vlckova, c.p. reynolds, m.f. stins, s. groshen, m.
+millard, j. biol. chem. 277 (2002) 49531–49537.
+[287] q. jiang, b.n. ames, faseb j. 17 (2003) 816–822.
+[288] a. schulz, t. mousallem, m. venkataramani, d.a. persaud-sawin, a.
+zucker, c. luberto, a. bielawska, j. bielawski, j.c. holthuis, s.m.
+jazwinski, l. kozhaya, g.s. dbaibo, r.m. boustany, j. biol. chem. 281
+(2006) 2784–2794.
+[289] h.l. brockman, m.m. momsen, r.e. brown, l. he, j. chun, h.s. byun,
+r. bittman, biophys. j. 87 (2004) 1722–1731.
+[290] f.x. contreras, g. basanez, a. alonso, a. herrmann, f.m. goni,
+biophys. j. 88 (2005) 348–359.
+[291] j. stiban, d. fistere, m. colombini, apoptosis 11 (2006) 773–780.
+[292] t. yorimitsu, d.j. klionsky, cell death differ. 12 (suppl. 2) (2005)
+1542–1552.
+1884
+w. zheng et al. / biochimica et biophysica acta 1758 (2006) 1864–1884
+[293] a.m. cuervo, mol. cell. biochem. 263 (2004) 55–72.
+[294] b. levine, cell 120 (2005) 159–162.
+[295] c. munz, cell. microbiol. 8 (2006) 891–898.
+[296] t. shintani, d.j. klionsky, science 306 (2004) 990–995.
+[297] s. pattingre, b. levine, cancer res. 66 (2006) 2885–2888.
+[298] g. kroemer, m. jaattela, nat. rev., cancer 5 (2005) 886–897.
+[299] m.s. ricci, w.x. zong, oncologist 11 (2006) 342–357.
+[300] s. daido, t. kanzawa, a. yamamoto, h. takeuchi, y. kondo, s. kondo,
+cancer res. 64 (2004) 4286–4293.
+[301] f. scarlatti, c. bauvy, a. ventruti, g. sala, f. cluzeaud, a. vandewalle,
+r. ghidoni, p. codogno, j. biol. chem. 279 (2004) 18384–18391.
+[302] p.o. seglen, p.b. gordon, proc. natl. acad. sci. u. s. a. 79 (1982)
+1889–1892.
+[303] y. kabeya, n. mizushima, t. ueno, a. yamamoto, t. kirisako, t. noda,
+e. kominami, y. ohsumi, t. yoshimori, embo j. 19 (2000) 5720–5728.
+[304] g. lavieu, f. scarlatti, g. sala, s. carpentier, t. levade, r. ghidoni, j.
+botti, p. codogno, j. biol. chem. 281 (2006) 8518–8527.
+[305] c. bedia, g. triola, j. casas, a. llebaria, g. fabrias, org. biomol. chem.
+3 (2005) 3707–3712.
+[306] t. kanzawa, l. zhang, l. xiao, i.m. germano, y. kondo, s. kondo,
+oncogene 24 (2005) 980–991.
+[307] x. zeng, j.h. overmeyer, w.a. maltese, j. cell sci. 119 (2006)
+259–270.
+[308] h. zhou, s.a. summers, m.j. birnbaum, r.n. pittman, j. biol. chem.
+273 (1998) 16568–16575.
+[309] k.m. schubert, m.p. scheid, v. duronio, j. biol. chem. 275 (2000)
+13330–13335.
+[310] a. petiot, e. ogier-denis, e.f. blommaart, a.j. meijer, p. codogno, j.
+biol. chem. 275 (2000) 992–998.
+[311] s. jayadev, b. liu, a.e. bielawska, j.y. lee, f. nazaire, m. pushkareva,
+l.m. obeid, y.a. hannun, j. biol. chem. 270 (1995) 2047–2052.
+[312] y. uchiyama, arch. histol. cytol. 64 (2001) 233–246.
+[313] m. lamparska-przybysz, b. gajkowska, t. motyl, j. physiol. pharmacol.
+56 (suppl. 3) (2005) 159–179.

@@ -1,0 +1,787 @@
+leukemia research 31 (2007) 329–339
+arsenic trioxide induces not only apoptosis but also autophagic cell
+death in leukemia cell lines via up-regulation of beclin-1
+wenbin qian a,b,∗
+, junqing liu a, jie jin a,b, wanmao ni a,b, weilai xu a
+a institute of hematology, the first afﬁliated hospital, college of medicine, zhejiang university,
+b key lab of combined multi-organ transplantation, ministry of public health, china
+79# qingchun road, hangzhou 310003, china
+received 10 march 2006; received in revised form 5 june 2006; accepted 29 june 2006
+available online 1 august 2006
+abstract
+although recent data shows that arsenic trioxide (as2o3) is capable of inducing cell death via cell cycle arrest and apoptosis both in acute
+promyelocytic leukemia (apl) and in non-apl cells, the mechanisms of as2o3-mediated cell death are not fully understood. in this study,
+we investigated the in vitro effects of as2o3 on cell growth inhibition and cell death in human t-lymphocytic leukemia and myelodysplastic
+syndrome (mds) cell lines. as2o3 signiﬁcantly inhibited the proliferation of molt-4 and mutz-1 cells in dose- and time-dependent manner.
+autophagic cell death (programmed cell death type ii) and apoptosis (programmed cell death type i) were activated together in leukemia
+cell lines after exposed to as2o3. numerous large cytoplasmic inclusions and vacuoles were observed in as2o3-treated cells using electron
+microscope. furthermore, 3-methyladenine (an autophagy inhibitor) signiﬁcantly reduced autophagic cell death and sequentially induced
+apoptosis. finally, leukemia cells treated with 4 ␮m as2o3 showed a considerable up-regulation of beclin-1 (a bcl-2-interacting protein)
+expression, which was independent of transcription of mrna and required protein synthesis. in addition, molt-4 cells treated with as2o3
+exhibited the down-regulation of bax protein expression, suggesting that bax may be involved in accumulating of beclin-1 and triggering
+autophagic cell death in as2o3-treated leukemia cells. these results may lead to a better understanding of the mechanism of action of as2o3,
+and provide a suggestion that as2o3 may be of therapeutic value for the treatment of patients with human t-lymphocytic leukemia and
+myelodysplastic syndrome.
+© 2006 elsevier ltd. all rights reserved.
+keywords: arsenic trioxide; apoptosis; autophagy; acute lymphocytic leukemia; myelodysplastic syndrome
+1. introduction
+arsenic trioxide (as2o3) has been used successfully in the
+treatment of patients with newly diagnosed acute promyelo-
+cytic leukemia (apl) and those with relapsed or refractory
+apl without severe marrow suppression [1–3]. up to now, it
+has been reported that the effects of as2o3 are not conﬁned
+to apl cells but can also be observed in a variety of malig-
+nant hematopoietic cells such as myeloid [4], lymphoid [5,6],
+megakaryocytic [7], and plasma cells [8,9]. these studies lead
+corresponding author. tel.: +86 571 87236896; fax: +86 571 87236702.
+e-mail addresses: qianwenb@yahoo.com.cn, qianwenb@hotmail.com
+(w. qian).
+0145-2126/$ – see front matter © 2006 elsevier ltd. all rights reserved.
+doi:10.1016/j.leukres.2006.06.021
+to the pre-clinical and phase i/ii evaluation of as2o3 as a
+potential therapy for many kinds of hematological malignan-
+cies and solid tumours [10]. in vitro experiments have shown
+that as2o3 can exert a dual effect on apl cells: triggering
+apoptosis at relatively high doses (0.5–2 ␮m) with the col-
+lapse of mitochondrial transmembrane potentials and induc-
+ing partial differentiation at low concentration (0.1–0.25 ␮m)
+[1]. although it has been demonstrated that as2o3 is capa-
+ble of inducing cell death via cell cycle arrest and apoptosis
+in both apl cells [11] and non-apl cells [6,12], the mecha-
+nisms of as2o3-mediated cell death are not fully understood.
+increasing evidence supports the hypothesis that a variety
+of cell death programs may be triggered in distinct circum-
+stances. contrary to the caspase-mediated apoptosis, recent
+330
+w. qian et al. / leukemia research 31 (2007) 329–339
+studies indicate that autophagic execution pathways of cell
+death may be engaged without either the involvement of cas-
+pases or morphological signs of apoptosis [13]. autophagy
+occurs in many eukaryotic cell
+types and promotes a
+cell survival response to nutritional starvation involving
+membrane-bound vacuoles that target organelles and pro-
+teins to the lysosome for degradation [14]. cells that undergo
+excessive autophagy are induced to die in a non-apoptotic
+manner [15]. it is reported that autophagy are implicated
+in tumour suppression [16–18]. in addition, more recent
+work shows that as2o3 can induce autophagic cell death in
+malignant glioma cells. these are acidic vesicular organelle
+and extensive autophagy, which is typical of autophagic cell
+death [19].
+in view of the fact that as2o3 reportedly has multiple
+effects on cellular functions, we investigated the effects of
+as2o3 on cell proliferation and cell death both in molt-4
+and mutz-1 cell lines. moreover, we also investigated the
+mechanisms of as2o3-induced cell death. interestingly, we
+found that as2o3 treatment led to not only apoptosis but
+also autophagic cell death via up-regulation of beclin-1 in
+leukemia cells. overall, our results lead to a better under-
+standing of the unique mechanism of action of as2o3, and
+suggest that as2o3 may be of therapeutic value for the treat-
+ment of human t-lymphocytic leukemia and mds.
+2. materials and methods
+2.1. cell lines and reagents
+molt-4 cell line (a human t-lymphoblastoid leukemia cell
+line) was purchased from american type culture collection
+(atcc, rockville, usa). mutz-1 cell line established from
+a patient diagnosed with myelodysplastic syndrome (refrac-
+tory anaemia with excess of blasts) and fanconi anemia was
+kindly provided by dr. z. hu. cells were maintained in rpmi
+1640 medium (37
+c, humidiﬁed atmosphere containing 5%
+co2) supplemented with 10% fetal bovine serum (hyclone
+laboratories, logan, usa), and 1% l-glutamine (life
+technologies, grand island, usa). the 3-methyladenine
+(3-ma) was purchased from sigma chemical co. (st.
+louis, usa), caspase-3 inhibitor z-devd-fmk from bio-
+vision (ca, usa), and as2o3 (0.1%) was kindly sup-
+plied by haerbin yida pharmaceutical company (haerbin,
+china).
+2.2. cell viability assay
+in vitro effect of as2o3 on growth of leukemia cell lines
+was determined by counting the viable cells with trypan blue
+staining. brieﬂy, cells were seeded in 96-well plate (5× 103
+cells/well, nunc, roskilde, denmark) and pre-incubated
+overnight. after exposure to various concentrations of as2o3
+for 48 and 78 h, respectively, viable cells were stained with
+trypan blue dye and counted in triplicate.
+2.3. assessment of apoptosis
+apoptosis was determined using the annexin-fitc apop-
+tosis detection kit (bd pharmingen, sandiego, usa),
+according to the manufacturer’s instructions. prepared
+cells were analyzed with facscan ﬂow cytometer and
+cellquest software (becton dickinson, franklin lakes,
+usa). the tunel (terminal deoxynucleotidyl transferase-
+mediated deoxyuridine triphosphate nick end labelling) assay
+was performed using the in situ cell death detection kit
+(roche, philadelphia, usa), according to the manufacturer’s
+instructions.
+2.4. assessment of mitochondrial membrane potential
+the 5× 105 cells were collected after exposure to 4 ␮m
+as2o3 for 12 and 24 h, respectively. cells were washed and
+re-suspended in 500 ␮l of pbs buffer containing 5 ␮g/ml of
+rhodamine 123 (molecular probes, eugene, usa), and then
+incubated at 37
+c for 30 min, washed and re-suspended in
+pbs buffer. mitochondrial membrane potential (ψ m) was
+detected by ﬂow cytometric (beckton dickinson) analysis of
+rhodamine 123 accumulation. rhodamine 123 was excited
+with a 488 nm argon ion laser, ﬂuorescence emission was
+measured at 530 nm.
+2.5. determination of active form of caspase-3
+active form of caspase-3 was determined by ﬂow cytom-
+etry. cells (5× 105) were washed, then ﬁxed and permeabi-
+lized using the cytoﬁx/cytopermtm kit (bd pharmingen)
+for 20 min at room temperature. cells were washed with
+perm/washtm buffer (bd pharmingen), then stained with
+phycoerythrin (pe)-conjugated anti-active caspase-3 mono-
+clonal antibodies (bd pharmingen) using 20 ␮l/1× 106 cells
+for 60 min at room temperature in the dark. following incu-
+bation with the antibody, cells were washed in perm/washtm
+buffer, re-suspended in perm/washtm buffer and analyzed by
+ﬂow cytometry.
+2.6. evaluation of non-apoptotic cell death
+propidium iodide (pi) exclusion is a widely used method
+to determine the integrity of a plasma membrane and eval-
+uate the autophagic cell death [20,21]. to evaluate effect of
+as2o3 on autophagic cell death, cells treated with or with-
+out 4 ␮m as2o3 for 48 h were incubated with pi (sigma,
+2 ␮g/ml) for 15 min at room temperature (25
+c) in the dark,
+washed with pbs buffer, and then observed by ﬂuorescent
+microscopy [21]. quantiﬁcation of death cells was performed
+using pi staining plus forward-angle light scattering (fsc)
+as described previously [22]. brieﬂy, cells were collected
+by centrifugation, washed once with pbs buffer, and re-
+suspended in pbs containing 1 ␮g pi/ml. the levels of pi
+incorporation were quantiﬁed using facscan ﬂow cytometer
+(becton dickinson). cell size was evaluated by fsc. pi-
+w. qian et al. / leukemia research 31 (2007) 329–339
+331
+negative cells with normal size were considered to be live
+cells.
+2.7. transmission electron microscope
+after incubated with as2o3 as indicated on the ﬁg-
+ure legends, the cells were ﬁxed with 2.5% phosphate-
+buffered gluteraldehyde. the cells were then postﬁxed in
+1% phosphate-buffered osmium tetroxide, and embedded
+in spurr’s resin. thin sections (0.12 ␮m) were cut, double
+stained with uranyl acetate and lead citrate, and visualized
+with a philips tecna10 transmission electron microscope
+(tem). fifty cells from randomly chosen tem ﬁelds were
+analyzed for each treatment or control. cells with 10 or more
+than 10 vacuoles were counted as autophagy positive [20].
+2.8. western blotting analysis
+the cells were lysed by adding lysis buffer (1 m tris–hcl,
+ph 6.8, 2 m nacl, 0.1 m edta, 0.05 m egta, 0.5% np-40
+and 10 mm pmsf). then, samples were vortexed brieﬂy and
+incubated in lysis buffer for 30 min on ice and centrifuged
+at 15,000× g for 15 min. protein concentration was deter-
+mined by the bradford method. samples containing 40 ␮g of
+total protein were subjected to 12% sodium dodecyl sulfate-
+polyacrylamide gel electrophoresis (sds-page), transferred
+onto a nitrocellulose membrane (roche), and probed with
+primary antibodies, including beclin-1 (novus biologicals,
+littleton, france), bax (cell signaling, beverly, usa), bak
+(cell signaling), and bcl-2 (cell signaling). rabbit mono-
+clonal antibodies to total akt and ser 473 phosphorylated akt
+were purchased from kangchen (shanghai, china). for west-
+ern immunoblotting, loading controls were performed using
+housekeeping protein, ␤-actin (cell signaling). after incu-
+bation with secondary antibodies (kpl, baltimore, usa),
+immunoblots were visualized by enhanced chemilumines-
+cence procedures according to the manufacturer’s recommen-
+dation.
+2.9. real-time rt-pcr
+total cellular rna was collected from samples using
+trizol reagent (invitrogen, carlsbad, usa). first-strand
+synthesis was performed using the superscripttm ﬁrst-strand
+synthesis system (invitrogen) according to the manufac-
+turer’s instructions. all pcr reactions were performed using
+an abi prism 7700 sequence detection system (applied
+biosystems, foster city, usa). taqman probe used in our
+experiments was labelled with 5
+-tamra. the
+following primers and probes were used to amplify beclin-1
+(cid:4)
+(cid:4)
+(5
+-ttccac-
+(cid:4)
+(cid:4)
+gtcttccagctcct-3
+-cagcctctcctcctctag-
+/5
+(cid:4)
+tgccagc-3
+-aagcggtcccgtggataga-
+), bcl-2 (5
+(cid:4)
+(cid:4)
+(cid:4)
+/5
+-tccggtattcgcagaagtcc-3
+-tgtgcgcg-
+(cid:4)
+(cid:4)
+cgtataaattgccga-3
+-aggatgcgtc-
+), and bax (5
+caccaagaag-3
+-ccagttgaagttgccgtcaga-
+-tgagtgtcagaactacaaacgct-3
+-fam and 3
+(cid:4)
+/5
+/5
+/5
+(cid:4)
+(cid:4)
+(cid:4)
+(cid:4)
+(cid:4)
+(cid:4)
+(cid:4)
+(cid:4)
+/5
+-atgattgccgccgtggacacagactcc-3
+(cid:4)
+). for
+each pcr run, 25 ␮l taqman universal pcr master mix
+(applied biosystems), 200 nm each primer, 80 nm probe,
+and 2 ␮l of the ﬁrst-strand cdna reaction were used. the
+thermal cycling conditions comprised 10 min hold at 95
+and 40 cycles at 95
+c for 1 min. standard
+curves were constructed with four-fold serial dilutions of
+pure gel-puriﬁed dna, which was obtained by rt-pcr
+from molt-4 cell line cdna using the same primers as for
+the taqman pcr. the values of the target gene were divided
+by the value of ␤-actin. untreated samples were deﬁned as
+100%. all other experimental samples were expressed as
+percentage of the untreated control [23].
+c for 15 s and 60
+3. results
+3.1. growth inhibition and apoptosis of human leukemia
+cell lines induced by as2o3
+cells were incubated for 0, 48, and 72 h without or
+with various concentration of as2o3, and viability was
+evaluated by the trypan blue dye exclusion test. a dose-
+and time-dependent reduction of cell viability, induced by
+as2o3, was observed in this study (fig. 1). to conﬁrm the
+above ﬁndings, growth inhibition was evaluated by the 3-
+(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide
+(mtt) assay. the results of mtt assay showed similar
+inhibitory effect of as2o3 as trypan blue dye exclusion
+test (data not shown). the 50% inhibitory concentration
+(ic50) after 3 days of as2o3 treatment for mutz-1 cells was
+1.79 ␮m, and for molt-4 cells higher than 4 ␮m. we next
+performed in vitro the dual staining of cells with annexin v
+and pi analyzed by ﬂow cytometry to know whether as2o3
+treatment could induce the apoptosis both in molt-4 and
+mutz-1 cells. the results showed that as2o3 caused a dose-
+dependent increase of the frequency of cells with annexin
+v+ and pi
+, which is characteristic of apoptosis (fig. 2a).
+as2o3-induced apoptosis was conﬁrmed by measuring the
+frequency of cells with tunel-positive (fig. 2b), which is
+also an indicator of apoptosis. the percentage of tunel-
+positive cells was consistent with those of annexin v+ and
+cells, which were induced by same dose of as2o3,
+pi
+suggesting that as2o3-induced cell death are both tunel-
+positive and negative. to determine whether the measured
+cell death is a bona ﬁde caspase-3 dependent, we detected
+the expression of active caspase-3 on leukemia cells treated
+with 4 ␮m as2o3 by facscan analysis using anti-active
+caspase-3 monoclonal antibody. as shown in fig. 2c, the
+frequency of molt-4 cells with active caspase-3 was 22.66%,
+while untreated cells were primarily negative for the presence
+of active caspase-3. in contrast, human chronic myelogenous
+leukemia k562 cells, which are reported [24] sensitive to
+as2o3 in a caspase-dependent manner, showed 67.25% pos-
+itive of active caspase-3. in addition, the caspase-3 inhibitor
+z-devd-fmk (10 ␮m) did not confer protection to molt-4
+332
+w. qian et al. / leukemia research 31 (2007) 329–339
+the autophagic cell death related to increased intracellular
+acidic compartments [22], revealed that the autophagic cells
+(r1 population) induced by as2o3 were increased by 27.36%
+and 37.47%, respectively, in molt-4 and mutz-1 cells compar-
+ing with untreated control (fig. 3b). the r2 cells (apoptosis),
+smaller cells with less pi stains, indicating that plasma mem-
+brane integrity is better maintained, were also induced by
+as2o3 (fig. 3b). to elucidate the involvement of autophagic
+process in leukemia cells treated with as2o3, we studied
+whether 3-ma, which inhibits autophagic vacuoles in many
+cell types [27], could abrogate as2o3-induced cell death.
+addition of 3-ma (10 mm), r1 population decreased from
+32.73% to 13.85% (p < 0.001) in molt-4 cells and decreased
+from 42.52% to 22.5% (p < 0.05) in mutz-1 cells (fig. 3c).
+in contrast, r2 population increased from 19.55% to 58.16%
+(p < 0.001) in molt-4 cells and increased from 26.61% to
+41.22% (p < 0.05) in mutz-1 cells (fig. 3c). tem analy-
+sis revealed that vauolated cells reduced signiﬁcantly after
+adding 3-ma (fig. 3d). next, we examined the phenotypic
+changes of cells treated with 3-ma by tunel assay. after
+3-ma treatment, the apoptotic cells increased from 32.71%
+to 83% in molt-4 cells (fig. 3e). tem also showed the apop-
+totic features (fig. 3f). these data indicate that 3-ma inhibits
+signiﬁcantly autophagic cell death and sequentially induces
+apoptosis in as2o3-treated leukemia cells.
+the ultrastructural information on the morphology of
+as2o3-induced leukemia cell death was observed using
+tem. after 48 h treatment of as2o3, cells were collected
+and analyzed. numerous large cytoplasmic inclusions that
+were membrane-bound vacuoles were observed in the cyto-
+plasm of as2o3-treated leukemia cell lines (fig. 4b, c and e).
+the morphology of multilamellar bodies (mlbs) appeared
+in mutz-1 cells treated with as2o3 (fig. 4c). these ultra-
+structural features seen in as2o3-treated cells are consistent
+with autophagy as described previously [25,26]. on the other
+hand, untreated leukemia cells showed no autophagic fea-
+tures (fig. 4a and d). taken together, our ﬁndings suggest
+that as2o3 induces not only apoptosis but also autophagic
+cell death in leukemia cells.
+3.3. enhancement of phosphorylation akt induced by
+as2o3
+the pi3k/protein kinase b (akt), which plays an impor-
+tant role in the regulation of cell proliferation, growth, dif-
+ferentiation, and survival, is reported to be involved in the
+signaling pathway mediated by as2o3 [28,29]. the class i
+pi3k generates [3,4] p2 and pi [3–5] p3, which bind to akt.
+activation of the akt pathway reduces autophagic degrada-
+tion [30]. in order to assay directly the effect of as2o3 on
+the activation of akt, we therefore analysed by western blot
+the expression of total akt and the levels of akt phosphory-
+lation at position ser473, which is required for the activation.
+as shown in fig. 5a, treatment with as2o3 caused an ear-
+lier increase (6 h) in akt phosphorylation, with enhanced
+up-regulation of active akt in 12 h. in contrast, the pi3k
+fig. 1. effects of as2o3 on viability of leukemia cell lines. exponentially
+growing cells were treated with the indicated concentration of as2o3 for 48
+and 72 h, respectively. cell viability was determined by trypan blue exclusion
+assay. results represent the mean± s.e. of three independent experiments;
+bars, s.d.
+cells treated with as2o3 for 48 h (fig. 2d). taken together,
+these results suggest that as2o3-induced cell death is inde-
+pendent of caspase-3 and the suppressed population growth
+of leukemia cells is partly due to apoptotic effects of as2o3.
+3.2. induction of autophagic cell death by as2o3 in
+leukemia cell lines
+recently, evidence is available for multiple alternative cell
+death pathways, including autophagic and necrotic forms
+of cell degeneration [13,18]. based on the above results,
+we speculated that as2o3 also might induce autophagy in
+leukemia cells. we therefore performed the cells staining
+with pi, which is used to evaluate the cell death related to
+etoposide-induced autophagy [21]. as shown in fig. 3a, the
+high levels of pi stain, indicating the disruption of the plasma
+membrane, were observed in molt-4 cells exposed to 4 ␮m
+as2o3 for 48 h. facs analysis using forward-angle light
+scattering (fsc) and pi staining, which was used to quantify
+w. qian et al. / leukemia research 31 (2007) 329–339
+333
+fig. 2. apoptosis and non-apoptotic cell death induced by as2o3. (a) flow cytometric analysis of as2o3-induced cell death. after treatment with indicated
+concentration of as2o3 for 48 h, cells were collected and detected by the annexin v and propidium iodide (pi)-staining method. results show a dose-dependent
+apoptosis deﬁned as annexin v+ and pi
+group and non-apoptotic cell death deﬁned as annexin v+ and pi+ population. (b) flow cytometric analysis of as2o3-
+induced apoptosis. molt-4 cells were incubated with indicated concentration of as2o3 for 48 h. the percentage of apoptotic cells was evaluated by tunel
+assay. (c) effects of as2o3 on active form of caspase-3. cells were treated with 4 ␮m as2o3 for 48 h, and then stained with phycoerythrin (pe)-conjugated
+anti-active caspase-3 monoclonal antibodies, analyzed by ﬂow cytometry. (d) effects of caspase-3 inhibitor on as2o3-induced cell death. molt-4 cells were
+pretreated for 1 h with a caspase-3 inhibitor (z-devd-fmk 10 ␮m), and then incubated for additional 47 h with 4 ␮m as2o3. cells were then collected and
+analyzed by ﬂow cytometry using the annexin v and propidium iodide (pi)-staining method. the data in panels (a)–(c) are representative of three separate
+experiments. the data in panel (d) represent the mean± s.e. of three independent experiments; bars, s.d.
+inhibitor caused a signiﬁcant fall in the levels of ser 473
+p-akt (fig. 5a).
+3.4. up-regulation of beclin-1 protein contribute
+autophagic cell death induced by as2o3
+to elucidate the mechanism of as2o3-induced autophagic
+cell death, we next performed western blot assay to evaluate
+the effect of as2o3 on expression of beclin-1 protein, which
+plays a key role in autophagy [16], in leukemia cells. the
+results showed that as2o3 induced a time-dependent increase
+in beclin-1 protein expression of molt-4 cells (fig. 6b) and
+mutz-1 cells (data not shown). to gain insights into the
+mechanism of how beclin-1 is elevated, we performed real-
+time rt-pcr to quantify the mrna level of beclin-1. as
+shown in fig. 6a, beclin-1 mrna did not increase signif-
+icantly after as2o3 treatment. next, we supplemented the
+medium with 1 or 2 ␮g/ml of the protein synthesis inhibitor,
+cycloheximide (chx), to see if as2o3 can inhibit the degra-
+dation of beclin-1. the results showed that chx abrogated
+the effect of as2o3 on the up-regulation of beclin-1 pro-
+tein (fig. 6c), suggesting that protein synthesis may be
+required for the up-regulation of beclin-1. however, whether
+as2o3 prolong the half-life of beclin-1 protein need to be
+examined in order to know the effect of as2o3 on beclin-1
+degradation.
+334
+w. qian et al. / leukemia research 31 (2007) 329–339
+fig. 3. inhibition of 3-methyladenine (3-ma) on as2o3-induced autophagic cell death. (a) evaluation of non-apoptotic cell death induced by as2o3. molt-4
+cells were incubated in the absence or presence of 4 ␮m as2o3 for 48 h, stained with propidium iodide (pi, 2 ␮g/ml) and then observed using a ﬂuorescent
+microscopy. (b) quantitation of autophagic cell death. molt-4 cells treated with 4 ␮m as2o3 for 48 h was analyzed by ﬂow cytometry using propidium iodide
+(pi) staining plus forward-angle light scattering (fsc). r1 cells represent autophagic cell death that lost plasma membrane integrity, as indicated by pi-positive
+stains; r2 represent apoptotic cells that had reduced size and low level of pi stains; r3 represent healthy cells of normal size with pi-negative stains. (c) 3-ma
+inhibits autophagic cell death and sequentially induces apoptosis. molt-4 cells were treated with 10 mm 3-ma for 1 h and with 4 ␮m as2o3 for 47 h, after
+which autophagic cell death (r1 cells) and apoptotic cells (r2 cells) were quantitated by ﬂow cytometry. (d) reduction of vacuolated cells after adding 3-ma.
+(e) phenotypic changes of 3-ma. phenotypic changes of molt-4 cells were treated with 10 mm 3-ma were evaluated by tunel assay. (f) the ultrastructure
+of 3-ma-treated molt-4 cells. results shown are representative of three separate experiments; bars, s.d.*p < 0.001 from as2o3 and **p < 0.05 from as2o3
+(student’s t-test).
+w. qian et al. / leukemia research 31 (2007) 329–339
+335
+fig. 4. the ultrastructure of as2o3-treated leukemia cell lines: (a) untreated molt-4 cells, (b) molt-4 cells treated with 4 ␮m as2o3 for 48 h; note the presence
+of numerous autophagical vacuoles (black arrows), (c) three types of vacuoles: dense multilamellar bodies (triangle), aggregated vacuoles (white arrows), and
+inclusion bodies (black arrows) are observed in the cytoplasm of as2o3-treated molt-4 cells, (d) untreated mutz-1 cells, and (e) autophagical vacuoles are
+observed in as2o3-treated mutz-1 cells (2 ␮m for 48 h). bars (a, c and e) 2 ␮m, (b and d) 5 ␮m. a representative of three separate experiments is shown.
+of particular interest was the relationship between the role
+of bcl-2 family proteins and the onset of autophagic cell
+death. the protein expressions of bcl-2, bax and bak were
+also detected using western blot. as2o3-treated molt-4 cells
+exhibited a time-dependent decrease in both bcl-2 and bax
+proteins expression (fig. 6b). in contrast, bak did not exhibit
+down-regulation (fig. 6b). because bax is a key component
+for cellular induced apoptosis through mitochondrial stress,
+we studied whether as2o3 affected the mitochondrial func-
+tion by assessing its membrane potential (ψ m). there was
+no loss of ψ m in molt-4 cells after exposure to as2o3 for
+12 h (fig. 7) and 24 h (data not shown), respectively, indi-
+cating that the mitochondrial function is well maintained in
+as2o3-treated molt-4 cells. finally, the mrna levels of bcl-
+2 family genes in molt-4 cells treated with as2o3 (4 ␮m)
+were analyzed by the real-time rt-pcr. our data showed that
+336
+w. qian et al. / leukemia research 31 (2007) 329–339
+fig. 5. effect of as2o3 on akt activation. (a) relative level of phosphorylated akt in extracts (40 ␮g protein per lane) obtained from untreated molt-4 cells
+and the cells treated for the indicated time periods with 4 ␮m as2o3 or 10 mm 3-ma. (b) the expression of total akt in molt-4 cells treated with 4 ␮m as2o3
+for the indicated time periods. the data are representative of two determinations with identical results.
+fig. 6. effects of as2o3 on beclin-1 and bcl-2 family expression of leukemia cell lines. (a) real-time pcr analysis for the expressions of beclin-1 and
+bax. after treatment with as2o3 (4 ␮m) for indicated times, cells were collected. first-strand synthesis was performed using the superscripttm ﬁrst-strand
+synthesis system, and beclin-1 or bax mrna expression in molt-4 cells was determined by real-time rt-pcr. the values of untreated controls were averaged
+and deﬁned as 100% (control). results represent the mean± s.e. of three independent experiments; bars, s.d. (b) western blot analysis. molt-4 cells were
+cultured with 4 ␮m as2o3 for indicated times and subjected to western blot analysis as described in section 2. (c) the effect of cycloheximide (chx) on the
+up-regulation of beclin-1 protein. molt-4 cells were incubated for 2 h with chx, then exposed to 4 ␮m as2o3 for 24 h. western blot analysis was performed.
+the data in panels (b) and (c) are representative of two determinations with similar results.
+w. qian et al. / leukemia research 31 (2007) 329–339
+337
+fig. 7. mitochondrial membrane potential (ψ m) assessments. molt-4 cells were cultured in the absence or presence of as2o3 (4 ␮m) for 12 h and then stained
+with 5 ␮g/ml of rhodamine 123. mitochondrial membrane potential was examined by ﬂow cytometric analysis. a representative of three separate experiments
+is shown.
+no signiﬁcant changes of bax (fig. 6a) and bcl-2 (data not
+shown) mrna expression were observed in as2o3-treated
+molt-4 cells, suggesting that the effects of as2o3 on bax and
+bcl-2 are independent of transcription of mrna.
+4. discussion
+in this study, we have demonstrated that as2o3 inhibited
+both proliferation and viability of molt-4 and mutz-1 cells in
+dose- and time-dependent manner. our ﬁndings support the
+results of other previous studies showing similar effects on
+various kinds of human leukemia cell lines [1,4]. the ic50
+value of as2o3 in molt-4 cells was 4.68 ␮m (greater than that
+in mutz-1 cells), which is similar to what has been reported
+previously [6], indicating that molt-4 cells are less sensitive
+than mutz-1 cells. pharmacokinetic analyses of apl patients
+successfully treated with as2o3 have shown that peak plasma
+concentrations is 5.5–7.3 ␮m, and the steady state is believed
+to be between 1 and 2 ␮m [2,31]. it is reported that murine t-
+cell prolymphocytic leukemia are sensitive to as2o3 in vitro
+and in vivo [32]. moreover, as2o3 has been recently used
+for the treatment of acute t-cell leukemia in combination
+with interferon [33]. taken together, the results of our study
+suggest that as2o3 may be clinically useful in patients with
+malignant t-lymphoblastic leukemia and mds.
+the mechanisms of as2o3-induced cell growth inhibi-
+tion have been extensively investigated. apoptosis appears
+to be the main phenomenon resulting in signiﬁcant cell death
+[8,12]. in our experiments, it has been clearly demonstrated
+that leukemia cells treated with as2o3 underwent apoptosis
+by dual staining with annexin v and pi and by tunel assay.
+on the other hand, facs analysis showed that as2o3 simul-
+taneously caused a dose-dependent non-apoptotic cell death
+that is characteristic of annexin v+ and pi+ [34,35]. inter-
+estingly, although the weak expression of active caspase-3
+appears as a response to treatment, cell death also occurs in
+the presence of caspase-3 inhibitor, indicating that as2o3 can
+activate non-apoptotic cell death. it is not surprising, how-
+ever, that as2o3 can induce non-apoptotic death of leukemia
+cells. indeed, previous reports have shown that as2o3 is a
+potent inducer of apoptotic and non-apoptotic death for both
+myeloma and leukemia cells [4,36]. moreover, the percent-
+age of tunel-positive cells was consistent with those of
+annexin v+ and pi
+cells when molt-4 cells were treated
+with same dose of as2o3 for 48 h in our study, suggesting that
+annexin v+ and pi+ group cells induced by as2o3 are alter-
+native cell death different from apoptosis. pi exclusion assay
+also demonstrated these results, supporting the notion that
+as2o3 can induce not only apoptosis but also non-apoptotic
+cell death in leukemia cells.
+although the physiological roles and molecular pathways
+involved in non-apoptotic cell death are not fully under-
+stood, several apparent independent mechanisms have been
+identiﬁed, such as necrosis, autophagy and mitotic catas-
+trophe [26,37]. autophagy is a normal degradative pro-
+cess that exists in all eukaryotic cells and is stimulated in
+response to a variety of environmental stresses, which also
+has been documented in human tumour cells after treat-
+ment with chemotherapeutic drugs [21,38]. autophagy and
+apoptosis are often activated together in response to stress
+[15,39]. for example, it has been reported that tumour necro-
+sis factor-␣ (tnf-␣)-induced cell death in a t-lymphoblastic
+leukemia cell line developed with an apoptotic pattern that
+was preceded by autophagy [40]. our results showed that
+leukemia cells treated with as2o3 had autophagy charac-
+teristic vacuoles and multilamellar bodies (mlbs) in the
+cytoplasm. in our study, the pharmacologic inhibitor of
+autophagy 3-methyladenine (3-ma), a nucleotide derivative
+that blocks class iii phosphatidylinositol 3-kinase (pi3k)
+activity, reduced the number of vauolated cells and specif-
+ically inhibited the autophagic cell death induced by as2o3,
+and enhanced the effect of as2o3 on apoptosis. these
+results are consistent with the observation recently reported
+by ramos et al. [41] that a pi3k inhibitor (wortmannin)
+increases as2o3-induced apoptosis of leukemia cells. taken
+together, these ﬁndings support the evidence that mutz-1
+and molt-4 cell death after exposure to as2o3 occurs by
+autophagy, suggesting that the molecular mechanisms of cell
+death induced by as2o3 have great variety. although evi-
+dence proving that autophagy is a bona ﬁde death pathway
+in chemotherapy treated cancer cells is lacking, the obser-
+vations that chemotherapy can induce autophagic cell death
+and that tamoxifen induce the death of mcf7 cells (a cell
+338
+w. qian et al. / leukemia research 31 (2007) 329–339
+type that contains a mutation in caspase-3) consistent with
+a marked up-regulation of beclin-1 [42] suggests that the
+enhanced autophagy-dependent death potential of apoptosis-
+resistant tumour cells might be exploited therapeutically by
+the administration of autophagy inducing agents.
+recent study based on the experiment with human glioma
+cells has indicated that as2o3 can cause autophagic cell death
+[19]. however, the mechanism responsible for the effect of
+as2o3 on autophagy is unclear. akt has profound effects on
+the control of apoptosis and autophagy via the activation of
+kinase target of rapamycin (tor) protein, which antagonizes
+autophagy [43]. in the present study, treatment with as2o3
+enhanced the phosphorylation of akt. this result was unex-
+pected, since the decrease of akt phosphorylation in u-937
+promonocytic leukemia cells occurs after exposure to as2o3
+[41]. this discrepancy might be explained by differences in
+the cell lines used. therefore, it is conceivable that other
+signaling networks may mediate as2o3-induced autophagic
+death, for example the class iii pi3k/beclin-1 complex path-
+way.
+the human bcl-2-interacting protein (beclin-1), which
+is the functional homologue of yeast vps30/apg6 gene,
+interacts with class iii pi3k complex and participates in
+the induction of autophagy in response to starvation [44].
+beclin-1 gene knockouts in mice cause a marked increase
+in epithelial and haematopoietic malignancies, suggesting
+an important role in tumourigenesis [16,17]. in addition,
+beclin-1 gene transfer increases basal levels of autophagy
+and nutrient deprivation-induced autophagy in human breast
+carcinoma cells that lack detectable levels of endogenous
+beclin-1 protein, and results in the loss of malignant mor-
+phological properties, decreased rates of cell proliferation,
+impaired clonigenicity in vitro, and impaired ability to form
+tumours in nude mice [45,46]. in our study, there was con-
+siderable up-regulation of beclin-1 protein expressions in
+leukemia cells after as2o3 treatment, consistent with induc-
+tion of the autophagy. collectively, these ﬁndings suggest
+that up-regulation of beclin-1 may contribute to as2o3-
+induced autophagy and play an important role in the non-
+apoptotic cell death induced by as2o3. the intimate mech-
+anism of the effect of as2o3 on the expression of beclin-1
+remains to be investigated. however, our results suggested
+that as2o3 acts on beclin-1 expression on intracellular traf-
+ﬁcking of proteins. it is demonstrated that etoposide-induced
+autophagic death of embryonic ﬁbroblasts from bax/bak
+double knockout mice is a consequence of the inhibition
+of bax/bak activity. silencing of bax results in the accu-
+mulation of beclin-1 [21]. on the basis of these data and
+on the observation that as2o3-treated molt-4 cells exhib-
+ited the down-regulation of bax protein expression in our
+study, we speculate that bax may be involved in accumulating
+of beclin-1 and triggering autophagic cell death in as2o3-
+treated leukemia cells. further investigations are needed to
+evaluate whether the overexpression of bax can abrogate
+as2o3-induced autophagic cell death and delineate the role
+of bax in controlling autophagy. since beclin-1 has been
+shown to interact with bcl-2 [45,46] and down-regulation of
+bcl-2 by the antisense approach trigger autophagic cell death
+in human leukemia hl60 cells [47], it might be possible
+that the bcl-2 is involved in autophagy. our data showed a
+down-regulation of bcl-2 in molt-4 cells exposed to as2o3,
+suggesting bcl-2 may contribute to autophagy induced by
+this drug, although the down-regulation of bcl-2 could just
+results in apoptosis.
+in conclusion, our results demonstrated that as2o3 pro-
+duces in vitro growth inhibition, apoptosis, and autophagic
+cell death both in molt-4 and mutz-1 cells at clinically
+achieved concentrations and may be clinically useful in
+patients with malignant t-lymphoblastic leukemia and espe-
+cially mds. our ﬁndings suggested for the ﬁrst time that
+as2o3 with known antitumour activity is a potent inducer
+of autophagy via up-regulation of beclin-1 at the post-
+transcriptional level in leukemia cell lines. further studies are
+needed to investigate interactions and “switch” signal path-
+ways between apoptotic and autophagic programmed cell
+death in leukemia cells.
+acknowledgements
+this work was supported in part by a grant from zhejiang
+provincial natural science foundation of china (m303773).
+we thank l. wang for her help with electron microscope.
+references
+[1] chen gq, shi xg, tang w, xiong sm, zhu j, cai x, et al. use
+of arsenic trioxide (as2o3) in the treatment of acute promyelocytic
+leukemia (apl). i. as2o3 exerts dose-dependent dual effects on apl
+cells. blood 1997;89:3345–53.
+[2] shen zx, chen gq, ni jh, li xs, xiong sm, qiu qy, et al. use
+of arsenic trioxide (as2o3) in the treatment of acute promyelocytic
+leukemia (apl). ii. clinical efﬁcacy and pharmacokinetics in relapsed
+patients. blood 1997;89:3354–60.
+[3] soignet sl, maslak p, wang zg, jhanwar s, calleja e, dardashti lj, et
+al. complete remission after treatment of acute promyelocytic leukemia
+with arsenic trioxide. n engl j med 1998;339:1341–8.
+[4] li ym, broome jd. arsenic targets tubulins to induce apoptosis in
+myeloid leukemia cells. cancer res 1999;59:776–80.
+[5] akao y, mizoguchi h, kojima s, naoe t, ohishi n, yagi k. arsenic
+induces apoptosis in b-cell leukaemic cell lines in vitro: activation
+of caspases and down-regulation of bcl-2 protein. br j haematol
+1998;102:1055–60.
+[6] hu xm, hirano t, oka k. arsenic trioxide induces apoptosis
+equally in t lymphoblastoid leukemia molt-4 cells and p-gp-
+expressing daunorubicin-resistant molt-4 cells. cancer chemother
+pharm 2003;51:119–26.
+[7] lu m, levin j, sulpice e, sequeira-le grand a, alemany m, caen jp,
+et al. effect of arsenic trioxide on viability, proliferation and apop-
+tosis in human megakaryocytic leukemia cell lines. exp hematol
+1999;27:845–52.
+[8] rousselot p, labaume s, marolleau jp, larghero j, noguera mh,
+brouet jc, et al. arsenic trioxide and melarsoprol induce apoptosis
+in plasma cell lines and in plasma cells from myeloma patients. cancer
+res 1999;59:1041–8.
+[9] gartenhaus rb, prachand sn, paniaqua m, li y, gordon li. arsenic
+trioxide cytotoxicity in steroid and chemotherapy-resistant myeloma
+w. qian et al. / leukemia research 31 (2007) 329–339
+339
+cell lines: enhancement of apoptosis by manipulation of cellular redox
+state. clin cancer res 2002;8:566–72.
+[10] murgo aj. clinical trials of arsenic trioxide in hematologic and solid
+tumors: overview of the national cancer institute cooperative research
+and development studies. oncologist 2001;6:22–8.
+[11] shao w, fanelli m, ferrara ff, riccioni r, rosenauer a, davison k, et
+al. arsenic trioxide as an inducer of apoptosis and loss of pml/rar␣
+protein in acute promyelocytic leukemia cells. j natl cancer inst
+1998;90:124–33.
+[12] zhang w, ohnishi k, shigeno k, fujisawa s, naito k, nakamura s, et
+al. the induction of apoptosis and cell cycle arrest by arsenic trioxide
+in lymphoid neoplasms. leukemia 1998;12:1383–91.
+[13] guimaraes ca, linden r. programmed cell death: apoptosis and alter-
+native deathstyles. eur j biochem 2004;271:1638–50.
+[14] klionsky dj, emr sd. autophagy as a regulated pathway of cellular
+degradation. science 2000;290:1717–21.
+[15] bursch w. the autophagosomal–lysosomal compartment
+in pro-
+grammed cell death. cell death differ 2001;8:569–81.
+[16] qu x, yu j, bhagat g, furuya n, hibshoosh h, troxel a, et al. pro-
+motion of tumorigenesis by heterozygous disruption of the beclin-1
+autophagy gene. j clin invest 2003;112:1809–20.
+[17] yue z, jin s, yang c, levine aj, heintz n. beclin-1, an autophagy
+gene essential for early embryonic development, is a haploinsufﬁcient
+tumor suppressor. proc natl acad sci usa 2003;100:15077–82.
+[30] meijer aj, codogno p. regulation and role of autophagy in mammalian
+cells. int j biochem cell biol 2004;36:2445–62.
+[31] agis h, weltermann a, mitterbauer g, thalhammer r, edelhauser
+m, seewann hl, et al. successful treatment with arsenic trioxide of a
+patient with atra-resistant relapse of acute promyelocytic leukemia.
+ann hematol 1999;78:329–32.
+[32] recher c, chopin m, raffoux e, pierron g, poupon j, sigaux f, et
+al. in vitro and in vivo effectiveness of arsenic trioxide against murine
+t-cell prolymphocytic leukemia. br j haematol 2002;117:343–50.
+[33] bazarbachi a, ghez d, lepelletier y, nasr r, de the h, el-sabban
+me, et al. new therapeutic approaches for adult t-cell leukemia. lancet
+oncol 2004;5:664–72.
+[34] zhu q, zhang jw, zhu hq, shen yl, flexor m, jia pm, et al. syn-
+ergic effects of arsenic trioxide and camp during acute promyelocytic
+leukemia cell maturation subtends a novel signaling cross-talk. blood
+2002;99:1014–22.
+[35] wang x, ryter sw, dai c, tang zl, watkins sc, yin xm, et
+al. necrotic cell death in response to oxidant stress involves the
+activation of the apoptogenic caspase-8/bid pathway. j biol chem
+2003;278:29184–91.
+[36] mccafferty-grad j, bahlis nj, krett n, aguilar tm, reis i, lee kp, et
+al. arsenic trioxide uses caspase-dependent and caspase-independent
+death pathways in myeloma cells. mol cancer ther 2003;2:1155–
+64.
+[18] gozuacik d, kimchi a. autophagy as a cell death and tumor suppressor
+[37] okada h, mak tw. pathways of apoptotic and non-apoptotic death in
+mechanism. oncogene 2004;23:2891–906.
+[19] kanzawa t, kondo y, ito h, kondo s, germano i. induction of
+autophagic cell death in malignant glioma cells by arsenic trioxide.
+cancer res 2003;63:2103–8.
+[20] yu l, alva a, su h, dutt p, freundt e, welsh s, et al. regulation
+of an atg7–beclin-1 program of autophagic cell death by caspase-8.
+science 2004;304:1500–2.
+[21] shimizu s, kanaseki t, mizushima n, mizuta t, arakawa-kobayashi
+s, thompson cb, et al. role of bcl-2 family proteins in a non-apoptotic
+programmed cell death dependent on autophagy genes. nat cell biol
+2004;6:1221–8.
+[22] ono k, kim so, han j. susceptibility of lysosomes to rupture is a
+determinant for plasma membrane disruption in tumor necrosis factor
+alpha-induced cell death. mol cell biol 2003;23:665–76.
+[23] klapper w, qian w, schulte c, parwaresch r. dna damage transiently
+increases trf2 mrna expression and telomerase activity. leukemia
+2003;17:2007–15.
+[24] perkins c, kim nk, fang g, bhalla k. arsenic induces apoptosis of
+multi-drug resistant human myeloid leukemia cells that express bcr-abl
+or overexpress mdr, mrp, bcl-2 or bcl-xl. blood 2000;95:1014–22.
+[25] seglen po, gordon pb. 3-methyladenine: speciﬁc inhibitor of
+autophagic/lysosomal protein degradation in isolated rat hepatocytes.
+proc natl acad sci usa 1982;79:1889–92.
+[26] bursch w, hochegger k, torok l, marian b, ellinger a, hermann
+rs. autophagic and apoptotic types of programmed cell death exhibit
+different fates of cytoskeletal ﬁlaments. j cell sci 2000;113:1189–98.
+[27] hariri m, millane g, guimond mp, guay g, dennis jw, nabi ir.
+biogenesis of multilamellar bodies via autophagy. mol biol cell
+2000;11:255–68.
+[28] vogt pk. pi 3-kinase, mtor, protein synthesis and cancer. trends mol
+med 2001;7:482–4.
+[29] tabellini g, cappellini a, tazzari pl, fal`a f, billi am, manzoli l,
+et al. phosphoinositide 3-kinase/akt involvement in arsenic trioxide
+resistance of human leukemia cells. j cell physiol 2005;202:623–34.
+tumour cells. nat rev cancer 2004;4:592–603.
+[38] kanzawa t, germano im, komata t, ito h, kondo y, kondo s. role of
+autophagy in temozolomide-induced cytotoxicity for malignant glioma
+cells. cell death differ 2004;11:448–57.
+[39] xue l, fletcher gc, tolkovsky am. autophagy is activated by apop-
+totic signalling in sympathetic neurons: an alternative mechanism of
+death execution. mol cell neurosci 1999;14:180–98.
+[40] jia l, dourmashkin rr, allen pd, gray ab, newland ac, kelsey sm.
+inhibition of autophagy abrogates tumour necrosis factor ␣-induced
+apoptosis in human t-lymphoblastic leukemia cells. br j haematol
+1997;98:673–85.
+[41] ramos am, fernandez c, amran d, sancho p, de blas e, aller p.
+pharmacologic inhibitors of pi3k/akt potentiate the apoptotic action
+of the antileukemic drug arsenic trioxide via glutathione depletion and
+increased peroxide accumulation in myeloid leukemia cells. blood
+2005;105:4013–20.
+[42] scarlatti f, bauvy c, ventruti a, sala g, cluzeaud f, vandewalle
+a, et al. ceramide-mediated macroautophagy involves inhibition
+of protein kinase b and upregulation of beclin 1. j biol chem
+2004;279:18384–91.
+[43] ng g, huang j. the signiﬁcance of autophagy in cancer. mol carcino-
+genesis 2005;43:183–7.
+[44] kihara a, kabeya y, ohsumi y, yoshimori t. beclin-
+phosphatidylinositol 3-kinase complex functions at the trans-golgi
+network. embo rep 2001;2:330–5.
+[45] liang xh, jackson s, seaman m, brown k, kempkes b, hibshoosh
+h, et al. induction of autophagy and inhibition of tumorigenesis by
+beclin-1. nature 1999;402:672–6.
+[46] liang xh, yu j, brown k, levine b. beclin-1 contains a leucine-
+rich nuclear export signal that is required for its autophagy and tumor
+suppressor function. cancer res 2001;61:3443–9.
+[47] saeki k, you a, okuma e, yazaki y, susin sa, kroemer g, et al. bcl-2
+down-regulation causes autophagy in a caspase-independent manner in
+human leukemic hl60 cells. cell death differ 2000;7:1263–9.

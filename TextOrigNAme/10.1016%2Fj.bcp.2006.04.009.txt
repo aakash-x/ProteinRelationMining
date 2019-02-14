@@ -1,0 +1,872 @@
+b i o c h e m i c a l p h a r m a c o l o g y 7 2 ( 2 0 0 6 ) 7 0 – 7 9
+a v a i l a b l e a t w w w . s c i e n c e d i r e c t . c o m
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / b i o c h e m p h a r m
+dipeptidyl peptidase ii and leukocyte cell death
+marie-berthe maes a, wim martinet b, dorien m. schrijvers b, pieter van der veken c,
+guido r.y. de meyer b, koen augustyns c, anne-marie lambeir a, simon scharpe´ a,
+ingrid de meester a,*
+a laboratory of medical biochemistry, university of antwerp, universiteitsplein 1, 2610 wilrijk, belgium
+b laboratory of pharmacology, university of antwerp, universiteitsplein 1, 2610 wilrijk, belgium
+c laboratory of medicinal chemistry, university of antwerp, universiteitsplein 1, 2610 wilrijk, belgium
+a r t i c l e i n f o
+a b s t r a c t
+dipeptidyl peptidase (dpp) ii (e.c. 3.4.14.2) is an intracellular protease that releases, pre-
+ferably at acidic ph, n-terminal dipeptides from oligopeptides with pro or ala in the
+penultimate position. the natural substrates and the physiological role of dppii remain
+unclear. the aim of the present study was to investigate the involvement of dppii activity in
+different forms of cell death (apoptosis, necrosis and autophagy) in human leukocytes. we
+determined speciﬁc dpp activities in leukocytes. compared to other subpopulations of
+peripheral blood mononuclear cells (pbmc), we observed relatively high dppii speciﬁc
+activity in monocytic cells, opening new perspectives for further investigation of the dppii
+functions. a second intriguing ﬁnding was that dppii speciﬁc activity increased during
+necrosis, whereas induction of apoptosis or autophagy did not affect any of the dipeptidyl
+peptidase activities. finally, we showed that inhibition of dppii (>90%) using the in vitro
+applicable, highly potent (ki of 0.082  0.048 nm) and selective dppii inhibitor uamc00039,
+did not induce any form of cell death in leukocytes. these data are of importance for a more
+precise interpretation of the in vitro and in vivo effects of other dipeptidyl peptidase
+inhibitors.
+# 2006 elsevier inc. all rights reserved.
+article history:
+received 1 february 2006
+accepted 7 april 2006
+keywords:
+dpp
+quiescent cell proline dipeptidase
+val-boro-pro
+apoptosis
+necrosis
+autophagy
+abbreviations:
+dpp, dipeptidyl peptidase
+qpp, quiescent cell proline
+dipeptidase
+cll, chronic lymphocytic leukaemia
+vbp, val-boro-pro
+fapa, ﬁbroblast activation protein a
+ebss, earle’s balanced salt solution
+cda, 2-chloro-20-deoxyadenosine
+pi, propidium iodide
+-pna, -p-nitroanilide
+1.
+introduction
+dipeptidyl peptidase ii (dppii, e.c. 3.4.14.2) is an intracellular
+protease that localizes to the vesicular system. it releases,
+preferably at acidic ph, n-terminal dipeptides from oligopep-
+tides with pro or ala in the penultimate position. according to
+cytochemical studies, dppii is found in normal as well as in a
+number of malignant haematological cells. it is present in both
+t and b lymphocytes, the former usually showing a stronger
+cytochemical signal [1–3]. assessment of the number of dppii
+* corresponding author. tel.: +32 3 8202727; fax: +32 3 8202734.
+e-mail address: ingrid.demeester@ua.ac.be (i. de meester).
+0006-2952/$ – see front matter # 2006 elsevier inc. all rights reserved.
+doi:10.1016/j.bcp.2006.04.009
+b i o c h e m i c a l p h a r m a c o l o g y 7 2 ( 2 0 0 6 ) 7 0 – 7 9
+71
+positive lymphocytes represents a simple and reliable prog-
+nostic criterion in patients with b type chronic lymphocytic
+leukaemia (b-cll) [4,5]. patients with b-cll displaying a high
+number of dppii positive cells had a worse prognosis [1].
+recently, susceptibility to the dipeptidyl peptidase inhibitor
+val-boro-pro (vbp)-induced apoptosis of cll b cells was
+suggested to be a novel prognostic factor in cll [6]. moreover,
+the ratio of serum dppii versus dipeptidyl peptidase iv (dppiv)
+activity has been proposed as a biochemical index of cancer [7–
+9]. despite recent investigations on possible peptide sub-
+strates and in vivo function of dppii, the natural substrates
+and the physiological role remain undeﬁned [10,11]. among
+the dipeptidyl peptidases able to cleave post-proline bonds,
+dipeptidyl peptidase iv (dppiv) has been studied most
+extensively [12]. the human ﬁbroblast activation protein a
+(fapa) shares the highest sequence homology with dppiv and
+bears both dppiv-like and collagenase/gelatinase activity but
+is not expressed in most normal adult tissues [13].
+in 1999, chiravuri et al. observed that inhibitors of post-
+proline cleaving dipeptidyl peptidases such as vbp caused
+apoptosis in quiescent lymphocytes in a process independent
+of dppiv [14]. the effect was attributed to the enzyme human
+quiescent cell proline dipeptidase (qpp). later qpp and dppii
+were proven to be identical [15–17], suggesting a possible role
+for dppii in cell death. however, the discovery of some new
+members of the dppiv family, such as dpp8 and dpp9 made us
+look at the selectivity of dpp inhibitors from a different
+perspective. previous studies using these compounds require
+reinterpretation. the dpp inhibitor vbp, also known as
+talabostat or pt-100, has great therapeutic potential. four
+phase ii studies are ongoing in cancer patients, and talabostat
+is also under development for the treatment of hematopoietic
+disordes, such as neutropenia, anemia and thrombocytope-
+nia. the hematopoietic target in these studies was identiﬁed
+as ﬁbroblast activation protein a (fapa) [18,19].
+since the dpps are similar with respect to their catalytic
+mechanism and substrate selectivity, the development of
+potent and selective dppii-inhibitors is a challenging task. the
+highly potent and selective dppii-inhibitor n-(4-chlorobenzyl)-
+4-oxo-4-(1-piperidinyl)-1,3-(s)-butane-diamine dihydrochlor-
+ide (uamc00039) [20] proved to be a useful tool for in vivo
+investigations [11]. uamc00039 demonstrated in vivo efﬁcacy
+and oral availability without evidence for acute toxicity. the
+high selectivity of the inhibitor enabled us to differentiate
+between dppii and dppiv/8/9 activities in biological systems.
+therefore, this compound seemed to be an excellent tool for
+the investigation of dppii activity during different forms of cell
+death.
+in vitro and in vivo model systems support the
+hypothesis that a variety of cell death programs may be
+triggered in distinct circumstances. there is growing evidence
+that besides apoptosis, autophagic and necrotic forms of cell
+degeneration may be programmed [21]. the aim of the present
+study was to investigate the involvement of dppii activity in
+cell death (apoptosis, necrosis and autophagy) of human
+leukocytes. first, the speciﬁc dppii activity was determined in
+different subpopulations of peripheral blood mononuclear
+cells (pbmc). secondly, dppii speciﬁc activity was assessed
+during cell proliferation and after induction of different types
+of cell death. thirdly, we studied whether uamc00039 was
+able to inhibit intracellular dppii in cell culture and whether
+inhibition of dppii induced cell death. to the best of our
+knowledge, this is the ﬁrst study addressing the inﬂuence of
+various forms of cell death on speciﬁc dppii activity.
+2.
+materials and methods
+2.1.
+materials
+inhibitor n-(4-chlorobenzyl)-4-oxo-4-(1-piperidi-
+the dppii
+(uamc00039,
+nyl)-1,3-(s)-butane-diamine dihydrochloride
+fig. 1) and the dppiv/8/9 inhibitor bis{4-[(ethoxycarbonyl)-
+methylaminocarbonyl]phenyl} 1-((s)-prolyl)pyrrolidine-2(r,s)-
+phosphonate (ab207) were synthesised as described [12,20,22].
+dppii and dppiv were puriﬁed from human seminal plasma
+[17,23]. the dpp activity in cell homogenates after the removal
+of dppii and dppiv by afﬁnity chromatography was considered
+to be dpp activity not caused by dppii or dppiv. dpp activity
+presumably caused by dpp8, dpp9 and dppiv is termed ‘non-
+dppii’ dpp activity (dppiv/8/9). buffy coats were obtained from
+the antwerp blood transfusion center. all cell culture products
+including pbs, rpmi 1640 medium, earle’s balanced salt
+solution (ebss), foetal bovine serum (fbs), penicillin and
+streptomycin were obtained from invitrogen. ficoll-paque
+plus was from amersham biosciences. mg-132, nigericine and
+2-chloro-20-deoxyadenosine (cda) were obtained from cal-
+biochem. annexin v-fitc and propidium iodide (pi) were
+purchased from bd biosciences. cell lines (jurkat, hl60, u937)
+were obtained from the american type culture collection.
+lys-ala-p-nitroanilide (lys-ala-pna), ala-pro-pna and gly-
+pro-pna were obtained from bachem. phorbol 12-myristate
+13-acetate (pma), etoposide, bovine serum albumin (bsa) and
+cacodylic acid were from sigma. all other chemicals were
+obtained from icn biomedicals.
+2.2.
+cells
+the human monocytic cell line u937 was grown in rpmi 1640
+medium supplemented with 100 u/ml penicillin, 100 mg/ml
+streptomycin and 10% (v/v) heat-inactivated fbs at 37 8c in 5%
+co2/95% air. to induce monocytic cell differentiation,
+u937 cells (0.25  106 ml 1) were cultured in the presence of
+fig. 1 – structure of the dppii inhibitor uamc00039. the
+dppii inhibitor n-(4-chlorobenzyl)-4-oxo-4-(1-piperidinyl)-
+1,3-(s)-butane-diamine dihydrochloride.
+72
+b i o c h e m i c a l p h a r m a c o l o g y 7 2 ( 2 0 0 6 ) 7 0 – 7 9
+10 ng/ml pma for 72 and 96 h. cells were scraped with a rubber
+policeman. human peripheral blood mononuclear cells
+(pbmc) were isolated by ficoll-paque density gradient cen-
+trifugation of buffy coats, washed three times in rpmi and
+incubated overnight in complete medium at 37 8c in 5% co2/
+95% air before use. we used the non-adherent cells (pre-
+dominantly lymphocytes) in our experiments, unless stated
+otherwise. for the isolation (positive selection) of peripheral
+cd4+, cd19+ and cd14+ cells, the non-adherent pbmc were
+incubated with dynabeads cd4 (t helper/inducer) and
+dynabeads cd19 (panb) and the adherent cells with dyna-
+beads cd14 (monocytes/macrophages) according to the
+manufacturer’s instructions (dynal biotech asa, oslo, nor-
+way). cells were lysed (vide infra) while attached to the beads.
+assays were conducted in rpmi without fbs unless stated
+otherwise.
+enzyme activity and protein content were determined after
+lysing the cells. washed cells were suspended (1–
+10  106 cells/100 ml)
+(1% octylglucoside in
+0.05 m cacodylic acid–naoh buffer ph 5.5, 10 mm edta,
+70 mg/ml aprotinin), incubated for 1 h at 4 8c and centrifuged
+for 10 min at 12,000 rpm (4 8c). the resulting supernatant was
+used as cell lysate.
+in lysisbuffer
+cell proliferation was assessed by cell counting (neubauer-
+improved counting chamber) and protein measurements.
+protein content was determined according to bradford [24] or
+by using the bicinchoninic acid (bca) protein assay kit (pierce,
+usa) with bsa as a standard.
+2.3.
+enzyme assays
+enzyme activities were determined kinetically for 10 minutes
+at 37 8c by measuring the initial velocities of p-nitroaniline
+release (405 nm) from the substrate using a spectramax plus
+microtiterplate reader (molecular devices). one unit of enzyme
+activity was deﬁned as the amount of enzyme that catalyses
+the release of 1 mmol p-nitroaniline from the substrate per
+minute under assay conditions. dppii enzymatic activity was
+determined using lys-ala-pna (1 mm) in 0.05 m cacodylic
+acid–naoh buffer ph 5.5 containing 10 mm edta and 14 mg/ml
+aprotinin [17]. analoguous to the enzyme assay of chiravuri
+et al. for qpp [14], we also used 1 mm ala-pro-pna in 0.05 m
+hepes buffer ph 7.0 containing 10 mm edta and 14 mg/ml
+aprotinin. dppii, dppiv, dpp8 and dpp9 can all cleave ala-pro-
+pna under these conditions [25,26]. ‘non-dppii’ dpp activity
+(dppiv/8/9) was determined using 0.5 mm gly-pro-pna in
+0.05 m tris buffer ph 8.3 containing 10 mm edta and 14 mg/ml
+aprotinin.
+2.4.
+inhibitor characterization
+inhibition of dppii activity was analysed spectrophotometri-
+cally as described above except that the dppii inhibitor was
+preincubated with the enzyme sample for 15 min at 37 8c prior
+to the addition of substrate. ic50 values were obtained with
+substrate concentrations near the km value and at least 10
+different inhibitor concentrations were used. ic50 values were
+calculated using graﬁt software [27]. to investigate the
+selectivity of the inhibitor, ic50-values for puriﬁed dppiv
+and dpp8/9 were also measured.
+the inhibition constant of the inhibitor for the active site
+(ki) was determined using seven different substrate concen-
+trations (10–1000 mm ala-pro-pna) and at least ten different
+inhibitor concentrations (0–50 nm). per substrate concentra-
+tion, the data were ﬁtted to the equation for tight-binding
+inhibition (eq. (1)) [28] using grafit version 5 [27] to calculate
+the ki-app.
+ﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃﬃ
+cca
+½e0 þ½iþ ki-app
+2 4½e0½i
+2½e0
+bb@
+v ¼ v0 1 
+½e0 þ½iþ ki-app
+(1)
+where v is the measured velocity, v0 the velocity in the absence
+of inhibitor, [e]0 the total enzyme concentration, [i] the ﬁnal
+inhibitor concentration, and ki-app is the apparent equilibrium
+inhibition constant. the different ki-app were plotted against
+their associated substrate concentration and the ki was deter-
+mined by calculating the intercept with the y-axis using grafit
+version 5 [27]. all experiments were performed in triplicate.
+the reversibility of dppii inhibition by uamc00039 was
+investigated kinetically for 30 min under pseudo-ﬁrst order
+conditions at 37 8c (5 nm uamc00039 ﬁnal concentration in
+200 ml reaction volume). in a ﬁrst experiment, the reaction was
+started by adding 190 ml of 1 mm ala-pro-pna to 10 ml of a
+preincubated (15 min) mixture of 100 nm inhibitor and
+enzyme. in a second experiment, the reaction was started
+by adding 5 ml of enzyme to 195 ml of a mixture of inhibitor and
+1 mm ala-pro-pna. both progress curves were compared.
+2.5.
+inhibition of intracellular dppii
+stability of uamc00039 in rpmi medium or assay buffer
+(50 mm cacodylate buffer ph5.5) was monitored at 37 8c. the
+inhibitors’ capacity (ic50) to inhibit dppii was measured at
+different time points (up to 48 h).
+u937 cells were incubated with various concentrations of
+inhibitor for 15 min at 37 8c in rpmi. cells were then washed
+with pbs, lysed and assayed for dppii activity; ic50 values were
+calculated as described above. concentration–response and
+time–response curves were generated from incubations of
+pbmc with uamc00039 (0.01 nm–1 mm) in rpmi at 37 8c for 1, 5,
+15, 30 and 60 min. washed cells were lysed overnight at 4 8c
+using 100 mm hepes buffer ph 7.4, 10 mm edta, 70 mg/ml
+aprotinin and 1% octylglucoside.
+2.6.
+cell death induction and measurement
+u937 cells or pbmc (0.5  106 cells/ml) were treated with the
+dppii inhibitor uamc00039 (1 and 100 mm), the dppiv/8/9
+inhibitor ab207 (5 mm) and with different triggers of cell death
+for 24 or 48 h at 37 8c in 5% co2/95% air. the topoisomerase ii-
+inhibitor etoposide (50 mm) and the proteasome inhibitor
+mg132 (10 mm) were used as positive controls for apoptosis
+[29,30]. a 2-chloro-20-deoxyadenosine (cda, 10 mg/ml) was
+used as an apoptosis trigger in resting pbmc (after 24 h of
+incubation) [31,32]. the k+ ionophore nigericine (10 mm) was
+used as a trigger for necrosis in the monocytic u937 cells [33].
+cells underwent amino acid deprivation in ebss to induce
+autophagy [34].
+b i o c h e m i c a l p h a r m a c o l o g y 7 2 ( 2 0 0 6 ) 7 0 – 7 9
+73
+2.6.1. viability measurements
+viability was assessed microscopically by trypan blue exclusion
+(0.2% trypan blue in pbs) after culturing cells in the presence of
+100 mm of inhibitor for up to 48 h. in addition, neutral red uptake
+was evaluated. cells were incubated with fresh medium
+containing neutral red (100 mg/ml). after 2 h, cultures were
+washed twice with pbs and the neutral red in the cells was
+extracted with 0.05 m na2hpo4 in 50% ethanol. neutral red
+absorbance was detected at 540 nm. the viability was calculated
+with regard to the untreated cell control, which was set to 100%.
+2.6.2. annexin v/propidium iodide (pi) staining
+phosphatidylserine expression was determined by ﬂow cyto-
+metric analysis using annexin v-fitc. loss of membrane
+integrity (necrosis) was assessed by using pi. after 2, 6 and 24 h
+of incubation, cells were washed with pbs to remove non-
+incorporated inhibitor, resuspended in binding buffer (10 mm
+hepes ph 7.4, 140 mm nacl, 2.5 mm cacl2) and subsequently
+labelled with annexin v-fitc. pi (ﬁnal concentration 8 mg/ml)
+was added immediately prior to ﬂow cytometric analysis using
+a facsort analytical ﬂow cytometer (bd biosciences, san
+diego, ca). cells were classiﬁed into the following fractions:
+viable cells (annexin v /pi ), apoptotic cells (annexin v+/pi )
+and necrotic cells (annexin v+/pi+).
+2.6.3. determination of apoptosis by dna fragmentation
+assays
+dna fragmentation into nucleosomal bands was detected
+using agarose gel electrophoresis as described previously [35].
+brieﬂy, cells were lysed with hypotonic lysisbuffer (10 mm
+tris, 1 mm edta, 0.2% triton x-100). then 0.5 mg/ml
+proteinase k was added and lysates were incubated for 1 h
+at 50 8c. at the end of the incubation, 10 ml of dnase-free
+rnase (0.5 mg/ml) was added to the lysates and the tubes were
+incubated for 1 h at 37 8c. after precipitation overnight
+( 20 8c) with 1/10 volume of 3 m sodium acetate and 1 volume
+of isopropanol, the pellets were air dried and dissolved in
+water. after adding loading buffer (fermentas), dna samples
+were analysed by 1.8% agarose gel electrophoresis and stained
+with ethidium bromide.
+electron microscopy
+2.6.4.
+cells were harvested and ﬁxed in 0.1 m sodium cacodylate-
+buffered (ph 7.4) 2.5% glutaraldehyde for 2 h, then rinsed
+(3  10 min) in 0.1 m sodium cacodylate-buffered (ph 7.4) 7.5%
+saccharose and postﬁxed in 1% oso4 solution for 1 h. after
+dehydration in an ethanol gradient (70% ethanol [20 min], 96%
+ethanol [20 min], 100% ethanol [2  20 min]), samples were
+embedded in durcupan acm. ultrathin sections were stained
+with uranyl acetate and lead citrate. sections were examined
+in a philips cm 10 microscope at 80 kv.
+effect of cell death on speciﬁc dpp activity
+2.6.5.
+after 2, 6 and 24 h, dipeptidyl peptidase activities were
+measured as described above. at the same time points
+viability/cell death was investigated by annexin v/pi staining.
+2.7.
+statistical analysis
+data are expressed as mean  s.e.m. for the statistical
+analysis, the spss statistical package (spss for windows, v.
+12.0; spss, chicago, il) was used. differences between groups
+fig. 2 – dpp specific activities in different leukocytes. (a) after lysing cells (u937 cells and pma-stimulated u937 cells (72 h),
+hl60 cells, jurkat cells, pbmc), enzyme activities were determined as described in section 2: lys-ala-pna at ph 5.5 (dppii
+activity; solid); ala-pro-pna at ph 7.0 (dppii/iv/8/9 activity; hatched) and gly-pro-pna at ph 8.3 (‘non- dppii’ dpp activity;
+open). specific activities are given (n  3). (b) non-adherent pbmc were used for the isolation of cd4+ (t helper/inducer) and
+cd19+ (panb) cells and adherent pbmc for the cd14+ (monocytes/macrophages) cells using dynabeads. enzyme activities
+were determined after lysing cells while attached to the beads. specific activities are given (n = 6). the data represent the
+mean w s.e.m. the differences between the activity groups were assessed with one-way anova, followed by the dunnett
+test. *p < 0.05, **p < 0.01, ***p < 0.001 vs. dppii activity.
+fig. 3 – influence of cell death on specific dpp activities in u937 cells and pbmc. the effect of different types of cell death on the specific dpp activities in u937 cells and pbmc
+was investigated. cells were cultured in the presence of the indicated stimuli for 2, 6 and 24 h. after lysing the cells, enzyme activities were determined as described in
+section 2: lys-ala-pna at ph 5.5 (dppii activity); ala-pro-pna at ph 7.0 (dppii/iv/8/9 activity) and gly-pro-pna at ph 8.3 (‘non-dppii’ dpp activity). (a) specific dpp activities
+were investigated during apoptosis induced by 50 mm etoposide (grey) and 10 mm mg132 (hatched) and under starvation conditions (autophagy; open). since the controls
+with and without dmso were the same, only one control (black) is shown as a reference. the data represent the mean w s.e.m. of 4 (pbmc) or 6 (u937) separate experiments.
+specific activities are given. treatment had no effect after 2 and 6 h of incubation in u937 cells and over the whole incubation time in pbmc. the annexin v/pi staining is
+presented in the inset (n = 3). the data were analysed using an univariate anova, followed by the dunnett test. ++p < 0.01, +++p < 0.001 vs. control specific activity; inset:
+**p < 0.01, ***p < 0.001 vs. control annexinv/pi staining. (b) specific dpp activities in u937 cells were investigated during nigericine-induced necrosis. cells were cultured in
+the presence of 10 mm nigericine or control (etoh) (n = 2). unpaired two-tailed student’s t-test was used to analyze the specific activities. *p < 0.05 vs. control.
+b i o c h e m i c a l p h a r m a c o l o g y 7 2 ( 2 0 0 6 ) 7 0 – 7 9
+75
+fig. 5 – applicability of uamc00039 in cell culture
+experiments. a concentration–response curve was
+generated by incubation of pbmc with uamc00039
+ranging from 0.01 nm to 1 mm at 37 8c for 5 minutes.
+lysates were prepared immediately after washing. dppii
+(lys-ala-pna ph 5.5) and ‘non-dppii’ (gly-pro-pna ph 8.3)
+dpp activities were measured. relative enzyme activities
+are given (enzyme without inhibitor = 1). the data
+represent the mean w s.e.m. of at least two separate
+experiments (n = 2–8). the differences between the activity
+groups were assessed with one-way anova, followed by
+the dunnett test. ***p < 0.001 vs. control (0 nm uamc00039,
+not shown).
+3.
+results
+3.1.
+dppii activity in leukocyte subpopulations
+the dpp activities in resting primary mononuclear cells
+(adherent and non-adherent cells) and in several human
+leukemia cell
+lines (jurkat, u937, hl60) were compared
+(fig. 2a). under our lysing conditions that were optimized
+for the study of dppii, the monocytic u937 and hl60 cells
+showed the highest dppii vs. ‘non-dppii’ dpp activity. in u937
+cells, ‘non-dppii’ dpp activity balanced around the detection
+limit. dppii activity in pma-stimulated u937 cells was
+signiﬁcantly lower ( p < 0.05) than in the control cells both
+after 72 and 96 h of incubation (fig. 2a right panel). among
+primary lymphocytes, dppii activity was higher in t helper
+cells (cd4+) than in b cells (cd19+) ( p = 0.001, fig. 2b). again,
+monocytes (cd14+) showed relatively high dppii activity.
+speciﬁc dpp activities were measured in u937 cells in
+different cell culture conditions for 96 h. speciﬁc dppii activity
+did not change in experiments with medium containing
+serum and medium without serum. however, dppii speciﬁc
+activity increased after 96 h of amino acid deprivation
+(supplementary data). at this moment necrosis was observed.
+3.2.
+effect of cell death on dpp activities
+the effect of different types of cell death on the speciﬁc dpp
+activities in u937 cells and pbmc was investigated (fig. 3a)
+fig. 4 – inhibition characteristics of uamc00039. (a) ki of
+dppii inhibition by uamc00039. the different ki-app,
+obtained using the equation for tight-binding inhibition
+(eq. (1)) as described in section 2 were plotted against their
+associated substrate concentration and the ki was
+determined by calculating the intercept with the y-axis (ki
+of 0.082 w 0.048 nm). the data represent the
+mean w s.e.m. of three separate experiments. (b)
+reversibility of dppii inhibition by uamc00039. the
+reversibility of dppii inhibition by uamc00039 was
+investigated as described in materials and methods using
+5 nm inhibitor as final concentration. in a first experiment,
+the reaction was started by adding substrate (ala-pro-
+pna) to a mixture of preincubated uamc00039 and dppii
+(~, lower curve, dissociation curve of the inhibitor–
+enzyme complex). in a second experiment, the reaction
+was started by adding enzyme to a mixture of inhibitor
+and substrate (5, curve of inhibitor binding to the
+enzyme). the slow recovery of the enzymatic activity, after
+dilution of the pre-formed enzyme–inhibitor complex,
+indicated that uamc00039 was a reversible dpp ii
+inhibitor.
+were assessed using one-way or univariate analysis of
+variance (anova), followed by the dunnett test. a value
+of p < 0.05 was considered signiﬁcant. n represents the
+number of experiments. an unpaired two-tailed student’s t-
+test was used to analyze speciﬁc activities of fig. 3b and
+d-ppii speciﬁc activities of th cells and b cells in fig. 2b.
+linear regression analysis was carried out on the data shown
+in fig. 4a.
+76
+b i o c h e m i c a l p h a r m a c o l o g y 7 2 ( 2 0 0 6 ) 7 0 – 7 9
+table 1 – selectivity of uamc00039 and ab207
+uamc00039 [54]
+ab207 [54]
+dppii inhibition ic50
+0.48  0.04 nm
+>1000 mm
+dppiv inhibition ic50
+dpp8 inhibition ic50
+165  9 mm
+14  1 nm
+142  27 mm
+530  1 nm
+using the cell death inducers etoposide, mg132 and amino acid
+depletion (ebss). etoposide and mg132 caused apoptosis in
+u937 cells within 6 h of incubation as demonstrated by
+annexin v+/pi  staining. after 24 h, etoposide and mg132-
+induced apoptosis evolved to secondary necrosis as demon-
+strated by microscopy and annexin v+/pi+ staining. apoptosis
+and amino acid depletion-induced autophagy did not affect
+dppii or ‘non-dppii’ dpp activities. however, secondary
+necrosis led to an increase of the dppii speciﬁc activity. pbmc
+were quite resistant to the apoptosis triggers since apoptosis
+was only observed after 24 h of incubation with etoposide or
+mg132. apoptosis of pbmc did not affect dppii or ‘non-dppii’
+dpp speciﬁc activities.
+the increase in dppii speciﬁc activity during secondary
+necrosis prompted us to evaluate dppii activity in u937 cells
+after triggering necrosis. since 10 mm nigericine is known to
+elicit necrosis in monocytic cell lines [33], its effect on dppii
+activity was investigated in u937 cells. similar to secondary
+necrosis, dppii speciﬁc activity increased 3.5-fold after 24 h
+nigericine treatment, (fig. 3b).
+3.3.
+inhibition characteristics of uamc00039
+uamc00039 is a potent reversible competitive tight binding
+dppii inhibitor with a ki of 0.082  0.048 nm (fig. 4). because
+uamc00039 has a subnanomolar ic50 towards dppii compared
+to an ic50 of more than 100 mm for ‘non-dppii’ dpp activity
+present in leukocytes, the inhibitor shows high selectivity
+towards dppii (table 1). the efﬁcacy of a dppii inhibitor in cell
+culture depends not only on the inhibitors’ potency towards
+the enzyme but also on its stability in the medium and its
+ability to enter the cell. uamc00039 was stable for at least 48 h
+at 37 8c in culture medium and in dppii assay buffer. the
+compound was able to enter pbmc within 1 min resulting in a
+fig. 6 – effects of dpp inhibitors on cell death parameters in u937 cells and pbmc. u937 cells and pbmc were incubated for 2,
+6 and 24 h with the specific dppii inhibitor uamc00039 and the dppiv/8/9 inhibitor ab207. 50 mm etoposide was used as a
+positive control for apoptosis. apoptosis and necrosis were evaluated by annexin v/pi staining (n = 3). the data were
+analysed using an univariate anova, followed by the dunnett test: ***p < 0.001 vs. control annexinv/pi staining.
+b i o c h e m i c a l p h a r m a c o l o g y 7 2 ( 2 0 0 6 ) 7 0 – 7 9
+77
+inhibition of
+concentration-dependent
+intracellular dppii
+activity without affecting the ‘non-dppii’ dpp activity
+(fig. 5). maximal efﬁcacy was reached at 100 nm. upon
+incubation of intact u937 cells with uamc00039, intracellular
+dppii was inhibited with an ic50 in the same order of
+magnitude as that of both the puriﬁed enzyme and dppii in
+u937 cell lysates (supplementary data).
+effect of dppii and ‘non-dppii’ inhibition on cell death
+3.4.
+induction
+to ensure that sufﬁcient inhibitor concentrations accumu-
+lated in the dppii containing vesicles of u937 cells and pbmc, 1
+and 100 mm uamc00039 were used in the cell death assays.
+both concentrations of uamc00039 inhibited dppii activity of
+pbmc and u937 cells more than 90%. although uamc00039 is a
+reversible inhibitor (fig. 4b), dppii was inhibited over the
+entire duration of the cell death assays due to the high
+concentration and stability of the compound in medium.
+trypan blue exclusion experiments
+suggested that
+uamc00039 concentrations up to 100 mm were non-toxic for
+u937 cells for at least 48 h. based on neutral red uptake by
+pbmc and u937 cells, inhibition of dppii or dppiv/8/9 did not
+affect viability of the cells whereas neutral red uptake by
+positive controls (treated with etoposide, mg132, cda) was
+signiﬁcantly decreased (data not shown).
+based on annexinv/pi staining (fig. 6) and dna laddering
+experiments (supplementary data), inhibition of dppii (1 and
+100 mm uamc00039) or dppiv/8/9 (5 mm ab207) did not result
+in apoptosis or necrosis of u937 (n = 3) and pbmc (n = 3) cells
+after 24 h of
+incubation. concentrations up to 100 mm
+uamc00039 did not affect mg132-triggered cell death.
+transmission electron microscopic analysis of u937 cells
+treated with the dppii inhibitor uamc00039 did not reveal
+vacuolization, which is a marker of autophagy [21]. other
+morphological differences between control and treated cells
+could not be observed.
+based on total protein and cell count, cell proliferation was
+unaffected when dppii activity was inhibited (>90% inhibition)
+for up to 96 h. we did not observe any upregulation of ‘non-
+dppii’ dpp activity when dppii was inhibited (data not shown).
+4.
+discussion
+cellular dppiv-like enzymatic activity represents the sum of
+the hydrolytic activities of several dppiv activity and/or
+structure homologues (dash) including the plasma mem-
+brane localized dppiv and fapa as well as the intracellular
+proteases dppii, dpp8 and dpp9 [36]. experimental data on
+dppii activity in different leukocytes and during the cell cycle
+are scarce and primarily based on non-quantitative cyto-
+chemical studies [1–3]. in this study, we focussed on the
+involvement of dppii activity in leukocyte cell death. the
+pbmc showed considerable interindividual variability in
+enzyme activities and in addition resting lymphocytes were
+quite resistant to the induction of apoptosis. therefore, in
+addition to pbmc, we chose the monocytic u937 cells. we
+could not observe any changes in the speciﬁc dppii activity
+during proliferation of u937 cells which conﬁrms the sugges-
+tion that dppii plays a role in cell differentiation, rather than in
+cell proliferation [37–39]. however, dppii activity decreased
+after pma-stimulation in the u937 cells.
+based on intense cytochemical staining of dppii
+in
+transitional ameloblasts from decalciﬁed rat mandibles where
+apoptosis is thought to occur, dppii has also been linked to cell
+death [40]. furthermore, histochemical studies employing
+ovaries from cycling rats localized dppii primarily to atretic
+follicles and during pregnancy, when all developing follicles
+are targeted for atresia, ovarian levels of dppii are some three-
+to eight-fold higher [41]. however, the results of the present
+study demonstrate that induction of apoptosis in u937 cells
+had no effect on dppii speciﬁc activity.
+autophagy, a nonapoptotic type of cell death, has been
+described as a means to resist starvation by degrading
+intracellular components for reuse. since dppii is known to
+cleave short peptides such as tripeptides [10,41,42], it may also
+be involved in the recycling of amino acids. moreover, dppii is
+localized to acidic vesicles [43] and based on cytochemical
+localization experiments in rat incisor tooth ameloblasts,
+reaction products of dppii are present in phagosomes [40].
+autophagy is characterized by formation of numerous acidic
+vacuoles and therefore it is tempting to speculate that dppii is
+involved in the breakdown of peptides in autophagosomes.
+‘‘starvation’’ conditions are routinely used to trigger autop-
+hagy. however, dppii activity did not increase during starva-
+tion-induced autophagy of u937 cells. in the context of dppii’s
+catabolic function, we also investigated whether inhibition of
+the proteasome had an effect on dppii activity and whether
+combined dppii and proteasome inhibition affected cell death
+induction. yet, we demonstrated that dppii speciﬁc activity
+only increased when apoptosis evolved to secondary necrosis.
+in tissue culture, apoptotic cells can quickly proceed to
+secondary necrosis in the absence of uptake by phagocytic
+cells [44]. the increase in speciﬁc dppii activity was conﬁrmed
+using nigericine as a trigger for necrosis in u937 cells. a
+possible explanation for this observation may be that necrotic
+cells, due to leaky membranes, have minimal protein content
+[45].
+according to chiravuri et al. inhibition of dppii activity by
+the boronic acid derivative vbp causes apoptosis in quiescent
+lymphocytes in a process independent of dppiv [14]. recent
+counterscreening efforts demonstrated that the boronic acid
+derivatives (e.g. vbp), initially designed as dppiv inhibitors
+and also known to inhibit dppii and fap [19,46], in addition
+potently inhibit dpp8 and dpp9 [47]. moreover, in another
+study the nonselective vbp as well as a selective dpp8/9
+inhibitor inhibited proliferation and il-2 release in t cells [48],
+properties that were previously attributed to dppiv. dppii and
+dppiv selective compounds had no effect in these assays. the
+concentrations of vbp used by chiravuri at al. [14], largely
+exceeded the nanomolar ic50’s of all dpps [47,48], which
+raises the possibility that leukocyte apoptosis elicited by vbp
+was not due to dppii/qpp inhibition. the conditions used for
+measuring the qpp/dppii activity (ala-pro-afc ph 7.5) also
+did not exclude involvement of the new dpp members dpp8
+and/or 9.
+the availability of a highly potent and selective dppii
+inhibitor uamc00039 prompted us to further investigate the
+possible role of dppii activity in different forms of cell death.
+78
+b i o c h e m i c a l p h a r m a c o l o g y 7 2 ( 2 0 0 6 ) 7 0 – 7 9
+we showed that uamc00039 proved to be suitable for cell
+culture experiments. the selectivity of this inhibitor enabled
+us to differentiate between dppii and other related peptidases
+in the cell. the ic50 for intracellular dppii in intact u937 cells
+seemed even lower than the ic50 for puriﬁed dppii or dppii in
+cell lysates. possibly the basic inhibitor is enriched in the
+acidic vesicular compartment where dppii is located.
+viability tests, dna laddering assays and annexin v/pi-
+staining experiments showed that neither apoptosis nor
+necrosis occurred in u937-cells and pbmc after incubation
+with the dppii inhibitor. nonetheless, dppii activity was
+inhibited for >90%. as reported in literature, resting lympho-
+cytes showed a low sensitivity to the different apoptotic
+triggers [49–51].
+at present, there is a lack of good markers for biochemical
+detection of autophagy. a growing body of evidence indicates
+that mammalian microtubule-associated protein 1 light chain
+3 (lc3), in particular endogenous levels of the processed form
+lc3-ii, is a biomarker for autophagy because it functions as a
+structural component during autophagosome formation.
+however, due to low expression levels of the protein, lc3
+immunoblotting could not be used for u937 cells [52].
+transmission electron microscopy, currently the ‘‘golden
+standard’’ for monitoring autophagy both in tissue and
+cultured cells [53], did not reveal signs of autophagy in
+uamc00039 treated u937 cells. in conclusion, our results
+clearly demonstrate (1) that inhibition of dppii catalytic
+activity did not induce apoptosis, autophagy or necrosis in
+human leukocytes and (2) that dppii speciﬁc activity increased
+during necrosis, but not during apoptosis or autophagy.
+acknowledgements
+this work was supported by the fund for scientiﬁc research –
+flanders (belgium)
+(f.w.o.-vlaanderen). m.b. maes is a
+research assistant of the f.w.o.-vlaanderen. w. martinet
+and p. van der veken are postdoctoral fellows of the f.w.o.-
+vlaanderen.
+appendix a. supplementary data
+supplementary data associated with this article can be
+found, in the online version, at doi:10.1016/j.bcp.2006.04.009.
+r e f e r e n c e s
+[1] lojda z. dipeptidyl peptidases of human lymphocytes.
+czech med 1988;11:181–94.
+[2] invernizzi r, bertolino g, girino m, perseghin p, michienzi
+m, nano r. cytochemistry of dipeptidylaminopeptidase iv
+and ii in normal and neoplastic lymphoid cells. blut
+1985;50:277–85.
+[3] khalaf mr, bevan pc, hayhoe fg. comparative
+cytochemical study of dipeptidyl aminopeptidase (dap) ii
+and iv normal and malignant haemic cells. j clin pathol
+1986;39:891–6.
+lymphocytic leukaemia with special reference to dpp ii
+assessment. neoplasma 1985;32:737–40.
+[5] klener p, lojda z, haber j, kvasnicka j. possible prognostic
+signiﬁcance of the assessment of dipeptidylpeptidase ii in
+peripheral blood lymphocytes of patients with chronic
+lymphocytic leukemia. neoplasma 1987;34:581–6.
+[6] danilov av, klein ak, lee hj, baez dv, huber bt.
+differential control of g0 programme in chronic
+lymphocytic leukaemia: a novel prognostic factor. br j
+haematol 2005;128:472–81.
+[7] nagatsu t, sakai t, kojima k, araki e, sakakibara s,
+fukasawa k, et al. a sensitive and speciﬁc assay for dapii in
+serum and tissues by liquid chromatography-ﬂuorometry.
+anal biochem 1985;147:80–5.
+[8] komatsu m, urade m, yamaoka m, fukasawa k, harada m.
+alteration in dipeptidyl peptidase activities in cultured
+human carcinoma cells. j natl cancer inst 1987;78:863–8.
+[9] kojima k, mihara r, sakai t, togari a, matsui t, shinpo k,
+et al. serum activities of dipeptidyl-aminopeptidase ii and
+dipeptidyl-aminopeptidase iv in tumor-bearing animals
+and in cancer patients. biochem med metab biol 1987;37:35–
+41.
+[10] brandt i, lambeir am, maes mb, scharpe´ s, de meester i.
+peptide substrates of dipeptidyl peptidases. adv exp med
+biol; in press.
+[11] maes mb, lambeir am, van der veken p, de winter b,
+augustyns k, scharpe´ s et al., in vivo effects of a potent,
+selective dppii inhibitor. uamc00039 is a possible tool for
+the elucidation of the physiological function of dppii. adv
+exp med biol; in press.
+[12] lambeir am, durinx c, scharpe s, de meester i. dipeptidyl-
+peptidase iv from bench to bedside: an update on
+structural properties, functions, and clinical aspects of the
+enzyme dpp iv. crit rev clin lab sci 2003;40:209–94.
+[13] park je, lenter mc, zimmermann rn, garin-chesa p, old lj,
+rettig wj. fibroblast activation protein, a dual speciﬁcity
+serine protease expressed in reactive human tumor
+stromal ﬁbroblasts. j biol chem 1999;274:36505–12.
+[14] chiravuri m, schmitz t, underwood r, yardley k, dayal y,
+huber bt. a novel apoptotic pathway in quiescent
+lymphocytes identiﬁed by inhibition of a post-proline
+cleaving aminodipeptidase: a candidate target protease,
+quiescent cell proline dipeptidase. j immunol
+1999;163:3092–9.
+[15] araki h, li y, yamamoto y, haneda m, nishi k, kikkawa r,
+et al. puriﬁcation, molecular cloning, and
+immunohistochemical localization of dipeptidyl peptidase
+ii from the rat kidney and its identity with quiescent cell
+proline dipeptidase. j biochem (tokyo) 2001;129:279–88.
+[16] leiting b, pryor kd, wu jk, marsilio f, patel ra, craik cs,
+et al. catalytic properties and inhibition of proline-speciﬁc
+dipeptidyl peptidases ii, iv and vii. biochem j 2003;371:525–
+32.
+[17] maes mb, lambeir am, gilany k, senten k, van der veken
+p, leiting b, et al. kinetic investigation of human dipeptidyl
+peptidase ii mediated hydrolysis of dipeptide derivatives
+and its identiﬁcation as quiescent cell proline dipeptidase/
+dipeptidyl peptidase 7. biochem j 2005;386:315–24.
+[18] mcintyre ja, castaner j. talabostat. oncolytic,
+hematopoietic agent, dipeptidyl -peptidase iv (cd26)
+inhibitor, ﬁbroblast activation protein inhibitor. drugs
+future 2004;29:882–6.
+[19] jones b, adams s, miller gt, jesson mi, watanabe t,
+wallner bp. hematopoietic stimulation by a dipeptidyl
+peptidase inhibitor reveals a novel regulatory mechanism
+and therapeutic treatment for blood cell deﬁciencies. blood
+2003;102:1641–8.
+[4] klener p, lojda z, haber j, kvasnicka j, cmunt e. problems
+[20] senten k, van der veken p, de meester i, lambeir am,
+with prognostic criteria in patients with chronic
+scharpe´ s, haemers a, et al. gamma-amino-substituted
+b i o c h e m i c a l p h a r m a c o l o g y 7 2 ( 2 0 0 6 ) 7 0 – 7 9
+79
+analogues of 1-[(s)-2, 4-diaminobutanoyl] piperidine as
+highly potent and selective dipeptidyl peptidase ii
+inhibitors. j med chem 2004;47:2906–16.
+[21] guimaraes ca, linden r. programmed cell death. apoptosis
+and alternative deathstyles. eur j biochem 2004;271:1638–50.
+[22] belyaev a, zhang x, augustyns k, lambeir am, de meester
+i, vedernikova i, et al. structure-activity relationship of
+diaryl phosphonate esters as potent irreversible dipeptidyl
+peptidase iv inhibitors. j med chem 1999;42:1041–52.
+[23] de meester i, vanhoof g, lambeir am, scharpe´ s. use of
+immobilized adenosine deaminase (ec 3. 5. 4. 4) for the
+rapid puriﬁcation of native human cd26/dipeptidyl
+peptidase iv (ec 3. 4. 14. 5). j immunol methods
+1996;189:99–105.
+[24] bradford mm. a rapid and sensitive method for the
+quantitation of microgram quantities of protein utilizing
+the principle of protein-dye binding. anal biochem
+1976;72:248–54.
+[25] abbott ca, yu dm, woollatt e, sutherland gr, mccaughan
+gw, gorrell md. cloning, expression and chromosomal
+localization of a novel human dipeptidyl peptidase (dpp) iv
+homolog, dpp8. eur j biochem 2000;267:6140–50.
+[26] ajami k, abbott ca, mccaughan gw, gorrell md.
+dipeptidyl peptidase 9 has two forms, a broad tissue
+distribution, cytoplasmic localization and dpiv-like
+peptidase activity. biochim biophys acta 2004;1679:18–28.
+[27] leatherbarrow rj. grafit version 5, erithacus software ltd.,
+horley, uk, 2001.
+[28] murphy dj. determination of accurate ki values for tight-
+binding enzyme inhibitors: an in silico study of
+experimental error and assay design. anal biochem
+2004;327:61–7.
+[37] cunningham df, o’connor b. proline speciﬁc peptidases.
+biochim biophys acta 1997;1343:160–86.
+[38] sannes pl, schoﬁeld bh, mcdonald df. histochemical
+localization of cathepsin b, dipeptidyl peptidase i, and
+dipeptidyl peptidase ii in rat bone. j histochem cytochem
+1986;34:983–8.
+[39] struckhoff g. dipeptidyl peptidase ii in astrocytes of the rat
+brain. meningeal cells increase enzymic activity in
+cultivated astrocytes. brain res 1993;620:49–57.
+[40] smid jr, monsour pa, rousseau em, young wg.
+cytochemical localization of dipeptidyl peptidase ii activity
+in rat incisor tooth ameloblasts. anat rec 1992;233:493–503.
+[41] eisenhauer da, mcdonald jk. a novel dipeptidyl peptidase
+ii from the porcine ovary. puriﬁcation and characterization
+of a lysosomal serine protease showing enhanced
+speciﬁcity for prolyl bonds. j biol chem 1986;261:8859–65.
+[42] mentlein r, struckhoff g. puriﬁcation of two dipeptidyl
+aminopeptidases ii from rat brain and their action on
+proline-containing neuropeptides. j neurochem
+1989;52:1284–93.
+[43] chiravuri m, agarraberes f, mathieu sl, lee h, huber bt.
+vesicular localization and characterization of a novel post-
+proline-cleaving aminodipeptidase, quiescent cell proline
+dipeptidase. j immunol 2000;165:5695–702.
+[44] muppidi j, porter m, siegel rm. measurement of apoptosis
+and other forms of cell death.
+in: coligan je, bierer be,
+margulies dh, shevach em, strober w, editors. current
+protocols in immunology. john wiley & sons inc.; 2004.
+suppl 59, 3.17.
+[45] darzynkiewicz z, bruno s, del bino g, gorczyca w, hotz
+ma, lassota p, et al. features of apoptotic cells measured by
+ﬂow cytometry. cytometry 1992;13:795–808.
+[29] usami i, kubota m, bessho r, kataoka a, koishi s,
+[46] coutts sj, kelly ta, snow rj, kennedy ca, barton rw,
+watanabe k, et al. role of protein tyrosine phosphorylation
+in etoposide-induced apoptosis and nf-kappa b activation.
+biochem pharmacol 1998;55:185–91.
+[30] meriin ab, gabai vl, yaglom j, shifrin vi, sherman my.
+proteasome inhibitors activate stress kinases and induce
+hsp72. diverse effects on apoptosis. j biol chem
+1998;273:6373–9.
+[31] mu¨ hl h, nold m, chang jh, frank s, eberhardt w,
+pfeilschifter j. expression and release of chemokines
+associated with apoptotic cell death in human
+promonocytic u937 cells and peripheral blood
+mononuclear cells. eur j immunol 1999;29:3225–35.
+[32] borner mm, joncourt f, hotz ma. similarity of apoptosis
+induction by 2-chlorodeoxyadenosine and cisplatin in
+human mononuclear blood cells. br j cancer 1997;76:1448–
+54.
+[33] warny m, kelly cp. monocytic cell necrosis is mediated by
+potassium depletion and caspase-like proteases. am j
+physiol 1999;276:c717–24.
+[34] munafo db, colombo mi. a novel assay to study autophagy:
+adams j, et al. structure–activity relationships of boronic
+acid inhibitors of dipeptidyl peptidase iv. 1. variation of the
+p2 position of xaa-boropro dipeptides. j med chem
+1996;39:2087–94.
+[47] shreder kr, wong ms, corral s, yu z, winn dt, wu m, et al.
+boro-norleucine as a p1 residue for the design of selective
+and potent dpp7 inhibitors. bioorg med chem lett
+2005;15:4256–60.
+[48] lankas gr, leiting b, roy rs, eiermann gj, beconi mg, biftu
+t, et al. dipeptidyl peptidase iv inhibition for the
+treatment of type 2 diabetes: potential importance of
+selectivity over dipeptidyl peptidases 8 and 9. diabetes
+2005;54:2988–94.
+[49] wesselborg s, janssen o, kabelitz d. induction of
+activation-driven death (apoptosis) in activated but not
+resting peripheral blood t cells. j immunol 1993;150:4338–
+45.
+[50] nishioka wk, welsh rm. susceptibility to cytotoxic t
+lymphocyte-induced apoptosis is a function of the
+proliferative status of the target. j exp med 1994;179:769–74.
+regulation of autophagosome vacuole size by amino acid
+deprivation. j cell sci 2001;114:3619–29.
+[51] yusuf i, fruman da. regulation of quiescence in
+lymphocytes. trends immunol 2003;24:380–6.
+[35] pace e, melis m, siena l, bucchieri f, vignola am, proﬁta m,
+[52] tanida i, minematsu-ikeguchi n, ueno t, kominami e.
+et al. effects of gemcitabine on cell proliferation and
+apoptosis in non-small-cell lung cancer (nsclc) cell lines.
+cancer chemother pharmacol 2000;46:467–76.
+[36] sedo a, busek p, scholzova e, malik r, vlasicova k,
+janackova s, et al. ‘dipeptidyl peptidase-iv activity and/or
+structure homologs’ (dash) in growth-modulated glioma
+cell lines. biol chem 2004;385:557–9.
+lysosomal turnover, but not a cellular level, of endogenous
+lc3 is a marker for autophagy. autophagy 2005;1:84–91.
+[53] martinet w, de meyer gry, andries l, herman ag, kockx
+mm. in situ detection of starvation-induced autophagy. j
+histochem cytochem 2006;54:85–96.
+[54] van der veken p, soroka a, brandt i, maes mb, lambeir am,
+chen x et al., in preparation.

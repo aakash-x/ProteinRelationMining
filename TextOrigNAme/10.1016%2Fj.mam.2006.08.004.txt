@@ -1,0 +1,455 @@
+molecular aspects of medicine 27 (2006) 483–494
+www.elsevier.com/locate/mam
+review
+autophagy in organelle homeostasis: peroxisome
+turnover
+iryna monastyrska, daniel j. klionsky *
+life sciences institute, and departments of molecular, cellular and developmental biology
+and biological chemistry, university of michigan, ann arbor, mi 48109, usa
+abstract
+when cells are confronted with an insuﬃcient supply of nutrients in their extracellular ﬂuid,
+they may begin to cannibalize some of their internal proteins as well as whole organelles for
+reuse in the synthesis of new components. this process is termed autophagy and it involves the
+formation of a double-membrane structure within the cell, which encloses the material to be
+degraded into a vesicle called an autophagosome. the autophagosome subsequently fuses with
+a lysosome/vacuole whose hydrolytic enzymes degrade the sequestered organelle. degradation
+of peroxisomes is a speciﬁc type of autophagy, which occurs in a selective manner and has
+been mostly studied in yeast. recently, it was reported that a similar selective process of
+autophagy occurs in mammalian cells with proliferated peroxisomes. here we discuss charac-
+teristics of the autophagy of peroxisomes in mammalian cells and present a comprehensive
+model of their likely mechanism of degradation on the basis of known and common elements
+from other systems.
+ó 2006 elsevier ltd. all rights reserved.
+keywords: lysosome; pexophagy; protein transport; vacuole; yeast
+* corresponding author. tel.: +1 734 615 6556; fax: +1 734 763 6492.
+e-mail address: klionsky@umich.edu (d.j. klionsky).
+0098-2997/$ - see front matter ó 2006 elsevier ltd. all rights reserved.
+doi:10.1016/j.mam.2006.08.004
+484
+i. monastyrska, d.j. klionsky / molecular aspects of medicine 27 (2006) 483–494
+contents
+1. characteristic of peroxisome homeostasis. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 484
+1.1. morphology and function of peroxisomes . . . . . . . . . . . . . . . . . . . . . . . 484
+peroxisome turnover. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 484
+1.2.
+selectivity in the autophagy of peroxisomes . . . . . . . . . . . . . . . . . . . . . . 485
+1.3.
+2. molecular mechanism of peroxisome autophagy . . . . . . . . . . . . . . . . . . . . . . . . 486
+2.1. atg proteins involved in pexophagy . . . . . . . . . . . . . . . . . . . . . . . . . . . 486
+2.2.
+initiation of pexophagy. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 486
+2.3. origin of the sequestering membranes. . . . . . . . . . . . . . . . . . . . . . . . . . 487
+2.4. mechanism of peroxisome targeting for degradation. . . . . . . . . . . . . . . . 488
+2.5. molecular model of pexophagy: steps and protein complexes. . . . . . . . . . 489
+involvement of the cytoskeleton in pexophagy . . . . . . . . . . . . . . . . . . . . 491
+2.6.
+3. concluding remarks and perspectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 492
+acknowledgements. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 492
+references . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 492
+1. characteristic of peroxisome homeostasis
+1.1. morphology and function of peroxisomes
+peroxisomes are organelles found in nearly all eukaryotic cells. these organelles
+are usually elliptically shaped and have a diameter between 0.25 and 1 lm. in some
+types of tissues peroxisomes are tubularly shaped and connected to each other in a
+peroxisomal network, e.g. in rat hepatocytes (yamamoto and fahimi, 1987). they
+are an intracellular compartment involved in hydrogen peroxide metabolism and
+contain at least one hydrogen peroxide-producing enzyme along with catalase that
+is needed to eliminate this toxic compound.
+in mammals, functional peroxisomes are required for a wide range of metabolic
+pathways, such as b- and a-oxidation of fatty acids, catabolism of amino acids, poly-
+amines, and purines, as well as the synthesis of plasmalogens and cholesterol. a
+defect in peroxisomal function or formation causes several severe defects in humans.
+this is well demonstrated by human genetic disorders such as zellweger syndrome,
+neonatal adrenoleukodystrophy, and infantile refsum disease, which are character-
+ized by mental retardation, severe neurologic, hepatic and renal abnormalities, and
+an early death (small et al., 1988).
+1.2. peroxisome turnover
+the size, number and enzyme content of peroxisomes can be very much inﬂuenced
+by the environment of the cell. for example peroxisomes are most abundant in tis-
+sues with active lipid metabolism, such as liver. there may be thousands of peroxi-
+somes per cell in the mouse liver when animals are fed for a week with cloﬁbrates,
+e.g. phthalate ester (dehp). after withdrawal of the proliferators in 2 weeks, the
+i. monastyrska, d.j. klionsky / molecular aspects of medicine 27 (2006) 483–494
+485
+number of peroxisomes dramatically decreases in rat liver cells (reddy et al., 1974;
+locci cubeddu et al., 1985; yokota, 1993). apparently the massive proliferation of
+peroxisomes has necessitated the cell’s maintenance of regulatory pathways to pre-
+cisely control organelle activity and abundance. what are the mechanisms underly-
+ing this homeostatic process?
+previous reports on peroxisome turnover in insect fat bodies and rat liver describe
+a mechanism where the peroxisomal matrix enzymes are directly released to the cyto-
+plasm in order to be decomposed (locke and mcmahon, 1971; yokota et al., 2001).
+in contrast, other studies propose that the decay of peroxisomes is due to lysosomal
+degradation (svoboda and azarnoﬀ, 1967; yokota, 2003). in the work by svoboda
+and co-workers, the catalase that accounts for 40% of the total peroxisomal enzy-
+matic activity pool, was used as a marker to monitor peroxisomes, and they show
+that its removal is dependent on lysosomal proteolysis. similarly, in 2003 yokota
+et al. report that during recovery from peroxisomal proliferator in the presence of
+the proteinase inhibitor leupeptin, peroxisomes are detected inside membranous
+structures, an observation that suggests autophagic degradation.
+the latest studies of iwata et al. (2006) show that removal of excess peroxisomes
+after dehp withdrawal is inhibited in the liver of atg7-deﬁcient mice. examination
+by western blot shows that the level of peroxisomal thiolase (pt) and peroxisomal
+bifunctional protein (bf) remain constant in the conditional atg7 mutant, whereas
+in the wild type situation the levels are reduced. also, accumulation of peroxisomes
+in the absence of atg7 is revealed as numerous ﬂuorescent dots with anti-pt anti-
+bodies; peroxisomes are removed under the same conditions in the wild type mouse.
+conversion of the cytosolic form of lc3 (lc3-i) to the membrane-bound form
+(lc3-ii) is commonly used as a tracer of autophagosome formation. this process
+is apparently impaired in the atg7 conditional mouse liver because predominantly
+the lc3-i form accumulates. the lc3 modiﬁcation assay result was conﬁrmed by
+electron microscopy. when the protease inhibitor leupeptin was injected after 1 week
+of discontinuation of dehp to wild type mice, the sequestered peroxisomes accumu-
+late, and this mode of degradation morphologically resembles macroautophagy.
+however, under the same conditions in the atg7 mutant, sequestered peroxisomes
+are not detected, in agreement with the fact that atg7 is essential for autophagosome
+formation in autophagy (iwata et al., 2006). conversely, another study using cho
+cells indicated that peroxisome turnover occurs via microautophagy (pan et al.,
+2005).
+1.3. selectivity in the autophagy of peroxisomes
+interestingly, only proliferated peroxisomes are speciﬁcally removed for degrada-
+tion. the study by yokota et al. shows that during recovery from proliferator in the
+conditions when autophagic proteolysis is inhibited, only low density peroxisomes,
+that correspond to those induced during drug treatment, are trapped inside the lyso-
+somes. also, another study shows that the kinetics of degradation of pt and bf dif-
+fer from those of non-peroxisomal proteins (iwata et al., 2006). therefore,
+autophagic peroxisome turnover in mammalian cells might proceed in a selective
+486
+i. monastyrska, d.j. klionsky / molecular aspects of medicine 27 (2006) 483–494
+manner. but despite multiple attempts to study peroxisomal turnover in mammals,
+apart from some morphological events, not much is known yet about the molecular
+basis of this process.
+2. molecular mechanism of peroxisome autophagy
+quite a bit of progress has been made in studies of yeast peroxisome autophagy in
+recent years. yeast cell adjust their peroxisome level in response to variation in nutri-
+tional sources. for instance when cells are grown in conditions (e.g., methanol, alk-
+anes, urate, primary amines or oleate) requiring peroxisomal function, peroxisomes
+are massively proliferated. after a shift back to glucose the peroxisomes are
+degraded via autophagy. this process of peroxisome degradation in yeast is called
+pexophagy. pexophagy has been reported to operate in a selective way and two pos-
+sible modes of pexophagy have been described. macroautophagy (termed as mac-
+ropexophagy)
+individual
+organelles via sequestration and subsequent fusion of the sequestered compartment
+with the vacuole (fig. 1). in microautophagy (micropexophagy), a cluster of peroxi-
+somes is directly internalized by the vacuole without prior sequestration. both path-
+ways result in the degradation of peroxisomes within the lysosome by proteolysis.
+sequential and selective degradation of
+involves
+2.1. atg proteins involved in pexophagy
+many of the proteins involved in pexophagy have been identiﬁed. genetic analy-
+ses in various yeast species has resulted in the cloning of over 25 genes involved in
+autophagy-related pathways. the genes that encode these proteins were initially indi-
+cated as apg, aut, cvt, gsa, pag, paz, pdd and pdg, but they were recently
+renamed atg (autophagy related) genes (klionsky et al., 2003).
+most atg proteins are clearly involved in the formation of sequestering vesicles
+during macroautophagy of peroxisomes, whereas some of them are essential for
+fusion of the vesicles with the vacuole/lysosome and actual degradation inside the
+lysosome. much less is known about the exact role of atg proteins in micropexo-
+phagy. it has been proposed that some of these proteins are required speciﬁcally
+for membrane formation during the microautophagic process. the resulting mem-
+branous structure is called the micropexophagic apparatus (mukaiyama et al.,
+2004) and it is necessary for closing up vacuolar protrusions around the peroxisomes
+in order to complete the sequestration process.
+2.2. initiation of pexophagy
+how are nutritional signals sensed to initiate pexophagy? in yeast, for example,
+depletion of nitrogen inactivates the tor protein kinase, which operates as an inhib-
+itor of autophagy; thus, the inhibition of tor kinase induces autophagy. it is not
+clear what regulatory mechanism is upstream of tor. however, in mammalian cells
+mtor is regulated by a class i phosphatidylinositol (ptdins) 3-kinase complex. in
+i. monastyrska, d.j. klionsky / molecular aspects of medicine 27 (2006) 483–494
+487
+fig. 1. selective degradation of peroxisomes via macropexophagy and micropexophagy. morphological
+events. macropexophagy starts at a single peroxisome. this process involves targeting of a peroxisome for
+initial membrane nucleation, sequestration—formation of autophagosomes—and hydrolytic degradation
+inside the vacuole/lysosome. in contrast, during micropexophagy a cluster of peroxisomes without prior
+sequestration is directly engulfed by vacuolar protrusions. these peroxisomes are released and degraded in
+the vacuolar lumen similar to the last stages of macropexophagy. p, peroxisome.
+methylotrophic yeast pexophagy is activated when yeast are moved from growth on
+peroxisome-requiring conditions to glucose or ethanol. nothing is known so far
+regarding the signaling of this pathway.
+2.3. origin of the sequestering membranes
+in order to be degraded via macroautophagy, peroxisomes ﬁrst have to be isolated
+by the membranous layers that form an autophagosome. for this to occur, a lot of
+membranes—or the structural components of membrane, phospholipids—have to be
+transported to the place where this process is initiated. so far, pre-existing mem-
+branes that are involved in autophagosome formation have not been found. instead
+mitochondria are often seen in close association with sequestering membranes during
+the initial stages of pexophagy in yeast (dunn et al., 2005). the mitochondria may
+play a role as a source of phospholipids in the formation of sequestering membranes.
+the autophagy factor atg9 is a transmembrane protein essential for sequestering
+membrane formation, and is shown to localize to the mitochondria in yeast (reggi-
+ori et al., 2005b). the s. cerevisiae atg9 cycles between mitochondria, cytosol and
+488
+i. monastyrska, d.j. klionsky / molecular aspects of medicine 27 (2006) 483–494
+autophagosomes in the membrane/lipid bound form. in this way phospholipids or
+whole vesicles are transported to the autophagosome formation site. in another yeast
+species, p. pastoris, atg9 is proposed to localize to peripheral membranous struc-
+tures in close proximity to the mitochondria and the endoplasmic reticulum (er),
+and it moves to the sequestering membranes when pexophagy is induced (chang
+et al., 2005). a key protein implicated in autophagosome formation is atg8, which
+can occur in two states, soluble and membrane associated. its phospholipid
+association (atg8 is conjugated to phosphatidylethanolamine; (ichimura et al.,
+2002)), cleavage and subsequent rebinding is proposed to play a role in the arrange-
+ment of sequestering membranes (kirisako et al., 2000). in yeast, atg8 and atg9
+may be key elements bringing membranes in close vicinity to the vacuolar pre-
+autophagosomal structure/phagophore assembly site (pas), where autophagosomes
+are nucleated. in higher eukaryotes, structures reminiscent of the pas have been
+seen but the mammalian counterparts of atg9 localize to the er. em studies suggest
+that the er is an origin of the autophagosomes in mammalian cells (mizushima
+et al., 2001). in yeast, mutations impairing the integrity of the er or golgi block
+bulk and selective autophagy (reggiori et al., 2004). therefore, the er (and
+er derived structures) and mitochondria are the best candidates as possible
+sources of lipids or lipid bilayers for building and maintenance of autophagic
+membranes.
+2.4. mechanism of peroxisome targeting for degradation
+the peroxisomal membrane protein pex14 in yeast, as well as its counterpart in
+higher eukaryotes, is a key component of the peroxisomal import machinery and
+may be the initial docking site for the targeting of sequestering membranes. for ini-
+tiation of pexophagy, peroxisomes require a speciﬁc tag on the organelle, which
+serves as a target for the sequestering membrane. in methylotrophic yeast, the per-
+oxisomal membrane-bound peroxins pex14 and pex3 play a role in initiation of mac-
+ropexophagy (bellu et al., 2001; bellu et al., 2002; veenhuis et al., 2003). pex14 is
+involved in the import of matrix proteins into peroxisomes. together with other per-
+oxins (pex13, pex17) it forms a docking complex at the peroxisomal surface for the
+soluble protein receptor pex5. in pex14 null mutants of h. polymorpha, the defect
+in the matrix protein import machinery, and hence peroxisome formation, can be
+largely suppressed by overproduction of pex5. however, upon induction of macro-
+pexophagy in these cells, these organelles are protected from degradation. moreover,
+detailed electron microscopy analysis revealed that sequestration of peroxisomes is
+also not observed. based on these observations, it was concluded that pex14 is essen-
+tial for macropexophagy and is involved in an early step prior to initiation of seques-
+tration (bellu et al., 2001).
+pex3 also plays a role in the formation and maintenance of peroxisomal mem-
+branes (baerends et al., 2000). at the onset of macropexophagy, pex3 is rapidly
+removed from the peroxisome membranes (bellu et al., 2002). strains that fail to
+remove pex3 are blocked in macropexophagy, indicating that not the presence but
+rather the removal of pex3 is essential for macropexophagy.
+i. monastyrska, d.j. klionsky / molecular aspects of medicine 27 (2006) 483–494
+489
+it is suggested (hazra et al., 2002) that pex3 connects two known peroxisome
+membrane bound protein complexes, namely the receptor docking site (pex13,
+pex14 and pex17) and a ring ﬁnger protein complex (pex2, pex10 and pex12) to form
+a large supercomplex (fig. 2). also, pex8 may play a role in the formation of these
+supercomplexes (agne et al., 2003). data from hazra et al. (2002) indicate that pex3
+connects these two sub-complexes. therefore, removal of pex3 at the onset of mac-
+ropexophagy will disrupt the complex and hence may lead to a block of further
+matrix protein import
+in the peroxisomes that are destined for degradation
+(fig. 3). also, dissociation of the supercomplex may result in exposure of the n-ter-
+minal domain of pex14, which has been shown to be essential for macropexophagy
+(bellu et al., 2001). this domain may be recognized by a yet unknown protein (per-
+haps atg11) to tag the organelle for sequestration by the autophagosome.
+2.5. molecular model of pexophagy: steps and protein complexes
+binding of atg11 to atg19 marks one of the ﬁrst steps of cargo recognition in one
+of the selective types of autophagy, the cytoplasm to vacuole targeting (cvt) path-
+way, in yeast. the receptor protein atg19 binds to the propeptide of the ape1 pre-
+cursor. interaction of cargo-bound atg19 with atg11 is required for its pas
+localization (scott et al., 2001; shintani et al., 2002). in pexophagy, the cargo selec-
+tion mechanism may be organized in a similar way, as atg11 is required for pexo-
+phagy in yeast; however, s. cerevisiae atg19 mutants are not blocked in
+peroxisome degradation. hence, another protein is likely to be involved in recogni-
+tion of peroxisomes by autophagosomes in yeast.
+the pas most likely carries out some type of recruitment process to organize the
+atg proteins involved in the initial steps of autophagy. the exact biochemical com-
+position of the pas is not known yet. this structure contains at least one protein
+that has typical features of integral membrane proteins, atg9, and it might harbor
+phospholipids because it contains a functional ptdins 3-kinase complex; however,
+there is no direct evidence for this.
+generally three major sets of proteins comprise the pas; the atg1-atg13 and
+ptdins 3-kinase complexes, and the atg12–atg5-atg16 proteins. initially, these pro-
+teins are probably independently targeted to the pas. the ptdins 3-kinase complex
+phosphorylates phosphatidylinositol (pi) that allows binding of atg18, and together
+with atg1 and atg9 they recruit atg2. the latter plays a role in the interaction of
+atg18 with atg9. next, atg18 and atg2 together with atg1-atg13 facilitate release
+of atg9 from the pas. this step is important
+the
+autophagosomes.
+for the completion of
+atg12 conjugates to atg5 by a ubiquitination-like reaction. initially atg7 acti-
+vates atg12, which is subsequently transferred to atg10. atg10 serves as a functional
+equivalent of e2 enzymes, although it is not a homologue. atg5 associates with
+atg16, a small coiled-coil protein, whose subsequent oligomerization serves as a link
+in the formation of the atg12–atg5-atg16 multimeric protein complex. the oligo-
+merization step has been shown to be necessary for proper atg12–atg5 function
+(kuma et al., 2002). immediately before or after completion of the autophagosome,
+490
+i. monastyrska, d.j. klionsky / molecular aspects of medicine 27 (2006) 483–494
+fig. 2. targeting of peroxisome for degradation. model of molecular mechanism underlying initiation of
+pexophagy. (a) by docking to the peroxisomal membrane and subsequent translocation, pex5 shuttles
+between the cytosol and matrix, taking newly synthesized peroxisomal proteins into the lumen. the
+peroxisomal membrane protein pex3 bridges the docking peroxisomal complex (pex13, pex14 and pex17)
+and the putative translocation site (pex12, pex10 and pex2). in this way peroxisome matrix proteins are
+imported and the peroxisome is functional. at this stage pex3 presumably shields pex14. (b) when
+peroxisomes are no longer functional, the docking and translocation complexes are apart. pex3 is
+removed, thus exposing pex14 for targeting by a hypothetical receptor (atgx). via atgx and atg11 the
+peroxisome is connected to the other atg components, allowing autophagic sequestration to occur.
+the atg12–atg5 conjugate dissociates from the autophagosomal membrane (mizu-
+shima et al., 2001).
+atg9 is important for atg12–atg5 conjugate formation and these events facilitate
+atg8 conjugation to pe and recruitment to the pas. the membrane-recruited form
+of atg8 is lipidated. the lipidation process involves speciﬁc posttranslational mod-
+iﬁcations of the protein via a process that shares features with the ubiquitin conju-
+gation mechanism (kim et al., 2001; kirisako et al., 2000). lipidation requires
+cleavage of the arginine residue located at the extreme c terminus, which is removed
+i. monastyrska, d.j. klionsky / molecular aspects of medicine 27 (2006) 483–494
+491
+fig. 3. molecular mechanism of autophagosome formation. a single import-incompetent peroxisome is
+targeted for degradation. peroxisomal membrane complex modiﬁcations from import–competent to
+incompetent allow docking of sequestering membranes to the peroxisome. this process occurs through
+multiple sequential steps carried out by atg proteins. the atg1-atg13 and ptdins 3-kinase complexes are
+involved in forming a scaﬀold that allows for the initiation of autophagosome formation. atg8 and atg9
+are involved in the building of membranes by bringing lipids by recruitment and subsequent release. atg9
+cycles to the mitochondria, which possibly is a donor of lipids. atg8 is involved in the recruitment of the
+atg12–atg5-atg16 complex, which forms a coat that might be necessary for membrane curvature. prior to
+completion of the autophagosome most of the atg proteins dissociate from the membrane.
+by the cysteine protease atg4. the exposed c-terminal glycine residue is subse-
+quently covalently linked to pe. this process is catalyzed by atg7 (a protein that
+is homologous to the e1-ubiquitin activating enzyme) and atg3 (functions similar
+to e2-ubiquitin conjugating enzymes) (ichimura et al., 2002) and leads to the recruit-
+ment of atg8–pe to the pas. during autophagy, atg8 is initially localized on both
+the outer and inner membrane of the autophagosome. after completion of the auto-
+phagosome, atg8 molecules that are associated with the inner autophagosomal
+membrane surface are, together with the autophagosomal contents, degraded in
+the vacuole. the remaining fraction of atg8 that is associated with the outer auto-
+phagosomal membrane is recycled to the pas after a second cleavage by atg4 to
+remove it from pe.
+2.6. involvement of the cytoskeleton in pexophagy
+studies on mammalian cells oﬀer some information concerning the eﬀects of a ser-
+ies of inhibitors on cytoskeleton function in autophagy. for example, in rat normal
+kidney epithelial cells the cytochalasins, microﬁlament depolymerizing agents, inter-
+fere with formation of the autophagosomes (aplin et al., 1992), whereas microtubule
+inhibitors block fusion of the autophagosome with the lysosome in both rat hepato-
+cytes and normal rat kidney epithelial cells (aplin et al., 1992; seglen et al., 1996).
+however, microtubules in yeast are not essential for autophagy (kirisako et al.,
+1999; reggiori et al., 2005a). in contrast, the actin cytoskeleton is required for
+two types of selective autophagy including pexophagy (reggiori et al., 2005a).
+this work shows that the cycling of atg9, which is needed for autophagosomes
+492
+i. monastyrska, d.j. klionsky / molecular aspects of medicine 27 (2006) 483–494
+formation, is dependent on functional f-actin. however, it still remains unclear
+exactly how actin plays a role in the autophagy of peroxisomes.
+3. concluding remarks and perspectives
+how organelles are degraded in mammalian cells is not well characterized but
+autophagy is the only mechanism with the capacity to sequester entire membrane
+compartments. recent reports indicate that peroxisome autophagy is a selective pro-
+cess. interestingly, the peroxisome appears to be the only organelle for which there is
+clear evidence of selective autophagy in mammalian cells. at present there is a rough
+idea about the mechanistic basis of peroxisome turnover in mammals, based primar-
+ily on morphological studies, but little information about the molecular mechanism.
+atg7 is the ﬁrst molecular factor discovered in mammalian pexophagy. in yeast
+pexophagy this protein works in a complex that resembles the ubiquitin conjugation
+machinery. presumably other components of this complex are also involved in mam-
+malian pexophagy. one of them, atg8, has at least three mammalian homologues
+and all of them have been reported to be essential for autophagy.
+autophagy appears to be a highly conserved process from unicellular to multice-
+lullar eukaryotes. although many autophagic factors identiﬁed in yeast are also
+found in mammals, atg proteins speciﬁc for selective autophagy in yeast do not have
+homologues in higher eukaryotes. how the substrate speciﬁcity is determined and
+the molecular mechanism of selectivity is still unclear. thus, there is still much to
+be understood about the mechanism of pexophagy.
+acknowledgements
+the authors thank dr. ida van der klei for helpful discussions. this work was
+supported by the national institutes of health public health service grant
+gm53396 (to d.j.k.).
+references
+agne, b., meindl, n.m., niederhoﬀ, k., einwachter, h., rehling, p., sickmann, a., meyer, h.e.,
+girzalsky, w., kunau, w.h., 2003. pex8p: an intraperoxisomal organizer of the peroxisomal import
+machinery. mol. cell. 11, 635–646.
+aplin, a., jasionowski, t., tuttle, d.l., lenk, s.e., dunn jr., w.a., 1992. cytoskeletal elements are
+required for the formation and maturation of autophagic vacuoles. j. cell. physiol. 152, 458–466.
+baerends, r.j.s., faber, k.n., kram, a.m., kiel, j.a.k.w., van der klei, i., veenhuis, m., 2000. a
+stretch of positively charged amino acids at the n terminus of hansenula polymorpha pex3p is
+involved in incorporation of the protein into the peroxisomal membrane. j. biol. chem. 275,
+9986–9995.
+bellu, a.r., komori, m., van der klei, i., kiel, j.a.k.w., veenhuis, m., 2001. peroxisome biogenesis and
+selective degradation converge at pex14p. j. biol. chem. 276, 44570–44574.
+i. monastyrska, d.j. klionsky / molecular aspects of medicine 27 (2006) 483–494
+493
+bellu, a.r., salomons, f.a., kiel, j.a.k.w., veenhuis, m., van der klei, i., 2002. removal of pex3p is an
+important initial stage in selective peroxisome degradation in hansenula polymorpha. j. biol. chem.
+277, 42875–42880.
+chang, t., schroder, l.a., thomson, j.m., klocman, a.s., tomasini, a.j., stromhaug, p.e., dunn jr.,
+w.a., 2005. ppatg9 encodes a novel membrane protein that traﬃcs to vacuolar membranes, which
+sequester peroxisomes during pexophagy in pichia pastoris. mol. biol. cell. 16, 4941–4953.
+dunn jr., w.a., gregg, j.m., kiel, j.a.k.w., van der klei, i.j., oku, m., sakai, y., sibirny, a., stasyk,
+o.v., veenhuis, m., 2005. pexophagy: the selective autophagy of peroxisomes. autophagy 1, 75–
+83.
+hazra, p.p., suriapranata, i., snyder, w.b., subramani, s., 2002. peroxisome remnants in pex3d cells and
+the requirement of pex3p for interactions between the peroxisomal docking and translocation
+subcomplexes. traﬃc 3, 560–574.
+ichimura, y., kirisako, t., takao, t., satomi, y., shimonishi, y., ishihara, n., mizushima, n., tanida,
+i., kominami, e., ohsumi, m., noda, t., ohsumi, y., 2002. a ubiquitin-like system mediates protein
+lipidation. nature 408, 488–492.
+iwata, j., ezaki, j., komatsu, m., yokota, s., ueno, t., tanida, i., chiba, t., tanaka, k., kominami, e.,
+2006. excess peroxisomes are degraded by autophagic machinery in mammals. j. biol. chem. 281,
+4035–4041.
+kim, j., huang, w.-p., klionsky, d.j., 2001. membrane recruitment of aut7p in the autophagy and
+cytoplasm to vacuole targeting pathways requires aut1p, aut2p, and the autophagy conjugation
+complex. j. cell biol. 152, 51–64.
+kirisako, t., baba, m., ishihara, n., miyazawa, k., ohsumi, m., yoshimori, t., noda, t., ohsumi, y.,
+1999. formation process of autophagosome is traced with apg8/aut7p in yeast. j. cell biol. 147, 435–
+446.
+kirisako, t., ichimura, y., okada, h., kabeya, y., mizushima, n., yoshimori, t., ohsumi, m., takao,
+t., noda, t., ohsumi, y., 2000. the reversible modiﬁcation regulates the membrane-binding state of
+apg8/aut7 essential for autophagy and the cytoplasm to vacuole targeting pathway. j. cell biol. 151,
+263–275.
+klionsky, d.j., cregg, j., dunn jr., w.a., emr, s., sakai, y., sandoval, i., sibirny, i., subramani, s.,
+thumm, m., veenhuis, m., ohsumi, y., 2003. a uniﬁed nomenclature for yeast autophagy-related
+genes. dev. cell. 5, 39–545.
+kuma, a., mizushima, a., ishihara, n., ohsumi, y., 2002. formation of the approximately 350-kda
+for
+apg12-apg5.apg16 multimeric complex, mediated by apg16 oligomerization,
+autophagy in yeast. j. biol. chem. 277, 18619–18625.
+is essential
+locci cubeddu, y., masiello, p., pollera, m., bergamini, e., 1985. eﬀects of antilipolytic agents on rat
+liver peroxisomes and peroxisomal oxidative activities. biochim. biophys. acta. 839, 96–104.
+locke, m., mcmahon, j.t., 1971. origin and fate of microbodies in fat body of an insect. j. cell biol. 48,
+61–78.
+mizushima, n., yamamoto, n., hatano, m., kobayashi, y., kabeya, y., suzuki, k., tokuhisa, t.,
+ohsumi, t., yoshimori, t., 2001. dissection of autophagosome formation using apg5-deﬁcient mouse
+embryonic stem cells. j. cell biol. 152, 657–667.
+mukaiyama, h., baba, m., osumi, m., aoyagi, s., kato, n., ohsumi, y., sakai, y., 2004. modiﬁcation of
+a ubiquitin-like protein paz2 conducted micropexophagy through formation of a novel membrane
+structure. mol. biol. cell. 15, 58–70.
+pan, j., pan, x., wang, n., ghazizadeh, m., yeldandi, a., 2005. characterization of the degradation of
+recombinant rat urate oxidase in tetracycline controlled gene expression cells. j. electron microsc. 54,
+385–392.
+reddy, j.k., azarnoﬀ, d.l., svoboda, d.j., prasad, j.d., 1974. nafenopin-induced hepatic microbody
+(peroxisome) proliferation and catalase synthesis in rats and mice—absence of sex diﬀerence in
+response. j. cell biol. 61, 344–358.
+reggiori, f., monastyrska, i., shintani, t., klionsky, d.j., 2005a. the actin cytoskeleton is required for
+selective types of autophagy, but not nonspeciﬁc autophagy, in the yeast saccharomyces cerevisiae.
+mol. biol. cell. 16, 5843–5856.
+494
+i. monastyrska, d.j. klionsky / molecular aspects of medicine 27 (2006) 483–494
+reggiori, f., shintani, t., chong, h., nair, u., klionsky, d.j., 2005b. atg9 cycles between mitochondria
+and the pre-autophagosomal structure in yeasts. autophagy 1, 101–109.
+reggiori, f., wang, c.-w., nair, u., shintani, t., abeliovich, h., klionsky, d.j., 2004. early stages of the
+secretory pathway, but not endosomes, are required for cvt vesicle and autophagosome assembly in
+saccharomyces cerevisiae. mol. biol. cell. 15, 2189–2204.
+scott, d.j., guan, j., hutchins, m.u., kim, j., klionsky, d.j., 2001. cvt19 is a receptor for the
+cytoplasm-to-vacuole targeting pathway. mol. cell. 7, 1131–1141.
+seglen, d.j., berg, t.o., blankson, h., fengsrug, m., holen, i., stromhaug, p.e., 1996. structural aspects
+of autophagy. adv. exp. med. biol. 389, 103–111.
+shintani, p.e., huang, w.-p., stromhaug, p.e., klionsky, d.j., 2002. mechanism of cargo selection in the
+cytoplasm to vacuole targeting pathway. dev. cell. 3, 825–837.
+small, g.m., santos, m.j., imanaka, t., poulos, a., danks, d.m., moser, h.w., lazarow, p.b., 1988.
+infantile
+integral membrane-proteins in livers of patients with zellweger syndrome,
+peroxisomal
+refsums disease and x-linked adrenoleukodystrophy. j. inherited metab. dis. 11, 358–371.
+svoboda, d., azarnoﬀ, d., 1967. peroxisomes (microbodies) in experimentally altered cells. am. j. pathol.
+50, 53–59.
+veenhuis, m., kiel, j.a.k.w., van der klei, i.j., 2003. peroxisome assembly in yeast. microsc. res. tech.
+61, 139–150.
+yamamoto, k., fahimi, h.d., 1987. 3-dimensional reconstruction of a peroxisomal reticulum in
+regenerating rat-liver—evidence of interconnections between heterogeneous segments. j. cell biol. 105,
+713–722.
+yokota, s., 1993. formation of autophagosomes during degradation of excess peroxisomes induced by
+administration of dioctyl phthalate. eur. j. cell. biol. 61, 67–80.
+yokota, s., 2003. degradation of normal and proliferated peroxisomes in rat hepatocytes: regulation of
+peroxisomes quantity in cells. microsc. res. tech. 61, 151–160.
+yokota, s., oda, t., fahimi, h.d., 2001. the role of 15-lipoxygenase in disruption of the peroxisomal
+membrane and in programmed degradation of peroxisomes in normal rat liver. j. histochem.
+cytochem. 49, 613–621.

@@ -1,0 +1,1582 @@
+free radical biology & medicine 42 (2007) 32 – 43
+www.elsevier.com/locate/freeradbiomed
+original contribution
+mitochondrial dna deletions inhibit proteasomal activity and
+stimulate an autophagic transcript
+mansour alemi a, alessandro prigione a, alice wong a, robert schoenfeld a, salvatore dimauro b,
+michio hirano b, franco taroni c, gino cortopassi a,⁎
+a department of molecular biosciences, 1311 haring hall, university of california, davis, ca 95616, usa
+b department of neurology, columbia university medical center, 630 west 168th street, new york, ny 10032, usa
+c division of biochemistry and genetics, istituto nazionale neurologico carlo besta, milan, italy
+received 16 may 2006; revised 29 july 2006; accepted 14 september 2006
+available online 19 september 2006
+abstract
+deletions within the mitochondrial dna (mtdna) cause kearns sayre syndrome (kss) and chronic progressive external opthalmoplegia
+(cpeo). the clinical signs of kss include muscle weakness, heart block, pigmentary retinopathy, ataxia, deafness, short stature, and dementia.
+the identical deletions occur and rise exponentially as humans age, particularly in substantia nigra. deletions at >30% concentration cause deficits
+in basic bioenergetic parameters, including membrane potential and atp synthesis, but it is poorly understood how these alterations cause the
+pathologies observed in patients. to better understand the consequences of mtdna deletions, we microarrayed six cell types containing mtdna
+deletions from kss and cpeo patients. there was a prominent inhibition of transcripts encoding ubiquitin-mediated proteasome activity, and a
+prominent induction of transcripts involved in the amp kinase pathway, macroautophagy, and amino acid degradation. in mutant cells, we
+confirmed a decrease in proteasome biochemical activity, significantly lower concentration of several amino acids, and induction of an autophagic
+transcript. an interpretation consistent with the data is that mtdna deletions increase protein damage, inhibit the ubiquitin-proteasome system,
+decrease amino acid salvage, and activate autophagy. this provides a novel pathophysiological mechanism for these diseases, and suggests
+potential therapeutic strategies.
+© 2006 elsevier inc. all rights reserved.
+introduction
+mitochondrial deletions cause kss, cpeo, and ps
+mitochondrial dna deletions (δmtdna), when present at
+concentrations of 30% and greater in muscle tissue, can cause
+three disorders, kearns-sayre syndrome (kss), chronic progres-
+sive external opthalmoplegia (cpeo), and pearson's syndrome
+abbreviations: cpeo, chronic progressive external opthalmoplegia; fbs,
+fetal bovine serum; fc, fusion control cell lines; kss, kearns sayre syndrome;
+oe, onto-express; mtdna, mitochondrial dna; opg, osteoprotegerin; ps,
+pearson's syndrome; peg, polyethylene glycol; qrt-pcr, quantitative real-
+time reverse-transcriptase polymerase chain reaction; ros, reactive oxygen
+species; sds, sodium dodecyl sulfate; ssa, sulfosalicyclic acid; sd, standard
+deviation; upr, unfolded protein response.
+⁎ corresponding author.
+e-mail address: gcortopassi@ucdavis.edu (g. cortopassi).
+0891-5849/$ - see front matter © 2006 elsevier inc. all rights reserved.
+doi:10.1016/j.freeradbiomed.2006.09.014
+(ps) [1–3]. clinical signs include muscle weakness, exercise
+intolerance, droopy eyelids and weakness of ocular muscles
+(cpeo), plus heart block, pigmentary retinopathy, ataxia, deaf-
+ness, and dementia (kss), and sideroblastic anemia (ps).
+diagnosis is usually confirmed by muscle histochemistry,
+showing ragged red fibers, and mosaic cytochrome oxidase
+negativity.
+deletions vary in size (1.3–8 kb) and position within the
+mitochondrial genome and occur with higher frequency at direct
+repeats [4,5]. the amount of the deleted mtdna is the most
+important determinant of clinical severity; the size and location
+of deletion are not [6–8].
+origin of mtdna deletions is twofold
+mtdna deletions are acquired through two main mechan-
+isms. single, sporadic deletions of mtdna are thought to occur
+m. alemi et al. / free radical biology & medicine 42 (2007) 32–43
+33
+somatically early in development, as spontaneous errors of the
+gamma polymerase, and the identical deletion is observed in
+multiple tissues [9]. alternatively, patients may inherit nuclear
+“mutator” alleles in the germline of
+the mitochondrial
+polymerase gamma, the mitochondrial helicase twinkle, and
+the adenine nucleotide translocator, which promote multiple
+mtdna deletions of various lengths and cause mendelian
+disorders dominated by cpeo [10–12].
+mtdna deletions also occur spontaneously and rise
+exponentially with normal aging
+deletions also occur and accumulate exponentially with
+human age, particularly in nonmitotic tissues [13]. although
+in most tissues the level of mtdna deletions is in the aged is
+less than 5% of the total,
+levels reach 5% in some aged
+muscles, and 50% in aged substantia nigra [14–18]. these
+deletions occur as spontaneous errors in individual cells as a
+consequence of age, and rise in concentration over time, with
+each cell containing a different predominant deletion species.
+age-dependent mtdna deletions have also been correlated
+with respiratory chain defects in muscle and substantia nigra
+[19–24].
+the pathogenetic mechanism of kss and cpeo is unclear
+although the occurrence of mitochondrial deletions was first
+documented in 1988 [1], and several experiments have shown
+that “thresholds” of 30% (in patients) and 60% (in hela cells)
+have to be surpassed for a biochemical effect to become evident
+[25,26], it is still uncertain how mitochondrial deletions trigger
+the pathophysiological cascade; even with the advent of a
+mouse model [27,28], the pathogenetic mechanism of kss/
+cpeo is still unclear.
+the two main pathophysiological mechanisms proposed for
+the occurrence of the cpeo/kss/ps phenotypes involve a
+decline in mitochondrial bioenergetics [26] plus an increased
+production of reactive oxygen species (ros), which may
+reinforce the bioenergetic defect through oxidative damage to
+dna, proteins, and lipids [29–33].
+to clarify the cellular
+however, in addition to their well-known role in respira-
+tion and oxidative phosphorylation, mitochondria are also
+sites for mitochondrial protein synthesis, and for such diverse
+cellular functions as apoptosis, heme, urea and amino acid
+biosynthesis, ion homeostasis, and fatty acid oxidation, all of
+which might be involved in the pathophysiological mechan-
+ism [34–37].
+in order
+response to mtdna
+deletions, we investigated by oligonucleotide microarray the
+global gene expression profile of nuclear-encoded genes in
+muscle biopsies, myoblasts, fibroblasts, and lymphoblast cell
+lines from controls and patients with cpeo or kss. we
+also investigated transmitochondrial cybrids with preneuronal
+nt2 or 143b osteosarcoma nuclear background and
+harboring different mtdna deletions. the significance of
+the mechanisms
+suggested by the microarray data is
+discussed.
+materials and methods
+cell lines and culture conditions
+we studied different cell
+types coming from patients
+harboring a single 4.9-kb mtdna deletion and from age- and
+sex-matched healthy subjects. muscle cells were snap-frozen
+and kept at −80°c until rna isolation. fibroblasts were
+cultured in dulbecco's modified eagle's medium (invitrogen,
+carlsbad, ca) supplemented with 10% fetal bovine serum
+(fbs), 100 mm pyruvate, 5 mg/ml uridine, and 50 mg/ml
+gentamycin. lymphoblasts were grown in rpmi 1640 medium
+(life technologies) supplemented with 15% fbs, 50 mm
+sodium pyruvate, 0.5 mm uridine, 100 u/ml penicillin, and
+100 μg/ml streptomycin. myoblasts were cultured in skeletal
+muscle basal medium (skbm) supplemented with hegf, 10%
+fbs, and l-glutamine (cambrex bio science walkersville,
+inc.). transmitochondrial cybrids containing either nt2 or
+143b osteosarcoma nuclear backgrounds were created as
+previously described [38]. briefly, enucleation of mitochondria
+donor cells (lymphoblasts for nt2 cybrids and fibroblasts 143b
+cybrids) was carried out using the treatment of 15 × 106 cells
+with 10 μg/ml cytochalasin-b for 1 h at 37°c. enucleated cells
+were mixed with mitochondrial-depleted cells (nt2 rho-zero
+and 143b rho-zero) and then treated with 0.2 ml 40%
+polyethylene glycol (peg) for 45 s, suspended in dmem
+media, and plated. two weeks later the visible colonies were
+expanded and checked for mtdna deletion and nuclear
+background with at
+three microsatellites. in order to
+exclude fusion-specific effects on gene transcriptions, we used
+fusion control cell lines (fc) created by fusing rho-zero cells
+with mitochondria donor cells (lymphoblasts and fibroblasts,
+for nt2 and 143b cybrids, respectively) bearing mtdna with
+no disease-related mutations. two nt2 control cybrids and
+three 143b control cybrids (hga13, hpc7, and h1959, kindly
+provided by a. martinuzzi) were utilized, as described
+elsewhere [39]. two nt2 mutant cybrids harboring the 4.9-kb
+“common deletion,” three 143b mutant cybrids harboring the
+4.9-kb deletion (14.6, 51-18 kind gifts of y.h. wei and
+bh.10.59 from c. moraes), two 143b mutant cybrids harboring
+a 7.5-kb deletion (16.3 and δh.2.1 kind gifts from c. moraes),
+and one 143b rho-zero cell line (kindly donated by m. zeviani)
+were used. all cybrid cell
+lines were cultured in dmem
+supplemented with 10% fbs, 1 mm sodium pyruvate, 0.1 mm
+uridine, 100 u/ml penicillin, and 100 μg/ml streptomycin.
+parental osteosarcoma 143b cells (one line purchased from
+atcc and one line a kind gift from g. attardi) were cultured in
+the same medium. all
+in a
+humidified atmosphere containing 5% co2 at 37°c and
+frequently tested for mycoplasma infection using the myco-
+sensor pcr testing protocol (stratagene).
+the cultured cells were kept
+least
+oligonucleotide microarray analysis
+microarray analysis was performed as previously described
+[40]. briefly, total rna was isolated from cell lines and frozen
+34
+m. alemi et al. / free radical biology & medicine 42 (2007) 32–43
+muscle tissues using a quiagen rneasy mini kit (valencia, ca).
+double-stranded cdna was synthesized from 10 μg of purified
+total rna using the superscript choice system (invitrogen,
+gaithersburg, md) and t7-(dt)24 primer (genset, la jolla, ca).
+the crna was prepared and biotin-labeled using the cdna as a
+template for an in vitro transcription (enzo farmingdale, ny).
+the labeled crna was randomly fragmentated by heating at
+95°c for 35 min in a fragmentation buffer (40 mm tris acetate,
+ph 8.1, 100 mm potassium acetate, and 30 mm magnesium
+acetate) prior to hybridization to the chips. the chips were then
+washed, stained with avidin-labeled phycoerytherin, and
+scanned with an affymetrix genechip scanner. raw data
+were processed by microarray suite 4.0 (affymetrix) and
+microarray data files analyzed using dna-chip analyzer
+(dchip) software [41].
+fifty-four affymetrix hu95av2genechips (affymetrix,
+santa clara, ca) were utilized (tables 1 and 7): 11 for muscle
+biopsies (7 patients and 4 controls), 4 for lymphoblasts (2 patients
+and 2 controls), 6 for fibroblasts (4 patients and 3 controls), 6 for
+nt2 cybrids (2 mutants in duplicate and 2 fusion controls), 9 for
+143b cybrids (2 mutants with 5-kb deletion in duplicate, 2
+mutants with 7.5-kb deletion in duplicate and 3 fusion controls,
+two of them in duplicate), and 8 for 143b cells (2 for 143b rho
+zero and 6 for 2 parental 143b cell
+lines in triplicate).
+differentially expressed genes were identified by comparing
+genechips designated as baseline (muscles, myoblasts, fibro-
+blasts, and lymphoblasts from healthy subjects, fusion control
+cell lines, and parental 143b cells) with the ones that represent
+the experimental parameters (muscles, myoblasts, fibroblasts,
+and lymphoblasts from patients, mutant cybrids, and 143b rho
+zero cells) using a difference in mean fluorescence ≥30 and a p
+value < 0.05 (table 1). to determine whether the significant
+altered genes deviated from random expectation with respect to
+biochemical pathway, cellular compartment, or molecular
+function, we used the program onto-express (oe) [42].
+quantitative real-time reverse-transcriptase pcr (qrt-pcr)
+the same total rna utilized for microarray analysis was
+used to create cdna for quantitative rt-pcr examination of
+six selected genes. superscript reverse transcriptase ii (invitro-
+gen, gaithersburg, md) was used and pcr was performed with
+roche lightcycler
+in),
+annealing at 58°c for 5 s and extension at 72°c for 15 s for
+(roche diagnostic,
+indianapolis,
+table 1
+summary of basic microarray statistics
+cell types
+chips
+number
+mutants vs
+controls
+# unique altered
+genes
+differentiated muscles
+myoblasts
+fibroblasts
+lymphoblasts
++nt2 cybrids
+143b cybrids
+143b rho-zero
+tot
+11
+13
+53
+7/4
+2/2
+4/3
+2/3
+4/2
+8/5
+2/6
+29/25
+499
+1417
+1309
+1988
+2444
+2077
+2413
+3661
+40 cycles. samples were quantified by generating a standard
+curve of a synthesized target from the control cell lines. each
+sample was run in triplicates and normalized to beta-actin
+expression.
+immunoblot and elisa assay immunoblot assay
+the cell lysis buffer used for preparing total cell extracts was
+a modified ripa buffer (50 mm tris, ph 7.4, 100 mm nacl,
+10 mm edta, 1 mm pmsf, 1% igepal) supplemented with
+complete protease inhibitor cocktail (sigma, st. louis, mo)
+added just before use. cells were washed twice with pbs and
+lysed for 30 min at 4°c. the homogenate was centrifuged for
+30 min at 16,000g and the supernatants were saved for
+immunoblot. equal quantities of proteins, as determined by
+bradford protein assay, were separated by electrophoresis in a
+4–20% sds-polyacrylamide gel (biorad, hercules, ca). anti-
+syntaxin 16 (rabbit antiserum, synaptic system) and anti-beta-
+actin (mouse monoclonal, sigma) were used as primary
+antibodies with the suitable hrp-conjugated secondary anti-
+bodies. bound antibodies on nitrocellulose (amersham bios-
+ciences) membranes were detected using the chemiluminescent
+substrate ecl (amersham biosciences). densitometry analysis
+was performed using quantity one software (bio-rad).
+measurement of proteasome activity
+quantitative in vitro analysis of 20s proteasome activity was
+performed by measuring the hydrolysis of the fluorogenic
+peptidyl substrate suc-leu-leu-val-tyr-amc (calbiochem, la
+jolla ca). testing was assayed in 143b mutant cybrids with
+7.5-kb mtdna deletions and 143b fusion controls as well as in
+patient-derived lymphoblast cell lines harboring a single 4.9-kb
+mtdna deletion and lymphoblasts from age- and sex-matched
+healthy subjects. low concentrations of sodium dodecyl sulfate
+(sds) were added in order to induce conformational changes
+allowing access to the central cavity where the active sites
+residues reside. briefly, approximately 3 million cells were
+lysed and incubated for 1 h at 37°c in 500 mm hepes, ph 7.6,
+10 mm edta, 3% sds, and 200 μm of the substrate suc-leu-
+leu-val-tyr-amc. the substrate, cleaved by the chymotryptic-
+like activity of the proteasome, released free amc (7-amino-4-
+methylcoumarin) which was detected using a fluorimeter (ex
+380 nm; em 460 nm). a standard curve was generated using
+amc. results are presented as fluorescence over time (nm/ mg
+protein/ 60 min).
+amino acid analysis (aaa)
+lymphoblast cell lines from patients and controls were used.
+the samples were acidified with sulfosalicyclic acid (ssa, 3%
+final concentration) to precipitate any intact protein prior to
+analysis and centrifuged at 14,000 rpm for 15 min at 4°c. aaa
+in the supernatants was performed using a beckman 6300
+amino acid analyzer (beckman instruments, inc., palo alto,
+ca) which utilize a lithium citrate buffer system [43]. amino
+acids separation by ion-exchange chromatography was
+m. alemi et al. / free radical biology & medicine 42 (2007) 32–43
+35
+followed by a “post-column” ninhydrin reaction detection
+system. the standard injection volume was 50.0 μl. ami-
+noethylcysteine (aecys) was used as internal standards to
+correct for any variation in the operating conditions of the
+analyzer over time. a data file comprised of a series of
+absorbance values vs time points was generated during each
+chromatographic run. the values corresponding to the mutant
+samples were compared to the control ones; fold changes and p
+values between the two groups are presented in table 5.
+statistical analysis
+data are expressed as mean and standard deviation (sd).
+comparisons between groups were performed by two-tailed
+unpaired student's t test. p values of <0.05 were considered
+statistically significant. data were analyzed using graphpad-
+prism software (prism 4.0, graphpad software, inc.).
+results
+several transcriptional consequences of deletions are
+significantly shared
+complementary rna (crna) was prepared from 54
+samples, labeled, and microarrayed on 54 chips. cell types
+included differentiated muscle, myoblasts, fibroblasts, lympho-
+blasts, nt2 cybrids, and 143b osteosarcoma cybrids (table 1).
+we also compared the results with those obtained with 143b
+osteosarcoma rho-zero cells, which lack mtdna completely, as
+the transcriptional consequences were similar to those observed
+in 143b cybrids bearing mtdna deletions.
+to identify the most consistent consequences of mtdna
+deletions across cell types, we looked for transcripts that were
+significantly different at the p≤0.10 criterion in each of the
+seven experiments of mutants and controls. thus, the combined
+probability for observing the same gene altered in the same
+direction across n experiments is: {(0.10)(0.5)}n. for example,
+the nominal p value for a single transcript to be shared among
+four experiments at the p≥0.10 criterion in the same direction is
+(0.05)4, i.e., p≤0.0000063, p≤6.3 × 10−6 [44].
+mtdna deletions cause transcriptional inhibition
+several transcripts were nonrandomly shared among experi-
+ments (table 2). in addition, mtdna deletions caused about
+twice as many shared downregulated than upregulated tran-
+scripts. for example, 38 transcripts were shared and down-
+regulated vs 17 shared and upregulated among five
+experiments, 230 down vs 109 up among four experiments,
+table 2
+transcriptional results shared among experiments
+transcripts shared among
+experiments
+down-regulated
+up-regulated
+individual p value
+≥3
+≥4
+≥5
+≥6
+983
+684
+0.00012 6.3 × 10−6 3 × 10−7 1.6 × 10−8
+230
+109
+38
+17
+table 3
+onto-express analysis of pathways affected by mtdna deletions
+function name
+unique
+altered
+genes
+total
+unique
+genes
+p value
+downregulated bioprocesses
+ubiquitin cycle
+ubiquitin-dependent
+protein catabolism
+transcription from rna polymerase
+ii promoter
+atp synthesis coupled proton transport
+regulation of transcription
+regulation of translational initiation
+vesicle-mediated transport
+upregulated bioprocess
+intra-golgi transport
+intracellular signaling cascade
+regulation of cell growth
+cell surface receptor linked signal
+transduction
+regulation of transcription from rna
+polymerase ii promoter
+cell cycle arrest
+negative regulation of cell proliferation
+11
+11
+116
+74
+159
+28
+50
+23
+39
+17
+227
+60
+120
+151
+50
+117
+3.46e-04
+7.17e-04
+0.005158
+0.005166
+0.005441
+0.006789
+0.007359
+4.33e-04
+0.003112
+0.003343
+0.003429
+0.007731
+0.007767
+0.009219
+and 983 down vs 684 up among three experiments. thus, it is
+clear from the most consistently altered transcripts that in cells
+harboring mitochondrial deletions there are more nuclear gene
+inhibitions than activations by a ratio of approximately 2:1,
+when similar categories are compared.
+pathway analysis shows inhibition of ubiquitin-proteasome
+and mitochondrial transcripts
+the onto-express bioprocess program objectively reveals
+the predominance of particular biochemical pathways in
+microarray data [42]. using lists encompassing the broadest
+and most consistent consequences of mtdna deletions (i.e.,
+genes significantly altered in the same direction across four
+experiments), we analyzed the pathways emphasized by the
+bioprocess function of onto-express (table 3).
+onto-express identified the following pathways as sig-
+nificantly inhibited: ubiquitin-proteasome (corrected p
+value < 0.0007), mitochondrial atp synthesis (p < 0.006), and
+initiation of protein synthesis (p < 0.007). by contrast, intra-
+golgi transport, cell cycle arrest, and negative regulation of cell
+proliferation were significantly activated.
+negative transcriptional consequences of mtdna deletions:
+proteasomal, mitochondrial, synthetic, and muscle-specific
+genes
+of
+the transcripts shared and downregulated in cells
+harboring mtdna deletions in >3 experiments (table 4),
+two prominent clusters were evident by inspection, which had
+been previously identified by the onto-express analysis. first,
+many members of the ubiquitin-proteasomal complex were
+36
+m. alemi et al. / free radical biology & medicine 42 (2007) 32–43
+table 4
+downregulated genes
+function
+gene name
+gene
+fold
+times
+down
+ubiquitin-proteasome system
+proteasome
+downregulated, including the proteasome (psmb6, psme3,
+psmb4, psmf1, psmb2), and the ubiquitin ligase (ube2e3,
+ube2e1,ube2l6, ube2i, ube3b, usp7, usp10, usp22,
+usp15, usp33, ubr2, cand2) systems. thus, mtdna
+deletions cause a strong and significant inhibition of many
+transcripts involved in ubiquitin proteasome activity.
+second, and also consistent with the onto-express results,
+many mitochondrially targeted transcripts were inhibited,
+including those that encode subunits of complex i, nadh
+dehydrogenase (ndufa5, ndufa6, ndufaf1, ndufb3,
+ndufs3, ndufv2), complex ii (sdhc, sdhb), genes
+involved in the assembly of complex iv (surf1,surf2), and
+complex v (atp5g2, atp5h, atp5j2), tca cycle genes
+(dld, slc25a1, aco2, idh3g), mitochondrial ribosomal
+genes (iars2, mrpl28, mrps18b, mrpl23), and a
+mitochondrial antioxidant gene (sod2). thus, mtdna dele-
+tions result in inhibition of nuclear-encoded, mitochondrial-
+targeted proteins.
+mtdna deletions activate snare genes, stress genes, myc,
+and amino acid degradation transcripts
+we inspected the lists of genes shared and activated in ≥3
+experiments (table 6), searching for functional clusters. in
+agreement with the onto-express analysis, several snare
+genes involved in intra-golgi and vesicular transport were
+induced in mutants, including syntaxin 16, tgoln2, arh-
+gef, golga8a, raftlin, vapb, atp6v0e2l, vps13a,
+suggesting an increase in vesicular activity.
+multiple stress-related genes of different categories were
+also induced in three or more experiments, including genes
+involved in the unfolded protein stress response (perk,
+hspa4, dnajc3, and dnajc4). stress genes related to
+energy depletion were also induced in mutants (prkaa,
+atg12, gatm), as were hypoxia-responsive genes (ugcg,
+adm, stc2). adm and stc2 are each targets of hif1alpha,
+which was significantly induced in two experiments. stress
+genes related to nonsense-mediated decay (smg1, dicer1)
+were also induced. these results suggest increased stress in
+general
+including
+unfolded protein stress, energy depletion stress, and hypoxic
+stress. the stress category was not flagged by onto-express,
+probably because these sets of genes belong to separate stress
+pathways.
+in cells with mitochondrial deletions,
+the myc gene was also induced in mutants. myc, which
+has recently been shown to serve as a transcription factor for
+mitochondrial biogenesis, and responds to mitochondrial
+functional depletion [40,44–47].
+several transcripts encoding enzymes that degrade amino
+acids were also induced, including gcat, metap2, gls,
+aass, lox. this suggests an increase in amino acid
+scavenging.
+decreased proteasome activity in mutant cells
+because the ubiquitin-proteasome pathway was significantly
+downregulated by the onto-express analysis, and was also
+ubiquitin
+ligase
+system
+psmb6
+proteasome beta type, 6
+psme3
+proteasome activator 3
+psmb4
+proteasome, beta type, 4
+proteasome inhibitor subunit 1
+psmf1
+proteasome subunit, beta type, 2 psmb2
+ubiquitin-conjugating
+ube2e3
+enzyme e2e 3
+ubiquitin-conjugating
+enzyme e2e 1
+ubiquitin-conjugating
+enzyme e2l 6
+ubiquitin-conjugating
+enzyme e2i
+ubiquitin protein ligase e3b
+ubiquitin specific peptidase 7
+ubiquitin specific peptidase 22
+ubiquitin specific peptidase 15
+ubiquitin specific peptidase 33
+ubiquitin protein ligase e3
+n-recognin 2
+cullin-associated and
+neddylation-dissociated 2
+ube3b
+usp7
+usp22
+usp15
+usp33
+ubr2
+cand2
+ube2e1
+ube2l6
+ube2i
+mitochondrially-targeted transcripts
+complex i
+nadh dehydrogenase 1 alpha
+nadh dehydrogenase 1 alpha
+nadh dehydrogenase 1 alpha
+nadh dehydrogenase 1 beta
+nadh dehydrogenase
+fe-s protein 3
+nadh dehydrogenase
+flavoprotein
+succinate dehydrogenase
+succinate dehydrogenase
+complex
+surfeit 1
+surfeit 2
+atp synthase f0 complex,
+subunit c
+atp synthase, f0 complex,
+subunit d
+atp synthase, f0 complex,
+subunit f
+dihydrolipoamide
+dehydrogenase
+aconitase 2, mitochondrial
+isocitrate dehydrogenase 3
+(nad+) gamma
+isoleucine-trna synthetase 2,
+mitochondrial
+mitochondrial ribosomal
+protein l28
+mitochondrial ribosomal
+protein s18b
+mitochondrial ribosomal
+protein l23
+superoxide dismutase 2,
+mitochondrial
+ndufa5
+ndufa6
+ndufaf1
+ndufb3
+ndufs3
+ndufv2
+sdhc
+sdhb
+surf1
+surf2
+atp5g2
+atp5h
+atp5j2
+dld
+aco2
+idh3g
+iars2
+mrpl28
+mrps18b 4
+mrpl23
+sod2
+complex ii
+complex iv
+assembly
+complex v
+tca cycle
+mitochondrial
+ribosome
+mitochondrial
+antioxidant
+−1.2
+−1.6
+−1.3
+−1.4
+−1.3
+−1.3
+−1.4
+−1.7
+−1.2
+−1.1
+−1.4
+−1.4
+−1.6
+−1.4
+−1.3
+−1.5
+−1.8
+−1.4
+−1.5
+−1.5
+−1.4
+−1.3
+−1.4
+−1.3
+−1.4
+−1.5
+−1.4
+−1.3
+−1.3
+−1.4
+−1.7
+−1.4
+−1.4
+−1.3
+−1.3
+−1.4
+−1.7
+m. alemi et al. / free radical biology & medicine 42 (2007) 32–43
+37
+obvious by inspection of the inhibited gene lists, we first
+confirmed the downregulation at the rna level by measuring
+the proteasomal catalytic 26s subunit through quantitative rt-
+pcr (fig. 1). we then carried out a functional analysis of
+proteasome activity in 143b osteosarcoma cybrids harboring a
+7.5-kb deletion and in lymphoblasts from patients carrying a 5-
+kb mtdna deletion (fig. 2). in agreement with microarray
+results, we observed decreased proteasomal activity in both
+mutant cell types.
+amino acid concentration is deficient in mutant lymphoblasts
+proteasome activity is both important for normal degradation
+of proteins and for providing a substantial fraction of amino
+acids required for protein synthesis [48]. we compared amino
+acid concentration in two sets of lymphoblast cells harboring 5-
+and 7.5-kb mtdna deletions and in control lymphoblasts, and
+found that 15 out of 20 standard amino acids tested were
+significantly decreased while one (aspartate) was only mildly
+increased. in addition, five nonstandard amino acids were also
+less in mutant lymphoblasts than in controls. all decreased
+acids are shown in table 5.
+induction of the autophagy 12 transcript is a specific
+consequence of mtdna deletions
+the atg12 transcript encodes the first and most important
+product of the autophagy pathway [49,50], and was induced in the
+microarray data from fibroblasts, lymphoblasts, and myoblasts
+from kss patients, and in nt2 neural cells bearing deletions. as
+depletion of steady-state concentrations of amino acids is known
+to induce autophagy [51,52], the induction of atg12 could relate
+to significant decreases in several amino acids that we observed in
+the mutant cells. to determine whether the induction of atg12
+was a specific consequence of mtdna deletions, we quantified
+atg12 transcript levels in 143b osteosarcoma cybrid fusion
+controls (i.e., cell lines that had gone through the process of
+cybridization but with normal mtdna), in osteosarcoma cybrids
+harboring deletions, and in osteosarcoma cell lines lacking the
+mitochondrial genome (fig. 3). the atg12 transcript levels were
+highly correlated with the presence of deletions, were significantly
+fig. 1. quantitative rt-pcr validation of microarray data. fold changes of four
+selected genes obtained by microarray analysis and by quantitative rt-pcr are
+shown. qrt-pcr results were normalized to beta-actin expression. significant
+differences from the control groups: * unpaired t test, p<0.05, ** unpaired t test,
+p < 0.005.
+fig. 2. measurement of proteasome activity in 143b cybrids and lymphoblasts.
+in vitro assessment of 20s proteasome activity was done by measuring the
+hydrolysis of the fluorogenic peptidyl substrate suc-leu-leu-val-tyr-amc by
+the sds-activated proteasome. (a) average activity in three 143b fusion
+controls and two osteosarcoma cybrids 3.6 and 16.3 with 70% of 7.5-kb mtdna
+deletions. (b) average activity in lymphoblast cell lines from three control
+subjects, and two patient cell lines (848) with 57% of 4.9-kb mtdna deletion
+and (63358) with 27% of 7.4-kb mtdna deletion. c, control cells; m, mutant
+cells. error bars represent se. * unpaired t test, p < 0.02.
+higher in cells bearing deletions, and highest in cells lacking
+mtdna.
+increase in syntaxin 16 protein
+both inspection of the microarray data and the onto-express
+analysis suggested an increase in vesicular activity in the mutant
+cells (table 6). stx16 is a t-snare (snap receptors)
+molecule involved in synaptic vesicle docking and fusion,
+found in the golgi and trans-golgi network and essential for
+autophagy [53–55].
+immunoblot analysis confirmed an
+increased expression of stx16 in 143b cybrids and 143b
+table 5
+altered cytoplasmic amino acids in mutant lymphoblast cell lines
+amino acid
+standard amino acids
+alanine
+asparagine
+aspartate
+glutamine
+glycine
+histidine
+isoleucine
+leucine
+methionine
+phenylalanine
+proline
+serine
+threonine
+tryptophan
+tyrosine
+valine
+nonstandard amino acids
+citrulline
+g-aminobutyric acid
+methylhistidine
+ornithine
+phosphoethanolamine
+fold change
+−2.5
+−1.7
+1.4
+−1.3
+−1.8
+−1.9
+−1.7
+−1.7
+−1.9
+−1.8
+−1.4
+−3
+−2.7
+−1.9
+−2
+−1.8
+−6.1
+−4.2
+−1.9
+−2.3
+−2.2
+p value
+0.00004
+0.005
+0.05
+0.05
+0.002
+0.001
+0.003
+0.006
+0.002
+0.0006
+0.02
+0.0002
+0.05
+0.004
+0.0007
+0.004
+0.001
+0.002
+0.0005
+0.002
+0.02
+38
+m. alemi et al. / free radical biology & medicine 42 (2007) 32–43
+deletions in six cell types. because deletions erase essential
+parts of the mitochondrial protein synthetic machinery (i.e.,
+trnas)
+the
+respiratory chain complexes that produce energy and other
+metabolites for the cell (fig. 5), we expected a strong “nuclear
+response” to the “mitochondrial stimulus.”
+[58,61] as well as essential components of
+single mtdna deletions produce inhibition of multiple
+mitochondrial transcripts
+since the mitochondrial and nuclear genomes exist symbio-
+tically, and coencode several multisubunit complexes, it was
+interesting to see that mtdna deletions had a strong negative
+effect on nuclear-encoded mitochondrially targeted genes. this
+was especially evident on complex i transcripts, but also on
+complex ii and complex iv assembly genes, on complex v, on
+several tca cycle genes, and on components of
+the
+mitochondrial ribosome. these data suggest that the nucleus
+senses the irreversible depletion of mtdna-encoded mitochon-
+drial subunits and trnas, and responds by down-regulating the
+interacting subunits that would normally form a functional
+complex. the downregulation of nuclear-encoded mitochon-
+drial ribosomal subunits, oxphos, and tca cycle transcripts
+thus appears to reinforce the mitochondrial defect initiated by
+the deletions, and add to the mitochondrial metabolic defect in
+the patients.
+the depletion of mitochondrial function has recently been
+shown to induce myc overexpression, and we also observed a
+substantial upregulation of myc in cells bearing mtdna
+deletions [40,44–47,62]
+fig. 4. syntaxin 16 protein overexpression in mutant 143b cybrids. relative
+expression of syntaxin 16 (stx16) in 143b mutant cybrids (m) compared to
+143b fusion control cybrids (fc). (a) representative immunoblot for stx16
+out of three separate experiments. from left, the samples were fc (fusion
+controls), hga13 and hpc7; m, mutants 14.6, 16.3, and 51–18. the blots were
+stripped and reprobed against beta-actin. (b) average relative density (syntaxin
+16 over beta-actin) in fusion controls, mutant cybrids, and 143b rho-zero cells.
+error bars represent se. * unpaired t
+test,
+p < 0.005.
+test, p < 0.05. ** unpaired t
+fig. 3. atg12 rna overexpression in mutant 143b cybrids. quantitative rt-
+pcr analysis of atg12 rna expression in 143b osteosarcoma cybrids. qrt-
+pcr results were normalized to 18srna expression. (a) qrt-pcr results of
+three separate experiments each done in duplicate. black bars represent fusion
+control cell lines (fc), white bars mutant cell lines (m), and striped bars mtdna
+depleted rho-zero 143b cell lines; cell line mutation status is described in table
+7. (b) average relative atg12 rna expression of fusion controls, mutant
+cybrids, and 143b rho-zero cells at left, summed. error bars represent se.
+* unpaired t test, p < 0.05. ** unpaired t test, p < 0.01.
+rho-zero cells compared to 143b fusion controls (unpaired t
+test, p = 0.0270 and p = 0.0036, respectively, fig. 4).
+increase in oxidized proteins in mutant cells
+since deletions erase not only trnas but also mitochond-
+rially encoded subunits of the respiratory chain, it would not be
+unexpected if misfolding of electron transport chain complexes
+caused increased oxidative damage to proteins. thus we
+measured oxidatively modified proteins using the oxyblot
+method. there were significantly more oxidized proteins in
+cells bearing mtdna deletions than fusion controls,
+i.e.,
+controls that had been through the cybridization process with
+normal mtdna.
+discussion
+single mtdna deletions cause kss, cpeo, or ps, whose
+affected tissues show impaired electron transport activity, atp
+production, and mitochondrial protein synthesis [26,56,57].
+muscle biopsies from patients with kss or cpeo show ragged-
+red fibers and cytochrome oxidase-negative fibers [58,59].
+clinical signs vary widely in different syndromes but include
+muscle weakness, heart block, retinopathy, deafness, diabetes,
+short stature, and dementia [2,60]. we have used microarray in
+an attempt to link the primary cause of kss/cpeo/ps with
+cellular, morphological, and clinical consequences. we exam-
+ined the common transcriptomal consequences of mtdna
+m. alemi et al. / free radical biology & medicine 42 (2007) 32–43
+39
+was not observed in a larger microarray study of other
+mitochondrial diseases, including friedreich's ataxia, leber's
+hereditary optic neuropathy, myoclonic epilepsy with ragged
+red fibers, and neuropathy, ataxia , and retinitis pigmentosa
+[44]. thus, it seems likely that inhibition of the proteasomal
+transcripts is a direct consequence of mtdna deletions.
+decreased amino acid concentration in mutant cells
+one potential consequence of decreased ubiquitin protease
+activity is decreased salvage of amino acids, and recently the
+proteasome has been shown to be an important provider of
+table 6
+upregulated genes
+function
+gene name
+gene
+up fold
+stress response
+unfolded protein
+energy depletion
+hypoxia
+nonsense-mediated
+decay
+dna damage
+mitochondrial
+depletion
+heat shock 70 kda protein 4
+dnaj member 3
+dnaj member 4
+amp kinase, alpha 1
+atg12 autophagy related 12
+glycine amidinotransferase
+udp-glucose ceramide
+glucosyltransferas
+adrenomedullin
+stanniocalcin 2
+pi-3-kinase-related kinase
+smg−1
+dicer1, dcr−1
+homolog (drosophila)
+glycine amidinotransferase
+v-myc myelocytomatosis
+viral oncogene
+snare/ intra-golgi transport
+syntaxin 16
+trans-golgi network protein 2
+rho/rac guanine nucleotide
+exchange factor
+golgi autoantigen, golgin
+subfamily a, 8a
+raft-linking protein
+vamp (vesicle-associated
+membrane protein)-associated
+protein b and c
+atpase, h+ transporting v0
+subunit e isoform 2-like (rat)
+vacuolar protein sorting 13a
+(yeast)
+vacuolar protein sorting 13a
+(yeast)
+amino acid degradation
+hspa4
+dnajc3
+dnajc4
+prkaa
+atg12
+gatm
+ugcg
+adm
+stc2
+smg1
+dicer1
+atm
+myc
+stx16
+tgoln2
+arhgef
+golga8a 3
+raftlin 3
+vapb
+1.8
+1.9
+1.2
+2.1
+1.7
+1.9
+2.1
+1.7
+3.0
+2.0
+1.7
+1.9
+1.9
+1.5
+1.6
+1.3
+2.8
+2.8
+2.1
+atp6v0e2
+1.6
+vps13a
+1.6
+glycine c-acetyltransferase
+(2-amino-3-ketobutyrate
+coenzyme a ligase) methionyl
+aminopeptidase 2
+methionyl aminopeptidase 2 metap2
+glutaminase
+aminoadipate-semialdehyde
+synthase
+lysyl oxidase
+gls
+aass
+gcat
+lox
+1.2
+1.8
+1.6
+2.2
+1.6
+fig. 5. deletion sites within mtdna. deletions of mtdna may occur within a
+certain region (shown in light blue). the deleted genes code for respiratory chain
+subunits of complex i (nd3, nd4, nd4l, nd5, and nd6), complex iii (cyt b),
+complex iv (coii and coiii), and complex v (atpase 6 and 8). the deletions
+may erase also transfer rna genes (indicated in red) such as s, d, k, g, r, h, s, l,
+e, t, and p.
+deletions inhibit the ubiquitin and proteasome system
+deletions of the mitochondrial genome erase not only
+subunits of the respiratory chain that must cooperate with
+nuclear-encoded subunits [63] but also trnas necessary for
+mitochondrial protein synthesis [57].
+deletion of specific mtrnas not only decreases mito-
+is also expected to
+in increased mitochondrial protein unfolding and
+translation rates [64,65] but
+chondrial
+result
+damage.
+although it has been known for some time that mildly
+damaged mitochondrial proteins are degraded by the protea-
+some, it has not been appreciated until recently that heavily
+damaged mitochondrial proteins inhibit the proteasome [66–
+70]. thus, the very strong inhibition of many subunits of the
+ubiquitin-proteasome system is likely a consequence of
+misfolded and damaged mitochondrial proteins specified by
+the mtdna deletions. also, recent studies have demonstrated
+that mtdna deletions increase ros production, which would
+seem to compound the misfolding/damage problem [31]. to test
+these ideas, we measured oxidative damage to proteins by the
+oxyblot method, and observed a >300% increase in oxidized
+proteins. thus, mtdna deletions result not only in increased
+protein oxidative damage but also decreased proteasome
+activity.
+the downregulation of the proteasome microarray signal
+appears to be a unique consequence of mtdna deletions, as it
+40
+m. alemi et al. / free radical biology & medicine 42 (2007) 32–43
+amino acids for protein synthesis, specifically under conditions
+of minimal nutrient status [48].
+consistent with this prediction, we observed a significant
+and substantial decrease in steady-state amino acid concentra-
+tion in mutant cells, and significant increases in transcripts that
+encode several amino acid-degrading enzymes, possibly as a
+response to amino acid depletion.
+induction of autophagy transcript in mutant cells
+(table 6), and the degree of upregulation was correlated with
+deletion status in the osteosarcoma cell line (fig. 3). it has
+recently been shown that autophagy is induced in response to
+impaired ubiquitin-proteasome system activity [71,72]. also, it
+is known that low amino acid concentration triggers autophagy
+via inhibition of mtor, thus providing a possible pathogenic
+mechanism for kss: deletions > misfolding > proteasome inhi-
+bition > aa depletion > mtor inhibition > autophagy,
+inhibi-
+tion of protein synthesis and of cell growth.
+deletions erase essential
+trna genes responsible for
+decoding mitochondrial rna transcripts, which should result
+in irreparable protein damage. since proteasomal activity is
+inhibited in cells with deletions, this raises the question of how
+the cell may deal with mitochondria carrying irreparable protein
+damage. atg12, which is the first and most important gene in
+the mammalian autophagy cascade [49,50], was upregulated in
+response to deletions, as shown by microarray across cell lines
+autophagy requires the action of snare and vesicular
+proteins
+consistent with the hypothesis of an induction of autophagy
+in mutant cells, we observed the induction of several snare/
+vesicular transcripts, syntaxin 16 (stx16, tgoln2, arh-
+gef, golga8a, vapb, atp6v0e2l, vps13a). induction
+of snare proteins is essential for the process of autophagy
+table 7
+cell lines and tissues used in the study, with size and percentage of deletion and disease status
+ups
+osteosarcoma
+lymphoblasts
+fibroblasts
+nt2 cybrids
+myoblasts
+muscle
+line
+3.7
+16.3
+51−18
+bh.10.59
+14−6
+dh.2.1
+143ga
+143mk
+hga13
+hpc7
+h1959
+hba2
+848
+63358
+c536
+c333
+c621
+ac
+rj
+3511
+3246
+c305
+c572
+4.9−1(8)
+4.9−2 (48)
+aw ctl
+4317
+8279
+2f0135
+2f0873
+1348
+3515
+3516
+3517
+2378
+2666
+2794
+2815
+2320
+1669
+2576
+size
+7.5 kb
+7.5 kb
+5 kb
+5 kb
+5 kb
+7.5 kb
+5 kb
+7.4 kb
+5 kb
+5 kb
+na
+na
+5 kb
+5 kb
+5 kb
+5 kb
+5 kb
+5 kb
+5 kb
+5 kb
+5kb
+5kb
+5kb
+disease
+kss
+kss
+kss
+kss
+kss
+kss
+normal
+normal
+control fused
+control fused
+control fused
+control fused
+kss
+kss
+normal
+normal
+normal
+kss
+kss
+kss
+kss
+normal
+normal
+kss
+kss
+control fused
+kss
+kss
+normal
+normal
+kss
+kss
+kss
+kss
+normal
+normal
+normal
+normal
+kss
+kss
+kss
+70
+70
+21
+50
+21
+50
+57
+27
+20
+72
+na
+na
+16
+75
+na
+na
+na
+na
+na
+na
+na
+na
+na
+array
+qpcr
+m. alemi et al. / free radical biology & medicine 42 (2007) 32–43
+41
+fig. 6. a mechanistic hypothesis for the consequences of mtdna deletions. expected consequences of mtdna deletions. deletions must perforce erase essential
+trnas and components of multisubunit complexes of the oxphos chain, and result in increased protein oxidative damage. increased protein oxidative damage has
+been demonstrated to inhibit ubiquitin-proteasomal activity, which is expected to decrease the rate of salvage of amino acids, and result in decreased amino acid
+concentration in cells, which has previously been demonstrated to decrease the activity of mtor, which then represses protein synthesis and activates autophagy.
+deletions were shown to result in decreased expression of nuclear-encoded oxphos complex (of both the electron transport chain and the atp synthase), which must
+also inhibit atp synthesis (which has been demonstrated at the biochemical level by others), and stimulate the activity of amp kinase, which then should inhibit
+mtor, which should result in the inhibition of protein synthesis and the activation of autophagy [52].
+is possible that
+[53,73–75]. thus it
+the subsarcolemmal
+proliferation of mitochondria observed in kss/cpeo and
+revealed by the gomori trichrome stain in ragged-red fibers is in
+fact the result of increased autophagic activity.
+amino acid deprivation induces autophagy
+amino acid deprivation is known to induce autophagy via
+inhibition of
+the mtor pathway [51,52]. amino acid
+deprivation is also known to signal gcn2 and stimulate
+eif2-alpha phosphorylation [76–78], resulting in increased
+expression of unfolded protein response (upr) genes and
+endoplasmic reticulum (er) stress-related genes, many of
+which are induced in mutant cells. both the inhibition of mtor
+and the phosphorylation of eif2 alpha should result in the
+inhibition of protein synthesis transcripts that we observe in the
+microarray data.
+a pathogenetic mechanism for kss
+mtdna deletions remove trnas and functional compo-
+nents of the respiratory chain. the resulting mitochondrial
+protein damage has multiple consequences. perhaps as a
+result of oxidative protein damage, one consequence is
+inhibition of the ubiquitin proteasome system, which may
+cause amino acid depletion through decreased amino acid
+salvage. a second generally accepted consequence is the
+reduction of atp synthesis [26,79]; atp depletion is known
+to activate the ampk response [80] as a protective
+mechanism. both amino acid depletion and ampk activation
+can result
+in inhibition of mtor [51,81] which in turn
+inhibits translation, protein synthesis, and cellular growth, and
+induces autophagy (fig. 6).
+implications of the proposed mechanism for kss patients
+if this mechanism is correct, it suggests potential interven-
+tions for patients harboring mtdna deletions. if the ubiquitin
+proteasomal defect
+is a primary consequence of mtdna
+deletions, as we suspect, and causes the decrease in cellular
+amino acid concentration, which in turn signals mtor and
+causes decreased protein synthesis transcripts, then supplemen-
+tation of free amino acids might benefit the patients, because
+amino acids in general (and leucine in particular) are known to
+potently stimulate mtor and inhibit autophagy [82–85].
+acknowledgments
+the authors gratefully acknowledge drs. n. kennaway, c.
+moraes, g. mattijs, and y-h wei for providing mutant cell
+lines, and c. duong and c. lu for technical support. this work
+was supported by united states public health service grants
+ro1 ag11967, ag16719, ey12245, ro3 ag023311, and
+p30es005707 and by nih grant v440c21.
+references
+[1] holt, i. j.; harding, a. e.; morgan-hughes, j. a. deletions of muscle
+mitochondrial dna in patients with mitochondrial myopathies. nature
+331:717–719; 1988.
+[2] moraes, c. t.; dimauro, s.; zeviani, m.; lombes, a.; shanske, s.;
+miranda, a. f.; nakase, h.; bonilla, e.; werneck, l. c.; servidei, s., et al.
+mitochondrial dna deletions in progressive external ophthalmoplegia and
+kearns-sayre syndrome. n. engl. j. med. 320:1293–1299; 1989.
+[3] rotig, a.; cormier, v.; blanche, s.; bonnefont, j. p.; ledeist, f.; romero,
+n.; schmitz, j.; rustin, p.; fischer, a.; saudubray, j. m.; et al. pearson's
+marrow-pancreas syndrome. a multisystem mitochondrial disorder in
+infancy. j. clin. invest. 86:1601–1608; 1990.
+[4] johns, d. r.; rutledge, s. l.; stine, o. c.; hurko, o. directly repeated
+sequences associated with pathogenic mitochondrial dna deletions. proc.
+natl. acad. sci. usa 86:8059–8062; 1989.
+[5] schon, e. a.; rizzuto, r.; moraes, c. t.; nakase, h.; zeviani, m.;
+dimauro, s. a direct repeat is a hotspot for large-scale deletion of human
+mitochondrial dna. science 244:346–349; 1989.
+[6] moraes, c. t.; sciacco, m.; ricci, e.; tengan, c. h.; hao, h.; bonilla, e.;
+schon, e. a.; dimauro, s. phenotype-genotype correlations in skeletal
+muscle of patients with mtdna deletions. muscle nerve 3:s150–s153;
+1995.
+[7] zeviani, m.; moraes, c. t.; dimauro, s.; nakase, h.; bonilla, e.; schon,
+e. a.; rowland, l. p. deletions of mitochondrial dna in kearns-sayre
+syndrome. neurology 38:1339–1346; 1988.
+[8] vielhaber, s.; kudin, a.; schroder, r.; elger, c. e.; kunz, w. s. muscle
+fibres: applications for the study of the metabolic consequences of enzyme
+deficiencies in skeletal muscle. biochem. soc. trans. 28:159–164; 2000.
+[9] chen, x.; prosser, r.; simonetti, s.; sadlock, j.; jagiello, g.; schon, e. a.
+rearranged mitochondrial genomes are present in human oocytes. am. j.
+hum. genet. 57:239–247; 1995.
+[10] kaukonen, j.; juselius, j. k.; tiranti, v.; kyttala, a.; zeviani, m.; comi, g. p.;
+keranen, s.; peltonen, l.; suomalainen, a. role of adenine nucleotide
+translocator 1 in mtdna maintenance. science 289:782–785; 2000.
+[11] spelbrink, j. n.; li, f. y.; tiranti, v.; nikali, k.; yuan, q. p.; tariq, m.;
+42
+m. alemi et al. / free radical biology & medicine 42 (2007) 32–43
+wanrooij, s.; garrido, n.; comi, g.; morandi, l.; santoro, l.; toscano,
+a.; fabrizi, g. m.; somer, h.; croxen, r.; beeson, d.; poulton, j.;
+suomalainen, a.; jacobs, h. t.; zeviani, m.; larsson, c. human
+mitochondrial dna deletions associated with mutations in the gene
+encoding twinkle, a phage t7 gene 4-like protein localized in
+mitochondria. nat. genet. 28:223–231; 2001.
+[12] van goethem, g.; dermaut, b.; lofgren, a.; martin, j. j.; van
+broeckhoven, c. mutation of polg is associated with progressive
+external ophthalmoplegia characterized by mtdna deletions. nat. genet.
+28:211–212; 2001.
+[13] cortopassi, g. a.; shibata, d.; soong, n. w.; arnheim, n. a pattern of
+accumulation of a somatic deletion of mitochondrial dna in aging human
+tissues. proc. natl. acad. sci. usa 89:7370–7374; 1992.
+[14] wang, e.; wong, a.; cortopassi, g. the rate of mitochondrial mutagenesis
+is faster in mice than humans. mutat. res. 377:157–166; 1997.
+[15] soong, n. w.; hinton, d. r.; cortopassi, g. a.; arnheim, n. mosaicism
+for a specific somatic mitochondrial dna mutation in adult human brain.
+nat. genet. 2:318–323; 1992.
+[16] katayama, m.; tanaka, m.; yamamoto, h.; ohbayashi, t.; nimura, y.;
+ozawa, t. deleted mitochondrial dna in the skeletal muscle of aged
+individuals. biochem. int. 25:47–56; 1991.
+[17] simonetti, s.; chen, x.; dimauro, s.; schon, e. a. accumulation of
+deletions in human mitochondrial dna during normal aging: analysis by
+quantitative pcr. biochim. biophys. acta 1180:113–122; 1992.
+[18] kraytsberg, y.; kudryavtseva, e.; mckee, a. c.; geula, c.; kowall, n. w.;
+khrapko, k. mitochondrial dna deletions are abundant and cause
+functional
+in aged human substantia nigra neurons. nat.
+genet. 38:518–520; 2006.
+impairment
+[19] brierley, e. j.; johnson, m. a.; james, o. f.; turnbull, d. m.
+mitochondrial involvement in the ageing process. facts and controversies.
+mol. cell. biochem. 174:325–328; 1997.
+[20] cao, z.; wanagat, j.; mckiernan, s. h.; aiken, j. m. mitochondrial dna
+deletion mutations are concomitant with ragged red regions of individual,
+aged muscle fibers: analysis by laser-capture microdissection. nucleic
+acids res. 29:4502–4508; 2001.
+[21] kopsidas, g.; kovalenko, s. a.; kelso, j. m.; linnane, a. w. an age-
+associated correlation between cellular bioenergy decline and mtdna
+rearrangements in human skeletal muscle. mutat. res. 421:27–36; 1998.
+[22] pesce, v.; cormio, a.; fracasso, f.; vecchiet, j.; felzani, g.; lezza, a. m.;
+cantatore, p.; gadaleta, m. n. age-related mitochondrial genotypic and
+phenotypic alterations in human skeletal muscle. free radic. biol. med.
+30:1223–1233; 2001.
+[23] short, k. r.; bigelow, m. l.; kahl, j.; singh, r.; coenen-schimke, j.;
+raghavakaimal, s.; nair, k. s. decline in skeletal muscle mitochondrial
+function with aging in humans. proc. natl. acad. sci. usa 102:5618–5623;
+2005.
+[24] bender, a.; krishnan, k. j.; morris, c. m.; taylor, g. a.; reeve, a. k.;
+perry, r. h.; jaros, e.; hersheson, j. s.; betts, j.; klopstock, t.; taylor, r.
+w.; turnbull, d. m. high levels of mitochondrial dna deletions in
+substantia nigra neurons in aging and parkinson disease. nat. genet.
+38:515–517; 2006.
+[25] hayashi, j.; ohta, s.; kikuchi, a.; takemitsu, m.; goto, y.; nonaka, i.
+introduction of disease-related mitochondrial dna deletions into hela
+cells lacking mitochondrial dna results in mitochondrial dysfunction.
+proc. natl. acad. sci. usa 88:10614–10618; 1991.
+[26] porteous, w. k.; james, a. m.; sheard, p. w.; porteous, c. m.; packer, m. a.;
+hyslop, s. j.; melton, j. v.; pang, c. y.; wei, y. h.; murphy, m. p.
+bioenergetic consequences of accumulating the common 4977-bp mito-
+chondrial dna deletion. eur. j. biochem. 257:192–201; 1998.
+[27] inoue, k.; nakada, k.; ogura, a.; isobe, k.; goto, y.; nonaka, i.; hayashi,
+j. i. generation of mice with mitochondrial dysfunction by introducing
+mouse mtdna carrying a deletion into zygotes. nat. genet. 26:176–181;
+2000.
+[28] nakada, k.; ono, t.; hayashi, j. a novel defense system of mitochondria
+in mice and human subjects for preventing expression of mitochondrial
+dysfunction by pathogenic mutant mtdnas. mitochondrion 2:59–70;
+2002.
+wei, y. h. mitochondrial dna mutations and oxidative damage in
+skeletal muscle of patients with chronic uremia. j. biomed. sci.
+9:549–560; 2002.
+[30] jou, m. j.; peng, t. i.; wu, h. y.; wei, y. h. enhanced generation of
+mitochondrial reactive oxygen species in cybrids containing 4977-bp
+mitochondrial dna deletion. ann. n.y. acad. sci. 1042:221–228; 2005.
+[31] wei, y. h.; lee, c. f.; lee, h. c.; ma, y. s.; wang, c. w.; lu, c. y.; pang,
+c. y. increases of mitochondrial mass and mitochondrial genome in
+association with enhanced oxidative stress in human cells harboring 4,977
+bp-deleted mitochondrial dna. ann. n.y. acad. sci. 928:97–112; 2001.
+[32] lu, c. y.; lee, h. c.; fahn, h. j.; wei, y. h. oxidative damage elicited by
+imbalance of free radical scavenging enzymes is associated with large-
+scale mtdna deletions in aging human skin. mutat. res. 423:11–21;
+1999.
+[33] santorelli, f. m.; barmada, m. a.; pons, r.; zhang, l. l.; dimauro, s.
+leigh-type neuropathology in pearson syndrome associated with impaired
+atp production and a novel mtdna deletion. neurology 47:1320–1323;
+1996.
+[34] attardi, g.; schatz, g. biogenesis of mitochondria. annu. rev. cell. biol.
+4:289–333; 1988.
+[35] gibson, b. w. the human mitochondrial proteome: oxidative stress,
+protein modifications and oxidative phosphorylation. int. j. biochem. cell.
+biol. 37:927–934; 2005.
+[36] chinnery, p. f.; schon, e. a. mitochondria. j. neurol. neurosurg.
+psychiatry 74:1188–1199; 2003.
+[37] bossy-wetzel, e.; green, d. r. apoptosis: checkpoint at the mitochondrial
+frontier. mutat. res. 434:243–251; 1999.
+[38] king, m. p.; attardi, g. human cells lacking mtdna: repopulation with
+exogenous mitochondria by complementation. science 246:500–503;
+1989.
+[39] carelli, v.; vergani, l.; bernazzi, b.; zampieron, c.; bucchi, l.;
+valentino, m.; rengo, c.; torroni, a.; martinuzzi, a. respiratory function
+in cybrid cell lines carrying european mtdna haplogroups: implications
+for leber's hereditary optic neuropathy. biochim. biophys. acta
+1588:7–14; 2002.
+[40] danielson, s. r.; carelli, v.; tan, g.; martinuzzi, a.; schapira, a. h.;
+savontaus, m. l.; cortopassi, g. a. isolation of transcriptomal changes
+attributable to lhon mutations and the cybridization process. brain
+128:1026–1037; 2005.
+[41] schadt, e. e.; li, c.; ellis, b.; wong, w. h. feature extraction and
+normalization algorithms for high-density oligonucleotide gene expression
+array data. j. cell. biochem. suppl. 37:120–125; 2001.
+[42] khatri, p.; draghici, s.; ostermeier, g. c.; krawetz, s. a. profiling gene
+expression using onto-express. genomics 79:266–270; 2002.
+[43] slocum, r. h.; cummings, j. g. amino acid analysis of physiological
+samples. in: hommes, f.a. (ed.), techniques in diagnostic human
+biochemical genetics: a laboratory manual. wiley-liss, somerset, nj,
+pp. 87–126; 1991.
+[44] cortopassi, g.; danielson s.; alemi, m.; tong, w.; carelli, v.; martinuzzi, a.;
+marzuki, s.; majamaa, k.; wong, a. mitochondrial disease activates
+transcripts of the unfolded protein response and cell cycle and inhibits
+vesicular secretion and oligodendrocyte-specific transcripts. mitochondrion in
+press; 2006.
+[45] li, f.; wang, y.; zeller, k. i.; potter, j. j.; wonsey, d. r.; o'donnell, k. a.;
+kim, j. w.; yustein, j. t.; lee, l. a.; dang, c. v. myc stimulates nuclearly
+encoded mitochondrial genes and mitochondrial biogenesis. mol. cell.
+biol. 25:6225–6234; 2005.
+[46] miceli, m. v.; jazwinski, s. m. common and cell type-specific responses
+of human cells to mitochondrial dysfunction. exp. cell. res.
+302:270–280; 2005.
+[47] wonsey, d. r.; follettie, m. t. loss of the forkhead transcription factor
+foxm1 causes centrosome amplification and mitotic catastrophe. cancer
+res. 65:5181–5189; 2005.
+[48] vabulas, r. m.; hartl, f. u. protein synthesis upon acute nutrient
+restriction relies on proteasome function. science 310:1960–1963; 2005.
+[49] klionsky, d. j.; emr, s. d. autophagy as a regulated pathway of cellular
+degradation. science 290:1717–1721; 2000.
+[29] lim, p. s.; ma, y. s.; cheng, y. m.; chai, h.; lee, c. f.; chen, t. l.;
+[50] mizushima, n.; yoshimori, t.; ohsumi, y. role of the apg12 conjugation
+m. alemi et al. / free radical biology & medicine 42 (2007) 32–43
+43
+system in mammalian autophagy. int. j. biochem. cell. biol. 35:553–561;
+2003.
+[51] kadowaki, m.; kanazawa, t. amino acids as regulators of proteolysis.
+j. nutr. 133:2052s–2056s; 2003.
+[52] lindsley, j. e.; rutter, j. nutrient sensing and metabolic decisions. comp.
+biochem. physiol. b: biochem. mol. biol. 139:543–559; 2004.
+[53] darsow, t.; rieder, s. e.; emr, s. d. a multispecificity syntaxin
+homologue, vam3p, essential for autophagic and biosynthetic protein
+transport to the vacuole. j. cell. biol. 138:517–529; 1997.
+[54] simonsen, a.; bremnes, b.; ronning, e.; aasland, r.; stenmark, h.
+syntaxin-16, a putative golgi t-snare. eur. j. cell. biol. 75:223–231;
+1998.
+[55] wang, y.; tai, g.; lu, l.; johannes, l.; hong, w.; luen tang, b. trans-
+golgi network syntaxin 10 functions distinctly from syntaxins 6 and 16.
+mol. membr. biol. 22:313–325; 2005.
+[56] gellerich, f. n.; deschauer, m.; chen, y.; muller, t.; neudecker, s.; zierz,
+s. mitochondrial respiratory rates and activities of respiratory chain
+complexes correlate linearly with heteroplasmy of deleted mtdna without
+threshold and independently of deletion size. biochim. biophys. acta
+1556:41–52; 2002.
+[57] jacobs, h. t. disorders of mitochondrial protein synthesis. hum. mol.
+genet. 12 spec no 2:r293–r301; 2003.
+[58] mita, s.; schmidt, b.; schon, e. a.; dimauro, s.; bonilla, e. detection of
+“deleted” mitochondrial genomes in cytochrome-c oxidase-deficient
+muscle fibers of a patient with kearns-sayre syndrome. proc. natl.
+acad. sci. usa 86:9509–9513; 1989.
+[59] rollins, s.; prayson, r. a.; mcmahon, j. t.; cohen, b. h. diagnostic yield
+muscle biopsy in patients with clinical evidence of mitochondrial
+cytopathy. am. j. clin. pathol. 116:326–330; 2001.
+[60] mcfarland, r.; taylor, r. w.; turnbull, d. m. the neurology of
+mitochondrial dna disease. lancet neurol. 1:343–351; 2002.
+[61] zeviani, m.; amati, p.; comi, g.; fratta, g.; mariotti, c.; tiranti, v.
+searching for genes affecting the structural integrity of the mitochondrial
+genome. biochim. biophys. acta 1271:153–158; 1995.
+[62] wonsey, d. r.; zeller, k. i.; dang, c. v. the c-myc target gene prdx3 is
+required for mitochondrial homeostasis and neoplastic transformation.
+proc. natl. acad. sci. usa 99:6649–6654; 2002.
+[63] dimauro, s.; schon, e. a. mitochondrial respiratory-chain diseases. n.
+engl. j. med. 348:2656–2668; 2003.
+[64] nakase, h.; moraes, c. t.; rizzuto, r.; lombes, a.; dimauro, s.; schon,
+e. a. transcription and translation of deleted mitochondrial genomes in
+kearns-sayre syndrome:
+implications for pathogenesis. am. j. hum.
+genet. 46:418–427; 1990.
+[65] sudoyo, h.; marzuki, s.; byrne, e.; mastaglia, f. phenotypic expression of
+mtdna heteroplasmy in the skeletal muscle of patients with oculomyo-
+pathy: defect
+in mitochondrial protein synthesis. j. neurol. sci.
+117:83–91; 1993.
+[66] powell, s. r.; wang, p.; divald, a.; teichberg, s.; haridas, v.; mccloskey, t. w.;
+davies, k. j.; katzeff, h. aggregates of oxidized proteins (lipofuscin) induce
+apoptosis through proteasome inhibition and dysregulation of proapoptotic
+proteins. free radic. biol. med. 38:1093–1101; 2005.
+[67] grune, t.; jung, t.; merker, k.; davies, k. j. decreased proteolysis caused
+by protein aggregates, inclusion bodies, plaques, lipofuscin, ceroid, and
+‘aggresomes’ during oxidative stress, aging, and disease. int. j. biochem.
+cell. biol. 36:2519–2530; 2004.
+[68] davies, k. j.; shringarpure, r. preferential degradation of oxidized
+proteins by the 20s proteasome may be inhibited in aging and in
+inflammatory neuromuscular diseases. neurology 66:s93–s96; 2006.
+[69] betarbet, r.; canet-aviles, r. m.; sherer, t. b.; mastroberardino, p. g.;
+mclendon, c.; kim, j. h.; lund, s.; na, h. m.; taylor, g.; bence, n. f.;
+kopito, r.; seo, b. b.; yagi, t.; yagi, a.; klinefelter, g.; cookson, m. r.;
+greenamyre, j. t.
+intersecting pathways to neurodegeneration in
+parkinson's disease: effects of the pesticide rotenone on dj-1, alpha-
+synuclein, and the ubiquitin-proteasome system. neurobiol. dis.
+22:404–420; 2006.
+[70] shamoto-nagai, m.; maruyama, w.; kato, y.; isobe, k.; tanaka, m.; naoi,
+m.; osawa, t. an inhibitor of mitochondrial complex i, rotenone,
+inactivates proteasome by oxidative modification and induces aggregation
+of oxidized proteins in sh-sy5y cells. j. neurosci. res. 74:589–597;
+2003.
+[71] iwata, a.; riley, b. e.; johnston, j. a.; kopito, r. r. hdac6 and
+microtubules are required for autophagic degradation of aggregated
+huntingtin. j. biol. chem. 280:40282–40292; 2005.
+[72] sullivan, p. g.; dragicevic, n. b.; deng, j. h.; bai, y.; dimayuga, e.;
+ding, q.; chen, q.; bruce-keller, a. j.; keller, j. n. proteasome
+inhibition alters neural mitochondrial homeostasis and mitochondria
+turnover. j. biol. chem. 279:20699–20707; 2004.
+[73] shorer, h.; amar, n.; meerson, a.; elazar, z. modulation of n-
+ethylmaleimide-sensitive factor activity upon amino acid deprivation.
+j. biol. chem. 280:16219–16226; 2005.
+[74] reggiori, f.; wang, c. w.; nair, u.; shintani, t.; abeliovich, h.; klionsky,
+d. j. early stages of the secretory pathway, but not endosomes, are
+required for cvt vesicle and autophagosome assembly in saccharomyces
+cerevisiae. mol. biol. cell 15:2189–2204; 2004.
+[75] ishihara, n.; hamasaki, m.; yokota, s.; suzuki, k.; kamada, y.; kihara,
+a.; yoshimori, t.; noda, t.; ohsumi, y. autophagosome requires specific
+early sec proteins for its formation and nsf/snare for vacuolar fusion.
+mol. biol. cell 12:3690–3702; 2001.
+[76] cherkasova, v. a.; hinnebusch, a. g. translational control by tor and
+tap42 through dephosphorylation of eif2alpha kinase. gcn2 genes dev.
+17:859–872; 2003.
+[77] wek, s. a.; zhu, s.; wek, r. c. the histidyl-trna synthetase-related
+sequence in the eif-2 alpha protein kinase gcn2 interacts with trna and
+is required for activation in response to starvation for different amino acids.
+mol. cell. biol. 15:4497–4506; 1995.
+[78] kimball, s. r. regulation of translation initiation by amino acids in
+eukaryotic cells. prog. mol. subcell. biol. 26:155–184; 2001.
+[79] james, a. m.; sheard, p. w.; wei, y. h.; murphy, m. p. decreased atp
+synthesis is phenotypically expressed during increased energy demand in
+fibroblasts containing mitochondrial trna mutations. eur. j. biochem.
+259:462–469; 1999.
+[80] kemp, b. e.; mitchelhill, k. i.; stapleton, d.; michell, b. j.; chen, z. p.;
+witters, l. a. dealing with energy demand: the amp-activated protein
+kinase. trends biochem. sci. 24:22–25; 1999.
+[81] bolster, d. r.; crozier, s. j.; kimball, s. r.; jefferson, l. s. amp-
+activated protein kinase suppresses protein synthesis in rat skeletal muscle
+through down-regulated mammalian target of
+rapamycin (mtor)
+signaling. j. biol. chem. 277:23977–23980; 2002.
+[82] jefferson, l. s.; kimball, s. r. amino acids as regulators of gene
+expression at the level of mrna translation. j. nutr. 133:2046s–2051s;
+2003.
+[83] anthony, j. c.; yoshizawa, f.; anthony, t. g.; vary, t. c.; jefferson, l. s.;
+kimball, s. r. leucine stimulates translation initiation in skeletal muscle
+of postabsorptive rats via a rapamycin-sensitive pathway. j. nutr.
+130:2413–2419; 2000.
+[84] anthony, j. c.; anthony, t. g.; layman, d. k. leucine supplementation
+enhances skeletal muscle recovery in rats following exercise. j. nutr.
+129:1102–1106; 1999.
+[85] charrueau, c.; blonde-cynober, f.; coudray-lucas, c.; poupon, r.;
+chaumeil, c.; hannoun, l.; cynober, l. prevention of proteolysis in
+cold-stored rat
+liver by addition of amino acids to the preservation
+solution. j. gastroenterol. hepatol. 15:1199–1204; 2000.

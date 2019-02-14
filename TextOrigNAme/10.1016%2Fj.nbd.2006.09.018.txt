@@ -1,0 +1,1171 @@
+www.elsevier.com/locate/ynbdi
+neurobiology of disease 25 (2007) 252 – 265
+the formation of peripheral myelin protein 22 aggregates
+is hindered by the enhancement of autophagy and expression
+of cytoplasmic chaperones
+jenny fortun, jonathan d. verrier, jocelyn c. go, irina madorsky,
+william a. dunn, and lucia notterpek⁎
+departments of neuroscience and anatomy and cell biology, college of medicine, mcknight brain institute, university of florida,
+100 newell drive, box 100244, gainesville, fl 32610-0244, usa
+received 14 july 2006; revised 29 august 2006; accepted 7 september 2006
+available online 13 december 2006
+the accumulation of misfolded proteins is associated with various
+neurodegenerative conditions. peripheral myelin protein 22 (pmp22)
+is a hereditary neuropathy-linked, short-lived molecule that forms
+aggresomes when the proteasome is inhibited or the protein is mutated.
+we previously showed that
+the removal of pre-existing pmp22
+aggregates is assisted by autophagy. here we examined whether the
+accumulation of such aggregates could be suppressed by experimental
+induction of autophagy and/or chaperones. enhancement of autop-
+hagy during proteasome inhibition hinders protein aggregate forma-
+tion and correlates with a reduction in accumulated proteasome
+substrates. conversely, simultaneous inhibition of autophagy and the
+proteasome augments the formation of aggregates. an increase of heat
+shock protein levels by geldanamycin treatment or heat shock pre-
+conditioning similarly hampers aggresome formation. the beneficial
+effects of autophagy and chaperones in preventing the accumulation of
+misfolded pmp22 are additive and provide a potential avenue for
+therapeutic approaches in hereditary neuropathies linked to pmp22
+mutations.
+© 2006 elsevier inc. all rights reserved.
+keywords: autophagosome; proteasome; neuropathy; schwann cells;
+protein misfolding; aggresomes; heat shock proteins; heat shock
+introduction
+in order to maintain cellular homeostasis, different quality
+control mechanisms evolved which prevent the accumulation of
+misfolded or nonfunctional polypeptides in aggregates (goldberg,
+2003). when the correct folding and/or trafficking of a nascent
+polypeptide fail, the protein is commonly targeted for degradation
+by the ubiquitin–proteasome system (ups) (goldberg, 2003). the
+proteasome is an enzymatic complex that contains a catalytic
+chamber inside of which unfolded polypeptides are degraded
+(groll and clausen, 2003).
+in addition to the proteasome,
+unwanted cytoplasmic proteins can be degraded within lysosomes.
+macroautophagy, from here on referred to as autophagy,
+is a
+constitutive event by which cytoplasmic cargo is engulfed in
+double membrane-bound structures called autophagosomes that
+later fuse with lysosomes, ensuring degradation of the cargo
+(klionsky and emr, 2000). when the balance between synthesis/
+folding and degradation pathways is disrupted, the accumulation of
+proteins in aggregates is favored, which constitutes the patholo-
+gical hallmark of several neurodegenerative conditions (ciechan-
+over and brundin, 2003).
+peripheral myelin protein 22 (pmp22)
+is a hydrophobic,
+aggregation-prone, membrane protein expressed mainly in myeli-
+nating schwann cells (scs) (snipes et al., 1992; tobler et al.,
+2002). in non-myelinating and myelinating scs,
+the majority
+(~80%) of the newly synthesized pmp22 is rapidly degraded by
+the ups, presumably due to misfolding (pareek et al., 1997).
+mutations in pmp22, or duplication of the pmp22 gene, are
+associated with hereditary demyelinating neuropathies among
+which, charcot–marie–tooth type 1a (cmt1a) is the most
+common form (young and suter, 2001). although the molecular
+mechanisms underlying cmt1a are not well understood, halted
+intracellular protein trafficking and formation of aggregates are
+believed to play roles (d’urso et al., 1998; tobler et al., 1999;
+naef and suter, 1999; colby et al., 2000; fortun et al., 2003,
+2006).
+the spontaneous
+in scs of cmt1a mouse models,
+abbreviations: pmp22, peripheral myelin protein 22; sc, schwann cell;
+wt, wild type; hsp, heat shock protein; lc,
+lactacystin; dmso,
+dimethylsulfoxide; stv, starvation; 3-ma, 3-methyladenine; ga, geldana-
+mycin; hs, heat shock; gfp, green fluorescent protein; cmt1a, charcot–
+marie–tooth disease type 1a; p, postnatal; ups, ubiquitin–proteasome
+system; cma, chaperone-mediated autophagy.
+⁎ corresponding author. fax: +1 352 846 3854.
+e-mail address: notterp@mbi.ufl.edu (l. notterpek).
+available online on sciencedirect (www.sciencedirect.com).
+0969-9961/$ - see front matter © 2006 elsevier inc. all rights reserved.
+doi:10.1016/j.nbd.2006.09.018
+j. fortun et al. / neurobiology of disease 25 (2007) 252–265
+253
+accumulation of misfolded pmp22 in aggregates correlates with
+impaired proteasome activity (fortun et al., 2005, 2006). these
+aggregates resemble pmp22 inclusions formed in cultured scs
+upon pharmacological
+termed
+aggresomes (johnston et al., 1998; notterpek et al., 1999).
+the proteasome,
+inhibition of
+it is still debated whether the formation of cytosolic protein
+aggregates, such as of pmp22, are harmful or protective in given
+disease paradigms. in models of cmt1a, pmp22 aggregates
+associate with autophagosomes and lysosomes, as well as heat
+shock proteins (hsps), suggesting endogenous activation of these
+pathways in response to the presence of misfolded proteins
+(notterpek et al., 1997; ryan et al., 2002; fortun et al., 2003,
+2005). cooperation of
+the aggresome and autophagy in the
+removal of aggregation-prone proteins is supported by pharmaco-
+logic studies in hela cells (iwata et al., 2005). using a similar
+approach, previously we showed that removal of pre-existing
+aggresomes formed by endogenous pmp22 is aided by autophagy
+(fortun et al., 2003). a second cellular mechanism that can
+influence protein aggregation is the heat shock response. hsps are
+molecular chaperones that prevent protein aggregation, either by
+aiding degradation via chaperone-mediated autophagy (cma) or
+the ups, or by promoting re-folding (muchowski and wacker,
+2005). in proteasome-inhibited cells, overexpressed wild-type (wt)
+and mutant pmp22s, as well as the spontaneous aggregates in
+neuropathic mouse nerves, recruit hsps (ryan et al., 2002; fortun
+et al., 2003). nonetheless, it is not known if elevated levels of
+chaperones are able to influence the folding efficiency of pmp22.
+as a step toward the development of therapeutic approaches for
+pmp22-associated neuropathies, here we asked whether
+the
+induction of autophagy and/or hsps could prevent the formation
+of cytosolic pmp22 aggregates.
+the stimulation of
+autophagy or the heat shock response is able to significantly
+reduce the formation of aggregates, and relieve the impairment of
+the proteasome. these results support the further development of
+pharmacologic agents targeted at modulating the autophagic and
+chaperone systems.
+indeed,
+materials and methods
+animal housing
+trembler j (trj) (jackson laboratories) mouse breeding colony
+is housed under spf conditions at the mcknight brain institute
+animal facility. the use of animals for these studies is approved by
+a university of florida institutional animal care and use
+committee. genomic dna was isolated from tail biopsies of
+mouse pups up to 8 days old and litters were genotyped by pcr
+(notterpek et al., 1997). for the western blotting experiments,
+sciatic nerves from 6-month-old (adult) wt and heterozygous
+neuropathic mice were used. for the primary mouse sc cultures,
+sciatic nerves from genotyped postnatal day 5 (p5) littermates were
+used.
+cell culture and aggresome formation
+primary sc cultures were established from newborn rat or p5
+mouse pups (ryan et al., 2002). rat scs were grown to ~80%
+confluency in 10% fetal calf serum (hyclone, logan, ut), 5 μm
+forskolin (calbiochem, la jolla, ca) and 10 μg/ml bovine
+pituitary extract (biomedical technologies inc, stoughton, ma)
+containing dulbecco’s modified eagle’s medium. scs were treated
+with the proteasome inhibitor lactacystin (lc) (10 μm) (biomol
+research laboratories, pa), or
+its vehicle, dimethylsulfoxide
+(dmso) (sigma), as a control (notterpek et al., 1999). treatments
+were performed for 12 h or 16 h, as indicated in the text. the
+proteasome inhibitors epoxomicin (5 μm) and mg-132 (20 μm)
+(both from biomol) were also used to exclude that effects were
+unique to lactacystin. after each treatment paradigm, the cells were
+immediately processed for
+immunostaining to visualize the
+aggregates, or for western blotting to evaluate the accumulation
+of ubiquitinated proteins (notterpek et al., 1999). primary mouse
+scs from wt and neuropathic nerves were used within 24 h of
+culture, without pharmacologic treatments.
+visualization of autophagosomes by direct fluorescence
+microscopy
+autophagic vacuoles were visualized by labeling with mono-
+dansylcadaverine (mdc) or gfp-lc3 (munafo and colombo,
+2001; kabeya et al., 2000). scs from wt or trj mice grown on
+coverslips were labeled with 100 μm mdc (sigma) for 1 h in
+serum-free medium (dmem) and immediately imaged, or fixed
+with 4% paraformaldehyde prior to imaging. rat or mouse scs
+plated at equal densities were transfected with gfp-lc3 plasmid
+(kabeya et al., 2000) using the lipofectamine method (invitrogen,
+life technology, carlsbad, ca). transfection efficiency was
+~36% using the greenlantern plasmid (invitrogen). twenty-
+four hours after transfection, the relationship between spontaneous
+(mouse scs) or lc-induced (16 h, 10 μm in rat scs) aggregates
+and gfp-lc3 fluorescence was evaluated by immunostaining
+using anti-pmp22 antibodies, as explained in the text.
+ultrastuctural studies
+rat scs treated with or without proteasome inhibitors for 12 h
+or 16 h, were fixed in 2% paraformaldehyde and 2.5%
+glutaraldehyde in 0.1 m sodium cacodylate buffer (ph 7.5), with
+7% sucrose, at 4°c for 60 min. the specimens were then treated
+with 2% oso4 and uranyl acetate, and dehydrated and embedded
+in epon resin. for localization of acid phosphatase (acp) activity,
+the samples were treated with cytidine 5′-monophosphate and
+cerium chloride after fixation (lenk et al., 1992). thin sections
+were examined on a jeol 100cx transmission electron micro-
+scope. the volume of autophagosomes divided by the volume of
+cytoplasm was determined in eight
+independent samples of
+proteasome inhibited or control cells. the results are presented
+as percentages of cytoplasm volumes. statistical significance
+between the various paradigms was determined using a student’s
+t-test.
+modulation of autophagy and molecular chaperones
+to determine the effects of autophagy and molecular chaper-
+ones on the formation of protein aggregates, proteasome inhibition
+was carried out in the absence or the presence of the following
+modulators. for the stimulation of autophagy, scs were incubated
+in media deprived of amino acids and serum (starvation medium)
+(fortun et al., 2003), or
+treated with rapamycin (200 nm)
+(calbiochem) (ravikumar et al., 2004). to block autophagy,
+3-methyladenine (3-ma) (10 mm) (sigma) was included, without
+or during proteasome inhibition, in normal or starvation medium
+(fortun et al., 2003). the effects of elevated hsps were evaluated
+254
+j. fortun et al. / neurobiology of disease 25 (2007) 252–265
+by two approaches, with and without lc. in the first paradigm, cells
+were treated with geldanamycin (ga) (125 nm–2 μm) for 16 h
+(mclean et al., 2004). alternatively, cells were incubated at 45°c
+for 20 min (heat shock; hs) followed by a chase for 0–16 h (allen
+et al., 2004). for the combined treatment, cells were first exposed to
+a 20 min hs, followed by incubation at 37°c in fresh starvation
+medium, with or without lc. cells with aggresomes were visualized
+by immunostaining with monoclonal anti-pmp22 and polyclonal
+anti-ubiquitin antibodies (see below).
+immunofluorescence and aggresome quantification
+(molecular probes).
+cultured scs on glass coverslips were fixed with 4%
+paraformaldehyde for 10 min and permeabilized with 0.2% triton
+x-100 for 15 min at room temperature. after blocking with 10%
+normal goat serum, the samples were incubated with the indicated
+primary antibodies overnight at 4°c. bound antibodies were
+detected using alexa fluor 594-conjugated (red) anti-rabbit and
+alexa fluor 488-conjugated (green) anti-mouse antibodies (mo-
+lecular probes, eugene, or). samples were then mounted using
+the prolong antifade kit
+images were
+acquired with a spot digital camera (diagnostic instrumentals,
+sterling heights, mi) attached to a nikon eclipse e800 (tokyo,
+japan), or an olympus mrc-1024 confocal microscope. the
+number of cells with aggresomes was quantified and expressed as
+a percent of total cells, as detected by nuclear staining with
+hoechst #33258 (molecular probes, eugene, or). all experiments
+were repeated independently at least three times, and in each one,
+cells in eight different visual fields (0.277 μm2 actual area) were
+counted. the criteria for aggresome counting included: 1)
+immunoreactivity for ubiquitin and pmp22; 2) assembly at
+perinuclear region; 3) exclusion from er and golgi and 4)
+diameter larger than 1 μm. statistical significance between the
+various treatment paradigms was evaluated using a student’s t-test.
+images were processed for printing using adobe photoshop 5.0
+(adobe systems, san jose, ca).
+primary antibodies
+a mouse monoclonal antibody was used to detect pmp22 in the
+studied samples (chemicon, temencula, ca). to monitor
+autophagy, a polyclonal rabbit anti-microtubule-associated protein
+1, light chain 3 (lc3) antibody, generated against an eighteen
+amino acid portion of the human protein [sektfkqrrtfeqr-
+vedv(c)], was utilized. antibodies for protein chaperones
+included anti-calnexin, anti-heat shock protein 70 (hsp70),
+hsp40 and αb-crystallin (all from stressgen, victoria british
+columbia, canada). monoclonal anti-actin, -tubulin (both from
+sigma), -ubiquitin (santa cruz biotechnology, ca) and polyclonal
+anti-gfp (gift from dr. g. shaw, university of florida), -ubiquitin
+(dako, carpinteria, ca), cathepsin d (cortex biochem, san
+leandro, ca) were obtained from the indicated suppliers.
+western blot analyses
+frozen sciatic nerves from 6-month-old genotyped mice were
+crushed under liquid nitrogen, lysed in immunoprecipitation buffer
+[10 mm tris–hcl (ph 7.5), 5 mm edta, 1% nonidet p-40,
+0.5% deoxycholate and 150 mm nacl] supplemented with a
+mixture of protease inhibitors (complete™; roche, indianapolis,
+in) (fortun et al., 2003). for each lysate, at least six nerves from
+three mice per genotype were used. the lysates were micro-
+centrifuged, the supernatant removed and the insoluble material
+incubated with 10 mm tris–hcl, 3% sds for 10 min at room
+temperature. following a brief sonication, total protein concentra-
+tions were measured by bca assay (pierce, rockford, il). after
+exposure to the specified conditions, cultured rat scs were lysed
+with 3% sodium dodecyl sulfate (sds) containing gel sample
+buffer, supplemented with protease inhibitors (fortun et al., 2006).
+protein lysates were separated on sds gels and transferred onto
+nitrocellulose or pvdf membranes (for ubiquitin and lc3). blots
+were blocked and incubated with the indicated primary antibodies.
+after
+incubation with anti-rabbit or anti-mouse horseradish
+peroxidase (hrp) conjugated secondary antibodies (sigma, st.
+louis, mo), membranes were reacted with an enhanced
+chemiluminescent substrate (perkin elmer, boston, ma). films
+were digitally imaged using a gs-710 densitometer (bio-rad
+laboratories).
+proteasome reporter assay
+to monitor ubiquitin-mediated proteolysis by the ups, a green
+fluorescent protein (gfp)-based substrate was utilized (dantuma et
+al., 2000). rat scs plated at equal densities were transfected with an
+ubg76v-gfp reporter construct using the lipofectamine method
+(invitrogen, life technology, carlsbad, ca). the attachment of a
+mutated uncleavable ubiquitin moiety to the normally very stable
+gfp results in a fusion protein (ubg76v-gfp) that
+is rapidly
+degraded by the proteasome and is hardly detected under normal
+conditions (dantuma et al., 2000). the efficiency of transfection was
+~43% using the greenlantern gfp plasmid (invitrogen) (fortun et
+al., 2006). twenty-four hours after transfection, the cells were
+treated with lc (10 μm) with or without autophagy modulation, as
+explained in the text. sixteen hours later, cells were imaged for gfp
+expression and phase contrast using a t1-sm inverted microscope
+equipped with a nikon ds-l1 camera. cellular levels of gfp were
+determined by western blotting using anti-gfp and anti-tubulin
+(loading control) antibodies. the intensity of bands was quantified
+using scion images software (scion, frederick, md). the relative
+levels of ubg76v-gfp were expressed as the absorbance units of the
+gfp band, after correction for tubulin. the results from duplicates of
+three independent experiments were averaged, graphed and
+analyzed using a student’s t-test.
+results
+correlation between the formation of spontaneous pmp22
+aggregates and autophagy
+spontaneous protein aggregates accumulate in the cytoplasm of
+scs from cmt1a-like neuropathic mice based on pmp22 point
+mutation (trj) or overexpression of the wt protein (ryan et al., 2002;
+fortun et al., 2003, 2006). morphological studies show that these
+aggregates are often surrounded by lysosomes and autophagosomes,
+suggesting ongoing autophagy. to further examine the involvement
+of autophagy in neuropathic samples, primary scs derived from p5
+trj mouse nerves were examined (fig. 1). when scs from wt and
+trj neuropathic mice are incubated with mdc dye, a marker for
+autophagic vacuoles, brighter and more numerous vesicles are
+detected in trj, as compared to wt cells (fig. 1a). as a biochemical
+measure of autophagy, next we evaluated the levels and lipidation of
+the autophagic marker lc3 (fig. 1b). after cleavage of the newly
+j. fortun et al. / neurobiology of disease 25 (2007) 252–265
+255
+fig. 1. aggregates in neuropathic scs recruit autophagosomes. (a) autophagosomes were visualized by mdc dye uptake in acutely cultured scs from wt and
+trj mouse nerves. images shown were collected at identical settings of the camera. (b) whole lysates (t), detergent-soluble (s) and detergent-insoluble (i)
+fractions from wt and trj neuropathic mouse nerves (15 μg/lane) were blotted with anti-lc3 antibodies. the arrowhead and arrow point at the lc3 i and lc3 ii
+forms, respectively. molecular masses are indicated at the left, in kda. (c) the localization of endogenous lc3 was evaluated by double labeling with anti-lc3
+(red) and anti-pmp22 (green) antibodies in scs from trj mice. (d) the recruitment of autophagosomes (green) to pmp22 aggregates (red) is visualized by direct
+gfp fluorescence in gfp-lc3 transfected trj cultures (d). scale bars: 10 μm.
+synthesized lc3, the cytosolic form (lc3 i) becomes lipidated
+(lc3 ii) and incorporates into the limiting membrane of
+autophagosomes, which is detected as a change in mobility on gel
+electrophoresis (tanida et al., 2004). analysis of total (t), detergent-
+soluble (s), and -insoluble (i) fractions of sciatic nerve lysates from
+wt and trj mice reveals an increase in the levels of lc3 i in the
+neuropathic sample, as compared to wt. furthermore, lc3 ii, the
+lipidated form bound to the autophagosome membrane, is below
+detection in lysates of wt nerves, but prominent and readily visible in
+trj. surprisingly, only a small fractions of lc3 i, but not lc3 ii, are
+found in the detergent-insoluble fraction. it is feasible that lc3 i
+associates with the aggregates and hence its detergent-insolubility,
+whereas the binding of lc3 ii to the autophagosome membrane
+confers solubility to the aggregate in its route to degradation.
+to examine the spatial association of autophagosomes with
+pmp22 aggregates, primary scs isolated from p5 trj mice were
+costained with anti-lc3 and pmp22 antibodies (fig. 1c). the
+merged image shows a perinuclear pmp22 aggregate in close
+association with the endogenous lc3. in agreement, cultures
+transfected with a gfp-lc3 plasmid to visualize autophagic
+vacuoles by direct fluorescence, show gfp-labeled autophagosomes
+in the vicinity of pmp22 aggregates (fig. 1d). autophagosomes
+were also detected near protein aggregates in nerves and scs isolated
+from pmp22 overexpressor mice (fortun et al., 2006). together,
+these results indicate that compared to wt, autophagy is induced in
+neuropathic mouse nerves containing spontaneous aggregates of
+mutated (fig. 1) or overproduced pmp22 (fortun et al., 2006).
+pmp22 aggregates formed under proteasome inhibition recruit
+autophagosomes
+a large fraction of the newly synthesized wt pmp22 is substrate
+for the ups and forms aggregates when this pathway is inhibited
+(notterpek et al., 1999). specifically, over ninety percent of
+cultured scs contain aggresomes of endogenous pmp22 after a 16-h
+treatment with proteasome inhibitors (notterpek et al., 1999;
+256
+j. fortun et al. / neurobiology of disease 25 (2007) 252–265
+ryan et al., 2002; fortun et al., 2003). these aggregates fulfill all
+established characteristics of aggresomes,
+including exclusion
+from the main organelles, recruitment of ubiquitin and micro-
+tubule-dependent accumulation (johnston et al., 1998; notterpek
+et al., 1999). using this in vitro model, we sought to evaluate the
+autophagic response during de novo formation of pmp22 aggregates
+(figs. 2 and 3). first, the levels of lc3 in lysates of lactacystin-
+treated rat scs were examined (figs. 2a, b). similar to the
+neuropathic samples (fig. 1), the formation of pmp22 aggresomes
+correlates with higher levels of lc3, both lc3 i and the lipidated
+lc3 ii forms, as compared to dmso-treated controls (fig. 2a). as
+positive controls for the activation of autophagy and for the
+conversion of lc3 i to lc3 ii, cells treated with rapamycin (rp)
+were included (fig. 2a). quantification of lc3 levels in five
+independent experiments, after correction for actin, corroborates the
+increase in lc3 i and ii in proteasome-inhibited cells (fig. 2b).
+significantly, the ratio of lc3 ii/i is increased nearly 2-fold (0.287 ±
+0.221 vs. 0.429 ± 1.385), as compared to control cells (p = 0.05).
+similar results were obtained when using other proteasome
+inhibitors, such as epoxomicin or mg132 (not shown). the elevated
+levels of lc3 are also noticeable by immunostaining (fig. 2c). in
+dmso-treated cells, lc3-like immunoreactivity is low (red), with a
+diffuse distribution throughout the cell (fig. 2c, inset). after 16 h of
+proteasome inhibition, lc3-labeled autophagosomes (red) are
+detected prominently at the periphery of pmp22 aggregates (green).
+partial co-localization of lc3 and pmp22 is also evident (yellow on
+merged image). utilizing the lc3-gfp transfection approach as for
+the primary mouse scs (fig. 1d), green fluorescent autophago-
+somes are detected around the lc-induced pmp22 aggregates (red)
+(fig. 2d). a similar induction of autophagy in response to
+proteasome inhibition has been observed in alln-treated hek-
+293 cells (iwata et al., 2005).
+to visualize the recruitment of autophagosomes during the
+formation of aggresomes, scs incubated with lactacystin for 12 or
+16 h were examined by transmission electron microscopy (fig. 3).
+after the 12 h of treatment, as determined by anti-ubiquitin and
+anti-pmp22 immunostainings, about 57% of the cells contain
+aggregates (see quantification below in fig. 5b). the aggregates
+are electron dense amorphous inclusions that form in the vicinity of
+the nucleus, and many of them are surrounded by autophagosomes
+(fig. 3a). the boxed area in fig. 3a is enlarged on the right to
+show autophagosomes (arrowheads) at
+the
+aggregate (arrow). after extended proteasome inhibition (16 h),
+over 90% of scs form large protein aggregates (notterpek et al.,
+the periphery of
+fig. 2. changes in the levels, lipidation and localization of lc3 in pmp22 aggresome-containing cells. (a) the levels of lc3 and actin in dmso control (c), lc
+or rapamycin (rp) treated (16 h) cell lysates (20 μg/lane) were determined by western blot. the arrowhead and arrow point at lc3 i and lc3 ii, respectively.
+molecular masses are indicated at the left, in kda. (b) the levels of lc3, after correction for actin, were quantified in five independent experiments. au:
+absorbance units; *p < 0.05; **p < 0.005. (c) pmp22 aggresomes (green) recruit endogenous lc3 (red) in lc-treated (16 h) cells. the localization of lc3 in
+control scs is shown (inset, red). the arrows denote lc3 in the periphery of a pmp22 aggresome. (d) lc-induced pmp22 aggregates (red) are surrounded by
+gfp-lc3 containing autophagosomes. nuclei are visualized by hoechst dye (blue) (merge, c and d). scale bars: 10 μm (c, d).
+j. fortun et al. / neurobiology of disease 25 (2007) 252–265
+257
+fig. 3. an increase in autophagosome number and size correlates with aggresome formation. (a) normal rat scs, after 12 h or (b) 16 h treatment with the
+proteasome inhibitor lc (10 μm) were processed for ultrastuctural analysis. the large arrows represent electron dense inclusions formed at the different time
+points. autophagic vacuoles are visible within (thin arrows) and around the inclusions (arrowheads). enlargements of the boxed areas in a and b are shown at the
+right. scale bars: as indicated.
+1999, and also see fig. 5), many of which contain autophagosomes
+within (narrow arrows) and around (arrowheads) the inclusion
+(fig. 3b). the size and the morphology of the autophagosomes
+appear heterogeneous, suggestive of the different stages in their
+formation and maturation (fig. 3b,
+right). to quantify the
+activation of autophagy, the volume of autophagosomes relative
+to the cytoplasm volume was determined in eight independent
+samples. after 12 h of proteasome inhibition,
+the volume of
+autophagosomes is increased by ~4%, but not significantly
+(p = 0.257), as compared to untreated control cells. however, a
+7-fold increase (2.43 ± 1.23 vs. 16.92 ± 8.84) was observed after
+16 h (p = 0.002), when nearly all the cells contain aggresomes.
+this data suggest that autophagy is enhanced coincident with the
+formation of pmp22 aggregates.
+the presence of
+autophagosomes after fusing with lysosomes become auto-
+lysosomes and acquire acid phosphatase (acp) and cathepsins
+(klionsky and emr, 2000). therefore,
+the
+lysosomal enzyme, acp,
+in aggresome-containing cells was
+examined by monitoring enzymatic activity (lenk et al., 1992)
+(fig. 4a). lysosomal structures, containing acp (dark reaction
+product) are seen in control samples (fig. 4a, control). after
+treatment with lc for 16 h, however, more lysosomes (smaller,
+round, uniform) and autolysosomes (larger,
+less uniform) are
+visible, mainly near the nucleus (fig. 4a, lc). furthermore, the
+golgi apparatus appears reactive for acp in lc-treated, but not in
+control cells (fig. 4a, arrows), suggesting de novo synthesis and
+transport of acp through the secretory pathway. the association
+of another
+lysosomal enzyme cathepsin d with lc-induced
+pmp22 aggregates was examined by double immunolabeling
+and confocal microscopy (fig. 4b, c). on representative single
+plane images, cathepsin d-positive vesicles accumulate in the
+region of pmp22 aggregates (fig. 4b). the relationship of
+lysosomes (red) with pmp22 aggregates (green) is resolved in
+more detail on single plane rotated sections through a specific
+aggregate (arrow) (fig. 4c). the red and yellow color within the
+green aggregate on the x and y sections is in agreement with the
+morphological detection of autolysosomes within the inclusions
+(fig. 3). higher numbers and volume of autophagosomes and
+autolysosomes, as well as increased levels of lc3 ii (figs. 1–3)
+indicate the induction of autophagy by the accumulation of
+misfolded pmp22.
+the formation of aggresomes is hindered by autophagy
+previously we have shown that experimental activation of
+autophagy by nutrient deprivation aids the removal of pre-existing
+pmp22 aggregates (fortun et al., 2003). the studies described
+above indicate (figs. 1–3) that the formation of protein aggregates
+in itself, either in response to impaired proteasomal degradation or
+spontaneously due to mutations, endogenously induces autophagy.
+therefore, we wanted to test if further enhancement of autophagy
+by starvation conditions could potentially prevent or reduce the
+accumulation of misfolded pmp22 (fig. 5). normal rat scs treated
+with lactacystin for 16 h form aggresomes in nearly all of the cells
+(fig. 5a) (notterpek et al., 1999), without significant cell death
+(fortun et al., 2003). in dmso carrier-treated cells, pmp22 is
+detected at low levels in the er and golgi apparatus, and at the
+plasma membrane (fig. 5a, dmso inset, also see pareek et al.,
+1997). when simultaneous to proteasome inhibition, autophagy is
+enhanced (starvation, stv), fewer cells form aggregates (fig. 5a,
+lc + stv). to confirm the specificity of this effect,
+the same
+experiment was carried out in the presence of 3-ma, a known
+258
+j. fortun et al. / neurobiology of disease 25 (2007) 252–265
+we choose 12 h of treatment because about half of the cells at this
+time point contain pmp22 aggresomes. after concurrent inhibition
+of the proteasome and autophagy for 12 h, the number of cells with
+aggresomes is higher than lc alone (p = 0.004), and is similar to lc
+at 16 h (fig. 5b) (p = 0.107). these results indicate that under
+conditions of reduced proteasome activity, blocking autophagy
+accelerates the accumulation of aggregated proteins.
+fig. 4. lysosomal enzymes are present at sites of protein aggregation. (a)
+control (dmso) or lc-treated (16 h) primary rat scs were processed for
+acid phosphatase (acp) cytochemistry. arrows point at golgi stacks, which
+are acp-positive in lc-treated, but not in control cells. (b) single-plane
+confocal images of lc-treated scs reveal the close association of pmp22
+aggresomes (green) and cathepsin d-positive lysosomes (red). (c) a merged
+image of the same field is shown, with single x and y plane sections across
+the marked aggresome (arrow). these single plane sections reveal the
+accumulation of lysosomes (red) around the aggregate (green) (x axis) and
+their entrapment within the aggregate (y axis slice). nuclei are visualized by
+hoechst stain (blue). scale bars: as indicated in a, and 10 μm for b and c.
+blocker of autophagy (dorn et al., 2001). when 3-ma is included
+(fig. 5a, lc + stv/3-ma), the beneficial effect of starvation is
+partially lost, corroborating that the reduction in the number of
+aggresomes was autophagy-dependent. aggregates formed under
+these conditions appear less compact compared to lc treatment
+alone, suggesting that the inhibition of autophagy by 3-ma is
+incomplete. the levels or the localization of pmp22 are not
+affected by incubation of the cells in starvation medium, or 3-ma
+alone (not shown, see fortun et al., 2003).
+the effect of enhanced autophagy on reducing the formation of
+aggregates was quantified in three independent experiments after
+12 h (diagonal bars) or 16 h (solid bars) of treatment paradigms
+(fig. 5b). the criteria for aggresome counting included immunor-
+eactivity for ubiquitin and pmp22, assembly at the perinuclear
+region, exclusion from er and golgi, and a diameter larger than
+1 μm (notterpek et al., 1999). note,
+the lack of statistically
+significant differences between the 12 h and 16 h lc + stv
+treatments, suggesting that the enhancement of autophagy halts
+the formation of aggresomes. even after 24 h of proteasome
+inhibition and starvation, the percentage of cells with aggregates
+remains similar to 12 h or 16 h (34 ± 12%; p = 0.97). analogous
+results were obtained when autophagy was stimulated by
+rapamycin (lc + rp: 27 ± 4%; p = 0.32). we also examined if
+inhibition of autophagy simultaneous to proteasome inhibition
+favors aggresome formation. for this, the number of aggregate-
+containing cells was compared between fed cells treated with lc
+alone, or simultaneously with 3-ma (first and last bars in fig. 5b).
+fig. 5. the formation of pmp22 aggregates is modulated by autophagy. (a)
+the localization of pmp22 was determined in primary rat scs treated with
+lc (16 h) or dmso, as control (inset). to stimulate autophagy, lc treatment
+was performed under amino acid and serum-depleted starvation conditions
+(lc + stv). arrows indicate aggregates after simultaneous inhibition of the
+proteasome and induction of autophagy. to block autophagy, 3-ma was
+included in proteasome-inhibited cells, during fed (lc + 3-ma, right inset) or
+starved (lc + stv/3-ma) conditions. scale bar: 10 μm. (b) percentage of
+cells with pmp22 aggregates was quantified after 12 h (diagonal bars), or
+16 h (solid bars) treatment paradigms. the statistical significance of
+differences between the various treatment paradigms at 16 h (**p < 0.005),
+or at 12 h (##p < 0.005) are denoted. connecting horizontal lines represent
+the significance between corresponding treatments (**p < 0.005; n.s., no
+significance).
+j. fortun et al. / neurobiology of disease 25 (2007) 252–265
+259
+the formation of protein aggregates is associated with an
+overall accumulation of unrelated proteasomal substrates (john-
+ston et al., 1998; bence et al., 2001; fortun et al., 2005).
+therefore, a reduction in the number of aggregates upon
+starvation-induced autophagy should correlate with a decrease
+in the levels of accumulated ups substrates. since polyubiqui-
+tination is the primary signal
+for proteasomal degradation
+(goldberg, 2003),
+the levels of slow-migrating ubiquitinated
+proteins were evaluated after the indicated treatment paradigms
+(fig. 6a). compared to control cells (c), lc treatment alone leads
+to the accumulation of slow-migrating ubiquitinated proteins,
+indicating overall proteasome inhibition. coincident with the
+accumulation of polyubiquitinated chains,
+the
+monomeric ubiquitin (fig. 6a, arrow) is reduced, as compared
+to control. when autophagy is enhanced by starvation (stv),
+concomitant with lc treatment,
+the levels of ubiquitinated
+substrates are slightly reduced. starvation alone does not alter
+the levels of ubiquitinated proteins. therefore, enhancement of
+autophagy in proteasome-inhibited cells reduces the accumulation
+of ubiquitinated substrates.
+the level of
+to further examine the consequences of autophagy-mediated
+reduction in protein aggregate formation, we determined the
+steady-state levels of a short-lived ubg76v-gfp reporter (fig. 6b).
+the attachment of the uncleavable ubg76v to gfp targets this
+the rapid turnover
+otherwise stable protein for polyubiquitination and rapid protea-
+somal degradation and thus, gfp levels are hardly detected unless
+the ups is inhibited (dantuma et al., 2000). scs were transiently
+transfected with ubg76v-gfp, and after a 24-h period,
+the
+proteasomal and autophagic pathways were modulated (fig. 6b
+and c). after each treatment, the cells were imaged for gfp
+fluorescence (fig. 6b, left column) and phase contrast (fig. 6b,
+right column) or processed for western blot with anti-gfp
+antibodies (fig. 6c). because of
+rate of
+ubg76v-gfp, its levels are very low (arrowheads) or undetectable
+in most control cells (fig. 6b, control). when the proteasome is
+the ubg76v-gfp protein accumulates (figs. 6b, c).
+inhibited,
+inhibition or enhancement of autophagy alone by 3-ma or
+starvation conditions, respectively, has no effect on ubg76v-gfp
+levels, confirming that this substrate is tagged for proteasomal and
+not autophagic degradation (fig. 6c). however, when autophagy is
+enhanced simultaneous to lc treatment, the levels of ubg76v-gfp
+are considerably reduced, as compared to lc alone (figs. 6b, c). in
+a small percentage of these cells, however, intense ubg76v-gfp
+signal is still detected (fig. 6b, lc + stv, arrows). as a measure of
+specificity, the effects of starvation are blocked by the inclusion of
+indicates that by experimental
+3-ma (fig. 6c). this result
+the accumulation of ubg76v-gfp
+enhancement of autophagy,
+upon proteasome inhibition can be minimized.
+fig. 6. reduced aggresome formation correlates with lower levels of an unrelated proteasome substrate. (a) the levels of ubiquitin (ub) and actin were
+determined by western blot of total lysates (15 μg/lane) from fed and starved cells (stv), treated with dmso control (c) or lc (16 h). the arrow denotes the
+monomeric ubiquitin (ub). molecular mass are depicted at the left, in kda. (b) rat scs transfected with ubg76v-gfp and treated with the indicated agents (16 h),
+were imaged for gfp fluorescence (b, left column), or phase contrast (b, right column). arrowheads indicate the low levels of gfp-like fluorescence in control
+cells. arrows point at a small percentage of cells with bright gfp fluorescence, upon enhancement of autophagy during lc treatment (b, lc + stv). (c) the
+stabilization of gfp signal was quantified by western blots, after correction for tubulin (duplicates of n.s. = 3). au: absorbance units; *p < 0.05; n.s., no
+significance.
+260
+j. fortun et al. / neurobiology of disease 25 (2007) 252–265
+the effects of hsps on aggregate formation
+heat shock proteins (hsps) are known to influence the
+aggregation of proteins in cultured cells (muchowski and wacker,
+2005), and are found within and around pmp22 inclusions in trj
+neuropathic nerves (fortun et al., 2003). to assess the relationship
+of hsps to proteasome-inhibition induced aggregates of endogen-
+ous pmp22, normal rat scs treated with lc, or dmso, were
+immunostained with the indicated antibodies (fig. 7). in control
+cells, hsp70-like immunoreactivity is low (dmso inset, green),
+but becomes distinct following proteasome inhibition (lc) (fig.
+7a).
+in cells with small ubiquitin-reactive aggregates (red,
+arrowheads) the levels of hsp70 are not as dramatically increased.
+ubiquitin-like staining however almost exclusively overlaps with
+pmp22 aggresomes (right inset; also see notterpek et al., 1999).
+the small cytosolic chaperone, αb-crystallin is also recruited
+within and around the aggregates resulting in a yellow color on the
+merge (fig. 7b). hsp40 is found at the centrosome region in
+control cells (inset, arrow), and accumulates with pmp22
+aggregates (fig. 7b). the association of hsps with aggresomes
+likely represents an attempt of the chaperones to prevent
+the
+formation and/or favor the dissolution of the inclusions.
+the formation of pmp22 aggregates,
+to investigate whether increasing the levels of hsps could
+rat scs were
+hamper
+simultaneously treated with geldanamycin (ga) and lc, or
+sequentially with a brief preconditioning heat shock (hs) and
+then lc (fig. 8). ga binds to an atp site on hsp90 and blocks its
+interaction with hs factor 1, promoting its activation and the
+synthesis of hsps (muchowski and wacker, 2005). both
+approaches lead to a robust increase in the steady-state levels of
+hsp70, while the levels of calnexin are unaltered (fig. 8a). a 16-h
+treatment with ga (250 nm) elevates the levels of hsp70 by ~7-
+fold (fig. 8a, left panel). similarly, after a brief hs treatment
+(allen et al., 2004), hsp70 expression is transiently increased,
+peaking at 8 h (fig. 8a, right panel). sixteen hours after hs,
+hsp70 levels remain slightly elevated, as compared to control.
+to test the effects of elevated hsps on pmp22 aggresome
+formation, scs were simultaneously treated with ga (250 nm) and
+lc for 16 h (fig. 8b). in contrast to proteasome inhibition alone
+(fig. 5a), when ga is included (lc + ga), most scs do not form
+aggregates. in a fraction of the cells, a condensation of pmp22
+around the nucleus is seen (arrows), which were considered as
+aggregates based on co-staining with ubiquitin (not shown) and
+diameter larger than 1 μm. these aggregates however are less
+defined than those formed after proteasome inhibition alone (fig.
+5a). similar results are observed when the cells are preconditioned
+with hs (fig. 8b, lc + hs). furthermore, the average size of the
+aggregates formed (arrows) is reduced ~3-fold (p < 0.0001). the
+arrowhead denotes an example of a cluster of small pmp22
+aggregates (<1 μm) that are ubiquitin-negative (not shown). both
+aggregates and cell death were absent in cells subjected to hs or
+ga alone and allowed to recover for 16 h without proteasome
+inhibition (fig. 8b, insets). quantification of three independent
+experiments reveals that ga-treatment or hs preconditioning
+significantly reduces the formation of protein aggregates in
+proteasome-inhibited cells (fig. 8c). while ga is more effective
+in preventing the formation of pmp22 aggregates, as compared to
+hs (p < 0.005), extended exposure of cells to this compound is
+known to be toxic (miyata, 2005). therefore, to explore the effects
+elevated of hs proteins in combination with enhanced autophagy,
+cells were first exposed to hs preconditioning followed by
+proteasome inhibition under starvation conditions (fig. 8d).
+fig. 7. heat shock proteins associate with pmp22 aggresomes. (a) the association of ubiquitin (ub, red) with hsp70 (green), or with pmp22 (green) (inset,
+top row) was determined by double labeling scs after treatment with lc or dmso (16 h). arrows denote the co-localization of hsp70 and ubiquitin in
+aggresomes. arrowheads point at cells that contain small ubiquitin-positive aggregates, but hsp70 levels remained low, similar to dmso control (inset). (b)
+the small chaperones, αb-crystallin (αb-cryst, red) and hsp40 (red) are recruited to pmp22 aggresomes (green). the αb-cryst inset shows the chaperone
+mainly around a pmp22 aggresome. the arrow points at hsp40-like staining at the centrosome (b, inset in right panel). nuclei are visualized by hoechst
+stain  (blue).  scale  bars:  10  μm.
+j. fortun et al. / neurobiology of disease 25 (2007) 252–265
+261
+fig. 8. enhancement of hsp expression hinders aggresome formation. (a) the levels of hsp70, calnexin (cnx) and tubulin or actin were determined by western
+blots in total lysates (20 μg/lane) of untreated (c), ga-treated (16 h), or hs preconditioned (hs) cells, followed by the indicated chases at 37°c (0–16 h). (b) the
+localization of pmp22 after each specified treatment (lc + ga; lc + hs) was monitored by immunostaining. arrows point at remaining pmp22 aggregates with
+larger than 1 μm in diameter and are included in the quantification as cells with aggregates. the arrowhead (lc + hs) indicates a cluster of small aggregates (less
+than 1 μm) that are excluded in the quantification. scale bar: 10 μm. (c) the number of cells with aggregates was quantified in four independent experiments and
+expressed as percentage of total cells (**p < 0.005). (d) the additive effect of hs and stv was investigated in three independent experiments. the number of cells
+with aggregates was quantified and expressed as a percentage of total cells (**p < 0.005). n.s., no significance.
+comparing the influence of enhanced autophagy or chaperones on
+preventing protein aggregate formation, we found that these two
+treatments are equally effective (p = 0.18). however, when the two
+treatments are combined, the accumulation of misfolded pmp22 is
+further reduced (p < 0.005). while hs preconditioning stimulates
+autophagy, as measured by an increase in lc3 levels and lipidation
+(data not shown), when 3-ma was included during the post-hs
+treatments, the number of cells with aggregates remained the same
+(p = 0.81). therefore, the effect of hs in hindering aggresome
+formation is likely independent of macroautophagy, but could
+possibly involve cma.
+based on the results described here, a protective nature of
+pmp22 aggregate formation can be proposed (fig. 9). aggresomes
+may represent a link between proteasome overwhelming/saturation
+(a) and the activation of autophagy (e), as a secondary degradation
+mechanism to prevent
+the accumulation of misfolded pmp22.
+increasing the levels of hsps (f) adds to this protective response
+and can further reduce aggregate formation by aiding protein re-
+folding and trafficking, and/or alternate degradative mechanisms.
+discussion
+cytosolic protein aggregates form when the quality control
+mechanisms of the cell fail to ensure the folding and/or degradation
+of proteins (goldberg, 2003). such aggregates are commonly
+found in neurodegenerative disorders and often associate with
+malfunction of the proteasome (keller et al., 2000; waelter et al.,
+2001; mcnaught et al., 2003; kabashi et al., 2004; fortun et al.,
+262
+j. fortun et al. / neurobiology of disease 25 (2007) 252–265
+autophagosomes were detected in scs of neuropathic mice based
+on pmp22 overexpression (fortun et al., 2006). the studies
+detailed above suggest a cellular response by which, autophagy is
+activated upon degradative failure of the proteasome to maintain
+cellular homeostasis and prevent the accumulation of potentially
+harmful protein aggregates.
+indeed, a relationship between
+degradation pathways has been reported previously, as proteasome
+inhibition resulted in enhanced macroautophagy (ding et al., 2003;
+iwata et al., 2005). the signal behind this compensatory
+mechanism is yet uncertain; however, the formation of protein
+aggregates could represent the missing link. recent studies have
+suggested a mechanism for the activation of autophagy by protein
+aggregates, based on a loss of function of mtor (mammalian
+target of rapamycin) (ravikumar et al., 2004). although this event
+may result in the activation of autophagy, it is not yet known how
+the inclusions are recognized by the autophagic–lysosomal system.
+aggresomes are often surrounded by a vimentin cage (johnston et
+al., 1998; notterpek et al., 1999), a factor that is poorly studied, but
+might have important consequences aside from being a structural
+constraint. in this regard, previous studies with internalized viral
+proteins, or microinjected purified proteins, suggested the
+existence of a sequestration site for protein aggregates in tight
+association with intermediate filaments at perinuclear regions, as a
+necessary step preceding autophagic–lysosomal degradation (earl
+et al., 1987; doherty et al., 1987).
+the studies mentioned above and described here (figs. 1–4)
+show that the aggregation of undegraded proteasome substrates is
+associated with the induction of an endogenous autophagic
+response by the cells. in light of these results, why do aggresomes
+form despite the activation of autophagy? one possibility is that
+the removal of misfolded proteins by autophagy is insufficient to
+prevent the formation of aggresomes. alternatively, since lacta-
+cystin has been shown to inhibit the activity of human platelet
+lysosomal cathepsin a-like enzyme at ph 5.5 (ostrowska et al.,
+1997), lysosomal degradation might be incomplete. nonetheless,
+we obtained similar results in scs from neuropathic mice bearing
+spontaneous aggregates in the absence of proteasome inhibition, or
+when epoxomicin instead of lactacystin was used, casting doubts
+on this possibility. additionally, when autophagy is experimentally
+enhanced by amino acid and serum deprivation, the formation of
+de novo aggresomes and the accumulation of proteasomal
+substrates are hindered. pulse labeling experiments indicate that
+this effect is not due to a generalized depression in new protein
+synthesis, as the incorporation of 35s-methionine/cysteine, was
+similar among cells incubated in control medium or under lc + stv
+conditions for 16 h (p = 0.44).
+how does experimental activation of autophagy prevent the
+accumulation of misfolded pmp22? aggresome assembly is a
+multi-step process, by which small aggregates throughout the cell
+are transported along microtubules towards the centrosome, where
+they form the final inclusion (johnston et al., 1998; notterpek et
+al., 1999). thus, it is likely that upon activation of autophagy,
+small aggregates are engulfed within autophagosomes, reducing
+the load of proteins being transported towards the centrosome. in
+agreement, the enhancement of autophagy by rapamycin reduced
+the accumulation of protein aggregates and cellular toxicity in
+huntington’s disease models (ravikumar et al., 2002, 2004). the
+role of autophagy in the degradation of ubiquitinated substrates is
+also supported by the accumulation of ubiquitinated aggregates in
+the liver of conditional atg7-deficient mice, which have defective
+autophagy, but intact ups activity (komatsu et al., 2005). two
+fig. 9. model for the protective role of aggresomes. pmp22 is a hydrophobic
+tetraspan proteasome substrate. proteasome inhibition (a) in scs results in
+the formation of small aggregates containing pmp22 and ubiquitin (ub) (b).
+such aggregates are transported along the microtubules to the centrosome,
+forming a central inclusion termed aggresome (c). aggresomes sequester
+mtor, and associate with autophagosomes and autolysosomes (d). the
+activation of the autophagic pathway (e) upon proteasome inhibition and
+aggresome formation is a protective response of the cell to prevent the
+accumulation of proteasome substrates. two mechanisms account for this
+the clearance of the aggresome (e′) and the removal of small
+effect:
+aggregates (e″),
+inclusion.
+moreover, aggregates recruit heat shock proteins (hsps) that likely add to
+this protective response (f).
+thus hindering the formation of the final
+2005, 2006). here we show that the accumulation of endogenous
+pmp22 in aggresomes in neuropathic samples, or in response to
+proteasome inhibition, results in the concomitant
+induction of
+autophagy. further enhancement of autophagy, or the levels of
+hsps by experimental manipulations hampers the formation of
+pmp22 aggresomes and prevents the accumulation of unrelated
+ups substrates. these results suggest
+that when proteasome
+activity is compromised, cellular homeostasis is maintained by re-
+routing proteasome substrates to an alternative pathway, namely
+autophagic-mediated lysosomal degradation. the developments of
+pharmacologic agents to stimulate these pathways therefore could
+provide a therapeutic approach for protein misfolding disorders.
+autophagic vacuoles have been observed within or adjacent to
+the surface of cytoplasmic protein aggregates formed upon
+proteasome inhibition (wojcik et al., 1996; harada et al., 2003;
+rideout et al., 2004; iwata et al., 2005). additionally, autophago-
+some formation and lc3 lipidation was reported in cells contain-
+ing ubiquitinated inclusions as a result of oxidative stress (martinet
+et al., 2004).
+in the trj neuropathic model, we found the
+recruitment of atg7 to pmp22 aggregates and autophagosomes
+filled with electron dense material (fortun et al., 2003). similarly,
+j. fortun et al. / neurobiology of disease 25 (2007) 252–265
+263
+recently established transgenic mouse lines further support the
+essential role of autophagy in preventing the accumulation of
+abnormal proteins (komatsu et al., 2006; hara et al., 2006). in
+agreement, the simultaneous inhibition of the ups and autophagy
+in our sc model is associated with more pronounced accumulation
+of pmp22, as compared to lc treatment alone (fig. 5).
+the consequences of inclusion body formation within the
+cytoplasm are still debated. it has been proposed that the inclusion
+bodies in neurodegenerative conditions are protective, whereas the
+intermediate aggregates trigger neuronal toxicity by an unknown
+cascade of events (muchowski and wacker, 2005). as cell death is
+not a prominent feature of pmp22-associated neuropathies, and is
+absent in our cell culture model (fortun et al., 2003), our results
+support a protective role for protein aggregates. the lack of cellular
+toxicity in our studies could be related to the endogenous protein
+background rather than recombinant protein overexpression, and/or
+the cell type used, as well as the shorter periods of proteasome
+inhibition and autophagy stimulation. it is also feasible to speculate
+that
+the collapsed vimentin cage around pmp22 aggresomes
+(notterpek et al., 1999) prevents the mobility of proteins, whereas
+small aggregates are free to associate with additional molecules.
+indeed, small pmp22 aggregates could be detrimental for scs by
+providing a core for trapping other ubiquitinated substrates, based
+on specific, or hydrophobic protein–protein interactions (fortun et
+al., 2005). although we did not detect sc death in the time frame
+used for proteasome inhibition (16 h) or in the neuropathic models
+(fortun et al., 2003, 2006), it is possible that pmp22 aggregates
+could lead to toxicity if not eliminated by autophagy.
+in addition to autophagy, other events might be activated to
+prevent
+the accumulation of aggregates and the disruption of
+cellular homeostasis. a common response to proteasome
+inhibition and formation of aggregates is the increase in the
+expression of molecular chaperones (muchowski and wacker,
+2005). proteasome impairment
+in scs overexpressing wt and
+mutant pmp22s is associated with the elevation of hsps and
+their recruitment to aggresomes (ryan et al., 2002). hsps are
+also recruited to aggregates of the endogenous pmp22 (fig. 7).
+the reason for this event is uncertain, but it might involve the
+refolding and/or
+the misfolded proteins for
+degradation (muchowski and wacker, 2005). indeed, the kinetics
+of association and dissociation of hsp70 with polyglutamine
+protein aggregates is fast and similar to the rate for the folding
+of thermally denatured substrates, suggestive of an active role in
+the refolding of the aggregate (kim et al., 2002). on the other
+the protection observed in drosophila models of
+hand,
+parkinson’s and polyglutamine expansion diseases due to the
+elevation of hsps is not accompanied by a reduction in the
+number of
+(kazemi-esfarjani and benzer, 2002;
+auluck et al., 2002).
+the targeting of
+inclusions
+a protective role for chaperones in preventing the accumulation
+of misfolded proteins is supported by the present study. the
+formation of pmp22 aggresomes is hindered by a preconditioning
+hs or ga treatment, likely due to the enhancement of cytoplasmic
+molecular chaperones. preventing the formation and/or aiding the
+refolding of small aggregates before the assembly of a large
+inclusion can explain this result. in culture models of hsp40 and/or
+hsp70 overexpression,
+the intracellular aggregation of several
+unrelated proteins was also suppressed (cummings et al., 1998;
+stenoien et al., 1999; dul et al., 2001; abu-baker et al., 2003). in
+our model, ga treatment, as compared to hs, was more effective
+in preventing lc-induced aggresome formation, likely because of
+the sustained expression of hsps over time. the effects of ga on
+hindering aggresome formation does not correlate with a
+pronounced reduction in the steady-state levels of ubiquitinated
+substrates however (not shown), suggesting that the action of ga
+may be based on the physical disassembly of the aggregates by
+chaperones and/or promoting the trafficking of pmp22 to the
+plasma membrane. alternatively, given the various hsp90 sub-
+strates and the different processes in which they are involved with,
+including signal transduction and cell cycle regulation (neckers,
+2002), ga treatment may influence unknown factors of protein
+aggregation. nonetheless, as judged from anti-lc3 western blots
+(data not shown) ga treatment does not appear to stimulate
+macroautophagy. additionally, as pmp22 lacks a kferq-like
+targeting motif for cma (majesky and dice, 2004), the observed
+benefits of ga treatment are likely independent from effects on
+cma.
+based on the results described here, we propose a model
+where the formation of aggresomes is a protective response of
+the cell that concentrates misfolded proteins in a central location
+to activate an autophagic response (fig. 9). this model entails
+that
+the monomeric pmp22 is turned-over by the proteasome
+(ryan et al., 2002), whereas the aggregated forms resulting
+from proteasome inhibition or saturation, are degraded by the
+autophagic–lysosomal pathway. concomitant with the reduction
+in aggregates within the cells,
+the levels of slow migrating
+ubiquitinated substrates and of an unrelated proteasome reporter
+are diminish. this suggests that substrates originally tagged for
+proteasomal degradation, upon inhibition of this system, are re-
+routed for breakdown within lysosomes through activation of
+autophagy. an interaction between the two degradative path-
+ways is not specific for pmp22, but rather appears to represent
+a general response of cells, as suggested by studies with other
+aggregation-prone proteins, such as wt α-synuclein and its a53t
+or a30p mutants (tofaris et al., 2001; webb et al., 2003;
+rideout et al., 2004; iwata et al., 2005). based on our results,
+we also propose that the chaperone system is activated to aid in
+the refolding of pmp22 and dissolution of small aggregates.
+acknowledgments
+the authors wish to thank debbie akin for technical assistance
+with the ultrastructural studies and n. mizushima (tokyo
+metropolitan institute of medical science, tokyo, japan) and
+t. yoshimori (national institute of genetics, mishima, japan) for
+providing the gfp-lc3 plasmid. these studies were supported by
+the national muscular dystrophy association and the nih-ninds
+(ln) and the nih-nci (wad).
+references
+abu-baker, a., messaed, c., laganiere, j., gaspar, c., brais, b., rouleau,
+g.a., 2003. involvement of the ubiquitin–proteasome pathway and
+molecular chaperones in oculopharyngeal muscular dystrophy. hum.
+mol. genet. 12 (20), 2609–2623.
+allen, t.a., von kaenel, s., goodrich, j.a., kugel, j.f., 2004. the sine-
+encoded mouse b2 rna represses mrna transcription in response to
+heat shock. nat. struct. mol. biol. 11 (9), 816–821.
+auluck, p.k., chan, h.y., trojanowski, j.q., lee, v.m., bonini, n.m., 2002.
+chaperone suppression of alpha-synuclein toxicity in a drosophila
+model for parkinson's disease. science 295 (5556), 865–868.
+bence, n.f., sampat, r.m., kopito, r.r., 2001. impairment of the
+264
+j. fortun et al. / neurobiology of disease 25 (2007) 252–265
+ubiquitin–proteasome system by protein aggregation. science 292,
+1552–1555.
+ciechanover, a., brundin, p., 2003. the ubiquitin proteasome system in
+neurodegenerative diseases: sometimes the chicken, sometimes the egg.
+neuron 40 (2), 427–446.
+colby, j., nicholson, r., dickson, k.m., orfali, w., naef, r., suter, u.,
+snipes, g.j., 2000. pmp22 carrying the trembler or trembler-j
+mutation is intracellularly retained in myelinating schwann cells.
+neurobiol. dis. 7, 561–573.
+cummings, c.j., reinstein, e., sun, y., antalffy, b., jiang, y.,
+ciechanover, a., orr, h.t., beaudet, a.l., zoghbi, h.y., 1998.
+chaperone suppression of aggregation altered subcellular proteasome
+localization implying protein misfolding in sca1. nat. genet. 19,
+148–154.
+dantuma, n.p., heessen, s., lindsten, k., jellne, m., masucci, m.g., 2000.
+short-lived green fluorescent proteins for quantifying ubiquitin/
+proteasome-dependent proteolysis in living cells. nat. biotechnol. 18,
+538–543.
+ding, q., dimaguya, e., martin, s., bruce-keller, a.j., nukula, v., cuervo,
+a.m., keller, n., 2003. characterization of chronic low level
+proteasome inhibition on neuronal homeostasis. j. neurochem. 86,
+489–497.
+doherty, f.j., wassell, j.a., mayer, r.j., 1987. a putative protein-
+sequestration site involving intermediate filaments for protein
+degradation by autophagy. studies with microinjected purified
+glycolytic enzymes in 3t3-l1 cells. biochem. j. 241 (3), 793–800.
+dorn, b.r., dunn jr., w.a., progulske-fox, a., 2001. porphyromonas
+gingivalis traffics to autophagosomes in human coronary artery
+endothelial cells. infect. immun. 69 (9), 5698–5708.
+dul, j.l., davis, d.p., williamson, e.k., stevens, f.j., argon, y., 2001.
+hsp70 and antifibrillogenic peptides promote the degradation and inhibit
+intracellular aggregation of amyloidogenic light chains. j. cell biol. 152
+(4), 705–715.
+d'urso, d., prior, r., greiner-petter, r., gabreels-festen, a.a., muller,
+h.w., 1998. overloaded endoplasmic reticulum–golgi compartments,
+a possible pathomechanism of peripheral neuropathies caused by
+mutations of the peripheral myelin protein pmp22. j. neurosci. 18 (2),
+731–740.
+earl, r.t., mangiapane, e.h., billett, e.e., mayer, r.j., 1987. a putative
+protein-sequestration site involving intermediate filaments for protein
+degradation by autophagy. studies with transplanted sendai-viral
+envelope proteins in htc cells. biochem. j. 241 (3), 809–815.
+fortun, j., dunn jr., w.a., joy, s., li, j., notterpek, l., 2003. emerging role
+for autophagy in the removal of aggresomes in schwann cells.
+j. neurosci. 23, 10672–10680.
+fortun, j., li, j., go, j., fenstermaker, a., fletcher, b.s., notterpek, l.,
+2005. impaired proteasome activity and accumulation of ubiquitinated
+substrates in a hereditary neuropathy model. j. neurochem. 92,
+1531–1541.
+fortun, j., go, j.c., li, j., amici, s.a., dunn jr., w.a., notterpek, l., 2006.
+alterations in degradative pathways and protein aggregation in a
+neuropathy model based on pmp22 overexpression. neurobiol. dis. 22
+(1), 153–164.
+goldberg, a.l., 2003. protein degradation and protection against misfolded
+or damaged proteins. nature 426 (6968), 895–899.
+groll, m., clausen, t., 2003. molecular shredders: how proteasomes fulfill
+their role. curr. opin. struct. biol. 13 (6), 665–673.
+hara, t., nakamura, k., matsui, m., yamamoto, a., nakahara, y., suzuki-
+migishima, r., yokoyama, m., mishima, k., saito, i., okano, h.,
+mizushima, n., 2006. suppression of basal autophagy in neural cells
+causes neurodegenerative disease in mice. nature 441, 885–889.
+harada, m., kumemura, h., omary, m.b., kawaguchi, t., maeyama, n.,
+hanada, s., taniguchi, e., koga, h., suganuma, t., ueno, t., sata, m.,
+2003. proteasome inhibition induces inclusion bodies associated with
+intermediate filaments and fragmentation of the golgi apparatus. exp.
+cell res. 288 (1), 60–69.
+microtubules are required for autophagic degradation of aggregated
+huntington. j. biol. chem. 280 (48), 40282–40292.
+johnston, j.a., ward, c.l., kopito, r.r, 1998. aggresomes: a cellular
+response to misfolded proteins. j. cell biol. 143, 1883–1898.
+kabashi, e., agar, j.n., taylor, d.m., minotti, s., durham, h.d., 2004.
+focal dysfunction of the proteasome: a pathogenic factor in a mouse
+model of amyotrophic lateral
+j. neurochem. 89,
+1325–1335.
+sclerosis.
+kabeya, y., mizushima, n., ueno, t., yamamoto, a., kirisako, t., noda, t.,
+kominami, e., ohsumi, y., yoshimori, t., 2000. lc3, a mammalian
+homologue of yeast apg8p, is localized in autophagosome membranes
+after processing. embo j. 1 (22(17)), 4577.
+kazemi-esfarjani, p., benzer, s., 2002. suppression of polyglutamine
+toxicity by a drosophila homolog of myeloid leukemia factor 1. hum.
+mol. genet. 11 (21), 2657–2672.
+keller, j.n., hanni, k.b., markerbery, w.r., 2000. impaired proteasome
+function in alzheimer's disease. j. neurochem. 75, 436–439.
+kim, s., nollen, e.a.a., kitagawa, k., bindokas, v.p., morimoto, r.i.,
+2002. polyglutamine aggregates are dynamic. nat. cell biol. 4,
+826–831.
+klionsky, d.j., emr, s.d., 2000. autophagy as a regulated pathway of
+cellular degradation. science 290 (5497), 1717–1721.
+komatsu, m., waguri, s., ueno, t., iwata, j., murata, s., tanida, i., ezaki,
+j., mizushima, n., ohsumi, y., uchiyama, y., kominami, e., tanaka,
+k., chiba, t., 2005. impairment of starvation-induced and constitutive
+autophagy in atg7-deficient mice. j. cell biol. 169 (3), 425–434.
+komatsu, m., waguri, s., chiba, t., murata, s., iwata, j., tanida, i., ueno,
+t., koike, m., uchiyama, y., kominami, e., tanaka, k., 2006. loss of
+autophagy in the central nervous system causes neurodegeneration in
+mice. nature 441, 880–884.
+lenk, s.e., dunn jr., w.a., trausch, j.s., ciechanover, a., schwartz, a.l.,
+1992. ubiquitin-activating enzyme, e1, is associated with maturation of
+autophagic vacuoles. j. cell biol. 118 (2), 301–308.
+majesky, a.e., dice, j.f., 2004. mechanisms of chaperone-mediated
+autophagy. int. j. biochem. cell biol. 36 (12), 2435–2444.
+martinet, w., de bie, m., schrijvers, d.m., de meyer, g.r., herman,
+a.g., kockx, m.m., 2004. 7-ketocholesterol
+induces protein
+ubiquitination, myelin figure formation, and light chain 3 processing
+in vascular smooth muscle cells. arterioscler., thromb., vasc. biol. 24
+(12), 2296–2301.
+mclean, p.j., klucken, j., shin, y., hyman, b.t., 2004. geldanamycin
+induces hsp70 and prevents α-synuclein aggregation and toxicity in
+vitro. biochem. biophys. res. commun. 321, 665–669.
+mcnaught, k.s., belizaire, r., isacson, o., jenner, p., olanow, c.w., 2003.
+altered proteasome function in sporadic parkinson's disease. exp.
+neurol. 179, 38–46.
+muchowski, p.j., wacker, j.l., 2005. modulation of neurodegeneration by
+molecular chaperones. nat. rev., neurosci. 6 (1), 11–22.
+munafo, b.d., colombo, m.i., 2001. a novel assay to study autophagy:
+regulation of autophagosome vacuole size by amino acid deprivation.
+j. cell sci. 114, 3619–3629.
+naef, r., suter, u., 1999. impaired intracellular trafficking is a common
+disease mechanism of pmp22 point mutations in peripheral
+neuropathies. neurobiol. dis. 6 (1), 1–14.
+neckers, l., 2002. hsp90 inhibitors as novel cancer chemotherapeutic
+agents. trends mol. med. 8 (4 suppl.), s55–s61.
+notterpek, l., snipes, g., shooter, e.m., 1997. upregulation of
+the endosomal–lysosomal pathway in the trembler-j neuropathy.
+j. neurosci. 17 (11), 4190–4200.
+notterpek, l., ryan, m.c., tobler, a.r., shooter, e.m., 1999. pmp22
+implications for cmt1a pathology.
+accumulation in aggresomes:
+neurobiol. dis. 6, 450–460.
+ostrowska, h., wojcik, c., omura, s., worowski, k., 1997. lactacystin, a
+specific inhibitor of the proteasome, inhibits human platelet lysosomal
+cathepsin a-like enzyme. biochem. biophys. res. commun. 234 (3),
+729–732.
+iwata, a., riley, b.e., johnston, j.a., kopito, r.r., 2005. hdac6 and
+pareek, s., notterpek, l., snipes, g.j., naef, r., sossin, w., laliberte, j.,
+j. fortun et al. / neurobiology of disease 25 (2007) 252–265
+265
+iacampo, s., suter, u., shooter, e.m., murphy, r.a., 1997. neurons
+promote the translocation of peripheral myelin protein 22 into myelin.
+j. neurosci. 17, 7754–7762.
+ravikumar, b., duden, r., rubinsztein, d.c., 2002. aggregate-prone
+proteins with polyglutamine and polyalanine expansions are degraded
+by autophagy. hum. mol. genet. 11, 1107–1117.
+ravikumar, b., vacher, c., berger, z., davies, j.e., luo, s., oroz, l.g.,
+scaravilli, f., easton, d.f., duden, r., o'kane, c.j., rubinsztein, d.c.,
+2004. inhibition of mtor induces autophagy and reduces toxicity of
+polyglutamine expansions in fly and mouse models of huntington
+disease. nat. genet. 36 (6), 585–595.
+rideout, h.j., lang-rollin,
+i., stefanis, l., 2004.
+involvement of
+inclusions. int. j.
+macroautophagy in the dissolution of neuronal
+biochem. cell biol. 36 (12), 551–2562.
+ryan, m.c., shooter, e.m., notterpek, l., 2002. aggresome formation in
+neuropathy models based on peripheral myelin protein 22 mutations.
+neurobiol. dis. 10, 109–118.
+snipes, g.j., suter, u., welcher, a.a., shooter, e.m., 1992. characterization
+of a novel peripheral nervous system myelin protein (pmp-22/sr13).
+j. cell biol. 117, 225–238.
+stenoien, d.l., cummings, c.j., adams, h.p., mancini, m.g., patel, k.,
+demartino, g.n., marcelli, m., weigel, n.l., mancini, m.a., 1999.
+polyglutamine-expanded androgen receptors form aggregates that
+sequester heat shock proteins, proteasome components and src-1,
+and are suppressed by the hdj-2 chaperone. hum. mol. genet. 8 (5),
+731–741.
+tanida, i., ueno, t., kominami, e., 2004. lc3 conjugation system in
+mammalian autophagy. int. j. biochem. cell biol. 36, 2503–2518.
+tobler, a.r., notterpek, l., naef, r., taylor, v., suter, u., shooter, e.m.,
+1999. transport of trembler-j mutant peripheral myelin protein 22 is
+blocked in the intermediate compartment and affects the transport of the
+wild-type protein by direct interaction. j. neurosci. 19, 2027–2036.
+tobler, a.r., liu, n., mueller, l., shooter, e.m., 2002. differential
+aggregation of the trembler and trembler j mutants of peripheral myelin
+protein 22. proc. natl. acad. sci. u. s. a. 99, 483–488.
+tofaris, g.k., layfield, r., spillantini, m.g., 2001. alpha-synuclein
+metabolism and aggregation is linked to ubiquitin-independent
+degradation by the proteasome. febs lett. 509 (1), 22–26.
+waelter, s., boeddrich, a., lurz, r., scherzinger, e., lueder, g., lehrach,
+h., wanker, e.e., 2001. accumulation of mutant huntington fragments
+in aggresome-like inclusion bodies as a result of insufficient protein
+degradation. mol. biol. cell 12, 1393–1407.
+webb, j.l., ravikumar, b., atkins, j., skepper, j.n., rubinsztein, d.c.,
+2003. alpha-synuclein is degraded by both autophagy and the
+proteasome. j. biol. chem. 278 (27), 25009–25013.
+wojcik, c., scroeter, d., wilk, s., lamprecht, j., paweletz, n., 1996.
+ubiquitin-mediated proteolysis centers in hela cells: indication from
+studies of an inhibitor of
+the
+proteasome. eur. j. cell biol. 71, 311–318.
+the chymotrypsin-like activity of
+young, p., suter, u., 2001. disease mechanisms and potential therapeutic
+strategies in charcot–marie–tooth disease. brain res. brain res. rev.
+36, 213–221.

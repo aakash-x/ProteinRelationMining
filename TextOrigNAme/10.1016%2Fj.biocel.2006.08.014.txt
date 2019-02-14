@@ -1,0 +1,1106 @@
+the international journal of biochemistry & cell biology 39 (2007) 327–339
+geldanamycin promotes nuclear localisation and clearance of
+phox2b misfolded proteins containing polyalanine expansions
+tiziana bachetti a, paola bocca b, silvia borghini a, ivana matera a,1,
+ignazia prigione b, roberto ravazzolo a,c, isabella ceccherini a,∗
+a laboratorio di genetica molecolare, istituto giannina gaslini, largo g. gaslini 5, 16148 genova, italy
+b laboratorio di oncologia, istituto giannina gaslini, largo g. gaslini 5, 16148 genova, italy
+c dipartimento di pediatria e cebr, universit`a degli studi di genova, 16148 genova, italy
+received 30 may 2006; received in revised form 17 august 2006; accepted 18 august 2006
+available online 14 september 2006
+abstract
+polyalanine expansions in the phox2b gene have been detected in the vast majority of patients affected with congenital central
+hypoventilation syndrome, a neurocristopathy characterized by absence of adequate control of breathing, especially during sleep,
+with decreased sensitivity to hypoxia and hypercapnia. the correlation between length of the alanine expanded tracts and severity of
+congenital central hypoventilation syndrome respiratory phenotype has been conﬁrmed by length-dependent cytoplasmic phox2b
+retention with formation of aggregates.
+to deepen into the molecular mechanisms mediating the effects of phox2b polyalanine expansions, we have set up experiments
+aimed at assessing the fate of cells characterized by phox2b polyalanine aggregates. in particular, we have observed that activation
+of the heat shock response by the drug geldanamycin is efﬁcient both in preventing formation and in inducing clearance of phox2b
+pre-formed polyalanine aggregates in cos-7 cells expressing phox2b-gfp fused proteins, and ultimately also in rescuing the
+phox2b ability to transactivate the dopamine-β-hydroxilase promoter. in addition, we have demonstrated elimination of phox2b
+mutant proteins by the proteasome and autophagy, two cellular mechanisms already been involved in the clearance of proteins
+containing expanded polyglutamine and polyalanine tracts. moreover, our data suggest that geldanamycin effects on phox2b
+aggregates may be also mediated by the proteasome pathway. finally, analysis of cellular toxicity due to polyalanine aggregates
+has conﬁrmed the occurrence of cell apoptosis consequent to expression of phox2b carrying the longest expanded alanine tract
+and shown that geldanamycin can delay cell progression toward the most advanced apoptotic stages.
+© 2006 elsevier ltd. all rights reserved.
+keywords: polyalanine aggregates; geldanamycin; phox2b; cellular toxicity
+abbreviations: ga, geldanamycin; 17-aag, allylaminogeldanamycin; gfp, green ﬂuorescent protein; hsp, heat shock protein; 7-aad, 7-
+amino-actinomycin d; 3-ma, 3-methyladenine; lc, lactacystin; r, rapamycin; mem, minimal essential medium; fbs, fetal bovine serum; dmso,
+dimethyl-sulfoxide; cchs, congenital central hypoventilation syndrome; opmd, oculopharyngeal muscular dystrophy
+corresponding author. tel.: +39 010 5636800; fax: +39 010 3779797.
+e-mail addresses: tiziana.bachetti@tin.it (t. bachetti), s.borghini@unige.it (s. borghini), imatera@mail.nih.gov (i. matera),
+ignaziaprigione@ospedale-gaslini.ge.it (i. prigione), rravazzo@unige.it (r. ravazzolo), isa.c@unige.it (i. ceccherini).
+1 present address: mouse embryology section, genetic disease research branch, national human genome research institute, nih, bethesda,
+md, usa.
+1357-2725/$ – see front matter © 2006 elsevier ltd. all rights reserved.
+doi:10.1016/j.biocel.2006.08.014
+328
+t. bachetti et al. / the international journal of biochemistry & cell biology 39 (2007) 327–339
+1. introduction
+heterozygous polyalanine expansions and frameshift
+mutations of the phox2b gene have been detected
+in 90% of patients affected with congenital central
+hypoventilation syndrome (cchs) (amiel et al., 2003;
+matera et al., 2004; sasaki et al., 2003; weese-mayer
+et al., 2003), a rare neurocristopathy characterized
+by absence of adequate autonomic control of breath-
+ing, mainly during sleep, with decreased sensitivity to
+hypoxia and hypercapnia (coleman et al., 1980; weese-
+mayer et al., 1999). this is consistent with the role of
+the phox2b transcription factor that regulates several
+genes involved in the speciﬁcation of the noradrenergic
+phenotype during the development of the autonomic ner-
+vous system (adachi et al., 2000; bachetti, borghini, et
+al., 2005; borghini et al., 2006; brunet & pattyn, 2002;
+flora et al., 2001). in particular, in-frame duplications
+within a 20 alanine residues stretch in the phox2b exon
+3, leading to expansions from +5 to +13 alanine residues,
+have been identiﬁed in the vast majority (from 81.5% to
+98.4% depending on the series) of the cchs patients car-
+rying phox2b mutations (matera et al., 2004; sasaki et
+al., 2003; trochet, o’brien, et al., 2005; weese-mayer
+et al., 2003).
+the previously postulated correlation between length
+of alanine expanded tracts and severity of cchs respira-
+tory phenotype (matera et al., 2004; weese-mayer et al.,
+2003) has recently been conﬁrmed by functional studies
+aimed at identifying the molecular mechanisms underly-
+ing cchs pathogenesis (bachetti, matera, et al., 2005;
+trochet, hong, et al., 2005). in particular, a strictly pro-
+gressive decrease in the transcriptional activation of the
+dβh and phox2a promoters has been correlated with
+length-dependent cytoplasmic retention and formation
+of aggregates.
+polyalanine regions are present in several transcrip-
+tion factors and in-frame duplications in these sequences
+are emerging causes of human genetic diseases (brown
+& brown, 2004; lavoie et al., 2003). polyalanine expan-
+sions induce misfolding in a way similar to what hap-
+pens in polyglutamine expansion-containing proteins
+(behrouz et al., 1995), which are responsible for sev-
+eral neurodegenerative diseases including huntington’s
+disease and spinocerebellar ataxia (trottier et al., 1995).
+moreover, it has been observed that aggregate-prone pro-
+teins with polyglutamine and polyalanine expansions are
+degraded by autophagy (ravikumar et al., 2002) and
+by the proteasome machinery (abu-baker et al., 2003;
+davies, sarkar, et al., 2006).
+several immunocytochemical studies have revealed
+co-localisation of components of the heat shock response
+pathway and members of the proteasome machinery with
+aggregates of misfolded proteins characterized by the
+expansion of polyalanine and polyglutamine residues,
+like in the case of pabpn1, arx, phox2b and hunt-
+ingtin (abu-baker et al., 2003; nasrallah et al., 2004;
+sittler et al., 2001; trochet, hong, et al., 2005). in
+mammalian cells, the heat shock response may be acti-
+vated by the benzoquinone ansamycin geldanamycin
+(ga) that inhibits hsp90 function and consequently
+induces expression of the molecular chaperones hsp40
+and hsp70, already shown to suppress protein aggrega-
+tion due to polyglutamine and polyalanine expansions
+(albrecht et al., 2004; jana et al., 2000; sittler et al.,
+2001). in particular, overexpression of hsp70 and its
+recruitment in the nucleus have been observed to reduce
+aggregation of pabpn1 polyalanine expanded mutants
+(wang et al., 2005).
+in the present work, we report a functional study
+aimed at elucidating the mechanisms underlying clear-
+ance of phox2b polyalanine aggregates and fate of the
+cells where they accumulate. in particular, we have inves-
+tigated the role of geldanamycin both in the formation of
+phox2b polyalanine aggregates and in the clearance of
+cos-7 cells, expressing phox2b-gfp fused proteins,
+from pre-formed inclusions. moreover, as aggregates of
+homopolymeric tracts implicated in protein misfolding
+and human disease have shown to be associated with
+a wide cell toxicity (nasrallah et al., 2004), a possible
+impairment in cell viability caused by phox2b aggre-
+gates has also been investigated.
+2. material and methods
+2.1. cell cultures, transient transfection and
+“luciferase” reporter activity assay
+hela cells were grown in minimal essential medium
+(mem, euroclone) supplemented with 10% fetal bovine
+serum (fbs) (gibco, new zealand), 1% l-glutamine
+100×, 1% non-essential aminoacids, 100 u/ml penicillin
+and 100 ␮g/ml streptomycin in a humidiﬁed atmosphere
+with 5% co2.
+cos-7 cells were grown in dulbecco’s modiﬁed
+essential medium (dmem, sigma) supplemented with
+10% fetal bovine serum (fbs) (gibco, new zealand),
+1% l-glutamine 100×, 1% non-essential aminoacids,
+100 u/ml penicillin and 100 ␮g/ml streptomycin in a
+humidiﬁed atmosphere with 5% co2.
+one day before transfection, 8.5× 104 hela cells
+were plated in 35 mm diameter dishes; co-transfection
+was performed using fugene6 transfection reagent
+(roche) with 740 ng of expression plasmids and 140 ng
+t. bachetti et al. / the international journal of biochemistry & cell biology 39 (2007) 327–339
+329
+of the dβh promoter-reporter plasmid. in particular,
+the pcdna3.1topo-phox2b wild type expression
+construct and pcdna3.1topo-dup15, -dup27 and -
+dup39 mutant phox2b expression constructs (carry-
+ing 5, 9 and 13 extra alanine residues, respectively, in
+the 20 alanine stretch) (bachetti, matera, et al., 2005)
+were co-transfected with 807 bp of the dβh regula-
+tory region cloned upstream of the luciferase reporter
+gene. the plasmid prl-cmv, expressing the renilla
+luciferase gene, was used as an internal control of
+each sample. forty-eight hours after transfection, cells
+were assayed for luciferase’s activity (dual-luciferase
+reporter assay system, promega) using a td-20/20
+luminometer following manufacturer’s instructions.
+2.2. immunoﬂuorescence assays
+2.2.1. analysis of phox2b-gfp wild type and
+mutant proteins
+fluorescence analysis was performed on cos-7
+cells transfected with 400 ng of the gfp reporter
+plasmids pcdna3.1/ct-gfp-topo[phox2b wt],
+pcdna3.1/ct-gfp-topo[dup15],
+pcdna3.1/ct-
+gfp-topo[dup27]
+and pcdna3.1/ct-gfp-topo
+[dup39]. these constructs, simply referred to as also
+“wt”, “dup15”, “dup27” and “dup39”, express gfp-
+fused wt, +5ala, +9ala and +13ala mutant phox2b
+proteins, respectively (bachetti, matera, et al., 2005).
+forty-eight hours after transfection, at least 100 cells for
+each experiment were examined with a zeiss axiophot
+ﬂuorescence microscope. nuclei were stained with
+dapi (roche).
+2.2.2. analysis of vimentin localisation
+after
+expression
+forty-eight hours
+transfection with the
+con-
+pcdna3.1/ct-gfp-topo[dup39]
+struct, cos-7 cells were washed with pbs, ﬁxed for
+15 min with 4% paraformaldehyde, permeabilized
+(cid:3)
+for 15
+with 0.1% triton-x-100/pbs and blocked
+(cid:3)
+for 5
+with 10% fbs/1% bsa/0.1% tween20/pbs.
+plates were then incubated with a tritc-conjugated
+vimentin-speciﬁc antibody (santa cruz biotechnology)
+for 90 min and, after washing with pbs, were analysed
+with a zeiss axiophot ﬂuorescence microscope. nuclei
+were stained with dapi (roche); each experiment was
+repeated at least three times and, for each experiment,
+100–150 cells were assessed.
+2.3. pharmacological treatments of transfected
+cells
+geldanamycin (sigma) 1.8 mm stock in dmso was
+diluted into fresh medium to give ﬁnal concentrations
+of 10 nm, 150 nm and 360 nm and added to cells at
+the time of transfection or 48 h later. 3-methyladenine
+(3-ma, sigma) 1 m stock in dmem, lactacystin (cal-
+biochem) 1 mm stock in sterile water were added to
+cells at the time of transfection to give a ﬁnal concentra-
+tion of 5–15 mm and 5–15 ␮m, respectively. rapamycin
+(sigma) 0.4 mg/ml stock in dmso was added to cells
+at the time of transfection at a ﬁnal concentration of
+0.2 ␮g/ml.
+2.4. western blotting assays
+hela cells were cultured in 100 mm dishes and trans-
+fected with 6 ␮g of each expression construct (fugene6
+transfection reagent, roche). to obtain total cellular
+lysates, 48 h after transfection cells were washed with
+pbs, centrifugated and lysed with lysis buffer (tris–hcl
+50 mm ph 7.5, nacl 150 mm, na3vo4 1 mm, np40
+1%, edta 2 mm, protease inhibitor mix 1×). equal
+amounts of total lysates were electrophoresed on 10%
+sds-page and transferred to a polyvinylidene diﬂu-
+oride membrane (millipore). proteins were identiﬁed
+by probing the membrane with the goat polyclonal
+anti-rabbit phox2b antibody (santa cruz), speciﬁcally
+addressed against the protein n-terminal region, with
+the goat monoclonal hsp70 speciﬁc antibody (santa
+cruz) and then with the mouse anti-goat igg-hrpp
+(santa cruz). signals were detected using the chemi-
+luminescence reagent ecl plus (amersham) and pro-
+teins level in each sample was evaluated by comparison
+with the corresponding amount of the housekeeping ␤-
+actin.
+2.5. facs analysis of apoptosis
+either
+transient
+transfections were performed plating
+directly in 60 mm diameter dishes 8× 104 cos-
+7 cells and the transfection mix containing 1 ␮g
+of
+pcdna3.1/ct-gfp-topo[phox2bwt],
+pcdna3.1/ct-gfp-topo[dup15],
+pcdna3.1/ct-
+gfp-topo[dup27]
+pcdna3.1/ct-gfp-topo
+[dup39] expression construct with 3 ␮l of fugene6
+transfection reagent (roche).
+or
+apoptosis of cos-7 cells expressing gfp-fused pro-
+teins was detected both in the supernatant and in adherent
+fractions of cells using the human annexin v-pe apop-
+tosis detection kit (pharmingen, bd biosciences, san
+jose, ca) and analysis was performed by ﬂow cytometry
+setting the gate on gfp + cells (facscalibur, bd bio-
+sciences, cell quest software). results were expressed
+as percent of positive cells.
+330
+t. bachetti et al. / the international journal of biochemistry & cell biology 39 (2007) 327–339
+3. results
+3.1. dose-dependent effect of geldanamycin on
+phox2b polyalanine aggregates and nuclear
+localisation
+geldanamycin (ga) is a naturally occurring antibi-
+otic that interacts with hsp90 and leads to up-regulation
+of hsp40 and hsp70 (sittler et al., 2001), two heat shock
+proteins involved in recognition and refolding denatured
+molecules, in addition to disassembling intracellular pro-
+tein aggregates (hartl & hayer-hartl, 2002).
+we have already demonstrated that polyalanine
+expansions induce phox2b mis-localisation with pres-
+ence of nuclear and/or cytoplasmic phox2b aggre-
+gates and without any effect on the protein expression
+level (bachetti, matera, et al., 2005). more recently, it
+has also been shown co-localisation of phox2b and
+hsp70, in addition to a preliminary observation of
+ga-dependent nuclear localisation of phox2b carry-
+ing the largest polyalanine tract (trochet, hong, et al.,
+2005). therefore, we aimed to deep into the chaperone-
+inducing effect of geldanamycin on synthesis of mis-
+folded polyalanine phox2b leading to intracellular
+aggregates.
+to this end, we have analysed the ga dose-
+dependent effect on subcellular localisation and aggre-
+gates formation of mutated phox2b carrying the largest
+polyalanine expansion (dup39, corresponding to +13ala
+residues). cos-7 cells were transiently transfected with
+pcdna3.1/ct-topo-gfp[dup39] and, at the time of
+transfection (t = 0), increasing amounts of ga were
+added to transfected cells.
+fluorescence microscope analysis performed 48 h
+later showed that cells transfected with the dup39 con-
+struct, thus expressing phox2b(+13ala), and treated
+with ga at the time of transfection displayed a dose-
+dependent progressive increase in nuclear localisation
+of the protein, with respect to untreated or dmso only
+treated transfected cells, resembling cells expressing
+phox2b(wt) at the highest dose of ga (fig. 1, upper).
+consistently, a parallel ga dose-dependent decrease in
+aggregates formation was also observed (fig. 1, lower).
+as the concentration of 360 nm ga gave the most
+efﬁcient rescue of correct nuclear localisation, we car-
+ried on further assays under this condition. the pat-
+tern of phox2b protein distribution observed in cells
+transfected with dup15- and dup27-gfp expression con-
+structs, in the absence (no ga) or in the presence (ga)
+of a ga treatment starting at the time of transfection
+(t = 0) conﬁrmed what already observed with the largest
+expansion. in particular, in agreement with what we and
+fig. 1. dose-effect of geldanamycin on sub-cellular localisation of
+polyalanine expanded phox2b and formation of phox2b polyala-
+nine aggregates. in the upper panel, the dose-dependent effect of
+geldanamycin on the sub-cellular localisation of the phox2b(+13ala)
+protein is represented as percentage of cos-7 cells transfected with
+pcdna3.1/ct-topo-gfp[dup39], and characterized by exclusively
+nuclear (black), nuclear + cytoplasmic (grey) and exclusively cyto-
+plasmic (white) localisation. the effects of either no treatment or
+dmso only treatment on the subcellular localisation of ﬂuorescence
+in cos-7 cells expressing phox2b(+13ala) are reported as negative
+controls in the diagram, while the far right bar reﬂects the cellular
+localisation of the phox2b wild type protein. in the lower panel, the
+dose-dependent effect of geldanamycin on the percentage of cos-7
+cells with nuclear and/or cytoplasmic aggregates following transfec-
+tion with pcdna3.1/ct-topo-gfp[dup39] is represented. positive
+and negative controls are the same as above.
+others have already reported (bachetti, matera, et al.,
+2005; trochet, hong, et al., 2005), in the absence of ga
+a correlation between increasing length of the alanine
+repeats and percentage of cells characterized by com-
+plete or partial cytoplasmic localisation of aggregates
+was conﬁrmed, while addition of ga allowed a correct
+nuclear distribution for the three mutant transcription
+factors, likely consequent to correct folding of the cor-
+responding proteins (not shown).
+to assess a possible and still unexplored ga effect not
+only in preventing polyalanine phox2b aggregation but
+also in cleaning cells from already formed aggregates,
+ga was added to cos-7 cells 48 h after transfection
+with wild type- (no extra ala), dup15- (+5ala), dup27-
+(+9ala) and dup39- (+13ala) phox2b-gfp expression
+constructs. analysis of the phox2b cellular localisa-
+tion and of the amount of aggregates were performed
+2 and 3 days later. as shown in fig. 2a, a 3-day treat-
+ment was sufﬁcient for phox2b misfolded proteins to
+correctly localize in the nucleus. such a rescue of the
+nuclear localisation was complete for dup15 and dup27
+t. bachetti et al. / the international journal of biochemistry & cell biology 39 (2007) 327–339
+331
+fig. 3. effect of geldanamycin on transactivation activity of the dβh
+promoter by polyalanine expanded phox2b. transcriptional activity
+obtained by co-transfection of phox2b constructs carrying polyala-
+nine expanded tracts with a luciferase reporter gene construct con-
+taining the dβh regulator region. the dark bars represent transac-
+tivation of the promoter in the absence of geldanamycin while the
+grey bars represent transactivation of the promoter in the presence of
+geldanamycin during co-transfection. values are represented as per-
+centage of luciferase activity induced by the wild-type construct and
+are the mean± s.d. of three independent experiments performed in
+duplicate. signiﬁcant differences between presence and absence of
+ga treatment with dup27 and dup39 phox2b mutants are indicated
+by asterisks (student’s t-test, *p < 0.05, **p < 0.01).
+transfections were carried out in the absence (no
+ga) or in the presence of 360 nm geldanamycin (ga
+360 nm), and luciferase activity levels induced 48 h later
+in cells expressing mutant phox2b proteins were com-
+pared with the values obtained by testing the wild type
+phox2b construct under the same condition (fig. 3).
+according to previous data, impaired transcriptional
+activation of the dβh promoter was assessed in the
+absence of geldanamycin (bachetti, matera, et al., 2005;
+trochet, hong, et al., 2005). conversely, when gel-
+danamycin was added in the culture medium during
+transfection, all the phox2b polyalanine expanded pro-
+teins could recover, though at different extents, the ability
+to transactivate the dβh promoter. in particular, con-
+structs carrying +5 (dup15) and +9 (dup27) alanine
+residues showed a complete recovery in the transacti-
+vation of the dβh regulatory region, while phox2b
+carrying the largest expanded alanine tract (dup39) could
+re-gain only part of the transcriptional activity.
+3.3. role of the ubiquitin–proteasome system and of
+autophagy in the clearance of phox2b polyalanine
+aggregates
+the ubiquitin–proteasome pathway and autophagy
+are two mechanisms responsible for the maintenance of
+protein balance in eukaryotic cells (layﬁeld et al., 2003;
+shintani & klionsky, 2004).
+the recent observation of co-localisation of the
+hsp70 chaperone with phox2b polyalanine aggregates
+fig. 2. effect of geldanamycin on phox2b polyalanine aggregates.
+(a) proportion of cos-7 cells expressing the wt, dup15, dup27 and
+dup39 phox2b genes exclusively in the nucleus, both in the absence of
+any treatment (“no ga”) and after treatment with geldanamycin started
+48 h after transfection and lasting 2 (ga(2 days)) and 3 (ga(3 days))
+days. (b) the percentage of cells with dup39 phox2b aggregates is
+represented with no treatment (left bar) and after a 2-day treatment
+with geldanamycin, added 48 h after transfection (right bar). reported
+values are the mean± s.d. of at least two independent experiments.
+signiﬁcant differences between treated and untreated cells are indi-
+cated by asterisks (student’s t-test, *p < 0.05).
+phox2b proteins, while it was only partial for the dup39
+phox2b, the mutant protein associated with the greatest
+percentage of aggregates. nonetheless, in this latter case,
+a drastic decrease in the number of cells with aggregates
+was observed following shorter ga treatments (fig. 2b).
+3.2. effect of geldanamycin on transactivation of
+the dβh promoter mediated by expanded
+polyalanine phox2b
+previous results of ours (bachetti, matera, et al.,
+2005) have shown a strict correlation between progres-
+sive decrease in dβh promoter transcriptional activa-
+tion and length of the phox2b alanine expanded tract
+in hela cells, the cell culture system where the func-
+tional interaction between phox2b and this target pro-
+moter was ﬁrstly demonstrated (adachi et al., 2000).
+to verify whether the transcriptional activation of the
+dβh promoter could be rescued by treatments with gel-
+danamycin, hela cells were co-transfected with wild
+type-, dup15-, dup27- and dup39-phox2b expression
+constructs and a luciferase reporter construct contain-
+ing the dβh regulatory region.
+332
+t. bachetti et al. / the international journal of biochemistry & cell biology 39 (2007) 327–339
+(trochet, hong, et al., 2005), and the identiﬁcation of
+components of the proteasome machinery in cellular
+aggregates due to polyalanine expansions of pabpn1,
+hoxd13 and ataxin 7 (abu-baker et al., 2003; albrecht
+et al., 2004; latouche et al., 2005), prompted us to inves-
+tigate whether the proteasome activity could remove
+phox2b misfolded proteins. moreover, as autophagy
+has been shown to play an important role in degrada-
+tion of aggregate-prone proteins carrying polyglutamine
+or polyalanine expansions (ravikumar et al., 2002), we
+also aimed at analyzing its possible effect on the clear-
+ance of phox2b cell inclusions.
+cos-7 cells were transfected with the phox2b-gfp
+expression construct carrying the largest polyalanine
+expansion (dup39; +13ala) and added with increasing
+amounts of either the speciﬁc proteasome catalytic-␤-
+subunit inhibitor lactacystin or the autophagy speciﬁc
+inhibitor 3-methyladenine, at the time of transfection
+(t = 0). forty-eight hours later, phox2b(+13ala) local-
+isation and percentage of cells characterized by aggre-
+gates in the presence of either the two inhibitors were
+compared with those observed in the absence of any
+treatment.
+as shown in upper panel of fig. 4a, although 5 ␮m
+lactacystin was already able to decrease the amount of
+cells characterized by an exclusive phox2b(+13ala)
+nuclear localisation, the most remarkable effect was
+obtained with the addition of 10 ␮m lactacystin. a
+regression line is shown in the middle panel conﬁrming
+a correlation between dose of lactacystin and percentage
+of cells with a nuclear localisation of phox2b(+13ala).
+moreover, inhibition of proteasome activity resulted
+in the increase not only of cytoplasmic phox2b
+localisation but also of the proportion of cells con-
+taining aggregates (fig. 4a, bottom panel). more-
+over, we observed, in 30–40% of cells expressing the
+phox2b(+13ala) mutant protein, the formation of sin-
+gle large cytosolic perinuclear aggregates often distort-
+ing the contour of the nucleus, resembling aggresomes,
+namely cell structures deﬁned as pericentriolar inclu-
+sions containing misfolded proteins accompanied by a
+reorganization of the cytoskeleton intermediate ﬁlament
+vimentin (johnston et al., 1998).
+to verify such an interpretation for the observed
+aggregates, we investigated the localisation of vimentin
+in cells transfected with the dup39 construct and treated
+with lactacystin. in fig. 4b, the distribution pattern of
+vimentin is shown in cells containing single large jux-
+tanuclear aggregates (rows i and ii) and in a cell charac-
+terized by several phox2b aggregates scattered in the
+cytoplasm (row iii). as predicted, while in this latter case
+a diffuse pattern of vimentin could be observed, single
+fig. 4. effect of proteasome inhibition on phox2b(+13ala) cellu-
+lar localisation and aggregates formation. (a) dose-dependent effect
+of lactacystin on the proportion of cos-7 cells, transfected with
+phox2b(dup39), characterized by an exclusive nuclear (black),
+nuclear + cytoplasmic (grey) and cytoplasmic (white) localisation
+(upper panel). regression line showing linear inverse correlation
+between dose of lactacystin and percentage of cells with nuclear
+localisation of mutant phox2b (middle panel). in the lower panel,
+the proportion of cells with aggregates is reported for each sample.
+(b) nuclear staining (blue), phox2b + 13ala localisation (green),
+vimentin organization (red) and merge of all images, in two cells with
+a large juxtanuclear aggregate (i and ii) and in one cell with nuclear
+and cytoplasmic small aggregates (iii).
+t. bachetti et al. / the international journal of biochemistry & cell biology 39 (2007) 327–339
+333
+large aggregates presented a phox2b-containing core
+surrounded by a cage-like structure composed of con-
+densed vimentin-positive ﬁbers, typical of the so-called
+aggresomes.
+the role of autophagy in the clearance of mutant
+phox2b proteins has been investigated inducing inhi-
+bition and activation of this cellular mechanism by
+treatments with 3-methyladenine and rapamycin, respec-
+tively.
+in particular, similarly to the effect induced by lacta-
+cystin, treatment of cells expressing the dup39 construct
+with the autophagy inhibitor 3-methyladenine led to a
+dose-dependent decrease in nuclear phox2b(+13ala)
+localisation (fig. 5a, upper and middle panels) and
+a marked increase in cells characterized by phox2b
+aggregates exclusively localized in the cytoplasm
+(fig. 5a, lower panel). differently from what observed
+following lactacystin treatments, no aggresome could be
+detected.
+as expected, and opposite to the effect of autophagy
+inhibition, addition of rapamycin to cells expressing the
+dup39 construct led to a signiﬁcant increase in nuclear
+localisation of the phox2b(+13ala) protein (fig. 5b)
+and to a marked decrease in aggregates (not shown).
+the simultaneous inhibition of proteasome by addition
+of lactacystin in the same cell system caused a small
+and not signiﬁcant decrease in nuclear localisation of
+the mutant protein with respect to autophagy activation
+alone (fig. 5b).
+3.4. analysis of the role of proteasome in
+geldanamycin effects
+several studies have shown that hsp90 inhibitors
+may act by inducing both the refolding mechanism
+through the heat shock response and/or the proteasome-
+mediated degradation of the protein (vanaja et al., 2002;
+waza et al., 2005, 2006).
+therefore, we wondered whether
+the refolding
+effect observed after ga treatment of cells expressing
+phox2b mutant proteins was directly due to ga abil-
+ity in increasing the activity of chaperones or it was the
+indirect result of a promoted degradation of phox2b
+aggregates.
+to investigate the possibility that geldanamycin facil-
+itates the degradation of mutant phox2b, we have anal-
+ysed mutant phox2b(+13ala) expression levels both
+before and after the ga treatment.
+to this end, hela cells were transfected with the
+dup39 expression construct and added with ga 360 nm.
+forty-eight hours later, analysis of total cellular lysates
+for phox2b expression showed a less amount of pro-
+fig. 5. effect of both inhibition and activation of autophagy on
+phox2b(+13ala) cellular localisation and aggregates formation. (a)
+dose-dependent effect of 3-methyladenine on the proportion of cos-
+7 cells, transfected with phox2b(dup39), characterized by exclusive
+nuclear (black), nuclear + cytoplasmic (grey) and cytoplasmic (white)
+localisation (upper panel). regression line showing linear inverse cor-
+relation between dose of 3-methyladenine and percentage of cells with
+nuclear localisation of mutant phox2b (middle panel). in the lower
+panel, the proportion of cells with aggregates is reported for each
+sample. (b) effect of rapamycin (r) on phox2b(+13ala) (dup39
+mutant) localisation when cells were added with or without lactacystin
+(lc). proportions of cos-7 cells characterized by exclusive nuclear
+(black), nuclear + cytoplasmic (grey) and cytoplasmic (white) locali-
+sation are reported. values represent the mean± s.d. of at least two
+independent experiments performed in duplicate. signiﬁcant differ-
+ences between untreated cells (“dup39”) and cells added with r only
+(“dup39 + r”) and between untreated cells (“dup39”) and cells added
+with r + lc (“dup39 + r + lc”) are indicated by asterisks (student’s
+t-test, *p < 0.05, **p < 0.01).
+334
+t. bachetti et al. / the international journal of biochemistry & cell biology 39 (2007) 327–339
+localisation of the mutant protein, proteasome inhibition
+counteracted this effect by inducing an increase in the
+proportion of cells with cytoplasmic phox2b (fig. 6b),
+thus conﬁrming that the proteasome machinery plays a
+relevant role in the geldanamycin induced cellular pro-
+cesses.
+3.5. cellular toxicity and phox2b polyalanine
+expansions
+to investigate whether aggregates due to polyala-
+nine expansions could be associated with cell toxicity,
+we have compared the extent of death detected in cells
+expressing wild type phox2b protein and phox2b
+carrying alanine expanded tracts.
+first, we have evaluated nuclei morphology in cells
+transfected with wt and dup39 constructs, encoding
+native phox2b or the phox2b(+13ala) proteins,
+respectively. gfp positive cells showing dapi-stained
+nuclei characterized by irregular borders, fragmenta-
+tion or pyknosis were considered as dying or already
+dead (fig. 7a, upper panel). starting from 2 days,
+and up to 4 and 7 days after transfection, a signiﬁcant
+increase in non-standard nuclei (including both irregu-
+lar + fragmented) was observed in cells expressing the
+mutant protein with respect to cells expressing wild type
+phox2b (fig. 7a, lower panel).
+in order to understand whether phox2b polyala-
+nine aggregates may be associated with programmed
+cell death (pcd), we have assessed cell apoptosis by
+staining cells with the apoptotic markers annexin v and
+7-amino-actinomycin d (7-aad), followed by facs
+analysis. annexin v binding represents a hallmark of
+early apoptosis, implying that cells have lost their mem-
+brane asymmetry but not their membrane integrity. as
+7-aad staining is a sign of cell permeability and cell
+disintegration and simultaneous positive reaction to both
+7-aad and annexin v characterizes cells in advanced
+stage of apoptosis, both cells in the early stage of apop-
+tosis (annexin v+, 7-aad−) and cells in the late stage
+of apoptosis (annexin v+, 7-aad+) were considered as
+apoptotic.
+seven days after transfection of cos-7 cells with
+expression constructs for gfp-fused phox2b wt,
++5ala, +9ala and +13ala, a weak but signiﬁcant
+increase in the proportion of apoptotic cells could be
+demonstrated in correspondence of phox2b(+13ala)
+expression, as expected given the larger amount of aggre-
+gates also induced by the same construct. conversely, no
+signiﬁcant difference was detected between wild type
+and other phox2b mutants carrying shorter polyala-
+nine expanded stretches (fig. 7b).
+is shown in the middle image;
+fig. 6. role of the proteasome machinery in the geldanamycin
+mediated effects. (a) phox2b(+13ala) protein expression level
+in hela cells transfected with the dup39 construct shown in both
+the presence and absence of ga 360 nm. the induced amount
+of hsp70 expression level
+the
+housekeeping ␤-actin levels are represented in the bottom line. (b)
+effect of geldanamycin on phox2b + 13ala cellular localisation in
+both the presence and absence of lactacystin. in particular, analy-
+sis of exclusively nuclear (black), nuclear + cytoplasmic (grey) and
+exclusively cytoplasmic (white) localisation of mutant phox2b in
+cos-7 cells transfected with the dup39 construct was performed
+in the absence of any treatment (“dup39”), after addition of ga
+360 nm (“dup39 + ga”) and following addition of both ga 360 nm
+and lactacystin 10 ␮m (“dup39 + ga + lc”). differences statistically
+signiﬁcant between “dup39” and “dup39 + ga + lc” and between
+“dup39 + ga” and “dup39 + ga + lc” are indicated by asterisks (stu-
+dent’s t-test, *p < 0.05).
+tein in cells added with ga with respect to untreated
+cells, suggesting a possible role of this drug in facilitating
+degradation of the mutant protein. a remarkable induc-
+tion of the heat shock response by ga was assessed by
+analysis of hsp70 levels in the same samples (fig. 6a).
+moreover, as geldanamycin has been shown to
+enhance the proteasome-mediated degradation of sev-
+eral proteins (vanaja et al., 2002; bender et al., 2000),
+we have analysed whether this mechanism was mediat-
+ing geldanamycin effects also in our cellular system.
+cos-7 were transfected with the dup39 expression
+construct and added with ga, either in the absence or
+in the presence of the proteasome inhibitor lactacystin.
+analysis of phox2b(+13ala) localisation consequent
+to the different drug treatments showed that, while ga
+was able to rescue almost completely the correct nuclear
+t. bachetti et al. / the international journal of biochemistry & cell biology 39 (2007) 327–339
+335
+finally, we investigated whether the ga treatment,
+besides the partial rescue of correct nuclear localisation
+of phox2b(+13ala) and the decrease in protein mis-
+folded aggregation, might have an effect on cell survival.
+to this end, cos-7 cells were transfected with the dup39
+construct and added with ga 48 h after transfection, to
+allow aggregates formation. five days later, facs anal-
+ysis of cells still carrying the ﬂuorescent plasmid showed
+that ga treatment had not affected the total rate of apop-
+totic cells; however, an increase of early apoptosis and
+a simultaneous decrease in the percentage of cells pos-
+itive for both apoptosis markers (annexin v+/7-aad+)
+could be demonstrated, thus suggesting that ga acts by
+diminishing the fraction of cells in advanced apoptotic
+stages (fig. 7c).
+4. discussion
+in this work, we have focused on mechanisms adopted
+by cells to remove the pathogenetic aggregates induced
+by phox2b polyalanine expansions and on the cellular
+response to their possible toxic effect.
+first, we have demonstrated a dose-dependent effect
+of the ansamycin antibiotic geldanamycin (ga) in pre-
+venting phox2b polyalanine aggregation when added
+to cells during transfection. the heat shock response,
+would therefore protect non-native phox2b protein
+chains from misfolding and aggregation, thus also allow-
+ing the correct nuclear localisation of this transcription
+factor. in a successive step of our study, we wondered
+whether pre-formed phox2b polyalanine aggregates
+cos-7 cells expressing phox2b wt, +5ala (dup15), +9ala (dup27)
+and +13ala (dup39)-gfp fused proteins. cells were stained with
+annexin v and 7-aad and analysed by ﬂow cytometry setting the
+gate on gfp + cells. the total rate of apoptosis (early and late) was
+determined by adding the percentage of annexin v+/7-aad− with
+annexin v+/7-aad+ cells. results are expressed as ratio between
+the proportion of apoptotic cells between the population expressing
+the mutant protein with respect to cells expressing the wild type
+phox2b (arbitrary value = 1) 7 days after transfection. values are the
+mean± s.d. of at least three independent experiments. the signiﬁcant
+difference between wt and dup39, assessed by student’s t-test, is indi-
+cated by the asterisk (*p < 0.05). on the right part of the panel, the same
+results are reported as percentage of total cells undergoing apoptosis
+(mean± s.d. of three independent experiments). (c) cytoﬂuorimetric
+analysis of early (annexin v+/7-aad) and late (annexin v+/7-aad+)
+apoptosis in cells expressing phox2b(+13ala) in the presence or
+absence of 360 nm geldanamycin. values are reported as the ratio
+between proportions of apoptotic cells in ga treated and in untreated
+cells (arbitrary value = 1). results are the mean± s.d. of two inde-
+pendent experiments. the signiﬁcant difference between ga-treated
+and the corresponding untreated apoptotic cells, assessed by student’s
+t-test, is indicated by asterisk (*p < 0.05).
+fig. 7. analysis of viability in cells expressing polyalanine expanded
+phox2b. dapi stained nuclei of cells transfected with wt phox2b
+and dup39 construct. in the upper part of panel (a), from left
+to right, a regular nucleus (“r”), a nucleus with fragmented and
+irregular borders (“i”) and a fragmented nucleus (“f”) are shown. the
+percentage of cells expressing wt-gfp and dup39-gfp constructs
+and characterized by each of the above nuclear conformation at 2, 4
+and 7 days after transfection are reported in table below. each value is
+the mean± s.d. of two independent experiments. the proportion of
+non-regular (irregular + fragmented) nuclei in cells transfected with
+the dup39-gfp construct is compared, in the lower graph of panel
+(a), with cells expressing the wild type protein, at 2, 4 and 7 days
+after transfection. results are the mean± s.d. of at least two inde-
+pendent experiments. (b) cytoﬂuorimetric detection of apoptosis in
+336
+t. bachetti et al. / the international journal of biochemistry & cell biology 39 (2007) 327–339
+could be eliminated by delayed ga treatments. in partic-
+ular, we observed that an exclusively nuclear localisation
+of the mutant protein could be achieved for phox2b
+carrying ﬁve and nine extra alanine residues after 3
+days of ga treatment, while nuclear localisation of
+phox2b carrying the longest polyalanine tract expan-
+sion (+13ala) could be only partially observed. in this
+latter case, however, shorter treatments were sufﬁcient
+to drastically decrease the amount of aggregates of the
+mutant protein, suggesting that nuclear translocation fol-
+lows the cell recovery from large amounts of phox2b
+aggregates.
+our recent results have shown a strict correlation
+between reduction of dβh promoter transactivation and
+increasing length of phox2b co-transfected polyala-
+nine tracts (bachetti, matera, et al., 2005; trochet, hong,
+et al., 2005). in agreement with the effect of ga treat-
+ments in preventing aggregation and inducing nuclear
+localisation of expanded phox2b polyalanine tracts,
+we have also demonstrated a signiﬁcant though variable
+degree of rescue in the ability of mutant phox2b pro-
+teins to transactivate the dβh promoter.
+these results, and in particular the ability of ga
+to clean cells from pre-formed aggregates, suggest that
+mechanisms induced by this drug might be consid-
+ered as targets for therapeutic relief from respiratory
+or other associated symptoms in cchs patients. how-
+ever, because of probable side effects of heat shock
+response activation (queitsch et al., 2002; rutherford
+& lindquist, 1998), and geldanamycin toxicity, as it
+has been assessed by facs analysis (50% apopto-
+sis in cells added for 5 days with ga), investiga-
+tions on proper animal models will be necessary to
+assess geldanamycin effects in vivo. encouraging results,
+suggesting a possible geldanamycin-based therapeutic
+approach, have recently been obtained by treating a
+mouse model of huntington’s disease with ga (hay
+et al., 2004), and speciﬁcally with 17-allylamino-17-
+demethoxygeldanamycin (17-aag), a molecule char-
+acterized by lower toxicity, at present in phases i and
+ii clinical trial for cancer chemotherapy (chiosis et al.,
+2003; heath et al., 2005) and already demonstrated to be
+effective in preventing polyglutamine-mediated motor
+neuron degeneration in spinal bulbar muscular atrophy
+(waza et al., 2005). moreover, the reduction of aggre-
+gate formation and toxicity induced by mutant pabpn1
+in mice after treatment with the disaccharide trehalose,
+shown to inhibit the formation of amyloid (arora et al.,
+2004), represents the ﬁrst observation in vivo providing
+clues to potential therapies for a polyalanine expansions
+associated disorder (davies, berger, et al., 2006; davies,
+sarkar, et al., 2006).
+several evidences have shown the involvement of
+the ubiquitin–proteasome system in neurodegenera-
+tive disorders (abu-baker et al., 2003; adachi et al.,
+2000). despite the aggregate-prone proteins are nor-
+mally expected to be cleared by this pathway, a process,
+termed autophagy and characterized by bulk degrada-
+tion in the lytic cell compartments, has recently been
+demonstrated to play a role in polyalanine aggregates
+degradation (ravikumar et al., 2002).
+data presented here on inhibition of the proteasome
+machinery and autophagy provide the ﬁrst evidence of
+the involvement of these mechanisms in the clearance
+of misfolded phox2b proteins in the cchs pathogen-
+esis. both lactacystin and 3-methyladenine treatments
+have shown to increase the proportion of cells character-
+ized by phox2b(+13ala) aggregates in the cytosolic
+compartment. such an increased amount of phox2b
+inclusions was consistent with results obtained for the
+pabpn1 gene in oculopharyngeal muscular dystro-
+phy (opmd) following cell treatments with lactacystin
+(abu-baker et al., 2003), and with ﬁndings obtained by
+treating polyglutamine and polyalanine aggregate-prone
+proteins with the autophagy inhibitor 3-methyladenine
+(ravikumar et al., 2002). moreover, rapamycin, an
+autophagy induction drug, has resulted to enhance clear-
+ance of polyglutamine- and polyalanine-cell aggregates
+(berger et al., 2006; ravikumar et al., 2002). by using
+rapamycin, we have been able to conﬁrm the role of
+autophagy in maintaining phox2b balance; in partic-
+ular, although simultaneous inhibition of proteasome
+activity seem to decrease the effect of rapamycin, the
+ﬁnal outcome of this combined treatment has resulted
+in a signiﬁcant proportion of cells presenting a correct
+localisation of the phox2b mutant protein.
+differently from the effect of autophagy inhibitors,
+proteasome impairment has resulted in the formation of
+large cytosolic aggresomes formed by a pericentriolar
+core containing the misfolded protein surrounded by a
+cage of rearranged ﬁlaments of vimentin. this obser-
+vation is in accordance with the notion that aggresome
+formation represents a general cellular response which
+occurs when the capacity of the proteasome is exceeded
+by the production of aggregation-prone misfolded pro-
+teins (johnston et al., 1998), as already observed in
+association with neurodegenerative polyglutamine dis-
+orders (shimohata et al., 2002). in particular, proteasome
+inhibition has been observed to induce the formation of
+perinuclear aggresomes containing the disease-related
+prion protein prpc (kristiansen et al., 2005).
+since the ubiquitin–proteasome system is emerging
+as a critical player in protein misfolding disorders, the
+ﬁnding of drugs aimed at improving its function in neu-
+t. bachetti et al. / the international journal of biochemistry & cell biology 39 (2007) 327–339
+337
+ronal cells may provide a mean for the therapeutic control
+of the cchs outcome.
+our work provides a link between protein folding
+and degradation mechanisms. recent studies have shown
+that hsp90 complexes can be found under either the
+proteasome-targeting form (associated with hsp70 and
+hop) or the stabilizing form (associated with cdc37
+and p23) (neckers, 2002) and that hsp90 inhibitors
+would act by either shifting such complexes towards the
+proteasome-targeting form or inducing the hsp activ-
+ity (waza et al., 2006). the hypothesis that phox2b
+could be a “hsp90 client protein”, suggested by co-
+localisation of phox2b polyalanine aggregates with
+hsp70 (trochet, hong, et al., 2005), is conﬁrmed by
+our observation that the treatment of cells expressing the
+mutant protein with the hsp90 inhibitor geldanamycin
+induces some degrees of proteasome mediated degra-
+dation. in particular, analysis of mutant protein level
+performed by western blot has shown that geldanamycin
+induces a decrease in the amount of phox2b(+13ala),
+likely due to proteasome-mediated degradation, as sug-
+gested by impairment of correct nuclear localisation fol-
+lowing geldanamycin + lactacystin treatment.
+therefore, as the polyalanine expanded phox2b
+protein is partially reduced and not completely elim-
+inated by mechanisms induced by geldanamycin, the
+rescue of the correct nuclear localisation is likely the
+result of both induction of hsp70, leading to a correct
+folding of the mutant protein, and proteasome-mediated
+degradation, decreasing the amount of misfolded pro-
+tein.
+while protein aggregates have turned out to be toxic,
+thus leading to cell death, in most of the polyglu-
+tamine tract associated pathologies (michalik & van
+broeckhoven, 2003; ravikumar et al., 2002; zoghbi &
+orr, 2000), at today, apoptosis due to exceeding mis-
+folded polyalanine aggregation has been demonstrated in
+two diseases only. in particular, polyalanine tract expan-
+sions of the arx gene induce formation of intranuclear
+inclusions resulted in increased cell death in infantile
+spasms and mental retardation syndrome (nasrallah et
+al., 2004), while caspase 8-mediated apoptosis has been
+reported in cells expressing pabpn1 with 11 extra-
+alanine residues in opmd (giri et al., 2003).
+in the attempt to understand further the pathogenetic
+effect of phox2b polyalanine aggregates in cchs, we
+have investigated their potential cellular toxicity. micro-
+scope ﬂuorescence analysis has shown an increase of
+disrupted nuclear morphology in cells containing aggre-
+gates due to the expression of the dup39 construct,
+compared to cells expressing the wild type protein, start-
+ing from 2 days after transfection and progressing in
+intensity up to 7 days of cell culture. since working
+under transient conditions, we could not carry on the
+analysis further because of drastic release of plasmids
+from cells at longer times. these data were conﬁrmed,
+although at less extent, by facs analysis which showed
+increased apoptosis in association with expression of
+phox2b(+13ala) and no signiﬁcant toxic effect in cells
+transfected with the shortest phox2b mutants. this
+result is also in accordance with the highest percentage of
+aggregates in cells expressing the +13ala protein, where
+they likely mediate the cell toxic effects. moreover, the
+correlation between cell apoptosis and aggregates accu-
+mulation has also been conﬁrmed by the observation of a
+marked increase of apoptotic cells following proteasome
+inhibition (not shown).
+finally, facs analysis of apoptosis suggested an
+important function of geldanamycin in preventing cell
+death.
+in particular, despite its toxic effects, gel-
+danamycin treatment of cells expressing phox2b
+(+13ala) induced a selective decrease of the percentage
+of cells in advanced stages of apoptosis, suggesting that
+this drug protects damaged cells against the ﬁnal frag-
+mentation step probably by delaying their progression
+toward the death process. despite we cannot establish
+yet whether aggregate formation is the initial step of
+diseases or it is a cellular strategy to inactivate toxic
+nuclear forms of mutated proteins (sisodia, 1998), our in
+vitro experiments, showing a low level of toxicity associ-
+ated with phox2b polyalanine aggregates, suggest that
+cchs pathogenesis is likely due to neuronal dysfunction
+rather than to a massive cell loss.
+finally, though generation of a proper mouse model
+seems to be the only practicable way to clarify the cellu-
+lar responses and especially the fate of cells expressing
+polyalanine expanded phox2b, the rescue of cell via-
+bility following treatments with hsp90 inhibitors could
+be evaluated as a potential therapeutic tool also for
+polyalanine expansion mediated cchs symptoms.
+acknowledgements
+we are grateful to dr. vito pistoia of the laborato-
+rio di oncologia of the istituto giannina gaslini for the
+critical reading of the manuscript, dr. giorgio gimelli
+and dr. patrizia fiorio of the laboratorio di citogenetica
+and dr. annalisa pezzolo of the laboratorio di oncolo-
+gia of the istituto giannina gaslini for their technical
+support in microscopy and image acquisition; we thank
+dr. brinda ravikumar of the cambridge institute for
+medical research for information about 3-ma solution
+and we are grateful to prof. d. fornasari for his kind
+gift of the dβh reporter-promoter gene construct. the
+338
+t. bachetti et al. / the international journal of biochemistry & cell biology 39 (2007) 327–339
+secretarial assistance of mrs. loredana velo is greatly
+acknowledged.
+supports and grants: t.b. is supported by a fellowship
+awarded by the gruppo giovani industriali della liguria-
+assindustria. the ﬁnancial support of italian telethon
+(grant ggp04257) is gratefully acknowledged.
+references
+abu-baker, a., messaed, c., laganiere, j., et al. (2003). involvement
+of the ubiquitin–proteasome pathway and molecular chaperones in
+oculopharyngeal muscular dystrophy. human molecular genetics,
+12, 2609–2623.
+adachi, m., browne, d., & lewis, e. j. (2000). paired-like home-
+odomain proteins phox2a/arix and phox2b/nbphox have sim-
+ilar genetic organization and independently regulate dopamine
+beta-hydroxylase gene transcription. dna and cell biology, 19,
+539–554.
+albrecht, a. n., kornak, u., boddrich, a., et al. (2004). a molecular
+pathogenesis for transcription factor associated poly-alanine tract
+expansions. human molecular genetics, 13, 2351–2359.
+amiel, j., laudier, b., atti`e-bitach, t., et al. (2003). polyalanine
+expansion and frameshift mutations of the paired-like homeobox
+gene phox2b in congenital central hypoventilation syndrome.
+nature genetics, 33, 459–461.
+arora, a., ha, c., & park, c. b. (2004). inhibition of insulin amy-
+loid formation by small stress molecules. febs letters, 564, 121–
+125.
+bachetti, t., borghini, s., ravazzolo, r., et al. (2005). an in vitro
+approach to test the possible role of candidate factors in the tran-
+scriptional regulation of the ret proto-oncogene. gene expres-
+sion, 12, 137–149.
+bachetti, t., matera, i., borghini, s., et al. (2005). distinct pathogenetic
+mechanisms for phox2b associated polyalanine expansions and
+frameshift mutations in congenital central hypoventilation syn-
+drome. human molecular genetics, 14, 1815–1824.
+behrouz, f., enrique, p., richard, a. h., et al. (1995). formation of an
+extremely stable polyalanine ␤-sheet macromolecule. biochemical
+biophysical research communication, 217, 7–13.
+bender, a. t., demady, d. r., & osawa, y. (2000). ubiquitination
+of neuronal nitrix-oxide synthase in vivo and in vitro. journal of
+biological chemistry, 275, 17407–17411.
+berger, z., ravikumar, b., menzies, f. m., et al. (2006). rapamycin
+alleviates toxicity of different aggregate-prone proteins. human
+molecular genetics, 15, 433–442.
+borghini, s., bachetti, t., fava, m., et al. (2006). the tlx-2 homeobox
+gene is a transcriptional target of phox2b in neural-crest-derived
+cells. biochemical journal, 395, 355–361.
+brown, l. y., & brown, s. a. (2004). alanine tracts: the expanding
+story of human illness and trinucleotide repeats. trends in genetics,
+20, 51–58.
+brunet, j. f., & pattyn, a. (2002). phox2 genes—from patterning
+to connectivity. current opinion in genetics & development, 12,
+435–440.
+chiosis, g., lucas, b., huezo, h., et al. (2003). development of purine-
+scaffold small molecule inhibitors of hsp90. current cancer drug
+targets, 3, 371–376.
+coleman, m., boros, s. j., hiseby, t. l., et al. (1980). congenital cen-
+tral hypoventilation syndrome. archives of diseases in childhood,
+55, 901–903.
+davies, j. e., berger, z., & rubinsztein, d. c. (2006). oculopha-
+ryngeal muscular dystrophy: potential therapies for an aggregate-
+associated disorder. international journal of biochemistry and cell
+biology, february 28 [epub ahead of print].
+davies, j. e., sarkar, s., & rubinsztein, d. c. (2006). trehalose reduces
+aggregate formation and delays pathology in a transgenic mouse
+model of oculopharyngeal muscular dystrophy. human molecular
+genetics, 15, 23–31.
+flora, a., lucchetti, h., benfante, r., et al. (2001). sp proteins and
+phox2b regulate the expression of the human phox2a gene. journal
+of neuroscience, 21, 7037–7045.
+giri, k., ghosh, u., bhattacharyya, n. p., et al. (2003). caspase 8 medi-
+ated apoptotic cell death induced by ␤-sheet forming polyalanine
+peptides. febs letters, 555, 380–384.
+hartl, f. u., & hayer-hartl, m. (2002). molecular chaperones in
+the cytosol: from nascent chain to folded protein. science, 295,
+1852–1858.
+hay, d. g., sathasivam, k., tobaben, s., et al. (2004). progressive
+decrease in chaperone protein levels in a mouse model of hunt-
+ington’s disease and induction of stress proteins as therapeutic
+approach. human molecular genetics, 13, 1389–1405.
+heath, e. i., gaskins, m., pitot, h. c., et al. (2005). a phase ii
+trial of 17-allylamino-17-demethoxygeldanamycin in patients with
+hormone-refractory metastatic prostate cancer. clinical prostate
+cancer, 4, 138–141.
+jana, n. r., tanaka, m., wang, g., et al. (2000). polyglutamine length-
+dependent interaction of hsp40 and hsp70 family chaperones
+with truncated n-terminal huntingtin: their role in suppression
+of aggregation and cellular toxicity. human molecular genetics,
+12, 2009–2018.
+johnston, j. a., ward, c. l., & kopito, r. r. (1998). aggresomes: a
+cellular response to misfolded proteins. journal of cell biology,
+143, 1883–1898.
+kristiansen, m., messenger, m. j., klohn, p.-c., et al. (2005). disease-
+related prion protein forms aggresomes in neuronal cells leading to
+caspase activation and apoptosis. journal of biological chemistry,
+280, 38851–38861.
+latouche, m., fragner, p., martin, e., et al. (2005). polyglutamine and
+polyalanine expansions in ataxin 7 result in different types of aggre-
+gation and level toxicity. molecular and cellular neuroscience, 31,
+438–445.
+lavoie, h., debeane, f., trinh, q. d., et al. (2003). polymorphism,
+shared functions and convergent evolution of genes with sequences
+coding for polyalanine domains. human molecular genetics, 12,
+2967–2979.
+layﬁeld, r., cavey, j. r., & lowe, j. (2003). role of ubiquitin-
+mediated proteolysis in the pathogenesis of neurodegenerative
+disorders. ageing research review, 2, 343–356.
+matera, i., bachetti, t., puppo, f., et al. (2004). phox2b mutations
+and polyalanine expansions correlate with the severity of the respi-
+ratory phenotype and associated symptoms in both congenital and
+late onset central hypoventilation syndrome. journal of medical
+genetics, 41, 373–380.
+michalik, a., & van broeckhoven, c. (2003). pathogenesis of polyglu-
+tamine disorders: aggregation revisited. human molecular genet-
+ics, 12, r173–r186.
+nasrallah, i. m., minarcik, j. c., & golden, j. a. (2004). a polyalanine
+tract expansion in arx forms intranuclear inclusions and results in
+increased cell death. journal of cell biology, 167, 411–416.
+neckers, l. (2002). heat shock protein 90 inhibitors as novel can-
+cer chemotherapeutic agents. trends in molecular medicine, 8,
+s55–s61.
+t. bachetti et al. / the international journal of biochemistry & cell biology 39 (2007) 327–339
+339
+queitsch, c., sangster, t. a., & lindquist, s. (2002). hsp90 as a capac-
+itor of phenotypic variation. nature, 417, 618–624.
+ravikumar, b., duden, r., & rubinsztein, d. c. (2002). aggregated-
+prone proteins with polyglutamine and polyalanine expansions
+are degraded by autophagy. human molecular genetics, 11,
+1107–1117.
+rutherford, s. l., & lindquist, s. (1998). hsp90 as a capacitor for
+morphological evolution. nature, 396, 336–342.
+sasaki, a., kanai, m., kijima, k., et al. (2003). molecular analysis
+of congenital central hypoventilation syndrome. human genetics,
+114, 22–26.
+shimohata, t., sato, a., burke, j. r., et al. (2002). expanded polyglu-
+tamine stretches form an “aggresome”. neuroscience letters, 323,
+215–218.
+shintani, t., & klionsky, d. (2004). autophagy in health and disease:
+a double-edged sword. science, 306, 990–995.
+sisodia, s. s. (1998). nuclear inclusions in glutamine repeat disorders:
+are they pernicious, coincidental, or beneﬁcial? cell, 95, 1–4.
+sittler, a., lurz, r., lueder, g., et al. (2001). geldanamycin activates
+a heat shock response and inhibits huntingtin aggregation in a cell
+culture model of huntington’s disease. human molecular genet-
+ics, 12, 1307–1315.
+trochet, d., o’brien, l. m., gozal, d., et al. (2005). phox2b geno-
+type allows for prediction of tumor risk in congenital central
+hypoventilation syndrome. american journal of human genetics,
+76, 421–426.
+trochet, d., hong, s. j., lim, j. k., et al. (2005). molecular conse-
+quences of phox2b missense frameshift and alanine expansion
+mutations leading to autonomic dysfunction. human molecular
+genetics, 14, 3697–3708.
+trottier, y., lutz, y., stevanin, g., et al. (1995). polyglutamine
+expansion as a pathological epitope in huntington’s dis-
+ease and four dominant cerebellar ataxias. nature, 378, 403–
+406.
+vanaja, d. k., mitchell, s. h., toft, d. o., et al. (2002). effect of
+geldanamycin on androgen receptor function and stability. cell
+stress and chaperones, 7, 55–64.
+wang, q., mosser, d. d., & bag, j. (2005). induction of hsp70 expres-
+sion and recruitment of hsc70 and hsp70 in the nucleus reduce
+aggregation of a polyalanine expansion mutant of pabpn1 in hela
+cells. human molecular genetics, 14, 3673–3684.
+waza, m., adachi, h., katsuno, m., et al. (2005). 17-aag, an
+hsp90 inhibitor, ameliorates polyglutamine mediated motor neu-
+ron degeneration. nature medicine, 11, 1088–1095.
+waza, m., adachi, h., katsuno, m., et al. (2006). modulation of hsp90
+function in neurodegenerative disorders: a molecular-targeted
+therapy against disease-causing protein. journal of molecular
+medicine, 84, 635–646.
+weese-mayer, d. e., shannon, c. d., keens, g. t., et al. (1999).
+idiopathic congenital hypoventilation syndrome diagnosis and
+management. american journal of respiratory and critical care
+medicine, 160, 368–373.
+weese-mayer, d. e., berry-kravis, e. m., zhou, l., et al. (2003).
+idiopathic congenital central hypoventilation syndrome: analysis
+of genes pertinent to early autonomic nervous system embryologic
+development and identiﬁcation of mutations in phox2b. american
+journal of medical genetics, 123, 267–278.
+zoghbi, h. y., & orr, h. t.
+(2000). glutamine repeats and
+neurodegeneration. annual review of neuroscience, 23, 217–
+247.

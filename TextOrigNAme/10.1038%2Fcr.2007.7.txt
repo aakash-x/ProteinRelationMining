@@ -1,0 +1,1522 @@
+original article
+cell research (2007) 17:249-263.
+â© 2007 ibcb, sibs, cas    all rights reserved 1001-0602/07  $ 30.00 
+www.nature.com/cr
+genji qin et al.
+npg
+249
+npg
+arabidopsis atbeclin 1/atatg6/atvps30 is essential for pollen
+germination and plant development
+genji qin1, zhiqiang ma1, li zhang1, shufan xing1, xianhui hou1, jie deng1, jingjing liu1, zhangliang chen1, 2, 
+li-jia qu1, 2, hongya gu1, 2
+1national laboratory for protein engineering and plant genetic engineering, peking-yale joint research center for plant molecular 
+genetics and agrobiotechnology, college of life sciences, peking university, beijing 100871, china; 2the national plant gene 
+research center (beijing), beijing 100101, china
+pollen germination on the surface of compatible stigmatic tissues is an essential step for plant fertilization. here we 
+report that the arabidopsis mutant bcl1 is male sterile as a result of the failure of pollen germination. we show that the bcl1 
+mutant allele cannot be transmitted by male gametophytes and no homozygous bcl1 mutants were obtained. analysis of 
+pollen developmental stages indicates that the bcl1 mutation affects pollen germination but not pollen maturation. molecu-
+lar analysis demonstrates that the failure of pollen germination was caused by the disruption of atbeclin 1. atbeclin 
+1 is expressed predominantly in mature pollen and encodes a protein with significant homology to beclin1/atg6/vps30 
+required for the processes of autophagy and vacuolar protein sorting (vps) in yeast. we also show that atbeclin 1 is 
+required for normal plant development, and that genes related to autophagy, vps and the glycosylphosphatidylinositol 
+anchor system, were affected by the deficiency of atbeclin 1.
+keywords: arabidopsis thaliana, atbeclin 1, pollen germination, plant normal development
+cell research (2007) 17:249-263. doi: 10.1038/cr.2007.7; published online 6 march 2007
+introduction
+eukaryotic cells have evolved two major sophisticated 
+intracellular constituent recycling mechanisms to maintain 
+homeostasis, i.e., the ubiquitin-mediated proteosome sys-
+tem that commits degradation of specific, short-lived pro-
+teins, and autophagy that takes care of the turnover of bulk 
+cytoplasmic contents including less-specific, long-lived 
+proteins and even organelles [1, 2]. in autophagy, cyto-
+plasmic constituents are sequestered in double-membraned 
+vesicles (designated as autophagosomes) and delivered to 
+the vacuole/lysosome for degradation. molecular genetic 
+analysis in yeast showed that the biosynthetic cytoplasm 
+to vacuole targeting (cvt) pathway was topologically and 
+correspondence: hongya gu
+fax: +86-10-6275-1841
+e-mail: guhy@pku.edu.cn
+received 31 december 2006; revised 23 january 2007; accepted 2 february 
+2007; published online 6 march 2007
+www.cell-research.com | cell research
+morphologically  similar  to  the  degradative  autophagy 
+pathway, and identified at least 27 autophagy-related (atg) 
+genes involved in these two pathways [3-6].
+the orthologs of most of these yeast atg proteins have 
+been found in animals and plants, indicating that the au-
+tophagic process is highly conserved in yeast and higher 
+multi-cellular organisms. it was reported that autophagy 
+plays  essential  roles  in  response  to  starvation  stress. 
+for example, nutrient starvation induces a high level of 
+autophagy and mutations of some atg genes affect the 
+differentiation process of sporulation under nutrient limita-
+tion conditions in yeast. autophagy was also shown to be 
+involved in normal development. disruption of the atg6 
+ortholog in nematodes arrests larval development at early 
+stages [7] and a loss-of-function mutation in beclin 1/atg6 
+is embryonic lethal in mice [8]. in addition, autophagy is 
+involved in human diseases including cancer, muscular dis-
+orders and neurodegenerative diseases [8-10]. for instance, 
+decreased beclin 1 expression results in high frequency of 
+breast, ovarian and prostate cancers [8, 11]. until recently, 
+atbeclin 1 controls arabidopsis pollen germination
+npg
+250
+however, very little was known about autophagy in plants. 
+in arabidopsis, there are at least 36 atg-like genes, some 
+of which have been characterized by genetic analysis [6]. 
+disruption of either atatg7, atatg9, atatg3, atatg4a/b, 
+atatg5, atatg18a or atvti12 results in similar phenotypes, 
+such as increased chlorosis, premature leaf senescence and 
+hyposensitivity to limited nitrogen or carbon nutrition [12-
+17]. this suggests that these atg-like genes are required 
+for normal senescence and nutrient recycling. recently, it 
+was reported that nbbeclin 1 was essential for restriction 
+of the hypersensitive response (hr) and programmed cell 
+death (pcd) during disease resistance [6, 18, 19]. how-
+ever, to date there is no evidence that atg-like genes are 
+involved in pollen germination.
+in higher plants, pollen, i.e., the male gametophyte, de-
+velops in the anthers, and becomes mature pollen after the 
+microgametogenesis phase and two consecutive mitoses. 
+on a compatible stigma, the desiccated pollen hydrates 
+for germination; the pollen tube protrudes from the pollen 
+grain and rapidly grows through the style and enters into 
+the ovule to achieve double fertilization [20, 21]. many 
+mutations that interfere with the production of pollen have 
+been obtained and described in many plant species. most 
+of  these  mutants  show  a  sporophytic  requirement  and 
+are nuclear recessive, and thus the mutant locus can be 
+transmitted by pollen or embyo sacs to form homozygous 
+progeny [22, 23]. by contrast, mutations of genes essential 
+for pollen function can only be transmitted by the embryo 
+sac, and thus can only be recovered as heterozygotes [24]. 
+these mutations show non-mendelian segregation and this 
+segregation distortion has been used successfully to identify 
+several pollen mutants, such as kinky, limpet pollen (now 
+named ingressus) and halfman [25-29]. assiduous screen-
+ing based on morphology or staining characteristics of pol-
+len has successfully isolated additional male gametophytic 
+mutants, such as sidecar pollen, gemini pollen, raring-to-go 
+(rtg), gum and mud [30-34]. in addition to mutant screens, 
+analysis of t-dna insertion lines, rna interference lines 
+or antisense lines corresponding to particular genes has 
+also been adopted to determine the function of the genes 
+expressed in pollen [35-37]. for instance, the arabidopsis 
+gene npg1 encoding a pollen-specific calmodulin-binding 
+protein was found to be essential for pollen germination 
+[38], whereas a plant rho-like gtpase (rop), a plasma 
+membrane ca2+ pump aca9 and the homolog of yeast 
+vps52p are shown to play important roles in pollen tube 
+growth [39-41]. mutations in adl1c, encoding a dynamin-
+like protein required for plasma membrane functions [42], 
+and in an apyrase gene, are shown to result in an inability of 
+the homozygous pollen to germinate [43]. other examples 
+include the glycosylphosphatidylinositol (gpi) biosynthetic 
+pathway genes seth1 and seth2 and an inositol poly-
+phosphate kinase gene atipk2α that are all required for 
+pollen germination and tube growth [44, 45].
+in this study, ~8 000 independent  arabidopsis trans-
+formants from our t-dna mutant collection [46] were 
+screened by determining the segregation of the seedling 
+dl-phosphinothricin  (ppt)-resistance  phenotype  con-
+ferred  by  the t-dna.  here  we  describe  the  isolation, 
+genetic transmission, and phenotypic characterization of 
+the bcl1 mutant. phenotypic analysis showed that the bcl1 
+mutant appears to produce structurally and morphologically 
+normal pollen grains, but that bcl1 pollen fails to germi-
+nate. the pollen germination defects of bcl1 are caused 
+by the disruption of the gene at3g61710, which encodes 
+a protein homologous to atg6/vps30/beclin 1 in yeast or 
+mammals. we also observed that  atbeclin 1-deficent 
+plants displayed retarded growth, dwarfism and early se-
+nescence. these results suggest that atbeclin 1 plays an 
+essential role in both pollen germination and normal plant 
+development. 
+materials and methods
+plant material, growth conditions and mutant screening
+the t-dna insertion mutant collection was generated as de-
+scribed previously [46]. the first selfing progeny of the t1 generation 
+were grown on the ½ms medium containing 10 μg/ml of ppt for 
+a week and segregation ratios for ppt-resistance were calculated to 
+identify mutants with a gametophyte defect.
+primers for identification of t-dna mutants
+the flanking sequence of the t-dna insertion site was identified 
+by thermal asymmetric interlaced pcr (tail-pcr) [47]. the arbi-
+trary degenerate primers and specific primers used in tail-pcr were 
+as described previously [46]. the primers p1 (5'-gag cag gaa 
+aca aca acc aac t-3'), p2 (5'-ggc ctt gga gaa tta gga 
+ttg g-3'), ls4 (5'- ttg gta att act ctt tct ttt cct cc 
+-3') and lbb1 (5'-gcg tgg acc gct tgc tgc aac t-3') were 
+designed for co-segregation analysis of bcl1 and salk_109281.
+plant crosses
+for genetic transmission analysis, heterozygous  bcl1 was re-
+ciprocally crossed with wild-type. the seeds obtained were grown 
+on ½ms medium plus 10 μg/ml ppt for a week and the number 
+of ppt-resistant and ppt-sensitive seedlings were calculated for 
+transmission efficiency [27].
+to generate the +/bcl1 qrt1/qrt1 double mutant, the flowers of 
+heterozygous bcl1 plants were emasculated before maturation and 2 d 
+later pollinated with qrt1 pollen. f2 progeny were screened on ½ms 
+medium with 10 μg/ml of ppt and pollen from ppt-resistant plants 
+was examined under the microscope for the qrt1 phenotype.
+constructs and transformation
+the open reading frame (orf) of atbeclin 1 was amplified 
+from  arabidopsis  pollen  cdna  with  primers  bcl-1  (5'- atg 
+agg aaa gag gag att cca g -3') and bcl-2 (5'- gat tca 
+gtc tat cac gag ttt cta agt-3'), and bcl-1 and bcl-3 
+ cell research | www.cell-research.com 
+(5'-agt ttt ttt aca tga agg ctt act aga gtc-3') were 
+used for amplifying the atbeclin 1 coding region without a stop 
+codon. the atbeclin 1 promoter was amplified from arabidopsis 
+genomic dna with primers bcp-1 (5'-cat gtt ctg aga caa 
+ttc tct agc-3') and bcp-2 (5'-ctc ctc ttt cct cat cgc 
+tct c-3'). gfp was amplified from pires-gfp (clontech) 
+with primers gfp-1 (5'- atg gta gat ctg act agt aaa gg 
+-3') and gfp-2 (5'- agc tgg tca cca att cac acg t -3'). 
+the products were cloned into the ecor v site of pbluescript sk+ 
+(pbs) in both sense and anti-sense orientations. the pbs plasmid 
+carrying sense atbeclin 1 (pbcl1) was digested by xba i and 
+kpn i and cloned into the plant binary vector fragment pqg110 
+[48] to generate p35spbcl. pbcpbclgfp was constructed by 
+the ligation of pqg110/hind iii-xba i, pbs plasmids carrying the 
+antisense atbeclin 1 promoter/hind iii-pst i, pbs plasmids car-
+rying sense atbeclin 1 without the stop codon/pst i-sal i and 
+pbs plasmids carrying antisense gfp/sal i-xba i. the p35spbcl 
+and pbcpbclgfp plasmids were transformed into +/bcl1 and t0 
+seeds were screened on the ½ms medium supplemented with ppt 
+and kanamycin.
+for expression pattern analysis, a 782-bp promoter sequence of 
+atbeclin 1 was amplified with primers bcp-1 and bcp-3 (5'-
+cgc tct ccc agt ttt tgt gg-3') and cloned into pbs/ecor 
+v. the construct pbcpgus was obtained by ligating ecor i- hind 
+iii pcambia1381xa with ecor i- hind iii pbs with a sense insert 
+of the atbeclin 1 promoter sequence. the pbcpgus was trans-
+formed into wild-type arabidopsis and t0 seeds were screened on 
+the ½ms medium with hygromycin.
+phenotypic analysis by microscopy, cytochemistry and pollen 
+germination
+the  inflorescences  from  wild-type  and  +/bcl1  heterozygous 
+plants were collected and fixed in 4% (v/v) glutaraldehyde in 25 
+mm sodium phosphate buffer (ph6.8). after dehydration through a 
+concentration-increasing ethanol series, the samples were embedded 
+into historesin (leica, wetzlar, germany). sectioning was performed 
+using a leica microtome and the sections mounted on slides. sections 
+of 5 µm were stained with 0.25% (w/v) toluidine blue o (sigma) and 
+observed under an olympus bx51 microscope (olympus, tokyo, 
+japan). digital images were captured with a spot camera (diag-
+nostic instruments, inc., sterling heights, mi, usa) and processed 
+using adobe photoshop. 
+for scanning electron microscopy (sem), mature flowers of +/
+bcl1 qrt1/qrt1 were fixed in pure methanol for 5 min and then washed 
+with 100% ethanol before being mounted and coated as described 
+[49]. sem analysis was carried out using a hitachi s-450 scanning 
+electron microscope (hitachi, japan).
+for cytochemical analysis of pollen, solutions of 4,6-diamidino-2-
+phenylindole (dapi) and rhodamine 123 (sigma) were prepared and 
+used as described previously [50], and alexander stain was prepared 
+also as described previously [51]. mature pollen were stained with 
+dapi, alexander stain or rhodamine 123 respectively, and observed 
+with epifluorescence or differential interference contrast (dic) under 
+an olympus bx51 microscope (olympus, tokyo, japan). more than 
+3 000 pollen tetrads from at least ten different mutant lines were 
+examined. pollen tubes in pistils were stained using aniline blue as 
+described previously [35].
+in vitro pollen germination was assayed either in liquid medium 
+for pollen tetrads from  +/bcl1 qrt1/qrt1 or qrt1/qrt1 mutants or 
+www.cell-research.com | cell research
+genji qin et al.
+npg
+251
+on solid medium. the germination medium was used as described 
+previously [52]. for statistical analysis of the germination ratios, 
+each assay was repeated at least three times, and pollen grains were 
+collected from more than 10 different plants each time. pollen grains 
+were incubated at 25 ºc and 100% humidity on solid medium for 10 
+h. pollen tetrads were germinated in 10 µl liquid medium, dropped 
+on slides, and incubated at 25 °c and 100% humidity for 20 h.
+affymetrix microarray analysis
+wild-type and pbcpbclgfp bcl1/bcl1 plants were grown for 
+about 45 d under the same conditions as those described above. 
+30-40 homozygous bcl1 plants harboring pbcpbclgfp or wild-
+type plants, without roots, were pooled and homogenized in liquid 
+nitrogen. total rna was isolated independently from three aliquots 
+of 100 mg tissue separated from homogenized tissues using trizol 
+reagent  (invitrogen).  rna  was  purified  using  rneasy  mini  kits 
+(qiagen). rna from three independent purifications was pooled and 
+used for microarray hybridization with arabidopsis whole genomic 
+microarrays (ath1, affymetrix) according to manufacturer’s in-
+structions. data images were analyzed using affymetrix microarray 
+suit (version 5.0) software. after invariant normalization, log2 ratio 
+analysis was carried out and genes showing a significant difference 
+(p<0.05) between wild-type and pbcpbclgfp bcl1/bcl1 plants 
+were  selected.  biochemical  pathways  were  analyzed  using  the 
+software kobas [53].
+real-time rt-pcr analysis
+roots, stems, leaves, flowers and siliques were collected from 
+about 45-day-old arabidopsis (col-0) plants. mature pollen was col-
+lected by washing the opening flowers with water, filtering through a 
+6-micron mesh, and centrifugation. after treatment with rnase-free 
+dnase (takara, japan), 5 μg of total rna was reverse-transcribed 
+in a reaction of 20 µl using superscript ii reverse transcriptase 
+(invitrogen, carlsbad, ca). the first strand cdna was used as the 
+template  for  real-time  pcr  amplification.  specific  primer  pairs 
+used in real-time pcr were designed as shown in supplementary 
+information table s1. real-time pcr amplification was performed 
+on a mj research thermocycler using the dynamo sybr green 
+qpcr kit (finnzymes) [54]. the expression levels of different genes 
+were normalized to the constitutive expression level of ubq11. each 
+real-time pcr experiment with different primer pairs and/or different 
+templates was replicated three times. the relative gene expression 
+levels were calculated by the 2-δδt method [55].
+results
+the bcl1 mutant lacks functional pollen
+we screened about 8 000 t2 lines from our t-dna col-
+lection [46] for mutants defective in gametophyte develop-
+ment by analyzing the segregation of the t-dna insertion 
+that confers dl-phosphinothricin (ppt)-resistance. one 
+mutant  line,  later  named  bcl1,  exhibited  a  segregation 
+ratio of 1:1 (ppt-resistant:ppt-sensitive) for its progeny 
+(table 1), suggesting that the t-dna is inserted in a gene 
+essential for the formation of viable gametophytes. to de-
+termine which gametophyte, male or female, was affected 
+in the mutant, reciprocal crosses between wild-type and 
+atbeclin 1 controls arabidopsis pollen germination
+npg
+252
+table 1 t-dna transmission analysis of bcl1 and salk_109281
+line
+bcl1 self-fertilized
+bcl1 (♀) × wild-type (♂)
+wild-type (♀) × bcl1 (♂)
+salk_109281 self-fertilized
+resistant
+1341 (pptr)
+0329 (pptr)
+0000 (pptr)
+0415 (kanr)
+sensitive
+1368 (ppts)
+0344 (ppts)
+0225 (ppts)
+0422 (kans)
+ratio
+0.980 (pptr : ppts)
+0.956 (pptr : ppts)
+0.000 (pptr : ppts)
+0.983 (kanr : kans)
+transmission efficiency (%)
+95.6
+atg
+salk_109281
+rb                        nptii                 lb
+lbb1
+857
+p1                     p2
+803
+lb      ls4               bar                                                          4 enhancer   rb
+bcl1
+2777
+tag
+200 bp
+m arker
+wild-type
+t3 progenies
+300
+250
+200
+150
+100
+50
+lb  poly a    kanr      35s-p        35s-p         atbeclin 1        ter  rb
+lb  poly a   kanr      35s-p    atbcli1-p      atbeclin 1      gfp     ter  rb
+p35spbcl
+837 bp
+(p1+p2)
+600 bp
+(p1+ls4)
+500 bp
+m arker
+wild-type
++/bcl1
+pbcpbclgfp
+p35s p b c l
+bcl1/bcl1
+pb c p b c l g f p
+bcl1/bcl1
+wide-type                      +/bcl1
+837 bp
+(p1+p2)
+600 bp
+(p1+ls4)
+p35spbcl bcl1/bcl1                                                     p35spbcl bcl1/bcl1
+ cell research | www.cell-research.com 
+genji qin et al.
+npg
+253
+the  heterozygote  mutant  were  conducted. as  shown  in 
+table 1, 95.6% of the mutated allele was passed to the next 
+generation via the female gametes but none via the male 
+gametes, indicating that the gene disrupted by the t-dna 
+insertion is specifically required for pollen development 
+or viability.
+atbeclin 1 encodes a protein with homology to beclin 
+1/atg6/vps30
+to analyze the molecular nature of bcl1, we identified 
+the  flanking  sequences  of  the t-dna  insertion  site  by 
+tail-pcr [47]. the t-dna was inserted in the second 
+intron of the gene at3g61710 (figure 1a) and southern 
+blots indicated that there was only a single t-dna insertion 
+in bcl1 (data not shown). to examine whether the t-dna 
+insertion co-segregated with the phenotype, the genotype 
+of the t3 progeny was analyzed with primers that amplify 
+an 837-bp fragment for the wild-type allele and a 600-bp 
+fragment for the t-dna insertion allele (figure 1a). all 
+of the t3 ppt-resistant plants tested were heterozygous 
+(figure 1b). the t4 progeny of these heterozygous plants 
+were  also  found  to  display  a  1:1  ratio  (ppt-resistant:
+ppt-sensitive). these results indicate that the bcl1 mutant 
+phenotype co-segregates with the t-dna insertion in the 
+gene at3g61710. we obtained an additional allele of bcl1, 
+salk_109281, that has a t-dna insertion in the second 
+intron of at3g61710, 54-bp away from the insertion site 
+in  bcl1  (figure  1a).  like  bcl1,  the  selfing  progeny  of 
+salk_109281 heterozygous plants exhibited a distorted 
+segregation ratio of approximately 1:1 (415:422) for kana-
+mycin-resistance (table 1), and no homozygous progeny 
+were obtained (data not shown). these results suggest that 
+disruption of at3g61710 is correlated with a pollen-defec-
+tive phenotype.
+to  further  investigate  whether  the  pollen-defective 
+phenotype is caused by the t-dna insertion in at3g61710, 
+we examined the expression level of at3g61710 in wild-
+type  and  heterozygous  plants  by  real-time  quantitative 
+pcr. this experiment showed that the transcription level 
+of at3g61710 was reduced by about half in heterozygous 
+plants  (figure  1c). we  then  transformed  heterozygous 
+bcl1 plants with the coding region of at3g61710 driven 
+by either a camv 35s promoter (construct designated as 
+p35spbcl) or the at3g61710 promoter (construct desig-
+nated as pbcpbclgfp) (figure 1d). we obtained viable 
+t2 transgenic plants in the homozygous bcl1 background, 
+with both the p35spbcl and pbcpbclgfp constructs 
+(figure 1d), in which the pollen-defective phenotype had 
+been rescued (figure 1e) and seed fertility was normal 
+(figure 1f). these results indicate that the t-dna inser-
+tion in at3g61710 is responsible for the pollen defects in 
+the bcl1 mutant. 
+at3g61710 encodes a protein that is 69% identical to 
+nicotiana benthamiana nbbeclin 1 [18], 31% identical 
+to a human tumor suppressor hsbeclin 1 [11], and 26% 
+identical to a yeast autophagy-related protein atg6/vps30 
+[56, 57]. at3g61710 has been reported to be able to comple-
+ment the autophagy-defective phenotype in δatg6/vps30 
+yeast [18], and therefore is the ortholog of yeast atg6/vps30 
+in arabidopsis. 
+pollen germination rather than early pollen development 
+was abolished in bcl1
+in order to reveal the cause of the pollen defect in bcl1, 
+figure 1 identification of bcl1 and salk_109281 mutants. (a) schematic representation of t-dna insertion sites in bcl1 and salk_
+109281. exons of atbeclin 1 are represented by blue boxes, introns by dark red boxes. the t-dna insertion site in bcl1 mutant 
+is indicated by a green “x” and that in salk_109281 by a red diamond. the numbers 0, 803, 857 and 2 777 indicate the position of 
+the “a” of the “atg” start codon, the t-dna insertion sites in bcl1 and salk_109281, and the “g” of the “tag” stop codon in the 
+bcl1 gene, respectively. the bar and nptii genes are represented by the purple and green boxes with arrows. the arrow direction 
+indicates the transcriptional orientation of the genes. the red arrow tetrad represents the four 35s enhancers from pski015. the line 
+arrows represent the primers used in co-segregation analysis. lb, t-dna left border; bar, basta resistance gene; 4 enhancer, camv 
+35s enhancer tetrad; rb, t-dna right border; nptii, kanamycin resistance gene. (b) cosegregation analysis of the t-dna inser-
+tion and the phenotype of distorted segregation of ppt resistance. p1 and p2 amplify an 837-bp fragment from wild-type while p1 
+and ls4 amplify a 600-bp fragment from the t-dna insertion allele in the bcl1 mutant. marker, λ ecor i/hind iii marker. (c) real-time 
+quantitative pcr analysis of atbeclin 1 expression with the mature pollen cdna from wild-type and +/bcl1. (d) complementa-
+tion of bcl1 phenotypes by transformation of atbeclin 1 cdna driven by the camv 35s promoter or its own promoter. upper part 
+shows the schematic representation of constructs used in the transformation experiments. lb, t-dna left border; polya, camv 35s 
+polya; kanr, kanamycin resistance gene nptii; 35s-p, camv 35s promoter; bcl1-p, promoter of the atbeclin 1 gene; bcl1, 
+orf of the atbeclin 1 gene without the stop codon; gfp, orf of green fluorescent protein gene; ter, nos terminator; rb, t-
+dna right border. lower part shows genotyping of transgenic plants using pcr with primers p1, p2 and ls4. homozygous bcl1 
+lines could be obtained in the progeny of p35spbcl and pbcpbclgfp transgenic plants. (e) aniline blue staining indicates that 
+the pollen of homozygous bcl1 lines harboring p35spbcl can germinate in vivo, suggesting that atbeclin 1 can complement the 
+pollen germination phenotype of bcl1. (f) the setting of seeds was unaffected in p35spbcl bcl1/bcl1 plants.
+www.cell-research.com | cell research
+atbeclin 1 controls arabidopsis pollen germination
+npg
+254
+stage 6                                        stage 7                                     stage 9                                      stage 11
+stage 6                                        stage 7                                     stage 9                                      stage 11
+wild-type                    +/bcl1                 salk_109281                                                qrt1/qrt1              +/bcl1, qrt1/qrt1
+80
+70
+60
+50
+40
+30
+20
+10
+0g
+wild-type
++/bcl1
+salk_109281
+pbcpbclgfp
+bcl1/bcl1
+pbcpbclgfp
+bcl1/bcl1
+544/756
+561/1443
+70
+60
+50
+40
+30
+20
+10
+qrt1/qrt1
++/bcl1, qrt1/qrt1
+212/756
+360/1443
+312/1443
+210/1443
+0/756
+0/756
+figure 2 phenotypic analysis of pollen from the bcl1 t-dna insertion mutant. (a) sections of anthers at different developmental 
+stages from the bcl1 heterozygous mutant. stage 6, stage 7, stage 9 and stage 11 were shown (from left to right) [58]. (b) sections 
+of anthers of different developmental stages from wild-type plants. the stages shown were the same as those in (a). the pollen 
+development of +/bcl1 plants, including meiosis of the microspore mother cell, tetrad formation, microspore release, and mitosis, is 
+not different from that of wild-type. (c) sem analysis of a pollen tetrad from +/bcl1 qrt1/qrt1 plants. (d) dapi staining of a pollen 
+tetrad from +/bcl1 qrt1/qrt1 plants. (e) alexanderâ€™s staining of a pollen tetrad from +/bcl1 qrt1/qrt1 plants. (f) rdm123 staining of 
+a pollen tetrad from +/bcl1 qrt1/qrt1 plants. (g) and (h) in vitro germination of pollen from wild-type, +/bcl1, salk_109281 and 
+pbcpbclgfp bcl1/bcl1 plants. (i) and (j) in vitro germination of pollen tetrads from qrt1/qrt1 and +/bcl1 qrt1/qrt1 plants. tetrads 
+from the qrt1/qrt1 mutant can generate one to four pollen tubes, whereas those from +/bcl1 qrt1/qrt1 plants can only produce one 
+or two pollen tubes.
+ cell research | www.cell-research.com 
+genji qin et al.
+npg
+255
+wild-type
+wild-type
+wild-type
+we first examined pollen development through all stages 
+in +/bcl1 heterozygous plants. it appeared that pollen de-
+velopment in +/bcl1, including meiosis of the microspore 
+mother  cell,  tetrad  formation,  microspore  release,  and 
+mitosis, was not affected (figure 2a and 2b)[58]. these 
+results suggest that the microgametogenesis phase of pol-
+len ontogeny is not affected in the bcl1 mutant. to further 
+confirm this conclusion, we crossed +/bcl1 heterozygous 
+plants  with  the  qrt1/qrt1  mutant,  and  obtained  +/bcl1 
+qrt1/qrt1 plants for tetrad analysis. the qrt1/qrt1 mutant 
+will produce fully functional pollen grains in the form of 
+tetrads because the gene coding for a pectin methyles-
+terase has been mutated and it has been used previously 
+for identifying mutants with pollen defects [59-61]. the 
+anthers of +/bcl1 qrt1/qrt1 plants should produce tetrads 
+with two wild-type atbeclin 1 and two mutated genes. 
+sem analysis showed that all four pollen grains in the tet-
+rads from +/bcl1 qrt1/qrt1 plants are similar in appearance 
+including the size and the shape (figure 2c). in addition, 
+neither  dapi  (4',6-diamidino-2-phenylindole  )  (figure 
+2d) nor alexander (figure 2e) staining reveals any differ-
+ences [51], and staining with rhodamine 123 showed no 
+e 300
+250
+200
+150
+100
+50
+root
+stem
+leaf
+flower
+silique
+pollen
+atbeclin 1
+figure 3 the expression pattern of atbeclin 1. (a) to (d) gus 
+staining of plants transformed with a construct in which the gus gene 
+is driven by the atbeclin 1 promoter. (e) expression analysis of at-
+beclin 1 in mature pollen and other organs by real time quantitative 
+pcr. atbeclin 1 is expressed predominantly in mature pollen.
+www.cell-research.com | cell research
+pbpbclgfp
+bcl1/bcl1
+wild-type
+pbpbclgfp
+bcl1/bcl1
+pbpbclgfp
+bcl1/bcl1
+wild-type
+cl1
+cl1/b
+e 30
+25
+20
+15
+10
+0r
+pbpbclgfp bcl1/bcl1
+figure 4 characterization of an atbeclin 1-deficient arabidopsis 
+mutant.  (a)  7-day-old  wild-type  and  pbcpbclgfp  bcl1/bcl1 
+(atbeclin 1-deficient) plants. the atbeclin 1-deficient plants 
+display shorter roots. (b) 50-day-old wild-type and atbeclin 1-
+deficient plants. the atbeclin 1-deficient plants display earlier 
+leaf senescence, smaller leaves, dwarfism, and fewer flowers. (c) 
+30-day-old wild-type and atbeclin 1-deficient plants. (d) rosette 
+leaves from 30-day-old wild-type (upper) and atbeclin 1-deficient 
+plants (bottom). atbeclin 1-deficient plants produced less leaves 
+and these leaves showed earlier senescence. (e) expression of the 
+atbeclin 1 gene was determined using real-time quantitative pcr. 
+expression of atbeclin 1 in pbcpbclgfp bcl1/bcl1 plants was 
+about three-fold lower than in wild-type. bars=5 mm in (b) and 1 mm 
+in all other panels.
+differences in the mitochondrial distribution and viability 
+(figure 2f) [50]. these results clearly indicate that the 
+bcl1 mutation does not affect meiosis and other steps of 
+pollen development.
+we then examined the germination ratio of mature pollen 
+from wild-type, +/bcl1 and salk_109281 heterozygous 
+plants, and pbcpbclgfp bcl1/bcl1 plants in vitro. in 
+contrast  to  wild-type  pollen  for  which  the  germination 
+rate ranged from 61% to 75%, only 33% to 37% of pollen 
+atbeclin 1 controls arabidopsis pollen germination
+npg
+256
+product
+atbeclin 1-deficient plants vs wild-type (fold)
+vacuolar sorting receptor
+vacuolar sorting receptor
+vacuolar sorting receptor
+atvps15
+atvps35
+atvps34
+atvps11
+atvti11
+atvps4
+atvps16
+vacuolar sorting receptor
+atvps35
+vacuolar sorting receptor
+table 2 expression analysis of membrane trafficking genes in wild-type and atbeclin 1-deficient plants determined using microarray
+agi accession number
+vacuolar protein sorting-related
+at4g20110
+at1g30900
+at3g52850
+at4g29380
+at2g17790
+at1g60490
+at2g05170
+at5g39510
+at2g27600
+at2g38020
+at2g34940
+at3g51310
+at2g14720;at2g14740
+exocytosis-related
+at3g09530
+at5g49380
+at1g71820
+at3g10380
+at4g02350
+at1g47560;at1g47550
+at1g76850
+autophagy-related
+at3g61960
+at4g29380
+at5g61500
+at5g06140
+at2g15900
+at1g60490
+at5g45900
+at3g06420
+at2g37840
+at3g61710
+at5g05150
+atatg1
+atvps15
+atatg3
+atatg20
+atatg20
+atvps34
+atatg7
+atatg8h
+atatg1
+bcl1/atatg6/atvps30
+atatg18
+exo70-h3
+exo84b
+sec6b
+sec8
+sec15b
+sec3a
+sec5a
+7.0
+5.3
+3.5
+3.5
+3.0
+2.3
+2.3
+2.3
+2.1
+2.1
+2.1
+2.0
+2.0
+4.3
+2.6
+2.5
+2.3
+2.3
+2.1
+2.1
+3.5
+3.5
+2.8
+2.8
+2.3
+2.3
+2.0
+2.0
+2.0
+-3.2
+-7.5
+grains from +/bcl1 and salk_109281 heterozygous plants 
+germinated (figure 2g and 2h). to further confirm this, 
+we examined the germination of the tetrads of the qrt1/qrt1 
+mutant and +/bcl1 qrt1/qrt1 double mutant in vitro. as 
+shown in figure 2i and 2j, out of the hundreds of tetrads 
+we analyzed, we found that each tetrad from the qrt1/qrt1 
+mutant could generate one to four pollen tubes, whereas 
+tetrads from +/bcl1 qrt1/qrt1 plants could only produce one 
+or two pollen tubes, suggesting that pollen germination is 
+indeed affected in the bcl1 mutants. 
+atbeclin 1 is predominantly expressed in pollen
+to examine the expression pattern of the atbeclin 1 
+gene, a 782-bp promoter fragment of atbeclin 1 was am-
+plified to drive the expression of b-glucuronidase (gus), 
+and this construct was transformed into arabidopsis. the 
+results showed that, although some activity was detected 
+in the germinating seeds and hypocotyls (figure 3a and 
+ cell research | www.cell-research.com 
+genji qin et al.
+npg
+257
+pr-1
+wild-type
+pbcpbclgfp
+bcl1/bcl1
+atv
+wild-type
+pbcpbclgfp
+bcl1/bcl1
+atv
+sen1
+wild-type
+pbcpbclgfp
+bcl1/bcl1
+1600
+1400
+1200
+1000
+800
+600
+400
+200
+60
+40
+20
+400
+200
+100
+80
+60
+40
+20
+600
+500
+400
+300
+200
+100
+80
+60
+40
+20
+eds1
+wild-type
+pbcpbclgfp
+bcl1/bcl1
+wild-type
+pbcpbclgfp
+bcl1/bcl1
+data
+ata
+ata
+ata
+ata
+ata
+wild-type
+pbcpbclgfp
+bcl1/bcl1
+2 f
+ata
+8i
+ata
+3b),  strong  gus  activity  was  detected  in  anthers  and 
+mature pollen (figure 3c and 3d). real-time quantitative 
+rt-pcr  analysis  further  confirmed  that  the  expression 
+level of atbeclin 1 is highest in mature pollen among the 
+tissues examined (figure 3e), suggesting that atbeclin 
+1 is expressed in mature pollen preferentially.
+atbeclin 1 is essential for plant development
+although  the  heterozygous  bcl1  and  salk_109281 
+mutants grew normally, some pbcpbclgfp transgenic 
+plants in the bcl1/bcl1 background, i.e., pbcpbclgfp 
+bcl1/bcl1, displayed a range of phenotypic abnormalities 
+including short roots, early leaf senescence, small leaves, 
+dwarfism, fewer flowers and low fertility (figure 4a-4d). 
+real-time quantitative rt-pcr analysis revealed that the 
+expression level of atbeclin 1 was three-fold lower in 
+these pbcpbclgfp bcl1/bcl1 lines compared to wild-type 
+(figure 4e). these data indicate that, in addition to delay-
+ing leaf senescence as seen for nbbeclin 1 in tobacco 
+[18], atbeclin 1 is also important for other development 
+processes such as leaf development and fertility (figure 
+4a-4d).
+alteration of gene expression caused by the deficiency of 
+atbeclin 1
+in order to investigate the molecular mechanism behind 
+the phenotype caused by loss of atbeclin 1 function, we 
+performed microarray analysis on pbcpbclgfp bcl1/bcl1 
+plants which displayed severe growth and developmental 
+defects including early leaf senescence and low fertility 
+(figure 4) using the arabidopsis whole genome affyme-
+trix microarray chip (see methods). real-time rt-pcr 
+analysis showed that the expression of pathogenesis-related 
+genes such as pr1, eds1, eds5 and sen1 was greatly 
+increased, confirming the fidelity of the microarray data 
+(supplementary information, table s2, figure 5a, 5b and 
+5e) [18]. the microarray data showed that 2 184 genes 
+were up-regulated and 886 genes were down-regulated in 
+the pbcpbclgfp bcl1/bcl1 plants, based on a two-fold 
+threshold, compared to wild-type plants (supplementary 
+information, table s3 and s4). 
+because atbeclin 1 is the ortholog of atg6/vps30 
+which  is  essential  for  autophagy  and  vacuolar  protein 
+sorting (vps), we first focused on analyzing those genes 
+involved in membrane trafficking. as shown in table 2, 
+fourteen vps-related genes including atvps34 and atvps15 
+(figure 5c) and eight exocytosis-related genes including 
+sec8 were up-regulated in the atbeclin 1-deficient lines 
+compared to wild-type (table 2, figure 5d), suggesting 
+that membrane trafficking including vps and exocytosis is 
+affected. taking into consideration the fact that disruption 
+of a vps-related gene vps52 [41] or an exocytosis-related 
+www.cell-research.com | cell research
+figure 5 real time quantitative pcr confirmation of gene expression 
+changes identified by microarray analysis between wild-type and 
+pbcpbclgfp bcl1/bcl1 plants. (a) and (b) selected pathogenesis-
+related genes were found to be up-regulated in homozygous bcl1 
+lines harboring pbcpbclgfp. (c) and (d) expression of atvps34, 
+atvps15 and some atg-like genes is up-regulated in pbcpbclgfp 
+bcl1/bcl1 plants. (e) expression of sen1 is up-regulated in pbcpb-
+clgfp bcl1/bcl1 plants. this result is consistent with the early leaf 
+senescence phenotype in atbeclin 1-deficient plants. (f) seth1 
+and gpi anchor protein genes are down-regulated in pbcpbclgfp 
+bcl1/bcl1 plants.
+gene sec8 [62] leads to pollen germination and pollen 
+tube growth defects, the altered expression levels of vps 
+and/or exocytosis-related genes might contribute to the 
+pollen germination defect in bcl1 mutant. interestingly, all 
+but one of the eleven autophagy-related genes were also 
+found to be up-regulated when atbeclin 1 expression 
+was low (table 2). genes involved in phosphatidylinosi-
+tol (pi) metabolism and signaling were also significantly 
+disturbed in pbcpbclgfp bcl1/bcl1 plants. as shown 
+atbeclin 1 controls arabidopsis pollen germination
+npg
+258
+table 3 differential expression of phosphatidylinositol metabolism and signaling genes in wild-type and atbeclin 1-deficient plants de-
+termined using microarray and kobas analysis
+agi accession number
+atbeclin 1-deficient plants vs wild-type
+gene annotation
+at4g17660
+at3g56600
+at5g64000
+at5g57630
+at1g76040
+at1g44130
+at1g74740
+at4g28860
+at5g09290
+at4g09570
+at4g29380
+at3g47480
+at5g12480
+at5g62550
+at1g48260
+at1g78290
+at3g51330
+at1g26270
+at4g38690
+at5g19010
+at5g25910
+at1g30270
+at1g35670
+at3g09920
+at3g17510
+at3g19420
+at4g32250
+at5g03320
+at5g26920
+at1g05840
+at1g14370
+at1g34260
+at1g50700
+at1g60490
+at2g17290
+at2g32850
+at2g41100
+at3g13670
+at4g21940
+at4g33240
+at4g35600
+at5g19450
+at5g57580
+at5g63650
+at1g06390
+protein kinase
+phosphatidylinositol 3- and 4-kinase family protein
+inositol polyphosphate 1-phosphatase
+cbl-interacting protein kinase 21
+calcium-dependent protein kinase
+nucellin protein
+calcium-dependent protein kinase
+casein kinase
+inositol polyphosphate 1-phosphatase
+calcium-dependent protein kinase
+protein kinase family protein
+calcium-binding ef hand family protein
+calmodulin-domain protein kinase isoform 7 (cpk7)
+expressed protein
+cbl-interacting protein kinase 17 (cipk17)
+serine/threonine protein kinase
+aspartyl protease family protein
+phosphatidylinositol 3- and 4-kinase family protein
+1-phosphatidylinositolphosphodiesterase-related
+mitogen-activated protein kinase (mpk16)
+disease resistance family protein
+cbl-interacting protein kinase 23 (cipk23)
+calcium-dependent protein kinase 2 (cdpk2)
+phosphatidylinositol-4-phosphate 5-kinase family protein
+cbl-interacting protein kinase 1 (cipk1)
+expressed protein
+protein kinase family protein
+protein kinase
+similar to calmodulin-binding protein
+aspartyl protease family protein
+protein kinase (apk2a)
+phosphatidylinositol-4-phosphate 5-kinase family protein
+calcium-dependent protein kinase
+phosphatidylinositol 3-kinase (pi3k)
+calcium-dependent protein kinase isoform 6 (cpk6)
+protein kinase family protein
+calmodulin-related protein 3(tch3)
+protein kinase family protein
+calcium-dependent protein kinase
+phosphatidylinositol-4-phosphate 5-kinase family protein
+protein kinase family protein
+calcium-dependent protein kinase 19 (cdpk19)
+calmodulin-binding protein
+serine/threonine protein kinase
+shaggy-related protein kinase (ask9)
+(fold)
+18.4
+8.6
+6.5
+6.1
+5.3
+3.7
+3.5
+3.5
+3.2
+3.2
+3.2
+2.8
+2.8
+2.8
+2.6
+2.5
+2.5
+2.5
+2.5
+2.5
+2.5
+2.5
+2.5
+2.3
+2.3
+2.3
+2.3
+2.3
+2.3
+2.3
+2.3
+2.3
+2.3
+2.3
+2.3
+2.3
+2.3
+2.3
+2.1
+ cell research | www.cell-research.com 
+genji qin et al.
+npg
+259
+table 3 differential expression of phosphatidylinositol metabolism and signaling genes in wild-type and atbeclin 1-deficient plants de-
+termined using microarray and kobas analysis (continuous)
+agi accession number
+atbeclin 1-deficient plants vs wild-type
+gene annotation
+at1g64460
+at1g64470
+at1g71010
+at1g73800
+at1g73805
+at2g17220
+at2g26980
+at3g14270
+at4g24400
+at4g35310
+at5g25930
+at1g03930
+at1g04440
+at1g10900
+at2g02800
+at2g19470
+at2g46500
+at3g51850
+at3g53030
+at5g25440
+at5g35980
+phosphatidylinositol 3- and 4-kinase family protein
+ubiquitin family protein
+phosphatidylinositol-4-phosphate 5-kinase family protein
+calmodulin-binding protein
+calmodulin-binding protein
+protein kinase
+cbl-interacting protein kinase 3 (cipk3)
+phosphatidylinositol-4-phosphate 5-kinase family protein
+cbl-interacting protein kinase 8 (cipk8)
+calcium-dependent protein kinase
+protein kinase family protein
+protein kinase (adk1)
+casein kinase
+phosphatidylinositol-4-phosphate 5-kinase family protein
+protein kinase (apk2b)
+casein kinase
+phosphatidylinositol 3- and 4-kinase family protein
+calcium-dependent protein kinase
+protein kinase family protein
+protein kinase family protein
+protein kinase family protein
+(fold)
+2.1
+2.1
+2.1
+2.1
+2.1
+2.1
+2.1
+2.1
+2.1
+2.1
+2.1
+in table 3, sixty-six of these genes were up-regulated. we 
+further examined the expression of genes related to the 
+glycosylphosphatidylinositol (gpi) anchor system, which 
+was previously reported to be essential for pollen germina-
+tion [44]. seth1, one of the genes encoding a gpi anchor 
+biosynthetic  enzyme,  was  found  to  be  down-regulated 
+(table 4, figure 5f). furthermore, out of the 47 gpi an-
+chor protein (gap) genes expressed in mature pollen [44], 
+sixteen including atagp22, fla12, gpdl and cobl8 
+were down-regulated whereas five genes were up-regulated 
+(table 4, figure 5f). taken together, these results suggest 
+that, in addition to autophagy and vps-related genes being 
+affected by bcl1, the alteration in both pi metabolism and 
+signaling and the gpi anchor system may also contribute 
+to the failure of pollen germination and abnormal plant 
+development in bcl1 mutants.
+discussion
+autophagy  is  an  important  intracellular  process  that 
+recycles the cytoplasmic constituents including organelles 
+either for growth under hostile conditions or for normal 
+development  [2,  3,  9]. although  well  demonstrated  in 
+yeasts and animals, knowledge about autophagy in plants is 
+limited [3]. in this paper, we have identified an arabidopsis 
+insertion mutant in which the atbeclin 1/atatg6 gene, the 
+ortholog of the yeast autophagic gene atg6, was mutated. 
+the failure of bcl1 pollen to germinate and the retarded 
+growth of atbeclin 1-deficient mutants suggested that 
+this gene is essential for pollen germination and normal 
+plant development.
+in yeast, atg6 plays important roles in recruiting au-
+tophagic proteins including atg18, atg20, atg24 and atg27 
+to  the  pre-autophagosome  structure  (pas)  [4].  loss  of 
+function of the beclin 1/atg6 ortholog results in embryo 
+lethality in mice and nematodes [8, 63]. beclin 1/atg6 
+orthologs are also required for normal dauer morphogenesis 
+and life-span extension in nematodes [7]. liu et al. (2005) 
+reported that  nbbeclin 1-silenced tobacco, generated 
+using the vigs method, exhibits leaf senescence and hr 
+pcd outside the infection site during tmv inoculation. in 
+this paper, we demonstrated that atbeclin 1 is essential 
+www.cell-research.com | cell research
+atbeclin 1 controls arabidopsis pollen germination
+npg
+260
+table 4 differential expression of seth1 and gap genes expressed in mature pollen in wild-type and atbeclin 1-deficient plants deter-
+mined using microarray analysis
+agi accession number
+atbeclin 1-deficient plants
+gene annotation
+at2g34980
+at5g53250
+at4g28280
+at5g58050
+at3g16860
+at5g60490
+at5g49270
+at1g48940
+at1g55330
+at3g58100
+at4g08670
+at4g16140
+at3g20865
+at1g24520
+at3g61980
+at5g14380
+at2g46330
+at1g65240
+at1g56320
+at5g64790
+at5g20230
+at1g05840
+seth1
+arabinogalactan-protein (agp22)
+similar to gpi-anchored protein
+glycerophosphoryl diester phosphodiesterase family protein
+phytochelatin synthetase-related
+fasciclin-like arabinogalactan-protein (fla12)
+phytochelatin synthetase-related protein
+plastocyanin-like domain-containing protein
+arabinogalactan-protein (agp21)
+glycosyl hydrolase family protein 17
+protease inhibitor/seed storage/lipid transfer protein (ltp) family protein
+proline-rich family protein
+arabinogalactan-protein (agp)
+anther-specific protein agp1
+serine protease inhibitor
+hydroxyproline-rich glycoprotein family protein
+arabinogalactan-protein (agp16)
+aspartyl protease family protein
+expressed protein
+glycosyl hydrolase family 17 protein
+plastocyanin-like domain-containing protein
+aspartyl protease family protein
+vs wild-type (fold)
+-1.9
+-5.7
+-4.3
+-4.3
+-4.0
+-3.3
+-2.3
+-2.1
+-2.0
+-2.0
+-1.9
+-1.7
+-1.7
+-1.6
+-1.6
+-1.5
+-1.5
+1.7
+1.7
+2.0
+2.1
+2.3
+for pollen germination (figure 2g and 2h). this is a new 
+finding compared to other reports about the functions of 
+atg-like genes in arabidopsis. t-dna insertion in the 
+atatg7, atatg9, vti12 and atatg5 genes led in all cases 
+to accelerated leaf senescence under nutrient-limiting con-
+ditions, but pollen germination was not affected [12-14, 
+17]. the double mutant atg4a4b-1 and the rnai-silenced 
+atatg18a arabidopsis plants displayed similar phenotypes 
+[15, 16]. nbbeclin 1-silenced tobacco plants also exhibit 
+earlier leaf senescence [18]. none of these mutants were 
+found to have pollen defects, except that atatg9-1 mutant 
+plants had reduced seed productivity under nitrogen-defi-
+cient conditions [13]. these results imply that autophagy 
+may not contribute to the pollen germination defects in 
++/bcl1 plants. in yeast, atg6, together with vps34 and 
+vps15, forms two pi 3-kinase complexes with either atg14 
+or vps38 and these two complexes play important roles in 
+autophagy or vps, respectively [64-69]. it was previously 
+reported that vps and exocytosis were involved in pollen 
+germination  and  tube  growth  [41,  62].  our  microarray 
+data showed that many vps- and exocytosis-related genes 
+were up-regulated in atbeclin 1-deficient plants (table 
+2). therefore, the pollen germination defect in bcl1 could 
+possibly be attributed to the changes in vps and exocytosis 
+caused by loss-of-function in atbeclin 1/atatg6 and/or 
+the corresponding pi 3-kinase complex.
+several atg genes have been identified in plants in 
+recent years, but the molecular mechanisms underpinning 
+the phenotypes of loss of function mutants of these atg 
+genes have not been elucidated [12-17]. in this paper we 
+intend to draw a map of transcriptional changes resulting 
+from the deficiency of atbeclin 1 through affimetrix chip 
+analysis. the results showed that the expression of almost 
+three thousand genes was altered. dozens of pathogenesis-
+related genes were strongly up-regulated and this result is 
+consistent with the fact that nbbeclin 1 affects tobacco 
+disease responses. however, it is unknown how atbeclin 
+1 regulates so many genes. maybe some pathways such as 
+the altered phosphatidylinositol metabolism and signaling 
+pathway play an important role in the regulation process 
+ cell research | www.cell-research.com 
+and result in pleiotropic phenotypes in the atbeclin 1-
+deficient plants. the previous studies showed that pi(4,5)p2 
+could conjugate with rac gtpase in plant cells [70, 71]. 
+the plant rho-like gtpase (rop) and rac-like gtpase 
+were reported to be important for pollen tube growth and 
+pollen germination [38, 39, 71-74]. phosphoinositides such 
+as pi(4,5)p2, insp3, and inositol 1,3,4,5-tetrakisphosphate 
+were also reported to be vital for pollen germination and 
+pollen tube growth. loss-of-function for either an inositol 
+polyphosphate  kinase  gene  atipk2î±  in  arabidopsis  or 
+plc1 in petunia inflate would result in defect in pollen 
+germination or pollen tube growth, respectively [44, 45]. 
+in our microarray data, atbeclin 1-deficiency resulted in 
+up-regulation of many genes encoding proteins involved in 
+pi metabolism and signaling, e.g. pi 3-kinase, pi 4-kinase, 
+pi-phosphate 5-kinase and plc (table 3), and down-regu-
+lation of two rac-like gtp-binding protein genes rac2 
+(at5g45970)  and  rac7  (at4g28950)  (supplemental 
+table  4).  these  results  suggest  that  many  pi-related 
+pathways have been affected by atbeclin 1 deficiency, 
+which may all result in pollen germination defect. some 
+genes related to cellular trafficking were also affected in 
+pbcpbclgfp bcl1/bcl1 plants. during pollen germination 
+and pollen tube growth, cellular trafficking is critical for 
+cell wall deposition and cell shape remodeling [75-77]. for 
+example, inactivation of some syntaxins, which function in 
+endomembrane transport vesicle fusion, resulted in inviable 
+pollen [78]. vacuole biogenesis, vps, and exocytosis are 
+also reported to be essential for pollen germination and tube 
+growth [41, 62, 79]. it is thus possible that the alteration of 
+the cellular trafficking system may contribute to the failure 
+of pollen germination in bcl1 mutants.
+the expression of atbeclin 1 is ubiquitous in roots, 
+stems, leaves, flowers and siliques in addition to pollen and 
+is already detectable in germinating seeds. this expression 
+pattern implies that atbeclin 1 may play other important 
+roles. the +/bcl1 mutant caused pollen malfunction, and 
+thus the complete knock-out bcl1 homozygous mutant was 
+not obtainable. the heterozygous bcl1 mutant is similar to 
+wild-type at all stages of development and growth. thus 
+though we have identified a function for atbeclin 1 in 
+pollen development, we can not reveal any other functions 
+through the analysis of heterozygous bcl1 mutant plants. 
+fortunately, we found pbcpbclgfp, bcl1/bcl1 plants had 
+a lower level of expression of atbeclin 1 than heterozy-
+gous bcl1 mutants and displayed a pleiotropic phenotype 
+including retarded growth rate, short roots, small leaves, 
+early leaf senescence, dwarfism and low fertility under 
+normal growth conditions. these results indicate that un-
+like other identified atg genes, atbenclin1/atatg6 plays 
+more essential roles in both sporophytes and gametophytes 
+of plants. this is consistent with previous studies showing 
+www.cell-research.com | cell research
+genji qin et al.
+npg
+261
+that the atbenclin1 ortholog is essential for the normal 
+development of mice and nematodes [8, 63].
+ acknowledgments
+we thank dr matthew terry (university of southamp-
+ton, uk) and dr yunde zhao (ucsd, usa) for editing the 
+manuscript, dr weicai yang and mr li yuan (cas institute 
+of genetics and developmental biology, china) for helpful 
+suggestions, assistance in tissue sectioning and providing 
+the qrt1 mutant. the work was supported by the national 
+natural science foundation of china (grant no. 30470172 
+and 30221120261) and the national special projects for 
+r&d of transgenic plants (j99-a-001).
+references
+1  thompson ar, vierstra rd. autophagic recycling: lessons from 
+yeast help define the process in plants. curr opin plant biol 2005; 
+8:165-173.
+2  nair u, klionsky dj. molecular mechanisms and regulation of 
+specific and nonspecific autophagy pathways in yeast. j biol 
+chem 2005; 280:41785-41788.
+3  levine b, klionsky dj. development by self-digestion: molecu-
+lar mechanisms and biological functions of autophagy. dev cell 
+2004; 6:463-477.
+4  klionsky dj. the molecular machinery of autophagy: unan-
+swered questions. j cell sci 2005; 118:7-18.
+5  yorimitsu t, klionsky dj. autophagy: molecular machinery for 
+self-eating. cell death differ 2005; 12 suppl 2:1542-1552.
+6  seay m, patel s, dinesh-kumar sp. autophagy and plant innate 
+immunity. cell microbiol 2006; 8:899-906.
+271.
+7  melendez a, talloczy z, seaman m, et al. autophagy genes are 
+essential for dauer development and life-span extension in c. 
+elegans. science 2003; 301:1387-1391.
+8  yue z, jin s, yang c, levine aj, heintz n. beclin 1, an au-
+tophagy gene essential for early embryonic development, is a 
+haploinsufficient tumor suppressor. proc natl acad sci usa 
+2003; 100:15077-15082.
+9  kelekar a. autophagy. ann  n y acad  sci  2006; 1066:259-
+10  komatsu m, waguri s, chiba t, et al. loss of autophagy in the 
+central nervous system causes neurodegeneration in mice. nature 
+2006; 441:880-884.
+11  liang xh, jackson s, seaman m, et al. induction of autoph-
+agy and inhibition of tumorigenesis by beclin 1. nature 1999; 
+402:672-676.
+12  doelling jh, walker jm, friedman em, thompson ar, vier-
+stra rd. the apg8/12-activating enzyme apg7 is required for 
+proper nutrient recycling and senescence in arabidopsis thaliana. 
+j biol chem 2002; 277:33105-33114.
+13  hanaoka h, noda t, shirano y, et al. leaf senescence and star-
+vation-induced chlorosis are accelerated by the disruption of 
+an arabidopsis autophagy gene. plant physiol 2002; 129:1181-
+1193.
+14  surpin m, zheng h, morita mt, et al. the vti family of snare 
+proteins is necessary for plant viability and mediates different 
+atbeclin 1 controls arabidopsis pollen germination
+npg
+262
+protein transport pathways. plant cell 2003; 15:2885-2899.
+15  yoshimoto k, hanaoka h, sato s, et al. processing of atg8s, 
+ubiquitin-like proteins, and their deconjugation by atg4s are 
+essential for plant autophagy. plant cell 2004; 16:2967-2983.
+16  xiong y, contento al, bassham dc. atatg18a is required 
+for the formation of autophagosomes during nutrient stress and 
+senescence in arabidopsis thaliana. plant j 2005; 42:535-546.
+17  thompson ar,  doelling  jh,  suttangkakul a, vierstra  rd. 
+autophagic nutrient recycling in  arabidopsis directed by the 
+atg8 and atg12 conjugation pathways. plant physiol 2005; 
+138:2097-2110.
+18  liu y, schiff m, czymmek k, et al. autophagy regulates pro-
+grammed cell death during the plant innate immune response. 
+cell 2005; 121:567-577.
+19  patel s, caplan j, dinesh-kumar s. autophagy in the control 
+of programmed cell death. curr opin plant biol 2006; 9:391-
+396.
+20  leyser o, day s. mechanisms in plant development. oxford, 
+blackwell, 2003.
+21  faure j e dc. fertilization in flowering plants. new approaches 
+for an old story. plant physiol 2001; 125:102-104.
+22  yadegari r, drews gn. female gametophyte development. plant 
+23  mccormick s. control of male gametophyte development. plant 
+cell 2004; 16 suppl:s133-141.
+cell 2004; 16 suppl:s142-153.
+24  johnson ma, von besser k, zhou q, et al. arabidopsis hapless 
+mutations  define  essential  gametophytic  functions.  genetics 
+2004; 168:971-982.
+25  feldmann ka, coury da, christianson ml. exceptional seg-
+regation of a selectable marker (kanr) in arabidopsis identifies 
+genes  important  for  gametophytic  growth  and  development. 
+genetics 1997; 147:1411-1422.
+26  bonhomme  s,  horlow  c, vezon  d,  et  al. t-dna  mediated 
+disruption of essential gametophytic genes in  arabidopsis is 
+unexpectedly rare and cannot be inferred from segregation dis-
+tortion alone. mol gen genet 1998; 260:444-452.
+27  howden r, park sk, moore jm, et al. selection of t-dna-
+tagged male and female gametophytic mutants by segregation 
+distortion in arabidopsis. genetics 1998; 149:621-631.
+28  grini  pe,  schnittger a,  schwarz  h, et al.  isolation  of  ethyl 
+methanesulfonate-induced gametophytic mutants in arabidopsis 
+thaliana by a segregation distortion assay using the multimarker 
+chromosome 1. genetics 1999; 151:849-863.
+29  oh sa, park sk, jang i, et al. halfman, an arabidopsis male 
+gametophytic mutant associated with a 150 kb chromosomal 
+deletion adjacent to an introduced ds transposable element. sex 
+plant reprod 2003; 16:99-102.
+30  chen ycs, mccormick s. sidecar pollen, an arabidopsis thali-
+ana male gametophytic mutant with aberrant cell divisions during 
+pollen development. development 1996; 122:3243-3253.
+31  park sk, howden r, twell d. the arabidopsis thaliana game-
+tophytic mutation gemini pollen1 disrupts microspore polarity, 
+division asymmetry and pollen cell fate. development 1998; 
+125:3789-3799.
+32  johnson sa, mccormick s. pollen germinates precociously in 
+the anthers of raring-to-go, an arabidopsis gametophytic mutant. 
+plant physiol 2001; 126:685-695.
+33  lalanne e, twell d. genetic control of male germ unit organiza-
+tion in arabidopsis. plant physiol 2002; 129:865-875.
+34  twell d, park sk, hawkins tj, et al. mor1/gem1 has an es-
+sential role in the plant-specific cytokinetic phragmoplast. nat 
+cell biol 2002; 4:711-714.
+35  muschietti j, dircks l, vancanneyt g, mccormick s. lat52 pro-
+tein is essential for tomato pollen development: pollen expressing 
+antisense lat52 rna hydrates and germinates abnormally and 
+cannot achieve fertilization. plant j 1994; 6:321-338.
+36  gupta r, ting jt, sokolov ln, johnson sa, luan s. a tumor 
+suppressor homolog, atpten 1, is essential for pollen develop-
+ment in arabidopsis. plant cell 2002; 14:2495-2507.
+37  alonso  jm,  stepanova an,  leisse tj,  et  al.  genome-wide 
+insertional mutagenesis of arabidopsis thaliana. science 2003; 
+301:653-657.
+38  golovkin m, reddy as. a calmodulin-binding protein from 
+arabidopsis has an essential role in pollen germination. proc 
+natl acad sci usa 2003; 100:10558-10563.
+39  arthur km, vejlupkova z, meeley rb, fowler je. maize rop2 
+gtpase provides a competitive advantage to the male gameto-
+phyte. genetics 2003; 165:2137-2151.
+40  schiott m, romanowsky sm, baekgaard l, et al. a plant plasma 
+membrane ca2+ pump is required for normal pollen tube growth 
+and  fertilization.  proc  nat acad  sci  usa  2004;  101:9502-
+9507.
+41  lobstein e, guyon a, ferault m, et al. the putative arabidopsis 
+homolog of yeast vps52p is required for pollen tube elongation, 
+localizes to golgi, and might be involved in vesicle trafficking. 
+plant physiol 2004; 135:1480-1490.
+42  kang bh, rancour dm, bednarek sy. the dynamin-like protein 
+adl1c is essential for plasma membrane maintenance during 
+pollen maturation. plant j 2003; 35:1-15.
+43  steinebrunner i, wu j, sun y, corbett a, roux sj. disruption 
+of apyrases inhibits pollen germination in arabidopsis. plant 
+physiol 2003; 131:1638-1647.
+44  lalanne e, honys d, johnson a, et al. seth1 and seth2, 
+two  components  of  the  glycosylphosphatidylinositol  anchor 
+biosynthetic pathway, are required for pollen germination and 
+tube growth in arabidopsis. plant cell 2004; 16:229-240.
+45  xu j, brearley ca, lin wh, et al. a role of arabidopsis inositol 
+polyphosphate kinase, atipk2alpha, in pollen germination and 
+root growth. plant physiol 2005; 137:94-103.
+46  qin gj, kang dm, dong yy, et al. obtaining and analysis of 
+flanking sequences from t-dna transformants of arabidopsis. 
+plant sci 2003; 165:941-949.
+47  liu yg, huang n. efficient amplification of insert end sequences 
+from bacterial artificial chromosome clones by thermal asym-
+metric interlaced pcr. plant mol biol rep 1998; 16:175-181.
+48  qin g, gu h, zhao y, et al. an indole-3-acetic acid carboxyl 
+methyltransferase regulates arabidopsis leaf development. plant 
+cell 2005; 17:2693-2704.
+49  weigel d, glazebrook j. arabidopsis: a laboratory manual. cold 
+spring harbor, newyork: cold spring harbor laboratory press, 
+2002.
+50  regan sm, moffatt ba. cytochemical analysis of pollen devel-
+opment in wild-type arabidopsis and a male-sterile mutant. plant 
+cell 1990; 2:877-889.
+51  alexander mp. differential staining of aborted and nonaborted 
+pollen. stain technol 1969; 44:117-122.
+52  fan lm, wang yf, wang h, wu wh. in vitro arabidopsis pollen 
+germination and characterization of the inward potassium cur-
+ cell research | www.cell-research.com 
+genji qin et al.
+npg
+263
+rents in arabidopsis pollen grain protoplasts. j exp bot 2001; 
+52:1603-1614.
+53  wu j, mao x, cai t, luo j, wei l. kobas server: a web-based 
+platform for automated annotation and pathway identification. 
+nucl acids res 2006; 34:w720-724.
+54  guo l, wang zy, lin h, et al. expression and functional analysis 
+of the rice plasma-membrane intrinsic protein gene family. cell 
+res 2006; 16:277-286.
+55  livak kj, schmittgen td. analysis of relative gene expression 
+data using real-time quantitative pcr and the 2(-delta delta 
+c(t)) method. methods 2001; 25:402-408.
+56  seaman mn, marcusson eg, cereghino jl, emr sd. endo-
+some to golgi retrieval of the vacuolar protein sorting receptor, 
+vps10p, requires the function of the vps29, vps30, and vps35 
+gene products. j cell biol 1997; 137:79-92.
+57  kametaka s, okano t, ohsumi m, ohsumi y. apg14p and apg6/
+vps30p form a protein complex essential for autophagy in the 
+yeast, saccharomyces cerevisiae. j biol chem 1998; 273:22284-
+22291.
+58  sanders pm, bui aq, weterings k, et al. anther developmental 
+defects in arabidopsis thaliana male-sterile mutants. sex plant 
+reprod 1999; 11:297-322.
+59  preuss d, rhee sy, davis rw. tetrad analysis possible in ara-
+bidopsis with mutation of the quartet (qrt) genes. science 
+1994; 264:1458-1460.
+60  copenhaver gp, keith kc, preuss d. tetrad analysis in higher 
+plants. a budding technology. plant physiol 2000; 124:7-16.
+61  johnson-brousseau sa, mccormick s. a compendium of meth-
+ods useful for characterizing arabidopsis pollen mutants and 
+gametophytically-expressed genes. plant j 2004; 39:761-775.
+62  cole ra, synek l, zarsky v, fowler je. sec8, a subunit of 
+the  putative  arabidopsis  exocyst  complex,  facilitates  pollen 
+germination and competitive pollen tube growth. plant physiol 
+2005; 138:2005-2018.
+63  takacs-vellai k, vellai t, puoti a, et al. inactivation of the au-
+tophagy gene bec-1 triggers apoptotic cell death in c. elegans. 
+current biol 2005; 15:1513-1517.
+64  stack jh, dewald db, takegawa k, emr sd. vesicle-mediated 
+protein-transport-regulatory  interactions  between  the vps15 
+protein-kinase and the vps34 ptdins 3-kinase essential for protein 
+sorting to the vacuole in yeast. j cell biol 1995; 129:321-334.
+65  kihara a, noda t, ishihara n, ohsumi y. two distinct vps34 
+phosphatidylinositol 3-kinase complexes function in autophagy 
+and carboxypeptidase y sorting in saccharomyces cerevisiae. j 
+cell biol 2001; 152:519-530.
+66  budovskaya yv, hama h, dewald db, herman pk. the c 
+terminus of the vps34p phosphoinositide 3-kinase is necessary 
+and sufficient for the interaction with the vps15p protein kinase. 
+j biol chem 2002; 277:287-294.
+67  volinia s, dhand r, vanhaesebroeck b, et al. human phosphati-
+dylinositol 3-kinase complex related to the yeast vps34p-vps15p 
+protein sorting system. embo j 1995; 14:3339-3348.
+68  kihara a,  kabeya y,  ohsumi y, yoshimori t.  beclin-phos-
+phatidylinositol 3-kinase complex functions at the trans-golgi 
+network. embo rep 2001; 2:330-335.
+69  obara k, sekito t, ohsumi y. assortment of phosphatidylinositol 
+3-kinase complexesâ€“atg14p directs association of complex i to 
+the pre-autophagosomal structure in saccharomyces cerevisiae. 
+mol biol cell 2006; 17:1527-1539.
+70  franklin-tong ve, drobak bk, allan ac, watkins p, trewavas 
+aj. growth of pollen tubes of papaver rhoeas is regulated by 
+a slow-moving calcium wave propagated by inositol 1,4,5-tri-
+sphosphate. plant cell 1996; 8:1305-1321.
+71  kost b, lemichez e, spielhofer p, et al. rac homologues and 
+compartmentalized phosphatidylinositol 4, 5-bisphosphate act in 
+a common pathway to regulate polar pollen tube growth. j cell 
+biol 1999; 145:317-330.
+72  zheng zl, yang z. the rrop gtpase switch turns on polar 
+growth in pollen. trends plant sci 2000; 5:298-303.
+73  gu y, vernoud v, fu y, yang z. rop gtpase regulation of pol-
+len tube growth through the dynamics of tip-localized f-actin. j 
+exp bot 2003; 54:93-101.
+74  hwang ju, gu y, lee yj, yang z. oscillatory rop gtpase 
+activation leads the oscillatory polarized growth of pollen tubes. 
+mol biol cell 2005; 16:5385-5399.
+75  parton rm, fischer-parton s, trewavas aj, watahiki mk. pollen 
+tubes exhibit regular periodic membrane trafficking events in the 
+absence of apical extension. j cell sci 2003; 116:2707-2719.
+76  parton  rm,  fischer-parton  s, watahiki  mk, trewavas aj. 
+dynamics of the apical vesicle accumulation and the rate of 
+growth are related in individual pollen tubes. j cell sci 2001; 
+114:2685-2695.
+77  hepler pk, vidali l, cheung ay. polarized cell growth in higher 
+plants. annu rev cell dev biol 2001; 17:159-187.
+78  sanderfoot aa, pilgrim m, adam l, raikhel nv. disruption 
+of individual members of arabidopsis syntaxin gene families 
+indicates each has essential functions. plant cell 2001; 13:659-
+666.
+79  hicks gr, rojo e, hong s, carter dg, raikhel nv. geminating 
+pollen has tubular vacuoles, displays highly dynamic vacuole 
+biogenesis, and requires vacuoless1 for proper function. 
+plant physiol 2004; 134:1227-1239.
+(supplementary information is linked to the online version of the 
+paper on the cell research website.)
+www.cell-research.com | cell research

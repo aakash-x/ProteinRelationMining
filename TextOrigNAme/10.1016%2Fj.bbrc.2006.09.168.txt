@@ -1,0 +1,625 @@
+biochemical and biophysical research communications 351 (2006) 71–77
+bbrc
+www.elsevier.com/locate/ybbrc
+quantitative monitoring of autophagic degradation
+akinori kawai, syuichi takano, nobuhiro nakamura, shoji ohkuma *
+division of life sciences, graduate school of natural science and technology, kanazawa university, kakuma, kanazawa, ishikawa 920-1192, japan
+received 21 september 2006
+available online 12 october 2006
+abstract
+we developed a quantitative method for analyzing the induction of autophagy using a cho-k1 cell line stably expressing a green
+ﬂuorescent protein (gfp) in mitochondrial matrix (mtgfp-cho). when mtgfp-cho cells were incubated with a medium depleted
+of amino acids and serum, the gfp ﬂuorescence was decreased concomitant with degradation of the protein. biochemical and morpho-
+logical analyses strongly suggested the degradation of mtgfp was mediated by bulk and non-selective degradation of mitochondria by
+autophagy. quantitative measurement of the mtgfp degradation was performed by measuring the gfp ﬂuorescence and dna content
+by a ﬂuorometric method and calculating the relative gfp intensity of dna content, which approximated mean gfp ﬂuorescence per
+cell. using this method, we showed for the ﬁrst time that diﬀerent inducers, such as amino acids and serum starvation or rapamycin
+treatment, promote autophagy with diﬀerent kinetics. this method is easy, relatively quick, and may be easily adapted to high through-
+put screening for novel drugs that enhance or inhibit autophagy, and also for genes that regulate or modulate autophagy.
+ó 2006 elsevier inc. all rights reserved.
+keywords: macroautophagy; starvation; kinetics; gfp; mitochondrial degradation
+macroautophagy, usually referred to simply as autoph-
+agy, is an intracellular bulk degradation system that is
+induced when cells are forced to restructure their compo-
+nents or correct redundancies under nutrient starvation,
+hormonal stimulation or cell diﬀerentiation, and develop-
+ment (for reviews, see [1–6]). when cells are starved, they
+induce autophagy, degrade, and reuse non-essential parts
+of the components to enable energy production and mate-
+rial supplies, such as amino acids, for maintaining the
+essential cellular functions required for survival
+[2]. in
+autophagy, double membrane structures, known as limit-
+ing membranes, are formed de novo in the cytoplasm,
+which enclose and capture a portion of the cytoplasm
+including organelles, such as mitochondria, to form auto-
+phagosomes. the autophagosomes then fuse with endo-
+somes or lysosomes that contain degradative enzymes
+and become autolysosomes, commencing the degradation
+of their contents [4]. it has been thought that the degrada-
+* corresponding author. fax: +81 76 234 4462.
+e-mail address: ohkuma@kenroku.kanazawa-u.ac.jp (s. ohkuma).
+0006-291x/$ - see front matter ó 2006 elsevier inc. all rights reserved.
+doi:10.1016/j.bbrc.2006.09.168
+tion by autophagy is non-selective and that constitutive
+basal level autophagy accounts for the turnover of long-
+lived proteins [2,3,7]. however, growing evidence indicates
+that autophagy can also participate in selective degradation
+of cytoplasmic materials including protein aggregates,
+impaired mitochondria, peroxisomes, and even invading
+pathogens (for reviews, see [5,8,9]).
+autophagy has been traced by biochemical and mor-
+phological methods (reviewed in [10]). generally, biochem-
+ical methods are quantitative but rather time-consuming
+and it is inherently diﬃcult to distinguish autophagy from
+other intracellular degradation pathways, such as the ubiq-
+uitin-proteasome pathway and microautophagy [8,11,12].
+on the other hand, morphological methods are simple,
+and less time-consuming, although they are rather qualita-
+tive and have diﬃculty in quantitation. using gfp fused
+lc3, a mammalian atg8 orthologue, the formation of
+autophagosomes in mammalian cells can be monitored in
+live, enabling morphological quantitation [13,14]. howev-
+er, as lc3 dissociates from autophagosomes after fusion
+with lytic compartments [13,14], precise quantitation of
+autophagosome formation or induction of autophagy is
+72
+a. kawai et al. / biochemical and biophysical research communications 351 (2006) 71–77
+not possible. furthermore, morphological methods are dif-
+ﬁcult to apply for high throughput screening. under these
+circumstances, we attempted to establish an alternative
+quantitative monitoring system for autophagy. we have
+chosen mitochondria as a marker because mitochondria
+are a well-established and easily traceable cytoplasmic
+component in autophagic degradation [1,3,15]. in addition,
+as mitochondria are large organelles and are thought to be
+degraded mainly by macroautophagy [15,16], they are able
+to serve as a speciﬁc marker for macroautophagy.
+materials and methods
+reagents. chloroquine diphosphate, ammonium chloride, baﬁlomycin
+a1, leupeptin, pepstatin, and rapamycin were purchased from wako fine
+chemicals (osaka, japan). 3-methyladenine, protease inhibitor cocktail,
+and lactacystin were purchased from sigma–aldrich corp. (st. louis,
+mo, usa). cycloheximide and dmso were purchased from nacalai
+tesque (kyoto, japan). anti-ubiquitin antibody and chymostatin were
+purchased from calbiochem (san diego, ca, usa). antipain was pur-
+chased from bachem ag (bubendorf, switzerland).
+cell line and culture conditions. cho-k1 cells (a chinese hamster
+ovary cell line) were maintained in ham’s f-12 medium (gibco-brl)
+supplemented with 10% fbs (growth medium) containing 100 u/ml
+penicillin and 100 lg/ml streptomycin at 37 °c under 5% co2. medium
+depleted of serum was ham’s f-12 medium without supplements. amino
+acids depleted medium was formulated with the recipe of ham’s f-12
+medium without amino acids.
+transfection and production of a stable cell line. pcaggs-gfp (gfp
+expressing in the cytoplasm) and pcaggs-potc-gfp (mtgfp) were
+kindly donated by dr. masataka mori (kumamoto university, japan).
+pgfp-lc3 was kindly donated from dr. tamotsu yoshimori (osaka
+university, japan). cho-k1 cells were transfected with the plasmids
+using eﬀectene (qiagen, hilden, germany). stable transfectants were
+selected and maintained with growth medium containing 100 u/ml peni-
+cillin, 100 lg/ml streptomycin, and 500 lg/ml g418 (sigma–aldrich).
+starvation. 2 · 105 cells were seeded in a 6-cm dish and cultured with
+growth medium containing 100 u/ml penicillin, 100 lg/ml streptomycin,
+and 500 lg/ml g418 for 48 h. cells were washed twice with experimental
+medium and cultured in the same medium for the indicated time. where
+indicated, 100 lm chloroquine diphosphate, 40 mm ammonium chloride,
+10 mm 3-methyladenine, 100 nm baﬁlomycin a1 (with 0.01% dmso),
+100 nm rapamycin (with 0.01% dmso), 10 lm lactacystin (with 0.1%
+dmso) or 0.1% dmso was added to the medium.
+fluorescent microscopy. for labeling lysosomes, mtgfp-cho cells
+were pre-incubated with a growth medium containing antibiotics and
+500 lg/ml of texas red dextran (molecular probes, eugene, or, usa)
+for 16 h. cells were incubated with a growth medium or starvation
+mediums containing protease inhibitors (pepstatin, leupeptin, antipain,
+and chymostatin) for the indicated time at 37 °c, washed 3· with phos-
+phate-buﬀered saline (pbs), and ﬁxed in 4% paraformaldehyde. cells were
+observed under a laser scanning confocal microscope (lsm510, carl
+zeiss, jena, germany). for quantitation, average ﬂuorescent intensities of
+the cells were measured by imagej (nih, usa). a cell area was manually
+enclosed using freehand line selection and the mean intensity then mea-
+sured. for each image, 20 cells were randomly selected and the mean
+calculated. this was then subtracted from the mean background obtained
+by the measurement of three randomly selected areas with no cells in the
+same image.
+fluorometric analysis. this was performed as described previously with
+slight modiﬁcations [17]. brieﬂy, cells were washed and lysed with sds-
+containing buﬀer and sonicated. gfp ﬂuorescence was measured using a
+ﬂuorometer (f-4500, hitachi, tokyo, japan) at 480 nm for excitation and
+510 nm for emission. the dna content was measured using hoechst
+33258 dye [18].
+western blotting. mtgfp-cho cells were washed with pbs and lysed
+in lysis buﬀer (0.1 m tris–hcl [ph 6.7], 4% sds). the lysate was soni-
+cated (soniﬁer 250d, branson, danbury, ct, usa) and protein con-
+centration was determined by bca protein assay kit (pierce chemical
+company, rockford, mi, usa). this was then adjusted to 0.1 m dtt,
+0.2 m sucrose, and 0.02% bpb, and analyzed by sds polyacrylamide gels
+electrophoresis (15% or 12.5% polyacrylamide gels). proteins were then
+electrophoretically transferred to polyvinylidene diﬂuoride membrane
+(immobilon, millipore corp., bedford, ma, usa) using semi-dry transfer
+blotter. the membranes were then incubated with the rabbit anti-gfp
+polyclonal antibody (santa cruz biotechnology, ca, usa), mouse anti-
+actin monoclonal antibody (chemicon international, ca, usa), rabbit
+anti-ubiquitin polyclonal antibody (calbiochem) or rabbit anti-lc3
+antibody (kindly donated by dr. tamotsu yoshimori, osaka university),
+and then anti-rabbit or anti-mouse secondary antibody conjugated to
+horseradish peroxidase (1:5000) (santa cruz). the reaction was visualized
+using the ecl detection system (amersham pharmacia biotech, uppsala,
+sweden) with a luminescence analyzer (las-1000, fuji film corp.,
+tokyo, japan). densitometry was performed with image gauge (fuji
+film corp.).
+results and discussion
+monitoring the degradation of mitochondrial matrix marker
+protein (mtgfp)
+to monitor mitochondrial degradation, cho-k1 cells
+stably expressing a green ﬂuorescent protein (gfp) in
+mitochondrial matrix (mtgfp-cho) were produced using
+a gfp fused with a pre-sequence of mitochondrial orni-
+thine transcarbamylase (mtgfp)
+[19]. when mtgfp-
+cho cells were examined for the localization of gfp
+under a ﬂuorescent microscope, cytoplasmic dots or
+thread-like structures,
+typical of mitochondria, were
+observed (fig. 1a, right panel). these structures were pre-
+cisely co-stained with mitotracker red cmxros (invitro-
+gen), which speciﬁcally and vitally stains mitochondria,
+(unpublished observation) indicating that the mtgfp was
+properly targeted to mitochondria and suitable for further
+analyses.
+first, we tried amino acid starvation, which has been
+widely used to induce autophagy in cultured cells [13,20].
+when mtgfp-cho cells were treated with a medium
+depleted of serum and amino acids for 12 h, ﬁxed, and
+observed under a confocal microscope, the ﬂuorescence
+of the mitochondria was signiﬁcantly lower than the con-
+trol cells, although the structure and distribution of
+mitochondria was not signiﬁcantly aﬀected (fig. 1a).
+the average intensity of ﬂuorescence per cells was
+reduced to about 60% (fig. 1b). western blotting analy-
+sis was performed to conﬁrm that the reduction was
+caused by the degradation of mtgfp. as expected, star-
+vation apparently reduced the amount of mtgfp
+(fig. 1c). the reduction was about 80% when quantiﬁed
+by densitometry (fig. 1d). this result indicated that the
+reduction in the gfp ﬂuorescence was mostly caused by
+degradation of the protein. however, the rate of ﬂuores-
+cence reduction was signiﬁcantly higher compared to that
+of the protein amount. this may be caused by quenching
+of gfp ﬂuorescence preceding degradation, or more
+a. kawai et al. / biochemical and biophysical research communications 351 (2006) 71–77
+73
+30
+25
+20
+15
+10
+starvation time(h)
+12
+starvation time (h)
+12
+120
+100
+80
+60
+40
+20
+100
+90
+80
+70
+60
+50
+starvation time (h)
+mtgfp(starvation)
+gfp(starvation)
+mtgfp(normal)
+gfp(normal)
+12
+24
+36
+time (h)
+fig. 1. degradation of mtgfp after amino acid and serum starvation. (a) mtgfp-cho cells were cultured in normal growth medium (left panel) or
+medium depleted of amino acids and serum (right panel) for 12 h and examined by a confocal microscope. a sliced image with the largest cytoplasmic area
+is shown. bar = 20 lm. (b) the average ﬂuorescent intensity in a cell was quantiﬁed as described in materials and methods. the result shown is an average
+of three independent experiments. error bars indicate sem. (c) mtgfp-cho cells were treated as in (a) and lysates were prepared, and analyzed by
+western blotting using anti-gfp antibody as described in materials and methods. the same amount of protein (30 lg) was loaded into each lane. a
+representative picture of three experiments is shown. (d) the bands in (c) were densitometrically quantiﬁed and the ratio of the starved cell sample to the
+control was calculated. the result shown is an average of three independent experiments. error bars indicate sem. (e) cells were incubated with normal
+growth medium (normal) or starvation medium (starvation) for the indicated time, harvested, and lysed. the gfp ﬂuorescence and the dna content of
+the samples were analyzed using a ﬂuorometer as described in materials and methods. the ﬂuorescent intensity of gfp per dna content was calculated
+and expressed as the ratio to the non-treated control cell sample. mtgfp, mtgfp-cho; gfp, cho expressing gfp in the cytoplasm.
+likely, by limitations in the morphological quantitation
+method.
+to evaluate these possibilities and furthermore develop
+a simpler, less time-consuming, and quantitative method,
+we employed ﬂuorometry developed in our laboratory pre-
+viously [17]. cells were incubated with normal growth
+medium or starvation medium for 1–36 h and the ﬂuores-
+cent intensity of gfp per dna content, which approxi-
+mated mean gfp ﬂuorescence per cells, was analyzed.
+the ﬂuorescence was unchanged after incubation with con-
+trol normal medium for up to 36 h (fig. 1e, mtgfp, nor-
+mal). in contrast, starvation induced a gradual reduction in
+gfp ﬂuorescence (fig. 1e, mtgfp, starvation). the ratio
+of the reduction after 12 h starvation was about 80% and
+this was in good accordance with the level of mtgfp deg-
+radation determined by western blotting (figs. 1c and d).
+therefore, we concluded that the degradation of gfp
+simultaneously proceeded with the quenching of the ﬂuo-
+rescence so that the loss of ﬂuorescence reﬂects the degra-
+dation of protein. intriguingly, gfp ﬂuorescence was
+almost unchanged for the ﬁrst one to two hours of starva-
+tion. the ﬂuorescence was then dramatically reduced after
+3 h of starvation (less than 90% was left). as the induction
+of autophagy has been reported to peak after 2 h of starva-
+tion [13], it is probable that the latency in the reduction in
+mtgfp ﬂuorescence reﬂected the time required for the for-
+mation of autolysosomes. a steady reduction in gfp ﬂuo-
+rescence was observed with longer incubation, indicating
+the continuous degradation of mtgfp by starvation.
+mitophagy, the speciﬁc degradation of mitochondria by
+autophagy, was reported to be induced by mitochondrial
+damage [21–25]. thus, we tried to evaluate whether mtgfp
+was degraded speciﬁcally or non-speciﬁcally by the classical
+bulk degradation mechanism of autophagy [26]. for this
+purpose, we generated cho cells stably expressing gfp
+in the cytoplasm and quantiﬁed the reduction in the gfp
+ﬂuorescence by the same ﬂuorometric method. as shown
+in fig. 1e, the kinetics of the decrease in ﬂuorescence were
+almost the same as for mtgfp, strongly suggesting that the
+degradation of mtgfp was mediated by a bulk degrada-
+tion mechanism by autophagy under amino acid and serum
+starvation. as the degradation of mtgfp was thought to
+be coincident with the disruption of mitochondria in auto-
+lysosomes (further discussed in the next section) and more
+speciﬁcally to reﬂect macroautophagy, only mtgfp-cho
+was analyzed hereafter.
+74
+a. kawai et al. / biochemical and biophysical research communications 351 (2006) 71–77
+mtgfp is degraded by autophagy
+we took several approaches to conﬁrm that the degra-
+dation of mtgfp was caused by autophagy and not by
+another cytoplasmic degradation mechanism, such as the
+ubiquitin-proteasome system.
+first, we carried out a morphological analysis to look
+for evidence of autophagic degradation of mitochondria.
+if mitochondria are enclosed in autophagosomes and fused
+with the lysosomal compartment, co-localization of lyso-
+somes and mitochondria has to be observed. to label lyso-
+somes, mtgfp-cho cells were loaded with texas red
+dextran as described in materials and methods. the cells
+were then starved and the distribution of mitochondria
+and lysosomes analyzed by confocal microscopy. to better
+preserve the autophagocytosed mitochondria, cells were
+treated with protease inhibitors. when control cells were
+analyzed, the distribution of mitochondria and lysosomes
+was clearly distinct and virtually no co-localization was
+observed (fig. 2a, top panels). in contrast, apparent close
+apposition of mitochondria and lysosomes was observed
+after 6 h of starvation (fig. 2a, bottom panels and b, yel-
+low spots). careful inspection of the cells, by reconstruct-
+ing 3d images of the cells, revealed actual overlapping of
+mitochondria and lysosomes suggesting the engulfment of
+mitochondria in autolysosomes (figs. 2b and c). in most
+of the cells, one or two of these structures were observed.
+the low number of these structures may reﬂect rapid
+breakdown of mitochondrial
+integrity and dispersal of
+mtgfp in autolysosomes and/or partial degradation of
+mtgfp that was not completely inhibited by added prote-
+ase inhibitors. in any case, the observation of mitochondria
+in lysosomes suggests that the mitochondria are auto-
+phagocytosed and delivered to autolysosomes.
+second, we tested whether compounds that
+inhibit
+autophagy aﬀect the degradation of mtgfp. chloroquine
+diphosphate and ammonium chloride are basic compounds
+that have been reported to raise the ph in an acidic com-
+partment [27]. baﬁlomycin a1 is a selective inhibitor of
+v-atpase and also raises the ph in an acidic compartment
+[28]. these compounds have been shown to inhibit the for-
+mation of autolysosomes, probably by inhibiting the fusion
+fig. 2. co-localization of mitochondria with lysosomes in starved cells. mtgfp-cho cells were loaded with texas red dextran and then incubated in
+normal growth medium (a, top panels) or medium depleted of amino acids and serum (a, bottom panels, b and c) for 6 h in the presence of protease
+inhibitors. cells were ﬁxed and observed using a confocal microscope. (a) a sliced image with the largest cytoplasmic area is shown. left panels, mtgfp;
+center panels, texas red dextran; right panels, merged pictures. bar = 10 lm. (b) left gallery; representative sliced images with clear co-localization of
+mitochondria with lysosomes. panels are in the same arrangement as in (a). bar = 10 lm. (c) areas marked by white squares in merged pictures of (b)
+were enlarged and presented with sliced images of the z-axis of the corresponding areas. top, x–z images; bottom left, x–y images; bottom right, y–z
+images. green, blue, and red lines in the panels indicate the planes for x–z, x–y, and y–z images. bar = 2 lm.
+a. kawai et al. / biochemical and biophysical research communications 351 (2006) 71–77
+75
+table 1
+eﬀect of autophagy inhibitors on mtgfp degradation
+the rate of inhibition (%) (n = 3)
+chloroquine
+ammonium chloride
+baﬁlomycin a1
+3-methyladenine
+40.0 ± 4.0
+47.1 ± 6.7
+49.3 ± 7.8
+53.2 ± 4.8
+mtgfp-cho cells were cultured in a medium deprived of amino acids and
+serum in the presence of the indicated inhibitors for 6 h. the cell lysates
+were ﬂuorometrically analyzed as described in fig. 1.
+between autophagosomes and lysosomes [29,30]. 3-methy-
+ladenine is an inhibitor of phosphatidylinositol-3-kinase
+(pi3k), which speciﬁcally inhibits macroautophagy [31].
+when mtgfp-cho cells were incubated with amino acid-
+and serum-free starvation medium for 6 h in the presence
+of any of these compounds, the degradation of mtgfp
+was inhibited by 40–50% (table 1). these results suggest
+that the degradation of mtgfp is mediated by autophagy.
+third, the induction of autophagy was conﬁrmed bio-
+chemically. lc3 is a mammalian orthologue of yeast atg8p
+and known to be converted to a higher mobility isoform
+and localized on newly formed autophagosomes
+in
+response to the induction of autophagy [13]. incubation
+of mtgfp-cho cells in amino acid and serum depleted
+medium strongly induced the conversion of lc3-i to a fast-
+er migrating lc3-ii isoform (unpublished observation and
+fig. 3a) suggesting the eﬃcient induction of autophagy in
+our experimental system.
+finally, we investigated the involvement of the protea-
+somal degradation system in mtgfp degradation. the
+inhibition of proteasomes can be monitored by accumula-
+tion of ubiquitinated proteins, which is detected as smear
+bands with lower mobility, by western blotting of a cell
+lysate with anti-ubiquitin antibody [32]. mtgfp-cho cells
+were incubated with starvation medium in the presence or
+absence of lactacystin, a proteasome inhibitor [33], lysed,
+and analyzed using anti-ubiquitin antibody (fig. 3b).
+there was no signiﬁcant accumulation of ubiquitinated
+proteins in mock treated starved cells (fig. 3b, dmso).
+in striking contrast, massive accumulation of ubiquitinated
+proteins was detected in lactacystin treated starved cells
+clearly indicating inhibition of the proteasomal degrada-
+tion system (fig. 3b, lact). in contrast, accumulation of
+lc3-ii was not aﬀected, indicating that inhibition of the
+proteasomal degradation system did not interfere with
+the induction of autophagy (fig. 3a, compare dmso
+and lact). under these conditions, no signiﬁcant inhibition
+of the degradation of mtgfp was observed (fig. 3c).
+therefore, the proteasomal degradation system appears
+not to be involved in the degradation of mtgfp.
+taken together, these results strongly suggested that in
+our experimental system the degradation of mtgfp was
+mostly caused by autophagy, probably by bulk engulfment
+of mitochondria in autophagosomes and consecutive for-
+mation of autolysosomes.
+fig. 3. eﬀect of proteasome inhibitors on mtgfp degradation. mtgfp-
+cho cells were cultured in normal growth medium or medium depleted of
+amino acids and serum-containing lactacystin (lact) or mock carrier
+solvent
+lysates were subjected to
+immunoblotting analysis using an antibody against lc3 and actin (a)
+or ubiquitin (b). (c) gfp ﬂuorescence of the cell lysates was measured as
+in fig. 1e.
+(a,b) the cell
+(dmso)
+for 6 h.
+kinetic analysis of autophagy
+the ﬂuorometric assay was relatively easy and less time-
+consuming and was well suited for the kinetic analysis of
+autophagy. using this method, detailed quantitative mea-
+surement of autophagic activity is possible. to start, we
+challenged the cells with several diﬀerent conditions that
+have been shown to induce autophagy and analyzed the
+kinetics of autophagic induction. we compared rapamycin
+treatment and amino acid or serum starvation, which have
+all been shown to induce autophagy but by activation of
+diﬀerent points in the autophagic signal
+transduction
+machinery (see reviews for [5,34]). as mentioned in
+fig. 1e, dramatic induction of autophagic degradation
+was observed under double depletion of amino acids and
+serum after 3 h of treatment. in contrast, depletion of only
+amino acids or only serum showed only weaker induction
+of autophagic degradation at
+the same time point
+(fig. 4a). the continuous and gradual induction kinetics
+were very similar for sole depletion of amino acids or
+76
+a. kawai et al. / biochemical and biophysical research communications 351 (2006) 71–77
+100
+90
+80
+70
+starvation (a.a.+serum)
+starvation (serum)
+starvation (a.a.)
+normal
+rapamycin
+12
+time (h)
+normal
+starvation
+(a.a.+serum)
+starvation
+(serum)
+starvation
+(a.a.)
+100nm
+rapamycin
+3hr
+6hr
+12hr
+fig. 4. kinetic analysis of autophagy induction by diﬀerent autophagic inducers. (a) mtgfp-cho cells were cultured with normal growth medium with
+rapamycin or medium depleted of amino acids, serum or both for the indicated time. gfp ﬂuorescence of the cell lysates was measured as in fig. 1e. (b)
+cho cells expressing lc3-gfp were treated as in (a). the cells were ﬁxed and examined by confocal laser scanning microscopy. bar = 10 lm.
+serum (fig. 4a). interestingly, the induction of autophagic
+degradation by rapamycin was further slower compared to
+the depletion of amino acids, serum or both. signiﬁcant
+induction was only observable after 12 h of treatment
+(fig. 4a).
+to conﬁrm that the kinetic diﬀerence was actually
+reﬂecting that of autophagy induction, we morphologically
+analyzed the kinetics of the activation of autophagy by
+lc3 activation, gfp-tagged lc3 rapidly accumulates on
+cytoplasmic spots during the early stage of autophagosome
+formation [10,14]. a cho cell line stably expressing lc3-
+gfp was produced and treated with rapamycin or was
+starved of amino acids or serum (fig. 4b). amino acid
+and serum starvation strongly induced the accumulation
+of lc3-gfp on numerous cytoplasmic spots after 3 h of
+treatment (fig. 4b). the induction of lc3-gfp dots
+remained at a similar level after 6 h of treatment and slight-
+ly decreased after 12 h. this correlated well with the induc-
+tion of autophagic degradation (fig. 4a). as expected, the
+number of lc3-gfp dots was lower with the sole starva-
+tion of amino acids or serum after 3 h of treatment and
+remained at a similar
+incubation
+(fig. 4b). the induction of lc3 dots was even lower under
+rapamycin treatment after 3 and 6 h, and then signiﬁcantly
+increased after 12 h of treatment. these results were in
+good agreement with the kinetic analysis (fig. 4b) and
+level with longer
+strongly support the idea that the kinetics of mtgfp deg-
+radation reﬂects the kinetics of autophagy induction.
+to our knowledge, this is the ﬁrst study to demonstrate
+that diﬀerent inducers promote autophagy with diﬀerent
+kinetics. these kinetic diﬀerences may reﬂect the diﬀerent
+steps of the autophagic signal transduction pathway that
+rapamycin and amino acid or serum starvation stimulate
+[5,34,35].
+we conclude that mtgfp serves as a quantitative mark-
+er to analyze the kinetics of autophagy induction. the
+quantitative method we have developed would be easily
+adapted to high-throughput screening for novel drugs that
+enhance or inhibit autophagy, as well as for genes that reg-
+ulate or modulate autophagy. future application of this
+analytical method will greatly beneﬁt the understanding
+of autophagy and development of new drugs and treat-
+ments of autophagy-related disorders,
+including cancer
+[36–38].
+acknowledgments
+we thank drs. t. yoshimori (osaka university) and m.
+mori (kumamoto, university) for kindly providing re-
+agents, ms. h. uchiyama for her help in imaging analysis,
+mr. t. sakaguchi and ms. k. suzuki for experimental sup-
+ports, and all the members of the ohkuma lab. for helpful
+a. kawai et al. / biochemical and biophysical research communications 351 (2006) 71–77
+77
+comments and discussion. this work was supported by a
+grant-in-aid for scientiﬁc research from the ministry of
+education, culture, sports, science and technology of
+japan.
+references
+[1] h. glaumann, j.l. ericsson, l. marzella, mechanisms of intralys-
+osomal degradation with special reference to autophagocytosis and
+heterophagocytosis of cell organelles, int. rev. cytol. 73 (1981) 149–
+182.
+[2] g.e. mortimore, a.r. poso, intracellular protein catabolism and its
+control during nutrient deprivation and supply, annu. rev. nutr. 7
+(1987) 539–564.
+[3] w.a. dunn jr., autophagy and related mechanisms of lysosome-
+mediated protein degradation, trends cell biol. 4 (1994) 139–143.
+[4] d.j. klionsky, y. ohsumi, vacuolar import of proteins and organ-
+elles from the cytoplasm, annu. rev. cell dev. biol. 15 (1999) 1–32.
+[5] a.j. meijer, p. codogno, regulation and role of autophagy in
+mammalian cells, int. j. biochem. cell biol. 36 (2004) 2445–2462.
+[6] f. reggiori, d.j. klionsky, autophagosomes: biogenesis from
+scratch? curr. opin. cell biol. 17 (2005) 415–422.
+[7] p.o. seglen, p. bohley, autophagy and other vacuolar protein
+degradation mechanisms, experientia 48 (1992) 158–172.
+[8] j. kim, d.j. klionsky, autophagy, cytoplasm-to-vacuole targeting
+pathway, and pexophagy in yeast and mammalian cells, annu. rev.
+biochem. 69 (2000) 303–342.
+[9] m. ogawa, c. sasakawa, bacterial evasion of the autophagic defense
+system, curr. opin. microbiol. 9 (2006) 62–68.
+[10] n. mizushima, methods for monitoring autophagy, int. j. biochem.
+cell biol. 36 (2004) 2491–2502.
+[11] m. hochstrasser, ubiquitin-dependent protein degradation, annu.
+rev. genet. 30 (1996) 405–439.
+[12] a. hershko, a. ciechanover, the ubiquitin system, annu. rev.
+biochem. 67 (1998) 425–479.
+[13] y. kabeya, n. mizushima, t. ueno, a. yamamoto, t. kirisako, t.
+noda, e. kominami, y. ohsumi, t. yoshimori, lc3, a mammalian
+homologue of yeast apg8p, is localized in autophagosome mem-
+branes after processing, embo j. 19 (2000) 5720–5728.
+[14] n. mizushima, a. yamamoto, m. matsui, t. yoshimori, y. ohsumi,
+in vivo analysis of autophagy in response to nutrient starvation using
+transgenic mice expressing a ﬂuorescent autophagosome marker,
+mol. biol. cell. 15 (2004) 1101–1111.
+[15] c. de duve, r. wattiaux, functions of lysosomes, annu. rev.
+physiol. 28 (1966) 435–492.
+[16] e. holtzman iii, turnover of organelles and intracellular macro-
+molecules in eukaryotes, in: m. alfert, w. beermann, g. rudkin, w.
+sandritter, p. sitte (eds.), lysosomes: a survey, springer werlag,
+wien, new york, 1976, pp. 129–152.
+[17] k. arai, s. ohkuma, t. matsukawa, s. kato, a simple estimation of
+peroxisomal degradation with green ﬂuorescent protein—an applica-
+tion for cell cycle analysis, febs lett. 507 (2001) 181–186.
+[18] c. labarca, k. paigen, a simple, rapid, and sensitive dna assay
+procedure, anal. biochem. 102 (1980) 344–352.
+[19] m. yano, m. kanazawa, k. terada, c. namchai, m. yamaizumi, b.
+hanson, n. hoogenraad, m. mori, visualization of mitochondrial
+protein import in cultured mammalian cells with green ﬂuorescent
+protein and eﬀects of overexpression of the human import receptor
+tom20, j. biol. chem. 272 (1997) 8459–8465.
+[20] d.b. munafo, m.i. colombo, induction of autophagy causes
+dramatic changes in the subcellular distribution of gfp-rab24,
+traﬃc 3 (2002) 472–482.
+[21] l. xue, g.c. fletcher, a.m. tolkovsky, mitochondria are selectively
+eliminated from eukaryotic cells after blockade of caspases during
+apoptosis, curr. biol. 11 (2001) 361–365.
+[22] s.p. elmore, t. qian, s.f. grissom, j.j. lemasters, the mitochon-
+drial permeability transition initiates autophagy in rat hepatocytes,
+faseb j. 15 (2001) 2286–2287.
+[23] i. kissova, m. deﬃeu, s. manon, n. camougrand, uth1p is involved
+in the autophagic degradation of mitochondria, j. biol. chem. 279
+(2004) 39068–39074.
+[24] m. priault, b. salin, j. schaeﬀer, f.m. vallette, j.p. di rago, j.c.
+martinou, impairing the bioenergetic status and the biogenesis of
+mitochondria triggers mitophagy in yeast, cell death diﬀer. 12
+(2005) 1613–1621.
+[25] s. rodriguez-enriquez, i. kim, r.t. currin, j.j. lemasters, tracker
+dyes to probe mitochondrial autophagy (mitophagy) in rat hepato-
+cytes, autophagy 2 (2006) 39–46.
+[26] j. kopitz, g.o. kisen, p.b. gordon, p. bohley, p.o. seglen,
+nonselective autophagy of cytosolic enzymes by isolated rat hepato-
+cytes, j. cell biol. 111 (1990) 941–953.
+[27] s. ohkuma, b. poole, fluorescence probe measurement of the
+intralysosomal ph in living cells and the perturbation of ph
+by various agents, proc. natl. acad. sci. usa 75 (1978)
+3327–3331.
+[28] t. yoshimori, a. yamamoto, y. moriyama, m. futai, y. tashiro,
+baﬁlomycin a1, a speciﬁc inhibitor of vacuolar-type h(+)-atpase,
+inhibits acidiﬁcation and protein degradation in lysosomes of cultured
+cells, j. biol. chem. 266 (1991) 17707–17712.
+[29] a. yamamoto, y. tagawa, t. yoshimori, y. moriyama, r. masaki,
+y. tashiro, baﬁlomycin a1 prevents maturation of autophagic
+vacuoles by inhibiting fusion between autophagosomes and lysosomes
+in rat hepatoma cell line, h-4-ii-e cells, cell struct. funct. 23 (1998)
+33–42.
+[30] p. boya, r.a. gonzalez-polo, n. casares, j.l. perfettini, p. dessen,
+n. larochette, d. metivier, d. meley, s. souquere, t. yoshimori, g.
+pierron, p. codogno, g. kroemer, inhibition of macroautophagy
+triggers apoptosis, mol. cell biol. 25 (2005) 1025–1040.
+[31] p.o. seglen, p.b. gordon, 3-methyladenine: speciﬁc inhibitor of
+autophagic/lysosomal protein degradation in isolated rat hepatocytes,
+proc. natl. acad. sci. usa 79 (1982) 1889–1892.
+[32] e.g. mimnaugh, p. bonvini, l. neckers, the measurement of
+ubiquitin and ubiquitinated proteins, electrophoresis 20 (1999) 418–
+428.
+[33] d.h. lee, a.l. goldberg, proteasome inhibitors: valuable new tools
+for cell biologists, trends cell biol. 8 (1998) 397–403.
+[34] d.a. van sluijters, p.f. dubbelhuis, e.f. blommaart, a.j. meijer,
+amino-acid-dependent signal transduction, biochem. j. 351 (pt 3)
+(2000) 545–550.
+[35] g.e. mortimore, m. kadowaki, autophagy:
+its mechanism and
+in: a.j. ciechanover, a.l. schwartz (eds.), cellular
+regulation,
+proteolytic systems, wiley liss, new york, 1994, pp. 65–87.
+[36] t. schmelzle, m.n. hall, tor, a central controller of cell growth,
+cell 103 (2000) 253–262.
+[37] j.j. lum, d.e. bauer, m. kong, m.h. harris, c. li, t. lindsten,
+c.b. thompson, growth factor regulation of autophagy and cell
+survival in the absence of apoptosis, cell 120 (2005) 237–248.
+[38] g. kroemer, m. jaattela, lysosomes and autophagy in cell death
+control, nat. rev. cancer 5 (2005) 886–897.

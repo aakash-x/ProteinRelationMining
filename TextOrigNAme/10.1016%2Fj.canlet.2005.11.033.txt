@@ -1,0 +1,898 @@
+cancer letters 243 (2006) 217–227
+www.elsevier.com/locate/canlet
+proteasome inhibition induces both pro- and anti-cell death
+pathways in prostate cancer cells
+wending yang, jason monroe, yonghong zhang, david george,
+eric bremer, honglin li*
+children’s memorial research center, the robert h. lurie comprehensive cancer center, feinberg school of medicine,
+northwestern university, 2430 n. halsted street, chicago, il 60614, usa
+received 10 august 2005; received in revised form 28 october 2005; accepted 27 november 2005
+abstract
+the proteasome-mediated protein degradation is critical for regulation of a variety of cellular processes, including cell cycle, cell
+death, differentiation and immune response. proteasome inhibitors have recently been shown to be potent anti-cancer agents
+against a variety of cancer cells. our study demonstrated that proteasome inhibitor mg132 (carbobenzoxy-l-leucyle-l-leucyl-l-
+leucinal) was a potent death-inducing agent for pc3 prostate cancer cells. mg132-induced cell death was partially inhibited by
+pan-caspase inhibitor zavd-fmk and translational inhibitor cycloheximide. to understand the signaling pathways of proteasome
+inhibitor-induced cell death, we performed gene proﬁling study using affymetrix human dna microarrays to identify the genes
+whose expression was affected by proteasome inhibitor mg132 in pc3 cells. the genes with more than threefold increased
+expression induced by mg132 were functionally categorized into the following groups: heat shock and chaperone proteins,
+ubiquitination and protein degradation, transcription/translation factors, cell death and cell cycle arrest, signaling molecules and
+enzymes, and secreted cytokines. among them, heat shock proteins and anti-oxidant enzymes may promote cell survival, while
+pro-death proteins such as gadd45b and stk17a may promote cell death. interestingly, expression of a few autophagic genes
+was elevated by mg132 treatment. furthermore, autophagy inhibitor 3-methyladenine partially inhibited mg132-induced cell
+death, indicating that autophagic cell death may contribute to mg132-induced cell death. taken together, our results demonstrated
+that proteasome inhibition elicits activation of multiple signaling pathways in prostate cancer cells.
+q 2005 elsevier ireland ltd. all rights reserved.
+keywords: proteasome inhibitor; gene proﬁling; apoptosis; autophagic cell death
+1. introduction
+the ubiquitin–proteasome system (ups) is the
+principal non-lysosomal system for degradation of
+intracellular protein [1]. it is instrumental to a variety
+of fundamental cellular processes, such as cell cycle
+* corresponding author. tel.: c1 773 755 6359; fax: c1 773 755
+6344.
+e-mail address: h-li2@northwestern.edu (h. li).
+regulation, gene expression, cell differentiation and
+immune response [1,2]. inhibition of the proteasome
+pathway results in cell cycle arrest and apoptosis,
+thereby making the proteasome a novel anti-cancer
+target [3,4]. bortezomib (millennium pharmaceuticals,
+inc., also known as velcade or ps-341) is the ﬁrst
+proteasome inhibitor to be approved for treatment of
+relapsed multiple myeloma (mm) [5,6]. the promising
+anti-cancer activity by bortezomib in mm and other
+malignancies has further proved that the proteasome is
+a legitimate target in cancer treatment.
+0304-3835/$ - see front matter q 2005 elsevier ireland ltd. all rights reserved.
+doi:10.1016/j.canlet.2005.11.033
+218
+w. yang et al. / cancer letters 243 (2006) 217–227
+the molecular mechanism of proteasome inhibitor-
+mediated anti-cancer activity has recently been under
+extensive study in mm and other cancer cells.
+inhibition of the normal function of the proteasome
+usually leads to cell cycle arrest and cell death in
+various types of cells. in mm cells, inhibition of the
+nf-kb pathway appears to be one of the main
+mechanisms by which proteasome inhibitors induce
+apoptosis and overcome drug resistance [6]. nf-kb is
+the major transcription factor in the rel/nf-kb family
+that plays critical roles in cell growth and survival, and
+induction of various cytokines and adhesion molecules
+[7]. inhibition of the proteasome prevents ikb, the
+inhibitor of nf-kb, from proteasome-mediated degra-
+dation, which in turn results in cytoplasmic retention of
+inactive nf-kb [7]. inhibition of nf-kb transcriptional
+activity leads to the decreased expression of survival
+factors such as bcl-2 and ciap-2, and blocks micro-
+environmental changes favorable for tumor growth,
+including adhesion of mm cells to stroma, angiogenesis
+and nf-kb-mediated induction of growth factors such
+as il-6 [8]. furthermore, the gene expression proﬁling
+study in mm cells treated with bortezomib demon-
+strated that
+the drug activated both extrinsic and
+intrinsic apoptotic pathways [9].
+to further elucidate the signaling pathways of
+proteasome inhibitor-induced cell death in other types
+of cells, here we report our gene proﬁling study of
+prostate cancer cell pc3 treated with mg132 (carbo-
+benzoxy-l-leucyle-l-leucyl-l-leucinal), a potent pro-
+teasome inhibitor. in this study, we demonstrated that
+proteasome inhibition led to activation of multiple
+signaling pathways in pc3 cells.
+2. results
+2.1. mg132-induced cell death in both caspase-
+dependent and -independent manners
+previous studies have demonstrated that proteasome
+inhibitors are potent apoptosis-inducing agents for
+cancer cells. as shown in fig. 1, proteasome inhibitor
+mg132 (1 and 10 mm) induced massive cell death of
+sv40-transformed mouse embryonic ﬁbroblast (mef)
+cells as well as prostate cancer pc3 cells, indicated by
+shrunken cell body and condensed dna (fig. 1a and
+b). interestingly, cycloheximide (1 mg/ml) remarkably
+inhibited cell death induced by mg132 (1 mm) (81.3 vs
+13.7% for mef, and 76.1 vs 27.2% for pc3) (fig. 1c
+and d). this result indicates that continuous protein
+synthesis is required for mg132-induced cell death.
+caspases play critical roles in the initiation and
+execution of apoptotic cell death [10]. to investigate
+the role of caspase in mg132-induced cell death, we
+tested if zvad-fmk (benzyloxycarbonyl-vad-ﬂuor-
+omethyl ketone), a potent pan-caspase inhibitor, was
+capable of inhibiting mg132-induced cell death. as
+shown in fig. 1, zvad-fmk (100 mm) partially
+inhibited mg132-induced cell death of mef (81.3 vs
+22.8% for 1 mm mg132, and 87.7 vs 44.5% for 10 mm
+mg132), and pc3 cells (76.1 vs 32.5%) (fig. 1c and
+d). this result indicates that both caspase-dependent
+and -independent pathways are activated by inhibition
+of the proteasome.
+2.2. gene expression proﬁle of mg132-treated pc3
+cells
+in an attempt to deﬁne the signaling pathway of
+mg132-induced cell death, we used oligonucleotide
+microarray analysis to examine the gene expression
+proﬁle of mg132-treated pc3 cells. to examine the
+immediate effect of mg132 treatment, we treated pc3
+cells with mg132 (1 and 10 mm) for 6 h when no
+apparent cell death was observed (data not shown). the
+gene expression proﬁle of treated cells was compared to
+the one of untreated cells using affymetrix u133a
+chipset that covers more than 30,000 human genes. in
+agreement with previous proﬁling studies, inhibition of
+the proteasome by mg132 elicited distinct changes in a
+number of signaling pathways [9,11]. according to
+reported gene functions, we categorized the genes
+whose expression displayed more than three-fold
+increase after mg132 treatment
+into a number of
+functional groups (table 1).
+2.2.1. heat shock proteins and co-chaperones
+heat shock response was one of the major responses
+to inhibition of the proteasome. as shown in table 1,
+most of chaperone protein families including hsp70,
+hsp40, hsp110 and hsp27, and chaperone-binding
+protein including bag3, and hsp90 co-chaperones
+(aha1 and chp-1), were up-regulated. heat shock
+response is also activated in bortezomib-treated mm
+cells, and is generally believed as a pro-survival
+mechanism [9].
+2.2.2. protein ubiquitination and ubiquitin-like proteins
+brap2 is a brca1-associated protein containing
+ubiquitin-like domains [12], while sequestosome 1
+(p62) is a polyubiquitin chain binding protein involved
+in ubiquitin/proteasome-mediated protein degradation
+[13]. highly induced by mg132, these two proteins are
+probably involved in protein ubiquitination and
+w. yang et al. / cancer letters 243 (2006) 217–227
+219
+fig. 1. mg132-induced cell death in both caspase-dependent and -independent manners. (a) sv40-transformed mefs were treated with
+mg132 (1 or 10 mm) for 24 h in the presence of either cycloheximide (chx, 1 mg/ml) or zvad-fmk (100 mm). (b) pc3 cells were treated
+with mg132 (1 mm) for 48 h in the presence of either cycloheximide (chx, 1 mg/ml) or zvad-fmk (100 mm). dna was stained with hoechst
+dye. (c) quantiﬁcation of mef cell death induced by mg132 by dna staining. (d) quantiﬁcation of pc3 cell death induced by mg132 by
+dna staining.
+220
+w. yang et al. / cancer letters 243 (2006) 217–227
+table 1
+gene expression proﬁling of mg132-treated pc3 cells by microarray analysis
+heat shock proteins and co-cheparones
+heat shcok protein hsp70b
+heat shock 70 kd protein 1a
+heat shock 70 kd protein 1b
+heat shock 105/110 kd protein 1
+heat shock protein apg-1
+heat shock protein apg-2
+heat shock protein 47
+dnaj (hsp40) homolog, subfamily b, member 1
+dnaj (hsp40) homolog, subfamily b, member 4
+dnaj (hsp40) homolog, subfamily b, member 6
+dnaj (hsp40) homolog, subfamily b, member 9
+heat shock 27 kd protein 1
+hsp70/hsp90-organizing protein
+stress 70 protein chaperone, microsome-associated
+aha1, activation of hsp90 atpase homolog 1
+chord domain-containing protein 1 (chp1)
+ubiquitously transcribed tetratricopeptide repeat gene, x chromosome
+protein ubiquitination and ubiquitin-like proteins
+gaba(a) receptor-associated protein like 1
+brca1-associated protein 2 (brap2)
+sequestosome 1
+homocysteine-inducible, er stress-inducible, ubiquitin-like domain member 1
+microtubule-associated proteins 1a1b light chain 3
+transcription/translation and dna metabolism
+activating transcription factor 3 (atf3)
+cardiac ankyrin repeat protein (carp)
+fork head-like protein (fkhrl1p2) or foxo3a
+lim domain only 4
+endothelial pas domain protein 1 (epas1)
+b-cell translocation gene 1, anti-proliferative (btg1)
+ccaat enhancer binding protein (cebp), gamma
+nuclear receptor interacting protein 1 (nrip1)
+rna polymerase iii transcription initiation factor
+eukaryotic translation initiation factor 5 (eif5)
+enhancer of zeste (drosophila) homolog 2 (ezh2)
+origin recognition complex, subunit 4 (yeast homolog)-like
+cdc6 (s. cerevisiae) homolog
+signaling factors and metabolic enzymes
+dual speciﬁcity phosphatase 1
+growth arrest and dna-damage-inducible 34
+growth arrest and dna-damage-inducible 45, beta
+serinethreonine kinase 17a (apoptosis-inducing)
+hif responsive rtp801
+cdc-like kinase 3 (clk3), transcript variant 3
+phosphatidylserine receptor
+cdc-like kinase1 (clk1)
+phosphate cytidylyltransferase 1, choline, alpha
+short-chain alcohol dehydrogenase hep27
+spermidine/spermine n1-acetyltransferase (sat)
+hxct mrna for cystine/glutamate exchanger
+glutamate–cysteine ligase, modiﬁer subunit (gclm)
+heme oxygenase (decycling) 1 (hmox1)
+rna (guanine-n7-) methyltransferase
+glutamic-oxaloacetic transaminase 1
+galactosidase, alpha (gla)
+calcium transport atpase atp2c1 (atp2c1)
+143.34
+22.49
+46.54
+15.50
+5.60
+3.05
+66.86
+27.68
+11.30
+4.33
+4.31
+4.00
+3.09
+3.08
+3.96
+4.74
+7.61
+14.03
+16.61
+22.80
+4.51
+3.13
+14.53
+5.80
+5.65
+5.55
+4.15
+3.40
+3.56
+3.42
+6.41
+3.35
+3.34
+3.12
+3.79
+8.83
+8.15
+6.51
+4.45
+4.06
+3.34
+3.27
+3.05
+10.77
+6.08
+5.49
+5.48
+4.51
+4.41
+4.14
+3.69
+3.25
+3.17
+(continued on next page)
+w. yang et al. / cancer letters 243 (2006) 217–227
+221
+table 1 (continued)
+growth factors/cytokines and receptors
+interleukin 8 (il8)
+similar to placental growth factor
+stanniocalcin 2
+testin
+beta-a inhibin
+epiregulin (ereg)
+interleukin 12a
+connective tissue growth factor (ctgf)
+pregnancy-induced growth inhibitor (okl38)
+interleukin 1 receptor-like 1 (il1rl1)
+diphtheria toxin receptor
+novel proteins with unknown functions
+hypothetical protein dkfzp761p1010
+uncharacterized hypothalamus protein ht013
+hypothetical protein flj12752
+kiaa0217
+hypothetical protein mgc4504
+hypothetical protein flj12750
+centrosomal protein of 76 kda (cep76)
+hypothetical protein flj10545
+hypothetical protein flj20060
+11.77
+9.61
+9.57
+5.92
+5.52
+5.50
+3.99
+3.68
+3.11
+9.35
+3.74
+9.50
+6.52
+4.11
+4.00
+3.89
+3.59
+3.15
+3.11
+3.10
+up-regulation of the genes induced by mg132 treatment. pc3 cells were treated with mg132 (1 mm or 10 mm) for 6 h. the gene expression proﬁle
+was characterized by microarray analysis using affymetrix u133 chip sets. the control was untreated pc3 cells. the data were the average of three
+independent experiments. the table showed the genes with more than threefold increased expression by mg132 (10 mm) treatment. similar groups
+of genes were induced to less extent by lower concentration of mg132 (1 mm) (our unpublished data).
+degradation. interestingly, a few ubiquitin-like proteins
+including gaba(a) receptor-associated protein like 1
+(gabarap1) and microtubule-associated protein
+1-light chain 3 (map1-lc3) were also up-regulated,
+indicating that other protein modiﬁcations mediated by
+ubiquitin-like proteins may occur.
+2.2.3. proteins involved in regulation of transcription
+and translation
+our data showed that a number of proteins involved
+in regulation of transcription and translation were up-
+regulated by mg132 treatment (table 1). atf3
+(activation transcription factor 3) was identiﬁed as
+one of the early transcription factors induced by
+proteasome inhibition [11]. fork head-like protein
+foxo3a is a transcription factor involved in multiple
+signaling pathways including apoptosis [14]. endo-
+thelial pas domain protein (epas1) is also known as
+hypoxia-inducible factor 2a, which plays a role in stress
+response and angiogenesis [15]. eif5 (eukaryotic
+initiation factor 5) was identiﬁed by proteomic analysis
+as a protein that accumulates during inhibition of the
+proteasome and plays an important role in apoptosis
+induced by proteasome inhibitors [16]. transcriptional
+up-regulation of eif5 may be one of the mechanisms
+for eif5 accumulation upon proteasome inhibition.
+2.2.4. signaling molecules and metabolic enzymes
+apoptosis-inducing kinase 17a (also know as
+stk17a or dap kinase-related apoptosis-inducing
+protein kinase 1 or drak1) [17] and phosphatase 1
+were up-regulated by mg132 treatment. mg132 also
+increased the transcription of gadd34 and gadd45b
+that mediate growth arrest and apoptosis induced by
+uv radiation and chemotherapy [18,19]. interestingly,
+a number of metabolic enzymes involving in regulation
+of amino acid metabolism and oxidative stress,
+including xct (cystine/glutamate transporter), gclm
+(glutamate–cysteine ligase, modiﬁer subunit), hmox1
+(heme oxygenase 1) and got1 (glutamic-oxaloacetic
+transaminase 1), were induced upon mg132 treatment,
+indicating the induction of oxidative stress upon
+proteasome inhibition.
+2.2.5. growth factors and cytokines
+surprisingly, pro-inﬂammatory cytokines such as
+il-8 and il-12 whose expression is normally nf-kb-
+dependent were also up-regulated in mg132-treated
+pc3 cells, indicating that nf-kb-independent path-
+ways may exist to regulate the transcription of these
+cytokines. mg132 treatment increased expression of
+stanniocalin 2, the mammalian homolog of a calcium-
+and phosphate-regulating hormone ﬁrst identiﬁed in
+222
+w. yang et al. / cancer letters 243 (2006) 217–227
+ﬁsh. it was reported that expression of stanniocalin 2
+was rapidly up-regulated as a cytoprotective signal in
+response to unfolded proteins, oxidative stress and
+hypoxia in neuronal cells [20]. in contrast, inhibin
+(activin a),
+testin and epiregulin may inhibit cell
+proliferation and induce apoptosis [21–23].
+stress (induced by inhibitor of protein glycosylation
+tunicamycin) (fig. 2a). furthermore, overexpression
+of these genes induced cell death of pc3 cells (fig. 2b).
+this result
+increased expression of
+multiple pro-death genes may contribute to mg132-
+induced cell death.
+indicates that
+2.3. overexpression of pro-death genes induced cell
+death of pc3 cells
+among the genes up-regulated by mg132 treatment,
+a number of them are implicated in regulation of cell
+death. we selected ﬁve death-relevant genes to test
+whether increased expression of these genes could
+induce cell death of pc3 cells. gadd45b and
+gadd34 are involved in growth arrest and apoptosis
+induced by genotoxic stress [18,19], while foxo3a is a
+member of fork-head transcript factor family that play a
+critical role in regulating the transcription of fas ligand
+[24] and pro-apoptotic bcl-2 member bim [25,26].
+stk17a, also know as drak1 (dap kinase-related
+apoptosis-inducing protein kinase 1), is a member of
+dap (death-associated protein) kinase family [20].
+ectopic expression of stk17a led to apoptosis in nih
+3t3 and cos-7 cells [20]. rtp801 is an hif-1
+responsive gene that is strongly induced by hypoxia,
+and is involved in regulation of apoptosis [27]. as
+shown in fig. 2a, we conﬁrmed the induction of these
+genes by mg132 treatment using rt-pcr and northern
+blotting (data not shown). interestingly, these genes
+were also up-regulated by genotoxic stress (induced by
+dna topoisomerase ii inhibitor etoposide) and er
+2.4. mg132-induced autophagic cell death of pc3 cells
+autophagic cell death is a different form of cell death
+from apoptosis, and is characterized by appearance of
+autophagic vesicles and degradation of cytoplasmic
+components and organelles [28]. autophagy involves
+the formation of autophagic vesicles and fusion of the
+vesicles with lysosomes for ﬁnal degradation of their
+content. genetic studies in yeast have demonstrated the
+involvement of ubiquitin-like conjugation systems in
+autophagic vesicle formation [28]. yeast apg12 (newly
+named atg12) and apg8 (atg8), two ubiquitin-like
+proteins, are activated by an e1-like enzyme apg7
+(atg7) and transferred to apg5 (atg5) or lipid
+membrane, respectively. formation of apg12 and
+apg8-modiﬁed complexes are essential for membrane
+elongation of autophagosomes. apg6 (atg6 or beclin
+1) is a component of phosphatidylinositol 3-kinase
+complex, while apg10 (atg10) is an e2-like enzyme
+for apg12/apg5 conjugation. as shown in table 1,
+microtubule-associated protein 1-light chain 3 (map1-
+lc3), a homolog of yeast autophagy gene apg8, was up-
+regulated by mg132 treatment, indicating that inhibition
+of the proteasome may induce autophagy. interestingly,
+our gene proﬁling data showed that expression of other
+fig. 2. representatives of mg132-up-regulated pro-death genes. (a) rt-pcr analysis of mg132-induced gene expression. pc3 cells were
+untreated (1) or treated with 10 mm mg132 for 6 h (2), 50 mm etoposide for 14 h (3) or 1 mm tunicamycin for 14 h (4). (b) overexpression of
+mg132-up-regulated genes induced apoptosis of pc3 cells. pc3 cells were transiently transfected with the constructs expressing indicated genes
+along with egfp marker. after 24-incubation, cells were collected and cell death was scored by dna staining of gfp positive cells. cells with
+condensed dna were counted as dead cells.
+w. yang et al. / cancer letters 243 (2006) 217–227
+223
+fig. 3. mg132-induced autophagic cell death of pc3 cells. (a) up-regulation of the autophagy genes induced by mg132. pc3 cells were treated
+with mg132 (1 or 10 mm) for 6 h. the expression of representative autophagy genes was analyzed by rt-pcr. (b) inhibitor of autophagy 3-ma
+partially inhibited mg132-induced cell death of pc3 cells. pc3 cells were treated with mg132 (1 mm) for 48 h in the absence or presence of 3-ma
+(3-methyladenine, 5 mm), and then stained with hoechst dye. (c) quantiﬁcation of cell death scored by dna staining. cells with condensed dna
+were scored as dead cells.
+autophagy-related genes was also elevated by mg132,
+including atg12 (1.81-fold increase), atg7 (1.24-fold)
+and atg5 (1.47-fold). we further examined the
+expression proﬁle of these autophagy-related genes by
+rt-pcr. as shown in fig. 3a, expression of map1-
+lc3, atg7 and atg12 was increased upon mg132
+treatment, while atg5, atg6 (beclin 1) and atg10
+remained relatively unchanged. this result conﬁrmed that
+both ubiquitin-like proteins lc3 and atg12 were up-
+regulated by proteasome inhibition. to determine if
+autophagic cell death is involved in mg132-induced cell
+death, we examined if 3-methyladenine (3-ma), an
+inhibitor of phosphatidylinositol kinases and autophagy,
+inhibited mg132-induced cell death. as shown in fig. 3b
+and c, 3-ma (5 mm) partially but signiﬁcantly inhibited
+mg132-induced cell death, indicating that autophagic
+cell death may contribute in part to mg132-induced cell
+death.
+2.5. ultrastructure of mg132-treated pc3 cells in the
+presence of caspase inhibitor
+we further performed transmission electron micro-
+scopic analysis to examine the intracellular changes
+224
+w. yang et al. / cancer letters 243 (2006) 217–227
+fig. 4. electron microscopic analysis of mg132-treated cells in the presence of zvad-fmk. pc3 cells were treated with mg132 (10 mm) in the
+presence of zvad-fmk (100 mm) for 14 h. cells were ﬁxed and analyzed by electronic microscopy. panel a, control pc3 cells; panel b, pc3 cells
+treated with mg132; panel c, mitochondrial change induced by mg132 treatment; panel d, electron-dense structures (aggregates) induced by
+mg132; panels e and f, nuclear aggregates in mg132-treated pc3 cells, marked by arrowheads.
+induced by mg132 treatment in the presence of caspase
+inhibitor zvad. as shown in fig. 4a (panels a and b),
+mg132-treated cells showed distorted nuclei with
+partially condensed chromatin, whereas untreated cells
+displayed normal nuclear and cytoplasmic morphology
+with few lysosomes. additionally, the electron-dense
+structures were observed in both cytoplasm and nucleus
+of nearly every treated cell (fig. 4, panels b–g), while
+most of mitochondria lost their intermembrane space
+and distinguishable cristae structures (fig. 4, panel c).
+higher magniﬁcation pictures showed that most of the
+electron-dense spots aggregated together with surround-
+ing membranes, which may form autophagosomes
+(panel d). interestingly, the electron-dense structures
+with various morphologies were also observed in nuclei
+(fig. 4, panels e–g). in contrast to the cytoplasmic
+structures,
+the nuclear ones were not encircled by
+membranes.
+3. discussion
+the ubiquitin–proteasome pathway is a novel thera-
+peutic target for cancer treatment. newly developed
+proteasome inhibitors have been potent anti-cancer
+agents for various cancers, yet their underlying molecular
+mechanism remains to be elucidated. we report here the
+gene proﬁling study on prostate cancer pc3 cells treated
+with proteasome inhibitor mg132. our data indicate that
+both pro-and anti-cell death pathways are up-regulated by
+proteasome inhibitor mg132 in prostate cancer pc3 cells.
+in agreement with previous studies [9,11], our microarray
+analysis demonstrated that up-regulation of heat shock
+proteins (hsp), including hsp70, hsp40, hsp110 families,
+hsp27 and certain co-chaperones, was the most
+pronounced response to mg132 treatment. stress-
+induced up-regulation of heat shock proteins is generally
+believed to confer a protective effect against proteasome
+inhibition [9]. therefore,
+inhibition of heat shock
+response may sensitize cancer cells to proteasome
+inhibitors.
+expression of some enzymes that are involved in
+anti-oxidative response, including sat, gclm, was
+also increased in the presence of mg132. proteasome
+inhibitor bortezomib was reported to induce reactive
+oxygen species (ros) generation in various cancer
+cells such as non-small cell lung cancer cells, leukemia
+cells and head and neck squamous cell carcinoma cells
+[29–31]. ros was implicated to be the primary cause
+for bortezomib-induced apoptosis of those cells [29–
+31]. our study suggests that up-regulation of anti-
+oxidative enzymes may be a cellular self-protective
+mechanism in response to proteasome inhibition.
+therefore, suppression of the cellular anti-oxidative
+mechanism may enhance the anti-cancer activity of
+w. yang et al. / cancer letters 243 (2006) 217–227
+225
+proteasome inhibitors. on the other hand, anti-oxidant
+agents may protect cells from proteasome inhibitor-
+induced cell death.
+proteasome inhibition by mg132 also triggers
+multiple pathways that are involved in regulation of
+cell death. inhibition of proteasome-mediated protein
+degradation may result in the accumulation of unfolded
+proteins that
+leads to activation of the so-called
+unfolded protein response (upr) and up-regulation of
+atf4 and gadd34 [32]. gadd45b is involved in
+regulation of cell cycle and cell death in response to
+cellular stresses such as dna damage [19]. further-
+more, up-regulation of transcription factor fkhrl1/
+foxo3a may lead to the increased expression of its
+downstream pro-apoptotic targets such as fas ligand
+and bim [24,26]. interestingly,
+transcription of a
+number of cytokines is also elevated in response to
+mg132, which may confer both pro- and anti-apoptotic
+activities. for example, stanniocalcin 2 is a calcium-
+and phosphate-regulating hormone that is induced by
+unfolded protein response and oxidative stress. over-
+expression of stanniocalcin 2 renders n2a and hela
+cells resistant
+to thapsigargin-induced cell death,
+indicating its cytoprotective activity [20]. in contrast,
+testin, epiregulin, pregnancy-induced growth inhibitor
+and inhibin were reported to inhibit cell proliferation or
+promote apoptosis [21–23]. taken together, our result
+suggests that multiple cytotoxic and cytoprotective
+pathways are induced and up-regulated in the presence
+of proteasome inhibition, and the fate of cells with
+defective protein degradation machinery may be
+determined by a network of multiple pathways.
+additionally, a few ubiquitin-like proteins, such as
+gaba(a) receptor-associated protein like 1 and
+microtubule-associated protein 1-light chain 3
+(map1-lc3), are also up-regulated, indicating that
+protein modiﬁcation by ubiquitin-like molecules may
+be elevated when the proteasome is inhibited.
+autophagy is a mechanism by which both yeast and
+mammalian cells degrade and recycle cytoplasmic
+components. autophagic cell death is an alternative
+form of programmed cell death that utilizes the cellular
+autophagic apparatus. map1-lc3 is the mammalian
+homolog of yeast autophagy protein apg8 (atg8) that
+is involved in the modiﬁcation of autophagosomal
+membrane and the formation of autophagosome [33].
+our microarray and rt-pcr data indicate that lc3 and
+atg12, two ubiquitin-like proteins, are up-regulated
+by proteasome inhibition. atg7, an e1-like enzyme
+for lc3 and atg12,
+is also induced by mg132
+treatment. moreover, mg132-induced cell death is
+partially inhibited by autophagy inhibitor 3-ma. these
+observations suggest that autophagic cell death may
+contribute in part to the cytotoxicity of mg132 in pc3
+cells. it was reported that inhibition of the tor pathway
+led to transcriptional up-regulation of yeast apg8 gene
+[34]. nonetheless, whether autophagy genes are up-
+regulated during other autophagic cell deaths remains
+to be further investigated.
+interestingly, two distinct subcellular morphological
+changes have been observed in the presence of
+proteasome and caspase inhibitor. first,
+the inner
+space and cristae structures of mitochondria were
+eliminated in the presence of mg132 (fig. 4, panel c).
+in contrast, the outer mitochondrial membrane often
+ruptures in apoptotic cell death [35]. further study will
+determine the cause and functional consequence of these
+mitochondrial changes. second,
+the electron-dense
+structures were observed in both cytoplasm and nucleus,
+but the nuclear ones were not surrounded by membrane
+(fig. 4). the cytoplasmic electron-dense structures may
+include previously described aggresomes or inclusion
+bodies [36], whereas the physiological nature of nuclear
+aggregates remains to be further elucidated. it is of great
+interest to further explore the molecular mechanism
+underlying the correlation between the formation of
+aggregates and cell death.
+4. methods
+4.1. tissue culture and agents
+prostate cell line pc3 was obtained from atcc and
+maintained in rpmi1640 supplemented with 10% fetal
+bovine serum and antibiotics. sv40-transformed mouse
+embryonic ﬁbroblasts (mef, a kind gift of dr stanley
+korsmeyer) were cultured in dmem supplement with
+10% calf serum. proteasome inhibitor mg132 (carbo-
+benzoxy-l-leucyle-l-leucyl-l-leucinal) was purchased
+from calbiochem. cycloheximide and 3-methyla-
+denine were purchased from sigma.
+4.2. transfection and cell death assays
+cells were treated with mg132 in the presence of
+cycloheximide or 3-methyadenine for indicated periods
+of time. dna dye (hoescht 32258) was added into the
+medium, and dead cells were scored by condensed and
+bright nuclei. to examine the function of speciﬁc
+genes, various genes were co-transfected into pc3 cells
+along with egfp marker using lipofectamine 2000
+(invitrogen). after 24-h transfection, the percentage of
+cell death was scored by dna staining of gfp positive
+cells. cells with condensed dna were scored as dead
+226
+w. yang et al. / cancer letters 243 (2006) 217–227
+cells, while cells with normal nuclei were scored as live
+cells.
+4.3. affymetrix chip hybridization and analysis
+after treatment of cells with mg132, total rna was
+extracted using trizol (life technologies inc.),
+following the manufacture’s instructions, and further
+puriﬁed with rneasy mini columns (qiagen). the ﬁrst
+strand of cdna was synthesized using superscript
+choice system (invitrogen) using t7-(oligo-dt)24
+primer according to the manufacturer’s protocol. an
+in vitro transcription reaction was performed using the
+enzo bioarray high yield rna transcript labeling
+kit (enzo) to synthesize biotin-labeled crna that was
+further puriﬁed and fragmented. hybridization, wash-
+ing, staining and scanning was performed according to
+affymetrix’s procedure. human u133a chipsets were
+used for proﬁling. staining was done in the genechip
+fluidics station using pre-programmed affymetrix
+protocols. the probed arrays were scanned in the
+affymetrix genechip scanner. the data were collected
+and analyzed with microsoft excel. three independent
+experiments were performed, and the average of three
+samples was used for calculation of changes of gene
+expression.
+4.4. rt-pcr and primers used in this study
+total rna of each treatment was extracted
+by trizol reagent (invitrogen) following manufac-
+turer’s protocol. for reverse transcription, 4 mg of
+total rna was transcribed by superscript first-
+strand synthesis system (invitrogen) for rt-pcr.
+pcr reaction included using 2 ml of complementary
+dna with 0.2 mm dntp mix, 2 mm mgcl2, 10!
+pcr buffer. one unit taq polymerase, and 100 mm
+primers. the pcr reaction was performed as
+follow: 94 8c (1 min), 55 8c (1.5 min) and 72 8c
+(0.5 min) for 30 cycles for all of genes except actin
+(25 cycles for actin control). the following is the
+primers used for rt-pcr of indicated genes:
+rtp801: 5
+and 5
+-ctcaccatgcctagcctttgg-
+-cctcaggttgaagttcaacac
+, 690 bp product
+gadd34: 5
+-ggctggtggaagcagtaaaa
+-ttatcagaaggctgggagacagg-
+and 5
+gac-3
+tcc-3
+gg-3
+, 312 bp product
+stk17a: 5
+and 5
+, 312 bp product
+tg-3
+-tgacaagtgaatctccattggg
+-tgaaatcaacagccgactcagac-
+-atgacgctggaagagctcg
+-tcagcgttcctg aagagaga
+gadd45b:
+tggc-3
+tgta-3
+and 5
+, 486 bp product
+fox03a: 5
+and 5
+-tgatgggctgactgaaaacctc-
+-ggagcaagttctgattgaccaaac-3
+-cagtttgacgagacagc-
+-ttttcttcctggagcctcagc-
+-gctcgtcgtcgacaacggctc-3
+-caaacatgatctgggtcatcttctc-3
+467 bp product
+dkfzp566:
+caagc-3
+and 5
+, 338 bp product
+actin:
+and 5
+353 bp product
+map-lc3: 5
+-gaagatgtccgacttattcga-
+gag-3
+and 5
+-actctcatacacc
+tctgagattgg-3
+atg5: 5
+and 5
+-gcatcaagttcagctcttccttgg-
+-gatgttcactcagccactgcagagg-
+, 352 bp product
+, 478 bp product
+atg6 (beclin 1): 5
+catccagg-3
+cagctgg-3
+, 363 bp product
+-atcctggaccgtgtcac-
+-gttgagctgagtgtc-
+and 5
+atg7: 5
+and 5
+-atggtgaacctcagtgaatgtatg-
+-agtgacactggagaagttcactgg-3
+405 bp product
+atg10: 5
+-acatctaggagcatctacccat
+and 5
+-agaattctttaatacaggagtc
+, 377 bp product
+gg-3
+atg-3
+atg12:
+and 5
+-tcagtcgctacttccgctctc-
+-aaacaatgttctgaggccaca
+gag-3
+ag-3
+, 340 bp product
+4.5. electron microscopy
+cells were ﬁxed with 2.5% glutaraldehyde in 0.1 m
+sodium phosphate buffer, ph 7.4 at 4 8c for 30 min.
+cells were then scraped from the tissue culture dish and
+harvested by centrifugation at 3000 rpm for 10 min.
+the cell pellet was further ﬁxed in 2.5% glutaraldehyde
+for 2 h, and post-ﬁxed with 1% osmium tetroxide for
+2 h. the cell pellet was dehydrated in a series of alcohol
+washes and embedded in epon. ultrathin sections were
+stained with uranyl acetate and lead citrate, and pictures
+were taken by a zeiss 900 electron microscope.
+acknowledgements
+the authors thank dr yi tang for his expertise on
+electron microscopy. the project was supported by
+illinois public health and children’s memorial
+research center.
+w. yang et al. / cancer letters 243 (2006) 217–227
+227
+references
+[1] o. coux, k. tanaka, a.l. goldberg, structure and functions of
+the 20s and 26s proteasomes, annu. rev. biochem. 65 (1996)
+801–847.
+[2] r.z. orlowski, the role of the ubiquitin-proteasome pathway in
+apoptosis, cell death differ. 6 (1999) 303–313.
+[3] j.b. almond, g.m. cohen, the proteasome: a novel target for
+cancer chemotherapy, leukemia 16 (2002) 433–443.
+[4] p.m. voorhees, e.c. dees, b. o’neil, r.z. orlowski, the
+proteasome as a target for cancer therapy, clin. cancer res. 9
+(2003) 6316–6325.
+[5] j. adams, v.j. palombella, e.a. sausville, j. johnson, a. destree,
+d.d. lazarus, et al., proteasome inhibitors: a novel class of potent
+and effective antitumor agents, cancer res. 59 (1999) 2615–2622.
+[6] s.v. rajkumar, p.g. richardson, t. hideshima, k.c. anderson,
+proteasome inhibition as a novel therapeutic target in human
+cancer, j. clin. oncol. 23 (2005) 630–639.
+[7] m. karin, y. ben-neriah, phosphorylation meets ubiquitination:
+the control of nf-[kappa]b activity, annu. rev. immunol. 18
+(2000) 621–663.
+[8] t. hideshima, d. chauhan, r. schlossman, p. richardson,
+k.c. anderson, the role of tumor necrosis factor alpha in the
+pathophysiology of human multiple myeloma:
+therapeutic
+applications, oncogene 20 (2001) 4519–4527.
+[9] n. mitsiades, c.s. mitsiades, v. poulaki, d. chauhan,
+g. fanourakis, x. gu, et al., molecular sequelae of proteasome
+inhibition in human multiple myeloma cells, proc. natl acad.
+sci. usa 99 (2002) 14374–14379.
+[10] v. cryns, j. yuan, proteases to die for, genes dev. 12 (1998)
+1551–1570.
+[11] j. zimmermann, d. erdmann, i. lalande, r. grossenbacher,
+m. noorani, p. furst, proteasome inhibitor induced gene
+expression proﬁles reveal overexpression of transcriptional
+regulators atf3, gadd153 and mad1, oncogene 19 (2000)
+2913–2920.
+[12] s. li, c.y. ku, a.a. farmer, y.s. cong, c.f. chen, w.h. lee,
+identiﬁcation of a novel cytoplasmic protein that speciﬁcally
+binds to nuclear localization signal motifs, j. biol. chem. 273
+(1998) 6183–6189.
+[13] j. shin, p62 and the sequestosome, a novel mechanism for
+protein metabolism, arch. pharm. res. 21 (1998) 629–633.
+[14] d. accili, k.c. arden, foxos at the crossroads of cellular
+metabolism, differentiation, and transformation, cell 117 (2004)
+421–426.
+[15] m. scortegagna, m.a. morris, y. oktay, m. bennett, j.a. garcia,
+the hif family member epas1/hif-2alpha is required for normal
+hematopoiesis in mice, blood 102 (2003) 1634–1640.
+[16] b.f. jin, k. he, h.x. wang, j. wang, t. zhou, y. lan, et al.,
+proteomic analysis of ubiquitin-proteasome effects: insight into
+the function of eukaryotic initiation factor 5a, oncogene 22
+(2003) 4819–4830.
+[17] h. sanjo, t. kawai, s. akira, draks, novel serine/threonine
+kinases related to death-associated protein kinase that trigger
+apoptosis, j. biol. chem. 273 (1998) 29066–29071.
+[18] m.c. hollander, q. zhan, i. bae, a.j. fornace jr., mammalian
+gadd34, an apoptosis- and dna damage-inducible gene,
+j. biol. chem. 272 (1997) 13731–13737.
+[19] s.k. mak, d. kultz, gadd45 proteins induce g2/m arrest and
+modulate apoptosis in kidney cells exposed to hyperosmotic
+stress, j. biol. chem. 279 (2004) 39075–39084.
+[20] d. ito, j.r. walker, c.s. thompson, i. moroz, w. lin,
+m.l. veselits, et al., characterization of stanniocalcin 2, a
+novel target of the mammalian unfolded protein response with
+cytoprotective properties, mol. cell biol. 24 (2004) 9456–9469.
+[21] w. chen, t.k. woodruff, k.e. mayo, activin a-induced
+hepg2 liver cell apoptosis: involvement of activin receptors
+and smad proteins, endocrinology 141 (2000) 1263–1272.
+[22] q.s. xi, w. pan, q. zhang, x.g. qian, z.p. li, r.b. gan, on the
+mechanism of growth inhibition of epiregulin in a431
+epidermal carcinoma cells, sheng wu hua xue yu sheng wu
+wu li xue bao (shanghai) 32 (2000) 601–604.
+[23] m. sarti, c. sevignani, g.a. calin, r. aqeilan, m. shimizu,
+f. pentimalli, et al., adenoviral transduction of testin gene
+into breast and uterine cancer cell lines promotes apoptosis and
+tumor reduction in vivo, clin. cancer res. 11 (2005) 806–813.
+[24] c. barthelemy, c.e. henderson, b. pettmann, foxo3a induces
+motoneuron death through the fas pathway in cooperation with
+jnk, bmc neurosci. 5 (2004) 48.
+[25] j. gilley, p.j. coffer, j. ham, foxo transcription factors
+directly activate bim gene expression and promote apoptosis in
+sympathetic neurons, j. cell biol. 162 (2003) 613–622.
+[26] a. sunters, s. fernandez de mattos, m. stahl, j.j. brosens,
+g. zoumpoulidou, c.a. saunders, et al., foxo3a transcriptional
+regulation of bim controls apoptosis in paclitaxel-treated breast
+cancer cell lines, j. biol. chem. 278 (2003) 49795–49805.
+[27] t. shoshani, a. faerman,
+i. mett, e. zelin, t. tenne,
+s. gorodin, et al., identiﬁcation of a novel hypoxia-inducible
+factor 1-responsive gene, rtp801, involved in apoptosis, mol.
+cell biol. 22 (2002) 2283–2293.
+[28] d. gozuacik, a. kimchi, autophagy as a cell death and tumor
+suppressor mechanism, oncogene 23 (2004) 2891–2906.
+[29] y.h. ling, l. liebes, y. zou, r. perez-soler, reactive oxygen
+species generation and mitochondrial dysfunction in the
+apoptotic response to bortezomib, a novel proteasome inhibitor,
+in human h460 non-small cell lung cancer cells, j. biol. chem.
+278 (2003) 33714–33723.
+[30] c. yu, m. rahmani, p. dent, s. grant, the hierarchical relation-
+ship between mapk signaling and ros generation in human
+leukemia cells undergoing apoptosis in response to the proteasome
+inhibitor bortezomib, exp. cell res. 295 (2004) 555–566.
+[31] a. fribley, q. zeng, c.y. wang, proteasome inhibitor ps-341
+induces apoptosis through induction of endoplasmic reticulum
+stress-reactive oxygen species in head and neck squamous cell
+carcinoma cells, mol. cell biol. 24 (2004) 9695–9704.
+[32] y. ma, l.m. hendershot, herp is dually regulated by both the
+endoplasmic reticulum stress-speciﬁc branch of the unfolded
+protein response and a branch that is shared with other cellular
+stress pathways, j. biol. chem. 279 (2004) 13792–13799.
+[33] y. kabeya, n. mizushima, t. ueno, a. yamamoto, t. kirisako,
+t. noda, et al., lc3, a mammalian homologue of yeast apg8p,
+is localized in autophagosome membranes after processing, eur.
+mol. biol. org. j. 19 (2000) 5720–5728.
+[34] t. kirisako, m. baba, n. ishihara, k. miyazawa, m. ohsumi,
+t. yoshimori, et al., formation process of autophagosome is traced
+with apg8/aut7p in yeast, j. cell biol. 147 (1999) 435–446.
+[35] m.g. vander heiden, n.s. chandel, e.k. williamson,
+p.t. schumacker, c.b. thompson, bcl-xl regulates
+the
+membrane potential and volume homeostasis of mitochondria,
+cell 91 (1997) 627–637.
+[36] j.a. johnston, c.l. ward, r.r. kopito, aggresomes: a cellular
+response to misfolded proteins, j. cell biol. 143 (1998) 1883–
+1898.

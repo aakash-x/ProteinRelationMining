@@ -1,0 +1,352 @@
+marine environmental research 62 (2006) s433–s438
+www.elsevier.com/locate/marenvrev
+marine
+environmental
+research
+short communication
+lysosomal responses to nutritional and
+contaminant stress in mussel hepatopancreatic
+digestive cells: a modelling study
+allan mcveigh a,b,*, michael moore a, j. icarus allen a, phil dyke b,c
+a plymouth marine laboratory, prospect place, the hoe, plymouth pl1 3dh, uk
+b university of plymouth, school of mathematics & statistics, drake circus, plymouth pl4 8aa, uk
+c university of plymouth, school of computing, communications & electronics, drake circus,
+plymouth pl4 8aa, uk
+abstract
+the lysosomal system occupies a central and crucial role in cellular food degradation (intracellu-
+lar digestion), toxic responses and internal turnover (autophagy) of the hepatopancreatic digestive
+cell of the blue mussel mytilus edulis. understanding the dynamic response of this system requires
+factors aﬀecting performance, conceived as a function of the throughput, degradative eﬃciency
+and lysosomal membrane stability, to be deﬁned and quantiﬁed. a previous carbon/nitrogen ﬂux
+model has been augmented by separately identifying lysosomal ‘target’ material (autophagocytosed
+or endocytosed proteins, carbohydrates and lipids) and ‘internal’ material (digestive enzymes and
+lipid membrane components). additionally, the whole cell’s energetic costs for maintaining lyso-
+somal ph and production of these internal components have been incorporated, as has the poten-
+tially harmful eﬀect of generation of lipofuscin on the transitory and semi-permanent lysosomal
+constituents. inclusion of the three classes of nutrient organic compounds at the whole cell level
+allows for greater range in the simulated response, including deamination of amino acids to provide
+molecules as a source of energy, as well as controlling nitrogen and carbon concentrations in the
+cytosol. coupled with a more functional framework of pollutant driven reactive oxygen species
+(ros) production and antioxidant defence, the separate and combined eﬀects of three stressors
+(nutritional quality, nutrient quantity and a polycyclic aromatic hydrocarbon [pah-phenanthrene])
+on the digestive cell are simulated and compare favourably with real data.
+ó 2006 elsevier ltd. all rights reserved.
+* corresponding author.
+e-mail address: almv@pml.ac.uk (a. mcveigh).
+0141-1136/$ - see front matter ó 2006 elsevier ltd. all rights reserved.
+doi:10.1016/j.marenvres.2006.04.021
+s434
+a. mcveigh et al. / marine environmental research 62 (2006) s433–s438
+keywords: cellular model; lysosomes; environmental prognostics; starvation-induced autophagy; nutritional
+stress
+interactive cellular responses to combinations of stress often give rise to surprising
+emergent properties. modelling facilitates the integration of separately observed responses
+into whole system behaviour. additionally, the rigour involved in constructing a mathe-
+matically conserved system highlights gaps in current knowledge, enabling the focusing
+of future experimentation. this paper describes recent eﬀorts to simulate the behaviour
+of a marine mussel (mytilus edulis) hepatopancreatic digestive cell, both throughout an
+annual cycle, and in a short-term exposure experiment designed to simulate the apparent
+protective properties of short-term starvation induced autophagy against pah toxicity.
+previous attempts to simulate digestive cell behaviour by carbon/nitrogen compartment
+based models (moore and allen, 2002; mcveigh et al., 2004) have now been superseded by
+modelling the pathways of the three classes of nutrient organic compounds (lipid, protein
+and carbohydrates) and their subunits. the reason for this change was to allow for a more
+realistic simulation of the lysosomal degradative capability, considered central to the
+healthy functioning of the cell. the lysosomal compartment is now typiﬁed by three fea-
+tures: amount of ‘target’ (endocytosed and autophagocytosed) material, lysosomal degra-
+dative capacity (based on lysosomal digestive enzyme concentration) and membrane lipid
+content (to reﬂect lysosomal stability). a throughput of successfully degraded material is
+then determined based on the state of these three variables.
+further enhancements to the previous model include: (1) an integrated control strategy
+whereby cellular volume is controlled by the availability of amino acids (for protein syn-
+thesis), lipid (for membrane components) and appropriate energy stores together dictating
+the rates of excretion, deamination, protein synthesis, glycogen storage and release; (2) the
+respiration rate is now determined by a cellular activity function incorporating processes
+such as food uptake, endosome and lysosome ph maintenance, protein synthesis and anti-
+oxidant defences; (3) damage to internal viable components in all three compartments
+dependent on reactive oxygen species (ros) concentrations; from which basal autophagy
+rates are determined and augmented by nutritional stress; (4) a new toxicity model which
+provokes enhanced ros generation linearly according to both concentration and toxicity
+of pollutant (allen and mcveigh, 2004); and (5) a three phase digestive tubule temporal
+system, based on langton (1975) without the reconstituting phase, and a theoretical–sto-
+chastic–physical endocytosis rate incorporated to better simulate daily and tidal cycle
+dependent nutrient uptake.
+the eﬀectiveness of these modiﬁcations stimulated further inclusions and consider-
+ations such as: a system of endosomal and lysosomal lipid and degradative enzyme replen-
+ishment; antioxidant defences with consideration of cost to the cell; loss kinetics of
+pollutants are taken into account in order to simulate concentrations; and incorporation
+of residual bodies into cytosol compartment between the beginning of the holding phase
+through the feeding phase until expulsion during the disintegrating phase. a paper
+describing the redesigned model in detail is in preparation (see fig. 1).
+the ﬁrst validation test of the model was a simulation of an annual cycle by providing a
+seasonal food pattern in terms of availability and quality. the simulation is compared with
+observed seasonal data for the biochemical composition of the non-mantle tissues (gabbott
+and bayne, 1973) in fig. 2(a–d). starting after the spawning period in the spring and early
+a. mcveigh et al. / marine environmental research 62 (2006) s433–s438
+s435
+food 
+(particulate 
+carbon and 
+nitrogen) 
+krec 
+kend 
+cytoplasm 
+kr 
+endosome 
+pollutants 
+klys 
+kde
+respiration
+secretion
+excretion
+export
+ks 
+kx 
+ke 
+cell and 
+protein 
+turnover 
+kaut 
+lysosome
+kdi ff
+glycogen 
+store
+kexo
+exocytosed 
+waste 
+kend 
+krec 
+klys 
+kaut 
+kdeg 
+kexo 
+kres 
+ksec 
+kexc 
+kexp 
+kdiff 
+rate of endocytosis 
+rate of  recycling 
+rate of  traffic to lysosome 
+rate of autophagy 
+rate of degradation 
+rate of exocytosis 
+rate of cellular respiration 
+rate of secretion 
+rate of excretion 
+rate of export 
+rate of diffusion 
+6.7×10-17 – 2.0×10-15  litres/sec 
+0.0 – 1.65×10-15 litres/sec 
+0.0 – 3.5×10-16 litres/sec 
+1.7×10-16  – 1.2×10-15 litres/sec 
+1.0×10-16 – 1.0×10-15 litres/sec 
+1.0×10-16 – 1.0×10-15 litres/sec 
+0.0 – 2.0×10-17 litres/sec 
+1.4×10-19 – 2.8×10-18 litres/sec 
+1.25 ×10-18 – 4.0×10-18 litres/sec 
+0.0 – 6.0×10-16 litres/sec 
+0.0 – 7.5×10-16 litres/sec 
+fig. 1. conceptual model schematic and glossary showing the basic compartmental system and pathways.
+summer when the mussel is at its poorest energetic state, there is a period of high food avail-
+ability and quality resulting in the rapid increase in dry weight and energy stores; with the
+deterioration in food over the autumn and winter the glycogen reserves are initially utilised
+until a threshold is met, thereafter protein becomes the main energy reserve. the simulated
+total cellular, carbon and protein dry weights all show fairly good accordance with the
+trends observed. lipid behaviour has however proved more troublesome: the model has
+an inferior degradative ability for lipid in comparison to protein and carbohydrates,
+s436
+a. mcveigh et al. / marine environmental research 62 (2006) s433–s438
+non mantle protein dry weight % of total dry weight
+(b)
+observed
+model
+(a)
+100%
+75%
+50%
+25%
+0%
+non mantle dry weight as percentage of control
+observed
+model
+65%
+60%
+55%
+50%
+45%
+40%
+35%
+30%
+jun
+jul
+jul aug sep oct nov nov dec
+jan
+feb mar apr apr may
+jun
+jul
+jul aug sep oct nov nov dec
+jan feb mar apr apr may
+non mantle cabrohydrate dry weight % of total dry weight
+(d)
+observed
+model
+(c)
+8%
+7%
+6%
+5%
+4%
+3%
+2%
+non mantle lipid dry weight % of total dry weight
+observed
+model
+30%
+25%
+20%
+15%
+10%
+5%
+0%
+jun
+jul
+jul aug sep oct nov nov dec
+jan feb mar apr apr may
+jun
+jul
+jul aug sep oct nov nov dec
+jan feb mar apr apr may
+(e)
+starvation induced autophagy
+starvation induced autophagy and phenanthrene toxicity
+(f)
+exposure
+control + food model
+recovery period
+control + food obs
+control - food model
+control - food obs
+30
+25
+20
+15
+10
+30
+25
+20
+15
+10
+exposure
+recovery period
+phenanthrene - food model
+phenanthrene - food obs
+phenanthrene + food model
+phenanthrene + food obs
+10
+12
+14
+16
+10
+12
+14
+16
+time (days)
+time (days)
+fig. 2. simulation results compared to observed biochemical and experimental data. (a) seasonal non mantle
+tissue dry weight expressed as a percentage of maximum observation. (b–d) dry weight of protein, lipid and
+carbohydrate, respectively, expressed as percentage of total cellular dry weight. (e) eﬀects of starvation on
+lysosomal stability. – –r– – control + food observed , — – —j— – — control   food observed, — — —
+control + food model results, ———– control   food model results (f) eﬀects of starvation coupled with
+phenanthrene exposure on lysosomal stability. phenanthrene was dosed at a concentration of 50 lg mus-
+sel 1 day 1 as a single daily dose (moore, 2004)., — — d— — phenanthrene + food observed , — – — m— – —
+phenanthrene   food observed, ——– phenanthrene + food model results, – – – – phenanthrene – food model
+results.
+coupled with the dual model constraints on lipid (as both a possible energy source and com-
+ponent part of membranes). this has invoked a simulated response whereby total lipid con-
+tent does have seasonal variation, but the trend against the rest of the cell is decreasing
+monotonically. possibly other parts of the non-mantle contribute to the real data as a form
+of lipid store. possible future improvements include changing the lipid content of the nutri-
+ents and changing the lipid control functions.
+the model was also run to simulate an experiment coupling short-term starvation and
+phenanthrene exposure (moore, 2004). phenanthrene and pah treatment of molluscan
+digestive cells results in oxidative stress, probably by direct oxidative attack on intra-lyso-
+somal pah by oxyradicals normally generated in the lysosomal compartment. such oxi-
+a. mcveigh et al. / marine environmental research 62 (2006) s433–s438
+s437
+dative attack will generate ah-quinones which will result in redox cycling contributing to
+oxidative stress (moore, 1990; moore et al., 1985; sjo¨ lin and livingstone, 1997; winston
+et al., 1991). it was observed that the starvation-induced autophagy apparently provides a
+protective mechanism (indicated by recovery in lysosomal stability) when combined with
+toxic exposure. the lysosomal stability output of the model was calculated by a quadratic
+function of lysosomal volume density ﬁtted to data. the control ﬂuctuations in the fed
+control model correspond to the lysosomal swelling under feeding and its replenishment
+over the holding phase. the starved control model shows no perceptible decline in lyso-
+somal stability, which matches observation (bayne et al., 1978; moore, 2004). the starved
+phenanthrene treated model follows a similar trend to the observed recovery, although the
+recovery occurs faster in the model and starts immediately after the exposure period
+(moore, 2004). the fed phenanthrene treated model cell shows a continual decline in lyso-
+somal stability, rapidly at ﬁrst during xenobiotic exposure; and then more gradually after
+exposure has ceased.
+possible interpretations for these results reveal that the starvation means the lysosomal
+capability is only moderately impaired as the cell volume shrinks; hence the lysosome of
+the starved cell has only to deal with autophagocytosed food and toxic eﬀects of phenan-
+threne; while the fed cell with only a slightly increased lysosomal capability has to degrade
+ingested food and the basal autophagocytosed material as well as the toxicity of phenan-
+threne. furthermore, the increased autophagy for the nutrient deprived cell may facilitate
+non-speciﬁc detoxiﬁcation of cytosolic phenanthrene at a greater rate than in the fed pah
+treated cell. starvation augmented autophagy will remove oxidatively damaged proteins
+more eﬀectively from the cytoplasm, while the fed cell will tend to accumulate damaged
+proteins leading to molecular and cellular pathology and an increased burden on the
+already overstretched lysosome. lipofuscin generation is initially more pronounced in
+the starved model but the removal of lipofuscin is possible due to the relatively small
+workload of the lysosome by a gross strategy of removal of lysosomal compartment
+reﬂecting exocytosis and apocrine secretion or apical pinching-oﬀ of the cytoplasm
+(moore, 2004; moore et al., 2006). within the fed cell, lipofuscin generation continues
+unabated due to its ﬁrst order kinetics and the lack of opportunity for removal (as the
+lysosome is overburdened and in continual demand) resulting in the continual decline in
+lysosomal stability.
+this simulation has prompted the following possible considerations for the model: (1)
+since the integrated physiological function of the cell depends upon the interactions of pro-
+teins, an increase in the amount of damaged proteins should lead to a less eﬃcient cell,
+hence some cost needs to be added to the model for damaged proteins; (2) and it should
+be possible to determine the critical space within the parameter space where recovery
+occurs and this should be possible to validate by direct experimentation.
+in conclusion, this new model provides a fairly robust simulation of both an annual
+cycle and the role of starvation induced autophagy as a protective measure. further work
+is required on lipid metabolism and the detrimental eﬀect of the presence of damaged pro-
+teins on the functional state of the digestive cell.
+acknowledgement
+the work forms part of the predict 2 project supported by the department for
+environment, food and rural aﬀairs (defra, uk), contract no. ae1136.
+s438
+a. mcveigh et al. / marine environmental research 62 (2006) s433–s438
+references
+allen, j.i., mcveigh, a., 2004. towards computational models of cells for environmental toxicology. journal of
+molecular histology 35, 697–706.
+bayne, b.l., holland, d.l., moore, m.n., lowe, d.m., widdows, j., 1978. further studies on the eﬀects of
+stress in the adult on the eggs of mytilus edulis. journal of the marine biological association uk 58, 825–841.
+gabbott, p.a., bayne, b.l., 1973. biochemical eﬀects of temperature and nutritive stress on mytilus edulis l..
+journal of the marine biological association uk 53, 269–286.
+langton, r.w., 1975. synchrony in the digestive diverticula of mytilus edulis l. journal of the marine biological
+association uk 55, 221–229.
+mcveigh, a., allen, j.i., moore, m.n., dyke, p., noble, d., 2004. a carbon and nitrogen ﬂux model of mussel
+digestive gland epithelial cells and their simulated response to pollutants. marine environmental research 58,
+821–827.
+moore, m.n., 1990. lysosomal cytochemistry in marine environmental monitoring. histochemical journal 22,
+187–191.
+moore, m.n., 2004. diet restriction induced autophagy: a lysosomal protective system against oxidative- and
+pollutant-stress and cell injury. marine environmental research 58, 603–607.
+moore, m.n., allen, j.i., 2002. a computational model of the digestive gland epithelial cell of the marine mussel
+and its simulated responses to aromatic hydrocarbons. marine environmental research 54, 579–584.
+moore, m.n., allen, j.i., mcveigh, 2006. environmental prognostics: an integrated model supporting lysosomal
+stress responses as predictive biomarkers of animal health status. marine environmental research 61, 278–
+304.
+moore, m.n., mayernick, j.a., giam, c.s., 1985. lysosomal responses to a polynuclear aromatic hydrocarbon
+in a marine snail: eﬀects of exposure to phenanthrene and recovery. marine environmental research 17, 230–
+233.
+sjo¨lin, a.m., livingstone, d.r., 1997. redox cycling of aromatic hydrocarbon quinones catalysed by digestive
+gland microsomes of the common mussel (mytilus edulis l.). aquatic toxicology 38, 83–99.
+winston, g.w., moore, m.n., straatsburg, i., kirchin, m., 1991. lysosomal stability in mytilus edulis l.:
+potential as a biomarker of oxidative stress related to environmental contamination. archives of
+environmental contamination and toxicology 21, 401–408.

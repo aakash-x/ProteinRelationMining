@@ -1,0 +1,748 @@
+systemic immunity
+murray grant1 and chris lamb2
+systemic acquired resistance (sar) provides enhanced, longlasting systemic immunity to secondary infection by a range of
+biotrophic, hemibiotrophic and necrotrophic pathogens that
+have diverse modes of infection. considerable effort has
+focussed on the conserved central positive regulator of sar,
+non-expressor of pathogenesis-related1 (npr1),
+and its control by changes in cellular redox potential. recently,
+genetic and genomic approaches have highlighted a critical
+role for nucleocytoplasmic communication and protein
+secretion in establishing effective systemic immunity.
+identification of the mobile signals and the mechanisms by
+which they are perceived in distal tissues remains challenging,
+but emerging evidence suggests that signal translocation uses
+lipid-derived (possibly jasmonate-based) signals and lipidbinding chaperones. furthermore, the demonstration that
+autophagy interdicts and inactivates a systemic cell death
+signal adds further complexity to elucidating how mobile
+signals are decoded and transduced for effective immunity.
+addresses
+imperial college of science, technology and medicine,
+exhibition road, london sw7 2az, uk
+john innes centre, norwich nr4 7uh, uk
+corresponding author: lamb, chris (chris.lamb@bbsrc.ac.uk)
+protect against a variety of fungal and bacterial pathogens
+[6]. isr is less â€˜broad spectrumâ€™ in nature [4] and generally requires jasmonic acid (ja) and ethylene (et).
+here, we focus on sar but consider signal convergence
+and cross-talk with isr.
+the sar signalling networks appear to share significant
+overlap with those induced by basal defences against
+microbial-associated molecular patterns (mamps). consequently, various arabidopsis defence mutants have been
+beneficial in addressing the establishment of sar in
+responding leaves. induced basal resistance involves the
+recognition of mamps by pattern recognition receptors,
+whereas sar-responding leaves must decode one or more
+unknown mobile signals. the identification of these signals
+and their cognate receptors represents a significant challenge. an outstanding question is whether the activation of
+systemic immunity is triggered by the removal of repressors
+of the sar response network, as hypothesised for basal
+defence following bacterial flagellin recognition [7].
+the npr1 signalling network and systemic
+immunity
+npr1 â€” a conserved sar regulator
+current opinion in plant biology 2006, 9:414â€“420
+this review comes from a themed issue on
+biotic interactions
+edited by anne osbourn and sheng yang he
+available online 5th june 2006
+1369-5266/$ â€“ see front matter
+# 2006 elsevier ltd. all rights reserved.
+doi 10.1016/j.pbi.2006.05.013
+introduction
+the term â€˜cross protectionâ€™ was initially used to describe
+enhanced tolerance to disease in previously infected
+perennials [1], a classical example being the demonstration that orchid embryos that were unsuccessfully
+infected by fungi were more resistant to a highly virulent
+fungus (n bernard [1909] cited in [2]). today, cross
+protection comes in two guises, systemic acquired resistance (sar) and induced systemic resistance (isr).
+sar requires both local and systemic salicylic acid (sa)
+accumulation and the induction of a subset of the pathogenesis-related (pr) genes, but sa itself is not the mobile
+signal [3â€“5]. by contrast, isr is associated with the ability
+of rhizobacterial strains that promote plant growth to
+current opinion in plant biology 2006, 9:414â€“420
+non-expressor
+of
+pathogenesisrelated1 (npr1, also known as non-immunity
+1 [nim1]) is a central positive regulator of sar signalling
+[8,9]. npr1 protein contains an ankyrin repeat and a btb/
+poz domain [10], and functions downstream of sa. accumulation of sa induces a change in cellular redox potential
+triggering the reduction of npr1 from cytosolic, disulphide-bound oligomers to active monomers that translocate to the nucleus and interact with tga transcription
+factors [11,12]. these interactions stimulate the binding of
+tga factors to sa-responsive elements in the promoters
+of pr genes, and the subsequent transcriptional reprogramming contributes to the establishment of sar. as
+overexpression in rice of npr1 (or the rice orthologue
+nh1) confers enhanced resistance to the pathogen xanthomonas oryzae pv. oryzae, npr1 function appears to be
+conserved between monocots and dicots [13].
+npr1-interacting partners
+npr1 interacts with three structurally related nuclear
+localised nim1-interacting (nimin) proteins
+[14]. nimin1 interacts with npr1 in vivo, and in yeast,
+nimin1 complexes together with tga and npr1 to a
+pr-1 promoter element [15]. overexpression of
+nimin1 suppresses resistance to an avirulent pseudomonas syringae (pst) strain and attenuates sar and pr1
+expression. nimin1 knock down enhanced pr1 expression but did not modify pathogen responses. remarkably,
+www.sciencedirect.com
+systemic immunity grant and lamb 415
+in rice, ectopic expression of an unrelated rice nuclearlocalized protein, negative regulator of
+resistance (nrr), which interacts with both nh1
+[13] and npr1, generates pathogen responses that are
+similar to those resulting from the overexpression of
+nimin1 [16]. nimin1 and nrr share only a conserved npr1-binding domain. collectively, these data
+suggest that nrr and nimin1 have conserved functions
+as transcriptional repressors that negatively regulate a
+subset of the npr1 signalling network [16].
+genetic interactions with npr1
+the importance of nuclear components in npr1 signalling has recently emerged through genetic suppressor
+screens. suppressor of npr1-1, inducible 1
+(sni1) encodes a leucine-rich nuclear protein and is
+probably a negative regulator of sar [14]. recently, three
+mos alleles (for modifiers of suppressor of npr1-1, constitutive
+1 [scn1]), which encode mutations of a constitutively
+active r protein that suppresses npr1 [17]), were characterized. mos2, which controls the sa-independent
+pathway that is activated in snc1 npr1 plants, encodes a
+nuclear rna-binding protein that is critical for basal and
+some r-gene-mediated resistance [18]. mos3 is similar
+to human nup96, a nucleoporin that is important for
+mrna export and is required for the constitutive prgene expression and disease resistance in snc1 plants
+[19]. mos6 encodes importin a3 [20]. collectively,
+the mos mutants highlight a role for the regulation of
+nuclear rna processing and nuclear cytoplasmic trafficking during npr1 signalling. as human nup96 interacts
+with sec13 [21], these data suggest a link between the
+nuclear pore complex, the endoplasmic reticulum (er)
+and protein secretion.
+transcriptional regulation by npr1
+dong and colleagues arrived at a similar conclusion by
+comparing the gene expression profiles of an npr1 mutant
+and a dexamethasone (dex)-inducible npr1 line under
+conditions designed to identify primary targets of nuclearlocalized npr1 transcriptional regulation [22]. transcripts that are associated with protein secretion were
+over-represented following dex induction of npr1, consistent with the anticipated accumulation of pr proteins
+in the vacuoles and apoplast during sar. these data
+suggest that npr1 co-ordinates upregulation of the secretory apparatus to ensure proper folding and localization of
+pr proteins. biochemical and genetic approaches confirmed that induced transcripts encoding the er-resident
+chaperone bip2, the co-chaperone defender
+against apoptotic death 1 (dad1) and
+sec61 (which is involved in protein transfer across the
+er membrane) all compromised sar.
+to integrate and fine-tune systemic responses depending
+upon the nature of the immunizing pathogen. npr1dependent isr signalling does not require redox-activated npr1 nuclear localization [23], consistent with a
+role for ja:indoleacetic acid (iaa) as an inducing signal
+[24]. other possible targets are wrky transcription factors that bind w boxes in pr genes, such as the positive
+regulator of sa signalling wrky70 [25]. alternatively,
+the targets might be interactions with negative regulators
+of sa signalling, such as mitogen-activated protein (map)
+kinase 4 (mapk4), which negatively regulates sa and
+positively regulates ja defence responses [26]. the identification of mks1, a mapk4 substrate, established a
+biochemical link between wrky transcription factors
+and sa [27]. mks1 functions downstream of sa and
+independently of ja signalling pathways to confer sadependent resistance. in an interaction walk, mks1
+interacted with wrky25 and wrky33, thereby coupling
+mapk4 to activation of sar [28].
+npr1-independent, sa-dependent signalling
+not all sar-mediated responses are npr1 dependent.
+the arabidopsis whirly transcription factor (atwhy1)
+functions as an sa-dependent, npr1-independent regulator of sar. atwhy1 binds to pb boxes, which are
+over-represented in transcripts that are associated with
+sar-inducing challenges [28,29]. bizarrely, atwhy1 and
+atwhy2 localise to the chloroplast and mitochondria [30].
+further studies will be necessary to understand the role of
+this cross talk in sar.
+sa and sar
+although sa can be synthesised from phenylalanine, the
+predominant pathway for de novo sa biosynthesis during
+pathogen infection is through chorismate via isochorismate synthase (ics) [31]. sar is strongly compromised in
+the isochorismate synthase mutant sid2 and transcripts
+that are associated with both plastid primary carbon
+metabolism and the shikimate pathway (including ics)
+are rapidly induced by bacterial inoculation [32]. a
+recent breakthrough suggests that an alternative, rapidly
+mobilisable source of sa is generated through the activity
+of the high-affinity sa-binding protein sabp2. crystal
+structure determination showed that sabp2, an integral
+component of systemic immunity, belongs to the a/b
+hydrolase superfamily [33]. sabp2 converts methyl salicylate (mesa) to sa in vitro, suggesting that sabp2
+might generate signal-competent sa from mesa during
+sar [34]. interestingly, the identification of a tomato
+methyl jasmonate (meja) esterase that has homology to
+sabp2 [35] might help to resolve the contribution of ja
+and meja to systemic immunity.
+lipids as signals in systemic immunity
+involvement of npr1 in other signalling pathways
+npr1 also modulates cross-talk between sa and ja
+signalling, and might function as a molecular rheostat
+www.sciencedirect.com
+sar is generally studied as a response to classical genefor-gene recognition. nitric oxide (no), sa, ja, ethylene
+and lipid-derived molecules are all implicated in systemic
+current opinion in plant biology 2006, 9:414â€“420
+416 biotic interactions
+signalling and have been extensively reviewed elsewhere.
+the challenge is to separate their respective contributions to sar signalling against their collaboration in local
+programmed cell death. for the purposes of this review,
+we concentrate on potential lipid signals. intracellular
+signals that are derived from lipid metabolism are emerging as mediators of basal, gene-for-gene and more
+recently systemic resistance (for an excellent general
+overview on plant lipids see [36]).
+exhibits both lipase and antimicrobial activity [46] and
+glip1 plants are compromised in local and systemic resistance to the necrotrophic pathogen alternaria brassicicola.
+interestingly, glip1 transcription responded to ethylene
+but not to sa or ja, suggesting that ethylene and sa
+collaborate in generating the effective lipid signal following a. brassicicola infection. the extent of glip1 participation in other systemic signalling processes now needs
+to be determined.
+a fundamental role for lipid biosynthesis in sar is
+reflected by the recessive arabidopsis steroyl-acyl carrier
+protein desaturase mutant suppressor of sa-insensitivity 2
+(ssi2), an npr1-5 suppressor [37]. ssi2 plants are unable to
+convert stearic acid to oleic acid. this oleate deficiency
+activates spontaneous cell death and leads to constitutive
+sar but enhanced susceptibility to the necrotroph botrytis cinerea [38,39]. by contrast, the ssi2 suppressor suppressor of fatty acid desaturase 1 (sfd1) is compromised in sar,
+and many of the ssi2 growth defects are alleviated
+[40,41]. sfd1 encodes dihydroxyacetone phosphate
+reductase, which forms the glycerol-3-phosphate backbone of glycerolipids. although sfd1 is required for both
+local and distant sa accumulation following pathogen
+challenge, basal resistance is unaffected in sfd1 mutants,
+suggesting that sfd1 functions in the generation, translocation and/or perception of a mobile sar signal. extensive double mutant analysis of ssi2 with various defence
+and fatty acid desaturation pathway mutants indicates
+that ssi-triggered defence signalling requires components
+of both the fatty acid and the sa signalling pathways
+[42]. moreover, ssi2 and glycerol-mediated signalling are
+associated with reduced 18:1 levels, mechanistically linking the glycerol-kinase-encoding gene nonhost
+resistance 1 (nho1) to defence [43]. the impact
+of glycerol application on sar has yet to be reported.
+historically, systemic signalling interactions between the
+oxylipin ja and sa have been considered antagonistic;
+however, evidence of positive cross-talk between sa, ja
+and ethylene during systemic responses is accumulating.
+ja increases in developing tobacco lesions following
+inoculation with avirulent bacteria that are compromised
+in sid2 or in salicylate hydroxylase (nahg)-overexpressing
+arabidopsis and tobacco plants [47,48], whereas ja levels
+are elevated in nahg and sid2 arabidopsis following compatible pst challenges. consistent with these observations, fad7/fad8 vâ€“3 fatty acid desaturase mutants,
+which have reduced chloroplast trieonic fatty acids, are
+compromised for both basal and gene-for-gene defence
+[42]. coincident with the induction of reactive oxygen
+intermediates (rois) by avirulent pst challenge, trieonic
+fatty acids (predominately linolenic acid) are liberated
+from chloroplasts [49], providing potential substrates for
+ja biosynthesis. co-application of ja and sa at low
+concentrations is synergistic in causing the expression
+of classical markers of ja (i.e. defensin [pdf1.2] and
+thionin [thi1.2]) or sa (pr1), whereas higher concentrations are antagonistic and induce apoplastic roi and cell
+death [48]. these studies highlight the need to monitor
+relative hormone concentrations, and their dynamics and
+spatial distribution, when considering signal integration.
+enhanced disease susceptibility 1 (eds1),
+phytoalexin deficient 4 (pad4) and senescence-associated gene 101 (sag101) are three
+defence regulators that have homology to acyl transferases. eds1, pad4 and sag101 directly interact in
+various combinations to orchestrate basal immunity and
+some gene-for-gene interactions [44,45]. eds1 acts
+upstream of the oxidative burst, and is required for sa
+synthesis and for the constitutive sar phenotypes of
+constitutive expressor of pathogenesis-related genes cpr1 and
+cpr6. we and others have hypothesized that eds1 also
+contributes to the establishment or maintenance of sar.
+sar-induced bacterial growth restriction is abolished in
+eds1 and pad4 backgrounds, even when recognition of the
+immunizing avrâ€“r gene combination is eds1 independent (cited in [45]; m grant, c lamb, unpublished).
+lipid signalling in sar is also utilised by necrotrophic
+pathogens. accumulation of apoplastic glip1, a lipase
+that contains a gdsl motif, is sa dependent. glip1
+current opinion in plant biology 2006, 9:414â€“420
+comparative global transcription profiling studies on systemic responding tissue identified approximately 400
+genes that are specifically induced within 2.5 h of recognition of the rpm1 protein, which activates disease
+resistance in response to pst. systemically responding
+transcripts encoded components of secondary metabolite
+pathways and showed marked similarity to the transcriptional reprogramming of basal defences [33]. strikingly,
+70% of the systemically responding transcripts are also
+induced following ja application. ja signalling and biosynthetic mutations, including jasmonate insensitive1
+(jin1), attenuated avrrpm1â€“rpm1-specified sar (w
+truman, m grant unpublished).
+translocation of the mobile signal â€” is it ja?
+plant lipid transfer proteins (ltps) represent potential
+chaperones for lipid-derived systemic signalling molecules. wheat ltp1 can compete for the same homotetrameric binding site on tobacco membranes as sarinducing elicitins [50]. defective in induced resistance1
+(dir1) is an extracellular ltp that is involved in the
+www.sciencedirect.com
+systemic immunity grant and lamb 417
+local generation, or subsequent translocation, of a mobile
+systemic signal [51]. recently, two lines of evidence have
+implicated protein-specific lipophilic ligand interactions
+in long-distance signalling complexes [52]. first, recombinant tobacco ltp1 is competent to load fatty acids,
+including ja. second, not only is ltp1 capable of binding plasma membrane elicitin receptors, which mediate
+plant defence responses [53], but ltp1â€“ja binds preferentially over either ltp1 or ltp1-linolenic acid. as
+application of ltp1-ja, but not of ltp1 or ja alone,
+resulted in enhanced resistance in tobacco against phytophthora parasitica, these data support a role for ja as a
+systemic signal. the importance of ja as an essential
+component of the long-distance signal for wounding is
+now well documented [54,55]. considering the localisation of ja-biosynthetic enzymes to the sieve elements
+and companion cells in tomato [56], and the extensive
+apoplastic exchange, release and retrieval of phloem
+constituents along the phloem pathway [57], a mobile
+ja signal could iterate itself along the phloem network to
+provide a robust, global inductive signal. whether these
+interactions occur in vivo, the nature of the specificity of
+ltps and lipophilic ligands involved, and the identification of their cognate receptor for a particular inducing
+pathogen need to be addressed. likewise, the role of the
+apoplastic aspartic protease constitutive disease resistance 1 (cdr1), which is required for
+both basal resistance and sar, warrants further attention
+[58]. the involvement of a small mobile peptide signal
+that is released by cdr1 action reveals a further parallel,
+alongside the potential involvement of ja, between
+mobile signalling in sar and wound responses.
+early signalling events in perception
+an eight-year-old report of a rapid systemic induction of
+glutathione s-transferase1 (gst1) transcripts following the
+inoculation of arabidopsis leaves with avirulent
+pst(avrrpt2) but not with virulent pst remains the most
+definitive analysis of signal perception in naä±ìˆve leaves.
+gst1 induction preceded localized oxidative bursts (microrois) and the formation of systemic micro-hrs in isolated periveinal cells of systemically responding leaves
+[59]. similar systemic microrois were recently reported
+in pepper following inoculation with avirulent xanthomonas campestris pv. vesicatoria [60]. the source of the rois
+remains unclear. in tomato leaves, systemic h2o2 generation is mediated through the octadecanoid pathway
+[61]. one function of microrois might be to activate
+atrbohd, thereby negatively regulating sa-dependent
+cell death signals and restricting systemic cell death
+[62]. cell death in systemic tissues is negatively regulated
+by autophagy. virus-induced silencing of nicotiana
+benthamiana beclin 1, an orthologue of yeast and mammalian autophagy genes (or indeed other autophagyrelated genes), resulted in unrestricted cell death in local
+and systemic tissues, either following tobacco mosaic
+virus (tmv) infection or elicitation of hypersensitive cell
+www.sciencedirect.com
+death by the viral protein p50 [63]. autolysosomes were
+observed locally and systemically during the normal nmediated resistance response, suggesting that autolysosomes eliminate a pathogen-induced mobile â€˜prodeathâ€™
+signal(s). caenorhabditis elegans bec-1 also controls programmed cell death processes through a caspase-dependent mechanism [64], suggesting that this is a highly
+conserved process. the signals generated by microroi
+domains, or the microroi themselves, might trigger the
+systemic cell death in beclin 1-compromised plants.
+the identification of the mechanism underlying the
+recognition of this â€˜prodeathâ€™ signal(s) by autolysosomes
+represents a major challenge. given the emerging evidence for lipid signalling, the evolutionarily conserved
+calcium-dependent phospholipid-binding copine family,
+first identified as negative regulators of snc1 [65,66],
+might represent signalling components that integrate
+lipid signalling and the concomitant suppression of cell
+death pathways [67].
+conclusions and future prospects
+understanding the early events that underpin systemic
+immunity, in particular signal generation, translocation
+and distal perception, requires detailed time-course analysis of systemic immunity, coupled to global transcript
+profiling in systemically responding tissues. although
+many defence mutants have defects in sar, they are
+immune-compromised and provide limited clues as to
+how systemic signals are generated, translocated and
+perceived in naä±ìˆve responding tissues. grafting provides
+a powerful method for the unambiguous resolution of the
+contribution of the genes that are affected in these
+defence mutants to signal generation and translocation,
+or to signal perception and the maintenance of systemic
+immunity [68]. induced and uninduced phloem exudates
+can be analysed by liquid chromatography (lc)/mass
+spectrometry (ms)/ms to identify potential mobile signals. in parallel, proton transfer reaction ms (ptr-ms)
+will permit highly sensitive, almost simultaneous, online
+monitoring of a large number of different volatile organic
+compounds that might contribute to maintaining the
+immunized state. adopting these emerging technologies
+should rapidly facilitate our understanding of this highly
+complex but agronomically important and scientifically
+interesting phenomenon.
+acknowledgements
+we thank john mansfield for a critical reading of the manuscript and the
+biotechnology and biological sciences research council (bbsrc) for
+support of research in our laboratories.
+references and recommended reading
+papers of particular interest, published within the annual period of
+review, have been highlighted as:
+ of special interest
+ of outstanding interest
+1.
+chester s: the problem of acquired physiological immunity in
+plants. quar rev biol 1933, 8:129-154.
+current opinion in plant biology 2006, 9:414â€“420
+418 biotic interactions
+2.
+deverall bj: in defense mechanisms of plants, vol 19. edited by
+brian pw, pringle jws. cambridge university press; 1977.
+3.
+vernooij b, friedrich l, morse a, reist r, kolditz-jawhar r,
+ward e, uknes s, kessmann h, ryals j: salicylic acid is not the
+translocated signal responsible for inducing systemic
+acquired resistance but is required in signal transduction.
+plant cell 1994, 6:959-965.
+4.
+bostock rm: signal crosstalk and induced resistance:
+straddling the line between cost and benefit. annu rev
+phytopathol 2005, 43:545-580.
+5.
+durrant we, dong x: systemic acquired resistance.
+annu rev phytopathol 2004, 42:185-209.
+6.
+pieterse cm, van wees sc, van pelt ja, knoester m, laan r,
+gerrits h, weisbeek pj, van loon lc: a novel signaling pathway
+controlling induced systemic resistance in arabidopsis.
+plant cell 1998, 10:1571-1580.
+7.
+zipfel c, robatzek s, navarro l, oakeley ej, jones jd, felix g,
+boller t: bacterial disease resistance in arabidopsis through
+flagellin perception. nature 2004, 428:764-767.
+8.
+fobert pr, despres c: redox control of systemic acquired
+resistance. curr opin plant biol 2005, 8:378-382.
+9.
+dong x: npr1, all things considered. curr opin plant biol 2004,
+7:547-552.
+10. cao h, glazebrook j, clarke jd, volko s, dong x: the
+arabidopsis npr1 gene that controls systemic acquired
+resistance encodes a novel protein containing ankyrin
+repeats. cell 1997, 88:57-63.
+11. mou z, fan w, dong x: inducers of plant systemic acquired
+resistance regulate npr1 function through redox changes.
+cell 2003, 113:935-944.
+12. despres c, chubak c, rochon a, clark r, bethune t, desveaux d,
+fobert pr: the arabidopsis npr1 disease resistance protein is
+a novel cofactor that confers redox regulation of dna binding
+activity to the basic domain/leucine zipper transcription factor
+tga1. plant cell 2003, 15:2181-2191.
+13. chern m, fitzgerald ha, canlas pe, navarre da, ronald pc:
+overexpression of a rice npr1 homolog leads to constitutive
+activation of defense response and hypersensitivity to light.
+mol plant microbe interact 2005, 18:511-520.
+14. weigel rr, bauscher c, pfitzner aj, pfitzner um: nimin-1,
+nimin-2 and nimin-3, members of a novel family of proteins
+from arabidopsis that interact with npr1/nim1, a key
+regulator of systemic acquired resistance in plants.
+plant mol biol 2001, 46:143-160.
+15. weigel rr, pfitzner um, gatz c: interaction of nimin1 with
+ npr1 modulates pr gene expression in arabidopsis.
+plant cell 2005, 17:1279-1291.
+nimin1, one of three structurally related npr1-interacting proteins,
+associates with npr1 in the nucleus. tri-hybrid interaction studies
+suggest that nimin1 binds the as-1 promoter element as a ternary
+complex with npr1 and the transcription factors tga2 or tga6. overexpression of nimin1 suppresses npr1 activity and modulates pr1
+expression, leading to enhanced susceptibility to normally avirulent
+pathogens and abrogation of sar. collectively, these data suggest that
+nimin1 acts as a repressor of npr1. this function might be associated
+with a putative erf-associated amphiphilic repression (ear) motif that
+was identified in repressors of auxin signalling. knock down of npr1
+leads to hyperactivation of pr1 expression but, interestingly, has no
+effect on disease resistance phenotypes, indicating that nimin1 suppresses only a subset of npr1-dependent genes.
+16. chern m, canlas pe, fitzgerald ha, ronald pc: rice nrr,
+a negative regulator of disease resistance, interacts
+with arabidopsis npr1 and rice nh1. plant j 2005,
+43:623-635.
+nrr, which was isolated in a yeast two-hybrid screen with the rice npr1
+homologue, nh1 shares homology with nimin1 [15] only in the 25amino-acid npr1-binding domain and in a putative ear motif. remarkably, overexpression and suppression of nrr results in similar phenotypes to those caused by overexpression and suppression of nimin1,
+suggesting that nrr also acts as a repressor of nh1. this paper and [13]
+also highlight the functional conservation of npr1 signalling between
+monocots and dicots.
+current opinion in plant biology 2006, 9:414â€“420
+17. zhang y, goritschnig s, dong x, li x: a gain-of-function
+mutation in a plant disease resistance gene leads to
+constitutive activation of downstream signal transduction
+pathways in suppressor of npr1-1, constitutive 1. plant cell
+2003, 15:2636-2646.
+18. zhang y, cheng yt, bi d, palma k, li x: mos2, a protein
+containing g-patch and kow motifs, is essential for innate
+immunity in arabidopsis thaliana. curr biol 2005, 15:1936-1942.
+19. zhang y, li x: a putative nucleoporin 96 is required for both
+basal defense and constitutive resistance responses
+mediated by suppressor of npr1-1, constitutive 1. plant cell
+2005, 17:1306-1316.
+this paper, along with [18] and [20], molecularly characterise mos (for
+modifiers of the npr1 suppressor snc1) mutants. mos3 (as revealed in this
+paper) and mos6 are components of nucleocytoplasmic cross-talk and
+are necessary for constitutive resistance in snc1 mutants. mos alleles
+contribute to basal resistance and would be predicted to modify systemic
+immunity, although this has not yet been directly tested. these findings
+support the essential role of the protein secretory apparatus in sar [22].
+20. palma k, zhang y, li x: an importin alpha homolog, mos6,
+plays an important role in plant innate immunity. curr biol 2005,
+15:1129-1135.
+21. enninga j, levay a, fontoura bm: sec13 shuttles between the
+nucleus and the cytoplasm and stably interacts with nup96 at
+the nuclear pore complex. mol cell biol 2003, 23:7271-7284.
+22. wang d, weaver nd, kesarwani m, dong x: induction of protein
+ secretory pathway is required for systemic acquired
+resistance. science 2005, 308:1036-1040.
+global transcript profiling in the absence of de novo protein synthesis and
+under conditions optimised for maximal expression of npr1 target
+transcripts identified a subset of co-ordinately induced genes that are
+involved in secretion-related processes. reverse genetic approaches
+were used to demonstrate that loss of bip2 (which functions as an
+er-resident chaperone), defender against apoptotic death 1
+(dad1, a co-chaperone) or sec61(which functions in protein transfer
+across the er membrane) resulted in reduced secretion of pr1 protein,
+compromised resistance to a virulent pst pathogen, and hypersensitivity
+to chemical inducers of sar. collectively, these data suggest that the coordinated induction of proteins that are involved in co-translational folding
+and modification of nascent polypeptides is an early npr1 function. a
+consensus cis-element, tl1, was identified in the promoters of coordinately regulated er-resident genes. this element bound a sarinducible protein and was responsive to sar inducers. as induction of
+the protein secretory machinery is a prerequisite for pr1 secretion, and as
+the tl1-binding protein is also predicted to be translocated to the nucleus
+following sar induction, these data further reinforce the need for coordinated nucleocytoplasmic crosstalk [19].
+23. spoel sh, koornneef a, claessens sm, korzelius jp, van pelt ja,
+mueller mj, buchala aj, metraux jp, brown r, kazan k et al.:
+npr1 modulates cross-talk between salicylate- and
+jasmonate-dependent defense pathways through a novel
+function in the cytosol. plant cell 2003, 15:760-770.
+24. staswick pe, tiryaki i: the oxylipin signal jasmonic acid is
+activated by an enzyme that conjugates it to isoleucine in
+arabidopsis. plant cell 2004, 16:2117-2127.
+25. li j, brader g, palva et: the wrky70 transcription factor:
+a node of convergence for jasmonate-mediated and
+salicylate-mediated signals in plant defense. plant cell 2004,
+16:319-331.
+26. petersen m, brodersen p, naested h, andreasson e, lindhart u,
+johansen b, nielsen hb, lacy m, austin mj, parker je et al.:
+arabidopsis map kinase 4 negatively regulates systemic
+acquired resistance. cell 2000, 103:1111-1120.
+27. andreasson e, jenkins t, brodersen p, thorgrimsen s,
+petersen nh, zhu s, qiu jl, micheelsen p, rocher a, petersen m
+et al.: the map kinase substrate mks1 is a regulator of plant
+defense responses. embo j 2005, 24:2579-2589.
+28. maleck k, levine a, eulgem t, morgan a, schmid j, lawton ka,
+dangl jl, dietrich ra: the transcriptome of arabidopsis
+thaliana during systemic acquired resistance. nat genet 2000,
+26:403-410.
+29. desveaux d, subramaniam r, despres c, mess jn, levesque c,
+fobert pr, dangl jl, brisson n: a â€˜whirlyâ€™ transcription factor is
+www.sciencedirect.com
+systemic immunity grant and lamb 419
+required for salicylic acid-dependent disease resistance in
+arabidopsis. dev cell 2004, 6:229-240.
+atwhy1 binds pb elements, which are enriched in sar-associated
+genes, in an npr1-independent but sa-dependent manner. optimal
+sa-induced defences require both npr1 and atwhy1, suggesting that
+they might collaborate in transducing the sa signal.
+30. krause k, kilbienski i, mulisch m, rodiger a, schafer a,
+krupinska k: dna-binding proteins of the whirly family in
+arabidopsis thaliana are targeted to the organelles. febs lett
+2005, 579:3707-3712.
+31. wildermuth mc, dewdney j, wu g, ausubel fm: isochorismate
+synthase is required to synthesize salicylic acid for plant
+defence. nature 2001, 414:562-565.
+32. forouhar f, yang y, kumar d, chen y, fridman e, park sw,
+ chiang y, acton tb, montelione gt, pichersky e et al.: structural
+and biochemical studies identify tobacco sabp2 as a methyl
+salicylate esterase and implicate it in plant innate immunity.
+proc natl acad sci usa 2005, 102:1773-1778.
+the crystal structure of sabp2, a high-affinity (kd = 90 nm), low-abundance sa-binding protein, revealed that this protein is a member of the a/
+b hydrolase superfamily. as such, it is phylogenetically related to tomato
+meja esterase and brazil nut hydroxylnitrile lyase. co-crystallization of
+sa with sabp2 revealed that sa binds tightly within the active site formed
+by the catalytic triad ser-81, his-238 and asp-210. sabp2 exhibits strong
+esterase activity toward physiological concentrations of mesa but is
+potently inhibited by sa. sabp2 can also utilise methyl iaa (meiaa) and
+meja as substrates, but at supra-physiological concentrations. contrary
+to earlier observations, these authors found that, rather than being a sa
+receptor, sabp2 probably functions in sar by converting inactive mesa
+into active sa. depending upon the physiological state of the cell, this
+active sa could regulate sabp2 activity by feedback inhibition. as
+suppression of sabp2 blocks sar, this study raises the intriguing
+possibility that mesa might have an as-yet-unrecognised role in local
+or long-distance sa movement.
+33. truman w, de zabala mt, grant m: type iii effectors orchestrate
+a complex interplay between transcriptional networks to
+modify basal defense responses during pathogenesis and
+resistance. plant j 2006, 46:14-33.
+34. kumar d, gustafsson c, klessig df: validation of rnai silencing
+specificity using synthetic genes: salicylic acid-binding
+protein 2 is required for innate immunity in plants. plant j
+2006, 45:863-868.
+35. stuhlfelder c, mueller mj, warzecha h: cloning and expression
+of a tomato cdna encoding a methyl jasmonate cleaving
+esterase. eur j biochem 2004, 271:2976-2983.
+36. shah j: lipids, lipases, and lipid-modifying enzymes in plant
+disease resistance. annu rev phytopathol 2005, 43:229-260.
+37. kachroo p, shanklin j, shah j, whittle ej, klessig df: a fatty acid
+desaturase modulates the activation of defense signaling
+pathways in plants. proc natl acad sci usa 2001, 98:9448-9453.
+38. shah j, kachroo p, nandi a, klessig df: a recessive mutation in
+the arabidopsis ssi2 gene confers sa- and npr1-independent
+expression of pr genes and resistance against bacterial and
+oomycete pathogens. plant j 2001, 25:563-574.
+39. nandi a, moeder w, kachroo p, klessig df, shah j: arabidopsis
+ssi2-conferred susceptibility to botrytis cinerea is dependent
+on eds5 and pad4. mol plant microbe interact 2005, 18:363-370.
+40. nandi a, krothapalli k, buseman cm, li m, welti r, enyedi a,
+shah j: arabidopsis sfd mutants affect plastidic lipid
+composition and suppress dwarfing, cell death, and the
+enhanced disease resistance phenotypes resulting from
+the deficiency of a fatty acid desaturase. plant cell 2003,
+15:2383-2398.
+41. nandi a, welti r, shah j: the arabidopsis thaliana
+ dihydroxyacetone phosphate reductase gene suppresssor
+of fatty acid desaturase deficiency1 is required for
+glycerolipid metabolism and for the activation of systemic
+acquired resistance. plant cell 2004, 16:465-477.
+the arabidopsis thaliana sfd1 mutation suppresses the ssi2-conferred
+npr1-independent expression of pr1 (see [42]). in sar-induced sfd1
+plants, sa fails to accumulate in remote leaves and systemic immunity to
+virulent pst is compromised. however, neither basal gene-for-gene
+resistance nor local sa or pr1 accumulation are affected in sfd1. the
+www.sciencedirect.com
+sar deficiency of sfd1 npr1 double mutants is comparable to that of
+single npr1 mutants, suggesting that sfd1 functions upstream of npr1.
+sfd1 encodes a putative dihydroxyacetone phosphate (dhap) reductase, and sfd1 plants have altered plastidial glycerolipid composition.
+collectively, these data and those described in [42] provide strong
+genetic and biochemical evidence that systemic signalling/perception
+is dependent upon a lipid-derived signalling molecule.
+42. kachroo p, venugopal sc, navarre da, lapchyk l,
+kachroo a: role of salicylic acid and fatty acid desaturation
+pathways in ssi2-mediated signaling. plant physiol 2005,
+139:1717-1735.
+the ssi2 gene encodes a stearoyl-acyl carrier protein (acp) desaturase.
+a previous study had shown that glycerol application mimicked the ssi2
+phenotype, leading to the accumulation of sa and the induction of pr
+genes, thus linking sa signalling to glycerol. a comprehensive genetic
+analysis of the ssi2 phenotypes in double-mutant backgrounds concluded, first, that ssi2-triggered signalling requires components of both
+the sa and the fatty acid pathways (i.e. eds1, pad4, eds5, sid2, fad7
+and fad8); second, that the fatty acid desaturase fad7 fad8 double
+mutants suppress the ssi2-triggered increase in sa levels; and third, that
+glycerol- and ssi2-mediated signalling pathways overlap. this paper
+provides a sobering perspective, highlighting the complexity of the sa
+signalling network and linking primary carbon and fatty acid metabolism
+with sa signalling. this work, in combination with that described in [41],
+provides a potential new avenue for the exploration of the relationship
+between lipid signalling and sar.
+43. kang l, li j, zhao t, xiao f, tang x, thilmony r, he s, zhou jm:
+interplay of the arabidopsis nonhost resistance gene
+nho1 with bacterial virulence. proc natl acad sci usa 2003,
+100:3519-3524.
+44. feys bj, wiermer m, bhat ra, moisan lj, medina-escobar n,
+neu c, cabral a, parker je: arabidopsis senescenceassociated gene101 stabilizes and signals within an
+enhanced disease susceptibility1 complex in plant innate
+immunity. plant cell 2005, 17:2601-2613.
+45. wiermer m, feys bj, parker je: plant immunity: the eds1
+regulatory node. curr opin plant biol 2005, 8:383-389.
+46. oh is, park ar, bae ms, kwon sj, kim ys, lee je, kang ny,
+lee s, cheong h, park ok: secretome analysis reveals an
+arabidopsis lipase involved in defense against alternaria
+brassicicola. plant cell 2005, 17:2832-2847.
+glip1 lipase is a member of the a/bserine hydrolase family, which
+includes sabp2, eds1 and pad4. secretion of glp1 is induced by
+sa, and loss of glip1 function renders plants susceptible to the necrotrophic a. brassicicola but not to hemi-biotrophic pst. glip1 disrupts
+spore integrity, and this requires functional lipase activity. glip1 is shown
+to encode dual functions as pre-treatment of infected leaves of glip1
+abrogated the induction of local and systemic cell death by a. brassicicola
+whereas exogenous application of glip1 alone did not, indicating that
+glip1 (like dir1-overexpressing transgenic plants, which do not exhibit
+constitutive sar) modifies or chaperones an signal that is generated by a.
+brassicicola. consistent with the divergent signalling networks that are
+engaged during pst and a. brassicicola infections, preliminary data
+suggest that glip expression is ethylene-dependent, whereas its secretion is sa-dependent.
+47. heck s, grau t, buchala a, metraux jp, nawrath c: genetic
+evidence that expression of nahg modifies defence pathways
+independent of salicylic acid biosynthesis in the arabidopsisâ€“
+pseudomonas syringae pv. tomato interaction. plant j 2003,
+36:342-352.
+48. mur la, kenton p, atzorn r, miersch o, wasternack c: the
+outcomes of concentration-specific interactions between
+salicylate and jasmonate signaling include synergy,
+antagonism, and oxidative stress leading to cell death. plant
+physiol 2006, 140:249-262.
+49. yaeno t, matsuda o, iba k: role of chloroplast trienoic
+fatty acids in plant disease defense responses. plant j 2004,
+40:931-941.
+50. buhot n, douliez jp, jacquemard a, marion d, tran v, maume bf,
+milat ml, ponchet m, mikes v, kader jc et al.: a lipid transfer
+protein binds to a receptor involved in the control of plant
+defence responses. febs lett 2001, 509:27-30.
+51. maldonado am, doerner p, dixon ra, lamb cj, cameron rk:
+a putative lipid transfer protein involved in systemic
+resistance signalling in arabidopsis. nature 2002, 419:399-403.
+current opinion in plant biology 2006, 9:414â€“420
+420 biotic interactions
+52. buhot n, gomes e, milat ml, ponchet m, marion d, lequeu j,
+ delrot s, coutos-thevenot p, blein jp: modulation of the
+biological activity of a tobacco ltp1 by lipid complexation.
+mol biol cell 2004, 15:5047-5052.
+previous studies have shown that the activation of tobacco elicitin
+receptors, leading to hr and sar, requires the formation of a sterol
+elicitin complex and that wheat ltp1 binds these putative elicitin receptors. here, tobacco ltp1 is shown to bind ja, and when applied to a
+decapitated tobacco plant, the ltp1â€“ja complex provided 40% of the
+protection against phytophthora parasitica invoked by the elicitin, cryptogenin. this study implicates ja in the activation of sar and suggests
+that the biologically active signal is a lipidâ€“protein complex that binds a
+dual-recognition receptor. notably, the brassinosteroid receptor also
+binds systemin to initiate long-distance wound signalling in tomato
+[54]. it remains to be determined whether this is the signal complex itself
+or whether the activation of a local receptor generates the long-distance
+signal.
+53. keller h, blein jp, bonnet p, ricci p: physiological and
+molecular characteristics of elicitin-induced systemic
+acquired resistance in tobacco. plant physiol 1996,
+110:365-376.
+54. schilmiller al, howe ga: systemic signaling in the wound
+response. curr opin plant biol 2005, 8:369-377.
+55. wasternack c, stenzel i, hause b, hause g, kutter c, maucher h,
+neumerkel j, feussner i, miersch o: the wound response
+in tomato â€” role of jasmonic acid. j plant physiol 2006,
+163:297-306.
+56. hause b, hause g, kutter c, miersch o, wasternack c:
+enzymes of jasmonate biosynthesis occur in tomato sieve
+elements. plant cell physiol 2003, 44:643-648.
+57. orians c: herbivores, vascular pathways, and systemic
+induction: facts and artefacts. j chem ecol 2005, 31:2231-2242.
+58. xia y, suzuki h, borevitz j, blount j, guo z, patel k, dixon ra,
+lamb c: an extracellular aspartic protease functions in
+arabidopsis disease resistance signalling. embo j 2004,
+23:980-988.
+activation tagging identified an aspartic protease gain-of-function
+mutant, cdr1, that exhibits enhanced resistance to virulent pst. cdr1
+closely resembles human cathepsin d, accumulates in the extracellular
+fluid following challenge with avirulent pathogens and is involved in the
+generation of a small (3 kdaâ€“10 kda) heat-labile mobile signal. antisense
+cdr1 lines are compromised in basal and gene-for-gene resistance and
+in systemic induction of pr1. conditional expression of cdr1 in rootstocks activated pr2 expression in wildtype scion grafts. similarly,
+inoculation of intercellular fluids from plants that express cdr1 induced
+local pr2 expression. cdr1, therefore, contributes to the generation or
+modification of a yet-to-be-identified peptide-based [52] elicitor that is
+involved in local and systemic resistance.
+59. alvarez me, pennell ri, meijer pj, ishikawa a, dixon ra, lamb c:
+reactive oxygen intermediates mediate a systemic signal
+network in the establishment of plant immunity. cell 1998,
+92:773-784.
+current opinion in plant biology 2006, 9:414â€“420
+60. lee sc, hwang bk: induction of some defense-related
+genes and oxidative burst is required for the establishment
+of systemic acquired resistance in capsicum annuum.
+planta 2005, 221:790-800.
+61. orozco-cardenas m, ryan ca: hydrogen peroxide is generated
+systemically in plant leaves by wounding and systemin via
+the octadecanoid pathway. proc natl acad sci usa 1999,
+96:6553-6557.
+62. torres ma, jones jd, dangl jl: pathogen-induced, nadph
+oxidase-derived reactive oxygen intermediates suppress
+spread of cell death in arabidopsis thaliana. nat genet 2005,
+37:1130-1134.
+63. takacs-vellai k, vellai t, puoti a, passannante m, wicky c,
+streit a, kovacs al, muller f: inactivation of the autophagy gene
+bec-1 triggers apoptotic cell death in c. elegans. curr biol
+2005, 15:1513-1517.
+64. liu y, schiff m, czymmek k, talloczy z, levine b, dinesh kumar sp: autophagy regulates programmed cell death during
+the plant innate immune response. cell 2005, 121:567-577.
+autophagy is a highly conserved process in which double-membranebound vesicles engulf cytoplasmic material and target it for degradation
+in the vacuole or lysosome. n. benthamiana beclin 1, an orthologue of
+the human and yeast becelin 1/atg6/vps30 autophagy gene, is essential
+for containing local cell death and preventing systemic hypersensitive cell
+death following the incompatible interaction between the n resistance
+gene and tmv. yeast contains at least 16 autophagy-related genes
+(atg), and silencing of each of the n. benthamiana beclin 1, pi3k/
+vp34, atg3 and atg7 orthologues resulted in unrestricted tmv-induced
+hypersensitive cell death. remarkably, autolysosomes were induced not
+only at the site of tmv infection but also in distal uninfected leaves,
+consistent with the observed systemic cell death in beclin 1-silenced
+plants. systemic cell death was not due to viral spread, and both fungal
+and bacterial hr elicitors also induced unrestricted cell death in plants
+silenced for autophagy. these data add an additional layer of complexity
+to what is known about systemic signalling processes, implicating an hrderived systemic cell-death signal(s), which is decoded or inactivated
+distally and is degraded by autophagy. cdr1 [58] and the bonsai
+(bon)/copine (cpn) proteins [67] are respective candidates for generation and distal perception of this â€˜pro-deathâ€™ signal.
+65. jambunathan n, siani jm, mcnellis tw: a humidity-sensitive
+arabidopsis copine mutant exhibits precocious cell death and
+increased disease resistance. plant cell 2001, 13:2225-2240.
+66. hua j, grisafi p, cheng sh, fink gr: plant growth homeostasis
+is controlled by the arabidopsis bon1 and bap1 genes.
+genes dev 2001, 15:2263-2272.
+67. yang s, yang h, grisafi p, sanchatjate s, fink gr, sun q, hua j:
+the bon/cpn gene family represses cell death and promotes
+cell growth in arabidopsis. plant j 2006, 45:166-179.
+68. turnbull cg, booker jp, leyser hm: micrografting techniques
+for testing long-distance signalling in arabidopsis. plant j
+2002, 32:255-262.
+www.sciencedirect.com

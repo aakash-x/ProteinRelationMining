@@ -1,0 +1,326 @@
+molecular aspects of medicine 27 (2006) 520–527
+www.elsevier.com/locate/mam
+review
+role of autophagy in the clearance of mutant
+huntingtin: a step towards therapy?
+brinda ravikumar, david c. rubinsztein *
+department of medical genetics, cambridge institute for medical research, wellcome/mrc building,
+addenbrooke’s hospital, hills road, cambridge, cb2 2xy, uk
+abstract
+macroautophagy (henceforth referred to simply as autophagy) is a bulk degradation pro-
+cess involved in the clearance of long-lived proteins, protein complexes and organelles. a por-
+tion of the cytosol, with its contents to be degraded,
+is enclosed by double-membrane
+structures called autophagosomes/autophagic vacuoles, which ultimately fuse with lysosomes
+where their contents are degraded. in this review, we will describe how induction of autophagy
+is protective against toxic intracytosolic aggregate-prone proteins that cause a range of neuro-
+degenerative diseases. autophagy is a key clearance pathway involved in the removal of such
+proteins, including mutant huntingtin (that causes huntington’s disease), mutant ataxin-3
+(that causes spinocerebellar ataxia type 3), forms of tau that cause tauopathies, and forms
+of alpha-synuclein that cause familial parkinson’s disease. induction of autophagy enhances
+the clearance of both soluble and aggregated forms of such proteins, and protects against tox-
+icity of a range of these mutations in cell and animal models. interestingly, the aggregates
+formed by mutant huntingtin sequester and inactivate the mammalian target of rapamycin
+(mtor), a key negative regulator of autophagy. this results in induction of autophagy in cells
+with these aggregates.
+ó 2006 elsevier ltd. all rights reserved.
+abbreviations: hd, huntington’s disease; mtor, mammalian target of rapamycin; fkbp12, fk506-
+binding protein 12; map-lc3, microtubule associated protein light chain 3; cre, 30,50-adenosine mo-
+nophosphate response element; cbp, creb binding protein.
+* corresponding author. tel.: +44 1223 762608; fax: +44 1223 331206.
+e-mail address: dcr1000@cus.cam.ac.uk (d.c. rubinsztein).
+0098-2997/$ - see front matter ó 2006 elsevier ltd. all rights reserved.
+doi:10.1016/j.mam.2006.08.008
+b. ravikumar, d.c. rubinsztein / molecular aspects of medicine 27 (2006) 520–527
+521
+keywords: huntington’s disease; autophagy; polyglutamine; aggregation; rapamycin
+contents
+introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 521
+1.
+2. are aggregates toxic or protective? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 521
+3. clearance of aggregate-prone proteins . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 523
+3.1. autophagy induction enhances aggregate-prone protein clearance . . . . . . 524
+4. a specific protective role for aggregates. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 525
+acknowledgement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 525
+references . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 525
+1. introduction
+neurodegenerative disorders like alzheimer’s disease, parkinson’s disease, amyo-
+trophic lateral sclerosis, taupathies and polyglutamine diseases, such as hunting-
+ton’s disease, share a number of pathogenic features, most notably intracellular
+or extracellular protein aggregates formed by misfolded mutant proteins in the spe-
+ciﬁc target tissue. huntington’s disease (hd), a slow, progressive, autosomal dom-
+inantly-inherited neurodegenerative disorder, is one of nine diseases caused by the
+expansion of (cag)n repeats in the coding region of a disease gene. the cag
+repeats in the hd gene range between 10 and 35 in unaﬀected individuals, while
+individuals with more than 35 cag repeats suﬀer from hd. in the disease range,
+longer repeats tend to result in an earlier disease onset (rubinsztein, 2002). the
+mutation results in an abnormally long polyglutamine stretch at the n-terminus
+of the huntingtin protein. the expanded polyglutamine repeat causes disease
+primarily by conferring a toxic gain-of-function to the mutant protein. however,
+additional minor loss-of-function or dominant-negative eﬀects may modulate the
+primary gain-of-function. both intranuclear and cytoplasmic aggregates containing
+mutant huntingtin are found in the brains of aﬀected individuals. the aggregates
+are labeled with antibodies
+to ubiquitin, but also contain other proteins
+(rubinsztein, 2002).
+2. are aggregates toxic or protective?
+huntingtin is a 350 kda protein that shares no homology to any known proteins.
+it is expressed ubiquitously in the cytoplasm of most cells in the body with the high-
+est levels in brain and testis (schilling et al., 1995; sharp et al., 1995). huntingtin is
+cleaved by caspases and calpains and it has been found that n-terminal fragments
+522
+b. ravikumar, d.c. rubinsztein / molecular aspects of medicine 27 (2006) 520–527
+of the mutant protein are more toxic than the full-length protein (hackam et al.,
+1998). indeed, the full-length mutant protein may be relatively or completely
+benign, and toxicity is believed to be exposed after cleavage, resulting in the forma-
+tion of a n-terminal cleavage product of 100–150 residues that contains the poly-
+glutamine stretch. there is also an inverse correlation between the length of mutant
+huntingtin fragment and its propensity to aggregate (li and li, 1998; lunkes and
+mandel, 1998; martindale et al., 1998). aggregation of mutant huntingtin depends
+on the length of the polyglutamine repeat, with longer repeats resulting in increased
+aggregate formation. in mammalian cell culture systems, there is a strong correla-
+tion between aggregate formation and cellular toxicity. in many cases, the forma-
+tion of aggregates precedes cell death (hackam et al., 1998; lunkes and mandel,
+1998; wyttenbach et al., 2000). also, overexpression of heat shock proteins or
+molecular chaperones in transient transfection hd cell models result in reduced
+aggregation of mutant huntingtin accompanied by reduced cell death (carmichael
+et al., 2000; wyttenbach et al., 2000). likewise, overexpression of the yeast chaper-
+one hsp104 reduced aggregation and increased lifespan in an hd mouse model
+(vacher et al., 2005). a toxic role of aggregates is also supported by the fact that
+several cellular proteins, like transcription factors, are sequestered into aggregates.
+this redistribution of proteins from their normal cellular localisation possibly pre-
+vents the normal functioning of these proteins in disease conditions. for example,
+cbp was found to be recruited into aggregates and redistributed away from its
+normal location in the nucleus. using reporter constructs containing cyclic 3’,5’-
+adenosine monophosphate response element (cre) sites, nucifora et al. (2001)
+showed that mutant huntingtin inhibited its transcription and overexpression of
+cbp abrogated mutant huntingtin mediated toxicity (nucifora et al., 2001).
+whether aggregates are toxic or protective or just silent bystanders is still highly
+debated. it has been argued that aggregates could serve a protective role for neuro-
+nal cells, resulting from the cells’ attempts to inactivate or eliminate the toxic pro-
+tein. recently arrasate and colleagues used an automated microscopy approach to
+try and analyse the role of huntingtin aggregates (arrasate et al., 2004). in this real-
+time procedure they used striatal neurons transiently transfected with exon-1 of
+huntingtin with a wild-type or mutant polyglutamine repeat. the microscope eﬀec-
+tively returns to the same neuron even after the cells have been removed periodi-
+cally from the microscope stage. they used a mathematical approach to
+determine the risk of death and correlated survival of individual neurons with
+decreased intracellular levels of mutant huntingtin and the presence of huntingtin
+aggregates. they found that neurons that had aggregates (regardless of whether
+they were in the nucleus or cytoplasm) survived signiﬁcantly longer than those with-
+out aggregates. mutant huntingtin-transfected neurons that did not form aggregates
+showed an increased risk of death. also, the levels of diﬀuse mutant huntingtin (but
+not wild-type) in neurons negatively correlated with life span. thus, they inferred
+that formation of huntingtin aggregates could be protective by reducing the pres-
+ence of the toxic soluble forms (arrasate et al., 2004). although this study suggests
+that large microscopically visible aggregates may be protective, it does not rule out
+the possibility that the smaller oligomeric precursors of these aggregates, or the
+b. ravikumar, d.c. rubinsztein / molecular aspects of medicine 27 (2006) 520–527
+523
+process of aggregation itself, may in fact be toxic. whether aggregates are toxic or
+protective, it is still important to understand the factors that regulate the clearance
+of these aggregate-prone proteins, since, in many cases, disease severity correlates
+with the expression levels of the mutant proteins.
+3. clearance of aggregate-prone proteins
+clearance of toxic proteins may be particularly important in post-mitotic cells
+where the accumulation of mutant proteins cannot be diluted by cell division.
+two major protein clearance pathways exist in mammalian cells, namely the ubiqui-
+tin-proteasome pathway and autophagy-lysosome pathway. proteasomes are com-
+partmentalised, multi-subunit, proteolytic complexes that are responsible for the
+clearance of short-lived but also certain longer-lived proteins in cells. ubiquitin-pro-
+teasome degradation is important for the activation of dormant signalling molecules
+like transcription factors, degradation of cell cycle regulators and pro-apoptotic pro-
+teins and regulation of the immune response (production of peptides for mhc class-
+i presentation). addition of a polyubiquitin (four or more ubiquitin molecules) chain
+is required for the substrate to be recognised by the machinery that escorts it to the
+proteasome (ciechanover, 2003). consistent with a role for the proteasome in the
+clearance of the mutant proteins, aggregates formed by several of these proteins
+are decorated by ubiquitin. recent data have shown that while monomeric proteins
+with expanded polyglutamine stretches can be degraded by the proteasome, it cannot
+cleave within the polyglutamine tract (holmberg et al., 2004; venkatraman et al.,
+2004). thus, proteasome clearance of mutant polyglutamine-containing proteins will
+result in the production of polyglutamine peptides without ﬂanking sequences. such
+peptides exiting the proteasome may be more prone to aggregation and toxicity,
+compared to the input proteins containing the ﬂanking sequences. the polygluta-
+mine peptides are probably degraded by as-yet-unidentiﬁed cytosolic peptidases.
+proteasomes are also incapable of degrading protein complexes, aggregates or olig-
+omers. hence, we have had a particular interest in the roles of macroautophagy in
+protein conformation disorders like hd, as this system can degrade protein
+complexes.
+macroautophagy (henceforth referred to simply as autophagy) is a bulk degrada-
+tion process involved in the clearance of long-lived proteins, protein complexes and
+organelles. a portion of the cytosol, with its contents to be degraded, is enclosed by
+double-membrane structures called autophagosomes/autophagic vacuoles. isolation
+membranes of unknown origin ﬁrst give rise to pre-autophagosome structures, which
+then form the autophagosomes. the autophagosomes then fuse with the vacuole/
+lysosomes, where their contents are degraded by acidic hydrolases (klionsky and
+ohsumi, 1999). the process of autophagy is relatively well characterised in yeast,
+but still poorly understood in mammalian cells. in yeast, autophagy is active only
+under starvation conditions, while it occurs constitutively in mammals. several genes
+that regulate yeast autophagy, many of which have homologs in mammals, have
+been identiﬁed (klionsky, 2005).
+524
+b. ravikumar, d.c. rubinsztein / molecular aspects of medicine 27 (2006) 520–527
+a central regulator of mammalian autophagy is the protein mammalian target of
+rapamycin (mtor) (brown et al., 1994; chiu et al., 1994; sabatini et al., 1994).
+mtor is a phosphatidylinositol kinase-related kinase that negatively regulates
+autophagy. rapamycin, a lipophilic, macrolide antibiotic forms a complex with
+the immunophilin fk506-binding protein 12 (fkbp12), which then binds to and
+inactivates mtor thereby inducing autophagy (kamada et al., 2000; noda and
+ohsumi, 1998). furthermore, inhibition of class-iii pi-3-kinase by treatment with
+3-methyl adenine blocks autophagy at the level of autophagosome formation
+(blommaart et al., 1997; seglen and gordon, 1982). the only available marker to
+date from monitoring the levels of mammalian autophagy is the lipid conjugated
+form of the protein lc3 (lc3-ii). the microtubule-associated protein light chain-
+3 (map-lc3) undergoes a complex ubiquitin-like modiﬁcation to ﬁnally form a
+lipid- (phosphatidyl-ethanolamine) conjugated lc3-ii, which is speciﬁcally targeted
+to autophagosome membranes (kabeya et al., 2000). thus, the amount of lc3-ii,
+which correlates well with autophagosome number, is a reliable and simple method
+to predict autophagic activity in mammalian cells.
+3.1. autophagy induction enhances aggregate-prone protein clearance
+we showed that autophagy is an important clearance route for aggregate-prone
+proteins. chemical inhibition of the autophagy-lysosomal pathway at the auto-
+phagosome formation or autophagosome-lysosome fusion stages inhibited the clear-
+ance of mutant huntingtin fragments and was associated with increased soluble
+mutant protein levels, enhanced aggregate formation and increased toxicity in cell
+models. rapamycin, which activates autophagy, enhanced the clearance of mutant
+huntingtin fragments, and reduced aggregate formation, soluble mutant protein lev-
+els, and toxicity in cell models (ravikumar et al., 2002). furthermore, rapamycin or
+the rapamycin ester, cci-779, reduced toxicity in both drosophila and mouse mod-
+els expressing mutant huntingtin (ravikumar et al., 2004). thus, enhancing the
+clearance of toxic, aggregate-prone, mutant proteins by autophagy may be a poten-
+tial therapeutic avenue for diseases like hd. our recent data demonstrate that rap-
+amycin treatment may also be eﬀective in the clearance of a diverse range of
+aggregate-prone proteins (berger et al., 2006; webb et al., 2003) – rapamycin
+enhances the clearance of a range of polyglutamine- or polyalanine-containing pro-
+teins (including proteins mutated in certain spinocerebellar ataxias), forms of a-syn-
+uclein (mutations which result in familial forms of parkinson’s disease), and mutant
+tau associated with fronto-temporal dementia/tauopathy (berger et al., 2006; webb
+et al., 2003). furthermore, we have shown that rapamycin protects against toxicity
+of many of these aggregate-prone proteins in drosophila (berger et al., 2006). thus,
+the utility of autophagy as a potential therapeutic strategy may be relevant to a wide
+range of diseases caused by aggregate-prone intracytosolic proteins. it is important
+to stress that enhancing autophagy results in more rapid clearance of both soluble
+and aggregated species of mutant huntingtin – thus, it does not matter if one believes
+aggregates are more or less toxic than the soluble forms. our data with a-synuclein
+mutants suggest that autophagy does eﬀectively remove soluble species, as these pro-
+b. ravikumar, d.c. rubinsztein / molecular aspects of medicine 27 (2006) 520–527
+525
+teins do not form aggregates in our cell lines (webb et al., 2003). while the removal
+of soluble huntingtin species would be suﬃcient to account for the reduction in
+aggregate levels (as the soluble species include aggregate-precursors), we cannot
+exclude whether aggregates may also be cleared by autophagy. however, polygluta-
+mine aggregates have not been generally observed to be membrane-bound.
+4. a speciﬁc protective role for aggregates
+increased numbers of autophagosome-like structures have also been reported in
+the brains of hd patients (davies et al., 1997; sapp et al., 1997). we conﬁrmed in
+cell models of hd that there is an increase in the numbers of autophagosomes –
+however, this appeared to be a feature speciﬁcally of the cells with visible aggregates
+(ravikumar et al., 2004). interestingly, we observed the same phenomenon with
+other mutant polyglutamine proteins, like mutant ataxin-1 (responsible for spinocer-
+ebellar ataxia type-1). our studies suggested that the increased autophagic activity in
+these contexts was the result of the sequestration of mtor into the polyglutamine
+aggregates in cell and mouse models and in hd patients (ravikumar et al., 2004).
+we showed that this resulted in decreased soluble levels of mtor in cells and in
+mouse models of hd, resulting in decreased mtor activity (ravikumar et al.,
+2004). as mtor is a negative regulator of autophagy, these data can explain the
+enhanced levels of autophagosomes seen in the cells with aggregates. these data sug-
+gest that increased autophagy can be associated with non-toxic consequences in hd
+and other polyglutamine diseases. this also suggests a probable protective role of
+aggregates, as they serve to induce autophagy, an important clearance route for
+mutant huntingtin. while this speciﬁc mechanism is protective, we cannot use it to
+infer that the overall eﬀect of aggregates is protective.
+in conclusion, induction of autophagy is a potential therapeutic mechanism in
+hd and related disorders. since the process of autophagy in mammalian system is
+still in its infancy, a major challenge remains to deﬁne and characterise the machin-
+ery regulating mammalian autophagy to identify more speciﬁc and safe targets for
+long-term therapy.
+acknowledgement
+the work in our lab covered by this review has been funded by a wellcome trust
+senior fellowship in clinical science, an mrc programme grant, wyeth and eu
+framework vi (eurosca).
+references
+arrasate, m., mitra, s., schweitzer, e.s., segal, m.r., finkbeiner, s., 2004. inclusion body formation
+reduces levels of mutant huntingtin and the risk of neuronal death. nature 431, 805–810.
+526
+b. ravikumar, d.c. rubinsztein / molecular aspects of medicine 27 (2006) 520–527
+berger, z., ravikumar, b., menzies, f.m., garcia oroz, l., underwood, b.r., pangalos, m.n., schmitt,
+i., wullner, u., evert, b.o., o’kane, c.j., rubinsztein, d.c., 2006. rapamycin alleviates toxicity of
+diﬀerent aggregate-prone proteins. hum. mol. genet. 15, 433–442.
+blommaart, e.f., krause, u., schellens, j.p., vreeling-sindelarova, h., meijer, a.j., 1997. the
+phosphatidylinositol 3-kinase inhibitors wortmannin and ly294002 inhibit autophagy in isolated
+rat hepatocytes. eur. j. biochem. 243, 240–246.
+brown, e.j., albers, m.w., shin, t.b., ichikawa, k., keith, c.t., lane, w.s., schreiber, s.l., 1994. a
+mammalian protein targeted by g1-arresting rapamycin-receptor complex. nature 369, 756–758.
+carmichael, j., chatellier, j., woolfson, a., milstein, c., fersht, a.r., rubinsztein, d.c., 2000. bacterial
+and yeast chaperones reduce both aggregate formation and cell death in mammalian cell models of
+huntington’s disease. proc. natl. acad. sci. usa 97, 9701–9705.
+chiu, m.i., katz, h., berlin, v., 1994. rapt1, a mammalian homolog of yeast tor, interacts with the
+fkbp12/rapamycin complex. proc. natl. acad. sci. usa 91, 12574–12578.
+ciechanover, a., 2003. the ubiquitin proteolytic system and pathogenesis of human diseases: a novel
+platform for mechanism-based drug targeting. biochem. soc. trans. 31, 474–481.
+davies, s.w., turmaine, m., cozens, b.a., difiglia, m., sharp, a.h., ross, c.a., scherzinger, e.,
+wanker, e.e., mangiarini, l., bates, g.p., 1997. formation of neuronal intranuclear inclusions
+underlies the neurological dysfunction in mice transgenic for the hd mutation. cell 90, 537–548.
+hackam, a.s., singaraja, r., wellington, c.l., metzler, m., mccutcheon, k., zhang, t., kalchman, m.,
+hayden, m.r., 1998. the inﬂuence of huntingtin protein size on nuclear localization and cellular
+toxicity. j. cell biol. 141, 1097–1105.
+holmberg, c.i., staniszewski, k.e., mensah, k.n., matouschek, a., morimoto, r.i., 2004. ineﬃcient
+degradation of truncated polyglutamine proteins by the proteasome. embo. j. 23, 4307–4318.
+kabeya, y., mizushima, n., ueno, t., yamamoto, a., kirisako, t., noda, t., kominami, e., ohsumi,
+y., yoshimori, t., 2000. lc3, a mammalian homologue of yeast apg8p, is localized in autophagosome
+membranes after processing. embo. j. 19, 5720–5728.
+kamada, y., funakoshi, t., shintani, t., nagano, k., ohsumi, m., ohsumi, y., 2000. tor-mediated
+induction of autophagy via an apg1 protein kinase complex. j. cell biol. 150, 1507–1513.
+klionsky, d.j., 2005. the molecular machinery of autophagy: unanswered questions. j. cell sci. 118, 7–
+18.
+klionsky, d.j., ohsumi, y., 1999. vacuolar import of proteins and organelles from the cytoplasm. annu.
+rev. cell dev. biol. 15, 1–32.
+li, s.h., li, x.j., 1998. aggregation of n-terminal huntingtin is dependent on the length of its glutamine
+repeats. hum. mol. genet. 7, 777–782.
+lunkes, a., mandel, j.l., 1998. a cellular model
+that recapitulates major pathogenic steps of
+huntington’s disease. hum. mol. genet. 7, 1355–1361.
+martindale, d., hackam, a., wieczorek, a., ellerby, l., wellington, c., mccutcheon, k., singaraja, r.,
+kazemi-esfarjani, p., devon, r., kim, s.u., bredesen, d.e., tufaro, f., hayden, m.r., 1998. length
+of huntingtin and its polyglutamine tract inﬂuences localization and frequency of intracellular
+aggregates. nat. genet. 18, 150–154.
+noda, t., ohsumi, y., 1998. tor, a phosphatidylinositol kinase homologue, controls autophagy in yeast.
+j. biol. chem. 273, 3963–3966.
+nucifora jr., f.c., sasaki, m., peters, m.f., huang, h., cooper, j.k., yamada, m., takahashi, h., tsuji,
+s., troncoso, j., dawson, v.l., dawson, t.m., ross, c.a., 2001. interference by huntingtin and
+atrophin-1 with cbp-mediated transcription leading to cellular
+toxicity. science 291, 2423–
+2428.
+ravikumar, b., duden, r., rubinsztein, d.c., 2002. aggregate-prone proteins with polyglutamine and
+polyalanine expansions are degraded by autophagy. hum. mol. genet. 11, 1107–1117.
+ravikumar, b., vacher, c., berger, z., davies, j.e., luo, s., oroz, l.g., scaravilli, f., easton, d.f.,
+duden, r., o’kane, c.j., rubinsztein, d.c., 2004. inhibition of mtor induces autophagy and
+reduces toxicity of polyglutamine expansions in ﬂy and mouse models of huntington disease. nat.
+genet. 36, 585–595.
+rubinsztein, d.c., 2002. lessons from animal models of huntington’s disease. trends genet. 18, 202–209.
+b. ravikumar, d.c. rubinsztein / molecular aspects of medicine 27 (2006) 520–527
+527
+sabatini, d.m., erdjument-bromage, h., lui, m., tempst, p., snyder, s.h., 1994. raft1: a mammalian
+protein that binds to fkbp12 in a rapamycin-dependent fashion and is homologous to yeast tors.
+cell 78, 35–43.
+sapp, e., schwarz, c., chase, k., bhide, p.g., young, a.b., penney, j., vonsattel, j.p., aronin, n.,
+difiglia, m., 1997. huntingtin localization in brains of normal and huntington’s disease patients.
+ann. neurol. 42, 604–612.
+schilling, g., sharp, a.h., loev, s.j., wagster, m.v., li, s.h., stine, o.c., ross, c.a., 1995. expression
+of the huntington’s disease (it15) protein product in hd patients. hum. mol. genet. 4, 1365–1371.
+seglen, p.o., gordon, p.b., 1982. 3-methyladenine: speciﬁc inhibitor of autophagic/lysosomal protein
+degradation in isolated rat hepatocytes. proc. natl. acad. sci. usa 79, 1889–1892.
+sharp, a.h., loev, s.j., schilling, g., li, s.h., li, x.j., bao, j., wagster, m.v., kotzuk, j.a., steiner,
+j.p., lo, a., et al., 1995. neuron 14, 1065–1074.
+vacher, c., garcia-oroz, l., rubinsztein, d.c., 2005. overexpression of yeast hsp104 reduces
+polyglutamine aggregation and prolongs survival of a transgenic mouse model of huntington’s
+disease. hum. mol. genet. 14, 3425–3433.
+venkatraman, p., wetzel, r., tanaka, m., nukina, n., goldberg, a.l., 2004. eukaryotic proteasomes
+cannot digest polyglutamine sequences and release them during degradation of polyglutamine-
+containing proteins. mol. cell. 14, 95–104.
+webb, j.l., ravikumar, b., atkins, j., skepper, j.n., rubinsztein, d.c., 2003. alpha-synuclein is
+degraded by both autophagy and the proteasome. j. biol. chem. 278, 25009–25013.
+wyttenbach, a., carmichael, j., swartz, j., furlong, r.a., narain, y., rankin, j., rubinsztein, d.c.,
+2000. eﬀects of heat shock, heat shock protein 40 (hdj-2), and proteasome inhibition on protein
+aggregation in cellular models of huntington’s disease. proc. natl. acad. sci. usa 97, 2898–2903.
