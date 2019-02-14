@@ -1,0 +1,1296 @@
+molecular biology of the cell
+vol. 18, 581–593, february 2007
+atg27 is required for autophagy-dependent cycling
+of atg9
+wei-lien yen, julie e. legakis, usha nair, and daniel j. klionsky
+life sciences institute, and departments of molecular, cellular, and developmental biology and biological
+chemistry, university of michigan, ann arbor, mi 48109
+submitted july 19, 2006; revised november 1, 2006; accepted november 21, 2006
+monitoring editor: suresh subramani
+autophagy is a catabolic pathway for the degradation of cytosolic proteins or organelles and is conserved among all
+eukaryotic cells. the hallmark of autophagy is the formation of double-membrane cytosolic vesicles, termed autophago-
+somes, which sequester cytoplasm; however, the mechanism of vesicle formation and the membrane source remain
+unclear. in the yeast saccharomyces cerevisiae, selective autophagy mediates the delivery of speciﬁc cargos to the vacuole,
+the analog of the mammalian lysosome. the transmembrane protein atg9 cycles between the mitochondria and the
+pre-autophagosomal structure, which is the site of autophagosome biogenesis. atg9 is thought to mediate the delivery of
+membrane to the forming autophagosome. here, we characterize a second transmembrane protein atg27 that is required
+for speciﬁc autophagy in yeast. atg27 is required for atg9 cycling and shuttles between the pre-autophagosomal structure,
+mitochondria, and the golgi complex. these data support a hypothesis that multiple membrane sources supply the lipids
+needed for autophagosome formation.
+introduction
+cells must be able to respond to changes in the environment.
+one process that cells use to respond to internal or external
+stress is autophagy. autophagy is a degradative process
+responsible for the rapid degradation of damaged or unnec-
+essary organelles and a large portion of the cytosol in the
+lysosome/vacuole lumen (reggiori and klionsky, 2002;
+klionsky, 2004). in addition, autophagy is involved in cel-
+lular remodeling, development, and aging and also plays a
+role in preventing a range of diseases including some types
+of cancer and neurodegeneration (reviewed in shintani and
+klionsky, 2004; levine and klionsky, 2004). autophagy is
+conserved among all eukaryotic cells. the hallmark of the
+autophagic process is the sequestration of cytoplasm into a
+double-membrane vesicle called the autophagosome, which
+then docks and fuses with the lysosome/vacuole, releasing
+the inner vesicle into the lysosome/vacuole lumen for deg-
+radation (reggiori and klionsky 2002; klionsky, 2004).
+autophagy can be a selective or a nonselective process.
+studies in the yeast saccharomyces cerevisiae have provided
+two examples of selective autophagy that morphologically
+and mechanistically overlap with nonselective autophagy.
+first, when cells are shifted from growth in oleic acid, a
+condition in which peroxisomes are essential, to a preferred
+carbon source, the now superﬂuous peroxisomes are selec-
+tively degraded by a mechanism termed pexophagy (dunn
+et al., 2005). another example is seen with import of the
+this article was published online ahead of print in mbc in press
+(http://www.molbiolcell.org/cgi/doi/10.1091/mbc.e06–07–0612)
+on december 4, 2006.
+address correspondence to: daniel j. klionsky (klionsky@umich.edu).
+abbreviations used: ape1, aminopeptidase i; cvt, cytoplasm to
+vacuole targeting; er, endoplasmic reticulum; gfp, green ﬂuores-
+cent protein; pas, pre-autophagosomal structure; prape1, precur-
+sor ape1; ptdins, phosphatidylinositol.
+resident vacuolar hydrolase, aminopeptidase i
+(ape1),
+which is targeted to the vacuole through the cytoplasm-to-
+vacuole targeting (cvt) pathway. both the cvt pathway and
+pexophagy are examples of speciﬁc autophagy where the
+cargo, precursor ape1 (prape1), or peroxisomes are en-
+wrapped in double-membrane vesicles and then transported
+from the cytosol directly to the vacuole lumen. in contrast to
+autophagy, which is induced by starvation, the cvt pathway
+is biosynthetic and is constitutive in vegetative conditions.
+more than 25 novel autophagy-related (atg) genes in
+the yeast s. cerevisiae have been identiﬁed through genetic
+screens of yeast mutants blocked in one of these pathways
+(klionsky et al., 2003). studies of atg components have
+provided some insight into the molecular basis for the au-
+tophagy process; however, there are many questions that
+remain to be addressed. one of the most intriguing ques-
+tions is the origin of the membrane for the double-mem-
+brane cvt vesicles or autophagosomes. recent data suggest
+that atg9 may mark the membrane that is donated to the
+forming sequestering vesicles (noda et al., 2000; reggiori et
+al., 2004a). atg9 localizes to mitochondria and cycles be-
+tween this compartment and the pre-autophagosomal struc-
+ture (pas), the site of organization for cvt vesicle and au-
+tophagosome formation (tucker et al., 2003). recently, we
+showed that atg23 and the actin cytoskeleton are needed for
+anterograde delivery of atg9 to the pas, whereas atg1,
+atg13, atg2, atg18, and the phosphatidylinositol (ptdins)
+3-kinase, vps34, are required for retrograde movement
+(reggiori et al., 2004a, 2005a). in this report we show that
+atg27 is another transmembrane protein required for atg9
+cycling. the localization and transit pattern of the atg27
+protein is similar to that of atg9 and is dependent on the
+latter protein. atg27, originally named etf1, was identiﬁed as
+a ptdins(3) phosphate-binding protein that is a downstream
+effector of vps34 (wurmser and emr, 2002). because of the
+correction of a sequencing error in the saccharomyces genome
+database, the true full-length atg27 contains 75 additional
+amino acids at the n terminus relative to etf1. we discovered
+© 2007 by the american society for cell biology
+581
+w.-l. yen et al.
+table 1. yeast strains used in this study
+strain
+atg1⌬
+by4742
+fry143
+hay572
+ira001
+ira002
+jgy3
+jhy28
+jly43
+jly44
+jly45
+jly47
+sey6210
+tn121
+tn124
+tvy1
+vps34tsf
+why001
+wly1
+wly2
+wly3
+wly5
+wly6
+wly8
+wly11
+wly18
+wly27
+wly33
+wly36
+wly40
+wly41
+wly49
+wly50
+wly51
+wly52
+wly70
+wly74
+wly78
+genotype
+by4742; atg1⌬::kan
+mat␣ his3⌬ leu2⌬ lys2⌬ ura3⌬
+sey6210; pep4⌬::leu2 vps4⌬::trp1
+tn124 atg1⌬::ura3
+by4742; pex14-gfp::his3
+by4742; pex14-gfp::his3 atg1⌬::ura3 k.l.
+sey6210; atg18⌬::his5 s.p.
+sey6210; pep4⌬::leu2 vps4⌬::trp1 atg1⌬::his5 s.p.
+sey6210; atg9-gfp::kan atg27⌬::his5 s.p.
+sey6210; atg9-gfp::his5 s.p.
+sey6210; atg9-gfp::his5 s.p. atg1⌬::ura3
+sey6210; atg9-gfp::kan atg1⌬::ura3 atg27⌬::his5 s.p.
+mat␣ his3⌬ leu2⌬ lys2⌬ ura3⌬
+mata leu2-3,112 trp1 ura3-52 pho8::pho8⌬60 pho13⌬::ura3
+mata leu2-3,112 ura3-52 trp1 pho8::pho8⌬60 pho13⌬::ura3
+sey6210; pep4⌬::leu2
+sey6210; vps34⌬::trp1 pvps34tsf::ura3
+sey6210; atg1⌬::his5 s.p.
+sey6210; atg27–3xha::trp1
+sey6210; atg27⌬::trp1
+tn121; atg27⌬::trp1
+sey6210; atg27-gfp::his3
+sey6210; atg27-gfp::his vrg4-rfp::trp1
+sey6210; pep4⌬::leu2 vps4⌬::trp1 atg27⌬::his3
+sey6210; atg1⌬::ura k.l. atg27-gfp::his3
+sey6210; atg13⌬::leu2 atg27-gfp::his3
+by4742; pex14-gfp::his3 atg27⌬::ura3 k.l.
+sey6210; pep4⌬::leu2 vam3⌬::ura3 atg27⌬::his3 pvam3ts414
+sey6210; pep4⌬::leu2 vam3⌬::ura3 pvam3ts414
+tn124; atg27⌬::kan
+sey6210; atg1⌬::leu2 k.l. atg9⌬::kan atg27-gfp::his3 rfp-ape1::leu2
+jly45; atg27⌬c::trp1
+sey6210; vps34⌬::trp1 pvps34tsf::ura3 atg27-gfp::his3 rfp-ape1::leu2
+sey6210; vps34⌬::trp1 pvps34tsf::ura3
+sey6210; atg14⌬::trp1 atg27-gfp::his3
+jgy3; atg27-gfp::trp1
+sey6210; pep4⌬::leu2 vam3⌬::ura3 atg1⌬::his5 pvam3ts414
+sey6210; atg2⌬::his5 atg27-gfp::trp1
+reference
+resgena
+resgen
+cheong et al. (2005)
+abeliovich et al. (2003)
+reggiori et al. (2005a)
+reggiori et al. (2005a)
+stromhaug et al. (2004)
+this study
+this study
+this study
+this study
+this study
+robinson et al. (1988)
+noda et al. (1995)
+noda et al. (1995)
+gerhardt et al. (1998)
+stack et al. (1995)
+shintani et al. (2002)
+this study
+this study
+this study
+this study
+this study
+this study
+this study
+this study
+this study
+this study
+this study
+this study
+this study
+this study
+this study
+this study
+this study
+this study
+this study
+this study
+a invitrogen, carlsbad, ca.
+that atg27 is a type i transmembrane protein with an n-
+terminal signal sequence, resulting in a topology opposite to
+that reported for etf1. atg27 function is required for speciﬁc
+types of autophagy and for efﬁcient bulk autophagy.
+materials and methods
+strains and media
+the s. cerevisiae strain (by4742) knockout library was purchased from resgen
+(invitrogen, carlsbad, ca). the yeast strains used in this study are listed in
+table 1. for gene disruptions, the entire coding regions were replaced with
+the s. cerevisiae trp1, leu2, his3; kluyveromyces lactis ura3, leu2; schizo-
+saccharomyces pombe his5 ; or theescherichia coli kanr gene using pcr primers
+containing ⬃45 bases identical to the ﬂanking regions of the open reading
+frames. for the pcr-based integration of the 3xha, green ﬂuorescent protein
+(gfp), and rfp tags at the 3⬘ end of atg27, atg20, atg9, vrg4, and pex14
+genes, pfa6a-3ha-trp1, pfa6a-gfp-his3, pfa6a-gfp-kanmx, and pfa6a-
+mrfp-trp1 were used as templates to generate strains expressing fusion
+proteins under the control of their own promoters (longtine et al., 1998;
+campbell and choy, 2002). pcr veriﬁcation and prape1 processing were
+used to verify the functionality of all the fusion proteins.
+cells were grown in ypd (1% yeast extract, 2% peptone, 2% glucose) or
+synthetic minimal medium (smd; 0.67% yeast nitrogen base, 2% glucose,
+supplemented with the appropriate amino acids and vitamins). for starvation
+experiments, cells were shifted to synthetic medium lacking nitrogen (sd-n;
+0.17% yeast nitrogen base without amino acids and ammonium sulfate, but
+containing glucose).
+plasmids and constructions
+the carboxyl-terminal hemagglutinin (ha)
+fusion of atg27 [patg27-
+3xha(416)] was made by pcr ampliﬁcation of the atg27 orf and upstream
+500 base pairs of genomic dna, followed by ligation into the prs416–3xha
+plasmid. the plasmid patg27k188-193a-3xha(416), patg27g105n-3ha(416),
+patg27v17p-3ha(416), patg27q155n-3ha(416), and patg27d176td181t-
+3ha(416) were made using the quikchange site-directed mutagenesis kit
+(stratagene, la jolla, ca). the vectors for the gene fusion to suc2 have been
+described previously (klionsky et al., 1988). to make the atg27-suc2 fusion
+construct, the atg27 gene was ampliﬁed from s. cerevisiae genomic dna by
+pcr and cloned as a bamhi fragment. this procedure was used to generate
+an atg27 n-terminal 28 amino acids-invertase fusion. the pp4i-23 and pp4i-
+137 (klionsky et al., 1988), pcugfp-aut7(416) (kim et al., 2001a), patg1k54a
+(abeliovich et al., 2003), and prfp-ape1(414) (pps130; stromhaug et al., 2004)
+plasmids have been described previously. two plasmids, patg27-ha(424)
+and patg27k188-193a-ha(424) used for the pho8⌬60 assay, were cloned from
+the patg27–3xha(416) and patg27k188-193a-3xha(416) plasmids, respec-
+tively, into the prs424 empty vector using saci and sali sites.
+protein extraction and immunoblot analysis
+s. cerevisiae strains were generally grown at 30°c to the early midlog phase in
+ypd or smd media. cells were harvested and treated with 10% trichloroace-
+tic acid (tca) on ice for 20 min. after centrifugation at 16,000 ⫻ g for 5 min,
+cell pellets were washed with 100% acetone and air-dried. the dry cell pellets
+were resuspended in murb buffer (50 mm na2hpo4, 25 mm mes, ph 7.0,
+1% sds, 3 m urea, 0.5% ␤-mercaptoethanol, 1 mm nan3, and 0.05% bromo-
+phenol blue), disrupted by vortex with an equal volume of glass beads for 5
+582
+molecular biology of the cell
+min, and then heated at 70°c for 10 min. aliquots (od600
+by sds-page and probed with appropriate antiserum.
+⫽ 0.2) were resolved
+invertase assay
+cells expressing the atg27 signal sequence-invertase hybrid protein were
+grown to early midlog phase in smd-ura medium and then washed in 10
+mm nan3. cultures were divided into two aliquots, one for measuring the
+total activity and the other for secreted activity. cell lysate preparation was
+performed as described previously (klionsky et al., 1988). the invertase
+enzyme assay was done as described previously (goldstein and lampen,
+1975), with minor modiﬁcations: we used ␮m glucose/min/od600 for the
+unit of invertase activity, instead of using ␮m glucose/min/mg.
+endoglycosidase h treatment
+wly2 cells harboring 3xha-tagged atg27g105n were grown to late midlog
+⫽ 1.0), tca-precipitated, subjected to centrifugation at 16,000 ⫻
+phase (od600
+g, and washed once with acetone. the pellet was air-dried, and then glass
+beads and 100 ␮l elution buffer (1% sds, 0.1 m tris-hcl, ph 7.5, 1% 2-mer-
+captoethanol) were added, and the pellet was resuspended by sonication,
+followed by heating at 95°c for 5 min. after cooling, 900 ␮l of endo h buffer
+(0.15 m citric acid, ph 5.5) was added, and the resuspension was subjected to
+centrifugation at 15,000 ⫻ g for 30 s. the lysate was then split into two equal
+portions and 10 ␮l of 100 mm pmsf and protease inhibitor cocktail were
+added to each tube. endo h (10 mu) was then added to the mixture, which
+was incubated at 37°c overnight, boiled for 3 min, and subjected to immu-
+noblotting.
+cell labeling and immunoprecipitation
+cells were grown to early midlog phase in smd media. ten milliliters of cells
+were harvested, and the cells were labeled in 200 ␮l smd with 20 ␮ci
+[35s]-trans label for 10 min at 30°c. for a nonradioactive chase, 1 ml smd
+containing 0.2% yeast extract and 2 mm cysteine and methionine was added.
+at each indicated time point, samples were collected, precipitated with 10%
+tca for 20 min on ice, and then spun down at 16,000 ⫻ g for 5 min at 4°c. the
+pellets were washed twice with 1 ml acetone, and the cell extracts were
+prepared and immunoprecipitated as described previously (harding et al.,
+1995).
+microscopy
+for ﬂuorescence microscopy, yeast cells were grown in ypd or smd selective
+media or starved in sd-n before imaging. cells were visualized with a
+deltavision spectris microscope (applied precision, issaquah, wa) ﬁtted
+with differential interference contrast optics and photometrics coolsnap hq
+camera (roper scientiﬁc, tucson, az). the images were deconvolved with
+softworx software (applied precision). electron microscopy was performed
+as described previously (kaiser and schekman, 1990).
+additional assays
+for the gfp-atg8 processing assay, yeast strains harboring the gfp-atg8
+plasmid [pgfp-aut7(414)] were grown to early midlog phase in smd me-
+dium lacking auxotrophic amino acids and then shifted to sd-n medium for
+4 h. at each indicated time point, 1 ml of cell culture was removed and
+tca-precipitated. the protein extracts were resolved by sds-page and
+probed with anti-gfp mab (covance research products, berkeley, ca).
+the alkaline phosphatase assay to measure ph␱8⌬60 activity, pex14-gfp
+processing to monitor pexophagy, the protease protection assay, and the
+subcellular fractionation have been described previously (harding et al., 1995;
+noda et al., 1995; kim et al., 2001b; scott et al., 2001; tucker et al., 2003; reggiori
+et al., 2005a). the sucrose density gradient used to fractionate atg27 was
+generated as described previously (reggiori et al., 2005b) with minor modi-
+ﬁcations (1 ml each of 18, 22, 26, 30, 34, 38, 42, 46, 50, and 54% sucrose).
+results
+atg27 contains an n-terminal signal sequence
+we identiﬁed atg27⌬ in a screen for mutants defective in
+processing of the cvt pathway cargo protein precursor ami-
+nopeptidase i (prape1; nice et al., 2002 and our unpublished
+results). the etf1 gene was simultaneously identiﬁed in a
+screen based on a missorting phenotype that was synthetic
+with a vps34ts mutant (wurmser and emr, 2002); however,
+the subsequent analysis of etf1 and its gene product were
+inﬂuenced by a sequencing error originally present in the
+saccharomyces genome database. etf1 is allelic with atg27,
+and the corrected full-length atg27 protein is predicted to
+contain a signal sequence at the n terminus, based on the
+signalp program (http://www.cbs.dtu.dk/services/signalp/).
+atg27 is needed for atg9 transport
+if the additional amino acids at the n terminus function as
+an authentic signal sequence, it would likely result in a
+membrane topology different from that published previ-
+ously. accordingly, we undertook a careful analysis of
+atg27 biosynthesis.
+there are three possible models of atg27 topology (figure
+1a). in model i, atg27 has no signal peptide; with only a
+single transmembrane domain, atg27 is in a type ii orien-
+tation, in agreement with the prediction reported previously
+(wurmser and emr, 2002). the corrected full-length atg27
+with an n-terminal signal sequence is shown in models ii
+and iii. in model ii, the signal sequence of atg27 is not
+cleaved, resulting in a protein with two transmembrane
+domains; both the n and c termini of atg27 face the cytosol.
+in contrast, if model iii is correct the signal sequence of
+atg27 is cleaved giving a type i membrane protein topology.
+to distinguish among these models, we performed a pro-
+tease protection assay (figure 1b). yeast spheroplasts were
+osmotically lysed under conditions that retain the integrity
+of subcellular compartments and separated into supernatant
+and pellet fractions, and the pellet fractions were treated
+with exogenous protease. to monitor atg27, we tagged the
+c terminus with the ha epitope; the resulting protein was
+functional (data not shown). as a control, we followed the
+cleavage of the vacuole membrane protein pho8. pho8 was
+found only in the pellet fraction, indicating efﬁcient separa-
+tion of the cytosol from the membrane. the cytosolic tail of
+pho8 was protease-accessible in the absence of triton x-100,
+whereas the lumenally oriented propeptide was cleaved
+only when the vacuolar membrane was solubilized by de-
+tergent, verifying that the vacuole, and presumably other
+osmotically sensitive compartments, were intact after
+spheroplast lysis. atg27 was found in the p13 fraction as
+expected for a membrane-associated protein (figure 1b); how-
+ever, the c-terminal ha tag of atg27 was cleaved by protease
+both in the absence and the presence of detergent. this result
+suggested that the c terminus of atg27 faced the cytosol,
+ruling out the topology predicted by model i (figure 1a).
+to test the functionality of the atg27 signal sequence, we
+performed an assay for invertase secretion. invertase lacking
+its native signal sequence remains in the cytosol, whereas
+replacement with an endogenous signal sequence restores
+secretion to the periplasm (klionsky et al., 1988). we con-
+structed an atg27-suc2 fusion (a27i-28) containing the
+amino-terminal 28 amino acids of atg27 fused to invertase
+lacking its endogenous signal sequence. as controls, we
+examined two previously characterized pep4-invertase chi-
+meras. p4i-23 and p4i-137 contain the pep4 signal sequence
+(23 amino acids) and n-terminal propeptide including the
+vacuolar targeting sequence (137 amino acids), respectively
+(klionsky et al., 1988). the p4i-23 chimeric protein was efﬁ-
+ciently secreted into the periplasmic space, whereas p4i-137
+was efﬁciently retained within the cell, in agreement with
+previous data (figure 1c). to have a comparable expression
+level with controls, an overexpressed a27i-28 construct was
+used in this experiment; expression from the endogenous
+atg27 promoter was below a practical level of detection by
+this assay. the yeast strain expressing a27i-28 exhibited
+almost complete secretion of invertase activity (figure 1c).
+after normalizing to the vector control, 95% of the invertase
+activity was secreted with the a27i-28 chimera, suggesting
+that the n-terminal 28 amino acids can function as a signal
+sequence.
+to determine whether the n-terminal signal sequence of
+atg27 is cleaved, we used a molecular genetic approach.
+according to the signalp program, there is a signal sequence
+cleavage site between alanine at position 19 and leucine at
+vol. 18, february 2007
+583
+w.-l. yen et al.
+figure 1. atg27 is a type i transmembrane protein. (a) schematic
+drawing of full-length atg27. the full-length atg27 protein contains
+271 amino acids. analysis of the primary amino acid sequence using
+the signalp program indicates that atg27 has a signal sequence
+(residues 1-19) and a transmembrane (tm) region (residues 199-221)
+according to tmhmm-prediction of helices in proteins (http://
+www.cbs.dtu.dk/services/tmhmm-2.0/), in a type i membrane
+topology. the putative ptdins(3)phosphate-binding site (residues
+188–193, kkpakk) from the previous report (wurmser and emr,
+2002) is indicated. three possible membrane topologies for atg27
+are shown: i, type ii transmembrane orientation; ii, two transmem-
+brane domains; and iii, type i transmembrane protein. the asterisk
+marks the mutation introduced to replace glycine at position 105
+with asparagine, creating a glycosylation site. (b) the c terminus of
+atg27 is exposed to the cytosol. atg27-ha (wly1) and pep4⌬
+(tvy1) cells were converted into spheroplasts and then osmotically
+lysed. the cell lysates were centrifuged at 13,000 ⫻ g for 10 min to
+generate the pellet (p13) and supernatant (s13) fractions. the p13
+fractions then were resuspended and subjected to treatment with
+1% triton x-100, proteinase k, both or neither on ice for 30 min. the
+lysates were then tca-precipitated and analyzed by sds-page
+and western blot. (c) the n-terminal 28 amino acids of atg27 are
+able to direct invertase secretion. cells expressing invertase fusion
+proteins (p4i-137, p4i-23, empty vector [pseyc306], or a27i-28)
+were grown to early log phase. the cells were collected and sub-
+jected to an invertase activity assay as described in materials and
+methods. (d) the signal sequence of atg27 is cleaved. cells express-
+ing atg27-ha (wt) or atg27v17p-ha (v17p) from the patg27–
+3xha(416) or patg27v17p-3xha(416) plasmids were grown to early
+log phase. the protein extracts were analyzed by western blot and
+probed with monoclonal anti-ha antibody. (e) the lumenal region
+of atg27 translocates into the er. cells expressing atg27-ha (wt)
+and atg27g105n-ha (g105n) were grown to early log phase. the
+position 20 in atg27. a proline residue at the ⫺3 amino acid
+position would disrupt recognition of the signal sequence
+cleavage site (von heijne, 1984). we replaced the valine with
+a proline residue at the ⫺3 position, creating atg27v17p, and
+examined the effect on signal sequence cleavage. in the case
+of model ii (figure 1a) in which the signal sequence of
+atg27 is not cleaved, the wild-type atg27 and atg27v17p
+would show a similar mobility after sds-page; however, if
+the signal sequence is normally cleaved as shown in model
+iii, atg27v17p would be ⬃2 kda larger than the wild-type
+atg27. protein extracts were prepared from cells expressing
+atg27-ha and atg27v17p-ha, and the position of atg27
+was monitored by western blot. the molecular mass of
+atg27v17p was ⬃2 kda larger than that of wild-type atg27
+(figure 1d), suggesting that the predicted cleavage site was
+disrupted by the v17p mutation. these data suggest that
+atg27 contains a signal sequence that is cleaved in normal
+cellular conditions.
+as a ﬁnal assessment of the functionality of the atg27
+putative signal sequence we examined the atg27 topology
+by introducing a glycosylation site in the predicted lumenal
+region; atg27 lacks endogenous glycosylation sites. accord-
+ingly, glycosylation would conﬁrm that the introduced sites
+had gained access to the lumen of the endoplasmic reticu-
+lum (er). we introduced a canonical asn-x-thr n-linked
+glycosylation site by mutating glycine at position 105 to
+asparagine in the ha-tagged atg27 plasmid. atg27⌬ cells
+expressing atg27g105n were grown to early log phase and
+harvested, and cellular proteins were evaluated by western
+blot using an antibody against ha. atg27g105n-ha showed
+a slower mobility after sds-page compared with wild-type
+atg27-ha (figure 1e). the shift in molecular mass corre-
+sponded to ⬃2–3 kda, which would ﬁt with the increase
+expected from the addition of a single glycosyl side chain.
+to conﬁrm that the change in migration was due to glyco-
+sylation, we treated the lysates with endoglycosidase h.
+after endoglycosidase h treatment,
+the mobility of
+atg27g105n-ha was restored to that of wild-type atg27-ha.
+as a control, prc1 (carboxypeptidase y, a vacuolar hydrolase
+known to be glycosylated) was examined from the same cell
+lysates and showed similar results indicating that the mo-
+lecular mass shift of atg27g105n was due to the addition of
+sugar molecules. these results suggested that the major
+soluble domain of atg27 translocated into the er lumen.
+taken together, these data indicate that atg27 is a type i
+transmembrane protein with an n-terminal signal sequence.
+this topology is the opposite of that predicted from the
+previous studies (wurmser and emr, 2002).
+atg27 is required for the cvt pathway and pexophagy
+and for efﬁcient bulk autophagy
+previously, atg27 was reported to be speciﬁcally involved in
+the cvt pathway but not bulk autophagy (wurmser and
+emr, 2002). because of the previously mentioned sequencing
+error, we decided it was important to reinvestigate the phe-
+notype of the atg27⌬ mutation. we deleted the full-length
+atg27 gene and examined the role of atg27 in the cvt
+pathway by pulse-chase analysis of prape1 processing (fig-
+cell lysates were subjected to endoglycosidase h treatment as de-
+scribed in materials and methods. after resolution by sds-page, the
+samples were analyzed by western blot and probed with antibodies
+against prc1 and ha, separately. the positions of glycosylated and
+deglycosylated forms of both proteins are indicated. the asterisk
+indicates cross-reacting bands.
+584
+molecular biology of the cell
+atg27 is needed for atg9 transport
+ure 2a). after delivery to the vacuole, the propeptide of
+prape1 is removed resulting in a convenient molecular mass
+shift that can be followed to monitor delivery to the vacuole
+(klionsky et al., 1992). yeast strains were grown in smd
+selective media, pulse-labeled with [35s]methionine/cys-
+teine for 10 min, and then subjected to a nonradioactive
+chase fo r 2 h at30°c. ape1 was immunoprecipitated from
+the cell lysates and then analyzed by sds-page and auto-
+radiography. in a control atg1⌬ strain defective in the cvt
+pathway, prape1 processing was blocked, whereas in wild-
+type cells, prape1 was processed as expected (figure 2a). in
+the atg27⌬ strain, even after a 2-h chase, prape1 remained
+unprocessed. these data conﬁrm that atg27 is required for
+the cvt pathway.
+the cvt and autophagy pathways can be broken down
+into several steps: induction, vesicle formation and comple-
+tion, docking and fusion of the vesicle with the vacuole,
+breakdown of the cargo, and recycling. most of the atg
+proteins are involved in the vesicle formation step. to de-
+termine whether atg27 acts during vesicle formation, we
+performed an ape1 protease-sensitivity assay. if prape1 is
+enclosed in a completed vesicle, the potentially protease-
+sensitive propeptide domain would be protected from ex-
+ogenously added protease. alternatively, if atg27 is re-
+quired for vesicle formation and/or completion, prape1
+would be sensitive to the protease, and the resulting cleav-
+age would result in a molecular mass shift. to block the
+delivery of prape1 to the vacuole and subsequent prape1
+processing within this organelle, we used a pep4⌬ vam3ts
+strain that is defective for fusion of vesicles with the vacuole
+at the nonpermissive temperature and that cannot process
+the propeptide within the vacuole lumen. spheroplasts from
+the wild-type (pep4⌬ vam3ts) strain and from this strain
+deleted for the atg1 or atg27 gene were incubated at 37°c
+for 20 min to inactivate the vam3 protein. the cells were
+then pulse-labeled with [35s]methionine/cysteine for 10
+min, followed by a nonradioactive chase reaction. after
+osmotic lysis the low-speed pellet fractions, which contained
+prape1, were subjected to proteinase k treatment in the
+presence or absence of detergent. in the wild-type cells,
+prape1 was protected from exogenously added protease
+and was digested only after the membrane was disrupted
+with detergent (figure 2b). in atg1⌬ cells, a portion of
+prape1 was sensitive to the protease in the absence of de-
+tergent, reﬂecting a defect in vesicle formation and/or com-
+pletion. similarly, in the atg27⌬ strain, an equivalent fraction
+of prape1 was protease-accessible independent of detergent
+addition, indicating that the prape1 was not completely
+enwrapped by the membrane. this result suggests that
+atg27 functions in the vesicle formation/completion step.
+next, we extended our study to examine the role of atg27
+in the speciﬁc degradation of peroxisomes, termed pexoph-
+agy, and bulk or nonspeciﬁc autophagy. to test the role of
+atg27 in pexophagy, we monitored the degradation of the
+peroxisomal integral membrane protein pex14. the c termi-
+smd to sd-n medium for 4 h. samples at the indicated time points
+were collected, and protein extracts were assayed for alkaline phos-
+phatase activity. the result represents the mean of three separate
+experiments, and the error bars represent the sd. (e) wild-type
+(wt; sey6210), atg1⌬ (why001), and atg27⌬ (wly2) strains har-
+boring a plasmid expressing gfp-atg8 [pgfp-aut7(414)] were
+grown in smd lacking auxotrophic amino acids and shifted to
+sd-n. aliquots were removed at the indicated time points. protein
+extracts were prepared and resolved by sds-page. after western
+blot, the membranes were probed with anti-gfp antibody.
+figure 2. the atg27⌬ mutant is defective for autophagy-related
+pathways. (a) atg27⌬ cells are defective in the cvt pathway. wild-
+type (wt; sey6210), atg1⌬ (why001), and atg27⌬ (wly2) cells
+were pulse-labeled for 10 min and subjected to a nonradioactive
+chase for 2 h. at the indicated time points cells were collected and
+tca-precipitated. the cell lysates were immunoprecipitated with
+anti-ape1 serum, resolved by sds-page, and then subjected to
+autoradiography. the positions of prapel and mapel are indicated.
+(b) atg27 functions in the vesicle formation and/or completion step.
+spheroplasts from the wild-type (pep4⌬ vam3ts; wly36) strain or
+this same strain harboring the atg1⌬ (wly74) or atg27⌬ (wly33)
+deletions were incubated at 37°c for 20 min, pulse-labeled with
+[35s]methionine/cysteine for 10 min, and then subjected to a non-
+radioactive chase for 27 min. the spheroplasts were osmotically
+lysed and separated into low-speed pellet and supernatant fractions
+after 5000 ⫻ g centrifugation. the pellet fractions that contained
+prape1 were treated with proteinase k in the presence or absence of
+0.2% triton x-100. the resulting samples were immunoprecipitated
+with ape1 antiserum and resolved by sds-page. (c) atg27 is
+required for efﬁcient pexophagy. pex14-gfp (wt; ira001), pex14-
+gfp atg1⌬ (ira002), and pex14-gfp atg27⌬ (wly27) strains were
+grown in oleic acid–containing medium to induce peroxisome pro-
+liferation and shifted to starvation medium. protein extracts were
+prepared from cells at each indicated time point, resolved by sds-
+page, and probed with monoclonal anti-gfp antibody. the posi-
+tions of pex14-gfp and free gfp are indicated. (d) atg27⌬ has an
+intermediate autophagy defect. atg1⌬ (hay572), wild-type (tn124),
+and atg27⌬ (wly3) cells expressing pho8⌬60 were shifted from
+vol. 18, february 2007
+585
+w.-l. yen et al.
+nus of pex14 was chromosomally tagged with gfp. the
+induction of pexophagy results in delivery of peroxisomes
+into the vacuoles and pex14 degradation, whereas the gfp
+moiety remains relatively stable within the vacuole lumen.
+thus, the appearance of free gfp correlates with pexophagy
+(reggiori et al., 2005a). pexophagy was induced as described
+in materials and methods. in wild-type cells expressing pex14-
+gfp, peroxisomes were delivered into the vacuoles upon
+pexophagy induction, represented by the appearance of free
+gfp (figure 2c). no free gfp was detected in the atg1⌬ strain,
+indicating that the assay reﬂects an autophagic process. pex14-
+gfp underwent processing in atg27⌬ cells; however, there was
+a kinetic delay relative to the wild-type strain, indicating that
+atg27 is required for efﬁcient pexophagy.
+in the previous study (wurmser and emr, 2002), atg27⌬
+cells were reported to process prape1 after induction of
+autophagy by rapamycin. analysis of prape1 processing is
+not sufﬁcient for monitoring autophagy, however, because
+prape1 is a speciﬁc marker; import in starvation conditions
+still utilizes speciﬁcity components including the receptor
+atg19 (scott et al., 2001). therefore, we performed additional
+experiments to test the role of atg27 in nonspeciﬁc autoph-
+agy. to make a quantitative measurement of autophagy, we
+utilized pho8⌬60, a truncated version of the vacuolar alka-
+line phosphatase, pho8. pho8⌬60, lacking the n-terminal
+transmembrane domain, is unable to enter the er and accu-
+mulates in the cytosol; it is only delivered into the vacuole
+through autophagy (noda et al., 1995). once inside the vac-
+uole this protein is cleaved and becomes enzymatically ac-
+tive. thus, pho8⌬60 activity serves as a marker for bulk
+cytosolic autophagy. the pho8⌬60 activity was measured in
+wild-type, atg1⌬, and atg27⌬ cells (figure 2d). as expected,
+atg1⌬ cells that are defective in autophagy showed no in-
+crease of pho8⌬60 activity after autophagy was induced.
+wild-type cells showed pho8⌬60 activity that increased after
+2–4 h of starvation, whereas atg27⌬ cells induced pho8⌬60
+activity to ⬍50% of the wild-type level. the partial induction
+of pho8⌬60 activity suggested that autophagy occurred in
+atg27⌬ cells but not as efﬁciently as in wild-type cells.
+the partial block in nonspeciﬁc autophagy led us to fur-
+ther analyze the role of atg27 through another biochemical
+approach, gfp-atg8 processing. atg8 is an ubiquitin-like
+protein that
+is conjugated to phosphatidylethanolamine
+(kirisako et al., 1999; huang et al., 2002) and is one of two
+atg proteins that remain associated with the completed
+autophagosome membrane. similar to pex14-gfp, atg8 is
+degraded after delivery into the vacuole, whereas the gfp
+moiety is again relatively stable (shintani et al., 2002). wild-
+type, atg1⌬, and atg27⌬ cells were transformed with a plas-
+mid-based gfp-atg8, grown in smd medium and then
+subjected to nitrogen starvation. at various time points,
+aliquots were removed and tca-precipitated and then sub-
+jected to western blot using anti-gfp antibody (figure 2e).
+in wild-type cells, the amount of free gfp increased over
+time during starvation, representing a functional autophagy
+pathway, whereas in autophagy-defective atg1⌬ cells, no
+free gfp was detected. in the atg27⌬ mutant, there was a
+kinetic delay in free gfp accumulation compared with the
+wild-type strain. this result agreed with the pho8⌬60 anal-
+ysis and further suggested that the atg27⌬ mutant had an
+intermediate autophagy defect.
+the atg27⌬ mutant had an intermediate autophagy defect
+as examined by pho8⌬60 activity and the gfp-atg8 process-
+ing assays under starvation conditions (figure 2, d and e).
+two possibilities may explain the phenotype of atg27⌬: a
+reduction of either autophagosome size or autophagosome
+number. to determine the role for atg27 in autophagosome
+figure 3. the atg27⌬ mutant generated fewer autophagosomes.
+(a) the wild-type (pep4⌬ vps4⌬; fry143), atg1⌬ (jhy28), and atg27⌬
+(wly8) strains were grown to early log phase in ypd, shifted to
+sd-n for 5 h toinduce autophagy, and examined by electron
+microscopy as described in materials and methods. bar, 0.5 ␮m. (b)
+quantiﬁcation of the diameter of autophagic bodies (ab). to quan-
+tify the size of the accumulated abs inside the vacuole, the diameter
+of abs with a clear membrane boundary was measured. the num-
+ber of abs counted was 50 for the atg27⌬ strain and 67 for wild type.
+(c) quantiﬁcation of autophagic body accumulation. to quantify
+the number of abs accumulated, the number of autophagic bodies
+was counted in cells containing similar-sized vacuoles.
+biogenesis, we used electron microscopy to examine the
+ultrastructure of the autophagic bodies accumulated in the
+absence of atg27 (figure 3a). autophagosomes are double-
+membrane vesicles. after the outer membrane of an auto-
+phagosome fuses with the vacuole limiting membrane, the
+single-membrane inner vesicles, now termed autophagic
+bodies, are released into the vacuolar lumen where they are
+degraded in a pep4-dependent manner. in pep4⌬ cells,
+which lack vacuolar proteinase a activity, the breakdown of
+autophagic bodies is blocked, allowing them to be visualized
+by electron microscopy. to eliminate the background vesi-
+cles that are delivered into the vacuole through the multive-
+sicular body pathway, we deleted the vps4 gene (reggiori et
+al., 2004b). wild-type, atg1⌬, and atg27⌬ strains additionally
+harboring pep4⌬ vps4⌬ double mutations were grown in
+586
+molecular biology of the cell
+atg27 is needed for atg9 transport
+figure 4. atg27 cycles among the pas, mitochondria,
+and golgi complex. (a) atg27 localizes to the pas and
+partially to the mitochondria and golgi. the strain ex-
+pressing chromosomally tagged atg27-gfp (wly5)
+carrying either a pas marker [prfp-ape1(414)] or ex-
+pressing chromosomally tagged vrg4-rfp (golgi com-
+plex marker; wly6) were grown to early log phase or
+nitrogen starved for 3 h before imaging. for mitochon-
+drial staining, the atg27-gfp culture was incubated for
+30 min in the presence of 1 ␮m mitofluor red 589
+(molecular probes, eugene, or). the arrows indicate
+the colocalization of atg27-gfp with mitochondria or
+the golgi complex. (b) atg27 is restricted to the pas in
+atg1⌬ cells. the chromosomally tagged atg27-gfp
+atg1⌬ strain (wly11) carrying a pas marker [prfp-
+ape1(414)] was grown in selective medium to early log
+phase and then visualized by ﬂuorescence microscopy.
+(c and d) the absence of atg13, but not reduced atg1
+kinase activity, affected atg27 localization. (c) the chro-
+mosomally tagged atg27-gfp atg1⌬ strain carrying an
+atg1 kinase mutant (atg1k54a) plasmid and (d) the
+atg27-gfp atg13⌬ strain (wly18) were grown in selec-
+⫽ 0.8 and analyzed by
+tive smd medium to od600
+ﬂuorescence microscopy. essentially identical results
+were obtained when cells were incubated in starvation
+medium. (e) atg2 and atg18 are required for efﬁcient
+atg27 retrograde cycling from the pas. the chromo-
+somally tagged atg27-gfp atg2⌬ strain (wly78) and
+atg27-gfp atg18⌬ strain (wly70) were grown in smd
+medium and ﬁxed with 1.5% formaldehyde in 50 mm
+potassium phosphate buffer (ph 8) for 30 min before
+imaging. dic, differential interference contrast.
+ypd to early log phase and then shifted to sd-n for 5 h and
+prepared for electron microscopy as described in materials
+and methods.
+wild-type (pep4⌬ vps4⌬) cells showed numerous autoph-
+agic bodies, with 13–15 autophagic bodies in 22% of the
+vacuoles and an average of 14.62 ⫾ 5.31 per vacuole after 5-h
+starvation (figure 3, a and c; n ⫽ 63 vacuoles). the control
+atg1⌬ pep4⌬ vps4⌬ cells, defective in autophagy, did not
+accumulate autophagic bodies as expected. the atg27⌬
+pep4⌬ vps4⌬ cells accumulated a reduced number of these
+structures, with 1–3 autophagic bodies in 44% of the vacu-
+oles and an average of 3.13 ⫾ 2.62 per vacuole (n ⫽ 77
+vacuoles). to determine whether atg27⌬ pep4⌬ vps4⌬ cells
+accumulated normal-sized autophagic bodies, we quantiﬁed
+their size in wild-type and atg27⌬ pep4⌬ vps4⌬ cells by
+measuring the diameter (figure 3b). we found that the
+autophagic bodies accumulated in wild-type and atg27⌬
+pep4⌬ vps4⌬ cells were similar in diameter, suggesting that
+atg27⌬ pep4⌬ vps4⌬ cells produced normal sized autophago-
+somes. taken together, the reduction of the autophagic body
+number in addition to the biochemical data indicate that the
+decreased efﬁciency of nonspeciﬁc autophagy in the atg27⌬
+mutant was not due to a structural defect in autophagosome
+formation but rather a kinetic delay in the process.
+vol. 18, february 2007
+587
+w.-l. yen et al.
+atg27 cycles among the pas, mitochondria, and golgi
+complex
+it has been shown that atg27 localizes to multiple uniden-
+tiﬁed perivacuolar punctate structures (wurmser and emr,
+2002). to gain insight into the function of atg27, we decided
+to examine the structures at which atg27 resides in vivo by
+using ﬂuorescence microscopy. a common feature of atg
+proteins is that they appear to transiently localize at the pas.
+the function of the pas is not clear, but it has been impli-
+cated in the formation of cvt vesicles and autophagosomes
+(suzuki et al., 2001; kim et al., 2002). we hypothesized that
+atg27 may have the same subcellular distribution as most
+other atg proteins. to monitor the pas localization of
+atg27, we generated a functional c-terminal gfp fusion at
+the atg27 chromosomal locus. an atg27-gfp strain har-
+boring an rfp-ape1 plasmid was grown to the early log
+phase and then visualized by ﬂuorescence microscopy (top
+panel of figure 4a). atg27-gfp was distributed in several
+subcellular punctate structures, only one of which colocal-
+ized with the pas marker rfp-ape1. next, we extended our
+study by examining the colocalization of organelle markers
+with the non-pas population of atg27. among the organelle
+markers that we examined, atg27-gfp partially colocalized
+with the mitochondrial (mitofluor red) and golgi complex
+markers (vrg4-rfp; middle and bottom panels of figure
+4a). atg27-gfp was found to not colocalize with the er or
+peroxisomes (data not shown).
+most atg proteins can only be detected at the pas. two
+exceptions, atg9 and atg23, show unique localization in
+multiple punctate structures other than the pas (tucker et
+al., 2003; reggiori et al., 2004a), similar to the atg27 distri-
+bution. both atg9 and atg23 cycle between the pas and
+mitochondria (reggiori et al., 2004a). this cycling is depen-
+dent on the atg1-atg13 complex (reggiori et al., 2004a).
+atg1 is a serine/threonine kinase, which may play an im-
+portant role in regulating the switch between the cvt path-
+way and autophagy. in atg1⌬ cells, both atg9 and atg23 are
+restricted to the pas (reggiori et al., 2004a). we visualized
+atg27-gfp distribution in atg1⌬ cells to see if atg27 showed
+a similar trafﬁcking pattern (figure 4b). the majority of
+atg27 was restricted to the pas in the absence of atg1, as
+indicated by colocalization with rfp-ape1 in both growing
+and starvation conditions, but occasionally with some addi-
+tional very faint punctate structures in the cytosol. this pas
+restriction could be reversed and the wild-type localization
+restored by expressing a plasmid encoding wild-type atg1
+(data not shown). moreover, a recent study showed that
+atg1 kinase activity is required for atg23 cycling in growing
+conditions, but not for atg9 cycling (reggiori et al., 2004a). a
+plasmid containing an atg1 mutant with reduced kinase
+activity (atg1k54a; kamada et al., 2000) was introduced into
+the atg27-gfp atg1⌬ strain. similar to atg9, atg27 distribu-
+tion was not affected when the atg1 kinase activity was
+reduced in both growing and starvation conditions (figure
+4c).
+the regulatory function of atg1 is regulated through pro-
+tein–protein interactions with several other atg proteins
+(kamada et al., 2000). therefore, we examined the effect on
+atg27 localization of mutants deleted for atg1-interacting
+proteins. with the exception of atg13, deletion of other atg
+proteins we screened had no effect on atg27 distribution
+(figure 4d and data not shown). similar to atg1⌬, most of
+the atg27-gfp was restricted to the pas in atg13⌬ cells
+under both growing and starvation conditions. taken to-
+gether, these data show that atg27 cycles between the pas
+and the non-pas pool in an atg1-atg13 complex–depen-
+figure 5. atg27 localizes to mitochondria and the golgi complex.
+⫽ 1.0 and
+the atg27-ha (wly1) strain was grown in ypd to od600
+converted into spheroplasts. the spheroplasts were osmotically
+lysed and separated into pellet (p13) and supernatant (s13) fractions
+after a 13,000 ⫻ g centrifugation. the p13 pellet fraction was sepa-
+rated on a sucrose density gradient (18–54%) and centrifuged for
+18 h at 176,000 ⫻ g as described in materials and methods. a total of
+13 fractions were collected from the top to the bottom of the gradi-
+ent and were subjected to immunoblot analysis with antiserum
+against atg27-ha, atg9, pma1 (plasma membrane), por1 (mito-
+chondria), mnn1 (golgi complex), and pho8 (vacuole).
+dent manner, but normal atg1 kinase activity is not required
+for atg27 trafﬁcking.
+the results with the atg1⌬ and atg13⌬ strains indicated
+that atg27 cycling was dependent on the atg1-atg13 com-
+plex, similar to atg9. to further examine the cycling pattern
+of atg27, we tested the effect on atg27 movement of other
+factors that are required for atg9 trafﬁcking. in the absence
+of either atg2 or atg18, atg9 is restricted to the pas (reg-
+giori et al., 2004a). atg27 distribution in the atg2⌬ and atg18⌬
+strains was also conﬁned to one strong dot, although addi-
+tional faint dots could also be detected (figure 4e). thus,
+atg27 appears to have a less stringent requirement for com-
+ponents involved in retrograde cycling. along these lines,
+atg27 cycling was independent of atg14 (see figure 7b) in
+contrast to atg9. the actin cytoskeleton is required for atg9
+anterograde movement; atg9 does not accumulate at the
+pas in the atg1ts strain treated with latrunculin a at the
+nonpermissive temperature (reggiori et al., 2005a). we were
+unable to determine the requirement of actin ﬁlaments in
+atg27 cycling, however, because of a delayed pas accumu-
+lation phenotype seen with atg27-gfp in the atg1ts strain;
+atg27⌬ cells lost viability after treatment with latrunculin a
+before we could assay the movement of atg27-gfp.
+finally, to extend our analysis of atg27 localization, a p13
+pellet fraction from the atg27-ha strain was separated on a
+sucrose density gradient as described in materials and meth-
+ods (figure 5). after centrifugation at 176,000 ⫻ g for 18 h at
+4°c, 13 fractions were collected from the top to the bottom
+and subjected to immunoblot analysis. the vacuole mem-
+brane marker pho8 was concentrated in the top fractions,
+whereas the plasma membrane marker, pma1, was in the bot-
+tom fractions. in agreement with a previous report (reggiori et
+al., 2005b), the p13 population of atg9 cofractionated with
+mitochondria (por1). atg27-ha was distributed through
+several fractions with the peak concentration in fraction 7. a
+population of atg27 cofractionated with mitochondria
+(por1) and the golgi complex (mnn1), supporting the ﬂuo-
+rescence data suggesting that atg27 resides in these mem-
+brane compartments.
+588
+molecular biology of the cell
+atg27 is needed for atg9 transport
+figure 6. atg27 functions before atg1 and is required
+for atg9 cycling. (a) atg27 is required for atg9 antero-
+grade trafﬁcking. the chromosomally tagged atg9-gfp
+(wt; jly44), atg9-gfp atg1⌬ (jly45), atg9gfp atg27⌬
+(jly43), and atg9-gfp atg1⌬ atg27⌬ (jly47) strains ex-
+pressing plasmid-based rfp-atg8 were grown to
+⫽ 0.8 in selective smd medium and visualized by
+od600
+ﬂuorescence microscopy. arrows locate the pas marker
+rfp-atg8. (b) atg9 localizes to mitochondria in the
+atg27⌬ and atg1⌬ atg27⌬ mutants. the chromosomally
+tagged atg9-gfp atg27⌬ (jly43) and atg9-gfp atg1⌬
+atg27⌬ (jly47) strains were grown in smd complete
+medium, and mitochondria were stained by incubating
+for 30 min in the presence of 1 ␮m mitofluor red 589.
+(c) the c-terminal cytosolic portion of atg27 is not
+required for atg9 cycling. chromosomally tagged atg9-
+gfp atg1⌬ atg27⌬c (wly49) cells were grown to early-
+log phase and collected for ﬂuorescence microscopy. (d)
+atg9 is required for atg27 cycling from the non-pas
+structures to the pas. the chromosomally tagged
+atg27-gfp atg1⌬ atg9⌬ strain (wly41) expressing chro-
+mosomally tagged rfp-ape1 was grown to early log
+phase in selective smd medium before imaging. dic,
+differential interference contrast.
+atg27 is required for atg9 cycling from the mitochondria
+to the pas
+atg9, atg23, and atg27 have a common phenotype involv-
+ing the pas and multiple additional punctate dots. atg23 is
+needed for delivery of atg9 to the pas (j. e. legakis, w.-l.
+yen, and d. j. klionsky, unpublished results). to examine
+whether atg27 is required for atg9 localization before atg1
+function, we performed an epistasis analysis termed the
+transport of atg9 after knocking out atg1 (taka) assay
+(cheong et al., 2005). in wild-type cells atg9 displayed mul-
+tiple punctate dots, one of which localized to the pas,
+indicated by colocalization with the pas marker rfp-atg8
+(figure 6a). in an atg1⌬ strain, atg9 was restricted to the
+pas, as previously shown (reggiori et al., 2004a; figure 6a).
+in both atg27⌬ and atg1⌬ atg27⌬ double mutant cells, atg9
+localized to multiple punctate dots, with none of the dots
+corresponding to the pas marker, indicating that atg9 was
+unable to reach the pas. the colocalization of atg9 with
+mitofluor red conﬁrmed that a population of atg9 was
+restricted to the mitochondria in the atg27⌬ and atg1⌬
+atg27⌬ double mutants (figure 6b). this result suggested
+that atg27 functions before atg1 in atg9 cycling and is
+required for atg9 movement from the mitochondria to the
+pas.
+vol. 18, february 2007
+589
+w.-l. yen et al.
+figure 7. binding to ptdins(3)p is not required for
+atg27 function. (a) atg27 localization is not affected by
+vps34. chromosomally tagged atg20-gfp and atg27-
+gfp strains expressing plasmid-based vps34ts and rfp-
+ape1 (wly50 and wly51, respectively) were grown in
+⫽ 0.8 at 26°c or shifted
+selective smd medium to od600
+to 38°c for 12 min before imaging. (b) atg14 does not
+affect atg27 pas localization. the atg27-gfp atg14⌬
+strain (wly52) expressing rfp-ape1 was grown in se-
+lective smd medium and visualized by ﬂuorescence
+microscopy. bar, 5 ␮m.
+the type i topology suggests that the majority of atg27 is
+localized on the lumenal side of the membrane, whereas
+atg23 is a cytosolic protein. to determine whether the cy-
+tosolic tail of atg27 is required for the movement of atg9,
+we tested the effect of an atg27 truncation on atg9 cycling.
+we generated a version of atg27 lacking the c-terminal
+cytosolic tail, atg27⌬c. in atg1⌬ atg27⌬c cells, atg9 was
+restricted in one dot similar to the localization in the atg1⌬
+strain (figure 6c). this result indicates that the cytosolic c
+terminus of atg27 is not required for anterograde movement
+of atg9 to the pas.
+in light of the data that atg27 is required for atg9 cycling,
+we decided to test the requirement of atg9 for atg27 move-
+ment. in atg9⌬ and atg1⌬ atg9⌬ cells, atg27 localized to
+multiple punctate structures similar to the wild-type atg27
+distribution except that none of the dots corresponded with
+the pas marker (figure 6d and data not shown). this result
+indicated that atg9 functions in atg27 cycling before atg1
+and is required for atg27 movement from the non-pas
+structures (mitochondria and golgi complex) to the pas.
+atg27 localization does not require vps34 function
+in the yeast s. cerevisiae, vps34 is the only ptdins 3-kinase.
+vps34 is found in two distinct tetrameric complexes named
+complex i and complex ii (kihara et al., 2001). vps34 kinase
+complex i generates ptdins(3)p at the pas and is essential
+for both the cvt pathway and autophagy (kihara et al., 2001;
+kim et al., 2002; nice et al., 2002). etf1 was originally iden-
+tiﬁed as a ptdins(3)p binding protein, which functions as a
+vps34 downstream effector speciﬁcally involved in the cvt
+pathway (wurmser and emr, 2002). given the type i mem-
+brane protein topology that we demonstrated (figure 1), the
+proposed ptdins(3)p-binding site in etf1/atg27 would not
+be exposed to the cytosol, yet ptdins(3)p is generally limited
+590
+molecular biology of the cell
+to the cytosolic face of membranes. to examine the require-
+ment for ptdins(3)p in atg27 localization, we analyzed a
+temperature-sensitive vps34 (vps34ts) mutant (figure 7a).
+atg20, a phox homology domain-containing protein re-
+quired for cvt pathway function, binds to ptdins(3)p and
+requires vps34 for its localization (nice et al., 2002) and
+served as a control. in vps34ts cells grown at permissive
+temperature (26°c), atg20-gfp showed one strong dot lo-
+calized at the pas indicated by the colocalization with rfp-
+ape1. after shifting to 38°c, a nonpermissive temperature,
+for 12 min, atg20-gfp dissociated from the membrane and
+was dispersed throughout the cytosol. in contrast, atg27-
+gfp distribution was similar in both wild-type and vps34ts
+mutant cells at permissive as well as nonpermissive temper-
+atures. moreover, atg27 still localized to the pas even after
+vps34 was inactivated. to further conﬁrm that the pas
+localization of atg27 does not require binding to ptdins(3)p,
+we examined the localization of atg27 in an atg14⌬ back-
+ground. atg14, one of the components in vps34 complex i,
+is required to localize the vps34 complex to the pas (obara
+et al., 2006). in the atg14⌬ mutant, atg27-gfp distribution
+was not affected, and the chimera still localized to the pas
+(figure 7b). because atg27 localization was not affected by
+inactivation of vps34 or deletion of atg14, we concluded
+that atg27 does not bind ptdins(3)p or at least does not
+require binding for its localization.
+to further test our conclusion, we mutated the previously
+proposed putative ptdins(3)p binding site on etf1/atg27
+(residues 188-193; wurmser and emr, 2002) and tested the
+function of the mutant atg27k188-193a. first, we examined
+the complementation of the plasmid-based atg27k188-193a
+by pulse-chase analysis of prape1 import in the atg27⌬
+background. both wild-type atg27 and atg27k188-193a con-
+structs driven by the endogenous promoter showed ⬃85%
+complementation of the prape1 import defect of atg27⌬ cells
+after a 2-h chase (data not shown), indicating that this con-
+struct was functional for the cvt pathway. we also tested the
+complementation of the atg27k188-193a mutant by the taka
+assay (figure 8a). plasmids encoding either wild-type
+atg27 or atg27k188-193a but not the empty vector allowed
+atg9 cycling from the non-pas pool to the pas in the atg1⌬
+atg27⌬ background under both growing (figure 8a) and
+starvation conditions (data not shown). to test the function
+of the atg27k188-193a mutant in autophagy, we examined
+nonspeciﬁc uptake of the cytosolic marker pho8⌬60. we trans-
+formed the atg27⌬ pho8⌬60 strain with a plasmid encoding
+either wild-type atg27 or atg27k188-193a. the pho8⌬60
+activity of the strains expressing atg27 and atg27k188-193a
+were essentially identical to that of the wild-type strain
+(figure 8b). this result supports the conclusion that
+ptdlins(3)p binding by atg27 is not required for atg27 func-
+tion.
+discussion
+atg27 was characterized as a type ii transmembrane protein
+(wurmser and emr, 2002); however, this assessment was
+based on an incorrect sequence that had been present in the
+saccharomyces genome database. the corrected full-length
+atg27 includes an n-terminal extension that contains a sig-
+nal sequence, which would typically result in an orientation
+opposite to the one reported. in the present study we
+showed that atg27 is in fact a type i transmembrane protein
+(figure 1). also in the original description, atg27 was re-
+ported to be required for the cvt pathway but not autoph-
+agy. that conclusion was based solely on an analysis of
+prape1 processing in conditions that induce autophagy
+atg27 is needed for atg9 transport
+figure 8. mutation of the atg27 putative ptdins(3)p binding site
+has no effect on function. (a) the atg27k188-193a mutant does not
+affect atg9 cycling to the pas. the chromosomally tagged atg9-
+gfp atg1⌬ atg27⌬ strain (jly47) expressing either plasmid-based
+atg27–3xha, atg27k188-193a-3xha or vector were grown in selec-
+tive smd medium and visualized by ﬂuorescence microscopy. dic,
+(b) wild-type (tn124), atg1⌬
+differential
+(hay572), and atg27⌬ (wly40) strains and the atg27⌬ strain ex-
+pressing plasmid-based wild-type atg27-ha or atg27k188-193a-ha
+were shifted from smd to sd-n medium for 4 h. samples were
+colleted at the indicated time points, and protein extracts were
+assayed for pho8⌬60-dependent alkaline phosphatase activity. the
+results represent the mean of three separate experiments and the
+error bars represent the sd.
+interference contrast.
+(wurmser and emr, 2002); however, more recent studies
+have shown that monitoring prape1 is not sufﬁcient to
+assess autophagic capacity (cheong et al., 2005). our analy-
+sis of the atg27⌬ mutant phonotype demonstrated that
+atg27 is required for efﬁcient autophagy and pexophagy
+(figures 2 and 3).
+one of the major questions about the process of autoph-
+agy is the source of the lipid that is used for formation of
+autophagosomes and the mechanism used for lipid move-
+ment to the vesicle assembly site. unlike most endomem-
+brane trafﬁcking processes in which the vesicles bud from a
+vol. 18, february 2007
+591
+w.-l. yen et al.
+pre-existing membrane surface, the double-membrane of the
+autophagosome is thought to form de novo and likely in-
+volves an expansion process that necessitates multiple mem-
+brane delivery events. until now, atg9 was the only poten-
+tial candidate to help us understand the mechanism and the
+source of the membrane for autophagosome formation. re-
+cent studies show that atg9 cycles between the pas and the
+mitochondria (reggiori et al., 2005b). this characteristic, cou-
+pled with it being an integral membrane protein, make atg9
+a potential carrier bringing membrane to the autophago-
+some formation site. these studies also suggest that the
+mitochondria are part of the membrane source for the dou-
+ble-membrane vesicles. in this report, we show that atg27 is
+the second transmembrane protein that is involved in vesicle
+formation in the cvt pathway and autophagy. we found
+that atg27 localizes to the mitochondria and the golgi com-
+plex. similar to atg9, atg27 cycles between mitochondria
+and the pas, as well as the golgi complex, and possibly
+other unknown structures. these characteristics of atg27
+lead us to suggest that atg27 may also mark the membrane
+source that is donated to the forming vesicles. the localiza-
+tion of atg27 to the golgi complex ﬁts with previous studies
+implicating this organelle as another source of membrane
+for the forming vesicles (reggiori et al., 2004b).
+to gain insight on how lipid is recruited to the sequester-
+ing vesicles, we investigated the mechanisms that regulate
+atg9 cycling. this is a complex process and several compo-
+nents have been shown to be required for atg9 cycling
+between the pas and the mitochondria, including the atg1-
+atg13 complex, atg2, atg18, and the ptdins 3-kinase com-
+plex i (reggiori et al., 2004a). in contrast, the atg compo-
+nents that are required for atg9 anterograde transport from
+the mitochondria to the pas have not yet been identiﬁed;
+however, we have shown that the actin cytoskeleton is in-
+volved in this step (reggiori et al., 2005a). we have recently
+discovered that atg27, atg23, and atg11 are all required for
+atg9 anterograde trafﬁcking (figure 6; j. e. legakis, w.-l.
+yen, and d. j. klionsky, unpublished results; he et al., 2006).
+the requirement for atg27 in atg9 cycling suggests that
+these two proteins may interact with each other. the ﬁnding
+that atg9 interacts with atg27 by yeast two-hybrid analysis,
+and afﬁnity isolation supports this idea (j. e. legakis, w.-l.
+yen, and d. j. klionsky, unpublished results).
+etf1/atg27 was originally identiﬁed as a ptdins(3)p-bind-
+ing protein, and a putative ptdins(3)p-binding site was pro-
+posed in the previous study; upon mutation of the proposed
+site, the mutant lost the ability to bind this phosphoinositide
+(wurmser and emr, 2002). from the detailed topological
+characterization, we found that this putative binding site
+resides in the lumenal portion of the protein. because
+ptdins(3)p is present on the cytosolic face of membranes, it
+is highly unlikely that a binding site is in the lumen. our
+studies suggest that atg27 does not bind to ptdins(3)p via
+this lumenal domain and that the presence of ptdins(3)p
+does not inﬂuence the localization of atg27 (figures 7 and
+8). moreover, mutation of this site did not affect the function
+of atg27 in either the cvt pathway or autophagy (figure 8b
+and data not shown). therefore, we concluded that atg27 is
+probably not a ptdins(3)p-binding protein and that at any
+rate, binding to this phosphoinositide does not play a role in
+its function.
+atg27 is the second transmembrane atg protein that is
+required for the formation of the sequestering vesicle in
+autophagy-related pathways. the topology of atg27 indi-
+cates that the majority of the protein would be present
+within the intermembrane space between the autophago-
+some inner and outer vesicle membrane or in the lumenal
+space during autophagosome formation. the speciﬁc func-
+tion of this domain is not known. further analysis of atg27
+may provide more information regarding the membrane
+sources in autophagy and the cycling of proteins that are
+proposed to deliver membrane to the site of autophagosome
+formation.
+acknowledgments
+we thank dr. kay hofmann (bioinformatics group, miltenyi biotec gmbh,
+cologne, germany) and dr. scott emr (university of california, san diego)
+for providing information about the frameshift error in the atg27 sequence.
+d.j.k. is supported by national institutes of health public health service
+grant gm53396.
+references
+abeliovich, h., zhang, c., dunn, w. a., jr., shokat, k. m., and klionsky, d. j.
+(2003). chemical genetic analysis of apg1 reveals a non-kinase role in the
+induction of autophagy. mol. biol. cell 14, 477–490.
+campbell, t. n., and choy, f. y. (2002). expression of two green ﬂuorescent
+protein variants in citrate-buffered media in pichia pastoris. anal. biochem.
+311, 193–195.
+cheong, h., yorimitsu, t., reggiori, f., legakis, j. e., wang, c.-w., and
+klionsky, d. j. (2005). atg17 regulates the magnitude of the autophagic
+response. mol. biol. cell 16, 3438–3453.
+dunn, w. a., jr., cregg, j. m., kiel, j.a.k.w., van der klei, i. j., oku, m., sakai,
+y., sibirny, a. a., stasyk, o. v., and veenhuis, m. (2005). peoxphagy: the
+selective autophagy of peroxisomes. autophagy 1, 75–83.
+gerhardt, b., kordas, t. j., thompson, c. m., patel, p., and vida, t. (1998). the
+vesicle transport protein vps33p is an atp-binding protein that localizes to
+the cytosol in an energy-dependent manner. j. biol. chem. 273, 15818–15829.
+goldstein, a., and lampen, j. o. (1975). ␤-d-fructofuranoside fructohydrolase
+from yeast. methods enzymol. 42, 504–511.
+harding, t. m., morano, k. a., scott, s. v., and klionsky, d. j. (1995). isolation
+and characterization of yeast mutants in the cytoplasm to vacuole protein
+targeting pathway. j. cell biol. 131, 591–602.
+he, c., song, h., yorimitsu, t., monastyrska, i., yen, w.-l., legakis, j. e., and
+klionsky, d. j. (2006). recruitment of atg9 to the pre-autophagosomal struc-
+ture by atg11 is essential for selective autophagy in budding yeast. j. cell
+biol. (in press).
+huang, w.-p., scott, s. v., kim, j., and klionsky, d. j. (2000). the itinerary of
+a vesicle component, aut7p/cvt5p, terminates in the yeast vacuole via the
+autophagy/cvt pathways. j. biol. chem. 275, 5845–5851.
+kaiser, c. a., and schekman, r. (1990). distinct sets of sec genes govern
+transport vesicle formation and fusion early in the secretory pathway. cell 61,
+723–733.
+kamada, y., funakoshi, t., shintani, t., nagano, k., ohsumi, m., and ohsumi, y.
+(2000). tor-mediated induction of autophagy via an apg1 protein kinase com-
+plex. j. cell biol. 150, 1507–1513.
+kihara, a., noda, t., ishihara, n., and ohsumi, y. (2001). two distinct vps34
+phosphatidylinositol 3-kinase complexes function in autophagy and car-
+boxypeptidase y sorting in saccharomyces cerevisiae. j. cell biol. 152, 519–530.
+kim, j., huang, w.-p., and klionsky, d. j. (2001a). membrane recruitment of
+aut7p in the autophagy and cytoplasm to vacuole targeting pathways re-
+quires aut1p, aut2p, and the autophagy conjugation complex. j. cell biol.
+152, 51–64.
+kim, j., huang, w.-p., stromhaug, p. e., and klionsky, d. j. (2002). conver-
+gence of multiple autophagy and cytoplasm to vacuole targeting components
+to a perivacuolar membrane compartment prior to de novo vesicle formation.
+j. biol. chem. 277, 763–773.
+kim, j., kamada, y., stromhaug, p. e., guan, j., hefner-gravink, a., baba, m.,
+scott, s. v., ohsumi, y., dunn, w. a., jr., and klionsky, d. j. (2001b).
+cvt9/gsa9 functions in sequestering selective cytosolic cargo destined for the
+vacuole. j. cell biol. 153, 381–396.
+kirisako, t., baba, m., ishihara, n., miyazawa, k., ohsumi, m., yoshimori, t.,
+noda, t., and ohsumi, y. (1999). formation process of autophagosome is
+traced with apg8/aut7p in yeast. j. cell biol. 147, 435–446.
+klionsky, d. j., ed. autophagy, georgetown, tx: landes bioscience, 2004.
+klionsky, d. j., banta, l. m., and emr, s. d. (1988). intracellular sorting and
+processing of a yeast vacuolar hydrolase: proteinase a propeptide contains
+vacuolar targeting information. mol. cell biol. 8, 2105–2116.
+592
+molecular biology of the cell
+klionsky, d. j., cueva, r., and yaver, d. s. (1992). aminopeptidase i of
+saccharomyces cerevisiae is localized to the vacuole independent of the secre-
+tory pathway. j. cell biol. 119, 287–299.
+klionsky, d. j., et al. (2003). a uniﬁed nomenclature for yeast autophagy-
+related genes. dev. cell 5, 539–545.
+levine, b., and klionsky, d. j. (2004). development by self-digestion: molec-
+ular mechanisms and biological functions of autophagy. dev. cell 6, 463–477.
+longtine, m. s., mckenzie, a., iii, demarini, d. j., shah, n. g., wach, a.,
+brachat, a., philippsen, p., and pringle, j. r. (1998). additional modules for
+versatile and economical pcr-based gene deletion and modiﬁcation in sac-
+charomyces cerevisiae. yeast 14, 953–961.
+nice, d. c., sato, t. k., stromhaug, p. e., emr, s. d., and klionsky, d. j. (2002).
+cooperative binding of the cytoplasm to vacuole targeting pathway proteins,
+cvt13 and cvt20, to phosphatidylinositol 3-phosphate at the pre-autophago-
+somal structure is required for selective autophagy. j. biol. chem. 277, 30198–
+30207.
+noda, t., kim, j., huang, w.-p., baba, m., tokunaga, c., ohsumi, y., and
+klionsky, d. j. (2000). apg9p/cvt7p is an integral membrane protein required
+for transport vesicle formation in the cvt and autophagy pathways. j. cell
+biol. 148, 465–480.
+noda, t., matsuura, a., wada, y., and ohsumi, y. (1995). novel system for
+monitoring autophagy in the yeast saccharomyces cerevisiae. biochem. biophys.
+res. commun. 210, 126–132.
+obara, k., sekito, t., and ohsumi, y. (2006). assortment of phosphatidylino-
+sitol 3-kinase complexes—atg14p directs association of complex i to the
+pre-autophagosomal structure in saccharomyces cerevisiae. mol. biol. cell 17,
+1527–1539.
+reggiori, f., and klionsky, d. j. (2002). autophagy in the eukaryotic cell.
+eukaryot. cell 1, 11–21.
+reggiori, f., monastyrska, i., shintani, t., and klionsky, d. j. (2005a). the
+actin cytoskeleton is required for selective types of autophagy, but not non-
+speciﬁc autophagy, in the yeast saccharomyces cerevisiae. mol. biol. cell 16,
+5843–5856.
+reggiori, f., tucker, k. a., stromhaug, p. e., and klionsky, d. j. (2004a). the
+atg1-atg13 complex regulates atg9 and atg23 retrieval transport from the
+pre-autophagosomal structure. dev. cell 6, 79–90.
+reggiori, f., wang, c.-w., nair, u., shintani, t., abeliovich, h., and klionsky,
+d. j. (2004b). early stages of the secretory pathway, but not endosomes, are
+atg27 is needed for atg9 transport
+required for cvt vesicle and autophagosome assembly in saccharomyces cer-
+evisiae. mol. biol. cell 15, 2189–2204.
+reggiori, f., shitani, t., nair, u., and klionsky, d. j. (2005b). atg9 cycles
+between mitochondria and the pre-autophagosomal structure in yeasts. au-
+tophagy 1, 101–109.
+robinson, j. s., klionsky, d. j., banta, l. m., and emr, s. d. (1988). protein
+sorting in saccharomyces cerevisiae: isolation of mutants defective in the deliv-
+ery and processing of multiple vacuolar hydrolases. mol. cell biol. 8, 4936–
+4948.
+scott, s. v., guan, j., hutchins, m. u., kim, j., and klionsky, d. j. (2001). cvt19
+is a receptor for the cytoplasm-to-vacuole targeting pathway. mol. cell 7,
+1131–1141.
+shintani, t., and klionsky, d. j. (2004). autophagy in health and disease: a
+double-edged sword. science 306, 990–995.
+shintani, t., huang, w.-p., stromhaug, p. e., and klionsky, d. j. (2002).
+mechanism of cargo selection in the cytoplasm to vacuole targeting pathway.
+dev. cell 3, 825–837.
+stack, j. h., dewald, d. b., takegawa, k., and emr, s. d. (1995). vesicle-
+medicated protein transport: regulatory interactions between the vps14 pro-
+tein kinase and the vps34 ptdins 3-kinase essential for protein sorting to the
+vacuole in yeast. j. cell biol. 129, 321–334.
+stromhaug, p. e., reggiori, f., guan, j., wang, c.-w., and klionsky, d. j.
+(2004). atg21 is a phosphoinositide binding protein required for efﬁcient
+lipidation and localization of atg8 during uptake of aminopeptidase i by
+selective autophagy. mol. biol. cell 15, 3553–3566.
+suzuki, k., kirisako, t., kamada, y., mizushima, n., noda, t., and ohsumi,
+y. (2001). the pre-autophagosomal structure organized by concerted func-
+tions of apg genes is essential for autophagosome formation. embo j. 20,
+5971–5981.
+tucker, k. a., reggiori, f., dunn, w. a., jr., and klionsky, d. j. (2003). atg23
+is essential for the cytoplasm to vacuole targeting pathway and efﬁcient
+autophagy but not pexophagy. j. biol. chem. 278, 48445–48452.
+von heijne, g. (1984). how signal sequences maintain cleavage speciﬁcity.
+j. mol. biol. 173, 243–251.
+wurmser, a. e., and emr, s. d. (2002). novel ptdins(3)p-binding protein etf1
+functions as an effector of the vps34 ptdins 3-kinase in autophagy. j. cell biol.
+158, 761–772.
+vol. 18, february 2007
+593

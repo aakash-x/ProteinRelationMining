@@ -1,0 +1,1412 @@
+oncogene (2006) 25, 6436–6446
+& 2006 nature publishing group all rights reserved 0950-9232/06 $30.00
+www.nature.com/onc
+review
+mtor and cancer therapy
+jb easton and pj houghton
+department of molecular pharmacology, st jude children’s research hospital, memphis tn, usa
+proteins regulating the mammalian target of rapamycin
+(mtor), as well as some of the targets of the mtor
+kinase, are overexpressed or mutated in cancer. rapa-
+mycin, the naturally occurring inhibitor of mtor, along
+with a number of recently developed rapamycin analogs
+(rapalogs) consisting of synthetically derived compounds
+containing minor chemical modiﬁcations to the parent
+structure, inhibit the growth of cell lines derived from
+multiple tumor types in vitro, and tumor models in vivo.
+results from clinical trials indicate that the rapalogs may
+be useful for the treatment of subsets of certain types of
+cancer. the sporadic responses from the initial clinical
+trials, based on the hypothesis of general translation
+inhibition of cancer cells are now beginning to be
+understood owing to a more complete understanding of
+the dynamics of mtor regulation and the function of
+mtor in the tumor microenvironment. this review will
+summarize the preclinical and clinical data and recent
+discoveries of the function of mtor in cancer and growth
+regulation.
+oncogene (2006) 25, 6436–6446. doi:10.1038/sj.onc.1209886
+keywords: mtor; cancer therapy; rapamycin; stem
+cells; autophagy; hypoxia
+mtor activation and cancer
+the signaling pathways that activate mammalian target
+of rapamycin (mtor) are altered in many human
+cancers. the ampliﬁcation of
+the genomic region
+containing pik3ca, the gene coding for the p110 alpha
+subunit of phosphatidylinositol 30-kinase (pi3k), has
+been identiﬁed in 40% of the cases of ovarian cancer
+(shayesteh et al., 1999). activating mutations may occur
+in as many as 35% of the cases of breast cancer and is
+associated with a poor prognosis (li et al., 2006).
+modiﬁcations of pik3ca have also been identiﬁed in
+colon, brain and lung cancers (samuels et al., 2004).
+the dual function phosphatase that negatively reg-
+ulates pi3k, phosphatase and tensin homolog deleted
+on chromosome 10 (pten) is mutated, silenced or
+correspondence: dr pj houghton, department of molecular phar-
+macology, st jude children’s research hospital, 332 n. lauderdale st.,
+memphis, tn 38105, usa.
+e-mail: peter.houghton@stjude.org
+deleted in a number of tumor types including glioblas-
+toma, hepatocellular carcinoma, lung carcinoma, mela-
+noma, endometrial carcinomas and prostate cancer
+(li et al., 1997; risinger et al., 1997; steck et al.,
+1997). these changes result in constitutive activation of
+akt and consequently mtor signaling.
+inactivating mutations in the serine/threonine kinase
+11 (stk11/lkb1) gene are associated with the peutz-
+jeghers cancer prone syndrome (giardiello et al., 1987).
+the lkb1 kinase activates the adenosine monophos-
+phate (amp)-dependent kinase (ampk) which in
+response to low energy levels inhibits the function of
+mtor via tuberous sclerosis complex protein 2 (tsc2)
+(shaw et al., 2004). the observed mutations in peutz-
+jeghers result in a failure to inhibit mtor under low
+energy conditions (shaw et al., 2004).
+mutations in the tsc protein, tsc2, which inhibits
+mtor function under hypoxic conditions as well as
+conditions of energy deprivation,
+leads to tuberous
+sclerosis syndrome (inoki et al., 2003; liu et al., 2006).
+this syndrome is associated with well-vascularized
+hamartomas (benign lesions) as well as an increased
+risk of renal cell carcinoma (rcc) (yeung et al., 1994;
+kwiatkowski, 2003).
+cancer related changes in mtor kinase substrates
+and their associated proteins are also reported. for
+instance, s6k1 is overexpressed or constitutively active
+in several tumor cell lines, and in the early stages of
+transformation in ovarian surface epithelium with
+brca1 mutations (wong et al., 2001). s6k1 is also
+ampliﬁed in some breast carcinomas (couch et al.,
+1999). generally, for tumors that have an ampliﬁcation
+of s6k1, there is a corresponding increase in the level of
+s6k1 protein (couch et al., 1999).
+the gene coding for eukaryotic initiation factor 4e
+(eif4e) that is positively regulated by mtor, is altered
+in a number of tumors. progressive ampliﬁcation of the
+eif4e gene is associated with late-stage head and neck
+carcinoma, ductal cell breast carcinoma and thyroid
+carcinoma (sorrells et al., 1999; haydon et al., 2000;
+wang et al., 2001). levels of eif4e are elevated in
+some colon carcinomas in comparison to normal colon
+cells (rosenwald et al., 1999; berkel et al., 2001). the
+levels of eif4e are also increased in some bladder
+and breast cancers that have a poor outcome (crew
+et al., 2000; li et al., 2002). in these cancers, a
+corresponding increase in vascular endothelial growth
+factor (vegf) was also observed (scott et al., 1998;
+crew et al., 2000).
+in a lymphomagenesis mouse model, when myc is
+overexpressed in lympohoid tissue eif4e cooperates
+with c-myc in the genesis of b-cell lymphoma, accele-
+rating the formation of tumors (wendel et al., 2004).
+when the myc mice were crossed with p537 mice the
+incidence of lymphoma was increased owing to the loss
+of the remaining allele, unless eif4e was overexpressed.
+if eif4e is overexpressed in the p537 mice, the mice
+still developed lymphomas but the wild-type p53 allele is
+maintained (wendel et al., 2004). so a moderate increase
+in the level of eif4e appears to abrogate the requirement
+for suppressing p53-mediated apoptosis in this model
+system. overexpression of eif4e also results in increased
+frequency of late-onset cancers (ruggero et al., 2004).
+these data point to the possibility that at least under
+some conditions eif4e may act as an oncogene.
+in certain types of cancer the relationship between the
+levels of the mtor substrate 4ebp1, and the protein
+whose function it inhibits, eif4e, might be a predictor
+of metastasis. in colon carcinoma both eif4e and
+4ebp1 are frequently overexpressed, but the 4ebp1
+levels are the most elevated in patients that have little or
+no metastatic disease (martin et al., 2000).
+rapamycin analogs
+treatment with rapamycin or its analogs (rapalogs)
+inhibits proliferation in a large number of cell lines and
+in some instances leads to apoptosis. cell lines effected
+by rapamycin treatment have been derived from a
+number of tumor types including rhabdomyosarcoma,
+neuroblastoma, glioblastoma, small-cell lung carcinoma,
+osteosarcoma, pancreatic
+carcinoma, rcc, ewing
+sarcoma, prostate cancer and breast cancer (bjornsti
+and houghton, 2004).
+the rapalogs are the only speciﬁc small molecule
+inhibitors of mtor yet reported. rapamycin forms a
+ternary complex with fk506-binding protein (fkbp)12
+and mtor, resulting in potent inhibition of mtor
+signaling. structural studies indicate that
+there are
+relatively few contacts between the two proteins (choi
+et al., 1996). fkbp12 binding to rapamycin may induce
+a favorable conformation for the association of rapa-
+mycin with mtor. all of the rapalogs contain relatively
+minor modiﬁcations to the structure of rapamycin with
+the primary advantage being increased solubility and
+stability.
+to date all of the compounds that have progressed to
+clinical trials involve substitution at the c40 hydroxyl of
+rapamycin. the majority of these compounds substitute
+esters or ethers. ap23573 substitutes a phosphonate for
+the c40 hydroxyl. this compound is not a prodrug but
+it
+inhibits mtor activity and binds fkbp12 at
+concentrations similar to that of rapamycin, in contrast
+to cci-779 which is a prodrug that is metabolized to
+rapamcyin in the body.
+current rapalogs in clinical trials include rapamycin/
+(wyeth),
+sirolimus
+rad-001/everolimus (novartis) and ap23573 (ariad).
+(wyeth), cci-779/temsirolimus
+tor and cancer therapy
+jb easton and pj houghton
+cellular responses to rapalogs
+6437
+the principal effect of rapamycin in most normal cells
+and many tumor cell lines is growth retardation, but in
+some tumor cell lines as well as certain primary cells
+treatment with rapamycin leads to apoptosis. among
+the primary cells that undergo apoptosis are certain
+populations of dendritic cells, and renal tubular cells
+(lieberthal et al., 2001; woltman et al., 2003). in some
+instances some of mechanisms responsible for this
+apoptotic effect have been characterized. it appears
+that mtor-regulated components of translation and
+their targets such as myc, as well as the prosurvival
+properties of akt, which is also a positive regulator of
+mtor are involved in this process.
+myc has been proposed to have both antiapoptotic
+and proapoptotic functions (secombe et al., 2004). the
+translation of myc is regulated in part by m7gtp cap-
+dependent mechanisms and is therefore dependent on
+eif4e and sensitive to inhibitors of mtor. recent data
+indicate that myc translation is also controlled by the
+activity of an internal ribosome entry site (ires)
+present within the promoter region. ires-dependent
+translation of myc has been linked to the proapoptotic
+effects of myc expression, and may be inhibited by
+akt activity (stoneley et al., 2000; shi et al., 2005a).
+akt is known to phosphorylate the proapoptotic
+protein bad as well as gsk-3 and the foxo family of
+transcription factors (cross et al., 1995; datta et al.,
+1997; brunet et al., 1999). phosphorylation of bad by
+akt results in its sequestration by 14-3-3 thereby
+blocking its apoptotic function (zha et al., 1996). as
+akt is an activating component of mtor,
+it con-
+tributes to downstream events such as the m7gtp
+cap-dependent regulation of myc. so mutations or
+ampliﬁcations that activate akt in addition to sup-
+pressing the proapoptotic substrates that are directly
+phosphorylated by akt also (via activation of mtor)
+effect myc-dependent regulation of apoptosis. support
+for this concept is provided by the em-myc mouse model
+described earlier in which it was shown that inhibition of
+mtor reverses the chemo resistance in lymphomas
+overexpressing akt (wendel et al., 2004). the over-
+expression of eif4e mimicked the chemo resistance
+observed when akt was overexpressed. rapamycin
+could reverse the chemo resistance in cells overexpres-
+sing akt but not
+the cells overexpressing eif4e.
+indicating at least in this setting, the observed chemo-
+resistance was dependent on mtor-dependent prosur-
+vival signals.
+rapamycin sensitizes multiple myeloma cell lines to
+dexamethasone treatment, dramatically increasing the
+degree of apoptosis both in vitro and in vivo (yan et al.,
+2006). the sensitivity of cells was independent of
+activation of the stress pathways, bad phosphorylation,
+pten, or p53 status. overexpression of a constitutively
+active mutant of 4ebp1 that cannot be phosphorylated
+by mtor resulted in increased sensitivity to dexa-
+methasone similar to the results observed in cells treated
+with rapamycin, implying that inhibition of translation
+mediates this effect (yan et al., 2006).
+oncogene
+6438
+tor and cancer therapy
+jb easton and pj houghton
+the relationship between mtor signaling, p53, and
+apoptosis has also been examined. under serum free
+conditions rapamycin treatment causes apoptosis in
+tumor cell lines with mutated p53. overexpression of
+wild-type p53 or p21cip1 protects these cells from
+rapamycin-dependent apoptosis (huang et al., 2001).
+the apoptotic effect is a result of the activation of the
+stress response pathway in cells treated with rapamycin,
+and is also dependent on the expression of 4ebp1 and
+concomitant inhibition of eif4e (huang et al., 2003).
+so the activation of cap-dependent
+translation is
+involved in both p53- dependent and independent
+mechanisms that inhibit apoptosis and promote growth
+and survival of transformed cells.
+murine embryo ﬁbroblasts from pten þ /  mice have
+increased levels of phosphorylated 4ebp1 and active
+s6k, which is consistent with increased mtor signaling
+(podsypanina et al., 2001). some pten /  tumor cell
+lines are extremely sensitive to apoptosis, and it has been
+proposed that this effect is from a dependence on the
+increased pi3k activity and subsequent mtor activity
+in pten /  cells during tumor development (neshat
+et al., 2001). similarly, multiple myeloma cells and
+glioblastoma cell
+lines lacking pten appear more
+sensitive to rapalogs, although there are exceptions.
+the dependence of
+transformed cells on pathway
+mutations that provide a growth advantage as part of
+the transformation process has been termed ‘oncogene
+addiction’ (weinstein, 2002).
+appears to be a signiﬁcant contributor to the block in
+cell proliferation observed in vivo and in some cell lines
+treated with rapalogs (barata et al., 2001; law et al.,
+2002). if a constitutively active form of 4ebp1 is
+expressed in mcf7 breast cancer cells the level of
+p27kip1 increases and proliferation is inhibited indicating
+is regulated in part by cap-
+that control of p27kip1
+dependent translation (bader et al., 2003).
+bone marrow malignancies display an angiogenic
+phenotype with increased numbers of bone marrow
+endothelial cells (lyden et al., 2001). stimulation of
+bone marrow endothelial cells with growth factors or
+association of these cells with leukemia cells activates
+mtor, resulting in phosphorylation of the mtor
+substrates 4e-bp1 and s6k1. rapamycin, or cci-779
+signiﬁcantly inhibits growth factor and leukemia-depen-
+dent proliferation of bone marrow endothelium by
+inducing g0/g1 cell cycle arrest. this effect is correlated
+with a downregulation of cyclin d1 and upregulation of
+the cdk inhibitors p27kip1 and p21cip1 (costa et al.,
+2006).
+the extent of the g1 arrest resulting from rapamycin
+treatment varies between cell lines. this is likely to be a
+function of both cell type and the genetic modiﬁcations
+present in the cell
+line. however, the above results
+indicate that certain tumor types as well as certain types
+of primary cells that support tumorogenesis may be
+inhibited by treatment with rapalogs (figure 1).
+mtor and cell proliferation
+cancer stem cells and mtor
+cell
+required for
+encode proteins
+in its activated state, mtor, as part of mtorc1
+complex, phosphorylates 4ebp1, allowing for efﬁcient
+m7gtp cap-dependent translation. inhibiting mtor
+results in a block of phosphorylation of 4ebp1 resulting
+in sequestration of eif4e and a failure to form the
+m7gtp cap-dependent preinitiation complex, greatly
+reducing translation of m7gtp cap containing tran-
+scripts. many of these m7gtp cap-containing tran-
+scripts
+cycle
+progression,
+including ornithine decarboxylase and
+cyclin d (shantz and pegg, 1994; rosenwald, 1996).
+several lines of evidence indicate that inhibiting this
+mechanism of translational control contributes to the
+resulting from mtor inhibition.
+cytostatic effects
+tumor cell
+lines that overexpress eif4e are able to
+partially overcome the effects of the g1 delay induced
+by rapamycin (dilling et al., 2002). in cell lines selected
+for resistance to rapamycin, 4ebp1 levels are reduced
+thereby creating a stoichometric deﬁcit with eif4e and
+relieving inhibition of eif4e. cells that have reverted
+back to rapamycin sensitivity have levels of 4ebp1
+similar to those observed in wild-type cells (dilling et al.,
+2002).
+the inhibition of mtor leads to increased levels of
+the cyclin-dependent kinase 2 (cdk2) inhibitor, p27kip1,
+an inhibitor of g1-s cell cycle progression (nourse
+et al., 1994; law et al., 2002). induction of p27kip1
+oncogene
+the idea that tumors arise from a rare population of
+self-renewing cancer stem cells capable of generating a
+hierarchy of more differentiated cells with limited
+potential to replicate was ﬁrst demonstrated in leukemia
+(lapidot et al., 1994). this population is highly enriched
+when sorted using markers that identify hematopoietic
+stem cells (flk2  sca-1 þ lin  c-kit þ cd48 ). when
+these cells were isolated from human patients and then
+introduced
+immunodeﬁcient
+(scid) mice it was found that the leukemia with its
+various hierarchy of differentiated cells was reproduced.
+if leukemic cells from patients outside of this ‘stem cell’
+population were introduced into mice it rarely led to
+leukemia.
+severe-combined
+into
+more recently a leukemia mouse model was devel-
+oped where pten was conditionally deleted from
+hematopoietic cells. if the pten tumor suppressor is
+inactivated in hematopoietic cells in adult mice, these
+mice immediately developed myeloproliferative disease
+and go on to develop leukemia in 4–6 weeks (yilmaz
+et al., 2006). immediately after the conditional deletion
+of pten, there was a dramatic but transient prolifera-
+tion of hematopoietic stem cells. when these cells were
+transplanted into irradiated mice, they were unable to
+stably reconstitute the hematopoietic program indicat-
+ing that the pten deleted stem cell population is limited
+in its ability to self-renew. however, if the transfer of the
+stem cell marker-positive cells was delayed until the
+cancer stem cell
+self renewal
+cancer cell
+proliferation
+accumulation of cells
+resulting in hypoxia
+vascularized tumor
+tor and cancer therapy
+jb easton and pj houghton
+rapamycin
+6439
+rad001
+cci-779
+vegf
+vegf dependent proliferation
+becs
+vecs
+migration
+stromal cells
+rapamycin
+rad001
+figure 1 potential mechanisms of action of rapalogs in cancer. the above diagram illustrates the proposed mechanisms of action of
+rapalogs from recent publications using in vivo and in vitro models for speciﬁc subsets of cancer (see text for details). blocked lines
+indicate inhibition and arrows indicate activation. the abbreviations used are vascular endothelial growth factor (vegf), bone
+marrow endothelial cells (becs) and vascular endothelial cells (vecs).
+donor mice had developed leukemia, the scid-recipient
+mice also develop leukemia. introduction of the non-
+stem leukemic cells resulted in a much lower rate of
+leukemic development in the recipient mice. as the
+deletion of pten effectively mimics the overexpression
+of pi3k, a number of possible pi3k-dependent func-
+tions could be responsible for this effect. thus, the
+contribution of mtor to the genesis of these effects
+might be anticipated to be limited. surprisingly, the
+inhibition of mtor by rapamycin was sufﬁcient to
+dramatically reduce the effects on stem cell prolifera-
+tion, and leukemia development resulting from the
+pten deletion. both the myeloproliferative phenotype
+as well as the development of leukemias was blocked in
+mice treated with rapamycin. the transient proliferation
+of hematopoietic stem cells upon pten deletion was
+also abrogated. perhaps most signiﬁcant was that
+hematopoietic stem cells transplanted into irradiated
+mice treated with rapamycin were able to reconstitute
+the hematopoietic population in the donor animals
+indicating that there was a selective inhibition of the
+cancer stem cells and not a general inhibition of all stem
+cells. these results imply that
+it may possible to
+selectively target certain populations of cancer stem
+cells that have alterations in receptor kinase signaling
+using mtor inhibitors, even though they have many of
+the same properties of the stem cells they are derived
+from or resemble (figure 1).
+mtor, autophagy and cancer
+the
+autophagy is clearly implicated in the genesis of cancer.
+both tumor derived cells and transformed cells exhibit
+lower levels of protein turnover than their normal cell
+counterparts. although a reduction in autophagy
+appears to be common in tumor cells, some level of
+autophagy may be required for the development of
+cancer. evidence for this is provided in breast cancer
+in which one copy of the essential autophagy gene
+becn1, which codes for the protein beclin 1,
+is
+frequently deleted, while
+remaining copy of
+becn1 is wild-type, indicating that beclin 1 may
+be acting as a haploinsufﬁcent oncogene (liang et al.,
+1999). further conﬁrmation that beclin 1 acts
+as a haploinsufﬁcent oncogene is provided by a mouse
+model where deletion of one allele of becn1 resulted
+in an increased incidence of
+lung cancer, hepato-
+cellular carcinoma and lymphoma (yue et al., 2003).
+interestingly, this is a similar spectrum of tumors as
+shown to arise in transgenic mice overexpressing
+eif4e (ruggero et al., 2004). in mammals beclin 1
+was originally identiﬁed as a protein interacting with
+the antiapoptotic protein bcl-2 (liang et al., 1998).
+recent experiments indicate that bcl-2 is a potential-
+negative regulator of beclin-1, implying a relation-
+ship between autophagy and apoptosis
+(pattingre
+et al., 2005).
+oncogene
+6440
+tor and cancer therapy
+jb easton and pj houghton
+is
+inhibited.
+the role of mtor in autophagy is conserved from
+yeast to mammals where it acts to regulate the induction
+of the autophagic process (noda and ohsumi, 1998;
+levine and klionsky, 2004). if mtor is inactive
+autophagy proceeds, and conversely, when mtor is
+activated the autophagic process
+in
+mammals this process may be mediated in part through
+mtor-dependent phosphorylation of eukaryotic trans-
+lation elongation factor 2 kinase (eef-2k). the chain
+promoting activity of activity of eef-2 is inhibited when
+eef-2 is phosphoryated by eef-2k. phosphorylation
+of eef-2k by mtor-dependent pathways inhibits
+eef-2k acitivity. in glioblastoma cell lines the knockdown
+of eef-2k by rna interference (rnai) inhibits auto-
+phagy whereas the overexpression of eef-2k increases
+autophagy (wu et al., 2006). hence the inhibition of
+mtor results
+the
+inhibition of eef-2 and induction of autophagy.
+perhaps one reason that activating mutations of mtor
+have not been observed in tumors is that this results in a
+reduced level of autophagy that may be required to
+promote survival of tumor cells in later stages of tumor
+development were energy and nutrients may be limited.
+however, in breast cancer uncoupling oxygen-respon-
+sive signaling pathways from mtor function may
+abrogate control of protein synthesis mediated by this
+pathway (connolly et al., 2006).
+in the activation of eef-2k,
+treatment with many of the chemotherapy agents
+currently in use, or with radiation therapy results in the
+formation autophagosomes in tumor cells (bursch et al.,
+1996; paglin et al., 2001; kanzawa et al., 2004). what
+has not yet been resolved is whether this increase in
+autophagasomes is a survival mechanism to sequester
+damaged organelles, or part of an autophagic precursor
+to apoptotic, or non-apoptotic cell death. for instance,
+treatment of the mcf-7 breast cancer cell line with
+tamoxifen increases the levels of autophagy and cell
+death (bursch et al., 1996). both cell death and
+autophagy can be inhibited by the addition of the
+class-iii-pi3k inhibitor 3-methyladenine that functions
+by blocking preautophagosome formation (bursch
+et al., 1996). the implication of this data is that a block
+in the formation of autophagic bodies is sufﬁcient to
+inhibit the action of the antiestrogen. when mcf-7 cells
+are modiﬁed to overexpress akt they become more
+resistant to tamoxifen, but sensitivity to tamoxifen can
+restored if
+the cells are treated with rapamycin
+(degraffenried et al., 2004). gamma-irradiation of
+mcf 7 breast cancer cells promotes the formation of
+autophagosomes and cell death (paglin et al., 2001).
+irradiation of these cells inhibits phosphorylation of
+4ebp1 and p70s6k1 (paglin et al., 2005). rapamycin
+treatment of these tumor cells also promoted autophagy,
+and combining rapamycin with gamma irradiation
+resulted in an increase in the amount of cell death.
+the constitutive expression of akt1 in the luminal
+epithelial cells of the mouse ventral prostate rapidly
+in the development of a highly penetrant
+results
+prostatic intraepithelial neoplasia (pin)
+(majumder
+et al., 2004). this akt1 induced pin phenotype is
+completely dependent on mtor. when the mice are
+oncogene
+the transcriptional
+treated with the mtor inhibitor rad001, there is a
+rapid loss of
+intraluminal epithelial cells, marked
+apoptosis, and a reversal of the pin phenotype within
+14 days. although hypoxia inducible factor 1 alpha
+(hif1 alpha) appears to be both the principal mediator
+of
+response to elevated akt1
+activity leading to pin, and the target of rad001-
+dependent inhibition of tumor development; the apop-
+totic component, and the growth inhibitory component
+may be controlled by a different mechanisms. over-
+expression of bcl2 in these cells blocked the apoptotic
+effects of rad001, but did not overcome the inhibition
+of proliferation. this raises the question as to whether
+inhibition of beclin 1 by bcl2 and the consequent
+inhibition of autophagy might contribute to the block in
+rad001 apoptosis. this would imply that the induction
+of autophagy resulting from mtor inhibition would be
+secondary to the inhibition resulting from downregula-
+tion of beclin 1. of course, an alternative explanation
+would be that overexpression of bcl2 counteracts the
+activation of any proapoptotic proteins that might
+interact with bcl2 thereby promoting survival.
+the above results imply that the use of rapamycin to
+increase autophagy might be useful in facilitating the
+effectiveness of other chemotherapeutic agents, but a
+great deal more work needs to be done to verify this
+effect in vivo.
+hypoxia the tumor microenvironment and mtor
+if cells in culture are exposed to hypoxic conditions,
+mtor activity is rapidly inhibited, as measured by
+both autophosphorylation of mtor, and phosphoryla-
+tion of the mtor substrates s6k1 and 4ebp1 (arsham
+et al., 2003). hypoxia inhibits eif2 and eef2, as
+well as the mtor targets 4ebp1, p70s6k and rps6
+(liu et al., 2006). initial reports indicated that inhibition
+of mtor under hypoxic conditions was the result of
+the hif1 alpha-dependent transcript, redd1, which
+functions in a tsc2-dependent manner (brugarolas
+et al., 2004). more recent reports indicate that there
+is also a hif-1 alpha/redd1-independent mechanism
+that
+involves activation of ampk. the activation
+of ampk results in the phosphorylation of tsc2
+and inhibition of
+the mtor activator, rheb
+(liu et al., 2006). the function of ampk within the
+cell
+is to sense low energy levels as deﬁned by the
+amount of cellular amp. the data indicating that
+hypoxia is acting in these cells through ampk links the
+mechanism by which cellular energy levels and hypoxia
+regulate mtor. however, recent data suggest that
+breast cancer cells acquire resistance to hypoxia by
+uncoupling oxygen-responsive signaling pathways (e.g.
+tsc2) from mtor function, thus abrogating control
+of protein synthesis mediated by 4e-bp1 and eef2
+(connolly et al., 2006).
+the relative contribution of the hif1alpha/redd1/
+tsc2 and ampk/tsc2 to the inhibition of mtor
+may depend upon the cellular context. in cancers such
+as rcc as many as 50% of the tumors have inactivating
+mutations in von hippel-lindau tumor suppressor
+(vhl) that result in a reduction or elemination of its
+ability to degrade hif1 alpha (kim and kaelin, 2004)
+under normal oxygen levels. in isogenic pairs of rcc
+cell lines, a reduction in the level of vhl by rnai
+resulted in an increase in the amount hif1 alpha
+protein levels and increased rates of cell proliferation
+when compared with a scrambled small interfering rna
+control (thomas et al., 2006). the levels of vegf, a
+hif1 alpha-regulated gene were increased not only
+under hypoxic conditions but also under normoxic
+conditions. the treatment of cell
+lines expressing
+reduced levels of vhl with cci-779 resulted in 70%
+reduction in growth. this growth inhibitory effect was
+not observed in the cells in which vhl proteins were
+not downregulated.
+in
+scid mice, cell
+lines with a knockdown of vhl
+conferred a growth advantage and increased sensitivity
+to mtor inhibition, even though there was efﬁcient
+biochemical blockade of mtor in both the expressing
+and vhl knockdown tumors. vegf levels were
+increased in vhl knockdown cells, and reduced by
+cci-779 treatment in vitro and in vivo. this effect
+correlated with inhibition of hif1 alpha expression, and
+the expression of hif1 alpha mutants defective in vhl
+binding which suppressed the tumor inhibitory effects of
+cci-779.
+in subcutaneous xenografts
+the extent of mtor inhibition under hypoxic
+conditions is not as great as is observed when the cells
+expressing low levels of vhl are treated with cci-779
+(treins et al., 2002). this incomplete inhibition of
+mtor under hypoxia has been proposed as an
+explanation as to why the hif1 alpha is still activated
+under hypoxic conditions. the 50top-containing se-
+quence present in the hif1 alpha transcript contributes
+to inhibition of hif1 alpha expression by rapamycin.
+eliminating the 50top sequence in the hif1 alpha
+sequence rescues the cells from the growth inhibitory
+effects of cci-779.
+in contrast to the above reports, it was found that
+murine lewis lung carcinoma cells are protected from
+massive cell death at high densities under hypoxic
+conditions by the addition of rapamycin. these rapa-
+mycin-treated cells had much higher levels of adenosine
+triphosphate (atp) and moderately higher levels of
+glucose under hypoxic conditions than the untreated
+cells (hamanaka et al., 2005). autophagy might also
+be a possible contributor to this survival, but regardless
+of
+there
+may be tissue- or species-speciﬁc differences in the
+response to rapalog treatment under conditions of
+cellular stress.
+the mechanism this
+indicates
+result
+that
+one of the questions raised from the above data is
+whether there are classes of cells in vivo whose growth is
+absolutely dependent on mtor-mediated regulation of
+hif-1 alpha and whether these cells are cancer cells, or
+stromal cells supporting tumor growth. there is now
+accumulating evidence that the tumor-inhibitory actions
+of rapamycins in vivo may be in part due to antiangio-
+genic activity (guba et al., 2002).
+tor and cancer therapy
+jb easton and pj houghton
+thus, inhibition of mtor can have direct effects on
+tumor cells manifest by slowing proliferation, increasing
+apoptosis or inhibiting tumor-derived vascular endothe-
+lial growth factor (vegf), or indirect effects on tumor
+cells by directly targeting the proliferation and survival
+of vascular and smooth muscle stromal cells.
+6441
+mtor inhibitors: results from clinical trials
+a number of clinical trials with the rapalogs have now
+been completed. the phase i trial evaluating the
+safety of cci-779 was examined for both daily and
+weekly intravenous (i.v.) treatment in patients with a
+number of different types of tumors (dancey, 2002).
+the results indicated that with daily i.v. treatment there
+are signiﬁcant grade 3 toxicities, including hypocalcae-
+mia, vomiting, thrombocytopenia and increase in the
+level of hepatic transaminases. one patient had an
+objective response (non-small-cell carcinoma), whereas
+a number of patients had minor responses or stable
+disease
+carcinoma,
+rcc and soft tissue sarcoma). on a weekly treatment
+schedule patients experienced no grade 3 toxicities
+regardless of dosage. three patients had a partial
+tumor regression (renal cell, neuroendecrine and breast
+carcinomas).
+carcinoma,
+(cervical
+uterine
+based on the phase i results a number of phase ii
+trials were initiated to study the effects
+treating
+advanced stage refractory rcc, refractory mantle cell
+lymphoma and refractory metastatic breast cancer with
+cci-779 (atkins et al., 2004; chan et al., 2005; witzig
+et al., 2005).
+the completed trials for rcc yielded an objective
+response rate of 5–7%, a minor response rate of
+26–29%, and stable disease in approximately 40% of
+the patients (atkins et al., 2004). treatment is associated
+with a increase in survival time of approximately 4
+months.
+the phase ii trial for mantle cell lymphoma consisted
+of weekly treatment with 250 mg (ﬁxed dose) of cci-779
+i.v., resulted in an overall response rate of 38%, (3%
+complete response, and 35% partial response) with a
+median time to progression of 6.9 months in responders
+versus 6.5 months for all patients treated (witzig et al.,
+2005).
+for the phase ii trial
+in pretreated patients with
+advanced breast cancer dosages of 75 mg or 250 mg of
+cci-779 were given i.v. weekly. the overall response
+rate of 9.2%, (all partial responses) was similar for
+both dosage levels but toxicity was decreased in the
+patients treated with the 75 mg dosage (chan et al.,
+2005). cci-779 appears to have signiﬁcant activity
+in endometrial cancer,
+irrespective of pten status,
+yielding objective responses in 25% of patients, and
+causing disease stabilization in over half of the patients
+on study.
+results from the initial dose ﬁnding and safety trials
+for rad001 indicated that the drug is generally well
+tolerated with effects on tumors similar to that observed
+for cci-779.
+oncogene
+6442
+tor and cancer therapy
+jb easton and pj houghton
+these initial results prompted the development of a
+number of additional phase ii trials for various types of
+cancer for both rad001 and cci-779. these include
+trials for breast cancer, prostate cancer, pancreatic
+cancer, malignant gliomas, leukemia, lymphoma, mul-
+tiple myeloma, melanoma and rcc (summarized in
+table 1).
+as rapamycin cannot be given parenterally there are
+fewer trials examining its efﬁcacy, however, there is an
+ongoing phase ii trial examining the effect of rapamycin
+treatment on refractory rcc as well as a phase i trial
+establishing safety in treatment of pediatric patients with
+refractory acute leukemia or lymphoma.
+for ap23573 there is currently a phase i trial to
+determine the maximum tolerated dose (mtd) by oral
+administration in advanced cancers, and phase ii
+evaluation against sarcomas. there are also trials to
+determine the maximum oral tolerated dose in combina-
+tion with doxorubicin in the treatment of sarcomas, as
+well as a trial to determince the mtd dose in patients
+with multiple myelomas, and a phase ii trial of patients
+with recurrent endometrial cancer. phase ii results
+suggest signiﬁcant activity against various subtypes of
+sarcoma.
+phase iii trials are in progress to test the efﬁcacy of
+cci-779 either alone or in combination with inter-
+feron-a as a ﬁrst-line treatment of rcc, and the use of the
+oral form of cci-779 in combination with the aromatase
+inhibitor letrozole for the treatment of locally advanced or
+metastatic breast cancer.
+targeting mtor or the mtor pathway?
+many of so called ‘molecularly targeted’ therapies in
+preclinical and clinical development that target signaling
+pathways may also inhibit mtor activity. thus, is there
+potential beneﬁt in inhibiting multiple sites within the
+mtor pathway over that of inhibiting only mtor
+per se? the answer is likely to depend on the properties
+of the individual tumor.
+include
+the
+pathway strategies
+small molecule
+receptor inhibitors such as the igf1r inhibitor nv-
+aew541 as well as neutralizing monoclonal antibodies
+against receptors such as those directed against the
+igf-1 receptor. the logic of this approach is that tumor
+cells that overexpress these receptors have become
+the so
+dependent on their activation for survival,
+called ‘oncogene addiction’. unfortunately,
+targeted
+therapy data indicates that this does not necessarily
+hold true for all cancers, or possibly the correct
+target has not been identiﬁed. however, this strategy
+may still be successful for some receptors and subsets of
+cancers.
+other strategies target a speciﬁc cellular function
+common to many receptors. for instance the small
+molecule inhibitors of akt not only inhibit the direct
+prosurvival
+functions of akt that are mediated
+through a number of receptors, they also potently
+inhibit the activation of mtor, at least in the context of
+mtorc1 (thimmaiah et al., 2005). preclinical data
+indicates that this strategy may prove effective; espe-
+cially in cells were pten is deleted and akt is
+constitutively activated.
+inhibitors for proteins with broader functions in
+receptor activation, such as pi3k, have also been
+developed. but as the cellular function becomes more
+universal, the risk of toxicity increases, and this toxicity
+combined with solubility issues have inhibited the
+development of this class of compounds.
+so is there any advantage to inhibiting mtor
+directly, given that mtor inhibition in most instances
+table 1 summary of clinical trials using rapamycin or its analogs
+rapalogs
+monotherapy
+additional concurrent therapies
+condition
+endometrial cancer
+sarcoma
+recurrent or refractory b-cell lymphoma,
+non-hodgkin’s lymphoma, cml, cll, all and aml
+hormonally treated prostate cancer patients
+mantle cell lymphoma
+refractory or advanced non-small cell lung cancer
+relapsed or refractory multiple myeloma
+metastatic or unresectable low grade neuroendocrine carcinoma
+advanced clear-cell renal carcinoma
+rcc
+metastatic and refractory breast cancer
+pediatric patients with recurrent or refractory tumors
+glioblastoma multiforme
+cci-779
+rad001
+ap23573
+ap23573
+cci-779
+rad001
+rapamycin
+cci-779
+cci-779
+rad001
+cci-779
+rapamycin
+cci-779
+rad001
+rad001
+cci-779
+rad001
+cci-779
+cci-779
+rad001
+rapamycin
+yes
+yes
+yes
+no
+yes
+yes
+yes
+no
+yes
+yes
+yes
+no
+yes
+no
+no
+yes
+yes
+yes
+yes
+yes
+yes
+doxorubicin
+imatinib mesylate aracytin
+surgery
+rituximab
+geﬁtinib
+octreotide depot
+bevacizumab
+interferon-a
+docetaxel trastuzumab erlotinib letrozole
+abbreviations: all, acute lymphocytic leukaemia; aml, acute myeloid leukaemia; cll, chronic lymphocytic leukaemia; cml, chronic myeloid
+leukaemia; rcc, renal cell carcinoma.
+oncogene
+6443
+is cytostatic rather than cytotoxic? as described above
+there are in vitro and in vivo models where mtor
+inhibitors act through both cytostatic and cytotoxic
+mechanisms. examples include models for some types
+of leukemia, prostate neoplasms and rccs. although
+this represents a subset of these cancers in each case,
+this therapy may prove effective in these cases if
+the properties of the sensitive tumors can be fully
+characterized.
+recent clinical results indicate that in tumor tissue
+from patients receiving rad001 there is hyperpho-
+sphorylation of akt (o’reilly et al., 2006). this appears
+to be a consequence of increased stability of irs-1, and
+upregulation of igf-1 signaling. speciﬁc inhibition of
+igf-i receptor in conjunction with rad001 led to
+increased apoptosis, particularly in pten-deﬁcient
+cells. also given the high level of speciﬁcity of the
+rapalogs and their cytostatic properties, they may prove
+effective in combination with other therapeutic drugs.
+combination of mtor inhibitors with agents used in ﬁrst
+line therapy
+a number of approaches with combination therapy
+targeting different signaling pathways are possible.
+for proliferation-dependent or s-phase-speciﬁc cyto-
+toxic agents, the anticipated result would be antago-
+nism if rapalogs arrest cells in g1 phase. however,
+treatment with rapamycin followed by the timed
+addition of drugs targeting s phase such as irinotecan
+may have additive effect in tumors, and recent data
+suggest that mtor may play a role in determining
+cellular responses to dna damage, at least in yeast. for
+tumors where treatment with mtor inhibitors may
+cause a general slowing of growth, concomitant therapy
+with compounds such as interferon-a or other com-
+pounds inducing general apoptosis may prove more
+appropriate. this combination is currently a component
+of the current phase iii trials to determine efﬁcacy of
+cci-779 alone or combined with interferon-a (standard
+of care) in the treatment of rcc.
+in multiple myeloma cell lines and cells from patients,
+treatment with the combination of cc-5013 (lenalido-
+mide), a thalidomide derivative, and rapamycin resulted
+in a synergistic apoptotic effect (raje et al., 2004). this
+combination of drugs was also able to overcome growth
+advantages conferred by the addition of growth factors,
+growth on stromal cells, or drug resistance. although,
+cci-5013 and rapamycin appear to have somewhat
+similar physiological effects (immune modulator, and
+antiangiogenic), the mechanism of action of these drugs
+appears to be through different pathways, perhaps
+accounting for their synergistic effects (raje et al., 2004).
+for chronic myeloid leukemia patients that have
+developed resistance to imatinib, in the vast majority of
+cases the resistance is the result of a point mutation in
+bcr-abl (gorre et al., 2001). activation of
+the
+tyrosine kinase fusion product bcr-abl is absolutely
+required for the development of this type of leukemia,
+and molecularly deﬁnes this disease. as the activity of
+tor and cancer therapy
+jb easton and pj houghton
+bcr-abl is dependent on up regulation of pi3k
+activity and its downstream effectors, mtor inhibitors
+might be predicted have a signiﬁcant effect in either
+stabilizing or regressing leukemias that have acquired
+bcr-abl mutations. recent preclinical data has added
+support to this hypothesis (mohi et al., 2004).
+another possible approach to targeting the same
+pathway would be to target both proteins simulta-
+neously in ﬁrst line treatment to reduce the likelihood of
+developing resistant tumor cells. in the case of imatinib
+this would be accomplished by slowing proliferation of
+the initial tumor cell population by cotreatment with
+rapamycin.
+when targeting multiple proteins in the same pathway
+to bypass drug resistance, it is important to determine if
+the second drug eliminates the effects of the mutation
+creating the resistance. a good example of the im-
+portance of this effect is illustrated by preclinical studies
+using the epidermal growth factor receptor inhibitor
+geﬁtinib, and rapamycin in rcc cell lines where it was
+discovered that these two agents acted synergistically to
+inhibit cell growth only in cell lines that contained the
+wild-type e3 ubiquitin ligase complex protein, vhl
+(gemmill et al., 2005). however, caution should be
+used, as
+signaling pathways
+(erbb1/mtor) would be anticipated to have effects in
+normal tissues. indeed the combination of rad001 and
+erlotinib, another erbb1 inhibitor, causes considerable
+toxicity manifest by severe mucositis.
+inhibiting two major
+inhibition of the pi3k/akt signaling pathway sensi-
+tizes tumor vasculature to radiation (edwards et al.,
+2002). recently it has been determined that mtor
+inhibitors also sensitizes tumor vasculature to ionizing
+radiation (shinohara et al., 2005) (figure 1). indicating
+that
+some types of cancer combining mtor
+inhibitors with radiation may have some efﬁcacy as a
+radiosensitizing agent.
+for
+non-rapalog inhibitors of mtor
+currently, no speciﬁc inhibitors of mtor that are not
+based on rapamycin have been described. the most
+common target for small molecule inhibitors of kinases
+is the atp binding pocket. the catalytic domain (cd)
+of mtor contains autophosphorylation sites as well as
+the atp binding site. small molecules that target the
+atp binding site of mtor would almost certainly
+inhibit the function of mtor in the context of both
+torc1 and torc2.
+in yeast, preventing the formation of both torc1
+and torc2 is lethal, and in mice deletion of mtor
+results in an embryonic lethal phenotype (hentges et al.,
+2001). conditional knockouts of mtor have not yet
+been described so it is not clear what the effect of
+inhibiting mtor would be in adult mice or in selective
+tissues. despite the recent report about the ability of
+rapamcyin to inhibit the mtorc2 complex as well as
+the mtorc1 complex,
+it is not clear that this is a
+universal effect in all cells (sarbassov dos et al., 2006).
+oncogene
+6444
+tor and cancer therapy
+jb easton and pj houghton
+a speciﬁc inhibitor targeting the atp binding domain
+of mtor would provide a great deal of information
+about the contribution of mtor containing complexes
+other than mtorc1 to tumorigenesis as well as cellular
+and tissue functions of these complexes, regardless of its
+effectiveness as a therapeutic agent.
+another potential approach to disrupt mtor signal-
+ing would be to block the formation of active mtorc
+by creating small molecules that interfere with the
+association of mtor complex proteins such as mlst8
+or raptor. in theory, by targeting protein partners
+that are unique to either mtorc1, or mtorc2, it
+would be possible to generate selective tor complex
+inhibitors. small molecule inhibitors might also be
+developed that block the interaction of the mtor
+kinase with substrates containing the tor signaling
+motif.
+employing rnai to downregulate components of the
+mtor pathway that are overexpressed or ampliﬁed
+may also be possible. because of delivery considerations,
+however, this therapy would currently be restricted to
+certain types of cancer.
+the determination of the efﬁcacy of inhibiting mtor
+in the treatment of various types of cancer is still being
+evaluated, and there are many possibilities that have yet
+to be explored in identifying areas where rapamycin
+might prove to be an effective treatment for cancer.
+acknowledgements
+this work was supported by usphs awards ca23099,
+ca77776, ca96966 and ca21765 (cancer center support
+grant) and by american, lebanese, syrian associated
+charities (alsac).
+references
+arsham am, howell jj, simon mc. (2003). a novel hypoxia-
+inducible factor-independent hypoxic response regulating
+mammalian target of rapamycin and its targets. j biol chem
+278: 29655–29660.
+atkins mb, hidalgo m, stadler wm, logan tf, dutcher jp,
+hudes gr et al. (2004). randomized phase ii study of
+multiple dose levels of cci-779, a novel mammalian
+target of rapamycin kinase inhibitor,
+in patients with
+advanced refractory renal cell carcinoma. j clin oncol 22:
+909–918.
+bader ag, felts ka, jiang n, chang hw, vogt pk. (2003).
+y box-binding protein 1 induces resistance to oncogenic
+transformation by the phosphatidylinositol 3-kinase path-
+way. proc natl acad sci usa 100: 12384–12389.
+barata jt, cardoso aa, nadler lm, boussiotis va. (2001).
+interleukin-7 promotes survival and cell cycle progression of
+t-cell acute lymphoblastic leukemia cells by down-regulat-
+ing the cyclin-dependent kinase inhibitor p27(kip1). blood
+98: 1524–1531.
+berkel hj, turbat-herrera ea, shi r, de benedetti a. (2001).
+expression of the translation initiation factor eif4e in the
+polyp-cancer sequence in the colon. cancer epidemiol
+biomarkers prev 10: 663–666.
+bjornsti m-a, houghton pj. (2004). the tor pathway: a
+target for cancer therapy. nat rev cancer 4: 335–348.
+brugarolas j, lei k, hurley rl, manning bd, reiling jh,
+hafen e et al. (2004). regulation of mtor function in
+response to hypoxia by redd1 and the tsc1/tsc2 tumor
+suppressor complex. genes dev 18: 2893–2904.
+brunet a, bonni a, zigmond mj, lin mz, juo p, hu ls et al.
+(1999). akt promotes cell survival by phosphorylating and
+inhibiting a forkhead transcription factor. cell 96: 857–868.
+bursch w, ellinger a, kienzl h, torok l, pandey s, sikorska
+m et al. (1996). active cell death induced by the anti-
+estrogens tamoxifen and ici 164 384 in human mammary
+carcinoma cells (mcf-7) in culture: the role of autophagy.
+carcinogenesis 17: 1595–1607.
+chan s, scheulen me, johnston s, mross k, cardoso f,
+dittrich c et al. (2005). phase ii study of temsirolimus (cci-
+779), a novel
+in heavily pretreated
+patients with locally advanced or metastatic breast cancer.
+j clin oncol 23: 5314–5322.
+inhibitor of mtor,
+choi j, chen j, schreiber sl, clardy j. (1996). structure of the
+fkbp12-rapamycin complex interacting with the binding
+domain of human frap. science 273: 239–242.
+connolly e, braunstein s, formenti s, schneider rj. (2006).
+hypoxia inhibits protein synthesis
+through a 4e-bp1
+and elongation factor 2 kinase pathway controlled by
+mtor and uncoupled in breast cancer cells. mol cell biol
+26: 3955–3965.
+costa lf, balcells m, edelman er, nadler lm, cardoso aa.
+(2006). proangiogenic stimulation of bone marrow endothe-
+lium engages mtor and is inhibited by simultaneous
+blockade of mtor and nf-{kappa}b. blood 107: 285–292.
+couch fj, wang xy, wu gj, qian j, jenkins rb, james cd.
+(1999). localization of ps6k to chromosomal region 17q23
+and determination of its ampliﬁcation in breast cancer.
+cancer res 59: 1408–1411.
+crew jp, fuggle s, bicknell r, cranston dw, de benedetti a,
+harris al.
+(2000). eukaryotic initiation factor-4e in
+superﬁcial and muscle invasive bladder cancer and its
+correlation with vascular endothelial growth factor expres-
+sion and tumour progression. br j cancer 82: 161–166.
+cross dae, alessi dr, cohen p, andjelkovich m, hemmings
+ba. (1995). inhibition of glycogen synthase kinase-3 by
+insulin mediated by protein kinase b. nature 378: 785–789.
+dancey je. (2002). clinical development of mammalian target
+of rapamycin inhibitors. hematol oncol clin north am 16:
+1101–1114.
+datta sr, dudek h, tao x, masters s, fu h, gotoh y et al.
+(1997). akt phosphorylation of bad couples survival
+signals to the cell-intrinsic death machinery. cell 91:
+231–241.
+degraffenried la, friedrichs we, russell dh, donzis ej,
+middleton ak, silva jm et al. (2004). inhibition of mtor
+activity restores tamoxifen response in breast cancer cells
+with aberrant akt activity. clin cancer res 10: 8059–8067.
+dilling mb, germain gs, dudkin l, jayaraman al, zhang
+x, harwood fc et al. (2002). 4e-binding proteins, the
+suppressors of eukaryotic initiation factor 4e, are down-
+regulated in cells with acquired or intrinsic resistance to
+rapamycin. j biol chem 277: 13907–13917.
+edwards e, geng l, tan j, onishko h, donnelly e, hallahan
+de. (2002). phosphatidylinositol 3-kinase/akt signaling in
+the response of vascular endothelium to ionizing radiation.
+cancer res 62: 4671–4677.
+gemmill rm, zhou m, costa l, korch c, bukowski rm,
+drabkin ha. (2005). synergistic growth inhibition by iressa
+and rapamycin is modulated by vhl mutations in renal
+cell carcinoma. br j cancer 92: 2266–2277.
+oncogene
+tor and cancer therapy
+jb easton and pj houghton
+6445
+giardiello fm, welsh sb, hamilton sr, offerhaus gj,
+gittelsohn am, booker sv et al. (1987). increased risk of
+cancer in the peutz-jeghers syndrome. n engl j med 316:
+1511–1514.
+gorre me, mohammed m, ellwood k, hsu n, paquette r,
+rao pn et al. (2001). clinical resistance to sti-571 cancer
+therapy caused by bcr-abl gene mutation or ampliﬁca-
+tion. science 293: 876–880.
+guba m, von breitenbuch p, steinbauer m, koehl g, flegel s,
+hornung m et al. (2002). rapamycin inhibits primary
+and metastatic tumor growth by antiangiogenesis: involve-
+ment of vascular endothelial growth factor. nat med 8:
+128–135.
+hamanaka y, mukai m, shimamura m, kitagawa t, nishida
+t, isohashi f et al. (2005). suppression of pi3k/mtor
+pathway rescues llc cells from cell death induced by
+hypoxia. biochem biophys res commun 330: 318–326.
+haydon ms, googe jd, sorrells ds, ghali ge, li bd.
+(2000). progression of eif4e gene ampliﬁcation and over-
+expression in benign and malignant tumors of the head and
+neck. cancer 88: 2803–2810.
+hentges ke, sirry b, gingeras ac, sarbassov d, sonenberg
+n, sabatini d et al. (2001). frap/mtor is required for
+proliferation and patterning during embryonic development
+in the mouse. proc natl acad sci usa 98: 13796–13801.
+huang s, liu ln, hosoi h, dilling mb, shikata t, houghton
+pj. (2001). p53/p21(cip1) cooperate in enforcing rapamy-
+cin-induced g(1) arrest and determine the cellular response
+to rapamycin. cancer res 61: 3373–3381.
+huang s, shu l, dilling mb, easton j, harwood fc, ichijo h
+et al. (2003). sustained activation of the jnk cascade and
+rapamycin-induced apoptosis are
+suppressed by p53/
+p21(cip1). mol cell 11: 1491–1501.
+inoki k, zhu t, guan kl. (2003). tsc2 mediates cellular
+energy response to control cell growth and survival. cell
+115: 577–590.
+kanzawa t, germano im, komata t, ito h, kondo y,
+kondo s. (2004). role of autophagy in temozolomide-
+induced cytotoxicity for malignant glioma cells. cell death
+differ 11: 448–457.
+kim wy, kaelin wg. (2004). role of vhl gene mutation in
+human cancer. j clin oncol 22: 4991–5004.
+kwiatkowski dj. (2003). tuberous sclerosis: from tubers to
+mtor. ann human genet 67: 87–96.
+lapidot t, sirard c, vormoor j, murdoch b, hoang t,
+caceres-cortes j et al. (1994). a cell initiating human acute
+myeloid leukaemia after transplantation into scid mice.
+nature 367: 645–648.
+law bk, chytil a, dumont n, hamilton eg, waltner-law
+me, aakre me et al.
+(2002). rapamycin potentiates
+transforming growth factor beta-induced growth arrest in
+nontransformed, oncogene-transformed, and human cancer
+cells. mol cell biol 22: 8184–8198.
+levine b, klionsky dj. (2004). development by self-digestion:
+molecular mechanisms and biological functions of autop-
+hagy. dev cell 6: 463–477.
+li bd, gruner js, abreo f, johnson lw, yu h, nawas s
+et al. (2002). prospective study of eukaryotic initiation
+factor 4e protein elevation and breast cancer outcome. ann
+surg 235: 732–738.
+li j, yen c, liaw d, podsypanina k, bose s, wang si et al.
+(1997). pten, a putative protein tyrosine phosphatase gene
+mutated in human brain, breast, and prostate cancer.
+science 275: 1943–1947.
+li sy, rong m, grieu f, iacopetta b. (2006). pik3ca
+in breast cancer are associated with poor
+mutations
+outcome. breast cancer res treat 96: 91–95.
+liang xh, jackson s, seaman m, brown k, kempkes b,
+hibshoosh h et al. (1999). induction of autophagy and
+inhibition of tumorigenesis by beclin. nature 402: 672–676.
+liang xh, kleeman lk, jiang hh, gordon g, goldman je,
+berry g et al. (1998). protection against fatal sindbis virus
+encephalitis by beclin, a novel bcl-2-interacting protein.
+j virol 72: 8586–8596.
+lieberthal w, fuhro r, andry cc, rennke h, abernathy ve,
+koh js et al.
+(2001). rapamycin impairs
+recovery
+from acute renal
+failure: role of cell-cycle arrest and
+apoptosis of tubular cells. am j physiol renal physiol 281:
+f693–706.
+(2006). hypoxia-induced energy stress
+liu l, cash tp, jones rg, keith b, thompson cb, simon
+mc.
+regulates
+mrna translation and cell growth. mol cell 21: 521–531.
+lyden d, hattori k, dias s, costa c, blaikie p, butros l et al.
+(2001). impaired recruitment of bone-marrow-derived en-
+dothelial and hematopoietic precursor cells blocks tumor
+angiogenesis and growth. nat med 7: 1194–1201.
+majumder pk, febbo pg, bikoff r, berger r, xue q,
+mcmahon lm et al. (2004). mtor inhibition reverses akt-
+dependent prostate intraepithelial neoplasia through regula-
+tion of apoptotic and hif-1-dependent pathways. nat med
+10: 594–601.
+martin me, perez mi, redondo c, alvarez mi, salinas m,
+(2000). 4e binding protein 1 expression is
+fando jl.
+inversely correlated to the progression of gastrointestinal
+cancers. int j biochem cell biol 32: 633–642.
+mohi mg, boulton c, gu tl, sternberg dw, neuberg d,
+grifﬁn jd et al. (2004). combination of rapamycin and
+protein tyrosine kinase (ptk) inhibitors for the treatment of
+leukemias caused by oncogenic ptks. proc natl acad sci
+usa 101: 3130–3135.
+neshat ms, mellinghoff ik, tran c, stiles b, thomas g,
+petersen r et al. (2001). enhanced sensitivity of pten-
+deﬁcient tumors to inhibition of frap/mtor. proc natl
+acad sci usa 98: 10314–10319.
+noda t, ohsumi y. (1998). tor, a phosphatidylinositol kinase
+homologue, controls autophagy in yeast. j biol chem 273:
+3963–3966.
+nourse j, firpo e, flanagan wm, coats s, polyak k, lee
+mh et al. (1994). interleukin-2-mediated elimination of the
+p27kip1 cyclin-dependent kinase inhibitor prevented by
+rapamycin. nature 372: 570–573.
+o’reilly ke, rojo f, she qb, solit d, mills gb, smith d
+et al. (2006). mtor inhibition induces upstream receptor
+tyrosine kinase signaling and activates akt. cancer res 66:
+1500–1508.
+paglin s, hollister t, delohery t, hackett n, mcmahill m,
+sphicas e et al. (2001). a novel response of cancer cells to
+radiation involves autophagy and formation of acidic
+vesicles. cancer res 61: 439–444.
+paglin s, lee n-y, nakar c, fitzgerald m, plotkin j, deuel b
+et al (2005). rapamycin-sensitive pathway regulates mito-
+chondrial membrane potential, autophagy, and survival in
+irradiated mcf-7 cells. cancer res 65: 11061–11070.
+pattingre s, tassa a, qu x, garuti r, liang xh, mizushima
+n et al. (2005). bcl-2 antiapoptotic proteins inhibit beclin
+1-dependent autophagy. cell 122: 927–939.
+podsypanina k, lee rt, politis c, hennessy i, crane a, puc j
+et al. (2001). an inhibitor of mtor reduces neoplasia and
+normalizes p70/s6 kinase activity in pten+/  mice. proc
+natl acad sci usa 98: 10320–10325.
+raje n, kumar s, hideshima t, ishitsuka k, chauhan d,
+mitsiades c et al. (2004). combination of the mtor
+inhibitor rapamycin and cc-5013 has synergistic activity in
+multiple myeloma. blood 104: 4188–4193.
+oncogene
+6446
+tor and cancer therapy
+jb easton and pj houghton
+risinger ji, hayes ak, berchuck a, barrett jc. (1997).
+pten/mmac1 mutations in endometrial cancers. cancer
+res 57: 4736–4738.
+rosenwald ib. (1996). upregulated expression of the genes
+encoding translation initiation factors eif-4e and eif-
+2alpha in transformed cells. cancer lett 102: 113–123.
+rosenwald ib, chen jj, wang s, savas l, london im,
+pullman j.
+(1999). upregulation of protein synthesis
+initiation factor eif-4e is an early event during colon
+carcinogenesis. oncogene 18: 2507–2517.
+ruggero d, montanaro l, ma l, xu w, londei p, cordon-
+cardo c et al.
+(2004). the translation factor eif-4e
+promotes tumor formation and cooperates with c-myc in
+lymphomagenesis. nat med 10: 484–486.
+samuels y, wang z, bardelli a, silliman n, ptak j, szabo s
+et al. (2004). high frequency of mutations of the pik3ca
+gene in human cancers. science 304: 554.
+sarbassov dos d, ali sm, sengupta s, sheen jh, hsu pp,
+bagley af et al. (2006). prolonged rapamycin treatment
+inhibits mtorc2 assembly and akt/pkb. mol cell 22:
+159–168.
+scott pa, smith k, poulsom r, de benedetti a, bicknell r,
+harris al.
+(1998). differential expression of vascular
+endothelial growth factor mrna vs protein isoform
+expression in human breast cancer and relationship to eif-
+4e. br j cancer 77: 2120–2128.
+secombe j, pierce sb, eisenman rn. (2004). myc: a weapon
+of mass destruction. cell 117: 153–156.
+shantz lm, pegg ae. (1994). overproduction of ornithine
+decarboxylase caused by relief of translational repression is
+associated with neoplastic transformation. cancer res 54:
+2313–2316.
+shaw rj, bardeesy n, manning bd, lopez l, kosmatka m,
+depinho ra et al. (2004). the lkb1 tumor suppressor
+negatively regulates mtor signaling. cancer cell 6: 91–99.
+shayesteh l, lu y, kuo wl, baldocchi r, godfrey t, collins
+c et al. (1999). pik3ca is implicated as an oncogene in
+ovarian cancer. nat genet 21: 99–102.
+shi y, sharma a, wu h, lichtenstein a, gera j. (2005a).
+ribosome
+entry site
+cyclin d1 and c-myc
+regulated by akt
+(ires)-dependent
+activity and enhanced by rapamycin through a p38
+mapk- and erk-dependent pathway. j biol chem 280:
+10964–10973.
+internal
+translation is
+shinohara et, cao c, niermann k, mu y, zeng f, hallahan
+de et al. (2005). enhanced radiation damage of tumor
+vasculature by mtor inhibitors. 24: 5414–5422.
+sorrells dl, meschonat c, black d, li bd. (1999). pattern of
+ampliﬁcation and overexpression of the eukaryotic initiation
+factor 4e gene in solid tumor. j surg res 85: 37–42.
+steck pa, pershouse ma, jasser sa, yung wk, lin h, ligon
+ah et al. (1997). identiﬁcation of a candidate tumour
+suppressor gene, mmac1, at chromosome 10q23.3 that is
+mutated in multiple advanced cancers. nat genet 15:
+356–362.
+stoneley m, chappell sa, jopling cl, dickens m, macfar-
+lane m, willis ae. (2000). c-myc protein synthesis is
+initiated from the internal ribosome entry segment during
+apoptosis. mol cell biol 20: 1162–1169.
+thimmaiah kn, easton jb, germain gs, morton cl,
+kamath s, buolamwini jk et al. (2005). identiﬁcation of
+n10-substituted phenoxazines as potent and speciﬁc
+inhibitors of akt signaling. j biol chem 280: 31924–31935.
+thomas gv, tran c, mellinghoff ik, welsbie ds, chan e,
+fueger b et al. (2006). hypoxia-inducible factor determines
+sensitivity to inhibitors of mtor in kidney cancer. nat med
+12: 122–127.
+treins c, giorgetti-peraldi s, murdaca j, semenza gl, van
+obberghen e. (2002). insulin stimulates hypoxia-inducible
+factor 1 through a phosphatidylinositol 3-kinase/target of
+rapamycin-dependent signaling pathway. j biol chem 277:
+27975–27981.
+wang s, lloyd rv, hutzler mj, rosenwald ib, safran ms,
+patwardhan na et al. (2001). expression of eukaryotic
+translation initiation factors 4e and 2alpha correlates
+with the progression of thyroid carcinoma. thyroid 11:
+1101–1107.
+weinstein ib.
+(2002). cancer: enhanced: addiction to
+oncogenes–the achilles heal of cancer. science 297: 63–64.
+wendel hg, de stanchina e, fridman js, malina a, ray s,
+kogan s et al. (2004). survival signalling by akt and eif4e
+in oncogenesis and cancer therapy. nature 428: 332–337.
+witzig te, geyer sm, ghobrial i, inwards dj, fonseca r,
+kurtin p et al.
+(2005). phase ii trial of single-agent
+temsirolimus (cci-779) for relapsed mantle cell lymphoma.
+j clin oncol 23: 5347–5356.
+woltman am, van der kooij sw, coffer pj, offringa r,
+daha mr, van kooten c. (2003). rapamycin speciﬁcally
+interferes with gm-csf signaling in human dendritic cells,
+leading to apoptosis via increased p27kip1 expression.
+blood 101: 1439–1445.
+wong as, kim so, leung pc, auersperg n, pelech sl.
+(2001). proﬁling of protein kinases
+in the neoplastic
+transformation of human ovarian surface epithelium.
+gynecol oncol 82: 305–311.
+wu h, yang j-m, jin s, zhang h, hait wn.
+(2006).
+elongation factor-2 kinase regulates autophagy in human
+glioblastoma cells. cancer res 66: 3015–3023.
+yan h, frost p, shi y, hoang b, sharma s, fisher m et al.
+(2006). mechanism by which mammalian target of rapamy-
+cin inhibitors sensitize multiple myeloma cells to dexa-
+methasone-induced apoptosis. cancer res 66: 2305–2313.
+yeung rs, xiao g, jin f, lee w, testa jr, knudson ag.
+(1994). predisposition to renal carcinoma in the eker rat is
+determined by germ-line mutation of the tuberous sclerosis 2
+(tsc2). proc natl acad sci usa 91: 11413–11416.
+yilmaz n˜ h, valdez r, theisen bk, guo w, ferguson do,
+wu h et al. (2006). pten dependence distinguishes haema-
+topoietic stem cells from leukaemia-initiating cells. nature
+441: 475–478.
+yue z, jin s, yang c, levine aj, heintz n. (2003). beclin 1,
+an autophagy gene essential for early embryonic develop-
+ment, is a haploinsufﬁcient tumor suppressor. proc natl
+acad sci usa 100: 15077–15082.
+zha j, harada h, yang e, jockel j, korsmeyer sj. (1996).
+serine phosphorylation of death agonist bad in response to
+survival factor results in binding to 14-3-3 not bcl-x(l).
+cell 87: 619–628.
+oncogene

@@ -1,0 +1,1107 @@
+published june 19, 2006
+jcb: article
+tor coordinates bulk and targeted endocytosis 
+in the drosophila melanogaster fat body to regulate 
+cell growth
+krista m. hennig,1 julien colombani,2 and thomas p. neufeld1
+1department of genetics, cell biology, and development, university of minnesota, minneapolis, mn 55455
+2institute for signaling, developmental biology, and cancer research, centre national de la recherche scientiﬁ que-parc valrose, 06108 nice cedex 2, france
+t arget of rapamycin (tor) is a central regulator of 
+cellular and organismal growth in response to nutri-
+ent  conditions.  in  a  genetic  screen  for  novel  tor 
+ interactors in drosophila melanogaster, we have identi-
+ﬁ ed  the  clathrin-uncoating  atpase  hsc70-4,  which  is  a 
+key regulator of endocytosis. we present genetic evidence 
+that tor signaling stimulates bulk endocytic uptake and 
+inhibits the targeted endocytic degradation of the amino 
+acid importer slimfast. thus, tor simultaneously down-
+introduction
+multicellular  organisms  must  modulate  cellular  growth  and 
+proliferation  in  response  to  available  nutrients,  energy,  and 
+growth factor signaling. the regulatory kinase target of rapamycin 
+(tor) has emerged as a convergence point for the transduc-
+tion of these signals into appropriate changes in cell metabolism 
+and  growth.  tor  activity  is  stimulated  by  insulin-responsive 
+phosphatidylinositol-3  kinase  (pi3k)/akt  signaling,  by  nutri-
+ents  such  as  amino  acids,  and  by  high  cellular  energy  levels 
+(for reviews see martin and hall, 2005; sarbassov et al., 2005a). 
+in response to these signals, tor effects changes in a diverse 
+number  of  downstream  processes,  including  transcription, 
+translation, nutrient import, and autophagy, to achieve the align-
+ment  of  cellular  energy  utilization  with  available  resources. 
+ unsurprisingly, improper activation of tor signaling has been 
+implicated in the development of cancers and hamartoma syn-
+dromes and in metabolic diseases such as diabetes and obesity 
+(manning, 2004). for example, mutations in either component 
+of  the  tsc1–tsc2  complex,  which  is  an  upstream  inhibitor 
+of tor signaling, result in the formation of benign tumors in 
+multiple tissues.
+correspondence to thomas p. neufeld: neufeld@med.umn.edu
+abbreviations used in this paper: ems, ethyl methanesulfonate; hrs, hepatocyte 
+growth  factor–regulated  tyrosine  kinase  substrate;  lsp,  larval  serum  protein; 
+pi3k, phosphatidylinositol-3 kinase; tor, target of rapamycin; tr-avidin, texas 
+red–conjugated avidin.
+the online version of this article contains supplemental material.
+© the rockefeller university press   $8.00
+the journal of cell biology, vol. 173, no. 6, june 19, 2006 963–974
+http://www.jcb.org/cgi/doi/10.1083/jcb.200511140
+regulates aspects of endocytosis that inhibit growth and 
+up-regulates potential growth-promoting functions of endo-
+cytosis. in addition, we ﬁ nd that disruption of endocytosis 
+leads  to  changes  in  tor  and  phosphatidylinositol-3 
+kinase activity, affecting cell growth, autophagy, and ra-
+pamycin  sensitivity.  our  data  indicate  that  endocytosis 
+acts both as an effector function downstream of tor and 
+as a physiologically relevant regulator of tor signaling.
+although tor is known to affect a wide range of cellular 
+processes, the relative contribution of these processes and how 
+they  interact  to  result  in  a  directed  growth  response  remain 
+poorly understood. components of the translational machinery 
+are  well  established  downstream  effectors  of  tor  signaling 
+(martin and hall, 2005). tor directly phosphorylates eukaryotic 
+initiation factor-4e–binding protein (4e-bp) and ribosomal pro-
+tein s6 kinase (s6k), thereby facilitating cap-dependent transla-
+tion and ribosome biogenesis. although these effects on protein 
+synthesis are likely to contribute substantially to cellular growth 
+capacity, they are unlikely to fully account for the growth effects 
+of tor.  for  example,  whereas  inactivation  of tor  results  in 
+a nearly complete block of protein synthesis in yeast, this effect 
+is more modest in mammalian cells, with an ⵑ15–50% decrease 
+in  translation  rate  (jefferies  et  al.,  1994;  terada  et  al.,  1994). 
+in drosophila melanogaster, null mutations in 4e-bp are with-
+out effect on cell growth (junger et al., 2003), and the growth 
+phenotype of s6k-null mutants is signifi cantly less severe than 
+that of tor mutants (montagne et al., 1999; oldham et al., 2000; 
+zhang et al., 2000). activation of s6k only partially overcomes 
+the growth arrest of tor mutants in this system. recent genetic 
+studies in mouse have also shown that the ribosomal substrate of 
+s6k,  rps6,  does  not  appear  to  be  a  relevant  mediator  of  the 
+growth effects of this pathway (pende et al., 2004).
+these  observations  have  motivated  the  search  for  other 
+effector pathways and cellular processes downstream of tor 
+supplemental material can be found at:
+http://jcb.rupress.org/content/suppl/2006/06/19/jcb.200511140.dc1.html 
+jcb 963
+published june 19, 2006
+that might contribute to its effects on cell growth. a growing 
+number of studies of tor structure, function, and localization 
+point  to  an  important  role  for  tor  signaling  in  controlling 
+ vesicular traffi cking. biochemical studies in yeast have found 
+that tor localizes to intracellular vesicles and cofractionates 
+with endosomal markers (kunz et al., 2000; chen and kaiser, 
+2003), which is consistent with a role in the endocytic compart-
+ment.  in  addition,  tor  has  a  highly  conserved  function  as 
+a regulator of autophagy, which is a process of cytoplasmic deg-
+radation that involves the reorganization of intracellular mem-
+branes into autophagic vesicles (noda and ohsumi, 1998; scott 
+et al., 2004). finally, tor is structurally related to the class iii 
+pi3k/vps34  family  of  lipid  kinases,  with  well  characterized 
+roles in endocytosis. interestingly, recent studies have identifi ed 
+a novel role for hvps34 in relaying intracellular nutrient status 
+to tor (byfi eld et al., 2005; nobukuni et al., 2005), indicating 
+that this family of molecules may have common roles in nutri-
+ent sensing and membrane traffi cking.
+we  report  the  identifi cation  of  the  clathrin-uncoating 
+atpase  hsc70-4  in  a  genetic  enhancer/suppressor  screen  for 
+novel tor interactors in d. melanogaster. hsc70-4 is a critical 
+regulator  of  clathrin-mediated  endocytosis,  and  we  provide 
+ evidence  that  tor  signaling  infl uences  bulk  endocytosis,  as 
+well as the targeted endocytic degradation of a specifi c amino 
+acid transporter. our results suggest that tor controls growth, 
+in part, by simultaneously down-regulating aspects of endocy-
+tosis  that  inhibit  growth  and  up-regulating  potential  growth-
+promoting functions of endocytosis.
+results
+hsc70-4 mutants are dominant modiﬁ ers 
+of tor overexpression phenotypes
+to better understand the regulation and downstream effects of 
+tor-mediated growth signaling, we took a genetic approach to 
+reveal novel players in the tor signaling pathway. we used a 
+tissue-specifi c tor overexpression phenotype as the sensitized 
+background  for  a  dominant-modifi er  ethyl  methanesulfonate 
+(ems) mutagenesis screen. to create this background, p element–
+mediated  transposition  was  used  to  introduce  a  copy  of  the 
+wild-type tor cdna, which was preceded by multiple copies 
+of the eyeless (ey) enhancer, into the d. melanogaster genome. 
+ey-driven overexpression of tor (eytor) led to an overall re-
+duction in size of the adult eye (fig. 1, a–b), demonstrating the 
+paradoxical  decrease  in  growth  previously  observed  to  result 
+from  wild-type  tor  overexpression  (hennig  and  neufeld, 
+2002).  in  addition  to  the  reduction  in  eye  size,  ommatidial 
+ patterning  was  disorganized,  with  some  ommatidia  appearing 
+fused  or  pitted.  immunohistochemistry  of eytor  imaginal 
+discs revealed a delay in morphogenetic furrow progression and 
+missing and disorganized photoreceptor cells, as well as an in-
+creased level of cell death (fig. s1, available at http://www/jcb.
+org/cgi/content/full/jcb.200511140/dc1).  the  severity  of  the 
+eytor  phenotype  was  strongly  enhanced  by  a  heterozygous-
+null mutation of the negative tor regulator tsc1 (fig. 1 c) and 
+was suppressed by addition of rapamycin to the media (fig. s1). 
+these  results  suggest  that  the eytor  phenotype  results  from 
+inappropriately high levels of tor signaling, and they demon-
+strate the potential utility of this overexpression phenotype as 
+a dosage-sensitive genetic background.
+we  next  sought  to  identify  novel  factors  involved  in 
+tor signaling by screening for the ability of ems-generated 
+ mutations  to  dominantly  modify  the eytor  phenotype.  from 
+ⵑ60,000 f1 progeny scored, we identifi ed 23 eytor enhancers 
+and 2 suppressors. within this collection were two independent 
+groups  that  failed  to  complement  for  lethality.  we  report  the 
+analysis of a third chromosome complementation group consist-
+ing of two alleles (e3 and e19) isolated as dominant enhancers 
+of the  eytor phenotype. heterozygous mutation of either  e3 
+or  e19  caused  a  further  reduction  in  eye  size  of  eytor  fl ies 
+(fig. 1 d and fig. s1) and a similar enhancement of ms1096-
+gal4-driven tor misexpression phenotypes in the adult wing 
+(fig. s1). through recombination and defi ciency mapping we 
+localized the e3 and e19 mutations to the 88e4 genomic region. 
+complementation tests with lethal mutations in this interval re-
+vealed that e3 and e19 disrupt the hsc70-4 gene, which encodes 
+a constitutively expressed member of the stress-induced hsp70 
+family  of  atpases.  independently  isolated  mutant  alleles  of 
+hsc70-4  also  displayed  a  strong  enhancement  of  the  eytor 
+phenotype  (fig.  s1).  in  addition,  both  the  dominant  eytor 
+ enhancement and the recessive lethality of e3 and e19 could be 
+rescued  by  a  transgene  carrying  a  wild-type  copy  of  hsc70-4 
+(hing et al., 1999; fig. s1). we found that the e3 and e19 muta-
+tions result in single amino acid substitutions within the atpase 
+domain of hsc70-4 (ser40 to phe and arg301 to cys, respectively; 
+fig.  1  g).  these  residues  are  completely  conserved  in  fungi, 
+plant, and animal hsc70-4 orthologues, indicating their likely 
+importance  for  hsc70-4  function.  therefore,  from  this  point 
+forth we refer to these mutations as hsc70-4e3 and -4e19.
+hsc70-4 catalyzes the uncoating of clathrin-coated vesi-
+cles,  which  is  an  essential  late  step  in  clathrin-mediated 
+ en docytosis  (schlossman  et  al.,  1984;  chang  et  al.,  2002). 
+in  addition,  hsp70  family  members  can  act  as  chaperones 
+to  regulate  protein  folding  and  stability  (mayer  and  bukau, 
+2005).  to  determine  whether  either  of  these  functions  of 
+hsc70-4 contributes to its genetic interactions with tor, we 
+fi rst assayed the ability of other endocytic factors to modify 
+tor  misexpression  phenotypes.  shibire  (shi)  encodes  the 
+d. melanogaster homologue of dynamin, which is a gtpase 
+critical for the proper membrane closure and budding of endo-
+cytic vesicles from the plasma membrane (chen et al., 1991). 
+we  found  that  expression  of  a  dominant-negative  form  of 
+ shibire,  shik44a  (moline  et  al.,  1999),  strongly  enhanced  the 
+eytor phenotype (fig. 1, e and f), suggesting that hsc70-4 
+may infl uence tor signaling through its role in endocytosis. 
+in contrast, hsc70-4 mutations did not lead to increased levels 
+of tor protein in  eytor eye imaginal discs (fig. 1 h), indi-
+cating  that  the  enhancement  of  the  eytor  phenotype  by 
+hsc70-4 mutants is not caused by increased stability or abun-
+dance of overexpressed tor protein. we also observed no in-
+crease in total levels of endogenous tor protein in hsc70-4 
+mutants (fig. 1 i). interestingly, we found that expression of 
+shik44a led to increased localization of tor to vesicular struc-
+tures, a subset of which were accessible to an endocytic tracer 
+964
+jcb • volume 173 • number 6 • 2006
+published june 19, 2006
+figure  1.  mutations  in  endocytic  regulators  modify  tor  overexpression  phenotypes.  (a–f)  disruption  of  hsc70-4  or  shibire  dominantly  enhances  the 
+small  rough  eye  phenotype  caused  by  ey  tor.  scanning  electron  microscopy  images  of  d.  melanogaster  compound  eyes:  wild-type  (a),  eytor/+ 
+(b),  eytor/+; tsc129/+ (c), eytor/+; hsc70-4e19/+ (d), uas-shik44a/+; eygal4/uas-shik44a (e), and uas-shik44a/+; eytor eygal4/uas-shik44a (f). 
+(g) mutations in the e3/e19 complementation group disrupt the atpase domain of the hsc70-4 clathrin-uncoating atpase. shown is the domain structure of 
+hsc70-4, with the mutated residues indicated. (h and i) mutation of hsc70-4 does not lead to increased levels of tor protein. (h) loss of gfp  expression 
+marks a clone of cells homozygous for hsc70-4e3 (arrow) from an eye imaginal disc expressing eyeless-driven flag-tagged tor. genotype:  hsﬂ p122/+; 
+ eytor/+; frt82b ubi-gfp/frt82b hsc70-4e3. (i) extracts from wild-type and hsc70-4e3/e19 third instar larvae were blotted with anti-tor antibodies to 
+ detect endogenous tor levels. (j–l) expression of shik44a causes relocalization of tor to endocytic vesicles. flag-tagged tor expressed clonally in fat body 
+cells (j) shows altered distribution upon coexpression of uas-shik44a (k). tor-containing vesicles near the cell surface can incorporate the endocytic tracer tr-avidin 
+(l, arrow). genotype: hsﬂ p122/+; act>cd2>gal4, uas-tor/tm3-uas-shik44a. bars: (a–f) 100 μm; bar in (l) is 12.5 μm in h–k, and 6.25 μm in l.
+(fig.  1,  j–l;  see  below),  further  supporting  a  link  between 
+tor signaling and endocytosis.
+tor signaling promotes bulk endocytosis
+to further characterize the interplay between tor and endocy-
+tosis, we tested the effect of tor signaling on several endocytic 
+markers in the d. melanogaster larval fat body. the fat body 
+serves as a nutrient storage organ that is analogous to the verte-
+brate liver (dean et al., 1985), and it has recently been shown 
+to  act  as  a  nutrient  sensor  capable  of  affecting  global  growth 
+through  a  tor-dependent  humoral  mechanism  (colombani 
+et al., 2003). we tested the effects of altered nutrient availability 
+and tor signaling on the intracellular localization of compo-
+nents of the endocytic machinery, using gfp-fusions to rab5, 
+rab7, and clathrin. in fat body cells from fed control animals, 
+we observed gfp-rab5 localization both at the cell surface and 
+throughout the cytoplasm (fig. 2 a).  in contrast, larvae sub-
+jected to a 5-h starvation displayed a variable redistribution of 
+gfp-rab5 toward the cell surface, with a less diffuse, punctate 
+pattern  often  observed  in  these  cells  (fig.  2  b).  more  direct 
+ alteration of tor signaling, through overexpression of tsc1 
+and tsc2, or tor itself, also affected gfp-rab5 localization, 
+resulting in the appearance of large aggregates near the cell sur-
+face (fig. 2 c). the localization of gfp-rab7 and clathrin-gfp 
+was  also  altered  in  response  to  tor  inhibition  (unpublished 
+data).  overexpression  of  tor  in  fat  body  cells  also  resulted 
+in  increased  expression  of  hsc70-4,  as  monitored  by  a  gfp-
+hsc70-4 fusion expressed from the endogenous hsc70-4 locus 
+(clyne et al., 2003). together, these data indicate that altered 
+tor signaling effects an endocytic response in the fat body.
+to better understand the nature of these endocytic changes, 
+we monitored the effects of tor signaling on the ability of fat 
+tor regulates endocytosis to effect cell growth • hennig et al.
+965
+published june 19, 2006
+figure  2.  tor  signaling  affects  endocytosis.  (a–c)  starvation  and  tor  overexpression  affect  gfp-rab5  localization.  flp-dependent,  spontaneously 
+ induced clones of gfp-rab5–expressing cells in mid–third instar fat body tissue are shown. (a) under fed conditions, gfp-rab5 is uniformly distributed 
+throughout both the cytoplasm and surface of these cells. (b) in larvae starved for 4.5 h, higher levels of gfp-rab5 are observed near the cell surface. 
+(c) tor overexpression leads to the formation of large gfp-rab5 aggregates at the cell surface. images in a–c show the nuclear focal plane. inset in c 
+shows image taken at a focal plane just below the plasma membrane. genotypes: hsﬂ p122/+; act>cd2>gal4/uas-gfp-rab5 (a and b) and hsﬂ p122/+; 
+uas-tor, act>cd2>gal4/uas-gfp-rab5 (c). (d) tor overexpression increases levels of gfp-hsc70-4. the image shows a clone of cells expressing 
+flag-tagged tor (marked by flag staining in inset), resulting in increased levels of endogenously expressed gfp-hsc70-4. genotype: hsﬂ p122/+; uas-
+tor, act>cd2>gal4/hsc70-4wee-p1. (e–j) endocytic uptake in d. melanogaster fat body cells. fat body tissue containing clones of overexpressing or 
+ mutant cells was incubated with ﬂ uorescently labeled avidin to monitor endocytic uptake. images show surface (e and f) or cytoplasmic (e’, f’, and g–j) 
+ focal planes. clones are demarcated by gfp expression (insets) and are indicated by yellow arrows. (e–f) endocytosis is inhibited in response to disruption 
+of shibire or hsc70-4 function. a clone of shik44a-expressing cells (e) is marked by gfp expression, and a clone homozygous mutant for a null allele of 
+hsc70-4 (f) is marked by the absence of gfp. (g–j) tor signaling positively affects bulk endocytic uptake. shown are clones of cells homozygous for null 
+mutations in tor (g), tsc1, (h), s6k (i), and a clone overexpressing 4e-bp (j). bar, 25 μm. genotypes: hsﬂ p122/+; act>cd2>gal4, uas-gfp/tm3-uas-
+shik44a (e), hsﬂ p122/+; cg-gal4/+; frt82b uas-gfp/frt82b hsc70-4∆16 (f), hsﬂ p122/+; uas-2xegfp frt40a fb-gal4/tor∆p frt40a (g), hsﬂ p122/+; 
+cg-gal4/+; frt82b uas-gfpnls/frt82b tsc129 (h), hsﬂ p122/+; cg-gal4/+; uas-2xegfp frt80b/s6kl1 frt80b (i), and hsﬂ p122/+; act>cd2>gal4, 
+uas-gfp/uas-4e-bp (j). bar, 25 μm.
+body  cells  to  internalize  a  fl uorescent  endocytic  tracer, texas 
+red–conjugated  avidin  (tr-avidin).  in  control  experiments 
+we found that genetic disruption of shi or hsc70-4 prevented 
+proper  endocytic  uptake  in  these  cells,  as  was  demonstrated 
+ previously  in  garland  cells  (kosaka  and  ikeda,  1983;  chang 
+et al., 2002). tr-avidin failed to be effi ciently internalized in 
+shik44a-expressing fat body cells, and instead accumulated near 
+the cell surface, often in large aggregates (fig. 2 e). tr-avidin 
+uptake was also blocked in cells that were homozygous for a null 
+allele of hsc70-4 (bronk et al., 2001), and, in this case, a decrease in 
+both surface-bound and internalized tracer was observed (fig. 2 f).
+a similar, but less extensive, decrease in tr-avidin uptake was 
+observed in hsc70-4e3 and -4e19 mutant cells (fig. s2, available 
+at http://www/jcb.org/cgi/content/full/jcb.200511140/dc1).
+we next used this assay to monitor the effects of altered 
+tor signaling on bulk endocytic uptake. mosaic clones mutant 
+for  a  null  allele  of tor   showed  a  nearly  complete  block  of 
+tr-avidin  uptake  (fig.  2  g).  similar  effects  were  observed 
+when tor signaling was inhibited by overexpression of tsc1–
+tsc2  or tor  (fig.  s2). to  see  whether  increased  activation 
+of  tor  could  further  stimulate  endocytic  internalization,  we 
+generated  mitotic  clones  homozygous  for  a  tsc1-null  allele. 
+ increased tracer uptake was observed in these cells (fig. 2 h). 
+overexpression  of  rheb,  which  is  an  upstream  activator  of 
+tor, caused a similar increase in tr-avidin uptake (fig. s2). 
+we also tested whether two targets of tor, s6k and 4e-bp, 
+ affected  endocytosis.  cells  mutant  for  a  null  allele  of  s6k 
+showed a strong decrease in tr-avidin uptake, suggesting that 
+the   effects  of  tor  on  endocytosis  are  mediated  in  large  part 
+through s6k (fig. 2 i). in contrast, overexpression of 4e-bp, whose 
+activity is inhibited by tor, had no effect in this assay (fig. 2 j).
+as  an  alternative  approach  to  monitoring  endocytosis 
+in vivo, we tested the ability of fat body cells to internalize larval 
+serum  protein  2  (lsp2).  lsp2  is  present  in  the  hemolymph 
+966
+jcb • volume 173 • number 6 • 2006
+published june 19, 2006
+figure 3.  endocytic regulators and tor signaling control lsp2 internal-
+ization. images show surface (a and b) or cytoplasmic (a’, b’, and c–f) 
+ focal planes of third instar larval fat body stained with anti-lsp2. (a and b) 
+endocytosis of lsp2 from the larval hemolymph is inhibited in response to 
+disruption of shibire (a) or hsc70-4 (b). note the accumulation of lsp2 at 
+the surface of shik44a-expressing cells, but not in hsc70-4–null cells. (c–f) 
+tor signaling is required for lsp2 uptake. shown are clones of cells homo-
+zygous for null mutations in tor (c), tsc1 (d), s6k (e), and a clone over-
+expressing  4e-bp  (f).  arrows  indicate  mutant  or  overexpressing  cells. 
+bar, 25 μm. genotypes are as in fig. 2 e–j.
+ during larval development, and is internalized through endocy-
+tosis by the fat body during the late third instar period (levenbook, 
+1985). anti-lsp2 staining revealed a fi ne punctate appearance 
+throughout the cytoplasm of wild-type cells (fig. 3). in contrast, 
+shik44a-expressing  cells  displayed  large  aggregates  of  lsp2 
+ protein at the cell surface and an absence of internal lsp2 staining 
+(fig.  3 a).  hsc70-4  mutant  cells  were  also  defective  in  lsp2 
+uptake,  and,  again,  differed  from  shik44a-expressing  cells  in 
+showing a decrease in lsp2, both internally and at the surface 
+(fig. 3 b). the effects of tor signaling on lsp2 internalization 
+were identical to the effects on tr-avidin; lsp2 uptake was se-
+verely reduced in tor or s6k mutant cells and in tsc1–tsc2–
+overexpressing cells, and was increased in cells mutant for tsc1 
+or overexpressing rheb (fig. 3, c–e, and fig. s2). together, 
+these results demonstrate that the rheb–tor–s6k pathway is 
+required for proper endocytic uptake and indicate a novel role for 
+tor signaling in the positive stimulation of bulk endocytosis. 
+furthermore,  they  indicate  that  shik44a  expression  and  loss  of 
+hsc70-4 result in distinct endocytic phenotypes in the fat body.
+tor signaling inhibits the endocytic 
+degradation of slimfast
+in addition to the nonselective endocytic uptake described in the 
+previous section, studies in yeast and cultured mammalian cells 
+have  shown  that tor  can  selectively  infl uence  the  endocytic 
+uptake and degradation of specifi c nutrient transporters (beck 
+et al., 1999; edinger and thompson, 2002). to investigate the 
+effects of tor signaling on targeted endocytosis, we generated 
+an antibody to slimfast, which is a cationic amino acid importer 
+previously shown to positively affect organismal growth through 
+effects on the tor and pi3k signaling pathways (colombani 
+et al., 2003). we used this antibody to test whether tor signal-
+ing may regulate the endocytic turnover of slimfast in response 
+to  nutrient  conditions.  antibody  staining  of  fat  body  tissue 
+ confi rmed that slimfast is localized primarily to the cell surface, 
+with  peak  levels  just  below  the  plasma  membrane  (fig.  4 
+and  fig.  s3,  available  at  http://www/jcb.org/cgi/content/full/
+jcb.200511140/dc1). disruption of endocytosis through shik44a 
+expression resulted in a marked increase in slimfast at the cell 
+surface  (fig.  4 a),  suggesting  that  endocytosis  normally  acts 
+to  antagonize  the  surface  expression  of  slimfast.  in  contrast, 
+ disruption of hsc70-4 did not lead to increased surface levels 
+of  slimfast  (fig.  4,  b  and  c),  which  is  consistent  with 
+the  distinct effects of shik44a and hsc70-4 mutants on bulk 
+ endocytic uptake.
+we next asked whether changes in tor signaling affect 
+slimfast levels. activation of tor through clonal overexpres-
+sion of rheb caused an increase in surface levels of slimfast, 
+which was similar to the effects of shik44a (fig. 4 d). the rela-
+tive effect of rheb on slimfast levels was especially pronounced 
+in larvae subjected to a 24-h starvation (fig. s3). under these 
+conditions, tor activity is reduced in wild-type cells, but main-
+tained  in  rheb-overexpressing  cells  (saucedo  et  al.,  2003). 
+to  test  whether  slimfast  up-regulation  is  simply  caused  by 
+ increased  protein  synthesis  in  rheb-overexpressing  cells,  we 
+added the translation inhibitor cycloheximide during the 24-h 
+starvation period. under these conditions, rheb overexpression 
+still led to a modest relative increase in slimfast levels (fig. s3), 
+which  was  consistent  with  a  partial  posttranslational  effect. 
+ reduction in tor signaling also had a marked effect on slim-
+fast staining, as overexpression of tsc1–tsc2 led to a decrease 
+in slimfast levels (fig. 4 e). thus, the localization and levels 
+of  slimfast  are  sensitive  to  tor  activity,  with  high  levels  of 
+tor signaling resulting in accumulation of slimfast near the 
+cell  surface, and decreased tor signaling leading to slimfast 
+down-regulation.
+we  next  sought  to  determine  whether  tor  signaling 
+might mediate these changes in slimfast levels through effects 
+on the targeted endocytosis of this importer. we tested whether 
+the  slimfast  down-regulation  that  results  from  tsc1–tsc2 
+tor regulates endocytosis to effect cell growth • hennig et al.
+967
+published june 19, 2006
+figure 4.  tor signaling inhibits endocytic down-regulation of the amino 
+acid  transporter  slimfast.  fat  body  tissue  from  mid–third  instar  larvae 
+stained with slimfast antibody, which is shown in red. nuclei are shown in 
+blue. insets show cellular genotypes; transgene-expressing clones (a, d–h, 
+and j) are marked by gfp expression (green) and loss-of-function clones 
+(b, c, and i) are marked by the absence of gfp. (a–c) high levels of slim-
+fast accumulate near the surface of cells expressing shik44a (a), but not in 
+cells homozygous for two different alleles of hsc70-4 (b and c). mutant 
+cells are indicated by arrows. (d and e) slimfast levels are regulated by 
+tor  signaling.  (d)  overexpression  of  the  positive  tor  regulator  rheb 
+leads to increased cell surface levels of slimfast. (e) overexpression of the 
+negative tor regulators tsc1 and tsc2 leads to decreased slimfast levels. 
+(f–h)  slimfast  down-regulation  resulting  from  tor  inactivation  requires 
+ endocytosis. coexpression of shik44a inhibits tsc1–tsc2-induced slimfast 
+down-regulation  (f;  compare  to  e).  expression  of  dominant-negative 
+rabs43n does not affect slimfast levels in fed animals (g), but prevents slim-
+fast down-regulation in response to 24-h starvation (h). (i and j) slimfast 
+turnover requires endocytic targeting/sorting factors. loss of hrs function (i) 
+or expression of dominant-negative nedd4 (j) leads to increased slimfast 
+at the plasma membrane. slimfast is imaged just below the plasma mem-
+brane focal plane in these images; gfp expression in insets  is  imaged 
+at  the  nuclear  focal  plane.  arrows  mark  mutant  cells.  genotypes: 
+hsﬂ p122/+;  act>cd2>gal4,  uas-gfp/uas-shik44a  (a),  hsﬂ p122/+;  cg-
+gal4/+; frt82b uas-gfp/frt82b hsc70-4e3 (b), hsﬂ p122/+; cg-gal4/+; 
+968
+jcb • volume 173 • number 6 • 2006
+overexpression  requires  endocytosis  by  cooverexpressing 
+tsc1–tsc2 and shik44a. in the absence of functional endocy-
+tosis,  tsc1–tsc2  overexpression  no  longer  led  to  slimfast 
+down-regulation.  instead,  slimfast  protein  appeared  to  be 
+trapped in large aggregates near the surface of these cells (fig. 
+4  f).  similar  results  were  observed  when  tor  activity  was 
+ inhibited through starvation. in well fed larvae, partial disrup-
+tion  of  endocytosis  through  expression  of  dominant-negative 
+rab5s43n had little effect on slimfast levels (fig. 4 g). in con-
+trast, rab5s43n expression led to a marked persistence of slim-
+fast  at  the  plasma  membrane  in  starved  larvae  (fig.  4  h). 
+collectively, these results demonstrate that endocytosis is criti-
+cal for slimfast down-regulation in response to reduced tor 
+signaling, resulting either from poor nutrient conditions or inac-
+tivation by the tsc1–tsc2 complex.
+to further investigate whether the endocytic down-regula-
+tion  of  slimfast  is  a  specifi c,  targeted  process,  we  examined 
+the  effects  of  altering  components  of  the  endocytic  sorting/ 
+targeting machinery on slimfast levels. hrs (hepatocyte growth 
+factor–regulated tyrosine kinase substrate) is an early endosome–
+associated, ubiquitin-binding protein that is critical for proper 
+endocytic sorting. as shown in fig. 4 i, homozygous mutation 
+of hrs led to a marked increase in slimfast levels near the cell 
+surface. expression of a dominant-negative version of nedd4, 
+which is an e3 ubiquitin ligase, similarly caused persistence of 
+slimfast near the cell periphery (fig. 4 j). monoubiquitination 
+by the nedd4 family of enzymes is critical for the initial target-
+ing of plasma membrane–localized proteins to clathrin-coated 
+pits  for  internalization  (rotin  et  al.,  2000).  together,  these 
+ results demonstrate that components of the endocytic targeting/
+sorting machinery are critical in mediating slimfast turnover.
+endocytosis affects cell growth
+our observations indicate that tor signaling affects both bulk 
+and targeted endocytosis. interestingly, we note that tor ap-
+pears to exert opposing effects on these processes, stimulating 
+bulk endocytosis (figs. 2 and 3) and inhibiting the targeted en-
+docytic degradation of slimfast (fig. 4). to test whether tor’s 
+effects on endocytosis might contribute to its role in promoting 
+cell growth, we assayed the growth properties of cells in which 
+endocytosis was disrupted. flow cytometric analysis of mosaic 
+wing imaginal discs revealed an increased cell size and  increased 
+g2 population in hsc70-4e3 and -4∆16 mutant cells, relative to 
+wild-type cells (fig. 5, b and c).  these effects were acutely 
+dosage-sensitive,  as  hsc70-4  heterozygous  cells  were  also 
+larger  than  wild  type  (fig  s4).  expression  of  shik44a  or  of 
+a dominant-negative hsc70-4k71s transgene also resulted in in-
+creased cell size (fig. 5, e and f). this cytometric profi le of in-
+creased cell size and g2 content is similar to that of mutations 
+frt82b uas-gfp/frt82b hsc70-4∆16 (c), hsﬂ p122/+; act>cd2>gal4, 
+uas-gfp/uas-rhebep50.084  (c  and  d),  hsﬂ p122/+;  act>cd2>gal4, 
+uas-gfp/uas-tsc1, uas-tsc2, (f) hsﬂ p122/+; tubulin>cd2>gal4, uas-
+gfp/+; 
+hsﬂ p122/+; 
+act>cd2>gal4, uas-gfp/uas-rab5s43n (g and h), hsﬂ p122/+; hrsd28 
+hsﬂ p122/+; 
+frt40a/uas-2xegfp 
+act>cd2>gal4, uas-gfp/uas-nedd4c97411s (j). bar, 25 μm.
+tm3-uas-shik44a/uas-tsc1,  uas-tsc2 
+frt40a 
+fb-gal4 
+(e), 
+(i), 
+and 
+published june 19, 2006
+in negative regulators of tor such as tsc1, tsc2, and pten 
+(gao et al., 2000; gao and pan, 2001), and to that of cells over-
+expressing rheb (saucedo et al., 2003).
+disruption  of  endocytosis  also  led  to  dosage-dependent 
+cell size changes in the fat body. expression of shik44a caused 
+a 1.5-fold increase in fat body cell size (fig. 5, i and j), which 
+is consistent with its growth effects in wing disc cells. in con-
+trast, cells homozygous for mutant alleles of hsc70-4 showed 
+either a slight (e3) or a threefold decrease in cell size (∆16 null; 
+fig. 5, g, h, and j). given that shik44a expression and hsc70-4 
+mutation result in a similar block of endocytic uptake, but show 
+distinct  effects  on  slimfast  expression,  these  results  suggest  
+that the relative contributions to growth of bulk and transporter-
+ mediated nutrient uptake may differ between imaginal disc and 
+fat body cells.
+together,  the  fi nding  that  endocytosis  is  both  regulated 
+by tor and has effects on cell growth indicates that endocy-
+tosis functions as a downstream effector of tor signaling. tor 
+ simultaneously  down-regulates  aspects  of  endocytosis  that 
+ inhibit growth and up-regulates potential growth-promoting 
+functions of endocytosis.
+endocytosis affects tor signaling
+in addition to acting downstream of tor, the potential role 
+of endocytosis in controlling nutrient import suggested that 
+it  might  also  function  upstream  to  regulate  tor  activity, 
+which  is  stimulated  by  nutrients  in  general  and  slimfast 
+in parti cular (colombani et al., 2003). endocytosis has also 
+been  shown  to  affect  the  levels  and  activity  of  the  insulin 
+ receptor (ceresa et al., 1998), which may function upstream 
+of  tor  by  activating  pi3k  signaling  (inoki  et  al.,  2002). 
+ indeed,  we  observed  an  increase  in  insulin  receptor  levels 
+similar  to  that  of  slimfast  in  response  to  rheb  overexpres-
+sion (fig. s3). therefore, we examined the effects of endocy-
+tosis on in vivo markers of pi3k and tor activity. to test 
+whether endocytosis infl uences pi3k signaling, we analyzed 
+the  effects  of  shik44a  expression  on  the  transcription  factor 
+foxo,  which  is  excluded  from  the  nucleus  in  response 
+to  pi3k-dependent  phosphorylation  (brunet  et  al.,  1999). 
+clonal  expression  of  shik44a  in  fat  body  cells  resulted  in 
+ relocalization  of  foxo  from  the  nucleus  to  the  cytoplasm 
+(fig. 6 a), refl ecting increased pi3k activity and, thus, indi-
+cating that endocytosis normally exerts a negative effect on 
+pi3k signaling in these cells. 
+as  a  cellular  readout  of  tor  signaling,  we  monitored 
+the effects of endocytosis on autophagy, which is a process of 
+cytoplasmic  degradation  that  is  inhibited  by  tor  (noda  and 
+ohsumi,  1998;  scott  et  al.,  2004).  disruption  of  endocytosis 
+through  expression  of  shik44a  prevented  proper  induction  of 
+ autophagy after starvation (fig. 6 b), which is indicative of high 
+levels of tor signaling in these cells. a similar inhibition of 
+autophagy  was  observed  in  hsc70-4-null  cells  and  in  cells 
+figure 5. 
+inhibition of endocytosis leads to tissue- speciﬁ c 
+effects on cell growth. (a–f) disruption of hsc70-4 or shibire 
+function in imaginal disc cells causes increased cell size 
+and g2 population. graphs show ﬂ ow cytometric analy-
+sis of dissociated wing imaginal discs containing clones 
+of  hsc70-4  mutant  cells  (b  and  c)  or  cells  expressing 
+dominant-negative  hsc70-4  or  shibire  (e  and  f).  histo-
+grams show dna content (left) and forward light scatter 
+(right; indicative of cell size). in (a-c) red traces represent 
+gfp-negative hsc70-4 mutant or control cell populations, 
+and  green  traces  represent  gfp-positive  wild-type  cell 
+populations. in d–f, green traces represent gfp-positive 
+transgene-expressing  cells  and  red  traces  represent 
+gfp-negative wild-type cells. genotypes: hsﬂ p122/+; frt82b 
+ubi-gfp/frt82b  (a),  hsﬂ p122/+;  frt82b  ubi-gfp/
+frt82b  hsc70-4e19  (b),  hsﬂ p122/+;  frt82b  ubi-gfp/
+frt82b  hsc70-4∆16  (c),  hsﬂ p122/+;  act>cd2>gal4, 
+uas-gfp/+ 
+(d),  hsﬂ p122/+;  uas-hsc70-4k71s/+; 
+act>cd2>gal4, uas-gfp/+ (e), hsﬂ p122/uas-shik44a; 
+uas-shik44a/+; act>cd2>gal4, uas-gfp/+ (f). (g–i) 
+hsc70-4  mutation  and  shik44a  expression  cause  distinct 
+effects on fat body cell size. clones of hsc70-4 mutant cells 
+(g  and  h;  gfp-negative  cells  marked  by  arrows)  or 
+shik44a  expressing cells (i; gfp-positive cells) are shown. 
+cell  outlines  are  marked  by  phalloidin  staining  (red). 
+ genotypes: hsﬂ p122/+; cg-gal4/+; frt82b uas-gfp/
+frt82b hsc70-4e3 (g), hsﬂ p122/+; cg-gal4/+; frt82b 
+hsﬂ p122/+; 
+uas-gfp/frt82b 
+act>cd2>gal4,  uas-gfp/tm3-uas-shik44a  (i).  bar, 
+25  μm.  (j)  quantitation  of  fat  body  cell  size  data. 
+shown are area measurements of cells homozygous for 
+hsc70-4e3 or hsc70-4∆16, or expressing shik44a, relative 
+to  surrounding  wild-type  cells.  error  bars  indicate  the 
+sem. number of cells scored are as follows: hsc70-4e3, 
+n  =  116  (27  mutant  and  89  wild  type);  hsc70-4∆16, 
+n = 109 (22 mutant and 87 wild type); shik44a, n = 175 
+(24 transgene- expressing and 151 wild type).
+hsc70-4∆16 
+(h), 
+tor regulates endocytosis to effect cell growth • hennig et al.
+969
+published june 19, 2006
+figure  6.  endocytosis  regulates  growth  signaling. 
+(a  and  b)  inhibition  of  shibire  increases  pi3k  signaling 
+and  inhibits  autophagy.  (a)  antibody  staining  shows 
+ increased  cytoplasmic  localization  of  the  transcription 
+factor  foxo  in  shik44a-expressing  clones.  (b)  induction 
+of  autophagy  by  5  h  starvation  is  blocked  in  shik44a-
+expressing  clones.  autophagic  cells  are  indicated  by 
+the  punctate  staining  of  lysotracker  red.  genotype: 
+ hsﬂ p122/+; act>cd2>gal4, uas-gfp/uas-shik44a. (c) 
+immunoblot showing levels and phosphorylation status of 
+s6k and akt from control (lane 1), hsc70-4e3/e19 (lane 
+2), and tsc129 (lane 3) larval extracts. (d) hsc70-4 muta-
+tion increases the severity of tsc1 cell size and cell cycle 
+ phenotypes. flow cytometric histograms of hsc70-4e3  and 
+tsc129 single- and double-mutant mitotic clones are shown. 
+ genotypes: (row 1) hsﬂ p122/+; frt82b ubi-gfp/frt82b 
+hsc70-4e3, (row 2) hsﬂ p122/+; frt82b ubi-gfp/frt82b 
+tsc129,  (row  3)  hsﬂ p122/+;  frt82b  ubi-gfp/frt82b 
+tsc129 hsc70-4e3. (e) hsc70-4 and tsc1 mutants show syn-
+ergistic effects on tissue growth. shown are eyes contain-
+ing eye-speciﬁ c clones homozygous  mutant for hsc70-4 
+(top),  tsc1  (middle),  or  hsc70-4  and  tsc1  (bottom). 
+mutant clones are marked by the lack of the white+ marker, 
+and thus appear white. note the loss of anterior tissue 
+in hsc70-4 mutant eyes (top, arrow) and the overgrowth 
+of anterior tissue in hsc70-4 tsc1 double mutants (bottom, 
+arrow). genotypes: ey-flp/+; frt82b pw+ l(3)clr3/frt82b 
+hsc70-4e3 (top), ey-flp/+; frt82b pw+ l(3)clr3/frt82b 
+tsc129  (middle),  ey-flp/+;  frt82b  pw+  l(3)clr3/frt82b 
+hsc70-4e3 tsc129 (bottom). (f) heterozygous mutation of 
+hsc70-4  dominantly  confers  rapamycin  resistance. 
+wild-type and hsc70-4e3/+ animals develop at a similar 
+rate to adulthood (eclosion) when grown on normal media. 
+addition  of  rapamycin  to  the  media  results  in  a  more 
+ severe delay in wild type than in hsc70-4e3/+ animals. 
+bar in b is 25 μm in a, 50 μm in b, and 200 μm in e.
+ expressing  dominant-negative  hsc70-4k71s  (fig.  s4,  available 
+at http://www/jcb.org/cgi/content/full/jcb.200511140/dc1).
+to assess the effects of endocytosis on the kinase activity 
+of tor, we monitored the levels and the phosphorylation status 
+of known tor substrates. inactivation of d. melanogaster tor 
+through  mutation  or  starvation  has  previously  been  shown  to 
+cause a decrease in s6k phosphorylation at thr398, as well as 
+an increase in s6k protein levels, through an unknown mecha-
+nism (oldham et al., 2000; gao et al., 2002). more recently akt 
+(ser505) has been identifi ed as a substrate for tor in associa-
+tion with its cofactor rictor (sarbassov et al., 2005b). accord-
+ingly, in control experiments we found that tsc129 homozygous 
+larvae showed a decrease in total s6k levels and a slight de-
+crease in thr398 phosphorylation relative to wild-type controls 
+(fig. 6 c); normalized for s6k levels, thr398 phosphorylation 
+was  increased  as  expected.  tsc129  mutant  larvae  also  showed 
+a strong loss of akt-ser505 phosphorylation, which is consis-
+tent with recent studies showing that the tsc1–tsc2 complex 
+promotes  tor–rictor  signaling  to  akt  (yang  et  al.,  2006). 
+we next examined these markers in extracts from hsc70-4e3/e19 
+transheterozygous mutants, which are viable through the third 
+instar larval stage. similar to tsc129 mutants, hsc70-4e3/e19 larvae 
+showed a decrease in overall s6k levels and a reduction in s6k 
+and akt phosphorylation; in this case, thr398 phosphorylation 
+relative  to  s6k  abundance  was  reduced  compared  with  wild 
+type (fig. 6 c).
+the  similarity  between  hsc70-4  and  tsc1  mutants  was 
+further  underscored  through  chemical  and  genetic  interaction 
+studies.  imaginal  disc  cells  doubly  mutant  for  hsc70-4e3  and 
+tsc129 showed a synergistic increase in cell size as compared 
+with their single mutant counterparts (fig. 6 d). similarly,  using 
+the ey-flp system to generate homozygous mutant eye tissue, 
+we  observed  an  exacerbation  of  tsc129-induced  tissue  over-
+growth  in  the  presence  of  hsc70-4e3  mutation,  in  some  cases 
+ resulting in a marked outgrowth of tissue in the anterior portion 
+of  the  retina  (fig.  6  e).  we  also  tested  whether  mutation  of 
+hsc70-4 affects sensitivity to rapamycin, which inhibits tor 
+signaling through the formation of an inhibitory binding com-
+plex with the intracellular protein fkbp12 (brown et al., 1994; 
+sabatini et al., 1994). growth of wild-type d. melanogaster is 
+delayed on media containing rapamycin, and this delay is sensi-
+tive to the dosage of tor pathway genes (zhang et al., 2000; 
+patel et al., 2003). we found that heterozygous hsc70-4e3 muta-
+tion signifi cantly alleviated the rapamycin-induced delay (fig. 
+6 f), which is consistent with increased levels of tor signal-
+ing. collectively, the cellular, biochemical, and genetic effects 
+of endocytosis are consistent with this process playing a signifi -
+cant role in cell growth and tor signaling.
+discussion
+inactivation  of  tor  causes  an  inhibition  of  cellular  growth, 
+a reduction in cell size, and a suppression of cell cycle progres-
+sion. in addition to well described changes in protein synthesis 
+and  ribosome  biogenesis,  recent  studies  have  suggested  that 
+other  cell  processes  are  likely  to  contribute  to  these  growth 
+970
+jcb • volume 173 • number 6 • 2006
+published june 19, 2006
+figure 7. 
+inverse regulation of bulk endocytosis 
+and targeted endocytic degradation. (a) under 
+conditions favorable for growth, tor promotes 
+bulk endocytic uptake and  inhibits the endocytic 
+turnover  of  speciﬁ c  nutrient  importers  such  as 
+slimfast. (b) in growth- inhibitory conditions, inac-
+tivation of tor leads to a decrease in bulk endo-
+cytosis and an increase in the targeted endocytic 
+degradation of excess nutrient importers. (c) to-
+gether, the opposing actions of tor on bulk and 
+targeted endocytosis serve to facilitate nutrient 
+import, providing energy and building blocks 
+necessary for biosynthetic growth and leading 
+to a further stimulation of tor signaling.
+ effects of tor. the present study identifi es endocytosis as one 
+such process. our results demonstrate that the clathrin-uncoating 
+atpase hsc70-4 interacts genetically with tor and tsc1, and 
+that bulk endocytosis is stimulated in cells with activated tor 
+signaling.  conversely,  we  fi nd  that  tor  activity  inhibits  the 
+endocytic degradation of nutrient transporters such as slimfast. 
+together, these endocytic effects of tor promote both the bulk 
+and targeted uptake of nutrients and other biomolecules  required 
+for cell mass increase (fig. 7). in addition to this direct role in 
+cellular  biosynthesis  and  growth,  nutrients  also  act  as  potent 
+regulators of tor signaling. indeed, slimfast was previously 
+identifi ed as an upstream activator of tor (colombani et al., 
+2003). our fi ndings that disruption of endocytosis effects cell 
+size, rapamycin sensitivity, and tor kinase activity are consis-
+tent with an additional role for endocytosis upstream of tor.
+mutations that disrupt endocytosis are likely to have both 
+positive and negative effects on nutrient uptake and cell growth 
+because they inhibit bulk endocytic uptake, as well as degrada-
+tion of nutrient transporters and other signaling molecules. thus, 
+the overall effects of endocytic disruption on nutrient uptake, cell 
+growth, and tor signaling are diffi cult to predict a priori. our 
+results suggest that both the cellular context and the specifi c step 
+at which endocytosis is blocked infl uence the growth  response. 
+thus, in fat body cells, expression of shik44a resulted in an in-
+crease  in  cell  size,  whereas  loss  of  hsc70-4  function  caused 
+reduced cell size. we note that these changes mirror the effects 
+of  these  mutations  on  slimfast  levels;  whereas  both  shik44a 
+ expression and hsc70-4 mutation decreased bulk endocytic up-
+take, only shik44a resulted in increased levels of slimfast. in con-
+trast, both shik44a and hsc70-4 mutants led to the increased size 
+of  wing  imaginal  disc  cells,  suggesting  that  in  these  cells  the 
+growth-inhibitory effects of endocytic degradation of membrane 
+proteins such as slimfast predominate over the potential positive 
+effects of increased bulk uptake. similarly, our results indicate 
+a complex effect of endocytosis on tor signaling. partial reduc-
+tion in hsc70-4 levels lead to an increase in tor signaling, as 
+was evident in the eytor interaction and  rapamycin resistance. 
+in  contrast,  larvae  that  are  homozygous  mutant  for  hsc70-4 
+show a decrease in tor kinase activity. these results suggest 
+that modest inhibition of endocytosis may increase tor signal-
+ing, whereas a complete block of endocytosis may reduce it.
+a striking parallel to the inverse regulation of bulk and tar-
+geted endocytic processes by tor can be observed in its  effects 
+on autophagy in yeast. through autophagy, random portions of 
+cytoplasm are nonselectively engulfed within double membrane–
+bound vesicles for delivery to the lysosome. activation of tor 
+causes  this  nonselective  form  of  autophagy  to  be  suppressed, 
+and,  instead,  the  autophagic  machinery  engages  in  a  selective 
+type  of  autophagy  known  as  the  cytoplasm–vacuole  targeting 
+(cvt) pathway, which is responsible for lysosomal delivery of 
+specifi c hydrolases (klionsky and emr, 2000). thus, tor acts 
+as a switch between selective and nonselective autophagy. tor 
+may also be involved in switching between clathrin-and caveolae/
+raft-mediated endocytosis in higher eukaryotes. a genome-wide 
+survey  of  protein  kinases  found  that  rnai-mediated  inactiva-
+tion of tor in hela cells inhibited clathrin-dependent processes 
+such as transferrin uptake and vesicular stomatitis virus infection, 
+and stimulated cavelolae/raft-dependent events (pelkmans et al., 
+2005). together, these fi ndings suggest that tor may control the 
+specifi city of membrane traffi cking components. in addition, our 
+results show that s6k, which is an important tor substrate, acts 
+downstream of tor in promoting bulk endocytosis, but is not 
+involved in the suppression of starvation-induced autophagy.
+the  identifi cation  of  endocytosis  as  a  tor-controlled 
+function adds to the growing list of cell processes regulated by 
+tor,  including  protein  synthesis,  ribosome  biogenesis,  auto-
+phagy, metabolic gene expression, and cytoskeletal organization. 
+how these distinct functions interact to achieve a coordinated 
+growth response is only beginning to be understood. one likely 
+mechanism involves the common use of molecular components 
+and cellular substrates by different cell functions, as in the case 
+of selective and nonselective autophagy, bulk endocytosis, and 
+endocytic degradation. two or more distinct branches of tor 
+signaling may also act cooperatively to control the same target, 
+as  in  the  case  of  slimfast  regulation  by  both  translation  and 
+ endocytosis, or may act in opposition, as previously observed 
+for the role of s6k in limiting autophagy. finally, distinct tor 
+complexes  may  converge  on  the  same  targets  with  opposing 
+ effects, as in the regulation of akt by tor-raptor versus tor–
+rictor complexes (shah et al., 2004; sarbassov et al., 2005b). 
+the fi nding that tor signaling regulates the levels of slimfast, 
+which was previously shown to function upstream of tor, adds 
+another layer of complexity to the tor signaling network.
+materials and methods
+d. melanogaster genetics and culture
+strains  used  were  as  follows:  dpp-laczbs3.0,  hrsd28,  hsc70-454.1,  hsc70-
+4∆16,  hsc70-4e195,  hsc70-4wee-p1,  p[w+]hsc70-4.14,  s6kl1,  slif1,  tor∆p, 
+tor regulates endocytosis to effect cell growth • hennig et al.
+971
+published june 19, 2006
+tsc129,  uas-egfp-clc,  uas-hsc4k71s,  uas-nedd4c974fs,  uas-gfp-rab5, 
+uas-rab5s43n,  uas-gfp-rab7,  uas-rhebep50.084,  uas-shik44a,  uas-slif, 
+uas-tor,  uas-tsc1,  uas-tsc2,  uas-4ebp,  act>cd2>gal4  uas-gfp, 
+act>cd2>gal4  uas-myrrfp,  cg-gal4.a2,  en-gal4, 
+fb-gal4, 
+ms1096-gal4, and ey-flp; frt82b pw+ l(3)clr3. flies were incubated at 
+25°c  on  standard  cornmeal–yeast  medium,  unless  otherwise  indicated. 
+starvation experiments were performed essentially as previously described 
+(scott et al., 2004). in brief, larvae were transferred to fresh ﬂ y food sup-
+plemented with yeast paste, allowed to feed for 24 h, and then transferred 
+to a 20% sucrose solution and starved for the indicated time before dissec-
+tion. for rapamycin treatment, larvae were cultured in standard ﬂ y medium 
+supplemented with 2 μm rapamycin.
+generation of eytor ﬂ ies
+a 1.5-kb kpni (blunted)–bamhi fragment containing four copies of the 
+eye-speciﬁ c enhancer fragment from the ey gene and the noninducible 
+hsp70 promoter was isolated from pbd1915 (newsome et al., 2000), 
+and ligated into the unique sali (blunted) and xbai sites located immedi-
+ately upstream of a flag-tagged d. melanogaster tor cdna in pblue-
+script (zhang et al. 2000). the ey-hsp70-tor sequence was excised as a 
+9.3-kb xbai–pspomi fragment and cloned into the transformation vector 
+pcasper4 digested with xbai and noti. p element–mediated transposi-
+tion was used to introduce the eytor transgene into yw ﬂ ies by standard 
+methods. cyo and tm3 balancers carrying eytor insertion lines were 
+created through transposase-mediated mobilization of an x chromosome 
+eytor insert.
+mutagenesis, mapping, and sequencing
+mutagenesis. yw males isogenized for the second and third chromosomes 
+were starved for 2 h before being fed a solution of 25 mm ems in 0.01 m 
+tris, ph 7.5, and 1% sucrose overnight. batches of 50 mutagenized males 
+were then mated to 50 cyo-eytor/sp virgins. crosses were reared in 
+bottles at 25°c, being transferred once daily for 4 d before adults were 
+discarded. f1 progeny were screened for the dominant enhancement or 
+suppression of the eytor small eye phenotype. flies carrying ems-induced 
+eytor-modifying mutations were back crossed to cyo-eytor and tm3-
+eytor stocks, allowing mutations to be recovered and mapped to chromo-
+some through segregation of the eytor interaction phenotype against the 
+second and third chromosome markers.
+mapping. e3 and e19 were localized to map position 57 centi-
+morgans on the third chromosome by genetic recombination, and this 
+region  was  further  reﬁ ned  to  the  87e8-88e6  interval  by  deﬁ ciency 
+mapping. in complementation tests against available lethal mutations 
+in this region, e3 failed to complement multiple p element-, ems-, and 
+x-ray–induced mutations in hsc70-4. e19 showed complete failure to 
+complement  e3  and  hsc70-454.1,  which  is  an  antimorphic  allele  of 
+hsc70-4,  and  partial  complementation  with  other  hsc70-4  alleles. 
+based on this pattern of complementation and on the strength of eytor 
+interactions, we classify e3 as an antimorph and e19 as a hypomorphic 
+allele of hsc70-4.
+sequencing  e3  and  e19  mutations.  genomic  dna  was  isolated 
+from e3 and e19 homozygous mutant larvae, and the second exon of 
+hsc70-4 (containing the coding region) was pcr ampliﬁ ed using the primers 
+c c a t t t t c t c a g t a t t a c t t c t c c t c t g g c  and g a g a a c t g t t a c t g t a t g-
+g t t g c a t t g a g g  and sequenced using the primers c g a g a a a a g g a a-
+a a t t a g a a t t g t a a a a c a c a c c ,  g g a g a t c t c t t c g a t g g t g c t t a c c , 
+c a a g c a c a a g a a g g a t c t g a c c a c c ,  c a t t c t g c a c g g c g a c a a g-
+t c g , and g t c g t c t c t c c a a g g a g g a c a t c .
+overexpression and loss-of-function clones in d. melanogaster 
+fat body tissue
+gain-of-function clones. clonal transgene expression was achieved using 
+the gal4-uas system. act>cd2>gal4, uas-gfp or act>cd2>gal4, 
+uas-myrrfp virgins were crossed to males carrying hs-flp and uas-driven 
+transgenes of interest. flp-mediated excision of the cd2 insert is induced 
+spontaneously in ⵑ10% of fat body cells at 25°c, leading to act5c-driven 
+constitutive gal4 expression in gfp- or myrrfp-marked single cells or small 
+clones (britton et al., 2002). gfp-rab5 expressing cells were generated 
+as above but in the absence of uas-gfp.
+loss-of-function  fat  body  clones.  hs-flp/frt–mediated  mitotic 
+ recombination  was  induced  in  0–8  h  embryos,  before  initiation  of 
+ endoreplication  in  fat  body  tissue,  through  a  2  h,  37°c  heat  shock  in 
+an air incubator. for uniform gfp marker expression, the fat body drivers 
+cg-gal4 or fb-gal4 were used to activate uas-gfp lines on frt-bearing 
+chromosomes.  loss-of-function  clones  were  marked  by  the  absence 
+of gfp.
+972
+jcb • volume 173 • number 6 • 2006
+histology
+fixation. third instar larvae were dissected in pbs, inverted, and  transferred to 
+1.5-ml tubes containing 3.7% formaldehyde in pbst (pbs + 0.1% tween 20) 
+for 4-h (imaginal discs) or overnight (fat body) ﬁ xation at 4°c, with gentle 
+agitation. fix was removed through four 5-min washes in pbst.
+antibody staining. fixed carcasses were blocked for 2–4 h in  pbstg 
+(pbst + 5% normal goat serum) before incubation in pbstg + primary 
+antibody at 4°c overnight. carcasses were washed four times for 20 min 
+in  pbst  and  blocked  in  pbstg  for  1–2  h  before  incubation  in  pbst  + 
+ secondary antibody + 1 μm hoechst 33258 at 4°c overnight. carcasses 
+were rinsed in pbst four times for 20 min. tissue was dissected in pbs and 
+mounted in fluoroguard reagent (bio-rad laboratories).
+antibodies.  anti-slimfast  (1:400  dilution  of  rabbit  polyclonal  sera 
+raised against a bacterially produced fusion between gst and the cooh-
+terminal  cytoplasmic  tail  of  slif  [amino  acids  554–604]),  anti-foxo 
+#3015 (1:300; gift from o. puig, university of california, berkeley, berke-
+ley, ca), anti-flag m5 (1:500; sigma-aldrich), anti-elav 9f8a9 (1:50; 
+developmental studies hybridoma bank), anti b-gal (1:500; calbiochem), 
+anti inr 386 (1:2,000; gift from r. fernandez, new york university medi-
+cal center, new york, ny), anti-lsp2 (1:500; gift from h. benes, university 
+of arkansas, little rock, ar).
+phalloidin staining. carcasses were dissected, ﬁ xed, washed, and 
+blocked for 2–4 h in pbstg, before being incubated at 4°c overnight in 
+0.165 μm alexa fluor 568 phalloidin (invitrogen) in pbstg containing 
+1  μm  hoechst  33258.  carcasses  were  rinsed  in  pbst  four  times  for 
+20 min before ﬁ nal dissection, mounting, and imaging.
+live tissue staining. lysotracker staining was performed as in scott 
+et al. (2004). for acridine orange staining, dissected eye discs were incu-
+bated in pbs containing 1 μm acridine orange for 5 min at room temperature. 
+tissue was rinsed in pbs, transferred to a drop of pbs on a microscope 
+slide, and covered loosely with a coverslip for imaging.
+endocytic uptake assay
+5–10 larvae per genotype were bisected and inverted in pbs, and then 
+transferred to a 1.5-ml tube containing 80  μg/ml tr-avidin (invitrogen) 
+in  m3  insect  medium  (sigma-aldrich)  containing  5%  fetal  calf  serum, 
+1× insect medium supplement (sigma-aldrich) and penicillin/streptomycin 
+antibiotics  (invitrogen).  carcasses  were  incubated  for  15  min  at  room 
+ temperature with gentle agitation, rinsed two times and washed three times 
+for 5 min with ice-cold pbs + 0.5% bsa at 4°c, and then ﬁ xed, washed, 
+and mounted in fluoroguard reagent.
+microscopy
+confocal  images  were  acquired  on  a  microscope  (axioplan  2;  carl 
+zeiss  microimaging,  inc.)  equipped  with  a  digital  camera  (orca-er; 
+hamamatsu) and a spinning disc confocal system (carv; bd biosciences). 
+axiovision  v3.1  acquisition  software,  plan-apochromat  63×,  1.40  na, 
+and plan-neoﬂ uar 40×, 0.75 na, objectives were also used (all from carl 
+zeiss microimaging, inc.). all other images were taken with a digital camera 
+(dxm1200; nikon) attached to an epiﬂ uorescence microscope (axio-
+scope 2; carl zeiss microimaging, inc; act-1 acquisition software [nikon], 
+plan-neoﬂ uar 40×, 0.75 na, 20×, 0.50 na, and 5×, 0.15 na, objec-
+tives were also used) or a digital camera (coolpix 990; nikon) attached 
+to a dissecting microscope (stemi 200c; carl zeiss microimaging, inc.). 
+all images were processed in photoshop v7.0 (adobe).
+scanning electron microscopy. whole ﬂ ies were passed through an 
+ethanol series to achieve hydration in 100% etoh. flies were then dehy-
+drated using a critical point dryer (model 780a; tousimis), mounted on 
+carbon  tape,  and  gold  sputter–coated  using  a  high  vacuum  deposition 
+system  (dv-502a;  denton).  eyes  were  imaged  using  a  field  emission 
+gun  scanning  electron  microscope  (s-4700;  hitachi;  fe-pc  sem  v3.3 
+control software, v2.10 operating software) and transferred to pci v4.2 
+(quartz) for processing.
+western blotting
+larvae were transferred to fresh medium supplemented with yeast paste 
+and allowed to feed for 24 h before extraction. extracts were prepared 
+by homogenizing equal masses of wild-type or mutant larvae directly in 
+1× sds sample buffer. extracts were boiled, run on an 8% sds-polyacryl-
+amide gel, and transferred to pvdf membrane using the mini protean 3 
+electrophoresis and wet transfer system (bio-rad laboratories). membranes 
+were  blocked  in  pbst  containing  5%  dry  milk  for  4  h  before  overnight 
+ incubation in primary antibody. primary antibodies were diluted in pbst 
+containing 5% bsa. the primary antibodies used were as follows: akt, 
+p-ser505-dakt,  p-thr398-ds6k  (1:1,000;  cell  signaling  technology), 
+published june 19, 2006
+ds6k  (1:1,000,  mouse  monoclonal;  gift  from  g.  thomas,  university  of 
+cincinnati,  cincinnati,  oh),  dtor  (1:1,000;  gift  from  d.  pan,  johns 
+ hopkins university, baltimore, md), tubulin dmia (1:5,000; calbiochem). 
+membranes were washed four times for 20 min in pbst and blocked 
+for  1  h  before  4  h  incubation  in  hrp-conjugated  secondary  antibody. 
+membranes were washed four times for 20 min in pbst. supersignal ecl 
+ substrate solutions (pierce) were applied to membranes to allow protein 
+detection on biomax light ﬁ lm (kodak).
+flow cytometry
+mitotic loss-of-function clones were induced at 3.5 d after laying through 
+a 2-h heat-shock in a 37°c air incubator, and were allowed to grow for 
+45  h  postinduction  at  room  temperature.  overexpression  clones  were 
+ induced at 3.5 d after laying through a 1 h 15-min heat-shock, and were 
+allowed to grow for 48 h at 25°c. approximately 25 wing imaginal discs 
+per genotype were dissected and processed for facs analysis, essentially 
+as previously described (neufeld et al., 1998). in brief, discs were added 
+to 250 μl of pbs in 5 ml polystyrene round-bottom tubes, and kept on ice 
+until  275  μl  trypsin  solution  (9×  trypsin-edta  [sigma-aldrich],  1×  pbs, 
+and 2 μm hoechst 33342) was added to each tube to allow tissue dissocia-
+tion  into  single  cells.  samples  were  mixed  on  a  nutator  (clay  adams) 
+at room temperature for a minimum of 2 h before ﬂ ow cytometric analysis 
+ using a facsaria (bd biosciences). flowjo v4.4 was used for data analysis.
+online supplemental material
+fig.  s1  displays  additional  effects  of  tor  overexpression  in  eye  and 
+wing tissues, interactions with additional hsc70-4 alleles, and rescue by 
+a genomic hsc70-4 construct. fig. s2 displays additional tr-avidin and 
+lsp2 internalization experiments. fig. s3 shows slimfast antibody speci-
+ﬁ city  controls  and  additional  slimfast  and  insulin  receptor  localization 
+data.  fig.  s4  displays  effects  of  hsc70-4  on  autophagy  induction  and 
+cell size. online supplemental material is available at http://www/jcb.
+org/cgi/content/full/jcb.200511140/dc1.
+we  thank  henry  chang  and  marcos  gonzalez-gaitan  for  unpublished  ﬂ y 
+stocks, rafael fernandez, helen benes, duojia pan, oscar puig and george 
+thomas for antibodies, jennifer stafford for screening assistance, and pierre 
+leopold and do-hyung kim for helpful discussions.
+this work was supported by national institutes of health grant ro1 
+gm062509 and tuberculosis sclerosis alliance grant 04-04 to t.p. neufeld 
+and  by  national  research  service  award  institutional  training  grant  t32 
+hd007480 to k.m. hennig.
+submitted: 30 november 2005
+accepted: 17 may 2006
+references
+beck, t., a. schmidt, and m.n. hall. 1999. starvation induces vacuolar  targeting 
+and  degradation  of  the  tryptophan  permease  in  yeast.  j.  cell  biol. 
+146:1227–1238.
+britton,  j.s.,  w.k.  lockwood,  l.  li,  s.m.  cohen,  and  b.a.  edgar.  2002. 
+drosophila’s insulin/pi3-kinase pathway coordinates cellular metabolism 
+with nutritional conditions. dev. cell. 2:239–249.
+bronk, p., j.j. wenniger, k. dawson-scully, x. guo, s. hong, h.l. atwood, and 
+k.e. zinsmaier. 2001. drosophila hsc70-4 is critical for neurotransmitter 
+exocytosis in vivo. neuron. 30:475–488.
+brown, e.j., m.w. albers, t.b. shin, k. ichikawa, c.t. keith, w.s. lane, and 
+s.l.  schreiber.  1994.  a  mammalian  protein  targeted  by  g1-arresting 
+ rapamycin-receptor complex. nature. 369:756–758.
+brunet, a., a. bonni, m.j. zigmond, m.z. lin, p. juo, l.s. hu, m.j. anderson, 
+k.c. arden, j. blenis, and m.e. greenberg. 1999. akt promotes cell sur-
+vival by phosphorylating and inhibiting a forkhead transcription factor. 
+cell. 96:857–868.
+byfi eld, m.p., j.t. murray, and j.m. backer. 2005. hvps34 is a nutrient- regulated 
+lipid  kinase  required  for  activation  of  p70  s6  kinase.  j.  biol.  chem. 
+280:33076–33082.
+ceresa, b.p., a.w. kao, s.r. santeler, and j.e. pessin. 1998. inhibition of clath-
+rin-mediated endocytosis selectively attenuates specifi c insulin receptor 
+signal transduction pathways. mol. cell. biol. 18:3862–3870.
+chang,  h.c.,  s.l.  newmyer,  m.j.  hull,  m.  ebersold,  s.l.  schmid,  and 
+i. mellman. 2002. hsc70 is required for endocytosis and clathrin function 
+in drosophila. j. cell biol. 159:477–487.
+chen, e.j., and c.a. kaiser. 2003. lst8 negatively regulates amino acid biosyn-
+thesis as a component of the tor pathway. j. cell biol. 161:333–347.
+chen,  m.s.,  r.a.  obar,  c.c.  schroeder,  t.w.  austin,  c.a.  poodry,  s.c. 
+wadsworth,  and  r.b.  vallee.  1991.  multiple  forms  of  dynamin  are 
+ encoded by shibire, a drosophila gene involved in endocytosis. nature. 
+351:583–586.
+clyne, p.j., j.s. brotman, s.t. sweeney, and g. davis. 2003. green fl uorescent 
+protein  tagging  drosophila  proteins  at  their  native  genomic  loci  with 
+small p elements. genetics. 165:1433–1441.
+colombani,  j.,  s.  raisin,  s.  pantalacci,  t.  radimerski,  j.  montagne,  and  p. 
+leopold. 2003. a nutrient sensor mechanism controls drosophila growth. 
+cell. 114:739–749.
+dean,  r.l.,  m.  locke,  and  j.v.  collins.  1985.  structure  of  the  fat  body. 
+in comprehensive insect physiology, biochemistry, and pharmacology. 
+vol. 4. g.a. kerkut and l.i. gilbert, editors. pergamon press, new york. 
+155–210.
+edinger,  a.l.,  and  c.b.  thompson.  2002.  akt  maintains  cell  size  and  sur-
+vival  by  increasing  mtor-dependent  nutrient  uptake.  mol.  biol.  cell. 
+13:2276–2288.
+gao,  x.,  and  d.  pan.  2001.  tsc1  and  tsc2  tumor  suppressors  antagonize 
+ insulin signaling in cell growth. genes dev. 15:1383–1392.
+gao, x., t.p. neufeld, and d. pan. 2000. drosophila pten regulates cell growth 
+and  proliferation  through  pi3k-dependent  and  -independent  pathways. 
+dev. biol. 221:404–418.
+gao, x., y. zhang, p. arrazola, o. hino, t. kobayashi, r.s. yeung, b. ru, and 
+d. pan. 2002. tsc tumour suppressor proteins antagonize amino-acid-tor 
+signalling. nat. cell biol. 4:699–704.
+hennig, k.m., and t.p. neufeld. 2002. inhibition of cellular growth and prolif-
+eration by dtor overexpression in drosophila. genesis. 34:107–110.
+hing, h.k., l. bangalore, x. sun, and s. artavanis-tsakonas. 1999. mutations 
+in  the  heatshock  cognate  70  protein  (hsc4)  modulate  notch  signaling. 
+eur. j. cell biol. 78:690–697.
+inoki, k., y. li, t. zhu, j. wu, and k.l. guan. 2002. tsc2 is phosphorylated 
+and  inhibited  by akt  and  suppresses  mtor  signalling.  nat.  cell  biol. 
+4:648–657.
+jefferies,  h.b.,  c.  reinhard,  s.c.  kozma,  and  g.  thomas.  1994.  rapamycin 
+ selectively  represses  translation  of  the  “polypyrimidine  tract”  mrna 
+family. proc. natl. acad. sci. usa. 91:4441–4445.
+junger, m.a., f. rintelen, h. stocker, j.d. wasserman, m. vegh, t. radimerski, 
+m.e. greenberg, and e. hafen. 2003. the drosophila forkhead transcrip-
+tion factor foxo mediates the reduction in cell number associated with 
+reduced insulin signaling. j. biol. 2:20.
+klionsky,  d.j.,  and  s.d.  emr.  2000.  autophagy  as  a  regulated  pathway  of 
+cellular degradation. science. 290:1717–1721.
+kosaka, t., and k. ikeda. 1983. reversible blockage of membrane retrieval and 
+endocytosis  in  the  garland  cell  of  the  temperature-sensitive  mutant  of 
+drosophila melanogaster, shibirets1. j. cell biol. 97:499–507.
+kunz,  j.,  u.  schneider,  i.  howald, a.  schmidt,  and  m.n.  hall.  2000.  heat 
+ repeats mediate plasma membrane localization of tor2p in yeast. j. biol. 
+chem. 275:37011–37020.
+levenbook, l. 1985. insect storage proteins. in comprehensive insect physiology, 
+biochemistry, and pharmacology. vol. 10. g.a. kerkut and l.i. gilbert, 
+editors. pergamon press, oxford. 307–346 pp.
+manning, b.d. 2004. balancing akt with s6k: implications for both metabolic 
+diseases and tumorigenesis. j. cell biol. 167:399–403.
+martin, d.e., and m.n. hall. 2005. the expanding tor signaling network. curr. 
+opin. cell biol. 17:158–166.
+mayer,  m.p.,  and  b.  bukau.  2005.  hsp70  chaperones:  cellular  functions  and 
+ molecular mechanism. cell. mol. life sci. 62:670–684.
+moline,  m.m.,  c.  southern,  and  a.  bejsovec.  1999.  directionality  of  wing-
+less protein transport infl uences epidermal patterning in the drosophila 
+ embryo. development. 126:4375–4384.
+montagne, j., m.j. stewart, h. stocker, e. hafen, s.c. kozma, and g. thomas. 1999. 
+drosophila s6 kinase: a regulator of cell size. science. 285:2126–2129.
+neufeld, t.p., a.f. de la cruz, l.a. johnston, and b.a. edgar. 1998. coordination 
+of growth and cell division in the drosophila wing. cell. 93:1183–1193.
+newsome,  t.p.,  b. asling,  and  b.j.  dickinson.  2000. analysis  of  drosophila 
+photoreceptor  axon  guidance  in  eye-specifi c  mosaics.  development. 
+127:851–860.
+nobukuni,  t.,  m.  joaquin,  m.  roccio,  s.g.  dann,  s.y.  kim,  p.  gulati,  m.p. 
+byfi eld, j.m. backer, f. natt, j.l. bos, et al. 2005. amino acids mediate 
+mtor/raptor signaling through activation of class 3 phosphatidylinositol 
+3oh-kinase. proc. natl. acad. sci. usa. 102:14238–14243.
+noda, t., and y. ohsumi. 1998. tor, a phosphatidylinositol kinase homologue, 
+controls autophagy in yeast. j. biol. chem. 273:3963–3966.
+oldham, s., j. montagne, t. radimerski, g. thomas, and e. hafen. 2000. genetic 
+and biochemical characterization of dtor, the drosophila  homolog of 
+the target of rapamycin. genes dev. 14:2689–2694.
+tor regulates endocytosis to effect cell growth • hennig et al.
+973
+published june 19, 2006
+patel, p.h., n. thapar, l. guo, m. martinez, j. maris, c.l. gau, j.a. lengyel, 
+and f. tamanoi. 2003. drosophila rheb gtpase is required for cell cycle 
+progression and cell growth. j. cell sci. 116:3601–3610.
+pelkmans, l., e. fava, h. grabner, m. hannus, b. habermann, e. krausz, and 
+m. zerial. 2005. genome-wide analysis of human kinases in clathrin- and 
+caveolae/raft-mediated endocytosis. nature. 436:78–86.
+pende, m., s.h. um, v. mieulet, m. sticker, v.l. goss, j. mestan, m. mueller, s. 
+fumagalli, s.c. kozma, and g. thomas. 2004. s6k1(−/−)/s6k2(−/−) 
+mice exhibit perinatal lethality and rapamycin-sensitive 5′-terminal oli-
+gopyrimidine mrna translation and reveal a mitogen-activated protein 
+kinase-dependent s6 kinase pathway. mol. cell. biol. 24:3112–3124.
+rotin,  d.,  o.  staub,  and  r.  haguenauer-tsapis.  2000.  ubiquitination  and 
+ endocytosis of plasma membrane proteins: role of nedd4/rsp5p family 
+of ubiquitin-protein ligases. j. membr. biol. 176:1–17.
+sabatini,  d.m.,  h.  erdjument-bromage,  m.  lui,  p.  tempst,  and  s.h.  snyder. 
+1994.  raft1:  a  mammalian  protein  that  binds  to  fkbp12  in  a  rapa-
+mycin-  dependent  fashion  and  is  homologous  to  yeast  tors.  cell. 
+78:35–43.
+sarbassov, dos d., s.m. ali, and d.m. sabatini. 2005a. growing roles for the 
+mtor pathway. curr. opin. cell biol. 17:596–603.
+sarbassov, d., d.a. guertin, s.m. ali, and d.m. sabatini. 2005b. phosphorylation 
+and  regulation  of  akt/pkb  by  the  rictor-mtor  complex.  science. 
+307:1098–1101.
+saucedo,  l.j.,  x.  gao,  d.a.  chiarelli,  l.  li,  d.  pan,  and  b.a.  edgar.  2003. 
+rheb promotes cell growth as a component of the insulin/tor signalling 
+network. nat. cell biol. 5:566–571.
+schlossman,  d.m.,  s.l.  schmid,  w.a.  braell,  and  j.e.  rothman.  1984.  an 
+ enzyme that removes clathrin coats: purifi cation of an uncoating atpase. 
+j. cell biol. 99:723–733.
+scott,  r.c.,  o.  schuldiner,  and  t.p.  neufeld.  2004.  role  and  regulation  of 
+starvation-induced  autophagy  in  the  drosophila  fat  body.  dev.  cell. 
+7:167–178.
+shah, o.j., z. wang, and t. hunter. 2004. inappropriate activation of the tsc/
+rheb/mtor/s6k cassette induces irs1/2 depletion, insulin resistance, 
+and cell survival defi ciencies. curr. biol. 14:1650–1656.
+terada,  n.,  h.r.  patel,  k.  takase,  k.  kohno, a.c.  nairn,  and  e.w.  gelfand. 
+1994.  rapamycin  selectively  inhibits  translation  of  mrnas  encoding 
+elongation  factors  and  ribosomal  proteins.  proc.  natl. acad.  sci.  usa. 
+91:11477–11481.
+yang, q., k. inoki, e. kim, and k.l. guan. 2006. tsc1/tsc2 and rheb have 
+different effects on torc1 and torc2 activity. proc. natl. acad. sci. 
+usa. 103:6811–6816.
+zhang, h., j.p. stallock, j.c. ng, c. reinhard, and t.p. neufeld. 2000. regulation 
+of cellular growth by the drosophila target of rapamycin dtor. genes 
+dev. 14:2712–2724.
+974
+jcb • volume 173 • number 6 • 2006

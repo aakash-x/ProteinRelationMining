@@ -1,0 +1,649 @@
+the journal of biological chemistry vol. 282, no. 4, pp. 2355–2362, january 26, 2007
+© 2007 by the american society for biochemistry and molecular biology, inc. printed in the u.s.a.
+signaling of mitochondrial biogenesis following
+oxidant injury*
+received for publication, august 21, 2006, and in revised form, november 14, 2006 published, jbc papers in press, november 20, 2006, doi 10.1074/jbc.m608009200
+kyle a. rasbach1 and rick g. schnellmann2
+from the department of pharmaceutical sciences, medical university of south carolina, charleston, south carolina 29425
+mitochondrial dysfunction is a common consequence of
+ischemia-reperfusion and drug injuries. for example, sublethal
+injury of renal proximal tubular cells (rptcs) with the model
+oxidant tert-butylhydroperoxide (tbhp) causes mitochondrial
+injury that recovers over the course of six days. although regen-
+eration of mitochondrial function is integral to cell repair and
+function, the signaling pathway of mitochondrial biogenesis fol-
+lowing oxidant injury has not been examined. a 10-fold overex-
+pression of the mitochondrial biogenesis regulator ppar-␥
+cofactor-1␣ (pgc-1␣) in control rptcs resulted in a 52%
+increase in mitochondrial number, a 27% increase in respiratory
+capacity, and a 30% increase in mitochondrial protein markers,
+demonstrating that pgc-1␣mediates mitochondrial biogenesis
+in rptcs. rptcs sublethally injured with tbhp exhibited a
+50% decrease in mitochondrial function and increased mito-
+chondrial autophagy. compared with the controls, pgc-1␣lev-
+elsincreased12-foldondays1,2,and3post-injuryandreturned
+to base line on day 4 as mitochondrial function returned. inhi-
+bition p38 mapk blocked the up-regulation of pgc-1␣follow-
+ing oxidant injury, whereas inhibition of calcium-calmodulin-
+dependent protein kinase, calcineurin a, nitric-oxide synthase,
+and phosphoinositol 3-kinase had no effect. the epidermal
+growth factor receptor (egfr) was activated following tbhp
+exposure, and the egfr inhibitor ag1478 blocked the up-reg-
+ulation of pgc-1␣. additional inhibitor studies revealed that
+the sequential activation of src, p38 mapk, egfr, and p38
+mapk regulate the expression of pgc-1␣ following oxidant
+injury.incontrast,althoughaktwasactivatedfollowingoxidant
+injury, it did not play a role in pgc-1␣expression. we suggest
+that mitochondrial biogenesis following oxidant injury is medi-
+ated by p38 and egfr activation of pgc-1␣.
+peroxisome proliferator-activated receptor ␥coactivator-1␣
+(pgc-1␣)3 is a 92-kda protein that was first identified as a
+regulator of adaptive thermogenesis in brown adipose tissue
+* the costs of publication of this article were defrayed in part by the payment
+of page charges. this article must therefore be hereby marked “advertise-
+ment” in accordance with 18 u.s.c. section 1734 solely to indicate this fact.
+institutes of health training grant t32
+1 supported by nhlbi, national
+hl007260.
+2 to whom correspondence should be addressed: dept. of pharmaceutical
+sciences, medical university of south carolina, 280 calhoun st., charles-
+ton, sc 29425. tel.: 843-792-3754; fax: 843-792-2620.
+3 the abbreviations used are: pgc-1␣, peroxisome proliferator-activated recep-
+tor ␥ coactivator-1␣; mapk, mitogen-activated protein kinase; rptc, renal
+proximal tubular cell; gfp, green fluorescent protein; egfr, epidermal growth
+factor receptor; tbhp, tert-butylhydroperoxide; camk, calcium/calmodulin-
+dependent protein kinase; pp1, 4-amino-5-(4-methylphenyl)-7-(t-butyl)pyra-
+zolo(3,4-d)-pyrimidine; odq, 1h-(1,2,4)oxidiazolo(4,3-a)quinoxalin-1-one.
+(1). pgc-1␣is highly expressed in tissues with high metabolic
+demands, such as heart, skeletal muscle, and kidney (1). ectopic
+expression of pgc-1␣was later shown to stimulate the biogen-
+esis of mitochondria by increasing the expression of nuclear
+respiratory factors 1 and 2 and enhancing the transcriptional
+activity of nuclear respiratory factor 1 on the promoter for
+mitochondrial transcription factor a (1). in addition to cold
+exposure, expression of pgc-1␣is responsive to various phys-
+iological stimuli, such as exercise, caloric restriction, and expo-
+sure to lipopolysaccharide (1–4), demonstrating the ability of
+pgc-1␣to alter the metabolic state of the cell in response to
+changes in the cellular or extracellular environment. what has
+not been examined is the signaling pathway responsible for
+mitochondrial biogenesis following cellular and mitochondrial
+injury, particularly oxidative stress.
+a variety of signaling mechanisms have been proposed to
+regulate the expression of pgc-1␣and mitochondrial biogen-
+esis including nitric oxide-soluble guanylate cyclase (5–12),
+␤-adrenergic/camp (1), calcineurin a, calcium/calmodulin-de-
+pendentproteinkinase(camk)(13,14),andampkinase(15).p38
+mapk is also thought to regulate pgc-1␣through phospho-
+rylation of thr262, ser265, and thr298 within the repressor
+domain of pgc-1␣(1, 16). phosphorylation of these residues
+displaces a p160 myb-binding protein, stabilizing the
+pgc-1␣ protein and increasing its ability to function as a
+coactivator (17).
+ischemia-reperfusion injury in the kidney and other organs is
+characterized by de-energization of mitochondria resulting in
+severe energy deficits within the proximal tubule, which pres-
+ent within 60 min of the onset of ischemia (18–20). further, a
+large number of nephrotoxic xenobiotics target the mitochon-
+dria (21). these changes in renal proximal tubular cell (rptc)
+energetics also are observed in cellular models subjected to
+diverse stresses (22–26). for example, sublethally injured
+rptcs exhibit mitochondrial dysfunction, such as decreases in
+oxygen consumption and atp levels, following exposure to the
+model oxidant tert-butylhydroperoxide that spontaneously
+recovers over the course of six days (27, 28). the recovery of
+mitochondrial function is temporally related to rptc de-dif-
+ferentiation, migration, and proliferation, and complete recov-
+ery of mitochondrial function is associated with rptc rediffer-
+entiation (28, 29). the recovery of mitochondrial function is
+central to the overall restoration of cell structure and function.
+egfr expression is up-regulated following renal ischemia-
+reperfusion injury (30, 31), and the egfr is required for recov-
+ery of function following mercuric chloride-induced renal fail-
+ure in mice (32). further, the egfr is an important mediator of
+rptc dedifferentiation, migration, and proliferation following
+january 26, 2007 • volume 282 • number 4
+journal of biological chemistry 2355
+mitochondrial biogenesis signaling
+diverse forms of injury (33, 34). for example, src-dependent
+phosphorylation of p38 mpak results in the transactivation of
+the egfr following exposure to hydrogen peroxide (33), sug-
+gesting that p38 mapk transactivation of the egfr may be
+important in the recovery of rptc function following oxidant
+injury.
+although the regenerative properties of the rptc are
+known, the mechanisms of mitochondrial biogenesis following
+injury have not been examined nor has a central role of pgc-1␣
+been determined in this process. in this study, we have eluci-
+dated a mechanism for mitochondrial biogenesis following oxi-
+dant injury.
+experimental procedures
+reagents—ly294002, ag1478, and sb203580 were obtained
+from cell signaling technology (beverly, ma), biomol (plym-
+outh meeting, pa), and tocris (ellisville, mo), respectively.
+fenvalerate and bay 41-2272 were purchased from alexis cor-
+poration (san diego, ca). odq was purchased from acros
+organics (geel, belgium). all other chemicals were purchased
+from sigma. antibodies to phospho-egfr (tyr1068), phospho-
+src (tyr416), src, phospho-p38, and p38 were obtained from
+cell signaling technology. the antibodies to pgc-1␣, cox
+iii, and the egfr were purchased from santa cruz biotechnol-
+ogy (santa cruz, ca). anti-pgc-1␣and anti-cox iii was used
+at concentrations of 1:500 and 1:300, respectively, whereas all
+other antibodies were used at 1:1000.
+isolation and culture of renal proximal tubules—female
+new zealand white rabbits (2 kg) were purchased from myr-
+tle’s rabbitry (thompson station, tn). rptcs were isolated
+using the iron oxide perfusion method and grown in 35-mm
+tissue culture dishes under improved conditions as previously
+described (35). the culture medium was a 1:1 mixture of dul-
+becco’s modified eagle’s medium/ham’s f-12 medium (with-
+out glucose, phenol red, or sodium pyruvate) supplemented
+with 15 mm hepes buffer, 2.5 mm l-glutamine, 1 ␮m pyridox-
+ine hcl, 15 mm sodium bicarbonate, and 6 mm lactate. hydro-
+cortisone (50 nm), selenium (5 ng/ml), human transferrin (5
+␮g/ml), bovine insulin (10 nm), and l-ascorbic acid-2-phos-
+phate (50 ␮m) were added daily to fresh culture medium.
+confluent rptcs were used for all experiments. rptc
+monolayers were pretreated with various inhibitors for 1 h and
+exposed to 200 ␮m tbhp for 45 min, at which point the oxi-
+dant-containing media were removed, fresh media were added,
+and inhibitors replaced as indicated in the figure legends.
+replication-deficient adenovirus
+infection—recombinant
+adenovirus-expressing pgc-1␣and nuclear gfp control were
+generous gifts from bruce spiegelman (harvard medical
+school) (36). viral titers were determined by plaque formation
+assay using hek293 cells and expressed as plaque-forming
+units. rptcs were infected with each virus at a multiplicity of
+infection of 30 plaque-forming units for 24 h at 37 °c in a
+humidified 5% co2 incubator. afterward, the cultures were
+placed in normal culture media for an additional 24 h, at which
+point all measurements were taken. at an multiplicity of infec-
+tion of 30 plaque-forming units, 99% of the cells showed expres-
+sion of the viral gene insert as indicated by flow cytometry (data
+not shown).
+basal oxygen consumption (qo2)—on days 1–6 after tbhp
+injury, rptcs were gently detached from the culture dishes
+with a rubber policeman and transferred to a 37 °c qo2 cham-
+ber. basal and uncoupled (fccp) rptc qo2 was measured
+polarographically by using a clark-type electrode as described
+previously (35).
+lipid-based transfections—transient transfections of rptcs
+were performed using lipofectamine 2000 according to the man-
+ufacturer’s instructions (invitrogen).
+cell number—measurement of monolayer protein content
+over time was used to estimate cell number. on days 1–6 after
+tbhp injury, rptc monolayers were washed with phosphate-
+buffered saline, solubilized in triton buffer (0.05% triton
+x-100, 100 mm tris-base, 150 mm nacl, ph 7.5), sonicated for
+60 s, and protein concentrations determined by the bicincho-
+ninic acid according to the manufacturer’s instructions
+(pierce).
+confocal microscopy—all microscopy was performed on a
+zeiss lsm 510 confocal microscope. cells for imaging were
+plated on 35-mm glass bottom 14-mm microwell petri dishes
+from matteck corporation (ashland, ma).
+preparation of cell lysates and immunoblot analysis—after
+treatment, rptcs were washed twice with phosphate-buffered
+saline without ca2⫹ and mg2⫹ and harvested in cell lysis buffer
+from biovision (mountain view, ca). cells were disrupted by
+sonication for 30 s. equal amounts of cellular protein lysates
+were separated by sds-page and electrophoretically trans-
+ferred to nitrocellulose membranes. after treatment with 5%
+skim milk or bovine serum albumin at 4 °c overnight, mem-
+branes were incubated with various antibodies for 2 h and then
+incubated with an appropriate horseradish peroxidase-conju-
+gated secondary antibody (santa cruz biotechnology) for 1 h.
+bound antibodies were visualized after chemiluminescence
+detection on an alphaeasefc stand alone imaging system (san
+leandro, ca).
+statistical analysis—data are presented as means ⫾ s.e. and
+were subjected to one- or two-way analysis of variance as
+appropriate. multiple means were compared using student-
+newman-keuls test. p ⬍ 0.05 was considered a statistically sig-
+nificant difference between mean values. renal proximal
+tubules isolated from an individual rabbit represent a single
+experiment (n ⫽ 1). experiments were performed with 2–5
+plates of cells and repeated until an n value of at least 3 was
+reached.
+results
+exposure of rptc to the adenovirus that produced
+pgc-1␣expression resulted in a 10-fold increase in pgc-1␣
+protein expression at 48 h (fig. 1a). the green fluorescent pro-
+tein expressed on the c terminus of pgc-1␣was localized to
+the rptc nuclear compartment, consistent with its role as a
+nuclear receptor coactivator (fig. 1b). the mitochondria of
+rptc infected with the adenoviral pgc-1␣and nuclear gfp
+controls were stained with the potentiometric dye mitotracker
+red, and visualization of the mitochondria using confocal
+microscopy revealed an increase in red staining in rptcs in the
+pgc-1␣-treated group (fig. 1b). quantification of this change
+in staining intensity revealed a 51% increase in mitochondrial
+2356 journal of biological chemistry
+volume 282 • number 4 • january 26, 2007
+mitochondrial biogenesis signaling
+figure 2. adenoviral overexpression of pgc-1␣increased basal (a) and
+uncoupled (b) rptc oxygen consumption (qo2). data are presented as
+means ⫾ s.e., n ⫽ 3 for each group. *, p ⬍ 0.05, significantly different from
+controls. veh, vehicle.
+demonstrate that pgc-1␣is a primary regulator of mitochon-
+drial biogenesis in the renal proximal tubule and a potential
+target for regulating cellular bioenergetics in the kidney follow-
+ing injury.
+control rptcs transfected with a mitochondrially targeted
+gfp showed a normal branched morphology and did not asso-
+ciate with lysosomes stained with lysotracker red (fig. 4).
+rptcs affected by acute tbhp exposure (200 ␮m for 45 min)
+underwent significant mitochondrial autophagy 24 h following
+injury, as demonstrated by the colocalization of mitochondria
+and lysosomes (fig. 4). these results are consistent with the loss
+of mitochondrial function triggering the selective autophagy of
+mitochondria (37, 38).
+although rptcs expressed low levels of pgc-1␣ protein
+under basal conditions,
+following acute tbhp exposure,
+pgc-1␣protein levels increased 12-fold 24 h after injury (fig.
+5). levels of pgc-1␣remained elevated for three days following
+injury and then returned to control levels four days after the
+oxidant insult. basal qo2 increased on day 2 following oxidant
+exposure and returned to control levels on day 4 (fig. 5).
+uncoupled qo2 increased on day 3 and returned to control
+levels on day 4. thus, following oxidant exposure, pgc-1␣pro-
+tein levels markedly increased within 24 h, were maintained
+while basal and uncoupled qo2 were increasing, and returned
+figure 1. a, adenoviral overexpression of pgc-1␣increased rptc mitochon-
+drial number/mass. b, confocal photomicrograph (63⫻) of a nuclear gfp-
+expressing control rptc compared with rptc overexpressing the pgc-1␣/
+gfp construct (red, mitochondria; green, nuclear). c, mitotracker red staining
+was quantified in individual cells overexpressing gfp and pgc-1␣/gfp. data
+are presented as means ⫾ s.e., n ⫽ 8 –10 for each group. *, p ⬍ 0.05, signifi-
+cantly different from controls. veh, vehicle; adeno, adenovirus.
+number/mass in rptcs overexpressing pgc-1␣ compared
+with gfp controls (fig. 1c). these results reveal that pgc-1␣
+increases mitochondrial biogenesis in confluent rptcs under
+basal conditions.
+to determine whether pgc-1␣ overexpression in rptc
+results in changes in mitochondrial respiration, basal and
+uncoupled (fccp) oxygen consumption (qo2) were measured.
+increased pgc-1␣resulted in a 32% increase in basal qo2 and
+a 26% increase in uncoupled qo2 compared with controls (fig.
+2), indicative of the biogenesis of functional mitochondria.
+examination of both nuclear and mitochondrial encoded pro-
+tein constituents of the electron transport chain following ade-
+novirus-mediated expression of pgc-1␣ revealed 2- and 1.5-
+fold increases of the nuclear encoded proteins atp synthase
+␤-subunit and cytochrome c and a 1.2-fold increase in cox iii
+expression compared with controls (fig. 3). these increases in
+mitochondrial number/mass, function, and protein expression
+january 26, 2007 • volume 282 • number 4
+journal of biological chemistry 2357
+mitochondrial biogenesis signaling
+figure 3. a, adenoviral overexpression of pgc-1␣ increased nuclear and
+(atp-synthase␤, cyto-
+mitochondrial-encoded mitochondrial proteins
+chrome c, and cox ii). b, densitometry of atp-synthase ␤, cytochrome c, and
+cox iii protein levels compared with controls. data are presented as
+means ⫾ s.e., n ⫽ 3 for each group. *, p ⬍ 0.05, significantly different from
+controls. veh, vehicle.
+figure 4. tbhp-induced mitochondrial injury results in mitochondrial
+autophagy. rptcs expressing a mitochondrially targeted gfp were stained
+red with the lysosome-specific dye lysotracker red 24 h following tbhp or
+diluent exposure. confocal images (63⫻) of control rptcs show no colocal-
+ization of mitochondria and lysosomes, whereas mitochondria of tbhp-
+treated rptcs show colocalization (yellow) of mitochondria and lysosomes
+24 h following exposure to tbhp.
+to control levels when basal and uncoupled qo2 returned to
+control levels.
+to determine the signaling mechanisms responsible for the
+up-regulation of pgc-1␣following oxidant injury, rptcs were
+pretreated with a variety of inhibitors of signaling molecules
+known to regulate pgc-1␣, nitric-oxide synthase, soluble gua-
+nylyl cyclase, camk, calcineurin a, and p38 and exposed to the
+inhibitors for 24 h after injury. the nitric-oxide synthase inhib-
+itor l-name (3 mm) had no effect on the expression of
+pgc-1␣after injury nor did treatment with the soluble guanylyl
+figure 5. time-dependent pgc-1␣ protein expression following acute
+tbhp exposure. samples were probed by western blot for pgc-1␣expres-
+sion before injury and on days 1– 6 of recovery (a). b, densitometry of pgc-1␣
+protein levels over time following acute tbhp exposure. basal (c) and uncou-
+pled (d) qo2 over time following exposure to tbhp. *, p ⬍ 0.05, significantly
+different from controls. data are presented as means ⫾ s.e., n ⫽ 3 for each
+group. veh., vehicle.
+cyclase inhibitor odq (1 ␮m) or the soluble guanylyl cyclase
+agonist bay41–2271 (1 ␮m), revealing that pgc-1␣ is not
+being regulated by a nitric oxide-dependent pathway (fig. 6).
+treatment with inhibitors of camk (kn-62, 1 ␮m) and cal-
+cineurin a (fenvalerate, 1 ␮m) also had no effect on the expres-
+sion of pgc-1␣ compared with cells exposed to tbhp alone
+(fig. 6). in contrast, inhibition of pgc-1␣expression following
+2358 journal of biological chemistry
+volume 282 • number 4 • january 26, 2007
+mitochondrial biogenesis signaling
+figure 6. inhibition of p38 mapk (but not nitric-oxide synthase), camk, or calcineurin a prevents up-regulation of pgc-1␣following tbhp exposure.
+rptcs were pretreated with various inhibitors for 1 h and then exposed to tbhp for 45 min, at which point the medium was changed and the inhibitors
+replaced. immunoblots for pgc-1␣were performed 24 h after exposure to tbhp. rptcs were treated with l-name (a), odq (b), bay-41-2272 (c), kn-62 (d),
+fenvalerate (e), or the p38 mapk inhibitor sb203580 (f). *, p ⬍ 0.05, significantly different from controls.
+injury was observed with the addition of the p38 inhibitor
+sb203580 (10 ␮m) (fig. 6).
+we previously reported (33, 34) that p38 is activated in
+rptcs in response to h2o2 and interacts with src, phospha-
+tidylinositol 3-kinase, and the egfr. similarly, exposure to
+tbhp also results in the phosphorylation of src, p38, and the
+egfr (fig. 7). pp1 (10 ␮m) completely abolished the up-regu-
+lation of pgc-1␣as did an inhibitor of the egfr (ag1478, 20
+␮m) (fig. 7). in contrast, inhibition of phosphatidylinositol 3-ki-
+nase with ly202190 (10 ␮m) had no effect on pgc-1␣expres-
+sion (fig. 7).
+having established that src, p38, and the egfr play a role in
+pgc-1␣ expression following oxidant injury, we confirmed
+that these kinases are activated following oxidant exposure and
+sought to place these signaling molecules into a mitochondrial
+biogenesis pathway. both src and p38 were maximally phos-
+phorylated within 5 min of tbhp exposure, whereas the egfr
+was not maximally phosphorylated until 20 min after exposure
+to tbhp (fig. 8).
+rptcs were preincubated with pp1, sb203580, or ag1478
+and then exposed to tbhp or a vehicle control for 30 min, and
+samples were taken for immunoblot analysis. pretreatment
+with pp1 prevented the phosphorylation of src, p38 mapk,
+and the egfr, suggesting src is upstream of p38 and the egfr
+(fig. 8). pretreatment with sb203580 prevented the phospho-
+rylation of p38 and the egfr but not src, suggesting that p38 is
+downstream of src and is responsible for the transactivation of
+the egfr (fig. 8). inhibition of egfr activation with ag1478
+prevented the phosphorylation of the egfr but did not prevent
+the phosphorylation of either src or p38, suggesting that the
+egfr is indeed downstream of src and p38 (fig. 8) immediately
+following tbhp exposure.
+phosphorylation of both p38 and the egfr is still present 60
+min after tbhp exposure (fig. 9). pretreatment of rptcs with
+sb203580 prevents the phosphorylation of the egfr at 60 min;
+however, when sb203580 is added 30 min after exposure to
+tbhp, it no longer inhibits egfr phosphorylation, suggesting
+that, although p38 is responsible for the initial transactivation
+of the egfr, the sustained phosphorylation of the egfr occurs
+through another mechanism (fig. 9). as stated above, pretreat-
+ment with ag1478 does not inhibit p38 phosphorylation, plac-
+ing p38 upstream of the egfr during initiation of the signaling
+cascade (fig. 9). interestingly, when ag1478 is added after 30
+min of tbhp exposure, p38 phosphorylation is abolished, sug-
+gesting that the egfr mediates the late stage phosphorylation
+of p38 mapk (fig. 9).
+january 26, 2007 • volume 282 • number 4
+journal of biological chemistry 2359
+mitochondrial biogenesis signaling
+figure 7. a, up-regulation of pgc-1␣ following tbhp injury is blocked by
+inhibitors of src (pp1), p38 mapk (sb203580, sb), and the egfr (ag1478, ag)
+but not by an inhibitor of phosphatidylinositol 3-kinase (ly). b, densitometry
+of pgc-1␣protein levels over time following acute tbhp exposure. data are
+presented as means ⫾ s.e., n ⫽ 3 for each group. *, p ⬍ 0.05, significantly
+different from controls. veh, vehicle.
+discussion
+figure 8. pgc-1␣is up-regulated following tbhp-induced injury through
+the sequential activation of src, p38 mapk, and the egfr. a, time course of
+src (tyr416), p38 mapk (thr180, tyr182), and egfr (tyr1068) phosphorylation was
+performed in the presence of 200 ␮m tbhp. b, phosphorylation of src, p38 mapk,
+and the egfr in the presence and absence of their respective inhibitors of pp1,
+sb203580 (sb), and ag1478 (ag) was determined by immunoblot analysis follow-
+ing tbhp exposure. rptcs were pretreated with inhibitors for 30 min, and sam-
+ples were taken after 30 min of tbhp exposure. blots are representative of at least
+three separate experiments.
+pgc-1␣ is generally thought to be the master regulator of
+mitochondrial biogenesis in adipose tissue, heart, and liver (39).
+we have demonstrated that pgc-1␣has the ability to induce
+mitochondrial biogenesis in control rptcs, suggesting that
+pgc-1␣also plays a central role in regulating the biogenesis in
+rptcs. pgc-1␣is known to up-regulate gluconeogenesis (36,
+40), a process that may require increasing concentrations of
+atp and thus also explain the increase in the basal respiration
+that is observed with the ectopic expression of pgc-1␣.
+although mitochondrial biogenesis has been studied in
+response to different stimuli in a few tissues (1–4), the mecha-
+nisms of mitochondrial biogenesis following cell injury and
+regeneration has not been examined. we previously demon-
+strated that oxidant exposure (i.e. tbhp) decreases mitochon-
+drial function and that mitochondrial function returns over a
+period of days to control levels (27, 28). in this paper, we have
+shown that the loss of mitochondrial function is associated
+mitochondrial damage and autophagy.
+one day following oxidant injury, basal respiration increased,
+whereas uncoupled respiration did not. this response is consist-
+ent with the idea that the cells utilize the residual capacity of the
+mitochondria to survive and initiate repair. on day two follow-
+ing injury, both basal and uncoupled respiration increased and
+returned to control values on day 4. because ectopic expression
+of pgc-1␣ in rptcs resulted in robust biogenesis of mito-
+chondria, we hypothesized that up-regulation of endogenous
+pgc-1␣ was responsible for the restoration of mitochondrial
+figure 9. egfr promotes the sustained activation of p38 mapk. rptcs
+underwent a 30-min preincubation with the p38 mapk inhibitor sb203580
+(sb) or the egfr antagonist ag1478 (ag) and then exposed to tbhp for 30
+min. another group was exposed to tbhp for 30 min, at which point the
+medium was changed and inhibitors of p38 or egfr were added. immuno-
+blot samples were collected 30 min later. blots are representative of at least
+three separate experiments.
+function by regulating the production of new mitochondria.
+the up-regulation of pgc-1␣on days 1–3 post-injury is con-
+sistent with the initiation of the recovery of mitochondrial
+function, whereas the decrease in pgc-1␣on day four is con-
+sistent with a negative feedback mechanism preventing the for-
+mation of additional mitochondria as mitochondrial function is
+restored.
+of the various signaling mechanisms that have been impli-
+cated in the regulation of pgc-1␣expression, including nitric
+oxide (5–12), ␤-adrenergic receptors, camk, and amp kinase
+2360 journal of biological chemistry
+volume 282 • number 4 • january 26, 2007
+(1, 13–15), only p38 mapk appears to be important in the
+regulation of pgc-1␣ expression following oxidant injury in
+our model. our results are consistent with reports that phos-
+phorylation of p38 mapk increases pgc-1␣expression by sta-
+bilizing existing protein (1, 16) or promoting the transcription
+of pgc-1␣ through an activating transcription factor-2-
+dependent mechanism (41). interestingly, following oxidant
+injury, p38 mapk appears to play two roles in mitochondrial
+biogenesis upstream and downstream of the egfr (see below).
+following injury, p38 mapk is phosphorylated by src and
+then transactivates the egfr. this signaling pathway appears
+to be a common response of rptcs to oxidant injury, as the
+same signaling cascade was observed following acute exposure
+of rptcs to h2o2 (33). however, the mechanism of egfr
+transactivation by p38 mapk has yet to be determined. our
+experiments also provide evidence that p38 mapk is an egfr
+substrate in this model system. the addition of the egfr inhib-
+itor ag1478 30 min post-oxidant addition blocked the phos-
+phorylation of p38 mapk and decreased pgc-1a expression.
+the role of the egfr in mitochondrial biogenesis may, in part,
+be sustaining the actions of p38 mapk on pgc-1␣expression
+and stability. interestingly, activation of the egfr through the
+addition of exogenous egf (10 ng/ml for 24 h) strongly acti-
+vated the egfr but did not increase the expression of pgc-1␣
+(data not shown), suggesting that egfr-dependent pgc-1␣
+expression is dependent upon the transactivation of the egfr.
+this is the first report that the egfr is a mediator of mito-
+chondrial biogenesis. we previously demonstrated that oxi-
+dant-induced injury results in the dedifferentiation, migration,
+and proliferation through the egfr (33, 34). egfr initiation of
+mitochondrial biogenesis, in concert with dedifferentiation,
+migration, and proliferation, may represent an integrated path-
+way to ensure sufficient energy for repair, regeneration, and
+ultimately, the return of normal differentiation function.
+the egfr is capable of activating a series of signaling path-
+ways that may be involved in regulating pgc-1␣ expression,
+including phosphatidylinositol 3-kinase (34, 42). however,
+inhibition of phosphatidylinositol 3-kinase/akt had no effect
+on the expression of pgc-1␣following oxidant exposure. yet,
+phosphatidylinositol 3-kinase/akt is activated following oxi-
+dant injury in this model and is required for cellular prolifera-
+tion (34). thus, the pathways may diverge at this point. how-
+ever, phosphatidylinositol 3-kinase/akt may contribute to the
+biogenesis of mitochondria downstream of pgc-1␣by directly
+phosphorylating nuclear respiratory factor 1 and inducing
+mitochondrial transcription factor-a (2). this pathway may
+also be involved in regulating the shift from glycogen storage to
+glucose utilization through the akt-dependent phosphoryla-
+tion and inactivation of glycogen-synthase kinase 3 (43).
+we cannot disregard a possible role for the activation of
+amp kinase in regulating pgc-1␣in our model. amp kinase is
+activated in response to cell stressors causing perturbations in
+camp/atp ratios (44), can participate in the activation of the
+p38mapk-signaling cascade (4, 45), and has been implicated in
+regulating the expression of pgc-1␣in muscle in response to a
+variety of stimuli (36, 46–49). because rapid decreases in cel-
+lular atp are observed in tbhp-treated rptcs (28) and amp
+kinase is known to be activated under conditions of renal ische-
+mitochondrial biogenesis signaling
+mia (50), it is possible that amp kinase is activated following
+oxidant treatment in our model and will be the subject of future
+experiments.
+in summary, pgc-1␣-mediated mitochondrial biogenesis
+following oxidant injury may promote the repair and recovery
+of rptcs and is regulated by a unique signaling pathway
+involving the activation of src, p38 mapk, and the egfr. elu-
+cidating the mechanisms behind the recovery of mitochondrial
+function after injury may provide a promising target to acceler-
+ate recovery of cellular functions and may have important
+implications in the treatment of acute renal failure and other
+epithelial injuries.
+acknowledgment—we acknowledge dr. bruce speigelman for his
+generous contribution of the pgc-1␣and gfp adenoviral constructs.
+references
+1. puigserver, p., wu, z., park, c. w., graves, r., wright, m., and
+spiegelman, b. m. (1998) cell 92, 829–839
+2. suliman, h. b., welty-wolf, k. e., carraway, m., tatro, l., and piantadosi,
+c. a. (2004) cardiovasc. res. 64, 279–288
+3. pilegaard, h., saltin, b., and neufer, p. d. (2003) j. physiol. (lond.) 546,
+851–858
+4. li, j., miller, e. j., ninomiya-tsuji, j., russell, r. r. iii, and young, l. h.
+(2005) circ. res. 97, 872–879
+5. nisoli, e., tonello, c., cardile, a., cozzi, v., bracale, r., tedesco, l.,
+falcone, s., valerio, a., cantoni, o., clementi, e., moncada, s., and
+carruba, m. o. (2005) science 310, 314–317
+6. nisoli, e., falcone, s., tonello, c., cozzi, v., palomba, l., fiorani, m.,
+pisconti, a., brunelli, s., cardile, a., francolini, m., cantoni, o., carruba,
+m. o., moncada, s., and clementi, e. (2004) proc. natl. acad. sci. u. s. a.
+101, 16507–16512
+7. nisoli, e., clementi, e., tonello, c., moncada, s., and carruba, m. o.
+(2004) prostaglandins other lipid mediat. 73, 9–27
+8. nisoli, e., clementi, e., paolucci, c., cozzi, v., tonello, c., sciorati, c.,
+bracale, r., valerio, a., francolini, m., moncada, s., and carruba, m. o.
+(2003) science 299, 896–899
+9. nisoli, e., clementi, e., moncada, s., and carruba, m. o. (2004) biochem.
+pharmacol. 67, 1–15
+10. leary, s. c., and shoubridge, e. a. (2003) bioessays 25, 538–541
+11. clementi, e., and nisoli, e. (2005) comp. biochem. physiol., part a mol.
+integr. physiol. 142, 102–110
+12. baris, o., savagner, f., nasser, v., loriod, b., granjeaud, s., guyetant, s.,
+franc, b., rodien, p., rohmer, v., bertucci, f., birnbaum, d., malthiery, y.,
+reynier, p., and houlgatte, r. (2004) j. clin. endocrinol. metab. 89,
+994–1005
+13. handschin, c., rhee, j., lin, j., tarr, p. t., and spiegelman, b. m. (2003)
+proc. natl. acad. sci. u. s. a. 100, 7111–7116
+14. schaeffer, p. j., wende, a. r., magee, c. j., neilson, j. r., leone, t. c.,
+chen, f., and kelly, d. p. (2004) j. biol. chem. 279, 39593–39603
+15. zong, h., ren, j. m., young, l. h., pypaert, m., mu, j., birnbaum, m. j., and
+shulman, g. i. (2002) proc. natl. acad. sci. u. s. a. 99, 15983–15987
+16. knutti, d., kressler, d., and kralli, a. (2001) proc. natl. acad. sci. u. s. a.
+98, 9713–9718
+17. fan, m., rhee, j., st.-pierre, j., handschin, c., puigserver, p., lin, j., jaeger,
+s., erdjument-bromage, h., tempst, p., and spiegelman, b. m. (2004)
+genes dev. 18, 278–289
+18. weinberg, j. m., roeser, n. f., davis, j. a., and venkatachalam, m. a.
+(1997) kidney int. 52, 140–151
+19. weinberg, j. m., venkatachalam, m. a., roeser, n. f., and nissim, i. (2000)
+proc. natl. acad. sci. u. s. a. 97, 2826–2831
+20. feldkamp, t., kribben, a., and weinberg, j. m. (2005) am. j. physiol. 288,
+f1092–f1102
+21. jung, k., and reszka, r. (2001) adv. drug delivery rev. 49, 87–105
+january 26, 2007 • volume 282 • number 4
+journal of biological chemistry 2361
+mitochondrial biogenesis signaling
+22. cummings, b. s., zangar, r. c., novak, r. f., and lash, l. h. (2000)
+23. hardiek, k., katholi, r. e., ramkumar, v., and deitrick, c. (2001) am. j.
+toxicology 150, 83–98
+physiol. 280, f61–f70
+24. nath, k. a., grande, j. p., croatt, a. j., likely, s., hebbel, r. p., and enright,
+25. chakrabarti, s. k., denniel, c., malick, m. a., and bai, c. (1998) toxicol.
+h. (1998) kidney int. 53, 100–111
+appl. pharmacol. 151, 123–134
+pharmacol. 128, 239–250
+26. rivera, m. i., jones, t. w., lau, s. s., and monks, t. j. (1994) toxicol. appl.
+27. schnellmann, r. g. (1988) am. j. physiol. 255, c28–c33
+28. nowak, g., aleo, m. d., morgan, j. a., and schnellmann, r. g. (1998)
+am. j. physiol. 274, f509–f515
+29. kays, s. e., and schnellmann, r. g. (1995) toxicol. appl. pharmacol. 132,
+30. safirstein, r., price, p. m., saggi, s. j., and harris, r. c. (1990) kidney int.
+273–280
+37, 1515–1521
+31. taira, t., yoshimura, a., iizuka, k., inui, k., oshiden, k., iwasaki, s.,
+ideura, t., and koshikawa, s. (1996) virchows arch. 427, 583–588
+32. lu, y., yu, q., liu, j. h., zhang, j., wang, h., koul, d., mcmurray, j. s.,
+fang, x., yung, w. k., siminovitch, k. a., and mills, g. b. (2003) j. biol.
+chem. 278, 40057–40066
+33. zhuang, s., yan, y., han, j., and schnellmann, r. g. (2005) j. biol. chem.
+34. zhuang, s., dang, y., and schnellmann, r. g. (2004) am. j. physiol. 287,
+280, 21036–21042
+f365–f372
+c2072–c2080
+35. nowak, g., and schnellmann, r. g.
+(1996) am.
+j. physiol. 271,
+j. appl. physiol. 101, 1685–1692
+36. lee, w. j., kim, m., park, h. s., kim, h. s., jeon, m. j., oh, k. s., koh, e. h.,
+50. mount, p. f., hill, r. e., fraser, s. a., levidiotis, v., katsis, f., kemp, b. e.,
+and power, d. a. (2005) am. j. physiol. 289, f1103–f1115
+won, j. c., kim, m. s., oh, g. t., yoon, m., lee, k. u., and park, j. y. (2006)
+biochem. biophys. res. commun. 340, 291–295
+37. lemasters, j. j. (2005) rejuvenation res. 8, 3–5
+38. priault, m., salin, b., schaeffer, j., vallette, f. m., di rago, j. p., and
+martinou, j. c. (2005) cell death differ. 12, 1613–1621
+39. scarpulla, r. c. (2002) biochim. biophys. acta 1576, 1–14
+40. herzig, s., long, f., jhala, u. s., hedrick, s., quinn, r., bauer, a., rudolph,
+d., schutz, g., yoon, c., puigserver, p., spiegelman, b., and montminy, m.
+(2001) nature 413, 179–183
+41. akimoto, t., pohnert, s. c., li, p., zhang, m., gumbs, c., rosenberg, p. b.,
+williams, r. s., and yan, z. (2005) j. biol. chem. 280, 19587–19593
+42. yano, t., yazima, s., hagiwara, k., ozasa, h., ishizuka, s., and horikawa,
+43. cross, d. a., alessi, d. r., cohen, p., andjelkovich, m., and hemmings,
+s. (1999) nephron 81, 230–233
+b. a. (1995) nature 378, 785–789
+44. mcgee, s. l., and hargreaves, m. (2006) clin. exp. pharmacol. physiol. 33,
+45. pelletier, a., joly, e., prentki, m., and coderre, l. (2005) endocrinology
+46. suwa, m., nakano, h., and kumagai, s. (2003) j. appl. physiol. 95,
+395–399
+146, 2285–2294
+960–968
+47. sriwijitkamol, a.,
+ivy,
+j. l., christ-roberts, c., defronzo, r. a.,
+mandarino, l. j., and musi, n. (2006) am. j. physiol. 290, e925–e932
+48. ojuka, e. o. (2004) proc. nutr. soc. 63, 275–278
+49. suwa, m., egashira, t., nakano, h., sasaki, h., and kumagai, s. (2006)
+2362 journal of biological chemistry
+volume 282 • number 4 • january 26, 2007
+metabolism and bioenergetics:
+signaling of mitochondrial biogenesis
+following oxidant injury
+  
+kyle a. rasbach and rick g. schnellmann
+j. biol. chem. 
+doi: 10.1074/jbc.m608009200 originally published online november 20, 2006
+2007, 282:2355-2362.
+access the most updated version of this article at doi: 
+  
+find articles, minireviews, reflections and classics on similar topics on the 
+  
+alerts: 
+•  
+•  
+  
+when this article is cited
+when a correction for this article is posted
+10.1074/jbc.m608009200
+jbc affinity sites
+click here
+ to choose from all of jbc's e-mail alerts
+this article cites 44 references, 16 of which can be accessed free at
+http://www.jbc.org/content/282/4/2355.full.html#ref-list-1
+  

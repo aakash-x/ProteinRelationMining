@@ -1,0 +1,839 @@
+human molecular genetics, 2006, vol. 15, no. 19
+doi:10.1093/hmg/ddl239
+advance access published on september 8, 2006
+2962–2971
+depletion of type ia regulatory subunit (ria) of
+protein kinase a (pka) in mammalian cells and
+tissues activates mtor and causes autophagic
+deﬁciency
+manos mavrakis1,*, jennifer lippincott-schwartz1, constantine a. stratakis2
+and ioannis bossis2
+1cell biology and metabolism branch, national institute of child health and human development, national
+institutes of health, room 101, building 18t, 18 library drive, bethesda, md 20892, usa and 2section on
+endocrinology and genetics, developmental endocrinology branch, national institute of child health and human
+development, national institutes of health, building 10, crc, 10 center drive bethesda, md 20892, usa
+received july 13, 2006; revised and accepted august 24, 2006
+the human prkar1a gene encodes the regulatory subunit 1-alpha (ria) of the camp-dependent protein
+kinase a (pka) holoenzyme. regulation of the catalytic activity of pka is the only well-studied function of
+ria. inactivating prkar1a mutations cause primary pigmented nodular adrenocortical disease (ppnad)
+or carney complex (cnc), an inherited syndrome associated with abnormal skin pigmentation and multiple
+neoplasias, including ppnad. histochemistry of tissues from cnc patients is indicative of autophagic
+deﬁciency and this led us to investigate the relationship between ria and mammalian autophagy. we
+found that ﬂuorescently tagged ria associates with late endosomes and autophagosomes in cultured
+cells. the number of autophagosomes in prkar1a2/2 mouse embryonic ﬁbroblasts (mefs) was reduced com-
+pared with wild-type mefs. ria co-immunoprecipitated with mtor kinase, a major regulator of autophagy.
+phosphorylated-mtor levels and mtor activity were dramatically increased in prkar1a 2/2 mouse cells,
+and in hek 293 cells with ria levels reduced by sirna. finally, phosphorylated-mtor levels and mtor
+activity were increased in cnc cells and in ppnad tissues. these data suggest that ria deﬁciency decreases
+autophagy by the activation of mtor, providing a molecular basis to autophagic deﬁciency in ppnad.
+introduction
+inactivating mutations of the human prkar1a gene cause a
+multiple neoplasia and lentiginosis syndrome, carney complex
+(cnc) (1). the most common manifestations are multiple skin
+macules, known as lentigines, and other pigmented lesions
+such as blue and compound nevi and primary pigmented
+nodular adrenocortical disease (ppnad) (2). heavily pigmented
+macromelanosomes account for the pigmentation in lentigines
+and the nevi; however, the increased pigmentation in ppnad
+nodules is due to the accumulation of lipofuscin-like material
+(3,4). macromelanosomes are thought to originate from defec-
+tive melanosome autophagocytosis (5,6), whereas accumulation
+of lipofuscin is a hallmark of autophagic deﬁciency (7,8).
+autophagy is an evolutionarily conserved mechanism in all
+eukaryotes; its basic role is the bulk turnover of long-lived
+proteins and cytoplasmic organelles. during the process of
+autophagy, portions of the cytosol, organelles or targeted
+cargo are sequestered in double membrane-bound vesicles
+(autophagosomes), which then fuse with lysosomes (or vacu-
+oles in yeast) releasing the sequestered contents into the
+lumen for degradation by resident hydrolases (9,10). inhibition
+of the target of rapamycin (tor) kinase is a major prere-
+quisite for starvation-induced autophagy in saccharomyces
+cerevisiae (11), and it is required to control atg1-dependent
+organization of protein complexes on the pre-autophagosomal
+membrane (12,13). reduced tor activity is also required for
+the maturation of
+into
+the pre-autophagosomal vesicles
+*to whom correspondence should be addressed. tel: +1 3014021010; fax: +1 3014020078; email: mavrakim@mail.nih.gov
+published by oxford university press.
+autophagic vacuoles by increasing the expression of autopha-
+gic speciﬁc genes such as atg8 (14).
+biogenesis,
+actin
+several nutrient-
+both in yeast and higher eukaryotes, mtor signaling plays
+a key role in various processes including protein translation,
+ribosome
+organization, mitochondrial
+oxygen consumption and oxidative capacity, metabolism,
+transcription of
+and stress-responsive
+factors and autophagy (15). the best studied targets of
+mtor in mammalian cells are the translation regulators
+s6k1 and 4e-bp1. phosphorylation of
+these targets by
+mtor has provided a possible mechanism by which nutrient
+deprivation affects protein translation. however, no evidence
+indicates that mtor affects autophagosome biogenesis and/
+or autophagic activity through phosphorylation of s6k1 or
+4ebp1. in yeast, tor negatively controls autophagy via
+inhibition of the protein kinase atg1; however, the mammalian
+homolog of atg1 has not yet been identiﬁed.
+the human prkar1a gene encodes the regulatory subunit
+1-alpha (ria) of the camp-dependent protein kinase a
+(pka) holoenzyme. phosphorylation mediated by the
+camp/pka signaling pathway can be elicited by various
+physiological ligands in cells and is critically involved in
+the regulation of metabolism, cell proliferation, differen-
+tiation and apoptosis (16). pka exists as a tetrameric holo-
+enzyme consisting essentially of two dimers: one composed
+of regulatory subunits, and the other of two inactive catalytic
+subunits (17). cooperative binding of two camp molecules
+to each regulatory subunit results in dissociation and the con-
+sequent release (activation) of the two catalytic subunits.
+there are four genes encoding the different regulatory sub-
+units (ria, rib, riia, riib) and three genes encoding the
+catalytic subunits ca, cb and cg (18). ria, riia and ca
+are ubiquitously expressed, whereas the rest of these genes
+have tissue-speciﬁc expression (19). the best known function
+of the r subunits in vitro is inhibition of the c subunit kinase
+activity.
+the pathological characteristics of cnc indicative of an
+autophagy deﬁciency, together with the role of the prkar1a-
+homolog bcy1 in yeast autophagy, led us to investigate mtor
+in human ppnad tissues bearing inactivating prkar1a
+mutations. complete prkar1a loss, as indicated by the loss
+of heterozygosity (loh) and the corresponding normal
+allele in these tissues, was associated with the accumulation
+of autophagic substrates in the adenomatous nodules com-
+pared with the surrounding (hemizygous for prkar1a)
+normal adrenocortical cells. we then investigated the intra-
+cellular distribution of ria and its association with mtor
+kinase: ﬂuorescently tagged ria was found to associate with
+lc3-labeled autophagosomes. accordingly,
+the number of
+lc3-labeled autophagosomes was signiﬁcantly reduced in
+prkar1a2/2 mouse embryonic ﬁbroblasts (mefs), which
+were devoid of any ria protein. in biochemical assays, ria
+was found to interact with mtor and affect signiﬁcantly its
+kinase activity. downregulation of ria in hek293 cells
+increased phosphorylation of mtor and mtor kinase
+activity. finally, ppnad tissues with prkar1a mutations
+showed increased mtor phosphorylation and mtor activity.
+indeed ria and mtor
+altogether, our data suggest
+are involved in a common pathway regulating mammalian
+autophagy.
+that
+human molecular genetics, 2006, vol. 15, no. 19
+2963
+results and discussion
+prkar1a-null ppnad tissues showed lipofuscin
+accumulation
+(1)
+transverse sections of ppnad tissues from patients with the
+478deltg prkar1a-inactivating mutation
+showed
+increased lipofuscin in the pigmented nodules when stained
+with ziehl – neelsen stain, which is speciﬁc for lipofuscin
+(3,4) (fig. 1a). the pigmented nodules in these experiments
+were dissected using laser-capture microdissection (lcm)
+(fig. 1b, upper panel), and dna was isolated from these
+nodules, as well as from blood and total adrenoglandular
+tissue homogenates. loh and, speciﬁcally, loss of the wild-
+type prkar1a allele were evident only in the adenoma
+cells
+(fig. 1b,
+bottom panel). lipofuscin accumulation is a hallmark of
+autophagic deﬁciency (7,8). thus, our observation that lipo-
+fuscin accumulated only in the cells lacking both prkar1a
+alleles (making them devoid of any ria protein) suggested a
+potential role of ria in the regulation of autophagy.
+that constituted the pigmented nodules
+egfp-ria localized on late endosomes
+and autophagosomes
+to determine the subcellular localization of ria, we expressed
+prkar1a (ria) tagged with green ﬂuorescent protein (egfp,
+see materials and methods) in a variety of cell types (hela,
+mnt-1, nrk, cos-7, mef) and observed its distribution in
+living and ﬁxed cells. the tagged protein showed a diffuse cyto-
+solic pool but was also found on spot-like structures scattered
+throughout the cell, with a pronounced perinuclear accumu-
+lation in most cells (fig. 1c, egfp-ria). to ensure that the
+observed spot-like structures were not non-speciﬁc aggregates
+formed by the presence of egfp, we also transfected cells
+with ria tagged with ha and immunostained using anti-ha
+antibodies. ha-ria displayed a pattern identical to the one
+observed in egfp-ria-transfected cells (fig. 1c, ha-ria).
+to further explore the nature of the spot-like structures and to
+determine if ria molecules are immobilized on these struc-
+tures, we performed ﬂuorescence recovery after photobleaching
+(frap) experiments in cells expressing egfp-ria (20). a
+single spot-like structure was photobleached using a high-
+intensity laser beam, abolishing egfp ﬂuorescence. low-
+power imaging was then used to assess ﬂuorescence recovery
+into the photobleached region. a rapid and complete recovery
+of egfp-ria ﬂuorescence was observed (fig. 1d), indicating
+that egfp-ria molecules readily move on and off the struc-
+tures, exchanging with a cytosolic pool of the protein.
+to further
+investigate the subcellular
+localization of
+egfp-ria, we imaged egfp-ria in the presence of various
+organelle markers, either by immunostaining or in living
+cells co-transfected with different organelle markers. pka
+regulatory subunit riib has been shown to target pka to
+the golgi complex (21), so we began by looking at the poten-
+tial association of egfp-ria with the golgi complex. toward
+this end, we visualized the golgi stack using galt-cfp, the
+trans-golgi network using anti-tgn46 antibodies, the golgi
+matrix using anti-gm130 antibodies and the er-to-golgi
+intermediate compartment using p58-cfp (see materials and
+methods). no colocalization of egfp-ria with any of these
+2964
+human molecular genetics, 2006, vol. 15, no. 19
+figure 1. ppnad caused by prkar1a-inactivating mutations is associated with lipofuscin accumulation in the nodular regions of the tissue. egfp-ria loca-
+lized in the cytosol and on spot-like structures. spot-like egfp-ria readily exchanged with the cytosolic pool of the protein and was not associated with golgi,
+mitochondria or peroxisomes. (a) a ppnad adrenal gland was stained with ziehl– neelsen-speciﬁc stain for lipofuscin (see materials and methods). a trans-
+verse section of the gland is shown to indicate lipofuscin accumulation in the pigmented nodules (left panel). the image on the right is a magniﬁcation of the
+black outlined rectangle in the image on the left. (b) pigmented nodules in a ppnad tissue were dissected using lcm (black dashed outlines, upper panel).
+nodular dna was prepared as described in materials and methods and used for pcr using the polymorphic marker gata1e12, which cosegregated with the
+disease (1) in the family of the patient (bottom panel, nodules). pcr was also performed on lymphocyte dna from the unaffected father (wt), lymphocyte dna
+from the affected daughter (blood) and total tumor dna (gland). the absence of the band segregating with the wild-type prkar1a allele indicated loh only in
+the nodular cells. (c) egfp-ria exhibited a cytosolic and spot-like distribution in transiently transfected hela cells (left panel). the same distribution was
+observed in hela cells transiently transfected with ha-ria (right panel), indicating that the spot-like distribution was not due to non-speciﬁc aggregation
+of egfp. (d) egfp-ria on spot-like structures readily exchanged with the cytosolic pool of the protein as determined by frap. a small roi (white outlined
+rectangle) encompassing an egfp-ria spot was photobleached and ﬂuorescence recovery was monitored; egfp-ria ﬂuorescence signiﬁcantly recovered within
+seconds of photobleaching. (e) hela cells were transiently transfected with egfp-ria and then processed for immunostaining for peroxisomes (a-catalase), the
+golgi matrix (a-gm130) and the trans-golgi network (a-tgn46). cells were co-transfected with p58-cfp to visualize the er-to-golgi intermediate compart-
+ment and with galt-cfp to visualize the golgi stack. for mitochondria staining, cells were incubated with mitotracker before ﬁxation (see materials and
+methods). egfp-ria spots did not associate with any of these compartments.
+compartments was observed (fig. 1e). we also imaged
+egfp-ria in the presence of a peroxisomal marker
+(anti-catalase) and a mitochondrial marker (mitotracker), but
+no colocalization was observed (fig. 1e).
+we next investigated the potential association of ria with endo-
+somal compartments of the cell. for this, we imaged venus-ria
+coexpressed with cerulean-tagged rab5 (marking early endo-
+somes) (22), rab7 (marking lysosomes) or rab9 (marking late
+endosomes) (23). although no association of ria with rab5-
+positive endosomes was observed (data not shown), venus-ria
+was associated with a subset of rab7- and rab9-positive
+endosomes (fig. 2a). in time-lapse sequences in living cells
+with
+and
+venus-ria
+co-transfected
+cerulean-rab9,
+venus-ria-positive spots were often seen to associate and move
+together with cerulean-rab9-positive endosomes (fig. 2b).
+venus-ria was also associated with cerulean-rab7-positive
+endosomes, and when we selectively photobleached the venus-
+ria pool on these endosomes,
+it rapidly recovered, again
+indicating a dynamic exchange of venus-ria molecules on the
+endosomes with the cytosolic pool of ria (fig. 2c).
+rab7 is a small gtpase involved in lysosome biogenesis
+(24) and maturation of late autophagic compartments (25–27).
+hence, our observation that ria-containing structures were
+positive for rab7 raised the question of whether
+these
+human molecular genetics, 2006, vol. 15, no. 19
+2965
+figure 2. egfp-ria spots associated with late endosomes and autophagosomes. (a – c) hela cells were co-transfected with venus-ria and cerulean-rab7 or
+cerulean-rab9 to visualize late endosomes. venus-ria spots were often seen to associate and move with rab7-positive endosomes (a, empty arrowheads) or
+rab9-positive endosomes (a, white arrowheads). a time-lapse sequence is shown in (b), where venus-ria spots associated with rab9-positive endosomes
+moved with the latter over time (white arrowheads). in a frap experiment (c), venus-ria, which was associated with rab7-positive endosomes (white outlined
+rectangle) was selectively photobleached to show fast recovery of the ria pool on the rab7-positive endosome. (d) nrk or mef cells were co-transfected with
+egfp-ria and cfp-lc3 to visualize autophagosomes. representative confocal images are shown to demonstrate that the majority of egfp-ria spots associ-
+ated with lc3-positive autophagosomes.
+structures represented autophagosomes. to investigate this
+further, we co-transfected egfp-ria-expressing cells with
+cfp-lc3, a protein that has been shown to speciﬁcally associ-
+ate with membranes of maturating autophagosomes (27 – 29).
+representative confocal
+images are shown in figure 2d.
+virtually all the ria-expressing structures were labeled with
+cfp-lc3. this suggested that ria resides on autophago-
+somes, where it potentially functions.
+in prkar1a2/2 mefs,
+there
+lc3-labeled autophagosomes,
+were a remarkably decreased number of lc3-labeled autopha-
+gosomes; in addition, there was an increased cytosolic and
+nuclear pool of lc3 (fig. 3a). to quantify the observed
+differences, autophagosomes were counted in each cell line
+(fig. 3b). a statistically signiﬁcant difference in the number
+cells
+of autophagosomes was observed, with prkar1a
+having on average 18 autophagosomes per cell compared
+with 3 in prkar1a2/2 cells that lack ria.
+þ/þ
+the number of autophagosomes is reduced
+in prkar1a2/2 mefs
+to investigate a possible role of ria on autophagosomes, we
+examined the cfp-lc3 distribution in prkar1a
+and
+prkar1a2/2 mef cell
+lines (see materials and methods),
+þ/þ
+which express or do not express ria. although prkar1a
+mefs showed a pronounced perinuclear accumulation of
+þ/þ
+ria and mtor co-immunoprecipitated and
+phosphorylated-mtor levels and mtor activities
+were increased in cells with low ria levels
+given that ria associates with autophagosomes and that there
+is a reduced number of autophagosomes in prkar1a2/2 cells,
+which lack ria (figs 2d and 3), we next investigated whether
+2966
+human molecular genetics, 2006, vol. 15, no. 19
+mefs and prkar1a2/2 mefs, tran-
+figure 3. the number of autophagosomes is reduced in prkar1a2/2 mefs. representative confocal images of prkar1a
+þ/þ
+mefs (a, left panel), whereas it
+siently transfected with cfp-lc3 to visualize autophagosomes (a). cfp-lc3 accumulated on autophagosomes in prkar1a
+did so to a much lesser extent in prkar1a2/2 mefs, exhibiting a higher cytosolic and nuclear pool in the latter (a, right panel). for quantitation, both cell lines
+were optically sliced on a confocal microscope (see materials and methods) and then maximum intensity z-projections were generated for each cell to visualize
+all autophagosomes, which were then counted. the average number of autophagosomes in each cell line was plotted (b, shown as mean + sd). immunoblots
+showing ria levels in each cell line are shown in (c), along with b-actin immunostaining as a protein-loading control.
+þ/þ
+ria interacts with mtor kinase in immunoprecipitation
+experiments. ria was immunoprecipitated from hek 293
+cells transfected with ha-ria, and the pellet was then
+immunoblotted for mtor. notably, mtor was
+seen
+co-precipitating with ria (fig. 4a,
+left panel). inversely,
+when endogenous mtor was immunoprecipitated and the
+pellet immunoblotted for ria, ria was found to co-precipitate
+with mtor (fig. 4a, right panel). the data thus suggested
+that a pool of ria and a pool of mtor molecules form a
+complex within the cell.
+altered
+using
+þ/þ
+amounts
+that were
+ria
+of
+assessed
+to further investigate the connection between mtor and
+ria, we measured total protein levels of mtor, levels of
+phosphorylated mtor (‘phospho-mtor’) and levels of
+mtor activity (see materials and methods) in cells with
+protein.
+experimentally
+phosphorylated-mtor levels were
+phospho-mtor antibody speciﬁc for ser2448. we utilized
+cells
+transfected with pcdna3.1 (‘mock’),
+pcdna3.1-ria (to overexpress ria) or ria sirna (to
+and prkar1a2/2
+silence ria). additionally, prkar1a
+mefs were used. in each cell condition, ria, mtor and
+phosphorylated-mtor levels were assayed by immunoblot-
+ting (fig. 4b and c). in prkar1a2/2 mefs and in cells trans-
+fected with ria sirna,
+in
+phosphorylated-mtor levels in cells with low ria levels
+was observed (fig. 4d). total mtor levels were not different
+in these experimental groups (fig. 4c). this observation
+suggested that ria is involved in the mechanism of mtor
+then measured mtor activity
+phosphorylation. we
+under the earlier-mentioned conditions and found that,
+in
+dramatic
+increase
+prkar1a2/2 mefs and in cells transfected with ria sirna,
+mtor activity was also dramatically increased in cells with
+low ria levels (fig. 4e). we also treated cells with rapamy-
+cin, one of the drugs commonly used to inhibit the mtor
+kinase, and looked at
+the number of autophagosomes,
+mtor phosphorylation and activity, but both hek 293 and
+wild-type mef cells were not responsive to rapamycin (data
+not shown). in cultured cells, therefore, reduced ria level
+(by sirna or in prkar1a2/2 cells) is correlated with (1)
+increased phosphorylation of mtor (2) increased mtor
+activity and (3) reduced autophagic vacuole formation.
+ppnad tissues with prkar1a mutations show increased
+phosphorylated-mtor staining and mtor activity
+to determine whether a similar relationship among ria levels,
+mtor activity and autophagic vacuole formation occurs
+in pigmented nodules of ppnad patients, we performed
+immunohistochemistry (ihc) on these structures using
+anti-phosphorylated-mtor antibodies
+(see materials and
+methods). in normal tissues, as well in tissues from other adre-
+nocortical tumors, in which both wild-type prkar1a alleles
+are present, phospho-mtor staining was not prominent
+(fig. 5a). however, in tissues from four ppnad patients
+(each caused by a different prkar1a-inactivating mutation),
+phospho-mtor staining in the nodules was dramatically
+increased (fig. 5a, car002.02, car025.01, car047.01,
+car555.03). mtor activity was also assayed in micro-
+scopically dissected nodular tissue from the same patients
+and signiﬁcantly increased mtor activity was
+found
+human molecular genetics, 2006, vol. 15, no. 19
+2967
+figure 4. ria and mtor co-immunoprecipitated; phosphorylated-mtor levels and mtor activity were found increased in cells with low ria levels. (a) hek
+293 cells were transfected with ha-ria, and ria was immunoprecipitated with a-ha antibodies. the pellet was then immunoblotted against mtor and ria,
+and mtor was found to co-immunoprecipitate with ria (left panel). inversely, when endogenous mtor was immunoprecipitated in hek 293 cells and the
+pellet immunoblotted against mtor and ria, ria was found to co-immunoprecipitate with mtor (right panel). (b) cells were transfected with pcdna3.1
+(mock), pcdna3.1-ria to overexpress ria or ria sirna to silence ria, and ria levels under all conditions were assayed by immunoblotting. ria levels
+) and prkar1a2/2 mefs. b-actin was used as a protein-loading control. (c) mtor and phosphorylated-mtor
+were also assayed in wild-type ( prkar1a
+levels were measured by immunoblotting in cells with experimentally altered ria levels (b). phosphorylated-mtor levels were assessed using a
+phospho-mtor antibody speciﬁc for ser2448. b-actin was used as a protein-loading control. (d) mtor and phosphorylated-mtor immunoblots shown in
+(c) were quantiﬁed by densitometry and the phospho-mtor/mtor ratio plotted for each condition. there was no signiﬁcant difference in total mtor
+levels but the phospho-mtor/mtor ratio was highest in prkar1a2/2 cells and cells where ria was silenced by rnai, indicating that ria is involved in
+mtor phosphorylation. (e) mtor activity was measured in the absence of any lysate (negative), cells transfected with pcdna3.1 (mock), pcdna3.1-ria
+and ria sirna and wild-type and prkar1a2/2 mefs. mtor activity was highest in prkar1a2/2 mefs and cells where ria was silenced by rnai, as was
+the phospho-mtor/mtor ratio under these conditions, indicating that mtor activity is highly correlated with phosphorylation of mtor at ser2448.
+þ/þ
+compared with the perinodular tissue (fig. 5b). since the
+pigmented nodules in the ppnad patients have reduced
+autophagic activity (assessed by lipofuscin accumulation),
+the data support a role for ria in regulating mammalian
+autophagy through the mtor kinase.
+these ﬁndings provide a basis for explaining the cellular
+phenotype of a primary adrenocortical hyperplasia (ppnad).
+the hallmark of this disorder, lipofuscin accumulation, would
+appear to result from autophagy deﬁciency caused by increased
+mtor phosphorylation and activity in response to ria
+depletion. because dysregulation of mtor activity has been
+implicated in the pathogenesis of several hamartoma syn-
+dromes (30), including those caused by the tuberous sclerosis
+complex, the peutz – jeghers, leopard and the pten-related
+syndromes (cowden disease, proteus syndrome, lhermitte –
+duclos disease), it is possible that ria is involved in alterations
+in mtor signaling in each of these hamartoma syndromes, as
+our study demonstrates for cnc.
+previously,
+the pka signaling system was not directly
+linked to the regulation of mtor or autophagy in mammalian
+cells, although an interaction was speculated on the basis of
+studies on s. cerevisiae showing a regulatory role of pka
+2968
+human molecular genetics, 2006, vol. 15, no. 19
+figure 5. ppnad tissues with mutations in prkar1a show increased phosphorylated-mtor staining and increased mtor activity. (a) phosphorylated-mtor
+ihc (see materials and methods) was performed on adrenal glands from healthy individuals (‘normal’), ppnad patients (car002.02, car025.01, car047.01,
+car555.03) or patients with other adrenocortical tumors (a cortisol-producing adenoma in this case). phosphorylated-mtor staining was dramatically
+increased in ppnad nodules compared with normal tissue or nodules from cortisol-producing adenoma tissue. (b) mtor activity was measured in microscopi-
+cally dissected ppnad nodules (see materials and methods). mtor activity was found to be dramatically increased compared with the perinodular tissue.
+increased mtor activity and increased phosphorylated-mtor levels, together with lipofuscin accumulation and loss-of-heterozygosity at the prkar1a
+locus only in the pigmented nodules, strongly suggested that mtor and ria are indeed involved in a common pathway regulating autophagy.
+signaling in autophagy (30,31). indeed, in a recent proteomics
+study, atg1, atg13 and atg18 (components of the yeast
+autophagic machinery) were identiﬁed as potential pka phos-
+phorylation substrates (32). in a different study, bcy1 (yeast
+homolog of ria)-mutant yeast strains displayed constitutively
+high pka activity and did not tolerate nutrient deprivation due
+to defective autophagy (33). these effects were not mediated
+by increased pka catalytic activity since in bcy1-null cells
+containing a mutated tpk1 gene and deleted of tpk2 and
+tpk3 (tpk1, tpk2 and tpk3 are the catalytic subunits of
+yeast pka), pka activity was not excessively elevated (34).
+however,
+responsive to starvation-
+induced autophagy, indicating bcy1 is important for normal
+autophagy regardless of camp-dependent kinase activity.
+these cells were not
+our study suggests that ria and the mtor kinase are
+mechanistically linked in regulating autophagy, with ria
+deﬁciency decreasing autophagy by the activation of mtor.
+further work is needed to understand how this occurs. one
+possibility relates to the fact that ria has a kinase interaction
+domain that binds to the catalytic subunit of pka. because
+mtor is a serine/threonine kinase (like pka), the interaction
+of ria with mtor may block mtor phosphorylation. in this
+model, ria would be required to maintain phosphorylated
+levels of mtor at low levels, as increased phosphorylation
+of mtor blocks autophagy. another possible model is that
+ria forms a complex with a phosphatase and an mtor.
+this is consistent with current literature supporting a role
+for phosphatases in controlling the phosphorylation status of
+mtor (30). in this scenario, ria would sequester a phospha-
+tase in an ria – mtor – phosphatase complex and thereby
+control mtor phosphorylation.
+materials and methods
+analysis of allelic losses in microdissected
+ppnad tissues
+loh analysis was performed as has been previously described
+(1), using the polymorphic marker gata1e12. the pcr reac-
+tions were performed on lymphocyte dna from the unaf-
+fected father, lymphocyte dna from the affected daughter,
+total
+tumor dna and dna from lcm-obtained ppnad
+nodular tissue. for lcm, histological sections were prepared
+from formalin-ﬁxed parafﬁn-embedded tissue and were
+stained with hematoxylin and eosin for microscopic evalu-
+ation. from these slides, the nodular areas were identiﬁed.
+laser-assisted microdissection of the nodular epithelium was
+performed on the unstained sections using a pixcell ii laser
+capture microdissection system (arcturus engineering, moun-
+tain view, ca, usa), as previously described (35). approxi-
+mately 2000 cells were microdissected from the 5 mm
+histological sections. after microdissection, the cells were
+inserted into an eppendorf tube dewaxed, rehydrated and
+ﬁnally incubated with digestion buffer (50 ml buffer contain-
+ing 0.04% proteinase k, 10 mm tris – hcl ph 8.0, 1 mm
+edta and 1% tween-20) at 378c overnight. the reactions
+were terminated by heating to 958c for 10 min to inactivate
+the proteinase k and used directly for pcr.
+identiﬁcation of lipofuscin in ppnad
+ziehl–neelsen stain for lipofuscin was performed on formalin-
+ﬁxed parafﬁn-embedded ppnad adrenal tumors, as has been
+previously described (3). five micrometer parafﬁn sections
+from ppnad tumors were mounted on adhesive-coated slides.
+after dewaxing with xylenes and rehydration in a graded
+series of ethanol, warm carbol-fuchsin solution was applied to
+the section slides for 5 min at 458c. destaining was done with
+1% concentrated hydrochloric acid in 70% ethanol (vol/vol)
+for 5 min at room temperature. no counterstain was used. the
+glycerol-mounted sections were observed with a nikon opti-
+photo microscope with
+interference-contrast
+(nomarski) optics before and after acid-fast staining.
+differential
+cell cultures
+hela cells were cultured in dulbecco’s modiﬁed eagle’s
+medium supplemented with 10% heat-inactivated fetal
+human molecular genetics, 2006, vol. 15, no. 19
+2969
+þ/þ
+bovine serum, penicillin and streptomycin under 5% co2.
+) primary mefs were isolated from
+wild-type ( prkar1a
+six day-10 mouse embryos of c57bl6xsjl mixed back-
+ground. prkar1a2/2 mef cells were kindly given to us by
+dr l. kirschner (ohio state university, columbus, oh) and
+they have been described elsewhere (36); these cells have
+also been created from mice of the same mixed genetic back-
+ground. hek293 cells were used for immunoblotting and
+immunoprecipitation experiments.
+antibodies and expression constructs
+anti-rabbit
+(1:1000)
+immunoblotting,
+(cat. no. 610610),
+from molecular probes
+the following antibodies were used for immunoﬂuorescence:
+rabbit anti-catalase (1:500)
+from calbiochem (cat. no.
+219010), mouse anti-gm130 (1:50) from transduction lab-
+oratories (cat. no. g65120), sheep anti-tgn46 (1:1000)
+from serotec (cat. no. ahp500), af546-conjugated goat anti-
+mouse (1:1000) from molecular probes, af546-conjugated
+goat
+and
+cy3-conjugated donkey anti-sheep (1:1000) from jackson
+immunoresearch laboratories. for
+an
+anti-ria monoclonal antibody (1:500) was obtained from
+bd transduction laboratories
+an
+anti-mtor polyclonal antibody (1:2000) from abcam (cat.
+no. ab2833-50) and rabbit polyclonal anti-phospho-mtor
+(ser2448) (1:1000) from cell signaling technologies (cat.
+no 2971). the following conjugated antibodies were used
+for immunoprecipitations: agarose-immobilized anti-ha high-
+afﬁnity rat monoclonal antibody (clone 3f10) from roche
+(cat. no. 11815016001) at 50ml/100 mg of protein and
+agarose immobilized rabbit polyclonal anti-mtor (4 mg/
+200 mg of total protein) from abcam (cat. no. ab19207-100).
+for
+ihc, a rabbit mab anti-phospho-mtor (ser2448)
+(49f9) was obtained from cell signaling technologies (cat.
+no. 2976) and used at 1:50 dilution. galt-cfp, p58-cfp
+and cfp-lc3 constructs have been described previously
+(37,38). ecfp-rab7 and egfp-rab9 constructs were a gift
+from s. pfeffer (stanford university school of medicine,
+ca). ecfp and egfp were then replaced by cerulean from
+the pcerulean-c1 plasmid using agei and bsrgi restriction
+sites to generate cerulean-rab7 and cerulean-rab9.
+cloning of ria constructs
+pcdna3.1-ha-ria was prepared by subcloning a hindiii/
+xhoi fragment of the ha-tagged human prkaria cdna
+from prep4-ha-ria (39), which was kindly given to us
+from dr j. bertherat (hospital cochin, paris, france). for
+generation of pcdna3.1-ria,
+the prkar1a orf was
+pcr-ampliﬁed from prep4-ha-ria using primers ﬂanked
+by bamhi and sali sites (aaggatccaccatggagtct
+ggcagtaccg and acagtcgactcagacagacagt
+gacacaaaac). after digestion with bamhi and sali, the
+fragment was ligated in bamhi/xhoi-digested pcdna3.1(2).
+for generation of pegfp-ria and venus-ria, the prkar1
+a orf was pcr-ampliﬁed with primers ﬂanked by xhoi/
+bamhi
+(tatctcgagagtctggcagtaccgcca
+gtggatcctcagacagacagtgacacaaaac).
+and
+after digestion with xhoi and bamhi,
+the fragment was
+sites
+2970
+human molecular genetics, 2006, vol. 15, no. 19
+ligated in frame with xhoi/bamhi-digested pegfp-c1 and
+venus-c1.
+mtor and ria immunoprecipitation
+and immunoblotting
+for ha-ria and endogenous mtor co-immunoprecipitations,
+6  106 hek293t cells growing in 175 cm2 ﬂasks were trans-
+fected with 40 mg of pcdna3.1-ha-ria using lipofectamine
+2000 (invitrogen). forty-eight hours post-transfection,
+the
+cells were collected with cold pbs/edta and lysed with
+2 ml of lysis buffer (25 mm hepes ph 7.5, 150 mm nacl,
+2 mm edta, 0.4% chaps, 10 mm glycerolphosphate,
+25 mm naf, 1 mm sodium orthovanadate and a complete
+protease inhibitor cocktail (roche). after a brief sonication,
+the lysates were clariﬁed by centrifugation at 16 000g for
+20 min. one microgram of total protein was incubated over-
+night with either 100 ml of anti-ha or anti-mtor agarose
+beads. captured immunoprecipitates were washed three
+times with lysis buffer and subjected to western blot analysis
+for ria and mtor.
+for immunoblotting, equivalent amounts of protein were
+separated using sds – page and then transferred to a nitrocel-
+lulose membrane. membranes were blocked with blocking
+buffer (tbst-5% milk) for 1 h, probed with primary anti-
+bodies for 2 h and then incubated with the hrp-conjugated
+secondary antibody for 1 h. antibody binding was detected
+by enhanced chemiluminescence (amersham). density for
+each band was analyzed using a densitometer. equal protein
+loading was conﬁrmed by probing b-actin. values obtained
+for phosphorylated mtor were normalized to total mtor
+density. for immunoprecipitation, 300 mg of lysate proteins
+were immunoprecipitated overnight with the primary antibody
+of interest along with protein a agarose beads in lysis buffer
+and then used for kinase activity assays.
+mtor activity measurement
+kit
+(calbiochem,
+available elisa
+mtor activity in tissues and cells were measured using a
+commercially
+cat#
+cba055) according to instructions by the manufacturer.
+this elisa-based activity assay utilizes a p70s6k-gst
+fusion protein as a speciﬁc mtor substrate. the mtor sub-
+strate is ﬁrst bound to a solid support, and mtor-containing
+sample is incubated with atp in the wells of a glutathione-
+coated 96-well plate where active mtor phosphorylates
+p70s6k at thr389. the phosphorylated substrate is detected
+with anti-p70s6k-t389 antibody,
+followed by detection
+with hrp-antibody conjugate and tmb substrate. transfected
+cells or micro-dissected ppnad tumors were lysed by soni-
+cation in lysis buffer (50 mm tris – hcl ph 7.4, 100 mm
+nacl,
+1%
+tween-20, 1 mm edta, 20 nm microcystin-lr, 25 mm naf
+and a cocktail of protease inhibitors). the lysates were clari-
+ﬁed by centrifugation (16 000g for 20 min) and total protein
+concentration was adjusted to 3 mg/ml with lysis buffer;
+0.5 ml of the lysates were incubated for 2 h at 48c with
+25 ml of anti-mtor agarose beads. the immunoprecipitates
+were washed twice with lysis buffer and twice with kinase
+buffer before incubation with the mtor substrate.
+50 mm b-glycerophosphate,
+10% glycerol,
+ihc and immunoﬂuorescence
+ihc for phospho-mtor on parafﬁn-embedded ppnad
+tumors, normal adrenal and cortisol-producing adenomas
+was performed as previously described (40) using the citrate
+antigen retrieval method and tbst/bsa (50 mm tris ph
+7.5, 137 mm nacl, 0.1% tween-20, 1% igg-free bsa) as
+the blocking and antibody diluent buffer.
+for immunoﬂuorescence, hela cells were grown on cover-
+slips and ﬁxed in 4% formalin (15 min), followed by blocking
+in 0.1% saponin, 1% bsa-pbs (10 min) and sequential incu-
+bations with the primary and secondary antibodies. wash steps
+before and after antibody incubations were performed using
+0.1% saponin and 1% bsa-pbs. cells were washed in pbs
+and mounted on slides with fluoromount-g (southern
+biotechnology associates, birmingham, al) in preparation
+for microscopy. mitochondria were visualized by staining
+with mitotracker deep red 633 (molecular probes) at a
+ﬁnal concentration of 300 nm.
+fluorescence microscopy and photobleaching
+tm
+of
+the
+interest,
+plasmids
+for colocalization studies, cells were seeded overnight
+in
+lab-tektm chambers (nalge nunc, rochester, ny) and
+cotransfected with
+using
+2000 (invitrogen). confocal microscope
+lipofectamine
+images of cells 15 – 24 h post-transfection were captured on
+a zeiss 510 or zeiss confocor-2 inverted microscope using
+the 413 nm line of a kr laser with a 430 – 470 emission ﬁlter
+for cerulean/gfp, the 488 nm line of an ar laser with a
+505 – 530 emission ﬁlter for egfp, a 543 nm hene laser
+line with a 560-615 emission ﬁlter for cy3/af546 and a
+633 nm hene laser line with a long-pass 650 emission ﬁlter
+for mitotracker deep red 633. images were captured with
+a plan-apochromatw 1.4 na 63 oil immersion objective.
+cells expressing both proteins were selected for z-sectioning.
+z stacks were taken using a pinhole of 1 airy unit for both
+channels.
+images were analyzed with imagej and zeiss
+image examiner software and prepared by adobe photoshop
+7.0. frap was performed by photobleaching a small region
+of interest (roi) and monitoring ﬂuorescence recovery over
+time, as described previously (20,41).
+conﬂict of interest statement. none declared.
+references
+1. kirschner, l.s., carney, j.a., pack, s.d., taymans, s.e., giatzakis, c.,
+cho, y.s., cho-chung, y.s. and stratakis, c.a. (2000) mutations of the
+gene encoding the protein kinase a type i-alpha regulatory subunit in
+patients with the carney complex. nat. genet., 26, 89 – 92.
+2. stratakis, c.a. (2002) mutations of the gene encoding the protein kinase
+a type i-alpha regulatory subunit (prkar1a) in patients with the
+‘complex of spotty skin pigmentation, myxomas, endocrine overactivity,
+and schwannomas’ (carney complex). ann. n.y. acad. sci., 968, 3 – 21.
+3. shenoy, b.v., carpenter, p.c. and carney, j.a. (1984) bilateral primary
+pigmented nodular adrenocortical disease. rare cause of the cushing
+syndrome. am. j. surg. pathol., 8, 335 – 344.
+4. carney, j.a. and ferreiro, j.a. (1996) the epithelioid blue nevus. a
+multicentric familial tumor with important associations, including cardiac
+myxoma and psammomatous melanotic schwannoma. am. j. surg.
+pathol., 20, 259 – 272.
+human molecular genetics, 2006, vol. 15, no. 19
+2971
+5. horikoshi, t., jimbow, k. and sugiyama, s. (1982) comparison of
+macromelanosomes and autophagic giant melanosome complexes in
+nevocellular nevi, lentigo simplex and malignant melanoma. j. cutan.
+pathol., 9, 329 – 339.
+6. jimbow, k. and horikoshi, t. (1982) the nature and signiﬁcance of
+macromelanosomes in pigmented skin lesions: their morphological
+characteristics, speciﬁcity for their occurrence, and possible mechanisms
+for their formation. am. j. dermatopathol., 4, 413 – 420.
+7. stroikin, y., dalen, h., loof, s. and terman, a. (2004) inhibition of
+autophagy with 3-methyladenine results in impaired turnover of
+lysosomes and accumulation of lipofuscin-like material. eur. j. cell biol.,
+83, 583 – 590.
+8. brunk, u.t. and terman, a. (2002) lipofuscin: mechanisms of
+age-related accumulation and inﬂuence on cell function. free radic. biol.
+med., 33, 611 – 619.
+9. baba, m., takeshige, k., baba, n. and ohsumi, y. (1994) ultrastructural
+analysis of the autophagic process in yeast: detection of autophagosomes
+and their characterization. j. cell biol., 124, 903 – 913.
+10. levine, b. and klionsky, d.j. (2004) development by self-digestion:
+molecular mechanisms and biological functions of autophagy. dev. cell,
+6, 463 – 477.
+11. noda, t. and ohsumi, y. (1998) tor, a phosphatidylinositol kinase
+homologue, controls autophagy in yeast. j. biol. chem., 273, 3963 – 3966.
+12. kim, j., huang, w.p., stromhaug, p.e. and klionsky, d.j. (2002)
+convergence of multiple autophagy and cytoplasm to vacuole targeting
+components to a perivacuolar membrane compartment prior to de novo
+vesicle formation. j. biol. chem., 277, 763 – 773.
+13. suzuki, k., kirisako, t., kamada, y., mizushima, n., noda, t. and
+ohsumi, y. (2001) the pre-autophagosomal structure organized by
+concerted functions of apg genes is essential for autophagosome
+formation. embo j., 20, 5971– 5981.
+14. abeliovich, h., dunn, w.a., jr, kim, j. and klionsky, d.j. (2000)
+dissection of autophagosome biogenesis into distinct nucleation and
+expansion steps. j. cell biol., 151, 1025– 1034.
+15. wullschleger, s., loewith, r. and hall, m.n. (2006) tor signaling in
+growth and metabolism. cell, 124, 471 – 484.
+16. cohen, p. (2002) the origins of protein phosphorylation. nat. cell biol.,
+4, e127 – e130.
+17. reimann, e.m., brostrom, c.o., corbin, j.d., king, c.a. and krebs, e.g.
+(1971) separation of regulatory and catalytic subunits of the cyclic
+3’,5’-adenosine monophosphate-dependent protein kinase(s) of rabbit
+skeletal muscle. biochem. biophys. res. commun., 42, 187 – 194.
+18. foss, k.b., landmark, b., skalhegg, b.s., tasken, k., jellum, e.,
+hansson, v. and jahnsen, t. (1994) characterization of in vitro-translated
+human regulatory and catalytic subunits of camp-dependent protein
+kinases. eur. j. biochem., 220, 217 – 223.
+19. bossis, i., voutetakis, a., matyakhina, l., pack, s., abu-asab, m.,
+bourdeau, i., grifﬁn, k.j., courcoutsakis, n., stergiopoulos, s., batista, d.
+et al. (2004) a pleiomorphic gh pituitary adenoma from a carney
+complex patient displays universal allelic loss at the protein kinase a
+regulatory subunit 1a (prkaria) locus. j. med. genet., 41, 596 – 600.
+20. lippincott-schwartz, j. and patterson, g.h. (2003) development and use
+of ﬂuorescent protein markers in living cells. science, 300, 87 – 91.
+21. nigg, e.a., schafer, g., hilz, h. and eppenberger, h.m. (1985)
+cyclic-amp-dependent protein kinase type ii is associated with the golgi
+complex and with centrosomes. cell, 41, 1039– 1051.
+22. rink, j., ghigo, e., kalaidzidis, y. and zerial, m. (2005) rab conversion
+as a mechanism of progression from early to late endosomes. cell, 122,
+735 – 749.
+23. soldati, t., rancano, c., geissler, h. and pfeffer, s.r. (1995) rab7 and
+rab9 are recruited onto late endosomes by biochemically distinguishable
+processes. j. biol. chem., 270, 25541 – 25548.
+24. bucci, c., thomsen, p., nicoziani, p., mccarthy, j. and van deurs, b.
+(2000) rab7: a key to lysosome biogenesis. mol. biol. cell, 11, 467 – 480.
+25. jager, s., bucci, c., tanida, i., ueno, t., kominami, e., saftig, p. and
+eskelinen, e.l. (2004) role for rab7 in maturation of late autophagic
+vacuoles. j. cell sci., 117, 4837– 4848.
+26. gutierrez, m.g., munafo, d.b., beron, w. and colombo, m.i. (2004)
+rab7 is required for the normal progression of the autophagic pathway in
+mammalian cells. j. cell sci., 117, 2687– 2697.
+27. eskelinen, l. (2005) maturation of autophagic vacuoles in mammalian
+cells. autophagy, 1, 1 – 10.
+28. kabeya, y., mizushima, n., ueno, t., yamamoto, a., kirisako, t.,
+noda, t., kominami, e., ohsumi, y. and yoshimori, t. (2000) lc3, a
+mammalian homologue of yeast apg8p, is localized in autophagosome
+membranes after processing. embo j., 19, 5720– 5728.
+29. bampton, e.t.w., goemans, c.g., niranjan, d., mizushima, n. and
+tolkovsky, a.m. (2005) the dynamics of autophagy visualized in live
+cells. autophagy, 1, 23 – 36.
+30. inoki, k., corradetti, m.n. and guan, k.l. (2005) dysregulation of the
+tsc-mtor pathway in human disease. nat. genet., 37, 19 – 24.
+31. bauer, a.j. and stratakis, c.a. (2005) the lentiginoses: cutaneous
+markers of systemic disease and a window to new aspects of
+tumourigenesis. j. med. genet., 42, 801 – 810.
+32. budovskaya, y.v., stephan, j.s., deminoff, s.j. and herman, p.k. (2005)
+an evolutionary proteomics approach identiﬁes substrates of the
+camp-dependent protein kinase. proc. natl acad. sci. usa, 102,
+13933– 13938.
+33. giaever, g., chu, a.m., ni, l., connelly, c., riles, l., veronneau, s.,
+dow, s., lucau-danila, a., anderson, k., andre, b. et al. (2002)
+functional proﬁling of the saccharomyces cerevisiae genome. nature,
+418, 387 – 391.
+34. schmelzle, t., beck, t., martin, d.e. and hall, m.n. (2004) activation
+of the ras/cyclic amp pathway suppresses a tor deﬁciency in yeast.
+mol. cell biol., 24, 338 – 351.
+35. bonner, r.f., emmert-buck, m., cole, k., pohida, t., chuaqui, r.,
+goldstein, s. and liotta, l.a. (1997) laser capture microdissection:
+molecular analysis of tissue. science, 278, 1481– 1483.
+36. nadella, k.s. and kirschner, l.s. (2005) disruption of protein kinase a
+regulation causes immortalization and dysregulation of d-type cyclins.
+cancer res., 65, 10307– 10315.
+37. lorenz, h., hailey, d.w. and lippincott-schwartz, j. (2006) fluorescence
+protease protection of gfp chimeras to reveal protein topology and
+subcellular localization. nat. methods, 3, 205 – 210.
+38. ward, t.h., polishchuk, r.s., caplan, s., hirschberg, k. and
+lippincott-schwartz, j. (2001) maintenance of golgi structure and
+function depends on the integrity of er export. j. cell biol., 155,
+557 – 570.
+39. groussin, l., kirschner, l.s., vincent-dejean, c., perlemoine, k.,
+jullian, e., delemer, b., zacharieva, s., pignatelli, d., carney, j.a.,
+luton, j.p. et al. (2002) molecular analysis of the cyclic amp-dependent
+protein kinase a (pka) regulatory subunit 1a (prkar1a) gene in
+patients with carney complex and primary pigmented nodular
+adrenocortical disease (ppnad) reveals novel mutations and clues for
+pathophysiology: augmented pka signaling is associated with adrenal
+tumorigenesis in ppnad. am. j. hum. genet., 71, 1433– 1442.
+40. stratakis, c.a., carney, j.a., kirschner, l.s., willenberg, h.s.,
+brauer, s., ehrhart-bornstein, m. and bornstein, s.r. (1999)
+synaptophysin immunoreactivity in primary pigmented nodular
+adrenocortical disease: neuroendocrine properties of tumors associated
+with carney complex. j. clin. endocrinol. metab., 84, 1122– 1128.
+41. snapp, e.l., altan, n. and lippincott-schwartz, j. (2003) measuring
+protein mobility by photobleaching gfp-chimeras in living cells.
+bonifacino, j., dasso, m., harford, j., lippincott-schwartz, j. and
+yamada, k. (eds), current protocols in cell biology, john wiley & sons,
+new york.

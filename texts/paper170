@@ -1,0 +1,718 @@
+toxicological sciences 97(2), 448–458 (2007)
+doi:10.1093/toxsci/kfm040
+advance access publication march 6, 2007
+inhibition of paraquat-induced autophagy accelerates the apoptotic
+cell death in neuroblastoma sh-sy5y cells
+rosa a. gonza´lez-polo,*,1 mireia niso-santano,* miguel a. ortı´z-ortı´z,* ana go´mez-martı´n,* jose´ m. mora´n,*
+lourdes garcı´a-rubio,† javier francisco-morcillo,‡ concepcio´n zaragoza,§ germa´n soler,* and jose´ m. fuentes*
+*ciber de enfermedades neurodegenerativas, departamento de bioquı´mica y biologı´a molecular y gene´tica, e.u. enfermerı´a y t.o., universidad de
+extremadura, avda. universidad s/n 10071 ca´ceres, spain; †departamento de quı´mica orga´nica, ‡departamento de biologı´a celular, §departamento
+de medicina y sanidad animal, facultad de veterinaria, universidad de extremadura, ca´ceres, spain
+received january 12, 2007; accepted february 27, 2007
+autophagy is a degradative mechanism involved in the recy-
+cling and turnover of cytoplasmic constituents from eukaryotic
+cells. this phenomenon of autophagy has been observed in
+neurons from patients with parkinson’s disease (pd), suggesting
+a functional role for autophagy in neuronal cell death. on the
+other hand, it has been demonstrated that exposure to pesticides
+can be a risk factor in the incidence of pd. in this sense, paraquat
+(pq) (1,1#-dimethyl-4,4#-bipyridinium dichloride), a widely used
+herbicide that is structurally similar to the known dopaminergic
+neurotoxicant mpp+ (1-methyl-4-phenyl-pyridine), has been sug-
+gested as a potential etiologic factor for the development of pd.
+the current study shows, for the ﬁrst time, that low concen-
+trations of pq induce several characteristics of autophagy in
+human neuroblastoma sh-sy5y cells. in this way, pq induced
+the accumulation of autophagic vacuoles (avs) in the cytoplasm
+and the recruitment of a lc3-gfp fusion protein to avs.
+furthermore, the cells treated with pq showed an increase of
+the long-lived protein degradation which is blocked in the
+presence of the autophagy inhibitor 3-methyladenine and regu-
+lated by the mammalian target of rapamycin (mtor) signaling.
+finally, the cells succumbed to cell death with hallmarks of
+apoptosis such as phosphatidylserine exposure, caspase activation,
+and chromatin condensation. while caspase inhibition retarded
+cell death, autophagy inhibition accelerated the apoptotic cell
+death induced by pq. altogether, these ﬁndings show the re-
+lationship between autophagy and apoptotic cell death in human
+neuroblastoma cells treated with pq.
+key words: paraquat; vacuoles; apoptosis; parkinson.
+autophagy is an intracellular lysosome-mediated catabolic
+mechanism that is responsible for the bulk degradation and
+recycling of damaged or dysfunctional cytoplasmic compo-
+nents and intracellular organelles (klionsky et al., 2000).
+autophagy is a cellular response to both extracellular (nutrient
+deprivation or hypoxia) and intracellular (accumulation of
+1 to whom correspondence should be addressed. fax: þ34-927-257-451.
+e-mail: rosapolo@unex.es.
+damaged organelles and cytoplasmic components) stress con-
+ditions. autophagy, being an evolutionarily ancient cellular
+response to intra- and extracellular noxious stimuli, may
+precede or coexist with apoptosis, and it may be induced by
+apoptotic stimuli (xue et al., 1999). thus, autophagy and
+apoptosis may be interconnected (bursch et al., 2000). cellular
+autophagy is a physiological degradative process involved, like
+apoptosis,
+in embryonic growth and development, cellular
+remodeling, and the biogenesis of some subcellular organelles
+(filonova et al., 2000; hariri et al., 2000; sattler and mayer,
+2000). autophagic cell death involves accumulation of auto-
+phagic vacuoles (avs) in the cytoplasm of dying cells as well
+as mitochondria dilation and enlargement of the endoplasmic
+reticulum and the golgi apparatus. autophagic cell death has
+been described during the normal nervous system development
+(schweichel et al., 1973) and could be a consequence of
+a pathological process such as those associated with neurode-
+generative diseases (petersen et al., 2001). of note, autophagy
+is highly enhanced in brain amyloidoses (graeber et al., 2002),
+alzheimer disease (stadelmann et al., 1999), huntington’s
+disease (landles et al., 2004), and parkinson’s disease (pd)
+(anglade et al., 1997).
+pd is a chronic progressive neurodegenerative disease,
+affecting at least 1% of the population over the age of 55.
+genetic forms of the disease represent less than 5% of current
+cases, but the causes of the vast majority of sporadic cases of
+pd are still unknown. accumulating evidence strongly points
+to environmental toxins as feasible triggers of neurodegenera-
+tion of nigrostriatal dopaminergic neurons, and the common
+use of pesticides in rural life has been correlated to parkinson-
+ism in humans (di monte et al., 2000). in this sense, the
+herbicide 1,1#-dimethyl-4,4#-bipyridinium dichloride (paraquat
+[pq]), widely used as a cationic nonselective bipyridyl
+herbicide to control weeds and grasses in many agricultural
+areas, has emerged as a putative risk factor on the basis of its
+structural homology to 1-methyl-4-phenyl-pyridine (mpp
+),
+the active metabolite of 1-methyl-4-phenyl-1,2,3,6 tetrahydro-
+pyridine, a neurotoxicant that induces parkinson’s-like features
+ó the author 2007. published by oxford university press on behalf of the society of toxicology. all rights reserved.
+for permissions, please email: journals.permissions@oxfordjournals.org
+paraquat induces autophagy
+449
+in rodents, nonhuman primates, and humans (langston and
+ballard, 1984; tanner and ben shlomo, 1999).
+occupational pq exposures have been associated with
+parkinsonism (hertzman et al., 1990; liou et al., 1997), although
+the mechanism of pq toxicity is yet poorly understood. several
+studies have suggested the involvement of reactive oxygen
+species (ros) in its effect (gonzalez-polo et al., 2004; mollace
+et al., 2003). our group has demonstrated that free radicals play
+an active role in the pq-induced apoptotic events that culminate
+with cell death (gonzalez-polo et al., 2004).
+here, we show for the ﬁrst time that low concentrations of
+pq induce several characteristics of autophagy in human
+neuroblastoma sh-sy5y cells, which are commonly selected
+as a cellular pd model (lai et al., 1997; lee et al., 2000;
+shavali et al., 2004). finally, the cells succumbed to cell death
+with hallmarks of apoptosis. thus, we investigated the re-
+lationship between autophagy and apoptosis in neurons treated
+with pq to propose a new and exciting strategy to the
+knowledge of the pd mechanism and its possible treatment.
+materials and methods
+cell line and culture condition. human neuroblastoma sh-sy5y cells
+were grown in dulbecco’s modiﬁed eagle medium (gibco brl, paisley, u.k.)
+containing 100 u/ml penicillin, 100 lg/ml streptomycin, and 10% fetal bovine
+serum (hyclone, brevieres, france). cells were seeded at 5 3 105 in a 75-cm2
+tissue culture ﬂask (tpp, trasadingen, switzerland) and incubated at 37°c
+under a saturating humidity atmosphere of 5% co2/95% air.
+reagents and cell death induction. conﬂuent cells (~80%) in 75-cm2
+tissue culture ﬂasks were trypsinized and seeded in tissue culture dishes at
+a concentration of 5 3 104 cells/cm2. twenty-four hours later, the medium was
+aspirated and replaced with fresh medium alone or containing the indicated
+concentrations of pq (niso-santano et al., 2006). serum and amino acid
+starvation of cells were performed using serum-free earle’s balanced salt
+solution medium (sigma, st louis, mo) (boya et al., 2005). for caspase
+inhibiton, a sublethal dose of n-benzyloxycarbonyl-val-ala-asp ﬂuorome-
+thylketone (z-vad-fmk, 50lm, bachem ag, bubendorf, switzerland) was
+added 1 h before pq. the antioxidants n-acetylcysteine (nac 1mm), vitamin e
+(100lm), glutathione (1mm), and the inihibitor of autophagy, 3-methyladenine
+(3-ma, 10mm), were added before the addition of pq.
+flow cytometry. to determine apoptosis-associated changes by cytoﬂuor-
+ometry, we used 3,3#-dihexyloxacarbocyanine iodide (dioc6(3), 40nm) for the
+mitochondrial transmembrane potential quantiﬁcation, propidium iodide (pi,
+1 lg/ml) for the determination of cell viability (boya et al., 2003; gonzalez-polo
+et al., 2005a), and annexin-v labeled with ﬂuorescein isothiocyanate (all of
+them from molecular probes, eugene, or) for the assessment of phosphati-
+dylserine exposure. for the determination of superoxide anion generation,
+hydroethidine (he, 10lm) was used. after different experimental conditions,
+cells were trypsinized and labeled with the ﬂuorochromes at 37°c, followed by
+cytoﬂurometric analysis with a facs scan (becton dickinson, frankin lakes,
+nj) (gonzalez-polo et al., 2005a,b).
+immunoﬂuorescence and light microscopy. cells were cultured on
+coverslips. after the experimental conditions, the cells were stained with
+cmfda (5-chloromethylﬂuorescein diacetate, 1lm) (molecular probes) for
+30 min at 37°c to visualize the vacuoles. cells were ﬁxed with para-
+formaldehyde (4% wt:vol) for cmfda staining and immunoﬂuorescence
+assays (gonzalez-polo et al., 2005a,2005b). cells were stained for the detection
+of activated caspase-3 with a polyclonal antibody from cell signaling
+technology, inc. (danvers, ma) developed with an anti-rabbit immunoglobulin
+alexa ﬂuor conjugate (molecular probes) and counter-stained with hoechst
+33342, 2lm (ho) (sigma) before mounting. fluorescence microscopy was
+analyzed with an olympus ix51 equipped with a dc300f camera.
+treatments,
+western blot analysis. following experimental
+the cells
+(cultured in 60 mm dishes) were rinsed twice with cold phosphate-buffered
+saline (pbs) and removed by scrapping and then centrifuged at 900 3 g for 5 min
+at 4°c. cells were lysed in a buffer containing 50mm n-2-hydroxyethyl-
+piperazine-n#-2-ethanesulfonic acid ph 7.5, 100mm nacl, 1% triton x-100,
+10% glycerol, 1mm ethyleneglycol-bis(aminoethylether)-tetraacetic acid, 5mm
+mgcl2, 25mm naf, and protease inhibitor cocktail (sigma). cells were
+centrifuged at 13,000 3 g 5 min at 4°c. supernatants were stored at ÿ 80°c
+until analysis by western blot. protein concentration was measured according to
+bradford (1976) using bovine serum albumin (bsa) as standard. equal amounts
+of proteins (20 lg/condition) were resolved in 12–15% sodium dodecyl sulfate
+gel electrophoresis and transferred to polyvinylidene diﬂuoride (pvdf)
+membranes according to conventional partially modiﬁed methods (fuentes
+et al., 2000). brieﬂy, proteins were transferred (250 ma for 60 min) to pvdf
+membranes using mini trans-blot cell apparatus (bio-rad, hercules, ca). the
+procedure for immunodetection includes the transfer and blocking of the
+membrane (60 min at room temperature) with tween–tris-buffered saline
+(ttbs) (10mm tris/hcl ph 7.5, 150mm nacl, and 0.2% tween-20) containing
+10% nonfat-dried milk. membranes were then incubated overnight at 4°c with
+primary antibodies, p-mtorser2448, and cleaved caspase-3 from cell signal-
+ling (beverly, ma) and anti-lc3 from mbl medical and biological labora-
+tories co., ltd (nagoya, japan), all of them diluted 1:1000 in ttbs þ 10%
+nonfat-dried milk or 5% bsa. after washing (for two 5-min periods with ttbs),
+membranes were incubated (60 min at room temperature) with peroxidase-
+conjugated secondary antibodies (1:5000 in ttbs with 10% nonfat-dried milk).
+after washing (for two 5-min periods and one 10-min period), the detection of
+bound antibodies was visualized by chemiluminiscence using the ecl-plus
+reagent (ge healthcare, buckinghamshire, uk). actin content was analyzed as
+a control by means of a rabbit polyclonal antibody (from sigma).
+analysis of protein degradation. human neuroblastoma sh-sy5y cells
+were incubated with 0.2 mci/ml. l-[14c]valine (ge healthcare) in complete
+medium (cm) for 24 h at 37°c. unincorporated radioisotope was removed by
+washing the cells three times with pbs (ph 7.4). cells were then incubated in
+earle’s balanced salt solution buffer plus 0.1% bsa (nutrient-free [nf]
+medium) in the presence of 10mm cold valine, for 1 h (prechase period).
+after this time, the medium was replaced by the appropriate fresh medium (nf
+or cm) plus cold valine 10mm in the presence or absence of 10mm 3-ma and
+10lm pq for 4 h (chase period). cells and radiolabeled proteins from the
+medium were precipitated in trichloroacetic acid at the ﬁnal concentration of
+10% (vol/vol). the precipitated proteins were separated from the soluble
+radioactivity by centrifugation at 600 3 g for 20 min and then dissolved in 1 ml
+of 0.2 n naoh. the rate of protein degradation was calculated by determining
+the ratio of acid-soluble radioactivity recovered from both cells and medium to
+the ratio of radioactivity in trichloroacetic acid-precipitated proteins obtained
+from both cells and medium (pattingre et al., 2003).
+electron microscopy. scraped cells were spinned and immersed in
+a mixture of 2% glutaraldehyde and 2% paraformaldehyde in phosphate buffer
+(ph 7.4) for 1 h at 4°c. pellets were then rinsed in phosphate buffer, postﬁxed in
+1% osmium tetroxide for 90 min, rinsed, dehydrated in a graded series of
+acetone, and embedded in araldite resin. ultrathin 90-nm–thick sections were
+obtained using a leica reichert ultracut ultramicrotome equipped with a glass
+knife. sections were mounted on copper grids, stained with uranyl acetate and
+lead citrate, examined, and photographed with a jeol jem-100 cx ii
+transmission electron microscope.
+transient transfections. sh-sy5y cells were transiently transfected with
+the fugene procedure, with 1–2 lg dna per 35-mm plate, according to the
+manufacturer’s protocol (roche diagnostics, gmbh, mannheim, germany) to
+label avs with lc3-gfp plasmid (kabeya et al., 2000).
+450
+gonza´ lez-polo et al.
+statistical analysis. data are representative of at least three independent
+experiments each in triplicate determination. statistical analysis of the data was
+performed using one-way anova. signiﬁcance (*) was deﬁned at p < 0.05.
+results
+pq induces apoptotic death in neuroblastoma cells
+as previously described (chun et al., 2001; gonzalez-polo
+et al., 2004; niso-santano et al., 2006), several cell lines,
+including human neuroblastoma sh-sy5y cells, are sensitive
+to the pq induced toxicity. we investigated, for the ﬁrst time,
+the cell death type in neuroblastoma cells exposed to the
+bipiridinic pesticide pq. as we show in figure 1, the pq
+treatment caused phosphatidylserine exposure on the outer
+leaﬂet of the plasma membrane, which can manifest before
+plasma membrane permeabilization. this phenomenon was
+increased in combination with pq and starvation conditions.
+the cells treated with 10–25lm of pq exhibited a range of
+25–50% loss of cell viability in cm and nf medium. in parallel
+fig. 1. pq-mediated sensitization of sh-sy5y cells to starvation-induced cell death. the human neuroblastoma sh-sy5y cells were cultured in the
+indicated conditions (cm, nf), in the absence (co) or in the presence of the indicated doses of pq for 24 h, followed by simultaneous staining of the
+phosphatidylserine exposure with annexin-v ﬂuorescein isothiocyanate (fitc) and viability with pi. quantitative data (error bars are se n ¼ 3) are shown in (a),
+and representative facs diagrams are shown in (b).
+paraquat induces autophagy
+451
+experiments, we analyzed the involvement of caspases in the
+apoptotic death induced by 10lm of pq (fig. 2). the maximum
+level of caspase-3 activation was evident after 24 h of pq
+incubation, shown by western blot detection of a 17-kda
+fragment (active form) and caspase-3 total, both in cm (fig. 2a)
+and nf medium (fig. 2b). morphological analysis of cells
+subjected to the combined treatment of pq 10lm and starvation
+indicate a typical apoptotic chromatin condensation (as detect-
+able with the nuclear stain hoechst 33342) associated with
+caspase-3 activation (figs. 2c and 2d). therefore, we won-
+dered whether inhibition of caspases with the broad-spectrum
+caspase inhibitor z-vad-fmk would prevent cell death in this
+model. as shown in figure 2e, z-vad-fmk retarded cell death
+of pq-treated, sh-sy5y cells, both in cm and nf medium.
+pq induces reactive oxygen species production in sh-sy5y
+neuroblastoma cells
+the mechanism of action of pq is as yet poorly understood.
+however, it is well known that pq acts as a reactive oxygen
+species (ros) producer (bus et al., 1984; suntres 2002). these
+ros interact with unsaturated lipids of membranes (lipid
+fig. 2.
+involvement of caspases in pq-induced apoptosis in sh-sy5y cells. caspase-3 activation induced by pq, (a–c). (a, b) activation of caspase-3 was
+determined by western blot as indicated in ‘‘materials and methods’’ section. actin expression was determined as a loading control. cells were incubated in cm
+(a) or nf medium (b) at the times indicated with 10lm of pq. blots are representative of at least three independent experiments. (c, d) sh-sy5y cells cultured in
+poly-l-lysine–treated coverslips were incubated in the absence (co) or in the presence of pq (10lm) in the indicated medium for 24 h. cells were ﬁxed and
+immunostained for the detection of active caspase-3 (green ﬂuorescence) and nuclear chromatin condensation (hoechst 33324, blue ﬂuorescence). representative
+microphotographs are depicted in (c), and the frequency of the measured changes is analyzed in (d) (* p <0.05 compared with control). (e) effect of the caspase
+inhibitor z-vad-fmk on cell killing. cells were cultured in the absence or presence of nutrients, pq 10lm and/or z-vad-fmk 50lm for 24 h, and the frequency of
+cells with high annexin-v ﬂuorescein isothiocyanate (fitc) or pi incorporation was determined as in figure 1a (*p < 0.05 compared with pq treatment without
+z-vad-fmk).
+452
+gonza´ lez-polo et al.
+peroxidation) and destroy organelles subsequently leading to
+cell death (dodge, 1971). in this sense, several studies have
+suggested the involvement of ros in the toxicity induced by
+pq, including studies in vitro in several cell lines as in human
+lung epithelial cells (cappelletti et al., 1998) or in cerebellar
+granule cells (bus et al., 1984; gonzalez-polo et al., 2004),
+as well as studies in vivo (mollace et al., 2003). in our study, we
+showed that exposure to low concentrations of pq (10lm) for
+24 h caused an increase of intracellular levels of ros in human
+neuroblastoma sh-sy5y cells (as measured by the oxidation
+of the nonﬂuorescent dye he into its ﬂuorescent product
+ethidium [eth]) (fig. 3). this production was enhanced when
+the cells were treated with a combination of nutrient depletion
+conditions and pq. the ros generation was abolished in
+the presence of several antioxidants as n-acetylcysteine as well
+as the ros scavenger vitamin e (a-tocopherol) (data not
+shown).
+the treatment of sh-sy5y neuroblastoma cells with
+low concentrations of pq produces characteristics
+of autophagy
+it has been described that autophagy is a cellular response to
+extracellular (nutrient deprivation, hypoxia) and intracellular
+stress conditions (accumulation of damaged organelles and
+cytoplasmic components). this phenomenon is characterized
+morphologically by the accumulation of avs in the cytoplasm.
+fig. 3. pq-induced formation of superoxide. sh-sy5y cells were
+incubated in the indicated medium, cm or nf, in the absence (co) or in the
+presence of pq (10lm) for 24 h followed by quantitation of the frequency of
+cells that exhibit oxidation of he into the ﬂuorescent eth. all results are
+representative of at least three independent determinations. numbers in facs
+diagrams refer to the percentage of cells that exhibit oxidation of he into the
+ﬂuorescent eth.
+we have tested in our model that, in nf medium, that is, in the
+absence of serum and amino acids, as well as in cm, control
+cells did not develop any discernible vacuoles, while cells
+treated with pq 10lm exhibited an increase in cytoplasmic
+vacuolization visible as ‘‘holes’’ in cmfda-stained cells of
+a time-dependent way (figs. 4a and 4b). moreover, these
+vacuoles induced in the presence of pq showed, clearly, the
+characteristic double membranes of avs as visible by trans-
+mission electron microscopy (fig. 4c). figures 4a and 4c
+show images in cm conditions. microphotographs in nf
+conditions are equivalents (data not shown).
+similarly, after treatment of serum and amino acid starva-
+tion, 10lm of pq induced the recruitment of a lc3-gfp fusion
+protein to av in discrete foci (kabeya et al., 2000; mizushima
+2004) (figs. 5a and 5b). in agreement with the microscopic
+observations, we detected by western blotting the accumula-
+tion of the autophagosome marker lc3-ii (boya et al., 2005;
+kabeya et al., 2000) both in cm (fig. 5c) and under the
+conditions of starvation (data not shown) in sh-sy5y treated
+with pq 10lm. furthermore, as compared to the prototypic
+autophagy inhibitor 3-ma, pq (10lm) induced the autophagy
+(as determined by quantifying the turnover of proteins in
+starved cells) as shown in figure 6a. in this sense, exposure of
+human neuroblastoma cells with 10lm of pq produced
+a marked decrease in the phosphorylation (ser2448) status of
+mtor (figs. 6b and 6c), protein involved in the autophagy
+signaling, with a maximal effect after 30 min of herbicide
+exposure in cm (fig. 6b). in starved cells incubated with pq,
+the activation of phosphorylated mtor was invaluable to all
+the tested times (fig. 6c).
+the inhibition of pq-induced autophagy accelerates
+the apoptotic cell death in sh-sy5y cells
+we investigated the possible connection between the accu-
+mulation of autophagic phenomenon and the apoptotic cell
+death induced by pq in sh-sy5y cells. the morphological
+analysis (figure 7a) showed that the prototypic autophagy
+inhibitor 3-ma inhibited the pq-induced autophagic vacuoli-
+zation as well as protein degradation, already previously
+mentioned in figure 6a. moreover, cytoﬂuorometric quantiﬁ-
+cation revealed that a signiﬁcant fraction of cells treated with
+3-ma and/or pq lost the capacity to retain the dye dioc6(3)
+and hence dissipated the mitochondrial transmembrane poten-
+tial (dwm). among this dwm low population, a fraction of cells
+incorporated the vital dye pi and thus lost the barrier function
+of their plasma membrane (fig. 7b). this event was more
+evident in combination of 3-ma and the herbicide pq. in the
+same way, the caspase-3 activation, as measured by western
+blot detection of 17-kda fragment (fig. 7c), was more
+increased with pq and 3-ma together that each one separately.
+therefore, the combination of these results clearly suggests
+that the inhibition of pq-induced autophagy accelerates the
+apoptotic cell death in sh-sy5y cells.
+paraquat induces autophagy
+453
+fig. 4. pq induces accumulation of avs. (a, b) sh-sy5y cells were cultured in cm or nf in the presence of pq 10lm the times indicated. the presence of
+cytoplasmic vacuoles was determined by staining with cfmda as indicated in ‘‘materials and methods’’ section. cytoplasmic vacuoles are visualized as holes.
+representative microphotographs in cm are depicted in (a), and the percentage of vacuolated cell area is analyzed in (b) (error bars are se n ¼ 3).
+(c) ultrastructure of pq-treated sh-sy5y cells. the cells were treated as in (a). electron microscopy of representative cells are shown.
+discussion
+several studies have shown the possibility that environmen-
+tal neurotoxicants such as pesticides may be related to the
+development of nongenetic pd (cory-slechta et al., 2005;
+landrigan et al., 2005; norris et al., 2004; ritz et al., 2000;
+sherer et al., 2001). pq is one of the possible pesticides
+involved in pd genesis because of the similar chemical
+454
+gonza´ lez-polo et al.
+fig. 5. effect of pq on the subcellular localization and status of the av marker lc3. (a, b) redistribution of lc3-gfp. the cells were transfected with an
+lc3-gfp fusion construct as indicated in ‘‘materials and methods’’ section. twenty-four hours after transient transfection, cells were incubated in the indicated
+medium, cm or nf, treated in the absence (co) or presence of pq 10lm for 15 h and ﬁxed. representative ﬂuorescence microphotographs are shown in (a), and
+the frequency of cells exhibiting the accumulation of lc3-gfp in vacuoles was quantiﬁed (*p < 0.05 compared with control) in (b). (c) immunoblot analyses of
+accumulating lc3-ii protein in cells treated with pq 10lm the indicated times. actin expression was determined as a loading control in the same conditions. blots
+are representative of at least three independent experiments.
+structure to the dopaminergic neurotoxicant mpp
+and the
+strong correlation between the incidence of the disease and the
+amount of pq used (ritz et al., 2000). in the present study we
+report, for the ﬁrst time, that low concentrations of pq induce
+molecular events compatible with autophagy in neuroblastoma
+sh-sy5y cells. we also show that the inhibition of autophagy
+exacerbates pq-induced apoptosis.
+the human dopaminergic cell line sh-sy5y, which has
+many qualities of nervous system neurons, was used as target
+neuronal cells. first, we conﬁrmed that pq induced neurotox-
+icity in sh-sy5y cells in a dose-dependent manner both in
+cm and in starvation conditions (fig. 1). this result was
+similar to the results reported by gonzalez-polo et al. (2004)
+and yang et al. (2005). our group found that pq induced dose-
+dependent cell death and apoptosis in sh-sy5y cells within
+a period of 24 h. pq is a well-known oxidative-stress inducer
+(gonzalez-polo et al., 2004; mollace et al., 2003), so most of
+the reports about it are focused on ros production. in this
+sense, we show in our study that low concentrations of pq
+(10lm) induce a robust ros generation (fig. 3), which is more
+evident in nf conditions. however, the major ﬁnding of this
+study is that low pq concentrations produce characteristics of
+autophagy.
+autophagy was described for the ﬁrst time by schweichel
+et al. (1973). it is characterized by the appearance of numerous
+cytoplasmic avs of lysosomal origin, followed by mitochon-
+drial dilation and enlargement of the endoplasmic reticulum
+and the golgi apparatus. dysfunction of cellular degradation
+has been implicated in pd pathogenesis. macroautophagy is
+the primary mechanism of degrading long-lived proteins and
+damaged organelles. the autophagic process begins with the
+remodeling of subcellular membranes into double-membrane
+vesicles that sequester cytoplasm and organelles in avs. these
+vacuoles are fused with the lysosome to form the autophago-
+lysosome. the content of the autophagolysosome are ulti-
+mately degraded by lysosomal degradative enzymes (klionsky
+et al., 2000). the electron microscopy images in figure 4 show
+that pq induces the accumulation of double-membrane avs in
+the cytoplasm. this event is accompanied by other autophagic
+characteristics as accumulation of the autophagosome marker
+lc3-ii (fig. 5) or protein degradation regulated negatively by
+the mtor kinase signaling (fig. 6). in this sense, it has been
+demonstrated that
+the inactivation of mtor in yeast or
+mammalian cells leads to induction of autophagy, even in
+nutrient-rich medium, indicating that mtor negatively con-
+trols starvation-induced autophagy (blommaart et al., 1995).
+so, under unfavorable conditions, mtor is inactive, leading to
+a reduction in protein synthesis and an upregulation of protein
+degradation (dennis et al., 1999). thus, we report here that pq
+is involved in the control of autophagy in neuroblastoma
+sh-sy5y cells. so, one possibility is that the cell treated with
+pq triggers autophagy as a defense mechanism to degrade the
+oxidized proteins by ros and damaged or dysfunctional
+cytoplasmic components.
+paraquat induces autophagy
+455
+fig. 6. study of the protein degradation and changes of mtor phosphorylation in the pq-mediated neurotoxicity. (a) the protein half-life was determined by
+pulse chasing with radioactive valine as indicated in ‘‘materials and methods’’ section. the cells were incubated in cm or nf and treated with pq 10lm in the
+presence or absence of 3-ma 10mm for 6 h. *p < 0.05 compared with control. (b, c) mtor dephosphorylation induced by pq. the sh-sy5y cells were
+incubated with 10lm of pq the indicated times in cm (b) or in nf medium (c). cell lysates were analyzed for mtor activation by western blotting using
+a phospho-speciﬁc mtor (ser2448) antibody as indicated in ‘‘materials and methods’’ section. actin expression was determined as a loading control in the same
+conditions. blots are representative of at least three independent experiments.
+the pesticide induced, in the ﬁrst place, the morphological
+appearance of autophagy (figs. 4–6). but ﬁnally the cells
+succumbed in morphological and biochemical changes that are
+typical of apoptotic cell death, as phosphatidylserine exposure
+(fig. 1), dwm dissipation (fig. 7), caspase-3 activation (fig. 2),
+and chromatin condensation (fig. 2). interestingly, inhibition
+of caspases retarded cell death (fig. 2), yet had no inﬂuence on
+autophagic vacuolization (data not shown). in this sense, there
+is some controversy in the bibliography regarding the precise
+role that autophagy might play in programed cell death. there
+are many reports describing situations in which autophagy
+activation accompanies apoptosis, but there are also cases in
+which autophagy enhancement
+leads to cell death in the
+absence of caspase activation (bursch et al., 1996; butler
+et al., 2000; chi et al., 1999; xiang et al., 1996). moreover,
+autophagic cell death has been described in association with
+several neurodegenerative diseases, including pd (anglade
+et al., 1997; marino et al., 2004; petersen et al., 2001).
+increased levels of autophagy were observed in neuronal cell
+lines expressing mutant proteins associated with such diseases.
+expression of pd-associated a53t, but not wild-type,
+a-synuclein in pc12 cells induced massive av formation
+(stefanis et al., 2001). in addition, dopaminergic neurons with
+avs have been observed in the substantia nigra of pd patients,
+along with neurons displaying apoptotic features (anglade
+et al., 1997). however, the functional consequence of increased
+autophagic activity for neurodegeneration is not clear but has
+been suggested that excessive autophagy may directly lead to
+neuronal cell death (yuan et al., 2003).
+in the literature, concentrations of high micromolar or
+millimolar range of pq are normally used to study its
+neurotoxicity and apoptosis induction (gonzalez-polo et al.,
+2004; kim et al., 2004; peng et al., 2004). the evidence that
+pq triggers apoptotic cell death has been demonstrated in other
+cellular models, as in human lung epithelial cells (cappelletti
+et al., 1998) as well as in pc12 cells (li et al., 1999). our
+experiments show that pq induces apoptosis in sh-sy5y cells
+at low concentrations (10lm) at the same concentrations that
+456
+gonza´ lez-polo et al.
+fig. 7.
+inhibition of pq-induced autophagy accelerates the apoptotic cell death. (a, b) 3-ma inhibits the cytoplasmic vacuolization induced by pq. the
+human neuroblastoma sh-sy5y cells were cultured in cm or nf and treated with pq 10lm in the presence or absence of 3-ma 10mm for 24 h. the cells then
+were stained with cfmda and ﬁxed to visualize the presence of cytoplasmatic vacuoles as holes. representative microphotographs in cm are depicted in a, and
+the percentage of vacuolated cell area is analyzed in b (* p <0.05 compared with pq-treated cells without 3-ma). (c) quantitative assessment of synergic cell
+death induction. cells cultured in cm or nf in the presence or absence of 3-ma 10mm and/or pq 10lm for 24 h were stained to determine the loss of
+mitochondrial transmembrane potential (with dioc6(3)) and viability (with pi). *p < 0.05 compared with pq-treated cells without 3-ma. (d) synergic caspase-3
+activation induced in combination of pq and 3-ma treatment. activation of caspase-3 was determined by western blot as indicated in ‘‘materials and methods’’
+section. actin expression was determined as a loading control. cells were incubated in complete medium for 24 h with 10lm of pq in the presence or absence of
+3-ma 10mm. blot is representative of at least three independent experiments.
+produces autophagic events. these low concentrations are not
+normally used in the pq toxicity study, and nobody in the
+present has described evidences that relate pq-induced apo-
+ptosis and autophagy.
+in our study, we have shown for the ﬁrst time that pq
+initially induces a morphological appearance of autophagy but
+it ﬁnally succumbed to a typical apoptotic cell death caspase
+dependent. hereby, we demonstrated that, with the prototypic
+autophagy inhibitor 3-ma 10mm, not only the vacuoles
+formation and the protein degradation induced by pq are
+inhibited but also the apoptotic cell death was accelerated and
+the caspase-3 activation increased. in this regard, recent studies
+(boya et al., 2005; gonzalez-polo et al., 2005a) already have
+demonstrated that the inhibition of autophagy triggers apopto-
+sis, so in this case autophagy would be considered as a defense
+mechanism and not as a type of cell death; moreover, recent
+evidence (kifﬁn et al., 2006) supports a protective role of the
+lysosomal system, which can eliminate altered intracellular
+components through autophagy, at least in the ﬁrst stages of
+oxidative injury. so, we suggest that the early activation of
+autophagy induced by low concentrations of pq in neuroblas-
+toma sh-sy5y can be attributed to the cell response like
+paraquat induces autophagy
+457
+a defense mechanism against the rapid oxidative stress induced
+after pq exposure. our results indicated that the systems of
+defense of the cell seemed not to be sufﬁcient because the cell
+ﬁnally succumbed to the apoptotic cell death. in addition, we
+have seen for the ﬁrst time in our study that when we inhibited
+pq-induced autophagy in presence of 3-ma, we accelerated
+the apoptotic death process.
+in conclusion, our results help to suggest pq neurotoxicity as
+an emerging pd model system. this study also provides new
+molecular bases for the knowledge of the relationship between
+autophagy and the cell response to stress and apoptosis cell
+death. however, further studies are required to elucidate the
+exact mechanism involved in pq-induced autophagy and its
+relation with neuronal cell death.
+acknowledgments
+supported by grants 2pr04b002, 2pr06b124, and 3pr05c015 (junta de
+extremadura, spain) and pi040828 (fondo de investigacio´n sanitaria, ministerio
+de sanidad y consumo, spain). r.a.g.p. was supported by the junta de
+extremadura re-incorporation fellowship. m.n.s. was supported by the valhon-
+do-calaff foundation fellowship. m.a.o. was supported by the junta of
+extremadura predoctoral fellowship. the authors would like to thank p. delgado,
+r. tarazona, and v. llorente vera for their invaluable technical assistance. we
+also thank dr guido kroemer (institute gustave roussy, villejuif, france) and
+tamotsu yoshimori (national institute of genetics, mishima, japan) for regeants.
+references
+anglade, p., vyas, s., javoy-agid, f., herrero, m. t., michel, p. p., marquez, j.,
+mouatt-prigent, a., ruberg, m., hirsch, e. c., and agid, y. (1997).
+apoptosis and autophagy in nigral neurons of patients with parkinson’s
+disease. histol. histopathol. 12, 25–31.
+blommaart, e. f., luiken, j. j., blommaart, p. j., van woerkom, g. m., and
+meijer, a. j. (1995). phosphorylation of ribosomal protein s6 is inhibitory
+for autophagy in isolated rat hepatocytes. j. biol. chem. 270, 2320–2326.
+boya, p., gonzalez-polo, r. a., casares, n., perfettini, j. l., dessen, p.,
+larochette, n., metivier, d., meley, d., souquere, s., yoshimori, t., et al.
+(2005). inhibition of macroautophagy triggers apoptosis. mol. cell biol. 25,
+1025–1040.
+boya, p., gonzalez-polo, r. a., poncet, d., andreau, k., vieira, h. l.,
+roumier, t., perfettini, j. l., and kroemer, g. (2003). mitochondrial
+membrane permeabilization is a critical step of lysosome-initiated apoptosis
+induced by hydroxychloroquine. oncogene 22, 3927–3936.
+butler, r., mitchell, s. h., tindall, d. j., and young, c. y. (2000).
+nonapoptotic cell death associated with s-phase arrest of prostate
+cancer cells via the peroxisome proliferator-activated receptor gamma
+ligand, 15-deoxy-delta12,14-prostaglandin j2. cell growth differ. 11,
+49–61.
+cappelletti, g., maggioni, m. g., and maci, r. (1998). apoptosis in human
+lung epithelial cells: triggering by paraquat and modulation by antioxidants.
+cell biol. int. 22, 671–678.
+chi, s., kitanaka, c., noguchi, k., mochizuki, t., nagashima, y., shirouzu, m.,
+fujita, h., yoshida, m., chen, w., asai, a., et al. (1999). oncogenic ras
+triggers cell suicide through the activation of a caspase-independent cell
+death program in human cancer cells. oncogene 18, 2281–2290.
+chun, h. s., gibson, g. e., degiorgio, l. a., zhang, h., kidd, v. j., and son,
+j. h. (2001). dopaminergic cell death induced by mpp(þ), oxidant
+and speciﬁc neurotoxicants shares the common molecular mechanism.
+j. neurochem. 76, 1010–1021.
+cory-slechta, d. a., thiruchelvam, m., barlow, b. k., and richﬁeld, e. k.
+(2005). developmental pesticide models of the parkinson disease phenotype.
+environ. health perspect. 113, 1263–1270.
+dennis, p. b., fumagalli, s., and thomas, g. (1999). target of rapamycin
+(tor): balancing the opposing forces of protein synthesis and degradation.
+curr. opin. genet. dev. 9, 49–54.
+di monte, d. a., mccormack, a., petzinger, g., janson, a. m., quik, m., and
+langston, w. j. (2000). relationship among nigrostriatal denervation,
+parkinsonism, and dyskinesias in the mptp primate model. mov. disord.
+15, 459–466.
+dodge, a. d. (1971). the mode of action of the bipyridylium herbicides,
+paraquat and diquat. endeavour 30, 130–135.
+filonova, l. h., bozhkov, p. v., brukhin, v. b., daniel, g., zhivotovsky, b., and
+von arnold, s. (2000). two waves of programmed cell death occur during
+formation and development of somatic embryos in the gymnosperm, norway
+spruce. j. cell sci. 113(pt 24), 4399–4411.
+fuentes, j. m., lompre, a. m., moller, j. v., falson, p., and le maire, m. (2000).
+clean western blots of membrane proteins after yeast heterologous
+expression following a shortened version of the method of perini et al.
+anal. biochem. 285, 276–278.
+gonzalez-polo, r. a., boya, p., pauleau, a. l., jalil, a., larochette, n.,
+souquere, s., eskelinen, e. l., pierron, g., saftig, p., and kroemer, g.
+(2005a). the apoptosis/autophagy paradox: autophagic vacuolization before
+apoptotic death. j. cell sci. 118, 3091–3102.
+gonzalez-polo, r. a., carvalho, g., braun, t., decaudin, d., fabre, c.,
+larochette, n., perfettini, j. l., djavaheri-mergny, m., youlyouz-marfak, i.,
+codogno, p., et al. (2005b). pk11195 potently sensitizes to apoptosis
+induction independently from the peripheral benzodiazepin receptor. onco-
+gene 24, 7503–7513.
+gonzalez-polo, r. a., rodriguez-martin, a., moran, j. m., niso, m., soler, g.,
+and fuentes, j. m. (2004). paraquat-induced apoptotic cell death in
+cerebellar granule cells. brain res. 1011, 170–176.
+bradford, m. m. (1976). a rapid and sensitive method for the quantitation of
+microgram quantities of protein utilizing the principle of protein-dye
+binding. anal. biochem. 72, 248–254.
+graeber, m. b., and moran, l. b. (2002). mechanisms of cell death in
+neurodegenerative diseases: fashion, ﬁction, and facts. brain pathol. 12,
+385–390.
+bursch, w., ellinger, a., kienzl, h., torok, l., pandey, s., sikorska, m.,
+walker, r., and hermann, r. s. (1996). active cell death induced by the anti-
+estrogens tamoxifen and ici 164 384 in human mammary carcinoma cells
+(mcf-7) in culture: the role of autophagy. carcinogenesis 17, 1595–1607.
+bursch, w., hochegger, k., torok, l., marian, b., ellinger, a., and hermann,
+r. s. (2000). autophagic and apoptotic types of programmed cell death
+exhibit different fates of cytoskeletal ﬁlaments. j. cell sci. 113(pt 7),
+1189–1198.
+bus, j. s. and gibson, j. e. (1984). paraquat: model for oxidant-initiated
+toxicity. environ. health perspect. 55, 37–46.
+hariri, m., millane, g., guimond, m. p., guay, g., dennis, j. w., and nabi, i. r.
+(2000). biogenesis of multilamellar bodies via autophagy. mol. biol. cell 11,
+255–268.
+hertzman, c., wiens, m., bowering, d., snow, b., and calne, d. (1990).
+parkinson’s disease: a case-control study of occupational and environmental
+risk factors. am. j. ind. med. 17, 349–355.
+kabeya, y., mizushima, n., ueno, t., yamamoto, a., kirisako, t., noda, t.,
+kominami, e., ohsumi, y., and yoshimori, t. (2000). lc3, a mammalian
+homologue of yeast apg8p, is localized in autophagosome membranes after
+processing. embo j. 19, 5720–5728.
+458
+gonza´ lez-polo et al.
+kifﬁn, r., bandyopadhyay, u., and cuervo, a. m. (2006). oxidative stress and
+autophagy. antioxid. redox signal. 8, 152–162.
+kim, s. j., kim, j. e., and moon, i. s. (2004). paraquat induces apoptosis of
+cultured rat cortical cells. mol. cells 17, 102–107.
+klionsky, d. j., and emr, s. d. (2000). autophagy as a regulated pathway of
+cellular degradation. science 290, 1717–1721.
+lai, c. t., and yu, p. h. (1997). dopamine- and l-beta-3,4-dihydroxypheny-
+lalanine hydrochloride (l-dopa)-induced cytotoxicity towards catechol-
+aminergic neuroblastoma sh-sy5y cells. effects of oxidative stress and
+antioxidative factors. biochem. pharmacol. 53, 363–372.
+landles, c., and bates, g. p. (2004). huntingtin and the molecular pathogenesis
+of huntington’s disease. fourth in molecular medicine review series. embo
+rep. 5, 958–963.
+landrigan, p. j., sonawane, b., butler, r. n., trasande, l., callan, r., and
+droller, d. (2005). early environmental origins of neurodegenerative disease
+in later life. environ. health perspect. 113, 1230–1233.
+langston, j. w., and ballard, p. (1984). parkinsonism induced by 1-methyl-4-
+phenyl-1,2,3,6-tetrahydropyridine (mptp): implications for treatment and
+the pathogenesis of parkinson’s disease. can. j. neurol. sci. 11, 160–165.
+lee, h. s., park, c. w., and kim, y. s. (2000). mpp(þ) increases the
+vulnerability to oxidative stress rather than directly mediating oxidative
+damage in human neuroblastoma cells. exp. neurol. 165, 164–171.
+li, x., and sun, a. y. (1999). paraquat induced activation of transcription
+factor ap-1 and apoptosis in pc12 cells. j. neural transm. 106, 1–21.
+liou, h. h., tsai, m. c., chen, c. j., jeng, j. s., chang, y. c., chen, s. y., and
+chen, r. c. (1997). environmental risk factors and parkinson’s disease:
+a case-control study in taiwan. neurology 48, 1583–1588.
+marino, g., and lopez-otin, c. (2004). autophagy: molecular mechanisms,
+physiological functions and relevance in human pathology. cell mol. life
+sci. 61, 1439–1454.
+mizushima, n. (2004). methods for monitoring autophagy. int. j. biochem.
+cell biol. 36, 2491–2502.
+mollace, v., iannone, m., muscoli, c., palma, e., granato, t., rispoli, v.,
+nistico, r., rotiroti, d., and salvemini, d. (2003). the role of oxidative
+stress in paraquat-induced neurotoxicity in rats: protection by non peptidyl
+superoxide dismutase mimetic. neurosci. lett. 335, 163–166.
+niso-santano, m., moran, j. m., garcia-rubio, l., gomez-martin, a.,
+gonzalez-polo, r. a., soler, g., and fuentes, j. m. (2006). low concen-
+trations of paraquat induces early activation of extracellular signal-regulated
+kinase 1/2, protein kinase b, and c-jun n-terminal kinase 1/2 pathways: role
+of c-jun n-terminal kinase in paraquat-induced cell death. toxicol. sci. 92,
+507–515.
+norris, e. h., giasson, b. i., and lee, v. m. (2004). alpha-synuclein: normal
+function and role in neurodegenerative diseases. curr. top. dev. biol. 60,
+17–54.
+pattingre, s., bauvy, c., and codogno, p. (2003). amino acids interfere with
+the erk1/2-dependent control of macroautophagy by controlling the activa-
+tion of raf-1 in human colon cancer ht-29 cells. j. biol. chem. 278,
+16667–16674.
+peng, j., mao, x. o., stevenson, f. f., hsu, m., and andersen, j. k. (2004). the
+herbicide paraquat induces dopaminergic nigral apoptosis through sustained
+activation of the jnk pathway. j. biol. chem. 279, 32626–32632.
+petersen, a., larsen, k. e., behr, g. g., romero, n., przedborski, s., brundin, p.,
+and sulzer, d. (2001). expanded cag repeats in exon 1 of the huntington’s
+disease gene stimulate dopamine-mediated striatal neuron autophagy and
+degeneration. hum. mol. genet. 10, 1243–1254.
+ritz, b., and yu, f. (2000). parkinson’s disease mortality and pesticide
+exposure in california 1984–1994. int. j. epidemiol. 29, 323–329.
+sattler, t., and mayer, a. (2000). cell-free reconstitution of microautophagic
+vacuole invagination and vesicle formation. j. cell biol. 151, 529–538.
+schweichel, j. u., and merker, h. j. (1973). the morphology of various types
+of cell death in prenatal tissues. teratology 7, 253–266.
+shavali, s., carlson, e. c., swinscoe, j. c., and ebadi, m. (2004). 1-benzyl-
+1,2,3,4-tetrahydroisoquinoline, a parkinsonism-inducing endogenous toxin,
+increases alpha-synuclein expression and causes nuclear damage in human
+dopaminergic cells. j. neurosci. res. 76, 563–571.
+sherer, t. b., betarbet, r., and greenamyre, j. t. (2001). pathogenesis of
+parkinson’s disease. curr. opin. investig. drugs 2, 657–662.
+stadelmann, c., deckwerth, t. l., srinivasan, a., bancher, c., bruck, w.,
+jellinger, k., and lassmann, h. (1999). activation of caspase-3 in single
+neurons and autophagic granules of granulovacuolar degeneration in
+alzheimer’s disease. evidence for apoptotic cell death. am. j. pathol. 155,
+1459–1466.
+stefanis, l., larsen, k. e., rideout, h. j., sulzer, d., and greene, l. a. (2001).
+expression of a53t mutant but not wild-type alpha-synuclein in pc12
+cells induces alterations of the ubiquitin-dependent degradation system,
+loss of dopamine release, and autophagic cell death. j. neurosci. 21,
+9549–9560.
+suntres, z. e. (2002). role of antioxidants in paraquat toxicity. toxicology 180,
+65–77.
+tanner, c. m., and ben shlomo, y. (1999). epidemiology of parkinson’s
+disease. adv. neurol. 80, 153–159.
+xiang, j., chao, d. t., and korsmeyer, s. j. (1996). bax-induced cell death
+may not require interleukin 1 beta-converting enzyme-like proteases. proc.
+natl. acad. sci. u.s.a 93, 14559–14563.
+xue, l., fletcher, g. c., and tolkovsky, a. m. (1999). autophagy is activated
+by apoptotic signalling in sympathetic neurons: an alternative mechanism of
+death execution. mol. cell neurosci. 14, 180–198.
+yuan, j., lipinski, m., and degterev, a. (2003). diversity in the mechanisms of
+neuronal cell death. neuron 40, 401–413.

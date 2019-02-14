@@ -1,0 +1,1151 @@
+cell death and differentiation (2007) 14, 693–702
+& 2007 nature publishing group all rights reserved 1350-9047/07 $30.00
+www.nature.com/cdd
+a novel cell type-speciﬁc role of p38a in the control of
+autophagy and cell death in colorectal cancer cells
+f comes1,6, a matrone1,6, p lastella1, b nico2, fc susca1, r bagnulo1, g ingravallo3, s modica4, g lo sasso4, a moschetta4,
+g guanti*,1 and c simone*,1,5
+cancer develops when molecular pathways that control the ﬁne balance between proliferation, differentiation, autophagy and
+cell death undergo genetic deregulation. the prospects for further substantial advances in the management of colorectal cancer
+reside in a systematic genetic and functional dissection of these pathways in tumor cells. in an effort to evaluate the impact of
+p38 signaling on colorectal cancer cell fate, we treated ht29, caco2, hct116, ls174t and sw480 cell lines with the inhibitor
+sb202190 speciﬁc for p38a/b kinases. we report that p38a is required for colorectal cancer cell homeostasis as the inhibition of
+its kinase function by pharmacological blockade or genetic inactivation causes cell cycle arrest, autophagy and cell death in a
+cell type-speciﬁc manner. deﬁciency of p38a activity induces a tissue-restricted upregulation of the gabarap gene, an
+essential component of autophagic vacuoles and autophagosomes, whereas simultaneous inhibition of autophagy signiﬁcantly
+increases cell death by triggering apoptosis. these data identify p38a as a central mediator of colorectal cancer cell homeostasis
+and establish a rationale for the evaluation of the pharmacological manipulation of the p38a pathway in the treatment of
+colorectal cancer.
+cell death and differentiation (2007) 14, 693–702. doi:10.1038/sj.cdd.4402076; published online 8 december 2006
+colorectal cancer is a major health concern, with more than
+1 000 000 new cases and 500 000 deaths expected worldwide
+per year.1 prognostic evaluation is currently based on
+histological appearance, and there are no molecular markers
+internationally recognized as standard predictor factors. the
+conventional therapy involving surgery and adjuvant therapy
+seems to give rise to improvements in progression-free
+and overall survival. nevertheless about 50% of patients die
+within 5 years owing to metastasis or recurrent disease.2 the
+prospects for further substantial advances in the management
+of colorectal cancer reside in a systematic genetic and
+functional dissection of cell cycle and cell death regulatory
+pathways in tumor cells in order to identify differential cellular
+effects of agents that may have a direct impact on cancer
+therapy.
+during the last decade, a number of deacetylase inhibitors
+(di) have been identiﬁed. these di induce tumor cells to
+undergo growth arrest, differentiation, and/or apoptosis in
+culture and in animal models, at doses that seem to be non-
+toxic and appear to be selective. butyrate, a di that is naturally
+formed in the human colon, is able to reduce the size and
+the number of tumors in rat models of bowel cancer.3 in vitro,
+sodium butyrate (nab) is a potent differentiating agent for
+several colorectal cancer cell lines (crcs).4–6 nab-mediated
+cell cycle withdrawal of crcs appears to be dependent on
+acetylation of histones and consequent changes in transcrip-
+tion, requiring continuous protein synthesis and the expres-
+sion of p21.7 it has recently been shown that 1 mm nab is
+the best working concentration to activate the differentiation
+program in crcs without triggering apoptosis, whereas 5 mm
+nab is sufﬁcient to induce a p53-independent apoptotic cell
+death by activating a pathway involving p38, pparg and
+caspases.6,8
+several intracellular signaling cascades have been impli-
+cated in the regulation of
+the proliferation-differentiation
+balance in enterocytes by the coordinated expression of the
+genome in response to environmental cues. during enter-
+ocyte differentiation of crcs the erk pathway is switched off,
+whereas pi3k class i and p38 activities are increased and
+essential for full differentiation.5,9 it has been suggested that
+p38a could activate the intestinal-speciﬁc homeobox tran-
+scription factor cdx2 probably by phosphorylation.10 this
+mechanism resembles that described for p38a/b in muscle
+cells, where they phosphorylate the transcription factor mef2
+and the swi/snf subunit baf60 to remodel chromatin and
+activate tissue-speciﬁc transcription.11,12 interestingly, chro-
+matin remodeling complex dysfunction has been described in
+human colorectal cancer cells.13
+the p38 pathway is often activated by stressful stimuli and
+cytokines leading to diverse cell type-speciﬁc responses, such
+1division of medical genetics, department of biomedicine in childhood, university of bari, bari, italy; 2department of human anatomy and histology, university of bari,
+bari, italy; 3department of pathological anatomy, university of bari, bari, italy; 4consorzio mario negri sud, santa maria imbaro (ch) and ‘clinica medica murri’,
+department of internal medicine, university of bari, bari, italy and 5sbarro institute for cancer research and molecular medicine, center for biotechnology, college of
+science and technology, temple university, philadelphia, usa
+*corresponding authors: g guanti or c simone, division of medical genetics, department of biomedicine in childhood, university of bari, bari, italy.
+fax: þ 390805478269; e-mails: guanti@medgene.uniba.it or csimone@temple.edu
+6these two authors contributed equally to this work.
+keywords: colorectal cancer; p38a; autophagic cell death; apoptosis; sb202190
+abbreviations: di, deacetylase inhibitors; nab, sodium butyrate; crcs, colorectal cancer cell lines; si, sucrose isomaltase; sb, sb202190; pas, periodic-acid schiff;
+il, intracellular lumens; ic, intercellular cysts; 3ma, 3-methyladenine; hfsf, human fetal skin ﬁbroblasts
+received 28.7.06; revised 24.10.06; accepted 31.10.06; edited by y tsujimoto; published online 08.12.06
+694
+sb202190 induces autophagic cell death in crcs
+f comes et al
+as cell survival or apoptosis. in non-transformed cells, p38a
+is required for inhibition of proliferation induced by cell-to-cell
+contact, as happens in primary cultures of human ﬁbro-
+blasts.14 in cancer cells, p38a/b are required for breast and
+colorectal cancer cell migration and metastasis formation in
+mice.15,16 however, over-activation of p38 by a constitutively
+active form of its upstream kinase (mkk6ee) eliminates the
+tumor-prone phenotype of mice obtained by intercrossing
+transgenic mice with breast-restricted expression of wip1, the
+p53-induced phosphatase targeting p38 and the oncogene
+erbb2.17 moreover, p38a/b contribute to tgfb-dependent
+tumor progression by inducing epithelial to mesenchymal
+transdifferentiation and cell migration,18 and to rat chondro-
+sarcoma cell proliferation.19
+in an effort to elucidate the impact of p38 in the molecular
+mechanisms regulating crc fate, we analyzed gene expres-
+sion proﬁle of ht29 cells growing logarithmically, conﬂuent
+in culture and induced to differentiate. five genes were
+considered, three of them were cell cycle-related genes:
+cyclin e is expressed during the late g1 phase of the cell cycle
+until the end of the s-phase, cyclin a starts to accumulate
+during s phase and is abruptly destroyed before metaphase,
+and, ﬁnally, p21 is involved in the control of g1/s and g2/m
+transitions. the other two genes codify for tissue-speciﬁc
+proteins: sucrose isomaltase (si) is an intestinal disaccha-
+ridase expressed in the brush border of mature enterocytes;
+villin is a cytoskeletal protein speciﬁc for microvilli.
+at the onset of differentiation, the pharmacological block-
+ade of the p38 cascade inhibits the expression of p21, si and
+villin conﬁrming the role of this pathway in the differentiation
+program of distinct cell types.9–12 surprisingly, we discovered
+that p38a is required for crc proliferation and survival as
+pharmacological blockade or genetic depletion of its kinase
+activity induced growth arrest, autophagy and cell death in a
+cell type-speciﬁc manner. interestingly, the inhibition of the
+autophagic activity of these cells induces a dramatic increase
+in cell death by triggering apoptosis.
+results
+line that
+recapitulates
+large bowel
+pharmacological blockade of p38 affects proliferation
+and differentiation of ht29 cells. to characterize the
+molecular mechanisms involving the p38 pathway in the
+control of colorectal cancer cell fate, we employed the human
+ht29 cell
+cell
+differentiation in vitro. the effect of p38 inhibition by the
+speciﬁc compound sb202190 (sb) was evaluated by
+analyzing the expression of cyclin e, cyclin a, p21, si and
+villin transcripts in ht29 cells growing logarithmically,
+conﬂuent
+in culture or induced to differentiate with nab
+1 mm for 96 h (figure 1a). sb addition to logarithmically
+growing cultures caused a signiﬁcant reduction of cyclin e
+expression already within the ﬁrst 24 h, whereas it
+downregulated cyclin a transcription only after 72 h of
+treatment
+(figure 1b). moreover, despite the signiﬁcant
+reduction in the proliferation rate, the levels of p21 were
+consistently lower than those of untreated cells (figure 1b).
+conversely, in conﬂuent cultures, sb only slightly affected
+p21 expression induced by cell-to-cell contact (figure 1b). in
+cell death and differentiation
+differentiating ht29 cells, p38 blockade counteracted the
+effect of nab on the silencing of cyclins, induction of p21
+and expression of enterocyte-speciﬁc markers (figure 1b).
+collectively these data suggested that the p38 pathway is
+involved in the transcription control of both cell cycle and
+tissue-speciﬁc genes.
+at
+respectively, did not
+the maximum diameter
+p38 blockade induces autophagic cell death in ht29
+cells. very surprisingly, p38 blockade in ht29 cells induced
+the formation of large cytoplasmic vacuoles regardless of
+culture conditions (figure 2), whereas pd98059 and
+two inhibitors speciﬁc for mek1 and pi3k
+ly294002,
+kinases,
+(data not shown). they
+appeared approximately 2 h after sb addition, then became
+larger
+24 h
+reaching
+(19.3710.6 mm)
+(figure 2a). the percentage of cells
+presenting vacuoles was time dependent as well. at 24 h
+more than 90% of cells presented at least one vacuole ﬁlling
+up most of the cytoplasmic compartment (figures 2 and 4a).
+the observation that sb treatment caused growth inhibition
+and the formation of intracellular vacuoles, prompted us to
+investigate their nature. to this end we employed different
+cytological methods such as periodic-acid schiff (pas),
+papanicolaou, sudan black b and oil red o. among them
+only pas demonstrated a dot-like staining within vacuoles
+suggesting the presence of glycoproteins (figure 2b). elec-
+tron microscopy showed that sb-treated cells were roundly
+shaped and displayed a dark cytoplasm containing a
+heterochromatic nucleus. numerous large vacuoles ﬁlled
+up with dense material, autophagic vacuoles containing cell
+organelle debris and double-membrane autophagosomes
+were recognized (figure 3).
+in untreated ht29 cells no
+molecular features of autophagy were detected (data not
+shown). quite different was the morphology of fully differ-
+entiated ht29 cells, which appeared elongated, and dis-
+played euchromatic nuclei and electron clear cytoplasms
+with numerous mitochondria and a few small empty vacuoles.
+moreover, circular structures coated with regular microvilli,
+often located at
+the apical cellular surface (intracellular
+lumens, il) or between the cells (intercellular cysts, ic), were
+observed (figure 3). in ht29 cells either untreated or treated
+with sb no il or ic were detected (figure 3 and data not
+shown).
+the detection of these ultrastructural ﬁndings, deﬁned as
+the ‘golden standard’ for assessing autophagic activity,20
+clearly indicated that pharmacological blockade of p38
+induced an autophagic response in ht29 cells. further
+evidence was provided by the pretreatment with 3-methyl-
+adenine (3ma) or with the inhibitor of translation puromycin,
+two well-known inhibitors of the autophagic process, that
+severely impaired sb-dependent induction of autophagy in
+ht29 cells (figure 4a). to better characterize this process,
+we evaluated the expression of the gabarap gene, one
+of the human homologs of the yeast atg8 gene. atg8 is a
+member of a novel ubiquitin-like protein family and an
+essential component of the autophagic machinery. in yeast,
+it is upregulated by rapamycin-dependent tor inhibition and
+nitrogen starvation.21 in ht29 cells, gabarap expression
+levels were signiﬁcantly augmented by p38 blockade and
+correlated with autophagic vacuoles and autophagosome
+sb202190 induces autophagic cell death in crcs
+f comes et al
+695
+ht29
+log. growing confluent differentiating
+nab 1mm
+sb
+sb
+sb
+1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4 1 2 3 4
+days
+cyclin e/
+gapdh
+cyclin a2/
+gapdh
+p21/
+gapdh
+villin/
+gapdh
+si/
+gapdh
+3000
+2400
+1800
+1200
+600
+1.8
+1.6
+1.4
+1.2
+0.8
+0.6
+0.4
+0.2
+1.4
+1.2
+0.8
+0.6
+0.4
+0.2
+1.4
+1.2
+0.8
+0.6
+0.4
+0.2
+4.5
+3.5
+2.5
+1.5
+0.5
+1.6
+1.4
+1.2
+0.8
+0.6
+0.4
+0.2
+10
+10
+10
+10
+relative pcr levels
+gapdh 22 cycles
+1/10
+cdna
+1/20
+cyclin e 28 cycles
+1/10
+cdna
+1/20
+cyclin a 28 cycles
+1/10
+cdna
+1/20
+p21 28 cycles
+1/20
+1/10
+cdna
+villin 28 cycles
+1/10
+cdna
+1/20
+si 27 cycles
+1/20
+1/10
+cdna
+figure 1 inhibition of p38 by sb202190 modiﬁes the expression proﬁle of ht29 cells growing logarithmically, conﬂuent in culture and induced to differentiate. (a) cells
+were plated at different density in either the absence or presence of nab and sb202190 (sb) and cultured for up to 96 h. (b) relative levels of expression of the indicated
+genes were calculated by genescan and normalized on gapdh signal (see supplementary figure 1). (c) for each set of primers a standard curve was constructed using
+serial dilutions of cdna to deﬁne the dynamic range and calculate the ampliﬁcation efﬁciency. relative pcr levels were estimated by normalization on the gapdh ﬂuorescent
+signal obtained by the ampliﬁcation of 1/10 cdna dilution (see asterisk)
+formation (figure 4a and b), whereas rapamycin failed to
+induce both autophagy and gabarap upregulation in these
+cells (data not shown). interestingly, 3ma failed to impair the
+sb-mediated induction of gabarap expression (figure 4b).
+this is noteworthy as 3ma prevents autophagy at an early
+stage by inhibiting pi3k class iii, which interacts with atg6/
+beclin-1 to promote the nucleation of autophagic vesicles.22,23
+our data suggest
+the p38 control of gabarap
+transcription is independent from this ﬁrst step.
+that
+in addition to the above-mentioned growth suppression of
+ht29 cells (figure 1a), sb exposure signiﬁcantly reduced the
+number of viable cells compared to the untreated control cells
+(relative viability) by triggering cell death (figure 4c and d).
+non-viable sb-treated cells showed the characteristic fea-
+tures of necrotic-like cells. in fact, they took up ethidium
+bromide, a marker of plasma membrane disruption, but
+maintained the nucleus intact until late stages, and showed
+only a partial chromatin condensation without a signiﬁcant
+cell death and differentiation
+sb202190 induces autophagic cell death in crcs
+f comes et al
+untreated
+ht29
+sb
+nab 1mm
+tation and dna degradation comparable to cells exposed to
+nab 5 mm (figure 4e–g).
+696
+20 µm
+20 µm
+20 µm
+figure 2 p38 blockade induces the formation of macrovacuoles in ht29 cells.
+ht29 cells were cultured in either the absence or presence of nab 1 mm or
+sb202190 (sb) for 24 h. (a) living cells observed and photographed with a phase-
+contrast microscope. (b) cells ﬁxed and stained with pas showing nucleolated
+nuclei and granular cytoplasms (untreated); hyperchromatic nuclei and single
+intracytoplasmic macrovacuole (sb); nucleolated nuclei and granular cytoplasms
+with pas positive deposits (nab). sb-induced macrovacuoles show a dot-like
+staining (inset). original magniﬁcation  400
+nab
+1mm
+sb
+ht29
+figure 3 electron microscopy of ht29 cells cultured in the presence of nab
+1 mm (96 h) or sb202190 (sb; 24 h). (a) nab-treated cells showing euchromatic
+nuclei and cytoplasms containing a few vacuoles (arrowhead) and numerous
+mitochondria (m). microvilli (arrow) are present on the external plasma membrane.
+(b) an ic coated by regular microvilli (asterisk). (c, d) sb-treated cells show
+heterochromatic nuclei (n) and dark cytoplasms ﬁlled up with large vacuoles
+containing dense material (asterisk), autophagic vacuoles containing debris of a
+mitochondrium (m) (d, inset), double-membrane autophagosomes (c, white arrow)
+and lipidic droplets (c, arrow). scale bar: (a and c) 0.7 mm; (b) 0.4 mm; (d) 0.57 mm
+increase in dna fragmentation (figure 4e–g). the coexis-
+tence of autophagy with features of non-apoptotic death is
+considered as an hallmark of autophagic cell death or type ii
+programmed cell death.20,24 notably, pharmacological block-
+ade of sb-dependent autophagy not only failed to increase
+viability, but it even increased cell death by inducing a switch
+from autophagic cell death to apoptosis.
+in fact, cells
+pretreated with 3ma and then exposed to sb showed cell
+shrinkage, severe chromatin condensation, nuclear fragmen-
+cell death and differentiation
+the differentiation status.
+sb-dependent induction of autophagy relies only upon
+p38a blockade. as sb speciﬁcally inhibits p38 a and b gene
+products, we investigated whether both isoforms were
+synthesized in ht29 cells. it was previously reported that
+caco2 cells exhibit distinct proﬁles of p38 isoform expression
+depending on the differentiation status. undifferentiated
+cells produce p38a, b and g, whereas differentiated cells
+synthesize p38a, g and d.25 conversely,
+the expression
+proﬁle of p38 isoforms in ht29 cells remained unchanged
+regardless of
+the cells
+expressed p38a, g and d despite nab treatment (figure 5a
+and b). the absence of p38b transcripts suggested that
+sb-mediated autophagic response relies only upon p38a
+blockade. to test
+this hypothesis, we used sirna gene
+silencing targeting p38 a and b gene in ht29 cells
+(figure 5e). the sirna against p38a reduced the target
+mrna and protein levels by 70–80%, whereas the sirna
+against the b isoform did not affect nor p38a mrna neither
+total p38 protein expression in accordance with the absence
+of p38b in these cells (figure 5c). evaluation of
+the
+autophagic activity and gabarap expression in sirna-
+transfected cells clearly indicated that
+transient genetic
+ablation of p38a was able to induce autophagy in ht29
+colorectal cancer cells (figure 5d).
+in fact,
+colorectal cancer-speciﬁc induction of autophagic cell
+death by p38a inhibition. to get further insight into the
+involvement of p38a in the autophagic response, we extended
+our investigation to caco2, sw480, ls174t and hct116
+crcs (tables 1 and 2). cytological and morphological
+evaluation conﬁrmed the sb-mediated induction of growth
+arrest and autophagic cell death in all crc lines (figures 6a–
+c). consistently, sb-mediated upregulation of gabarap was
+detected in all cell lines tested (figure 6e). pharmacological
+blockade of autophagy drastically increased cell death by
+promoting a switch from autophagic death to apoptosis
+(figure 6c, and data not shown).
+to investigate whether p38a inhibition induced type ii cell
+death in a cell type-speciﬁc manner, hep3b liver carcinoma
+cells, hela cervical carcinoma cells, hek293 embryonic
+kidney cells, and human fetal skin ﬁbroblasts (hfsf) were
+exposed to sb for 24 h (figure 6d and table 2). pharmaco-
+logical
+inhibition of p38 failed to induce cell cycle arrest,
+autophagy and cell death, and it did not promote gabarap
+upregulation in any of the cell lines tested (figure 6d and e,
+and data not shown).
+the analysis of the relative abundance of p38 a and b
+transcripts in all cell lines studied, suggested that the cell type-
+speciﬁc effect caused by sb is independent of the expression
+of p38b and relies only upon the presence of p38a in crcs
+(figure 6f).
+moreover, sb treatment failed to cause autophagic cell
+death in c3h10t1/2 and nih3t3 mouse ﬁbroblasts, c2c12
+mouse myoblasts and human rd rhabdomyosarcoma cells
+(table 2). all together, these data suggest that p38a blockade
+induces growth inhibition, autophagy and cell death in crcs
+in a cell type-speciﬁc manner.
+sb202190 induces autophagic cell death in crcs
+f comes et al
+697
+sb 
+sb+3ma 
+sb+puro 
+sb 
+sb+3ma 
+sb+puro 
+days
+days
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+70
+60
+50
+40
+30
+20
+10
+days
+untreated
+sb 
+sb+
+3ma 
+1.8
+1.6
+1.4
+1.2
+0.8
+0.6
+0.4
+0.2
+1200
+1000
+800
+600
+400
+200
+70
+60
+50
+40
+30
+20
+10
+sb 
+sb+3ma 
+untreated
+gabarap
+gapdh
+sb 
+sb+3ma 
+sb+puro 
+days
+days
+sb 
+sb+3ma 
+untreated
+non-apoptotic
+apoptotic
+1 2 3 4
+1 2 3 4
+1 2 3 4
+untreated
+days 1
+sb 
+days
+sb+3ma 
+nab 5mm
+figure 4 p38 blockade induces autophagic cell death in ht29 cells, whereas inhibition of sb202190-dependent autophagy triggers apoptosis. ht29 cells were cultured in
+the absence or presence of sb202190 (sb) or a combination of sb202190 and 3-methyiladenine (3ma) or sb202190 and puromycin (puro) for the indicated periods of time.
+(a) the percentage of autophagic cells was estimated by phase-contrast microscope and then veriﬁed by electron microscope evaluation. (b) time course of gabarap gene
+expression. relative levels of gabarap expression were measured by genescan evaluation of ﬂuorescent ampliﬁcations and normalized on gapdh signals. (c–f) ht29
+cells were collected at the indicated periods of time and mixed with trypan blue solution or a dye mix containing dapi and ethidium bromide. (c) relative viability (%) was
+estimated by calculating the ratio between viable cells in treated (sb, sbþ 3ma, sbþ puro) versus untreated ( ) ht29. (d) relative cell death (%) represents the ratio
+between dead cells in treated versus untreated ht29. (e) ht29 cells stained with dapiþ ethidium bromide and analyzed by ﬂuorescent microscope ( 400). (f) the ratio
+between apoptotic and necrotic dead cells was calculated and reported as a percentage of the total number of cell counted (g) genomic dna was extracted from ht29 cells
+and loaded into a 1% agarose gel
+discussion
+we demonstrated that p38a is one of the essential kinases for
+colorectal cancer cells fate and provided evidences indicating
+that p38a blockade causes growth arrest and autophagic
+cell death. in crcs, p38a is required for both cell cycle
+progression and nab-dependent induction of cell differentia-
+that p38a is
+tion. furthermore, our experiments reveal
+required for survival of crcs growing logarithmically,
+conﬂuent in culture or induced to differentiate. in fact, p38a
+blockade induces an autophagic response in these cells
+associated to growth suppression and cell death in a p53- and
+p21-independent manner.
+the involvement of p38 activity
+in the negative
+control of autophagy has been evoked in human liver
+response to cellular hydration state, but not
+in mouse
+myotube response to amino-acid starvation.26 in yeasts,
+hog1, the homolog of p38, plays a role in the stabilization
+machinery of nitrogen deprivation-induced autophagy
+during ambient osmolarity changes.27 in logarithmically
+growing crcs, p38a inhibition induces a cell
+type-
+speciﬁc upregulation of
+the human homolog of atg8
+(gabarap), suggesting that p38a is required to exert a
+negative control on the expression of this gene. in yeasts,
+the atg8 gene is upregulated by rapamycin-dependent tor
+inhibition, and its protein product is an essential component of
+the
+expansion
+machinery.21 in crcs,
+rapamycin failed to cause both
+autophagy and upregulation of gabarap expression. to
+date, three atg8 homologs have been identiﬁed in mammalian
+cells: gate-16, gabarap and map1lc3. all three proteins
+appear to be modiﬁed with lipids in the same manner
+described in yeasts, and have been shown to localize to the
+autophagosome.28
+formation/size
+autophagic
+vescicle
+cell death and differentiation
+698
+sb202190 induces autophagic cell death in crcs
+f comes et al
+12
+10
+p38α/gapdh
+p38β/gapdh
+- nab p38
+multiplex pcr
+1.6
+1.4
+1.2
+0.8
+0.6
+0.4
+0.2
+real-time pcr
+p38α
+p38
+tubulin
+untransfected
+rnai
+scrambled  p38α  p38β
+35
+30
+25
+20
+15
+10
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+untransfected
+gapdh
+gabarap
+scrambled 
+rnai
+p38α 
+rnai
+p38β 
+rnai
+untransfected
+rnai
+scrambled
+rnai
+p38α
+rnai
+p38β
+figure 5 sb202190-dependent induction of autophagy relies only upon p38a blockade. (a, b) ht29 cells cultured in the absence or presence of nab 1 mm (48 h) were
+characterized for the expression of p38 a, b, g and d isoforms. (a) multiplex rt-pcr analysis was followed by separate pcr conﬁrmation for each transcript. (b) relative
+levels of expression of p38 a and b isoforms were measured by genescan evaluation of ﬂuorescent ampliﬁcations and normalized on gapdh signals. (c–e) ht29 cells were
+transfected with sirna targeting p38a and b genes. after 24 h rna was extracted, and the expression of p38 isoforms was evaluated by real-time pcr (c, upper panel). at
+48 h post-transfection cell lysates were probed for p38 expression by immunoblot (c, lower panel), and expression of gabarap was measured by genescan evaluation of
+ﬂuorescent ampliﬁcations and normalized on gapdh signals (d, lower panel). the percentage of autophagic cells was estimated by phase-contrast microscope (e) and then
+veriﬁed by electron microscopy evaluation (d, upper panel)
+table 1 molecular features of the colorectal cancer cell lines used in this study
+cell line
+min
+hct116
+ls174t
+sw480
+caco2
+ht29
+cin
+apc
+wt
+wt
+mut
+mut
+mut
+bcat
+mut
+mut
+wt
+wt
+wt
+p53
+wt
+wt
+mut
+mut
+mut
+kiras
+tgfbiir
+mut
+wt
+mut
+wt
+wt
+mut
+mut
+wt
+wt
+wt
+bax
+wt/mut
+mut
+wt
+wt
+wt
+table 2 sb202190 induces autophagic cell death of colorectal cancer cells in a cell type-speciﬁc manner
+cell line
+species tissue
+morphology origin
+tumor type
+p53 sb-mediated autophagic cell death
+epithelial
+human adult colon
+hct116
+epithelial
+human adult colon
+caco2
+epithelial
+human adult colon
+sw480
+epithelial
+human adult colon
+ht29
+epithelia
+human adult colon
+ls174t
+epithelial
+human child liver
+hep3b
+epithelial
+human
+hela
+human
+myoblast
+rd
+human embryonic kidney epithelial
+hek293
+fibroblast
+human
+hfsf
+fibroblast
+nih3t3
+mouse
+fibroblast
+ch310t1/2 mouse
+c2c12
+mouse
+myoblast
+foetal skin
+embryo
+embryo
+adult muscle
+fetal cervix
+fetal muscle
+wt
+endodermal adenocarcinoma
+mut
+endodermal adenocarcinoma
+mut
+endodermal adenocarcinoma
+mut
+endodermal adenocarcinoma
+endodermal adenocarcinoma
+wt
+endodermal hepatocellular carcinoma mut
+wt
+mesodermal cervical carcinoma
+mut
+mesodermal rhabdomyosarcoma
+mesodermal
+wt
+wt
+mesodermal
+wt
+mesodermal
+wt
+mesodermal
+mesodermal
+wt
+cell death and differentiation
+sb202190 induces autophagic cell death in crcs
+f comes et al
+699
+sw480            caco2            hct116 
+sb   sb+3ma    sb   sb+3ma     sb   sb+3ma
+hela
+hfsf
+hep3b
+h ek293
+100
+80
+60
+40
+20
+2,5
+1,5
+sw480
+caco2 hct116
+hela hfsf hep3b hek293
+gabarap
+gapdh
+sb
+sb
+p38♡
+p38♢
+days
+days
+days
+0,5
+80
+70
+60
+50
+40
+30
+20
+10
+100
+80
+60
+40
+20
+800
+700
+600
+500
+400
+300
+200
+100
+figure 6 sb202190 induces autophagic cell death in colorectal cancer cells in a cell type-speciﬁc manner. (a–c) sw480, caco2 and hct116 cells were cultured in the
+absence or presence of sb202190 (sb) or a combination of sb202190 and 3-methyiladenine (3ma) for the indicated period of time. cells were suspended in a trypan blue
+solution or in a dye mix containing dapi and ethidium bromide. (a) relative viability (%) was estimated by calculating the ratio between viable cells in treated (sb, sbþ 3ma)
+versus untreated ( ) ht29. (b) the percentage of autophagic cells was estimated by phase-contrast microscopy and then veriﬁed by electron microscope evaluation. (c)
+relative cell death (%) represents the ratio between dead cells in treated versus untreated ht29. (d) equal number of hela, hfsf, hep3b and hek293 cells were seeded and
+cultured in the absence or presence of sb202190 for 24 h. cells were scored for autophagic activity (data not shown), and viability by trypan blue staining (viable cells/total
+number of cells). (e, f) sw480, caco2, hct116, hela, hfsf, hep3b and hek293 cells were cultured in the absence or presence of sb202190 for 24 h. relative abundance of
+gabarap (e) or p38 a and b (f) transcripts in the indicated cell lines were evaluated by genescan estimation of ﬂuorescent rt-pcr products and normalization on gapdh
+very interestingly, pretreatment with 3ma or puromycin
+reduces the number and size of vacuoles together with the
+percentage of autophagic cells in sb-treated crcs, whereas
+the induction of gabarap expression remains unaffected.
+3ma controls the activity of the pi3k class iii enzyme which is
+important in the early stages of autophagic vescicle formation
+by inducing the assembly of autophagosome precursors.22,23
+in yeast, pi3k/vps34 forms a multiprotein complex including
+also atg6 and atg14. in humans, the mammalian homolog
+of atg6, named beclin-1, has been found mutated in cancer
+cells revealing its causative role for autophagy deﬁciency in
+cancerogenesis.20
+autophagy is a cellular process that can ﬁnally consent cell
+survival
+in stress conditions or trigger type ii cell death
+depending on the cell type and speciﬁc stimuli.24,28 recent
+work indicates that several
+intracellular mediators of auto-
+phagy are deregulated during malignant transformation, with
+the autophagic activity.20,24,29
+a consequent reduction of
+cancer cell lines often have lower autophagic capacity than
+their normal counterparts and fail to respond to serum/amino-
+acid deprivation or high cell density. a decrease in autophagic
+capacity has been also observed during animal experimental
+carcinogenesis.20 another point underscoring the relevance
+of autophagy in cancer cells derives from the observation
+that some malignant cell types respond to chemotherapy or
+radiation by triggering autophagy,
+indicating the potential
+utility of autophagic cell death induction in cancer therapy.30
+treatment with rapamycin, temozolomide or arsenic trioxide
+of malignant glioma cells induces an autophagic cell death
+response.31–33 however that’s not always the case. in fact,
+characterization of the effects of two dna-damaging agents,
+such as temozolide and etoposide, suggests that
+these
+chemotherapy compounds induce an autophagy-associated
+atp surge that protects cells contributing to drug resistance of
+malignant glioma.34 moreover, autophagy could represent a
+defense mechanism against sulforaphane-induced apoptosis
+in prostate cancer cells and against dna-damaging agents in
+breast cancer.35,36 it has been recently shown that when cells
+with defects in apoptosis are subjected to metabolic stress,
+they activate autophagy to survive. inhibition of autophagy
+cell death and differentiation
+700
+sb202190 induces autophagic cell death in crcs
+f comes et al
+triggers a necrotic pathway leading to cell death. in solid
+tumors, this necrosis is associated with inﬂammation, which
+creates a microenvironment favoring survival and increased
+proliferation of a small population of damaged cells. the ﬁnal
+effect of this process is the enhancement of tumor growth.37
+thus, it seems that the role of autophagy in triggering survival
+or death in response to cancer therapies may vary depending
+on different cell types and treatments.
+according with our results, it seems that p38a blockade in
+crcs inhibits a survival pathway leading to autophagy, which
+probably initially represents a defense mechanism to survive.
+along the treatment, these autophagic cells die with features
+of non-apoptotic death indicating the occurrence of auto-
+phagic cell death or type ii programmed cell death. although the
+increased percentage of dead cells caused by 3ma-depen-
+dent inhibition of autophagy could appear in conﬂict with
+this hypothesis, but these cells actually showed distinctive
+traits of apoptosis. to explain these data we propose a model
+suggesting that autophagy represents a survival response
+to p38a blockade, but prolonged inactivation of the kinase
+leads to cell death. inhibition of autophagy breaks this process
+and triggers an apoptotic response. the effect of sb
+treatment in crcs recalls that of arsenic trioxide in glioma
+cells. in fact, the addition of an autophagy inhibitor enhances
+the antitumor effect through the switch between autophagic to
+apoptotic cell death.33 in accordance with this hypothesis,
+removal of sb within the ﬁrst 48 h of treatment induces a
+signiﬁcant time-dependent reduction in vacuole number and
+size together with a slow re-entry in the cell cycle with a
+dubling time of about 80 h (comes and simone, unpublished
+results).
+our experiments reveal that sb induces autophagic cell
+death in a cell type-speciﬁc manner as normal cells and
+cancer cells of different origin fail to respond to p38a blockade.
+therefore, our ﬁndings establish a rationale for the evaluation
+of p38a-speciﬁc inhibition as potential therapeutic tool, alone
+or in combination with other compounds, in the treatment
+of colorectal cancer. in fact, as reported in table 1, the
+crc lines used in these study display signiﬁcant differences
+both in genotype and phenotype. none of the molecular
+characteristics of these cells seem to be correlated with
+the common autophagic cell death response to sb.
+moreover, balb/c mice treated daily by intraperitoneal
+injection of sb for nine days survived without body and colon
+weight changes. it is noteworthy that the colon of these mice
+showed normal architecture at the histological analysis.38
+furthermore, a novel strategy for local delivery of sb has
+renal ﬁbrosis,39 indicating that
+been developed to treat
+pharmacological manipulation of p38 is emerging as a
+potential therapeutic tool for a number of human diseases.
+in this sense, our study might have an even broader interest.
+in conclusion, the experimental model we have described
+can represent a useful system to study human autophagy
+in vitro.
+materials and methods
+reagents. sb202190 (10 mm), pd98059 (20 mm), ly294002 (25 mm),
+rapamycin (100 nm) and nab (1–5 mm) were purchased from calbiochem;
+puromycin (10 mm), 3-methyladenine (10 mm), sudan black b, oil red o, trypan
+blue, dapi and ethidium bromide were purchased from sigma.
+cell culture and microscopic quantitation of proliferation,
+viability and cell death. ht29, sw480, hct116 and caco2 cells were
+cultured as described.40 ls174t, hep3b, hela, hek293, c2c12, ch310t1/2,
+nih3t3 and rd cells were maintained in dmem with 10% fbs. hfsf were isolated
+and cultured as described.40 the proliferation, viability and cell death of the reported
+cell
+lines were scored by cell counting. brieﬂy, at the indicated time points the
+supernatants (containing dead/ﬂoating cells) were collected, and the remaining
+adherent cells were detached with trypsin/edta. after that, both cell suspensions
+were mixed and cell pellets were obtained. cell pellets were suspended in pbs 1
+and then 10 ml were mixed with equal volume of 0.01% trypan blue solution. the
+mixture was then transferred to the hemacytometer. viable cells (unstained cells)
+and dead cells (stained cells) were counted with a phase-contrast microscope
+( 40). to score the proliferation rate the entire counting grid was analyzed,
+whereas to evaluate viability 200 cells were counted. to determine the percentage
+of cells dying for apoptotic or non-apoptotic cell death, 25 ml of cell suspensions
+were mixed with 1 ml of dye mix containing dapi (1 mg/ml) and ethidium bromide
+(100 mg/m). the mixture was placed on a microscope slide and covered with a
+22 mm2 coverslip. the slides were examined with the ‘zeiss axioskop 2 plus’
+ﬂuorescent microscope ( 400). for each sample 200 cells were counted and
+recorded as v (viable cells), nvn (non-viable cells with normal nuclei) and nva
+(non-viable cells with apoptotic nuclei). the % of apoptotic versus non-apoptotic
+dead cells was calculated (% apoptotic cells¼ 100 nva/(vaþ nvnþ nva); %
+non-apoptotic cells¼ 100 nvn/(vaþ nvnþ nva)).
+to avoid possible inﬂuence of cell density on cell growth and survival, every set
+of experiments (at least three replicates) was performed by seeding cells at different
+densities: from 50 103 to 500 103 cells in six-well dishes and from 500 103 to
+1000 103 in 60-mm-diameter dishes. the data shown in the ‘results’ section are
+representative of three or more independent sets of experiments.
+dna fragmentation assay. the supernatants were mixed with the
+remaining adherent cells detached with trypsin/edta, and cell pellets were
+suspended in hypotonic lysis buffer. after centrifugation at 14 000 r.p.m. for 20 min,
+proteinase k and then rnasi a, was added. samples were subjected to double
+phenol/chloroform extraction, dna precipitation, suspension in te and loaded into
+1% agarose gel.
+rna interference. ht29 cells were seeded at 1500 103 cells/well in six-well
+dishes. twenty-four hours after seeding, cells were transfected with 200 pmol of
+sigenome smartpool
+from dharmacon (m-003512-05-0005)
+containing four sirna duplexes direct against p38a or p38b open-reading frame
+using 10 ml of lipofectamine 2000 (invitrogen, carlsbad, ca, usa).
+reagent
+rna extraction and cdna synthesis. total rna was extracted with
+trizol reagent (invitrogen, carlsbad, ca, usa) following the manufacturer’s
+instruction. to avoid possible dna contaminations, rna was treated with dnaase-
+1 (ambion, austin, tx, usa). rna purity was also checked by spectrophotometer
+and rna integrity by examination on agarose gel electrophoresis.
+in every
+experiment, one to four micrograms of total rna were retro-transcribed using high
+capacity dna archive kit (applied biosystem, foster city, ca, usa) and following
+the manufacturer’s instruction.
+semiquantitative rt-pcr. rt-pcr was performed using speciﬁc primers
+whose sequence is available on request. standard curves were performed using
+serial dilutions of cdna to deﬁne the dynamic range and calculate the ampliﬁcation
+efﬁciency (see figure 1). the pcr conditions were the following: 5 min at 941c for
+one cycle; 30 s at 941c, 30 s at 59–621c and 1 min at 681c for 22–28 cycles. to
+quantify the relative abundance of gene-speciﬁc transcripts, ﬂuorescent-labelled
+pcr products were analyzed on an abi310 sequencer (applied biosystems, foster
+city, ca, usa) with genescan software following the manufacturer’s instruction,
+and normalized to gapdh transcripts (see supplementary figure 1). multiplex rt-
+pcr was performed with quiagen multiplex pcr master mix using speciﬁc primers
+described previously.25
+quantitative real-time pcr. to detect mrna expression levels for the p38
+a and b genes, primers were designed using primer express software spanning
+intron/exon boundaries whenever possible. pcr assays were performed in 96-well
+optical reaction plates using the abi 7500ht machine (applied biosystem, foster
+city, ca, usa). pcr assays were conducted in triplicate wells for each sample. the
+following reaction mixture per well was used: 10 ml power syber green (applied
+cell death and differentiation
+sb202190 induces autophagic cell death in crcs
+f comes et al
+701
+biosystem, foster city, ca, usa), 2.4 ml of primers at the ﬁnal concentration of
+150 nm, 4.6 ml rnaase free water, 3 ml cdna. for all experiments the following
+pcr conditions were used: 951c for 10 min, followed by 40 cycles at 951c for 15 s
+then at 601c for 60 s. quantitative normalization of cdna in each sample were
+performed using cyclophillin mrna as internal control. relative quantiﬁcation was
+carried out using the ddct method. mock-transfected cells were used as calibrator
+to determine relative expression level.
+immunoblot assay. immunoblots were performed according to the cell
+signaling instructions. brieﬂy, cells were homogenized by sonication in 1 sds
+sample buffer (62.5 mm tris-hcl ph 6.8, 2% w/v sds, 10% glycerol and 50 mm
+dtt). 50 mg of protein extract from each sample were electrophoresed in a 10%
+sds-polyacrylamide gel and transferred to hybond-p pvdf membrane (amersham
+biosciences, piscataway, nj, usa). the blots were blocked 1 h at rt in blocking
+buffer (1 tbs, 0.1% tween-20 with 5% w/v non-fat dry milk) and washed with
+tbs/t. the membranes were incubated with anti-p38 antibody (cell signaling;
+1 : 1000) in 10 ml primary antibody dilution buffer (1 tbs, 0.1% tween-20 with 5%
+bsa) overnight at 41c. after that, the blots were extensively washed and incubated
+with the anti-rabbit secondary horseradish peroxidase conjugate antibody (1:20 000;
+amersham biosciences, piscataway, nj, usa) in blocking buffer for 45 min, then
+washed and developed with the ecl chemiluminescence reagent (amersham
+biosciences, piscataway, nj, usa) as directed by the manufacturer.
+morphological evaluation. numerous slides with a monolayer cells were
+either rapidly ﬁxed in 95% ethyl alcohol for a minimum of 15 min (before staining with
+papanicolaou and pas) or unﬁxed (before staining for lipids with sudan black b, oil
+red o). slides were examined by optic microscopy (nikon eclipse 80i).
+measurement of vacuole size. digital
+images of living vacuolated cells
+were imported on adobe photoshop software, version 7.0. the diameter of each
+vacuole in 50 randomly selected cells was measured and expressed in a pixel scale.
+the length of one grid in a micro-grid slide was also measured in a pixel scale. the
+diameter of each vacuole on a pixel scale was converted into micrometers based on
+the pixels of the standard grid length. the resolution of all the images was kept
+constant during the whole procedure.
+electron microscopy. cells were ﬁxed in 3% gta in phosphate buffer 0.1 m
+for 2 h, washed in the same buffer and then post-ﬁxed in 1% oso4 at 41c.
+afterwards, cells were scraped with a rubber bar, dehydrated in graded ethanols,
+and embedded in epon 812. ultrathin sections (60 nm) were cut with a diamond
+knife on a lkb-v ultratome, stained with uranyl acetate followed by lead cytrate and
+examined under a ‘zeiss 9a’ electron microscope. to score autophagy 100 cells for
+each sample were counted.
+acknowledgements. we thank marie basso for her editorial assistance; drs
+fp jori, n resta and a stella, for their helpful discussion during the preparation of
+the manuscript. this work was partly supported by a grant from the associazione
+italiana ricerca sul cancro (to am) and a grant from fondazione carime (to gg).
+8. schwab m, reynders v, ulrich s, zahn n, stein j, schroder o. ppargamma is a key
+target of butyrate-induced caspase-3 activation in the colorectal cancer cell line caco-2.
+apoptosis 2006; 11: 1801–1811.
+9. laprise p, chailler p, houde m, beaulieu jf, boucher mj, rivard n. phosphatidylinositol
+3-kinase controls human intestinal epithelial cell differentiation by promoting adherens
+junction assembly and p38 mapk activation. j biol chem 2002; 277: 8226–8234.
+10. houde m, laprise p, jean d, blais m, asselin c, rivard n. intestinal epithelial cell
+differentiation involves activation of p38 mitogen-activated protein kinase that regulates the
+homeobox transcription factor cdx2. j biol chem 2001; 276: 21885–21894.
+11. simone c, forcales sv, hill da,
+imbalzano an, latella l, puri pl. p38 pathway
+targets swi-snf chromatin-remodeling complex to muscle-speciﬁc loci. nat genet 2004;
+36: 738–743.
+12. simone c. swi/snf:
+the crossroads where extracellular signaling pathways meet
+chromatin. j cell physiol 2006; 207: 309–314.
+13. hiramoto t, nakanishi t, sumiyoshi t, fukuda t, matsuura s, tauchi h et al. mutations of
+a novel human rad54 homologue, rad54b, in primary cancer. oncogene 1999; 18:
+3422–3426.
+14. faust d, dolado i, quadrado a, oesch f, weiss c, nebrada ar et al. p38alpha mapk is
+required for contact inhibition. oncogene 2005; 24: 7941–7945.
+15. surez-cuervo c, merrell ma, watson l, harris kw, rosenthal el, vaananen hk et al.
+breast cancer cells with inhibition of p38alpha have decreased mmp-9 activity and exhibit
+decreased bone metastasis in mice. clin exp metastasis 2004; 21: 525–533.
+16. gout s, morin c, haule f, huot j. death receptor-3, a new e-selectin counter-receptor that
+confers migration and survival advantages to colon carcinoma cells by triggering p38 and
+erk mapk activation. cancer res 2006; 66: 9117–9124.
+17. demidov on, kek c, shreeram s, timoffev o, fornace aj, appella e et al. the role of the
+mkk6/p38 mapk pathway in wip1-dependent regulation of erbb2-driven mammary gland
+tumorigenesis. oncogene 2006; (e-pub ahead of print).
+18. bakin av, rinehart c, tomlinson ak, harteaga cl. p38 mitogen-activated protein kinase is
+required for tgfbeta-mediated ﬁbroblastic transdifferentiation and cell migration. j cell sci
+2002; 115: 3193–3206.
+19. halawani d, mondeh r, stanton la, beier f. p38 map kinase signaling is necessary for rat
+chondrosarcoma cell proliferation. oncogene 2004; 23: 3726–3731.
+20. gozuacik d, kimchi a. autophagy as cell death and tumor suppressor mechanism.
+oncogene 2004; 23: 2891–2906.
+21. abeliovich h, dunn jr wa, kim j, klionsky dj. dissection of autophagosome biogenesis
+into distinct nucleation and expansion steps. j cell biol 2000; 151: 1025–1034.
+22. tassa a, roux mp, attaix d, bechet dm. class iii phosphoinositide 3-kinase–beclin1
+complex mediates the amino acid-dependent regulation of autophagy in c2c12 myotubes.
+biochem j 2003; 376: 577–586.
+23. petiot a, ogier-denis e, blommaart ef, meijer aj, codogno p. distinct classes of
+phosphatidylinositol 30-kinases are involved in signaling pathways that control
+macroautophagy in ht-29 cells. j biol chem 2000; 275: 992–998.
+24. tsujimoto y, shimizu s. another way to die: autophagic programmed cell death. cell death
+differ 2005; 12 (suppl 2): 1528–1534.
+25. vachon ph, harnois c, grenier a, dufour g, bouchard v, han j et al. differentiation state-
+selective roles of p38 isoforms in human intestinal epithelial cell anoikis. gastroenterology
+2002; 123: 1980–1991.
+26. vom dahl s, dombrowski f, schmitt m, schliess f, pfeifer u, ussinger d. cell hydration
+controls autophagosome formation in rat liver in a microtubule-dependent way downstream
+from p38mapk activation. biochem j 2001; 354: 31–36.
+27. prick t, thumm m, kohrer k, haussinger d, vom dahl s. in yeast, loss of hog1 leads to
+osmosensitivity of autophagy. biochem j 2006; 394: 153–161.
+28. kabeya y, mizushima n, yamamoto a, oshitani-okamoto s, ohsumi y, yoshimori t. lc3,
+gabarap and gate16 localize to autophagosomal membrane depending on form-ii
+formation. j cell sci 2004; 117: 2805–2812.
+29. codogno p, meijer aj. autophagy and signaling: their role in cell survival and cell death.
+1. samoha s, arber n. cyclooxygenase-2 inhibition prevents colorectal cancer: from the
+cell death differ 2005; 12 (suppl 2): 1509–1518.
+bench to the bed side. oncology 2005; 69 (suppl 1): 33–37.
+2. mcgartland lp, mulcahy mf, benson iii ab. pre- and postoperative adjuvant therapy for
+locally advanced rectal cancer. clin adv hematol oncol 2004; 2: 806–814.
+3. medina v, afonso jj, alvarez-arquelles h, hernandez c, gonzalez f. sodium butyrate
+inhibits carcinoma development in a 1,2-dimethylhydrazine-induced rat colon cancer.
+j parenter enteral nutr 1988; 22: 14–17.
+4. van den brink gr, bleuming sa, hardwick jc, schepman bl, offerhaus gj, keller jj
+indian hedgehog is an antagonist of wnt signaling in colonic epithelial cell
+et al.
+differentiation. nat genet 2004; 36: 277–282.
+5. luongo d, mazzarella g, della rf, maurano f, rossi m. down-regulation of erk1 and
+erk2 activity during differentiation of the intestinal cell line ht-29. mol cell biochem 2002;
+231: 43–50.
+6. orchel a, dzierzewicz z, parﬁniewicz b, weglarz l, wilczok t. butyrate-induced
+differentiation of colon cancer cells is pkc and jnk dependent. dig dis sci 2005; 50:
+490–498.
+7. archer sy, johnson j, kim hj, ma q, mou h, daesety v et al. the histone deacetylase
+inhibitor butyrate downregulates cyclin b1 gene expression via a p21/waf-1-dependent
+mechanism in human colon cancer cells. am j physiol gastrointest liver physiol 2005;
+289: g696–g703.
+30. marx j. autophagy: is it cancer’s friend or foe? science 2006; 312: 1160–1161.
+31. takeuchi h, kondo y, fujiwara k, kanzawa t, aoki h, mills gb et al. synergistic
+augmentation of
+in malignant glioma cells by
+phosphatidylinositol 3-kinase/protein kinase b inhibitors. cancer res 2005; 65:
+3336–3346.
+rapamycin-induced autophagy
+32. kanzawa t, germano im, komata t, ito h, kondo y, kondo s. role of autophagy in
+temozolomide-induced cytotoxicity for malignant glioma cells. cell death differ 2004; 11:
+448–457.
+33. kanzawa t, kondo y, ito h, kondo s, germano i. induction of autophagic cell death in
+malignant glioma cells by arsenic trioxide. cancer res 2003; 63: 2103–2108.
+34. katayama m, kawaguchi t, berger ms, pieper ro. dna damaging agent-induced
+autophagy produces a cytoprotective adenosine triphosphate surge in malignant glioma
+cells. cell death differ 2006; 1 september; (e-pub ahead of print).
+35. herman-antosiewicz a, johnson de, singh sv. sulforaphane causes autophagy to inhibit
+release of cytochrome c and apoptosis in human prostate cancer cells. cancer res 2006;
+66: 5828–5835.
+36. abedin mj, wang d, mcdonnell ma, lehmann u, kelekar a. autophagy delays apoptotic
+death in breast cancer cells following dna damage. cell death differ 2006; 22 september;
+(e-pub ahead of print).
+cell death and differentiation
+702
+sb202190 induces autophagic cell death in crcs
+f comes et al
+37. degenhardt k, mathew r, beaudoin b, bray k, anderson d, chen g et al. autophagy
+promotes tumor cell survival and restricts necrosis, inﬂammation, and tumorigenesis.
+cancer cell 2006; 10: 51–64.
+38. ten hove t, van den blink b, pronk i, drillenburg p, peppelenbosch mp, van deventer sj.
+dichotomal role of inhibition of p38 mapk with sb 203580 in experimental colitis. gut
+2002; 50: 507–512.
+39. prakash j, sandovici m, saluja v, lacombe m, schaapveld rq, de borst m et al.
+intracellular delivery of the p38 mapk inhibitor sb202190 in renal tubular cells: a novel
+strategy to treat renal ﬁbrosis. j pharmacol exp ther 2006; 319: 8–19.
+40. corin i, di giacomo mc, lastella p, bagnulo r, guanti g, simone c. tumor-speciﬁc
+hyperactive low-molecular-weight cyclin e isoforms detection and characterization in non-
+metastatic colorectal tumors. cancer biol ther 2006; 5: 198–203.
+supplementary information accompanies the paper on cell death and differentiation website (http://www.nature.com/cdd)
+cell death and differentiation

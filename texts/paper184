@@ -1,0 +1,1668 @@
+cellular microbiology (2007) 9(4), 891–909
+doi:10.1111/j.1462-5822.2006.00838.x
+first published online 3 november 2006
+the autophagic pathway is actively modulated by
+phase ii coxiella burnetii to efficiently replicate in the
+host cell
+patricia s. romano,1 maximiliano g. gutierrez,1
+walter berón,1 michel rabinovitch2 and
+maría i. colombo1*
+1laboratorio de biología celular y molecular,
+ihem-conicet, facultad de ciencias médicas,
+universidad nacional de cuyo – mendoza, 5500,
+argentina.
+2departamento de microbiologia, imunologia e
+parasitologia, escola paulista de medicina, unifesp
+sao paulo, brazil.
+summary
+the etiologic agent of q fever coxiella burnetii, is an
+intracellular obligate parasite that develops large
+vacuoles with phagolysosomal characteristics, con-
+taining multiple replicating bacteria. we have previ-
+ously shown that phase ii c. burnetii replicative
+vacuoles generated after 24–48 h post infection are
+decorated with the autophagic protein lc3. the aim
+of the present study was to examine, at earlier stages
+of infection, the distribution and roles of the small
+gtpases rab5 and rab7, markers of early and late
+endosomes respectively, as well as of the protein lc3
+on c. burnetii trafficking. our results indicate that: (i)
+coxiella phagosomes (cph) acquire the two rab pro-
+teins sequentially during infection; (ii) overexpres-
+sion of a dominant negative mutant form of rab5, but
+not of rab7, impaired coxiella entry, whereas both
+rab5 and rab7 dominant negative mutants inhibited
+vacuole formation;
+(iii) cph colocalized with the
+protein lc3 as early as 5 min after infection; acquisi-
+tion of this protein appeared to be a bacterially driven
+process, because it was inhibited by the bacterio-
+static antibiotic chloramphenicol and (iv) c. burnetii
+delayed the arrival of the typical lysosomal protease
+cathepsin d to the cph, which delay is further
+increased by starvation-induced autophagy. based
+on our results we propose that c. burnetii transits
+received 22 june, 2006; revised 6 september, 2006; accepted 20
+september, 2006.
+*for correspondence. e-mail mcolombo@
+fcm.uncu.edu.ar;
+fax
+(+54) 261 4494117.
+(+54) 261 4494143
+tel.
+ext.
+2690;
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd
+through the normal endo/phagocytic pathway but
+actively interacts with autophagosomes at early times
+after infection. this intersection with the autophagic
+pathway delays fusion with the lysosomal compart-
+ment possibly favouring the intracellular differentia-
+tion and survival of the bacteria.
+introduction
+phagocytosis is the process that cells use to internalize
+large particles such as mineral debris, apoptotic cells and
+pathogens (aderem, 2002; vieira et al., 2002; stuart and
+ezekowitz, 2005). in this process, the particle is loaded in
+a relatively large membrane compartment called phago-
+some which undergoes characteristic changes during its
+transit, mainly by interaction with the endocytic pathway
+(desjardins et al., 1994). using latex beads as a model, it
+was demonstrated that several proteins are acquired by
+phagosomes during their transport. many of these pro-
+teins regulate fusion–ﬁssion events with other membrane
+compartments. the family of small gtpases rab plays a
+crucial role in membrane trafficking of eukaryotic cells,
+regulating tethering, docking and fusion events among
+different compartments (zerial and mcbride, 2001).
+rab5 is the best characterized of the endosomal rab
+proteins. it has been shown that this protein regulates
+clathrin-coated vesicle formation, endosome motility and
+early endosome fusion (nielsen et al., 1999; rubino et al.,
+2000). rab5 also regulates the initial events in the phago-
+cytic pathway (duclos et al., 2000; roberts et al., 2000).
+numerous studies have demonstrated that the acquisition
+of this protein by phagosomes can modulate the intracel-
+lular fate of pathogens such as salmonella sp. and myco-
+bacterium tuberculosis, (clemens and horwitz, 1996;
+fratti et al., 2001). several rab5 interacting proteins have
+been identiﬁed such as rabenosyn-5, rabaptin-5 and
+rabex-5 (vieira et al., 2002). the early endosomal
+antigen 1 (eea1) is a rab5 effector that regulate fusion
+events between early endosomes and has been involved
+in phagolysosome biogenesis (via et al., 1997; fratti
+et al., 2001; vieira et al., 2001). microinjection of antibod-
+ies against eea1 hampered the phagosomal acquisition
+of late endocytic markers, such as lysophosphatidic acid
+and mannose 6-phosphate receptor (fratti et al., 2001).
+892 p. s. romano et al.
+rab7 is another rab protein more speciﬁcally related
+with degradative compartments such us late endosomes
+and lysosomes (feng et al., 1995; vitelli et al., 1997).
+several studies have demonstrated that rab7 is impor-
+tant for the maintenance of the perinuclear lysosomal
+compartment by controlling the aggregation and fusion
+between late endocytic structures and lysosomes (papini
+et al., 1997; bucci et al., 2000; cantalupo et al., 2001).
+even though little is known about the later stages of
+phagosomal maturation, it is believed that rab7 function
+is needed for phagolysosome formation. indeed, in dicty-
+ostelium a dominant negative rab7 mutant interfered with
+phagosomal maturation (rupper et al., 2001). also, it has
+been shown that in permeabilized macrophages at least
+one rab protein, conceivably rab7,
+is required in
+phagosome–lysosome fusion because this process is
+substantially inhibited by rab gdp dissociation inhibitor
+(funato et al., 1997). the harsh environment of
+the
+phagolysosome, represented by the presence of hydro-
+lytic enzymes such as cathepsin d and an extremely
+acidic ph, contributes to death and degradation of the
+internalized particle and provides a host defence against
+intracellular pathogens.
+autophagy is a physiological process required for the
+removal of aged organelles and cytosolic components
+(reviewed by klionsky and emr, 2000; yoshimori, 2004).
+this pathway is important during cellular remodelling and
+differentiation and is activated during cell stress or
+damage by exposure to cytotoxins (dorn et al., 2002).
+different groups have identiﬁed many molecules involved
+in the autophagy process in both yeast and mammalian
+cells (tsukada and ohsumi, 1993; thumm et al., 1994;
+mizushima et al., 2001). the product of the yeast atg8
+gene is a protein that is stimulated in response to nutrient
+starvation (lang et al., 1998; kirisako et al., 1999). lc3 is
+a mammalian homologue of the yeast atg8 and is tar-
+geted to autophagosomal membranes after a post-
+translational processing that involves the conjugation with
+the lipid phosphatidylethanolamine (kabeya et al., 2000).
+like phagocytosis, autophagy is a lysosomal process
+that ends
+called
+autophagolysosome. moreover, some endosomal pro-
+teins like rab7 are indispensable during autophagosomal
+maturation (gutierrez et al., 2004; jager et al., 2004),
+indicating the interaction between endocytic and auto-
+phagic pathways.
+in a degradative compartment
+a subset of bacterial pathogens invades the host cell
+using classical phagocytosis to escape the dangerous
+extracellular environment, evading the immune response.
+several microorganisms manipulate the cell machinery in
+their own beneﬁt establishing a replicative niche with
+access to host nutrients (vieira et al., 2002). these suc-
+cessful organisms have different strategies for intracellu-
+lar survival. some microorganisms interfere with the
+normal maturation of the phagosome to phagolysosomes
+such as m. tuberculosis (sturgill-koszycki et al., 1994; via
+et al., 1997) whereas others pathogens, such as listeria
+monocytogenes (gouin et al., 1999) and trypanosoma
+cruzi (ley et al., 1990), escape from the phagosome and
+replicate in the cytosol. a third group of microorganisms
+reside in autophagosome-like vacuoles. that is the case
+of virulent legionella pneumophila (coers et al., 1999;
+amer and swanson, 2005), porphyromonas gingivalis
+(dorn et al., 2002) and brucella abortus (pizarro-cerda
+et al., 1998).
+forms:
+coxiella burnetii, the aetiological agent of q fever in
+humans, is an obligate intracellular microorganism that
+invades and replicates in a wide range of cells lines, such
+as ﬁbroblasts, epithelial cells and macrophages (heinzen
+et al., 1999). this pleomorphic bacterium exists in two
+morphological and developmental
+the non-
+replicating and more resistant small cell variant (scv) and
+the vegetative and replicating large cell variant (lcv)
+(heinzen et al., 1999; coleman et al., 2004). by 48 h post
+infection, this gram negative bacterium develops a large
+replicative vacuole [coxiella replicative vacuole (crv)]
+with characteristics of typical phagolysosome (akporiaye
+et al., 1983; heinzen et al., 1996). hydrolytic enzymes
+like acid phosphatase and lysosomal ﬂuid phase markers
+are found in crvs (heinzen et al., 1999; howe and mal-
+lavia, 2000). our group has previously demonstrated that
+the large, acidiﬁed crvs display autophagic features
+(beron et al., 2002) and that the induction of autophagy
+and overexpression of proteins involved in the autophagic
+pathway favours the infection and generation of this cox-
+iella replicative niche (gutierrez et al., 2005). therefore,
+coxiella belongs to a group of bacteria that subverts the
+autophagic pathway for their own beneﬁt. in a recent
+report, we have presented evidence that incubation of
+cells under starvation conditions causes a signiﬁcantly
+increase in the percentage of lcv at 24 h after infection
+(gutierrez and colombo, 2005). apparently the interaction
+of crvs with autophagic vesicles provides key nutrients
+required to trigger the morphological differentiation from
+scv to lcv.
+although certain characteristics about the biogenesis of
+crv have been described (heinzen et al., 1999; coleman
+et al., 2004), very little is known about the initial transport
+steps of coxiella phagosomes (cph) and the relationship
+between phagocytic and autophagic pathways at early
+times after infection. in the present report we have studied
+at a molecular level, the mechanisms that control the
+transport and development of cph. here we demonstrate
+that endocytic proteins such as rab5 and rab7 are
+acquired by cph at very early times of infection. our
+results indicate that although only rab5 favour coxiella
+invasion, both proteins are required for the initial transport
+events and for establishing the crv. moreover, we dem-
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 891–909
+onstrate that lc3, the speciﬁc autophagosomal protein is
+acquired as early as 5 min after infection and that this
+recruitment is dependent on the microorganism protein
+synthesis. furthermore, we show that c. burnetii delays
+the acquisition of lysosomal enzymes by cph and that this
+effect
+is increased in cells subjected to starvation
+conditions. taken together our results indicate that the
+interaction with autophagic pathway occurs early during
+infection and that this interaction, likely modulated by the
+pathogen, favours coxiella infection by delaying fusion
+with the lysosomal compartment.
+results
+coxiella burnetii phagosomes interact with endocytic
+compartments at early times post infection
+as indicated in the introduction, to date little is known
+about the phagocytosis process of c. burnetii and the
+early events post infection. the majority of the studies
+have characterized the crv which is generated after
+24–48 h post infection (akporiaye et al., 1983; heinzen
+et al., 1996; 1999). in the present report we have explored
+the early transport of cph and the relationship of this
+pathogen with the phagocytic and autophagic pathways at
+very short times after infection (i.e. 5 min) as well as after
+longer incubation periods. chinese hamster ovary (cho)
+cells overexpressing rab5 and rab7 proteins as green
+ﬂuorescent protein (gfp) constructs (gfp-rab5wt and
+gfp-rab7wt) were infected with c. burnetii using a mul-
+tiplicity of
+infection (moi) of 50. the bacterium was
+detected by indirect immunoﬂuorescence using a speciﬁc
+antibody (see experimental procedures). as a control,
+cells overexpressing gfp alone were used. we observed
+by confocal microscopy that at 40 min post infection, cph
+localized with gfp-rab5- and gfp-rab7-labelled com-
+partments but do not associate with gfp alone in the
+vector cells (fig. 1a). as rab5 labels early endocytic
+compartments and rab7 is localized in late endosomes
+and lysosomes, these results suggest that cph transit via
+the normal endocytic/phagocytic pathway after cell
+invasion. to conﬁrm this observation we quantiﬁed the
+percentage of colocalization of cph with gfp-rab5wt
+and gfp-rab7wt at different
+times after infection. at
+5 min after infection, 58% of cph were labelled with
+rab5wt, reached 73% at 20 min and decreased to 56% in
+the following 40 min, whereas at 5 min only 34% of cph
+localized with rab7wt and then this percentage increased
+to 47% and 76% at 20 and 60 min respectively (fig. 1b).
+published work has established comparable endocytic
+marker conversion kinetics in epithelial cells, in both the
+endocytic (rink et al., 2005) and phagocytic process
+(vieira et al., 2003). these data indicate that cph asso-
+ciate with rab5-labelled structures at early times and then
+coxiella exploits the autophagic pathway 893
+this localization decreased while the cph acquired later
+endocytic markers like rab7.
+the eea1 is one of the best-characterized effectors of
+rab5 that favours docking/fusion events in the endocytic
+pathway (simonsen et al., 1998; callaghan et al., 1999).
+it has been shown that some pathogens inhibit the incor-
+poration of this protein in their phagosomes as a way to
+avoid subsequent lysosomal fusion (fratti et al., 2001).
+therefore, it was of interest to determine the localization
+of eea1 on the cph. using a speciﬁc antibody we
+detected endogenous eea1 in stably transfected cells
+overexpressing gfp-rab5wt at 40 and 60 min (fig. 1c)
+after infection.
+interaction
+cph ¥ eea1 signiﬁcantly increased from 40 to 60 min
+(78.5% to 97%) whereas, the interaction cph ¥ rab5 was
+reduced at these times in a similar way as indicated in
+fig. 1b (data not shown), taken together, these data indi-
+cated that coxiella enter into the host cell by classical
+phagocytosis and follow a maturation route gradually
+acquiring rab5 and rab7 by interaction with endocytic
+compartments.
+the degree of
+interestingly,
+rab5 and rab7 regulate invasion and vacuole
+development during coxiella infection
+rab 5 and rab7 are critical regulatory factors of trafficking
+through the endocytic pathway (pfeffer, 2001; deneka
+et al., 2003). key regulatory functions of these proteins
+have been uncovered mainly by the use of mutated pro-
+teins both in in vivo and in vitro assays. the rab5q79l
+mutant defective in gtp hydrolysis results in accumula-
+tion of enlarged endosomes and increased in vitro endo-
+some fusion. conversely, a mutation that
+renders a
+protein defective in gtp binding (i.e. rab5s34n) leads to
+small endosomes and inhibition of endocytosis (gorvel
+et al., 1991; stenmark et al., 1994). likewise, rab7
+mutants with a deﬁcient gtpase activity generate
+enlarged late endocytic structures whereas expression of
+a gdp-locked mutant leads to small vesicles scattered
+throughout the cytoplasm and inhibition of transport from
+early to late endosomes, as well as degradative events
+(feng et al., 1995; vitelli et al., 1997). to determine the
+role of rab5 and rab7 in coxiella invasion and cph
+transport we used cho cells overexpressing the wild-type
+forms of these proteins and their respective mutants gtp-
+locked (rab5q79l and rab7q67l) and gdp-locked
+(rab5s34n and rab7t22n) as gfp constructs. the bac-
+teria were detected by indirect immunoﬂuorescence at 20,
+40 and 60 min after infection. as shown in fig. 2a, cph
+strongly colocalized with rab5wt and the positive mutant
+rab5q79l. in contrast, the interaction with the negative
+mutant rab5s34n was low (30%) at all times analysed
+(fig. 2a and b). contrary to rab5wt that gradually disap-
+peared from cph between 40 and 60 min, rab5q79l
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 891–909
+894 p. s. romano et al.
+80
+60
+40
+20
+gfp
+cox
+overlay
+inset
+cox
+rab5-cox
+eea1-cox
+overlay
+rab7wt
+rab5wt
+20
+40
+60
+time (min)
+fig. 1. coxiella burnetii colocalizes with endocytic markers at early times after infection. stably transfected cho cells overexpressing
+gfp-rab5wt, gfp-rab7wt or gfp alone (vector) were infected for 5, 20, 40 and 60 min with c. burnetii (moi = 50) followed by detection of
+the bacterium by indirect immunoﬂuorescence as indicated in experimental procedures.
+a. confocal images showing the cph in the indicated cell types at 40 min after infection.
+b. percentage of colocalization between cph and rab5wt- or rab7wt-labelled compartments at different times after infection. the data
+represent the mean ⫾ sem of at least three independent experiments.
+c. colocalization of cph and endogenous eea1 in cells overexpressing rab5wt at 60 min after infection. this image was captured in a nikon
+te2000 inverted microscope. detail of the colocalization of cph with the different markers is shown in the insets. bars: 10 mm.
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 891–909
+coxiella exploits the autophagic pathway 895
+gfp-rab5
+cox
+overlay
+inset
+80
+60
+40
+20
+rab5q79l
+rab5wt
+rab5s34n
+100
+80
+60
+40
+20
+gfp
+rab5 wt
+rab5 s34n
+rab5 q79l
+**
+**
+***
+20
+40
+time (min)
+60
+20
+40
+time (min)
+***
+**
+60
+fig. 2. rab5 regulates coxiella invasion. cho cells were infected with recombinant sindbis viruses to overexpress gfp-rab5wt or the
+mutants gfp-rab5q79l or gfp-rab5s34n for 1 h and then incubated 8 h before infection with c. burnetii (moi = 50) as described in
+experimental procedures. after 20, 40 and 60 min of infection with the bacterium, cells were washed and processed to detect coxiella by
+indirect immunoﬂuorescence.
+a. localization of cph in the indicated cell types at 40 min after infection. insets show details of the different proteins recruited by the cph.
+images were captured using a confocal microscope.
+b. percentage of colocalization between cph and rab5wt-, rab5q79l- or rab5s34n-labelled compartments at 20, 40 and 60 min after
+infection.
+c. percentage of infection in the indicated cells types compared with control (gfp) cells at the infection times indicated in b. the data in b
+and c represent the mean ⫾ sem of at least three independent experiments (number of counted cells = 100). signiﬁcantly different from
+control: *p < 0.05; **p < 0.01; ***p < 0.001. bars: 10 mm.
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 891–909
+896 p. s. romano et al.
+increased in the phagosome membrane during this period
+(from 70% to 80%). these results are in agreement with
+our previous report that rab5q79l was present in the
+membrane of crv even after long time post infection
+(beron et al., 2002). moreover in these cells we observed
+an increased number of cph containing more than one
+bacterium (see inset rab5q79l in fig. 2a). taking into
+account that the generation time of c. burnetii was calcu-
+lated as ~10–12 h (coleman et al., 2004), this suggests
+that the positive mutant favours homotypic fusion events.
+we next analysed the effect of the overexpression of
+rab5wt and mutants in coxiella infection compared with
+vector transfected cells. we observed (fig. 2c) that while
+in gfp-overexpressing cells the percentage of infection
+(percentage of cells that contain at least one intracellular
+bacterium) was maintained around 35% between 20 and
+60 min post infection, in cells overexpressing rab5wt the
+infection reached 50% at 20 min and was increased up to
+68% in the following 40 min. this signiﬁcant difference
+(p < 0.01) with respect to the control (gfp cells) indicates
+that overexpression of rab5wt beneﬁts coxiella entry
+supporting the observation that cph interact with
+endocytic compartments.
+in contrast, rab5 dominant
+negative mutant (rab5s34n) reduced the infection to
+~ 20% at 40 and 60 min whereas rab5q79l increased
+coxiella internalization more than twofold (up to 80% at
+40 min and 93% at 60 min) (fig. 2c).
+with a similar methodology we evaluated the participa-
+tion of rab7wt and their mutants in coxiella infection.
+similar to rab5, rab7wt and rab7q67l colocalized with
+cph during the early steps of coxiella intracellular trans-
+port whereas the negative form rab7t22n interacted
+scarcely with the bacterial phagosomes (fig. 3a).
+however, in contrast to rab5, the percentage of infected
+cells did not change signiﬁcantly at early times of infection
+(i.e. 20 min) in cells overexpressing rab7wt or mutants,
+but differences were observed at
+later times (40 and
+60 min) (fig. 3b). these results indicate that although
+rab7 is present in the cph membrane, this protein does
+not signiﬁcantly participate in the entry process of
+c. burnetii. however, this protein is necessary for the
+transit of cph at later times. interestingly, the percentage
+of cells with two or more bacteria inside cph increased
+from 19% to 36% in rab7wt cells and from 25% to 39% in
+rab7q67l cells between 20 and 60 min after infection
+and reached 50% at 6 h after infection in cells overex-
+pressing either protein. this indicates that similar to rab5
+overexpression of rab7wt or gtp active mutant favours
+homotypic fusion of coxiella-containing phagosomes.
+moreover, at 6 h after infection small vacuoles decorated
+with rab7 begin to form (fig. 3c). thus, this observation
+suggests that rab7 participates in the transport of cph
+regulating their fusion and vacuole development at later
+times of infection.
+we further explored the participation of rab5 and rab7
+in c. burnetii vacuole development. cho cells were ﬁrst
+infected with coxiella and at 18 h post infection, cells were
+transfected with plasmids encoding rab5wt or rab7wt or
+their negatives mutants: rab5s34n and rab7t22n as
+gfp constructs. as a control, cells overexpressing gfp
+alone were used. after the 6 h transfection period, cells
+were incubated for an additional period of 48 h (see details
+in experimental procedures) to allow vacuole develop-
+ment. with this experimental design we avoided the effect
+of rab proteins in the invasion and early transport of cph.
+as shown in the fig. 4a, a unique and large crv was
+formed in cells overexpressing rab5wt or rab7wt whereas
+multiples and small crvs were observed in cells overex-
+pressing rab5s34n or rab7t22n. measurement of the
+vacuole diameter in each case demonstrated that a signiﬁ-
+cant decrease occurred in cells overexpressing negative
+mutants compared with gfp cells, whereas the wild-type
+proteins increased signiﬁcantly the crv size (fig. 4b).
+these data indicate that both rab proteins are necessary
+for the generation of the enlarged replicative vacuole sug-
+gesting membrane fusion between individual cph. in con-
+trast to rab5wt, rab7wt decorates the membrane of crv
+as we have shown before (beron et al., 2002). this obser-
+vation and the results described above show that rab7 is
+present on the coxiella-containing vesicles all time analy-
+sed, from cph at early times of infection (5 min 34%, see
+fig. 1b) to crv.
+lc3 is actively acquired at early times post infection
+in a previous work we have described the interaction
+between crvs and the autophagic pathway and showed
+that autophagic proteins decorate the membrane of crvs
+(beron et al., 2002). we have also demonstrated that
+physiological or pharmacological stimulation of autophagy
+in the host cell beneﬁts the development of crv (gutier-
+rez et al., 2005) whereas inhibition of autophagy delayed
+this process. here, we analysed the interaction between
+lc3, the best-characterized autophagosome marker, and
+cph at earlier times post infection. we also assessed the
+effect of lc3 overexpression on the infection process.
+cells overexpressing gfp-lc3 were infected with
+c. burnetii for different periods of time and the bacterium
+was detected by indirect immunoﬂuorescence using a
+speciﬁc antibody. as show in fig. 5a, lc3-labelled cph
+were found at 20 min post infection and the presence of
+this autophagic protein was maintained during all times
+studied from 5 min to 48 h (see fig. 6b, open circles).
+furthermore, the percentage of colocalization with lc3
+observed at 5 min post infection was approximately 50%,
+a comparable value to that obtained with rab5, indicating
+that early on after internalization the bacterium interacts
+with both the endocytic and autophagic pathways.
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 891–909
+80
+60
+40
+20
+coxiella exploits the autophagic pathway 897
+gfp-rab7
+cox
+overlay
+inset
+gfp-rab7wt (6 h)
+gfp
+rab7wt
+rab7t22n
+rab7q67l
+**
+20
+40
+time (min)
+60
+fig. 3. role of rab7 in coxiella infection. stably transfected cho cells overexpressing gfp-rab7wt, gfp-rab7q67l or gfp-rab7t22n
+were infected for 20, 40 and 60 min with c. burnetii (moi = 50) followed by detection of the bacterium by indirect immunoﬂuorescence.
+a. coxiella phagosomes in the indicated cell types at 60 min after infection visualized by confocal microscopy.
+b. percentage of infection in rab7wt, rab7q67l, rab7t22n and control (gfp) cells at 20, 40 and 60 min after infection. the data represent
+the mean ⫾ sem of at least three independent experiments (number of counted cells = 100). signiﬁcantly different from control: *p < 0.05;
+**p < 0.01.
+c. rab7wt is present in the small coxiella-containing vacuoles at 6 h post infection. detail of the colocalization of cph with the protein is
+shown in the insets. bars: 10 mm.
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 891–909
+898 p. s. romano et al.
+rab5wt
+rab5s34n
+inset rab5s34n
+rab7wt
+rab7t22n
+inset rab7t22n
+fig. 4. rab5 and rab7 regulate
+parasitophorous vacuole development in
+c. burnetii-infected cells. cho cells were
+infected with c. burnetii (moi = 10) for 18 h
+and then transfected with gfp plasmids
+encoding rab5wt, rab5s34n, rab7wt or
+rab7t22n as described in experimental
+procedures. as a control, cells overexpressing
+gfp alone were used.
+a. confocal images of vacuoles containing
+coxiella detected by immunoﬂuorescence
+after 72 h of infection in the indicated cell
+types. detail of the colocalization of cph with
+the rab5 and rab7 dominant negative
+mutants is shown in the insets.
+b. diameter of coxiella vacuoles estimated
+from the confocal images using the adobe
+photoshop program. the data represent the
+mean ⫾ sem of two independent experiments
+(number of measured vacuoles per condition:
+50). signiﬁcantly different from control:
+*p < 0.05; **p < 0.01. bars: 10 mm.
+g fp
+rab5wt
+rab5s34n
+**
+rab7t22n
+rab7wt
+however, while rab5 interacts temporally with cph to
+allow the progression into a mature compartment, lc3 is
+maintained for longer periods of
+time, even 24–48 h
+(figs 5a and 6b). it is important to mention that a similar
+pattern was observed in cho-infected cells and then
+processed to detect both the bacterium and endogenous
+lc3 with speciﬁc antibodies (fig. 5b), indicating that the
+colocalization with lc3 is not a consequence of overex-
+pression of the chimeric gfp-lc3 protein. furthermore, a
+quantiﬁcation analysis indicated that the percentage of
+infected cells was signiﬁcantly higher at 40 and 60 min
+than in control cells, indicating that overexpression of lc3
+favours coxiella infection (fig. 5c). besides the use of
+gfp-lc3 as an autophagosome marker, this protein pro-
+vides a sensible method to detect autophagy induction. as
+described in the introduction, in control conditions lc3
+remains soluble in the cytoplasm of the cell (likely lc3-i),
+but when autophagy is induced,
+this protein is trans-
+formed in lc3-ii acquiring a lipid tail and associating to
+autophagosome membrane. the change of lc3-i
+to
+lc3-ii is frequently indicated as ‘lc3 processing’. using
+an anti-gfp antibody we detected by western blot, in a
+lysate of infected cells, a double band corresponding to
+the gfp-lc3-i and gfp-lc3-ii
+this protein
+(fig. 5d, cox). similar bands were visualized in cells incu-
+bated under starvation conditions for 2 h in the presence
+of vinblastine to induce and accumulate autophagic vacu-
+oles (fig. 5d, s + v). in contrast, only one band corre-
+sponding to gfp-lc3-i was visualized in cells incubated
+under full nutrient conditions (ctr). this result conﬁrms
+that in c. burnetii-infected cells, lc3 is effectively pro-
+cessed and autophagy stimulated.
+forms of
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 891–909
+gfp-lc3
+cox
+overlay
+inset
+coxiella exploits the autophagic pathway 899
+fig. 5. coxiella phagosomes acquire lc3 at
+early times after infection.
+a. stably transfected cho cells
+overexpressing gfp-lc3 were infected with
+c. burnetii (moi = 50) and processed to
+detect the bacterium at 20, 40, 60 min and
+24 h post infection. images were captured
+using a confocal microscope. insets show
+details of the recruitment of lc3 by the cph.
+b. detection of c. burnetii and endogenous
+lc3 (e-lc3) by indirect immunoﬂuorescence
+using speciﬁc antibodies in cho cells infected
+for 24 h. confocal images are depicted.
+c. percentage of infection in
+gfp-lc3-transfected cells compared with
+cells transfected with the vector alone (gfp)
+at 20, 40 and 60 min after infection. the data
+represent the mean ⫾ sem of at least two
+independent experiments (number of counted
+cells = 100). signiﬁcantly different from
+control: *p < 0.05.
+d. immunoblotting to detect gfp-lc3 forms
+from cell extracts obtained from stably
+transfected cho cells overexpressing
+gfp-lc3 incubated in full nutrient control
+conditions (ctr); starvation media plus 100 mm
+vinblastine (s + v); or from cells infected with
+c. burnetii for 72 or 96 h (cox72 and cox96).
+bars: 10 mm.
+e-lc3
+crv
+60
+40
+20
+gfp
+lc3
+20
+40
+time (min)
+60
+ponceau s
+c ox 72
+s + v
+ctr
+m w
+c ox 96
+anti gfp
+c ox 72
+s + v
+ctr
+c ox 96
+m w
+55 kda
+40 kda
+to study the bacterial participation on the cph–lc3
+interaction we performed an assay using the bacterio-
+static antibiotic chloramphenicol that speciﬁcally inhibits
+prokaryote protein synthesis. c. burnetii was pre-
+incubated in infection medium with or without chloram-
+phenicol for 2 h as described in experimental procedures.
+next, cho cells overexpressing gfp-lc3 were infected
+and analysed at 5, 10, 20, 40 and 60 min and at 48 h post
+infection and the bacteria were detected with a speciﬁc
+antibody against surface antigens. in the treated condition
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 891–909
+fig. 6. coxiella protein synthesis is required
+for interaction with autophagic compartments.
+stably transfected cho cells overexpressing
+gfp-lc3 were infected with c. burnetii,
+previously pre-incubated for 2 h with
+(chloramphenicol, panels m–x) or without
+chloramphenicol (untreated, panels a–l) as
+indicated under experimental procedures.
+cells were incubated for different periods of
+time, ﬁxed and subjected to indirect
+immunoﬂuorescence to detect c. burnetii. in
+the treated condition chloramphenicol was
+also added to the culture media during the
+whole post-infection incubation period.
+a. confocal images of phagosomes
+containing coxiella detected by
+immunoﬂuorescence at 5 min, 20 min or 48 h
+of infection in the indicated conditions. insets
+show details of the colocalization of cph with
+gfp-lc3.
+b. percentage of colocalization between cph
+and lc3-labelled compartments at 5, 10, 20,
+40 and 60 min and at 48 h after infection.
+c. percentage of colocalization between cph
+and rab5- or rab7-labelled compartments at
+the indicated times after infection. bars:
+10 mm.
+900 p. s. romano et al.
+lc3
+cox
+overlay
+inset
+crv
+100
+80
+60
+40
+20
+80
+60
+40
+20
+untreated
+chloramphenicol
+20
+60
+40
+time (min-h)
+48h
+80
+60
+40
+20
+untreated
+chloramphenicol
+20
+40
+time (min)
+60
+untreated
+chloramphenicol
+20
+40
+time (min)
+60
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 891–909
+chloramphenicol was also added to the cells during the
+whole post-infection incubation period. strikingly, phago-
+somes containing the chloramphenicol inactivated bacte-
+ria did not colocalize with lc3 at all times studied (fig. 6a,
+panels m–x). in contrast, cph containing the untreated
+bacteria were clearly decorated with this protein even as
+early as 5 min (fig. 6a, panels a–l). quantiﬁcation of the
+percentage of bacteria that colocalize with lc3 indicates
+this protein interacts with ~50–60% of
+the total
+that
+intracellular bacteria at early times post
+infection
+(5, 10 and 20 min) and reached 90–95% at later times,
+whereas this interaction strongly decreased (10–20%) in
+chloramphenicol-treated bacteria at all
+times studied
+(fig. 6b). however, in the case of the endosomal markers
+rab5 and rab7 practically no differences in the acquisi-
+tion of these proteins to phagosomes containing inacti-
+vated or untreated bacteria were observed (fig. 6c).
+furthermore,
+in cells infected with chloramphenicol-
+treated coxiella no lc3 processing, as determined by
+western blot, was observed (not shown), indicating that a
+bacterial product(s) is required to stimulate lc3 process-
+ing in infected cells.
+the colocalization
+studies indicate that active bacterial protein synthesis is
+necessary to recruit lc3 or to fuse with pre-formed
+autophagosomes.
+in summary,
+it is important to mention that some of these bacterial
+factors are also critical for crv formation because this
+process did not occur in cells infected with inactivated
+bacteria and treated with chloramphenicol
+for 48 h
+(fig. 6a, compare panels i–l and u–x), conﬁrming previ-
+ous observations from other authors (howe et al., 2003;
+m. rabinovitch et al. unpubl. obs.), that bacterial protein
+synthesis is required for parasitophorous vacuole
+development.
+active c. burnetii delays fusion between cph and the
+lysosomal compartment
+because crv are typically described as phagolysosomes
+with acidic ph and the presence of lysosomal enzymes
+(heinzen et al., 1999; howe and mallavia, 2000), we
+analysed at what moment during coxiella infection the
+cph containing live or
+chloramphenicol-inactivated
+bacteria, acquire lysosomal markers. c. burnetii was
+pre-incubated in infection medium with or without
+chloramphenicol
+for 2 h as described in experimental
+procedures. next, cho cells were infected with live or
+inactivated c. burnetii and analysed at 20, 40 and 60 min
+and 72 h post infection, followed by detection of the bac-
+teria and the lysosomal enzyme cathepsin d, using spe-
+ciﬁc antibodies. as described before in the treated
+condition, chloramphenicol was also added to the cells
+during the whole post-infection incubation period.
+figure 7 shows that the distribution of the enzyme was
+coxiella exploits the autophagic pathway 901
+vesicular, predominantly localized in the perinuclear area,
+where late endocytic compartments commonly reside.
+interestingly, in untreated conditions, cph were scarcely
+labelled with cathepsin d at the earliest times studied (20
+and 40 min), whereas the degree of colocalization
+increased at 60 min (fig. 7a, panels a–d and i–l). in con-
+trast, cph containing inactivated bacteria were more
+extensively labelled with cathepsin d even at early times
+after infection (fig. 7a, panels e–h and m–p). quantiﬁca-
+tion studies showed that in untreated conditions the per-
+centage of colocalization at 20 min was 29% and
+increased to 64% at 60 min, whereas in the presence of
+chloramphenicol this percentage was 56% at 20 min and
+reached 86% at 60 min (fig. 7b). as a positive control, we
+used a prolonged infection time of 72 h in untreated con-
+dition and conﬁrmed that cathepsin d is present inside the
+crv at this time (fig. 7c). this difference in the transport
+of cathepsin d to cph containing live or inactivated bac-
+teria indicate that active c. burnetii regulates the lysoso-
+mal fusion process in an extremely precise way, delaying
+the arrival of
+lysosomal enzymes at early times after
+infection.
+autophagy induction facilitates c. burnetii to prevent
+fusion with lysosomes
+to avoid the early arrival of
+the results presented above show that cph interacts with
+both the phagocytic and autophagic pathways at
+the
+same time and that fusion with lysosomes is delayed at
+least for 1 h after infection. next we asked if the interac-
+tion between cph and autophagosomes could help
+c. burnetii
+lysosomal
+enzymes. to address this question, we assessed the
+presence of cathepsin d within cph in cells overexpress-
+ing lc3 in basal conditions or during autophagy induction.
+thus, cho cells overexpressing gfp-lc3 were pre-
+incubated for 2 h in full nutrient or starvation medium (see
+details in experimental procedures) and, subsequently,
+were infected with c. burnetii for 1 or 3 h. during this
+infection period,
+the respective incubation conditions
+were maintained. cells were then ﬁxed and processed
+to
+indirect
+immunoﬂuorescence. the bacteria were detected by
+hoechst staining. of interest, in cells incubated under
+starvation conditions a marked decrease in the colocal-
+ization between the bacterium and cathepsin d was
+observed at 1 h after infection (fig. 8a). based on this
+observation,
+the percentage of colocalization between
+c. burnetii and lc3, cathepsin d or both proteins were
+determined. the quantiﬁcation indicates that at 1 h post
+infection amino acid deprivation caused a notable
+increase in the percentage of cph colocalizing with lc3
+(fig. 8b, white bars), whereas a marked reduction in the
+percentage of cph that were labelled by cathepsin d
+cathepsin d by
+detect
+endogenous
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 891–909
+902 p. s. romano et al.
+cathepsin d
+100
+80
+60
+40
+20
+cox
+overlay
+inset
+chloramphenicol
+untreated
+crv
+20
+40
+time (min)
+60
+80
+fig. 7. coxiella burnetii actively delays the arrival of cathepsin d to cph.
+a. cho cells were infected with c. burnetii (moi = 50) previously pre-incubated for 2 h with (chloramphenicol) or without (untreated)
+chloramphenicol as indicated under experimental procedures. cells were incubated for an additional period of 20 min (panels a–h), or 60 min
+(panels i–p), ﬁxed and subjected to indirect immunoﬂuorescence to detect the bacterium and cathepsin d with speciﬁc antibodies. images
+were captured using a confocal microscope.
+b. percentage of colocalization between cph and cathepsin d in the indicated conditions at 20, 40 and 60 min after infection. data represent
+the mean ⫾ sem of at least two independent experiments.
+c. cho cells were infected with c. burnetii (moi = 10) for 72 h in untreated conditions and processed as before. detail of the colocalization of
+cph with cathepsin d is shown in the insets. cellular proﬁles are depicted by a dotted line. bars: 10 mm.
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 891–909
+coxiella exploits the autophagic pathway 903
+cox
+cox + gfp-lc3
+inset
+cox + cath d
+overlay
+    lc3
+    cathepsin d 
+    lc3 + cathepsin d 
+80
+60
+40
+20
+1 h
+3 h
+ ctr
+ s
+fig. 8. autophagy induction delays fusion of cph with lysosomes. stably transfected cho cells overexpressing gfp-lc3 were pre-incubated
+for 2 h with control or starvation medium (ebss) and then infected with c. burnetii (moi = 50) for 1 or 3 h. cells were ﬁxed and cathepsin d
+was detected by immunolabelling using speciﬁc antibodies. the bacteria were detected by labelling with hoechst.
+a. images depicting the detection of the bacterium (blue) and cathepsin d (red) at 1 h post infection in gfp-lc3 cells, at the indicated
+conditions. insets a and c show in detail the colocalization of cph (blue) with lc3 (green). insets b and d show in detail the colocalization of
+cph (blue) with cathepsin d (red).
+b. quantiﬁcation of the percentage of colocalization of cph with lc3 (white bars), cathepsin d (black bars) or both (hatch bars) in cells
+incubated in full-nutrient (ctr) or amino acid-deprived media (s) for 1 or 3 h. bars: 10 mm.
+(black bars) and in the fraction of cph colocalizing with
+both markers (hatch bars) was observed. however, at 3 h
+post infection there was a signiﬁcant increase in the per-
+centage of cph colocalizing with both markers. these
+results indicate that upon autophagy induction interaction
+with the lysosomal compartment was delayed for an inter-
+val of time (between 1 and 3 h after infection). taking into
+account that lc3 interacts with coxiella at very early
+times after infection, and that
+induction of autophagy
+increases the proportion of pre-formed autophagosomes
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 891–909
+904 p. s. romano et al.
+decorated with lc3 we conclude that
+the interaction
+between the autophagic pathway and coxiella delays the
+arrival of lysosomal enzymes to cph.
+discussion
+coxiella burnetii is a successful microorganism that uses
+the host cell resources to establish a niche where it
+resides and replicates. although the initial target of this
+bacterium in vivo is the alveolar macrophages, this micro-
+organism can subsequently disseminate through a wide
+variety of tissues replicating in epithelial and ﬁbroblastic
+cells (heinzen et al., 1999). it is known that c. burnetii
+uptake is mediated by both avb3 integrin and complement
+receptor 3 in monocytes (capo et al., 1999) but to date
+the molecular mechanisms that regulate the initial trans-
+port in phagocytic and non-phagocytic cells have not been
+described.
+the purpose of this work was to study the initial steps of
+c. burnetii
+infection from entry into the host cell to the
+crv development. in the present report we present evi-
+dence that phase ii c. burnetii enters using a classical
+phagocytic pathway in cho cells. rab5 and rab7 were
+sequentially acquired by cph at early times during
+infection. rab5 recruitment on cph reached the
+maximum at 20 min and then gradually diminished
+whereas rab7 was acquired more extensively at later
+times (i.e. 40–60 min) and the recruitment of this protein
+was maintained even in the crv (this paper and beron
+et al., 2002). the active participation of these rab pro-
+teins in the internalization process and early phagosome
+transport was demonstrated by the marked decrease in
+the number of infected cells and altered crv generation
+when dominant negative mutants of rab5 or rab7 were
+overexpressed.
+several reports have shown that pathogen fate follow-
+ing phagocytosis depends,
+in part, on fusion events
+between the phagosome and the endosomal or lysosomal
+compartments. in some cases, this interaction is used for
+the microorganisms to modulate phagosome maturation
+by altering the recruitment or the function of key endoso-
+mal proteins such as rab5 or rab7. listeria monocyto-
+genes recruits rab5 to the phagosomal membrane
+(alvarez-dominguez et al., 1996) but
+inhibits rab5
+exchange activity favouring the viability of the parasite
+within the phagosome and the exclusion of listericidal
+lysosomal proteases (prada-delgado et al., 2005). sal-
+monella avoid the fusion with lysosomes and impair the
+acquisition of the rab7-interacting lysosomal protein per-
+sisting in a specialized compartment and forming a ﬁla-
+mentous network towards the cell periphery (harrison
+et al., 2004). m. tuberculosis leads to a phagosome matu-
+ration arrest by speciﬁcally blocking the steps between
+rab5 and rab7. while mycobacterium phagosomes
+acquire rab5, neither rab7 nor eea1 is present on their
+phagosome membrane (fratti et al., 2001). in contrast to
+mycobacterium, we have shown that c. burnetii is a per-
+missive bacterium that interacts with eea1 and rab7
+favouring fusion events between cph and late endocytic
+compartments. in agreement with our results, ghigo and
+coworkers have demonstrated that a fraction of the vacu-
+oles containing virulent c. burnetii acquire rab7 (ghigo
+et al., 2002). the fact that c. burnetii permits the transit
+via the normal endocytic pathway is not unexpected
+the crv have characteristics of
+considering that
+in this report, we have
+phagolysosomes. moreover,
+shown that overexpression of
+the dominant negative
+mutants: rab5s34n and rab7t22n generate small and
+tight vacuoles scattered throughout the cytoplasm oppo-
+site to the unique large crv produced in the cells over-
+expressing the respective wild-type forms. taken together
+this evidence indicates that, in contrast to other intracel-
+lular pathogens like toxoplasma gondii (mordue and
+sibley, 1997; hakansson et al., 2001) or legionella pneu-
+mophila (horwitz, 1983; roy et al., 1998; joshi et al.,
+2001) which evade fusion with the endosomal compart-
+ment, c. burnetii recruits endocytic/phagocytic compo-
+nents such as rab5 and rab7 to facilitate their uptake
+and vacuole development.
+as mentioned above crv displays rab7 in the vacu-
+olar membrane demonstrating the interaction with endo/
+lysosomal compartments (beron et al., 2002). however,
+we have also shown that this enlarged vacuole is labelled
+with monodansylcadaverine (mdc) and is decorated with
+the protein lc3, both used as autophagosomal markers,
+clearly indicating a connection with the autophagic
+pathway (beron et al., 2002). moreover the crv deco-
+rated with lc3 acquired lysosomal enzymes, which indi-
+cates that the ﬁnal compartment where c. burnetii resides
+have characteristics of an autophagolysosome (beron
+et al., 2002; gutierrez et al., 2005). in this report we show
+that lc3 interacts with cph at early times after infection
+and this protein is retained on the coxiella-containing
+compartment during the whole infection period analysed.
+when cells are treated with conditions that stimulate
+autophagy a conjugation reaction occurs in the lc3
+protein that changes its intracellular distribution from the
+cytosolic form lc3-i to the membrane-associated form
+lc3-ii. we have observed that infection with c. burnetii
+stimulates lc3 processing as indicated by the targeting of
+this protein to autophagic structures and the increased
+processing to the lc3-ii form. noteworthy, in the pres-
+ence of chloramphenicol which speciﬁcally inhibits bacte-
+rial protein synthesis, no lc3 was recruited to the cph,
+indicating that coxiella secretes protein factors that
+actively modulate the interaction with the autophagic
+pathway. in agreement with previous observation from the
+group of robert heinzen and collaborators (howe et al.,
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 891–909
+is a critical event
+2003)
+the coxiella-parasitophorous vacuole was not
+developed in the presence of chloramphenicol. we pos-
+tulate that inhibition of the interaction with the autophagic
+pathway, which is hampered in the presence of the anti-
+biotic,
+in the development of crv.
+indeed, we have previously shown that conditions that
+favour autophagy (e.g. starvation), as well as overexpres-
+sion of proteins involved in the autophagic pathway accel-
+erates the biogenesis of
+the
+replication of this pathogen in the host cell (gutierrez
+et al., 2005).
+the crv and beneﬁt
+it is known that c. burnetii requires an acidic ph to
+activate its metabolism and replication (hackstadt and
+williams, 1981). vacuoles containing c. burnetii present
+characteristics of phagolysosomes demonstrated by the
+presence of the ﬂuid phase marker thorium dioxide and
+the lysosomal enzymes 5′-nucleotidase and acid
+phosphatase (howe and mallavia, 2000). moreover, the
+membrane of
+these vacuoles acquires the lysosomal
+membrane proteins lamp-1 (heinzen et al., 1999; ghigo
+et al., 2002). in our system, fusion of cph with lysosomes
+was actively delayed because only a 29% of the phago-
+somes containing untreated bacteria were labelled with
+cathepsin d at 20 min after infection compared with the
+56% obtained with chloramphenicol-inactivated bacteria.
+these results are in agreement with other authors that
+have shown that c. burnetii delays phagolysosomal
+fusion and exhibits a morphological change from scv to
+lcv in a compartment
+to this
+phagosome/lysosome fusion event (howe and mallavia,
+2000). because cathepsin d is a marker of either phagoly-
+sosomes or autophagolysosomes, the last result can be
+interpreted in two ways, ﬁrst the bacteria actively recruit
+the autophagy machinery slowing the transit to lysosomes
+or the bacteria produce factors that slow the autophagy
+pathway,
+likely activated in response to intracellular
+pathogens. we have observed that the delay in the fusion
+cph–lysosomes was enhanced when autophagy is
+induced indicating that
+interaction with this cellular
+process has a beneﬁcial effect in c. burnetii infection and
+development. moreover, this interaction with autophago-
+somes is likely one of the mechanisms used by this patho-
+gen to prolong the arrival of acidic hydrolases for an
+interval of time.
+less acidic prior
+taken together our results show that c. burnetii inter-
+acts with both the phagocytic and autophagic pathways
+even at early times after infection. based in our results,
+we postulate that c. burnetii uses the autophagic pathway
+to momentarily
+to
+phagolysosomes. this hypothesis is supported by the
+observation that infection with c. burnetii produces accu-
+mulation of autophagosomes labelled with lc3 which will
+be available for fusion with cph (see fig. 5). recently, it
+was shown that vacuoles containing legionella pneumo-
+transport
+normal
+delay
+the
+coxiella exploits the autophagic pathway 905
+phila present autophagic characteristics and that these
+pathogen-containing vacuoles accumulated the autoph-
+agic dye mdc more slowly compared with autophago-
+somes induced by amino acid-free buffer, indicating that
+this bacterium is able to inhibit autophagosome matura-
+tion (amer and swanson, 2005).
+it is well established that c. burnetii undergoes a mor-
+phological change from scvs to lcvs during the course
+of the infection. the lcv form is described as the repli-
+cative form with dispersed chromatin and high metabolic
+activity. although previous studies have demonstrated
+that this transition is favoured in the presence of an acidic
+ph (heinzen et al., 1996), a more recent report postulates
+that the scv–lcv transformation begins in a compart-
+ment prior to phagolysosomal fusion (howe and mallavia,
+2000). moreover we have recently shown that the shift
+from scvs to lcvs seems to be increased in cells
+incubated under starvation conditions (gutierrez and
+colombo, 2005), thus, we postulate that the nutrients
+provided by these nutrient-rich autophagosomes could
+trigger the signals required for the morphological change.
+in the present work we have shown that c. burnetii pha-
+gosomes fuse with autophagosomes delaying the arrival
+of the typical lysosomal enzyme cathepsin d under star-
+vation conditions. we propose that c. burnetii
+interacts
+with the autophagic pathway to create a gap at some
+stage in the infection process. during this period of time
+(from internalization to ~2–3 h) the transition from scv to
+lcv is activated, likely by the nutrient-rich environment
+that surrounds the bacteria. then, phagosomes contain-
+ing lcv forms fuse with late endocytic compartments
+increasing vacuole size and favouring coxiella replication.
+to c. burnetii, other pathogens such as
+legionella and leishmania block phagosomal maturation
+and after a ‘pregnant pause’ generate replicative forms
+(swanson and fernandez-moreira, 2002). these three
+microorganisms have bimorphic life cycles and create
+speciﬁc environments to activate the transition between
+both developmental forms. in summary, our study reports
+that c. burnetii actively exploits the autophagic pathway
+delaying fusion with lysosomes likely modulating intracel-
+lular pathogen fate after infection.
+similar
+experimental procedures
+materials
+minimal essential medium (a-mem) and fetal bovine serum
+were obtained from gibco laboratories (grand island, ny,
+usa). the secondary goat anti-rabbit antibodies conjugated
+with alexa 350, alexa 488 or texas red, the rabbit anti-goat
+antibody conjugated with alexa 546 and the dna marker
+hoechst 33342 were purchased from molecular probes
+(eugene, or, usa). all other chemicals were from sigma
+chemical (buenos aires, argentina). the mouse monoclonal
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 891–909
+906 p. s. romano et al.
+anti-eea1 was from bd transduction laboratories (lexington,
+ky, usa). recombinant sindbis viruses expressing gfp-
+tagged rab5 and their mutants and plasmids encoding
+enhanced gfp (egfp)-rab5wt and egfp-rab5q79l were
+kindly provided by dr philip d. stahl (washington university, st
+louis, mo, usa). plasmid encoding egfp-rab5s34n were a
+generous gift from dr marino zerial (max planck institute of
+molecular cell biology and genetics, dresden, germany).
+plasmid encoding egfp-rab7 and their mutants were kindly
+provided by dr bo van deurs (university of copenhagen,
+copenhagen, denmark). plasmid encoding egfp-lc3 was
+generously provided by drs noboru mizushima and tamotsu
+yoshimori
+institute for basics biology, okasaki,
+japan). rabbit polyclonal anti-coxiella antibody was generously
+provided by dr robert heinzen (rocky mountain laboratories,
+niaid, nih, hamilton, mt, usa). the goat anti-cathepsin d
+was kindly provided by dr william brown (cornell university,
+ithaca, ny, usa).
+(national
+expression of rab proteins and their mutants in cho
+cells by using the sindbis virus system
+these experiments were carried out as previously described
+(beron et al., 2002). brieﬂy, cho cell monolayers grown in
+12-mm-diameter dishes were incubated with recombinant
+sindbis viruses to overexpress gfp-rab proteins in 400 ml of
+phosphate-buffered saline (pbs) containing 1% fbs at room
+temperature. after 1 h virus absorption,
+the medium was
+replaced with 400 ml a-mem supplemented with 3% fbs and
+incubated for 8 h before infection with c. burnetii.
+cell transfection
+cho cells were transfected with the plasmids (1 mg ml-1) using
+the lipofectamine reagent (life technologies) according to the
+instructions supplied by the manufacturer. transfected cells were
+incubated for 24 h in a-mem supplemented with 10% fbs in
+24 well plates to 80% conﬂuence. stably transfected cells were
+generated by selection with 0.5 mg ml-1 geneticin.
+cell culture
+cho cells were grown on coverslips in 24 well plates to 80%
+conﬂuence in a-mem supplemented with 10% fbs at 37°c in an
+atmosphere of 95% air and 5% co2. stably transfected cho
+cells overexpressing egfp-rab7 (gutierrez et al., 2004), egfp-
+rab5 and their respective mutants or egfp-lc3, were grown in
+the same media supplemented with 0.2 mg ml-1 geneticin. the
+antibiotics were removed 24 h before the infection with coxiella.
+propagation of c. burnetii phase ii
+clone 4 phase ii nine mile strain of c. burnetii bacteria, which are
+infective for cells but not for mammals, were provided by ted
+hackstadt (rocky mountain laboratories, niaid, nih, hamilton,
+mt, usa) and handled in a biosafety level ii facility (hackstadt,
+1996). infective inocula were prepared as described (zamboni
+et al., 2001). non-conﬂuent vero cells were cultured in t25 ﬂasks
+at 37°c in d-mem supplemented with 5% fbs, 0.22 g l-1 sodium
+bicarbonate and 20 mm hepes, ph 7 (mfbh). cultures were
+infected with c. burnetii phase ii suspensions for 2–6 days at
+37°c in an air atmosphere. after freezing at -70°c, the ﬂasks
+were thawed, and the cells scrapped and passed 20 times
+through a 27-gauge needle connected to a syringe. cells lysates
+were centrifuged at 800 g for 10 min at 4°c. the supernatants
+were centrifuged at 24 000 g for 30 min at 4°c, and pellets con-
+taining c. burnetii were resuspended with 0.5 ml pbs, aliquoted
+and frozen at -70°c.
+infection of cells with c. burnetii for short times
+cho cells grown in t25 ﬂasks were washed several times with
+pbs and detached with trypsin-edta. after resuspending with
+mfbh, cells were plated on coverslips distributed in 24 well
+plates. for short infection times, a 100 ml aliquot of c. burnetii
+suspension was diluted in 5 ml mfbh, and 0.5 ml of this dilution
+was added per well. with this dilution a moi of 50 was obtained
+(gutierrez et al., 2005). after a centrifugation at 500 g for 10 min,
+cells were incubated for 20, 40 and 60 min at 37°c in an atmo-
+sphere of 95% air and 5% co2 and washed several times with
+pbs to eliminate extracellular bacteria. cells were ﬁxed and
+analysed by indirect immunoﬂuorescence as described below.
+the same protocol was used for the infection of cho cells
+overexpressing egfp-lc3wt, egfp-rab5wt or egfp-rab7wt
+and mutants.
+development of c. burnetii vacuole
+cho cells were grown and plated on coverslips as before. a 50 ml
+aliquot of c. burnetii suspension was diluted in 10 ml mfbh, and
+1 ml of this dilution was added per well. with this dilution a moi
+of 10 was obtained. after 18 h of infection cells were washed
+three times and transfected with pegfp plasmids encoding
+rab5wt, rab5s34n, rab7wt or rab7t22n by using lipo-
+fectamine reagent (life technologies) according to the manu-
+facturer’s instructions. cells were incubated in mfbh at 37°c in
+an atmosphere of 95% air and 5% co2 for 48 h before analysis.
+effect of chloramphenicol on cph
+equivalent suspensions of coxiella infection media were pre-
+pared by adding an aliquot of c. burnetii in a volume of mfbh with
+(experimental medium) or without (control medium) chloram-
+phenicol, at a bacteriostatic concentration of 10 mg ml-1 (howe
+et al., 2003). both suspensions were pre-incubated for 2 h at
+37°c in an atmosphere of 95% air and 5% co2. cho cells or
+stably transfected cho cells overexpressing gfp-lc3, gfp-
+rab5wt or gfp-rab7wt were plated on coverslips of 24 well
+plates and infected with the corresponding experimental
+(+ chloramphenicol) or control
+infection media containing
+c. burnetii at a moi = 50 for 5, 10, 20, 40 and 60 min and for 48 h
+at 37°c. cells were ﬁxed and analysed by indirect immunoﬂuo-
+rescence to detect either coxiella or cathepsin d as described
+below.
+autophagy induction
+autophagy was induced by amino acid starvation. cells were
+washed three times with pbs and incubated with 0.5 ml earle’s
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 891–909
+balanced salts solution (ebss, sigma) at 37°c for 2 h before
+infection with c. burnetii. the same solution (ebss) was used
+during the infection period in starvation condition.
+fluorescence microscopy
+infected cells overexpressing egfp-rab5wt, egfp-rab7wt and
+mutants or egfp-lc3 were analysed by confocal microscopy
+with a nikon c1 confocal microscope system and the ez-c1
+program (nikon, japan). triple colocalization images were
+obtained by ﬂuorescence microscopy using an inverted micro-
+scope (nikon eclipse 2000, japan) equipped with a ccd camera
+(orca i, hamamatsu) and meta morph program, serie 4.5
+(universal
+images were processed
+using adobe 7.0 (adobe systems).
+images corporation). all
+indirect immunoﬂuorescence
+cells were ﬁxed with 0.5 ml of 3% paraformaldehyde solution in
+pbs for 10 min at room temperature and quenched by incubating
+with 50 mm nh4cl in pbs. subsequently, cells were permeabi-
+lized with 0.05% saponin in pbs containing 0.2% bsa, and then
+incubated with a primary antibody against coxiella (1:400) and
+then detected by incubation with anti-rabbit texas red (1:200) or
+alexa 488 (1:250) conjugated secondary antibodies. for double
+immunolabelling, primary antibodies against eea1 (1:100) or
+cathepsin d (1:50) were used, followed by incubation with anti-
+mouse cy3 (1:800) and anti-goat alexa 546 (1:250) secondary
+antibodies respectively. next coxiella was detected with a spe-
+ciﬁc antibody following by incubation with a secondary antibody
+labelled with alexa 350 (1:50). cells were mounted with mowiol
+and analysed by ﬂuorescence microscopy.
+measurement of the percentage of infected cells and
+percentage of colocalization
+at different times after infection, cells were ﬁxed for 10 min in 3%
+paraformaldehyde. the percentage of infection was calculated as
+the ratio between the number of infected cells and the number of
+total cells. at least 100 cells were scored in no less than three
+independent experiments using a nikon c1 confocal microscope
+system and the ez-c1 program (nikon, japan). infected cells
+were deﬁned as those with at least one clear identiﬁable bacte-
+rium inside. the percentage of colocalization was calculated as
+the ratio between the number of internalized bacteria that colo-
+calize with the indicated protein and the total number of internal-
+ized bacteria using confocal microscopy. the size of the vacuoles
+in fig. 4 was determined by a morphometric analysis using
+adobe photoshop 7.0 program (adobe systems).
+western blot analysis
+cho cells overexpressing gfp-lc3 were grown to approxi-
+mately 50% conﬂuence and infected with c. burnetii in mfbh at a
+moi of 10. after
+the indicated times, cells were washed,
+trypsinized and incubated for 20 min at 4°c with ripa buffer (5%
+nonidet p40, 5% sodium deoxycholate, 5% sds, 0.5 m tris,
+0.75 m nacl) in the presence of protease inhibitors. the sample
+starvation plus vinblastine (s + v) was obtained by pre-
+coxiella exploits the autophagic pathway 907
+incubation of the cells for 2 h with ebss containing 100 mm
+vinblastine. samples were centrifuged and the corresponding
+supernatants were frozen until use. for western blots analysis,
+100 mg of protein extracts was subjected to electrophoresis in
+10% sds-page gels, transferred to a nitrocellulose membrane,
+blocked with pbs supplemented with 0.1% v/v of tween 20 and
+3% of milk. the nitrocellulose membrane was incubated for 2 h
+with a rabbit polyclonal anti-gfp antibody (abcam, cambridge,
+ma) at 1:2000 dilution, washed and incubated with a secondary
+hrp-conjugated anti-rabbit antibody (jackson immuno res.,
+usa) at a 1:50 000 dilution. the bands were visualized with the
+ecl reagent (amersham biosciences, uk).
+acknowledgements
+we are grateful to dr luis mayorga for critical reading of the
+manuscript. we also thank marcelo furlán and alejandra medero
+for technical assistance. this work was partly supported by
+grants from agencia nacional de promoción cientíﬁca y tec-
+nológica (pict2002 #01–11004), secyt (universidad nacional
+de cuyo) and umaza (universidad juan a. maza) to m.i.c.
+references
+aderem, a. (2002) how to eat something bigger than your
+head. cell 110: 5–8.
+akporiaye, e.t., rowatt, j.d., aragon, a.a., and baca, o.g.
+(1983) lysosomal response of a murine macrophage-like
+cell line persistently infected with coxiella burnetii. infect
+immun 40: 1155–1162.
+alvarez-dominguez, c., barbieri, a.m., beron, w.,
+wandinger-ness, a., and stahl, p.d. (1996) phagocytosed
+live listeria monocytogenes inﬂuences rab5-regulated in
+vitro phagosome-endosome fusion. j biol chem 271:
+13834–13843.
+amer, a.o., and swanson, m.s.
+(2005) autophagy is
+an immediate macrophage response to legionella
+pneumophila. cell microbiol 7: 765–778.
+beron, w., gutierrez, m.g., rabinovitch, m., and colombo,
+m.i. (2002) coxiella burnetii
+localizes in a rab7-labeled
+compartment with autophagic characteristics. infect immun
+70: 5816–5821.
+bucci, c., thomsen, p., nicoziani, p., mccarthy, j., and van
+deurs, b. (2000) rab7: a key to lysosome biogenesis. mol
+biol cell 11: 467–480.
+callaghan, j., simonsen, a., gaullier, j.m., toh, b.h., and
+stenmark, h. (1999) the endosome fusion regulator early-
+endosomal autoantigen 1 (eea1) is a dimer. biochem j
+338: 539–543.
+cantalupo, g., alifano, p., roberti, v., bruni, c.b., and bucci,
+c. (2001) rab-interacting lysosomal protein (rilp): the
+rab7 effector required for transport to lysosomes. embo j
+20: 683–693.
+capo, c., lindberg, f.p., meconi, s., zaffran, y., tardei, g.,
+brown, e.j., et al. (1999) subversion of monocyte func-
+tions by coxiella burnetii:
+the cross-talk
+between alphavbeta3 integrin and cr3. j immunol 163:
+6078–6085.
+impairment of
+clemens, d.l., and horwitz, m.a. (1996) the mycobacterium
+tuberculosis phagosome interacts with early endosomes
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 891–909
+908 p. s. romano et al.
+and is accessible to exogenously administered transferrin.
+j exp med 184: 1349–1355.
+coers, j., monahan, c., and roy, c.r. (1999) modulation of
+phagosome biogenesis by legionella pneumophila creates
+an organelle permissive for intracellular growth. nat cell
+biol 1: 451–453.
+coleman, s.a., fischer, e.r., howe, d., mead, d.j., and
+heinzen, r.a. (2004) temporal analysis of coxiella burnetii
+morphological differentiation. j bacteriol 186: 7344–
+7352.
+deneka, m., neeft, m., and van der sluijs, p. (2003) regu-
+lation of membrane transport by rab gtpases. crit rev
+biochem mol biol 38: 121–142.
+desjardins, m., huber, l.a., parton, r.g., and griffiths, g.
+(1994) biogenesis of phagolysosomes proceeds through a
+sequential series of
+interactions with the endocytic
+apparatus. j cell biol 124: 677–688.
+dorn, b.r., dunn, w.a., jr, and progulske-fox, a. (2002)
+interactions with the autophagic pathway. cell
+bacterial
+microbiol 4: 1–10.
+duclos, s., diez, r., garin, j., papadopoulou, b., descote-
+aux, a., stenmark, h., and desjardins, m. (2000) rab5
+regulates the kiss and run fusion between phagosomes
+and endosomes and the acquisition of phagosome leish-
+manicidal properties in raw 264.7 macrophages. j cell
+sci 113 (part 19): 3531–3541.
+feng, y., press, b., and wandinger-ness, a. (1995) rab 7:
+an important regulator of late endocytic membrane traffic.
+j cell biol 131: 1435–1452.
+fratti, r.a., backer, j.m., gruenberg, j., corvera, s., and
+deretic, v. (2001) role of phosphatidylinositol 3-kinase
+and rab5 effectors in phagosomal biogenesis and myco-
+bacterial phagosome maturation arrest. j cell biol 154:
+631–644.
+funato, k., beron, w., yang, c.z., mukhopadhyay, a., and
+stahl, p.d. (1997) reconstitution of phagosome-lysosome
+fusion in streptolysin o-permeabilized cells. j biol chem
+272: 16147–16151.
+ghigo, e., capo, c., tung, c.h., raoult, d., gorvel, j.p., and
+mege, j.l. (2002) coxiella burnetii survival in thp-1 mono-
+cytes involves the impairment of phagosome maturation:
+ifn-gamma mediates its restoration and bacterial killing.
+j immunol 169: 4488–4495.
+gorvel, j.p., chavriel, p., zerial, m., and gruenberg, j.
+(1991) rab5 controls early endosome fusion in vitro. cell
+64: 915–925.
+gouin, e., gantelet, h., egile, c., lasa, i., ohayon, h., villi-
+ers, v., et al. (1999) a comparative study of the actin-based
+motilities of the pathogenic bacteria listeria monocytoge-
+nes, shigella ﬂexneri and rickettsia conorii. j cell sci 112:
+1697–1708.
+gutierrez, m.g., and colombo, m.i. (2005) autophagosomes:
+a fast-food joint for unexpected guests. autophagy 1: 179–
+181.
+gutierrez, m.g., munafo, d.b., beron, w., and colombo, m.i.
+(2004) rab7 is required for the normal progression of the
+autophagic pathway in mammalian cells. j cell sci 117:
+2687–2697.
+gutierrez, m.g., vazquez, c.l., munafo, d.b., zoppino, f.c.,
+beron, w., rabinovitch, m., and colombo, m.i. (2005)
+autophagy induction favours the generation and matura-
+tion of the coxiella-replicative vacuoles. cell microbiol 7:
+981–993.
+hackstadt, t.
+(1996) biosafety concerns and coxiella
+burnetii. trends microbiol 4: 341–342.
+hackstadt, t., and williams, j.c. (1981) biochemical strata-
+gem for obligate parasitism of eukaryotic cells by coxiella
+burnetii. proc natl acad sci usa 78: 3240–3244.
+hakansson, s., charron, a.j., and sibley, l.d. (2001) toxo-
+plasma evacuoles: a two-step process of secretion and
+fusion forms the parasitophorous vacuole. embo j 20:
+3131–3144.
+harrison, r.e., brumell, j.h., khandani, a., bucci, c., scott,
+c.c., jiang, x., et al. (2004) salmonella impairs rilp
+recruitment
+invasion
+vacuoles. mol biol cell 15: 3146–3154.
+to rab7 during maturation of
+heinzen, r.a., howe, d., mallavia, l.p., rockey, d.d., and
+hackstadt, t. (1996) developmentally regulated synthesis
+of an unusually small, basic peptide by coxiella burnetii 43.
+mol microbiol 22: 9–19.
+heinzen, r.a., hackstadt, t., and samuel, j.e. (1999) devel-
+opmental biology of coxiella burnetii. trends microbiol 7:
+149–154.
+horwitz, m.a. (1983) the legionnaires’ disease bacterium
+(legionella pneumophila) inhibits phagosome-lysosome
+fusion in human monocytes. j exp med 158: 2108–
+2126.
+howe, d., and mallavia, l.p. (2000) coxiella burnetii exhibits
+morphological change and delays phagolysosomal fusion
+after internalization by j774a.1 cells 41. infect immun 68:
+3815–3821.
+howe, d., melnicakova, j., barak,
+i., and heinzen, r.a.
+(2003) maturation of the coxiella burnetii parasitophorous
+vacuole requires bacterial protein synthesis but not repli-
+cation 18. cell microbiol 5: 469–480.
+jager, s., bucci, c., tanida, i., ueno, t., kominami, e.,
+saftig, p., and eskelinen, e.l. (2004) role for rab7 in
+maturation of late autophagic vacuoles. j cell sci 117:
+4837–4848.0
+joshi, a.d., sturgill-koszycki, s., and swanson, m.s. (2001)
+factors
+evidence that dot-dependent and -independent
+isolate the legionella pneumophila phagosome from the
+endocytic network in mouse macrophages. cell microbiol
+3: 99–114.
+kabeya, y., mizushima, n., ueno, t., yamamoto, a., kir-
+isako, t., noda, t., et al. (2000) lc3, a mammalian homo-
+logue of yeast apg8p,
+is localized in autophagosome
+membranes after processing. embo j 19: 5720–5728.
+kirisako, t., baba, m., ishihara, n., miyazawa, k., ohsumi,
+m., yoshimori, t., et al.
+(1999) formation process of
+autophagosome is traced with apg8/aut7p in yeast. j cell
+biol 147: 435–446.
+klionsky, d.j., and emr, s.d. (2000) autophagy as a regu-
+lated pathway of cellular degradation. science 290: 1717–
+1721.
+lang, t., schaeffeler, e., bernreuther, d., bredschneider, m.,
+wolf, d.h., and thumm, m. (1998) aut2p and aut7p, two
+novel microtubule-associated proteins are essential
+for
+delivery of autophagic vesicles to the vacuole. embo j 17:
+3597–3607.
+ley, v., robbins, e.s., nussenzweig, v., and andrews, n.w.
+(1990) the exit of trypanosoma cruzi from the phagosome
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 891–909
+is inhibited by raising the ph of acidic compartments. j exp
+med 171: 401–413.
+mizushima, n., yamamoto, a., hatano, m., kobayashi, y.,
+kabeya, y., suzuki, k., et al. (2001) dissection of autopha-
+gosome formation using apg5-deﬁcient mouse embryonic
+stem cells. j cell biol 152: 657–668.
+mordue, d.g., and sibley, l.d. (1997) intracellular fate of
+vacuoles containing toxoplasma gondii
+is determined at
+the time of formation and depends on the mechanism of
+entry. j immunol 159: 4452–4459.
+nielsen, e., severin, f., backer, j.m., hyman, a.a., and
+zerial, m. (1999) rab5 regulates motility of early endo-
+somes on microtubules. nat cell biol 1: 376–382.
+papini, e., satin, b., bucci, c., de bernard, m., telford, j.l.,
+manetti, r., et al. (1997) the small gtp binding protein
+rab7 is essential for cellular vacuolation induced by heli-
+cobacter pylori cytotoxin. embo j 16: 15–24.
+pfeffer, s.r. (2001) rab gtpases: specifying and decipher-
+ing organelle identity and function. trends cell biol 11:
+487–491.
+pizarro-cerda, j., meresse, s., van der parton, r.g., goot,
+g., sola-landa, a., lopez-goni, i., et al. (1998) brucella
+abortus transits through the autophagic pathway and rep-
+licates in the endoplasmic reticulum of nonprofessional
+phagocytes. infect immun 66: 5711–5724.
+prada-delgado, a., carrasco-marin, e., pena-macarro, c.,
+cerro-vadillo, e., fresno-escudero, m., leyva-cobian, f.,
+and alvarez-dominguez, c. (2005) inhibition of rab5a
+exchange activity is a key step for listeria monocytogenes
+survival. traffic 6: 252–265.
+rink, j., ghigo, e., kalaidzidis, y., and zerial, m. (2005) rab
+conversion as a mechanism of progression from early to
+late endosomes. cell 122: 735–749.
+roberts, r.l., barbieri, m.a., ullrich, j., and stahl, p.d.
+(2000) dynamics of rab5 activation in endocytosis and
+phagocytosis. j leukoc biol 68: 627–632.
+roy, c.r., berger, k.h., and isberg, r.r. (1998) legionella
+pneumophila dota protein is required for early phagosome
+trafficking decisions that occur within minutes of bacterial
+uptake. mol microbiol 28: 663–674.
+rubino, m., miaczynska, m., lippe, r., and zerial, m. (2000)
+selective membrane recruitment of eea1 suggests a role
+in directional transport of clathrin-coated vesicles to early
+endosomes. j biol chem 275: 3745–3748.
+rupper, a., grove, b., and cardelli, j. (2001) rab7 regulates
+phagosome maturation in dictyostelium. j cell sci 114:
+2449–2460.
+simonsen, a., lippe, r., christoforidis, s., gaullier, j.m.,
+brech, a., callaghan, j., et al. (1998) eea1 links pi(3)k
+function to rab5 regulation of endosome fusion. nature
+394: 494–498.
+stenmark, h., parton, r.g., steele-mortimer, o., lutcke, a.,
+coxiella exploits the autophagic pathway 909
+gruenberg, j., and zerial, m. (1994) inhibition of rab5
+gtpase
+in
+endocitosis. embo j 13: 1287–1296.
+stimulates membrane
+activity
+fusion
+stuart, l.m., and ezekowitz, r.a.
+(2005) phagocytosis:
+elegant complexity. immunity 22: 539–550.
+sturgill-koszycki, s., schlesinger, p.h., chakraborty, p.,
+haddix, p.l., collins, h.l., fok, a.k., et al. (1994) lack of
+acidiﬁcation in mycobacterium phagosomes produced by
+exclusion of the vesicular proton-atpase. science 263:
+678–681.
+swanson, m.s., and fernandez-moreira, e. (2002) a micro-
+the pregnant
+bial strategy to multiply in macrophages:
+pause. traffic 3: 170–177.
+thumm, m., egner, r., koch, b., schlumpberger, m., straub,
+m., veenhuis, m., and wolf, d.h. (1994) isolation of
+autophagocytosis mutants of saccharomyces cerevisiae.
+febs lett 349: 275–280.
+tsukada, m., and ohsumi, y. (1993) isolation and character-
+ization of autophagy-defective mutants of saccharomyces
+cerevisiae. febs lett 333: 169–174.
+via, l.e., deretic, d., ulmer, r.j., hibler, n.s., huber, l.a.,
+and deretic, v. (1997) arrest of mycobacterial phagosome
+maturation is caused by a block in vesicle fusion between
+stages controlled by rab5 and rab7. j biol chem 272:
+13326–13331.
+vieira, o.v., botelho, r.j., rameh, l., brachmann, s.m.,
+matsuo, t., davidson, h.w., et al. (2001) distinct roles of
+class i and class iii phosphatidylinositol 3-kinases in
+phagosome formation and maturation. j cell biol 155:
+19–25.
+vieira, o.v., botelho, r.j., and grinstein, s. (2002) phago-
+some maturation: aging gracefully. biochem j 366: 689–
+704.
+vieira, o.v., bucci, c., harrison, r.e., trimble, w.s., lan-
+zetti, l., gruenberg, j., et al. (2003) modulation of rab5
+and rab7 recruitment to phagosomes by phosphatidyli-
+nositol 3-kinase. mol cell biol 23: 2501–2514.
+vitelli, r., santillo, m., lattero, d., chiariello, m., bifulco, m.,
+bruni, c.b., and bucci, c. (1997) role of the small gtpase
+rab7 in the late endocytic pathway. j biol chem 272:
+4391–4397.
+yoshimori, t. (2004) autophagy: a regulated bulk degrada-
+tion process inside cells. biochem biophys res commun
+313: 453–458.
+zamboni, d.s., mortara, r.a., and rabinovitch, m. (2001)
+infection of vero cells with coxiella burnetii phase ii: rela-
+tive intracellular bacterial load and distribution estimated by
+confocal
+laser scanning microscopy and morphometry.
+j microbiol methods 43: 223–232.
+zerial, m., and mcbride, h. (2001) rab proteins as mem-
+brane organizers. nat rev mol cell biol 2: 107–117.
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 891–909

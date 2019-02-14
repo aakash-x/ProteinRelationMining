@@ -1,0 +1,1087 @@
+cell death and differentiation (2007) 14, 548–558
+& 2007 nature publishing group all rights reserved 1350-9047/07 $30.00
+www.nature.com/cdd
+dna damaging agent-induced autophagy produces a
+cytoprotective adenosine triphosphate surge in
+malignant glioma cells
+m katayama1, t kawaguchi1, ms berger1 and ro pieper*,1
+although autophagy enhances cell survival in nutrient-deprived cells by increasing adenosine triphosphate (atp) production, it
+remains unclear if autophagy functions similarly in cells treated with cytotoxic chemotherapy agents. to address this issue, we
+measured both the ability of dna damaging agents (temozolomide, and etoposide) to induce an autophagy-dependent
+production of atp, and the effects of modulation of autophagy on drug-induced cell death. both drugs induced an autophagy-
+associated increase in atp production in multiple glioma cell lines. the drug-induced atp surge could not be blocked by
+glucose starvation, but could be blocked by preincubation with the autophagy inhibitor 3-methyladenine (3-ma), an sirna
+targeting beclin 1, or the mitochondrial inhibitor oligomycin. inhibition of autophagy-induced atp production increased non-
+apoptotic cell death associated with micronucleation, while restoration of the 3-ma-inhibited atp surge by addition of pyruvate
+suppressed cell death. these results show that dna damaging agents induce an autophagy-associated atp surge that protects
+cells and may contribute to drug resistance.
+cell death and differentiation (2007) 14, 548–558. doi:10.1038/sj.cdd.4402030; published online 1 september 2006
+autophagy is a process by which subcellular constituents are
+degraded in autophagosomes/autolysosomes in response to
+stress.1 whereas growth factors enhance the ability of
+metazoan cells to take up extracelluar nutrients and suppress
+autophagy, deprivation of either growth factors or extracellular
+nutrients leads to decreased nutrient uptake and derepression
+of autophagy. the catabolic autophagy process is believed to
+allow starving cells to support adenosine triphosphate (atp)
+production and avoid cell death.2,3
+the autophagic process is regulated by both class i and
+class iii phosphatidylinositol 3-kinase (pi3k) pathways.2,4,5
+mammalian target of rapamycin (mtor) functions down-
+stream of the class-i pi3k/akt, and is a key negative regulator
+of autophagy. in this role, mtor serves as a metabolic sensor
+that coordinates crosstalk between nutrient availability and
+autophagy.6,7 in contrast, class iii pi3k positively regulates
+autophagy. the formation of a preautophagosomal isolation
+membrane that encloses cytoplasmic cargo is positively
+regulated by phosphatidylinositol 3-phosphate, the products
+of class iii pi3k phosphorylation.4 it has also been suggested
+that the trafﬁcking of autophagosomes is regulated by class iii
+pi3ks,4,5 an idea supported by the observation that 3-
+methyladenine (3-ma), which inhibits class iii pi3k activity,
+also inhibits autophagosome formation and is widely used as
+an autophagy inhibitor.5
+it is also known that autophagy is induced in cancer cells
+derived from tissues such as breast, colon, prostate and brain
+in response to a variety of anticancer therapies.3,8 however,
+autophagy in response to these drugs can produce different
+outcomes,
+in some cases promoting cell adaptation and
+survival similar to what is seen in nutrient deprived cells, while
+in other cases, inducing programmed cell death type. the role
+of drug-induced autophagy in cell death or survival is therefore
+unresolved.3,8
+temozolomide (tmz) is an alkylating agent which is widely
+used for treating primary and recurrent high-grade gliomas.9
+the cytotoxicity of tmz is thought to result from the formation
+of o6-methylguanine in dna, which mispairs with thymine
+during dna replication triggering futile cycles of the mismatch
+repair system and subsequent dna damage.10 in glioma
+cells, the dna damage induces a g2/m arrest, not apoptosis,
+and cell death occurs mainly by cell death associated with
+multimicronucleation, particularly in p53-deﬁcient cells.11,12 in
+a previous study, it was shown that tmz induces autophagy,
+and that pharmacological
+inhibition of autophagy could
+inﬂuence cellular oucome.13 the exact means by which this
+occurred, however, and the potential role of autophagy -induced
+atp production in the process, were not determined. in the
+present study, we investigated the relationship between autop-
+hagy, autophagy-associated atp production, and cell death in
+response to tmz and a second dna damaging agent etoposide.
+results
+effect of tmz on malignant glioma cell lines. to begin to
+examine the antitumor effect of tmz on malignant glioma cell
+lines, unsychronized u251 gbm cells were ﬁrst treated with
+1department of neurological surgery and the brain tumor research center, university of california, san francisco, ca, usa
+*corresponding author: ro pieper, neurological surgery and the brain tumor research center, university of california, san franscisco, 2340 sutter st, rm n261,
+san francisco, ca 94115-0875, usa. tel: 415-502-7132; fax: þ 415-502-6779; e-mail: rpieper@cc.ucsf.edu
+keywords: autophagy; temozolomide; etoposide; glioma; atp
+abbreviations: tmz, temozolomide; 3-ma, 3-methyladenine; atp, adenosine triphosphate; pi3k, phosphatidylinositol 3-kinase; map1-lc3, microtubule-associated
+protein 1 light-chain 3
+received 08.3.06; revised 12.7.06; accepted 19.7.06; edited by e baeherecke; published online 01.9.06
+autophagy in dna damaging agent-treated cells
+m katayama et al
+549
+tmz (100 mm for 3 h) and further incubated for 3–14 days in
+the absence of tmz, after which cells were analyzed by
+facs for dna content. consistent with previous reports,11–13
+cells accumulated with 4n dna content at
+the g2–m
+boundary, with ratio of 4n/2n dna content peaking 3 days
+after tmz treatment and decreasing gradually to base levels
+by 10 days post-tmz exposure (figures 1a and b).
+tmz was previously shown in p53-deﬁcient glioma
+cells to induce cell death characterized by multimicronuclea-
+tion in the absence of cytoplasmic shrinkage (‘mitotic
+catastrophe’).11,12 consistent with this observation, tmz
+treated p53-deﬁcient u251 cells stained with hematoxylin/
+eosin exhibited multiple, micronucleated nuclei in the absence
+of cytoplasm shrinkage (arrows, figure 1c), with this form of
+cell death peaking 5–7 days post-tmz exposure (2–4 days
+after the maximal g2 arrest; figure 1b). consistent with
+previous reports, no apoptotic cells were detected micro-
+scopically or by cell cycle analysis (lack of cells with sub-g1
+dna content).11–13
+finally, because recent investigations also demonstrated
+that radiation or chemotherapeutic agents including tmz
+induce autophagy in malignant glioma cells,13,14 we mea-
+sured conversion of microtubule-associated protein 1 light-
+chain 3 (map1-lc3) (lc3-i, 18 kda), to a lipidized form (lc3-
+ii, 16 kda) in tmz-treated cells as a measure of autophagy.
+as shown in figure 1d, tmz induced an accumulation of the
+10
+14
+       (days after tmz)
+2n    4n
+2n    4n
+2n    4n
+2n    4n
+2n    4n
+2n    4n
+40
+35
+30
+25
+20
+15
+10
+12
+14
+10
+(days after tmz)
+control
+tmz
+map1-lc3
+α-tubulin
+10
+14
+(days after tmz)
+1        rm days
+lc3- i (18kda)
+lc3-ii (16kda)
+(days after tmz)
+p-s6k
+4e-bp1
+α-tubulin
+figure 1 effect of tmz on u251 cells. u251 cells were exposed to tmz (100 mm, 3 h), after which cells were washed, placed in drug-free media, and monitored for dna
+content by facs analysis. representative histograms derived from cells 3–14 days after tmz exposure are shown in (a), and the 4n/2n ratios (means7s.d.) are shown as
+open squares in (b). (c) representative photomicrographs ( 400) of hematoxylin/eosin-stained cells 7 days after tmz-exposure (0 or 100 mm, 3 h). arrowheads identify cells
+exhibiting multimicronucleation in the absence of cytoplasmic shrinkage. the mean percentages 7s.d. of tmz-treated u251 cells that underwent cell death characterized by
+multimicronucleation in the absence of cytoplasmic shrinkage following 3–14 days after tmz exposure are shown as closed squares in (b). (d) immunoblot analysis of map1-
+lc3 forms in control u251 cells and in u251 cells 3–14 days after tmz exposure (100 um, 3 h), or 1 day after rapamycin (rm, 10 nm) exposure (positive control) showing the
+conversion of the lc3-i form of map1-lc3 to the lc3-ii form beginning 3 days after tmz exposure. (e) immunoblot analyses of levels of phospho-s6k, 4e-bp1 in tmz-
+treated (100 mm, 3 h) u251 cells 0–5 days following drug exposure (e). a-tubulin was used as a loading control in panels d and e. all data are representative of three
+independent experiments
+cell death and differentiation
+550
+autophagy in dna damaging agent-treated cells
+m katayama et al
+lc3-ii form of map1-lc3 as early as 3 days after tmz
+exposure, similar to what was noted following a 1-day
+exposure of the cells to the known inducer of autophagy,
+rapamycin. to further verify that tmz-induced autophagy was
+occurring, we indirectly measured the activity of mtor, a key
+suppressor of autophagy, by looking at activation of
+its
+downstream targets s6k and 4e-bp1 in tmz-treated cells.
+as shown in figure 1e, the phosphorylation of s6k was
+signiﬁcantly downregulated 3 days following tmz exposure,
+and 4e-bp1 was progressively hypophosphorylated (faster
+migrating band), consistent with downregulation of mtor
+activity that accompanies autophagy. these results indicate
+that tmz induces a g2 arrest followed by the induction of
+autophagy and a form of cell death preceded by multi-
+micronucleation (‘mitotic catastrophe’).
+tmz-induced, autophagy-driven increases in atp levels
+protect cells from the drug-induced cell death preceded
+by multinucleation. because it has been reported that
+autophagy provides mitochondria with substrates to maintain
+oxidative phosphorylation in the absence of growth factors,15
+we examined whether tmz-induced autophagy could have a
+similar atp-producing effect. to assess the effects of tmz
+on the levels of atp, we used a luciferin-luciferase based
+atp bioluminescence method that has been described
+previously.16 atp levels in u251 cells increased 3 days
+following tmz exposure and peaked at over two times those
+of control cells 7 days after tmz exposure, falling to control
+levels by 14 days after tmz treatment (figure 2a). the time
+course of
+the atp surge was consistent with that of
+autophagic processing of map1-lc3 to its lipidized form
+300
+250
+200
+150
+100
+50
+(days after tmz)
+10
+14
+control
+5d after tmz
+7d after tmz
+             +
+(5 days after tmz)
++     3ma 2days
+0mm
+1mm
+5mm 10mm
+3-methyl adenine (conc)
+map1-lc3
+α-tubulin
+lc3-i
+lc3-ii
+control
+tmz
+tmz+3ma
+240
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+70
+60
+50
+40
+30
+20
+10
+t m z
+t m z+3 m a1 m m
+t m z+3 m a5 m m
+t m z+3 m a10 m m
+figure 2 tmz-induced, autophagy-driven increases in atp levels protect u251 cells from cell death preceded by multinucleation. (a) atp levels (mean7s.d.,
+normalized to untreated controls) per cell 3–14 days after tmz treatment (100 mm, 3 h). (b) atp levels (mean 7s.d., normalized to untreated controls) in cells 5–7 days after
+tmz (100 mm, 3 h) exposure with the addition of 3-ma (0–10 mm) for the last 2 days of the experiment. (c) immunoblot analyses of the levels of lc3-i and lc3-ii forms of
+map1-lc3 in control cells (lane 1), cells 5 days after tmz treatment (100 mm, 3 h) (lane 2), or cells collected 5 days after tmz treatment (100 mm, 3 h) with the addition of 3-ma
+(10 mm) the last 2 days of the study (lane 3). a-tubulin was used as a loading control. (d) percentage of cells that underwent multimicronucleation 5 days after tmz treatment
+(100 mm, 3 h) with the addition of 3-ma (0–10 mm) the last 2 days of the study. (e) photomicrograph (400 ) of hematoxylin/eosin-stained cells 5 days after exposure to tmz
+(100 mm, 3 days) with the addition of 3-ma (0–10 mm) the last 2 days of the study (arrows: multinucleated cells). all studies are representative of three independent
+experiments
+cell death and differentiation
+autophagy in dna damaging agent-treated cells
+m katayama et al
+551
+(lc3-ii) (figure 1d), suggesting that this surge could be an
+autophagy-related process.
+to clarify whether the tmz-induced elevation of atp levels
+was related to autophagy, we exposed cells to tmz (0 or
+100 mm, 3 h), then incubated the cells with 3-ma (a pi3k
+inhibitor widely used as a pharmacological
+inhibitor of
+autophagy), for 2 days beginning 3 days after tmz exposure,
+and monitored effects on atp production and autophagy.
+while 3-ma alone had no effect on atp levels, the tmz-
+induced atp surge (0 mm group; figure 2b) was inhibited by
+the addition of 3-ma in a dose dependent manner. 3-ma
+similarly did not alter the distribution between map1-lc3
+forms (not shown), but inhibited the tmz-induced conversion
+of map1-lc3 to a lipidized form (figure 2c). to determine if
+the autophagy-associated surge in atp was related to cell
+outcome, we also monitored the percentage of cells under-
+going multimicronucleation in cells treated similarly with tmz,
+3-ma or both. while a 2–4 day treatment with 3-ma up to
+10 mm alone did not induce cell death (data not shown), the
+delayed 3-ma exposure that suppressed the tmz-induced
+atp surge also signiﬁcantly increased the percentage of cells
+undergoing multimicronucleation in a dose-dependent man-
+ner (figures 2d and e).
+because 3-ma is a relatively nonspeciﬁc inhibitor of
+autophagy, especially when used at high concentrations, we
+repeated the studies in figure 2 using an short hair pin rna
+(shrna) targeting beclin-1, a key component of autophago-
+some formation. as shown in the western blot in figure 3a,
+u251 cells stably expressing beclin shrna exhibited sig-
+niﬁcantly lower levels of beclin 1 relative to cells expressing a
+nontargeted shrna (shnegctrl). cells expressing beclin
+shrna also exhibited reduced conversion of map1-lc3 to
+beclin
+α-tubulin
+300
+250
+200
+150
+100
+50
+shneg.ctrl
+shbeclin
+shneg.ctrl
+shbeclin
+tmz days
+map1-lc3
+α-tubulin
+ ut
+ tmz
+shnegctrl
+shbeclin
+80
+70
+60
+50
+40
+30
+20
+10
+shnegctrl
+shbeclin
+shnegctrl
+shbeclin
+lc3-gfp
+dapi
+lc3-gfp
+dapi
+ut
+tmz
+figure 3 shrna-mediated suppression of beclin expression suppresses tmz-induced autophagy and atp accumulation, and enhances multimicronucleation. (a)
+western blot analysis of beclin1 levels in u251 cells stabley expressing negative control shrna or shrna targeting beclin 1. (b) western blot analysis of map1-lc3 i and ii 0
+or 3 days following tmz exposure (100 mm, 3 h) of u251 cells stabley expressing negative control shrna or shrna targeting beclin 1. (c) atp content 5 days after tmz
+exposure (0 mm, light gray bars; or 100 mm, dark gray bars, 3 h) of u251 cells stabley expressing negative control shrna or shrna targeting beclin 1. (d) percentage of u251
+cells stabley expressing negative control shrna or shrna targeting beclin 1 that exhibit micronucleation 5 days following tmz (100 mm, 3 h) exposure. (e) fluorescent images
+of unstained (left panels) or dapi-stained (right panels) gfp-lc3-expressing u251cells also expressing either negative control shrna (shnegctrl) or shrna targeting beclin
+1 (sh beclin) 5 days following exposure to 0 (ut) or 100 mm tmz (tmz)(3 h). arrowheads, cells exhibiting condensed gfp-lc3 speckles consistent with autophagy. all studies
+are representative of at least three independent experiments. *po0.05
+cell death and differentiation
+552
+autophagy in dna damaging agent-treated cells
+m katayama et al
+a lipidized form 3 days after tmz treatment (figure 3b),
+suggesting as expected that suppression of beclin 1 levels
+suppressed tmz-induced autophagy. shrna-mediated sup-
+pression of beclin 1 did not alter atp levels in control cells
+(compare light gray bars in figure 3c) but did signiﬁcantly
+suppress the atp surge noted in shneg control cells 5 days
+following tmz exposure (figure 3c). shrna-mediated sup-
+pression of beclin 1 also signiﬁcantly increased the percen-
+tage of cells undergoing micronucleation 5 days after tmz
+exposure (figure 3d), without altering micronuclation in
+untreated cells (not shown). because these data suggested
+that autophagy was a means by which cells protect
+themselves from multimicronucleation, and that the auto-
+phagy and micronucleation processes might be mutually
+exclusive, we also stably transfected u251 expressing
+negative control shrna or shrna targeting beclin 1 with
+constructs encoding gfp-lc3, after cells were incubated with
+tmz (100 mm, 3 h). five days later, cells were incubated with
+dapi
+(to stain nuclei) and monitored by ﬂuorescence
+microscopy for tmz-induced gfp-lc3 clustering (a marker
+of autophagy) and multimicronucleation. as shown in
+figure 3e, untreated cells expressing either the negative
+control or beclin-targeted shrna exhibited a diffuse gfp
+staining consistent with a lack of autophagy (left panels), and
+no evidence of micronucleation (right panels). tmz treatment
+of negative control cells or of cells expressing beclin shrna
+led to the appearance of autophagic cells with a punctate gfp
+appearance and of cells with characteristics of micronuclea-
+tion (more autophagic cells and fewer micronucleated cells in
+the negative control group)
+in no
+instance, however, did cells undergoing micronucleation
+exhibit punctate gfp staining. these results suggest that
+autophagy and micronucletion are,
+to the limits of our
+detection, mutually exclusive processes in tmz-treated
+glioma cells.
+(figure 3e, arrows).
+finally, because multimicronucleation may not equate with
+cell death, we also directly measured the effects of beclin
+shrna on the clonagenicity of u251 cells exposed to tmz. as
+shown in figure 4, the same beclin shrna that suppressed
+beclin levels, suppressed the tmz-induced atp surge, and
+enhanced tmz-induced micronucleation also enhanced
+tmz-induced cytotoxicty. these data as a whole suggest
+that tmz induced autophagy-driven increases in atp levels
+protect cells from the drug-induced cell death preceded
+multimicronucleation.
+ u251 vector control
+ u251 shbeclin
+120
+100
+80
+60
+40
+20
+u t
+t m z 10µ m
+t m z 25µ m
+t m z 50µ m
+figure 4 colony formation efﬁciency of u251 cells stabley expressing negative
+control shrna or shrna targeting beclin 1 following tmz exposure (0–50 mm, 3 h)
+are
+results
+atpase inhibitor, oligomycin (1 mm) (to block the oxidative
+phosphorylation). inhibition of glycolysis with 2dg did not
+block the tmz-induced two-fold surge in atp levels noted
+5 or 7 days following tmz exposure (figure 5a). 2dg
+incubation also neither enhanced the percentage of cells
+undergoing multimicronucleation (not shown) nor altered the
+extent of micronucleation in tmz-treated cells (figure 5b),
+suggesting that
+the atp surge that contributes to cell
+protection was not generated by glucose uptake and
+glycolysis. these
+the
+observation that tmz-treated cells also downregulated
+glut-1, a major glucose transporter, in response to tmz
+exposure (figure 5c). however, when the oxidative
+phosphorylation in the mitochondria was blocked by
+exposure of tmz-treated cells to a nontoxic, non-
+micronucleation-inducing exposure of oligomycin (1 mm, not
+shown), the tmz-induced atp surge was abolished and the
+percentage of tmz-treated cells that died a multimicro-
+nucleation-associated death was signiﬁcantly increased
+(oligomycin groups, figures 5a and b). these results
+suggest that the tmz-induced surge in atp production is
+dependent not on glycolysis but on oxidative phosphorylation
+of substrates that can be provided by autophagy.
+consistent with
+the tmz-induced atp surge is dependent on oxidative
+phosphorylation. to determine whether the tmz-induced
+atp elevation noted in gbm cells is dependent on catabolic
+metabolism (mitochondrial atp production) as would be
+expected in response to autophagy, we blocked either
+anabolic metabolism (by inhibition of glycolysis) or catabolic
+metabolism (by addition of a mitochondrial inhibitor) in tmz-
+treated cells, and monitored atp levels and cellular
+outcome. to do so, u251 cells were treated with tmz
+(100 mm, 3 h) after which the cells were grown in drug-free
+media for 3 days. the tmz-exposed cells were grown an
+additional 2 days in glucose-free media containing 2-deoxy-
+d-glucose (2dg, 10 mm) (to block glycolysis), or in glucose-
+containing media supplemented with a mitochondrial f0, f1-
+because the tmz-induced atp surge that was generated
+by oxidative phosphorylation appeared to protect cells from
+cell death preceded by multimicronucleation, we tested
+whether providing exogenous substrates for oxidative phos-
+phorylation to autophagy-deﬁcient cells could enhance atp
+levels and suppress cell death preceded by multimicronuclea-
+tion. for these studies, u251 cells retrovirally infected with
+constructs encoding non-targeted shrna or an shrna
+targeting beclin 1 were permeabilized with ﬁlipin i (5 mm) (a
+sterol-binding agent that disrupts caveolae to permeabilize
+the cell17), then incubated with pyruvate (0 or 25 mm) for 2
+days beginning 3 days after tmz exposure (0 or 100 mm, 3 h),
+after which atp levels and the percentage of cells undergoing
+micronucleation were examined. as shown in figure 5d, atp
+cell death and differentiation
+autophagy in dna damaging agent-treated cells
+m katayama et al
+553
+250
+200
+150
+100
+50
+tmzalone
+tmz+2dg (w/o glucose)
+tmz+oligomycin
+5d after t m z
+7d after t m z
+50
+40
+30
+20
+10
+control
+2d g 10 m m w/o glucose
+oligo m ycin
+700
+600
+500
+400
+300
+200
+100
+7 (days after tmz)
+glut-1
+α-tubulin
+ ut
+ pyruvate
+ tmz
+ tmz+pyruvate
+shnegctrl
+shbeclin
+70
+60
+50
+40
+30
+20
+10
+ ut
+ pyruvate
+ tmz
+ tmz+pyruvate
+shnegctrl
+shbeclin
+figure 5 tmz-induced atp surge in u251 cells is dependent on oxidative phosphorylation. (a) atp level per cell (mean7s.d., normalized to untreated controls) 5 or 7
+days after tmz treatment (100 mm, 3 h) with or without exposure to oligomycin (1 mm) or glucose-free dmem supplemented with 2dg (10 mm) in the last 2 days of the study.
+(b) percentage of cells exhibiting multimicronucleation 5 days after tmz treatment (100 mm, 3 h) with or without exposure to oligomycin (1 mm) or glucose-free dmem
+supplemented with 2dg (10 mm) in the last 2 days of the study. *po0.01. (c) immunoblot analyses of glut-1 levels in u251 cells 0–7 days after tmz treatment (100 mm,
+3 h). (d–e) atp level per cell (mean7s.d., normalized to untreated controls) and the percentage of multimicronucleated cells 5 days after tmz exposure (0–100 mm, 3 h) in
+ﬁlipin 1-permeabilized u251 cells stabley expressing negative control shrna or shrna targeting beclin 1 and incubated with pyruvate (0 or 25 mm) in the last 2 days of the
+study. data shown are representative of three to ﬁve independent experiments. *po0.01
+in contrast,
+levels were not signiﬁcantly increased by permeabilization or
+incubation of shneg control cells with pyruvate, although
+consistent with data shown in figure 3c, tmz exposure
+increased atp levels approximately three- to six-fold in the
+absence or presence of pyruvate.
+the tmz-
+induced atp surge was suppressed in cells expressing
+shbeclin (compare the third bar in each group in figure 5d) but
+could be partially restored by providing pyruvate to the cells.
+as would be predicted, the genetic suppression of beclin
+levels also enhanced tmz-induced multimicronucleation, an
+that could be reversed by provision of pyruvate
+effect
+(figure 5e). these results suggest
+that tmz exposure
+induces autophagy and enhances atp production, which in
+turn helps protect from cell death preceded by multimicro-
+nucleation.
+to determine if our observations were unique to u251 cells,
+we repeated studies in two other p53-mutant glioma cells,
+u373 and sf188. like tmz-treated u251 cells, both tmz-
+treated u373 and sf188 cells exhibited g2-m arrest at 3–5
+days post-tmz exposure (figure 6a). the cells also exhibited
+an lc3-ii accumulation at 4–5 days after tmz treatment,
+which was inhibited by the delayed addition of 3-ma
+(figure 6b). we also observed downregulation of
+the
+phosphorylation of s6k and progressive hypophosphorylation
+of 4e-bp1 in both cell lines, consistent with downregulation of
+mtor activity that accompanies autophagy (figure 6c). as
+with u251 cells, analyses of atp levels revealed a signiﬁcant
+tmz-induced elevation of atp production. the delayed
+addition of 3-ma, while not altering atp levels itself (not
+shown), did inhibit the tmz-induced surge in atp production
+(figure 6d), suggesting the atp surge was associated with
+autophagy. delayed 3-ma addition, while not altering micro-
+nucleation by itself (not shown) also resulted in a signiﬁcant
+increase in tmz-induced multimicronucleation in both cell
+cell death and differentiation
+554
+autophagy in dna damaging agent-treated cells
+m katayama et al
+u373
+sf188
+(days after tmz)
+2n 4n
+2n 4n
+2n 4n
+2n 4n
+2n 4n
+2n 4n
+0       5
+   0
+0   
+  4
+(days after tmz)
+3ma days
+lc3-i
+lc3-ii
+lc3-ii
+ 0 
+ 2 
+ 3 
+  3 
+(days after tmz)
+map1-lc3
+α-tubulin
+p-s6k
+4e-bp1
+α-tubulin
+u t
+t m z
+t m z+3 m a
+70
+60
+50
+40
+30
+20
+10
+t m z
+t m z+3 m a
+350
+300
+250
+200
+150
+100
+50
+u t
+t m z
+t m z+3 m a
+40
+35
+30
+25
+20
+15
+10
+t m z
+t m z+3 m a
+180
+160
+140
+120
+100
+80
+60
+40
+20
+control
+tmz
+tmz+3ma
+control
+tmz
+tmz+3ma
+figure 6 effects of tmz on u373 and sf188 cells. (a) representative facs analyses of dna content of u373 (left panels) and sf188 cells (right panels) 0–5 days after
+exposure to tmz (100 mm, 3 h). (b) immunoblot analysis of the lc3-i and lc3-ii forms of map1-lc3 in samples obtained from u373 and sf188 control cells (lane 1), cells 4–5
+days after tmz exposure (100 mm, 3 h) (lane 2), or cells 4–5 days after tmz exposure (100 mm, 3 h) with the addition of 3-ma (10 mm) in the last 2 days of the study (lane 3).
+(c) immunoblot analyses of levels of phospho-s6k, 4e-bp1 in tmz treated (100 mm, 3 h) u373 and sf188 cells 0–5 days following drug exposure. (d) atp level per cell
+(mean7s.d., normalized to untreated controls) (a), and the percentage of cells exhibiting death associated with multimicronucleation (b) in tmz treated (100 mm, 3 h) u373
+and sf188 cells with or without addition of 3-ma (0 or 10 mm) in the last 2 days of the study. (e) photomicrograph (400 ) of control, tmz-treated (100 mm, 3 h), or tmz þ 3-
+ma (0–10 mm in the last 2 days of the study)-treated u373 and sf188 cells 5 (u373 cells) or 4 (sf188 cells) days after tmz exposure. arrowheads, multinucleated cells. data
+shown are representative of three independent experiments. *po0.01
+lines (figures 6d and e). these results support the idea that
+tmz-induced, autophagy-driven, cytoprotective increases in
+atp levels are not unique to u251 cells but are also observed
+in other glioma cell lines such as u373 and sf188 cells.
+etoposide induces an autophagy-associated atp
+elevation. because it is known that autophagy is induced
+by multiple dna damaging agents,3,8 we repeated studies in
+u251 cells using etoposide to see whether the autophagy-
+associated cytoprotective atp surge was unique to tmz. as
+shown in figure 7a, etoposide (20 mm, 8 h) induced an s-
+phase and g2-arrest in u251 cells. immunoblot analyses
+revealed the accumulation of lc3-ii, which peaked 2 days
+in support of
+after etoposide exposure (figure 7b).
+the
+etoposide induction of autophagy, we also observed
+downregulation of
+the phosphorylation of s6k and
+progressive hypophosphorylatation of 4e-bp1 indicative of
+mtor activity downregulation (figure 7c). the analyses of
+levels of atp revealed an etoposide-mediated elevation of
+atp 3 days after the treatment (figure 7d) in a time course
+consistent with the autophagic process, suggesting that this
+atp surge was an autophagy-related process. delayed
+addition of 3-ma to ﬁlipin-permeabilized cells (which did not
+in itself alter atp levels or micronucleation – not shown) also
+suppressed processing of map1-lc3 as well as the atp
+elevation driven by etoposide exposure (figures 7e and d,
+cell death and differentiation
+autophagy in dna damaging agent-treated cells
+m katayama et al
+555
+days after etoposide
+map1-lc3
+α-tubulin
+2         3        5         0       (days after etoposide)
+0 
+0         0
+0        0
+1       rm days
+lc3-i
+lc3-ii
+u t
+etop
+etop+3 m a+pyruvate
+etop+3 m a
+50
+40
+30
+20
+10
+etop
+etop+3 m a+pyruvate
+etop+3 m a
+300
+250
+200
+150
+100
+50
+control
+etoposide
+etoposide+3ma
+p-s6k
+4e-bp1
+α-tubulin
+map1-lc3
+α-tubulin
+(days after etoposide)
+0 
+2         3        5
+(days after etoposide)
+0        2         2
+0        0         1     3ma days
+lc3-i
+lc3-ii
+figure 7 effect of etoposide on u251 cells. (a) representative facs-based analysis of the dna content of u251 cells 0–3 days after exposure to etoposide (20 mm, 8 h).
+(b) immunoblot analysis of the lc3-i and lc3-ii forms of map1-lc3 in u251 cells in 0–5 days after etoposide exposure (20 mm, 8 h), or after 1 day rapamycin (rm) exposure
+(10 nm) as a positive control. (c) immunoblot analyses of levels of phospho-s6k, 4e-bp1 in etoposide treated (20 mm, 8 h) u251 cells 0–5 days following drug exposure. (d)
+atp levels (mean7s.d., normalized to untreated controls) and percentage of multimicronucleated cells 3 days after exposure of ﬁlipin-permeabilized u251 cells to etoposide
+(0 or 20 mm, 8 h), 3ma (0 or 10 mm), and/or pyruvate (0 or 25 mm added in the last 2 days of the study). (e) immunoblot analysis of the lc3-i and lc3-ii forms of map1-lc3 in
+control cells (lane 1), cells 2 days after etoposide exposure (20 mm, 8 h) (lane 2), or cells 2 days after etoposide exposure (20 mm, 8 h) with the addition of 3-ma (10 mm) in the
+last 24 h (lane 3). (f) photomicrograph (400 ) of hematoxylin/eosin-stained control, etoposide-treated (20 mm, 8 h), or etoposide þ 3-ma (10 mm added in the last 24 h of
+the study)-treated cells 2 days after etoposide exposure. data shown are representative of three independent experiments. *po0.01
+respectively), and signiﬁcantly increased the percentage of
+cells eliminated by cell death preceded by multimicro-
+nucleation (figures 7d and f). furthermore, as shown in
+figure 7d, co-incubation with pyruvate (0 or 25 mm) and 3-
+ma (24 h after starting the etoposide-treatment), neither of
+which alone altered atp levels or micronucleation (not
+shown) resulted in a statistically signiﬁcant elevation of levels
+of atp (po0.01), which also partially reversed the enhanced
+cell death mediated by the addition of 3-ma. similar results
+were obtained using sf188 cells (figures 8a–e). these
+results suggest that the autophagy-associated atp surge
+that protects cells from drug-induced cell death is not unique
+to tmz and can be reproduced by other dna damaging
+agents such as etoposide.
+discussion
+the autophagic process has taken on increased importance
+following the recognition that it represents a novel form of cell
+it
+remains unclear whether
+death distinct from apoptosis and necrosis.2,3,18–20 the role of
+drug-induced autophagy, however, is poorly understood, and
+given the protective role of autophagy in times of cellular
+starvation,
+the drug-induced
+autophagy noted following exposure of cells to agents such
+as tmz is protective from, or contributory to, cell death.3,8 in
+this study, we show that autophagy induced by two distinct
+dna damaging agents clearly protects several gbm cell lines
+from cell death preceded by multimicronucleation. further-
+more,
+this protection is associated with surges in atp
+generated not by glycolysis but by oxidative phophorylation.
+the data presented therefore suggest that part of the cellular
+response to dna damaging agents such as tmz is the
+autophagic enhancement of catabolic metabolism and atp
+levels which in turn provide a degree of cellular protection that
+may contribute to chemoresistance.
+the present work ﬁrmly establishes a link between two
+distinct processes: drug-induced autophagy and suppression
+of cell death characterized by multimicronucleation. previous
+cell death and differentiation
+556
+autophagy in dna damaging agent-treated cells
+m katayama et al
+map1-lc3
+α-tubulin
+250
+200
+150
+100
+50
+u t
+etop
+etop+3 m a
+(days after etoposide)
+2n  4n
+2n  4n
+(days after etoposide)
+0         2         2      
+0         0         1   3-ma days
+(days after etoposide)
+0 
+1         2         3
+lc3-i
+lc3-ii
+p-s6k
+4e-bp1
+α-tubulin
+etop  
+etop+3 m a
+control
+etoposide
+etoposide+3ma
+70
+60
+50
+40
+30
+20
+10
+figure 8 effect of etoposide on sf188 cells. (a) representative facs-based analysis of dna contents of sf188 cells 0–2 days after exposure to etoposide (20 mm, 8 h).
+(b) immunoblot analysis of the lc3-i and lc3-ii forms of map1-lc3 in sf188 cells in control cells (lane 1), cells 2 days after etoposide exposure (20 mm, 8 h) (lane 2), or cells
+2 days after etoposide exposure (20 mm, 8 h) with the addition of 3-ma in the last 24 h of the study (lane 3). (c) immunoblot analyses of levels of phospho-s6k, 4e-bp1 in
+etoposide treated (20 mm, 8 h) cells 0–3 days following drug exposure. (d) atp level per cell (mean7s.d., normalized to untreated controls) and percentage of
+multimicronucleated cells in cells 2 days after etoposide treatment, with or without 3ma (10 mm) in the last 24 h of the study. (e) photomicrograph (400 ) of h/e stained cells
+of control sf188 cells, cells 2 days after etoposide exposure (20 mm, 8 h), or cells 2 days after etoposide exposure (20 mm, 8 h) with the addition of 3-ma in the last 24 h of the
+study. all data are representative of three independent experiments. *po0.01
+work suggested that tmz exposure induced autophagy in
+glioma cells and contributed to chemo-resistance, although
+this study did not examine atp levels.13 in the same study,
+however, it was also shown that inhibition of tmz-induced
+autophagy by 3-ma modestly enhanced cell viability, rather
+than suppressed it as noted in the present study. in the
+present study we manipulated the autophagic process 3 days
+after a brief tmz exposure (a time frame that coincides with
+the completion of
+the cell cycle arrest and the onset of
+autophagy), rather than continuously during tmz exposure
+and cell cycle arrest as in the previous study. this allowed us
+to analyze the role of autophagy more precisely, and may
+explain some of the differences noted between the studies.
+the present work also deﬁnitively shows that the autopha-
+gic increase in atp production was dependent on oxidative
+phosphorylation following the induction of autophagy, and
+was also linked to suppression of cell death characterized by
+multimicronucleation. previously, it has been reported that
+autophagy provides growth-factor deprived cells with oxidiz-
+able substrates to compensate for the loss of nutrient uptake,
+and allows cells to maintain atp production via catabolic
+metabolism.15 the results of the present study are consistent
+with those derived from growth factor-deprived cells, although
+the source of substrates for the oxidative phosphorylation in
+the present study can only be presumed to be autophago-
+lysosome-processed catabolized cellular components. the
+induction of autophagy following tmz or etoposide exposure
+resulted in a surge of atp production rather than a sustained
+elevation as noted following growth-factor deprivation,
+although the surge in atp levels was larger than could be
+induced by supplying exogenous substrates for oxidative
+phosphorylation. even relatively small
+increases in atp
+levels, however,
+led to signiﬁcant suppression of death
+characterized by multimicronucleation, suggesting that atp
+levels are intimately linked to micronucleation sensitivity.
+although the nature of this linkage is not clear, atp plays a
+role in cellular maintenance, maintenance of dna integrity,21
+the cell cycle.22 the autophagy-
+and the reinitiation of
+associated surge in atp may therefore allow cells to maintain
+normal function in the face of extensive dna damage. in this
+sense, autophagy may serve a cooperative role with cell cycle
+checkpoints in allowing the cell time to deal with dna damage.
+given that tmz activates signaling pathways that control the
+(including akt-mtor23) as well as the
+g2 checkpoint
+autophagic process, the linkage between dna damage and
+the g2 checkpoint may also extend to autophagy. these
+ideas remain to be examined.
+the present work also suggests that drug-induced autop-
+hagy and its resultant cytoprotective surge in atp levels may
+resistance to chemo-
+be a generalized mechanism of
+therapeutic agents. the present study shows that
+two
+unrelated agents both induce autophagy, a surge in atp,
+cell death and differentiation
+autophagy in dna damaging agent-treated cells
+m katayama et al
+557
+and protection from one form of cell death. both tmz and
+etoposide, however, are dna damaging compounds that
+induced cell cycle arrest, and in this regard autophagy may be
+a more speciﬁc response to compounds that generate
+potentially lethal dna damage. consistent with this idea, the
+ability of tmz to induce autophagy is not related to general-
+ized cell stress, but rather to the generation of dna lesions
+(o6-methylguanine) that lead to dna damage in the form of
+dna single, and double strand breaks (kanzawa et al.14 and
+unpublished data). the importance of autophagy may also
+however vary by the genetic background of
+the cells
+examined. the present studies were limited to p53-mutant
+glioma cells because in these cells the predominant form of
+tmz-induced cell death is multinucleation rather
+than
+apoptosis or senescence.11,12 while most gbm are similarly
+defective in the p53 pathway and presumably inﬂuenced by
+autophagy, tumors of other genetic backgrounds may be less
+inﬂuenced by the autophagic process. these issues remain to
+be deﬁned.
+the present study clearly shows that
+the autophagic
+process induced by tmz and etoposide can contribute to
+resistance to these agents, suggesting that differences in the
+ability of cells to activate this process may contribute to their
+sensitivity to these drugs. modulation of
+the autophagic
+pathway may be a novel way of modifying resistance to
+tmz, etoposide, and perhaps an even broader range of
+chemotherapeutic agents, and as such warrants further
+examination.
+materials and methods
+cell culture and reagents. human malignant glioma u251 and u373 cells
+were purchased from atcc (american tissue culture collection, rockville, md,
+usa). human malignant glioma sf188 cells were obtained from the ucsf brain
+tumor research center tissue bank (san francisco, ca). all cells were grown in
+dulbecco’s modiﬁed eagle’s medium plus 10% fetal bovine serum. tmz was
+supplied by the drug synthesis & chemistry branch, developmental therapeutics
+program, division of cancer treatment and diagnosis, national cancer institute
+and was dissolved in dimethyl sufoxide (dmso) (sigma, st louis, mo). etoposide,
+3-ma, o6-benzylguanine (bg), oligomycin, 2-deoxy-d-glucose (2dg), filipin1 and
+sodium pyruvate were from sigma chemical co. (st louis, mo). e-64d and
+pepstatin were purchased from calbiochem. rapamycin was obtained from cell
+signaling technology.
+drug treatment. for studies examining the effect of tmz on u251 and u373
+cells, unsynchronized, subconﬂuent cells were exposed to tmz (0 or 100 mm) for
+3 h, after which the cells were washed, placed in tmz-free medium, and harvested
+at appropriate time points. for experiments in sf188 cells, unsynchronized,
+subconﬂuent cells were pretreated with 10 mm bg for 2 h to deplete mgmt,
+followed by incubation with 100 mm tmz for 3 h in the presence of bg (10 mm), after
+which the cells were washed, placed in bg (10mm) supplemented, tmz-free media,
+and grown until harvest. for studies examining the effect of etoposide in u251 and
+sf188 cells, the cells were exposed to 20 mm etoposide for 8 h, after which the cells
+were washed, placed in etoposide-free medium, and harvested at time points of
+interest. for all experiments, the cells were plated at least 24 h before the drug
+treatment, and ﬁnal dmso concentration did not exceed 0.1% (v/v).
+3-ma was dissolved directly into culture media, aliquoted and stored at  201
+until used. in the studies using 3-ma, drug-free media was exchanged for media
+containing 0–10 mm 3-ma beginning 2 days prior to harvest for tmz-treated cells,
+and 1 day or 2 days prior to harvest for etoposide treated cells. 2-dg and oligomycin
+were dissolved in water and 100% ethanol respectively, and in studies using these
+agents, drug-free media was replaced with media containing 1 mm oligomycin or
+with glucose-free media containing 10 mm 2-dg beginning 2 days prior to harvest.
+sodium pyruvate and ﬁlipin1 were dissolved in water and 100% ethanol,
+respectively, and in studies using these agents, sodium pyruvate and ﬁlipin1 were
+added (25 mm and 5 mg/ml respectively) to drug-free media beginning 2 days prior to
+harvest.
+cell cycle studies. cell cycle analyses were done as previously described.11
+brieﬂy, at each time point after the treatment, the cells attached to the culture dish
+were trypsinized and collected. these cells were washed in pbs, ﬁxed in 70% (v/v)
+ethanol, and stored at  201. the cells were washed once with pbs followed by
+incubation in pbs containing 20 mg/ml propidium iodide (sigma chemical co.) and
+100 mg/ml rnasea (sigma chemical co.) for 1 h at room temperature in the dark.
+stained nuclei were then analyzed using a becton dickinson facscan (san jose,
+ca) with 20 000 events/determination. modfitlt software (verity software house,
+inc., topsham, me) was used to assess cell cycle distribution.
+immunoblot analyses. preparation of protein samples and western blot
+were performed as described previously11 with minor modiﬁcations. whole-cell
+lysate (0.5–5 mg) were electrophoresed and electroblotted onto an immobilon-p
+membrane (millipore, bedford, ma). the membrane was blocked in 5% skim milk
+(bio-rad laboratories)/tbst or 5% bsa (sigma)/tbst for an hour and probed
+with antibodies to phosphorylated s6k (thr389), 4e-bp1 (cell signaling
+technology, beverly, ma), glut-1 (chemicon, temecula, ca), beclin-1 (bd
+pharmingen, beverly, ma) or a-tubulin (santa cruz biotechnology, santa cruz, ca)
+at 41c overnight. bound antibody was detected with the appropriate horseradish
+peroxidase-labeled secondary antibodies (cell signaling technology, beverly, ma
+and santa cruz biotechnology) using enhanced chemiluminescence western
+blotting detection reagents (pierce, rockford, il).
+to assess the autophagic processing of map1-lc3, the cells were collected
+separately from the samples above by a modiﬁed method as described previously.24
+brieﬂy, 3 h prior to collection of the samples, e64d (10 mg/ml) and pepstatin a
+(10 mg/ml) were added. after 3 h, the cells were washed with pbs, trypsinized, split
+into equal halves, and centrifuged to obtain cellular pellets. one half was used to
+determine protein concentration using protein assay reagent (bio-rad labora-
+tories, hercules, ca) while the other half was lysed directly using lds sample buffer
+to achieve a ﬁnal concentration of 1ug/ul. protein aliquots (10 mg) were then
+subjected to the immunoblot analysis and probed with antibodies to map1-lc3 (h-
+50) or alpha-tubulin (santa cruz biotechnology, santa cruz, ca) at 41c overnight
+with detection as described above.
+measurement of atp content. atp levels were measured as described
+previously.16 brieﬂy, control and drug-treated cells were trypsinized and collected,
+counted in triplicate using a coulter z2 particle count and size analyzer (coulter
+corporation, miami, fl), after which cells (2500–10 000 cells/50 ml) were placed in a
+96-well plate, eight wells per sample. atp levels were measured by the luciferin-
+luciferase method using an atp bioluminescence assay kit
+(celltiter-glo
+luminescent cell viability assay, promega, usa). a standard curve was
+generated from known concentrations of atp for each experiment to reassure
+the reproducibility of each experiment. each experiment was carried out at least in
+triplicate.
+measurement of multimicronucleated cells. for measurement of
+multimicronucleated cells, cells were seeded on chamber slides (lab-tec i chamber
+slide system, nalge nunc, rochester, ny) at least 24 h before exposure to tmz
+(100 mm, 3 h) or etoposide (20 mm, 8 h). control cells and cells at each time point
+after the indicated treatment were ﬁxed with 4% paraformaldehyde/0.25% triton x-
+100/pbs for 10 min at room temperature, rinsed with pbs, then stained with
+hematoxylin/eosin. the cells that were large (absent of cytoplasmic shrinkage) and
+contained separate micronuclei with evenly stained chromatin (absence of
+chromatin condensation) were deﬁned as multinucleated cells as reported
+previously.19,25,26 the percentage of multimicronucleated cells was determined
+after scoring more than 100 nuclei for each experiment. each experiment was
+repeated at least three times.
+shrna constructs. psilencer negative control and psilencer (ambion, austin,
+tx) were a gift from dr. yong-won kwon (university of california san francisco).
+the sequence of the shrna targeting beclin-1 was that described in a previous
+publication,27 and the shrna cassette was subcloned into the bamhi–hindiii site.
+u251 cells were transfected by nucleofector transfection (amaxa, gaithersburg,
+md) using program t-20. at 48 h post-transfection, the cells were selected by
+supplementing dmem with puromycin (400 ng/ml) for 7 days to obtain a pooled
+population of u251 cells stably expressing the shrna construct.
+cell death and differentiation
+558
+autophagy in dna damaging agent-treated cells
+m katayama et al
+colony formation assay. colony formation assay was carried out as
+previously reported.12 brieﬂy, on the day before tmz treatment, sf126 cells were
+irradiated (40 gy) and plated in six-well plates at a density of 5 104 cells/well to
+function as a feeder layer. on the day after, the cells treated with tmz (0–50 mm,
+3 h) were trypsinized, counted, and plated at a concentration of 100 cells/well into
+wells of six-well culture plates. 14 days after tmz exposure, cells were stained with
+coumassie blue (biorad), and colonies of 450 cells were counted.
+involvement of lc3. a green ﬂuorescent protein (gfp)-lc3 expression
+vector was kindly supplied by dr. s kondo (university of texas md anderson
+cancer center). u251 expressing a nontargeted shrna (shnegctrl) or an shrna
+targeting beclin-1 (shbeclin) were transfected with gfp-lc3 using fugene (roche),
+according to the manufacturer’s instruction. at 72 h after transfection, cells were
+selected in medium containing 500 mg/ml of g418 (gibco) for 7days to obtain
+stably gfp-lc3 expressing cells. those cells were treated with tmz as described
+above.
+statistical analysis. the data were expressed as means7standard deviation
+(s.d.). statistical analysis was performed by using student’s t-test (two-tailed). the
+p-value is as shown.
+10. tentori l, lacal pm, benincasa e, franco d, faraoni i, bonmassar e et al. role of wild-
+type p53 on the antineoplastic activity of temozolomide alone or combined with inhibitors of
+poly(adp-ribose) polymerase. j pharmacol exp ther 1998; 285: 884–893.
+11. hirose y, berger ms, pieper ro. abrogation of the chk1-mediated g(2) checkpoint
+pathway potentiates temozolomide-induced toxicity in a p53-independent manner in
+human glioblastoma cells. cancer res 2001; 61: 5843–5849.
+12. hirose y, berger ms, pieper ro. p53 effects both the duration of g2/m arrest and the fate
+of temozolomide-treated human glioblastoma cells. cancer res 2001; 61: 1957–1963.
+13. kanzawa t, germano im, komata t, ito h, kondo y, kondo s. role of autophagy in
+temozolomide-induced cytotoxicity for malignant glioma cells. cell death differ 2004; 11:
+448–457.
+14. kanzawa t, bedwell j, kondo y, kondo s, germano im. inhibition of dna repair for
+sensitizing resistant glioma cells to temozolomide. j neurosurg 2003; 99: 1047–1052.
+15. lum jj, bauer de, kong m, harris mh, li c, lindsten t et al. growth factor regulation of
+autophagy and cell survival in the absence of apoptosis. cell 2005; 120: 237–248.
+16. vander heiden mg, chandel ns, schumacker pt, thompson cb. bcl-xl prevents cell
+death following growth factor withdrawal by facilitating mitochondrial atp/adp exchange.
+mol cell 1999; 3: 159–167.
+17. allan eh, chisholm ab, titheradge ma. hormonal stimulation of mitochondrial pyruvate
+carboxylation in ﬁlipin-treated hepatocytes. biochem j 1983; 212: 417–426.
+18. shintani t, klionsky dj. autophagy in health and disease: a double-edged sword. science
+2004; 306: 990–995.
+19. kroemer g, el-deiry ws, golstein p, peter me, vaux d, vandenabeele p et al.
+classiﬁcation of cell death: recommendations of the nomenclature committee on cell
+death. cell death differ 2005; 12 (suppl 2): 1463–1467.
+1. yorimitsu t, klionsky dj. autophagy: molecular machinery for self-eating. cell death differ
+20. tsujimoto y, shimizu s. another way to die: autophagic programmed cell death. cell death
+2005; 12 (suppl 2): 1542–1552.
+differ 2005; 12 (suppl 2): 1528–1534.
+2. lum jj, deberardinis rj, thompson cb. autophagy in metazoans: cell survival in the land
+of plenty. nat rev mol cell biol 2005; 6: 439–448.
+3. levine b, yuan j. autophagy in cell death: an innocent convict? j clin invest 2005; 115:
+2679–2688.
+21. cotran r, kumar v, collins t. cellular injury and adaptation in coltran r, kumar v,
+collins t, (eds), robbins pathologic basis of disease 6th edn w.b. saunders company:
+philadelphia, pa, usa, 1999; pp. 1–37.
+22. van vugt ma, bras a, medema rh. restarting the cell cycle when the checkpoint comes to
+4. petiot a, pattingre s, arico s, meley d, codogno p. diversity of signaling controls of
+a halt. cancer res 2005; 65: 7037–7040.
+macroautophagy in mammalian cells. cell struct funct 2002; 27: 431–441.
+5. ogier-denis e, codogno p. autophagy: a barrier or an adaptive response to cancer.
+biochim biophys acta 2003; 1603: 113–128.
+6. hay n, sonenberg n. upstream and downstream of mtor. genes dev 2004; 18: 1926–
+1945.
+7. brown ej, schreiber sl. a signaling pathway to translational control. cell 1996; 86: 517–
+520.
+8. kondo y, kanzawa t, sawaya r, kondo s. the role of autophagy in cancer development
+and response to therapy. nat rev cancer 2005; 5: 726–734.
+9. stupp r, mason wp, van den bent mj, weller m, fisher b, taphoorn mj et al.
+radiotherapy plus concomitant and adjuvant temozolomide for glioblastoma. n engl j med
+2005; 352: 987–996.
+23. hirose y, katayama m, mirzoeva ok, berger ms, pieper ro. akt activation suppresses
+chk2-mediated, methylating agent-induced g2 arrest and protects from temozolomide-
+induced mitotic catastrophe and cellular senescence. cancer res 2005; 65: 4861–4869.
+24. tanida i, minematsu-ikeguchi n, ueno t, kominami e. lysosomal turnover, but not a
+cellular level, of endogenous lc3 is a marker for autophagy. autophagy 2005; 1: 84–91.
+25. castedo m, perfettini jl, roumier t, andreau k, medema r, kroemer g. cell death by
+mitotic catastrophe: a molecular deﬁnition. oncogene 2004; 23: 2825–2837.
+26. roninson ib, broude ev, chang bd. if not apoptosis, then what? treatment-induced
+senescence and mitotic catastrophe in tumor cells. drug resist 2001; 4 (update): 303–
+313.
+27. yu l, alva a, su h, dutt p, freundt e, welsh s et al. regulation of an atg7-beclin 1
+program of autophagic cell death by caspase-8. science 2004; 304: 1500–1502.
+cell death and differentiation

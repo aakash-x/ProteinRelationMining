@@ -1,0 +1,1208 @@
+cell death and differentiation (2007) 14, 1181–1190
+& 2007 nature publishing group all rights reserved 1350-9047/07 $30.00
+www.nature.com/cdd
+gene expression proﬁling identiﬁes fkbp39 as an
+inhibitor of autophagy in larval drosophila fat body
+g juha´sz*,1,2, lg puska´s3, o komonyi4, b e´ rdi1, p maro´ y4, tp neufeld2 and m sass1
+in drosophila, the fat body undergoes a massive burst of autophagy at the end of larval development in preparation for the pupal
+transition. to identify genes involved in this process, we carried out a microarray analysis. we found that mrna levels of the
+homologs of atg8, the coat protein of early autophagic structures, and lysosomal hydrolases were upregulated, consistent with
+previous results. genes encoding mitochondrial proteins and many chaperones were downregulated, including the inhibitor of
+eif2alpha kinases and the peptidyl-prolyl cis–trans isomerase fk506-binding protein of 39 kda (fkbp39). genetic manipulation
+of fkbp39 expression had a signiﬁcant effect on autophagy, potentially through modulation of the transcription factor foxo.
+accordingly, we found that foxo mutants cannot properly undergo autophagy in response to starvation, and that overexpression
+of foxo induces autophagy.
+cell death and differentiation (2007) 14, 1181–1190. doi:10.1038/sj.cdd.4402123; published online 16 march 2007
+autophagy is the degradation of self material by lysosomes.
+as a primary cellular defense response, it is activated by
+nitrogen or amino-acid starvation from yeast to mammals, and
+promotes the survival of the cell or organism by recycling
+dispensable cellular constituents for
+re-use in synthetic
+processes. the morphology of the major pathway is well
+known for decades by electron microscopical studies.1 in
+response to starvation or other stimuli, a membranous sac
+called isolation membrane forms and engulfs portions of
+the cytosol. after sealing of its edges, the emerging double-
+membrane organelle is referred to as an autophagosome.
+upon fusion with a lysosome an autolysosome is formed,
+where degradation of
+takes
+place. the process of autophagy is remarkably similar in
+all eukaryotic organisms, suggesting the involvement of
+an evolutionary conserved set of genes. indeed, functional
+homologs of most atg (autophagy-related) genes required
+for autophagy in yeast were found in multiple species
+including plants, worms, ﬂies, and mammals.2 despite
+the conservation of
+there must be
+changes in the regulation of autophagy among different phyla,
+as it is involved in various cellular processes in multicellular
+animals.
+in addition to its fundamental role in starvation
+survival, autophagy is thought to be involved in cell death,
+neurodegeneration diseases, aging, immunity, growth, and
+cancer.1,3,4
+the sequestered material
+the core mechanism,
+in drosophila and other
+insects undergoing complete
+metamorphosis, the larval fat body acts as a store of proteins
+and other materials, which are released through autophagy to
+provide energy and nutrients during metamorphosis and early
+adulthood.5–8 the fat body, an analog of the human liver, is a
+polytenic tissue that grows in mass approximately 200-fold in
+feeding drosophila larvae during the larval stages. after
+reaching an optimal mass, mature larvae stop eating and
+wander away from the food to ﬁnd a suitable place for
+pupariation. at this time, the fat body undergoes a massive
+induction of autophagy, known as developmental autophagy.
+these changes are induced by the insect molting hormone
+ecdysone at a low concentration of juvenile hormone.9 recent
+results showed that ecdysone induces autophagy through
+downregulation of phosphatidyl-inositol 3-kinase (pi3k)
+signaling.10
+a central regulator of cell growth and autophagy is target of
+rapamycin (tor) kinase. inhibition of tor activity rapidly results
+in growth arrest and induction of autophagy, which involves
+multiple phosphorylation and dephosphorylation events.11–13
+in yeast, the phosphorylation state of a number of atg proteins
+is rapamycin-sensitive, and the activity of the kinase atg1 is
+regulated by tor signaling.14 another regulatory mechanism
+is the induction of genes necessary for autophagy, or
+repression of genes that normally inhibit the process. it is
+known that the gene encoding atg8, a ubiquitin-like coat
+protein for autophagosomes, is upregulated in starved yeast
+cells15 and drosophila larvae.16
+to search for genes regulated during developmental
+autophagy, we carried out a microarray analysis by comparing
+the transcriptional proﬁles of fat bodies dissected from feeding
+and wandering third instar larvae. this analysis both demon-
+strated evolutionary conservation and identiﬁed additional
+genes with previously unknown roles in autophagy. further
+1department of general zoology, eo¨tvo¨s lora´nd university, budapest, hungary; 2department of genetics, cell biology, and development, university of minnesota,
+minneapolis, mn, usa; 3laboratory of functional genomics, biological research center, szeged, hungary and 4department of genetics and molecular biology,
+university of szeged, szeged, hungary
+*correspondening author: g juha´sz, department of gcd, university of minnesota, 6-160 jackson hall 321 church street s.e., minneapolis, mn 55455, usa.
+tel: þ 612 626 5217; fax: þ 612 626 5652; e-mail: juhas001@umn.edu
+keywords: autophagy; drosophila; fkbp39; foxo; microarray
+abbreviations: dipk, drosophila inhibitor of protein kinases; fkbp39, fk506-binding protein of 39 kda; jnk, jun n-terminal kinase; pi3k, phosphatidyl-inositol 3-
+kinase; ppiase, peptidyl-prolyl cis-trans isomerase; qrt-pcr, quantitative real-time polymerase chain reaction; rt-pcr, reverse transcription polymerase chain
+reaction; tor, target of rapamycin
+received 03.11.05; revised 18.1.07; accepted 08.2.07; edited by e baehrecke; published online 16.3.07
+1182
+fkbp39 inhibits autophagy
+g juha´sz et al
+characterization of a selected subset of genes in transgenic
+animals identiﬁed fk506-binding protein of 39 kda (fkbp39)
+as an inhibitor of autophagy, which effect is likely mediated
+through modulation of the transcription factor foxo.
+mrpl24, marf) and cellular chaperones (cg8286/ drosophila
+inhibitor of protein kinases (dipk), cg4164, trap1, hsc70-5,
+fkbp39). the expression level of baldspot, encoding a
+transmembrane protein, also strongly decreased (table 2).
+results
+microarray analysis of transcriptional changes during
+developmental autophagy. to assess gene expression
+changes during developmental autophagy in drosophila
+larvae, we manually dissected fat bodies before and after
+the developmental induction of autophagy from feeding (60 h
+after hatching from the egg, figure 1a) and wandering (84 h
+after hatching from the egg, figure1b and e) larvae.6,7
+samples were processed and cdnas were hybridized
+to a microarray containing 3200 annotated drosophila
+cdnas.17 about 1941 of
+the 3200 genes investigated
+were expressed in the fat body. table 1 shows the 57
+genes induced by 1.65-fold or greater (estimated p-value
+o0.025) during autophagy. the mrna level of
+the eye
+pigment biosynthesis gene hn was increased, consistent
+with the known role of the fat body in that process during
+the wandering stage.18 a gene encoding fbp2, a storage
+protein, was also induced; together these results provide a
+control for the proper developmental timing of our sample
+collection. genes encoding putative lysosomal hydrolases
+(a-est2, cathd, cg5932, cg1827, cg10992, cg1774)
+were upregulated, consistent with the expansion of
+the
+lysosomal compartment during autophagy. ten of the 16 ﬂy
+atg gene homologs were represented on our chip, and only
+cg32672/atg8a was induced signiﬁcantly,
+in accordance
+with yeast and previous ﬂy data.1,16 a gene encoding another
+ubiquitin-like protein of unknown function (cg7224) was also
+upregulated.
+the expression of 39 genes was signiﬁcantly downregu-
+lated. among them, two main subgroups could be identiﬁed:
+genes encoding mitochondrial proteins (cg17896, cg9140,
+nd42, cg6459, trap1, cg10664, hsc70-5, cg2249,
+quantitation of expressional changes for a selected
+subset of genes. a subset of genes potentially involved in
+autophagy was selected for further analysis by quantitative
+real-time polymerase-chain reaction (qrt-pcr) to conﬁrm
+and more precisely quantitate the changes in mrna
+expression levels. we also analyzed expression of a few
+genes not represented on our chip, including tor, cg12334/
+atg8b, and cg15283, which encodes a ubiquitin-like protein
+highly similar to cg7224.
+as shown in table 3, these data well correlated with the
+results of the microarray analysis, and further conﬁrmed the
+strong upregulation of both atg8 homologs (cg32672/atg8a:
+6.96 and cg12334/atg8b: 3.53 ) and cathepsin d
+(cg1548: 2.14 ), a well-known lysosomal hydrolase. the
+two ubiquitin-related genes we tested were also induced
+(cg7224: 3.73 and cg15283: 4.62 ). tor mrna level did
+not change, whereas genes encoding the cellular chaperones
+fkbp39,19 cg8286/dipk,20 and baldspot21 were strongly
+repressed (fkbp39: 6.73 , cg8286/dipk: 4.92 , and
+baldspot: 9.91 repression).
+analysis of candidate autophagy-related genes in
+transgenic animals identiﬁed fkbp39 as an inhibitor of
+autophagy. to establish the role of selected genes
+regulated in autophagy, we carried out overexpression
+studies using the gal4-uas system. overexpression of
+most genes we tested (cathd, atg8a, baldspot, and dipk)
+produced various phenotypes with different gal4 drivers
+(supplementary table 1), but neither induced nor inhibited
+autophagy (not shown).
+in contrast to these results, fat body-speciﬁc overexpres-
+sion of fkbp39, a peptidyl-prolyl cis–trans isomerase
+(ppiase) had a dramatic effect on developmental autophagy.
+figure 1 overexpression of fkbp39 inhibits developmental and starvation-induced autophagy, whereas loss of fkbp39 function leads to higher than wild-type induction
+of autophagy. (a–c) lysotracker staining of fat bodies. no lysotracker staining is seen in feeding early third instar larvae (a), whereas lysotracker-positive granules (shown in
+red) accumulate in fat body cells of wandering late third instars (b). overexpression of fkbp39 in the fat body inhibits the formation of lysotracker-positive granules (c), and
+leads to an inhibition of cell growth. this effect is best seen by cortical actin staining (red) of fat bodies clonally overexpressing fkbp39, marked by co-overexpression of
+nuclear gfp (green) (d, top panel). lower panel shows dna staining. note that the nuclei of fkbp39-overexpressing cells (green arrows) are of the same size but contain less
+dna than surrounding wild-type cells (blue arrows). (e and f) electron microscopic images show fat body cells of late third instar larvae. developmental autophagy results in
+the accumulation of large autolysosomes in wild-type larvae (arrow in e; cytoplasmic dark blue granules in the inset), whereas only small autolysosomes are seen in fkbp39-
+overexpressing fat body cells of the same age (arrows in f). note the greatly enlarged nucleolus (asterisk) in the nucleus (n) in f, also caused by the overexpression of fkbp39.
+insets show toluidine blue staining of semi-thick sections. again, note the greatly enlarged nucleoli (dark blue) in nuclei (arrowheads) in (f). (g) quantitation of lysotracker data
+on developmental autophagy is shown. asterisk marks a signiﬁcant change (po0.001). (h–j) lysotracker staining of fat bodies. autophagy in fat body cells of early third instar
+larvae, induced by a 4-h starvation (h, compare to a). fat body-speciﬁc overexpression of fkbp39 also blocks this starvation response (i). co-overexpression of pten
+restores autophagy inhibited by fkbp39 (j). (k) quantitation of lysotracker data is shown. asterisk and double asterisks mark signiﬁcant differences (po0.001 for columns 1-
+2, 2-3, 1-3). (l) rt-pcr of fat body samples dissected from control feeding larvae (lane 1), fkbp395-ha 2440 mutants (lane 2), and a precise excision line fkbp39exa3 (lane 3).
+fkbp39 expression is reduced in larval fat bodies of the mutants, but precise excision of the p-element restores wild-type mrna expression (top panel). bottom panel shows
+rt-pcr for actin as a control. (m–o) lysotracker staining of fat bodies. short, 80-min starvation induces higher levels of autophagy in fat bodies of fkbp395-ha 2440 mutant
+larvae than in wild-type controls (n, compare with m). starvation response is restored to wild-type levels in the precise excision line fkbp39exa3 (o). (p) quantitation of the
+results is shown. asterisk marks a signiﬁcant change (p¼ 0.006 for columns 1 and 2, po0.001 for columns 2 and 3, p¼ 0.27 for columns 1–3). panels a–d, h–j and m–o are
+of the same magniﬁcation ( 200). panels e and f are of the same magniﬁcation and bars equal 1 mm for electron microscopical images, 10 mm for insets. error bars represent
+standard deviation in panels g, k and p. genotypes: uasfkbp39/þ (a, b, e, h), cggal4/uasfkbp39 (c, f, i), hsflp; uasfkbp39/þ ; act4cd24gal4, uasgfpnls/þ
+(d), cggal4/uasfkbp39, uaspten (j), df(3r)exel6194/tm6 (m), fkbp395-ha 2440/df(3r)exel6194 (n), fkbp39exa3/df(3r)exel6194 (o). for panel l, genotypes are
+identical to panels m–o, respectively
+cell death and differentiation
+mam inhihiks ampnagy w
+a juhész el 3/
+  
+  
+dcmowmnm mom
+al‘
+wav‘ mm.
+sun-imnmlwul mm."
+..
+{h
+coma! rkmu mm.
+"em
+2 3
+comm wxu mam
+[smutnl [uni
+mmm m.
+call doaﬂl and dmunmialinn
+1184
+fkbp39 inhibits autophagy
+g juha´sz et al
+table 1 genes upregulated during developmental autophagy in the drosophila larval fat body
+gene name
+fold change
+function/family/domains
+cyp9f2
+cutlet
+fbp2
+alpha-est2
+cg7224
+gs1
+cg12262
+cathd
+reg-2
+cg9431
+cg6440
+syt
+cg18418
+cg6957
+cyp4d2
+cg7523
+l(2)k09913
+hn
+cg15309
+cg12428
+cg5932
+cry
+cg1827
+cg13603
+cg30053
+cg12323
+cg9813
+cg7221
+cg18787
+cg4600
+paip2
+cg8252
+atg8a
+cg2767
+keren
+cg12292
+cg5738
+pdh
+cg17597
+cg4669
+cg10007
+cg1236
+cg9286
+trn-sr
+fuct6
+cg10992
+cg7789
+cg10433
+cg32698
+cg12428
+cg8449
+ote
+cg14629
+fng
+cg1774
+cg12063
+cg5721
+3.95
+3.54
+3.08
+2.77
+2.73
+2.53
+2.52
+2.29
+2.28
+2.16
+2.16
+2.16
+2.14
+2.14
+2.12
+2.12
+2.11
+2.06
+2.06
+2.02
+1.99
+1.97
+1.97
+1.94
+1.91
+1.91
+1.90
+1.90
+1.89
+1.89
+1.88
+1.88
+1.86
+1.86
+1.84
+1.84
+1.84
+1.83
+1.82
+1.77
+1.77
+1.76
+1.76
+1.74
+1.73
+1.73
+1.72
+1.72
+1.71
+1.71
+1.71
+1.71
+1.70
+1.70
+1.70
+1.69
+1.68
+oxidoreductase (cytochrome p450)
+serine-type endopeptidase
+nutrient reservoir; oxidoreductase
+carboxylesterase
+ubiquitin-like
+glutamate synthase
+acyl-coa dehydrogenase
+cathepsin d
+haloacid dehydrogenase-like hydrolase
+immunoglobulin-like
+neuropeptide hormone
+calcium-dependent phospholipid binding
+membrane carrier
+glucoseamine-6-phosphate deaminase
+oxidoreductase (cytochrome p450)
+unknown
+unknown
+eye pigment biosynthesis
+yippee-like protein
+acetyltransferase
+triacylglycerol lipase
+g-protein coupled photoreceptor activity
+aminohydrolase
+unknown
+unknown
+endopeptidase (proteasome b5 subunit)
+unknown
+oxidoreductase
+unknown
+acetyl-coa acyltransferase
+translational repression
+unknown
+coat protein for autophagosomes
+alcohol dehydrogenase
+epidermal growth factor
+unknown
+rna polymerase ii transcription factor
+photoreceptor dehydrogenase
+acyl-coa c-acyltransferase
+unknown
+unknown
+phosphoglycerate dehydrogenase
+unknown
+nuclear import
+fucosyltransferase
+cathepsin b
+phosphatidylinositol phosphatase
+defense response
+carbonate dehydratase
+acetyltransferase
+unknown
+l-amino-associated polypeptide 2
+unknown
+glycosyltransferase
+lipid hydrolase
+endoglin/cd105 antigen, pan domains
+unknown
+p-value
+o0.0001
+o0.0001
+o0.0001
+o0.0001
+o0.0001
+0.0002
+0.0002
+0.0007
+0.0007
+0.0014
+0.0014
+0.0015
+0.0016
+0.0017
+0.0018
+0.0018
+0.0019
+0.0026
+0.0026
+0.0034
+0.0039
+0.0045
+0.0046
+0.0053
+0.0061
+0.0061
+0.0065
+0.0066
+0.0069
+0.0071
+0.0073
+0.0075
+0.0083
+0.0084
+0.0094
+0.0095
+0.0097
+0.0101
+0.0108
+0.014
+0.0144
+0.0149
+0.015
+0.0163
+0.0178
+0.0179
+0.0182
+0.0187
+0.0191
+0.0194
+0.0196
+0.02
+0.0202
+0.0202
+0.0206
+0.0215
+0.023
+the genes upregulated by at least 1.65-fold during developmental autophagy, are shown with an estimated p-value of o0.025. in the ﬁrst column, gene names are
+listed as in flybase (21); second column shows fold induction relative to early third instars (before the onset of autophagy); and third column shows the function, family
+or known domains of the genes listed
+very few autolysosomes were observed in fat body cells of
+wandering larvae overexpressing fkbp39, and these were
+also smaller than in wild-type animals (figure 1c, f and g).
+interestingly, fkbp39 overexpression also inhibited cell
+growth. the average size of fat body cells overexpressing
+fkbp39 was 43721% of wild-type neighboring cells
+(figure 1d). the overexpressing cells also had a lower dna
+content, suggesting a delay in endoreduplication. the fact that
+nuclei were about the same size as nuclei of wild-type cells is
+probably owing to the greatly enlarged nucleolus (figure 1d
+and f).
+we next tested if overexpression of fkbp39 had an effect
+on starvation-induced autophagy. starving feeding larvae for
+4 h in sucrose solution results in strong accumulation of
+lysotracker-positive autolysosomes in larval fat body cells13
+(figure 1h). overexpression of fkbp39 in the fat body greatly
+cell death and differentiation
+fkbp39 inhibits autophagy
+g juha´sz et al
+1185
+table 2 genes downregulated during developmental autophagy in the drosophila larval fat body
+gene name
+fold change
+function/family/domains
+baldspot
+cg17896
+cg3835
+cg14683
+cg5171
+cg9140
+nop56
+cg8286
+cg4164
+cg10340
+nd42
+cg6459
+cg3136
+trap1
+cg6164
+cg9249
+cg18316
+cg10664
+ate1
+yip7
+cg8732
+hsc70-5
+cg15771
+cg11597
+cg3358
+cg2249
+tm1
+sc2
+cg17278
+cg8664
+jon65aiii
+mrpl24
+marf
+cg3902
+cyp310a1
+his2av
+eif-4g
+fkbp39
+ckiialpha
+ 4.69
+ 2.73
+ 2.71
+ 2.56
+ 2.37
+ 2.37
+ 2.15
+ 2.15
+ 2.10
+ 2.08
+ 2.08
+ 2.00
+ 1.97
+ 1.95
+ 1.92
+ 1.92
+ 1.89
+ 1.89
+ 1.87
+ 1.86
+ 1.85
+ 1.82
+ 1.81
+ 1.80
+ 1.78
+ 1.77
+ 1.76
+ 1.75
+ 1.74
+ 1.73
+ 1.71
+ 1.69
+ 1.69
+ 1.69
+ 1.68
+ 1.68
+ 1.67
+ 1.66
+ 1.66
+transmembrane protein
+methylmalonate-semialdehyde dehydrogenase
+oxidoreductase
+methyltransferase
+trehalose-phosphatase
+nadh dehydrogenase (ubiquinone)
+small nuclear ribonucleoprotein complex subunit
+drosophila inhibitor of protein kinases (dipk)
+hsp40
+possibly involved in protein complex assembly
+nadh dehydrogenase (ubiquinone)
+mitochondrial glycoprotein
+basic leucine zipper (bzip) transcription factor
+mitochondrial hsp90
+unknown
+methyltransferase
+unknown
+cytochrome-c oxidase
+arginyltransferase
+serine-type endopeptidase
+acetate-coa ligase
+mitochondrial hsp70
+unknown
+protein serine/threonine phosphatase (pp2a-like)
+nuclease
+cytochrome-c oxidase
+tropomyosin
+unknown
+protease inhibitor
+unknown
+serine-type endopeptidase
+mitochondrial large ribosomal subunit
+gtpase and dynamin domains
+acyl-coa dehydrogenase
+oxidoreductase (cytochrome p450)
+dna binding (histone)
+translation initiation factor
+peptidyl-prolyl cis–trans isomerase (ppiase)
+caseine kinase
+p-value
+o0.0001
+o0.0001
+o0.0001
+0.0001
+0.0003
+0.0003
+0.0011
+0.0011
+0.0015
+0.0017
+0.0017
+0.0027
+0.0033
+0.0038
+0.0044
+0.0045
+0.0055
+0.0055
+0.0062
+0.0065
+0.0069
+0.0083
+0.0087
+0.0092
+0.0104
+0.0107
+0.0114
+0.0123
+0.0126
+0.0137
+0.0151
+0.017
+0.0172
+0.0175
+0.0186
+0.0187
+0.0198
+0.0208
+0.021
+the list of genes downregulated by at least 1.65-fold during developmental autophagy with an estimated p-value of o0.025 (see legend of table 1 for details)
+table 3 quantitative real-time pcr analysis of the expression of a selected set
+of genes during developmental autophagy
+gene
+atg8a
+cg15283
+cg7224
+atg8b
+cathd
+tor
+cg8286/dipk
+fkbp39
+baldspot
+microarray
+1.86
+not on chip
+2.73
+not on chip
+not on chip
+2.29
+ 2.15
+ 1.66
+ 4.69
+qrt-pcr
+6.96
+4.62
+3.73
+3.53
+2.14
+ 4.92
+ 6.73
+ 9.91
+no change
+qrt-pcr analysis was used to conﬁrm and further quantitate the expression
+changes seen in the microarray experiment, and also to analyze genes not
+physically represented on our chip. gene names are listed in the ﬁrst column;
+second column shows fold change based on the microarray experiment; and
+third column shows fold change based on qrt-pcr. see text for details
+inhibited the induction of autophagy in starved animals (figure
+1i and k), similar to the case of developmental autophagy.
+as a ﬁnal veriﬁcation, we then tested how loss of fkbp39
+function inﬂuences autophagy using the hypomorphic mutant
+lines fkbp395-ha 2440 and fkbp395-ha 2590, isolated in the
+drosdel project.22 both lines harbor a p-element insertion 49
+nucleotides upstream of the translation start codon, in the 50
+non-translated region of fkbp39.21 as expected from the
+insertion data, these two mutant lines behaved indistinguish-
+able in all of our tests, therefore only data on fkbp395-ha 2440
+is shown here (see supplementary figure 1 for data on
+fkbp395-ha 2590 ). mutant larvae exhibited a strong reduction
+of fkbp39 expression, as analyzed by reverse transcription-
+polymerase chain reaction (rt-pcr) in dissected larval fat
+bodies (figure 1l) and in whole adult ﬂies (supplementary
+figure 1a). the mutants are viable and fertile, and show no
+obvious developmental abnormality or delay. although we
+were unable to observe ectopic induction of autophagy in
+different larval tissues of these animals (not shown), we found
+that mutant larvae displayed a signiﬁcantly higher level of
+autophagy than wild-type controls in response to a short, 80-
+min starvation (figure 1m, n and p). precise excision of the p-
+element (fkbp39exa3) restored wild-type mrna levels in
+larval
+fat bodies (figure 1l) and in whole adult ﬂies
+(supplementary figure 1a), and reverted the autophagy
+phenotype seen in the mutants (figure 1o).
+of pten restores
+co-overexpression
+autophagy
+inhibited by fkbp39. to identify the signal transduction
+pathway fkbp39 may act
+through, we tested several
+signaling cascades that were previously reported to be
+cell death and differentiation
+1186
+fkbp39 inhibits autophagy
+g juha´sz et al
+inﬂuenced by fkbps.23,24 modulation of ras (by over-
+expressing wild-type, hyperactive or dominant-negative ras
+or wild-type raf), protein kinase a (by overexpressing
+wild-type pkac or its inhibitors pki or mutant pkar), or s6
+kinase (by overexpressing hyperactive s6k) signaling had no
+effect on developmental autophagy, and did not restore
+autophagy
+in fkbp39-overexpressing fat bodies, as
+analyzed by lysotracker staining (not shown). as ras
+signaling was suggested to be involved in the induction of
+autophagy in other systems, and fkbp39 inhibited the ras-
+mediated activation of mapk (supplementary figure 2a), we
+analyzed autophagy by generating loss of function somatic
+clones of a ras null mutation in the fat body. although
+slightly smaller than surrounding wild-type cells, these cells
+showed normal
+induction of developmental autophagy
+(supplementary figure 2b), proving that ras itself is not
+required for autophagy in this tissue.
+in contrast to the above results, overexpression of pten,
+a phosphatase that antagonizes class i pi3k signaling,
+partially restored starvation-induced autophagy in fkbp39-
+expressing fat body cells (figure 1j and k). unfortunately, we
+could not test developmental autophagy in this case, as
+simultaneous expression of these two genes in the fat body
+led to a prolonged third instar stage and ultimately lethality,
+potentially owing to the cumulative growth-inhibiting effects of
+the two proteins.
+the autophagy-inhibiting effect of fkbp39 is likely
+mediated by inhibition of foxo, a novel regulator of
+autophagy. the above results suggested that fkbp39 may
+inhibit autophagy through activation of pi3k, a potent
+inhibitor of both starvation-induced and developmental
+autophagy.10,13 to test this, we analyzed the level of pi3k
+signaling in fkbp39-overexpressing clones. gfp-pleckstrin
+homology (ph) domain fusion proteins are well-established
+markers of pi3k activity.25 in cells with high levels of
+pi3k activity, accumulation of
+the membrane lipid phos-
+phatidylinositol-3,4,5-phosphate results in localization of the
+gfp-ph marker
+to the cell membrane. we found that
+fkbp39 overexpression led to a reduction of membrane
+versus cytoplasmic ratio of
+the signal compared to
+surrounding wild-type cells (figure 2a). this result indicates
+that pi3k activity is reduced in fkbp39-overexpressing cells,
+thus discounting the possibility that fkbp39 inhibits
+autophagy by upregulating pi3k signaling.
+as another potential measure of pi3k signaling, we also
+examined the localization of the transcription factor foxo in
+fkbp39 overexpressing clones. elevated pi3k signaling
+results in phosphorylation of foxo by the serine/threonine
+kinase akt.26 in response to this phosphorylation event, foxo
+changes its intracellular localization: the nuclear pool translo-
+cates to the cytoplasm.26 wild-type mid-third instar
+fat
+body cells displayed a moderate level of nuclear foxo.
+figure 2 the autophagy-inhibiting effect of fkbp39 overexpression is potentially mediated by inhibition of foxo. (a) the membrane localization of a probe used as an
+indicator of pi3k activity (gfp-ph, green) is greatly reduced compared to the cytoplasmic signal in fat body cells of feeding larvae that clonally overexpress fkbp39 (marked
+by punctate myrrfp expression, red). (a0) shows the green channel separately. (b) foxo staining (red) in fat bodies of wild-type mid-third instar larvae shows both nuclear and
+cytoplasmic labeling. in cells overexpressing fkbp39 (and gfp, green), the nuclear pool of foxo is completely abolished, and only cytoplasmic signal is seen. (b0) shows the
+red channel separately. (c) null mutation of foxo (foxo21/foxo25) strongly decreases starvation-induced autophagy in the larval fat body, as shown by lysotracker staining
+(red) (compare to figure 1h). (d) overexpression of fkbp39 in a foxo null mutant background results in a reduction similar to that seen in case of foxo mutation or fkbp39
+overexpression alone, also shown by quantitation of lysotracker data in panel e. asterisks mark signiﬁcant changes (po0.001 for columns 1–2, 1–3, 1–4, p40.2 for columns
+2–3, 2–4, 3–4). (f) overexpression of an activated form of foxo, foxot strongly induces autophagy in fat body cells of feeding larvae. inset shows the red channel (lysotracker
+staining) in the overexpressing cells (delineated by a yellow line). magniﬁcation is  300 for panel a and  200 for panels b–d and f. error bars represent standard deviation in
+panel e. genotypes: hsflp; uasfkbp39/uasmyrrfp; act4cd24gal4, tgph/þ (a), hsflp; uasfkbp39/þ ; act4cd24gal4, uasgfpnls/þ (b), foxo21/foxo25
+(c), cggal4/uasfkbp39; foxo21/foxo25 (d), hsflp; uasfoxot/þ ; act4cd24gal4, uasgfpnls/þ (f)
+cell death and differentiation
+fkbp39 inhibits autophagy
+g juha´sz et al
+1187
+overexpression of fkbp39 led to nearly complete exclusion
+of foxo from the nucleus (figure 2b), despite the reduced
+level of pi3k signaling in these cells, suggesting that the
+autophagy-inhibiting effect of fkbp39 may be mediated
+through inhibition of foxo.
+to test this hypothesis, we carried out overexpression of
+fkbp39 in a foxo null mutant background. null mutation of
+foxo alone strongly interfered with starvation-induced autop-
+hagy, indicating for the ﬁrst time a role for foxo in this process
+(figure 2c and e). overexpression of fkbp39 in a foxo null
+mutant background failed to further suppress autophagy
+compared to mutation of foxo or overexpression of fkbp39
+alone (figure 2d and e), suggesting that the autophagy-
+inhibiting effect of fkbp39 is at least partly mediated by
+inhibition of foxo.
+further conﬁrming the important
+finally, we also expressed an activated version of foxo
+(foxot)26 in fat body cells of feeding larvae. we found that
+foxot expression was sufﬁcient to strongly induce autop-
+hagy,
+role of foxo in
+regulating autophagy (figure 2f). together, our
+results
+indicate that foxo is necessary and sufﬁcient for proper
+induction of autophagy, and they identify foxo as a relevant
+target of fkbp39 action.
+discussion
+we have used microarrays to identify genes that are regulated
+at the time of developmental autophagy in the larval fat body.
+upregulated genes whose protein products likely function in
+developmental autophagy included various lysosomal hydro-
+lases like cathepsin d and cathepsin b, and the ubiquitin-like
+coat proteins for autophagosomes, atg8a and atg8b. expan-
+sion of the lysosomal system is usually observed during
+autophagy, and the upregulation of hydrolase genes is
+consistent with the demand for increased degrading capacity
+during massive induction of autophagy. of the ﬂy homologs of
+yeast autophagy genes, atg8a and atg8b showed induction,
+similarly to starved yeast cells or drosophila larvae.1,16 genes
+of two additional small ubiquitin-like proteins, cg7224 and
+cg15283, were also strongly upregulated. although the
+potential role of these genes in autophagy requires further
+studies, it is interesting to note that they share a strongly
+conserved human homolog, loc135154.
+genes encoding various mitochondrial proteins were
+downregulated, which is consistent with the observation that
+a large number of mitochondria are degraded during devel-
+opmental autophagy.5–7 mrna levels of many cellular
+chaperones also decreased, as reported earlier (see below).
+gene expression proﬁling analyses under a variety of
+experimental conditions or developmental transitions in which
+induction of autophagy is observed have been reported
+previously.16,27,28 although it is impossible to isolate autop-
+hagy from the numerous other cellular processes with which
+cells respond to environmental or developmental conditions
+that also induce autophagy, careful comparison of our results
+and the results from these studies enabled us to identify the
+most promising candidate genes that may play a common role
+during autophagy. of
+the genes we identiﬁed as being
+induced during developmental autophagy in the larval fat
+body, several were previously found to be also upregulated in
+response to sucrose or no-sugar starvation, conditions that
+provoke a strong autophagic response in most polyploid
+larval tissues. these included cg7224, cg15309, cg13603,
+paip2, atg8a and cg10992/cathepsin b.16 moreover, all but
+one of these genes were also identiﬁed as upregulated during
+salivary gland cell death that likely involves autophagy.27,28
+the expression of atg8, the coat protein for autophagosomes,
+which was identiﬁed as a rate-limiting factor for the main
+pathway of autophagy in yeast,15 showed only a slight
+induction in these studies. it may suggest that apart from
+the main pathway of autophagy, other forms of lysosomal
+degradation are potentially involved in salivary gland cell
+death. in fact, studies of drosophila null mutants for dark, the
+ﬂy homolog of
+that
+autophagy is not affected in mutant salivary glands that fail to
+undergo histolysis,29 similar to hypomorphic hid mutants or to
+ﬂies overexpressing the caspase inhibitor p35.30
+the apoptosis gene apaf-1, suggest
+the expression of
+the genes nop56, cg8286/dipk,
+cg4164/hsp40, cg6459, hsc70-5, cg3902, his2av and
+fkbp39 was also reduced both during developmental
+autophagy and in response to sucrose or no-sugar
+starvation.16 three of these, cg8286/dipk, cg4164/hsp40
+and hsc70-5 were also downregulated in dying salivary
+glands.27,28
+in this work, we chose three downregulated genes for
+detailed analysis. overexpression of dipk, a cellular chaper-
+one, and baldspot, a transmembrane protein, did not inhibit
+autophagy in our tests. however, it is important to note that
+overexpression of atg8a or cathd had no effect on autophagy
+either, despite their well-established role during autophagy.
+indeed, the hypomorphic baldspot mutation l(3)02281 results
+in darker than usual body color.21 as pigment granules are
+lysosome-related organelles, it may suggest that baldspot
+normally inhibits the biogenesis of these pigment granules,
+and its mutation results in generation of more granules.
+cg8286/dipk is a cellular chaperone containing a heat
+shock protein dnaj domain, a tetratricopeptide repeat that
+mediates protein–protein interactions, and a protein prenyl-
+transferase domain. the human ortholog of dipk is the 58 kda
+inhibitor of protein kinases (p58ipk), which strongly inhibits
+eif2alpha protein kinases pkr and perk.31,32 these
+kinases function in mediating various stress signals such as
+the presence of double-stranded rna viruses,
+interferon
+gamma, endoplasmic reticulum stress or starvation.33,34
+p58ipk was shown to inhibit virus- or tnfa-induced cell
+death by both eif2alpha kinase-dependent and independent
+mechanisms.35 the yeast eif2alpha kinase gcn2 is required
+for starvation-induced autophagy, and pkr null or non-
+phosphorylatable eif2alpha mutant murine embryonic ﬁbro-
+blasts are defective in virus-induced autophagy.36 in our
+system, overexpression of dipk did not
+interfere with
+autophagy, suggesting that eif2alpha kinase signaling is
+not the major pathway functioning during this process in
+drosophila. co-overexpression of dipk partially rescued the
+phenotypes caused by expression of the proapoptotic protein
+reaper or the caspase dronc (g.j. unpublished), proving the
+evolutionary conserved anti-apoptotic function of dipk.
+fkbp39 belongs to the family of ppiases with 21 members
+in drosophila.21 ppiases catalyze the isomerization of the
+peptide bond between a proline and a bulky residue like
+cell death and differentiation
+1188
+fkbp39 inhibits autophagy
+g juha´sz et al
+phosphoserine or phosphothreonine. this motif is generated
+through the action of proline-directed kinases,
+the best
+characterized examples of which are kinases downstream of
+ras. fkbps are also the intracellular
+the
+immunosuppressive drugs rapamycin and fk506. the
+fkbp12-rapamycin complex binds to tor and inhibits cell
+growth and induces autophagy. physiological roles of fkbps
+are diverse and not fully characterized yet, but fkbp12 is
+known to bind to various receptor kinases and the phospha-
+tase calcineurin and inhibit their activity. fkbp12 also binds to
+er-resident calcium channels, modulating calcium release
+regulation by protein kinase a and calcineurin.23
+receptors of
+we identiﬁed fkbp39 as a downregulated gene during
+developmental autophagy in drosophila, suggesting that
+fkbp39 is an inhibitor of autophagy. indeed, overexpression
+of fkbp39 led to a strong inhibition of both developmental and
+starvation-induced autophagy in the larval fat body, whereas
+loss of fkbp39 function resulted in a higher than wild-type
+induction of autophagy in response to a short starvation.
+pi3k signaling is a major regulator of cell growth and
+autophagy, and it was recently shown that during develop-
+mental reprogramming of
+the fat body preceding meta-
+morphosis, ecdysone induces autophagy in part by
+downregulating pi3k signaling.10 in that study, expression
+of a dominant-negative ecdysone receptor inhibited develop-
+mental autophagy, and co-overexpression of pten,
+the
+phosphatase that antagonizes pi3k activity, reversed this
+effect. we identiﬁed fkbp39 as a potential physiological
+inhibitor of autophagy, its overexpression causing effects
+similar to inhibition of ecdysone signaling. co-overexpression
+of pten also reversed the inhibitory effect of fkbp39
+overexpression on autophagy. however, in a more direct test
+of pi3k activity, we found that overexpression of fkbp39
+decreased the membrane localization of a probe that reﬂects
+pi3k activity. these results indicate that autophagy is
+inhibited in fkbp39-overexpressing cells despite a reduction
+in pi3k signaling. further, they suggest that the small size of
+these cells may be due in part to decreased pi3k activity.
+interestingly, overexpression of fkbp39 resulted in nuclear
+exclusion of foxo, suggesting that fkbp39 may inhibit
+autophagy through inhibition of foxo. foxo is a forkhead
+family transcription factor activated by decreased pi3k or
+increased stress signaling, and has been shown to be
+required for growth inhibition, increased stress resistance,
+and lifespan extension provoked by modulation of
+these
+respectively.37,38 mutation of foxo
+signaling pathways,
+caused a similar reduction of starvation-induced autophagy
+as overexpression of fkbp39, and overexpression of
+activated foxo was sufﬁcient to induce autophagy in feeding
+larvae, demonstrating that foxo is indeed involved in the
+regulation of autophagy. overexpression of fkbp39 in a foxo
+mutant background did not signiﬁcantly decrease autophagy
+compared to cells in which foxo was mutated or fkbp39 was
+overexpressed alone. this result suggests that at least part of
+the effect of fkbp39 overexpression on autophagy is
+mediated by its inhibition of foxo, as one would expect
+additive effects of autophagy inhibition in case of independent
+signaling pathways. other effects caused by overexpression
+of fkbp39 (enlarged nucleolus and larval-prepupal lethality)
+were not affected by the foxo mutant background.
+cell death and differentiation
+given the known targets of ppiases, the effect of fkbp39
+on foxo localization is probably indirect. in drosophila, foxo
+localization and activity has been shown to be regulated
+through phosphorylation by pi3k/akt and jun n-terminal
+kinase (jnk) signaling.26,38 on the basis of our results, pi3k
+signaling is unlikely to mediate the effects of fkbp39
+overexpression on foxo localization, although it remains
+possible that fkbp39 may affect akt independently of pi3k.
+therefore, jnk signaling is a promising candidate for
+mediating at least some of the effects of fkbp39 over-
+expression,24 especially considering the strong effect of
+fkbp39 overexpression on kinases downstream of ras that
+are closely related to jnk family kinases. this issue clearly
+warrants future studies.
+in summary, we have identiﬁed numerous genes regulated
+during developmental autophagy in larval drosophila fat body,
+and we have shown that fkbp39, a gene downregulated
+during the process, encodes a relevant physiological inhibitor
+of autophagy. we have also identiﬁed foxo as a novel
+regulator of autophagy, potentially mediating the inhibitory
+effect of fkbp39 on autophagy.
+actgal4,
+tubgal4,
+hsgal4,
+cggal4, gmrgal4,
+materials and methods
+drosophila lines and methods. the following drosophila lines were used in
+our study: ep362 (atg8a), ep2151 (cathd) (szeged stock center, hungary),
+uasmyrrfp,
+eygal4,
+in, usa), fkbp395-ha 2440 and
+df(3r)exel6174 (bloomington stock center,
+fkbp395-ha 2590 (kindly provided by gunther reuter), frt82b rasc40b (kindly
+provided by celeste berg), hsflp, act4cd24gal4, uasgfpnls and
+act4cd24gal4, tgph (kindly provided by bruce a. edgar), foxo25 and foxo21
+(kindly provided by heinrich jasper and ernst hafen), and uasfoxot (kindly
+provided by marc tatar). fruit ﬂies were maintained at room temperature (23–
+251c). heat shocks were carried out by immersing vials in a 371c water bath for 1 h.
+gain of function clones in the fat body were spontaneously generated by the leaky
+expression of flp recombinase in hsflp; act4cd24gal4, uasgfpnls/
+uasfkbp39 animals.25 we generated ras null mutant clones in the fat body by
+heat-shocking 0–8 h old embryos of the genotype hsflp; cggal4/þ ; frt82b,
+uasgfp/frt82b, rasc40b. as expected, no ras null mutant cells were recovered
+in the eyes of eyflp; frt82b, m(3)95a/frt82b, rasc40b animals. for p element
+transposase was reintroduced to fkbp395-ha 2440 and
+excision experiments,
+fkbp395-ha 2590 animals (both lines have a p element inserted at the same place
+in the 50 utr of fkbp39, 49 bases upstream of the translation start codon). multiple
+clean excision lines were identiﬁed by pcr and analyzed for each mutant as
+described in theopold et al.29 fkbp39exa3 is a revertant for fkbp395-ha 2440, and
+fkbp39exb1 is a revertant for fkbp395-ha 2590.
+molecular cloning and establishment of transgenic lines. full-
+length cdnas encoding baldspot, dipk and fkbp39 (est# gh11554, ld25575
+and ld30817, kindly provided by miklo´s erde´lyi) were cloned into the puast ﬂy
+transformation vector using ecori and xhoi restriction sites. the resulting plasmids
+were sequenced and injected into fruit ﬂy embryos using standard microinjection
+techniques. multiple transgenic lines were established and analyzed for each
+construct with similar results.
+microarrays, probe preparations, hybridizations, scanning, data
+analysis. construction and use of microarrays were performed as described.39
+brieﬂy, 3200 ampliﬁed cdna inserts from drosophila melanogaster were puriﬁed
+with multiscreen-pcr plate (millipore), resuspended in 50% dimethylsulfoxide/
+water, and arrayed on amino-silanized slides (sigma-aldrich, germany) by using a
+microgrid total array system (biorobotics, genomic solutions ltd., uk) spotter
+with 16 pins with a 4 4 format. all clones were spotted in duplicate. before to
+hybridization, the slides were blocked in 1 ssc, 0.2% sds, 1% bsa for 30 min at
+421c, washed with water and dried with high pressure air. fat bodies were manually
+dissected from 150 to 200 carefully staged feeding and wandering animals. all
+tissues except the embedded gonad disks were dissected away before freezing fat
+fkbp39 inhibits autophagy
+g juha´sz et al
+1189
+bodies in liquid nitrogen. fifteen microgram of total rna from each sample was
+ampliﬁed by a linear antisense rna ampliﬁcation method, and labeled with cy3 or
+cy5 ﬂuorescent dye during reverse transcription as described previously.40 probes
+were mixed, reconstituted in 12 ml hybridization buffer (50% formamide, 5 ssc,
+0.1% sds, 100 mg/ml salmon sperm dna) and applied onto the array after
+denaturation by heating for 1 min at 901c. the slide was covered and incubated at
+421c for 20 h in a humid hybridization chamber. after hybridization the arrays were
+washed by submersion and agitation for 10 min in 1 ssc with 0.1% sds, for
+10 min in 0.1% ssc with 0.1% sds and for 10 min in 0.1 ssc at room
+temperature, then rinsed brieﬂy in deionized water and dried. each array was
+scanned under a green laser (532 nm) (for cy3 labeling) and under a red laser
+(660 nm) (for cy5 labeling) by using a scanarray lite (gsi lumonics, uk) scanning
+confocal ﬂuorescent scanner with 10 mm resolution. scanned output ﬁles were
+analyzed using the genepix pro 3.0 software (axon instruments inc, foster city,
+ca, usa). each spot was deﬁned by automatic positioning of a grid of circles over
+the image. the average and median pixel
+intensity ratios calculated from both
+channels and the local background of each spot were determined. an average
+expression ratio (mear, denotes the average of local background corrected pixel
+intensity ratios) was determined for each spot. data analysis was done by the
+signiﬁcance analysis of microarrays (sam) method and visualization of scatter
+images were performed with the microsoft excel software.
+quantitative real-time pcr and reverse transcription pcr. qrt-
+pcr was performed on a rotorgene 2000 instrument (corbett research, australia)
+with gene-speciﬁc primers and sybrgreen protocol to conﬁrm the gene expression
+changes observed by using microarrays. twenty micrograms of total rna from
+each pool was reverse-transcribed in the presence of poly(dt) sequences in a total
+volume of 20 ml. after dilution of the mix with 80 ml of water, 2 ml of this mix was used
+as template in the qrt-pcr reaction. relative expression ratios were normalized to
+actin. for rt-pcr, total rna was isolated from fat bodies dissected from feeding
+l3 larvae or from whole adult ﬂies, using rnalater and rneasy micro kit (qiagen,
+germany). cdna synthesized with revertaid first strand cdna synthesis kit
+(fermentas, lithuania) was used in rt-pcr reactions with a control primer pair
+speciﬁc for actin, and three different primer pairs for fkbp39 that gave identical
+results. we performed 25 ampliﬁcation cycles in these reactions to avoid reaching
+saturation phase. pcr primer sequences used in this study are available upon
+request. all pcrs were performed in triplicates.
+histology. lysotracker red staining of dissected larval fat bodies, cortical actin-
+phalloidin staining and electron microscopy was done as described previously.8,10,13
+anti-foxo antibody26 was used at a dilution of 1 : 300. student’s t-test was used to
+determine probability values in quantiﬁcation experiments.
+western blots. western blots were carried out as described in juhasz et al.8
+using an antibody speciﬁc to di-phosphorylated mapk (sigma) at a dilution of
+1 : 1000.
+acknowledgements. we thank zsoltne´ pa´lﬁa, mariann saro´dy and emese
+le´der for the excellent technical assistance, our colleagues listed in the materials
+and methods section for providing reagents, and our anonymous reviewers for their
+helpful comments. this work was supported by nih grant ro1 gm62509 provided
+to tpn and by the hungarian ministry of education grant medichem 1/047 nkfp
+provided to ms.
+1. klionsky dj, emr sd. autophagy as a regulated pathway of cellular degradation. science
+2000; 290: 1717–1721.
+2. klionsky dj, cregg jm, dunn jr wa, emr sd, sakai y, sandoval iv et al. a uniﬁed
+nomenclature for yeast autophagy-related genes. dev cell 2003; 5: 539–545.
+3. levine b, klionsky dj. development by self-digestion: molecular mechanisms and
+biological functions of autophagy. dev cell 2004 apr; 6: 463–477.
+4. mizushima n. the pleiotropic role of autophagy: from protein metabolism to bactericide.
+7. butterworth fm, emerson l, rasch em. maturation and degeneration of the fat body in the
+drosophila larva and pupa as revealed by morphometric analysis. tissue cell 1988; 20:
+255–268.
+8. juhasz g, csikos g, sinka r, erdelyi m, sass m. the drosophila homolog of aut1 is
+essential for autophagy and development. febs lett 2003; 543: 154–158.
+9. sass m, kovacs j. ecdysterone and an analogue of juvenile hormone on the autophagy in
+the cells of fat body of mamestra brassicae. acta biol acad sci hung 1975; 26: 189–196.
+10. rusten te, lindmo k, juhasz g, sass m, seglen po, brech a et al. programmed
+autophagy in the drosophila fat body is induced by ecdysone through regulation of the
+pi3k pathway. dev cell 2004 aug; 7: 179–192.
+11. noda t, kim j, huang wp, baba m, tokunaga c, ohsumi y et al. apg9p/cvt7p is an
+integral membrane protein required for transport vesicle formation in the cvt and
+autophagy pathways. j cell biol 2000 feb 7; 148: 465–480.
+12. blommaart ef, luiken jj, blommaart pj, van woerkom gm, meijer aj. phosphorylation of
+ribosomal protein s6 is inhibitory for autophagy in isolated rat hepatocytes. j biol chem
+1995; 270: 2320–2326.
+13. scott rc, schuldiner o, neufeld tp. role and regulation of starvation-induced autophagy
+in the drosophila fat body. dev cell 2004 aug; 7: 167–178.
+14. kamada y, funakoshi t, shintani t, nagano k, ohsumi m, ohsumi y. tor-mediated
+induction of autophagy via an apg1 protein kinase complex. j cell biol 2000; 150:
+1507–1513.
+15. kirisako t, baba m, ishihara n, miyazawa k, ohsumi m, yoshimori t et al. formation
+process of autophagosome is traced with apg8/aut7p in yeast. j cell biol 1999; 147:
+435–446.
+16. zinke i, schutz cs, katzenberger jd, bauer m, pankratz mj. nutrient control of gene
+expression in drosophila: microarray analysis of starvation and sugar-dependent
+response. embo j 2002; 21: 6162–6173.
+17. szuperak m, zvara a, erdelyi m.
+identiﬁcation of germ plasm-enriched mrnas in
+drosophila melanogaster by the cdna microarray technique. gene exp patterns 2005 jun;
+5: 717–723.
+18. tearle r. tissue speciﬁc effects of ommochrome pathway mutations in drosophila
+melanogaster. genet res 1991 jun; 57: 257–266.
+19. theopold u, dal zotto l, hultmark d. fkbp39, a drosophila member of a family of proteins
+that bind the immunosuppressive drug fk506. gene 1995 apr 24; 156: 247–251.
+20. melville mw, katze mg, tan sl. p58ipk, a novel cochaperone containing tetratricopeptide
+repeats and a j-domain with oncogenic potential. cell mol life sci 2000 feb; 57:
+311–322.
+21. drysdale ra, crosby ma. flybase: genes and gene models. nucleic acids res 2005 jan
+1; 33: d390–d395.
+22. ryder e, blows f, ashburner m, bautista-llacer r, coulson d, drummond j et al. the
+drosdel collection: a set of p-element insertions for generating custom chromosomal
+aberrations in drosophila melanogaster. genetics 2004 jun; 167: 797–813.
+23. harrar y, bellini c, faure jd. fkbps: at the crossroads of folding and transduction. trends
+plant sci 2001 sep; 6: 426–431.
+24. klettner a, baumgrass r, zhang y, fischer g, burger e, herdegen t et al. the
+neuroprotective actions of fk506 binding protein ligands: neuronal survival is triggered by
+de novo rna synthesis, but is independent of inhibition of jnk and calcineurin. brain res
+mol brain res 2001 dec 16; 97: 21–31.
+25. britton js, lockwood wk, li l, cohen sm, edgar ba. drosophila‘s insulin/pi3-kinase
+pathway coordinates cellular metabolism with nutritional conditions. dev cell 2002; 2:
+239–249.
+26. hwangbo ds, gersham b, tu mp, palmer m, tatar m. drosophila dfoxo controls lifespan
+and regulates insulin signalling in brain and fat body. nature 2004 jun 3; 429: 562–566.
+27. lee cy, clough ea, yellon p, teslovich tm, stephan da, baehrecke eh. genome-wide
+analyses of steroid- and radiation-triggered programmed cell death in drosophila. curr biol
+2003 feb 18; 13: 350–357.
+28. gorski sm, chittaranjan s, pleasance ed, freeman jd, anderson cl, varhol rj et al. a
+sage approach to discovery of genes involved in autophagic cell death. curr biol 2003
+feb 18; 13: 358–363.
+29. akdemir f, farkas r, chen p, juhasz g, medved‘ova l, sass m et al. autophagy occurs
+upstream or parallel to the apoptosome during histolytic cell death. development 2006 apr;
+133: 1457–1465.
+30. juhasz g, sass m. hid can induce, but is not required for autophagy in polyploid larval
+drosophila tissues. eur j cell biol 2005 apr; 84: 491–502.
+31. yan w, frank cl, korth mj, sopher bl, novoa i, ron d et al. control of perk eif2alpha
+kinase activity by the endoplasmic reticulum stress-induced molecular chaperone p58ipk.
+proc natl acad sci usa 2002 dec 10; 99: 15920–15925.
+32. tan sl, gale jr mj, katze mg. double-stranded rna-independent dimerization of
+interferon-induced protein kinase pkr and inhibition of dimerization by the cellular p58ipk
+inhibitor. mol cell biol 1998 may; 18: 2431–2443.
+33. pain vm. translational control during amino acid starvation. biochimie 1994; 76: 718–728.
+34. williams br. pkr; a sentinel kinase for cellular stress. oncogene 1999 nov 1; 18:
+cell death differ 2005 nov; 12 (suppl 2): 1535–1541.
+6112–6120.
+5. sass m, kovacs j. the effect of ecdysone on the fat body cells of the penultimate larvae of
+mamestra brassicae. cell tissue res 1977; 180: 403–409.
+6. butterworth fm, forrest ec. ultrastructure of the preparative phase of cell death in the
+larval fat body of drosophila melanogaster. tissue cell 1984; 16: 237–250.
+35. tang nm, korth mj, gale jr m, wambach m, der sd, bandyopadhyay sk et al. inhibition
+of double-stranded rna- and tumor necrosis factor alpha-mediated apoptosis by
+tetratricopeptide repeat protein and cochaperone p58(ipk). mol cell biol 1999 jul; 19:
+4757–4765.
+cell death and differentiation
+1190
+fkbp39 inhibits autophagy
+g juha´sz et al
+36. talloczy z, jiang w, virgin hwt, leib da, scheuner d, kaufman rj et al. regulation of
+starvation- and virus-induced autophagy by the eif2alpha kinase signaling pathway. proc
+natl acad sci usa 2002 jan 8; 99: 190–195.
+37. junger ma, rintelen f, stocker h, wasserman jd, vegh m, radimerski t et al. the
+drosophila forkhead transcription factor foxo mediates the reduction in cell number
+associated with reduced insulin signaling. j biol 2003; 2: 20.
+38. wang mc, bohmann d, jasper h. jnk extends life span and limits growth by antagonizing
+cellular and organism-wide responses to insulin signaling. cell 2005 apr 8; 121: 115–125.
+39. puskas lg, zvara a, hackler jr l, micsik t, van hummelen p. production of bulk amounts
+of universal rna for dna microarrays. biotechniques 2002 oct; 33: 898–900, 902, 904..
+40. puskas lg, zvara a, hackler jr l, van hummelen p. rna ampliﬁcation results in reproducible
+microarray data with slight ratio bias. biotechniques 2002 jun; 32: 1330–1334, 1336, 1338, 1340.
+supplementary information accompanies the paper on cell death and differentiation website (http://www.nature.com/cdd)
+cell death and differentiation

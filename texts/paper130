@@ -1,0 +1,868 @@
+the embo journal (2006) 25, 5396–5404 | & 2006 european molecular biology organization | all rights reserved 0261-4189/06
+www.embojournal.org
+ferroportin-mediated mobilization of ferritin iron
+precedes ferritin degradation by the proteasome
+the
+the
+embo
+embo
+embo
+journal
+journal
+ivana de domenico1,3, michael b
+vaughn1,3, liangtao li1, dustin bagley1,
+giovanni musci2, diane m ward1
+and jerry kaplan1,*
+1department of pathology, school of medicine, university of utah,
+salt lake city, utah, usa and 2dipartimento di scienze e tecnologie
+agro-alimentari, ambientali e microbiologiche, univerisity of molise,
+campobasso, italy
+ferritin is a cytosolic molecule comprised of subunits
+that self-assemble into a nanocage capable of containing
+up to 4500 iron atoms. iron stored within ferritin can be
+mobilized for use within cells or exported from cells.
+expression of ferroportin (fpn) results in export of cyto-
+solic iron and ferritin degradation. fpn-mediated iron loss
+from ferritin occurs in the cytosol and precedes ferritin
+degradation by the proteasome. depletion of
+ferritin
+iron induces the monoubiquitination of ferritin subunits.
+ubiquitination is not required for iron release but is
+required for disassembly of
+ferritin nanocages, which
+is followed by degradation of ferritin by the proteasome.
+speciﬁc mammalian machinery is not required to extract
+iron from ferritin. iron can be removed from ferritin when
+ferritin is expressed in saccharomyces cerevisiae, which
+does not have endogenous ferritin. expressed ferritin is
+monoubiquitinated and degraded by the proteasome.
+exposure of ubiquitination defective mammalian cells to
+the iron chelator desferrioxamine leads to degradation
+of ferritin in the lysosome, which can be prevented by
+inhibitors of autophagy. thus, ferritin degradation can
+occur through two different mechanisms.
+the embo journal (2006) 25, 5396–5404. doi:10.1038/
+sj.emboj.7601409; published online 2 november 2006
+subject categories: proteins; cellular metabolism
+keywords: ferritin; iron; proteasome; ubiquitin; yeast
+introduction
+sequestration of iron within ferritin is the mechanism by
+which most eukaryotic cells store iron. cells can mobilize
+iron from ferritin for export and for heme synthesis (peto
+et al, 1983). the mechanisms by which iron regulates ferritin
+synthesis and by which iron enters ferritin have been well
+characterized (liu and theil, 2005). in contrast, the mechan-
+ism(s) by which iron exits ferritin is unclear. studies have
+*corresponding author. department of pathology, university of utah
+school of medicine, 50 north medical drive, salt lake city, ut 84132,
+usa. tel.: þ 1 801 581 7427; fax: þ 1 801 581 6001;
+e-mail: jerry.kaplan@path.utah.edu
+3these authors contributed equally to the work
+received: 23 august 2006; accepted: 5 october 2006; published
+online: 2 november 2006
+shown that reductants in the presence of iron chelators can
+lead to iron loss from puriﬁed ferritin (harrison et al, 1974)
+and that engineered amino-acid substitutions in recombinant
+ferritin molecules can accelerate iron loss (takagi et al, 1998).
+these studies suggesting that
+iron exits ferritin through
+a pore in the assembled ferritin nanocage. these studies,
+however, have relied solely on in vitro analyses and there is
+no evidence that iron can exit ferritin prior to ferritin degra-
+dation. other studies have shown that cytosolic ferritin
+gains entry into lysosomes and that
+ferritin degradation
+within lysosomes is responsible for iron release. the lyso-
+somal degradation of ferritin has been seen in cells induced
+for autophagy by amino-acid starvation (harrison et al,
+1974), in cells infected with neisseria (larson et al, 2004),
+in cells exposed to drugs such as the iron chelators (bridges,
+1987; konijn et al, 1999; kidane et al, 2006) and the anti-
+cancer agent doxorubicin (kwok and richardson, 2004) or
+in cells given a high iron load through the administration
+of cationic ferritin (radisky and kaplan, 1998). iron release
+from ferritin could be blocked by inhibiting lysosomal
+proteolysis, either by increasing lysosomal ph or through
+addition of protease inhibitors. entry of ferritin into lyso-
+somes may, however, reﬂect a response to cellular stresses,
+rather than a physiological route for iron release.
+to evaluate the role of lysosomes in ferritin iron release,
+we expressed the plasma membrane iron exporter ferroportin
+(fpn). fpn is a cell surface iron transporter present on all
+cell types that export iron into plasma. mutations in fpn lead
+to cellular iron accumulation, most of which is in ferritin
+(ganz and nemeth, 2006). we have utilized the regulated
+expression of fpn to examine the mechanism by which iron
+exits ferritin. our results show that degradation of ferritin is
+not required for mobilization of iron and that iron-poor
+ferritin is degraded in the cytosol through the action of the
+proteasome. monoubiquitination of
+ferritin nanocages is
+required for ferritin disassembly. monoubiquitination and
+proteasomal
+ferritin degradation can also be seen when
+ferritin is expressed in saccharomyces cerevisiae, a species
+that does not contain endogenous ferritin. these results show
+that iron exit from ferritin, like iron entry into ferritin, is an
+autonomous property of the ferritin nanocage.
+results
+fpn-mediated ferritin degradation occurs in the cytosol
+expression of fpn leads to decreased cytosolic iron and
+reduced levels of ferritin (nemeth et al, 2004). to determine
+if expression of fpn leads to the lysosomal degradation of
+ferritin, cells stably transformed with an ecdysone regulated
+fpn-gfp were incubated with ferric ammonium citrate (fac)
+as a source of iron and, in the continued presence of fac,
+with the ecdysone analog ponasterone a to induce expression
+of fpn-gfp. cells exposed to fac accumulate large amounts
+of ferritin as determined by enzyme-linked immunosorbent
+assay (elisa), while expression of fpn-gfp led to the loss of
+5396
+the embo journal vol 25 | no 22 | 2006
+& 2006 european molecular biology organization
+proteasome-mediated ferritin degradation
+i de domenico et al
+figure 1 fpn-mediated decrease in ferritin is not prevented by chloroquine or leupeptin. (a) hek293t-fpn cells were incubated with fac
+(10 mm fe) for 24 h followed by incubation for 6 h in the absence or presence of 10 mm ponasterone a. cells were then incubated with and
+without 100 mm chloroquine or 10 mm leupeptin for 10 h and harvested. the ferritin content was determined by elisa. induction of fpn resulted
+in decreased ferritin levels and this was not prevented by treatment with chloroquine or leupeptin. the data are presented as the standard
+deviation from three different experiments. (b) cells treated as in (a) were incubated in the presence of 1 mg/ml egf for 2 h. cells were
+ﬁxed and processed for immunoﬂuorescence using mouse anti-egf receptor and alexa 594 conjugated goat anti-mouse igg. chloroquine and
+leupeptin effectively inhibit degradation of egf receptor.
+accumulated ferritin (figure 1a, columns 1 and 2). the
+fpn-gfp-mediated decrease in ferritin was not prevented by
+chloroquine (figure 1a, column 3) or leupeptin (figure 1a,
+column 4). these agents prevent
+lysosomal proteolysis
+either by increasing lysosomal ph (chloroquine) or inhibiting
+lysosomal proteases (leupeptin). to conﬁrm that these agents
+inhibited lysosomal proteolysis, we added epidermal growth
+factor (egf) to cells, which results in the internalization of
+the egf–egf receptor complex and subsequent degradation
+of the complex in lysosomes. addition of egf to control
+cells resulted in loss of the egf receptor (figure 1b). addition
+of egf to either chloroquine or leupeptin-treated cells led
+to the disappearance of the receptor from the cell surface and
+its accumulation in late endosomes/lysosomes (figure 1b).
+since chloroquine and leupeptin do inhibit lysosomal proteo-
+lysis, we attribute the loss of
+ferritin to non-lysosomal
+proteolysis.
+these results suggest that upon induction of fpn-gfp,
+ferritin remains in the cytosol even as cells are being depleted
+of iron. we conﬁrmed this result by examining the subcellular
+distribution of ferritin. fpn was induced in iron-loaded cells.
+the cells were homogenized, the homogenate fractionated
+on a percoll gradient and the distribution of lysosomes and
+ferritin determined (supplementary figure 1). the lysosomal
+enzyme b-n-acetylhexoseaminidase showed two peaks of
+activity, neither of which was coincident with ferritin. we
+note the presence of a single point of ferritin in fraction three
+of the gradient. while the amount of ferritin decreased upon
+expression of fpn-gfp, the subcellular distribution of ferritin
+was not affected even in cells incubated with leupeptin or
+chloroquine. these results support
+ferritin is not being degraded in lysosomes.
+the conclusion that
+cytosolic degradation of ferritin is proteasome-
+mediated
+if ferritin is degraded in the cytosol, degradation by the
+proteasome would be likely. addition of proteasome inhbitors
+mg132 or lactacystin to cells prevented the fpn-gfp induced
+loss of ferritin (figure 2a). for many proteins, a prerequisite
+for proteasome degradation is the covalent attachment of
+ubiquitin. to determine if ferritin is ubiquitinated, ferritin
+was immunoprecipitated and the immunoprecipitate exam-
+ined for ubiquitin by western blotting. there was no evidence
+of ubiquitinated ferritin in control cells, in cells incubated
+with fac or in cells incubated with fac and induced to
+express fpn-gfp (figure 2b). ferritin was ubiquitinated in
+cells that had been incubated with fac, induced to express
+fpn and incubated with mg132. immunopreciptiated ferritin
+contains both h and l chains as detected by western analysis
+using h and l speciﬁc antibodies (data not shown). we
+are unable to determine whether both h and l chains are
+ubiquitinated, as these h and l speciﬁc antibodies do not
+work for immunoprecipitation. no evidence of an ubiquitin
+‘ladder’ was seen and the increase in molecular mass of
+ferritin is consistent with monoubiquitination. we also
+noted the presence of a 40-kda band that is detected with
+the anti-ferritin antibody (data not shown). this 40 kda band
+was shown to be a crosslinked dimer of ferritin subunits
+(mertz and theil, 1983). the 40-kda band was also ubiqui-
+tinated with what appears to be a single ubiquitin.
+& 2006 european molecular biology organization
+the embo journal vol 25 | no 22 | 2006 5397
+proteasome-mediated ferritin degradation
+i de domenico et al
+figure 2 fpn-mediated decrease in ferritin results from degradation by the proteasome. (a) hek293t-fpn cells were incubated with fac (10 mm
+fe) for 24 h followed by incubation for 6 h in the absence or presence of 10 mm ponasterone a. cells were then treated with or without 10 mm
+mg132 or 10 mm lactacystin in the presence of ponasterone a for 10 h and harvested. the ferritin content was determined by elisa. error bars
+represent the standard deviation from three different experiments in duplicate. (b) samples treated as in (a) were immunoprecipitated using anti-
+ferritin antibodies and the immunoprecipitate examined for the presence of ferritin or ubiquitin by western blot analysis. the arrows indicate the
+migration of h and l chains. (c) cells were incubated with 1.0 10 7 m tf(59fe)2 for 24 h followed by incubation for 6 h in the absence or
+presence of 10 mm ponasterone a. cells were then treated with or without 10 mm mg132 in the presence of ponasterone a for 10 h and harvested
+and the amount of 59fe in immunoprecipitated ferritin was determined. (d) cells were treated as described in (a) and cell extracts were applied to
+size exclusion chromatography and the ferritin content, in selected fractions, was determined by elisa. error bars represent the standard
+deviation from three different experiments in duplicate. (e) cells were treated as described in (c), ferritin was then immunoprecipitated, eluted
+using 100 mm glycine, ph 2.5 and measured by elisa. the amount of ferritin-associated 59fe was measured and the speciﬁc activity of ferritin
+determined. error bars represent the standard deviation from three different experiments in duplicate. (f) samples were treated as in (d), and
+ferritin was immunoprecipitated and analyzed by western blot analysis using an antibody to ubiquitin.
+iron might be released after ferritin degradation or iron
+might exit ferritin followed by the degradation of the now
+iron-poor ferritin nanocage. to distinguish between these
+possibilities, cells were incubated with tf (59fe)2 to permit
+the accumulation of 59fe ferritin, and then incubated with
+ponasterone a to induce fpn-gfp, in the presence or absence
+of the proteasome inhibitor mg132. as shown above, induc-
+tion of fpn-gfp resulted in a loss of
+ferritin that was
+prevented by mg132. immunoprecipitation of ferritin and
+measurement of 59fe showed that mg132 did not prevent the
+loss of 59fe from ferritin (figure 2c). to exclude the possibi-
+lity that mg132 leads to the accumulation of
+ferritin
+monomers, cell extracts were analyzed by size exclusion
+chromatography. fractions were assayed for ferritin by
+elisa,
+immunoprecipitated using antiferritin antibodies,
+and the amount of 59fe in the immunoprecipitate determined.
+in the absence of fpn expression, only high molecular weight
+ferritin (4400 kda) eluted from the size exclusion column
+(figure 2d). in the absence of mg132, expression of fpn-gfp
+led to a decrease in total cellular ferritin with an increase in
+low molecular weight ferritin, indicating that iron loss led to
+the disassembly of ferritin nanocages. addition of mg132,
+which prevents ferritin loss, also led to the generation of
+disassembled ferritin. the speciﬁc activity of 59fe in the
+high molecular weight ferritin fraction was increased after
+induction of fpn-gfp even though there was a decrease
+in total cellular ferritin (figure 2e). addition of mg132
+to fpn-gfp expressing cells inhibits ferritin degradation but
+not iron loss from ferritin, leading to the accumulation of
+iron poor ferritin. this result suggests that in the absence
+of the proteasome inhibitor, iron-poor ferritin is preferentially
+degraded.
+we then determined if iron-poor ferritin nanocages disas-
+semble ﬁrst, followed by ubiquitination of free ferritin sub-
+units or if ferritin nanocages are ubiquitinated. ferritin was
+extracted from cells incubated with ponasterone a and
+mg132 and ferritin nanocages were separated from ferritin
+subunits by size exclusion chromatography. the ubiquitina-
+tion status of both ferritin nanocages and subunits were
+determined by western blotting. both assembled ferritin
+and ferritin monomers were ubiquitinated (figure 2f),
+suggesting that ubiquitination occurs before subunit dis-
+assembly. again, no evidence for polyubiquitination was
+seen on assembled or disassembled ferritin.
+release of iron from ferritin does not require
+ubiquitination
+to determine if ubiquitination is required for iron release
+from ferritin, we utilized a cell line that has a temperature
+sensitive e1-ligase (finley et al, 1984). incubation of mutant
+cells (ts85) at the restrictive temperature inactivates the
+enzyme, decreasing the ability of cells to ubiquitinate target
+5398
+the embo journal vol 25 | no 22 | 2006
+& 2006 european molecular biology organization
+proteasome-mediated ferritin degradation
+i de domenico et al
+proteins. ts85 and parental cells (fm3a), however, do not
+express fpn and once iron-loaded, both cell
+lines retain
+ferritin in the absence of iron (data not shown). to promote
+iron loss, cells were transformed with a plasmid expressing
+fpn-gfp under the control of the cmv promoter. expression
+of fpn-gfp resulted in an inability of cells to accumulate iron
+or ferritin. consequently, transformed cells were incubated
+with hepcidin to prevent iron export, thus permitting ferritin
+accumulation. transformed cells were incubated with fac for
+24 h and then hepcidin was removed. cells were then in-
+cubated at both permissive and restrictive temperatures. fpn-
+gfp transformed fm3a or ts85 cells incubated with hepcidin
+accumulated similar amounts of ferritin and ferritin levels
+decreased when hepcidin was removed (figure 3a). the
+decrease in ferritin was similar in fm3a cells incubated at
+the permissive and restrictive temperature and in ts85 cells
+at
+the permissive temperature. there was, however, an
+increased retention of ferritin in mutant cells at the restrictive
+ts85 cells
+temperature. western analysis conﬁrmed that
+incubated at
+the restrictive temperature were unable to
+ubiquitinate ferritin. while ts85 cells synthesize both h and
+l chains, we only detect one ubiquitinated ferritin band.
+we cannot determine whether this band is the h or l chain
+because the h and l speciﬁc antibodies cannot be used for
+immunoprecipitation (supplementary figure s2).
+these results indicate that ubiquitination is required for
+ferritin degradation. the ts85 cells also permitted us to
+determine if ubiquitin addition is required for iron-release.
+cells were treated as described above, but tf(59fe)2 was used
+to iron-load cells. once iron loaded, hepcidin was removed to
+permit fpn-mediated iron export and cells were incubated
+at the restrictive or permissive temperature. ferritin levels
+were assayed by elisa and ferritin immunoprecipitated to
+determine the amount of 59fe bound to ferritin. removal of
+hepcidin resulted in a decrease in ferritin but an increase
+in 59fe-ferritin speciﬁc activity in ts85 cells incubated at the
+figure 3 ubiquitination is required for fpn-mediated ferritin degradation. (a) fm3a (black) and ts85 (grey) cells were transiently transfected
+with a plasmid containing cmv-regulated fpn-gfp and incubated in the presence of fac (10 mm fe) and 0.5 mm hepcidin for 24 h. hepcidin was
+either maintained ( þ ) or removed ( ) to allow fpn-gfp localization at the plasma membrane. cells were maintained at the permissive
+temperature (331c) or moved to the restrictive temperature (391c) and incubated for 6 h. cells were harvested and ferritin content determined
+by elisa. error bars represent the standard deviation from three different experiments in duplicate. (b) fm3a and ts85 cells were treated as in
+(a) but fac was replaced with 1.0 10 7 m tf(59fe)2. ferritin was immunoprecipitated and the speciﬁc activity of 59fe-ferritin determined.
+error bars represent the standard deviation from three different experiments in duplicate. (c) ts85 cells were treated as in (b) and cell extracts
+applied to size exclusion chromatography. ferritin content in selected fractions was measured by elisa. black bars represent assembled ferritin
+(4400 kda), gray bars represent monomeric (o50 kda). (d) fm3a and ts85 cells were treated as in (a) but cells that had been incubated at
+the restrictive temperature (391c) were then returned to the permissive temperature (331c) and incubated in the presence of cycloheximide
+(75 mg/ml) and 10 mm fac for 1 h. cells were then harvested and ferritin levels determined by elisa. error bars represent the standard
+deviation from three different experiments in duplicate.
+& 2006 european molecular biology organization
+the embo journal vol 25 | no 22 | 2006 5399
+proteasome-mediated ferritin degradation
+i de domenico et al
+permissive temperature and in fm3a cells incubated at either
+temperature (figure 3b). this result again suggests that
+iron-poor ferritin is preferentially degraded before iron-rich
+ferritin. at the restrictive temperature, there was little loss of
+ferritin upon hepcidin removal in ts85 cells, consistent with
+the need to ubiquitinate ferritin for its degradation. there
+was, however, a decrease in 59fe-ferritin speciﬁc activity,
+indicating that although ferritin was not degraded, it became
+iron poor. these results show that ubiquitination is required
+for ferritin degradation but not
+for ferritin iron release.
+size exclusion chromatography of ferritin, extracted from
+fpn-gfp expressing ts85 cells incubated at the restrictive
+temperature, revealed that all of the ferritin was present as
+assembled cages, as there was little low molecular weight
+ferritin (figure 3c). this result shows that ubiquitin addition,
+presumably to ferritin subunits, is required to disassemble
+ferritin nanocages.
+to determine if iron could re-enter ferritin once it has been
+released, ts85 cells that had accumulated iron-poor ferritin
+at the restrictive temperature were then incubated at the
+permissive temperature. this was done under conditions in
+which iron export was prevented through addition of hepci-
+din, new ferritin synthesis was inhibited by addition of
+cycloheximide and iron loading promoted by the addition
+of fac. in wild-type cells at either the permissive or restric-
+tive temperatures, these additions prevented fpn-mediated
+ferritin loss (figure 3d, black bars). in ts85 cells that had
+been shifted from the restrictive to the permissive tempera-
+ture, these additions did not prevent ferritin loss (figure 3d,
+gray bars). if iron could reenter ferritin, then we might expect
+that ferritin would be stable at the permissive temperature.
+these results indicate that once iron has exited ferritin,
+the ferritin nanocage is marked for degradation and cannot
+readily re-accumulate iron.
+evidence for multiple routes of ferritin degradation
+our data show that fpn-mediated ferritin iron release and
+degradation occurs in the cytosol. studies by others have
+indicated that
+ferritin can be degraded in the lysosome
+(bridges and hoffman, 1986; kidane et al, 2006). most of
+those studies utilized the iron chelator dfo to induce ferritin
+iron loss. dfo is a high afﬁnity fe(iii) chelator produced
+by streptomyces pilosus that is used clinically to remove
+systemic iron in secondary iron overload disorders. we
+again took advantage of
+the
+mechanism of dfo-mediated iron loss was different than
+that of fpn-mediated iron loss. addition of dfo to iron-
+loaded ts85 cells led to the loss of ferritin even at the
+restrictive temperature (figure 4a). further, while mg132
+did not prevent dfo-mediated ferritin loss, addition of chloro-
+quine did prevent dfo-mediated ferritin loss.
+ts85 cells to determine if
+it is likely that entry of ferritin into lysosomes might
+require an autophagocytic event. sakaida et al (1990) showed
+that autophagy of ferritin led to the generation of a pool
+of iron that enhanced the cytotoxicity of hydroperoxides.
+inhibition of autophagy by agents such as 3-methyladenine
+prevented that
+toxicity. addition of 3-methyladenine to
+dfo-treated ts85 cells inhibited ferritin loss at the restrictive
+temperature (figure 4b). this result suggests that dfo does
+induce autophagy of
+incubation of dfo-treated
+control cells with 3-methyladenine did not, however, prevent
+ferritin loss. this suggests that in the absence of autophagy,
+ferritin.
+figure 4 dfo leads to lysosomal degradation of ferritin. fm3a and
+ts85 cells were incubated in the presence of fac (10 mm fe) for 12 h.
+(a) cells were then incubated at the restrictive temperature (391c)
+for 6 h in the presence or absence of 100 mm dfo, with or without
+100 mm chloroquine or 10 mm mg132. cells were then harvested and
+ferritin content determined by elisa. error bars represent the
+standard deviation from three different experiments in duplicate.
+(b) cells treated as in (a) were incubated in the presence or absence
+of 5 mm 3-methyladenine.
+there may be an alternate route for ferritin degradation and
+that ts85 cells, which are defective in ubiquitination cannot
+access that pathway. this hypothesis was conﬁrmed by
+examining the effect of the proteasome inhibitor mg132 on
+dfo-induced autophagy in control cells treated with dfo and
+3-methyladenine. addition of mg132 to 3-methyladenine
+treated control cells prevented ferritin degradation. these
+results indicate that ferritin degradation occurs by two routes:
+a dfo-induced entry of ferritin into lysosomes and a cytosolic
+route in which iron is extracted from ferritin prior to degrada-
+tion by the proteasome.
+degradation of ferritin expressed in yeast occurs
+through the proteasome
+to determine if specialized cellular machinery is required to
+extract ferritin iron in the cytosol, we expressed ferritin
+chains in saccharomyces cerevisiae. fungi, like plants, do
+not contain cytosolic ferritin, although plants have ferritin
+within organelles. rather, fungi and plants store iron in
+vacuoles. vacuolar membrane transporters mediate transfer
+5400
+the embo journal vol 25 | no 22 | 2006
+& 2006 european molecular biology organization
+of iron from cytosol to vacuole and from vacuole to cytosol.
+since yeast do not express ferritin, it is unlikely that they have
+a specialized mechanism to extract iron from ferritin. kim
+et al showed that tadpole or human ferritin chains expressed
+in yeast could form iron-binding molecules (shin et al, 2001;
+kim et al, 2003). we conﬁrmed and extended their results
+using genetic approaches to show that ferritin can store iron
+in yeast cytosol. first, expression of h and l chains or
+h chains under the control of the galactose inducible pro-
+moter (gal10) led to increased cellular iron as measured by
+atomic absorption spectroscopy (supplementary figure 3a).
+second, deletion of ccc1, which encodes the vacuolar iron
+importer, results in sensitivity of yeast to high iron (li et al,
+2001). expression of ferritin under the galactose promoter
+protects dccc1 cells from high iron toxicity (supplementary
+figure 3b). expression of ferritin lowered yeast cytosolic
+iron as shown by the induction of reporter constructs
+for a component of the high-afﬁnity iron transport system
+(fet3-lacz), which is transcriptionally activated by reduced
+levels of ‘free’ cytosolic iron (supplementary figure 3c).
+induction of ferritin resulted in the presence of iron-loaded
+ferritin as deﬁned by prussian blue staining using nondena-
+turing gels (supplementary figure 3d). thus, expression of
+h þ l ferritin chains in yeast results in the synthesis of ferritin
+capable of binding iron.
+if yeast that have accumulated ferritin are placed under
+conditions in which ferritin synthesis is prevented by the
+addition of glucose, ferritin levels remain high as long as cells
+are incubated in iron-rich medium (figure 5a, closed circles).
+in the absence of continued ferritin expression, induction
+of the vacuolar iron transporter ccc1p led to a reduction
+in ferritin levels (figure 5a, closed triangles). these results
+show that
+ferritin levels decrease under conditions that
+promote low cytosolic iron. decreased ferritin levels occur
+in cells that have compromised vacuolar proteolysis resulting
+from a deletion in the vacuolar protease pep4, indicating
+that ferritin is not degraded in the vacuole (data not shown).
+addition of mg132, however, prevented ferritin loss, suggest-
+ing that ferritin is degraded by the proteasome (figure 5b).
+immunoprecipitation of ferritin from mg132 treated cells
+showed the presence of ubiquitin on ferritin chains
+(figure 5c). again, there is no evidence of polyubiquitina-
+tion. these results indicate that loss of iron from ferritin leads
+to ferritin ubiquitination and makes it unlikely that there is
+a speciﬁc iron-sensitive e3 ubiquitin ligase.
+discussion
+there is substantial genetic and physiological data that
+show that fpn is the iron exporter responsible for the entry
+of iron into plasma (ganz and nemeth, 2006). expression
+of fpn results in the loss of cellular iron including iron
+stored in ferritin (nemeth et al, 2004). we show here that
+fpn-mediated ferritin degradation occurs in the cytosol and
+requires the activity of
+iron
+from ferritin occurs before ferritin degradation and does not
+require ubiquitination. vertebrate ferritin chains expressed in
+bacteria can assemble a ferritin nanocage in the absence of
+iron (santambrogio et al, 1993). entry of iron into apoferritin
+can occur in vitro and depends primarily on the ferroxidase
+activity of the h-chain (lawson et al, 1989). thus, both
+ferritin assembly and iron incorporation are intrinsic proper-
+the proteasome. release of
+proteasome-mediated ferritin degradation
+i de domenico et al
+figure 5 human ferritin expressed in s. cerevisiae is degraded by
+the proteasome. strains of wild type (wt), dccc1, erg6-2 cells were
+transformed with plasmids pgal, pgal-l-ferritin, pgal-h-ferritin
+and pgal-h þ l-ferritin. (a) dccc1/pgal-h þ l cells were trans-
+formed with a plasmid containing a methionine regulated ccc1
+(pmet3ccc1). cells were grown in medium with galactose for 20 h,
+washed and incubated in galactose (k), glucose with 10  methio-
+nine (n), glucose (j) or glucose without methionine (.) for 10 h.
+cells were then harvested and ferritin levels determined by elisa.
+error bars represent the standard deviation from three different
+experiments in duplicate. the absence of methionine leads to
+expression of the vacuolar iron transporter ccc1p. (b) erg6-2 and
+erg6-2 pgal-h þ l strains were grown in medium with galactose
+and 250 mm feso4 for 24 h. cells were then washed and incubated
+in galactose or glucose in the absence or presence of 50 mm mg132
+for 7 h. (c) cells were then harvested, ferritin levels determined by
+elisa and immunoprecipitated using anti-ferritin antibodies and
+the immunoprecipitate examined for the presence of ubiquitin by
+western analysis. cells with the erg6-2 allele permit the entry of
+mg132 (lee and goldberg, 1996).
+ties of ferritin. depletion of cytosolic iron in vivo, either
+through the action of fpn, which exports iron from cells, or
+by ccc1p, which imports iron into the yeast vacuole, leads to
+the loss of ferritin iron. the simplest interpretation of these
+ﬁndings is that iron entry and exit from ferritin is the result
+of an equilibrium based on the concentration of cytosolic
+iron. the observation that iron can exit ferritin in yeast, an
+organism that has no endogenous ferritin, suggests that
+speciﬁc machinery for ferritin iron release is not required.
+given the presence of a reductant
+that converts fe(iii)
+iron release from ferritin may
+within ferritin to fe(ii),
+& 2006 european molecular biology organization
+the embo journal vol 25 | no 22 | 2006 5401
+proteasome-mediated ferritin degradation
+i de domenico et al
+be an autonomous property of
+ferritin, supporting the
+view that iron exits through pores in the ferritin nanocage
+(jin et al, 2001).
+our data suggest that iron release from ferritin ‘marks’ the
+ferritin shell, designating it as a substrate for ubiquitination.
+we did not observe polyubiquitination of ferritin prior to
+ferritin degradation. monoubiquitinated proteins are not
+normally recognized by the proteasome. we have not proven
+that monoubiquitination is a signal for proteasomal degra-
+dation. it may be that monoubiquitination is a signal for
+disassembly of ferritin nanocages and that the same modiﬁ-
+cations of ferritin that lead to monoubiquitination can also
+signal proteasomal degradation. several reports have indi-
+cated that oxidized proteins including oxidized ferritin can be
+degraded by the proteasome (rudeck et al, 2000; mehlhase
+et al, 2005), without being polyubiquitinated (shringarpure
+et al, 2003). the machinery that mediates ferritin disassem-
+bly is not speciﬁc to mammalian cells but is found in yeast.
+there is a robust literature showing that monoubiquitination
+of many membrane proteins is a signal for their internaliza-
+tion into the multivesicular body (for a review, see hicke
+and dunn, 2003). monoubiquitination of histones is asso-
+ciated with transcriptional regulation in higher eukaryotes
+(shilatifard, 2006) and with uv dna repair (matsushita
+et al, 2005). in these instances, monoubiquitination is not a
+prerequisite for degradation but rather is involved in targeting
+complexes that then perform enzymatic activities. our data
+show that monoubiquitination of ferritin leads to its disas-
+sembly, suggesting that monoubiquitination may function
+in the disassembly of other supermolecular structures. the
+h-chain of ferritin contains 12 lysine residues and it is not
+clear which of the residues is ubiquitinated, or whether all
+of the residues are potential ubiquitination sites.
+these results show that under conditions in which cyto-
+solic iron is reduced by export (either into yeast vacuoles or
+out of mammalian cells by fpn), ferritin degradation occurs
+by the proteasome. the cytosol of yeast and mammalian cells
+would certainly contain high levels of reducing agents (glu-
+tathione, nadph). evidence suggesting that cytosolic iron is
+in the form of fe2 þ is that reduced iron is the substrate for
+both vacuolar storage (li et al, 2001) and mitochondrial heme
+synthesis in yeast (lange et al, 1999) and ferritin storage in
+mammalian cells (lawson et al, 1989). there is substantial
+data, including results shown here that indicate that ferritin
+can be degraded in lysosomes. many of the studies that show
+ferritin degraded by lysosomes utilize conditions that may
+affect autophagy, such as amino-acid starvation (ollinger and
+roberg, 1997) or bacterial infection (larson et al, 2004). the
+other condition that leads to lysosomal ferritin degradation
+is addition of iron chelators such as dfo, a bacterial side-
+rophore (bridges, 1987; kidane et al, 2006). the ability of
+dfo to cross mammalian membranes is a subject of debate,
+and dfo may enter cells by endocytosis,
+localizing in
+lysosomes (lloyd et al, 1991). dfo is used as a therapeutic
+agent to manage iron overload disease in humans. dfo
+cannot be absorbed through the intestine and must be
+injected. the concentration that
+is used to iron-deprive
+cultured cells (100 mm) is 10–20 times the maximal therapeu-
+tic plasma concentration of dfo (4–7 mm) (porter, 2001),
+suggesting that dfo may be exhibiting a pharmacological
+effect on cultured cells, perhaps by inducing the lysosomal
+accumulation of iron. as shown here, there are circumstances
+in which dfo induced ferritin loss may also occur by
+proteasomal degradation. the observation that there is plas-
+ticity in the route in which ferritin can be degraded, cytosol
+versus lysosome, may explain pharmacological studies in
+which inhibitors of both lysosomal and proteasomal activities
+can affect ferritin degradation (kwok and richardson, 2004).
+expression of fpn can deplete cells of ferritin iron, while
+inhibition of fpn activity results in increased ferritin levels,
+suggesting that iron accumulation in ferritin may be a default
+pathway occurring when cytosolic iron levels are high. an
+equilibrium model of iron entry and exit into ferritin provides
+an explanation for regulation of intestinal iron uptake. iron
+transported into intestinal absorptive cells can either accu-
+mulate in ferritin or be transported by fpn across the
+basolateral membrane into plasma. the accumulation of
+intestinal
+ferritin has been referred to as the ‘mucosal
+block’, as this iron is lost from the body when the short-
+lived absorptive cells are lost from the intestine (granick,
+1951; crosby, 1966). ferritin iron accumulation is inversely
+correlated with fpn, as expression of fpn can deplete ferritin
+iron by lowering cytosolic iron and by exporting iron from
+cells. fpn level may be one of the major determinants in
+regulating whether iron is stored in ferritin or made bioavail-
+able. accumulation of ferritin iron in mucosal cells (or in
+macrophages recycling red blood cell iron) may only occur in
+the absence of iron export and therefore may be a default
+pathway. cell surface fpn is regulated by hepcidin as binding
+of this peptide to fpn induces degradation of the fpn–
+hepcidin complex (nemeth et al, 2004). hepcidin produced in
+response to hepatic iron stores or
+inﬂammation can
+ultimately determine if cells export iron into plasma or
+store iron in ferritin.
+materials and methods
+cells and media
+hek293t-fpn cells, a stable cell line in which fpn-gfp is regulated
+by the ecdysone promoter, were grown as described (nemeth et al,
+2004). fpn-gfp expression was induced by addition of 10 mm
+ponasterone a (ag scientiﬁc inc., san diego, ca). fm3a and ts85
+were grown in rpmi 1640 (gibco/invitrogen, grand island, ny)
+with 5% fetal bovine serum as described (ikehata et al, 1997). the
+saccharomyces cerevisiae strains used in this study were derived
+from w303 background and have been used in previous studies
+(li et al, 2001). wild-type dy150, dccc1, dpep4 and erg6-2 strains
+were transformed with pgal, pgal-l-ferritin, pgal-h-ferritin and
+pgal-h þ l-ferritin vectors. the erg6-2 strain was used as it permits
+the entry of the proteasome inhibitor mg132 (lee and goldberg,
+1996). cells were grown in yeast nitrogen base synthetic medium
+(cm) with supplements as needed.
+western blot analysis and immunoprecipitation
+cellular proteins were extracted with 150 mm nacl, 10 mm edta,
+10 mm tris (ph7.4), 1% triton x-100, a protease inhibitor cocktail
+(roche, palo alto, ca) and 50 mm n-ethylmaleimide (sigma,
+st louis, mo). total protein concentrations were determined
+using bca reagent (pierce, rockford, il). protein samples were
+separated on 4–20% gels (tris–glycine) (biorad, hercules, ca) and
+transferred on hybond-ecl (amersham biosciences, piscataway,
+nj). ferritin was detected using rabbit anti-ferritin antibody
+(1:1000, sigma, st louis, mo), with peroxidase conjugated
+goat anti-rabbit igg as the secondary antibody (1:10 000, jackson
+immunoresearch, west grove, pa). ubiquitination was detected
+using mouse anti-ubiquitin (1:1000, covance, berkeley, ca) with
+peroxidase conjugated goat anti-mouse igg as the secondary
+antibody (1:10 000, jackson immunoresearch, west grove, pa).
+chemiluminescent method was used for detection (western light-
+ning, perkin elmer, boston, ma). ferritin was immunoprecipitated
+5402
+the embo journal vol 25 | no 22 | 2006
+& 2006 european molecular biology organization
+proteasome-mediated ferritin degradation
+i de domenico et al
+using rabbit anti-ferritin antibody (1:250, sigma, st louis, mo)
+and protein a/g-agarose (santa cruz biotechnology, santa cruz,
+ca) at 41c overnight. samples were eluted from beads using 2 
+sds–page sample buffer with b-mercaptoethanol. prussian blue
+staining of ferritin was performed as described (kim et al, 2003).
+594 conjugated goat anti-mouse antibody (1:750) (molecular
+probes, eugene, or) for 60 min at room temperature. cells were
+visualized using an epiﬂuorescence microscope (olympus inc.,
+melville, ny) with a  100 oil immersion objective. images were
+acquired using magnaﬁre analysis software (optronix, goleta, ca).
+ferritin measurement
+hek293t-fpn cells were incubated with fac (10 mm fe) and
+induced with 10 mm ponasterone a. cellular protein was extracted
+as described above. ferritin levels from mammalian extracts were
+determined by an elisa (laguna scientiﬁc, laguna, ca), according
+to the manufacturer’s instructions. protein concentrations were
+determined by bicinchoninic acid assay (pierce, rockford, il).
+ferritin levels from yeast extracts were determined by an elisa as
+described (erhardt et al, 2004) using rabbit anti-ferritin antibody
+0.05 mg/well. error bars represent the standard deviation from
+three different experiments in duplicate.
+tf( 59fe)2 preparation
+human apotf (sigma, st louis, mo) was iron loaded using either
+59fe (new england nuclear, boston, ma) or ferric chloride as
+described (van renswoude et al, 1982). cells were incubated with
+1.0 10 7 m tf(59fe)2.
+size exclusion chromatography
+cellular protein was extracted as described above and loaded on a
+superdex 200 fplc column (amersham pharmacia, piscataway,
+nj) that was standardized using thyroglobulin (330 kda), alcohol
+dehydrogenase (150 kda), bsa (67 kda), ovalbumin (40 kda),
+and cytochrome c (12.4 kda, sigma). fractions were collected and
+analyzed for ferritin by elisa or western blot.
+immunoﬂuorescence
+cells were ﬁxed with 3.7% formaldehyde, permeabilized in pbs
+containing 1% bovine serum albumin and 0.1% saponin and
+incubated in mouse anti-egf-receptor
+(neomarkers,
+fremont, ca) for 60 min at room temperature, followed by alexa
+(1:100)
+percoll gradients and b-n-acetylhexoseaminidase analysis
+cells were homogenized in homogenization buffer
+(250 mm
+sucrose, 20 mm hepes, 0.5 mm egta, ph 7.2, koh) using a ball-
+bearing homogenizer. homogenates were centrifuged at 800 g for
+5 min at 41c to obtain a postnuclear supernatant, which was
+fractionated on 30% percoll (ward et al, 1990). gradients were
+fractionated and b-n-acetylhexoseaminidase activity was assayed as
+described (lamb et al, 1983) and ferritin measured by elisa.
+measurement of iron by atomic absorption spectroscopy
+log phase cells were collected and washed by centrifugation with
+50 mm tris–hcl, ph 6.5, 10 mm edta. cell pellets were digested in
+200 ml of 5:2 nitric:perchloric acid at 801c for 1 h. after digestion,
+the samples were diluted to 1.0 ml with deionized water and then
+ﬂamed in a perkinelmer life sciences inductively coupled plasma
+atomic absorption spectrometer. all samples were measured in
+duplicate and normalized by total cell number.
+supplementary data
+supplementary data are available at the embo journal online
+(http://www.embojournal.org).
+acknowledgements
+we thank dr s torti for providing cdna for human h and l ferritin
+chains, drs jp kushner, jd phillips, r ajioka and m rechsteiner for
+helpful comments, dr m rechsteiner for fm3a and ts85 cell lines,
+dr martin bard for providing the erg6-2 strain and dr t ganz for
+providing hepcidin. this work was supported by nih grants dk
+070947 and dk 30534 to jk.
+references
+bridges kr (1987) ascorbic acid inhibits lysosomal autophagy of
+ferritin. j biol chem 262: 14773–14778
+bridges kr, hoffman ke (1986) the effects of ascorbic acid on the
+intracellular metabolism of iron and ferritin. j biol chem 261:
+14273–14277
+crosby wh (1966) mucosal block. an evaluation of concepts
+relating to control of iron absorption. semin hematol 3: 299–313
+erhardt jg, estes je, pfeiffer cm, biesalski hk, craft ne (2004)
+combined measurement of ferritin, soluble transferrin receptor,
+retinol binding protein, and c-reactive protein by an inexpensive,
+sensitive, and simple sandwich enzyme-linked immunosorbent
+assay technique. j nutr 134: 3127–3132
+finley d, ciechanover a, varshavsky a (1984) thermolability of
+ubiquitin-activating enzyme from the mammalian cell cycle
+mutant ts85. cell 37: 43–55
+ganz t, nemeth e (2006) iron imports. iv. hepcidin and regulation
+of body iron metabolism. am j physiol gastrointest liver physiol
+290: g199–g203
+granick s (1951) structure and physiological functions of ferritin.
+physiol rev 31: 489–511
+harrison pm, hoy tg, macara ig, hoare rj (1974) ferritin iron
+uptake and release. structure–function relationships. biochem j
+143: 445–451
+hicke l, dunn r (2003) regulation of membrane protein transport
+by ubiquitin and ubiquitin-binding proteins. annu rev cell dev
+biol 19: 141–172
+ikehata h, kaneda s, yamao f, seno t, ono t, hanaoka f (1997)
+incubation at the nonpermissive temperature induces deﬁciencies
+in uv resistance and mutagenesis in mouse mutant cells expres-
+sing a temperature-sensitive ubiquitin-activating enzyme (e1).
+mol cell biol 17: 1484–1489
+jin w, takagi h, pancorbo b, theil ec (2001) ‘opening’ the ferritin
+pore for iron release by mutation of conserved amino acids at
+interhelix and loop sites. biochemistry 40: 7525–7532
+kidane tz, sauble e, linder mc (2006) release of iron from
+ferritin requires lysosomal activity. am j physiol cell physiol
+291: c445–c455
+kim hj, kim hm, kim jh, ryu ks, park sm, jahng ky, yang ms,
+kim dh (2003) expression of heteropolymeric ferritin improves
+iron storage in saccharomyces cerevisiae. appl environ microbiol
+69: 1999–2005
+konijn am, glickstein h, vaisman b, meyron-holtz eg, slotki in,
+cabantchik zi (1999) the cellular labile iron pool and intracel-
+lular ferritin in k562 cells. blood 94: 2128–2134
+lamb je, ray f, ward jh, kushner
+kwok jc, richardson dr (2004) examination of the mechanism(s)
+involved in doxorubicin-mediated iron accumulation in ferritin:
+studies using metabolic inhibitors, protein synthesis inhibitors,
+and lysosomotropic agents. mol pharmacol 65: 181–195
+jp, kaplan j
+(1983)
+internalization and subcellular localization of transferrin and
+transferrin receptors in hela cells. j biol chem 258: 8751–8758
+lange h, kispal g, lill r (1999) mechanism of iron transport to the
+site of heme synthesis inside yeast mitochondria. j biol chem
+274: 18989–18996
+larson ja, howie hl, so m (2004) neisseria meningitidis
+accelerates ferritin degradation in host epithelial cells to yield
+an essential iron source. mol microbiol 53: 807–820
+lawson dm, treffry a, artymiuk pj, harrison pm, yewdall sj,
+luzzago a, cesareni g, levi s, arosio p (1989) identiﬁcation of
+the ferroxidase centre in ferritin. febs lett 254: 207–210
+lee dh, goldberg al (1996) selective inhibitors of the proteasome-
+dependent and vacuolar pathways of protein degradation in
+saccharomyces cerevisiae. j biol chem 271: 27280–27284
+li l, chen os, mcvey ward d, kaplan j (2001) ccc1 is a transporter
+that mediates vacuolar iron storage in yeast. j biol chem 276:
+29515–29519
+liu x, theil ec (2005) ferritins: dynamic management of biological
+iron and oxygen chemistry. acc chem res 38: 167–175
+& 2006 european molecular biology organization
+the embo journal vol 25 | no 22 | 2006 5403
+proteasome-mediated ferritin degradation
+i de domenico et al
+lloyd jb, cable h, rice-evans c (1991) evidence that desferriox-
+amine cannot enter cells by passive diffusion. biochem pharmacol
+41: 1361–1363
+matsushita n, kitao h, ishiai m, nagashima n, hirano s, okawa k,
+ohta t, yu ds, mchugh pj, hickson id, venkitaraman ar,
+kurumizaka h, takata m (2005) a fancd2-monoubiquitin fusion
+reveals hidden functions of fanconi anemia core complex in dna
+repair. mol cell 19: 841–847
+mehlhase j, sandig g, pantopoulos k, grune t (2005) oxidation-
+induced ferritin turnover in microglial cells: role of proteasome.
+free radical biol med 38: 276–285
+mertz jr, theil ec (1983) subunit dimers in sheep spleen
+apoferritin. the effect on iron storage. j biol chem 258:
+11719–11726
+nemeth e, tuttle ms, powelson j, vaughn mb, donovan a, ward
+dm, ganz t, kaplan j (2004) hepcidin regulates cellular iron
+efﬂux by binding to ferroportin and inducing its internalization.
+science 306: 2090–2093
+ollinger k, roberg k (1997) nutrient deprivation of cultured rat
+hepatocytes increases the desferrioxamine-available iron pool
+and augments the sensitivity to hydrogen peroxide. j biol chem
+272: 23707–23711
+peto te, rutherford tr, thompson jl, weatherall dj (1983) iron
+metabolism in murine erythroleukaemic cells. br j haematol 54:
+623–631
+porter jb (2001) deferoxamine pharmacokinetics. semin hematol
+38: 63–68
+radisky dc, kaplan j (1998) iron in cytosolic ferritin can be
+recycled through lysosomal degradation in human ﬁbroblasts.
+biochem j 336: 201–205
+rudeck m, volk t, sitte n, grune t (2000) ferritin oxidation in vitro:
+implication of iron release and degradation by the 20s protea-
+some. iubmb life 49: 451–456
+sakaida i, kyle me, farber jl (1990) autophagic degradation of protein
+generates a pool of ferric iron required for the killing of cultured
+hepatocytes by an oxidation stress. mol pharmacol 37: 435–442
+santambrogio p, levi s, cozzi a, rovida e, albertini a, arosio p
+(1993) production and characterization of recombinant hetero-
+polymers of human ferritin h and l chains. j biol chem 268:
+12744–12748
+shilatifard a (2006) chromatin modiﬁcations by methylation and
+ubiquitination: implications in the regulation of gene expression.
+annu rev biochem 75: 243–269
+shin ym, kwon th, kim ks, chae ks, kim dh, kim jh, yang ms
+(2001) enhanced iron uptake of saccharomyces cerevisiae by
+heterologous expression of a tadpole ferritin gene. appl environ
+microbiol 67: 1280–1283
+shringarpure r, grune t, mehlhase j, davies kj (2003) ubiquitin
+conjugation is not required for the degradation of oxidized
+proteins by proteasome. j biol chem 278: 311–318
+takagi h, shi d, ha y, allewell nm, theil ec (1998) localized
+unfolding at the junction of three ferritin subunits. a mechanism
+for iron release? j biol chem 273: 18685–18688
+van renswoude j, bridges kr, harford jb, klausner rd (1982)
+receptor-mediated endocytosis of transferrin and the uptake of fe
+in k562 cells: identiﬁcation of a nonlysosomal acidic compart-
+ment. proc natl acad sci usa 79: 6186–6190
+ward dm, hackenyos dp, kaplan j (1990) fusion of sequentially
+internalized vesicles in alveolar macrophages. j cell biol 110:
+1013–1022
+5404
+the embo journal vol 25 | no 22 | 2006
+& 2006 european molecular biology organization

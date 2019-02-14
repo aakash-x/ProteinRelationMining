@@ -1,0 +1,960 @@
+l e t t e r s
+a genome-wide association scan of nonsynonymous
+snps identiﬁes a susceptibility variant for crohn disease
+in atg16l1
+jochen hampe1,2,10, andre franke1,10, philip rosenstiel1,9, andreas till1, markus teuber1, klaus huse3,
+mario albrecht4, gabriele mayr4, francisco m de la vega5, jason briggs5, simone gu¨nther5,
+natalie j prescott6, clive m onnie6, robert ha¨sler1, bence sipos7, ulrich r fo¨lsch2, thomas lengauer4,
+matthias platzer3, christopher g mathew6, michael krawczak8 & stefan schreiber1,2
+we performed a genome-wide association study of 19,779
+nonsynonymous snps in 735 individuals with crohn disease
+and 368 controls. a total of 7,159 of these snps were
+informative. we followed up on all 72 snps with p r 0.01
+with an allele-based disease association test in 380 independent
+crohn disease trios, 498 crohn disease singleton cases and
+1,032 controls. disease association of rs2241880 in the
+autophagy-related 16-like 1 gene (atg16l1) was replicated in
+these samples (p ¼ 4.0  10–8) and conﬁrmed in a uk case-
+control sample (p ¼ 0.0004). by haplotype and regression
+analysis, we found that marker rs2241880, a coding snp
+(t300a), carries virtually all the disease risk exerted by the
+atg16l1 locus. the atg16l1 gene encodes a protein in the
+autophagosome pathway that processes intracellular bacteria.
+we found a statistically signiﬁcant interaction with respect to
+crohn disease risk between rs2241880 and the established
+card15 susceptibility variants (p ¼ 0.039). together with the
+lack of association between rs2241880 and ulcerative colitis
+(p 4 0.4), these data suggest that the underlying biological
+process may be speciﬁc to crohn disease.
+relative sibling risk (ls) as estimated in individuals of western
+european origin (15–35),
+less than 30% of the sibling recurrence
+risk seems to be explicable by known mutations.
+we genotyped a total of 19,779 coding snps in panel a (735
+individuals with crohn disease and 368 controls from northern
+germany; table 1) using the snplex genotyping system. genotyping
+was successful for 16,360 assays, with ‘success’ deﬁned as a mean
+ﬂuorescence reading 4500 units on the abi 3730xl sequencer. of the
+successfully genotyped snps, 7,159 had a minor allele frequency z1%
+and were included in the subsequent analyses. next, we evaluated
+those markers with p r 0.01 in the allele-based test for disease
+association (n ¼ 72) in panel b (380 german crohn disease trios, 498
+singleton affected individuals and 1,032 independent controls; table 2
+and supplementary table 1 online). when we used p r 0.05 as
+table 1 samples used for association analysis
+panel
+number of
+number of
+affected individuals
+controls
+number
+of trios
+sequence variations associated with crohn disease have been reported
+for several genes, including card15 (also known as nod2; refs. 1,2),
+slc22a4 and slc22a5 within the 5q31 haplotype3,4; dlg5 (ref. 5);
+abcb1 (also known as mdr1; refs. 6–8); card4 (also known as
+nod1; ref. 9); tnfsf15 (ref. 10) and il23r (ref. 11). the most
+consistent replication and the clearest functional data are available for
+card15 (refs. 12–16). if the cumulated relative risk exerted by all
+known crohn disease susceptibility alleles is compared with the
+crohn disease (germany) (panel a)
+crohn disease (germany) (panel b)
+crohn disease (uk) (panel c)
+ulcerative colitis (germany)
+735
+498
+509
+788
+368
+1,032
+656
+1,032a
+380
+439
+the samples are organized into panels that make up successive steps of the study.
+index cases from trios were also used in the case-control analyses so that, for example,
+a total of 878 affected individuals (498 + 380) were available for the case-control
+comparison in panel b. athe controls from crohn disease panel b were also used for the
+analysis of ulcerative colitis.
+1institute for clinical molecular biology and 2first department of medicine, christian-albrechts university kiel, university hospital schleswig-holstein, 24105 kiel,
+germany. 3genome analysis group, leibniz institute for age research, fritz lipmann institute, beutenbergstrasse 11, 07745 jena, germany. 4max planck institute for
+informatics, stuhlsatzenhausweg 85, 66123 saarbru¨ cken, germany. 5applied biosystems, 850 lincoln center drive, foster city, california 94404, usa. 6department
+of medical and molecular genetics, king’s college london school of medicine, london se1 9rt, uk. 7department of pathology and 8institute of medical informatics
+and statistics, christian-albrechts university kiel, university hospital schleswig-holstein, 24105 kiel, germany. 9max-planck institute for molecular genetics,
+ihnestr. 63, 14195 berlin, germany. 10these authors contributed equally to this work. correspondence should be addressed to j.h. (jhampe@1med.uni-kiel.de) or
+s.s. (s.schreiber@mucosa.de).
+received 31 july; accepted 5 december; published online 31 december 2006; doi:10.1038/ng1954
+nature genetics volume 39 [ number 2 [ february 2007
+2 0 7
+l e t t e r s
+table 2 top 35 crohn disease–associated snps, ranked with respect to the p value obtained in an allele-based case-control comparison in
+panel a
+screening (panel a)
+replication (panel b)
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+gene
+celera id
+dbsnp id
+chr.
+position
+pcca
+pccg
+pcca
+pccg
+ptdt
+dcp1b
+tinag
+or8h1
+ttn
+or10a4
+hcg1744077
+hcg1744077
+s100z
+il7r
+apg16l1
+flj23577
+u2
+apbb2
+slc17a3
+hcg1789632
+nalp13
+hcg1812162
+hcg1646471
+hs6st3
+pkd1l2
+vgf
+txndc11
+plscr4
+or5u1
+ubqln4
+card15
+fuca1
+hcg1999532
+or2j2
+flj25660
+kub3
+slc16a4
+u1
+slc22a4
+aqp9
+hcv2194128
+hcv12027972
+hcv25770775
+hcv25626488
+hcv15895352
+hcv3111449
+hcv928121
+hcv8796177
+hcv2025977
+hcv9095577
+hcv25770123
+hcv25637975
+hcv1558531
+hcv1911085
+hcv25929364
+hcv2092168
+hcv25994942
+hcv15965545
+hcv3118872
+hcv8443426
+hcv25649609
+hcv1388401
+hcv25647383
+hcv2519378
+hcv16187524
+hcv11717466
+hcv12023629
+hcv2481084
+hcv11194783
+hcv2537241
+hcv25770320
+hcv15961275
+hcv2475291
+hcv3170459
+hcv11669234
+rs12423058
+rs1058768
+rs17613241
+rs10497517
+rs2595453
+rs211716
+rs211715
+rs1320308
+rs6897932
+rs2241880
+rs6730351
+rs4861358
+rs1165165
+rs10948733
+rs303997
+rs10483261
+rs2291479
+rs2282135
+rs1869348
+rs3190321
+rs3762685
+rs9257694
+rs2297792
+rs2066845
+rs11549094
+rs3129096
+rs3116817
+rs541169
+rs3751325
+rs2271885
+rs2157453
+rs1050152
+rs1867380
+12
+11
+11
+19
+14
+13
+16
+16
+16
+19
+12
+15
+1,934,927
+54,232,983
+55,839,523
+179,646,084
+6,862,804
+75,529,932
+75,530,066
+76,255,325
+35,920,076
+234,470,182
+35,715,804
+223,793,960
+40,931,441
+25,970,445
+52,867,218
+61,116,255
+20,346,679
+179,495,857
+95,187,906
+80,921,788
+100,378,082
+11,740,094
+147,259,528
+29,382,496
+153,228,236
+50,543,573
+23,650,437
+29,291,365
+29,257,553
+40,410,860
+56,621,893
+110,220,442
+170,103,324
+131,752,536
+56,192,337
+5.8  10–14
+1.7  10–12
+2.2  10–9
+3.4  10–7
+0.00005
+0.0001
+0.0002
+0.0003
+0.0004
+0.0004
+0.0004
+0.0007
+0.0009
+0.0009
+0.0009
+0.001
+0.001
+0.001
+0.001
+0.002
+0.002
+0.002
+0.002
+0.002
+0.002
+0.002
+0.002
+0.002
+0.002
+0.003
+0.003
+0.003
+0.003
+0.003
+0.003
+3.6  10–13
+7.9  10–11
+2.8  10–9
+2.7  10–6
+0.0003
+0.0006
+0.001
+0.0010
+0.0002
+0.002
+0.004
+0.003
+0.004
+0.004
+0.004
+0.005
+0.005
+0.006
+0.003
+0.003
+0.006
+0.002
+0.005
+0.008
+0.006
+0.008
+0.008
+0.008
+0.010
+0.01
+0.001
+0.01
+0.0008
+0.003
+0.01
+0.92
+0.27
+0.27
+0.17
+0.18
+0.05
+0.07
+0.05
+0.91
+0.00001
+0.21
+0.55
+0.04
+0.58
+0.05
+0.73
+0.79
+0.49
+0.12
+0.0004
+0.27
+0.09
+0.71
+0.52
+0.003
+8.6  10–8
+0.48
+0.45
+0.57
+0.77
+0.46
+0.31
+0.002
+2.6  10–6
+0.02
+0.54
+0.15
+0.41
+0.37
+0.21
+0.16
+0.21
+0.11
+0.99
+0.00007
+0.41
+0.81
+0.06
+0.26
+0.04
+0.86
+0.76
+0.72
+0.25
+0.002
+0.17
+0.04
+0.77
+0.77
+0.009
+7.1  10–7
+0.54
+0.67
+0.84
+0.39
+0.75
+0.09
+0.006
+1.5  10–6
+0.03
+0.07
+0.21
+0.15
+0.70
+0.43
+0.14
+0.19
+0.40
+0.95
+0.00001
+0.81
+0.50
+0.57
+0.90
+0.50
+0.82
+0.08
+0.60
+0.86
+0.52
+0.13
+0.74
+0.30
+1.00
+0.65
+0.002
+0.69
+0.83
+0.61
+0.32
+0.25
+0.10
+0.29
+0.02
+0.67
+cca: case-control comparison, panel a. the full list of snps fulﬁlling the follow-up criterion is provided in supplementary table 1. also included above are the p values for the
+genotype-based case-control comparison (ccg) and the tdt. nucleotide positions refer to ncbi build 34. markers with p r 0.05 in either the case-control or the tdt analysis in
+replication panel b are highlighted in boldface. snps with a signiﬁcant result in both panel b tests are marked by underlining. in addition to rs2241880, only snp rs1050152
+(l503f) in the slc22a4 gene reported earlier4 and the known card15 snp rs2066845 (‘snp12’; ref. 1) yielded consistent replication.
+indication of formal replication in both the transmission disequili-
+brium test (tdt) and the case-control comparison of panel b, only
+(i) rs2241880 (t300a) in the atg16l1 gene, (ii) the two previously
+reported variants rs1050152 (l503f) in the slc22a4 gene4 and
+(iii) rs2066845 (‘snp12’; ref. 1) in card15 matched this criterion.
+card15 variant rs2066844 (also known as ‘snp8’) failed genotyping;
+rs2066847 (‘snp13’) was not part of the coding snp (csnp) panel
+because the necessary insertion or deletion (indel) design was not
+feasible on the snplex v1.0 platform. association of the g allele of
+rs2241880 with crohn disease was signiﬁcant in both the allele-based
+case-control comparison (p ¼ 1.6  10–5) and the tdt (p ¼ 2.7 
+10–5). we conﬁrmed genotyping results obtained with snplex using
+taqman (99.8% genotype concordance), thereby excluding a technical
+artifact. we did not observe any signiﬁcant differences in terms of age
+of onset,
+frequency of ileal disease, stenoses or ﬁstulae between
+different genotypes (p 4 0.5; supplementary table 2 online).
+we searched for additional mutations in the atg16l1 gene by
+resequencing all exons, splice sites and the promoter region in the
+genomic dna of 47 individuals with crohn disease. we did not
+identify any other coding or splice site variants besides rs2241880. in
+panel b, we genotyped 28 tagging snps (r 2 4 0.8, minor allele
+frequency z1%; supplementary fig. 1 online) selected from the ceu
+hapmap sample (which comprises utah residents with ancestry from
+northern and western europe) (supplementary table 3 online). we
+found that the intronic snp rs2289472 had the same minor allele
+frequency (0.47) as coding snp rs2241880, and it yielded a slightly
+more signiﬁcant disease association (p ¼ 1.4  10–5). marker
+rs2289472 is localized 1,082 bp upstream of exon 9 and is not part
+of any recognized regulatory motif. in a logistic regression analysis,
+none of the 28 tagging snps signiﬁcantly improved the model ﬁt
+in the presence of rs2241880 (all p 4 0.05). taken together with
+the results of a subsequent haplotype analysis (table 3 and
+2 0 8
+volume 39 [ number 2 [ february 2007 nature genetics
+l e t t e r s
+table 3 results of a haplotype analysis of 12 snps at the atg16l1 locus
+haplotype
+acagcaagtgcg
+acgactgacacg
+ggaacagacatg
+agaatagacatg
+acgacagacgta
+fcases
+0.603
+0.254
+0.053
+0.046
+0.044
+fcontrols
+0.533
+0.285
+0.067
+0.066
+0.048
+or
+1.00
+0.79
+0.70
+0.62
+0.81
+pcocaphase
+ftransmitted
+fnon-transmitted
+ptdtphase
+0.00002
+0.04
+0.07
+0.008
+0.57
+0.515
+0.280
+0.088
+0.080
+0.038
+0.305
+0.406
+0.130
+0.084
+0.075
+0.002
+0.04
+0.19
+0.87
+0.10
+snps included in the analysis are marked by asterisks in supplementary figure 1 to illustrate their block assignment. all analyses were carried out using cocaphase or
+tdtphase30. p values refer to the null hypothesis of either equal haplotype frequencies (cocaphase) or of a transmission–to–non-transmission ratio equal to 0.5 (tdtphase).
+fcases and fcontrols represent haplotype frequency among affected individuals and controls, respectively. ftransmitted and fnon-transmitted represent haplotype frequency on transmitted
+chromosomes and nontransmitted chromosomes, respectively. nonsynonymous snp rs2241880 is highlighted in bold, and the risk allele is underlined. obviously, the sole risk
+haplotype (acagcaagtgcg) is fully signiﬁed by rs2241880 allele g; all other haplotypes carry allele a (note that the case-control–based ors were normalized so that or ¼ 1.0 for
+haplotype 1). this haplotype pattern strongly suggests that rs2241880 is indeed the major risk variant at the atg16l1 locus.
+supplementary fig. 1), these ﬁndings suggest that the crohn disease
+risk conferred by atg16l1 gene variation is probably conﬁned to
+individuals carrying susceptibility allele g at rs2241880. in the
+combined analysis of panels a and b, odds ratios (ors) were 1.45
+(95% conﬁdence interval (c.i.): 1.21–1.74) for carrying allele g
+(population attributable risk (par) ¼ 0.26) and 1.77 (95% c.i.:
+1.43–2.18) for homozygosity (par ¼ 0.17). the frequency of the
+g allele was 0.60 in affected individuals and 0.53 in controls.
+we also replicated the crohn disease association of rs2242880 in a
+sample from the uk (panel c) using an independent taqman assay.
+the british data yielded p ¼ 0.0004 in the allele-based test (or: 1.35;
+95% c.i.: 1.14–1.59) and p ¼ 0.0002 in the genotype-based test (or
+for homozygosity for allele g: 1.71; 95% c.i.: 1.23–2.39). the
+frequency of the g allele (59% among affected individuals, 52%
+among controls) was similar to that in the german sample.
+some of the variants listed in table 2 or supplementary table 1
+may still represent important candidates for disease susceptibility. the
+requirement of a signiﬁcant replication (p r0.05) in both the tdt
+and the case-control comparison may have led to the exclusion of
+relevant variants owing to a lack of power. although the present study
+still fell short of comprehensively assessing all putatively functional
+table 4 analysis of the statistical interaction between atg16l1 snp rs2241880 and
+card15 genotype
+variation in the human genome, our results, together with those of
+other recent studies17, demonstrate that direct association analysis
+using csnps is a meaningful complement for genome-wide linkage
+disequilibrium–based association studies like the ones reported for
+crohn disease10,11. the coding variant rs11209026 in il23r (ref. 11)
+was not part of the csnp panel and thus was not detected in this
+study. weak linkage evidence to the atg16l1 (2q37.1) region has been
+found in some genome scans: lod ¼ 1.0 was reported in ref. 18 at the
+190 cm position, and lod ¼ 1.2 was obtained at 180 cm in the
+german and uk genome scan19. notably, in the published reanalysis20
+of the german and uk scan, the 2q lod peak increased to 1.5 in
+families with wild-type card15.
+frequencies of rs2241880 allele g in individuals with ulcerative
+colitis (0.54) and in controls (0.53) were virtually identical. thus, we
+did not obtain evidence for a disease association either from the
+case-control comparison (p 4 0.4) or the tdt (p 4 0.9) for
+ulcerative colitis.
+dd
+we investigated the disease-associated variants in atg16l1 and
+card15 for statistical interaction with respect to crohn disease risk.
+we classiﬁed individuals in the german panel b either homozygous
+wild-type (dd), heterozygous carrier (dd) or homozygous carrier
+(dd, which included compound heterozy-
+gotes) for the three main causative card15
+snps (rs2066844, rs2066845 and rs2066847),
+as suggested21. the frequencies and ors of
+individual card15 risk genotypes, stratiﬁed
+by rs2241880 genotype, are shown in table 4.
+a statistical
+interaction became apparent
+between rs2241880 and the card15 low-risk
+genotypes dd and dd. the or difference was
+signiﬁcant
+genotype gg
+(2.03 on dd background versus 1.04 for dd;
+breslow-day w2 ¼ 4.267, 1 degree of freedom,
+p ¼ 0.039) but not
+the
+atg16l1 variant rs2241880 is a risk factor
+even in the absence of card15 mutations. on
+the background of card15 high-risk geno-
+type dd,
+the risk conferred by carrying
+rs2241880 allele g seemed to be higher than
+in the presence of dd or dd, but the con-
+ﬁdence intervals of the respective ors were
+still wide owing to the small number of dd
+controls (table 4). nevertheless, when we
+combined rs2241880 genotypes gg and ag,
+the joint or of 5.89 (95% c.i.: 1.23–29.21) was
+signiﬁcantly larger than unity (fisher’s exact
+5.00 (0.76–41.05)
+6.79 (1.04–55.16)
+for ag. thus,
+10.64 (3.62–33.60)
+rs2241880
+42
+57
+21
+1.00
+for
+card15 genotype
+dd
+219
+435
+185
+175
+232
+73
+dd
+62
+87
+35
+92
+136
+50
+2.03 (1.43–2.88) 1.04 (0.59–1.84)
+1.35 (0.98–1.87) 1.09 (0.64–1.88)
+1.00
+1.00
+control
+crohn disease
+or relative to aa (95% c.i.)a
+or relative to aa/dd (95% c.i.)b
+atg16l1
+gg
+ag
+aa
+gg
+ag
+aa
+gg
+ag
+aa
+gg
+ag
+aa
+2.03 (1.43–2.88) 3.76 (2.42–5.86) 53.22 (12.15–325.70)
+1.35 (0.98–1.87) 3.96 (2.66–5.91) 72.23 (16.68–440.10)
+1.00
+3.62 (2.11–6.23)
+abbreviations representing card15 mutation status are as described in results.
+aodds ratio relative to rs2241880 genotype aa in each card15 genotype stratum. bodds ratio relative to the joint atg16l1/
+card15 low-risk genotype aa/dd.
+nature genetics volume 39 [ number 2 [ february 2007
+2 0 9
+l e t t e r s
+s m all intestine
+kidney
+lung
+liver
+skeletal m uscle
+heart
+prostate
+testis
+brain
+colon
+leukocytes
+placenta
+thym us
+spleen
+ovary
+ie c2
+ie c1
+h 2
+atg16l1
+β-actin
+figure 1 expression and cellular localization of the atg16l1 gene product.
+amounts of atg16l1 protein are inﬂuenced neither by the rs2241880
+genotype nor by intestinal inﬂammation. (a) expression of atg16l1 in a
+set of different tissues as detected by rt-pcr (iec, intestinal epithelial
+cells). the corresponding b-actin control (with a 518-bp amplicon size) is
+given below. (b) amounts of atg16l1 in colonic mucosal biopsy
+specimens. proteins (15 mg) from rectal mucosal biopsies of crohn disease
+patients and normal controls (n) were separated by denaturing sds-page,
+transferred onto polyvinylidine ﬂuoride (pvdf) membranes and probed for
+the presence of atg16l1 using a speciﬁc primary antibody and horseradish
+peroxidase–coupled secondary antibody. the abundant 68.2-kda band
+corresponds to the predicted molecular weight of the isoform encoded by
+genbank ay398617 (uniprot accession number q676u5). this major
+protein form was used for three-dimensional modeling of the atg16l1
+protein (fig. 2). the 48.5-kda band corresponds to genbank ef079890,
+which contains exon 9 (harboring rs2241880) in the same reading frame
+as the major form. (c–i) representative immunohistochemistry results (out
+of six normal controls and six individuals with crohn disease) from colonic
+mucosal tissue samples from normal controls for genotype aa (c) and
+gg (f) and individuals with crohn disease for genotype aa (d) and gg (g)
+are shown to demonstrate the cellular localization of the atg16l1 protein.
+cellular expression patterns in mononuclear cells (h) and intestinal
+epithelial cells (i) of a crohn disease sample (rs2241880aa) are shown at
+higher magniﬁcation. e shows a crohn disease sample without the primary
+antibody, used as a control. bar represents 10 mm in c–g.
+two-sided p ¼ 0.016), thereby conﬁrming that rs2241880 allele g is a
+risk factor on a high-risk card15 genotype background as well.
+larger studies will be needed to determine the exact nature of the
+statistical interaction between the atg16l1 and card15 variants
+and to obtain narrower conﬁdence intervals, particularly for the
+dd stratum.
+β29
+β28
+β27
+β26
+β1
+β32
+β31
+β30
+β3
+β2
+β4
+β5
+β25
+β24
+β23
+β22
+β18 β19 β20 β21
+β6
+β7
+β8
+β9
+t300a
+β10
+β11
+β12
+β13
+β14
+β15
+β16
+β17
+figure 2 three-dimensional structural model of the wd-repeat domain of
+human atg16l1. the 32 b-strands forming an eight-bladed b-propeller
+are numbered as in supplementary note. the location of the variant
+amino acid t300a in strand b3, corresponding to rs2241880, is marked
+in yellow.
+crohn disease
+a g aa g g
+a g
+aa
+controls
+g g
+a g aa
+aa
+aa
+rs2241880
+75 kda
+50 kda
+aa
+68.2 kda
+49.5 kda
+α-atg16l1
+α-actb
+aa
+gg
+gg
+we investigated expression of the atg16l1 gene by rt-pcr in a
+tissue panel, conﬁrming expression in colon, small bowel, intestinal
+epithelial cells and immune tissues like spleen and leukocytes (fig. 1a).
+recently, multiple splice variants of atg16l1 have been reported22. in
+all annotated and reported splice variants, exon 9, which contains the
+crohn disease susceptibility variant rs2241880, is translated in the
+same reading frame, thereby consistently leading to a threonine to
+alanine substitution by the snp (fig. 1b). we detected expression
+of atg16l1 in the intestinal epithelium by immunohistochemistry
+(fig. 1c–i) and did not ﬁnd any signiﬁcant difference in the amount or
+pattern of expression in tissue from controls and affected individuals.
+expression of atg16l1 was also independent of the rs2241880
+genotype at both the protein and the cdna level (fig. 1b).
+the exact functional consequences of rs2241880 remain tentative at
+this point. the human atg16l1 protein has an n-terminal apg16
+domain consisting of coiled coils and eight c-terminal wd repeats
+(see three-dimensional model in fig. 2 and in silico protein analysis in
+the supplementary note online). the variant leads to an amino acid
+exchange (polar threonine to nonpolar alanine) at the evolutionarily
+conserved position 300 of the n terminus of the wd-repeat domain
+in atg16l1 (fig. 2). the interaction partner of this domain has not
+yet been identiﬁed experimentally23. however, it is clear that atg16l1
+is part of the autophagosome pathway. the established role of the
+autophagosome in the processing of intracellular bacteria would
+further support the emerging concept of crohn disease as an inﬂam-
+matory barrier disorder. the lack of association with ulcerative colitis
+and the statistical interaction with card15 suggest that the under-
+lying biological processes may be disease speciﬁc.
+2 1 0
+volume 39 [ number 2 [ february 2007 nature genetics
+l e t t e r s
+methods
+participants. recruitment details are given in supplementary methods online.
+all participants gave written, informed consent, and the recruitment protocols
+were approved by the ethics committees at the respective recruiting institutions.
+genotyping using snplex and taqman technologies (applied biosystems) was
+performed as described, using an automated laboratory setup24,25. for the
+construction of the panel of 19,779 nonsynonymous snps, data from dbsnp
+(build 117) were combined with polymorphisms discovered by the applera
+exon resequencing and celera shotgun sequencing projects26 (see supplemen-
+tary methods, supplementary table 4 online and the url noted below).
+sequencing of genomic dna was performed using abi bigdye chemistry
+(primer sequences are given in supplementary table 5 online). traces were
+inspected for snps and indels using insnp27 and sequencher. standard
+protocols were used for the isolation of epithelial cells, rt-pcr, protein blot
+and immunohistochemistry (supplementary table 6 and supplementary
+methods online).
+statistical analysis. markers were tested for hardy-weinberg equilibrium in
+controls before inclusion in the analyses (p 4 0.05). single-marker case-control
+analyses and tdt were performed using haploview28 and genomizer29.
+haplotype frequency estimates were obtained from singletons using coca-
+phase30. signiﬁcance testing of haplotype frequency differences was per-
+formed with cocaphase and tdtphase30. genotype-based logistic
+regression analysis was performed with r, coding individual snp genotypes
+as binary indicator variables. analysis of statistical interaction was carried out
+using the freq procedure of sas.
+accession codes. the genbank accession codes of the major splice variants of
+atg16l1 are ay398617 and ef079890.
+urls. the r suite can be found at http://www.r-project.org/. detailed
+information on the csnp panel can be found at http://csnp.applied-
+biosystems.com/.
+note: supplementary information is available on the nature genetics website.
+acknowledgments
+we thank all affected individuals, families and physicians for their cooperation.
+we acknowledge the cooperation of the german crohn and colitis patient
+association (deutsche morbus crohn und colitis vereinigung) and the
+contributing gastroenterologists. the authors thank t. wesse, b. petersen,
+l. bossen, t. henke, s. ehlers, a. dietsch, t. kaacksteen and d. soars for
+technical help. the ongoing technical and logistic support and helpful
+discussions with a. toeppel, c.r. scafe, a. kejariwal, h.m. wenz,
+m. rhodes, s. short, t. woodage and d.a. gilbert from applied biosystems
+is especially acknowledged. we thank c.-c. chiang for preparing the
+submission of new snps to dbsnp. t.h. karlsen (rikshospitalet) is
+acknowledged for helpful discussions. we thank a. forbes, j. sanderson and
+s. fisher for case ascertainment and establishment of the uk crohn disease
+database. we acknowledge use of genotype data from the british 1958 birth
+cohort dna collection, funded by medical research council grant g0000934
+and wellcome trust grant 068545/z/02. this study was supported by
+the german ministry of education and research (bmbf) through the
+national genome research network (environmental diseases network
+and smp-gem), the popgen biobank, the analysis infrastructure and
+methods of the medigrid project and the german research council
+(ha 3091/1-1, 2-1), applied biosystems, tecan, the wellcome trust
+and core (uk).
+author contributions
+j.h. and a.f. established the genotyping and analysis methodology; a.f.
+performed the genotyping and association analysis and contributed to the writing
+of the manuscript; s.s. supervised the patient recruitment; j.h. recruited the
+german patients and drafted the manuscript; p.r., a.t., a.f., k.h., r.h., b.s. and
+m.p. performed the protein, immunohistochemistry and cdna experiments; m.t.
+provided lims programming support; m.a., g.m. and t.l. performed in silico
+protein analysis and contributed to writing the manuscript; f.d.l.v. designed the
+csnp panel and genotyping assays and contributed to the manuscript; j.b. and
+s.g. helped establish the snplex automation system; n.p., c.o. and c.m.
+performed the replication experiment in the uk samples; u.f. contributed to
+the design and the writing of the paper; m.k. provided genetic epidemiology
+consulting, performed the interaction analysis and helped draft the manuscript;
+and j.h. and s.s. jointly designed and supervised the experiment.
+competing interests statement
+the authors declare competing ﬁnancial interests (see the nature genetics website
+for details).
+published online at http://www.nature.com/naturegenetics
+reprints and permissions information is available online at http://npg.nature.com/
+reprintsandpermissions/
+1. hugot, j.p. et al. association of nod2 leucine-rich repeat variants with susceptibility to
+crohn’s disease. nature 411, 599–603 (2001).
+2. ogura, y. et al. a frameshift mutation in nod2 associated with susceptibility to crohn’s
+disease. nature 411, 603–606 (2001).
+3. rioux, j.d. et al. genetic variation in the 5q31 cytokine gene cluster confers
+susceptibility to crohn disease. nat. genet. 29, 223–228 (2001).
+4. peltekova, v.d. et al. functional variants of octn cation transporter genes are
+associated with crohn disease. nat. genet. 36, 471–475 (2004).
+5. stoll, m. et al. genetic variation in dlg5 is associated with inﬂammatory bowel
+disease. nat. genet. 36, 476–480 (2004).
+6. brant, s.r. et al. mdr1 ala893 polymorphism is associated with inﬂammatory bowel
+disease. am. j. hum. genet. 73, 1282–1292 (2003).
+7. ho, g.t. et al. abcb1/mdr1 gene determines susceptibility and phenotype in
+ulcerative colitis: discrimination of critical variants using a gene-wide haplotype
+tagging approach. hum. mol. genet. 15, 797–805 (2006).
+8. schwab, m. et al. association between the c3435t mdr1 gene polymorphism and
+susceptibility for ulcerative colitis. gastroenterology 124, 26–33 (2003).
+9. mcgovern, d.p. et al. association between a complex insertion/deletion polymorphism
+in nod1 (card4) and susceptibility to inﬂammatory bowel disease. hum. mol. genet.
+14, 1245–1250 (2005).
+10. yamazaki, k. et al. single nucleotide polymorphisms in tnfsf15 confer susceptibility
+to crohn’s disease. hum. mol. genet. 14, 3499–3506 (2005).
+11. duerr, r.h. et al. a genome-wide association study identiﬁes il23r as an inﬂammatory
+bowel disease gene. science 314, 1461–1463 (2006).
+12. maeda, s. et al. nod2 mutation in crohn’s disease potentiates nf-kappab activity and
+il-1beta processing. science 307, 734–738 (2005).
+13. kobayashi, k.s. et al. nod2-dependent regulation of innate and adaptive immunity in
+the intestinal tract. science 307, 731–734 (2005).
+14. girardin, s.e. et al. nod2 is a general sensor of peptidoglycan through muramyl
+dipeptide (mdp) detection. j. biol. chem. 278, 8869–8872 (2003).
+15. hampe, j. et al. association between insertion mutation in nod2 gene and crohn’s
+disease in german and british populations. lancet 357, 1925–1928 (2001).
+16. watanabe, t., kitani, a., murray, p.j. & strober, w. nod2 is a negative regulator of
+toll-like receptor 2-mediated t helper type 1 responses. nat. immunol. 5, 800–808
+(2004).
+17. smyth, d.j. et al. a genome-wide association study of nonsynonymous snps identiﬁes
+a type 1 diabetes locus in the interferon-induced helicase (ifih1) region. nat. genet.
+38, 617–619 (2006).
+18. duerr, r.h., barmada, m.m., zhang, l., pfutzer, r. & weeks, d.e. high-density
+genome scan in crohn disease shows conﬁrmed linkage to chromosome 14q11–12.
+am. j. hum. genet. 66, 1857–1862 (2000).
+19. hampe, j. et al. a genome-wide analysis provides evidence for novel linkages in
+inﬂammatory bowel disease in a large european cohort. am. j. hum. genet. 64,
+808–816 (1999).
+20. shaw, s.h. et al. stratiﬁcation by card15 variant genotype in a genome-wide search
+for inﬂammatory bowel disease susceptibility loci. hum. genet. 113, 514–521 (2003).
+21. croucher, p.j.p. et al. haplotype structure and association to crohn’s disease of
+card15 mutations in two ethnically divergent populations. eur. j. hum. genet. 11,
+6–16 (2003).
+22. zheng, h. et al. cloning and analysis of human apg16l. dna seq. 15, 303–305
+(2004).
+23. mizushima, n. et al. mouse apg16l, a novel wd-repeat protein, targets to the
+autophagic isolation membrane with the apg12-apg5 conjugate. j. cell sci. 116,
+1679–1688 (2003).
+24. hampe, j. et al. an integrated system for high throughput taqman based snp
+genotyping. bioinformatics 17, 654–655 (2001).
+25. hampe, j. et al. evidence for a nod2-independent susceptibility locus for inﬂamma-
+tory bowel disease on chromosome 16p. proc. natl. acad. sci. usa 99, 321–326
+(2002).
+26. venter, j.c. et al. the sequence of the human genome. science 291, 1304–1351
+(2001).
+27. manaster, c. et al. insnp: a tool for automated detection and visualization of snps and
+indels. hum. mutat. 26, 11–19 (2005).
+28. barrett, j.c., fry, b., maller, j. & daly, m.j. haploview: analysis and visualization of ld
+and haplotype maps. bioinformatics 21, 263–265 (2005).
+29. franke, a. et al. genomizer: an integrated analysis system for genome-wide
+association data. hum. mutat. 27, 583–588 (2006).
+30. dudbridge, f. pedigree disequilibrium tests for multilocus haplotypes. genet. epide-
+miol. 25, 115–121 (2003).
+nature genetics volume 39 [ number 2 [ february 2007
+2 1 1

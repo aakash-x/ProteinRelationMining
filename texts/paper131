@@ -1,0 +1,751 @@
+protective role of autophagy against vibrio cholerae
+cytolysin, a pore-forming toxin from v.cholerae
+maximiliano gabriel gutierrez*, hector alex saka†, isabel chinen‡, felipe c. m. zoppino*, tamotsu yoshimori§,
+jose luis bocco†¶, and marı´a isabel colombo*¶
+*laboratorio de biologı´a celular y molecular, instituto de histologı´a y embriologı´a–consejo nacional de investigaciones cientı´ﬁcas y te´ cnicas (conicet),
+facultad de ciencias me´ dicas, universidad nacional de cuyo, 5500 mendoza, argentina; †departamento de bioquı´mica clı´nica, centro de investigaciones
+en bioquı´mica clı´nica e inmunologı´a–conicet, facultad de ciencias quı´micas, universidad nacional de co´ rdoba, 5000 co´ rdoba, argentina; ‡servicio de
+fisiopatogenia, instituto nacional de enfermedades infecciosas, administracio´ n nacional de laboratorios e institutos de salud ‘‘dr. carlos g. malbra´ n,’’
+1281 buenos aires, argentina; and §department of cell genetics, national institute of genetics, yata 1111 mishima, shizuoka 455-8540, japan
+edited by jeremy nathans, the johns hopkins university school of medicine, baltimore, md, and approved december 4, 2006 (received for review
+february 20, 2006)
+autophagy is the unique, regulated mechanism for the degrada-
+tion of organelles. this intracellular process acts as a prosurvival
+pathway during cell starvation or stress and is also involved in
+cellular response against speciﬁc bacterial infections. vibrio chol-
+erae is a noninvasive intestinal pathogen that has been studied
+extensively as the causative agent of the human disease cholera.
+v. cholerae illness is produced primarily through the expression of
+a potent toxin (cholera toxin) within the human intestine. besides
+cholera toxin, this bacterium secretes a hemolytic exotoxin termed
+v. cholerae cytolysin (vcc) that causes extensive vacuolation in
+epithelial cells. in this work, we explored the relationship between
+the vacuolation caused by vcc and the autophagic pathway.
+treatment of cells with vcc increased the punctate distribution of
+lc3, a feature indicative of autophagosome formation. moreover,
+vcc-induced vacuoles colocalized with lc3 in several cell lines,
+including human intestinal caco-2 cells, indicating the interaction
+of the large vacuoles with autophagic vesicles. electron microscopy
+analysis conﬁrmed that the vacuoles caused by vcc presented
+hallmarks of autophagosomes. additionally, biochemical evidence
+demonstrated the degradative nature of the vcc-generated vacu-
+oles.
+interestingly, autophagy inhibition resulted in decreased
+survival of caco-2 cells upon vcc intoxication. also, vcc failed to
+induce vacuolization in atg5ⴚ/ⴚ cells, and the survival response of
+these cells against the toxin was dramatically impaired. these
+results demonstrate that autophagy acts as a cellular defense
+pathway against secreted bacterial toxins.
+autophagosomes 兩 lc3 兩 rab7 兩 innate defense 兩 cellular microbiology
+autophagy is an intracellular catabolic process that is acti-
+vated in cells under conditions of stress, such as nutrient
+deprivation and growth factors (1, 2). it has been hypothesized
+that this degradative pathway evolved as a response to starvation
+and is the main component in the turnover of long-lived proteins
+in eukaryotic cells. in the last few years, this pathway has been
+associated with an increasing number of important functions
+(3–6). when autophagy is induced, isolation membranes seques-
+ter portions of cytosol, including organelles, and form a double-
+membrane structure called an ‘‘autophagosome’’ (7, 8). auto-
+phagosomes mature by fusing with various endocytic
+compartments to ultimately degrade their content.
+in recent years, the molecular machinery that regulates autoph-
+agy has begun to be revealed (9). in yeast, it has been shown that
+two ubiquitylation-like conjugation systems are required for auto-
+phagosome formation (10). the first conjugation system is the
+atg5–atg12 complex. the atg5-atg12 conjugate is essential for
+elongation of the isolation membrane (11). map-lc3 is a mam-
+malian homologue of atg8 in yeast and is part of the second
+conjugation system that leads to the covalent linkage between lc3
+and phosphatidylethanolamine (12). it has been shown that lc3
+exists in two forms: the cytosolic form (lc3-i) and the processed
+form (lc3-ii) located on the autophagosomal membrane. lc3
+processing is activated when autophagy is induced (12).
+vibrio cholerae is a noninvasive pathogen that produces cholera,
+a disease characterized by profuse watery diarrhea, which is po-
+tentially highly lethal and occurs as epidemics or even pandemics
+that mainly affect developing countries (13, 14). a potent entero-
+toxin, termed cholera toxin (ct), and a colonization factor, termed
+toxin coregulated pilus (tcp), are critically involved in the patho-
+genesis of cholera (14, 15). besides ct and tcp, v. cholerae
+generates several additional secreted proteins that possess well
+characterized cytotoxic activity in vitro (16, 17). v. cholerae cytolysin
+(vcc) is an exotoxin produced by most o1 biotype el tor and
+non-o1/non-o139 v. cholerae isolates (18, 19) encoded by the hlya
+gene (20). this cytotoxic factor is a pore-forming toxin that causes
+vacuolization or cell lysis and necrosis, depending on the cell type
+and toxin concentration (21–25). it has been proposed that vcc
+contributes to the pathogenesis of gastroenteritis, particularly in
+strains that do not produce ct (26). a potent cell-vacuolating
+activity of vcc has been described (23, 25), but the membrane
+traffic processes involved in vacuole biogenesis are still poorly
+understood, although late endosomes, autophagosomes, and the
+golgi complex may contribute to vacuole formation (25, 27).
+recently, the role of the autophagic pathway in protecting
+mammalian cells against various human bacterial pathogens has
+been demonstrated (28–31). however, the role of autophagy in
+response to bacterial toxins is still unknown. in this study, we
+present evidence that a secreted toxin from v. cholerae (vcc) is
+able to modulate autophagy in target cells. we also show that this
+autophagic response is necessary to override the cytotoxic effect of
+vcc and prevent cell death.
+results
+vcc is a secreted toxin of v. cholerae that causes autophagy. to
+study the relationship between vcc intoxication and autophagy,
+cho cells stably overexpressing gfp-lc3 (cho-lc3) (32) were
+exposed to sterile culture supernatants obtained from a ct-
+negative v. cholerae strain or from its isogenic hlya null mutant
+author contributions: m.g.g. and h.a.s. contributed equally to this work; m.g.g., h.a.s.,
+j.l.b., and m.i.c. designed research; m.g.g., h.a.s., and f.c.m.z. performed research; i.c.,
+f.c.m.z., and t.y. contributed new reagents/analytic tools; m.g.g., h.a.s., j.l.b., and m.i.c.
+analyzed data; and m.g.g. wrote the paper.
+the authors declare no conﬂict of interest.
+this article is a pnas direct submission.
+abbreviations: bhi, brain– heart infusion broth; ct, cholera toxin; mef, mouse embryonic
+ﬁbroblasts; nem, n-ethlymaleimide; 3-ma, 3-methyladenine; vcc, vibrio cholerae
+cytolysin.
+¶to whom correspondence may be addressed. e-mail:
+mcolombo@fcm.uncu.edu.ar.
+jbocco@fcq.unc.edu.ar or
+this article contains supporting information online at www.pnas.org/cgi/content/full/
+0601437104/dc1.
+© 2007 by the national academy of sciences of the usa
+www.pnas.org兾cgi兾doi兾10.1073兾pnas.0601437104
+pnas 兩 february 6, 2007 兩 vol. 104 兩 no. 6 兩 1829 –1834
+cho
+vc-hlya -
+vc -wt
+control
+vcc 7.5 pm 
+wtwt
+vccvcc
+hlya- bhi
+nt
+time (h)
+gfp-lc3-i
+gfp-lc3-ii
+cleaved gfp
+kda
+45
+43
+25
+gfp - lc3
+caco-2
+control
+vcc 7.5 pm 
+eth c2bbe1
+control
+vcc 7.5 pm 
+time (min)
+90
+120
+wt
+hlya-
+120
+bhi dmso
+nt
+gfp-lc3-i
+gfp-lc3-ii
+inhibitors:
+gfp-lc3-ii
+gfp-lc3-i
+::
+0.42
+1.38
+1.49
+1.60
+0.29
+0.28
+0.23
+0.21
+0.20
+kda
+45
+43
+elc3
+vcc 15 pm 
+vcc 30 pm 
+vcc 60 pm 
+gfp-lc3
+cho
+caco-2
+vcc 60 pm 
+vcc 60 pm 
+c2bbe1 
+vcc 60 pm 
+elc3
+fig. 1.
+autophagy induction in cells intoxicated with vcc. (a) vcc is a
+secreted hemolysin from v. cholerae that causes autophagy in several cell
+lines. (aa–ad) cho-lc3 cells were incubated for 4 h with a ﬁlter-sterilized
+supernatant from v. cholerae wt (vc-wt) (ab) or hlya⫺ (vc-hlya⫺) (aa) diluted
+1:100. ac and ad show cho-lc3 with or without the addition of 7.5 pm
+puriﬁed vcc for 4 h. (ae–ah) detection by indirect immunoﬂuorescence of
+endogenous lc3 in human colonic-derived caco-2 cells (ae and af ) and in
+c2bbe1 cells (brush border-expressing caco-2 clone) (ag and ah) with or
+without the addition of 7.5 pm vcc for 4 h. arrows indicate punctate lc3-
+labeled structures. confocal images are depicted. (scale bars: 10 ␮m.) (b) lc3
+colocalizes with the vcc-generated vacuoles. (ba–bc) cho-lc3 cells were
+treated with different concentrations of vcc as indicated (15– 60 pm) for 4 h.
+increasing concentrations of the toxin induce not only a clear targeting of
+gfp-lc3 to punctate structures but also localization of gfp-lc3 to the limiting
+membrane of the vcc-generated vacuoles, as well as to the small internal
+vesicles. (bd–bf ) cells were intoxicated with vcc 60 pm as described above and
+subjected to immunoﬂuorescence to detect endogenous lc3 in cho, caco-2,
+and c2bbe1 cells. arrows indicate vacuoles decorated by lc3. confocal images
+are depicted. (scale bars: 10 ␮m.)
+defective in vcc [see material and methods and supporting infor-
+mation (si) fig. 6]. as shown in fig. 1ab, a 1:100 dilution of a sterile
+culture supernatant from the v. cholerae wild-type strain clearly
+induced gfp-lc3 targeting to punctated structures. when cho-
+lc3 cells were incubated with the same dilution of sterile culture
+supernatant from the v. cholerae hlya null mutant strain, no
+changes in gfp-lc3 distribution were observed (fig. 1aa). to
+confirm that the effects observed with supernatants were indeed
+caused by the toxin, purified vcc was used. as expected, purified
+vcc induced gfp-lc3 punctate distribution (fig. 1ad), whereas
+no changes in gfp-lc3 distribution were induced under control
+conditions (fig. 1ac) or after the addition of heat-inactivated vcc
+(si fig. 7). in agreement with these observations, we also noted an
+intense redistribution of the endogenous lc3 in cho and hek
+cells (data not shown).
+as mentioned above, the lc3 protein is processed for lipid
+fig. 2.
+lc3 processing upon vcc intoxication. (a) vcc enhances lc3 pro-
+cessing. cho-lc3 cells were incubated with ﬁlter-sterilized culture superna-
+tants from vc-wt or vc-hlya⫺ (1:100 dilution), with puriﬁed vcc (60 pm), or
+with noninoculated bhi medium (1:100 dilution). after the indicated incuba-
+tion times, protein cell extracts were subjected to sds/page and the gfp-lc3
+forms (i and ii) or free cleaved gfp were detected by western blot analysis, as
+described in materials and methods. nt, nontreated. (b) inhibition of lysoso-
+mal proteases leads to lc3-ii accumulation during vcc-induced autophagy.
+shown is a representative immunoblot of cho-lc3 cells treated with sterile
+culture supernatants from vc-wt or vc-hlya⫺ (1:100 dilution), with or without
+previous incubation with pepstatine a (10 ␮g/ml) and e64d (10 ␮g/ml) 2 h
+before stimuli. as control, cells treated only with 1:100 dilution of bhi, 0.1%
+vol/vol dmso (120 min each), and nt cells were assayed. protein extracts were
+obtained and analyzed by western blotting using an anti-gfp antibody.
+conjugation upon autophagy induction, leading to a downward shift
+in its electrophoretic mobility. as shown in fig. 2a, incubation of
+cho-lc3 cells with vcc markedly enhanced the concentration of
+the lipidated lc3 form (known as ‘‘lc3-ii’’ or ‘‘processed lc3’’).
+it has been shown that the lc3-ii trapped inside autophagosomes
+is degraded by lysosomal hydrolases after the formation of autoly-
+sosomes, and the lysosomal turnover of lc3-ii, not a transient
+increase, is indicative of autophagy induction (33). to determine
+whether vcc is inducing autophagy and not blocking this pathway
+with a consequent increase in the lc3-ii form, an experiment using
+inhibitors of lysosomal enzymes was performed. when cells treated
+with vc-wt supernatant were preincubated with lysosomal protease
+inhibitors, the amount of gfp-lc3-ii was increased substantially
+after 90 min of treatment, compared with cells treated with vc-wt
+supernatant alone (fig. 2b). this result indicates that vcc is
+actually inducing autophagy and not impairing this process. more-
+over, experiments using dq bsa, a fluorophore dequenching upon
+proteolysis and colocalization with cathepsin d, further supported
+the degradative nature of vcc-generated vacuoles (si fig. 8). in
+addition, it has been shown that the gfp fragment is relatively
+stable to proteolysis and therefore accumulates in an autophagy-
+dependent manner both in yeast and in mammalian cells (6, 34). as
+shown in fig. 2a, the increased levels of free cleaved gfp
+correlated well with lc3 conversion. therefore, the accumulation
+of free cleaved gfp provides additional support regarding the
+normal progression of the autophagic pathway in vcc-treated
+cells.
+taken together these results clearly indicate that vcc is the com-
+ponent of v. cholerae supernatant capable of triggering autophagy.
+because epithelial intestinal cells are the main target of vcc in
+vivo, we studied the intracellular distribution of lc3 in related cell
+lines after treatment with vcc. as observed for cho cells in the
+human colonic-derived caco-2 and c2bbe1 cells, under control
+conditions, endogenous lc3 showed a cytosolic pattern with a low
+level of lc3 redistribution. however, incubation with a low dose of
+vcc resulted in a remarkable increase in the punctate distribution
+of lc3 (fig. 1 af and ah). this redistribution was also observed in
+1830 兩 www.pnas.org兾cgi兾doi兾10.1073兾pnas.0601437104
+gutierrez et al.
+caco-2 and c2bbe1 cells after treatment with supernatants from
+v. cholerae wild type but not with the v. cholerae hlya null mutant
+(data not shown). taken together, these results indicate that vcc
+is a secreted toxin of v. cholerae that causes autophagy induction in
+different cells, including human colonic cell lines.
+lc3 colocalizes with vcc-generated vacuoles in a broad range of
+toxin concentrations. the above evidence prompted us to further
+investigate the contribution of the autophagic pathway to vcc-
+induced vacuoles. as mentioned previously, diverse cellular
+effects are observed, depending on toxin concentration (25, 27).
+consequently, cho-lc3 cells were exposed to several concen-
+trations of purified vcc and we observed changes in gfp-lc3
+distribution at all concentrations tested. however, the most
+remarkable finding was that the large vcc-generated vacuoles
+were clearly decorated with gfp-lc3 (fig. 1 ba–bc). given that
+lc3 is the best-characterized marker of autophagosomes to date,
+these data strongly suggest that autophagic compartments con-
+tribute to the generation of the vacuoles caused by vcc. a
+quantitative analysis indicated increased colocalization at higher
+toxin concentrations (data not shown). interestingly, numerous
+vacuoles displaying characteristics of multivesicular bodies that
+contain internal gfp-lc3 vesicles were observed.
+to further confirm our results, endogenous lc3 was detected by
+using a specific polyclonal antibody. as shown in fig. 1bd, endog-
+enous lc3 localized in the vcc-generated vacuoles in cho cells.
+because different cell lines exhibit different sensitivity to vcc (27),
+we also detected the distribution of endogenous lc3 in caco-2 and
+c2bbe1 (fig. 1 be and bf), and the protein was strongly associated
+with the vcc-generated vacuoles in these cell types.
+ultrastructural analysis of vcc-generated vacuoles. to corroborate
+that vacuoles caused by vcc presented autophagic characteristics,
+cho cells were incubated with the toxin and subsequently analyzed
+by electron microscopy. as shown in fig. 3a, vcc-generated
+vacuoles exhibited characteristics of autophagic vacuoles sur-
+rounded by double membranes (fig. 3ab, arrow), with multiple
+membranes inside and partially degraded intracellular material
+(fig. 3 aa and ac). in line with confocal microscopy observations,
+the large vacuoles presented the typical multivesicular morphology,
+including several small vesicles within the large vacuoles (fig. 3a).
+moreover, the increased number of autophagosomes in the cyto-
+plasm of the cells was in agreement with the vesicular pattern of
+lc3 described above. we next extended our analysis to caco-2
+cells. as shown in fig. 3ad, the vacuoles in these cells also exhibited
+autophagic characteristics. these results indicate that the vcc
+vacuoles are likely formed through interaction with autophagic
+compartments.
+autophagy is required for vcc-dependent vacuolization. because
+the evidence presented here indicated that the autophagic
+pathway contributes to vcc-induced vacuolization, we tested
+the effect of autophagy inhibitors. cho cells overexpressing
+gfp-lc3 were incubated with the toxin in the presence of the
+autophagy inhibitor 3-methyladenine (3-ma). as shown in fig.
+3bb, this compound hampered not only lc3 redistribution but
+also the localization of gfp-lc3 to the generated vacuoles.
+moreover, the number of vacuoles was markedly decreased,
+indicating that autophagy is essential for the biogenesis of the
+vacuoles (fig. 3b, upper bar diagram).
+the atg5-dependent conversion of lc3 is a key step in auto-
+phagosome formation. we took advantage of atg5-deficient mouse
+embryonic fibroblasts (atg5⫺/⫺ mef) (35) to analyze the conse-
+quences in regard to vcc intoxication. as depicted in fig. 3bc,
+incubation of wild-type mef cells with 60 pm vcc leads to an
+intense vacuolization clearly labeled by lc3. in contrast, atg5⫺/⫺
+mef cells were barely vacuolated, and lc3 remained cytosolic
+(fig. 3bd). a quantitative analysis indicates that in atg5⫺/⫺ mef,
+fig. 3.
+vcc-induced vacuoles present hallmarks of autophagosomes. (a)
+vcc-generated vacuoles present characteristics of autophagosomal compart-
+ments. cho cells (aa–ac) and caco-2 cells (ad) were incubated with 60 pm vcc
+for 4 h and processed for electron microscopy. black arrows indicate vacuoles
+containing multiple membranes and partially degraded material. the white
+arrow indicates an autophagosome with double membranes. asterisks indi-
+cate larger vacuoles with degraded material not surrounded by a double
+membrane, which likely represent mature autophagic vacuoles. (scale bars: 1
+␮m.) (b) autophagy is required for vcc-dependent vacuolization. cho-lc3
+cells were treated with 60 pm vcc or with 60 pm vcc plus 10 mm 3-ma for 4 h.
+in the presence of 3-ma, the number of vacuoles was markedly diminished and
+lc3 presented a cytosolic distribution (compare ba and bb). right shows a
+quantitation of the number of vacuoles per cell at different vcc concentra-
+tions and the effect of 3-ma in cell vacuolation. mef wt (bc) and mef atg5⫺/⫺
+(bd) were incubated with 60 pm vcc for 4 h. cells were subjected to immu-
+noﬂuorescence to detect lc3. arrows indicate generated vacuoles that colo-
+calize with lc3. right shows quantitation of the number of vacuoles per cell.
+(scale bars: 10 ␮m.) data are means ⫾ sem from at least three independent
+experiments. fifty cells were counted in each experiment. **, signiﬁcantly
+different from control (p ⬍ 0.001, anova).
+the number of vacuoles was markedly reduced (fig. 3b, lower bar
+diagram). taken together, these results indicate that vcc-induced
+vacuolization is largely dependent on the autophagic pathway.
+vcc colocalizes to the membranes of the gfp-lc3-labeled vacuoles
+generated by the toxin. it has been shown that, once vcc enters the
+cell, it associates with the membranes of vesicles (27). to determine
+whether the toxin was incorporated into the lc3-positive vacuoles
+generated by vcc, cho-lc3 cells were incubated with the toxin,
+and vcc was detected by immunofluorescence. as shown in fig.
+4a, the toxin was clearly detectable in association with the vacuole
+membranes. this localization was particularly evident when vacu-
+oles became larger. remarkably, the toxin was also enclosed within
+gutierrez et al.
+pnas 兩 february 6, 2007 兩 vol. 104 兩 no. 6 兩 1831
+gfp-lc3 
+vcc
+overlay
+gfp-rab7wt
+lc3
+overlay
+gfp-
+rab7t22n
+lc3
+overlay
+rab7
+rab7+lc3
+lc3
+5l
+vcc 22.5pm-3h
+vcc 22.5pm-6h
+fig. 4.
+colocalization of vcc with lc3 and rab7 on the toxin-generated
+vacuoles. (a) vcc is present on the lc3-labeled vacuoles. cho-lc3 cells were
+incubated with 60 pm vcc for 4 h, and subsequently vcc was detected by
+immunoﬂuorescence. confocal images are depicted. arrows indicate the
+large vacuoles with both gfp-lc3 and vcc localizing in the same vacuole.
+(inset) a higher magniﬁcation of the image, depicting vacuoles with multive-
+sicular body features. (b) rab7-wt and rab7-t22n decorate the lc3-labeled
+vacuoles generated by vcc. cho cells overexpressing gfp-rab7-wt (upper) or
+gfp-rab7-t22n (lower) were treated with 60 pm vcc for 3 h, and endogenous
+lc3 was detected (red). confocal images are depicted. arrows indicate vacu-
+oles positive for both markers. (scale bars: 10 ␮m.) (c) rab7-wt and lc3
+colocalize with vcc-induced vacuoles. bars represent the number of vacuoles
+per cell showing colocalization of lc3 and/or rab7 with the vcc-generated
+vacuoles. at least 50 cells per condition were counted.
+the small vesicles labeled with lc3 that were contained inside the
+large lc3-positive vacuoles (fig. 4a inset).
+rab7 is a protein present on the membranes of autophagosomes
+that has been shown to be required for the normal progression of
+the autophagic pathway (36, 37). thus, we next addressed whether
+the lc3-positive vcc-generated vacuoles were also positive for
+rab7. for this purpose, cho cells overexpressing gfp-rab7-wt
+(36) were incubated with vcc, and the endogenous lc3 distribu-
+tion was determined. as shown in fig. 4b, upper panels, the
+majority of the vacuole membranes were labeled with the gfp
+signal. indeed, we observed a mixed population of vacuoles, some
+labeled with both lc3 and rab7, some with lc3 alone, and others
+with rab7 alone (fig. 4c). in cells overexpressing the gtpase-
+defective mutant of rab7 (gfp-rab7-q67l), this protein also
+colocalized with lc3 on the membranes of the vcc-generated
+vacuoles (data not shown). furthermore, in line with a previous
+report (27), we observed no inhibition of vacuolation when cho
+cells overexpressing a dominant-negative mutant of rab7 that does
+not bind gtp (gfp-rab7-t22n) were incubated with the toxin.
+additionally, the rab7-negative mutant was associated with the
+membranes of the vcc-generated vacuoles (fig. 4b, lower panels),
+as we described previously when autophagy was induced by amino
+acid deprivation (36).
+altogether, these results show that the toxin colocalized with
+fig. 5. autophagy is required to improve cell survival upon vcc intoxication.
+(a) autophagy inhibition increases cell death triggered by vcc. caco-2 cells
+were incubated with increasing concentrations of ﬁltered supernatants from
+vc-wt or hlya⫺ or with puriﬁed vcc in the absence (black bars) or presence of
+10 mm 3-ma (gray bars) or 20 ␮m nem (white bars) to inhibit autophagy. after
+4 h of treatment, cell viability was determined as described in material and
+methods. control bars refer to cells incubated in the presence of 10% vol/vol
+bhi. data represent the means ⫾ standard deviation of at least three inde-
+pendent experiments. asterisks indicate a statistically signiﬁcant decrease in
+survival of cells treated with vc-wt supernatant (sn) or with puriﬁed vcc in the
+presence vs. absence of 3-ma or nem treatment (p ⬍ 0.001, tukey–kramer
+multiple comparisons test). (b) atg5 is required for survival of cells intoxicated
+with vcc. mef wt (black bars) and atg5⫺/⫺ mef (white bars) cells were
+treated with vc-wt or hlya⫺ supernatants (% vol/vol) or with 120 pm puriﬁed
+vcc, as indicated. after 4 h incubation, cell viability was determined as
+indicated above. control bars refer to cells incubated in the presence of 10%
+vol/vol bhi. data represented the means ⫾ standard deviation of at least three
+individual experiments. asterisks indicate a statistically signiﬁcant decrease in
+survival of atg5⫺/⫺ mef vs. mef wt cells treated with vc-wt supernatant or
+with puriﬁed vcc (p ⬍ 0.001, tukey–kramer multiple comparisons test).
+lc3 on the vacuoles. in addition, rab7, a gtpase associated
+with autophagic compartments, also colocalized with the vcc-
+generated vacuoles.
+cell survival after treatment with vcc: the role of autophagy.
+according to the evidence presented here, the vacuoles induced
+by vcc are related to the autophagic pathway. however, a
+relevant question was: what is the role of autophagy during this
+intoxication process? one of the direct cellular consequences of
+vcc is a potent cytocidal action (22). as expected, incubation
+of cells with several dilutions of the filtered supernatants ob-
+tained from v. cholerae wild-type strain caused a decrease in cell
+viability in a concentration-dependent manner (fig. 5a). in
+contrast, incubation of cells with the v. cholerae hlya null mutant
+culture supernatant did not affect cell survival.
+on the basis of cumulative evidence indicating that autophagy
+plays a role in regulating cell survival vs. cell death, cells were
+treated with different inhibitors of autophagy. we previously
+showed that n-ethlymaleimide (nem)-sensitive proteins seem to
+be required for the initial step of autophagosome formation (38).
+upon vcc treatment, autophagy inhibition with 3-ma or nem
+produced a mild decrease in cell survival (fig. 5a). these data
+1832 兩 www.pnas.org兾cgi兾doi兾10.1073兾pnas.0601437104
+gutierrez et al.
+suggest that autophagy increases the ability of cells to survive upon
+vcc intoxication. furthermore, autophagy inhibition with 3-ma
+or nem also decreased caco-2 cell viability after incubation with
+purified vcc, thus confirming the results obtained with v. cholerae
+culture supernatants.
+to further confirm the role of autophagy in cell survival,
+wild-type and atg5⫺/⫺ mef cells were incubated with dilutions
+of the culture supernatants from both wild-type and hlya null
+mutant v. cholerae strains. as shown in fig. 5b, the lack of atg5
+dramatically decreased cell survival after treatment with v.
+cholerae wild-type culture supernatant or with purified vcc.
+taken together, these results indicate that autophagy is not
+only involved in cell vacuolation but also is required as a
+defensive response upon vcc intoxication.
+discussion
+in the last few years, knowledge of the numerous mechanisms of
+action of bacterial toxins has increased enormously (39, 40). these
+studies have contributed both to molecular definition and to the
+discovery of important pathways in mammalian cells (41, 42). the
+autophagic pathway has been found to be involved in the elimina-
+tion of certain intracellular pathogens (28–30); however, other
+microorganisms exploit autophagy to survive and replicate within
+specific intracellular compartments (43). in the present work, we
+used sterile culture supernatants from a ct-negative v. cholerae
+strain and from its isogenic hlya null mutant, as well as purified
+vcc, and identified vcc as a v. cholerae-secreted toxin that
+triggers autophagy. moreover, experimental evidence described
+here indicates that the autophagic process activated by vcc
+proceeds to completion. in this context, a clear enhancement of
+gfp-lc3-ii accumulation was detected upon cell exposure to
+vc-wt supernatant in the presence of lysosomal protease inhibitors
+(fig. 2b). additionally, the amount of cleaved free gfp increased
+progressively from 4 to 6 h after vcc intoxication. in agreement
+with this result, vcc-generated vacuoles display features of a
+degradative compartment, as measured by dq bsa, and clearly
+colocalize with cathepsin d, a lysosomal hydrolase.
+further experiments will be required in order to evaluate
+whether other toxins, absent from this v. cholerae strain, might also
+induce autophagy.
+it has been proposed that vcc-induced vacuoles originate from
+various intracellular compartments (25, 27), suggesting that other
+intracellular pathways, beyond endocytosis, might contribute to the
+biogenesis of the vacuoles. the results given here clearly indicate
+that autophagy significantly contributes to the generation of the
+vacuoles. the observation of lc3-decorated membranes in vcc-
+generated vacuoles suggests that autophagic vesicles are compart-
+ments from which vcc-induced vacuoles likely derive. this inter-
+section with autophagic compartments was confirmed at an
+ultrastructural level. interestingly, we observed small internal ves-
+icles positive for lc3 and vcc. the origin of these vesicles is likely
+explained by fusion of vcc vacuoles with double-membrane
+lc3-labeled vesicles. another possibility is that the limiting mem-
+brane of the vacuoles could be internalized by microautophagy, a
+process that consists of direct invagination of membranes and
+subsequent budding of vesicles into the vacuolar lumen (44). rab7
+is a rab protein present on autophagic structures that is also
+associated with the vcc-generated vacuoles (see ref. 27 and this
+article). however, overexpression of rab7t22n did not block
+vacuolization (ref. 27 and this article). this observation is likely due
+to the fact that rab7t22n impairs the final stages of autophagy but
+not autophagosome formation. indeed, we have shown that this
+mutant causes autophagic vacuole accumulation (36).
+autophagy has been suggested to be an evolutionary conserved
+and self-limiting survival strategy (45). this pathway preserves cell
+viability in several systems, but it has been also linked to self-
+destruction (46). results presented here with a bacterial toxin
+provide insights supporting the role of autophagy as a cell survival
+mechanism. moreover, we present evidence that autophagy is a
+cellular response to a secreted pore-forming bacterial toxin such as
+vcc from v. cholerae. it is important to mention that the rela-
+tionship between autophagy and toxins has been suggested before.
+sandvig and van deurs (47) reported that inhibitors of autophagy
+protect cells against ricin-induced lysis, suggesting that autophagy
+was required for cell lysis to occur. in contrast, we found that rather
+than being detrimental, the autophagic pathway is required in order
+to improve the survival of cells upon vcc intoxication. these
+differences could depend on the ability of each toxin to differen-
+tially modulate the autophagic pathway, thus determining the final
+outcome of cell viability. in the case of legionella, a bacterial
+protein(s) is also able to induce autophagy, although the nature of
+the factor has not yet been identified (31).
+an important observation is that autophagy induced by vcc
+is required for the survival of the cells, because when this
+pathway is inhibited cell death proceeds more rapidly. these
+observations are supported by two facts: (i) inhibition of auto-
+phagy with 3-ma, a well known inhibitor of autophagy, or with
+nem, a compound also able to inhibit autophagosome forma-
+tion (38), decreased cell survival; and (ii) cells unable to undergo
+autophagy, such as the atg5⫺/⫺ mef, were highly sensitive to
+cell death upon vcc treatment. in a possible scenario, we
+suggest that epithelial cells respond to a low dose of the toxin
+with autophagy as a default protective pathway. whether this
+phenomenon is a response of the cell itself, or is directly induced
+by the toxin, is yet to be determined. the response that causes
+massive vacuolization is likely related to the first attempt of the
+cells to survive. this hypothesis is in agreement with the
+observations that at low concentrations the toxin produces
+vacuolization, whereas higher concentrations lead to cell lysis
+(25, 27).
+the discovery of a relationship between autophagy and cell
+damage induced by vcc is important for two main reasons.
+first, it aids in uncovering the exquisite molecular mechanisms
+that participate in the development of v. cholerae infection, and
+second,
+it is useful as a tool for investigating the role of
+autophagy as a cell survival response. in the context of bacterial
+pathogenesis, it is essential to determine whether autophagy is a
+protective intracellular pathway induced by other bacterial tox-
+ins as part of a more general mechanism.
+materials and methods
+bacterial strains, supernatant preparation, and vcc purification. a
+non-o1/non-o139 v. cholerae strain (vc-wt) isolated from a patient
+suffering from a cholera-like syndrome was used for this study. the
+strain was positive for the hlya and toxr genes and negative for ctxa,
+zot, ace, tcpa, and stn genes, as determined by pcr analysis (48).
+an isogenic hlya null mutant of this strain (vc-hlya⫺) was obtained
+by insertional mutagenesis as described in ref. 49. tn10-insertion
+into the hlya gene was confirmed by pcr and dna sequencing (si
+fig. 6). to obtain the sterile culture supernatants, vc-wt and
+vc-hlya⫺ were inoculated into brain–heart infusion broth (bhi)
+and incubated at 37°c for 16 h with shaking (120 rpm). these
+cultures were then centrifuged at 17,000 ⫻ g for 10 min at 4°c; the
+supernatants were sterilized through 0.22-␮m low protein binding
+filters (millipore, billerica, ma) and kept on ice until use. purified
+vcc was obtained as described in ref. 50.
+cell culture. mef, atg5⫺/⫺ mef, and c2bbe1 cells were cultured
+by using dmem supplemented with 10% vol/vol fbs, caco-2 cells
+were cultured in dmem supplemented with 20% fbs, and cho
+cells were grown in mem (␣-mem) supplemented with 10% fbs.
+stably transfected cho cells overexpressing gfp fusion proteins
+were supplemented with 0.2 mg/ml geneticin.
+indirect immunofluorescence. cells were grown on coverslips and
+incubated with purified vcc or with dilutions of the culture
+gutierrez et al.
+pnas 兩 february 6, 2007 兩 vol. 104 兩 no. 6 兩 1833
+supernatants from v. cholerae. cells were fixed with 3% parafor-
+maldehyde in pbs for 10 min at room temperature, washed with the
+buffer, and blocked with 50 mm nh4cl in pbs. subsequently, cells
+were permeabilized with 0.05% saponin in pbs containing 0.2%
+bsa and then incubated with primary antibodies. a rabbit poly-
+clonal anti-vcc (51) (dilution 1:50) or a mouse polyclonal affinity-
+purified anti-lc3 (dilution 1:50) were used. antibodies against lc3
+were raised in mice and purified by affinity chromatography from
+ascitic liquid. bound antibodies were detected by incubation with
+cy3- or alexa 488-conjugated secondary antibodies (1:800 and
+1:400, respectively) (molecular probes, eugene, or). cells were
+mounted with mowiol and examined by confocal fluorescence
+microscopy. images were obtained with a nikon c1 confocal
+microscope system and ez-c1 software (nikon, tokyo, japan).
+images were processed by using adobe 7.0 (adobe systems, san
+jose, ca).
+transmission electron microscopy. purified vcc was added to cells
+and, after 4 h of treatment, cells were fixed with 1% glutaral-
+dehyde in 0.1 m cacodylate buffer (ph 7). monolayers were
+scraped, postfixed in 2% osmium tetroxide in 100 mm cacodylate
+buffer, dehydrated with increasing concentrations of ethanol,
+and gradually infiltrated with epon resin (pelco, redding, ca).
+thin sections were stained with uranyl acetate and lead citrate
+and examined using a zeiss (thornwood, ny) em 900 trans-
+mission electron microscope.
+quantification of cell viability. cell viability was determined with
+the celltiter aqueous nonradioactive cell proliferation assay (pro-
+mega, madison, wi). this method allows the colorimetric deter-
+mination of viable cells in cytotoxicity and also in proliferation
+assays. its principle is based on detection of the bioreduction of the
+tetrazolium compound into a formazan product in the presence of
+an electron coupling reagent (phenazine methosulfate). because
+this reaction is mediated by dehydrogenase enzymes found in
+metabolically active cells, the quantity of formazan produced is
+directly proportional to the number of living cells in culture. cell
+viability assays were performed in accordance with the manufac-
+turer’s instructions (technical bulletin 169; promega). briefly,
+2.5 ⫻ 104 cells were seeded into 96-well culture plates and incubated
+for 24 h. for autophagy blockade, cells were incubated with 10 mm
+3-ma or 20 ␮m nem for 1 h before the addition of sterile culture
+supernatants or purified vcc. after 4 h of treatment, absorbance
+at 490 nm was determined with a bio-rad (hercules, ca) micro-
+plate reader.
+western blot analysis. detection of forms i and ii of the gfp-lc3
+protein by western blotting was performed essentially as described
+in ref. 12. briefly, cho-lc3 cells were cultured to ⬇80% of
+confluence and treated with filter-sterilized culture supernatants
+from vc-wt or vc-hlya⫺ (1:100 dilution), with purified vcc (60
+pm), with noninoculated bhi (1:100 dilution), or were left un-
+treated. for inhibition of lysosomal protease enzymes, e64d and
+pepstatin a (sigma-aldrich, st. louis, mo) (10 ␮g/ml each) were
+added to cell monolayers 2 h before treatment. after the indicated
+times, cells were washed in cold pbs, scraped, and lysed. for
+western blot analysis, 50 ␮g of protein extracts were subjected to
+electrophoresis in 10% sds/page gels, transferred to a nitrocel-
+lulose membrane, and blocked with tbs 1⫻ supplemented with
+0.1% tween 20/5% nonfat dry milk. the nitrocellulose membrane
+was incubated for 2 h with a rabbit polyclonal anti-gfp antibody
+(abcam, cambridge, ma) at a 1:2,000 dilution, washed, and
+incubated with a secondary hrp-conjugated anti-rabbit antibody
+(ge healthcare, bucks, u.k.) at a 1:10,000 dilution. after en-
+hanced chemoluminescence reaction (supersignal west pico sys-
+tem; pierce, rockford, il), the bands were visualized upon expo-
+sition of nitrocellulose membrane to a ecl-hyperfilm (ge
+healthcare).
+we thank dr. noboru mizushima (tokyo metropolitan institute of
+medical science, tokyo, japan) for providing the atg5⫺/⫺ cells, dr. luis
+mayorga for critical reading of this manuscript, dr. luis patrito for
+continuous encouragement and support, and marcelo furla´n and ale-
+jandra medero for technical assistance. this work was supported in part
+by agencia nacional de promocio´n cientı´fica y tecnolo´gica grants
+pict2002 no. 01-11004 (to m.i.c.) and pict2003 no. 05-13446 (to
+j.l.b.) and by grants from secretarı´a de ciencia y tecnologı´a (univer-
+sidad nacional de cuyo and universidad juan agustı´n maza) (to m.i.c.)
+and from secretarı´a de ciencia y tecnologı´a (universidad nacional de
+co´rdoba) (to j.l.b.). m.g.g., h.a.s., and f.c.m.z. are conicet
+fellows. m.i.c. and j.l.b. are career investigator members of
+conicet.
+1. klionsky dj, emr sd (2000) science 290:1717–1721.
+2. reggiori f, klionsky dj (2005) curr opin cell biol 17:415–422.
+3. levine b, yuan j (2005) j clin invest 115:2679–2688.
+4. levine b, klionsky dj (2004) dev cell 6:463–477.
+5. kuma a, hatano m, matsui m, yamamoto a, nakaya h, yoshimori t, ohsumi y, tokuhisa
+t, mizushima n (2004) nature 432:1032–1036.
+6. shintani t, klionsky dj (2004) science 306:990–995.
+7. seglen po, berg to, blankson h, fengsrud m, holen i, stromhaug pe (1996) adv exp med
+biol 389:103–111.
+8. mizushima n, ohsumi y, yoshimori t (2002) cell struct funct 27:421–429.
+9. reggiori f, klionsky dj (2005) curr opin cell biol 17:415–422.
+10. ohsumi y (2001) nat rev mol cell biol 2:211–216.
+11. mizushima n, yamamoto a, hatano m, kobayashi y, kabeya y, suzuki k, tokuhisa t,
+ohsumi y, yoshimori t (2001) j cell biol 152:657–668.
+26. pichel m, rivas m, chinen i, martin f, ibarra c, binsztein n (2003) j clin microbiol 41:124–134.
+27. moschioni m, tombola f, de bernard m, coelho a, zitzer a, zoratti m, montecucco c
+28. ogawa m, yoshimori t, suzuki t, sagara h, mizushima n, sasakawa c (2005) science
+(2002) cell microbiol 4:397–409.
+307:727–731.
+29. gutierrez mg, master ss, singh sb, taylor ga, colombo mi, deretic v (2004) cell 119:753–766.
+30. nakagawa i, amano a, mizushima n, yamamoto a, yamaguchi h, kamimoto t, nara a,
+funao j, nakata m, tsuda k, et al. (2004) science 306:1037–1040.
+31. amer ao, swanson ms (2005) cell microbiol 7:765–778.
+32. gutierrez mg, vazquez cl, munafo db, zoppino fc, beron w, rabinovitch m, colombo
+mi (2005) cell microbiol 7:981–993.
+33. tanida i, minematsu-ikeguchi n, ueno t, kominami e (2005) autophagy 1:84–91.
+34. hosokawa n, hara y, mizushima n (2006) febs lett 580:2623–2629.
+35. mizushima n, yamamoto a, hatano m, kobayashi y, kabeya y, suzuki k, tokuhisa t,
+12. kabeya y, mizushima n, ueno t, yamamoto a, kirisako t, noda t, kominami e, ohsumi
+ohsumi y, yoshimori t (2001) j cell biol 152:657–668.
+y, yoshimori t (2000) embo j 19:5720–5728.
+13. kaper jb, morris jg, jr, levine mm (1995) clin microbiol rev 8:48–86.
+14. faruque sm, albert mj, mekalanos jj (1998) microbiol mol biol rev 62:1301–1314.
+15. karaolis dk, johnson ja, bailey cc, boedeker ec, kaper jb, reeves pr (1998) proc natl
+acad sci usa 95:3134–3139.
+16. fullner kj, boucher jc, hanes ma, haines gk, iii, meehan bm, walchle c, sansonetti
+pj, mekalanos jj (2002) j exp med 195:1455–1462.
+17. silva tm, schleupner ma, tacket co, steiner ts, kaper jb, edelman r, guerrant r
+(1996) infect immun 64:2362–2364.
+18. honda t, finkelstein ra (1979) infect immun 26:1020–1027.
+19. yamamoto k, al omani m, honda t, takeda y, miwatani t (1984) infect immun
+45:192–196.
+36. gutierrez mg, munafo db, beron w, colombo mi (2004) j cell sci 117:2687–2697.
+37. jager s, bucci c, tanida i, ueno t, kominami e, saftig p, eskelinen el (2004) j cell sci
+117:4837–4848.
+38. munafo db, colombo mi (2001) j cell sci 114:3619–3629.
+39. schiavo g, van der goot fg (2001) nat rev mol cell biol 2:530–537.
+40. sandvig k, spilsberg b, lauvrak su, torgersen ml, iversen tg, van deurs b (2004) int
+j med microbiol 293:483–490.
+41. sandvig k, van deurs b (2002) febs lett 529:49–53.
+42. sandvig k, van deurs b (2002) annu rev cell dev biol 18:1–24.
+43. kirkegaard k, taylor mp, jackson wt (2004) nat rev microbiol 2:301–314.
+44. kunz jb, schwarz h, mayer a (2004) j biol chem 279:9987–9996.
+45. lum jj, bauer de, kong m, harris mh, li c, lindsten t, thompson cb (2005) cell
+20. heidelberg jf, eisen ja, nelson wc, clayton ra, gwinn ml, dodson rj, haft dh,
+120:237–248.
+hickey ek, peterson jd, umayam l, et al. (2000) nature 406:477–483.
+21. alm ra, mayrhofer g, kotlarski i, manning pa (1991) vaccine 9:588–594.
+22. zitzer a, wassenaar tm, walev i, bhakdi s (1997) infect immun 65:1293–1298.
+23. coelho a, andrade jr, vicente ac, dirita vj (2000) infect immun 68:1700–1705.
+24. mitra r, figueroa p, mukhopadhyay ak, shimada t, takeda y, berg de, nair gb (2000)
+infect immun 68:1928–1933.
+46. levine b, yuan j (2005) j clin invest 115:2679–2688.
+47. sandvig k, van deurs b (1992) exp cell res 200:253–262.
+48. bidinost c, saka ha, aliendro o, sola c, panzetta-duttari g, carranza p, echenique j,
+patrito e, bocco jl (2004) rev argent microbiol 36:158–163.
+49. herrero m, de lorenzo v, timmis kn (1990) j bacteriol 172:6557–6567.
+50. yamamoto k, al omani m, honda t, takeda y, miwatani t (1984) infect immun
+25. figueroa-arredondo p, heuser je, akopyants ns, morisaki jh, giono-cerezo s, enriquez-
+45:192–196.
+rincon f, berg de (2001) infect immun 69:1613–1624.
+51. chinen i, toma c, honma y, higa n, iwanaga m (1996) jpn j trop med hyg 24:151–155.
+1834 兩 www.pnas.org兾cgi兾doi兾10.1073兾pnas.0601437104
+gutierrez et al.

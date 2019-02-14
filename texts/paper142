@@ -1,0 +1,1233 @@
+the journal of biological chemistry vol. 281, no. 44, pp. 33635–33649, november 3, 2006
+© 2006 by the american society for biochemistry and molecular biology, inc. printed in the u.s.a.
+sitosterol-containing lipoproteins trigger free sterol-induced
+caspase-independent death in acat-competent macrophages*
+received for publication, july 3, 2006, and in revised form, august 16, 2006 published, jbc papers in press, august 24, 2006, doi 10.1074/jbc.m606339200
+liping bao‡, yankun li‡, shi-xian deng‡, donald landry‡, and ira tabas‡§¶1
+from the departments of ‡medicine, §pathology & cell biology, and ¶physiology & cellular biophysics, columbia university,
+new york, new york 10032
+sitosterolemia is a disease characterized by very high levels of
+sitosterol and other plant sterols and premature atherothrom-
+botic vascular disease. one theory holds that plant sterols can
+directly promote atherosclerosis, but the mechanism is not
+known. unesterified, or “free,” cholesterol (fc) is a potent
+inducer of macrophage death, which causes plaque necrosis, a
+precursor to atherothrombosis. fc-induced macrophage death,
+however, requires dysfunction of the sterol esterifying enzyme
+acyl-coenzyme a-cholesterol acyltransferase (acat), which
+likely occurs slowly during lesion progression. in contrast, plant
+sterols are relatively poorly esterified by acat, and so they may
+cause macrophage death and plaque necrosis in an accelerated
+manner. in support of this hypothesis, we show here that mac-
+rophages incubated with sitosterol-containing lipoproteins
+accumulate free sterols and undergo death in the absence of an
+acat inhibitor. as with fc loading, sitosterol-induced macro-
+phage death requires sterol trafficking to the endoplasmic retic-
+ulum, and sitosterol-enriched endoplasmic reticulum mem-
+branes show evidence of membrane protein dysfunction.
+however, whereas fc induces caspase-dependent apoptosis
+through activation of the unfolded protein response and jnk,
+sitosterol-induced death is caspase-independent and involves
+neither the unfolded protein response nor jnk. rather, cell
+death shows signs of necroptosis and autophagy and is sup-
+pressed by inhibitors of both processes. these data establish two
+new concepts. first, a relatively subtle change in sterol structure
+fundamentallyaltersthetypeofdeathprogramtriggeredinmac-
+rophages. understanding the basis of this alteration should pro-
+vide new insights into the molecular basis of death pathway sig-
+naling. second, sitosterol-induced macrophage death does not
+require acat dysfunction and so may occur in an accelerated
+fashion.pendingfutureinvivostudies,thisconceptmayprovide
+at least one mechanism for accelerated plaque necrosis and
+atherothrombotic disease in patients with sitosterolemia.
+plant sterols are abundant in human diets and are absorbed
+with cholesterol by intestinal epithelial enterocytes in a process
+involving the sterol transporter niemann-pick c1-like protein
+1 (1). however, in most humans, plasma levels of intestinally
+derived plant sterols are much lower than those of intestinally
+derived cholesterol. the mechanism involves selective efflux of
+plant sterols into the intestinal lumen by the abc2 transporters
+abcg5 and abcg8 (1). mutations in these abc transporters
+give rise to a condition called sitosterolemia, in which plasma
+levels of plant sterols reach very high levels (2–4). of great
+interest, patients with sitosterolemia have been observed to
+develop premature and severe coronary artery atherothrom-
+botic disease (5–9).
+the mechanism of accelerated coronary artery disease in
+sitosterolemic patients is unknown. one theory holds that
+these subjects have increased traditional atherosclerosis risk
+factors, such as elevated ldl cholesterol (10), but the correla-
+tion between high ldl and coronary events in sitosterolemia is
+not consistent (4). another theory suggests that sitosterol and
+possibly other plant sterols have direct, pro-atherogenic effects
+in the arterial wall (11, 12). in support of this theory, plant sterol
+levels are found in atherosclerotic lesions or xanthomas of sub-
+jects with elevated plasma sitosterol levels (13–15). however,
+no clear mechanism of how lesional sitosterol might promote
+atherothrombosis, the cause of coronary artery disease, has
+been elucidated.
+atherothrombotic vascular disease occurs in two major
+stages. in the first stage, which evolves over years, atherogenic
+lipoproteins are internalized by arterial wall macrophages,
+leading to massive cholesteryl ester accumulation (foam cells)
+(16–18). the process involves transport of lipoprotein-derived
+cholesterol to the endoplasmic reticulum (er), where it is ester-
+ified by acyl-coa:cholesterol acyltransferase (acat) (19, 20).
+early foam cell lesions are non-occlusive and are therefore
+largely asymptomatic (21, 22). in the second stage, macro-
+phage-rich plaques rupture or erode, which exposes circulating
+platelets to thrombogenic material in the lesions (21–23). this
+process leads within minutes to acute arterial occlusion and
+tissue infarction.
+a key event in plaque disruption is macrophage death, lead-
+ing to generation of the necrotic or lipid core (24, 25). necrotic
+* this work was supported by national institutes of health grants hl75662
+and hl081181 and a grant from the merck/schering-plough investigator-
+initiated studies program (to i. t.). the costs of publication of this article
+were defrayed in part by the payment of page charges. this article must
+therefore be hereby marked “advertisement” in accordance with 18 u.s.c.
+section 1734 solely to indicate this fact.
+1 to whom correspondence should be addressed: dept. of medicine, colum-
+bia university, 630 west 168th st., new york, ny 10032. tel.: 212-305-9430;
+fax: 212-305-4834; e-mail: iat1@columbia.edu.
+2 the abbreviations used are: abc, atp-binding cassette; acat, acyl-coa:cho-
+lesterol acyltransferase; er, endoplasmic reticulum; fc, free cholesterol;
+ldl, low density lipoprotein; nec-1, necrostatin-1; racl-co/so, acetyl-ldl
+reconstituted with cholesteryl oleate or sitosteryl oleate; serca, sarcoplas-
+mic-endoplasmic reticulum calcium atpase; tunel, transferase-mediated
+dutp nick-end labeling; upr, unfolded protein response; jnk, c-jun nh2-
+terminal kinase; z, benzyloxycarbonyl; fmk, fluoromethyl ketone; tricine,
+n-[2-hydroxy-1,1-bis(hydroxymethyl)ethyl]glycine; mops,
+4-morpho-
+linepropanesulfonic acid; eif, eukaryotic initiation factor.
+november 3, 2006 • volume 281 • number 44
+journal of biological chemistry 33635
+sitosterol-induced macrophage death
+cores are thought to promote plaque disruption through release
+of proteases,
+inflammatory cytokines, and pro-coagulant/
+thrombotic molecules as well as through imparting physical
+stress on the arterial wall (23, 25–29). because late lesional mac-
+rophages accumulate large amounts unesterified, or “free,”
+cholesterol (fc), which is cytotoxic, one proposed inducer of
+late lesional macrophage death is fc loading (20, 23, 30–40).
+although the mechanism of fc accumulation is uncertain, we
+have in vivo evidence that events centered on the er are
+involved (37, 38). the most likely explanation is that a combi-
+nation of defective cholesterol esterification by acat and
+defective cholesterol efflux are involved. however, the actual
+extent of acat dysfunction or fc-induced macrophage apo-
+ptosis in lesions is not known.
+if indeed late lesional macrophages acquire a defect in
+acat-mediated esterification, this process would likely occur
+gradually over a long period of time. however, plant sterols,
+including sitosterol, are incompletely esterified by macrophage
+acat (acat1), which may be due to a partial deficiency in
+their ability to activate the enzyme (41–44). thus, if sitosterol-
+containing lipoproteins were internalized by macrophages, the
+accumulation of potentially cytotoxic free sterol might occur
+much earlier in the course of atherosclerosis progression. this
+mechanism could provide at least one explanation for the accel-
+erated atherothrombosis in sitosterolemia.
+to begin to test this concept, we have conducted a study to
+determine whether lipoprotein-derived sitosterol is cytotoxic
+in macrophages in the absence of an acat inhibitor (“acat-
+competent” macrophages). our data show that such lipopro-
+teinsarerobustinducersofcelldeathinacat-competentmac-
+rophages and that the mechanism is fundamentally different
+from that caused by free cholesterol. whereas fc triggers
+caspase-dependent apoptosis through activation of a pro-apo-
+ptotic branch of the er stress pathway known as the unfolded
+protein response (upr) (37, 38), sitosterol-induced death
+involves neither caspases nor the upr but rather has properties
+in common with a death process recently described as “necrop-
+tosis” (45). these findings not only suggest a possible mecha-
+nism of plant sterol-induced atherothrombotic disease but also
+reveal how a subtle change in sterol structure can have a dra-
+matic effect on cell death pathways.
+experimental procedures
+materials—cell culture media and reagents were from
+invitrogen. hplc grade organic solvents were from fisher
+scientific. ldl (d 1.020–1.063 g/ml) was isolated from fresh
+human plasma by preparative ultracentrifugation as previ-
+ously described (46). acetyl-ldl was prepared by reaction
+of ldl with acetic anhydride (47). sitosterol and cholesteryl
+oleate, 3-methyladenine, and pepstatin a were from sigma.
+compound 58035 (3-[decyldimethylsilyl]-n-(2-(4-methyl-
+phenyl)-1-phenylethyl)propanamide), an inhibitor of acat,
+was generously provided by dr. john heider, formerly of san-
+doz, inc. (east hanover, nj) (48). a stock solution of 10 mg/ml
+was prepared in dimethyl sulfoxide and stored at ⫺20 °c.
+u18666a (3-␤-[2-diethylaminoethoxy]androst-5-en-17-one
+hydrochloride) and necrostatin-1 (methylthiohydantoin-dl-
+tryptophan) were from biomol research laboratories, inc.
+(plymouth meeting, pa). sp600125 (anthra[1,9-cd]pyrazol-
+6(2h)-one) was from biosource international,
+inc., and
+z-devd-fmk was from r&d systems, inc. antibodies against
+p38, phospho-p38, phospho-eif-2␣, cleaved caspase-3, and
+cleaved caspase-9 were from cell signaling technology. anti-
+bodies against chop (gadd153), ␤-actin, rabbit anti-fasl
+igg (c-178), and non-immune rabbit igg were from santa
+cruz biotechnologies, inc. anti-xbp-1 antibody was a gift from
+dr. david ron (new york university), and anti-lc3 antibody
+was kindly provided by dr. takahiro kamimoto (national
+institute of genetics, mishima, japan).
+mice—female mice, 8–10 weeks of age, were used in this
+study. c57bl6/j mice were from jackson laboratories.
+chop⫺/⫺ mice on the c57bl/6 background were from drs.
+david ron (new york university) and robert burke (columbia
+university). macrophage-specific p38-deficient mice on the
+c57bl/6 background were created as previously described (49).
+eliciting, culturing, and incubations of mouse peritoneal
+macrophage—peritoneal macrophages were elicited by intrap-
+eritoneal injection of methyl-bovine serum albumin in mice
+previously immunized with this antigen (50, 51). the cells were
+cultured in dulbecco’s modified eagle’s medium supplemented
+with 10% heat-inactivated fetal bovine serum, 100 units/ml
+penicillin/streptomycin, and 20% l-cell-conditioned medium
+for 24–48 h to reach confluence.
+synthesis of sitosteryl oleate—sitosterol (100 mg, 0.24
+mmol) was dissolved in benzene (10 ml). to this solution,
+oleic anhydride (158 mg, 0.29 mmol) and 4-(dimeth-
+ylamino)pyridine (5 mg, catalytic amount) were added. the
+reaction mixture was stirred overnight in the dark at room tem-
+perature and then washed twice with 5 ml of 1 n hcl and three
+times with 5 ml of saturated nahco3 solution. the organic
+phase was dried with anhydrous na2so4 and filtered. the sol-
+vent was removed by evaporation under reduced pressure to
+provide crude product. purification of the crude product by
+silica gel chromatography (petroleum ether/ch2cl2, 10:1) gave
+sitosteryl oleate as a sticky oil in 95% yield. the structure of the
+product was confirmed by nmr.
+reconstitution of acetyl-ldl—acetyl-ldl was reconsti-
+tuted with defined neutral lipids as described (52). briefly, 1.9
+mg of acetyl-ldl and 25 mg of potato starch were frozen and
+lyophilized in a 15-ml glass tube. the endogenous core lipids
+were then extracted three times with 5 ml of heptane, and then
+6 mg of the indicated steryl oleate (dissolved in 200 ␮l of hep-
+tane) were added to the tube. this mixture was then dried, and
+the sample was resuspended in 1 ml of 10 mm tricine (ph 8.4).
+this suspension was incubated for 10–24 h. the solubilized
+reconstituted lipoprotein was separated from the bulk of the
+starch and excess lipid by low-speed centrifugation (2,000 ⫻ g).
+the specimen was further clarified by two additional centrifu-
+gations at 10,000 ⫻ g for 10 min and stored under argon at 4 °c.
+aliquots were assayed for protein concentration by the method
+of lowry et al. (53).
+lipid mass analysis—cell monolayers were extracted twice
+with hexane/isopropyl alcohol (3:2, v/v), and the lipid extracts
+were assayed for free and total sterol mass by gas-liquid chro-
+matography as described (54). 5␣-cholestane served as an
+internal standard to correct for losses during the extraction
+33636 journal of biological chemistry
+volume 281 • number 44 • november 3, 2006
+procedure. the cell monolayers remaining after lipid extraction
+were dissolved in 0.1 n naoh, and aliquots were assayed for
+protein concentration by the method of lowry (53).
+measurements of ca2⫹-dependent atpase activity—sarco-
+plasmic-endoplasmic reticulum calcium-dependent atpase
+(serca) activity in control or sterol-enriched microsomal
+membranes was measured as previously described (55). briefly,
+100 ␮g of microsomal membranes isolated from wild type or
+serca2b-overexpressing hek293 cells were incubated with
+various amounts of sterols in complex with methyl-␤-cyclodex-
+trin at 25 °c for 30 min. the microsomes were recovered by
+centrifugation, and serca atpase activity was measured
+using an enzyme-coupled spectrophotometric assay in which
+hydrolysis of atp is coupled to the oxidation of nadh (55).
+the depletion of nadh was then detected by a decrease in
+absorption at 340 nm using a spectra max 190 fluorospectrom-
+eter (molecular devices) maintained at 30 °c. the assay buffer
+contained 120 mm kcl, 2 mm mgcl2, 1 mm atp, 1.5 mm phos-
+phoenolpyruvate, 1 mm dithiothreitol, 0.45 mm cacl2, 0.5 mm
+egta, 25 mm mops/koh, 0.32 mm nadh, 5 units/ml pyru-
+vate kinase, 10 units/ml lactate dehydrogenase, and 2 ␮m of the
+calcium ionophore a23187. the ph was adjusted to 7.0 with
+koh before addition of the enzymes, and the free ca2⫹ con-
+centration in the solution was determined to be ⬃3 ␮m. the
+reaction was started by adding 10 ␮g of the membranes to 200
+␮l of the assay buffer in wells of a 96-well uv-visible transpar-
+ent bottom plate, followed by rapid mixing. the absorption at
+340 nm was recorded at 30-s intervals for 30 min using the
+softmax pro 3.0 program.
+annexin v-propidium iodide staining—annexin v staining
+was performed using the vybrant apoptosis assay kit 2
+(molecular probes). at the end of incubation, cells were gently
+washed twice with phosphate-buffered saline, and then incu-
+bated in 100 ␮l of annexin-binding buffer (25 mm hepes, 140
+mm nacl, 1 mm edta, ph 7.4, 0.1% bovine serum albumin)
+containing 5 ␮l of alexa fluor 488 annexin v, and 1 ␮l of 100
+␮g/ml propidium iodide for 15 min at room temperature. cells
+were immediately viewed using an olympus ix-70 inverted flu-
+orescence microscope equipped with filters appropriate for flu-
+orescein and rhodamine. for quantification, three fields of cells
+for each condition (⬃1500 cells) were counted.
+sitosterol-induced macrophage death
+figure 1. macrophages incubated with racldl-sitosteryl oleate in the
+absence of an acat inhibitor accumulate large amounts of free sitoste-
+rol. macrophages were incubated for 15 h with medium alone (control) or
+with medium containing 10 ␮g/ml 58035 (acat inhibitor), 100 ␮g/ml
+racldl-cholesteryl oleate (racl-co) ⫾ 58035, or 100 ␮g/ml racldl-sitosteryl
+oleate (racl-so) ⫾ 58035. then cells were then rinsed,
+incubated with
+medium alone for 30 min, and rinsed again. cellular lipids were extracted and
+assayed for free cholesterol and free sitosterol, and the lipid-extracted cell
+residues were assayed for protein. the data are displayed as micrograms of
+free cholesterol (solid bars) or sitosterol (gray bars) per ␮g of cell protein.
+annexin assay. apoptosis is defined as those cells that stain with
+the fluorescein-labeled anti-digoxigenin-dntp antibody.
+mitotracker red staining—macrophages on coverslips were
+incubated in media containing 300 nm mitotracker red
+(molecular probes) for 30 min at 37 °c. the cells were washed
+three times with phosphate-buffered saline, fixed with 2%
+paraformaldehyde for 15 min at room temperature, and viewed
+by fluorescence microscopy. the fluorescent images were col-
+lected using a zeiss lsm 510 confocal microscope.
+immunoblotting—whole cell
+lysates were prepared by
+homogenizing the cells into 1⫻ sample loading buffer from
+bio-rad. nuclear extracts were prepared using the nuclear
+extraction kit from panomics, inc. cell extracts were electro-
+phoresed on 4–20% gradient sds-page gels and transferred
+to 0.45-␮m nitrocellulose membranes. for caspase-3 and
+caspase-9 immunoblots, 15 and 12.5% sds-page gels and
+0.2-␮m nitrocellulose membranes were used. the membrane
+was blocked in tris-buffered saline, 0.1% tween 20 (tbst)
+containing 5% (w/v) nonfat milk at room temperature for 1 h,
+then incubated with the primary antibody in tbst containing
+5% (w/v) nonfat milk or 5% bovine serum albumin at 4 °c over-
+night, followed by incubation with the appropriate secondary
+antibody coupled to horseradish peroxidase. proteins were
+detected by ecl chemiluminescence (pierce).
+statistics—data are presented as mean ⫾ s.e. of triplicate
+experiments unless stated otherwise. absent error bars in
+the bar graphs signify s.e. values smaller than the graphic
+symbols.
+hoechst staining—cells were washed with phosphate-buff-
+ered saline 3 times, incubated with 100 ng/ml hoechst 33258
+for 30 min at room temperature, and then washed with phos-
+phate-buffered saline. cells were viewed by fluorescence
+microscopy using a uv filter.
+tunel assay—macrophages were fixed with 1% paraform-
+aldehyde in phosphate-buffered saline (ph 7.4) for 10 min at
+room temperature, and then post-fixed in pre-cooled ethanol/
+acetic acid (2:1) for 5 min at ⫺20 °c. the cells were then stained
+using apoptag fluorescein in situ apoptosis detection kit
+(chemicon international). in this assay, the incorporated
+dntp is modified by digoxigenin, which in turn is recognized
+by a fluorescein-labeled antibody. a propidium iodide counter-
+stain, which is taken up by fixed cells, was used to stain all of the
+cells on the dish. the fluorescence microscopy and quantifica-
+tion procedures were similar to that described above for the
+november 3, 2006 • volume 281 • number 44
+journal of biological chemistry 33637
+sitasteroi-induced macrophage death
+control 58035
+racl-co + 58035
+33638
+racl-co
+racl-co + 58035
+w vollme 281 ~numbe7 /-/-~november 3, 2006
+racl-so
+racl-co 4* 58035
+mm} pspuowmou
+gm; ‘9 qmw no 3331103 unoj umﬂmg m
+results
+incubation of macrophages with sitosteryl ester-containing
+lipoproteins leads to free sitosterol accumulation in the
+absence of an acat inhibitor—when lipoprotein-cholesterol
+is delivered to macrophages, the cholesterol is efficiently ester-
+ified by the er enzyme acat, thus preventing fc accumula-
+tion and fc-induced macrophage death (20, 56, 57). thus,
+lipoprotein-cholesterol accumulation induces death only when
+acat-mediated esterification is inhibited in vitro or becomes
+dysfunctional in vivo, which we propose occurs in a gradual
+manner during the course of advanced atherosclerosis (20).
+previous work from our group and others has shown that a
+number of plant sterols, including sitosterol, is less efficiently
+esterified by acat than cholesterol (41–44). if so, free sitoste-
+rol
+levels should accumulate in macrophages even in the
+absence of an acat inhibitor. to test this idea using a physi-
+ologic delivery system, we synthesized the oleate ester of sito-
+sterol and packaged it in reconstituted acetyl-ldl lipoprotein
+particles (racl-so). we then compared free sterol accumula-
+tion in control and acat-inhibited macrophages incubated
+with these particles, as well as acetyl-ldl reconstituted with
+cholesteryl oleate (racl-co). as expected, excess fc accumu-
+lated only when racl-co was incubated with acat-inhibited
+macrophages (fig. 1, first four bars). in striking contrast, free
+sitosterolaccumulatedwhenracl-sowasincubatedwithmac-
+rophages in the absence of an acat inhibitor (fig. 1, last two
+bars). as predicted from the recent findings of rudel and col-
+leagues (44) that acat1, the predominant form of acat in
+macrophages, shows partial activity with sitosterol, some sito-
+sterol esterification did occur in the macrophages without the
+acat inhibitor (data not shown). however, the proportion of
+sitosterol esterified by acat was substantially less than that of
+cholesterol: 42.8% sitosterol esterified versus 71.6% cholesterol
+esterified at similar levels of cellular sterol loading. thus, mac-
+rophages accumulate large amounts of free sitosterol when
+exposed to sitosterol-containing lipoproteins even in the
+absence of an acat inhibitor.
+sitosterol-containing lipoproteins are potent inducers of cell
+death in acat-competent macrophages—the data in fig. 1,
+previous work demonstrating the cytotoxicity of free choles-
+terol, and the structural similarity between sitosterol and cho-
+lesterol provide the basis for our hypothesis that sitosterol-con-
+taining lipoproteins would be potent inducers of macrophage
+death even in the absence of an acat inhibitor. to directly test
+this hypothesis, macrophages were incubated with the afore-
+mentioned reconstituted lipoproteins in the absence or pres-
+ence of an acat inhibitor. as shown in fig. 2 using three
+different cell death assays: annexin v-propidium iodide stain-
+ing, hoechst nuclear staining, and tunel assay, racl-co
+induced macrophage death only in the presence of an acat
+inhibitor, which is consistent with previous data (57, 58). in
+sitosterol-induced macrophage death
+figure 3. racldl-sitosteryl oleate is a potent inducer of macrophage
+death in the absence of an acat inhibitor: quantitative data. a, macro-
+phages from the experiment described in the legend to fig. 2a were quanti-
+fied as percentage of total cells that showed annexin v staining. b, macro-
+phages were incubated for 71 h with medium alone or medium containing
+100 ␮g/ml racldl (racl) containing the indicated percentages of cholesteryl
+oleate (co) and sitosteryl oleate (so). the cells were assayed for externalized
+phosphatidylserine by fluorescent annexin v staining and quantified as in
+panel a.
+contrast, racl-so was a potent inducer of macrophage death
+even in the absence of an acat inhibitor. quantitative
+annexin v data from a repeat experiment with additional con-
+trols are displayed in fig. 3a. consistent with the data in fig. 2,
+racl-so was a relatively potent inducer of macrophage death,
+and this effect was not dependent on acat inhibition.
+whereas the percent racl-so-induced macrophage death var-
+ied from experiment
+(range ⬃10–35%),
+to experiment
+figure 2. racldl-sitosteryl oleate is a potent inducer of macrophage death in the absence of an acat inhibitor: microscopy images. macrophages
+were incubated for 26 h with medium alone (control) or with medium containing 10 ␮g/ml 58035 (acat inhibitor), 100 ␮g/ml racldl-cholesteryl oleate
+(racl-co) ⫾ 58035, or 100 ␮g/ml racldl-sitosteryl oleate (racl-so) ⫾ 58035. in a, the cells were stained with fluorescent annexin v (green) and propidium
+iodide (red) and then viewed by fluorescence (top images) and phase (bottom images) microscopy. in b, cells from the indicated conditions were stained with
+hoechst nuclear stain and viewed by fluorescence microscopy. in c, cells from the indicated conditions were stained by the tunel method (green) and with a
+nuclear counterstain (orange). bar, 10 ␮m.
+november 3, 2006 • volume 281 • number 44
+journal of biological chemistry 33639
+sitosterol-induced macrophage death
+racl-so always caused more death than racl-co ⫹ 58035
+whenever the two conditions were compared directly in the
+same experiment.
+we next determined whether racldl containing the pro-
+portion of sitosterol that can be seen in patients with sitoster-
+olemia is able to cause apoptosis in the absence of an acat
+inhibitor. in a recent study from the multicenter sitosterolemia
+study group by salen et al. (59), 37 patients with sitosterolemia
+had an average of ⬃34% plant sterols and 66% cholesterol in
+their ldl, and approximately two-thirds of these plant sterols
+were sitosterol (i.e. ⬃22% sitosterol in ldl). as shown in fig.
+3b, significant macrophage death occurred when the lipopro-
+tein contained as little as 20% sitosteryl oleate.
+sitosterol-induced macrophage death requires sterol traf-
+ficking to the er, and sitosterol enrichment of er membranes
+inhibits serca activity—for fc loading to induce macro-
+phage death, cholesterol trafficking to the er is absolutely nec-
+essary (38). to test this point with sitosterol-induced death,
+macrophages were incubated with racl-so in the absence or
+presence of the cholesterol trafficking inhibitor, u18666a. in a
+pilot experiment (not displayed), we showed that u18666a was
+an effective inhibitor of sitosterol trafficking to the er. as
+shown in fig. 4a, u18666a was a potent inhibitor of sitosterol-
+induced macrophage death. similar results were obtained when
+sterol trafficking was inhibited by the heterozygous niemann-
+pick c1 mutation (data not shown; cf. ref. 37). thus, lipopro-
+tein-derived sitosterol,
+like lipoprotein-derived cholesterol,
+requires trafficking to the er to induce death.
+our previous work provided evidence that free cholesterol
+exerts it cytotoxicity at least in part by altering the structure and
+function of er membranes, which normally have a low choles-
+terol:phospholipid ratio (38, 55). in particular, we showed that
+an integral membrane er enzyme involved in upr activation,
+serca, was inhibited when membranes containing this
+enzyme were enriched with cholesterol in vitro (55). enzyme
+inhibition occurred at levels of cholesterol that corresponded to
+cholesterol-induced er membrane-phase transition and to
+cholesterol enrichment of the er in fc-loaded macrophages
+(55). to determine whether sitosterol enrichment of er mem-
+branes was also able to inhibit serca activity, serca2b-con-
+taining membranes were assayed in the absence of sterol
+enrichment or after enrichment with cholesterol or sitosterol.
+as shown in fig. 4b, addition of 1.5 ␮g of sitosterol inhibited
+serca activity, albeit somewhat less than 1.5 ␮g of cholesterol.
+at 15 ␮g of sterols, sitosterol inhibited serca to the same
+degree as cholesterol. these data are consistent with prior work
+(60–65) showing that sitosterol can affect the structure of bio-
+logical membranes in a manner similar, although not identical,
+to cholesterol.
+sitosterol-induced macrophage death does not depend
+upon the upr effector chop or jnk but requires p38 map
+kinase—fc trafficking to the er triggers the er stress pathway
+known as the upr (38). importantly, one of the upr effectors
+induced by fc loading, chop (gadd153), is necessary for the
+full apoptotic response (38). given the similar effects of choles-
+terol and sitosterol on serca activity and the requirement for
+sitosterol trafficking to the er (above), we predicted that the
+upr would be activated by sitosterol loading and involved in
+figure 4. racldl-sitosteryl oleate-induced macrophage death is
+blocked by u18666a, an inhibitor of sterol trafficking to the er, and
+sitosterol, like cholesterol, inhibits serca2b activity when added to
+serca2b-containing microsomes. a, macrophages were incubated for
+23 h with medium alone (control) or with medium containing 1 ␮m
+u18666a, 100 ␮g/ml racldl-sitosteryl oleate (racl-so), or with both
+racldl-sitosteryl oleate ⫹ u18666a. the cells were assayed for external-
+ized phosphatidylserine by fluorescent annexin v staining and quantified
+as described in the legend to fig. 3. b, microsomal membranes (100 ␮g of
+protein) from serca2b-transfected hek293 cells were incubated with
+either 1.5 or 15 ␮g of cholesterol or sitosterol complexed with methyl-␤-
+cyclodextrin (cd). controls were serca2b-containing membranes incu-
+bated with no added sterols and microsomes from non-transfected con-
+trols. the membranes were re-isolated by centrifugation and assayed for
+calcium-dependent atpase activity, as measured by a decrease in absorp-
+tion at 340 nm, indicative of consumption of nadh in this enzyme-cou-
+pled assay. in this assay, increasing serca activity is associated with lower
+od340.
+in additional controls, not shown here, atpase activity was
+dependent on calcium, inhibited by the serca inhibitor thapsigargin, and
+not affected by incubation with methyl-␤-cyclodextrin alone.
+33640 journal of biological chemistry
+volume 281 • number 44 • november 3, 2006
+sitosterol-induced macrophage death
+phosphorylation of eif2␣, were also
+not found with sitosterol
+loading
+(fig. 5b). most importantly, defi-
+ciency of chop, which blocks fc-
+induced apoptosis (38), did not
+block sitosterol-induced macro-
+phage death (fig. 5c). these sur-
+prising data indicate that sitosterol-
+induced macrophage death does not
+involve upr activation.
+in fc-loaded macrophages, p38
+mitogen-activated protein kinase is
+activated, which is necessary for
+upr induction and upr-induced
+macrophage death (49, 51). despite
+the lack of a role for the upr in sito-
+sterol-induced death, we deter-
+mined whether p38 was activated by
+sitosterol loading. as shown in fig.
+6a, sitosterol
+loading of macro-
+phages was an extremely potent
+inducer of p38 phosphorylation.
+moreover, we found that p38 played
+a major role in sitosterol-induced
+death, as demonstrated by the
+marked inhibition of death in mac-
+rophages lacking p38 (fig. 6b). in
+contrast, jnk, another mitogen-ac-
+tivated protein kinase that is criti-
+callyinvolvedinfc-inducedmacro-
+phage death (49) and that
+is
+activated by sitosterol
+loading of
+macrophages (data not shown), was
+not involved in sitosterol-induced
+death (fig. 6c). in fc-loaded mac-
+rophages, p38 activation requires
+fc trafficking to the er (51). a sim-
+ilar result with sitosterol could
+explain the importance of sitosterol
+trafficking to the er in macrophage
+death. however, sitosterol-induced
+p38 phosphorylation was com-
+pletely intact in the presence of
+the
+inhibitor,
+u18666a (fig. 6d). these data indi-
+cate the critical role of p38 in sitos-
+terol-induced macrophage death
+and further highlight how the
+mechanism differs
+from fc-in-
+duced macrophage death. more-
+over, the data with u18666a sug-
+gest
+two independent pathways are necessary for
+sitosterol-induced death: one involving sitosterol trafficking to
+the er and the other involving p38.
+sitosterol-induced macrophage death does not involve acti-
+vation of caspases-3 and -9, fas ligand, or loss of mitochon-
+drial membrane potential—fc-induced macrophage death
+requires both the fas and mitochondrial/caspase-9 pathways of
+that
+sterol
+trafficking
+figure 5. chop is not involved in racldl-sitosteryl oleate-induced macrophage death. a, macrophages
+were incubated for the indicated times with medium alone or with medium containing 100 ␮g/ml racldl-
+cholesteryl oleate (racl-co) ⫾ 58035 or 100 ␮g/ml racldl-sitosteryl oleate (racl-so) ⫾ 58035. cell extracts
+were probed for chop and actin by immunoblotting. the doublet bands migrating above chop in the
+racldl-so lane at 9 h and control lane at 12 h were not consistently observed in repeat experiments. b,
+macrophages were incubated with medium alone or with medium containing 100 ␮g/ml racldl-cholesteryl
+oleate (racl-co) ⫾ 58035 or 100 ␮g/ml racldl-sitosteryl oleate (racl-so). cell extracts were probed for xbp-1,
+phosphorylated eif2␣ (p-eif2␣), and actin by immunoblotting. the incubation time was 9 h for the xbp-1
+experiment and 5 h for the eif2␣experiment. c, macrophages from chop⫹/⫹ or chop⫺/⫺ mice were incubated
+for 24 h with medium alone (control) or with medium containing 100 ␮g/ml racldl-sitosteryl oleate (racl-so)
+or with medium containing 100 ␮g/ml racldl-cholesteryl oleate (racl-co) ⫹ 58035. the cells were assayed for
+externalized phosphatidylserine by fluorescent annexin v staining and quantified as described in the legend to
+fig. 3.
+sitosterol-induced macrophage death. to test this prediction,
+we assayed chop in macrophages loaded with fc or sitosterol.
+as expected, fc loading induced chop, but, surprisingly, sito-
+sterol loading of macrophages did not induce chop at the time
+points tested (fig. 5a) and only minimally induced chop at
+17 h of incubation (not shown). moreover, two other makers of
+upr activation induced by fc loading, expression of xbp-1 and
+november 3, 2006 • volume 281 • number 44
+journal of biological chemistry 33641
+sitosterol-induced macrophage death
+figure 6. p38 is activated by racldl-sitosteryl oleate and is necessary for racldl-sitosteryl oleate-induced macrophage death. a, macrophages were
+incubated for 12 h with medium alone or with medium containing 100 ␮g/ml racldl-cholesteryl oleate (racl-co) ⫾ 58035, or 100 ␮g/ml racldl-sitosteryl
+oleate (racl-so) ⫾ 58035. cell extracts were probed by immunoblotting for phosphorylated (p) and total p38. b, wild-type (p38⫹/⫹) or p38-deficient ( p38⫺/⫺)
+macrophages were incubated for 17 h with medium alone (control ) or with medium containing 100 ␮g/ml racldl-sitosteryl oleate (racl-so). the cells
+were assayed for externalized phosphatidylserine by fluorescent annexin v staining and quantified as described in the legend to fig. 3. shown below the
+graph are total p38 and actin immunoblots of samples from these macrophages. consistent with our previous data (49), apoptosis induced by
+racldl-cholesteryl oleate ⫹ 58035 was also lower in the p38-deficient macrophages (data not shown). c, macrophages were incubated for 23 h with
+medium alone (control ) or with medium containing 100 ␮g/ml racldl-cholesteryl oleate (racl-co) ⫹ 58035 ⫾ 20 ␮m sp600125 or 100 ␮g/ml racldl-
+sitosteryl oleate (racl-so) ⫾ 20 ␮m sp600125. the cells were assayed for externalized phosphatidylserine by fluorescent annexin v staining and
+quantified as described in the legend to fig. 3. as reported previously, sp600125 alone has no effect on cell viability (49). d, macrophages were
+incubated for 7 h with medium alone or with medium containing 100 ␮g/ml racldl-cholesteryl oleate (racl-co) ⫾ 1 ␮m u18666a. cell extracts were
+probed by immunoblotting for phosphorylated and total p38.
+apoptosis, leading to activation of the downstream apoptosis
+effector caspase-3 (58, 66). to test these pathways in sitosterol-
+induced macrophage death, macrophages incubated with
+racl-co ⫹ 58035 (fc loading) were compared with those
+incubated with racl-so for caspase-9 and caspase-3 activa-
+tion. as expected, both caspases were activated (cleaved) in
+fc-loaded macrophages, but neither were activated by sitoste-
+rol loading (figs. 7, a and b). most importantly, the caspase-3
+inhibitor z-devd-fmk, which inhibits fc-induced apoptosis,
+did not inhibit sitosterol-induced apoptosis (fig. 7c). we next
+examined the fas and mitochondrial pathways in more detail.
+although blocking fas ligand with an antibody inhibits ⬃60–
+70% of the fc-induced apoptosis (58), the same antibody did
+not block sitosterol-induced apoptosis (fig. 7d). similarly, fc
+loading decreases the mitochondrial membrane potential, con-
+sistent with fc-induced cytochrome c release and caspase-9
+activation (66). using uptake of mitotracker red as an indicator
+of mitochondrial membrane potential, we found that loading
+macrophages with sitosterol did not substantially decrease
+mitochondrial uptake of the dye under conditions in which fc
+33642 journal of biological chemistry
+volume 281 • number 44 • november 3, 2006
+sitosterol-induced macrophage death
+figure 7. racldl-sitosteryl oleate-induced macrophage death does not involve activation of caspases-9 and -3, fas ligand, or loss of mitochondrial
+membrane potential. a, macrophages were incubated for 16 h with medium alone or with medium containing 100 ␮g/ml racldl-cholesteryl oleate
+(racl-co) ⫾ 58035, or 100 ␮g/ml racldl-sitosteryl oleate (racl-so). cell extracts were probed for cleaved caspase-9 and actin by immunoblotting. b, macro-
+phages were incubated for 18 h with medium alone or with medium containing 100 ␮g/ml racldl-cholesteryl oleate (racl-co) ⫾ 58035, or 100 ␮g/ml
+racldl-sitosteryl oleate (racl-so). another set of macrophages was incubated with 50 nm staurosporine as an additional positive control. cell extracts were
+probed for cleaved caspase-3 by immunoblotting. c, macrophages were incubated for 18 h with medium alone (control ) or with medium containing 100 ␮g/ml
+racldl-cholesteryl oleate (racl-co) ⫹ 58035 ⫾ 20 ␮m z-devd-fmk or 100 ␮g/ml racldl-sitosteryl oleate (racl-so) ⫾ 20 ␮m z-devd-fmk. the cells were
+assayed for tunel staining and quantified. d, macrophages were incubated for 24 h with medium alone (control ) or with medium containing 100 ␮g/ml
+racldl-sitosteryl oleate (racl-so) ⫾ 25 ␮g/ml non-immune rabbit igg (ni-igg) or rabbit anti-fasl igg (␣fasl igg). a similar experiment was conducted with
+racldl-cholesteryl oleate (racl-co) ⫹ 58035 (right graph). the cells were assayed for externalized phosphatidylserine by fluorescent annexin v staining and
+quantified as described in the legend to fig. 3. e, macrophages were incubated for 15 h with medium alone (control ) or with medium containing 100 ␮g/ml
+racldl-cholesteryl oleate (racl-co) ⫾ 58035, or 100 ␮g/ml racldl-sitosteryl oleate (racl-so). the cells were then stained with mitotracker red and viewed by
+confocal microscopy. bar, 5 ␮m.
+loading caused a marked decrease (fig. 7e). together, these
+data clearly indicate that sitosterol-induced macrophage death,
+in stark contrast to fc loading-induced macrophage death,
+does not
+involve classic fas, mitochondrial, or caspase
+pathways.
+vacuoles—a recent study has shown that certain types of
+caspase-independent cell death with features of necrosis can be
+inhibited by methylthiohydantoin-dl-tryptophan (necrosta-
+tin-1 or nec-1) (45). examples include cultured cells treated
+with the combination of an apoptosis inducer plus a caspase
+inhibitor, cells treated with an activator of receptor-interacting
+protein, and neurons in vivo after ischemic brain injury (45).
+sitosterol-induced macrophage death is
+inhibited by
+necrostatin-1 and leads to the accumulation of autophagic
+november 3, 2006 • volume 281 • number 44
+journal of biological chemistry 33643
+sitasteroi-induced macrophage death
+racl-so + nec-1
+18 b
+16
+ha
+n §
+.n
+macrophage beam
+(56 0' total cells)
+raclso racl-so
+. mc-1
+control noc-i
+   
+—-_
+      
+control racl-co
+.58035
+band mlative to d—actin
+   
+inle nsixy of lc
+racl£o
+.sms
+conlrnl muse
+33644
+racl-co racl-co
+0 58035 0 50035
+. noc-1
+lca—ii
+bach"
+12
+10
+..
+‘3;
+n53
+.u
+5,-
+”a
+:2
+5‘?"
+es
+“v
+5 4
+15
+12
+macrophage death
+(7.. onotal cells)
+cunlvol rall-sd mlso
+oa-ma
+(mum
+ccntm| racl»so racl-so
+‘wpslaiiiia
+(mini)
+vollmez81~numbe7 “november 3, 2006
+mg ‘9 qmw no 3331103 unoj umﬂmg m m aqumm 'duq tum} pzpuolumou
+the death-inhibiting effect of nec-1 was highly specific for this
+form of death, which the authors termed necroptosis (45).
+given the fact that caspases are not activated during sitosterol-
+induced death, we considered that a process similar to necrop-
+tosis may be involved. as shown by the images and quantified
+data in fig. 8, a and b, nec-1 almost completely inhibited sitos-
+terol-induced macrophage death. in contrast, nec-1 did not
+inhibit fc-induced macrophage apoptosis (fig. 8b). consistent
+with the lack of an effect of nec-1 on fc-induced apoptosis, we
+showed that nec-1 was not an inhibitor of sterol trafficking to
+the er (data not shown). moreover, nec-1 did not block acti-
+vation of p38 by sitosterol (data not shown). therefore,
+nec-1 most likely inhibits sitosterol-induced death down-
+stream of sterol-trafficking to the er and p38 activation (see
+“discussion”).
+the aforementioned study with caspase-inhibited cells
+showed that autophagy was associated with necroptosis (45).
+to begin to explore the involvement of autophagy in sitosterol-
+induced macrophage death, control macrophages and those
+exposed to either fc-loading conditions or lipoprotein-sitos-
+terol were immunoblotted for the autophagy marker, lc3-ii
+(67). as shown in fig. 8c, there was a clear increase in lc3-ii in
+macrophages incubated with lipoprotein-sitosterol compared
+with control or fc-loaded macrophages. although autophagy
+was downstream of cell death in the necroptosis study referred
+to above (45), we found that two autophagy inhibitors,
+3-methyladenine and the cathepsin d inhibitor pepstatin a (68,
+69), partially inhibited sitosterol-induced macrophage death
+(fig. 8, d and e). neither compound blocked fc-induced mac-
+rophage apoptosis (data not shown). thus, sitosterol-induced
+macrophage death is associated with both necroptosis and
+autophagy in a causative manner, which remarkably distin-
+guishes death by this sterol from death by cholesterol.
+discussion
+the findings in this study have revealed two new concepts
+that have potential implications for both pathophysiology and
+fundamental aspects of cellular death signaling (fig. 9). first,
+incubation of macrophages with lipoproteins whose steryl
+esters are composed of as little as one-fifth sitosteryl ester leads
+to macrophage death even when acat activity is not inhibited.
+because free sterol-induced macrophage death likely contrib-
+utes to necrotic core formation in vulnerable atherosclerotic
+plaques (29), this finding may provide at least one mechanism
+for accelerated atherothrombosis in patients with very high lev-
+els of plant sterols. second, whereas fc induces macrophage
+death by a pathway dependent on the upr, jnk activation, and
+sitosterol-induced macrophage death
+caspases, sitosterol-induced death involves none of these fac-
+tors. rather, sitosterol-induced death has features similar to
+those of a caspase-independent cell death process referred to as
+necroptosis: marked suppression by necrostatin-1 and evi-
+dence of autophagy (45). moreover, in this system, there is evi-
+dence that autophagy itself partially contributes to the death
+process. thus, the addition of one extra ␤-ethyl group on c-24
+of the sterol side chain fundamentally changes the mechanism
+of sterol-induced death signaling.
+regarding the first concept, the association between elevated
+plant sterols and accelerated atherothrombosis has been the
+subject of recent interest. whereas it appears clear that prema-
+ture coronary artery disease occurs in patients with sitosterol-
+emia in a manner that cannot always be explained by other risk
+factors (5–9), a mechanism is lacking. in terms of macrophage
+biology, nguyen et al. (11) showed that sitosterol suppressed
+hydroxymethylglutaryl-coa reductase activity less than cho-
+lesterol in human monocyte-derived macrophages, but how
+this feature would promote atherogenesis is not clear. awad et
+al. (70) found that phytosterols decreased the release of the
+prostaglandins e2 and i2 from a murine macrophage cell line,
+but the net effect of these effects on specific atherogenic pro-
+cesses was not reported. other cells might also explain the
+potential atherogenicity of high plant sterol levels. for example,
+boberg et al. (12) found that sitosterol was cytotoxic to cultures
+of human umbilical vein endothelial cells. the mechanism of
+cytotoxicity in this study was not reported. we suggest an alter-
+native mechanism: the accumulation of sitosterol in advanced
+lesional macrophages leads to cell death in an accelerated man-
+ner, because the delay associated with acat becoming dys-
+functional would not be needed. accelerated macrophage
+death, in the face of relatively inefficient phagocytic clearance
+of dead cells (ref. 29, and see below), would lead to faster pro-
+gression to plaque necrosis, plaque disruption, and thrombo-
+occlusive vascular events. this hypothesis is based on the find-
+ings here together with previous work showing that (a) lesional
+necrosis consists of dead macrophages (24, 25, 27); (b) a genetic
+alteration in mice that decreased advanced lesional macro-
+phage death in vivo decreased plaque necrosis (37); (c) necrotic
+areas in plaques likely promote plaque disruption (23, 26, 28,
+29); and (d) large areas of necrosis characterize the coronary
+artery plaques of sitosterolemic patients (5–9).
+it should be noted that the concept of accelerated macro-
+phage death by sitosterol raises, at least in theory, the possi-
+bility of a very different scenario. recent studies have shown
+that macrophage apoptosis in early atherosclerotic lesions,
+figure 8. racldl-sitosteryl oleate-induced macrophage death is inhibited by necrostatin-1 and has characteristics of autophagy. a, macrophages
+were incubated for 23 h with medium alone (control ) or with medium containing 100 ␮g/ml racldl-sitosteryl oleate (racl-so) ⫾ 30 ␮m necrostatin-1 (nec-1).
+the cells were assayed for externalized phosphatidylserine by fluorescent annexin v staining and quantified as described in the legend to fig. 3. bar, 10 ␮m. b,
+macrophages were incubated for 18 h with medium alone (control ), 30 ␮m necrostatin-1 (nec-1) alone, racldl-sitosteryl oleate (racl-so) ⫾ 30 ␮m necrosta-
+tin-1, or racldl-cholesteryl oleate (racl-so) ⫾ 30 ␮m necrostatin-1. the cells were assayed for externalized phosphatidylserine by fluorescent annexin v
+staining and quantified as described in the legend to fig. 3. c, macrophages were incubated for 13 h with medium alone (control ) or with medium containing
+100 ␮g/ml racldl-cholesteryl oleate (racl-co) ⫹ 58035 or 100 ␮g/ml racldl-sitosteryl oleate (racl-so). cell extracts in triplicate were immunoblotted using
+antibodies against lc3-ii and actin. the densitometry data for lc3-ii relative to ␤-actin are quantified in the graph. d, macrophages were incubated for 31 h with
+medium alone (control ) or with medium containing 100 ␮g/ml racldl-sitosteryl oleate (racl-so) ⫾ 500 ␮m 3-methyladenine (3-ma). the cells were assayed for
+externalized phosphatidylserine by fluorescent annexin v staining and quantified as described in the legend to fig. 3. e, macrophages were incubated for 22 h
+with medium alone (control ) or with medium containing 100 ␮g/ml racldl-sitosteryl oleate (racl-so) ⫾ 1 ␮m pepstatin a. the cells were assayed for
+externalized phosphatidylserine by fluorescent annexin v staining and quantified as described in the legend to fig. 3.
+november 3, 2006 • volume 281 • number 44
+journal of biological chemistry 33645
+sitosterol-induced macrophage death
+morphisms in abcg5/g8 or secondary to high dietary plant
+sterol consumption, have plant sterol plasma levels that are
+relatively elevated but substantially less than that seen in
+patients with sitosterolemia (71). whereas some reports
+have suggested that these individuals have increased risk for
+heart disease (72–76), other studies have suggested other-
+wise (10, 77). indeed, dietary plant sterol supplements in
+normal individuals can lower plasma ldl by blocking intes-
+tinal cholesterol absorption and may be atheroprotective
+(78). the mechanism explored herein, in which lipoproteins
+with a sitosteryl ester:cholesteryl ester ratio in the ⬃20%
+range is needed to induce death in acat-competent mac-
+rophages, would be most applicable to individuals with very
+high levels of sitosterol.
+figure 9. summary scheme of how lipoprotein-derived cholesterol and sitosterol trigger different death pathways in macrophages. see text for
+details. in the right panel, “x” refers to a non-chop process that requires sitosterol trafficking to the er and that, together with activated p38, is necessary for
+sitosterol-induced necroptosis. this 2-branch model is based on the findings that both the sterol trafficking blocker u18666a and p38 deficiency block
+sitosterol-induced necroptosis, but u18666a does not block p38 activation, and p38 deficiency does not block sterol trafficking to the er. note the inhibitory
+action of nec-1 is placed downstream of both pathways because nec-1 does not inhibit either sterol trafficking to the er or p38 activation.
+unlike that in advanced lesions, is accompanied by rapid
+phagocytic clearance of the dying cells. this efficient phag-
+ocytic clearance prevents inflammation and post-apoptotic
+necrosis, and so the net effect of early lesional macrophage
+death is decreased in lesional macrophage cellularity, which
+retards plaque progression (29). therefore, if macrophages
+killed by sitosterol were phagocytosed in an efficient and
+non-inflammatory manner, sitosterol-induced death in
+early, acat-competent macrophages may actually retard
+lesion progression. whereas this hypothesis remains a for-
+mal possibility pending additional in vivo studies, we found
+that macrophages killed by sitosterol are relatively poorly
+ingested by phagocytic macrophages (data not shown).
+moreover, the association of sitosterolemia with premature
+coronary artery disease (above) and the finding that foam
+cell lesions in western diet-fed sitosterolemic abcg5g8⫺/⫺;
+ldlr⫺/⫺ mice are not significantly smaller than those in
+abcg5g8⫹/⫹;ldlr⫺/⫺ mice (10) are consistent with ineffi-
+cient phagocytic clearance of sitosterol-killed macrophages.
+despite the close association between sitosterolemia and
+coronary artery disease, a number of seemingly contradictive
+findings have appeared in the literature. for example, a
+recent study using a mouse model of sitosterolemia reported
+no increase in aortic atherosclerosis (10). however, athero-
+sclerosis was assayed by percent en face lipid staining, not by
+morphological analyses of advanced lesions that would be
+needed to detect lesional macrophage death and plaque
+necrosis (10, 71), which is the most relevant parameter
+related to the findings and hypothesis here. another area of
+recent interest is whether humans without sitosterolemia
+per se but with levels of plasma plant sterols in the upper
+percentiles of the normal population are at risk for coronary
+artery disease (6, 71). such individuals, perhaps due to poly-
+the finding that free cholesterol and free sitosterol trigger
+macrophage death by fundamentally different mechanisms
+is instructive. sterols can trigger processes in cells through
+direct effects, for example, by direct interaction with pro-
+teins, or by affecting cell membrane structure, which sec-
+ondarily affects the function of proteins (79, 80). in the case
+of cholesterol loading of macrophages, the latter mechanism
+is suggested (55). in particular, fc loading increases the
+order of er membrane phospholipids, which is directly cor-
+related with inhibition of the activity of an integral er mem-
+brane protein, serca, known to play an important role in
+upr activation (55). because sitosterol can also increase the
+order of phospholipids in membranes (62, 64, 65), inhibit
+serca (fig. 4), and activate p38 (fig. 6a; cf. ref. 49), we
+expected the upr to be activated as it is with cholesterol.
+the surprising result that this did not occur suggested the
+possibility that sitosterol may suppress upr activation.
+however, we were able to show that chop expression
+induced by the upr activator tunicamycin was not sup-
+33646 journal of biological chemistry
+volume 281 • number 44 • november 3, 2006
+pressed by loading macrophages with sitosterol.3 thus, the
+explanation must lie elsewhere. whatever the mechanism,
+our data indicate that the presence of a 24-␤-ethyl group on
+the sterol side chain can have a critical effect on cellular
+physiology. indeed, the effect of sitosterol on membrane
+structure is not identical to cholesterol (63), and a recent
+study showed that sitosterol cannot substitute for choles-
+terol to restore growth in chinese hamster ovary cells in
+which cholesterol synthesis was completely inhibited (81).
+categorizing cellular death as “apoptotic” or “necrotic” can
+be challenging, because biochemical and morphological fea-
+tures of these and other death processes may co-exist under
+certain conditions (82–87). nonetheless, we can be confident
+in concluding that the death process induced by sitosterol in
+macrophages is different from that induced by cholesterol,
+which has features most in common with caspase-dependent
+apoptosis (57, 58, 66). the salient features of sitosterol-induced
+death include loss of plasma membrane integrity (e.g. pro-
+pidium iodide staining and hoechst staining), caspase inde-
+pendence, suppression by necrostatin-1, and increase in an
+autophagy marker plus partial suppression of death by autoph-
+agy inhibitors. these features are remarkably similar to those
+described for a type of death in other cells, termed necroptosis,
+which is caused by the combination of an apoptosis stimulus
+plus a caspase inhibitor or by activation of receptor-interacting
+protein, a death receptor-interacting kinase (45, 88). a similar
+form of cell death also occurs in neurons in vivo as a conse-
+quence of ischemic stroke (45). however, in the study of yuan
+and colleagues (45), in which non-macrophage were killed by
+the combination of an apoptosis inducer plus a caspase inhibi-
+tor, autophagy was proposed to be downstream of necroptosis,
+because death was not blocked by autophagy inhibitors. sitos-
+terol-loaded macrophages also undergo phosphatidylserine
+externalization, and they stain positively for tunel. whereas
+these features are often associated with caspase-dependent
+apoptosis, they can also be seen with necrotic forms of death
+including necroptosis (88, 89). indeed, in sitosterol-induced
+death, unlike cholesterol-induced death, tunel staining was
+resistant to caspase inhibition (fig. 7c). sitosterol-loaded mac-
+rophages also show much less mitochondrial membrane depo-
+larization than cholesterol-loaded macrophages (fig. 7e),
+which can also be found with necroptotic-like death (88) and
+may be due to absence of caspase-mediated amplification of
+this process (90).
+why the presence of an ethyl group on c24 of the sterol side
+chain would trigger necroptotic/autophagic-like death instead
+of apoptosis is a fascinating question that arises from this study,
+particularly because sterol trafficking to the er is necessary for
+both processes. one possibility is that sitosterol accumulation
+in macrophages somehow affects molecules in a manner that
+would suppress apoptosis and/or promote necroptotic-like
+death. for example, sitosterol accumulation may somehow
+inhibit caspases or activate receptor-interacting protein
+(above). of interest, it is possible that the type of death triggered
+by sitosterol may be unique to macrophages or at least to non-
+3 l. bao, y. li, s.-x. deng, d. landry, and i. tabas, unpublished data.
+sitosterol-induced macrophage death
+cancerous cells, because a number of studies have shown that
+sitosterol can cause apoptosis in cancer cell lines, and, when
+reported, apoptosis was shown to be caspase-dependent
+(91, 92).
+more important than categorizing the death pathway is elu-
+cidating its biological consequences. in general, necrotic forms
+of death tend to induce more inflammation than apoptotic
+forms of death, usually in response to phagocytic clearance (93),
+but exceptions occur (94). how macrophages killed by sitoste-
+rol fit into this spectrum, and whether they elicit biological
+responses different from cholesterol-killed macrophages, rep-
+resent critical areas of future investigation that are highly rele-
+vant to atherosclerosis (above). in this context, we have found
+that exposure of macrophage phagocytes to macrophages killed
+by lipoprotein-sitosterol induces both tumor necrosis factor-␣
+and interleukin-1␤mrna in the phagocytes (data not shown).
+sitosterol loading of macrophages, like cholesterol loading,
+activates p38, and activated p38 is necessary for cell death in
+both scenarios (fig. 7 and ref. 49). in the case of cholesterol
+loading, cholesterol trafficking to the er is necessary for p38
+activation, and p38 activation is necessary for pro-apoptotic
+chop expression (49). with sitosterol loading, however, the
+scenario is very different: p38 activation is not downstream of
+sitosterol trafficking to the er, and it does not result in chop
+induction. thus, we propose that two parallel pathways, one
+involving sitosterol trafficking to the er and the other involving
+p38 activation, conspire to cause necroptotic-like death in mac-
+rophages (fig. 9). of interest, there are a number of reports that
+have implicated p38 in necroptotic-like death processes (95,
+96), and the necroptosis-inducing receptor-interacting protein
+has been shown to activate p38 (97).
+in summary, we have shown that macrophages exposed to
+sitosteryl ester-containing lipoproteins accumulate large
+amounts of free sitosterol even in the absence of acat inhibi-
+tion, resulting in robust macrophage death. given the role of
+advanced lesional macrophage death in plaque necrosis, this
+finding may provide at least one cellular mechanism for the
+association of sitosterolemia with accelerated atherothrom-
+botic vascular disease. moreover, the death process induced by
+sitosterol is remarkably different from that induced by free cho-
+lesterol, despite the fact that the two sterols are structurally and
+functionally very similar and that sterol to er trafficking is nec-
+essary for death in both cases. these findings may lead to new
+insights into the general issue of how cellular death in the
+necrosis-apoptosis continuum is triggered and into the specific
+question of how subtle changes in sterol structure, perhaps by
+differentially altering er membrane function, can affect these
+death processes.
+acknowledgments—we thank dr. yibin wang for providing the
+p38flox mice used to generate the macrophage-targeted mice referred
+to in fig. 6b, dr. takahiro kamimoto for the anti-lc3 antibody, and
+dr. tracie devries-seimon for advice with this experiment.
+references
+1. von bergmann, k., sudhop, t., and lutjohann, d. (2005) am. j. cardiol.
+96, 10d–14d
+2. berge, k. e., tian, h., graf, g. a., yu, l., grishin, n. v., schultz, j.,
+november 3, 2006 • volume 281 • number 44
+journal of biological chemistry 33647
+sitosterol-induced macrophage death
+kwiterovich, p., shan, b., barnes, r., and hobbs, h. h. (2000) science 290,
+1771–1775
+3. klett, e. l., lu, k., kosters, a., vink, e., lee, m. h., altenburg, m., shefer,
+s., batta, a. k., yu, h., chen, j., klein, r., looije, n., oude-elferink, r.,
+groen, a. k., maeda, n., salen, g., and patel, s. b. (2004) bmc med. 2, 5
+4. salen, g., shefer, s., nguyen, l., ness, g. c., tint, g. s., and shore, v.
+(1992) j. lipid res. 33, 945–955
+5. salen, g., horak, i., rothkopf, m., cohen, j. l., speck, j., tint, g. s., shore,
+v., dayal, b., chen, t., and shefer, s. (1985) j. lipid res. 26, 1126–1133
+6. sudhop, t., and von bergmann, k. (2004) z. kardiol. 93, 921–928
+7. katayama, s., satoh, t., yagi, t., hirose, n., kurita, y., anzai, t., asakura,
+y., yoshikawa, t., mitamura, h., and ogawa, s. (2003) intern. med. 42,
+591–594
+8. kolovou, g., voudris, v., drogari, e., palatianos, g., and cokkinos, d. v.
+(1996) eur. heart j. 17, 965–966
+9. kwiterovich, p. o., jr., bachorik, p. s., smith, h. h., mckusick, v. a.,
+connor, w. e., teng, b., and sniderman, a. d. (1981) lancet 1, 466–469
+10. wilund, k. r., yu, l., xu, f., vega, g. l., grundy, s. m., cohen, j. c., and
+hobbs, h. h. (2004) arterioscler. thromb. vasc. biol. 24, 2326–2332
+11. nguyen, l. b., salen, g., shefer, s., tint, g. s., and ruiz, f. (2001) metab-
+takano, t. (2004) abstracts of the 44th annual meeting of the american
+society for cell biology, p. 324a, american society for cell biology, be-
+thesda, md
+36. fazio, s., major, a. s., swift, l. l., gleaves, l. a., accad, m., linton, m. f.,
+and farese, r. v., jr. (2001) j. clin. investig. 107, 163–171
+37. feng, b., zhang, d., kuriakose, g., devlin, c. m., kockx, m., and tabas, i.
+(2003) proc. natl. acad. sci. u. s. a. 100, 10423–10428
+38. feng, b., yao, p. m., li, y., devlin, c. m., zhang, d., harding, h. p.,
+sweeney, m., rong, j. x., kuriakose, g., fisher, e. a., marks, a. r., ron, d.,
+and tabas, i. (2003) nat. cell biol. 5, 781–792
+39. tardif, j. c., gregoire, j., l’allier, p. l., anderson, t. j., bertrand, o.,
+reeves, f., title, l. m., alfonso, f., schampaert, e., hassan, a., mclain, r.,
+pressler, m. l., ibrahim, r., lesperance, j., blue, j., heinonen, t., and
+rodes-cabau, j. (2004) circulation 110, 3372–3377
+40. nissen, s. e., tuzcu, e. m., brewer, h. b., sipahi, i., nicholls, s. j., ganz, p.,
+schoenhagen, p., waters, d. d., pepine, c. j., crowe, t. d., davidson,
+m. h., deanfield, j. e., wisniewski, l. m., hanyok, j. j., and kassalow, l. m.
+(2006) n. engl. j. med. 354, 1253–1263
+41. field, f. j., and mathur, s. n. (1983) j. lipid res. 24, 409–417
+42. tabas, i., feinmark, s. j., and beatini, n. (1989) j. clin. investig. 84,
+olism 50, 1224–1229
+investig. 51, 509–516
+12. boberg, k. m., pettersen, k. s., and prydz, h. (1991) scand. j. clin. lab.
+43. liu, j., chang, c. c., westover, e. j., covey, d. f., and chang, t. y. (2005)
+13. miettinen, t. a., railo, m., lepantalo, m., and gylling, h. (2005) j. am.
+44. temel, r. e., gebre, a. k., parks, j. s., and rudel, l. l. (2003) j. biol. chem.
+1713–1721
+biochem. j. 391, 389–397
+278, 47594–47601
+coll. cardiol. 45, 1794–1801
+14. bhattacharyya, a. k., and connor, w. e. (1974) j. clin. investig. 53,
+1033–1043
+15. mellies, m. j., ishikawa, t. t., glueck, c. j., bove, k., and morrison, j.
+(1976) j. lab. clin. med. 88, 914–921
+16. ross, r. (1995) annu. rev. physiol. 57, 791–804
+17. glass, c. k., and witztum, j. l. (2001) cell 104, 503–516
+18. lusis, a. j. (2000) nature 407, 233–241
+19. brown, m. s., and goldstein, j. l. (1983) annu. rev. biochem. 52, 223–261
+20. tabas, i. (2002) j. clin. investig. 110, 905–911
+21. aikawa, m., and libby, p. (2004) cardiovasc. pathol. 13, 125–138
+22. kolodgie, f. d., virmani, r., burke, a. p., farb, a., weber, d. k., kutys, r.,
+finn, a. v., and gold, h. k. (2004) heart 90, 1385–1391
+23. burke, a. p., virmani, r., galis, z., haudenschild, c. c., and muller, j. e.
+(2003) j. am. coll. cardiol. 41, 1874–1886
+24. schaefer, h. e. (1981) hamatol. bluttransfus. 27, 137–142
+25. ball, r. y., stowers, e. c., burton, j. h., cary, n. r., skepper, j. n., and
+mitchinson, m. j. (1995) atherosclerosis 114, 45–54
+26. libby, p., and clinton, s. k. (1993) curr. opin. lipidol. 4, 355–363
+27. hegyi, l., skepper, j. n., cary, n. r. b., and mitchinson, m. j. (1996)
+j. pathol. 180, 423–429
+28. naghavi, m., libby, p., falk, e., casscells, s. w., litovsky, s., rumberger, j.,
+badimon, j. j., stefanadis, c., moreno, p., pasterkamp, g., fayad, z., stone,
+p. h., waxman, s., raggi, p., madjid, m., zarrabi, a., burke, a., yuan, c.,
+fitzgerald, p. j., siscovick, d. s., de korte, c. l., aikawa, m., juhani
+airaksinen, k. e., assmann, g., becker, c. r., chesebro, j. h., farb, a.,
+galis, z. s., jackson, c., jang, i. k., koenig, w., lodder, r. a., march, k.,
+demirovic, j., navab, m., priori, s. g., rekhter, m. d., bahr, r., grundy,
+s. m., mehran, r., colombo, a., boerwinkle, e., ballantyne, c., insull, w.,
+jr., schwartz, r. s., vogel, r., serruys, p. w., hansson, g. k., faxon, d. p.,
+kaul, s., drexler, h., greenland, p., muller, j. e., virmani, r., ridker, p. m.,
+zipes, d. p., shah, p. k., and willerson, j. t. (2003) circulation 108,
+1664–1672
+29. tabas, i. (2005) arterioscler. thromb. vasc. biol. 25, 2255–2264
+30. katz, s. s., shipley, g. g., and small, d. m. (1976) j. clin. investig. 58,
+200–211
+j. lipid res. 24, 1329–1335
+32. shio, h., haley, n. j., and fowler, s. (1979) lab. investig. 41, 160–167
+33. kruth, h. s., and fry, d. l. (1984) exp. mol. pathol. 40, 288–294
+34. kellner-weibel, g.,
+j.,
+stoltenborg, j. k., kearney, m. a., corjay, m. h., phillips, m. c., and
+rothblat, g. h. (1998) arterioscler. thromb. vasc. biol. 18, 423–431
+jerome, w. g., small, d. m., warner, g.
+35. mori, m., ogasawara, h., ohnishi, a., tanaka, a., asano, t., itabe, h., and
+45. degterev, a., huang, z., boyce, m., li, y., jagtap, p., mizushima, n., cuny,
+g. d., mitchison, t. j., moskowitz, m. a., and yuan, j. (2005) nat. chem.
+biol. 1, 112–119
+46. havel, r. j., eder, h., and bragdon, j. (1955) j. clin. investig. 34, 1345–1353
+47. basu, s. k., goldstein, j. l., anderson, r. g. w., and brown, m. s. (1976)
+proc. natl. acad. sci. u. s. a. 73, 3178–3182
+48. ross, a. c., go, k. j., heider, j. g., and rothblat, g. h. (1984) j. biol. chem.
+49. devries-seimon, t., li, y., yao, p. m., stone, e., wang, y., davis, r. j.,
+flavell, r., and tabas, i. (2005) j. cell biol. 171, 61–73
+50. cook, a. d., braine, e. l., and hamilton, j. a. (2003) j. immunol. 171,
+259, 815–819
+4816–4823
+51. li, y., schwabe, r. f., devries-seimon, t., yao, p. m., gerbod-giannone,
+m. c., tall, a. r., davis, r. j., flavell, r., brenner, d. a., and tabas, i. (2005)
+j. biol. chem. 280, 21763–21772
+52. krieger, m. (1986) methods enzymol. 128, 608–613
+53. lowry, o. h., rosebrough, n. j., farr, a. l., and randall, r. j. (1951) j. biol.
+54. shiratori, y., okwu, a. k., and tabas, i. (1994) j. biol. chem. 269,
+chem. 193, 265–275
+11337–11348
+55. li, y., ge, m., ciani, l., kuriakose, g., westover, e., dura, m., covey, d.,
+freed, j. h., maxfield, f. r., lytton, j., and tabas, i. (2004) j. biol. chem.
+279, 37030–37039
+56. chang, t. y., chang, c. c. y., and cheng, d. (1997) annu. rev. biochem.
+66, 613–638
+57. warner, g. j., stoudt, g., bamberger, m., johnson, w. j., and rothblat,
+g. h. (1995) j. biol. chem. 270, 5772–5778
+58. yao, p. m., and tabas, i. (2000) j. biol. chem. 275, 23807–23813
+59. salen, g., von bergmann, k., lutjohann, d., kwiterovich, p., kane, j.,
+patel, s. b., musliner, t., stein, p., and musser, b. (2004) circulation 109,
+966–971
+60. rujanavech, c., and silbert, d. f. (1986) j. biol. chem. 261, 7215–7219
+61. mora, m. p., tourne-peteilh, c., charveron, m., fabre, b., milon, a., and
+muller, i. (1999) chem. phys. lipids 101, 255–265
+62. schuler, i., duportail, g., glasser, n., benveniste, p., and hartmann, m. a.
+63. halling, k. k., and slotte, j. p. (2004) biochim. biophys. acta 1664,
+64. leikin, a. i., and brenner, r. r. (1989) biochim. biophys. acta 1005,
+161–171
+187–191
+65. xu, x., bittman, r., duportail, g., heissler, d., vilcheze, c., and london,
+e. (2001) j. biol. chem. 276, 33540–33546
+66. yao, p. m., and tabas, i. (2001) j. biol. chem. 276, 42468–42476
+31. rapp, j. h., connor, w. e., lin, d. s., inahara, t., and porter, j. m. (1983)
+(1990) biochim. biophys. acta 1028, 82–88
+33648 journal of biological chemistry
+volume 281 • number 44 • november 3, 2006
+67. kabeya, y., mizushima, n., ueno, t., yamamoto, a., kirisako, t., noda,
+t., kominami, e., ohsumi, y., and yoshimori, t. (2000) embo j. 19,
+5720–5728
+68. seglen, p. o., and gordon, p. b. (1982) proc. natl. acad. sci. u. s. a. 79,
+rawson, r. b. (2005) proc. natl. acad. sci. u. s. a. 102, 14551–14556
+82. majno, g., and joris, i. (1995) am. j. pathol. 146, 3–15
+83. mcconkey, d. j. (1998) toxicol. lett. 99, 157–168
+84. darzynkiewicz, z., bedner, e., traganos, f., and murakami, t. (1998) hu-
+sitosterol-induced macrophage death
+69. araki, t., hayashi, m., and saruta, t. (2006) cell biol. int. 30, 93–100
+70. awad, a. b., toczek, j., and fink, c. s. (2004) prostaglandins leukot.
+essent. fatty acids 70, 511–520
+71. sehayek, e., and breslow, j. l. (2005) arterioscler. thromb. vasc. biol. 25,
+663–669
+1889–1892
+5–6
+72. glueck, c. j., speirs, j., tracy, t., streicher, p., illig, e., and vandegrift, j.
+73. rajaratnam, r. a., gylling, h., and miettinen, t. a. (2000) j. am. coll.
+(1991) metabolism 40, 842–848
+cardiol. 35, 1185–1191
+74. sutherland, w. h. f., williams, m. j. a., hye, e. r., restieaux, n. j., de jong,
+s. a., and walker, h. l. (1998) nutr. metab. cardiovasc. dis. 8, 386–391
+75. assmann, g., cullen, p., erbey, j., ramey, d. r., kannenberg, f., and
+schulte, h. (2006) nutr. metab. cardiovasc. dis. 16, 13–21
+76. sudhop, t., gottwald, b. m., and von bergmann, k. (2002) metabolism
+77. miettinen, t. a., gylling, h., strandberg, t., and sarna, s. (1998) br.
+957–962
+51, 1519–1521
+med. j. 316, 1127–1130
+78. yancey, p. g., rodrigueza, w. v., kilsdonk, e. p., stoudt, g. w., johnson,
+w. j., phillips, m. c., and rothblat, g. h. (1996) j. biol. chem. 271,
+16026–16034
+79. yeagle, p. l. (1991) biochimie (paris) 73, 1303–1310
+80. maxfield, f. r., and tabas, i. (2005) nature 438, 612–621
+81. xu, f., rychnovsky, s. d., belani, j. d., hobbs, h. h., cohen, j. c., and
+man cell 11, 3–12
+gene 18, 7719–7730
+85. fiers, w., beyaert, r., declercq, w., and vandenabeele, p. (1999) onco-
+86. edinger, a. l., and thompson, c. b. (2004) curr. opin. cell biol. 16,
+87. fink, s. l., and cookson, b. t. (2005) infect. immun. 73, 1907–1916
+88. holler, n., zaru, r., micheau, o., thome, m., attinger, a., valitutti, s.,
+bodmer, j. l., schneider, p., seed, b., and tschopp, j. (2000) nat. immunol.
+1, 489–495
+89. grasl-kraupp, b., ruttkay-nedecky, b., koudelka, h., bukowska, k.,
+bursch, w., and schulte-hermann, r. (1995) hepatology 21, 1465–1468
+90. lakhani, s. a., masud, a., kuida, k., porter, g. a., jr., booth, c. j., mehal,
+w. z., inayat, i., and flavell, r. a. (2006) science 311, 847–851
+91. awad, a. b., and fink, c. s. (2000) j. nutr. 130, 2127–2130
+92. awad, a. b., roy, r., and fink, c. s. (2003) oncol. rep. 10, 497–500
+93. fadok, v. a., bratton, d. l., and henson, p. m. (2001) j. clin. investig. 108,
+94. li, y., gerbod-giannone, m. c., seitz, h., cui, d., thorp, e., tall, a. r.,
+matsushima, g. k., and tabas, i. (2006) j. biol. chem. 281, 6707–6717
+95. saito, t., takahashi, h., doken, h., koyama, h., and aratani, y. (2005)
+biosci. biotechnol. biochem. 69, 2207–2212
+96. cao, j., semenova, m. m., solovyan, v. t., han, j., coffey, e. t., and
+courtney, m. j. (2004) j. biol. chem. 279, 35903–35913
+97. devin, a., lin, y., and liu, z. g. (2003) embo rep. 4, 623–627
+november 3, 2006 • volume 281 • number 44
+journal of biological chemistry 33649
+lipids and lipoproteins:
+sitosterol-containing lipoproteins trigger
+free sterol-induced caspase-independent 
+death in acat-competent macrophages
+  
+liping bao, yankun li, shi-xian deng,
+donald landry and ira tabas
+j. biol. chem. 
+doi: 10.1074/jbc.m606339200 originally published online august 24, 2006
+2006, 281:33635-33649.
+access the most updated version of this article at doi: 
+  
+find articles, minireviews, reflections and classics on similar topics on the 
+  
+alerts: 
+•  
+•  
+  
+when this article is cited
+when a correction for this article is posted
+10.1074/jbc.m606339200
+jbc affinity sites
+click here
+ to choose from all of jbc's e-mail alerts
+this article cites 96 references, 40 of which can be accessed free at
+http://www.jbc.org/content/281/44/33635.full.html#ref-list-1
+  

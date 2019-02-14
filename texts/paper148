@@ -1,0 +1,1029 @@
+the journal of biological chemistry vol. 282, no. 8, pp. 5641–5652, february 23, 2007
+© 2007 by the american society for biochemistry and molecular biology, inc. printed in the u.s.a.
+trehalose, a novel mtor-independent autophagy enhancer,
+accelerates the clearance of mutant huntingtin
+and ␣-synuclein*□s
+received for publication, october 10, 2006, and in revised form, november 22, 2006 published, jbc papers in press, december 20, 2006, doi 10.1074/jbc.m609532200
+sovan sarkar‡, janet e. davies‡, zebo huang§1, alan tunnacliffe§, and david c. rubinsztein‡2
+from the ‡department of medical genetics, cambridge institute for medical research, university of cambridge,
+addenbrooke’s hospital, hills road, cambridge cb2 2xy, united kingdom and the §institute of biotechnology,
+university of cambridge, tennis court road, cambridge cb2 1qt, united kingdom
+trehalose, a disaccharide present in many non-mammalian
+species, protects cells against various environmental stresses.
+whereas some of the protective effects may be explained by its
+chemical chaperone properties, its actions are largely unknown.
+here we report a novel function of trehalose as an mtor-inde-
+pendent autophagy activator. trehalose-induced autophagy
+enhanced the clearance of autophagy substrates like mutant
+huntingtin and the a30p and a53t mutants of ␣-synuclein,
+associated with huntington disease (hd) and parkinson disease
+(pd), respectively. furthermore, trehalose and mtor inhibi-
+tion by rapamycin together exerted an additive effect on the
+clearance of
+these aggregate-prone proteins because of
+increased autophagic activity. by inducing autophagy, we
+showed that trehalose also protects cells against subsequent
+pro-apoptotic insults via the mitochondrial pathway. the dual
+protective properties of trehalose (as an inducer of autophagy
+and chemical chaperone) and the combinatorial strategy with
+rapamycin may be relevant to the treatment of hd and related
+diseases, where the mutant proteins are autophagy substrates.
+trehalose is a non-reducing disaccharide found in many or-
+ganisms, including bacteria, yeast, fungi, insects, invertebrates,
+and plants. it is the natural hemolymph sugar of invertebrates.
+it functions to protect the integrity of cells against various envi-
+ronmental stresses like heat, cold, desiccation, dehydration,
+and oxidation by preventing protein denaturation (1). many of
+the stress-protecting properties of trehalose were discovered in
+yeast (2); however, it also has beneficial effects in mammals
+where it is not endogenously synthesized. for instance, it may
+be a valuable tool for cryopreservation of cells (1, 3). it is not
+* this work was supported in part by the gates cambridge scholarship (to
+s. s.), wellcome trust senior fellowship in clinical science (to d. c. r.), an
+mrc programme grant, eu framework vi (eurosca) (to d. c. r.), and
+bbsrc grant 8/c17391 (to a. t.). the costs of publication of this article were
+defrayed in part by the payment of page charges. this article must there-
+fore be hereby marked “advertisement” in accordance with 18 u.s.c. sec-
+tion 1734 solely to indicate this fact.
+□s the on-line version of this article (available at http://www.jbc.org) contains
+supplemental figs. s1–s5.
+1 current address: college of pharmacy, wuhan university, wuhan 430072,
+china.
+2 to whom correspondence should be addressed: dept. of medical genetics,
+university of cambridge, cambridge inst. for medical research, addenbro-
+oke’s hospital, hills road, cambridge, cb2 2xy, united kingdom. tel.:
+0-1223-762608; fax: 0-1223-331206; e-mail: dcr1000@cam.ac.uk.
+clear how trehalose mediates many of its protective effects, but
+some may be via its ability to act as chemical chaperone and
+influence protein folding through direct protein-trehalose
+interactions (4). trehalose inhibits amyloid formation of insu-
+lin in vitro (5) and prevents aggregation of ␤-amyloid associated
+with alzheimer disease (6). recently, trehalose was shown to
+inhibit polyglutamine (polyq)3-mediated protein aggregation
+in vitro, reduce mutant huntingtin aggregates and toxicity in
+cell models and alleviate polyq-induced pathology in the r6/2
+mouse model of huntington disease (hd) (7). this protective
+effect was suggested to be caused by trehalose binding to
+expanded polyq and stabilizing the partially unfolded mutant
+protein.
+hd is an autosomal-dominant neurodegenerative disorder
+caused by a cag trinucleotide repeat expansion, which results
+in an abnormally long polyq tract in the n terminus of the
+huntingtin protein. asymptomatic individuals have 35 or fewer
+cag repeats, whereas hd is caused by 36 or more repeats. hd
+and related polyq expansion diseases are associated with the
+formation of intraneuronal inclusions (also known as aggre-
+gates) by the mutant proteins containing the expanded polyq
+tracts. the toxicity of mutant huntingtin is thought to be
+exposed after it is cleaved to form n-terminal fragments con-
+sisting of the first 100–150 residues containing the expanded
+polyq tract, which are also the toxic species found in aggre-
+gates. thus, hd pathogenesis is frequently modeled with exon
+1 fragments containing expanded polyq repeats, which cause
+aggregate formation and toxicity in cell models and in vivo (8).
+the clearance of aggregate-prone proteins like mutant hun-
+tingtin fragments, other polyq mutations, mutant ␣-synucleins
+and tau is strongly dependent on macroautophagy, generally
+referred to as autophagy (9–13). autophagy is a process that
+allows bulk degradation of cytoplasmic contents. it involves the
+formation of double membrane structures called autophago-
+somes, which fuse with lysosomes to form autolysosomes
+3 the abbreviations used are: polyq, polyglutamine; baf, bafilomycin a1;
+4e-bp1, eukaryotic initiation factor 4e-binding protein 1; egfp-hdq74,
+egfp-tagged huntingtin exon 1 with 74 polyglutamine repeats; glu, glu-
+cose; hd, huntington disease; lc3, microtubule-associated protein 1 light
+chain 3; lact, lactacystin; 3-ma, 3-methyladenine; mtor, mammalian tar-
+get of rapamycin; mef, mouse embryonic fibroblasts; pd, parkinson dis-
+ease; p70s6k, ribosomal s6 protein kinase; raf, raffinose; rap, rapamycin;
+s6p, ribosomal s6 protein; sor, sorbitol; suc, sucrose; ␣-syn, ␣-synuclein;
+tre, trehalose; ha, hemagglutinin; dapi, 4⬘,6-diamidino-2-phenylindole;
+egfp, enhanced green fluorescent protein.
+february 23, 2007 • volume 282 • number 8
+journal of biological chemistry 5641
+trehalose induces autophagy
+where their contents are degraded (14). induction of autophagy
+reduces the levels of mutant huntingtin and protects against its
+toxicity in cells and in transgenic drosophila and mouse models
+of hd (10, 11, 13). the apparent clearance of huntingtin aggre-
+gates by autophagy is likely to be a consequence of removal of
+aggregate precursors (soluble and oligomeric species), rather
+than big inclusions, which do not appear to be membrane-
+bound and are also much larger than typical autophagosomes.
+currently, the only suitable pharmacological strategy for
+upregulating autophagy in mammalian brains is to use rapamy-
+cin, or its analogues, that inhibit the mammalian target of rapa-
+mycin (mtor), a negative regulator of autophagy (14).
+parkinson disease (pd) is another condition associated with
+aggregate formation. the intraneuronal lewy body aggregates
+seen in pd have the protein ␣-synuclein as a major component.
+the a53t and a30p point mutations in ␣-synuclein cause
+autosomal dominant forms of pd (15, 16). the a53t and a30p
+␣-synuclein mutants are substrates of autophagy, and the clear-
+ance of these mutant forms is retarded when autophagy is
+inhibited (12). while these forms of ␣-synuclein aggregate in
+vivo, we do not observe overt aggregation in our cell lines (12).
+furthermore, unlike wild-type ␣-synuclein,
+these mutant
+forms are not cleared by the chaperone-mediated autophagy
+pathway (17), which is distinct from macroautophagy (which
+we call autophagy in this report). hence, we have used these
+mutations as model autophagy substrates.
+here we identify a novel role for trehalose as an autophagy
+inducer. trehalose, in aqueous solutions, leads to enhanced
+clearance of aggregate-prone proteins like mutant huntingtin
+and ␣-synuclein, and protects cells from subsequent pro-apo-
+ptotic insults.
+experimental procedures
+plasmid constructs—hd gene exon 1 fragment with 74
+polyq repeats in pegfp-c1 (clontech) (egfp-hdq74) and
+ha-hdq74 constructs were characterized previously (18).
+egfp-lc3, myc-lc3-ha (from t. yoshimori), egfp-atg5
+(from n. mizushima), and egfp-bax (from r. youle) con-
+structs were obtained as kind gifts. pabpn1 a17 (from e.
+wahle) was subcloned into phm6 (roche applied science) to
+generate the ha-pabpn1 a17 construct.
+reagents—compounds used were 100 mm d-(⫹)-trehalose
+dihydrate, 100 mm sucrose, 100 mm d-(⫹)-raffinose pentahy-
+drate, 100 mm d-sorbitol, 0.2 ␮m rapamycin, 200 nm bafilomy-
+cin a1, 10 mm 3-methyladenine, 10 ␮m lactacystin, 3 ␮m stau-
+rosporine, 200 ␮g/ml congo red (all from sigma-aldrich), and
+100 mm d-(⫹)-glucose (bdh).
+mammalian cell culture and transfection—african green
+monkey kidney cells (cos-7), human neuroblastoma cells (sk-
+n-sh), human cervical carcinoma cells (hela), stable hela
+cells expressing egfp-lc3 (19) (kind gift from a. m. tolk-
+ovsky), and wild-type atg5 (atg5⫹/⫹) and atg5-deficient
+(atg5⫺/⫺) mouse embryonic fibroblasts (20) (mefs) (kind gift
+from n. mizushima) were maintained in dulbecco’s modified
+eagle’s medium supplemented with 10% fetal bovine serum,
+100 units/ml penicillin/streptomycin, and 2 mm l-glutamine
+(sigma) at 37 °c, 5% co2.
+inducible pc12 stable cell lines expressing egfp-hdq74 or
+egfp-hdq23 (10, 21), and ha-tagged a30p or a53t
+␣-synuclein mutants (12), previously characterized, were main-
+tained at 75 ␮g/ml hygromycin b (calbiochem) in dulbecco’s
+modified eagle’s medium with 10% horse serum, 5% fetal
+bovine serum, 100 units/ml penicillin/streptomycin, 2 mm
+l-glutamine, and 100 ␮g/ml g418 (invitrogen) at 37 °c, 10%
+co2.
+t-rex 293 (invitrogen), derived from human embryonal kid-
+ney cell line hek 293, was maintained in dulbecco’s modified
+eagle’s medium with 10% horse serum, 5% fetal bovine serum,
+100 units/ml penicillin/streptomycin, 2 mm l-glutamine, and 5
+␮g/ml blasticidin s (invitrogen) at 37 °c, 5% co2. qa1/12/9a
+and a21/12/2b (tre) are stable transfectant cell lines produced
+from t-rex 293, which were maintained in similar medium
+and conditions as t-rex 293 along with the addition of 500
+␮g/ml g418 (geneticin) and 250 ␮g/ml zeocin (invitrogen).
+cells were transfected with the constructs for 4 h using lipo-
+fectamine or lipofectamine 2000 reagent (invitrogen) accord-
+ing to the manufacturer’s protocol, fixed with 4% paraformal-
+dehyde (sigma) after 48 h (egfp-hdq74) or 2 h (egfp-lc3)
+post-transfection, and mounted in citifluor (citifluor ltd.)
+containing 4⬘,6-diamidino-2-phenylindole (dapi; 3 ␮g/ml;
+sigma-aldrich).
+quantification of aggregate formation and cell death—ap-
+proximately 200 egfp-positive cells were counted for the pro-
+portion of cells with egfp-hdq74 aggregates, as described
+previously. only egfp-positive cells were counted so that we
+count only the transfected cells. if an egfp-positive cell has one
+or many aggregates, the aggregate score is one. if an egfp-
+positive cell does not have any aggregate, the aggregate score is
+zero. nuclei were stained with dapi and those showing apo-
+ptotic morphology were considered abnormal. these criteria
+are specific for cell death, which highly correlate with pro-
+pidium iodide staining in live cells (22). similar assessment for
+cell death was done after apoptotic insults with staurosporine
+or bax. experiments were done in triplicate at least twice.
+quantification of cells with egfp-lc3 vesicles—similar
+analyses in triplicate were done for counting the proportion of
+egfp-positive cells with egfp-lc3 vesicles. approximately
+100 egfp-positive cells were counted for the proportions of
+egfp-positive cells with ⬎5 lc3-positive vesicles. we consid-
+ered an egfp-positive cell as having a score of zero if there were
+5 or fewer vesicles (as cells have basal levels of autophagy) and
+cells scored one if they had ⬎5 lc3-positive vesicles (13).
+clearance of mutant huntingtin and ␣-synucleins—stable
+inducible pc12 cell lines expressing egfp-hdq74, egfp-
+hdq23, or ␣-synuclein mutants (a30p or a53t) were induced
+with 1 ␮g/ml doxycycline (sigma) for 8 and 48 h, respectively
+(10, 12). transgene expression was switched off by removing
+doxycycline from medium. cells were treated with or without
+compounds for time points as indicated in experiments. com-
+pounds were replenished every 24 h for egfp-hdq74 clear-
+ance. clearance of soluble huntingtin or ␣-synuclein mutants
+was measured by immunoblotting with antibody against egfp
+or ha, respectively.
+western blot analysis—cell pellets were lysed on ice in
+laemmli buffer (62.5 mm tris-hcl, ph 6.8, 5% ␤-mercapto-
+5642 journal of biological chemistry
+volume 282 • number 8 • february 23, 2007
+ethanol, 10% glycerol, and 0.01% bromphenol blue) for 30
+min in presence of protease inhibitors (roche applied sci-
+ence). primary antibodies include anti-egfp (8362-1, clon-
+tech), anti-ha (12ca5, covance), anti-complex iv subunit
+iv (a-21348, molecular probes), anti-cytochrome c (4272),
+anti-caspase 3 (9665), anti-mtor (2972), anti-phospho-
+mtor (ser2448) (2971), anti-p70 s6 kinase (9202), anti-
+phospho-p70 s6 kinase (thr389) (9206), anti-4e-bp1 (9452),
+anti-phospho-4e-bp1 (thr37/46) (9459) (all from cell signal-
+ing technology), anti-lc3 (kind gift from t. yoshimori),
+anti-beclin-1 (3738, cell signaling), anti-atg7 (600-401-487,
+rockland), anti-atg12 (36-6400, zymed laboratories), anti-
+c-myc (c3956, sigma), anti-actin (a2066, sigma), and
+anti-tubulin (clone dm 1a, sigma). blots were probed with
+anti-mouse or anti-rabbit igg-horseradish peroxidase and
+visualized using ecl or ecl plus detection kit (amersham
+biosciences).
+generation of stable human cell line synthesizing intracel-
+lular trehalose—t-rex 293 (invitrogen), derived from the
+human embryonal kidney cell line hek 293, expresses tetr,
+which represses transcription from promoters containing
+the tet operator unless tetracycline or derivatives are present
+in the medium. qa1/12/9a and a21/12/2b (tre) are stable
+transfectant cell lines produced from t-rex 293, which con-
+tains a tetracycline-inducible form of the trehalose-6-phos-
+phate synthase gene (otsa ) ofescherichia coli, together with
+constitutively expressed otsb (trehalose-6-phosphate phospha-
+tase gene). intracellular trehalose concentration in qa1/12/9a
+(tre) cell line, 24 h after tetracycline induction, is ⬃20 mm as
+determined by gas chromatography (23).
+immunocytochemistry—cells were fixed with 4% paraform-
+aldehyde in 0.1 m pbs, ph 7.6, immunolabeled with antibody
+against active caspase 3 (g7481, promega) or ha (12ca5,
+covance) and fluorophore-conjugated secondary antibody
+(alexa fluor 488 (green) goat anti-rabbit or alexa fluor 594
+(red) goat anti-mouse (molecular probes, cambridge bio-
+science), respectively), and mounted in citifluor containing
+dapi (3 ␮g/ml; sigma-aldrich) to visualize nuclei. approxi-
+mately 200 cells were scored for abnormal apoptotic nuclei (cell
+death) and active caspase 3 (bright, fluorescent immunolabel-
+ing using the active caspase 3 antibody).
+microscopy—transfected cells were analyzed on a nikon
+eclipse e600 fluorescence microscope (plan-apo 60⫻/1.4 oil
+immersion lens at room temperature) (nikon, inc.). images of
+egfp-lc3 hela stable or cos-7 cells were acquired on a zeiss
+lsm510 meta confocal microscope (63 ⫻ 1.4 na plan-apoc-
+hromat oil immersion or fluar 40⫻/1.3 oil lens, respectively) at
+room temperature using zeiss lsm510 v3.2 software (carl
+zeiss, inc.), and adobe photoshop 6.0 (adobe systems, inc.)
+was used for subsequent image processing.
+statistical analysis—aggregate formation, cell death, or
+egfp-lc3 vesicles were expressed as percentages from tripli-
+cate samples, and the error bars denote s.e. p values were deter-
+mined by unconditional logistical regression analysis, using the
+general log-linear analysis option of spss 9 software (spss,
+chicago). densitometry analysis on the immunoblots was done
+by scion image beta 4.02 software (scion corporation) from
+three independent experiments (n ⫽ 3). significance for the
+trehalose induces autophagy
+clearance of mutant proteins was determined by factorial
+anova test using statview software, version 4.53 (abacus
+concepts), where the control condition was set to 100%. the
+y-axis values are shown in percentage (%), and the error bars
+denote s.e. ***, p ⬍ 0.001; **, p ⬍ 0.01; *, p ⬍ 0.05; ns,
+nonsignificant.
+results
+trehalose reduces polyq-mediated aggregation and cell
+the clearance of soluble mutant
+death and enhances
+huntingtin—we confirmed that trehalose reduced aggregation
+and cell death caused by egfp-tagged huntingtin exon 1 with
+74 polyq repeats (egfp-hdq74) in cos-7 (non-neuronal)
+and sk-n-sh (neuronal precursor) cells (fig. 1, a and b and
+supplemental fig. s1a). this effect of 100 mm trehalose was not
+caused by osmotic stress and was not a general property of the
+disaccharides, as no such effect was seen with 100 mm sucrose
+(a disaccharide), raffinose (a trisaccharide), or sorbitol (a sugar
+alcohol) (fig. 1, a and b).
+we tested if the reduced aggregation of the huntingtin con-
+struct was partly because of enhanced clearance leading to
+lower levels (10, 18), using a stable doxycycline-inducible pc12
+cell line expressing egfp-hdq74, where transgene expression
+is first induced by adding doxycycline and then switched off by
+removing doxycycline from the medium. if the transgene
+expression level is followed at various times after switching off
+expression after an initial induction period, one can assess if
+specific agents alter the clearance of the transgene product, as
+the amount of transgene product decays when synthesis is
+stopped (10). trehalose significantly reduced egfp-hdq74
+aggregates at 48 and 72 h and enhanced the clearance of soluble
+egfp-hdq74 and insoluble mutant huntingtin (that gets
+retarded in the stacking gel) at 120 h (fig. 1, c and d and sup-
+plemental fig. s1b). sucrose, raffinose, and sorbitol did not
+have any effects on the clearance of egfp-hdq74 when used at
+similar concentrations (fig. 1e). the enhanced clearance of
+egfp-hdq74 is not simply a chaperone effect, as no clearance
+was observed with congo red at doses that do reduce egfp-
+hdq74 aggregation and toxicity (supplemental fig. s1, c and
+d). however, trehalose did not influence the clearance of wild-
+type huntingtin exon 1 (egfp-hdq23) (fig. 1f and supple-
+mental fig. s1e).
+trehalose enhances the clearance of ␣-synuclein mutants—
+we also assessed the clearance of a53t and a30p ␣-synuclein
+mutants using stable doxycycline-inducible pc12 cell lines,
+using similar switch-on/off paradigms to egfp-hdq74, as
+these are autophagy substrates (12). trehalose significantly
+enhanced the clearance of a30p and a53t mutants of
+␣-synuclein at 24h (fig. 2, a and b). however, it had no signif-
+icant effect on the clearance of wild-type ␣-synuclein at 24 h
+(fig. 2c). this is entirely consistent with previous observations
+that wild-type ␣-synuclein clearance is not obviously retarded
+when autophagy is blocked, in contrast to the mutants (12, 17).
+trehalose reduces mutant huntingtin aggregates by auto-
+phagic route—we tested if the enhanced clearance of mutant
+huntingtin mediated by trehalose was by autophagy or the pro-
+teasomal route, using inhibitors of autophagy (3-methyl ade-
+nine, 3-ma) and the proteasome (lactacystin). both these
+february 23, 2007 • volume 282 • number 8
+journal of biological chemistry 5643
+trehalose induces autophagy
+figure 1. trehalose reduces mutant huntingtin aggregates and toxicity and enhances the clearance of its soluble forms. a and b, cos-7 cells trans-
+fected with egfp-hdq74 for 4 h were treated with or without 100 mm suc, 100 mm raf, 100 mm sorb or 100 mm tre for 48 h. the percentage of egfp-positive
+cells with egfp-hdq74 aggregates (a) or apoptotic morphology (cell death) (b) was assessed. control represents untreated cells. p ⫽ 0.918 (suc), p ⫽ 0.399
+(raf), p ⫽ 0.225 (sor), p ⬍ 0.0001 (tre) for aggregation (a); p ⫽ 0.389 (suc), p ⫽ 0.127 (raf), p ⫽ 0.274 (sor), p ⬍ 0.0001 (tre) for cell death (b). c, stable inducible
+pc12 cells expressing egfp-hdq74 were induced with doxycycline for 8 h, and transgene expression was then switched off (by removing doxycycline) for 24,
+48, or 72 h, with or without 100 mm trehalose. cells were assessed at each time points for the percentage of cells with egfp-hdq74 aggregates. p ⫽ 0.253 (24
+h), p ⫽ 0.024 (48 h), p ⬍ 0.0001 (72 h). d, stable inducible pc12 cells expressing egfp-hdq74 were induced with doxycycline for 8 h, and transgene expression
+was then switched off (by removing doxycycline) for 24, 72, or 120 h, with (⫹) or without (⫺) 100 mm trehalose. clearance of aggregated (in stacking gel) and
+soluble egfp-hdq74 were analyzed by immunoblotting with antibody against egfp (panel i) and densitometry analysis relative to actin (panel ii). p ⬍ 0.0001
+(at 120 h). e, clearance of soluble egfp-hdq74 in stable pc12 cells as in d, treated with or without 100 mm sucrose, 100 mm raffinose, or 100 mm sorbitol, was
+analyzed by immunoblotting with antibody against egfp (panel i) and densitometry analysis relative to actin (panel ii). p ⫽ 0.4476 (suc), p ⫽ 0.5697 (raf), p ⫽
+0.1381 (sor). f, stable inducible pc12 cells expressing egfp-hdq23 were induced as in d and treated with or without 100 mm trehalose for 120 h. clearance of
+soluble egfp-hdq23 was analyzed by immunoblotting with antibody against egfp (panel i) and densitometry analysis relative to actin (panel ii). p ⫽
+0.1669. *, p ⬍ 0.05; ***, p ⬍ 0.001; ns, nonsignificant.
+autophagy was inhibited by 3-ma,
+trehalose could not further reduce
+egfp-hdq74 aggregates (fig. 3a
+and supplemental fig. s2a). how-
+ever, cells treated with the protea-
+some inhibitor lactacystin and tre-
+halose had significantly reduced
+egfp-hdq74 aggregates,
+com-
+pared with cells treated with lacta-
+cystin alone (fig. 3a and supple-
+mental fig. s2a). when 3-ma was
+used together with lactacystin, the
+beneficial effect of trehalose on
+aggregation was lost and inclu-
+sions were significantly increased
+(fig. 3a and supplemental fig.
+s2a). these data suggest that tre-
+halose
+enhanced clearance of
+egfp-hdq74 through the auto-
+phagic route.
+figure 2. trehalose enhances the clearance of the ␣-synuclein mutants. a and b, stable inducible pc12 cell
+line expressing a30p (a) or a53t (b) ␣-synuclein mutant was induced with doxycycline for 48 h, and expression
+of transgene was switched off for 24 h, with (⫹) or without (⫺) 100 mm tre. clearance of a30p (a) or a53t (b)
+␣-synuclein (␣-syn) was analyzed by immunoblotting with antibody against ha (panel i) and densitometry
+analysis relative to actin (panel ii). p ⫽ 0.0005 (a); p ⫽ 0.0072 (b). c, stable inducible pc12 cell line expressing
+wild-type ␣-synuclein was induced with doxycycline for 48 h, and the expression of the transgene was
+switched off for 24 h, with or without 100 mm trehalose. clearance of wild-type ␣-synuclein was analyzed by
+immunoblotting with antibody against ha (panel i) and densitometry analysis relative to actin (panel ii). p ⫽
+0.8664. ***, p ⬍ 0.001; ns, nonsignificant.
+inhibitors increased egfp-hdq74 aggregates and toxicity in
+cos-7 cells (fig. 3a and supplemental fig. s2, a and b), con-
+sistent with our previous observations that this protein is
+cleared both by autophagy and proteasome (10, 12). when
+we further confirmed these data by comparing mutant hun-
+tingtin aggregation in autophagy-competent mefs (atg5⫹/⫹)
+or matched mefs lacking the essential autophagy gene atg5
+(atg5⫺/⫺) (20). in untreated atg5⫺/⫺ cells, the atg5/autophagy
+5644 journal of biological chemistry
+volume 282 • number 8 • february 23, 2007
+trehalose induces autophagy
+figure 3. trehalose reduces mutant huntingtin aggregates by autophagic pathway. a, cos-7 cells transfected with egfp-hdq74 construct for 4 h were
+treated for 48 h with or without 100 mm tre, 10 mm 3-ma, 10 mm 3-ma, and 100 mm trehalose, 10 ␮m lact, 10 ␮m lactacystin and 100 mm trehalose, or 10 ␮m
+lactacystin with 10 mm 3-ma and 100 mm trehalose. the percentage of egfp-positive cells with egfp-hdq74 aggregates was counted. p ⫽ 0.003 (tre), p ⬍
+0.0001 (3-ma, lact, 3-ma⫹tre, tre⫹3-ma⫹lact, lact versus lact⫹tre, and lact⫹tre versus tre⫹3-ma⫹lact), p ⫽ 0.091 (lact⫹tre), p ⫽ 0.3527 (3-ma versus
+3-ma⫹tre). representative microscopic images are shown in supplemental fig. s2a. b and c, wild-type (atg5⫹/⫹) and knock-out (atg5⫺/⫺) atg5 mefs were
+transfected with egfp-hdq74 construct for 4 h and treated with either 100 mm trehalose or left untreated (control) for 24 h. the percentage of egfp-positive
+cells with egfp-hdq74 aggregates (b) and cell death (c) was assessed. p ⫽ 0.012 (tre in atg5⫹/⫹), p ⫽ 0.153 (tre in atg5⫺/⫺), p ⬍ 0.0001 (control in atg5⫹/⫹
+versus control in atg5⫺/⫺) for aggregation (b); p ⬍ 0.0001 (tre in atg5⫹/⫹), p ⫽ 0.514 (tre in atg5⫺/⫺), p ⬍ 0.0001 (control in atg5⫹/⫹ versus control in atg5⫺/⫺)
+for cell death (c). d, atg5⫹/⫹ and atg5⫺/⫺ mefs were treated with (⫹) or without (⫺) 100 mm trehalose for 24 h and analyzed for the levels of
+endogenous lc3-ii by immunoblotting with antibody against lc3 (panel i) and densitometry analysis relative to actin (panel ii). p ⫽ 0.0047 (tre in
+atg5⫹/⫹ cells). ***, p ⬍ 0.001; **, p ⬍ 0.01; *, p ⬍ 0.05; ns, nonsignificant.
+deficiency dramatically increased mutant huntingtin aggrega-
+tion and toxicity compared with untreated atg5⫹/⫹ cells, as
+this mutant protein is an autophagy substrate (fig. 3, b and c).
+when these cells were treated with trehalose, the mutant hun-
+tingtin aggregation and toxicity were significantly reduced in
+atg5⫹/⫹ cells, but not in atg5/autophagy-deficient (atg5⫺/⫺)
+cells, thus confirming that the ability of trehalose to induce
+autophagy is a major factor behind its ability to reduce mutant
+huntingtin aggregation in cells (fig. 3, b and c).
+trehalose induces autophagy—we first assessed the effect of
+trehalose on autophagy in the atg5⫹/⫹ and atg5⫺/⫺ mefs by
+measuring the levels of microtubule-associated protein 1 light
+chain 3 (lc3). endogenous lc3 is processed post-translation-
+ally into lc3-i, which is cytosolic. lc3-i is converted to lc3-ii,
+which associates with autophagosome membranes (24). lc3-ii
+levels relative to actin/tubulin correlate with autophagosome
+number per cell (24, 25). as we are interested in autophago-
+some number per cell, we have not quantified lc3-ii versus
+lc3-i, as some lc3-ii can be converted back to lc3-i (26).
+trehalose significantly increased lc3-ii levels in the autoph-
+agy-competent atg5⫹/⫹ cells, but not in the autophagy-defi-
+cient atg5⫺/⫺ cells (fig. 3d).
+lc3-ii levels were significantly increased also in cos-7 cells
+treated with trehalose for 24 h (fig. 4a). hela cells stably
+expressing lc3 fused to egfp (egfp-lc3) (19) treated for 24 h
+with trehalose had significantly higher egfp-lc3-ii levels (fig.
+4b) compared with untreated cells. the increase in lc3-ii by
+trehalose is similar to what has been observed previously when
+autophagy is induced (24). in this cell line, 100 mm trehalose
+(the concentration used in our experiments) induced autoph-
+agy (supplemental fig. s3a).
+accumulation of lc3-ii can occur because of increased
+autophagosome formation, but also if there is impaired auto-
+phagosome-lysosome fusion. we assayed lc3-ii in the pres-
+ence of bafilomycin a1, which blocks autophagosome-lyso-
+some fusion (27). bafilomycin a1 resulted in the expected
+increase in egfp-lc3-ii in stable hela cells (fig. 4c). the
+dose of bafilomycin a1 used is saturating for lc3-ii levels in
+this assay (data not shown). further blockage of autophago-
+some-lysosome fusion via a bafilomycin a1-independent
+mechanism, using the dynein inhibitor erythro-9-[3-(2-hy-
+droxynonyl)]adenine (ehna) (28), along with this dose of
+bafilomycin a1, results in no increase in lc3-ii compared
+with bafilomycin a1 alone (data not shown). however, tre-
+halose significantly increased egfp-lc3-ii levels in pres-
+ence of bafilomycin a1, compared with bafilomycin a1
+alone, strongly arguing that the increased autophagosomes
+induced by trehalose are upstream of autophagosome-lyso-
+february 23, 2007 • volume 282 • number 8
+journal of biological chemistry 5645
+trehalose induces autophagy
+figure 4. trehalose induces autophagy. a, cos-7 cells treated with (⫹) or without (⫺) 100 mm tre for 24 h were analyzed for the levels of endogenous
+lc3-ii by immunoblotting with anti-lc3 antibody (panel i) and densitometry analysis relative to actin (panel ii). p ⫽ 0.0018. b, hela cells stably expressing
+egfp-lc3 were treated with or without 100 mm trehalose for 24 h. the extent of autophagy was analyzed by the levels of egfp-lc3-ii by immunoblotting
+with antibody against egfp (panel i) and densitometry analysis relative to actin (panel ii). p ⫽ 0.0009. c, hela cells stably expressing egfp-lc3 were
+treated for 4 h with or without 200 nm bafilomycin a1 (baf), or with 200 nm bafilomycin a1 in the presence or absence of 100 mm trehalose. cells were
+left untreated or pretreated with trehalose for 24 h before adding bafilomycin a1. levels of egfp-lc3-ii were determined by immunoblotting with
+antibody against egfp (panel i) and densitometry analysis relative to actin (panel ii). p ⫽ 0.0033 (baf), p ⬍ 0.0001 (tre and baf⫹tre), p ⫽ 0.0003 (baf versus
+baf⫹tre), p ⫽ 0.1053 (tre versus baf⫹tre). d, uninduced pc12 a53t ␣-synuclein stable cells were differentiated with 100 ng/ml nerve growth factor
+(ngf) for 5 days into non-mitotic neuronal cells and then treated with or without 200 nm bafilomycin a1 in presence or absence of 100 mm trehalose for
+4 h. lc3-ii levels were analyzed by immunoblotting with antibody against lc3 (panel i) and densitometry analysis relative to tubulin (panel ii). cells were
+left untreated or pretreated with trehalose for 24 h prior to bafilomycin a1. p ⫽ 0.0193 (baf); p ⫽ 0.0003 (baf⫹tre); p ⫽ 0.0065 (baf versus baf⫹tre).
+e, cos-7 cells transfected with egfp-lc3 construct for 4 h were treated with or without 100 mm trehalose or 0.2 ␮m rapamycin (rap) for 2 h and analyzed
+by fluorescence microscopy. cells were left untreated or pretreated with trehalose or rapamycin for 24 h before transfection. the percentage of
+egfp-positive cells with ⬎5 egfp-lc3 vesicles was assessed. p ⬍ 0.0001 (tre); p ⬍ 0.0001 (rap). f, hela cells stably expressing egfp-lc3 were treated
+with or without 100 mm trehalose for 24 h. confocal microscopy images show cells containing egfp-positive autophagic vesicles. bar , 20␮m. note that
+autophagic activity and autophagosome number differ in various cell lines. the stable hela cell line expressing egfp-lc3 have more autophagic
+vesicles than cos-7 in untreated (control) conditions. thus, the criteria for assessing the number of autophagosomes with ⬎5 egfp-lc3 vesicles, as we
+have shown previously (13), can be used in cos-7, but not in the stable hela cell lines. ***, p ⬍ 0.001; **, p ⬍ 0.01; *, p ⬍ 0.05.
+some fusion, at the level of autophagosome formation (fig.
+4c). this result was confirmed in neuronally differentiated
+non-mitotic pc12 stable cells by analyzing endogenous
+lc3-ii (fig. 4d).
+we next assessed the effect of trehalose on autophagy by
+transfecting cos-7 cells with egfp-lc3, which localizes
+only to autophagic membranes but not on other membrane
+structures (24). as egfp-lc3 overexpression does not affect
+autophagic activity, numbers of egfp-lc3 vesicles have fre-
+quently been used to assess autophagic activity. assessment
+of autophagosome number with lc3 is both more sensitive
+and specific than electron microscopy (25). a significantly
+greater proportion of trehalose-treated cells expressing
+egfp-lc3 had overt vesicle formation compared with
+untreated cells (fig. 4e and supplemental fig. s3b). rapamy-
+cin, an inducer of autophagy, also increased the proportion
+of cells containing egfp-lc3 vesicles (fig. 4e). trehalose
+also increased lc3 vesicle numbers in stable egfp-lc3
+hela cells (fig. 4f).
+stable human cell lines synthesizing intracellular trehalose
+have increased autophagy—to test whether intracellular
+trehalose has the same effect as trehalose in the medium, we
+used a human cell line engineered to produce trehalose
+endogenously. the cell line, qa1/12/9a (tre), was derived
+from the human kidney cell line, t-rex 293, and carries
+inducible trehalose synthase genes. in induced qa1/12/9a
+(tre) cells containing ⬃20 mm trehalose, we saw increases in
+egfp-lc3 vesicles compared with the control cell
+line
+(t-rex 293), suggesting that trehalose enhances autophagy
+by acting on intracellular targets (fig. 5, a and b). similarly,
+increased autophagy was seen in another clonal cell line
+a21/12/2b (tre) synthesizing intracellular trehalose, com-
+pared with t-rex 293 cells (fig. 5c).
+in uninduced qa1/12/9a (tre) cells, trehalose is present
+at ⬃1 mm (probably due to leaky expression of otsa). even
+this low intracellular trehalose concentration increased
+lc3-ii levels, compared with uninduced t-rex 293 cells
+(fig. 5d). the qa1/12/9a (tre) cells have significantly more
+5646 journal of biological chemistry
+volume 282 • number 8 • february 23, 2007
+trehalose induces autophagy
+figure 5. stable human cell lines synthesizing intracellular trehalose have increased autophagy. a, part of the trace from the gas chromatograph where
+the internal sucrose standard eluted from the db-5 column at 11.9 min, whereas trehalose eluted at 13.1 min. the y-axis represents mass of each carbohydrate
+in arbitrary units (a.u.). the top panel is a free carbohydrate extract from t-rex 293 control cells; the bottom panel is from tetracycline-induced qa1/12/9a (tre)
+cells. using the sucrose internal standards, intracellular concentrations of trehalose in induced qa1/12/9a (tre) cells were estimated at ⬃20 mm. b and c, t-rex
+293 (control) and qa1/12/9a (b) or a21/12/2b (c) (tre) cell lines induced with 10 ␮g/ml doxycycline for 24 h were transfected with egfp-lc3 for 4 h followed
+by a further 2-h induction with doxycycline. the percentage of egfp-positive cells with ⬎5 egfp-lc3 vesicles as in fig. 4e was assessed. p ⬍ 0.0001 (b and c).
+d, levels of lc3-ii were assessed in uninduced t-rex 293 (control) and qa1/12/9a (tre) cells at 24 h by immunoblotting with antibody against lc3 (panel i) and
+densitometry analysis relative to tubulin (panel ii). p ⬍ 0.0001. ***, p ⬍ 0.001.
+lc3-ii after induction, compared with uninduced cells (sup-
+plemental fig. s3c).
+trehalose protects against subsequent pro-apoptotic insults—
+we recently described that autophagy induction by rapamycin
+leads to protection against subsequent pro-apoptotic insults
+acting via the mitochondrial cell death pathway. we provided a
+plausible mechanism for the protective effect exerted by rapa-
+mycin. we observed decreased levels of several mitochondrial
+proteins after rapamycin pretreatment, suggesting enhanced
+clearance of mitochondria, which are degraded via autophagy
+(14). after pro-apoptotic insults, we observed decreased levels
+of cytosolic cytochrome c and activated caspases in cells pre-
+treated with rapamycin, consistent with reduced mitochondrial
+load. we proposed that the protective effect of rapamycin can
+be accounted for by enhanced clearance of mitochondria by
+autophagy, thereby reducing cytosolic cytochrome c release
+and downstream caspase activation after pro-apoptotic insults
+(29).
+accordingly, we tested whether trehalose had similar protec-
+tive effects. trehalose reduced the levels of mitochondrial com-
+plex iv and cytochrome c in these cells, like rapamycin (fig. 6, a
+and b). these proteins accumulate when autophagy is inhibited
+(29). neither intracellular (30) nor extracellular (fig. 6c) treha-
+lose cause enhanced cell death in the cell types and paradigms
+we studied. trehalose protected against subsequent toxicity of
+bax, a pro-apoptotic protein that acts on mitochondria, against
+staurosporine toxicity and lowered levels of cleaved (active)
+caspase 3 (fig. 6, d–g). no benefit was observed with short
+term incubation (fig. 6, e and g), consistent with a model
+requiring prolonged autophagy to reduce mitochondrial load.
+these effects correlated with induction of lc3-ii levels by long
+term trehalose treatment (fig. 6h).
+to test if these effects were dependent on autophagy, we
+tested if trehalose incubation protected against subsequent
+pro-apoptotic insults in autophagy-incompetent atg5-defi-
+cient mefs (20). no protective effects of trehalose against stau-
+rosporine-induced cell death were seen in the atg5-deficient
+cells, while protective effects were seen in wild-type mefs, or if
+atg5 was transfected into the atg5-deficient cells (fig. 6, i and
+j). thus, enhancing autophagy with trehalose protects against
+subsequent pro-apoptotic insults.
+trehalose-induced autophagy is mtor-independent—we
+next studied whether induction of autophagy by trehalose was
+dependent on the known pathway that is negatively regulated
+by mtor in mammalian cells. mtor kinase activity can be
+inferred by the levels of phosphorylation of its substrates, ribo-
+somal s6 protein kinase (s6k1, also known as p70s6k) and
+eukaryotic initiation factor 4e-binding protein 1 (4e-bp1) at
+thr389 and thr37/46, respectively, and the phosphorylation of
+ribosomal s6 protein (s6p) at ser235/236, a substrate of p70s6k
+(31). while rapamycin (a specific mtor inhibitor) reduced
+phosphorylation of p70s6k, s6p and 4e-bp1, trehalose had no
+february 23, 2007 • volume 282 • number 8
+journal of biological chemistry 5647
+trehalose induces autophagy
+have additive effects in reducing
+egfp-hdq74 aggregates and cell
+death in cos-7 cells, compared
+with the single treatments of treha-
+lose or rapamycin (fig. 8, a and b).
+furthermore, trehalose and rapa-
+mycin together significantly facili-
+tated greater clearance of aggre-
+gated and soluble egfp-hdq74
+at 72 h and a30p ␣-synuclein at
+16 h, compared with single either
+compound alone (fig. 8, c and d).
+here we chose early time points
+when we do not see dramatic reduc-
+tions of the levels of these proteins
+when the cells are treated with
+either of the compounds alone. we
+have used saturating doses of rapa-
+mycin (0.2 ␮m) (13) and trehalose
+(supplemental fig. s3e). cos-7
+cells treated with both trehalose and
+rapamycin significantly had more
+egfp-positive
+containing
+egfp-lc3 vesicles than either of
+the compounds treated alone (fig.
+8e). thus autophagic activity can be
+further enhanced through simulta-
+neous
+induction of an mtor-
+dependent and -independent route,
+compared with each of the route
+induced individually.
+cells
+figure 6. trehalose protects cells against mitochondria-dependent apoptotic insults by its autophagy-
+inducing property. a and b, cos-7 cells were treated with or without 100 mm tre or 0.2 ␮m rap for 120 h, and
+mitochondrial load was analyzed by immunoblotting with antibody against complex iv (a) or cytochrome c (b).
+c, cos-7 cells treated with or without 100 mm trehalose for 24 h were fixed, and the nuclei were assessed for
+apoptotic morphology. p ⫽ 0.114. d, cos-7 cells were left untreated or pretreated with 100 mm trehalose for
+72 h followed by transfection with egfp-bax for 24 h to induce apoptosis. bax-transfected egfp-positive cells
+were scored for apoptotic nuclear morphology (cell death). p ⫽ 0.001. e and f, cos-7 cells were treated with
+100 mm trehalose for 72 h, 1 h, or left untreated prior to treating with the pro-apoptotic insult 3 ␮m staurospo-
+rine for 6 h. cells were scored for apoptotic nuclear morphology (cell death) (e) and active caspase 3 immuno-
+reactivity (f). p ⫽ 0.472 (1 h tre), p ⬍ 0.0001 (72 h tre) (e); p ⫽ 0.01 (f). g, cos-7 cells were treated with 100 mm
+trehalose for 72 h, 1 h, or left untreated prior to addition of 3 ␮m staurosporine fo r 6 h on thetrehalose-treated
+cells. caspase 3 activation was assessed by immunoblotting with antibody against caspase 3 (panel i) and
+densitometry analysis of cleaved (active) caspase 3 levels relative to actin (panel ii). p ⫽ 0.1062 (stau versus
+stau⫹1h tre); p ⫽ 0.0055 (stau versus stau⫹72h tre). h, cos-7 cells, left untreated or pretreated with 100 mm
+trehalose for 72 h, were treated with 3 ␮m staurosporine for 6 h as in g. levels of endogenous lc3-ii were
+assessed by immunoblotting with antibody against lc3 (panel i) and densitometry analysis of lc3-ii levels
+relative to actin (panel ii). p ⫽ 0.0002. i and j, wild-type atg5 (atg5⫹/⫹) mefs transfected with egfp-c1 for 4 h
+(i), or atg5 knockdown (atg5⫺/⫺) mefs transfected with egfp-c1 or egfp-atg5 for 4 h (j), were left untreated
+or treated with 100 mm trehalose for 72 h followed by addition of 3 ␮m staurosporine for 6 h. egfp-positive cells
+were scored for apoptotic nuclear morphology (cell death). p ⬍ 0.0001 (all conditions) (i); p ⬍ 0.0001
+(stau⫹egfp, tre⫹stau⫹egfp, tre⫹stau⫹egfp-atg5, stau⫹egfp versus stau⫹tre⫹egfp-atg5), p ⫽ 0.289
+(stau⫹egfp versus tre⫹stau⫹egfp) (j). ***, p ⬍ 0.001; **, p ⬍ 0.01; *, p ⬍ 0.05; ns, nonsignificant.
+fashion,
+in contrast
+trehalose effects on autophagy
+are not caused by glucose—previ-
+ously, we described that glucose-in-
+duced autophagy in an mtor-de-
+pendent
+to
+trehalose (32). whereas pc12 and
+other neuronal cells are not known
+to express trehalase (33), we further
+confirmed that our trehalose effects
+were not caused by glucose contam-
+ination by showing that combined
+glucose and trehalose treatment (at
+saturating doses) (32) (fig. s3e)
+resulted in far more egfp-hdq74
+clearance, compared with either
+compound alone (fig. 8f). hek-
+293 cells, from which the t-rex
+293 cells and stable inducible tre-
+halose cells were generated, do not
+metabolize intracellular trehalose (30), consistent with sug-
+gestions that hek-293 cells are derived from a rare neuronal
+cells present in the hek primary culture.
+such effects (fig. 7, a–d and supplemental fig. s3d), suggest-
+ing that trehalose does not inhibit mtor. likewise, mtor
+activity was not affected in a stable cell line expressing intracel-
+lular trehalose (fig. 7, e–g).
+trehalose and rapamycin have an additive effect on the
+clearance of mutant aggregate-prone proteins—because treha-
+lose induces autophagy independently of mtor inhibition, we
+confirmed the prediction that trehalose and rapamycin would
+discussion
+we have demonstrated that trehalose induces autophagy.
+including
+this has a number of beneficial consequences,
+enhancing the clearance of disease-associated intracytosolic
+5648 journal of biological chemistry
+volume 282 • number 8 • february 23, 2007
+trehalose induces autophagy
+the differences that we observed with the longer expan-
+sions that cause polyq disease (⬎37 repeats) versus the short
+(17 alanine) expansion causing opmd are likely to be caused
+by the following factors. as expected for a nuclear protein,
+pabpn1 clearance is mediated by the proteasome, and auto-
+phagy has minimal influence (35). autophagy can only act on
+extranuclear proteins and the significant cytosolic localiza-
+tion of huntingtin explains why it is efficiently cleared by
+autophagy. indeed, iwata et al. (36) reported that the clear-
+ance of polyq expanded ataxin-1, which is largely nuclear,
+showed no obvious dependence on autophagy, while a major
+dependence on autophagy seen with the identical construct
+where the nuclear localization signal was mutated. consist-
+ent with this paradigm, mutant huntingtin clearance is still
+enhanced by inducing autophagy with trehalose (or other
+autophagy-inducing agents like lithium or inositol mono-
+phosphatase inhibitor (13)) in cells treated with the protea-
+some inhibitor, lactacystin (fig. 3a and supplemental fig.
+s2a). however, mutant pabpn1 clearance induced by tre-
+halose is blocked by this proteasome inhibitor (35).
+we have further confirmed these data by comparing
+mutant huntingtin and mutant pabpn1 aggregation in
+autophagy-competent
+-incompetent
+(atg5⫺/⫺) mefs. in untreated atg5⫺/⫺ cells, mutant hun-
+tingtin aggregation was significantly increased as compared
+with atg5⫹/⫹ cells; however, no significant effect on mutant
+pabpn1 aggregation was observed (fig. 3b and supplemen-
+tal fig. s4a). when these cells were treated with trehalose,
+the pabpn1 aggregation was significantly reduced even in
+atg5⫺/⫺ cells (suggesting that trehalose acts independently
+of autophagy for pabpn1), while no significant reduction of
+huntingtin aggregation was seen in atg5⫺/⫺ cells (confirm-
+ing that the autophagy-inducing ability of trehalose is a
+major factor behind its effect in reducing mutant huntingtin
+aggregation in cells) (fig. 3b and supplemental fig. s4a).
+trehalose appears to induce autophagy efficiently in cells
+containing either mutant huntingtin or mutant pabpn1
+(supplemental fig. s4, b–d).
+(atg5⫹/⫹)
+and
+the ability of trehalose to attenuate poly(a) aggregation but
+not polyq aggregation in cells treated with inhibitors of their
+clearance may be due to the different structures (37, 38) and
+detergent resistance of these aggregates. polyq, but not
+poly(a), aggregates formed in cells are resistant to 4% sds and
+4% triton (39).
+enhanced autophagy occurred in cells that synthesize intra-
+cellular trehalose at ⬃20 mm (fig. 5, a–c and supplemental fig.
+s3c), and even in uninduced qa1/12/9a (tre) cells where tre-
+halose is present at ⬃1 mm (probably because of basal levels of
+otsa expression) compared with uninduced t-rex 293 cells
+(fig. 5d). although 100 mm extracellular trehalose had autoph-
+agy-inducing effects similar to endogenous trehalose, no
+increases in lc3-ii were seen at extracellular concentrations of
+10 mm or lower (supplemental fig. s3a). thus, it is likely that
+the trehalose is acting intracellularly, and not because of secre-
+tion of intracellular trehalose.
+trehalose does not readily cross cell membranes, but can be
+efficiently loaded into mammalian cells via fluid-phase endocy-
+tosis and pinocytosis (3, 40) like other small molecules that do
+figure 7. induction of autophagy by trehalose is mtor-independent.
+a–d, cos-7 cells treated with or without 100 mm tre or 0.2 ␮m rap for 24 h,
+were analyzed for mtor activity by immunoblotting for levels of phospho-
+and total mtor (a), p70s6k (b), s6p (c), and 4e-bp1 (d). e–g, t-rex 293 (con-
+trol) and qa1/12/9a (tre) cell lines induced as in fig. 5b for 24 h were analyzed
+for mtor activity by immunoblotting for levels of phospho- and total mtor
+(e), p70s6k (f), s6p (g).
+aggregate-prone proteins, and also protection against certain
+subsequent pro-apoptotic insults.
+trehalose reduced polyq-mediated aggregation and toxicity
+caused by mutant huntingtin fragments (fig. 1, a–c and sup-
+plemental fig. s1a). although this protective effect was previ-
+ously thought to be caused by trehalose binding to expanded
+polyq and stabilizing the partially unfolded mutant protein (7),
+here we show that a major consequence of trehalose is to induce
+autophagy thereby enhancing clearance of the mutant protein
+(figs. 1d, 4,a–f, 5,b–d, and supplemental fig. s3, a–c),
+because the ability of trehalose to reduce mutant huntingtin
+aggregates was abolished when autophagy was inhibited (fig. 3,
+a–d and supplemental fig. s2a).
+trehalose may have different effects on different aggre-
+gate-prone proteins. we recently described that trehalose
+protected against the toxicity of the polyalanine (poly(a))-
+expanded form of the polyadenine-binding protein nuclear 1
+(pabpn1) that causes oculopharyngeal muscular dystrophy
+(opmd) (35). unlike mutant huntingtin, which forms both
+nuclear and cytosolic aggregates and is largely intracytosolic
+when soluble, mutant pabpn1 is essentially entirely
+intranuclear at steady state (8, 35). trehalose enhanced
+proteasome-dependent clearance of mutant pabpn1 (35),
+in contrast with the current data which shows for the first
+time that trehalose induces autophagy, which is responsible
+for the enhanced clearance of autophagy substrates like
+mutant huntingtin and ␣-synuclein. also mutant huntingtin
+aggregation was not reduced by trehalose in cells treated
+with the autophagy inhibitor 3-ma (fig. 3a and supplemen-
+tal fig. s2a), while mutant pabpn1 aggregation was
+reduced by the sugar even when protein clearance pathways
+were blocked (35).
+february 23, 2007 • volume 282 • number 8
+journal of biological chemistry 5649
+trehalose induces autophagy
+figure 8. trehalose and rapamycin have additive effect on the clearance of aggregate-prone proteins. a and b, percentage of egfp-positive cells
+with egfp-hdq74 aggregates (a) and cell death (b) in cos-7 cells as in fig. 1a and 1b, treated with (⫹) or without (⫺) 100 mm tre, 0.2 ␮m rap, or both
+for 48 h, was assessed. p ⬍ 0.0001 (tre), p ⬍ 0.0001 (rap), p ⬍ 0.0001 (tre⫹rap), p ⫽ 0.0003 (tre versus tre⫹rap), p ⫽ 0.0022 (rap versus tre⫹rap) (a);
+p ⫽ 0.0002 (tre), p ⬍ 0.0001 (rap), p ⬍ 0.0001 (tre⫹rap), p ⬍ 0.0001 (tre versus tre⫹rap), p ⫽ 0.0009 (rap versus tre⫹rap) (b). c, clearance of
+aggregated and soluble egfp-hdq74 in stable pc12 cells as in fig. 1d, treated with or without 100 mm trehalose, 0.2 ␮m rapamycin or both for 72 h, was
+analyzed by immunoblotting with antibody against egfp (panel i) and densitometry analysis of soluble egfp-hdq74 clearance relative to actin (panel
+ii). p ⫽ 0.0359 (tre); p ⫽ 0.018 (rap); p ⬍ 0.0001 (tre⫹rap); p ⫽ 0.0006 (tre versus tre⫹rap); p ⫽ 0.001 (rap versus tre⫹rap). d, clearance of a30p
+␣-synuclein (␣-syn) in stable pc12 cells as in fig. 2a, treated with or without 100 mm trehalose, 0.2 ␮m rapamycin, or both for 16 h, was analyzed by
+immunoblotting with antibody against ha (panel i) and densitometry analysis relative to actin (panel ii). p ⫽ 0.046 (tre); p ⫽ 0.003 (rap); p ⬍ 0.0001
+(tre⫹rap); p ⫽ 0.0013 (tre versus tre⫹rap); p ⫽ 0.0181 (rap versus tre⫹rap). e, percentage of egfp-positive cos-7 cells with ⬎5 egfp-lc3 vesicles in
+cos-7 cells as in fig. 4e, treated with or without 100 mm trehalose or 0.2 ␮m rapamycin or both for 2 h after transfection with egfp-lc3, was assessed.
+cells were left untreated or pretreated with trehalose or rapamycin or both for 24 h before transfection. p ⬍ 0.0001 (for all conditions). f, clearance of
+aggregated and soluble egfp-hdq74 in stable pc12 cells as in c, treated with (⫹) or without (⫺) 100 mm trehalose, 100 mm glucose, or both for 72 h, was
+analyzed by immunoblotting with antibody against egfp (panel i) and densitometry analysis of soluble egfp-hdq74 clearance is shown relative to actin
+(panel ii). p ⫽ 0.0154 (glu); p ⫽ 0.0041 (tre); p ⬍ 0.0001 (glu⫹tre); p ⫽ 0.0017 (glu versus glu⫹tre); p ⫽ 0.0059 (tre versus glu⫹tre). ***, p ⬍ 0.001;
+**, p ⬍ 0.01; *, p ⬍ 0.05.
+not readily cross membranes (41). extracellular trehalose is
+likely acting in the cytosol in the same compartment(s) as the
+trehalose in the stable cells. there are many precedents for cells
+taking up extracellular material that does not readily cross cell
+membranes by pinocytosis or endocytosis and then releasing it
+into the cytosol, including mhc class ii antigen presentation
+(42), and dna transfection methods (43, 44). thus, it is entirely
+plausible that high concentrations of extracellular trehalose can
+act via effects in the same cytosolic compartments as plasmid-
+synthesized trehalose, outside of membrane-bound pinosomes
+or endosomes.
+the failure of trehalose to accelerate the clearance of wild-
+type ␣-synuclein and egfp-hdq23 (figs. 1f and 2c and sup-
+plemental fig. s1e) is entirely consistent with previous data
+suggesting that the dependence of proteins on the macroauto-
+phagy pathway for their clearance correlates with their propen-
+sity to aggregate (10, 12). the non-aggregate prone wild-type
+proteins are efficiently cleared by the proteasomes. for proteins
+that are accessible to both pathways, the greater efficiency of
+the ubiquitin-proteasome system compared with basal levels of
+macroautophagy makes the proteasomes the favored and dom-
+inating clearance route. when a cytosolic protein is aggregate-
+5650 journal of biological chemistry
+volume 282 • number 8 • february 23, 2007
+prone and a poor proteasome substrate, then macroautophagy
+becomes a major clearance route by default. under these cir-
+cumstances, the macroautophagy route becomes more effec-
+tive than the proteasome.
+our data suggesting that trehalose acts independently of
+mtor (fig. 7, a–g and supplemental fig. s3d) may be
+explained by two possibilities. the two pathways may be truly
+independent and may act even on different components of the
+autophagy machinery. alternatively, trehalose may act on a
+component in the pathway between mtor and autophagy.
+unfortunately, this is impossible to test without knowing what
+these components are, and they are currently not characterized
+in the context of mammalian autophagy. trehalose is not sim-
+ply increasing the levels of autophagy regulators like beclin-1/
+atg6, atg12, atg7, or atg5 (supplemental fig. s5, a–d). the
+new role of trehalose as an autophagy inducer could have con-
+tributed to its protective effect in hd mice (7) because mutant
+huntingtin is an autophagy substrate and upregulating autoph-
+agy reduces the levels of mutant huntingtin and protects against
+its toxicity in cells, transgenic drosophila, and mouse models of
+hd (10, 11).
+trehalose may also protect against secondary apoptotic
+effects (fig. 6, a–j) occuring in hd in an autophagy-dependent
+manner. furthermore, the ability of trehalose to protect against
+diverse pro-apoptotic insults in an autophagy-dependent man-
+ner may account for some of its previously poorly understood
+beneficial properties in a diversity of contexts (1). as far as we
+are aware, these anti-apoptotic effects of trehalose have not
+been reported previously. they also add to our previous data
+showing that rapamycin-induced autophagy is protective
+against subsequent pro-apoptotic insults and argue that auto-
+phagy induced by either mtor-dependent or mtor-inde-
+pendent pathways may be beneficial in this context.
+it is difficult to be certain that prolonged up-regulation of
+autophagy would be without risks. one theoretical concern is
+that enhanced mitochondrial turnover might be deleterious.
+increasing autophagy decreases the mitochondrial load to a
+lower steady-state level but will not result in eventual total
+depletion of mitochondria (29, 45). very large decreases in
+mitochondrial load may be associated with deleterious effects
+due to a decrease in oxidative phosphorylation. however, it
+should be noted that although such relationships are complex
+and tissue-dependent, the activities of some respiratory com-
+plexes can be reduced by 25–80% before respiration or atp
+synthesis in brain mitochondria are affected, and the activity of
+rat liver complex iii can be decreased by 45% before respiration
+is affected (46). thus, it is likely to be possible to induce auto-
+phagy and reduce mitochondrial load to levels that have sub-
+stantial protective effects against proteinopathies but do not
+affect respiration. it is also worth noting that rapamycin is used
+chronically in people, and we are not aware of side effects that
+are caused by autophagy. also, rapamycin attenuates mutant
+huntingtin toxicity in hd fly and mouse models (11).
+our data also raise the possibility of combination therapy
+using trehalose and rapamycin, which may be more effective in
+such diseases (fig. 8, a–e). this new role of trehalose coupled
+with its anti-aggregation property and lack of toxicity increases
+its efficacy for treating a spectrum of protein conformational
+trehalose induces autophagy
+disorders like hd and pd. recent data suggest that autophagy
+induction may be effective in certain infectious diseases,
+because mycobacteria and group a streptococci are cleared by
+this process (34, 47, 48). therefore, it would be interesting to
+test the efficacy of trehalose as a possible safe addition to the
+armoury for treating such disorders.
+acknowledgments—we thank t. yoshimori (national institute of
+genetics, japan) for the egfp-lc3 and myc-lc3-ha constructs and
+lc3 antibody, n. mizushima (tokyo metropolitan institute of med-
+ical science, japan) for atg5-deficient and wild-type atg5 mefs and
+egfp-atg5 construct, a. m. tolkovsky (university of cambridge, uk)
+for the egfp-lc3 hela stable cell line, r. j. youle (national insti-
+tutes of health, bethesda, md) for the egfp-bax construct, e. wahle
+(institut fu¨r biochemie, universita¨t halle, germany) for the pabpn1
+a17 construct, and j. n. skepper (university of cambridge, uk) for
+technical assistance.
+references
+1. chen, q., and haddad, g. g. (2004) j. exp. biol. 207, 3125–3129
+2. kandror, o., bretschneider, n., kreydin, e., cavalieri, d., and goldberg,
+a. l. (2004) mol. cell 13, 771–781
+3. wolkers, w. f., walker, n. j., tablin, f., and crowe, j. h. (2001) cryobi-
+ology 42, 79–87
+4. welch, w. j., and brown, c. r. (1996) cell stress chaperones 1, 109–115
+5. arora, a., ha, c., and park, c. b. (2004) febs lett. 564, 121–125
+6. liu, r., barkhordarian, h., emadi, s., park, c. b., and sierks, m. r. (2005)
+neurobiol dis. 20, 74–81
+7. tanaka, m., machida, y., niu, s., ikeda, t., jana, n. r., doi, h., kurosawa,
+m., nekooki, m., and nukina, n. (2004) nat. med. 10, 148–154
+8. rubinsztein, d. c. (2002) trends genet. 18, 202–209
+9. berger, z., ravikumar, b., menzies, f. m., oroz, l. g., underwood, b. r.,
+pangalos, m. n., schmitt, i., wullner, u., evert, b. o., o⬘kane, c, j., and
+rubinsztein, d. c. (2006) hum. mol. genet. 15, 433–442
+10. ravikumar, b., duden, r., and rubinsztein, d. c. (2002) hum. mol. genet.
+11, 1107–1117
+11. ravikumar, b., vacher, c., berger, z., davies, j. e., luo, s., oroz, l. g.,
+scaravilli, f., easton, d. f., duden, r., o⬘kane, c. j., and rubinsztein, d. c.
+(2004) nat. genet. 36, 585–595
+12. webb, j. l., ravikumar, b., atkins, j., skepper, j. n., and rubinsztein, d. c.
+(2003) j. biol. chem. 278, 25009–25013
+13. sarkar, s., floto, r. a., berger, z., imarisio, s., cordenier, a., pasco, m.,
+cook, l. j., and rubinsztein, d. c. (2005) j. cell biol. 170, 1101–1111
+14. klionsky, d. j., and emr, s. d. (2000) science 290, 1717–1721
+15. polymeropoulos, m. h., lavedan, c., leroy, e., ide, s. e., dehejia, a.,
+dutra, a., pike, b., root, h., rubenstein, j., boyer, r., stenroos, e. s.,
+chandrasekharappa, s., athanassiadou, a., papapetropoulos, t., johnson,
+w. g., lazzarini, a. m., duvoisin, r. c., di iorio, g., golbe, l. i., and
+nussbaum, r. l. (1997) science 276, 2045–2047
+16. kruger, r., kuhn, w., muller, t., woitalla, d., graeber, m., kosel, s.,
+przuntek, h., epplen, j. t., schols, l., and riess, o. (1998) nat. genet. 18,
+106–108
+17. cuervo, a. m., stefanis, l., fredenburg, r., lansbury, p. t., and sulzer, d.
+(2004) science 305, 1292–1295
+18. narain, y., wyttenbach, a., rankin, j., furlong, r. a., and rubinsztein,
+d. c. (1999) j. med. genet. 36, 739–746
+19. bampton, e. t. w., goemans, c. g., niranjan, d., mizushima, n., and
+tolkovsky, a. m. (2005) autophagy 1, 23–36
+20. mizushima, n., yamamoto, a., hatano, m., kobayashi, y., kabeya, y.,
+suzuki, k., tokuhisa, t., ohsumi, y., and yoshimori, t. (2001) j. cell biol.
+152, 657–668
+21. wyttenbach, a., swartz, j., kita, h., thykjaer, t., carmichael, j., bra-
+dley, j., brown, r., maxwell, m., schapira, a., orntoft, t. f., kato, k.,
+and rubinsztein, d. c. (2001) hum. mol. genet. 10, 1829–1845
+february 23, 2007 • volume 282 • number 8
+journal of biological chemistry 5651
+27. yamamoto, a., tagawa, y., yoshimori, t., moriyama, y., masaki, r., and
+40. oliver, a., jamil, k., crowe, j., and tablin, f. (2004) cell preserv. technol.
+trehalose induces autophagy
+22. wyttenbach, a., sauvageot, o., carmichael, j., diaz-latoud, c., arrigo,
+a. p., and rubinsztein, d. c. (2002) hum. mol. genet. 11, 1137–1151
+23. garcia de castro, a., and tunnacliffe, a. (2000) febs lett. 487, 199–202
+24. kabeya, y., mizushima, n., ueno, t., yamamoto, a., kirisako, t., noda,
+t., kominami, e., ohsumi, y., and yoshimori, t. (2000) embo j. 19,
+5720–5728
+25. mizushima, n. (2004) int. j. biochem. cell biol. 36, 2491–2502
+26. tanida, i., sou, y. s., ezaki, j., minematsu-ikeguchi, n., ueno, t., and
+kominami, e. (2004) j. biol. chem. 279, 36268–36276
+tashiro, y. (1998) cell struct. funct. 23, 33–42
+28. ekstrom, p., and kanje, m. (1984) j. neurochem. 43, 1342–1345
+29. ravikumar, b., berger, z., vacher, c., o’kane, c. j., and rubinsztein, d. c.
+(2006) hum. mol. genet 15, 1209–1216
+30. chen, q., behar, k. l., xu, t., fan, c., and haddad, g. g. (2003) j. biol.
+chem. 278, 49113–49118
+31. schmelzle, t., and hall, m. n. (2000) cell 103, 253–262
+32. ravikumar, b., stewart, a., kita, h., kato, k., duden, r., and rubinsztein,
+d. c. (2003) hum. mol. genet. 12, 985–994
+33. oesterreicher, t. j., markesich, d. c., and henning, s. j. (2001) gene
+(amst.) 270, 211–220
+34. gutierrez, m. g., master, s. s., singh, s. b., taylor, g. a., colombo, m. i.,
+and deretic, v. (2004) cell 119, 753–766
+35. davies, j. e., sarkar, s., and rubinsztein, d. c. (2006) hum. mol. genet. 15,
+23–31
+36. iwata, a., christianson, j. c., bucci, m., ellerby, l. m., nukina, n., forno,
+l. s., and kopito, r. r. (2005) proc. natl. acad. sci. u. s. a. 102,
+13135–13140
+37. calado, a., tome, f. m., brais, b., rouleau, g. a., kuhn, u., wahle, e., and
+carmo-fonseca, m. (2000) hum. mol. genet. 9, 2321–2328
+38. difiglia, m., sapp, e., chase, k. o., davies, s. w., bates, g. p., vonsattel,
+j. p., and aronin, n. (1997) science 277, 1990–1993
+39. rankin, j., wyttenbach, a., and rubinsztein, d. c. (2000) biochem. j. 348,
+15–19
+2, 35–49
+41. wolkers, w. f., looper, s. a., fontanilla, r. a., tsvetkova, n. m., tablin,
+f., and crowe, j. h. (2003) biochim. biophys. acta 1612, 154–163
+42. watts, c. (1997) annu. rev. immunol. 15, 821–850
+43. sonawane, n. d., szoka, f. c., jr., and verkman, a. s. (2003) j. biol. chem.
+278, 44826–44831
+44. simonson, o. e., svahn, m. g., tornquist, e., lundin, k. e., and smith, c. i.
+(2005) curr. pharm. des. 11, 3671–3680
+45. rubinsztein, d. c. (2006) nature 443, 780–786
+46. murphy, m. p. (2001) biochim. biophys. acta 1504, 1–11
+47. nakagawa, i., amano, a., mizushima, n., yamamoto, a., yamaguchi, h.,
+kamimoto, t., nara, a., funao, j., nakata, m., tsuda, k., hamada, s., and
+yoshimori, t. (2004) science 306, 1037–1040
+48. ogawa, m., yoshimori, t., suzuki, t., sagara, h., mizushima, n., and
+sasakawa, c. (2005) science 307, 727–731
+5652 journal of biological chemistry
+volume 282 • number 8 • february 23, 2007
+protein synthesis, post-translation
+modification, and degradation:
+trehalose, a novel mtor-independent
+autophagy enhancer, accelerates the 
+clearance of mutant huntingtin and 
+-synuclein
+  
+sovan sarkar, janet e. davies, zebo huang,
+alan tunnacliffe and david c. rubinsztein
+j. biol. chem. 
+doi: 10.1074/jbc.m609532200 originally published online december 20, 2006
+2007, 282:5641-5652.
+10.1074/jbc.m609532200
+access the most updated version of this article at doi: 
+  
+find articles, minireviews, reflections and classics on similar topics on the 
+  
+alerts: 
+•  
+•  
+  
+when this article is cited
+when a correction for this article is posted
+jbc affinity sites
+click here
+ to choose from all of jbc's e-mail alerts
+supplemental material:
+http://www.jbc.org/content/suppl/2006/12/22/m609532200.dc1.html
+  
+this article cites 46 references, 24 of which can be accessed free at
+http://www.jbc.org/content/282/8/5641.full.html#ref-list-1
+  

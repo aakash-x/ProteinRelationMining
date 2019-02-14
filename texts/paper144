@@ -1,0 +1,627 @@
+the journal of biological chemistry vol. 281, no. 48, pp. 36883–36890, december 1, 2006
+© 2006 by the american society for biochemistry and molecular biology, inc. printed in the u.s.a.
+autophagy for cancer therapy through inhibition
+of pro-apoptotic proteins and mammalian target
+of rapamycin signaling*
+received for publication, july 26, 2006, and in revised form, september 27, 2006 published, jbc papers in press, september 27, 2006, doi 10.1074/jbc.m607094200
+kwang woon kim, robert w. mutter, carolyn cao, jeffrey m. albert, michael freeman, dennis e. hallahan,
+and bo lu1
+from the department of radiation oncology, vanderbilt ingram cancer center, vanderbilt university school of medicine,
+nashville, tennessee 37232
+autophagy is an alternative cell death pathway that is induced
+by mammalian target of rapamycin (mtor) inhibitors and up-
+regulated when apoptosis is defective. we investigated radia-
+tion-induced autophagy in the presence or absence of bax/bak
+with or without an mtor inhibitor, rad001. two isogenic cell
+lines, wild type (wt) and bak/bakⴚ/ⴚ mouse embryonic fibro-
+blasts and tumor cell lines were used for this study. irradiated
+bak/bakⴚ/ⴚ cells had a decrease of akt/mtor signaling and a
+significant increase of pro-autophagic proteins atg5-atg12
+complex and beclin-1. these molecular events resulted in an
+up-regulation of autophagy. bax/bakⴚ/ⴚ cells were defective in
+undergoing apoptosis but were more radiosensitive than the
+wt cells in autophagy. both autophagy and sensitization of
+bak/baxⴚ/ⴚ cells were further enhanced in the presence of
+rad001. in contrast, inhibitors of autophagy rendered the bak/
+baxⴚ/ⴚ cells radioresistant, whereas overexpression of atg5
+and beclin-1 made the wt cells radiosensitive. when this novel
+concept of radiosensitization was tested in cancer models, small
+interfering rnas against bak/bax also led to increased autoph-
+agy and sensitization of human breast and lung cancer cells to
+gamma radiation, which was further enhanced by rad001. this
+is the first report to demonstrate that inhibition of pro-apopto-
+tic proteins and induction of autophagy sensitizes cancer cells to
+therapy. therapeutically targeting this novel pathway may yield
+significant benefits for cancer patients.
+the bcl-2 family of proteins are well characterized as regu-
+lators of apoptosis. the multidomain pro-apoptotic members
+of this family, such as bax and bak, act as a gateway for caspase-
+mediated cell death (1–4). many reports have shown that pro-
+apoptotic approaches sensitize cells to dna-damaging agents
+(5). furthermore, several studies have demonstrated that apo-
+ptosis-permissive cells are more sensitive to ionizing radiation
+than apoptosis-refractory cells (6, 7). there is also contradic-
+* this work was supported in part by a vanderbilt discovery grant, a vander-
+bilt physician scientist grant, a grant from the mesothelioma applied
+research foundation, and department of defense grants pc031161 and
+bc030542. the costs of publication of this article were defrayed in part by
+the payment of page charges. this article must therefore be hereby
+marked “advertisement” in accordance with 18 u.s.c. section 1734 solely to
+indicate this fact.
+1 to whom correspondence should be addressed: dept. of radiation oncol-
+ogy, the vanderbilt clinic, vanderbilt university, nashville, tn 37232-5671.
+tel.: 615-343-9233; fax: 615-343-3075; e-mail: bo.lu@vanderbilt.edu.
+tory data, however, showing that overexpression of the anti-
+apoptotic protein bcl2 makes tumor xenografts more sensitive
+to ionizing radiation (8).
+autophagic cell death is morphologically characterized by a
+cell with an intact nucleus (9, 10) and an accumulation of cyto-
+plasmic double-membrane autophagic vacuoles called auto-
+phagosomes. this process can be initiated in the presence of
+mammalian target of rapamycin (mtor)2 inhibitors or starva-
+tion. ionizing radiation has also been shown to induce autoph-
+agy (11). autophagosomes contain subcellular organelles, such
+as mitochondria, needed for survival (12, 13) and contain high
+concentrations of microtubule-associated protein light chain 3
+(lc3). etoposide (an inhibitor of topoisomerase ii and a com-
+mon apoptotic reagent) has been shown to induce autophagy in
+bax/bak⫺/⫺ double knock-out (dko) mouse embryonic fibro-
+blast (mef) cells (6, 14). radiosensitivity of bax/bak⫺/⫺ dko
+mef cells has never been tested by the gold standard clono-
+genic assay, although cell viability of irradiated bax/bak⫺/⫺
+thymocytes per propidium iodide staining was not significantly
+different at 24 h after irradiation (15).
+although radiation-induced apoptosis mediated by bax/bak
+has been extensively studied over the past decade, it is not a
+major form of cell death (believed to account for ⬍20%) (16).
+other forms of non-apoptotic cell death have been described,
+which include mitotic catastrophe, necrosis, autophagy, and
+senescence. the relative contributions of the apoptotic and
+non-apoptotic death pathways to radiation sensitivity are
+poorly understood. using the bax/bak⫺/⫺ dko mef and can-
+cer cell models, we showed that the radiosensitization in the
+absence of bak and bax results from increased autophagy,
+which is blocked by an autophagic inhibitor, 3-ma, or small
+interfering rnas (sirnas) against pro-autophagic proteins
+such as atg5 and beclin-1. further enhancement was induced
+in the presence of an mtor inhibitor, rad001.
+experimental procedures
+cell culture—primary mefs derived from wild type and
+bax-bak dko mice and immortalized by transfection with a
+plasmid containing sv40 genomic dna were generously pro-
+vided by dr. stanley j. korsmeyer. (dana-farber cancer insti-
+2 the abbreviations used are: mtor, mammalian target of rapamycin; dko,
+double knockout; mef, mouse embryonic fibroblast; 3-ma, 3-methylad-
+enine; lc3, light chain 3; atg, autophagy-related gene; gy, gray; gfp,
+green fluorescent protein; der, dose enhancement ratio.
+december 1, 2006 • volume 281 • number 48
+journal of biological chemistry 36883
+radiosensitization in the absence of bax/bak
+tute, boston, ma) mefs were cultured in dulbecco’s modified
+eagle’s medium (invitrogen) supplemented with 10% fetal
+bovine serum, 1% penicillin/streptomycin, and 0.1 ␮mol/liter
+2-mercaptoethanol. mda-mb-231 breast cancer cells and
+h460 lung carcinoma cells (obtained from the american type
+culture collection) were cultured in dulbecco’s modified
+eagle’s medium and rpmi 1640 medium (invitrogen) supple-
+mented with 10% fetal bovine serum and 1% penicillin/strepto-
+mycin respectively. all cells were incubated at 37 °c and
+humidified 5% co2. these cells were treated with either
+me2so or rad001. alternatively, they were transfected with
+either expression plasmids or sirna of atg5 or beclin-1.
+immunoblotting—cells (0.5 ⫻ 106) were collected at various
+time points after treatment and then washed with ice-cold
+phosphate-buffered saline twice before the addition of lysis
+buffer (20 mm tris-hcl, ph 7.4, 150 mm nacl, 20 mm edta,
+1% nonidet p-40, 50 mm naf, 1 mm na3vo4, 1 mm namo4,
+and mixture inhibitor (5 ␮l/ml) (sigma). protein concentration
+was quantified by the bio-rad method. equal amounts of pro-
+tein were loaded into each well and separated by 12.5% sds-
+page gel followed by transfer onto polyvinylidene difluoride
+membranes (bio-rad). membranes were blocked using 5%
+nonfat dry milk in phosphate-buffered saline-tween 20 for 1 h
+at room temperature. the blots were then incubated overnight
+at 4 °c with antibodies to caspase-3 (cell signaling technol-
+ogy), atg-5 (a gift from dr. mizushima), beclin-1 (santa cruz
+biotechnology), mtor, phospho-mtor (ser-2448), akt,
+phospho-akt (ser-473), s6 ribosomal protein, or phospho-s6
+ribosomal protein (ser-240/244) (cell signaling technology),
+and actin. goat anti-rabbit igg secondary antibody (1:5000;
+santa cruz biotechnology) was incubated for 45 min at room
+temperature. immunoblots were analyzed using the chemilu-
+minescence detection system (perkinelmer life sciences)
+according to the manufacturer’s protocol and autoradiography.
+clonogenic assay—cells were fixed for 15 min with 3:1 meth-
+anol:acetic acid and stained for 15 min with 0.5% crystal violet
+(sigma) in methanol. the surviving colonies were counted, and
+their fractions were calculated as mean colony counts/cells
+inoculated ⫻ plating efficiency (or pe), where pe was defined
+as mean colony counts/cells inoculated for irradiated controls.
+measurement of apoptosis—percent of apoptosis was meas-
+ured using the annexin v-fluorescein isothiocyanate apoptosis
+detection kit i (pharmingen) with flow cytometry. cells were
+plated into 100-mm dishes for each data point. after 24 h of
+37 °c incubation, the groups were irradiated with 0, 5, or 10 gy.
+cells were then incubated for 24 h. thereafter, the cells were
+trypsinized (keeping all floating cells) and counted for each
+sample. the cells were washed twice with cold phosphate-buff-
+ered saline and then resuspended in 1⫻ binding buffer. 100 ␮l
+of the solution (5 ⫻ 105 cells) were then transferred to a 5-ml
+culture tube. 3 ␮l of annexin v-fluorescein isothiocyanate and
+3 ␮l of propidium iodide were added. after 15 min of incuba-
+tion at room temperature in the dark, 400 ␮l of 1⫻ binding
+buffer was added to each tube and analyzed by facscan.
+autophagy assay—cells were transfected with 2.5 ␮g of
+gfp-lc3 expression plasmid (a gift from dr. mizushima) using
+the lipofectamine reagent (invitrogen). after 24 h, the cells
+were treated with 5 gy. after 24 or 48 h, the fluorescence
+of gfp-lc3 was observed under a confocal fluorescence
+microscope.
+electron microscopy—cells were washed with serum-free
+dulbecco’s modified eagle’s medium with a brief wash in pre-
+warmed 0.1 m cacodyate buffer and then fixed with 2.5% glut-
+araldehyde with 0.1 m sodium cacodylate buffer for 1 h. the
+cells were washed, post-fixed with 2% osmium tetroxide, dehy-
+drated with ascending grades of ethanol and propylene oxide,
+and embedded in lx-112 medium (ladd). after polymeriza-
+tion, ultra-thin (90 nm) sections were cut with a diamond knife,
+collected on uncoated copper grids and stained with uranyl
+acetate (1%) and lead citrate (0.2%). the samples were exam-
+ined with a jeol-1010 electron microscope (jeol) operated at
+80 kv.
+sirna transfection—sirna bax (mouse),
+sirna bak
+(mouse), sirna bax (human), sirna bak (human), and sirna
+beclin (mouse) were purchased from santa cruz biotechnol-
+ogy. sirna atg5 (mouse) was synthesized by dharmacon
+research. cells were transfected with 25 nm sirnas using lipo-
+fectamine 2000. the transfected cells were used for subsequent
+experiments 24 h later.
+results
+radiation sensitization when the bax/bak-mediated apo-
+ptosis is attenuated—we used dko mef cells that were defi-
+cient for bak and bax to determine the extent of apoptosis and
+radiation sensitivity as a consequence of lacking bak and bax.
+we examined proteolytic cleavage of caspase-3 as a marker for
+apoptosis in both wt and dko cells in a dose- and time-de-
+pendent manner. caspase-3 cleavage was not detected in the
+dko cells at any time point or dose level, whereas it was appar-
+ent in the irradiated wt cells (fig. 1a). a corroborative assay,
+annexin v-fluorescein isothiocyanate staining was performed
+to measure the percent of apoptosis in the irradiated wt and
+dko cells (fig. 1b). 24 h following 5 gy, the percentage of
+apoptotic cells was increased by 6.5-fold in wt cells, and 10 gy
+induced an 8.2-fold increase. as expected, in the irradiated bax/
+bak⫺/⫺ mef cells there was minimal change in the percentage
+of apoptotic cells after 5 or 10 gy.
+to determine whether inhibited apoptosis affects radiation
+sensitivity, clonogenic survival assay was performed in wt,
+dko, and wt cells transfected with sirnas against bak and
+bax to exclude potential clonal variation between mef cells. as
+shown in fig. 1c, bak and bax were attenuated in wt cells
+transfected with sirnas against bak and bax. unexpectedly,
+radiation sensitivity was found greatly enhanced in bax/bak⫺/⫺
+mef cells compared with wt mefs. dose enhancement ratio
+(der) is defined as the ratio of doses required to decrease sur-
+vival to 20%. the der in bax/bak⫺/⫺ mef cells relative to their
+wt counterparts, was 1.7 (p ⬍ 0.05, student’s t test, n ⫽ 3).
+clonogenic survival represents an integral of cell death meas-
+ured over several days or weeks. consistently, wt cells trans-
+fected with bax/bax sirnas produced a der of 1.4 compared
+with the cells transfected with a control sirna (p ⬍ 0.05, n ⫽ 3,
+student’s t test). taken together, the results in fig. 1 suggest
+that radiation sensitivity is increased in mef cells that are
+defective in the bax/bak-mediated apoptosis.
+36884 journal of biological chemistry
+volume 281 • number 48 • december 1, 2006
+radiosensitization in the absence of bax/bak
+increased autophagy in the irradiated bax and bak⫺/⫺ cells—
+to determine whether radiosensitivity of dko cells is medi-
+ated by non-apoptotic programmed cell death, such as autoph-
+agy, we transfected wt and dko cells with gfp-tagged lc3
+plasmid (17) and detected the distribution of gfp. as shown in
+fig. 2a, diffuse cytoplasmic localization of gfp-lc3 was
+observed in the transfected wt mef cells and bax/bak⫺/⫺
+mef cells without undergoing irradiation, whereas the irradi-
+ated bax/bak⫺/⫺ mef cells showed significantly increased
+punctate fluorescence or lysosomal localization of lc3 protein
+in 24 h. however, there was little increase in punctate fluores-
+cence seen in the irradiated wt mef cells. as shown in fig. 2b,
+the number of cells with punctate gfp-lc3 fluorescence sig-
+nificantly increased in a time-dependent manner in bax/
+bak⫺/⫺ mef cells, from 33 (24 h after irradiation) to 60% (48 h
+after irradiation), but only a slight increase was seen in wt
+cells. to confirm the induction of autophagic changes in bax/
+bak⫺/⫺ mef cells, we examined these cells using electron
+microscopy. as shown in fig. 2c, irradiated wt mef cells did
+not show appreciable autophagosomes (fig. 2c, ii), whereas
+bax/bak⫺/⫺ mef cells showed numerous autophagosomes
+containing recognizable cellular material (fig. 2c, iv and vi).
+the fusion of late autophagosomes and lysosomes is another
+characteristic of autophagy that was observed in these cells
+(fig. 2c, v).
+induced pro-autophagic signaling in the irradiated bax and
+bak⫺/⫺ mef cells—because the mtor pathway is known to
+regulate initiation of autophagy, we examined akt/mtor sig-
+naling by determining the levels of phospho-akt, phospho-
+mtor, and phospho-s6 in the irradiated wt and bax/bak⫺/⫺
+mef cells. as shown in fig. 3a, the phosphoproteins were
+increased in the irradiated wt cells, whereas they were
+decreased in the irradiated bax/bak⫺/⫺ mef cells. to deter-
+mine whether radiation up-regulated the expression of auto-
+phagic proteins in the bax/bak⫺/⫺ mef cells, we used immu-
+noblotting to examine the expression of atg-5 and beclin-1 at
+0, 24, 48, and 72 h after 5 gy irradiation. there was considerable
+increase of both the atg5-atg12 complex and beclin-1 (fig.
+3b) in the irradiated bax/bak⫺/⫺ mef cells. in contrast, there
+was minimal change in these proteins seen in the irradiated wt
+mef cells. these data suggest that pro-autophagic signaling is
+up-regulated in the irradiated dko cells.
+inhibition of autophagic signaling induces radiation resis-
+tance—3-ma, an inhibitor of class iii phosphatidylinositol
+3-kinase, has been shown to inhibit autophagy (18). to deter-
+mine whether the 3-ma-treated dko cells had decreased
+autophagic signaling, atg5-atg12 complex and beclin-1
+were examined by western blotting. as shown in fig. 4a, we
+found that 3-ma attenuated the induction of both atg5-
+atg12 complex and beclin-1 in the irradiated dko cells.
+to determine whether inhibiting autophagy by 3-ma affects
+the radiation sensitivity of dko cells, clonogenic survival was
+assayed. as shown in fig. 4b, dko cells in the presence of
+3-ma became more radiation-resistant by a factor of 1.8 when
+calculated at a survival value of 50% (p ⬍ 0.004, student’s t test).
+this result suggests that 3-ma increased radioresistance by
+attenuating autophagic cell death in bax/bak⫺/⫺ mef cells.
+figure 1. radiation sensitization when the bax/bak-mediated apoptosis
+is attenuated. a, caspase cleavage was determined by immunoblotting of
+cleaved caspase-3 after wt or bax/bak⫺/⫺ mef cells were treated with 0, 2.5,
+5, 7.5, and 10 gy. the cells were harvested after 24 and 48 h. fifty micrograms
+of total proteins/lane were loaded on 15% sds-page and subjected to west-
+ern blot analysis using antibodies. actin was probed to demonstrate equal
+loading. b, wt and bax/bak⫺/⫺ mef cells were incubated with annexin v-flu-
+orescein isothiocyanate and propidium iodide 24 h after irradiation and ana-
+lyzed by facscan. data are shown as the mean of three experiments ⫾ s.d.
+c, immunoblots of wt mef cells transfected with either sirnas against bak
+and bax or a control sirna. d, radiosensitization of wt mefs transfected with
+sirnas directed against bax and bak. the cells were irradiated with the indi-
+cated doses of radiation. after 10 days, colonies were stained and scored.
+shown are the mean ⫾ s.d. of three separate repeated experiments.
+december 1, 2006 • volume 281 • number 48
+journal of biological chemistry 36885
+radiosensitization in the absence of bax/bak
+figure 3. induced pro-autophagic signaling in the irradiated bax and
+bakⴚ/ⴚ mef cells. wt and dko mef cells were irradiated with 0 or 5 gy. cells
+were collected at various time points, and protein extracts were made for
+western blotting. a, shown are immunoblots of phospho-akt, phospho-
+mtor, and p-s6 using the lysates from wt and dko mef cells treated with 0 or
+5 gy after 30 min. b, also shown are immunoblots of atg5-atg12 complex
+and beclin-1 using the lysates from wt and dko mef cells treated with 0 or 5
+gy after 24, 48, and 72 h. actin was probed to demonstrate equal loading.
+to confirm that inhibition of autophagic signaling induces
+radioresistance of dko mef cells, the bax/bak⫺/⫺ mef cells
+were transfected with sirnas against atg5 and beclin-1 or a
+sirna control. as shown in fig. 4c, both proteins were
+decreased following the transfection of sirnas against these
+proteins. the clonogenic assay shown in fig. 4d indicates that
+dko cells transfected with sirna directed against both gene
+products of atg5 and beclin-1 became more radioresistant by
+a factor of 1.4 when calculated at a survival value of 50%, com-
+pared with cells transfected with a control sirna (p ⬍ 0.006,
+student’s t test, n ⫽ 3). dko cells transfected with sirna
+directed against either atg5 or beclin-1 alone showed
+increased radioresistance, but the effect was slightly less than
+that seen with the cells transfected with sirnas against both
+gene products (data not shown).
+induction of autophagy increases radiation sensitivity—to
+determine whether induction of autophagy through inhibition
+of mtor enhances the radiation sensitivity of mef cells, wt
+and bax/bak⫺/⫺ mef cells were treated with 10 nm rad001, an
+inhibitor of mtor. the clonogenic assay shown in fig. 5a indi-
+cates that dko cells became more sensitive in the presence of
+rad001 by a der of 1.37 (p ⬍ 0.001, student’s t test, n ⫽ 3),
+whereas the effect on wt cells was slight (der ⫽ 1.06,
+p ⬍ 0.006, student’s t test, n ⫽ 3).
+phagosome fusing with a lysosome (v, ⫻25,000). numerous autophago-
+somes were observed, and the mitochondria were also affected (vi, arrow,
+⫻11,500).
+figure 2. increased autophagy in the irradiated bax and bakⴚ/ⴚ mef
+cells. a, gfp-lc3-transfected cells were treated with and without 5 gy and
+then examined by fluorescence microscopy after 24 h. b, the percentage of
+cells with punctate gfp-lc3 fluorescence was calculated relative to all gfp-
+positive cells. error bars are shown as mean ⫾ s.d. c, electron micrograph of
+wt (i) or bax/bak⫺/⫺ mef cells (iii) cells without radiation and wt (ii) or bax/
+bak⫺/⫺mef cells treated with 5 gy (iv–vi). arrows depict autophagosomes in
+cells containing recognizable cellular material (iv, ⫻66,000) or a late auto-
+36886 journal of biological chemistry
+volume 281 • number 48 • december 1, 2006
+radiosensitization in the absence of bax/bak
+bak and bax, which significantly
+decreased their expression (fig. 6a).
+clonogenic assay showed that the
+reduction of bak and bax increased
+the radiation sensitivity of both cell
+lines. as shown in fig. 6b, der is
+1.23, p ⬍ 0.003 (student’s t test) for
+the breast cancer model and is 1.62,
+p ⬍ 0.003 (student’s t test) for the
+lung cancer model as shown in fig.
+6c. similar findings were noted in
+prostate cancer cell lines, pc3, and
+du145 cells (data not shown). we
+also analyzed whether inhibition of
+mtor using rad001 would further
+enhance the radiation sensitivity of
+cancer cells. both cancer cell lines
+were first transfected with sirnas
+against bax and bak to block apo-
+ptosis. 24 h later, these cells were
+incubated with rad001 to induce
+autophagy. subsequently, they were
+irradiated with 0–6 gy, and clono-
+genic assay was performed. as
+shown in fig. 6, b and c, the
+combined treatment of rad001
+and sirnas against bax and bak
+resulted in even greater radiosensi-
+tization (breast cancer: der ⫽ 1.50,
+p ⬍ 0.002; lung cancer: der ⫽ 1.98,
+p ⬍ 0.001).
+figure 4. inhibition of autophagic signaling induces radiation resistance. a, wild type (wt) and bax/
+bak⫺/⫺ mef (dko) cells were cultured in the absence (⫺) or presence (⫹) of 100 or 200 ␮m 3-ma, an inhibitor
+of type iii phosphatidylinositol 3-kinase, and irradiated with 0 or 5 gy. western analyses of atg5-atg12 com-
+plex and beclin-1 in the irradiated cells with or without pre-treatment of 3-ma. b, wt and bax/bak⫺/⫺ mef
+(dko) cells were cultured in the absence or presence of 10 or 20 ␮m 3-ma and irradiated with 0 – 6 gy. after 8
+days, the colonies were stained and scored. data are based upon three separate repeated experiments and
+shown as the mean ⫾ s.d. c, wt and dko mef cells were transfected with 25 nm sirnas directed against atg5
+and beclin-1. the protein levels of atg5-atg12 complex and beclin-1 were detected by western analysis 48 h
+following transfection. d, dko cells were transfected with sirnas against atg5 and beclin-1 or a control sirna.
+they were then irradiated with 0 – 6 gy. after 8 days, colonies were stained and scored. shown are the
+mean ⫾ s.d. of three separate repeated experiments.
+we also determined whether overexpression of pro-auto-
+phagic proteins atg5 or beclin-1 enhances radiation sensi-
+tivity. wt and dko cells were transfected with expression
+plasmids of atg5 and beclin-1 or a vector control. the clo-
+nogenic assay shown in fig. 5b indicates that wt and dko
+cells overexpressing atg5 and beclin-1 became more radi-
+osensitive (wt: der ⫽ 1.25, p ⬍ 0.002; dko: der ⫽ 1.29,
+p ⬍ 0.008).
+sirna against bak/bax and rad001 sensitize cancer cells to
+ionizing radiation—to apply the above concept, inducing
+autophagy as a potential strategy to enhance cell death follow-
+ing irradiation, we determined whether reduction of pro-apo-
+ptotic proteins bak and bax alters the radiation sensitivity of
+cancer cells. mda-mb-231 breast cancer cells and h460 lung
+cancer cells were transfected with sirnas directed against
+to determine whether sirnas
+directed against bax and bak and
+inhibition of mtor with rad001
+induced autophagy in irradiated
+mda-mb-231 breast cancer cells
+and h460 lung cancer cells, both
+cancer cells were transfected with
+gfp-lc3. increased punctate fluo-
+rescence, suggestive of autophagy,
+was seen after radiation treatment
+in both cancer cell lines. the great-
+est amount of autophagy was seen in
+the combination treatment (fig. 6, d and e). these results also
+suggest that autophagy mediates the increased radiosensitivity
+in cancer models.
+discussion
+this study showed evidence that autophagy is induced as an
+alternative form of cell death in irradiated cells that are unable
+to undergo apoptosis. the extent of autophagy was found to
+determine radiation sensitivity. inducing autophagy through
+the inhibition of apoptosis or directly triggering autophagic sig-
+naling by mtor inhibitors are viable strategies that can be
+applied to cancer therapy. because strategies aimed at enhanc-
+ing apoptosis have for many years been a focus of cancer ther-
+apeutic research, this is a novel concept that could affect the
+direction of cancer drug development.
+december 1, 2006 • volume 281 • number 48
+journal of biological chemistry 36887
+radiosensitization in the absence of bax/bak
+figure 5. induction of autophagy increases radiation sensitivity. a, wt or
+bak/bax⫺/⫺ mef cells were treated with either me2so or rad001, an inhibitor
+of mtor, and irradiated with the indicated doses. after 8 –10 days, colonies
+were stained and scored. data is based on three separate repeated experi-
+ments and shown as the mean ⫾ s.d. b, wt and dko cells were transfected
+with expression plasmids of atg5 and beclin-1. 24 h later, they were irradi-
+ated with the indicated doses. after 8 –10 days, colonies were stained and
+scored. data is based on three separate repeated experiments and shown as
+the mean ⫾ s.d.
+we found that radiation induced the cleavage of caspase-3 in
+wt and not in bax/bak⫺/⫺ mef cells. this is consistent with
+the fact that radiation can induce apoptosis through the activa-
+tion of caspases (19–22). wt mef cells stained by annexin-v
+were also significantly higher than the dko cells. these results
+suggest that radiation induces apoptotic cell death through
+activation of caspases in the presence of bax and bak. we
+expected that apoptosis-permissive cells would show decreased
+clonogenicity after irradiation, because previous publications
+have shown that apoptosis-permissive cells were more radio-
+sensitive as compared with apoptosis-refractory cells (6, 7).
+however, we found increased radiation sensitivity of bax/
+bak⫺/⫺ mef cells by clonogenic assay. this concept was con-
+firmed by attenuating levels of bax and bak in the wt cells. we
+speculated that alternative cell death, such as autophagy, in the
+absence of caspase activation may explain this phenomenon
+(19, 20). recent papers report that cell death still occurs in
+bax/bak⫺/⫺ mice, implying that alternative mechanisms for
+cell death exist in these animals (14). when radiation effects on
+bax/bak⫺/⫺ mef cells were examined 24 h after irradiation
+using propidium iodide staining (13), the sensitizing effect was
+not observed, because propidium iodide staining simply does
+not catch non-apoptotic cell deaths occurring 24 h following
+irradiation. in this study, we investigated radiation sensitivity
+using the classic clonogenic survival assay, which sums up all
+forms of cell death over a period of 8–10 days. our data sup-
+ports the idea that alternative cell death pathways, such as auto-
+phagy, may play a more dominant role in radiation-induced cell
+death than previously thought.
+recent studies report that treatment with radiation and che-
+motherapeutic drugs can induce autophagy in cancer cells (23,
+24). autophagy is a dynamic process consisting of the forma-
+tion and fusion of membrane compartments. for the develop-
+ment of membranes during the autophagic process, lc3, a
+homologue of apg8/aut7p, is recruited to the membrane for
+the formation of autophagosomes (25). after forming a com-
+plete spherical autophagosome, lc3 remains associated with
+the membrane (17). at least 16 autophagy-associated genes
+(atg/apg) that are essential in the autophagic process have
+been identified (26). among these, atg5 and atg12 are two
+known important genes (27), and the protein atg5 induces
+autophagy by covalently binding to atg12. beclin-1 interacts
+with bcl-2/bcl-xl and forms part of a class iii phosphatidylino-
+sitol 3-kinase complex that is crucial for autophagy, and which
+can be inhibited by 3-ma (28, 29). here we demonstrated up-
+regulation of atg5/atg12 and beclin-1 in bax/bak⫺/⫺ mef
+cells following irradiation and increased radioresistance when
+dko cells were treated with 3-ma, findings consistent with
+these known molecular events of autophagy.
+we have shown significantly increased autophagy (over 60%
+at 48 h following irradiation) in the irradiated bax/bak⫺/⫺ mef
+cells. this was examined by morphology per electron micros-
+copy and by characteristic autophagosomes per lc3 location
+using gfp-lc3 fusion protein. induction of autophagy was also
+found in the irradiated wt cells but was kept ⬍20%. this sug-
+gests that the absence of bax and bak hyperactivated autophagy
+under radiation-induced stress. we then examined the pro-
+autophagic signaling by detecting akt/mtor activity in the
+irradiated bax/bak⫺/⫺ mef cells. attenuated phosphorylation
+of akt, mtor, and s6 proteins and increased levels of atg-5
+and beclin-1 were detected in the irradiated bax/bak⫺/⫺ mef
+cells. all of these molecular changes could potentiate autoph-
+agy. much is left to be understood in terms of the molecular
+36888 journal of biological chemistry
+volume 281 • number 48 • december 1, 2006
+radiosensitization in the absence of bax/bak
+figure 6. sirnas against bak and bax and rad001 sensitize cancer cells to radiation. a, mda-mb-231 breast cancer cells and h460 lung cancer cells were
+transfected with 10, 15, and 25 nm sirnas. the protein levels of bak and bax were detected by western analysis at 48 h following transfection. mda-mb-231
+breast cancer cells (b) and h460 lung cancer cells (c) were transfected with a control sirna or sirnas against bak and bax. these transfected cells were irradiated
+with the indicated doses of radiation. after 8 –10 days, colonies were stained and scored. shown are the mean ⫾ s.d. of three separate repeated experiments.
+mda-mb-231 breast cancer cells (d) and h460 lung cancer cells (e) were transfected with gfp-lc3 plasmid, and the cells were examined by fluorescence
+microscopy 24 h after 5 gy. the percentage of cells with punctate gfp-lc3 fluorescence was calculated relative to all gfp-positive cells. error bars are shown as
+mean ⫾ s.d. of three different trials.
+relationship of bax/bak expression and the akt-mtor-s6k
+pathway, and we are currently conducting experiments to fur-
+ther explore their interaction. nevertheless, our work and that
+of others indicates that apoptosis and autophagy are likely asso-
+ciated through complementary activation pathways still yet to
+be completely delineated.
+the role of autophagy in radiation sensitivity has not previ-
+ously been established. in this study, we clearly showed for the
+first time that inhibition of autophagy with 3-ma or attenuat-
+ing key players of autophagy, such as atg5 and beclin-1, results
+in radiation resistance. 3-ma also attenuated radiation-in-
+duced up-regulation of atg5-atg12 complex and beclin-1.
+on the other hand, we showed that mtor inhibitor, rad001,
+or overexpression of pro-autophagic proteins, such as atg5 and
+beclin-1, led to increased radiation sensitivity, supporting the
+importance of autophagy in regulating cell sensitivity to ioniz-
+ing radiation.
+finally, we tested the concept of inhibiting bak and bax to
+enhance radiation sensitization in cancer cells. this has not
+previously been tested before, largely because overexpression of
+these proteins has previously been shown to increase apoptosis
+and therefore enhance radiation effects. indeed, enhancement
+december 1, 2006 • volume 281 • number 48
+journal of biological chemistry 36889
+radiosensitization in the absence of bax/bak
+of apoptosis has been a main focus of cancer therapy (30–33).
+here, we found that attenuation of bak and bax in either h460
+lung cancer cells or mda-mb-231 breast cancers using sirna
+against these proteins induced autophagy and led to increased
+radiation sensitivity. inhibition of mtor with rad001 added
+further sensitization of these cancers by further up-regulating
+autophagy. this enhancement of autophagy through mtor
+inhibition is consistent with prior studies that demonstrate that
+inhibition of mtor initiates autophagy. because most cancers
+have certain defects in their apoptotic machinery, therapeuti-
+cally targeting the non-apoptotic pathway, such as autophagy,
+may yield better clinical outcomes for patients undergoing
+cytotoxic cancer therapy.
+in summary, the present study provides compelling experi-
+mental evidence that the bcl-2-family pro-apoptotic proteins
+bax and bak play a critical role in mediating the mechanism of
+cell death following irradiation. our data support the hypothe-
+sis that irradiation up-regulates non-apoptotic programmed
+cell death (autophagy) in cells that are unable to undergo bax/
+bak-mediated apoptotic cell death and that radiosensitivity can
+be increased by attenuating bak and bax in several cancer cells.
+this can be further enhanced by the direct promotion of auto-
+phagy using the now clinically available mtor inhibitor
+rad001. these strategies targeting autophagic cell death
+deserve further investigation in animal models of cancer and
+eventually in cancer patients requiring radiotherapy.
+acknowledgments—we thank dr. jay jerome for technical help with
+the electron microscopy. we are grateful to drs. stanley korsmeyer,
+tamotsu yoshimori, and noboru mizushima for providing reagents.
+references
+1. wei, m. c., zong, w. x., cheng, e. h., lindsten, t., panoutsakopoulou, v.,
+ross, a. j., roth, k. a., macgregor, g. r., thompson, c. b., and kors-
+meyer, s. j. (2001) science 292, 727–730
+2. scorrano, l., oakes, s. a., opferman, j. t., cheng, e. h., sorcinelli, m. d.,
+pozzan, t., and korsmeyer, s. j. (2003) science 300, 135–139
+3. oakes, s. a., scorrano, l., opferman, j. t., bassik, m. c., nishino, m.,
+pozzan, t., and korsmeyer, s. j. (2005) proc. natl. acad. sci. u. s. a. 102,
+105–110
+4. ruiz-vela, a., opferman, j. t., cheng, e. h., and korsmeyer, s. j. (2005)
+embo rep. 6, 379–385
+5. brown, j. m., and attardi, l. d. (2005) nat. rev. cancer 5, 231–237
+6. story, m. d., voehringer, d. w., malone, c. g., hobbs, m. l., and meyn,
+r. e. (1994) int. j. radiat. biol. 66, 659–668
+7. held, k. d. (1997) apoptosis 2, 265–282
+8. wouters, b. g., denko, n. c., giaccia, a. j., and brown, j. m. (1999)
+oncogene 18, 6540–6545
+9. baehrecke, e. h. (2002) nat. rev. mol. cell biol. 3, 779–787
+10. reggiori, f., and klionsky, d. j. (2005) curr. opin. cell biol. 17, 415–422
+11. yao, k. c., komata, t., kondo, y., kanzawa, t., kondo, s., and germano,
+i. m. (2003) j. neurosurg. 98, 378–384
+12. bursch, w., hochegger, k., torok, l., marian, b., ellinger, a., and
+hermann, r. s. (2000) j. cell sci. 113, 1189–1198
+13. bursch, w. (2001) cell death differ. 8, 569–581
+14. shimizu, s., kanaseki, t., mizushima, n., mizuta, t., arakawa-kobayashi,
+s., thompson, c. b., and tsujimoto, y. (2004) nat. cell biol. 6, 1221–1228
+15. lindsten, t., ross, a. j., king, a., zong, w. x., rathmell, j. c., shiels, h. a.,
+ulrich, e., waymire, k. g., mahar, p., frauwirth, k., chen, y., wei, m.,
+eng, v. m., adelman, d. m., simon, m. c., ma, a., golden, j. a., evan, g.,
+korsmeyer, s. j., macgregor, g. r., and thompson, c. b. (2000) mol. cell
+6, 1389–1399
+16. verheij, m., and bartelink, h. (2000) cell tissue res. 301, 133–142
+17. mizushima, n., yamamoto, a., hatano, m., kobayashi, y., kabeya, y.,
+suzuki, k., tokuhisa, t., ohsumi, y., and yoshimori, t. (2001) j. cell biol.
+152, 657–668
+18. shintani, t., and klionsky, d. j. (2004) science 306, 990–995
+19. gozuacik, d., and kimchi, a. (2004) oncogene 23, 2891–2906
+20. yu, l., alva, a., su, h., dutt, p., freundt, e., welsh, s., baehrecke, e. h.,
+and lenardo, m. j. (2004) science 304, 1500–1502
+21. yu, l., lenardo, m. j., and baehrecke, e. h. (2004) cell cycle 3, 1124–1126
+22. ding, h. f., and fisher, d. e. (2001) j. pediatr. hematol. oncol. 23,
+185–188
+23. paglin, s., hollister, t., delohery, t., hackett, n., mcmahill, m., sphicas,
+e., domingo, d., and yahalom, j. (2001) cancer res. 61, 439–444
+24. kanzawa, t., germano, i. m., komata, t., ito, h., kondo, y., and kondo, s.
+(2004) cell death differ. 11, 448–457
+25. kabeya, y., mizushima, n., ueno, t., yamamoto, a., kirisako, t., noda,
+t., kominami, e., ohsumi, y., and yoshimori, t. (2000) embo j. 19,
+5720–5728
+26. mizushima, n., yoshimori, t., and ohsumi, y. (2003) int. j. biochem. cell
+biol. 35, 553–561
+27. mizushima, n., noda, t., yoshimori, t., tanaka, y., ishii, t., george,
+m. d., klionsky, d. j., ohsumi, m., and ohsumi, y. (1998) nature 395,
+395–398
+28. liang, x. h., kleeman, l. k., jiang, h. h., gordon, g., goldman, j. e., berry,
+g., herman, b., and levine, b. (1998) j. virol. 72, 8586–8596
+29. yue, z., jin, s., yang, c., levine, a. j., and heintz, n. (2003) proc. natl.
+acad. sci. u. s. a. 100, 15077–15082
+30. pataer, a., fang, b., yu, r., kagawa, s., hunt, k. k., mcdonnell, t. j., roth,
+j. a., and swisher, s. g. (2000) cancer res. 60, 788–792
+31. shinoura, n., saito, k., yoshida, y., hashimoto, m., asai, a., and kirino t.
+(2000) cancer gene ther. 7, 739–748
+32. arafat, w. o., gomez-navarro, j., xiang, j., barnes, m. n., mahasreshti,
+p., and alvarez, r. d. (2000) mol. ther. 1, 545–554
+33. arafat, w. o., buchsbaum, d. j., gomez-navarro, j., tawil, s. a., olsen,
+c., and xiang, j. (2003) int. j. radiat. oncol. biol. phys. 55, 1037–1050
+36890 journal of biological chemistry
+volume 281 • number 48 • december 1, 2006

@@ -1,0 +1,885 @@
+human molecular genetics, 2007, vol. 16, no. 6
+doi:10.1093/hmg/ddm002
+advance access published on march 1, 2007
+618–629
+two endoplasmic reticulum-associated
+degradation (erad) systems for the novel variant of
+the mutant dysferlin: ubiquitin/proteasome erad(i)
+and autophagy/lysosome erad(ii)
+eriko fujita1,{, yoriko kouroku1,{, atsushi isoai2, hiromichi kumagai2, akifumi misutani2,
+chie matsuda3, yukiko k. hayashi4 and takashi momoi1,*
+1divisions of development and differentiation, department of human inherited metabolic disease, 2asahi glass co., 1150
+hasawa-cho, kanagawa-ku, yokohama, kanagawa 221-0863, japan, 3research institute of neurobiology, neuroscience
+research institute, aist, central 6, tsukuba, ibaraki 305-8566, japan and 4department of neuromuscular research,
+national institute of neuroscience, 4-1-1 ogawahigashi-machi, kodaira, tokyo 187-8502, japan
+received november 5, 2006; revised december 27, 2006; accepted january 12, 2007
+dysferlin is a type-ii transmembrane protein and the causative gene of limb girdle muscular dystrophy type
+2b and miyoshi myopathy (lgmd2b/mm), in which speciﬁc loss of dysferlin labeling has been frequently
+observed. recently, a novel mutant (l1341p) dysferlin has been shown to aggregate in the muscle of the
+patient. little is known about the relationship between degradation of dysferlin and pathogenesis of
+lgmd2b/mm. here, we examined the degradation of normal and mutant (l1341p) dysferlin. wild-type (wt)
+dysferlin mainly localized to the er/golgi, associated with retrotranslocon, sec61a, and vcp(p97), and
+was degraded by endoplasmic reticulum (er)-associated degradation system (erad) composed of ubiqui-
+tin/proteasome. in contrast, mutant dysferlin spontaneously aggregated in the er and induced eukaryotic
+translation initiation factor 2a (eif2a) phosphorylation and lc3 conversion, a key step for autophagosome
+formation, and ﬁnally, er stress cell death. unlike proteasome inhibitor, e64d/pepstatin a, inhibitors of lyso-
+somal proteases did not stimulate the accumulation of the wt-dysferlin, but stimulated aggregation of mutant
+dysferlin in the er. furthermore, deﬁciency of atg5 and dephosphorylation of eif2a, key molecules for lc3
+conversion, also stimulated the mutant dysferlin aggregation in the er. rapamycin, which induces eif2a
+phosphorylation-mediated lc3 conversion, inhibited mutant dysferlin aggregation in the er. thus, mutant
+dysferlin aggregates in the er-stimulated autophagosome formation to engulf them via activation of er
+stress-eif2a phosphorylation pathway. we propose two erad models for dysferlin degradation, ubiquitin/
+proteasome erad(i) and autophagy/lysosome erad(ii). mutant dysferlin aggregates on the er are degraded
+by the autophagy/lysosome erad(ii), as an alternative to erad(i), when retrotranslocon/erad(i) system is
+impaired by these mutant aggregates.
+introduction
+mutations of the gene encoding dysferlin cause the allelic
+autosomal recessive disorders limb girdle muscular dystrophy
+type 2b and miyoshi myopathy (lgmd2b/mm) (1,2). the
+predicted amino acid sequence of dysferlin possesses seven
+þþ
+-binding) domains and a carboxy-
+intracellular c2 (ca
+terminal transmembrane region (3). dysferlin protein is a
+type-ii transmembrane protein and is expressed in various
+tissues, including muscle, and is located primarily in muscle
+sarcolemma (4,5). it is implicated in membrane repair of dis-
+rupted surface membranes of muscle (6,7). the speciﬁc loss of
+*to whom correspondence should be addressed. tel: þ81 423412711 (ext. 5273); fax: þ81 423412711 (ext. 5740); email: momoi@ncnp.go.jp
+the authors wish it to be known that, in their opinion, the ﬁrst two authors should be regarded as joint first authors.
+# 2007 the author(s)
+this is an open access article distributed under the terms of the creative commons attribution non-commercial license (http://creativecommons.org/
+licenses/by-nc/2.0/uk/) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is
+properly cited.
+human molecular genetics, 2007, vol. 16, no. 6
+619
+dysferlin labeling has been frequently observed in the muscle
+tissues of lgmd2b/mm patients (1,2). little is known about
+the degradation of wild-type (wt) and mutant dysferlin.
+endoplasmic reticulum (er) quality-control system recog-
+nizes and removes nascent proteins that fail to fold or assem-
+ble properly. the aberrant proteins such as misfolded and
+malfolded proteins activate stress-signaling pathways
+to
+rescue the cells via er stress-sensor proteins such as perk
+[protein kinase regulated by rna (pkr)-like er kinase]
+(8,9). the aberrant proteins are extracted and retrotranslocated
+to the cytoplasm where they are degraded by the er-
+associated egradation (erad) system composed of ubiqui-
+tin/proteasome (10 – 12). valosin-containing protein p97
+[vcp(p97)] and sec61 are involved in the retrotranslocation
+for the extraction of aberrant luminal and membrane proteins
+from the er (13). if insufﬁciently degraded, the accumulated
+aberrant proteins in the er are assumed to activate the er
+stress-mediated cell death pathway via activation of the
+c-jun n-terminal kinase (jnk) and/or caspase-12 located at
+the outer layer of the er (14,15). er stress is closely
+related with the pathogenesis of conformation diseases such
+as parkinson’s disease and polyglutamine (polyq) disease
+(15,16). recently, some novel variants of lgmd2b/mm
+have shown patchy sarcolemmal immunostaining or intra-
+cellular aggregates of dysferlin in the muscle ﬁbers of patients
+(17,18). a relationship between er stress and mutant
+(l1341p)-dysferlin aggregates has also been suggested.
+macroautophagy (hereafter
+referred to as autophagy)
+engulfs bulk cytosolic material and organelles within double-
+membrane vesicles, known as autophagosomes, and then
+degrades them to liberate nutrients via fusion with the lyso-
+some (this pathway is hereafter referred to as autophagy/lyso-
+some). the molecular mechanism of autophagy formation has
+been intensely studied in yeast and mammalian cells (19,20);
+many autophagy-related genes (atgs) are involved in the
+autophagy formation. in addition to ubiquitin/proteasome,
+constitutive autophagy has an important role in protein-quality
+control; atg7- and/or atg5-deﬁcient mice show the accumu-
+lation of ubiquitinated proteins in the liver and brain (21 – 23).
+very recently, we have shown that cytoplasmic polyq-induced
+autophagy formation is linked to er stress-mediated perk/
+eif2a (eukaryotic translation initiation factor 2a) phosphoryl-
+ation and that cytoplasmic polyq aggregates, which are not sufﬁ-
+ciently degraded by ubiquitin/proteasome system, are degraded
+by autophagy/lysosome (15,24). thus, constitutive autophagy
+is stimulated to degrade the cytoplasmic mutant protein aggre-
+gates by their aggregate-mediated stress-induced eif2a phos-
+phorylation. however, it is not clear how aberrant membrane
+protein aggregates located in the er are degraded when retrotran-
+slocation or ubiquitin/proteasome erad is impaired.
+however, since it is technically difﬁcult to distinguish nor-
+mally folded and misfolded state in the wt-dysferlin, we exam-
+ined the difference between the effects of wt-dysferlin and
+mutant (l1341p)-dysferlin with malfolded states on their
+possible degradation systems, ubiquitin/proteasome and autop-
+hagy/lysosome. we demonstrate that wt-dysferlin is localized
+to the er and is a substrate for ubiquitin/proteasome
+erad(i), while mutant dysferlin aggregates are additionally
+degraded by the autophagy/lysosome erad(ii).
+results
+subcellular localization of dysferlin
+we examined the subcellular distribution of dysferlin in c2c5
+cells by immunostaining with several subcellular markers
+(fig. 1). although dysferlin is expressed ubiquitously in
+various cells, its levels are undetectable by immunostaining
+figure 1. intracellular localization of tet-induced dysferlin and its association with components of retrotranslocon. (a) c2c5 cells expressing pcdna4/to/
+myc-his-wt-dysferlin (tet-wt-dysferlin c2c5 cells) were incubated in medium containing tetracycline (tet). dysferlin localization was examined by immuno-
+staining using anti-his (green) and various subcellular makers such as anti-kdel (red) for er, anti-gm130 (red) for golgi, anti-foatpase (red) for mitochon-
+dria, and anti-cathepsin d (red) for lysosome at 24 h after tet-on. (b) colocalization of tet-wt-dysferlin with vcp(p97) in c2c5 cells. localization of dysferlin
+and vcp(p97) were detected by immunostaining using anti-his (green) and anti-vcp(p97) (red), respectively. yellow; merged. (c) colocalization of
+tet-wt-dysferlin with sec61a in c2c5 cells. localization of dysferlin and sec61a was detected by immunostaining using anti-his (green) and anti-sec61a
+(red), respectively. yellow; merged. (d) interactions between gfp-dysferlin and vcp(p97) or sec61a. interaction between dysferlin and vcp(p97) or
+sec61a was detected by immunoprecipitation and immunoblot analysis using anti-gfp and anti-vcp(p97) or anti-sec61a, respectively. scale bars: 15 mm.
+620
+human molecular genetics, 2007, vol. 16, no. 6
+figure 2. lll and cytoplasmic polyq aggregates induced accumulation of tet-wt-dysferlin in the er. tet-wt-dysferlin c2c5 cells were incubated in medium
+containing tetracycline (tet) and transfected by pegfp-72cag. (a) polyq aggregates-induced dysferlin aggregation in the er. immunoﬂuorescence images of
+polyq72 aggregates and dysferlin aggregates (left) and percentages of cells showing dysferlin aggregates in cells expressing gfp-polyq72 and in non-expressing
+cells (right). left panel shows lower magniﬁcation (a – d: scale bar, 25 mm) and higher magniﬁcation (e and f: scale bar, 15 mm). insets (a – d) show cells which
+were not transfected gfp-polyq72. anti-his (dysferlin; red) and gfp-polyq72 (green). the white and blue broken lines show outlines of the cell and the
+nucleus, respectively. the percentages were determined by counting 100 – 200 cells expressing gfp-polyq72 at 48 h after transfection. the values are averages
+of the percentages of the number of cells obtained in three experiments. error bars indicate standard deviation. (b) immunoblot analysis of the effect of lll and
+e64d/pepstatin a on the level of tet-wt-dysferlin in the soluble or insoluble fraction. tet-wt-dysferlin c2c5 cells were incubated in medium containing tet and
+lll (5 mm) or e64d/pepstatin a (10 mg/ml) for the indicated periods. triton-soluble and insoluble dysferlin were detected by immunoblot analysis using an
+anti-his antibody at the indicated time. (c) effect of lll and e64d/pepstatin a on the tet-wt-dysferlin aggregates. dysferlin aggregates were shown by immu-
+nostaining using an anti-his antibody (green). scale bar, 25 mm. (d) colocalization of tet-wt-dysferlin with polyubiquitinates. lll-treated tet-wt-dysferlin
+c2c5 cells were immunostained with anti-his and anti-polyubiquitin (red) antibody (green). yellow; merged. scale bar, 15 mm. (e) effect of various er
+stress stimuli on the tet-wt-dysferlin aggregates. dysferlin aggregates were shown by immunostaining using an anti-his antibody (green). scale bar, 25 mm.
+localization after
+except in muscle tissues. therefore, we prepared c2c5 cells
+expressing tetracycline (tet)-inducible wt-dysferlin gene
+(tet-wt-dysferlin c2c5 cells), controlled the expression of
+wt-dysferlin using this tet-on/off system, and examined its
+subcellular
+induction. tet-wt-dysferlin
+partially localized to the er (anti-kdel reactivity) and to
+the golgi (anti-gm130 reactivity), but not to the lysosome
+(anti-cathepsin d reactivity) or mitochondria (anti-f0atpase
+reactivity) (fig. 1a). approximately, 4% of the cells showed
+tet-wt-dysferlin accumulation in the er/golgi. the accumu-
+lated tet-wt-dysferlin colocalized with sec61a and partly
+colocalized with vcp(p97), components of retrotranslocon
+on the er (fig. 1b and c). furthermore, wt-dysferlin was
+associated with sec61a and vcp(p97) in cos cells (fig. 1d).
+relationship between dysferlin accumulation in the er
+and impaired erad
+we examined the two possible degradation systems for
+wt-dysferlin; ubiquitin/proteasome erad and the lysosome.
+recently, we showed that cytoplasmic polyq aggregates,
+which inhibit the function of the erad and retrotranslocon,
+stimulate perk/eif2a phosphorylation, thereby activating the
+autophagic pathway as well as the apoptotic pathway (24,25).
+cytoplasmic polyq aggregates stimulated tet-wt-dysferlin
+accumulation in the er (fig. 2a); the population of cells
+showing this accumulation was increased by about 5-fold
+with the presence of the cytoplasmic polyq aggregates. the
+proteasome inhibitor, benzyloxycarbonyl-l- leucyl-l-leucyl-
+leucinal
+[z-lll-cho (mg132); lll], also induced the
+accumulation of tet-wt-dysferlin in the er. lll (5 mm) treat-
+ment
+induced dysferlin accumulation in a triton-insoluble
+fraction within 12 – 24 h (fig. 2b). lll (5 mm) as well as
+polyq aggregates stimulated tet-wt-dysferlin accumulation
+in the er (fig. 2c). the accumulated tet-wt-dysferlin
+co-aggregated with anti-polyubiquitin reactivity (fig. 2d).
+in contrast, lysosomal protease inhibitors, e64d (10 mg/ml),
+membrane permeable inhibitor of cathepsin a, h and l,
+and pepstatin a (10 mg/ml), an inhibitor of cathepsin d and e,
+did not stimulate the tet-wt-dysferlin accumulation in the
+human molecular genetics, 2007, vol. 16, no. 6
+621
+er (fig. 2b and c). thus, wt-dysferlin seems to be mainly
+degraded in the ubiquitin/proteasome erad but not in the
+lysosome.
+brefeldin, an inhibitor for trans-golgi network, as well as
+other er stress stimuli such as thapsigargin and tunicamycin
+slightly stimulated the accumulation of tet-wt-dysferlin in
+the er (fig. 2e), suggesting that only a small population of
+tet-wt-dysferlin as well as endogenous dysferlin is transported
+to the cell surface but a large population of tet-wt-dysferlin
+remains in the er/golgi. thus, wt-dysferlin is preferentially
+recognized by the retrotranslocon and more easily degraded
+by ubiquitin/proteasome erad when compared with other
+er proteins.
+dysferlin aggregation in the er and er stress cell death
+in contrast with wt-dysferlin, overexpressed mutant dysferlins
+(l1341p and w999c) (18,26) spontaneously formed patchy
+aggregations in the er (fig. 3a and supplementary material,
+fig. s1); mutant (l1341p)-dysferlin had patchy aggregation in
+28 h, and formed large aggregates, which led to apoptotic fea-
+tures in 32 h, while wt-dysferlin did not show the spontaneous
+aggregates and apoptotic feature at 32 h after transfection
+(fig. 3b).
+defects in erad, inhibition of proteasome activity and
+impaired retrotranslocation causes the accumulation of er
+proteins, which subsequently induces er stress-induced cell
+death. like lll treatment, the overexpression of the mutant
+(l1341p)-dysferlin induced c/ebp homologous protein
+(chop) up-regulation and c-jun phosphorylation (anti-jun-p
+positive)
+in 28 h and caspase-12 activation (anti-active
+caspase-12-positive) in 32 h (fig. 3c and supplementary
+material, fig. s2). the patchy aggregates colocalized with
+ubiquitin immunoreactivity (fig. 3c and supplementary
+material, fig. s3). thus, the mutant dysferlin accumulates
+and spontaneously aggregates in the er and has a potential
+ability to induce the er stress cell death.
+degradation of mutant dysferlin aggregates in lysosome
+we compared the degradation of tet-wt and -mutant (l1341p)
+dysferlin. lll stimulated both tet-wt and -mutant dysferlin
+accumulation and aggregation in the er (fig. 4a upper and
+lower), and increased the number of cells expressing dysferlin
+aggregates (fig. 4a upper and middle); the population of cells
+showing wt- and mutant-dysferlin aggregates were increased
+from 2 – 3% to 67% and 39 – 91% by lll treatment, respect-
+ively. e64d/pepstatin a also stimulated the accumulation
+and aggregation of tet-mutant dysferlin in the er but did
+not tet-wt-dysferlin (fig. 4b upper and lower). the popu-
+lation of cells showing the mutant dysferlin aggregates was
+increased from 33 to 68% by e64d/pepstatin a treatment,
+but the population of cells showing wt-dysferlin aggregates
+was not (fig. 4b upper and middle). thus, in contrast with
+tet-wt-dysferlin data, tet-mutant dysferlin seems to be
+degraded not only by the ubiquitin/proteasome but also by
+the lysosome.
+figure 3. the relationship between accumulation of mutant dysferlin in the
+er and cell death. (a) spontaneous aggregation of mutant (l1341p) in
+c2c5 cells. c2c5 cells were transfected with pci-neo-wt-dysferlin or
+mutant (l1341p). mutant dysferlin spontaneously formed patchy aggregation
+and induced cell shrinkage with apoptotic features (arrows). scale bar, 25 mm.
+(b) mutant (l1341p)-dysferlin-induced apoptosis. wt- and mutant dysferlin
+were transfected into c2c5 cells and their accumulations in the er were mon-
+itored. mutant dysferlin (green) formed patchy aggregates at 28 h and cells
+expressing mutant dysferlin aggregates showed cell shrinkage with apoptotic
+morphological features in 32 h after transfection. nucleus (blue). scale bar,
+15 mm.
+(c) mutant dysferlin-induced er stress cell death. mutant
+dysferlin-induced (green) er stress cell death with c-jun phosphorylation
+(anti-c-jun-p reactivity) (red) in 28 h, activation of caspase-12 (anti-active
+caspase-12 reactivity) (red) in 32 h, chop-upregulation (red) in 28 h, and
+ubiquitin (red) in 32 h after transfection. scale bar, 15 mm.
+involvement of er stress-induced eif2a-mediated
+autophagy pathway in the lysosomal degradation
+of mutant dysferlin
+we examined the degradation pathway of
+the mutant
+(l1341p)-dysferlin aggregated in the er to the lysosome.
+there are two possible pathways for lysosomal degradation: the
+622
+human molecular genetics, 2007, vol. 16, no. 6
+figure 4. degradation of mutant dysferlin in proteasome and lysosome. tet-wt- and mutant (l1341p)-dysferlin cells were incubated in the presence or absence
+of lll (5 mm) (a) or e64d/pepstatin a (10 mg/ml) (b). accumulation of wt- or mutant dysferlin was detected by immunostaining (upper panels), by counting
+the number of cells showing dysferlin aggregates (middle panels). arrowheads indicate cells showing the mutant dysferlin aggregates and/or cell shrinkage with
+apoptotic features. triton-insoluble dysferlin was detected by immunoblot analysis using anti-dysferlin (lower panels). scale bars, 25 mm. error bars indicate
+standard deviation.
+golgi-endosome pathway (27) and autophagy pathway (20).
+brefeldin a (10 mm) did not signiﬁcantly stimulate mutant
+dysferlin aggregation in the er (supplementary material,
+fig. s4), suggesting that mutant dysferlin preferentially localizes
+to the er/golgi. therefore, the golgi-endosome pathway cannot
+be the major pathway by which mutant dysferlin undergoes lyso-
+somal degradation. we next examined the possible involvement
+of the autophagy pathway in the lysosomal degradation of
+mutant dysferlin.
+eif2a phosphorylation stimulates autophagosome for-
+mation (28) and the atg5 – atg12 complex-dependent conver-
+sion of lc3 [atg8; microtubule-associated protein 1 (map1)
+light chain 3] (24), lc3-i (18 kda; free form) and lc3-ii
+(16 kda; membrane-bound form), are involved in key steps
+of autophagosome formation (19,20). we previously demon-
+strated that er stress stimuli such as tunicamycin and thapsi-
+gargin, which stimulate eif2a phosphorylation, induce the
+expression of atg12 gene and lc3 conversion (24). dominant
+negative (dn) perk (29) and dephosphorylation of eif2a
+(30)
+inhibited the thapsigargin-induced lc3 conversion
+(fig. 5a and b). thus, er stress stimulated the autophago-
+some formation by activating the perk – eif2a phosphoryl-
+ation pathway.
+we examined the involvement of the autophagy/lysosome
+pathway in the degradation of the mutant dysferlin aggregates
+in the er. in contrast with wt-dysferlin, overexpression of
+mutant (l1341p)-dysferlin as well as lll-induced lc3 con-
+version and eif2a phosphorylation (fig. 5c and d). lc3-i is
+human molecular genetics, 2007, vol. 16, no. 6
+623
+figure 5. degradation of mutant dysferlin by eif2a-mediated autophagy. involvement of perk pathway (a) and eif2a phosphorylation (b) in
+thapsigargin-induced lc3 conversion. c2c5 cells and tet-myc-tagged dn-perk [perk (k618a)] c2c5 cells (24,29) (a) and eif2a s/s (wt) and a/a
+(mutation) mef cells (30) (b) were incubated in the presence or absence of thapsigargin, and lc3 conversion and eif2a phosphorylation were examined
+by immunoblot analysis. (c) effect of lll on the lc3 conversion and eif2a phosphorylation of the tet-wt- and mutant (l1341p)-dysferlin c2c5 cells.
+induced lc3 conversion and eif2a phosphorylation. (d) effect of overexpressed wt- and mutant (l1341p)-dysferlin on the lc3 conversion and eif2a phos-
+phorylation of c2c5 cells. (e) immunostaining analysis of the lc3 conversion and eif2aphosphorylation induced by wt- and mutant (l1341p)-dysferlin. anti-
+dysferlin (green), anti-lc3 (red) and anti-eif2a-p (red), and merged (yellow). scale bar, 15 mm.
+diffusely immunostained by anti-lc3 in the cytoplasm of cells
+with no stress, while lc3-ii, which is tightly associated with
+the autophagosomal membrane, shows intense vesicular and
+granular anti-lc3 immunostaining (31,32). immunostaining
+analysis showed that most cells expressing mutant dysferlin
+aggregates were eif2a phosphorylation-positive and vesicular
+anti-lc3-positive, while cells expressing wt-dysferlin were
+negative (fig. 5e). most of the patchy aggregates of mutant
+dysferlin colocalized with vesicular anti-lc3 reactivity.
+þ/þ
+the deﬁciency of atg5 stimulated the accumulation of
+triton-insoluble mutant (l1341p) dysferlin and increased
+the population of cells containing aggregated mutant dysferlin
+(fig. 6a); the population of cells displaying wt- and mutant
+) mouse
+dysferlin was 13 and 24% in wild-type (atg5
+embryonic ﬁbroblast (mef) cells, respectively, and 20 and
+53% in atg52/2 mef cells (33), respectively. thus, autop-
+hagy mediates the transfer of mutant dysferlin rather than
+wt-dysferlin from the er to the lysosome. eif2adephosphory-
+lation, which inhibits autophagosome formation (24,28),
+also stimulated the accumulation of triton-insoluble mutant
+(l1341p)-dysferlin and its aggregation, and increased the
+population of cells expressing mutant dysferlin aggregates
+(fig. 6b); the population of cells displaying wt- and mutant
+dysferlin were 10 and 17% in wild-type (eif2a s/s) mef
+cells, respectively, and 22 and 46% in eif2a a/a mef
+cells (30), respectively. these results suggest
+that mutant
+dysferlin aggregation in the er stimulates autophagosome for-
+mation by activation of er stress-eif2a phosphorylation
+pathway.
+stimulation of the degradation of mutant
+dysferlin by rapamycin
+rapamycin stimulates autophagy formation via mammalian
+target of rapamycin (34). it has also been shown to promote
+the degradation of polyq aggregates thereby inhibiting cell
+death (24,35,36). rapamycin also stimulates gcn2-mediated
+eif2a phosphorylation in yeast (37) and lc3 conversion via
+perk-independent eif2a phosphorylation (24). rapamycin
+induced eif2a phosphorylation and lc3
+(0.5 – 10 mg/ml)
+conversion (fig. 7a). consequently, rapamycin inhibited the
+accumulation of the triton-insoluble form of the mutant
+(l1341p) dysferlin and its aggregation, and decreased the
+population of cells displaying mutant dysferlin aggregates
+from 38 to 18% (fig. 7b), while 3-methyladenine (3-ma),
+which stimulates the autophagy formation, increased them
+from 36 to 44% (fig. 7c).
+collectively, we propose two erad models for dysferlin
+degradation, ubiquitin/proteasome erad(i) and autophagy/
+lysosome erad(ii) (fig. 8).
+discussion
+ubiquitin/proteasome erad for dysferlin degradation
+and pathogenesis of lgmd2b/mm
+dysferlin is ubiquitously expressed in many tissues but only
+in the most of
+detectable in muscle sarcolemma (4,5).
+lgmd2b/mm patient muscle, however,
+loss of dysferlin
+624
+human molecular genetics, 2007, vol. 16, no. 6
+figure 6. effect of atg5 deﬁciency and eif2a phosphorylation on the degradation of wt- and mutant dysferlin aggregation. wt- and mutant (l1341p)-dysferlin
+and atg52/2 mef cells (33) (a), and eif2a s/s (wt) and a/a (mutation) mef cells (30) (b). accumulation of wt- and mutant
+were transfected into atg5
+dysferlin were detected by immunostaining (upper panels) and by counting the number of cells containing dysferlin aggregates (middle panels). triton-insoluble
+mutant dysferlin was examined by immunoblot analysis using anti-dysferlin (lower panels). arrowheads indicate cells showing the mutant dysferlin aggregates
+and/or cell shrinkage with apoptotic features. scale bars, 25 mm. error bars indicate standard deviation.
+þ/þ
+has been shown (1,2). most of overexpressed dysferlin were
+located in the er/golgi but not located at the plasma mem-
+brane (fig. 1), suggesting that only small amount of dysferlin
+is necessary for cells, and unnecessary or misfolded dysferlin
+is checked by protein quality control system for degradation.
+lll as well as polyq aggregates induces the accumulation
+of tet-wt-dysferlin in the er and the co-aggregation with
+polyubiquitination (fig. 2), suggesting that wt-dysferlin is a
+substrate for ubiquitin/proteasome erad. vcp(p97) func-
+tions to extract aberrant proteins from the retrotranslocon
+composed of sec61 and direct
+them towards ubiquitin/
+proteasome erad (13,38,39). association with sec61a or
+vcp(p97) (fig. 1) may cause the preferential extraction of
+excess wt- and some mutant-dysferlin from the er in order
+for degradation via the ubiquitin/proteasome erad can
+occur. otherwise, wt-dysferlin may be more susceptible to
+the degradation by ubiquitin/proteasome
+than proteins
+located in the lumen of the er, because dysferlin with the
+structure of type ii membrane protein and a carboxy-terminal
+transmembrane region is assumed to be located on the er
+membrane exposing its most part
+to the cytoplasm. this
+may be another reason that the speciﬁc loss of the mutant dys-
+ferlin is frequently observed in the muscle of the lgmd2b/
+mm patients.
+these domains are involved in the ca
+in contrast with wt-dysferlin, dysferlin with mutation
+(l1341p) in the c2 domain, which shows the intracellular
+aggregation in muscle ﬁbers of the patient (18), spontaneously
+aggregated in the er (fig. 4). intracellular c2 domains of
+dysferlin show homology to c2a of synaptotagmin (3),
+þþ
+suggesting that
+dependent fusion process. l1341 is one of the most highly
+conserved positions,
+implying an important structural role
+for this amino acid. one possible explanation for the aggrega-
+tion of the mutant (l1341p)-dysferlin in the er is that the loss
+of function of the c2 domain may cause a defect of association
+between the mutant dysferlin and the retrotranslocon or
+vcp(p97). alternatively, the mutation (l1341p) may cause
+deleterious effects on the secondary and tertiary structure of
+dysferlin, resulting in a resistance to the ubiquitin/proteasome
+erad and a tendency to spontaneously aggregate in the er.
+human molecular genetics, 2007, vol. 16, no. 6
+625
+on the er (fig. 2a), suggesting another possibility that mutant
+dysferlin aggregates inhibit the proteasome activity in the
+cytoplasm, causing the accumulation of mutant dysferlin and
+stimulating their further aggregation on the er. detailed
+analysis of the relationship between the structures of various
+mutant dysferlins and their susceptibilities to the degradation
+and their abilities to the inhibition of the proteasome activity
+remains to be performed.
+the autophagy/lysosome degradation pathway as an
+alternative erad
+lll treatment induces the accumulation of the misfolded
+states in the wt-dysferlin in the er by inhibiting the degra-
+dation of misfolded proteins, while mutant dysferlin has
+higher tendency to spontaneously aggregate in the er. it is
+highly likely that
+the accumulation of misfolded proteins
+including misfolded dysferlin caused by lll treatment or
+malfolded mutant dysferlin induces er stress and stimulates
+lc3 conversion and the autophagic pathway to eliminate
+these aberrant aggregates (figs 3 and 4). e64d/pepstatin a,
+lysosomal protease inhibitors, did not stimulate the prominent
+accumulation of wt-dysferlin (figs 2 and 4), but stimulated
+mutant dysferlin accumulation (fig. 4), suggesting that
+wt-dysferlin is mainly degraded by ubiquitin/proteasome
+erad, while mutant dysferlin is degraded in the lysosome
+in addition to ubiquitin/proteasome erad.
+autophagy usually plays a role in the degradation of cellu-
+lar organs under critical conditions. however, constitutive
+autophagy, which occurs independent of nutrient stress, has
+been recently shown to play an important role in maintaining
+the homeostasis of non-dividing cells including hepatocytes
+and a subset of neural cells; the ubiquitinated proteins are
+accumulated in the liver and brain of the atg7- and/or atg5-
+deﬁcient mice (21 – 23). in the yeast, atg6/beclin, which is
+involved in vesicle nucleation for autophagy by associating
+with pi3k as a type i complex (40), inhibits the aggregation
+of the a-protease inhibitor (a1piz) in the er and rescued
+the erad defect (41). an a-proteinase inhibitor extracted
+from the er is degraded by two functionally distinct degra-
+dation pathways in yeast: the soluble inhibitor is degraded
+by the ubiquitin/proteasome system, whereas the inhibitor
+that aggregated due to an erad defect is degraded by auto-
+phagy/lysosome.
+inhibition of lysosomal proteases, e64d/pepstatin a (42),
+and atg5 deﬁciency stimulated mutant (l1341p)-dysferlin
+aggregation in the mammalian cells (figs 4 and 6), suggesting
+that the autophagy/lysosome pathway, an alternative erad
+system, is further stimulated by mutant dysferlin aggregates
+in the er for their degradation; i.e. when mutant or aberrant
+dysferlins are not sufﬁciently degraded by ubiquitin/protea-
+some erad, they spontaneously aggregate on the er mem-
+brane and may stimulate the autophagy/lysosome pathway as
+an alternative erad to engulf them for further degradation
+in lysosome (fig. 8).
+interestingly, atg5 deﬁciency also stimulated the aggrega-
+tion of wt-dysferlin (fig. 6a and supplementary material,
+fig. s5); the population of cells displaying wt-dysferlin aggre-
+gation was increased from 13 to 20% by atg5 deﬁciency.
+thus, the constitutive autophagy seems to play a role in the
+figure 7. effect of rapamycin or 3-ma on the mutant dysferlin aggregates.
+(a) rapamycin-induced lc3 conversion and eif2a phosphorylation. c2c5
+cells were incubated with rapamycin at the indicated concentration (0.5 –
+10 mg/ml). stimulation of eif2a phosphorylation and lc3 conversion by
+rapamycin was examined. effect of rapamycin (b) or 3-ma (c) on the
+mutant dysferlin aggregation. mutant (l1341p)-dysferlin was transfected
+into c2c5 cells and incubated in the presence or absence of rapamycin
+(10 mg/ml) or 3-ma (10 mm). accumulation of mutant dysferin was detected
+by immunostaining (left), by counting the number of cells showing mutant
+dysferlin aggregates using anti-dysferlin (right and upper panel). triton
+insoluble-mutant dysferlin was detected by immunoblot analysis (right and
+lower panel). arrowheads indicate cells showing the mutant dysferlin aggre-
+gates and/or cell shrinkage with apoptotic features. scale bar, 25 mm. error
+bars indicate standard deviation.
+furthermore, these mutant dysferlin aggregates induced the
+coaggregation of the gfp-polyq11 located in the cytoplasm
+with polyubiquitination (supplementary material, fig. s3)
+and polyq72 aggregates induced the wt-dysferlin aggregation
+626
+human molecular genetics, 2007, vol. 16, no. 6
+figure 8. model for the autophagy/lysosome erad system. wt-dysferlin is located in the er and golgi and some of them are transported to the surface mem-
+brane and play a role in the vesicular membrane fusion system. usually, wt- and mutant dysferlin are degraded by ubiquitin/proteasome erad system. however,
+when mutant dysferlin is not sufﬁciently degraded by ubiquitin/proteasome erad, they aggregate in the er and stimulate autophagy formation, lc3 conversion,
+via the er stress-perk-eif2aphosphorylation. the mutant dysferlin aggregates on the er membrane could be recognized by the elongating membrane to form
+the autophagosome and then degraded by autolysosome on the fusion with lysosome. thus, autophagy/lysosome pathway acts as erad( ii), an alternative
+erad, for the degradation of the mutant dysferlin aggregates when the ubiquitin/proteasome erad(i) is impaired. however, if autophagy/lysosome
+erad(ii) insufﬁciently degrades the mutant dysferlin aggregates, cells may choose the er stress-mediated cell death.
+clearance of some of the misfolded dysferlin included in
+wt-dysferlin as a protein-quality control system although this
+contribution to the degradation of wt-dysferlin is much less
+than ubiquitin/proteasome (fig. 4a). in contrast, e64d/pepsta-
+tin a does not increase the accumulation of the wt-dysferlin
+(figs 2 and 4b), suggesting that constitutive autophagy may
+not be always associated with lysosomal degradation but
+may be associated with clearance system or wt-dysferlin
+may be degraded by the e64d/pepstatin a-insensitive
+proteases.
+regulation of autophagy formation by eif2a
+phosphorylation
+eif2a phosphorylation is known to be involved in the
+stress-induced autophagy (24,28); starvation stimulates autop-
+hagy formation via eif2a phosphorylation (28). recently, we
+showed that serum deprivation and rapamycin-induced lc3
+conversion via a perk-independent eif2a phosphorylation-
+dependent pathway (15,24). as we describe here, er stress
+inducing stimuli such as thapsigargin as well as polyq aggre-
+gates induces lc3 conversion via perk-eif2a phosphoryl-
+ation pathway (fig. 5a and b) (24). thus, it is likely that
+the mutant dysferlin aggregates in the er may induce the
+autophagosome formation for the activation of the alternative
+erad pathway, via stimulation of the er stress-perk/eif2a
+phosphorylation pathway (fig. 8). furthermore, eif2a depho-
+sphorylation and atg5 deﬁciency stimulated the accumulation
+of mutant (l1341p)-dysferlin (fig. 6), suggesting that er
+stress-eif2a phosphorylation may also regulate the autolyso-
+some formation, the fusion process of autophagosome with
+lysosome. rapamycin seems to be helpful for the degradation
+of the aberrant protein aggregates including mutant dysferlin
+in the autophagy/lysosome (fig. 7) and for cell survival
+because it stimulates autophagosome formation via non-er
+stress-eif2a phosphorylation pathway (24).
+in conclusion, we propose two erad models for dys-
+the ubiquitin/proteasome erad(i) and
+ferlin degradation,
+the autophagy/lysosome erad(ii)
+(fig. 8). autophagy/
+lysosome erad(ii) is an alternative erad system for the
+degradation of excess mutant dysferlin when the ubiquitin/pro-
+teasome erad(i) is impaired. mutant (l1341p) dysferlin
+aggregates on the er membrane stimulate autophagosome
+formation via activating er stress-eif2a phosphorylation.
+it is formally possible that autophagy/lysosome erad(ii)
+degrades other aberrant proteins when ubiquitin/proteasome
+erad(i) is impaired.
+materials and methods
+cell culture
+c2c5 cells were p19 ec cells constitutively expressing c-jun
+(43). mef cells from eif2a s/s (wt) and eif2a a/a
+(mutant) knock-in mouse embryos were cultured in dmem
+(gibco, grand island, ny, usa) supplemented with 10%
+fetal calf serum (fcs), 0.1 mm non-essential amino acids
+solution (gibco), 1 amino acids solution (gibco) and
+100 u/ml penicillin/streptomycin (gibco) at 378c in a humi-
+diﬁed atmosphere of 5% co2 (30). mefs from atg52/2
+and atg5
+mouse embryos (33) co5 cells, and c2c5 cells
+were cultured in a-minimum essential medium (a-mem;
+sigma, st louis, mo, usa) supplemented with 10% fcs at
+378c in humidiﬁed atmosphere of 5% co2. the c2c5 cells
+expressing
+as
+described previously (24).
+tet-dn-perk(k618a) were
+þ/þ
+prepared
+human molecular genetics, 2007, vol. 16, no. 6
+627
+site-directed mutagenesis
+to generate the dysferlin mutants [l1341p; t4022c (18),
+w999c; g3370t (26)], site-directed mutagenesis were per-
+formed using quikchange ii site-directed mutagenesis kit (stra-
+tagene, ceder creek, tx, usa) (44), with the following primers:
+l1341p sense 50-atcctggcatggggcccgc ggaacatg
+aagagt-30, antisense 50-actcttcatgttccgcgggcc
+ccatgccaggat-30; w999c sense 50-gg aagatgag-
+gaatgctccacagacctcaac-30,
+antisense 50-gttga
+ggtctgtggagcattcctcatcttcc-30. italicized nucleo-
+tides were mutated sites. mutations were conﬁrmed by nucleotide
+sequencing analysis.
+gels were electrophoretically transferred to nitrocellulose
+ﬁlters. after ﬁlters were incubated with anti-lc3 (42,47),
+anti-tubulin (sigma), anti-c-jun, anti-c-jun-p, anti-eif2a,
+anti-eif2a-p (cell signaling technology, danvers, ma,
+usa), anti-caspase-12 (santa cruz biotech), anti-chop
+(gadd153) (santa cruz biotech), anti-hamlet (novocastra,
+uk), anti-dysferlin (spring, fremont, ca, usa), anti-gfp
+(boehringer mannheim, mannheim, germany) and anti-his,
+the reactivities on the ﬁlters were detected by alkaline
+phosphatase-conjugated, goat anti-rabbit or anti-mouse immu-
+noglobulin (promega, madison, wi, usa), respectively, and
+nitro blue tetrazolium and 5-bromo-4-chloro-3-indolyl-1-
+phosphate.
+plasmid construction and establishment of c2c5 cell line
+expressing tetracycline-inducible dysferlin
+immunoprecipitation
+human dysferlin gene was inserted into the ecori site of the
+pcdna4/to/myc-his expression vector (invitrogen, carlsbad,
+ca, usa), and then transfected into c2c5 cells using the
+calcium-phosphate method (45), and clones expressing dysfer-
+lin [tet-wt-dysferlin, tet-mutant (l1341p) or (w999c) dysfer-
+lin] were selected by incubation with 50 mg/ml of zeocine and
+25 mg/ml blastin (invitrogen). cells were cultured in a-mem
+supplemented with 10% tetracycline (tet) system-approved
+fcs (bd bioscience clontech, palo alto, ca, usa) at 378c
+in a humidiﬁed atmosphere of 5% co2 (tet-off). cells were
+cultured in a-mem supplemented with 10% fcs containing
+tetracycline at 378c for 12 h in a humidiﬁed atmosphere of
+5% co2 (tet-on). the expression of dysferlin was examined
+by immunostaining and immunoblotting using an anti-his
+(santa cruz biotech., santa cruz, ca, usa).
+dna ladder
+fragmented dna isolation was performed according to
+prigent et al. (46).
+immunoblot analysis
+pci-neo-dysferlin and pci-neo-mutant dysferlin (l1341p and
+w999c) (8 mg) were transfected into c2c5 cells and/or mef
+cells (6 cm dish) using the calcium-phosphate method (45)
+and/or lipofectamine 2000-manufactor’s manual (invitrogen).
+dysferlin-transfected c2c5 cells, tet-wt- and mutant- dysfer-
+lin c2c5 cells, tet-dn-perk (k618)-c2c5 cells (24,29) and
+mef cells were incubated for the indicated period in the pre-
+sence or absence of lll (5 mm) (bostonbiochem, cambridge,
+ma, usa), brefeldin a (2 mg/ml)
+(biomol, plymouth
+meeting, pa, usa), thapsigargin (2 mm) (sigma), rapamycin
+(10 mg/ml)
+(wako pure chemical, osaka, japan), 3-ma
+(10 mm) (sigma) or e64d (10 mg/ml) (calbiochem, la jolla,
+ca, usa) and pepstatin a (10 mg/ml) (icn biochemicals,
+aurora, oh, usa). cells were lysed with phosphate-buffered
+saline (pbs) containing 1% triton x-100.
+after centrifugation at 10 000g for 20 min, the cell extracts
+(50 mg protein) were subjected to sds – page (7.5 – 12%) and
+immunoblot analysis as described previously (24). insoluble
+fractions were lysed into sds sample buffer and subjected
+to sds – page and immunoblot analysis. proteins in the
+pegfp-dysferlin was transfected into cos cells. the cell
+pellets were lysed with ripa buffer (pbs containing 1%
+np-40, 0.5% sodium deoxycholate, 0.1% sds) on ice and
+centrifuged. the cell extracts were incubated with anti-gfp
+antibody at 48c overnight, and the immunocomplexes were
+precipitated by protein a and g (promega). their immuno-
+precipitates were analyzed by immunoblot analysis using
+anti-gfp, anti-vcp(p97)
+(progen, heidelberg, germany)
+and anti-sec61a (upstate, lake placid, ny, usa).
+immunostaining
+c2c5 cells and mef cells were transfected with pegfp-
+dysferlin, pci-neo-dysferlin and pci-neo-mutant (l1341p,
+w999c) dysferlin using the calcium-phosphate method (41).
+c2c5-tet-dysferlin cells were transfected with pegfp-72
+cag (25) by the calcium-phosphate method. c2c5 cells,
+tet-wt-dysferlin c2c5 cells, and tet-mutant-dysferlin c2c5
+cells and mef cells were incubated in the presence or
+absence of lll (5 mm), thapsigargin (2 mm) (sigma), tunica-
+mycin (2 mg/ml) (wako pure chemical), and brefeldin a
+(2 mg/ml), rapamycin (10 mg/ml), 3-ma (10 mm) or e64d
+(10 mg/ml) and pepstatin a (10 mg/ml), were ﬁxed with 4%
+paraformaldehyde in pbs at the indicated time. they were
+incubated with antibodies; anti-casp12d341, antisera against
+the cleavage site of mouse caspase-12 at d341
+(25),
+anti-c-jun-p, anti-eif2a-p anti-lc3 (42,47), anti-chop, anti-
+hamlet, anti-dysferlin, anti-polyubiquitin (mbl, nagoya,
+japan), anti-ubiquitin (dako, glostrup, denmark), anti-kdel
+(stressgene, victoria, canada), anti-gm130 (transduction
+laboratories, lexington, ky, usa), anti-f0atpase (48),
+anti-cathepsin d (49), anti-gfp, anti-vcp(p97), anti-sec61a
+and anti-his for 24 h at 48c and then incubated with fitc-
+and rhodamine-labeled goat anti-mouse or rabbit (leinco
+technologies, st louis, mo, usa) for 1 h at 378c. their
+nuclei were labeled with hoechst 33342 (molecular probes,
+eugene, or, usa). they were viewed with a confocal
+laser-scanning microscope (csu-10, yokogawa, tokyo,
+japan). percentages of cells showing wt- and mutant dysferlin
+aggregates or dysferlin accumulation were determined by
+counting 100 – 200 cells expressing. the values are averages
+of the percentages of the number of cells obtained in three
+experiments.
+628
+human molecular genetics, 2007, vol. 16, no. 6
+supplementary material
+supplementary material is available at hmg online.
+acknowledgements
+we thank dr randau j. kaufmann, dr noboru mizushima,
+dr david ron and dr eiki kominami for kindly providing the
+eif2as/s and eif2aa/a mef cells, atg52/2 mef cells,
+dn-perk, myc-tagged perk (k618a), plasmid and anti-
+bodies, respectively, and roberto sitia for discussion. we
+offer one’s sincere condolences for dr kichi arahata, who col-
+laborate on this study in his life. this work was supported in part
+by grants-in-aid for scientiﬁc research on priority areas (no.
+18700333) from the ministry of education, science, sports, and
+culture and by research grants 17a-10 for nervous and mental
+disorders from the ministry of health, labour and welfare, and
+research on brain science from the ministry of health and
+welfare of japan, the human science foundation.
+conﬂict of interest statement. none declared.
+references
+1. bashir, r., britton, s., strachan, t., keers, s., vaﬁadaki, e., lako, m.,
+richard, i., marchand, s., bourg, n., argov, z. et al. (1998) a gene
+related to caenorhabditis elegans spermatogenesis factor fer-1 is mutated
+in limb-girdle muscular dystrophy type 2b. nat. genet., 20, 37 – 42.
+2. liu, j., aoki, m., illa, i., wu, c., fardeau, m., angelini, c., serrano, c.,
+urtizberea, j.a., hentati, f., hamida, m.b. et al. (1998) dysferlin, a novel
+skeletal muscle gene, is mutated in miyoshi myopathy and limb girdle
+muscular dystrophy. nat. genet., 20, 31 – 36.
+3. davis, d.b., doherty, k.r., delmonte, a.j. and mcnally, e.m. (2002)
+calcium-sensitive phospholipid binding properties of normal and mutant
+ferlin c2 domains. j. biol. chem., 277, 22883– 22888.
+4. anderson, l.v., davison, k., moss, j.a., young, c., cullen, m.j.,
+walsh, j., johnson, m.a., bashir, r., britton, s., keers, s. et al. (1999)
+dysferlin is a plasma membrane protein and is expressed early in human
+development. hum. mol. genet., 8, 855 – 861.
+5. ho, m., post, c.m., donahue, l.r., lidov, h.g., bronson, r.t.,
+goolsby, h., watkins, s.c., cox, g.a. and brown, r.h., jr. (2004)
+disruption of muscle membrane and phenotype divergence in two novel
+mouse models of dysferlin deﬁciency. hum. mol. genet., 13, 1999– 2010.
+6. bansal, d., miyake, k., vogel, s.s., groh, s., chen, c.c., williamson, r.,
+mcneil, p.l. and campbell, k.p. (2003) defective membrane repair in
+dysferlin-deﬁcient muscular dystrophy. nature, 423, 168 – 172.
+7. lennon, n.j., kho, a., bacskai, b.j., perlmutter, s.l., hyman, b.t. and
+brown, r.h., jr. (2003) dysferlin interacts with annexins a1 and a2 and
+mediates sarcolemmal wound-healing. j. biol. chem., 278, 50466 – 50473.
+8. kaufman, r.j. (1999) stress signaling from the lumen of the endoplasmic
+reticulum: coordination of gene transcriptional and translational controls.
+genes dev., 13, 1211– 1233.
+9. ron, d. (2002) translational control in the endoplasmic reticulum stress
+response. j. clin. invest., 110, 1383– 1388.
+15. momoi, t. (2006) conformational diseases and er stress-mediated cell
+death: apoptotic cell death and autophagic cell death. curr. mol. med., 6,
+111 – 118.
+16. kopito, r.r. and ron, d. (2000) conformational disease. nat. cell biol.,
+2, e207– e209.
+17. ikezoe, k., furuya, h., ohyagi, y., osoegawa, m., nishino, i.,
+nonaka, i. and kira, j. (2003) dysferlin expression in tubular aggregates:
+their possible relationship to endoplasmic reticulum stress. acta
+neuropathol. (berl.), 105, 603 – 609.
+18. wenzel, k., carl, m., perrot, a., zabojszcza, j., assadi, m., ebeling, m.,
+geier, c., robinson, p.n., kress, w., osterziel, k.j. et al. (2006) novel
+sequence variants in dysferlin-deﬁcient muscular dystrophy leading to
+mrna decay and possible c2-domain misfolding. hum. mutat., 27,
+599 – 600.
+19. mizushima, n., ohsumi, y. and yoshimori, t. (2002) autophagosome
+formation in mammalian cells. cell struct. funct., 27, 421 – 429.
+20. ohsumi, y. (2001) molecular dissection of autophagy: two ubiquitin-like
+systems. nat. rev. mol. cell biol., 2, 211 – 216.
+21. komatsu, m., waguri, s., ueno, t., iwata, j., murata, s., tanida, i.,
+ezaki, j., mizushima, n., ohsumi, y., uchiyama, y. et al. (2005)
+impairment of starvation-induced and constitutive autophagy in
+atg7-deﬁcient mice. j. cell biol., 169, 425 – 434.
+22. komatsu, m., waguri, s., chiba, t., murata, s., iwata, j., tanida, i.,
+ueno, t., koike, m., uchiyama, y., kominami, e. et al. (2006) loss of
+autophagy in the central nervous system causes neurodegeneration in
+mice. nature, 441, 880 – 884.
+23. hara, t., nakamura, k., matsui, m., yamamoto, a., nakahara, y.,
+suzuki-migishima, r., yokoyama, m., mishima, k., saito, i.,
+okano, h. et al. (2006) suppression of basal autophagy in neural cells
+causes neurodegenerative disease in mice. nature, 441, 885 – 889.
+24. kouroku, y., fujita, e., tanida, i., ueno, t., isoai, a., kumagai, h.,
+ogawa, s., kaufman, r.j., kominami, e. and momoi, t. (2007) er stress
+(perk/eif2a phosphorylation) mediates the polyglutamine-induced lc3
+conversion, an essential step for autophagy formation. cell death differ.,
+230 – 239.
+25. kouroku, y., fujita, e., jimbo, a., kikuchi, t., yamagata, t.,
+momoi, m.y., kominami, e., kuida, k., sakamaki, k., yonehara, s.
+et al. (2002) polyglutamine aggregates stimulate er stress signals and
+caspase-12 activation. hum. mol. genet., 11, 1505– 1515.
+26. takahashi, t., aoki, m., tateyama, m., kondo, e., mizuno, t.,
+onodera, y., takano, r., kawai, h., kamakura, k., mochizuki, h.
+et al. (2003) dysferlin mutations in japanese miyoshi myopathy:
+relationship to phenotype. neurology, 60, 1799– 1804.
+27. kihara, a., kabeya, y., ohsumi, y. and yoshimori, t. (2001)
+beclin-phosphatidylinositol 3-kinase complex functions at the trans-golgi
+network. embo rep., 2, 330 – 335.
+28. talloczy, z., jiang, w., virgin, h.w., vi, leib, d.a., scheuner, d.,
+kaufman, r.j., eskelinen, e.l. and levine, b. (2002) regulation of
+starvation- and virus-induced autophagy by the eif2alpha kinase signaling
+pathway. proc. natl acad. sci. usa, 99, 190 – 195.
+29. harding, h.p., zhang, y. and ron, d. (1999) protein translation and
+folding are coupled by an endoplasmic-reticulum-resident kinase. nature,
+397, 271 – 274.
+30. scheuner, d., song, b., mcewen, e., liu, c., laybutt, r., gillespie, p.,
+saunders, t., bonner-weir, s. and kaufman, r.j. (2001) translational
+control is required for the unfolded protein response and in vivo glucose
+homeostasis. mol. cell, 7, 1165– 1176.
+31. jager, s., bucci, c., tanida, i., ueno, t., kominami, e., saftig, p. and
+eskelinen, e.l. (2004) role for rab7 in maturation of late autophagic
+vacuoles. j. cell sci., 117, 4837– 4848.
+10. kopito, r.r. (1997) er quality control: the cytoplasmic connection. cell,
+32. mizushima, n., yamamoto, a., matsui, m., yoshimori, t. and
+88, 427 – 430.
+11. sitia, r. and braakman, i. (2003) quality control in the endoplasmic
+reticulum protein factory. nature, 426, 891 – 894.
+12. ye, y., shibata, y., yun, c., ron, d. and rapoport, t.a. (2004)
+a membrane protein complex mediates retro-translocation from the er
+lumen into the cytosol. nature, 429, 841 – 847.
+13. ye, y., shibata, y., kikkert, m., van voorden, s., wiertz, e. and
+rapoport, t.a. (2005) inaugural article: recruitment of the p97 atpase
+and ubiquitin ligases to the site of retrotranslocation at the endoplasmic
+reticulum membrane. proc. natl acad. sci. usa, 102, 14132 – 14328.
+14. momoi, t. (2004) caspases involved in er stress-mediated cell death.
+j. chem. neuroanat., 28, 101 – 105.
+ohsumi, y. (2004) in vivo analysis of autophagy in response to nutrient
+starvation using transgenic mice expressing a ﬂuorescent autophagosome
+marker. mol. biol. cell., 15, 1101– 1111.
+33. mizushima, n., yamamoto, a., hatano, m., kobayashi, y., kabeya, y.,
+suzuki, k., tokuhisa, t., ohsumi, y. and yoshimori, t. (2001) dissection
+of autophagosome formation using apg5-deﬁcient mouse embryonic stem
+cells. j. cell biol., 152, 657 – 668.
+34. schmelzle, t. and hall, m.n. (2000) tor, a central controller of cell
+growth. cell, 103, 253 – 262.
+35. ravikumar, b., duden, r. and rubinsztein, d.c. (2002) aggregate-prone
+proteins with polyglutamine and polyalanine expansions are degraded by
+autophagy. hum. mol. genet., 11, 1107– 1117.
+human molecular genetics, 2007, vol. 16, no. 6
+629
+36. ravikumar, b., vacher, c., berger, z., davies, j.e., luo, s., oroz, l.g.,
+43. odaka, a., tsukahara, t., momoi, m. and momoi, t. (1995) c-jun
+scaravilli, f., easton, d.f., duden, r., o’kane, c.j. et al. (2004)
+inhibition of mtor induces autophagy and reduces toxicity of
+polyglutamine expansions in ﬂy and mouse models of huntington disease.
+nat. genet., 36, 585 – 595.
+37. kubota, h., obata, t., ota, k., sasaki, t. and ito, t. (2003)
+rapamycin-induced translational derepression of gcn4 mrna involves
+a novel mechanism for activation of the eif2 alpha kinase gcn2. j. biol.
+chem., 278, 20457 – 20460.
+38. jarosch, e., geiss-friedlander, r., meusser, b., walter, j. and sommer, t.
+(2002) protein dislocation from the endoplasmic reticulum-pulling out the
+suspect. trafﬁc, 3, 530 – 536.
+39. meusser, b., hirsch, c., jarosch, e. and sommer, t. (2005) erad: the
+long road to destruction. nat. cell biol., 7, 766 – 772.
+inhibited the alternative splicing of neuron-speciﬁc amyloid precursor
+protein, but stimulated the non-neuron type one in p19ec cells. biochem.
+biophys. res. commun., 206, 821 – 828.
+44. papworth, c., bauer, j.c., braman, j. and wright, d.a. (1996)
+site-directed mutagenesis in 1 day with .80% efﬁciency. strategies,
+9, 3 – 4.
+45. graham, f.l. and van der eb, a.j. (1973) a new technique for the
+assay of infectivity of human adenovirus 5 dna. virology, 52,
+456 – 467.
+46. prigent, p., blanpied, c., aten, j. and hirsch, f. (1993) a safe and
+rapid method for analyzing apoptosis-induced fragmentation of
+dna extracted from tissues or cultured cells. j. immunol. meth., 160,
+139 – 140.
+40. liu, y., schiff, m., czymmek, k., talloczy, z., levine, b. and
+47. tanida, i., ueno, t. and kominami, e. (2004) human light chain
+dinesh-kumar, s.p. (2005) autophagy regulates programmed cell death
+during the plant innate immune response. cell, 121, 567 – 577.
+41. kruse, k.b., brodsky, j.l. and mccracken, a.a. (2006) characterization
+3/map1lc3b is cleaved at its carboxyl-terminal met121 to expose
+gly120 for lipidation and targeting to autophagosomal membranes.
+j. biol. chem., 279, 47704 – 47710.
+of an erad gene as vps30/atg6 reveals two alternative and
+functionally distinct protein quality control pathways: one for soluble z
+variant of human alpha-1 proteinase inhibitor (a1piz) and another for
+aggregates of a1piz. mol. biol. cell., 17, 203 – 212.
+48. kominami, e., ezaki, j., muno, d., ishido, k., ueno, t. and wolfe, l.s.
+(1992) speciﬁc storage of subunit c of mitochondrial atp synthase in
+lysosomes of neuronal ceroid lipofuscinosis (batten’s disease).
+j. biochem. (tokyo), 111, 278 – 282.
+42. tanida, i., minematsu-ikeguchi, n., ueno, t. and kominami, e. (2005)
+49. kominami, e., tsukahara, t., bando, y. and katunuma, n. (1985)
+lysosomal turnover, but not a cellular level, of endogenous lc3 is a
+marker for autophagy. autophagy, 1, 84 – 91.
+distribution of cathepsins b and h in rat tissues and peripheral blood
+cells. j. biochem. (tokyo), 98, 87 – 93.

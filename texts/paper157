@@ -1,0 +1,1029 @@
+published december 18, 2006
+jcb: article
+recruitment of atg9 to the preautophagosomal 
+structure by atg11 is essential for selective 
+autophagy in budding yeast
+congcong he,1,3 hui song,1,3 tomohiro yorimitsu,1,3 iryna monastyrska,1,3 wei-lien yen,1,3 julie e. legakis,1,3 
+and daniel j. klionsky1,2,3
+1 department of molecular, cellular, and developmental biology, 2department of biological chemistry, and 3life sciences institute, university of michigan, 
+ann arbor, mi 48109
+a utophagy  is  a  conserved  degradative  pathway 
+that is induced in response to various stress and 
+develop mental conditions in eukaryotic cells. it 
+ allows the elimination of cytosolic proteins and organelles in 
+the lysosome/vacuole. in the yeast saccharomyces cerevisiae, 
+the  integral  membrane  protein  atg9  (autophagy-related 
+protein  9)  cycles  between  mitochondria  and  the  preauto-
+phagosomal structure (pas), the nucleating site for forma-
+tion of the sequestering vesicle, suggesting a role in supplying 
+membrane for vesicle formation and/or expansion during 
+autophagy. to better understand the mechanisms involved 
+in atg9 cycling, we performed a yeast two-hybrid–based 
+screen  and  identiﬁ ed  a  peripheral  membrane  protein, 
+atg11, that interacts with atg9. we show that atg11 gov-
+erns atg9 cycling through the pas during speciﬁ c autophagy. 
+we also demonstrate that the integrity of the actin cyto-
+skeleton  is  essential  for  correct  targeting  of  atg11  to  the 
+pas. we propose that a pool of atg11 mediates the antero-
+grade transport of atg9 to the pas that is dependent on the 
+actin cytoskeleton during yeast vegetative growth.
+introduction
+as one of the major degradative mechanisms conserved among 
+eukaryotic cells, autophagy mediates the turnover and recycling 
+of long-lived cytosolic proteins and excess or damaged organ-
+elles (klionsky, 2005). the cargo destined for autophagic degra-
+dation  is  sequestered  in  a  double-membrane  vesicle  called  an 
+autophagosome, which fuses with the lysosome in mammalian 
+cells or the vacuole in yeast. eventually, the cargo is degraded by 
+lysosomal/vacuolar  resident  hydrolases.  autophagy  occurs  in 
+response  to  physiological  stress  or  developmental  signals 
+(levine and klionsky, 2004). recently, autophagy has been im-
+plicated in a variety of human diseases, including cancer, neuro-
+degeneration,  and  pathogen  infection  (shintani  and  klionsky, 
+2004a).  the  initial  identifi cation  of  >20  autophagy-related 
+(atg) genes in the budding yeast saccharomyces cerevisiae has 
+highlighted this single-cell organism as a perfect model to study 
+the molecular mechanism of autophagy, although orthologues of 
+some yeast atg genes have been found in higher eukaryotes.
+correspondence to daniel j. klionsky: klionsky@umich.edu
+abbreviations used in this paper: ad, activation domain; ape1, aminopeptidase i; 
+atg, autophagy related; bd, binding domain; bfp, blue ﬂ uorescent protein; cc, 
+coiled  coil;  cvt,  cytoplasm  to  vacuole  targeting;  pa,  protein  a;  pas,  pre-
+autophagosomal structure; prape1, precursor form of ape1; smd, synthetic 
+ minimal medium.
+© the rockefeller university press   $8.00
+the journal of cell biology, vol. 175, no. 6, december 18, 2006 925–935
+http://www.jcb.org/cgi/doi/10.1083/jcb.200606084
+in yeast, autophagy can be induced under starvation con-
+ditions  to  reuse  nutrients  for  essential  cellular  activities  and 
+proper cellular remodeling; this starvation-induced bulk auto-
+phagy  is  considered  nonspecifi c.  studies  in  yeast  have  also 
+ revealed  that  s.  cerevisiae  has  selective  autophagic  pathways 
+that  target  specifi c  cargos  (scott  et  al.,  1996;  hutchins  et  al., 
+1999). these pathways mechanistically and genetically resem-
+ble bulk autophagy. one such route is the cytoplasm to vacuole 
+targeting (cvt) pathway (nair and klionsky, 2005). in this path-
+way, two vacuolar hydrolases, the precursor form of aminopep-
+tidase i (ape1 [prape1]) and α-mannosidase, are transported to 
+the vacuole in a double-membrane vesicle called a cvt vesicle, 
+with the former subsequently being processed into mature ape1. 
+compared with starvation-induced autophagy, the cvt pathway 
+occurs constitutively in growing conditions. although some atg 
+proteins  appear  to  be  pathway  specifi c,  most  are  involved  in 
+both the specifi c and nonspecifi c pathways. however, it is not 
+fully understood how these proteins coordinate and function at 
+the molecular level in either bulk or selective autophagy.
+most  yeast  atg  components  localize  at  a  perivacuolar 
+punctate  structure  called  the  preautophagosomal  structure 
+(pas)  or  phagophore  assembly  site,  which  is  proposed  to 
+be  the  site  of  autophagosome  and  cvt  vesicle  formation 
+jcb 925
+published december 18, 2006
+(kim et al., 2002; noda et al., 2002). in most endomembrane 
+traffi cking systems, such as the early secretory pathway, vesicles 
+form  by  budding  from  the  surface  of  a  preexisting  organelle. 
+however, in autophagy-related processes, the double-membrane 
+sequestering vesicles appear to form de novo; that is, they ex-
+pand by membrane addition during the formation process rather 
+than being generated from a single piece of contiguous mem-
+brane (reggiori and klionsky, 2005). one of the major current 
+challenges is to unveil where the membrane materials for auto-
+phagosomes or cvt vesicles come from and how the lipids are 
+transported to the assembly site. among all atg proteins, atg9 
+is the best candidate that can help us understand this pivotal 
+ issue. atg9 is the only characterized integral membrane protein 
+required  for  both  autophagosome  and  cvt  vesicle  formation 
+(noda  et  al.,  2000).  however,  this  protein  is  absent  from  the 
+completed  vesicles,  suggesting  that  it  is  retrieved  before  the 
+vesicle  sealing/completion  step.  atg9  localizes  to  multiple 
+punctate sites, with one of them corresponding to the pas and 
+others  to  mitochondria  in  addition  to  unidentifi ed  structures 
+(reggiori et al., 2005b). recent studies reveal that atg9 cycles 
+between  mitochondria  and  the  pas  vesicle  assembly  site 
+(reggiori et al., 2004, 2005b). these characteristics make atg9 
+a potential membrane carrier for vesicle formation.
+we decided to investigate the molecular regulatory mech-
+anisms underlying atg9 cycling and, in particular, what factors 
+regulate the anterograde transport of atg9 to the site of vesicle 
+formation. in this study, we discovered that a peripheral mem-
+brane protein, atg11 (kim et al., 2001), is an interaction partner 
+of atg9. the  interaction  requires  the  second  coiled-coil  (cc) 
+domain of atg11 and the atg9 n-terminal cytosolic domain. 
+a missense mutation (h192l) in the atg9 n-terminal domain 
+that disrupts its interaction with atg11 results in the impaired 
+cycling of atg9 and a defect in selective autophagy. in addition, 
+we  found  that  in  actin  mutant  cells,  atg11  colocalized  with 
+atg9 and was retained on mitochondria, indicating that atg11 is 
+not able to direct atg9 to the pas in the absence of an intact cyto-
+skeletal network. these data support a model in which a pool of 
+atg11 links atg9 to the pas along the actin cable under vegeta-
+tive growth conditions.
+results
+atg11 is an interaction partner of atg9
+atg9  is  the  only  known  transmembrane  protein  required  for 
+both bulk autophagy and selective autophagic processes (e.g., 
+the cvt pathway; noda et al., 2000). unlike most other atg pro-
+teins, which are restricted to the perivacuolar pas, atg9 local-
+izes to several punctate structures; one of them is at the pas, 
+whereas  the  others  are  primarily  confi ned  to  mitochondria 
+(reggiori et al., 2005b). atg9 cycles between the two compart-
+ments, suggesting that it plays a role in providing lipids to the 
+forming autophagosomes or cvt vesicles (reggiori et al., 2004). 
+however, other than actin (reggiori et al., 2005a), the factors 
+that regulate the anterograde transport of atg9 to the pas have 
+not been identifi ed. therefore, we performed a yeast two-hybrid–
+based screen of atg proteins to identify potential atg9-interacting 
+proteins. yeast two-hybrid cells harboring atg9 and a peripheral 
+926
+jcb • volume 175 • number 6 • 2006
+figure 1.  atg9 interacts with atg11. (a) a yeast two-hybrid assay reveals 
+that full-length atg9 interacts with full-length atg11. the two-hybrid strain 
+pj69-4a  was  cotransformed  with  plasmids  containing  the  activation  do-
+main (ad)–fused atg11 and the binding domain (bd)–fused atg9 or with 
+empty vectors (ad and bd). interactions were monitored by the ability of 
+cells to grow on plates without histidine for 3 d. (b) atg11 is coprecipitated 
+with atg9 independently of atg1 and atg19. wild-type (tyy161), atg1∆ 
+(tyy162),  and  atg19∆  (cch005)  strains  expressing  integrated  atg11-
+gfp and atg9–protein a (pa) fusions were used for afﬁ nity isolation. wild-
+type  (wt)  strains  expressing  integrated  atg9-pa  alone  (fry171)  or 
+integrated atg11-gfp (psy101) and cup1 promoter-driven pa (pcupa(414)) 
+were used as controls. eluted polypeptides were separated by sds-page 
+and detected with anti-yfp antibody. the same amounts of the total lysate 
+(t)  and  immunoafﬁ nity  puriﬁ ed  isolate  (ip)  were  loaded  per  gel  lane. 
+(c) atg11 is coprecipitated with atg9 in the absence of atg23 and atg27. 
+wild-type (tyy161), atg23∆ (cch004), and atg23∆ atg27∆ (cch006) 
+strains expressing integrated atg11-gfp and atg9-pa fusions were used 
+for afﬁ nity isolation. total lysates and eluted polypeptides (aff.pur.) were 
+separated by sds-page and visualized by immunoblotting with antibody 
+to  yfp.  an  atg11-gfp  strain  (psy101)  expressing  cup1-driven  pa 
+(pcupa(414)) alone was used as a control.
+membrane  protein, atg11,  showed  robust  growth  on  plates 
+ lacking histidine, indicating that atg11 could interact with atg9 
+(fig.  1 a). the  same  result  was  obtained  on  plates  lacking 
+ adenine (unpublished data).
+atg11 functions in selective types of autophagy (i.e., the 
+cvt  pathway  and  pexophagy)  but  is  not  essential  for  bulk 
+ autophagy (kim et al., 2001). atg11 plays a role in organizing 
+the pas and linking cargo to the vesicle-forming machinery at 
+the pas (shintani et al., 2002; yorimitsu and klionsky, 2005). 
+this protein is a component of at least two complexes in yeast. 
+one is the atg1–atg11 complex, which is involved in the in-
+duction of bulk and selective autophagy (kamada et al., 2000). 
+the other is the atg19–atg11 complex, which recognizes and 
+delivers prape1 and α-mannosidase to the pas (shintani et al., 
+2002; yorimitsu  and  klionsky,  2005).  we  decided  to  deter-
+mine whether these complexes are involved in atg11 and atg9 
+interaction. to address this issue, we used a biochemical approach 
+to  examine  whether atg11  was  able  to  form  a  complex  with 
+atg9. we tagged atg11 with gfp and tagged atg9 with protein a 
+(pa) at the chromosomal locus. wild-type, atg1∆, and atg19∆ 
+published december 18, 2006
+cells expressing the integrated atg9-pa and atg11-gfp fusions 
+were lysed, and the pa-tagged protein was isolated with igg–
+sepharose beads. atg11 was coprecipitated with atg9-pa in all 
+three strains (fig. 1 b), which verifi es that these two proteins 
+are  present  in  a  complex,  although  we  do  not  know  whether 
+they interact directly. thus, the absence of either atg1 or atg19 
+did  not  affect  the  formation  of  a  complex  between atg9  and 
+atg11. this fi nding suggests that there might be multiple popu-
+lations of atg11 within the cell that interact with different sets 
+of atg proteins.
+our recent data show that two other atg proteins, atg23 
+and atg27, interact with atg9 and are required for atg9 cycling. 
+the interaction between atg9 and either atg23 or atg27 is not 
+mediated through atg11 (tucker et al., 2003; and unpublished 
+data). thus, we extended the analysis by determining whether 
+the atg9–atg11 interaction was dependent on these other atg9-
+interacting  proteins.  we  found  that atg11  was  coprecipitated 
+with atg9 in atg23∆ and atg23∆ atg27∆ cells despite a lower 
+overall effi ciency of recovery (fig. 1 c). this suggests that 
+atg9 and atg11 were able to form a complex in the absence of 
+atg23 and atg27, although these two proteins may facilitate the 
+interaction.  the  interaction  between  atg9  and  atg11  in  the 
+atg23∆ or atg27∆ strains was confi rmed by yeast two-hybrid 
+analyses;  the  atg23∆  or  atg27∆  two-hybrid  cells  expressing 
+atg9 and atg11 were able to grow on −histidine (−his) selec-
+tive  plates,  which  is  comparable  with  the  wild-type  cells 
+(unpublished data).
+atg11 is predicted to contain four cc domains (fig. 2 a; 
+yorimitsu  and  klionsky,  2005).  each  cc  domain  mediates 
+ interactions  of  atg11  with  different  atg  proteins.  to  test 
+whether these cc domains are responsible for the interaction 
+between atg11  and atg9,  we  used  cc  domain  deletion  mu-
+tants in a series of yeast two-hybrid assays. as shown in fig. 
+2  b,  the  two-hybrid  mutant  activation  domain  (ad)–atg11 
+c-terminal  truncation  (11n; ∆627–1,178  and  lacking  cc3-4) 
+allowed  the  cells  to  grow  in  the  presence  of  binding  domain 
+(bd)–atg9  as  well  as  the  full-length ad-atg11.  in  contrast, 
+cells  expressing  an  ad-atg11  n-terminal  truncation  (11c; 
+∆1–817 and lacking cc1-3) could not grow on selective −his 
+plates (fig. 2 b). thus, the atg11 n terminus is suffi cient for 
+atg9–atg11 interaction. in addition, atg11∆cc2 (∆536–576) 
+abolished  the  interaction  with atg9,  whereas  cells  containing 
+mutants atg11∆cc1 (∆272–321), atg11∆cc3 (∆627–858), or 
+atg11∆cc4 (∆859–1,178) grew well on selective plates (fig. 2 c). 
+these data indicated that atg11 cc domain 2 is required for the 
+atg9–atg11 interaction.
+from  a  hydropathy  plot  analysis, atg9  contains  hydro-
+philic  n  and  c  termini  fl anking  six  to  eight  transmembrane 
+ domains (noda et al., 2000). to defi ne the topology of atg9, we 
+investigated the protease sensitivity of the atg9 n and c  termini. 
+spheroplasts derived from pep4∆ cells expressing either the 
+n-terminal–tagged  pa-atg9  fusion  or  the  c-terminal–tagged 
+atg9-pa  fusion  were  osmotically  lysed  and  centrifuged  at 
+13,000 g. in agreement with previous studies, approximately two 
+thirds of the total atg9 was present in the s13 supernatant fraction 
+that contained the pas, and one third was present in the p13 pellet 
+fraction (fig. 2 d; noda et al., 2000; reggiori et al., 2005b). 
+figure  2.  the  atg9–atg11  interaction  is  mediated  by  the  atg11  cc2 
+domain and the atg9 n-terminal region. (a) schematic representation of 
+atg11 highlighting the position of the four cc domains and indicating 
+the extent of the n- and c-terminal domains used in the two-hybrid analysis. 
+(b) the atg11 n terminus is sufﬁ cient to interact with atg9 as demonstrated 
+by  the  yeast  two-hybrid  assay.  cells  expressing  an  atg11  n-terminal 
+fragment  and  atg9  (11n-9),  full-length  atg11  and  atg9  (11-9),  the 
+atg11 c terminus and atg9 (11c-9), atg11 (11), or atg9 (9) with the 
+corresponding  empty  vector  were  grown  for  3  d  on  plates  lacking 
+histidine. (c) atg11 cc domain 2 is essential for atg11–atg9 interaction. 
+cells expressing atg9 and atg11 lacking the indicated coiled-coil (cc) 
+domains  were  grown  for  3  d  on −his  plates.  (d)  both  the  n  and  c 
+ termini of atg9 are protease sensitive. a schematic representation of atg9 
+topology is shown on the left. pep4∆ cells expressing either integrated 
+c-terminally  tagged  atg9-pa  (fry172)  or  cup1-driven  n-terminally 
+tagged  pa-atg9  (τvy1;  pcupaatg9(416))  were  converted  to  sphero-
+plasts and osmotically lysed, and the pellet fraction was subjected to pro-
+teinase  k  (pk)  treatment  in  the  presence  or  absence  of  triton  x-100 
+(tx-100).  fractions  were  analyzed  by  immunoblotting  with  antibodies 
+to pa and pho8. t, total. (e) the atg9 n terminus interacts with atg11. 
+a schematic diagram of atg9 and domains used for two-hybrid analysis 
+are depicted. cells expressing atg11 and the atg9 n-terminal fragment 
+(n), transmembrane domain (tm), c terminus (c), or full-length atg9 (fl) 
+were  grown  for  3  d  on  −his  plates.  (f)  atg9  n-terminal  amino  acids 
+159–255 are the minimal sufﬁ cient region needed to interact with atg11. 
+a truncation series of the atg9 n-terminal region in the binding domain 
+(bd) two-hybrid plasmid is depicted. the strength of the corresponding 
+proteins to interact with activation domain (ad)–atg11 is indicated on 
+the  right  by  the  robustness  of  cell  growth  on  plates  without  histidine 
+(−his) or adenine (−ade) for 5 d.
+atg11 is needed for atg9 transport • he et al.  927
+published december 18, 2006
+when the p13 fraction was treated with exogenous proteinase k, 
+both the n- and c-terminal pa tags were cleaved in the ab-
+sence or presence of detergent, and no bands of smaller molecu-
+lar mass were detected (fig. 2 d), indicating that both the n and 
+c termini of atg9 were accessible to protease on the cytosolic 
+side of the membrane. to verify that intracellular membranous 
+structures  were  intact  after  osmotic  lysis,  we  simultaneously 
+monitored  the  protease  sensitivity  of  an  endogenous  vacuole 
+membrane protein, pho8. the precursor form of pho8 that ac-
+cumulated in the pep4∆ background contains a small cytosolic 
+tail and a lumenally oriented propeptide (fig. 2 d). in the ab-
+sence of detergent, only the pho8 cytosolic tail but not the lume-
+nal propeptide was accessible to proteinase k. upon the addition 
+of both detergent and proteinase k, the pho8 lumenal propep-
+tide was removed as a result of the disruption of all membra-
+nous  compartments,  which  is  shown  as  a  further  shift  of  the 
+molecular mass (fig. 2 d). thus, these data verifi ed the integ-
+rity of the relatively fragile vacuole and presumably other in-
+tracellular  membranous  compartments  after  osmotic  lysis, 
+suggesting that both the n and c termini of atg9 are exposed to 
+the  cytosol  (fig.  2  d).  accordingly,  the  topology  of  atg9 
+ appears  to  be  conserved  between  yeast  and  mammalian  cells 
+(young et al., 2006).
+so far, no known functional domains have been identifi ed 
+in the atg9 n- or c- terminal regions. to further analyze the 
+atg9–atg11 interaction, we generated truncated atg9 mutants 
+containing  the  n  terminus,  c  terminus,  or  transmembrane 
+ region. as shown in fig. 2 e, in the presence of atg11, the atg9 
+n-terminal domain supported the growth of two-hybrid cells as 
+well as the full-length atg9, whereas neither the c-terminal nor 
+the transmembrane domains of atg9 were able to do so (fig. 2 e). 
+this result showed that atg11 interacts with the n-terminal re-
+gion of atg9. we further constructed a series of atg9 n-terminal 
+truncation  mutants  and  analyzed  them  for  interaction  with 
+atg11 by yeast two-hybrid analysis. atg9 n-terminal amino 
+ acids 159–255 appeared to be the minimal region that mediates 
+the interaction with atg11 (fig. 2 f). collectively, we concluded 
+that atg11 and atg9 interact through the atg11 cc domain 2 
+and the atg9 n terminus.
+atg11 recruits atg9 to the pas
+in wild-type cells, atg11 localizes at the pas (kim et al., 2001), 
+and atg9 cycles between the pas and mitochondria (reggiori 
+et al., 2004, 2005b). to examine the role of the interaction be-
+tween atg9 and atg11, we analyzed the cycling of atg9 in the 
+presence of overexpressed atg11 or in the absence of this protein. 
+the  chromosomally  tagged atg9-yfp  chimera  displayed  a 
+multiple punctate distribution in wild-type cells, with one of the 
+puncta  colocalizing  with  the  pas  marker  blue  fl uorescent 
+ protein (bfp)–ape1 (fig. 3 a). in contrast, in the atg1∆ back-
+ground, atg9 was restricted to the pas, which is in agreement 
+with previous observations that indicated a role for atg1 in the 
+retrograde  transport  of  atg9  from  the  pas  to  mitochondria 
+(reggiori et al., 2004, 2005a,b). in 91% (109/120) of the cells 
+overexpressing atg11, atg9-yfp  localized  solely  to  the  peri-
+vacuolar pas (represented by cfp-atg11), which is similar to 
+the situation observed in atg1∆ cells (fig. 3 a; kim et al., 2002), 
+928
+jcb • volume 175 • number 6 • 2006
+figure 3.  atg9 cycles through the pas in an atg11-dependent manner. 
+(a)  atg11  overexpression  restricts  atg9  to  the  pas.  wild-type  (wt)  or 
+atg1∆  strains  expressing  an  integrated  atg9-yfp  fusion  (fry136  and 
+fry138,  respectively)  were  transformed  with  a  plasmid  containing  bfp-
+ape1 (pbfpape1(414)) as the pas marker. in addition, an atg11∆ strain 
+(kty53)  expressing  an  integrated  atg9-yfp  fusion  was  transformed 
+with a centromeric plasmid containing cup1 promoter-driven cfp-atg11 
+(pcuhacfpcvt9(414)). cells were grown to mid-log phase and visualized 
+by  ﬂ uorescence  microscopy.  arrows  mark  the  pas  localization  of  bfp-
+ape1, and arrowheads mark the sites of colocalization. (b) atg9 fails to 
+transport to the pas in mutants deleted for atg11. atg1∆ (fry138), atg11∆ 
+(kty53),  or  atg1∆  atg11∆  (yts150)  strains  expressing  chromosomally 
+tagged atg9-yfp were imaged by ﬂ uorescence microscopy. (c) the sec-
+ond  atg11  cc  domain  is  needed  for  correct  atg9  cycling.  the  atg1∆ 
+atg11∆  strain  (yts150)  was  transformed  with  a  plasmid  encoding  the 
+atg11∆cc1  or  atg11∆cc2  mutants,  and  yfp  ﬂ uorescence  was  visual-
+ized by ﬂ uorescence microscopy. in all panels, cells were stained with fm 
+4-64 to label the vacuole before being imaged by ﬂ uorescence microscopy. 
+dic, differential interference contrast. bar, 2 μm.
+and did not localize to mitochondria (not depicted). thus, ex-
+cess atg11 was able to restrict atg9 to the pas. overexpressed 
+atg11 displays a dominant-negative phenotype, interfering with 
+published december 18, 2006
+the  vacuolar  import  of  prape1  through  the  cvt  pathway 
+(unpublished  data).  the  dominant-negative  phenotype  pre-
+sumably refl ects the defect in atg9 cycling.
+to further examine the role of atg11 in recruiting atg9 to 
+the pas, we used the taka (transport of atg9 after knocking 
+out atg1) assay (cheong et al., 2005). this assay examines the 
+epistasis of a second mutation relative to atg1∆ with regard to 
+atg9  localization  at  the  pas.  we  visualized  chromosomally 
+tagged atg9-yfp in atg11∆ single and atg1∆ atg11∆ double 
+deletion  cells  and  simultaneously  labeled  the  vacuolar  mem-
+brane  with  fm  4-64.  as  shown  previously,  in  atg1∆  cells, 
+atg9-yfp  localized  to  a  single  perivacuolar  punctum,  which 
+corresponds to the pas (fig. 3 b). in contrast, in nearly 90% of 
+the atg11∆ or atg1∆ atg11∆ mutants, atg9-yfp fl uorescence 
+showed multiple puncta and did not localize at a single peri-
+vacuolar  structure,  suggesting  that  its  anterograde  transport 
+was blocked because of the atg11 deletion (fig. 3 b). these 
+results suggest that atg11 is involved in the anterograde trans-
+port of atg9.
+our mapping of the atg9 and atg11 interaction domains 
+indicated that atg11∆cc2 but not atg11 lacking its other cc 
+domains was defective in forming a complex with atg9 (fig. 2). 
+accordingly, we examined the effect of atg11 cc deletions on 
+atg9 subcellular distribution. as shown in fig. 3 c, in cells ex-
+pressing atg11∆cc1 in the atg1∆ background, atg9 localized 
+to the pas, which is similar to the result seen in  atg1∆ cells 
+ expressing  wild-type  atg11.  in  contrast,  in  cells  expressing 
+atg11∆cc2,  which  lacks  the  atg9-interacting  domain,  atg9 
+displayed a multiple punctate distribution (fig. 3 c) resembling 
+that  observed  in  atg1∆  atg11∆  cells  even  though  the  mutant 
+protein was expressed at a level similar to the wild-type protein 
+(yorimitsu and klionsky, 2005). thus, we concluded that the 
+interaction  of atg9  with atg11  cc  domain  2  is  required  to 
+ direct atg9 to the pas.
+the atg9h192l mutant is defective 
+for the cvt pathway
+to further clarify the physiological functions of the atg9–atg11 
+interaction,  we  decided  to  test  whether  autophagic  processes 
+were affected by its disruption. it has been reported that atg11 
+cc domain 2, the atg9-interacting domain, interacts with mul-
+tiple atg proteins, including at least one (atg1) that is involved 
+in atg9  retrograde  transport  (yorimitsu  and  klionsky,  2005). 
+thus, atg11∆cc2 may cause pleiotropic effects when used in 
+functional studies. to bypass this problem, we decided to use 
+native atg11 and instead to isolate mutations within the atg9 
+n-terminal region that disrupt the interaction with atg11. we 
+performed a pcr-based random mutagenesis on the n-terminal 
+region of atg9 followed by a yeast two-hybrid screen for loss-
+of-interaction mutants. a missense mutation was identifi ed with 
+a single histidine to leucine substitution at position 192 (h192l), 
+which is located in the minimal region (amino acids 159–255) 
+needed for the atg9–atg11 interaction (fig. 2 e). two-hybrid 
+cells  harboring  this  mutation  completely  lost  the  capacity  for 
+growth on selective −adenine (−ade) plates in the presence of 
+atg11 (fig. 4 a), whereas the expression level of the mutant 
+protein was comparable with that of the wild type (not depicted). 
+figure 4.  the atg9h192l mutant is defective for the cvt pathway. (a) the 
+atg9 h192l mutation disrupts the interaction between atg9 and atg11 by 
+yeast two-hybrid assay. cells expressing atg11 (ad-atg11) and either the 
+empty plasmid (11), the atg9 n terminus harboring the h192l mutation 
+(bd–atg9nh192l; 9nh192l+11), or the wild-type atg9 n-terminal fragment 
+(9n+11) were grown for 5 d on −ade plates. (b) atg11 is coprecipitated 
+with wild-type atg9 but not with atg9h192l. an atg9∆ strain expressing an 
+integrated atg11-gfp fusion (cch007) was transformed with a plasmid 
+expressing either wild-type atg9-pa (patg9pa(314); atg9) or atg9h192l-pa 
+(patg9h192lpa(314); h192l) driven by the atg9 native promoter. the afﬁ n-
+ity isolation was performed as described in materials and methods. eluted 
+polypeptides  were  separated  by  sds-page  and  detected  with  anti-yfp 
+ antibody. a wild-type strain expressing integrated atg11-gfp and atg9-pa 
+fusions (tyy161) was used as a control (wt). (c) precursor ape1 matura-
+tion is blocked in cells expressing atg9h192l. the atg9∆ strain (jky007) 
+was  transformed  with  a  plasmid  expressing  wild-type  atg9  (papg-
+9gfp(416)), atg9h192l (patg9h192lgfp416; h192l), or an empty vector 
+(prs416;  −).  cells  were  grown  to  mid-log  phase,  and  protein  extracts 
+were analyzed by western blotting using antiserum to ape1. the positions 
+of precursor and mature ape1 are indicated.
+this indicates that the interaction between atg9 and atg11 was 
+abolished by the h192l mutation. the loss of atg9–atg11 inter-
+action  was  confi rmed  by  a  coimmunoprecipitation  assay.  as 
+shown in fig. 4 b, endogenous atg11 was recovered only with 
+wild-type atg9 but not with the atg9h192l mutant. in contrast, 
+yeast  two-hybrid  data  indicated  that  the  interaction  between 
+atg9 and either atg2 or atg18, two proteins involved in the retro-
+grade transport of atg9, was unaffected (unpublished data).
+because both atg9 and atg11 are essential genes for the 
+cvt pathway, which is a type of selective autophagy, we moni-
+tored  the  processing  of  prape1  as  a  marker  protein  for  this 
+transport route. as shown in fig. 4 c, cells expressing atg9h192l 
+did not generate the mature form of ape1 compared with cells 
+expressing wild-type atg9, indicating that the cvt pathway was 
+impaired by the atg9 h192l mutation.
+anterograde movement of atg9h192l 
+is blocked in growing conditions
+we were interested in determining whether the impairment of 
+the cvt pathway seen with atg9h192l (fig. 4 b) was caused by 
+defects in atg9 cycling, particularly anterograde movement to 
+the pas. accordingly, we used the taka assay to visualize the 
+cycling  of atg9h192l-gfp  in  growing  conditions  and  concurr-
+ently stained mitochondria with the dye mitofluor red. in the 
+atg1∆  background,  wild-type atg9-gfp  was  restricted  to  the 
+atg11 is needed for atg9 transport • he et al.  929
+published december 18, 2006
+figure 5.  anterograde transport of atg9 to the pas 
+is  impaired  in  the  atg9h192l  mutant  under  growing 
+conditions.  the  atg1∆  atg9∆  strain  (cch001)  was 
+cotransformed  with  a  bfp-ape1  plasmid 
+(pbf-
+pape1(414))  and  a  plasmid  expressing  wild-type 
+(papg9gfp(416))  or  atg9h192l-gfp 
+atg9-gfp 
+(patg9h192lgfp(416)). cells were cultured to mid-log 
+phase  and  stained  with  mitofluor  red  589  as  de-
+scribed in materials and methods before imaging by 
+ﬂ uorescence microscopy. arrows mark the locations 
+of bfp-ape1. dic, differential interference contrast. 
+bar, 2 μm.
+pas, as marked with bfp-ape1 in 94% (116/123) of the cells 
+examined  (fig.  5).  in  contrast,  atg9h192l-gfp  distributed  to 
+multiple  punctate  structures  in  84%  (131/156)  of  the  atg1∆ 
+cells, which colocalized, in part, with the mitochondrial label-
+ing but not with the pas. thus, the atg9h192l mutation acted 
+epistatically  to  atg1∆,  suggesting  that  the  anterograde  move-
+ment of atg9h192l from mitochondria to the pas was defective.
+bulk autophagy is not affected 
+by disruption of the atg9–atg11 interaction
+atg9 is essential for both bulk autophagy and the cvt pathway, 
+whereas atg11  is  required  solely  in  the  cvt  pathway  (noda 
+et al., 2000; kim et al., 2001). to clarify whether atg9 antero-
+grade  transport  via atg11  is  involved  in  bulk  autophagy,  we 
+used  the atg9h192l  mutant  to  analyze  the  progression  of  bulk 
+autophagy by several established assays.
+atg8 conjugated to phosphatidylethanolamine remains as-
+sociated with the completed autophagosome and is a marker for 
+autophagic delivery to the vacuole (kirisako et al., 1999, 2000; 
+huang et al., 2000). after delivery of the gfp-tagged atg8 chi-
+mera, the gfp moiety is cleaved and remains relatively stable in 
+the vacuole, whereas atg8 is rapidly degraded. thus, the accu-
+mulation of free gfp refl ects the progression of bulk autophagy, 
+which can be readily detected by western blotting (shintani and 
+klionsky, 2004b; cheong et al., 2005). in atg9∆ cells, essen-
+tially no free gfp was detected, indicating that bulk autophagy 
+was blocked by atg9 deletion (fig. 6 a). in cells expressing 
+wild-type atg9 or atg9h192l, free gfp was detectable starting 
+2 h after cells were shifted to starvation conditions (synthetic 
+medium lacking nitrogen [sd-n]) to induce bulk autophagy, 
+although gfp-atg8 processing showed a delay in atg9h192l cells 
+compared  with  wild-type  cells.  this  result  demonstrated  that 
+bulk autophagy retained similar activity even when atg9 failed 
+to interact with the cvt-specifi c component atg11.
+to  confi rm  the  aforementioned  result,  we  quantitatively 
+measured bulk autophagy activity using another marker protein, 
+pho8∆60, which encodes an altered form of alkaline phospha-
+tase that is only delivered to the vacuole via autophagy (noda 
+et al., 1995). the pho8∆60 enzymatic activity was measured in 
+wild-type and atg1∆ cells and in atg9∆ cells transformed with 
+a plasmid expressing wild-type atg9 or atg9h192l or an empty 
+vector in growing (synthetic minimal medium [smd]) and star-
+vation (sd-n) conditions (fig. 6 b). the atg1∆ or atg9∆ cells 
+930
+jcb • volume 175 • number 6 • 2006
+transformed with an empty vector showed only the basal level of 
+pho8∆60 activity after autophagy induction (sd-n), indicating 
+that bulk autophagy was defective after deleting either gene. in 
+contrast, there was an increase of pho8∆60 activity in atg9∆ cells 
+expressing either wild-type atg9 or atg9h192l, indicating that 
+atg9h192l rescued the autophagy defect in atg9∆ cells, which is 
+comparable with the wild-type atg9 protein. collectively, these 
+data suggested that bulk autophagy does not depend on the inter-
+action between atg9 and an atg protein that is needed for antero-
+grade movement during specifi c autophagy (atg11).
+figure 6.  bulk autophagy is normal with the atg9h192l mutant. (a) gfp-
+atg8 processing is not affected by atg9h192l. the atg9∆ strain (jky007) 
+was  cotransformed  with  a  gfp-atg8  plasmid  (pgfpaut7(414))  and 
+a  plasmid  expressing  wild-type  atg9  (papg9gfp(416)),  atg9h192l 
+(patg9h192lgfp(416)),  or  an  empty  vector  (prs416;  atg9∆).  cells  were 
+grown  in  smd  to  mid-log  phase  and  shifted  to  starvation  conditions 
+(sd-n). at the indicated time points, aliquots were taken, and protein ex-
+tracts  were  analyzed  by  western  blotting  using  anti-gfp  antibody.  the 
+positions  of  gfp-atg8  and  free  gfp  are  indicated.  the  asterisks  mark 
+nonspeciﬁ c bands. (b) pho8∆60 activity is normal in atg9h192l-expressing 
+cells.  the  wild-type  (wt;  yts158)  and  atg1∆  (tyy127)  strains  and  the 
+atg9∆ strain (cch002) transformed with a plasmid expressing wild-type 
+atg9  (papg9(416)),  atg9h192l  (patg9h192l(416)),  or  an  empty  vector 
+(prs416;vec) were grown in smd to mid-log phase and shifted to sd-n 
+for 4 h. the pho8∆60 activity was measured as described in materials and 
+methods. error bars indicate the sem of three independent experiments.
+published december 18, 2006
+figure  7.  anterograde  transport  of  atg9h192l 
+is  normal  upon  bulk  autophagy  induction. 
+the  atg1∆  atg9∆  strain  (cch001)  was 
+ cotransformed  with  a  bfp-ape1  plasmid 
+(pbfpape1(414))  and  a  plasmid  expressing 
+wild-type  atg9-gfp  (papg9gfp(416))  or 
+atg9h192l-gfp 
+(patg9h192lgfp(416)).  bulk 
+autophagy  was  induced  by  rapamycin  treat-
+ment  (+rap)  as  described  in  materials  and 
+methods  before  imaging  by  ﬂ uorescence 
+ microscopy.  arrows  mark  the  pas  localiza-
+tion of bfp-ape1. dic, differential interference 
+ contrast. bar, 2 μm.
+atg9h192l cycling is normal 
+during bulk autophagy
+because bulk autophagy activity was not affected by the atg9 
+h192l  mutation,  it  was  tempting  to  speculate  that atg9h192l 
+cycled  normally  under  starvation  conditions  even  though 
+it  was  not  capable  of  forming  a  complex  with atg11. to  test 
+this  hypothesis,  we  visualized  the  movement  of atg9h192l  by 
+the taka assay after autophagy induction. cells were treated 
+with the drug rapamycin, which mimics starvation conditions 
+and induces bulk autophagy. as shown in fig. 7, in the atg1∆ 
+background  without  rapamycin  treatment  (−rap),  wild-type 
+atg9-gfp  was  restricted  to  the  pas,  whereas atg9h192l-gfp 
+could not move to the pas and displayed a multiple punctate 
+localization. after treatment with rapamycin (fig. 7, +rap), in 
+85%  (41/48)  of  the  cells, atg9h192l-gfp  colocalized  with  the 
+pas marker bfp-ape1 similarly to wild-type atg9, indicating 
+that atg9 recruitment to the pas was normal. therefore, this 
+result demonstrated that during bulk autophagy, the atg9h192l 
+mutation did not interfere with the cycling of atg9.
+atg11 localization to the pas is dependent 
+on the actin cytoskeleton
+recently,  we  have  shown  that atg9  anterograde  traffi c  to  the 
+pas is blocked when the actin cytoskeleton is disrupted by ei-
+ther treatment with the drug latrunculin a or point mutations in 
+act1, the gene encoding actin (reggiori et al., 2005a). in par-
+ticular, the impairment of actin function leads to a defect in the 
+cvt pathway, whereas bulk autophagy is normal; a similar phe-
+notype was also observed with the atg9h192l mutant. because 
+atg9 anterograde transport was also dependent on its interaction 
+with atg11  (fig.  3),  we  wondered  whether  there  was  a  func-
+tional connection between actin and atg11 in atg9 cycling and 
+autophagic processes. previous data show that atg11 is needed 
+to recruit prape1 to the pas (yorimitsu and klionsky, 2005). 
+the atg9-null mutant does not affect the recruitment of prape1 
+to the pas or the localization of atg11 (unpublished data), sug-
+gesting that atg11 localization at the pas is not dependent on 
+the atg9–atg11 interaction. thus, we propose that atg11 medi-
+ates actin-dependent atg9 cycling in the cvt pathway.
+to  test  this  hypothesis,  we  used  an  actin  mutant,  act1-
+159, which has defects in actin cable depolymerization, atg9 
+cycling,  and  the  cvt  pathway  (reggiori  et  al.,  2005a).  as 
+shown in fig. 8 a, in wild-type cells, gfp-atg11 localized to 
+the pas as a single punctum; chromosomally tagged atg9-rfp 
+displayed a multiple punctate localization pattern. in the act1-
+159 mutant, however, gfp-atg11 redistributed to cytoplasmic 
+patches,  which  partially  colocalized  with  atg9-rfp.  to  re-
+veal  the  identity  of  these  multiple  compartments,  we  stained 
+cells with the mitochondrial dye mitofluor red and the vacu-
+olar membrane dye fm 4-64. as shown in fig. 8 b, in 81% 
+(81/100) of the cells, the gfp-atg11 patches were absent from 
+the perivacuolar pas position; instead, they colocalized with 
+the mitochondrial labeling, indicating that atg11 localized at 
+mitochondria when the actin network was defective. therefore, 
+the  proper  localization  of atg11  to  the  pas  is  dependent  on 
+the  actin  cytoskeleton  and  may  underlie  the  actin-dependent 
+atg9 cycling during the cvt pathway and other types of spe-
+cifi c autophagy.
+discussion
+atg9 is the only characterized transmembrane protein involved 
+in the formation of the sequestering vesicles that form during 
+the cvt pathway, pexophagy, and autophagy. accordingly, it is 
+the best candidate to mark the source of the vesicle membrane. 
+recently, we have shown that atg9 localizes to mitochondria in 
+addition  to  the  pas,  implicating  this  organelle  in  supplying 
+membrane during autophagy-related processes (reggiori et al., 
+2005b). only atg19, which is a receptor for biosynthetic car-
+gos, and atg8 remain associated with the completed vesicles; 
+most of the soluble atg proteins involved in vesicle formation 
+presumably dissociate from the membrane before or upon vesi-
+cle completion. in contrast, a specifi c retrieval mechanism oper-
+ates  in  the  cycling  of atg9  and  the  associated  protein atg23 
+(reggiori et al., 2004). the retrograde movement of atg9 from 
+the  pas  to  mitochondria  requires atg1–atg13, atg2, atg18, 
+and  the  ptdins3–kinase  complex.  the  transit  of atg9  to  the 
+pas involves atg23, atg27, and actin (reggiori et al., 2005a; 
+atg11 is needed for atg9 transport • he et al.  931
+membrane,  to  the  site  of  vesicle  formation,  the  pas  (fig.  9). 
+the atg11 cc domain2 interacts with the n terminus of atg9 
+(fig. 2), and the interaction occurs in the absence of atg1 or 
+atg19 (fig. 1), suggesting that there are distinct and multiple 
+populations  of  atg11  within  the  cell.  atg11  self-interaction 
+(yorimitsu and klionsky, 2005) may then allow these various 
+populations of atg proteins to be delivered to the pas in a co-
+ordinated manner. consistent with this model, the overexpression 
+of atg11 restricted atg9 to the pas, presumably as a result of 
+enhanced  delivery  (fig.  3).  in  contrast,  a  mutation  of  h192l 
+that  disrupts  interaction  between atg9  and  the  specifi c  auto-
+phagy  component atg11  resulted  in  a  defect  in  transporting 
+atg9 to the pas (fig. 5). furthermore, the absence of atg9 at 
+the pas caused by this point mutation led to a block in the cvt 
+pathway (fig. 4).
+it is known that atg11 is needed for specifi c types of auto-
+phagy such as the cvt pathway but is not essential for nonspe-
+cifi c autophagy (kim et al., 2001). we found that the atg9 point 
+mutant that disrupts the interaction with atg11 imposed little 
+effect on the bulk autophagy induced during starvation (fig. 6). 
+the essentially normal autophagy function was correlated with 
+the normal localization/transport of the binding-defective atg9 
+mutant  in  the  presence  of  the  autophagy  inducer  rapamycin 
+(fig. 7). this fi nding suggests that the anterograde transport of 
+atg9  during  bulk  autophagy  may  be  mediated  by  a  different 
+mechanism  that  is  at  least  relatively  independent  of  atg11. 
+thus, other proteins that may interact with atg9 deserve further 
+investigation to reveal the atg9 cycling machinery that oper-
+ates  during  bulk  autophagy;  however,  we  cannot  rule  out  the 
+possibility  that  a  low  level  of  interaction  between  atg9h192l 
+and atg11  allows  the  anterograde  transport  of atg9h192l  after 
+autophagy induction.
+finally, we found that actin is required for the localization 
+of atg11 to the pas (fig. 8). this observation, coupled with the 
+role of atg11 in atg9 anterograde movement but not vice versa, 
+suggests that atg11 mediates the connection between actin and 
+atg9 delivery from the mitochondria to the pas. actin is not 
+needed  for  bulk  autophagy  in  yeast  (reggiori  et  al.,  2005a), 
+which is in agreement with our fi ndings in the present paper that 
+the atg9h192l mutant is not defective for nonspecifi c autophagy. 
+it is not known how atg9 might move along actin cables. the 
+third atg11  cc  domain  displays  some  similarity  with  that  of 
+published december 18, 2006
+figure 8.  atg11 localization at the pas is dependent on the actin cytoskeleton. 
+(a) atg11 alters its distribution in the act1-159 mutant and colocalizes with 
+atg9. wild-type (wt; fry245) and act1-159 (ira004) strains expressing 
+an integrated atg9-rfp fusion were transformed with a plasmid containing 
+gfp-atg11 (pts495). cells were grown to mid-log phase at 30°c and 
+ imaged by ﬂ uorescence microscopy. (b) atg11 is localized to mitochondria 
+in the act1-159 mutant. the act1-159 (ira004) strain was transformed with 
+the gfp-atg11 plasmid. cells were treated with mitofluor red 589 or fm 
+ 4-64 as described in materials and methods and were imaged by ﬂ uores-
+cence microscopy. dic, differential interference contrast. bar, 1 μm.
+yen et al., 2006; and unpublished data); however, the mecha-
+nism by which actin mediates atg9 movement is not known.
+to identify other atg components involved in the antero-
+grade  movement  of  atg9,  we  performed  a  yeast  two-hybrid 
+screen for proteins that interact with atg9 and identifi ed atg11 
+(fig. 1). this result is intriguing because atg11 has previously 
+been shown to interact with atg19 and atg1, which are compo-
+nents involved in distinct steps of a specifi c autophagic process. 
+in conjunction with the present result, we propose that atg11 
+acts as a scaffold to coordinate the delivery of multiple compo-
+nents,  including  the  cargo–receptor  complex,  components  in-
+volved in vesicle formation, and proteins involved in supplying 
+figure 9.  model of atg9 transport mediated by atg11. the 
+transmembrane  protein  atg9  cycles  between  the  pas  and 
+ mitochondria. the potential role of atg9 cycling is to provide 
+lipids for vesicle formation in bulk and selective autophagy. in 
+the latter, a pool of the peripheral membrane protein atg11 
+along with atg23 and atg27 (reggiori et al., 2005a; yen 
+et  al.,  2006;  and  unpublished  data)  regulates  the  antero-
+grade movement of atg9 from mitochondria to the pas, which 
+is dependent on actin function. the other two known atg11 
+populations in yeast are indicated: the atg1–atg11 complex 
+(consisting  of  atg1,  atg11,  atg13,  atg17,  atg20,  atg24, 
+and  vac8)  and  the  atg11–atg19  complex  (consisting  of 
+prape1,  the  prape1  receptor  atg19,  and  atg11).  the 
+ retrieval  of  atg9  requires  the  atg1–atg13  complex,  atg2, 
+atg18, and the ptdins3–kinase complex (not depicted).
+932
+jcb • volume 175 • number 6 • 2006
+published december 18, 2006
+myo2; however, atg11 lacks the n-terminal motor domain that 
+functions in myo2 movement (monastyrska et al., 2006). thus, 
+it is not clear how atg11 might actually mediate the anterograde 
+movement of atg9. continued analysis of atg9 cycling and its 
+interactions with atg11 and other atg proteins may provide in-
+sight  into  the  underlying  mechanisms  of  membrane  delivery 
+during cvt vesicle and autophagosome formation.
+materials and methods
+strains, plasmids, and media
+the s. cerevisiae strains used in this study are listed in table i. for gene 
+disruption,  the  entire  coding  region  was  replaced  by  the  s.  cerevisiae 
+trp1, the kluyveromyces lactis leu2 or ura3, the saccharomyces kluyveri 
+his3, or the escherichia coli kanr gene using pcr primers containing ⵑ50 
+bases of identity to the regions ﬂ anking the open reading frame. for pcr-
+based integrations of the pa and gfp tags at the 3′ end of the atg9 and 
+atg11 genes, phab102 and pfa6a-gfp-his3 were used as templates to 
+generate strains expressing fusion proteins under the control of their native 
+promoters (longtine et al., 1998; abeliovich et al., 2003).
+yeast cells were grown in rich medium (ypd; 1% yeast extract, 2% 
+peptone,  and  2%  glucose)  or  smd  (0.67%  yeast  nitrogen  base,  2% 
+ glucose,  amino  acids,  and  vitamins  as  needed).  starvation  experiments 
+were conducted in sd-n (0.17% yeast nitrogen base without amino acids 
+and 2% glucose).
+plasmids  expressing  atg11  truncations  (yorimitsu  and  klionsky, 
+2005),  gfp-atg8  (pgfp-aut7(414);  abeliovich  et  al.,  2003),  atg9 
+(papg9(416);  essentially  constructed  the  same  as  papg9(414);  noda 
+et al., 2000), atg9-gfp (papg9gfp(416); noda et al., 2000), and cfp-
+atg11  (pcuhacfpcvt9(414);  kim  et  al.,  2002)  have  been  described 
+previously.  bfp-ape1  (pbfpape1(414))  was  constructed  by  introducing 
+bfp (qbiogene) on a bamhi pcr-generated fragment into a unique bglii 
+site  situated  after  the  start  codon  of  ape1  (shintani  et  al.,  2002).  gfp-
+atg11 (pts495) was constructed in a similar manner starting with atg11 
+cloned into the prs416 vector. pa-atg9 (pcupaatg9(416)) was generated 
+by cloning atg9 into the prs416-cuprota vector (kim et al., 2002). full-
+length atg9 (pbd-atg9) and the atg9 n-terminal (pbd-atg9n), c-terminal 
+(pbd-atg9c), and transmembrane (pbd-atg9tm) regions were ampliﬁ ed 
+by  pcr  from  papg9(416)  and  introduced  into  the  two-hybrid  vector 
+pgbdu-c1  using  bamhi  and  sali  sites.  a  total  of  19  other  atg  genes 
+were  ampliﬁ ed  and  cloned  into  the  two-hybrid  vector  pgad-c1  using 
+bamhi and sali sites. the serial deletion mutants of the atg9 n terminus 
+were generated by pcr ampliﬁ cation from pbd-atg9n and ligated into the 
+ecori and bamhi sites of pgbdu-c1. the plasmid expressing the atg9h192l 
+mutant (patg9h192l(416)) was constructed by releasing the atg9 fragment 
+containing  h192l  from  patg9h192lgfp(416)  (see  random  mutagenesis 
+screen…mutant) and was cloned into papg9(416) using saci and agei. 
+patg9pa(314) and patg9h192lpa(314) were constructed by pcr amplify-
+ing  atg9  and atg9h192l  together  with  its  native  promoter  from  papg-
+9gfp(416)  and  patg9h192lgfp(416)  and  incorporating  them  into 
+pnoppa(314) using xhoi and xmai sites. pnoppa(314) was a gift from 
+f. reggiori (university of utrecht, utrecht, netherlands).
+pa afﬁ nity isolation
+cells were grown to od600 = 0.8 in smd, and 100 ml were harvested 
+and  resuspended  in  lysis  buffer  (pbs,  200  mm  sorbitol,  1  mm  mgcl2, 
+0.1% tween 20, 1 mm pmsf, and protease inhibitor cocktail). the deter-
+gent extracts were incubated with igg–sepharose beads overnight at 4°c. 
+the beads were washed with lysis buffer eight times and eluted in sds-
+page sample buffer by incubating at 55°c for 15 min. the eluates were 
+resolved by sds-page and immunoblotted with anti-yfp antibody.
+random mutagenesis screen and generation of the atg9 mutant
+the gap repair pcr mutagenesis method (oda et al., 1996) was used to 
+generate the atg11 binding–defective atg9 mutant. an avrii site at 942 bp 
+table i.  yeast strains used in this study
+strain
+by4742
+cch001
+cch002
+cch004
+cch005
+cch006
+cch007
+ddy1493
+fry136
+fry138
+fry171
+fry172
+fry245
+ira004
+jky007
+jly87
+jly88
+kty53
+pj69-4a
+psy101
+sey6210
+tvy1
+tyy127
+tyy161
+tyy162
+yts150
+yts158
+genotype
+matα ura3∆ leu2∆ his3∆ lys2∆
+sey6210 atg9∆::his5 atg1∆::leu2
+yts158 atg9∆::his5
+tyy161 atg23∆::ura3
+tyy161 atg19∆::ura3
+tyy161 atg23∆::ura3 atg27∆::leu2
+psy101 atg9∆::leu2
+matα ura3-52 leu2-3,112 his3-∆200 tub2-201 act1-159::his3
+sey6210 atg9-yfp::his3
+sey6210 atg9-yfp::his3 atg1∆::ura3
+sey6210 atg9-pa::trp1
+sey6210 atg9-pa::trp1 pep4∆::leu2
+sey6210 atg9-rfp::his3
+ddy1493 atg9-rfp::kan
+sey6210 atg9∆::his3
+pj69-4a atg23∆::kan j. 
+pj69-4a atg27∆::kan
+sey6210 atg9-yfp::his3 atg11∆::ura3
+matα leu2-3,112 trp1-∆901 ura3-52 his3-∆200 gal4∆ gal80∆ 
+  lys2::gal1-his3 gal2-ade2 met2::gal7-lacz
+sey6210 atg11-gfp::his3
+matα ura3-52 leu2-3,112 his3-∆200 trp1-∆901 lys2-801 
+  suc2-∆9 mel gal
+sey6210 pep4∆::leu2
+yts158 atg1∆::his5
+sey6210 atg11-gfp::his3 atg9-pa::trp1
+tyy161 atg1∆::ura3
+sey6210 atg9-yfp::his5 atg1∆::ura3 atg11∆::leu2
+by4742 pho8::pho8∆60 pho13∆::kan
+reference
+invitrogen
+this study
+this study
+this study
+this study
+this study
+this study
+drubin et al., 1993
+cheong et al., 2005
+reggiori et al., 2004
+this study
+reggiori et al., 2004
+reggiori et al., 2005b
+reggiori et al., 2005b
+noda et al., 2000
+unpublished data
+unpublished data
+reggiori et al., 2004
+james et al., 1996
+this study
+robinson et al., 1988
+gerhardt et al., 1998
+this study
+this study
+this study
+shintani and klionsky, 2004b
+this study
+atg11 is needed for atg9 transport • he et al.  933
+published december 18, 2006
+was  introduced  into  the  papg9gfp(416)  plasmid  by  site-directed 
+ mutagenesis. the atg9 n-terminal region containing the avrii site was ampli-
+ﬁ ed and introduced into pgbdu-c1 with ecori and bamhi to generate 
+pbd-atg9n(avrii).  a  gapped  pgbdu-c1  plasmid  was  generated  by  di-
+gesting  with  ecori  and  bamhi.  the  pcr  reaction  was  performed  using 
+taq  polymerase  (new  england  biolabs,  inc.)  with  pbd-atg9n(avrii)  as 
+the template. the datp concentration was lowered to three ﬁ fths that of 
+the other three deoxynucleoside triphosphates. the resulting mutagenized 
+pcr product shares overlapping sequences of ⵑ100 bp at both 5′ and 
+3′ ends with the gapped pgbdu-c1 plasmid. the pcr product and the 
+gapped plasmid were cotransformed into the two-hybrid strain pj69-4a. 
+the  transformants  were  replicated  on  both  −his  and  −ade  plates.  the 
+transformants  that  were  not  able  to  grow  on  either  plate  were  selected 
+and analyzed by western blotting for protein stability using anti-atg9 an-
+tiserum (noda et al., 2000). stable mutants were sequenced, and pbd-
+atg9nh192l was identiﬁ ed. the atg9 n-terminal fragment containing the 
+h192l mutation was then released from pbd-atg9nh192l by digestion at 
+the introduced avrii site and a natural nrui site. this fragment was cloned 
+into papg9gfp(416) digested with the same restriction enzymes to generate 
+patg9h192lgfp(416).
+fluorescence microscopy
+cells expressing fusion proteins with ﬂ uorescence tags were grown in smd 
+media to od600 = 0.8. for vacuolar membrane labeling, cells were pelle-
+ted, resuspended in fresh media at od600 = 1.0, incubated with 2 μm fm 
+4-64 at 30°c for 15 min, and pelleted and cultured in the same media 
+without fm 4-64 at 30°c for 30 min. for mitochondrial ﬂ uorescent label-
+ing, mitofluor red 589 (invitrogen) was added to the growing culture at a 
+ﬁ nal concentration of 1 μm, and the culture was incubated at 30°c for 
+30 min. cells were then washed with the same culture medium before im-
+aging to remove the excess dye. for rapamycin treatment, cells were cul-
+tured with 0.2 μg/ml rapamycin at 30°c for 1.5 h. when necessary, a 
+mild ﬁ xation procedure was applied to visualize atg9 without destroying 
+various ﬂ uorescent proteins: cells were harvested, resuspended in a half 
+volume of ﬁ xation buffer (50 mm kh2po4, ph 8.0, 1.5% formaldehyde, 
+and 1 μm mgcl2), and incubated at room temperature for 30 min with 
+gentle  shaking.  cells  were  then  washed  once  with  an  equal  amount  of 
+wash buffer (50 mm potassium phosphate, ph 8.0, and 1 μm mgcl2) and 
+resuspended in 50 μl of wash buffer. fluorescence signals were visualized 
+on a ﬂ uorescence microscope (ix71; olympus). the images were captured 
+by a camera (photometrics coolsnap hq; roper scientiﬁ c) and decon-
+volved using deltavision software (applied precision).
+additional assays
+the  gfp-atg8  processing  assay,  the  pho8∆60  activity  assay,  and  the 
+ protease protection assay were performed as previously described (noda 
+et al., 1995; wang et al., 2001; abeliovich et al., 2003; shintani and 
+klionsky, 2004b; cheong et al., 2005).
+the authors thank dr. weibin zhou and members of the klionsky laboratory for 
+comments and suggestions.
+d.j. klionsky is supported by national institutes of health public health 
+service grant gm53396.
+submitted: 16 june 2006
+accepted: 16 november 2006
+references
+abeliovich, h., c. zhang, w.a. dunn jr., k.m. shokat, and d.j. klionsky. 2003. 
+chemical genetic analysis of apg1 reveals a non-kinase role in the induc-
+tion of autophagy. mol. biol. cell. 14:477–490.
+cheong,  h.,  t.  yorimitsu,  f.  reggiori,  j.e.  legakis,  c.-w.  wang,  and  d.j. 
+klionsky. 2005. atg17 regulates the magnitude of the autophagic response. 
+mol. biol. cell. 16:3438–3453.
+drubin, d.g., h.d. jones, and k.f. wertman. 1993. actin structure and  function: 
+roles  in  mitochondrial  organization  and  morphogenesis  in  budding 
+yeast  and  identifi cation  of  the  phalloidin-binding  site.  mol.  biol.  cell. 
+4:1277–1294.
+gerhardt, b., t.j. kordas, c.m. thompson, p. patel, and t. vida. 1998. the vesicle 
+transport protein vps33p is an atp-binding protein that localizes to the 
+cytosol in an energy-dependent manner. j. biol. chem. 273:15818–15829.
+huang, w.-p.,  s.v.  scott,  j.  kim,  and  d.j.  klionsky.  2000. the  itinerary  of  a 
+vesicle component, aut7p/cvt5p, terminates in the yeast vacuole via the 
+autophagy/cvt pathways. j. biol. chem. 275:5845–5851.
+934
+jcb • volume 175 • number 6 • 2006
+hutchins, m.u., m. veenhuis and d.j. klionsky. 1999. peroxisome degradation 
+in saccharomyces cerevisiae is dependent on machinery of macroautophagy 
+and the cvt pathway. j. cell sci. 112:4079–4087.
+james, p., j. halladay, and e.a. craig. 1996. genomic libraries and a host strain 
+designed  for  highly  effi cient  two-hybrid  selection  in  yeast.  genetics. 
+144:1425–1436.
+kamada, y., t. funakoshi, t. shintani, k. nagano, m. ohsumi, and y. ohsumi. 
+2000. tor-mediated induction of autophagy via an apg1 protein kinase 
+complex. j. cell biol. 150:1507–1513.
+kim, j., y. kamada, p.e. stromhaug, j. guan, a. hefner-gravink, m. baba, s.v. 
+scott, y.  ohsumi, w.a.  dunn  jr.,  and  d.j.  klionsky.  2001.  cvt9/gsa9 
+functions in sequestering selective cytosolic cargo destined for the vacuole. 
+j. cell biol. 153:381–396.
+kim, j., w.-p. huang, p.e. stromhaug, and d.j. klionsky. 2002. convergence of 
+multiple autophagy and cytoplasm to vacuole targeting components to a 
+perivacuolar membrane compartment prior to de novo vesicle formation. 
+j. biol. chem. 277:763–773.
+kirisako,  t.,  m.  baba,  n.  ishihara,  k.  miyazawa,  m.  ohsumi,  t. yoshimori, 
+t. noda, and y. ohsumi. 1999. formation process of autophagosome is 
+traced with apg8/aut7p in yeast. j. cell biol. 147:435–446.
+kirisako, t., y. ichimura, h. okada, y. kabeya, n. mizushima, t. yoshimori, m. 
+ohsumi, t. takao, t. noda, and y. ohsumi. 2000. the reversible modifi -
+cation regulates the membrane-binding state of apg8/aut7 essential for 
+autophagy and the cytoplasm to vacuole targeting pathway. j. cell biol. 
+151:263–276.
+klionsky, d.j. 2005. the molecular machinery of autophagy: unanswered questions. 
+j. cell sci. 118:7–18.
+levine,  b.,  and  d.j.  klionsky.  2004.  development  by  self-digestion:  mo-
+lecular  mechanisms  and  biological  functions  of  autophagy.  dev.  cell. 
+6:463–477.
+longtine,  m.s.,  a.  mckenzie  iii,  d.j.  demarini,  n.g.  shah,  a.  wach,  a. 
+brachat,  p.  philippsen,  and  j.r.  pringle.  1998. additional  modules  for 
+versatile and economical pcr-based gene deletion and modifi cation in 
+saccharomyces cerevisiae. yeast. 14:953–961.
+monastyrska,  i.,  t.  shintani,  d.j.  klionsky,  and  f.  reggiori.  2006. atg11  di-
+rects autophagosome cargoes to the pas along actin cables. autophagy. 
+2:119–121.
+nair,  u.,  and  d.j.  klionsky.  2005.  molecular  mechanisms  and  regulation  of 
+specifi c  and  nonspecifi c  autophagy  pathways  in  yeast.  j.  biol.  chem. 
+280:41785–41788.
+noda, t., a. matsuura, y. wada, and y. ohsumi. 1995. novel system for monitoring 
+autophagy in the yeast saccharomyces cerevisiae.  biochem. biophys. 
+res. commun. 210:126–132.
+noda,  t.,  j.  kim,  w.-p.  huang,  m.  baba,  c.  tokunaga, y.  ohsumi,  and  d.j. 
+klionsky. 2000. apg9p/cvt7p is an integral membrane protein required 
+for transport vesicle formation in the cvt and autophagy pathways. j. cell 
+biol. 148:465–480.
+noda, t., k. suzuki, and y. ohsumi. 2002. yeast autophagosomes: de novo for-
+mation of a membrane structure. trends cell biol. 12:231–235.
+oda, m.n., s.v. scott, a. hefner-gravink, a.d. caffarelli, and d.j. klionsky. 
+1996. identifi cation of a cytoplasm to vacuole targeting determinant in 
+aminopeptidase i. j. cell biol. 132:999–1010.
+reggiori,  f.,  and  d.j.  klionsky.  2005.  autophagosomes:  biogenesis  from 
+scratch? curr. opin. cell biol. 17:415–422.
+reggiori, f., k.a. tucker, p.e. stromhaug, and d.j. klionsky. 2004. the atg1-
+atg13 complex regulates atg9 and atg23 retrieval transport from the pre-
+autophagosomal structure. dev. cell. 6:79–90.
+reggiori, f., i. monastyrska, t. shintani, and d.j. klionsky. 2005a. the actin 
+cytoskeleton is required for selective types of autophagy, but not non-
+speci fi c  autophagy,  in  the  yeast  saccharomyces  cerevisiae.  mol.  biol. 
+cell. 16:5843–5856.
+reggiori, f., t. shintani, u. nair, and d.j. klionsky. 2005b. atg9 cycles between 
+mitochondria and the pre-autophagosomal structure in yeasts. autophagy. 
+1:101–109.
+robinson,  j.s.,  d.j.  klionsky,  l.m.  banta,  and  s.d.  emr.  1988.  protein  sort-
+ing  in  saccharomyces  cerevisiae:  isolation  of  mutants  defective  in  the 
+delivery and processing of multiple vacuolar hydrolases. mol. cell. biol. 
+8:4936–4948.
+scott,  s.v., a.  hefner-gravink,  k.a.  morano,  t.  noda, y.  ohsumi,  and  d.j. 
+klionsky. 1996. cytoplasm-to-vacuole targeting and autophagy employ 
+the same machinery to deliver proteins to the yeast vacuole. proc. natl. 
+acad. sci. usa. 93:12304–12308.
+shintani,  t.,  and  d.j.  klionsky.  2004a. autophagy  in  health  and  disease: 
+a  double-edged sword. science. 306:990–995.
+shintani, t., and d.j. klionsky. 2004b. cargo proteins facilitate the formation of 
+transport vesicles in the cytoplasm to vacuole targeting pathway. j. biol. 
+chem. 279:29889–29894.
+published december 18, 2006
+shintani, t., w.-p. huang, p.e. stromhaug, and d.j. klionsky. 2002. mechanism 
+of cargo selection in the cytoplasm to vacuole targeting pathway. dev. cell. 
+3:825–837.
+tucker,  k.a.,  f.  reggiori, w.a.  dunn  jr.,  and  d.j.  klionsky.  2003. atg23  is 
+essential for the cytoplasm to vacuole targeting pathway and effi cient 
+ autophagy but not pexophagy. j. biol. chem. 278:48445–48452.
+wang, c.-w., j. kim, w.-p. huang, h. abeliovich, p.e. stromhaug, w.a. dunn 
+jr., and d.j. klionsky. 2001. apg2 is a novel protein required for the cyto-
+plasm to vacuole targeting, autophagy, and pexophagy pathways. j. biol. 
+chem. 276:30442–30451.
+yen, w.-l., j.e. legakis, u. nair, and d.j. klionsky. 2006. atg27 is required for 
+autophagy-dependent cycling of atg9. mol. biol. cell. in press.
+yorimitsu, t., and d.j. klionsky. 2005. atg11 links cargo to the vesicle-forming 
+machinery in the cytoplasm to vacuole targeting pathway. mol. biol. cell. 
+16:1593–1605.
+young,  a.r.j.,  e.y.w.  chan,  x.w.  hu,  r.  köchl,  s.g.  crawshaw,  s.  high, 
+d.w.  hailey,  j.  lippincott-schwartz,  and  s.a. tooze.  2006.  starvation 
+and ulk1-dependent cycling of mammalian atg9 between the tgn and 
+ endosomes. j. cell sci. 119:3888–3900.
+atg11 is needed for atg9 transport • he et al.  935

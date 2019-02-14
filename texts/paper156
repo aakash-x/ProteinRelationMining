@@ -1,0 +1,1014 @@
+published november 13, 2006
+jcb: article
+calpain is required for macroautophagy 
+in mammalian cells
+francesca demarchi,1 cosetta bertoli,1 tamara copetti,1 isei tanida,2 claudio brancolini,3 eeva-liisa eskelinen,4 
+and claudio schneider1,3
+1laboratorio nazionale consorzio interuniversitario biotecnologie, 34012 trieste, italy
+2department of biochemistry, juntendo university school of medicine, bunkyo-ku, tokyo 113-8421, japan
+3dipartimento di scienze e tecnologie biomediche, universitá degli studi di udine, 33100 udine, italy
+4department of biological and environmental sciences, division of biochemistry, 00014 university of helsinki, helsinki, finland
+u biquitously  expressed  micro-  and  millicalpain, 
+which both require the calpain small 1 (capns1) 
+regulatory subunit for function, play important roles 
+in  numerous  biological  and  pathological  phenomena. 
+we  have  previously  shown  that  the  product  of  gas2, 
+a gene speciﬁ cally induced at growth arrest, is an inhibitor 
+of millicalpain and that its overexpression sensitizes cells 
+to  apoptosis  in  a  p53-dependent  manner  (benetti,  r., 
+g.  del  sal,  m.  monte,  g.  paroni,  c.  brancolini,  and 
+c. schneider.  2001.  embo  j.  20:2702–2714).  more 
+ recently, we have shown that calpain is also involved in 
+nuclear  factor  κb  activation  and  its  relative  prosurvival 
+function in response to ceramide, in which calpain deﬁ -
+ciency  strengthens  the  proapoptotic  effect  of  ceramide 
+(demarchi,  f.,  c.  bertoli,  p.a.  greer,  and  c.  schneider. 
+2005. cell death differ. 12:512–522). here, we further 
+explore the involvement of calpain in the apoptotic switch 
+and ﬁ nd that in calpain-deﬁ cient cells, autophagy is im-
+paired with a resulting dramatic increase in apoptotic cell 
+death. immunostaining of the endogenous autophagosome 
+marker lc3 and electron microscopy experiments demon-
+strate  that  autophagy  is  impaired  in  capns1-deﬁ cient 
+cells. accordingly, the enhancement of lysosomal activity 
+and long-lived protein degradation, which normally occur 
+upon  starvation,  is  also  reduced.  in  capns1-depleted 
+cells,  ectopic  lc3  accumulates  in  early  endosome-like 
+ vesicles that may represent a salvage pathway for protein 
+degradation when autophagy is defective.
+introduction
+macroautophagy, which is usually referred to as autophagy, is 
+responsible for degradation of the majority of intracellular pro-
+teins in mammalian cells, particularly during starvation-induced 
+proteolysis. cytosolic proteins, organelles, and selected regions 
+of the nucleus can be cleared by autophagy to ensure cellular 
+homeostasis  and  remove  damaged  or  unwanted  products 
+(klionsky,  2005).  cytoplasmic  constituents  are  fi rst  enclosed 
+by a double-membrane autophagosome; next, the outer mem-
+brane of the autophagosome fuses with the lysosome, with the 
+consequent destruction of the cargo and the inner membrane of 
+the autophagosome by hydrolytic enzymes.
+the autophagic pathway has been dissected at the mo-
+lecular level in yeast, in which 27 genes, referred to as atg, 
+correspondence to claudio schneider: schneide@lncib.it
+abbreviations  used  in  this  paper:  3ma,  3-methyladenine;  av,  autophagic 
+ vacuole; capns, calpain small; ebss, earle’s balanced salt solution; mef, 
+mouse embryonic ﬁ broblast; pi, propidium iodide.
+the online version of this article contains supplemental material.
+© the rockefeller university press   $8.00
+the journal of cell biology, vol. 175, no. 4, november 20, 2006 595–605
+http://www.jcb.org/cgi/doi/10.1083/jcb.200601024
+have been found to be required for autophagosome formation 
+(klionsky and ohsumi, 1999; yorimitsu and klionsky, 2005). 
+two  ubiquitin-like  conjugation  systems  are  involved  in  the 
+ process: one mediates the covalent attachment of atg12 to atg5, 
+and the other mediates the conjugation of atg8 to phosphatidyl-
+ethanolamine  (ichimura  et  al.,  2000).  the  resulting  products, 
+atg12–atg5 and atg8-phosphatidylethanolamine, are essential 
+for proper autophagosome formation. only a small fraction of 
+the atg12–atg5 complex localizes at the autophagic isolation 
+membrane throughout elongation, and the complex dissociates 
+when the phagosome is complete. on the other hand, atg8 
+ remains on the mature autophagosome constituting the recog-
+nized consensus marker of this structure. these two conjugation 
+systems  are  highly  conserved  in  mammalian  cells.  atg5-
+ defi cient stem cells have been instrumental for demonstrating 
+that the atg12–atg5 complex localizes at autophagosome pre-
+cursors and plays an essential role in autophagosome formation 
+(mizushima  et  al.,  2001).  the  production  of  atg5-defi cient 
+mice  has  revealed  that  autophagy  is  required  for  neonatal 
+supplemental material can be found at:
+http://jcb.rupress.org/content/suppl/2006/11/10/jcb.200601024.dc1.html 
+jcb 595
+published november 13, 2006
+figure  1.  capns1−/−  mefs  lacking  calpain 
+activity  are  defective  in  autophagosome  for-
+mation. (a and b) wild-type and capns1−/− 
+mefs were stimulated for 3 h with rapamycin 
+or ceramide and analyzed by immunoﬂ uores-
+cence using an anti-lc3–speciﬁ c antibody and 
+pi to stain nuclei (a) or were lysed and used 
+for western blot analysis with the same anti-
+body  to  detect  both  cytoplasmic  lc3i  and 
+membrane-associated  lc3ii  (b).  actin  was 
+used  as  a  loading  control.  (b)  the  ratio  be-
+tween the intensities of lc3ii and lc3i bands is 
+indicated below each lane. bar, 20 μm.
+ survival before maternal feeding (kuma et al., 2004). the anal-
+ysis of endogenous lc3, which is one of the mammalian homo-
+logues of atg8, and the production of transgenic mice expressing 
+a fl uorescent autophagosomal lc3 have shown that the regula-
+tion of autophagy is organ dependent and that the role of auto-
+phagy  is  not  restricted  to  the  starvation  response  (mizushima 
+et al., 2004).
+a pivotal role for autophagy in growth control has emerged 
+from studies on beclin1, the mammalian homologue of atg6. 
+the  beclin1  gene  is  deleted  in  several  types  of  breast  cancer 
+that are unable to activate autophagy (liang et al., 1999) and 
+functions  as  a  haploinsuffi cient  tumor  suppressor  gene  (yue 
+et al., 2003). in addition to involvement in growth control, 
+ programmed autophagy plays a role in differentiation (ghidoni 
+et al., 1996; lee et al., 2002) and tissue remodeling (rusten et al., 
+2004). moreover, autophagy may be artifi cially induced by ra-
+diation and treatment with certain drugs, including rapamycin 
+(noda  and  ohsumi,  1998),  ceramide  (scarlatti  et  al.,  2004), 
+ arsenic trioxide (kanzawa et al., 2003), and tamoxifen (bursch 
+et al., 2000); the fi nal outcome of such induction is still a matter 
+of debate (kroemer and jaattela, 2005).
+the calpain family of cysteine proteases is composed of 
+both ubiquitous and tissue-specifi c isoforms that share homol-
+ogy in their protease domain and are calcium dependent (goll 
+et al., 2003). the best-characterized ubiquitous calpains are the 
+isoforms μ- and m-calpain, which are also known as calpain 1 
+and  calpain  2,  respectively.  both  contain  an  80-kd  catalytic 
+subunit  and  share  a  common  28-kd  regulatory  subunit  com-
+monly known as calpain 4 that is required for proper activity. 
+hereafter,  calpain  4  will  be  referred  to  as  calpain  small  1 
+(capns1) in accordance with the nomenclature reported at the 
+calpain  website  (http://ag.arizona.edu/calpains). a  homologue 
+to capns1, capns2, has been described previously (schad 
+et al., 2002). this protein appears to be a functional equivalent 
+to  capns1  in  vitro;  however,  its  in  vivo  function  and  tissue 
+distribution are still controversial. interestingly, ubiquitous cal-
+pains are associated with the endoplasmic reticulum and golgi, 
+a likely reservoir for autophagosome membranes (hood et al., 
+2004),  where  the  essential  autophagy  regulatory  complex 
+pi3k–beclin also localizes (kihara et al., 2001).
+calpain  is  required  for  normal  embryonic  development. 
+indeed, the targeted disruption of capns1 is embryonic lethal 
+at days 10 and 11 as a result of severe defects in vascular devel-
+opment (arthur et al., 2000). calpain is a regulator of adhesive 
+596
+jcb • volume 175 • number 4 • 2006
+complex dynamics in adherent cells (bhatt et al., 2002); it plays 
+an important role in osteoclastic bone resorption (hayashi et al., 
+2005)  and  is  required  for  phagocytosis  in  human  neutrophils 
+(dewitt and hallett, 2002).
+we have become interested in calpain function because of 
+our observation that the product of gas2, a gene specifi cally 
+induced at growth arrest, is in fact an inhibitor of millicalpain 
+and that its overexpression sensitizes cells to apoptosis in a p53-
+dependent manner (benetti et al., 2001). more recently, we have 
+shown that calpain is also involved in nf-κb activation and in 
+its  relative  prosurvival  function  in  response  to  ceramide,  in 
+which calpain defi ciency strengthens the proapoptotic effect of 
+ceramide (demarchi et al., 2005). in this study, we further ex-
+plore  the  involvement  of  calpain  in  the  apoptotic  switch  and 
+fi nd that in calpain-defi cient cells, autophagy is impaired with 
+a resulting dramatic increase in apoptotic cell death.
+results
+the lack of calpain activity is coupled 
+to a block in autophagy
+we have previously reported that calpain plays a crucial role in 
+cell death regulation in response to ceramide. indeed, we demon-
+strated that the lack of calpain activity results in a considerable 
+figure 2.  capns1 depletion is coupled to a block in autophagosome 
+ formation in human cells. (a and b) u2os cells were silenced with control 
+sirna or capns1 sirna and, 72 h later, were stimulated with ceramide 
+for 3 h to trigger macroautophagy, as indicated in the ﬁ gure. afterward, 
+the cells were ﬁ xed and decorated with anti-lc3 and pi (a) or were lysed 
+to perform western analysis against endogenous lc3 (b). actin was used 
+as a loading control; anti-capns1 antibody was used to check silencing 
+efﬁ ciency. (b) the ratio between the intensities of lc3ii and lc3i bands is 
+indicated below each lane. bar, 20 μm.
+published november 13, 2006
+increase in apoptotic cell death (demarchi et al., 2005). to fur-
+ther investigate the involvement of calpain in the modulation of 
+alternative types of cell death, in this study, we address the role 
+of  calpain  in  autophagy.  lc3  is  the  only  available  specifi c 
+marker to detect autophagosomes in mammalian cells (kabeya 
+et al., 2000).
+ to directly tackle the question of whether calpain is re-
+quired in autophagy, we analyzed endogenous lc3 in response 
+to ceramide and rapamycin by means of immunofl uorescence 
+in  wild-type  and  capns1−/−  mouse  embryonic  fi broblasts 
+(mefs). capns1−/− mefs, which are also known as calpain 
+4−/− mefs, were derived from capns1 (calpain 4) knockout 
+mice  and  were  shown  to  lack  calpain  activity  (arthur  et  al., 
+2000).  wild-type  and  capns1−/−  mefs  were  induced  with 
+each  stimulus  for  3  h  or  were  left  untreated. afterward,  the 
+cells were fi xed and subjected to immunofl uorescence analysis 
+with an anti-lc3 antibody. as shown in fig. 1 a (top), wild-
+type mefs are faintly labeled by anti-lc3 antibody and show 
+a  clear  induction  of  autophagosome  formation  after  rapa-
+mycin or ceramide treatment. on the other hand, capns1−/− 
+mefs  show  a  higher  diffuse  background  that  does  not  sub-
+stantially  vary  after  stimulation  with  rapamycin  or  ceramide 
+(fig. 1 a, bottom).
+in  a  parallel  experiment,  rapamycin  and  ceramide  were 
+used to stimulate wild-type and capns1−/− mefs, and the 
+ lysates were analyzed by western blotting to detect both cyto-
+plasmic  lc3-i  and  its  proteolytic  derivative  lc3-ii  that  pref-
+erentially  associates  with  autophagosomal  membranes  (kabeya 
+et al., 2004). in agreement with the immunofl uorescence data, 
+both rapamycin and ceramide trigger an increase of lc3ii with 
+respect to lc3i in wild-type cells, whereas the ratio between 
+the two lc3 forms is not considerably altered by both stimuli in 
+capns1−/− mefs (fig. 1 b).
+the  fate  of  endogenous  lc3  upon  autophagy  induction 
+was  also  addressed  in  human  u2os  cells.  u2os  cells  were 
+transfected with a scrambled sirna (sirna control) or with a 
+capns1-specifi c sirna. 72 h later, autophagy was induced by 
+a 3-h incubation with ceramide, and the cells were either fi xed 
+and analyzed by immunofl uorescence or lysed and subjected to 
+western blot analysis. as shown in fig. 2 a, capns1 depletion 
+prevents the formation of bona-fi de autophagosomes upon in-
+duction with ceramide. accordingly, the increase in the endoge-
+nous membrane-bound lc3ii after ceramide treatment is clearly 
+defective after capns1 silencing (fig. 2 b).
+calpain-deﬁ cient cells show a defect 
+in lysosomal activation and long-lived 
+protein degradation
+to further assess the requirement of calpain for the autophagic 
+process, we followed the increase of lysosomal activity occurring 
+figure 3.  lysosomal induction and long-lived protein degrada-
+tion  are  hampered  in  capns1-deﬁ cient  mefs.  wild-type  and 
+capns1 mefs were incubated with the stimuli indicated, namely 
+rapamycin (rapa), etoposide (et), ebss (ebs), serum-free medium 
+(sf), and ceramide (cera), in the presence or absence of 3ma and 
+were trypsinized, stained with lysotracker green, and analyzed 
+by facs. (a–d) representative facs proﬁ les obtained after lyso-
+tracker staining of wild-type and capns1−/− mefs before and 
+after  rapamycin  treatment.  the  gate  set  between  101  and  102 
+separates the cells with high ﬂ uorescence from the background 
+population. (e–g) the histograms report the percentage of cells 
+with  high  lysotracker  staining  and  represent  the  mean  values 
+ obtained  in  four  independent  experiments.  (h  and  i)  wild-type 
+and capns1−/− mefs were grown for 4 h in amino acid–free 
+medium (h) or in serum-free medium (i) in the presence or absence 
+of  the  autophagy  inhibitor  3ma,  and,  subsequently,  long-lived 
+protein degradation was scored as the percentage of tca-soluble 
+counts  on  total  radioactivity  in  a  standard  protein  degradation 
+ assay. the histograms report the mean values obtained in four inde-
+pendent experiments. error bars represent sd. ssc, side scatter.
+calpain is required for macroautophagy • demarchi et al.
+597
+published november 13, 2006
+after  autophagy  induction  by  means  of  lysotracker  staining 
+and facs analysis. wild-type and capns1−/− mefs were 
+ incubated  with  rapamycin  for  24  h,  trypsinized,  stained  with 
+lysotracker  green,  and  analyzed  by  facs.  the  results  ob-
+tained  in  a  typical  experiment  are  reported  in  fig.  3  (a–d). 
+a net increase in the percentage of cells that are highly labeled 
+with  lysotracker  occurs  after  rapamycin  treatment  of  wild- 
+type mefs (fig. 3 c) as compared with control untreated cells 
+(fig. 3 a), clearly showing that rapamycin results in an increase 
+in lysosomal activity. on the contrary, in capns1−/− mefs, 
+rapamycin is ineffective in inducing an increase in lysotracker 
+fl uorescence intensity (fig. 3, compare b with d). the mean 
+values of the percentage of cells highly labeled by lysotracker 
+obtained in four independent experiments are reported in fig. 3 e. 
+to  determine  whether  the  increase  in  lysosomal  activity  was 
+dependent on macroautophagy induction, 3-methyladenine (3ma) 
+was added just before stimulation with rapamycin. 3ma clearly 
+inhibits  the  increase  in  lysotracker  staining,  indicating  the 
+specifi city of the induction (fig. 3 e). next, other autophagic 
+stimuli,  namely  etoposide,  starvation  in  earle’s  balanced  salt 
+solution  (ebss)  or  serum-free  medium,  and  ceramide,  were 
+used to induce autophagy in wild-type and capns1−/− mefs 
+using  the  same  type  of  assay. as  shown  in  fig.  3  f,  all  four 
+stimuli  induce  autophagy-dependent  lysosomal  activation 
+after  3  h  in  wild-type  mefs  but  not  in  capns1−/−  mefs; 
+moreover,  the  increase  in  lysotracker  labeling  is  dramati-
+cally reduced upon the addition of 3ma just before  induction 
+(fig. 3 g).
+to further investigate the requirement of calpain in auto-
+phagy, we monitored long-lived protein degradation upon amino 
+acid  starvation  both  in  wild-type  and  capns1−/−  mefs  ac-
+cording  to  standard  protocols  (pattingre  et  al.,  2003). amino 
+acid starvation induces an increase in bulk protein degradation 
+in  both  cell  lines.  however,  such  an  increase  is  considerably 
+lower  in  calpain-defi cient  cells  as  compared  with  wild-type 
+cells (fig. 3 h). a reduction in protein degradation occurs in the 
+presence of the inhibitor 3ma in both cell lines, indicating that 
+although  considerably  reduced,  autophagy  may  still  occur  in 
+capns1−/− mefs as a consequence of amino acid starvation. 
+alternatively, this result might be caused by an effect of 3ma 
+on alternative degradation pathways, as a similar effect is also 
+observed  in  autophagy-defective  atg5−/−  cells  (mizushima 
+et al., 2001). similar results were obtained by studying long-lived 
+protein degradation upon serum starvation (fig. 3 i), confi rming 
+the  importance  of  calpain  in  activating  protein  degradation 
+through the autophagic process.
+calpain is required for autophagosome 
+formation in response to rapamycin
+electron microscopy was used to directly analyze and quantify 
+autophagosomes in wild-type and capns1−/− mefs grown in 
+control serum-containing medium and after autophagy induc-
+tion with rapamycin or amino acid–free medium (ebss). the 
+morphology of early autophagic vacuole (av [avi]) and late av 
+(avd) profi les of wild-type mefs are shown in fig. 4 (a and b, 
+respectively). the quantitative results obtained are represented 
+in fig. 4 c.
+598
+jcb • volume 175 • number 4 • 2006
+figure 4.  autophagosome formation is hampered in capns1−/− mefs. 
+(a  and  b)  the  electron  micrographs  show  the  ultrastructure  of  early  (a) 
+and  late  autophagosomes  (b)  in  wild-type  mefs.  the  cell  area  on  the 
+grid  squares  was  estimated  by  point  counting  using  negatives  taken  at 
+600×. (c) quantiﬁ cation of autophagosomes in wild-type and capns1−/− 
+mefs  (knockout)  grown  in  control  serum-containing  medium  (fcs)  or 
+ induced for 3 h with ebss (ebs) or rapamycin (rap). error bars indi-
+cate the  sem.  the  number  of  avi  and  avd  proﬁ les  was  counted 
+under  the   microscope  at  12,000×  from  four  to  ﬁ ve  grid  squares  for 
+each sample.
+these electron microscopy experiments demonstrate that 
+in capns1−/− mefs, autophagosome formation is completely 
+abolished  in  response  to  rapamycin.  in  the  case  of  ebss-
+ induced autophagy, capns1−/− mefs do show autophagosome 
+formation  but  at  a  substantially  reduced  level  compared  with 
+wild-type mefs. in this last case, as shown in fig. s2 (available 
+at  http://www.jcb.org/cgi/content/full/jcb.200601024/dc1), 
+the  morphology  of  the  autophagosomes  is  not  altered  in 
+capns1−/− mefs with respect to wild-type mefs. this led 
+us  to  conclude  that  the  mechanics  of  autophagosome  forma-
+tion are still functional in capns1−/− mefs, however severely 
+impaired  in  their  effi ciency.  the  diminished  accumulation  of 
+autophagosomes  in  capns1−/−  mefs  maintained  in  ebss 
+medium  may  therefore  suggest  that  the  dramatic  reprogram-
+ming of cell functions occurring upon amino acid deprivation 
+may also involve the activation of some autophagic pathways 
+not  strictly  requiring  calpain  function.  alternatively,  because 
+ebss  possibly  represents  a  stronger  and  broader  stimulus  in 
+respect to rapamycin, residual calpain activity caused by some 
+other calpain isoforms may be suffi cient to trigger autophagy, 
+albeit at a reduced level.
+this evidence prompted us to monitor tor activity in both 
+cell lines before and after rapamycin treatment using s6 kinase 
+phosphorylation as readout. the results shown in fig. s3 (avail-
+able at http://www.jcb.org/cgi/content/full/jcb.200601024/dc1) 
+clearly  indicate  that  tor  is  active  in  both  cell  lines,  where  it 
+is  inhibited  with  similar  effi ciency  upon  rapamycin  addition. 
+published november 13, 2006
+further  studies  are  required  to  defi ne  the  key  regulatory  ele-
+ments targeted by  calpain for the effi cient induction of auto-
+phagosome formation.
+ectopic lc3 constitutively forms discrete 
+bodies in calpain-deﬁ cient mefs
+a widely used method to study autophagy is monitoring the re-
+distribution of the overexpressed autophagosome marker lc3 
+from  a  mostly  diffused  localization  to  a  punctuated  pattern 
+upon the addition of an autophagic stimulus. therefore, in par-
+allel to the studies on endogenous lc3, we monitored autopha-
+gosome formation after overexpressed gfp-lc3 localization 
+in  wild-type  and  capns1−/−  mefs.  16  h  after  transfection, 
+the cells were preincubated with the macroautophagy  inhibitor 
+3ma  or  solvent  alone,  and  ceramide  was  added  for  3  h  to 
+ induce autophagy (scarlatti et al., 2004). the cells were sub-
+sequently fi xed to analyze overexpressed lc3 by fl uorescence 
+microscopy. as  shown  in  fig.  5 a,  in  wild-type  mefs,  lc3 
+produces  a  mostly  diffuse  staining  in  the  absence  of  stimulus 
+and after 3ma treatment. after induction with ceramide, lc3 
+accumulates  in  the  autophagosomes,  whose  formation  is  pre-
+vented  by  3ma  pretreatment,  indicating  the  specifi city  of 
+autophagy  induction.  however,  in  capns1−/−  mefs,  lc3 
+accumulates  in  specifi c  bodies  even  under  basal  conditions; 
+ incubation with the autophagy inhibitor 3ma in this case does 
+not prevent the formation of lc3 spots. in addition, the num-
+ber of cells with intensely stained bodies does not substantially 
+increase after the addition of ceramide (fig. 5 b). each exper-
+iment was repeated at least four times, obtaining  reproducible 
+results. for each experiment, the percentage of cells with lc3 
+bodies was counted, and the mean value ± sd is reported in 
+the fi gure. at least 200 cells were analyzed for each indepen-
+dent experiment.
+to  further  monitor  autophagy  induction,  wild-type  and 
+capns1−/− mefs overexpressing gfp-lc3 were challenged 
+with several stimuli that were previously used to induce auto-
+phagy, namely rapamycin (noda and ohsumi, 1998), amino 
+acid–free medium (neely et al., 1977), serum starvation (pfeifer, 
+1973),  and  etoposide  (shimizu  et  al.,  2004). all  of  the  treat-
+ments triggered autophagosome formation in wild-type mefs 
+(fig. 5 c) while leaving unchanged the lc3 staining pattern in 
+capns1−/− mefs (not depicted). altogether, these results fur-
+ther suggest that autophagy is impaired in cells lacking calpain 
+activity,  where  overexpressed  lc3  constitutively  accumulates 
+into specifi c bodies.
+calpain silencing is coupled 
+to the accumulation of overexpressed 
+lc3 in human cells
+to verify whether the constitutive accumulation of ectopic lc3 
+into the observed specifi c bodies in capns1−/− mefs was 
+a peculiarity of the cell line used or a consequence of calpain in-
+activation, we monitored the effect of calpain silencing by sirna 
+on autophagosome formation in the human osteosarcoma cell 
+line u2os. an atg5-specifi c sirna that has been previously 
+described (boya et al., 2005) was used as a tool to prevent auto-
+phagy, allowing the distinction between true autophagosomes 
+figure 5.  ectopic lc3 constitutively accumulates in vesicles in capns1−/− 
+mefs. (a–c) wild-type (a and c) and capns1−/− mefs (b) were trans-
+fected with gfp-rlc3, and, 16 h later, the cells were treated for 3 h with 
+the stimuli indicated. afterward, the cells were ﬁ xed and analyzed by ﬂ uo-
+rescence microscopy. representative ﬁ elds are shown. the different pat-
+terns of gfp-lc3 distribution were scored in 250 transfected cells for at 
+least three independent experiments. the mean of the percentage of cells 
+with intensely stained bodies and relative sd are indicated beneath each 
+image. bar, 20 μm.
+and other undefi ned structures containing ectopic lc3. u2os 
+cells were transfected with a scrambled sirna (sirna control) 
+or with a capns1-specifi c sirna in combination with atg5 
+sirna or an ineffective sirna as a control.
+48 h later, the cells were transfected with gfp-lc3, and, 
+after an additional 16 h, autophagy was induced by a 3-h incu-
+bation with ceramide. the fi xed cells were fi nally analyzed by 
+fl uorescence microscopy. as shown in fig. 6 a, lc3 appears 
+diffuse  in  control  u2os  cells  and,  after  induction  with  cera-
+mide, becomes associated with autophagosomes, which are not 
+formed  by  specifi cally  inhibiting  autophagy  through  atg5 
+sirna. on the other hand, capns1-silenced u2os cells show 
+lc3-positive  bodies  in  the  absence  of  stimulation,  and  the 
+ distribution of gfp-lc3 is not altered by atg5 silencing. in 
+ addition, the lc3 staining pattern is not considerably affected 
+by ceramide (fig. 6 b).
+to mark and analyze the lc3 pattern specifi cally in the 
+cells where capns1 is silenced, we developed an sicapns1-
+gfp p-superior plasmid (sicapns1-gfp) allowing the simul-
+taneous expression of capns1 sirna and gfp. in parallel, we 
+produced  a  u2os-derivative  cell  line  expressing  hcred-lc3 
+(u2os-lc3)  as  a  tool  to  study  autophagy  induction.  u2os-
+lc3 cells were transfected with a control vector (sicontrol-gfp) 
+or with sicapns1-gfp plasmid; after 48 h, they were stimu-
+lated or left unstimulated with ceramide for 3 h and were fi xed 
+and analyzed by fl uorescence microscopy.
+as  shown  in  fig.  6  c,  in  the  cells  transfected  with  the 
+control  plasmid,  hcred-lc3  appears  diffuse  before  induc-
+tion and  forms  autophagosomes  after  ceramide  treatment  as 
+ expected. however, sicapns1-gfp–transfected cells show a 
+punctuated lc3 pattern both in the presence and absence of ce-
+ramide stimulation. collectively, the data obtained in u2os cells 
+are in agreement with the data obtained comparing wild-type 
+calpain is required for macroautophagy • demarchi et al.
+599
+published november 13, 2006
+figure 6.  ectopic lc3 forms speciﬁ c bodies in capns1-depleted human 
+cells. (a and b) u2os cells were silenced with a control sirna (a) or with 
+a capns1 sirna (b) in combination with a control sirna or atg5 sirna 
+as indicated. after 48 h, the cells were transfected with gfp-hlc3 and, 16 h 
+later, were incubated for 3 h with ceramide or solvent alone as a negative 
+control.  they  were  subsequently  ﬁ xed  and  analyzed  by  ﬂ uorescence 
+ microscopy. representative ﬁ elds are shown. (c and d) a u2os-derivative 
+cell  line  stably  expressing  hcred-hlc3  (u2os-lc3)  was  established. 
+u2os-lc3 cells were transfected with si-control-gfp (c) or sicapns1-gfp (d) 
+expression vectors and, 48 h later, were either treated with ceramide 
+or with solvent alone for 3 h as indicated. finally, the cells were ﬁ xed and 
+analyzed by ﬂ uorescence microscopy. the different patterns of gfp-lc3 
+distribution were scored in 250 transfected cells for at least three indepen-
+dent experiments. bar, 20 μm.
+with  capns1−/−  mefs,  demonstrating  that  in  capns1-
+ depleted  cells,  overexpressed  lc3  accumulates  in  specifi c 
+bodies independently of autophagy induction.
+ectopic lc3 bodies constitutively present 
+in capns1-depleted cells are enriched 
+in endosome markers
+to  investigate  the  identity  of  lc3-containing  structures  in 
+capns1-depleted  cells,  we  analyzed  whether  overexpressed 
+lc3 would eventually colocalize with specifi c endosomal mark-
+ers both in control and in capns1-silenced u2os-lc3 cells. 
+48 h after silencing with control or capns1 sirna, autophagy 
+was induced by ceramide together with pepstatin to inhibit lyso-
+somal activity and freeze any eventual transient colocalization 
+event. thereafter, the cells were fi xed and subjected to immuno-
+fl uorescence against the markers lamp-2, eea1, and trans-
+ferrin receptor and were analyzed by a confocal microscope. 
+representative images are shown in fig. 7. the colocalization 
+of lc3 with the endosomal markers was quantifi ed using imagej 
+software (colocalizer plug-in). the pearson correlation coeffi -
+cient (r) is reported near each merged image. altogether, the 
+data  indicate  that  overexpressed  lc3  bodies  are  enriched  in 
+ endosome markers specifi cally in calpain-depleted cells.
+600
+jcb • volume 175 • number 4 • 2006
+figure  7.  ectopic  lc3  bodies  are  enriched  with  endosome  markers  in 
+capns1-depleted cells. (a–c) u2os-lc3 cells were silenced with a control 
+sirna or a capns1 sirna as indicated and, 48 h later, were stimulated 
+for 3 h with ceramide to induce macroautophagy. pepstatin a was added 
+to inhibit lysosomal activity and freeze any colocalization event between 
+lc3 vesicles and lysosomes. subsequently, the cells were ﬁ xed, decorated 
+with anti–lamp-2 (a), anti-eea1 (b), and antitransferrin receptor (tr; c), 
+and  analyzed  by  confocal  microscopy.  images  of  representative  ﬁ elds 
+were taken. the pearson’s correlation coefﬁ cient, r, is reported for each 
+merge image. bars, 20 μm.
+to precisely defi ne the identity of the lc3-positive bod-
+ies that accumulate in calpain-defi cient cells, immunoelectron 
+ microcopy  studies  were  performed.  u2os  cells  were  trans-
+fected  with  gfp-lc3  and  sirna  specifi c  for  capns1  as 
+ described in the fi rst section of results and were fi xed in pfa. 
+double  labeling  with  gfp  and  lamp-2  antibodies  allowed 
+us to detect gfp-lc3 bodies and also mark endosomes in the 
+same experiment. as expected, gfp-lc3 partly accumulates in 
+specifi c  bodies,  as  shown  in  fig.  8  (a  and  b). the  gold  par-
+ticles indicating the presence of gfp-lc3 bodies (fig. 8, large 
+gold  dots)  were  associated  with  endosome-like  structures, 
+some of which were also positive for lamp-2 (fig. 8; small 
+gold dots are indicated by arrowheads). the morphology and 
+lamp-2 labeling pattern of gfp-lc3 structures corresponded 
+to that of early endosome-like vesicles, clearly confi rming that 
+gfp-lc3 bodies accumulating in capns1-depleted cells are 
+not autophagosomes.
+published november 13, 2006
+the calpain-dependent impairment 
+of autophagy sensitizes cells to apoptosis
+we  have  previously  reported  that  ceramide  triggers  apoptosis 
+and induces an nf-κb–dependent prosurvival pathway through 
+calpain. accordingly, in calpain-defi cient cells, apoptosis is 
+ enhanced (demarchi et al., 2005). in this study, we have demon-
+strated that calpain is required to induce autophagy in response 
+to ceramide, etoposide, and amino acid or serum starvation. 
+ recent studies indicate the existence of a negative cross-regulation 
+between autophagy and apoptosis (yu et al., 2004; boya et al., 
+2005; takacs-vellai et al., 2005). however, there are examples 
+of a mutual requirement between the two pathways (camougrand 
+et  al.,  2003;  martin  and  baehrecke,  2004).  therefore,  we 
+ decided  to  defi ne  the  effect  of  the  calpain-related  autophagy 
+block  on  apoptosis  induction  in  the  cellular  systems  used  for 
+this study.
+wild-type  and  capns1−/−  mefs  were  incubated  with 
+the  autophagy  inducers  etoposide,  ceramide,  serum-free  me-
+dium, ebss, or vinblastine for 20 h. afterward, the cells were 
+double labeled with annexin v and propidium iodide (pi) and 
+were analyzed by facs. the results obtained in a typical ex-
+periment of ebss induction are reported in fig. 9 (a–d). the 
+histogram presented in fig. 9 e summarizes the results of four 
+independent experiments for each specifi c stimulus. a dramatic 
+increase in apoptosis can be seen in calpain-defi cient cells after 
+induction with all of the stimuli, with the exception of vinblastine. 
+vinblastine is a microtubule-depolymerizing agent, and, although 
+it can trigger an autophagic response, it has inhibitory functions 
+on late autophagic events (punnonen and reunanen, 1990). 
+ interestingly, we have previously reported that the toxicity of 
+taxol, an indirect inhibitor of autophagy by virtue of its block of 
+microtubule depolymerization, is almost comparable in wild-type 
+and capns1−/− mefs (demarchi et al., 2005). collectively, 
+the aforementioned data highlight the cytoprotective potential 
+of autophagy in mefs and strongly argue for a strict correlation 
+between the impairment of autophagy in  calpain-defi cient cells 
+and induction of the apoptotic switch.
+to further confi rm this hypothesis, a similar approach was 
+followed using human u2os cells silenced either with atg5, 
+capns1-specifi c sirna, or a combination of the two. 48 h af-
+ter silencing, the cells were shifted to amino acid–free medium 
+and incubated for a further 20 h to trigger autophagy. cell death 
+was then quantifi ed by means of pi and annexin staining fol-
+lowed by facs analysis. fig. 10 (a–f) presents the results of 
+figure  8.  gfp-lc3  bodies  in  capns1-depleted  cells  are 
+ endosome-like structures. representative immunoelectron micro-
+scopy micro photographs showing the ultrastructure of gfp-lc3 
+bodies in capns1-depleted u2os cells. large gold dots mark 
+gfp-positive structures, whereas small gold dots (indicated by 
+arrowheads) are labeled with anti–lamp-2.
+a representative experiment and indicates that both atg5 and 
+capns1 silencing sensitize u2os cells to apoptosis induced 
+by amino acid starvation. the mean values obtained in four in-
+dependent experiments are reported in fig. 10 g. the effect of 
+capns1 silencing is the most severe, suggesting that capns1 
+depletion  in  addition  to  the  block  of  autophagy  also  prevents 
+other  antiapoptotic  mechanisms  such  as  nf-κb  activation 
+(demarchi et al., 2005).
+discussion
+in this study, we demonstrate that calpain regulates macroauto-
+phagy in two cellular systems lacking calpain activity: mefs 
+derived  from  capns1  knockout  mice  and  capns1-silenced 
+figure 9.  capns1−/− mefs are more sensitive to apoptosis. (a–d) wild-
+type and capns1−/− mefs were treated with etoposide (et), ceramide 
+(cera), ebss, serum-free medium (sf), and vinblastine (vin) or left in control 
+medium (cont) for 20 h and stained with pi and annexin v–fitc. a set of 
+representative experiments with ebss is shown. the cells in the bottom right 
+quadrant were scored as apoptotic. (e) the mean values obtained in four 
+independent experiments with all of the stimuli. error bars represent sd.
+calpain is required for macroautophagy • demarchi et al.
+601
+published november 13, 2006
+figure 10.  depletion of capns1 results in increased apoptosis in human 
+cells.  u2os  cells  were  transfected  with  a  sirna  speciﬁ c  for  capns1, 
+atg5, or a combination of the two. an ineffective sirna was used as a 
+negative control. 48 h later, the cells were shifted to amino acid–free me-
+dium for an additional 20 h, stained with pi and annexin-fitc, and ana-
+lyzed by facs. (a–f) results of a set of representative experiments. (g) the 
+mean of the values obtained in four independent experiments. bars indi-
+cate the percentage of annexin-positive cells with high (h) pi staining (top 
+right quadrant in a–f) and low (l) pi staining (bottom right quadrant in a–f). 
+error bars represent sem.
+human cells. in addition, we shed some light on the relationship 
+between apoptosis and autophagy.
+calpains are activated by several stimuli that trigger macro-
+autophagy, including starvation (gomez-vicente et al., 2005), 
+ceramide (tanabe et al., 1998; demarchi et al., 2005), etoposide 
+(varghese et al., 2001), and arsenic trioxide ( karlsson et al., 
+2004). milli- and microcalpain, which both require capns1 for 
+activity, are localized at the endoplasmic reticulum and golgi, 
+where  the  autophagic  machinery  works  (kihara  et  al.,  2001; 
+pattingre et al., 2005).
+in both calpain-null systems used in this study, defi cient 
+autophagy was shown by four different approaches: analysis of 
+exogenous  and  endogenous  lc3  by  immunofl uorescence  and 
+western blotting, quantifi cation of lysosomal induction, long-
+lived  protein  degradation  assays,  and  electron  microscopy. 
+ altogether, the data presented indicate that in capns1-defi cient 
+cells, the autophagic program is not effi ciently activated. as a 
+result of this defect, capns1-defi cient cells are more sensitive 
+to  apoptosis  induced  by  several  autophagic  stimuli,  including 
+ceramide, etoposide, and starvation.
+in light of our fi ndings connecting calpain and auto phagy, 
+it  will  be  interesting  to  investigate  this  relationship  in  vivo 
+under physiological and pathological conditions as well as in 
+response to chemotherapy. previously reported data lend sup-
+port to such a possibility. the dual role of autophagy has been 
+602
+jcb • volume 175 • number 4 • 2006
+seen during cancer progression, where, at the initial stages, auto-
+phagy prevents tumor growth (liang et al., 1999), whereas at 
+advanced stages, it might favor tumor cell survival (paglin et al., 
+2001). an example of this is calpain 9, which appears to be a 
+ tumor suppressor of gastric cancer, whereas calpain activation 
+has been shown to be involved in cell transformation and invasion 
+(carragher and frame, 2002; xu and deng, 2004).
+most  interestingly,  this  parallel  is  maintained  in  other 
+ degenerative  pathologies.  autophagy  is  protective  during  the 
+initial stages of neurodegeneration (webb et al., 2003; ravikumar 
+et al., 2004), whereas it becomes deleterious at later stages (yue 
+et al., 2002). a similar dual role could be played by calpain in 
+neuronal diseases, where it may be protective at the initial stages 
+of neurodegeneration (kim et al., 2003) and  hyperactivated and 
+detrimental at advanced stages (park and ferreira, 2005). a de-
+tailed  investigation  of  the  molecular  cross  talk  between  these 
+two systems in living organisms might be instrumental for per-
+forming appropriate strategies of mole cular intervention.
+the precise molecular network linking autophagy, apop-
+tosis, and other types of cell death is still unresolved (assuncao 
+guimaraes  and  linden,  2004;  kroemer  and  jaattela,  2005). 
+ autophagy is protective against low radiation damage (paglin 
+et al., 2001) and against mutant huntingtin-induced cell death 
+(bjorkoy  et  al.,  2005);  it  is  essential  for  maintaining  cell 
+ survival  after  growth  factor  withdrawal  in  bax−/−bak−/−  cells 
+(lum et al., 2005). furthermore, the inhibition of macroauto-
+phagy  triggers  apoptosis  (boya  et  al.,  2005;  gonzalez-polo 
+et al., 2005). on the other hand, autophagy is coupled to cell 
+death  in  bax−/−bak−/−  mefs  (shimizu  et  al.,  2004)  and  in 
+tamoxifen-treated mcf7 cells (bursch et al., 2000). in addition, 
+autophagy and apoptosis are positively interconnected in sev-
+eral  systems,  including  drosophila  development  (baehrecke, 
+2003), rat retinal tissue development (guimaraes et al., 2003), 
+and  peripheral  nerves  of  adult  rats  after  damage  (xue  et  al., 
+1999). collectively, our data further support the argument that 
+macroautophagy is a survival strategy activated both in response 
+to  serum  and  amino  acid  deprivation.  in  addition,  we  have 
+shown that macroautophagy is activated and also plays a protec-
+tive role upon treatment with specifi c drugs, such as etoposide 
+and  ceramide;  thus,  the  knockdown  of  autophagy  could  be  a 
+strategy for improving chemotherapy protocols.
+ectopic  lc3  is  a  powerful  tool  to  study  autophagy 
+ (kabeya et al., 2000). in this study, we confi rmed that in mefs 
+and  u2os  human  osteosarcoma  cells,  the  formation  of  lc3 
+ autophagosomes  is  effi ciently  inhibited  by  treatment  with  the 
+ autophagy inhibitor 3ma and by sirna-mediated depletion of 
+the essential autophagy gene atg5, respectively. however, in 
+capns1−/− mefs and sicapns1-depleted cells, we observed 
+that ectopic lc3 constitutively accumulates in the absence of 
+any  specifi c  autophagic  stimulus  into  cytoplasmic  endosome-
+like  bodies  enriched  with  endosomal  markers.  therefore,  we 
+hypothesize  that  such  lc3  bodies  could  represent  a  default 
+or salvage  lysosomal  pathway  for  protein  degradation  with 
+slower clearance kinetics, which becomes manifest in a calpain-
+ defi cient cellular context. a similar pathway may be predicted 
+for the endogenous proteins that accumulate in diseases coupled 
+to autophagy defects.
+published november 13, 2006
+further studies are required to analyze the detailed mech-
+anisms involving calpains in the formation of autophagosomes 
+and  in  lysosomal-mediated  protein  degradation  pathways. 
+given  the  strategic  localization  of  milli-  and  microcalpain  at 
+the endoplasmic reticulum, it would be tempting to speculate 
+that calpain may play a role in the delivery of membranes to 
+the autophagosome. alternatively, calpain could modulate one 
+or more key components of the signaling networks, ultimately 
+leading  to  autophagosome  formation.  the  complete  block 
+of  autophagosome  formation  occurring  in  rapamycin-treated 
+capns1−/− mefs favors such a possibility.
+materials and methods
+chemicals and reagents
+c2 ceramide, baﬁ lomycin, pepstatin a, 3ma, rapamycin, and etoposide 
+were purchased from sigma-aldrich. lipofectamine reagent and oligo-
+fectamine  were  purchased  from  invitrogen.  smartpool  for  capns1  si-
+lencing was obtained from dharmacon. micro- and millicalpain sirnas 
+were purchased from santa cruz biotechnology, inc.
+plasmids and constructs
+hcred-hlc3 and pgfp-hlc3 were constructed by inserting human lc3 in 
+hcred and pgfp plasmid, respectively. the plasmid pgfp-rlc3 was a gift 
+from  t.  yoshimori  (national  institute  of  genetics,  shizuoka,  japan).  the 
+plasmid  sicapns1-gfp  was  obtained  by  subcloning  a  double-stranded 
+ oligonucleotide containing a sequence complementary to capns1 sirna 
+into commercial p-superior–gfp plasmid according to the manufacturer’s 
+instructions. all constructs were checked by sequence analysis.
+cell culture
+wild-type and capns1−/− mefs (dourdin et al., 2001) were gifts from 
+p.a. greer (queen’s university, kingston, ontario, canada). u2os cells 
+and  the  aforementioned  mouse  ﬁ broblasts  were  grown  in  dme  supple-
+mented with 10% fcs.
+immunological procedures and quantiﬁ cations
+standard  protocols  for  immunoblotting  and  immunoﬂ uorescence  were 
+used.  rabbit  serum  raised  against  lc3  was  provided  by  t.  yoshimori. 
+monoclonal antibody against lamp-2 was purchased from bd  biosciences. 
+lamp-1–speciﬁ c antibody was purchased from santa cruz  biotechnology, 
+inc., and monoclonal anti-capns1 was purchased from sigma-aldrich. 
+monoclonal  antitransferrin  receptor  (okt9)  was  previously  described 
+(sutherland  et  al.,  1981).  band  quantiﬁ cation  from  western  blots  was 
+performed  using  the  image  1.63.sea  program  (scion).  secondary  anti-
+bodies for immunoﬂ uorescence were fitc conjugated, and the cells were 
+mounted using mowiol medium. analysis and acquisition were performed 
+using a confocal laser-scanning microscope (axiovert 100 m; carl zeiss 
+microimaging, inc.) with a 63× na 1.25 or 100× na 1.30 oil objec-
+tive (leica) at room temperature. images were imported using lsm-510 
+software  (carl  zeiss  microimaging,  inc.).  imagej  software  (national 
+ institutes  of  health)  was  used  to  quantify  the  colocalization  observed 
+by immunoﬂ uorescence.
+transfection
+stable transfections of u2os cells with hcred-lc3 were performed by the 
+calcium phosphate method using standard procedures. u2os, capns1−/−, 
+and  control  mouse  ﬁ broblasts  at  60–80%  conﬂ uency  were  transiently 
+transfected or oligofected using fugene (roche) or oligofectamine (life 
+technologies) according to the manufacturer’s instructions.
+statistical analysis
+results are expressed as means ± sd of at least three independent experi-
+ments performed in triplicate or quadruplicate unless indicated otherwise. 
+statistical analysis was performed using a t test, with the level of signiﬁ -
+cance set at p < 0.05.
+trypsinized, resuspended in phenol-free dme, 10% fcs, and 75 nm lyso-
+tracker green, incubated for 30 min at 37°c, and analyzed with the cell-
+quest program (bd biosciences) by facscalibur (becton dickinson).
+protein degradation assay
+cells were labeled in complete medium in the presence of [14c]valine for 
+18 h, washed, and incubated with cold medium for 1 h to allow the degra-
+dation of short-lived proteins. then, after extensive washing, the medium 
+was replaced with ebss for 4 h in the presence or absence of 10 mm 
+3ma. finally, the proteins were precipitated with tca, and radioactivity 
+was measured. protein degradation was calculated as the percentage of 
+tca-soluble counts on total radioactivity.
+electron microscopy
+monolayers were ﬁ xed in 2% glutaraldehyde in 0.2 m hepes, ph 7.4, for 
+2 h and were scraped off the dish during ﬁ xation. the pellets were embed-
+ded in epon using routine procedures. approximately 60-nm sections were 
+cut and stained using uranyl acetate and lead citrate and were examined 
+with an electron microscope (jem 1200exii; jeol). the number of avi and 
+avd proﬁ les was counted under the microscope by systematically screen-
+ing the sections at 12,000× using grid squares as sampling units, as previ-
+ously described (eskelinen et al., 2004).
+all avs occurring in the grid were recorded. the area of cells on 
+each  grid  square  was  estimated  by  point  counting  using  photographic 
+negatives taken at 600×. four to ﬁ ve grid squares were screened for each 
+sample. the number of vacuoles per cell area was then counted for each 
+grid square separately.
+for immunogold electron microscopy, u2os cells were ﬁ xed in 4% 
+pfa in 0.2 m hepes, ph 7.4, for 2 h at room temperature and were further 
+processed as previously described (eskelinen et al., 2002). the cell sec-
+tions  were  analyzed  by  immunogold  electron  microscopy  with  rabbit 
+anti-gfp and mouse anti–lamp-2 antibodies followed by the secondary 
+antibodies goat anti–rabbit conjugated to 10 nm gold and goat anti–mouse 
+coupled to 5 nm gold.
+annexin v and pi staining and facs analysis
+translocation of phosphatidylserine to the cell surface was monitored by 
+using  an  annexin  v–fitc  apoptosis  detection  kit  (sigma-aldrich).  cells 
+were  trypsinized,  washed  in  pbs,  and  resuspended  in  binding  buffer 
+(10 mm hepes/naoh, ph 7.4, 140 mm nacl, and 2.5 mm cacl2). cell 
+density was adjusted to 2–5 × 105 cells/ml. 1 μl of recombinant human 
+annexin v–fitc/a and 2 μl pi were added to 100 μl of cell suspension; 
+the mixture was brieﬂ y mixed and incubated for 10 min at room tempera-
+ture in the dark. afterward, 400 μl of binding buffer was added to the cells 
+that were then analyzed by facscan (becton dickinson). 15,000 events 
+were collected in list mode fashion, stored, and analyzed by cellquest 
+software (bd biosciences).
+online supplemental material
+fig. s1 shows that the depletion of microcalpain impairs  macroauto phagy. 
+fig.  s2  shows  that  the  ﬁ ne  ultrastructure  of  autophagosomes  is  not  al-
+tered  in  capns1−/−  mefs.  fig.  s3  shows  that  rapamycin  inhibits  tor 
+activity in wild-type and capns1−/− mefs. fig. s4 shows that lc3ii is 
+associated  with  membranes  in  capns1−/−  mefs.  fig.  s5  shows  that 
+the induction of lysotracker-labeled bodies is reduced in capns1−/− mefs. 
+online  supplemental  material  is  available  at  http://www.jcb.org/cgi/
+content/full/jcb.200601024/dc1.
+we are grateful to stefania marzinotto for technical support, peter greer for 
+providing capns1−/− (calpain 4−/−) mefs, and tamotzu yoshimori for the 
+gifts  of  anti-lc3  antibody  and  gfp-rlc3  plasmid.  we  thank  francesca  
+scarlatti (s. paolo medical school, milan, italy) and patrice codogno (institut 
+national de la santé et de la recherche médicale, villejuif, france) for providing 
+protocols  and  useful  suggestions  and  georgine  faulkner  (the  international 
+centre for genetic engineering and biotechnology [icgeb], trieste, italy) for 
+critically revising the manuscript. we are grateful to mauro giacca (icgeb) 
+for access to facs and the confocal microscope.
+this work was supported by grants airc 1214, miur firb2001, and 
+miur prin2004 to c. schneider. c. bertoli is a recipient of a fellowship from 
+firc. t. copetti is a student at the international school for advanced studies 
+(trieste, italy).
+lysotracker labeling and quantiﬁ cation
+to label lysosomes, lysotracker green (invitrogen) was used at a ﬁ nal con-
+centration of 75 nm. the cells induced for 3 or 24 h with the stimuli were 
+submitted: 5 january 2006
+accepted: 13 october 2006
+calpain is required for macroautophagy • demarchi et al.
+603
+published november 13, 2006
+references
+arthur,  j.s.,  j.s.  elce,  c.  hegadorn,  k.  williams,  and  p.a.  greer.  2000. 
+disruption of the murine calpain small subunit gene, capn4: calpain is 
+essential for embryonic development but not for cell growth and division. 
+mol. cell. biol. 20:4474–4481.
+assuncao  guimaraes,  c.,  and  r.  linden.  2004.  programmed  cell  deaths. 
+apoptosis and alternative deathstyles. eur. j. biochem. 271:1638–1650.
+baehrecke,  e.h.  2003.  autophagic  programmed  cell  death  in  drosophila. 
+cell death differ. 10:940–945.
+benetti, r., g. del sal, m. monte, g. paroni, c. brancolini, and c. schneider. 
+2001. the death substrate gas2 binds m-calpain and increases suscepti-
+bility to p53-dependent apoptosis. embo j. 20:2702–2714.
+bhatt, a., i. kaverina, c. otey, and a. huttenlocher. 2002. regulation of focal 
+complex composition and disassembly by the calcium-dependent protease 
+calpain. j. cell sci. 115:3415–3425.
+bjorkoy,  g.,  t.  lamark, a.  brech,  h.  outzen,  m.  perander, a.  overvatn,  h. 
+stenmark, and t. johansen. 2005. p62/sqstm1 forms protein aggregates 
+degraded by autophagy and has a protective effect on huntingtin-induced 
+cell death. j. cell biol. 171:603–614.
+boya,  p.,  r.a.  gonzalez-polo,  n.  casares,  j.l.  perfettini,  p.  dessen,  n. 
+larochette,  d.  metivier,  d.  meley,  s.  souquere,  t.  yoshimori,  et  al. 
+2005. inhibition of macroautophagy triggers apoptosis. mol. cell. biol. 
+25:1025–1040.
+bursch, w., k. hochegger, l. torok, b. marian, a. ellinger, and r.s. hermann. 
+2000. autophagic and apoptotic types of programmed cell death exhibit 
+different fates of cytoskeletal fi laments. j. cell sci. 113:1189–1198.
+camougrand,  n.,  a.  grelaud-coq,  e.  marza,  m.  priault,  j.j.  bessoule,  and 
+s.  manon.  2003.  the  product  of  the  uth1  gene,  required  for  bax-
+ induced  cell  death  in  yeast,  is  involved  in  the  response  to  rapamycin. 
+mol. microbiol. 47:495–506.
+carragher, n.o., and m.c. frame. 2002. calpain: a role in cell transformation 
+and migration. int. j. biochem. cell biol. 34:1539–1543.
+demarchi,  f.,  c.  bertoli,  p.a.  greer,  and  c.  schneider.  2005.  ceramide 
+triggers  an  nf-κb-dependent  survival  pathway  through  calpain. 
+cell death differ. 12:512–522.
+dewitt, s., and m.b. hallett. 2002. cytosolic free ca(2+) changes and calpain 
+activation are required for β integrin-accelerated phagocytosis by human 
+neutrophils. j. cell biol. 159:181–189.
+dourdin,  n., a.k.  bhatt,  p.  dutt,  p.a.  greer,  c.h.  graham,  j.s. arthur,  j.s. 
+elce, and a. huttenlocher. 2001. reduced cell migration and disruption 
+of  the  actin  cytoskeleton  in  calpain-defi cient  embryonic  fi broblasts. 
+j. biol. chem. 276:48382–48384.
+eskelinen,  e.l.,  a.l.  illert,  y.  tanaka,  g.  schwarzmann,  j.  blanz,  k.  von 
+figura, and p. saftig. 2002. role of lamp-2 in lysosome biogenesis and 
+ auto phagy. mol. biol. cell. 13:3355–3368.
+eskelinen,  e.l.,  c.k.  schmidt,  s.  neu,  m.  willenborg,  g.  fuertes, 
+n.  salvador, y. tanaka,  r.  lullmann-raucht,  d.  hartman,  j.  heeren, 
+et  al.  2004.  disturbed  cholesterol  traffi c  but  normal  proteolytic  func-
+tion in lamp-1/lamp-2 double-defi cient fi broblasts. mol. biol. cell. 
+15:3132–3135.
+ghidoni,  r.,  j.j.  houri, a.  giuliani,  e.  ogier-denis,  e.  parolari,  s.  botti,  c. 
+bauvy, and p. codogno. 1996. the metabolism of sphingo(glyco)lipids 
+is  correlated  with  the  differentiation-dependent  autophagic  pathway  in 
+ht-29 cells. eur. j. biochem. 237:454–459.
+goll,  d.e.,  v.f.  thompson,  h.  li,  w.  wei,  and  j.  cong.  2003.  the  calpain 
+ system. physiol. rev. 83:731–780.
+gomez-vicente, v.,  m.  donovan,  and t.g.  cotter.  2005.  multiple  death  path-
+ways in retina-derived 661w cells following growth factor deprivation: 
+crosstalk between caspases and calpains. cell death differ. 12:796–804.
+gonzales-polo, r.a., p. boya, a.l. pauleau, a. jalil, n. larochette, s. souquere, 
+e.l. eskelinen, g. pierron, p. saftig, and g. kroemer. 2005. the apoptosis/
+autophagy  paradox:  autophagic  vacuolization  before  apoptotic  death. 
+j. cell sci. 118:3091–3102.
+guimaraes,  c.a.,  m.  benchimol,  g.p.  amarante-mendes,  and  r.  linden. 
+alternative programs of cell death in developing retinal tissue. 2003. 
+j. biol. chem. 278:41938–41946.
+hayashi, m., y. koshihara, h. ishibashi, s. yamamoto, s. tsubuki, t.c. saido, s. 
+kawashima, and m. inomata. 2005. involvement of calpain in  osteoclastic 
+bone resorption. j. biochem. (tokyo). 137:331–338.
+hood, j.l., w.h. brook, and t.l. roszman. 2004. differential compartmental-
+ization of the calpain/calpastatin network with the endoplasmic reticulum 
+and golgi apparatus. j. biol. chem. 279:43126–43135.
+ichimura, y., t.  kirisako, t. takao, y.  satomi, y.  shimonishi,  n.  ishihara,  n. 
+mizushima, i. tanida, e. kominami, m. ohsumi, et al. 2000. a ubiquitin-
+like system mediates protein lipidation. nature. 408:488–492.
+kabeya, y.,  n.  mizushima,  t.  ueno, a. yamamoto,  t.  kirisako,  t.  noda,  e. 
+kominami,  y.  ohsumi,  and  t.  yoshimori.  2000.  lc3,  a  mammalian 
+homologue of yeast apg8p, is localized in autophagosome membranes 
+after processing. embo j. 19:5720–5728.
+kabeya, y.,  n.  mizushima,  a. yamamoto,  s.  oshitani-okamoto, y.  ohsumi, 
+and t. yoshimori. 2004. lc3, gabarap and gate16 localize to auto-
+phagosomal  membrane  depending  on  form-ii  formation.  j.  cell  sci. 
+117:2805–2812.
+kanzawa,  t., y.  kondo,  h.  ito,  s.  kondo,  and  i.  germano.  2003.  induction 
+of  auto phagic  cell  death  in  malignant  glioma  cells  by  arsenic  trioxide. 
+cancer res. 63:2103–2108.
+karlsson, j., i. porn-ares, and s. pahlman. 2004. arsenic trioxide-induced death 
+of neuroblastoma cells involves activation of bax and does not require 
+p53. clin. cancer res. 10:3179–3188.
+kihara,  a., y.  kabeya, y.  ohsumi,  and  t. yoshimori.  2001.  beclin-phospha-
+tidylinositol  3-kinase  complex  functions  at  the  trans-golgi  network. 
+embo rep. 2:330–335.
+kim, s.j., j.y. sung, j.w. um, n. hattori, y. mizuno, k. tanaka, s.r. paik, j. kim, 
+and k.c. chung. 2003. parkin cleaves intracellular alpha-synuclein inclu-
+sions via the activation of calpain. j. biol. chem. 278:41890–41899.
+klionsky, d.j. 2005. autophagy. curr. biol. 15:r282–r283.
+klionsky, d.j., and y. ohsumi. 1999. vacuolar import of proteins and organelles 
+from the cytoplasm. annu. rev. cell dev. biol. 15:1–32.
+kroemer,  g.,  and  m.  jaattela.  2005.  lysosomes  and  autophagy  in  cell  death 
+ control. nat. rev. cancer. 5:886–897.
+kuma, a., m. hatano, m. matsui, a. yamamoto, h. nakaya, t. yoshimori, y. 
+ohsumi, t. tokuhisa, and n. mizushima. 2004. the role of autophagy 
+during the early neonatal starvation period. nature. 432:1032–1036.
+lee, c.y., c.r. simon, c.t. woodard, and e.h. baehrecke. 2002. genetic mech-
+anism  for  the  stage-  and  tissue-specifi c  regulation  of  steroid  triggered 
+programmed cell death in drosophila. dev. biol. 252:138–148.
+liang, x.h., s. jackson, m. seaman, k. brown, b. kempkes, h. hibshoosh, and 
+b. levine. 1999. induction of autophagy and inhibition of tumorigenesis 
+by beclin 1. nature. 402:672–676.
+lum,  j.j.,  d.e.  bauer,  m.  kong,  m.h.  harris,  c.  li,  t.  lindsten,  and  c.b. 
+thompson. 2005. growth factor regulation of autophagy and cell survival 
+in the absence of apoptosis. cell. 120:237–248.
+martin,  d.n.,  and  e.h.  baehrecke.  2004.  caspases  function  in  autophagic 
+ programmed cell death in drosophila. development. 131:275–284.
+mizushima, n., a. yamamoto, m. hatano, y. kobayashi, y. kabeya, k. suzuki, 
+t. tokuhisa, y. ohsumi, and t. yoshimori. 2001. dissection of autopha-
+gosome  formation  using apg5-defi cient  mouse  embryonic  stem  cells. 
+j. cell biol. 152:657–668.
+mizushima, n., a. yamamoto, m. matsui, t. yoshimori, and y. ohsumi. 2004. 
+in  vivo  analysis  of  autophagy  in  response  to  nutrient  starvation  using 
+transgenic  mice  expressing  a  fl uorescent  autophagosome  marker. 
+mol. biol. cell. 15:1101–1111.
+neely, a.n., j.r. cox, j.a. fortney, c.m. schworer, and g.e. mortimore. 1977. 
+alterations  of  lysosomal  size  and  density  during  rat  liver  perfusion. 
+suppression by insulin and amino acids. j. biol. chem. 252:6948–6954.
+noda, t., and y. ohsumi. 1998. tor, a phosphatidylinositol kinase homologue, 
+controls autophagy in yeast. j. biol. chem. 273:3963–3966.
+paglin, s., t. hollister, t. delohery, n. hackett, m. mcmahill, e. sphicas, d. 
+domingo, and j. yahalom. 2001. a novel response of cancer cells to ra-
+diation involves autophagy and formation of acidic vesicles. cancer res. 
+61:439–444.
+park, s.y., and a. ferreira. 2005. the generation of a 17 kda neurotoxic frag-
+ment:  an  alternative  mechanism  by  which  tau  mediates  beta-amyloid-
+ induced neurodegeneration. j. neurosci. 25:5365–5375.
+pattingre,  s.,  c.  bauvy,  and  p.  codogno.  2003.  amino  acids  interfere  with 
+the  erk1/2-dependent  control  of  macroautophagy  by  controlling  the 
+activation of raf-1 in human colon cancer ht-29 cells.  j. biol. chem. 
+278:16667–16674.
+pattingre, s., a. tassa, x. qu, r. garuti, x.h. liang, n. mizushima, m. packer, 
+m.d. schneider, and b. levine. 2005. bcl-2 antiapoptotic proteins inhibit 
+beclin 1-dependent autophagy. cell. 122:927–939.
+pfeifer, u. 1973. cellular autophagy and cell atrophy in the rat liver during long-
+term starvation. a quantitative morphological study with regard to diurnal 
+variations. virchows arch. b cell pathol. 12:195–211.
+punnonen,  e.l.,  and  h.  reunanen.  1990.  effects  of  vinblastine,  leucine,  and 
+histidine,  and  3-methyladenine  on  autophagy  in  ehrlich  ascites  cells. 
+exp. mol. pathol. 52:87–97.
+ravikumar, b., c. vacher, z. berger, j.e. davies, s. luo, l.g. oroz, f. scaravilli, 
+d.f.  easton,  r.  duden,  c.j.  o’kane,  and  d.c.  rubinsztein.  2004. 
+inhibition  of  mtor  induces  autophagy  and  reduces  toxicity  of  poly-
+glutamine  expansions  in  fl y  and  mouse  models  of  huntington  disease. 
+nat. genet. 36:585–595.
+604
+jcb • volume 175 • number 4 • 2006
+published november 13, 2006
+rusten,  t.e.,  k.  lindmo,  g.  juhasz,  m.  sass,  p.o.  seglen, a.  brech,  and  h. 
+stenmark. 2004. programmed autophagy in the drosophila fat body is 
+induced by ecdysone through regulation of the pi3k pathway. dev. cell. 
+7:179–192.
+scarlatti,  f.,  c.  bauvy,  a.  ventruti,  g.  sala,  f.  cluzeaud,  a.  vandewalle,  r. 
+ghidoni,  and  p.  codogno.  2004.  ceramide-mediated  macroautophagy 
+involves  inhibition  of  protein  kinase  b  and  up-regulation  of  beclin  1. 
+j. biol. chem. 279:18384–18391.
+schad, e., a. farkas, g. jekely, p. tompa, and p. friedrich. 2002. a novel human 
+small subunit of calpains. biochem. j. 362:383–388.
+shimizu, s., t. kanaseki, n. mizushima, t. mizuta, s. arakawa-kobayashi, c.b. 
+thompson, and y. tsujimoto. 2004. role of bcl-2 family proteins in a 
+non-apoptotic  programmed  cell  death  dependent  on  autophagy  genes. 
+nat. cell biol. 6:1221–1228.
+sutherland,  r.,  d.  delia,  c.  schneider,  r.  newman,  j.  kemshead,  and  m. 
+greaves.  1981.  ubiquitous  cell-surface  glycoprotein  on  tumor  cells  is 
+proliferation-associated receptor for transferring. proc. natl. acad. sci. 
+usa. 78:4515–4519.
+takacs-vellai, k., t. vellai, a. puoti, m. passannante, c. wicky, a. streit, a.l. 
+kovacs, and f. muller. 2005. inactivation of the autophagy gene bec-1 
+triggers apoptotic cell death in c. elegans. curr. biol. 15:1513–1517.
+tanabe,  f.,  s.h.  cui,  and  m.  ito.  1998.  ceramide  promotes  calpain- mediated 
+proteolysis  of  protein  kinase  c  beta  in  murine  polymorphonuclear 
+ leukocytes. biochem. biophys. res. commun. 242:129–133.
+varghese,  j.,  g.  radhika,  and a.  sarin.  2001.  the  role  of  calpain  in  caspase 
+activation during etoposide induced apoptosis in t cells. eur. j. immunol. 
+31:2035–2041.
+webb, j.l., b. ravikumar, j. atkins, j.n. skepper, and d.c. rubinsztein. 2003. 
+alpha-synuclein  is  degraded  by  both  autophagy  and  the  proteasome. 
+j. biol. chem. 278:25009–25013.
+xu, l., and x. deng. 2004. tobacco-specifi c nitrosamine 4-(methylnitrosamino)-
+1-(3-pyridyl)-1-butanone induces phosphorylation of mu- and m-calpain 
+in  association  with  increased  secretion,  cell  migration,  and  invasion. 
+j. biol. chem. 279:53683–53690.
+xue, l., g.c. fletcher, and a.m. tolkovsky. 1999. autophagy is activated by 
+apoptotic signalling in sympathetic neurons: an alternative mechanism of 
+death execution. mol. cell. neurosci. 14:180–198.
+yorimitsu,  t.,  and  d.j.  klionsky.  2005. autophagy:  molecular  machinery  for 
+self-eating. cell death differ. 12:1542–1552.
+yu, l., a. alva, h. su, p. dutt, e. freundt, s. welsh, e.h. baehrecke, and m.j. 
+lenardo. 2004. regulation of an atg7-beclin 1 program of autophagic 
+cell death by caspase-8. science. 304:1500–1502.
+yue,  z., a.  horton,  m.  bravin,  p.l.  dejager,  f.  selimi,  and  n.  heintz.  2002. 
+a  novel  protein  complex  linking  the  delta  2  glutamate  receptor  and 
+auto phagy:  implications  for  neurodegeneration  in  lurcher  mice.  neuron. 
+35:921–933.
+yue, z., s. jin, c. yang, a.j. levine, and n. heintz. 2003. beclin 1, an autophagy 
+gene  essential  for  early  embryonic  development,  is  a  haploinsuffi cient 
+tumor suppressor. proc. natl. acad. sci. usa. 100:15077–15082.
+calpain is required for macroautophagy • demarchi et al.
+605

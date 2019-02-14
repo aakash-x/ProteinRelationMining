@@ -1,0 +1,635 @@
+published december 26, 2006
+brief definitive report
+correspondence
+you-wen he:
+he000004@mc.duke.edu
+a critical role for the autophagy gene atg5 
+in t cell survival and proliferation
+heather h. pua,1 ivan dzhagalov,1 mariana chuck,1 noboru mizushima,2,3 
+and you-wen he1
+1department of immunology, duke university medical center, durham, nc 27710
+2department of bioregulation and metabolism, tokyo metropolitan institute of medical sciences, tokyo 113-8613, japan
+3sorst, japan science and technology agency, kawaguchi 332-0012, japan
+macroautophagy (hereafter referred to as autophagy) is a well-conserved intracellular 
+degradation process. recent studies examining cells lacking the autophagy genes atg5 
+and atg7 have demonstrated that autophagy plays essential roles in cell survival during 
+starvation, in innate cell clearance of microbial pathogens, and in neural cell maintenance. 
+however, the role of autophagy in t lymphocyte development and survival is not known. 
+here, we demonstrate that autophagosomes form in primary mouse t lymphocytes. by genera-
+ting atg5−/− chimeric mice, we found that atg5-defi cient t lymphocytes underwent full 
+maturation. however, the numbers of total thymocytes and peripheral t and b lymphocytes 
+were reduced in atg5 chimeras. in the periphery, atg5−/− cd8+ t lymphocytes displayed 
+dramatically increased cell death. furthermore, atg5−/− cd4+ and cd8+ t cells failed to 
+undergo effi cient proliferation after tcr stimulation. these results demonstrate a critical 
+role for atg5 in multiple aspects of lymphocyte development and function and suggest 
+that autophagy may be essential for both t lymphocyte survival and proliferation.
+macroautophagy, microautophagy, and chaperone-
+mediated  autophagy  are  conserved  catabolic 
+processes in eukaryotic cells that deliver cyto-
+plasmic  material  to  lysosomes  (1).  macroau-
+tophagy  (hereafter  referred  to  as  autophagy) 
+is  uniquely  defi ned  by  the  formation  of 
+ autophagosomes,  double  membrane  vesicles 
+0.5–1.5 μm in diameter arising through the 
+elongation  of  a  cup-shaped  isolation  mem-
+brane around cellular cargo (1). a screen of yeast 
+mutants incapable of surviving nitrogen starva-
+tion has identifi ed a network of atg genes im-
+portant  for  the  formation  of  autophagosomes 
+(2).  homologues  of  these  genes  have  been 
+identifi ed and characterized in the mammalian 
+system.  although  autophagy  has  been  long 
+recognized,  only  recently  have  its  essential 
+roles in various cellular functions been estab-
+lished  (3,  4).  for  example,  mice  lacking  the 
+autophagy  gene  atg5  or  atg7  cannot  with-
+stand short periods of starvation and display 
+ severe neurodegenerative disease (5–7). auto-
+phagy  is  also  essential  for  maintaining  cell 
+ survival  after  growth  factor  withdrawal  (8). 
+furthermore,  autophagy  contributes  to  the 
+clearance  of  intracellular  pathogens  includ-
+ing group  a  streptococcus  and  mycobacterium 
+ tuberculosis (9, 10).
+autophagy is initiated through a well-con-
+served molecular pathway. class iii phosphati-
+dylinoside 3-kinase in complex with beclin-1 
+(yeast atg6) induces autophagosome formation 
+(11, 12). two ubiquitin-like conjugation systems 
+downstream  of  beclin-1–phosphatidylinoside 
+3-kinase  are  important  for  the  induction  of 
+ autophagy. the terminal products of one of 
+these two pathways, an atg5–atg12 covalent 
+complex, is required for the elongation of the 
+isolation membrane (13). the second pathway re-
+sults in the conjugation of microtubule-associated 
+protein  1  light  chain  3  (lc3;  yeast  atg8)  to 
+phospholipids for incorporation into the auto-
+phagosome membrane (14).
+although  autophagy  is  important  for  sur-
+vival during periods of nutrient deprivation (5), 
+its role in regulating cellular life and death deci-
+sions remains largely unknown (for review see 
+reference 15). the induction of autophagy may 
+either program or prevent cell death (3, 4, 16). 
+regardless, the regulation of autophagy and 
+apoptosis  is  likely  to  be  linked  at  the  mole-
+cular level. the autophagy protein beclin-1 
+binds to antiapoptotic bcl-2 family proteins, 
+including  bcl-xl  and  bcl-2  (17).  atg5  in-
+teracts  with  fas-associated  via  death  domain 
+(fadd), a death receptor adaptor protein (18). 
+jem © the rockefeller university press  $15.00
+vol. 204, no. 1,  january 22, 2007  25–31  www.jem.org/cgi/doi/10.1084/jem.20061303
+25
+published december 26, 2006
+autophagy-dependent death occurs in cells whose apoptotic 
+machinery has been disabled (19, 20).
+although innate immune cells, such as macrophages, use 
+autophagy  to  clear  microbial  pathogens,  it  is  not  known 
+whether autophagy has a role in the adaptive immune system. 
+only recently has evidence emerged that t cells may be ca-
+pable of inducing autophagy. human t lymphocytes stimu-
+lated and cultured in vitro form autophagosomes as identifi ed 
+by transmission electron microscopy (21). cd4+ human um-
+bilical cord t cells also can be induced to form autophago-
+somes by the hiv-1 envelope glycoprotein (22). yet a role 
+for autophagy in t cells remains undefi ned.
+to study the role of autophagy in t lymphocyte devel-
+opment and function, we fi rst assessed the induction of auto-
+phagy in primary mouse t lymphocytes. we then generated 
+autophagy-defi cient  lymphocytes  by  transferring  atg5−/− 
+ fetal  hematopoietic  progenitor  cells  into  lethally  irradiated 
+wild-type congenic hosts. we found that atg5−/− lympho-
+cytes exhibit multiple defects, including a reduced lympho-
+cyte compartment, enhanced cd8+ t cell apoptosis, and an 
+inability to undergo tcr-induced proliferation. our results 
+suggest that autophagy may play an essential role in t lym-
+phocyte survival and function.
+results and discussion
+autophagy in mouse t lymphocytes
+recent  reports  suggest  that  thymocytes  (19)  and  cultured 
+human lymphocytes (21, 22) are capable of inducing  autophagy. 
+to  determine  whether  primary  mouse  t  cells  can  form 
+ autophagosomes, we took three approaches. first, to deter-
+mine if t lymphocytes express autophagy machinery, thy-
+mocytes and peripheral t cells were double sorted (>99% 
+pure) and total rna was isolated. semiquantitative rt-
+pcr  was  performed  to  detect  the  expression  of  atg5, 
+beclin-1  (yeast  atg6),  and  lc3  (yeast  atg8)  (fig.  1  a). 
+ expression of these essential autophagy genes could be de-
+tected in both thymocytes and mature t cells. in the thymus, 
+atg5, beclin-1, and lc3 were most highly expressed in the 
+double negative (dn) compartment. in the periphery, both 
+cd4+  and  cd8+  t  cells  expressed  autophagy  machinery. 
+this expression was maintained after 2 d of in vitro stimula-
+tion with anti-cd3.
+next,  to  determine  if  autophagosomes  are  present  in 
+t lymphocytes, we purifi ed cd4+ and cd8+ t cells from 
+the spleen and lymph nodes of naive mice (≥96% pure). using 
+transmission electron microscopy, we could identify charac-
+teristic double membrane autophagosomes in both t cell 
+figure 1.  atg5−/− thymocytes are reduced in number but develop 
+normally. (a) rag-2−/− dn thymocytes, sorted dp, cd4+ sp, cd8+ sp, and 
+peripheral t cell subsets from c57bl/6 mice were analyzed for the expres-
+sion of autophagy genes by semiquantitative rt-pcr. both sorted cd4+ 
+and cd8+ peripheral t cells were activated in vitro for 2 d with anti-cd3 
+and subjected to rt-pcr analysis. (b) transmission electron microscopy 
+of peripheral t cells. freshly isolated (f) and anti-cd3–activated (a) cd4+ 
+and cd8+ t cells (n = 50) were cross sectioned and analyzed for the 
+presence of autophagosomes (arrows). activated cells were cultured in 
+vitro for 2 d with anti-cd3. (c) t cell immunoblot for lc3. purifi ed t cells 
+from c57bl/6 mice were either immediately lysed or amino acid starved 
+in vitro for 4 h in a balanced salt solution, or stimulated with plate-bound 
+anti-cd3 with or without hil-2 (100 u/ml) for 16 h. the lysates were 
+probed for lc3 processing. actin serves as a loading control. (d) total 
+thymocyte number in atg5−/− and wild-type chimeras. circles and 
+squares represent individual mice. p = 0.04. (e) facs profi le of atg5−/− 
+thymocytes. total thymocytes were stained with anti-cd4 and anti-cd8. 
+dn thymocytes were pregated on cd3−cd4−cd8− cells. (f) facs analysis 
+of thymocyte apoptosis. thymocytes were stained with cd4, cd8, 7-aad, 
+and annexin v. numbers indicate the percentage of cells in each region.
+26 
+atg5 in t lymphocyte survival and proliferation | pua et al.
+published december 26, 2006
+populations (fig. 1 b). quantifi cation revealed that ⵑ10% 
+of cd4+ and cd8+ t cell cross sections contained autopha-
+gosomes (fig. 1 b). we also analyzed autophagosome for-
+mation in t cells purifi ed after in vitro stimulation for 2 d 
+with anti-cd3. approximately 30% of activated cell cross 
+sections  contained  autophagosomes  (fig.  1  b).  however, 
+the narrow depth of the section does not allow us to distin-
+guish between an increase in the number of autophagosome 
+per cell and an increase in the number of autophagosome-
+positive cells.
+finally,  we  used  immunoblotting  for  lc3  to  detect 
+ autophagy  in  t  cells.  lc3  undergoes  regulated  modifi ca-
+tions during the induction of autophagy, delivering a faster 
+migrating  processed  band  (termed  lc3-ii)  to  autophago-
+somes (14). although a small amount of lc3-ii was present 
+in freshly purifi ed peripheral t cells, the ratio of lc3-ii to 
+lc3-i was increased after 4 h of amino acid starvation in a 
+balanced  salt  solution  and  after  anti-cd3–induced  t  cell 
+activation with or without exogenous il-2 (fig. 1 c). col-
+lectively, these three results suggest that primary t lympho-
+cytes form autophagosome and can regulate the induction 
+of autophagy.
+thymocyte development in atg5−/− chimeras
+to determine the role of autophagy-related genes in t cell 
+development and function, we reconstituted the immune 
+system of adult mice with autophagy-defi cient hematopoi-
+etic  precursors  from  mice  lacking  atg5  (5).  atg5-defi cient 
+mice  die  within  24  h  of  birth  because  of  their  inability  to 
+survive brief periods of nutrient deprivation. we generated 
+chimeric  mice  by  transferring  day  14  fetal  liver  cells  from 
+atg5−/− and wild-type mice into lethally irradiated (950 rad) 
+cd45.1+ congenic hosts. we analyzed the thymus of atg5−/− 
+and  wild-type  chimeras  by  fl ow  cytometry  6–10  wk  after 
+ reconstitution.  in  all  chimeric  mice,  >99%  of  thymocytes 
+recovered  were  cd45.2+  (unpublished  data),  indicating  a 
+complete reconstitution by donor-derived cells. when com-
+pared  with  wild-type  controls,  atg5−/−  chimeras  demon-
+strated a 40–60% reduction in their total thymic cellularity 
+(fig. 1 d). although the number of atg5−/− thymocytes was 
+reduced, the developmental profi le of cells within the thy-
+mus appeared normal (fig. 1 e). atg5−/− chimeras had nor-
+mal  percentages  of  cd4−cd8−  dn,  cd8+cd4+  double 
+positive (dp), cd4+ single positive (sp), and cd8+ sp cells. 
+furthermore,  the  progressive  subsets  within  the  dn  com-
+partment as defi ned by the expression of cd25 and cd44 
+were  comparable  between  atg5−/−  and  wild-type  control 
+thymus. atg5−/− thymocytes did not exhibit enhanced apop-
+tosis  as  detected  by  annexin  v  and  7–aminoactinomycin 
+d (7-aad) staining (fig. 1 f). collectively, these results 
+ demonstrate that atg5-defi cient thymocytes underwent full 
+maturation  without  any  obvious  developmental  blockade, 
+suggesting that atg5 is dispensable in thymocyte diff erentiation. 
+the reduced thymic cellularity may be caused by reduced 
+lymphoid  precursor  activity  in  the  absence  of  atg5  (see 
+following paragraph).
+brief definitive report
+reduced peripheral lymphocyte compartment 
+in atg5−/− chimeras
+we  examined  the  peripheral  lymphocyte  compartment  of 
+chimeric  mice  6–10  wk  after  fetal  liver  reconstitution. 
+cd45.2+  donor-derived  cd4+  and  cd8+  t  lymphocytes 
+were detected in the spleen of both atg5−/− and wild-type 
+chimeras (fig. 2 a). atg5−/− t cells expressed similar levels 
+of tcr on their surface compared with control cells (fig. 
+2 a). however, the total numbers of atg5−/− t and b lym-
+phocytes in the spleen were only ⵑ10% of control chimeras 
+(fig.  2  b).  in  addition,  the  total  number  of  cells  obtained 
+from the lns of atg5−/− chimeras was 10% of that in control 
+mice (atg5−/−: 0.83 + 0.8 × 106, n = 4; control: 8.2 + 6 × 
+106,  n  =  3).  in  contrast,  the  number  of  atg5−/−  gr-
+1+cd11b+ neutrophils in the spleen was comparable to that 
+of controls (fig. 2 b), suggesting that atg5−/− lymphoid 
+ progenitors have a defective capacity to reconstitute the lym-
+phoid compartment.
+interestingly,  although  the  numbers  of  both  atg5−/− 
+cd4+ and cd8+ t lymphocytes were dramatically reduced 
+(fig. 2 c), the reduction of atg5−/− cd8+ t lymphocytes 
+(5% of control cells) was more severe than that of atg5−/− 
+cd4+ t lymphocytes (10% of control cells) (fig. 2 a and c). 
+this was further indicated by the elevated cd4+ to cd8+ 
+ratio  of  atg5−/−  t  lymphocytes  compared  with  that  of 
+figure 2.  defective peripheral lymphocyte compartment in 
+atg5−/− chimeras. (a) facs profi les of donor-derived cd4+ and cd8+ 
+t cells in the spleens of atg5−/− and wild-type chimeric mice 6–10 wk 
+after reconstitution. all cells are pregated on cd45.2+ donor-derived 
+cells. (b) the numbers of t cells, b cells, and neutrophils in the spleen of 
+atg5−/− and wild-type chimeras. the numbers are derived from multiplying 
+the percentage of cd4+ and cd8+ t cells, b220+, or gr-1+cd11b+ 
+cd45.2+ cells by the total numbers of splenocytes. p values for comparison 
+between atg5−/− and wild-type chimeras are: t cells, p = 0.0267; 
+b cells, p = 0.0001; pmn, p = 0.8785. (c) the numbers of cd4+ and cd8+ 
+t lymphocytes in the spleen of atg5−/− and wild-type chimeras. cd4+ 
+t cells, p = 0.0678; cd8+ t cells, p = 0.002. (d) the cd4+ to cd8+ t cell 
+ratio in atg5−/− and wild-type chimeras. shown are data from individual 
+mice. p = 0.0163. all p values are derived from unpaired, two-tailed 
+student’s t test.
+jem vol. 204, january 22, 2007 
+27
+published december 26, 2006
+ control t cells (fig. 2 d). although the number of thymocytes 
+in atg5−/− chimeras is reduced, this dramatic and selective 
+reduction in peripheral t lymphocytes suggests a role for auto-
+phagy in mature t cells.
+selective survival defect in atg5−/− cd8+ t cells
+the  process  of  autophagy  is  intimately  linked  to  survival. 
+atg5  was  fi rst  identifi ed  in  a  screen  for  yeast  incapable  of 
+surviving nitrogen starvation (2). given that cd8+ t cells 
+exhibited  a  more  severe  reduction  than  cd4+  t  cells  in 
+atg5−/− chimeras, we examined whether atg5 was required 
+for mature cd8+ t cell survival in vivo. in freshly isolated 
+splenocytes, <10% of wild-type but nearly 40% of atg5−/− 
+cd8+ t cells were annexin v+7-aad− (fig. 3 a), indicat-
+ing that these cells had initiated apoptosis in vivo. further-
+more, the total apoptotic rate of atg5−/− cd8+ t cells as 
+indicated by annexin v+7-aad− and annexin v+7-aad+ 
+staining  was  fi ve  to  six  times  higher  than  that  of  control 
+cd8+ t cells (fig. 3, a and b). in contrast, the apoptotic 
+rates of atg5−/− cd4+ t lymphocytes and b220+ b lym-
+phocytes  were  only  slightly  higher  than  those  of  control 
+cells, whereas the apoptotic rate of atg5−/− gr-1+ neutro-
+phils was similar to that of control cells (fig. 3 b). because 
+a small fraction of host peripheral cd4+ and cd8+ t lym-
+phocytes  survived  the  lethal  irradiation,  we  examined  the 
+apoptosis in these cells as an internal control. the apoptotic 
+rates of cd4+ t lymphocytes from either wild-type and 
+atg5−/−  donors  or  c57bl/6  congenic  hosts  were  com-
+parable (fig. 3 c). however, the apoptotic rates of atg5−/− 
+cd8+ t cells were dramatically higher than those of either 
+wild-type cd8+ or host long-lived cd8+ t cells (fig. 3 c). 
+this result suggests that atg5, and perhaps the ability to in-
+duce autophagy, is required for the survival of cd8+ t cells. 
+interestingly, we noticed that the apoptotic rates of cd4+ 
+and cd8+ host t cells in atg5−/− chimeras were also slightly 
+higher than those of their counterparts in wild-type chime-
+ras (fig. 3 c). whether this elevation is indirectly caused by 
+the massive apoptosis of atg5−/− cd8+ t cells remains to 
+be determined.
+our results suggest that the survival defect seems to be 
+specifi c to peripheral t cells. not only do atg5−/− cd8+ sp 
+thymocytes develop normally (fig. 1 e), but atg5−/− cd8+ 
+sp thymocytes do not display an enhanced rate of apoptosis 
+in vivo compared with wild-type controls (fig. 1 f). how 
+does atg5 contribute to the survival of cd8+ t cells? one 
+possibility  is  that  peripheral  cd8+  t  cells  depend  on  au-
+tophagy for their survival. this is consistent with the expres-
+sion of autophagy genes and presence of autophagosomes in 
+these  cells.  this  possibility  implies  that  cd8+  t  cells  en-
+counter either a nutrient shortage or cytokine deprivation or 
+both after they exit the thymus. growth factor deprivation–
+induced  autophagy  has  been  shown  to  be  critical  for  cell 
+ survival (8). given that cd4+ t cells also express autophagy 
+machinery and form autophagosomes, it is interesting to see 
+that  cd4+  t  cell  survival  is  less  dependent  on  atg5  than 
+cd8+ t cells.
+figure 3.  selective survival defect in atg5−/− cd8+ t cells. 
+(a) facs analysis of cd8+ t cell apoptosis. donor-derived cd8+ t cells 
+in atg5−/− and wild-type chimeras were stained with 7-aad and 
+pe– annexin v. numbers indicate the percentage of cells in each region. 
+(b). ap optotic rates of various cell populations in atg5−/− and wild-type 
+chimeras. donor-derived cells (cd45.2+) were stained using the indicated 
+lineage markers plus pe–annexin v and analyzed by facs. cd8+ t cells, 
+p = 0.0118; cd4+, p = 0.0544; b220+, p = 0.0826; gr1+ cells, p = 0.6605. 
+n = 3. (c) apoptotic rates of donor-derived and host long-term surviving 
+cd4+ and cd8+ t cells. p values for donor versus host t cells in atg5−/− 
+chimeras: cd4+ t cells, p = 0.72; cd8+ t cells, p = 0.004.
+alternatively, atg5 may regulate cd8+ t cell survival by 
+interacting with antiapoptotic molecules. published data have 
+demonstrated  a  pattern  of  reciprocal  relationships  between 
+autophagy  and  apoptosis.  both  the  inhibition  of  apoptosis 
+can induce autophagy (19, 20, 23), and the inhibition of au-
+tophagy can induce apoptosis (24). molecular and functional 
+studies have only begun to explore the complex relationship 
+between autophagy and apoptosis. the mammalian atg6 
+ homologue, beclin-1, was fi rst identifi ed as a bcl-2–bcl-xl 
+interacting protein (17); however, the role of this interaction 
+remains  controversial.  bcl-2  has  been  shown  to  inhibit 
+autophagosome formation in nutrient-starved yeast and hu-
+man cancer cell lines (25), yet bcl-2 expression in bax−/−
+bak−/− mouse embryonic fi broblasts enhances autophagy 
+ after  etoposide treatment (19). in each of these in vitro studies, 
+autophagy  was  required  for  the  observed  cellular  death. 
+however,  the  massive  apoptosis  we  observe  in  atg5−/− 
+cd8+ t cells suggests that the capacity to induce autophagy 
+in these cells is essential for their survival in vivo. whether 
+direct  interactions  between  autophagy  and  apoptotic  ma-
+chinery  contribute  to  the  enhanced  apoptosis  in  atg5−/− 
+cd8+ t cells will be an important area of future study.
+28 
+atg5 in t lymphocyte survival and proliferation | pua et al.
+published december 26, 2006
+brief definitive report
+impaired proliferation of atg5−/− t lymphocytes 
+to tcr stimulation
+next, we examined whether atg5−/− t cells respond nor-
+mally to tcr stimulation. total splenocytes from atg5−/− 
+and wild-type chimeras were labeled with the fl uorescent dye 
+cfse. after 3 d of anti-cd3 stimulation, 7-aad− cd45.2+ 
+donor-derived t cells were analyzed by fl ow cytometry for 
+proliferation as measured by cfse dilution. although 42% 
+of wild-type cd4+ t cells proliferated in response to plate-
+bound anti-cd3, only 9% of atg5−/− cd4+ t cells prolifer-
+ated (fig. 4 a). in addition, the number of divisions within 
+the  dividing  population  was  reduced  in  atg5−/−  t  cells. 
+measured  by  the  mean  fl uorescence  intensity,  the  dilution 
+of cfse was greater in dividing wild-type t cells than in 
+atg5−/− cells. these proliferation defects could be rescued by 
+neither  the  addition  of  an  anti-cd28  costimulatory  signal 
+nor the proproliferative cytokine il-2. when we bypassed 
+membrane-proximal  tcr/cd3  signaling  by  the  use  of 
+pma and ionomycin, 49% of atg5−/− cd4+ t cells prolif-
+erated compared with 69% of wild-type controls; however, 
+the dilution of cfse in dividing cells remained reduced 
+in  atg5−/−  t  cells  (fig.  4  a).  these  results  suggest  that 
+downstream mitogen-activated protein kinase activation and 
+calcium mobilization can partially rescue the proliferation defect 
+in atg5−/− cd4+ t lymphocytes. similar results were ob-
+tained for atg5−/− cd8+ t cells (unpublished data).
+although atg5−/− t cells did not proliferate in response 
+to cd3 stimulation, they did express normal levels of tcr 
+(fig. 2 a). after overnight stimulation, both wild-type and 
+atg5−/− t cells also expressed similar levels of the activation 
+markers cd69 and cd25 (fig. 4 b). this result suggests that 
+atg5−/− t cells can be activated through the tcr complex. 
+given that atg5−/− cd8+ t cells displayed a survival defect, 
+we  determined  whether  enhanced  apoptosis  in  activated 
+atg5−/− t cells might account for the reduced number of 
+proliferating cells. at 4 and 24 h after stimulation, atg5−/− 
+cd4+ t cells did not display a dramatically enhanced rate 
+of apoptosis compared with wild-type controls (fig. 4 c). 
+however, at 72 h we did observe an increased death in anti-
+cd3–stimulated  atg5−/−  cd4+  t  cells.  we  observed  the 
+same result for atg5−/− cd8+ t cells, although the baseline 
+rate  of  cell  death  was  dramatically  enhanced  in  these  cells. 
+the absence of early death after tcr stimulation in t cells 
+lacking the autophagy gene atg5 suggests that the enhanced 
+impaired proliferation of atg5−/− t cells upon anti-cd3 
+figure 4. 
+stimulation. (a) proliferation of atg5−/− and wild-type cd4+ t cells upon 
+tcr stimulation. splenocytes from control and atg5−/− chimeras were 
+labeled with cfse and stimulated under the following conditions for 3 d: 
+5 μg/ml of plate-bound anti-cd3, or plus 1 μg/ml plate-bound anti-cd28, 
+or plus 100 u/ml of recombinant il-2, or 10 ng/ml pma plus 300 ng/ml 
+of ionomycin. shown are the percentage of cells with diluted cfse 
+ staining and the mean fl uorescence intensity of the proliferating population. 
+(b) up-regulation of cd25 and cd69 on atg5−/− and wild-type t cells 
+after overnight stimulation with plate-bound anti-cd3. (c) apoptosis rates 
+of atg5−/− and wild-type t cells after tcr stimulation. total splenocytes 
+were cultured either in media alone or with 5 μg/ml of plate bound 
+anti-cd3 for the indicated times. apoptosis was measured by annexin v 
+staining. data are representative of two experiments.
+jem vol. 204, january 22, 2007 
+29
+published december 26, 2006
+death observed at 72 h may result from the impaired activa-
+tion of these cells. although it is also possible that proliferat-
+ing  atg5−/−  t  cells  rely  on  autophagy  to  maintain  their 
+metabolism late in culture, the addition of the cell-permeable 
+metabolic substrate methylpyruvate did not enhance our re-
+covery of proliferating atg5−/− t lymphocytes (unpublished 
+data). it should be noted that at 72 h very few atg5−/− cd8+ 
+t cells were detected in the culture without anti-cd3 stimu-
+lation and the apoptotic rate cannot be assessed.
+although  autophagy  has  emerging  roles  in  cellular  sur-
+vival and death, no specifi c function in proliferation has been 
+identifi ed.  our  results  clearly  demonstrate  that  in  activated 
+cd4+ and cd8+ t cells atg5 is essential for t cell prolifera-
+tion  but  not  activation.  it  will  be  important  to  determine 
+how  the  induction  of  autophagy  is  regulated  during  tcr 
+stimulation. although atg5 is required for the induction of 
+autophagy in mouse cells (1), it is also possible that atg5 may 
+serve an autophagy-independent role in t cell proliferation. 
+atg5 interacts with the death domain of the adaptor protein 
+fadd  (18).  in  hela  cells,  this  interaction  is  required  for 
+ifn-γ–mediated autophagic cell death. fadd-defi cient t cells 
+display a defect in proliferation, with normal up-regulation of 
+activation markers (26, 27). this similarity suggests that atg5 
+and fadd may act together, either in the autophagic process 
+or independent of autophagy, to transduce signals important 
+for t cell proliferation.
+in summary, our results demonstrate that the autophagy 
+gene atg5 plays multiple roles in lymphocyte development 
+and  function.  the  reduced  number  of  thymocytes  and  b 
+lymphocytes suggests that atg5 regulates lymphoid precursor 
+activity. the reduced cd4+ and cd8+ t cell compartment 
+in atg5−/− chimeras is likely caused by both a lowered lym-
+phoid precursor activity and an inability of these cells to un-
+dergo  homeostatic  proliferation  because  during  fetal  liver 
+reconstitutions, there is a transient period of lymphopenia in 
+the host after irradiation. in addition, the selective apoptosis 
+of atg5−/− cd8+ t cells further contribute to the dramati-
+cally reduced t cell compartment. our results suggest that 
+autophagy may play an essential role in t lymphocyte sur-
+vival and proliferation.
+materials and methods
+animals. atg5-defi cient mice were generated and characterized previously 
+(5). the mice were backcrossed for seven generations to c57bl/6. 6–8-wk-
+old cd45.1 c57bl/6 mice were used as hosts for fetal liver transfers (the 
+jackson laboratory). all mice were housed in a specifi c pathogen-free faci-
+lity and used according to protocols approved by the duke university insti-
+tutional animal care and use committee.
+rt-pcr. thymocytes and peripheral t cells were isolated from c57bl/6 
+mice by fl uorescence-activated cell sorting (99% pure), and total rna from 106 
+cells was extracted with an rneasy mini kit (qiagen). dn thymocytes were 
+isolated from rag-2−/− mice, and activated t cells were generated by culturing 
+sorted peripheral t cells for 2 d with 5 μg/ml plate-bound anti-cd3. first-
+strand cdna was reverse transcribed with the iscript reverse transcriptase kit 
+(bio-rad laboratories). the expression of autophagy genes was determined 
+by rt-pcr using the following primers: atg5, 5′-g a c a a a g a t g t g-
+c t t c g a g a t g t g -3′  and  5′-g t a g c t c a g a t g c t c g c t c a g -3′; 
+beclin-1, 5′-c t g a a a c t g g a c a c g a g c t t c a a g -3′ and 5′-c c a g a-
+a c a g t a t a a c g g c a a c t c c -3′;  lc3a,5′-a g c t t c g c c g a c c g c-
+t g t a a g -3′  and  5′-c t t c t c c t g t t c a t a g a t g t c a g c -3′;  lc3b, 
+5′-c g g a g c t t t g a a c a a a g a g t g -3′ and 5′-t c t c t c a c t c t c g-
+t a c a c t t c -3′; and gapdh, 5′-c c t g g a g a a a c c t g c c a a g t a t -3′ 
+and 5′-a g a g t g g g a g t t g c t g t t g a a g -3′.
+transmission  electron  microscopy.  cd4+  and  cd8+  t  cells  were 
+purifi ed from the spleen and lymph node of c57bl6 mice (≥96% pure) 
+using easysep negative bead selection (stemcell technologies). activated 
+cells were stimulated for 2 d in vitro with 5 μg/ml soluble anti-cd3 before 
+purifi cation.  cell  pellets  were  fi xed  in  a  4%  gluteraldehyde  in  0.1  m 
+sodium  cacodylate  buff er  overnight.  the  samples  were  rinsed  in  0.1  m 
+cacodylate buff er containing 7.5% sucrose three times for 15 min each and 
+fi xed in 1% osmium in cacodylate buff er for 1 h. after being washed three 
+times in 0.11 m veronal acetate buff er for 15 min each, the samples were 
+incubated with 0.5% uranyl acetate in veronal acetate buff er for 1 h at rt. 
+specimens were then dehydrated in an ascending series of ethanol (35%, 
+70%,  95%,  and  2  changes  of  100%)  for  10  min  each,  followed  by  two 
+changes of propylene oxide for 5 min each. the samples were incubated 
+with a 1:1 mixture of 100% resin and propylene oxide for 1 h, followed 
+by two  changes  of  100%  resin,  each  for  30  min.  finally,  the  samples 
+were embedded in resin and polymerized at 60°c overnight. thick sec-
+tions (0.5 μm) were cut and stained with toluidine blue for light micro-
+scopy selection of the appropriate area for ultrathin sections. thin sections 
+(60–90  nm)  were  cut,  mounted  on  copper  grids,  and  then  stained  with 
+uranyl acetate and lead citrate. micrographs were taken with a philips ls 
+410 electron microscope.
+western  blot.  total  t  cells  were  purifi ed  from  the  spleen  and  lymph 
+node of c57bl6 mice (≥96% pure) using easysep negative bead selection 
+(stemcell  technologies).  the  cells  were  lysed  in  50  mm  tris,  ph  6.8, 
+10% glycerol, 2% sds, and 100 mm dithioreitol. lc3 was visualized using 
+a  rabbit  polyclonal  antibody  (from  ron  kopito,  stanford  university, 
+ stanford, ca), hrp-conjugated donkey anti–rabbit (jackson immuno-
+research  laboratories),  and  femto  chemiluminescent  substrate  (pierce 
+chemical co.).
+generation of chimeric mice. fetuses were harvested from day 14 atg5 
+heterozygous pregnant female mice. dna was isolated from 106 fetal liver 
+cells using a dneasy tissue kit (qiagen) for genotyping. the primers for the 
+wild-type and deletion allele of the atg5 gene were 5′-g a a t a t g a a g g-
+c a c a c c c c t g a a a t g -3′, 5′-a c a a c g t c g a g c a c a g c t g c g c a-
+a g g -3′, and 5′-g t a c t g c a t a a t g g t t t a a c t c t t g c -3′, and the 
+pcrs were performed at 94°c for 30 s, 58°c for 30 s, and 72°c for 1 min 
+for 30 cycles. 1–3 × 106 liver cells from wild-type and atg5−/− fetuses were 
+injected into lethally irradiated (950 rad) cd45.1 congenic hosts. chimeric 
+mice were analyzed 6–10 wk after reconstitution.
+flow  cytometry  analysis.  single  cell  suspensions  of  spleen  and  thymus 
+were lysed of rbcs and incubated with fcr blocker (2.4g2; ebioscience). 
+cells were incubated with fitc, pe, pe/cy5, apc, and biotinylated anti-
+bodies  followed  by  streptavidin-alexa  594  for  30  min  on  ice.  antibodies 
+used included anti-cd4, -cd8, -tcr-β, -b220, -gr1, -mac1, -cd25, 
+-cd69, and -cd45.2 (ebioscience, biolegend, and bd biosciences). dead 
+cells were excluded by 7-aad or propidium iodide staining (bd bio-
+sciences). cell events were collected on a facs star and analyzed using 
+cell  quest  software  (becton  dickinson).  apoptotic  cells  were  assayed  by 
+annexin v–pe kit and 7-aad staining (bd biosciences).
+cell  proliferation.  splenocytes  were  labeled  with  cfse  (molecular 
+probes)  and  stimulated  with  5  μg/ml  plate-bound  anti-cd3  (2c11).  in 
+some cultures, plate-bound anti-cd28 (clone 37.51; biolegend) or human 
+recombinant il-2 was added. proliferation was assayed by fl ow cytometry 
+after 3 d.
+30 
+atg5 in t lymphocyte survival and proliferation | pua et al.
+published december 26, 2006
+brief definitive report
+we thank dr. montonari kondo (duke university, durham, nc) for cd45.1 congenic 
+mice and dr. ron kopito (stanford university, stanford, ca) for the anti-lc3 
+antibody. we thank mr. phillip christopher, ms. susan hester, and dr. sara e miller 
+at the em lab in the department of pathology at duke university medical center 
+for their assistance with the em sample preparation and photography. we also 
+thank dr. jeff rathmell for useful discussion and dr. nu zhang for critical review 
+of this manuscript.
+this work was supported by national institutes of health grant ca92123 
+(to y.-w. he).
+13.  mizushima, n., a. yamamoto, m. hatano, y. kobayashi, y. kabeya, k. 
+suzuki, t. tokuhisa, y. ohsumi, and t. yoshimori. 2001. dissection 
+of  autophagosome  formation  using  apg5-defi cient  mouse  embryonic 
+stem cells. j. cell biol. 152:657–668.
+14.  kabeya,  y.,  n.  mizushima,  t.  ueno,  a.  yamamoto,  t.  kirisako, 
+t. noda, e. kominami, y. ohsumi, and t. yoshimori. 2000. lc3, 
+a mammalian homologue of yeast apg8p, is localized in autophagosome 
+membranes after processing. embo j. 19:5720–5728.
+15.  baehrecke,  e.h.  2005.  autophagy:  dual  roles  in  life  and  death?  nat. 
+the authors have no confl icting fi nancial interests.
+rev. mol. cell biol. 6:505–510.
+submitted: 19 june 2006
+accepted: 1 december 2006
+references
+  1.  mizushima, n., y. ohsumi, and t. yoshimori. 2002. autophagosome 
+formation in mammalian cells. cell struct. funct. 27:421–429.
+  2.  tsukada,  m.,  and  y.  ohsumi.  1993.  isolation  and  characterization 
+of  autophagy-defective  mutants  of  saccharomyces  cerevisiae.  febs  lett. 
+333:169–174.
+  3.  mizushima, n. 2005. the pleiotropic role of autophagy: from protein 
+metabolism to bactericide. cell death diff er. 12(suppl 2):1535–1541.
+  4.  lum, j.j., r.j. deberardinis, and c.b. thompson. 2005. autophagy in 
+metazoans: cell survival in the land of plenty. nat. rev. mol. cell biol. 
+6:439–448.
+  5.  kuma, a., m. hatano, m. matsui, a. yamamoto, h. nakaya, t. yoshimori, 
+y. ohsumi, t. tokuhisa, and n. mizushima. 2004. the role of autophagy 
+during the early neonatal starvation period. nature. 432:1032–1036.
+  6.  komatsu, m., s. waguri, t. chiba, s. murata, j.i. iwata, i. tanida, t. 
+ueno, m. koike, y. uchiyama, e. kominami, and k. tanaka. 2006. 
+loss of autophagy in the central nervous system causes neurodegenera-
+tion in mice. nature. 441:880–884.
+  7.  hara, t., k. nakamura, m. matsui, a. yamamoto, y. nakahara, r. 
+suzuki-migishima,  m.  yokoyama,  k.  mishima,  i.  saito,  h.  okano, 
+and n. mizushima. 2006. suppression of basal autophagy in neural cells 
+causes neurodegenerative disease in mice. nature. 441:885–889.
+  8.  lum, j.j., d.e. bauer, m. kong, m.h. harris, c. li, t. lindsten, and 
+c.b. thompson. 2005. growth factor regulation of autophagy and cell 
+survival in the absence of apoptosis. cell. 120:237–248.
+  9.  nakagawa, i., a. amano, n. mizushima, a. yamamoto, h. yamaguchi, 
+t. kamimoto, a. nara, j. funao, m. nakata, k. tsuda, et al. 2004. 
+autophagy defends cells against invading group a streptococcus. science. 
+306:1037–1040.
+10.  gutierrez, m.g., s.s. master, s.b. singh, g.a. taylor, m.i. colombo, 
+and  v.  deretic.  2004.  autophagy  is  a  defense  mechanism  inhibiting 
+bcg  and  mycobacterium  tuberculosis  survival  in  infected  macrophages. 
+cell. 119:753–766.
+11.  petiot,  a.,  e.  ogier-denis,  e.f.  blommaart,  a.j.  meijer,  and  p. 
+codogno. 2000. distinct classes of phosphatidylinositol 3′-kinases are 
+involved in signaling pathways that control macroautophagy in ht-29 
+cells. j. biol. chem. 275:992–998.
+12.  tassa, a., m.p. roux, d. attaix, and d.m. bechet. 2003. class iii phos-
+phoinositide 3-kinase–beclin1 complex mediates the amino acid-dependent 
+regulation of autophagy in c2c12 myotubes. biochem. j. 376:577–586.
+16.  yu, l., m.j. lenardo, and e.h. baehrecke. 2004. autophagy and caspases: 
+a new cell death program. cell cycle. 3:1124–1126.
+17.  liang, x.h., l.k. kleeman, h.h. jiang, g. gordon, j.e. goldman, g. 
+berry, b. herman, and b. levine. 1998. protection against fatal sindbis 
+virus encephalitis by beclin, a novel bcl-2-interacting protein. j. virol. 
+72:8586–8596.
+18.  pyo, j.o., m.h. jang, y.k. kwon, h.j. lee, j.i. jun, h.n. woo, d.h. 
+cho, b. choi, h. lee, j.h. kim, et al. 2005. essential roles of atg5 and 
+fadd in autophagic cell death: dissection of autophagic cell death into 
+vacuole formation and cell death. j. biol. chem. 280:20722–20729.
+19.  shimizu,  s.,  t.  kanaseki,  n.  mizushima,  t.  mizuta,  s.  arakawa-
+kobayashi, c.b. thompson, and y. tsujimoto. 2004. role of bcl-2 
+family proteins in a non-apoptotic programmed cell death dependent 
+on autophagy genes. nat. cell biol. 6:1221–1228.
+20.  yu, l., a. alva, h. su, p. dutt, e. freundt, s. welsh, e.h. baehrecke, 
+and m.j. lenardo. 2004. regulation of an atg7-beclin 1 program of 
+autophagic cell death by caspase-8. science. 304:1500–1502.
+21.  gerland,  l.m.,  l.  genestier,  s.  peyrol,  m.c.  michallet,  s.  hayette, 
+i.  urbanowicz,  p.  ffrench,  j.p.  magaud,  and  m.  ffrench.  2004. 
+autolysosomes accumulate during in vitro cd8+ t-lymphocyte aging 
+and  may  participate  in  induced  death  sensitization  of  senescent  cells. 
+exp. gerontol. 39:789–800.
+22.  espert, l., m. denizot, m. grimaldi, v. robert-hebmann, b. gay, m. 
+varbanov, p. codogno, and m. biard-piechaczyk. 2006. autophagy is 
+involved in t cell death after binding of hiv-1 envelope proteins to 
+cxcr4. j. clin. invest. 116:2161–2172.
+23.  yu, l., f. wan, s. dutta, s. welsh, z. liu, e. freundt, e.h. baehrecke, 
+and m. lenardo. 2006. autophagic programmed cell death by selective 
+catalase degradation. proc. natl. acad. sci. usa. 103:4952–4957.
+24.  boya, p., r.a. gonzalez-polo, n. casares, j.l. perfettini, p. dessen, n. 
+larochette, d. metivier, d. meley, s. souquere, t. yoshimori, et al. 
+2005. inhibition of macroautophagy triggers apoptosis. mol. cell. biol. 
+25:1025–1040.
+25.  pattingre, s., a. tassa, x. qu, r. garuti, x.h. liang, n. mizushima, 
+m. packer, m.d. schneider, and b. levine. 2005. bcl-2 antiapoptotic 
+proteins inhibit beclin 1-dependent autophagy. cell. 122:927–939.
+26.  zhang, j., d. cado, a. chen, n.h. kabra, and a. winoto. 1998. fas-
+mediated apoptosis and activation-induced t-cell proliferation are de-
+fective in mice lacking fadd/mort1. nature. 392:296–300.
+27.  zhang,  y.,  s.  rosenberg,  h.  wang,  h.z.  imtiyaz,  y.j.  hou,  and 
+j.  zhang.  2005.  conditional  fas-associated  death  domain  protein 
+(fadd):  gfp  knockout  mice  reveal  fadd  is  dispensable  in  thymic 
+development but essential in peripheral t cell homeostasis. j. immunol. 
+175:3033–3044.
+jem vol. 204, january 22, 2007 
+31

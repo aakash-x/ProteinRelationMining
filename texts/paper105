@@ -1,0 +1,1044 @@
+cell death and differentiation (2007) 14, 146–157
+& 2007 nature publishing group all rights reserved 1350-9047/07 $30.00
+www.nature.com/cdd
+response to myocardial ischemia/reperfusion injury
+involves bnip3 and autophagy
+a hamacher-brady1, nr brady1, se logue2, mr sayen1, m jinno1, la kirshenbaum3, ra gottlieb1 and a˚ b gustafsson*,1
+ischemia and reperfusion (i/r) injury is associated with extensive loss of cardiac myocytes. bnip3 is a mitochondrial pro-
+apoptotic bcl-2 protein which is expressed in the adult myocardium. to investigate if bnip3 plays a role in i/r injury, we
+generated a tat-fusion protein encoding the carboxyl terminal transmembrane deletion mutant of bnip3 (tat-bnip3dtm) which
+has been shown to act as a dominant negative to block bnip3-induced cell death. perfusion with tat-bnip3dtm conferred
+protection against i/r injury, improved cardiac function, and protected mitochondrial integrity. moreover, bnip3 induced
+extensive fragmentation of the mitochondrial network and increased autophagy in hl-1 myocytes. 3d rendering of confocal
+images revealed fragmented mitochondria inside autophagosomes. enhancement of autophagy by atg5 protected against
+bnip3-mediated cell death, whereas inhibition of autophagy by atg5k130r enhanced cell death. these results suggest that
+bnip3 contributes to i/r injury which triggers a protective stress response with upregulation of autophagy and removal of
+damaged mitochondria.
+cell death and differentiation (2007) 14, 146–157. doi:10.1038/sj.cdd.4401936; published online 28 april 2006
+myocardial ischemia and reperfusion (i/r) triggers cell death
+via both necrosis and apoptosis. irreversible loss of cardiac
+myocytes may lead to reduced ability to sustain contractile
+function and progression to heart
+failure. necrosis is
+characterized by swelling of the cell and its organelles, and
+disruption of the cell membrane.1 release of intracellular
+components into the surrounding tissue leads to activation of
+an inﬂammatory response and can cause damage to
+neighboring cells. in contrast, apoptosis is a highly regulated,
+energy-dependent cell death program, which leads to
+elimination of
+inducing an inﬂammatory
+response. apoptosis has been implicated in the pathogenesis
+of several cardiovascular diseases,
+including myocardial
+infarction2 and congestive heart failure.3 even though it is
+clear that loss of cardiac myocytes after i/r contributes to the
+decline of ventricular function and mortality,
+the relative
+contribution of apoptotic versus necrotic cell death are a
+subject of much debate. an increased understanding of the
+signaling pathways that are activated during i/r is important to
+the development of effective therapies.
+the cell without
+bnip3 is a member of
+the ‘bh3-only’ subfamily of
+proapoptotic bcl-2 family proteins. the bh3 domain is
+essential for the cell death activity of these proteins, as well
+as for mediating heterodimerization with anti- or proapoptotic
+proteins which regulate cell death.4 conﬂicting reports
+indicate that the apoptotic effects of bnip3 either depend
+upon5 or are independent of the bh3 domain.6 bnip3 is unique
+in that it possesses a c-terminal transmembrane domain that
+is required for mitochondrial targeting as well as its apoptotic
+function.5,7 although bnip3 mrna can be detected in multiple
+organs,7 its physiological function is unknown. elevated bnip3
+protein levels have been observed in vivo in an animal model
+of chronic heart failure.8 moreover, bnip3 expression has
+been reported to be upregulated in neonatal myocytes
+subjected to hypoxia resulting in mitochondrial dysfunction
+and subsequent cell death8–10 bnip3 has been demonstrated
+to induce both necrotic and apoptotic cell death.10,11
+recently, upregulation of bnip3 was reported to correlate
+with the induction of autophagy in malignant glioma cells.12
+autophagy plays an important role in cellular homeostasis and
+is the process by which cells recycle cytoplasm and dispose of
+excess or damaged organelles. autophagy also plays an
+important role in the cellular response to stress and can be
+upregulated by changes in environmental conditions such as
+nutrient deprivation.13 autophagy has been implicated to play
+a role in cancer,14 cardiomyopathy,15 and neurodegenerative
+diseases.16 in the present study, we have examined the role of
+the mitochondrial proapoptotic protein bnip3 in i/r injury. we
+provide evidence that bnip3 contributes to i/r injury in the ex
+vivo heart. moreover, we report that simulated i/r leads to
+bnip3-mediated upregulation of autophagy in hl-1 cardiac
+myocytes and that bnip3-induced mitochondrial dysfunction
+correlates with upregulation of autophagy as a protective
+response to remove damaged mitochondria.
+results
+expression of bnip3 in adult myocardium. we examined
+bnip3 expression in rat hearts and found substantial basal
+1department of molecular and experimental medicine, the scripps research institute, la jolla, ca, usa; 2department of biochemistry, national university of ireland,
+galway, ireland and 3st boniface general hospital research center, winnipeg, canada
+*corresponding author: a˚ b gustafsson, department of molecular and experimental medicine, the scripps research institute, mem 220, 10550 n. torrey pines road,
+ca 92037, usa. tel: þ 1-858-784-9166; fax: þ 1-858-784-8389; e-mail: agustafs@scripps.edu
+keywords: bnip3; ischemia; reperfusion; apoptosis; autophagy; mitochondria
+abbreviations: tunel, terminal deoxynucleotideyltransferase-mediated dutp nick end-labeling; aif, apoptosis-inducing factor; lc3, microtubule-associated protein
+1 light chain 3; shrna, short hairpin rna
+received 02.9.05; revised 20.2.06; accepted 13.3.06; edited by g kroemer; published online 28.4.06
+alkali:
+( - )   ( + )
+bnip3
+rhogdi
+bnip3
+bak
+bax
+bnip3
+rhogdi
+bnip3
+vdac
+rhogdi
+figure 1 expression of bnip3 in adult myocardium. (a) analysis of bnip3 protein
+expression in whole-cell lysates from adult myocardium and in isolated neonatal
+cardiac myocytes. (b) bnip3 protein levels in nonperfused rat hearts (nph) and in
+hearts subjected to continuous perfusion (con) or 30 min of global ischemia and
+120 min of reperfusion (i/r) by western blotting. (c) subcellular fractionation of
+nonperfused heart lysates. (d) alkali extraction of mitochondrial fraction
+1b).
+subcellular
+furthermore,
+that bnip3 was
+revealed
+with
+the mitochondria-enriched
+expression of bnip3 in the adult myocardium, whereas bnip3
+was undetectable in neonatal cardiac myocytes under
+normal conditions (figure 1a). since bnip3 has been
+reported to be induced by hypoxia in neonatal cardiac
+myocytes,8,10 we investigated whether bnip3 expression
+increased in hearts subjected to i/r. we found no apparent
+change in the expression of bnip3 protein after 30 min of
+ischemia and 120 min of reperfusion compared to control
+freshly isolated nonperfused hearts
+perfused hearts or
+(figure
+fractionation
+exclusively
+experiments
+associated
+heavy
+membrane fraction (figure 1c). the subcellular localization
+of bnip3 did not change in the cells after i/r (data not
+shown). to investigate whether bnip3 is integrated into the
+mitochondrial membrane, we performed alkali extraction of
+proteins from mitochondria isolated from the heart. bnip3
+remained
+the mitochondrial
+membrane fraction following alkali
+treatment (figure 1d).
+bak and bax were analyzed in parallel as controls. bak, an
+integral mitochondrial membrane protein, was also resistant
+to treatment and remained associated with the membranes
+after alkaline incubation. in contrast, bax was only loosely
+attached to mitochondria under normal conditions and most
+of bax was lost during the treatment. these results indicate
+that bnip3 exists as an integral mitochondrial membrane
+protein in the adult myocardium that
+is inactive in the
+absence of a death signal. the basis for bnip3 inactivation
+is unknown at present.
+associated with
+tightly
+in
+ischemia/reperfusion
+bnip3
+have
+established a technique of tat protein transduction into
+isolated perfused hearts where linkage of the 11-amino-acid
+injury. we
+role of bnip3 in ischemia/reperfusion injury
+a hamacher-brady et al
+147
+transduction domain of hiv tat to a protein allows it to be
+readily transduced into cells in the heart.17,18 to determine
+whether bnip3 plays a role in mediating i/r injury in the heart,
+we generated a tat-fusion protein encoding the carboxyl
+terminal
+transmembrane deletion mutant of bnip3 (tat-
+bnip3dtm) which has been shown to act as a dominant
+negative to block bnip3-induced cell death.8,10 western blot
+analysis of heart lysates from hearts perfused with tat-
+bnip3dtm protein demonstrated that the tat protein was
+readily taken up by the hearts after 15 min of perfusion
+(figure 2a). moreover, perfusion with tat-bnip3dtm
+signiﬁcantly reduced both creatine kinase (ck) release and
+infarct size in hearts subjected to 30 min of global ischemia
+and 120 min of reperfusion compared to tat-b-gal (figure
+2b and c). we have previously demonstrated that tat-b-gal
+has no effect on ck release and infarct size.17 i/r injury is
+associated with increased production of reactive oxygen
+species (ros), such as superoxide anion, hydrogen
+peroxide, and hydroxyl radical. bnip3 has been reported to
+increase ros production when overexpressed in cells.11 to
+assess whether
+the cardioprotective effects of tat-
+bnip3dtm could be attributed to a reduction in the
+production of ros, superoxide generation was measured
+in heart slices obtained after 30 min of ischemia and 15 min
+of reperfusion. using dihydroethidium (dhe) staining to
+superoxide production, we found that tat-
+detect
+bnip3dtm attenuated superoxide production after
+i/r,
+suggesting that increased ros production is partly due to
+activated bnip3 in i/r hearts (figure 2d). perfusion with
+tat-bnip3dtm prior to ischemia also improved functional
+recovery after i/r compared with tat-b-gal-perfused hearts
+(figure 2e and f).
+to
+(aif)
+hearts
+bnip3 and apoptosis. overexpression of bnip3 leads
+to loss of mitochondrial membrane potential and opening
+of
+the mptp; both have been linked to the release of
+cytochrome c from mitochondria. we found that hearts
+perfused with tat-bnip3dtm exhibited reduced cytochrome
+c and apoptosis-inducing factor
+release after
+perfused with tat-b-gal
+i/r compared
+(figure 3a). next, we investigated whether bnip3 could
+directly
+from
+mitochondria. addition of
+recombinant bnip3 to puriﬁed
+heart mitochondria resulted in the release of cytochrome c
+and aif, whereas bnip3dtm had no effect (figure 3b).
+recombinant tbid, the proteolytically activated fragment of
+bid, has previously been reported to induce the release of
+cytochrome c from isolated mitochondria and was used as a
+positive control.19 moreover, recombinant bnip3dtm directly
+inhibited bnip3-mediated cytochrome c and aif release
+in vitro.
+induce release of proapoptotic factors
+next, we examined whether the protective effect of tat-
+bnip3dtm in i/r was mediated by inhibition of apoptosis.
+cardiac apoptosis was assessed in control perfused and in
+hearts perfused with tat-b-gal or tat-bnip3dtm prior to i/r
+by detection of cleaved (active) caspase-3 and terminal
+deoxynucleotideyltransferase-mediated dutp nick end-label-
+ing (tunel) of heart sections. cells with activated caspase-3
+were detected in hearts subjected to i/r in the presence of
+tat-b-gal, but not in hearts perfused with tat-bnip3dtm
+cell death and differentiation
+148
+role of bnip3 in ischemia/reperfusion injury
+a hamacher-brady et al
+70
+60
+50
+40
+30
+20
+10
+100
+80
+60
+40
+20
+∆∆
+tat-bnip3∆tm
+bnip3
+i/r
+tat-β-gal
+i/r
+tat-bnip3∆tm
+control
+i/r
+tat-β-gal
+i/r
+tat-bnip3∆tm
+2.0
+1.6
+1.2
+0.8
+0.4
+50
+40
+30
+20
+10
+4000
+3000
+2000
+1000
+-1000
+-2000
+before
+after
+i/r
+tat-β-gal
+i/r
+tat-bnip3∆tm
+**
+control
+i/r
+tat-β-gal
+i/r
+tat-bnip3∆tm
+control
+i/r
+tat-β-gal
+i/r
+tat-bnip3∆tm
+figure 2 effect of tat-bnip3dtm transduction on i/r injury. hearts were perfused with tat-proteins for 15 min and then subjected to 30 min of global ischemia followed
+by reperfusion for 15 min (for superoxide production) or 120 min (for infarct size). (a) western blot analysis of tat-bnip3dtm protein transduction in hearts after 15 min of
+perfusion. (b) ck activity in the coronary efﬂuent was measured for 15 min before ischemia and for the ﬁrst 15 min of reperfusion (n¼ 8, *po0.05). (c) infarct size was
+determined by ttc staining (n¼ 4, *po0.05). (d) superoxide levels were assessed by measuring dhe conversion to ethidium (n¼ 4, *versus**, po0.05). effect of tat-
+bnip3dtm on lvdp (e) and lv dp/dt (f) 60 min after ischemia/reperfusion. data are mean7s.e.m. (*po0.05, n¼ 5)
+(figure 4a). moreover, tunel staining revealed that hearts
+perfused with tat-bnip3dtm before i/r had signiﬁcantly
+fewer apoptotic cells compared to tat-b-gal perfused hearts
+(figure 4b–e). taken together, these data suggest that bnip3
+plays a signiﬁcant role in i/r-induced cell death by increasing
+ros production, and releasing proapoptotic factors such as
+cytochrome c and aif which lead to activation of caspases
+and dna fragmentation.
+bnip3 and hl-1 cardiac myocytes. to begin deﬁning the
+molecular mechanism(s) by which bnip3 mediates cell death
+during i/r, we turned to a cell culture model using the atrial-
+derived cardiac myocyte cell
+line hl-1. overexpression of
+bnip3 allowed us to mimic and monitor the effects of i/r-
+induced bnip3 activation in isolation from other molecular
+events occurring during i/r. to conﬁrm that bnip3 mediates
+the same effects in hl-1 myocytes as in the intact heart, we
+cell death and differentiation
+cytosol
+mitochondria
+cytochrome c
+aif
+cox iv
+rhogdi
+∆∆
+sup
+mito
+sup
+mito
+cyto c
+aif
+figure 3 effect of bnip3 on cytochrome c and aif release. (a) rat hearts
+perfused with tat-b-gal or tat-bnip3dtm were subjected to 30 min of global
+ischemia followed by 15 min of reperfusion. cytosol and mitochondrial fractions
+were analyzed by immunoblotting with antibodies to cytochrome c (bd
+biosciences), aif (prosci), cox-iv (molecular probes), and rhogdi (transduction
+laboratories). blot is representative of three replicate experiments. (b) isolated
+heart mitochondria were incubated with recombinant bnip3, bnip3dtm, tbid, or
+bnip3 plus bnip3dtm for 60 min at 301c. supernatants and pellets were analyzed
+by western blotting for cytochrome c and aif release
+overexpressed the dominant-negative bnip3dtm prior to
+simulated i/r (si/r). we found that overexpression of
+bnip3dtm signiﬁcantly reduced cell death after si/r in hl-
+1 cardiac myocytes (figure 5a). similarly, downregulation of
+bnip3 by rna interference inhibited si/r-mediated cell
+death, verifying that bnip3 contributes to cell death in si/r
+(figure 5b and c). next, we investigated whether bnip3-
+mediated cell death in si/r was caused by activation of
+caspases. we found that cell death during si/r was
+signiﬁcantly reduced in the presence of the broad spectrum
+caspase inhibitor, zvad-fmk (figure 5d). furthermore, we
+found that overexpression of bnip3 in hl-1 myocytes
+caused a signiﬁcant
+increase in cell death which was
+inhibited in the presence of zvad-fmk, suggesting that
+bnip3-meditated cell death during i/r is mediated through
+activation of caspases in hl-1 myocytes (figure 5e). nuclear
+condensation was characteristic of cell death mediated by
+both si/r and bnip3.
+role of bnip3 in ischemia/reperfusion injury
+a hamacher-brady et al
+149
+bnip3 and autophagy. upregulation of autophagy has
+been reported to occur in a rabbit model of
+i/r and in
+chronically ischemic pig myocardium.20,21 many studies have
+linked dysfunctional mitochondria with upregulation of
+autophagy. thus, we speculated that bnip3-induced
+mitochondrial damage in i/r might upregulate autophagy in
+revealed the
+cardiac myocytes. electron microscopy
+presence of autophagic vacuoles,
+recognized by their
+double-membrane vacuolar structures,22 in the myocardium
+following i/r, with many of the autophagosomes containing
+mitochondria (figure 6a). similarly,
+the presence of
+autophagosomes was detected by em in hl-1 cells after
+si/r (figure 6b). a characteristic of autophagy is the
+recruitment of
+the microtubule-associated protein 1 light
+chain 3 (lc3) to autophagic vesicles, which can be detected
+as punctate accumulations of gfp-lc3.23 using gfp-lc3
+as a speciﬁc marker autophagosome formation, we found
+that control cells transiently transfected with gfp-lc3
+showed predominantly a diffuse distribution of green
+ﬂuorescence, whereas si/r resulted in increased punctate
+patterns indicating enhanced formation of autophagosomes
+(figure 6c). to investigate whether bnip3 is involved in
+i/r-induced autophagy, we transfected hl-1 cells with the
+dominant-negative bnip3dtm along with gfp-lc3 before
+si/r. we found that overexpression of bnip3dtm signiﬁcantly
+reduced upregulation of autophagy in hl-1 myocytes
+subjected to si/r (figure 6d). to further investigate the link
+between i/r-induced autophagy and bnip3 activation, hl-1
+cells were transiently transfected with wild-type bnip3 or
+bnip3dtm and the level of autophagy was assessed under
+normoxic conditions. as shown in figure 7, overexpression
+of bnip3 caused signiﬁcant induction of autophagy compared
+to control cells. in contrast, bnip3dtm-transfected cells did
+not show a signiﬁcant increase in autophagy (figure 7b).
+the autophagic response requires delivery of the contents
+sequestered by the autophagosome to the lysosome, where-
+upon degradation occurs.13 to verify that bnip3-induced
+upregulation of autophagosomes reﬂected an increase in
+autophagic activity, and not a build-up of nonfused autopha-
+gosomes, we monitored the activity of
+the lysosomal
+compartments in bnip3-transfected cells by staining cells
+with lysotracker red (ltr). we found colocalization of gfp-
+lc3 and ltr, indicating fusion between the autophagosome
+and lysosome, hence functional autophagy (figure 7c). we
+observed no differences in total ltr staining between control
+and bnip3-overexpressing cells (data not shown). also, we
+noted that the ltr staining was dispersed throughout the cell
+in acidic lysosomes in control cells, but was more concen-
+trated to regions of high autophagosomal content in bnip3-
+overexpressing cells.
+autophagy and mitochondria. several studies have
+reported that bnip3 overexpression causes mitochondrial
+dysfunction. since autophagy is an important process in
+removing damaged organelles, we investigated whether
+bnip3-mediated mitochondrial damage caused upregulation
+of autophagy in hl-1 myocytes. closer examination of
+mitochondria
+revealed
+extensive fragmentation of
+the mitochondrial network,
+whereas cells transfected with vector or bnip3dtm had
+in bnip3-overexpressing
+cells
+cell death and differentiation
+150
+role of bnip3 in ischemia/reperfusion injury
+a hamacher-brady et al
+control
+i/r + tat-β-gal
+i/r + tat-bnip3∆tm
+control
+i/r + tat-β-gal
+i/r + tat-bnip3∆tm
+25
+20
+15
+10
+**
+con
+i/r 
++ 
+tat-β-gal
+i/r 
++ 
+tat-bnip3∆tm
+figure 4 effects of tat-bnip3dtm transduction on ischemia and reperfusion (i/r)-induced caspase-3 cleavage and dna fragmentation. hearts were perfused with tat-
+proteins for 15 min and then subjected to 30 min of ischemia and 120 min of reperfusion. (a) immunoﬂuorescent staining for cleaved caspase-3 (red) and hoechst 33342
+(blue). (b–d) representative photographs of tunel staining from three independent experiments. nuclei were counterstained with hoechst 33342 (inset). (e) tunel-positive
+nuclei were counted in 10 randomly selected ﬁelds of each condition and expressed as a percentage of the total number of nuclei (mean7s.d., n¼ 3). i/r signiﬁcantly
+increased tunel-stained nuclei compared with control hearts (*po0.01 versus control). treatment with tat-bnip3dtm greatly decreased the occurrence of tunel-positive
+nuclei (**po0.01 versus i/rþ tat-b-gal)
+normal ﬁlamentous mitochondria (figure 8). to examine
+whether these fragments of mitochondria were sequestered
+by autophagosomes (mitophagy), we employed laser
+scanning confocal microscopy of cells expressing mito-
+dsred2 (to label mitochondria) and gfp-lc3 (to label
+autophagosomes). analysis of generated z-stacks revealed
+that extensive mitophagy occurred in bnip3-cotransfected
+hl-1 cells, where many gfp-lc3-labeled autophagosomes
+colocalized with fragmented mitochondria (figure 9a). 3d
+surface rendering of confocal z-stacks revealed different
+stages of engulfment of individual mitochondria (figure 9b).
+we did not observe instances of mitophagy in control or
+bnip3dtm-transfected cells (data not shown).
+recently, several studies have reported that autophagy
+may serve as a protective response.21,24,25 thus, we
+hypothesized that upregulation of autophagy serves as a
+protective response against bnip3-mediated injury likely by
+sequestering damaged mitochondria. atg5 is a key molecule
+involved in autophagy and is essential
+for formation of
+autophagosomes.26 we found that overexpression of atg5
+signiﬁcantly enhanced induction of autophagy in cells over-
+expressing bnip3 compared to bnip3 alone, and that this
+enhancement of autophagy correlated with reduction in
+bnip3-mediated cell death (figure 10a and b). in contrast,
+atg5k130r, a dominant negative of atg5 previously shown
+to suppress vacuole formation,27 signiﬁcantly reduced auto-
+phagy and increased bnip3-mediated cell death (figure 10a
+and b). similarly, overexpression of atg5 enhanced auto-
+phagy during si/r which correlated with reduced cell death,
+whereas atgk130r reduced si/r-induced autophagy while
+increasing cell death (data not shown). thus, these data
+suggest
+that bnip3-mediated mitochondrial dysfunction
+cell death and differentiation
+role of bnip3 in ischemia/reperfusion injury
+a hamacher-brady et al
+151
+normoxic
+si/r
+p<0.05
+pcdna3.1
+bnip3∆tm
+60
+50
+40
+30
+20
+10
+bnip3
+actin
+normoxia
+si/r
+**
+control
+50 µm zvad 
+100 µm zvad 
+normoxia
+si/r
+p<0.05
+50
+40
+30
+20
+10
+control
+bnip3 shrna
+**
+45
+40
+35
+30
+25
+20
+15
+10
+pcdna3.1
+bnip3
+bnip3
+bnip3
+50 µm zvad 
+100 µm zvad 
+figure 5 role of caspases in i/r- and bnip3-mediated cell death in hl-1 myocytes. (a) cells transiently transfected with vector or bnip3dtm were subjected to 2 h of
+simulated ischemia and 12 h of reperfusion. data are mean7s.e.m. of three independent experiments. (b) western blot analysis of bnip3 levels in hl-1 myocytes after 48 h
+transfection with control or bnip3 interfering rna (shrna). (c) cell death was determined after 2 h of simulated ischemia and 12 h of reperfusion in cells transfected with
+control or bnip3 shrna. data are mean7s.e.m. of three independent experiments. (d) cells were treated with dmso or zvad-fmk for 15 min prior to 2 h of simulated
+ischemia and 12 h of reperfusion (*, **po0.05 versus si/r). (e) hl-1 myocytes transiently transfected with pcdna3.1 or bnip3 were treated with zvad-fmk and evaluated for
+dead cells 48 h post-transfection (n¼ 3, *, **po0.05 versus bnip3)
+during i/r leads to upregulation of autophagy as a cellular
+stress response to dispose of damaged mitochondria.
+discussion
+the bcl-2 family members are important regulators of cell
+death in the myocardium. in the present study, we show that
+the mitochondrial protein bnip3, a bh3-only member of the
+bcl-2 family, contributes to i/r injury in the myocardium. we
+found that bnip3 was expressed at substantial levels the adult
+myocardium, whereas bnip3 was undetectable in neonatal
+cardiac myocytes. it is likely that bnip3 exists in an inactive
+conformation in the absence of a death signal. kubasiak
+et al.10 reported that hypoxia induced expression of bnip3 in
+neonatal cardiac myocytes, but hypoxia alone did not signal
+apoptosis. for substantial apoptosis to occur, hypoxia had to
+be combined with acidosis, suggesting that bnip3 activity is
+regulated by intracellular ph. several studies have reported
+that
+intracellular acidosis plays an
+important role in apoptotic signaling.28,29 ischemia is asso-
+ciated with a drop in intracellular ph from about 7.2 to 6.3,30
+which may be sufﬁcient to activate bnip3 in the mitochondria.
+the development of
+bnip3dtm has previously been reported to act as a
+dominant negative in bnip3-mediated cell death.8,10 accord-
+ingly, we examined whether bnip3dtm could reduce i/r injury
+in the myocardium. we found that perfusion of hearts with
+tat-bnip3dtm protected against i/r injury as indicated by
+diminished ck release and infarct size, as well as improved
+cardiac function. suppression of apoptosis by bnip3dtm was
+conﬁrmed by tunel staining and immunostaining for active
+caspase-3. since bnip3dtm does not interact directly with
+full-length bnip3,7 we hypothesize that it acts as a dominant-
+negative inhibitor of endogenous bnip3 by competing for
+some regulatory factor required for bnip3 activation. further
+work will be necessary to establish the mechanism by which
+bnip3dtm protects against cell death.
+the importance of mitochondria in determining cell viability
+after i/r has been increasingly recognized in the past few
+years. mitochondrial dysfunction disrupts energy production
+and can trigger apoptosis. since bnip3 is localized exclusively
+to the mitochondria in myocardial cells and causes mitochon-
+drial dysfunction when overexpressed, we speculated that
+bnip3 might contribute to i/r injury through activation of the
+mitochondrial (intrinsic) pathway of apoptosis. consistent with
+this, tat-bnip3dtm was able to prevent cytochrome c and
+cell death and differentiation
+role of bnip3 in ischemia/reperfusion injury
+a hamacher-brady et al
+152
+control
+si/r
+si/r + bnip3∆tm 
+normoxic
+si/r
+p<0.05
+50
+40
+30
+20
+10
+control
+bnip3∆tm
+figure 6 i/r leads to bnip3-mediated upregulation of autophagy. (a) electron micrographs of hearts subjected to i/r showing the presence of autophagosomes. (b)
+electron micrographs of hl-1 myocytes subjected to normoxia (a), or si/r (b). higher magniﬁcation of hl-1 cells after si/r (c and d). arrowheads depict autophagosomes . (c)
+hl-1 myocytes were transfected with gfp-lc3 and vector or bnip3dtm prior to si/r. after 2 h of ischemia and 90 min of reperfusion, the extent of autophagy was assessed by
+analyzing staining patterns of gfp-lc3. (d) quantitation of autophagy in hl-1 myocytes. data are mean7s.e.m. of three independent experiments. bnip3dtm signiﬁcantly
+reduced si/r-induced autophagy in cells
+investigation of
+aif release in isolated perfused hearts subjected to i/r, and
+recombinant bnip3 directly caused cytochrome c and aif
+release from mitochondria. further
+the
+mechanism of bnip3-mediated cell death revealed that
+caspases are involved in cell death induced by bnip3 in
+hl-1 cardiac myocytes. similarly, regula et al.8 reported that
+bnip3-induced cell death was dependent on caspase activa-
+tion. however, other studies have reported that overexpres-
+sion of bnip3 in cell lines did not induce detectable release of
+cytochrome c from mitochondria and that bnip3-mediated cell
+death occurred through a caspase-independent mechan-
+ism.10,11 this variation could be due to the differences in the
+cell death and differentiation
+systems used to study bnip3 or it could reﬂect cell-speciﬁc
+regulation of bnip3, including intracellular ph.
+rat myocardium after
+i/r and that many of
+in this study, we report that autophagy was present in the
+adult
+the
+autophagosomes contained mitochondria. upregulation of
+autophagy has been reported to serve as a protective
+response to various stressors including mitochondrial dys-
+function.31,32 recently, yan et al.21 reported that chronic
+ischemia led to induction of autophagy in the myocardium.
+they found that areas in the myocardium with enhanced
+autophagy had fewer apoptotic cells, suggesting that induc-
+tion of autophagy leads to inhibition of apoptosis. we have
+control
+bnip3
+bnip3∆tm
+role of bnip3 in ischemia/reperfusion injury
+a hamacher-brady et al
+153
+con
+70
+60
+50
+40
+30
+20
+10
+control
+bnip3
+bnip3∆tm
+gfp-lc3
+ltr
+bnip3
+figure 7 overexpression of bnip3 induces autophagy in hl-1 cells. (a) hl-1
+myocytes were cotransfected with gfp-lc3 and pcdna3.1, bnip3, or bnip3dtm.
+after 48 h, the extent of autophagy was assessed by analyzing staining patterns of
+gfp-lc3. (b) quantitation of autophagy in transfected hl-1 myocytes. over-
+expression of bnip3 in cardiac myocytes signiﬁcantly induced autophagy
+(*po0.05). the percentage of punctate gfp-lc3-positive cells per condition is
+shown as the mean7s.e.m. of three independent experiments. (c) colocalization
+of ltr and gfp-lc3 demonstrate formation of autophagolysosomes. at 48 h
+following cotransfection with gfp-lc3 and bnip3, hl-1 myocytes were loaded with
+50 nm ltr for 5 min at rt. ltr staining was prominent in the area containing
+autophagosomes, and colocalized with gfp-lc3 labeled autophagosomes
+(arrows). scale bar¼ 10 mm
+linked bnip3 to induction of autophagy in i/r. moreover, we
+found that overexpression of bnip3 resulted in extensive
+fragmentation of the mitochondria and a massive increase in
+autophagic vacuoles containing fragments of mitochondria in
+the absence of i/r. it is likely that the fragmented mitochondria
+may release proapoptotic factors such as cytochrome c which
+can activate the intrinsic apoptotic pathway. thus, upregula-
+tion of autophagy in response to bnip3 activation may serve
+as a protective response by removing harmful and leaky
+mitochondria, thus preventing activation of apoptosis. our
+data demonstrates that enhancing the autophagic process
+with atg5 resulted in reduced cell death by bnip3, whereas
+reducing autophagy with atg5k130r produced the opposite
+bnip3∆tm
+bnip3
+figure 8 bnip3 overexpression results in fragmentation of the mitochondrial
+network. cells were cotransfected with mito-dsred2 and pcdna3.1, bnip3, or
+bnip3dtm and images were acquired 48 h after transfection. (scale bar¼ 10 mm)
+effect. in fact, atg5 overexpression protected against bnip3-
+mediated cell death even after 72 h of transfection (data not
+shown), suggesting that modulation of the autophagic path-
+way provides to protection over a prolonged period of time.
+however, although low levels of autophagy may constitute a
+cell death and differentiation
+154
+role of bnip3 in ischemia/reperfusion injury
+a hamacher-brady et al
+bnip3
+lc3-gfp
+mito-dsred2
+merged
+sequestered 
+mitochondrion
+(i)
+mitochondrial 
+sequestration
+(ii) 
+figure 9 bnip3 overexpression causes mitochondrial autophagy. hl-1 myocytes were cotransfected with mito-dsred2, gfp-lc3 and bnip3. at 48 h following
+transfection, gfp-lc3 distribution and dsred2-labeled mitochondria were detected by 3d confocal imaging (scale barâ¼ 3 mm). (a) mitochondria appeared fragmented and
+colocalized with autophagosomes. (b) surface volume rendering of the structures denoted by arrows revealed mitochondrial autophagy in 3d showing different stages of
+mitochondrial engulfment in bnip3-overexpressing cells. (i) engulfed mitochondrion (b, closed arrow) and (ii) mitochondrion undergoing sequestration (b, open arrow)
+protective mechanism by removal of damaged mitochondria,
+excessive autophagy may lead to cell death. presently, it is
+unknown what triggers damaged mitochondria to be removed
+by autophagy.
+it is not known whether bnip3 directly induces autophagy or
+whether autophagy is induced as a consequence of mito-
+chondrial damage caused by bnip3. several studies have
+reported that overexpression of bnip3 induces cell death
+through mptp opening.8,10,11 thus, it is possible that the
+mptp serves as an upstream signal
+for mitochondrial
+autophagy in i/r. similary, elmore et al.31 reported that
+opening of
+the mptp triggered autophagy of damaged
+mitochondria in hepatocytes. the mptp has also been
+the mptp, are more resistant
+reported to play a role in i/r injury. recent studies have
+reported that preventing mptp opening protects against i/r
+injury.33,34 moreover, mice lacking cyclophilin d, a component
+of
+to i/r injury, whereas
+transgenic mice overexpressing cyclophilin d exhibited
+swollen mitochondria and increased spontaneous cell
+death.35 this suggests that bnip3-mediated mitochondrial
+damage through opening of the mptp may be the cause of
+enhanced autophagy.
+in this report, we demonstrate that bnip3 contributes to i/r
+injury in the heart. bnip3 causes disruption of mitochondrial
+integrity, leading to enhanced superoxide production and the
+release of proapoptotic factors, such as cytochrome c and
+cell death and differentiation
+50
+40
+30
+20
+10
+70
+60
+50
+40
+30
+20
+10
+pcdna3.1
+bnip3
+**
+vector
+atg5
+atg5k130r
+pcdna3.1
+bnip3
+**
+vector
+atg5
+atg5k130r
+figure 10 modulation of autophagy affects bnip3-mediated cell death. (a) hl-1
+myocytes were cotransfected with vector, atg5 or atg5k130r, and pcdna3.1 or
+bnip3 and gfp-lc3 to monitor formation of autophagosomes as described in
+materials and methods. (b) cells were transfected with pcdna3.1 or bnip3 and
+vector, atg5 or atg5k130r and cell death was assessed 48 h after transfection as
+described in materials and methods. data are mean7s.e.m. (n¼ 3, *,**po0.05)
+aif. moreover, we show that i/r induces autophagy in a
+bnip3-dependent manner. taken together,
+these ﬁndings
+implicate bnip3 as a major contributor to myocardial injury by
+causing mitochondrial dysfunction, which is associated with
+upregulation of autophagy as a protective cellular stress
+response.
+materials and methods
+recombinant protein expression and puriﬁcation. tat-b-gal and
+tat-bnip3dtm fusion proteins were puriﬁed as previously described.17 his-tagged
+bnip3 and bnip3dtm were grown in bl21(de3) cells (invitrogen) and expression
+was induced with 1 mm iptg for 4 h. the bacteria were resuspended in native
+buffer (150 mm nacl, 1% tween-20, 50 mm nah2po4, ph 8.0, and complete
+protease inhibitors (roche)), followed by sonication on ice. after centrifugation at
+20 000 g for 20 min, the supernatants were added to columns containing ni-nta
+(qiagen inc.). the proteins were eluted with 250 mm imidazole in native buffer,
+followed by desalting on pd-10 columns (amersham-pharmacia).
+isolation of neonatal cardiac myocytes. neonatal rat cardiac myocytes
+were prepared by collagenase digestion as previously described.28 cells were
+plated on gelatin-coated dishes for 24 h.
+role of bnip3 in ischemia/reperfusion injury
+a hamacher-brady et al
+155
+assessed via the conversion of dhe to ethidium as described.37 for hemodynamic
+measurements, a thin plastic balloon ﬁlled with water was inserted into the left
+ventricle and connected to a pressure transducer (emka technologies).
+immunohistochemistry. after perfusion, hearts were ﬁxed with 4%
+formaldehyde, embedded, and thin-sectioned, followed by deparafﬁnization and
+rehydration. sections were blocked in 5% goat serum and then incubated overnight
+at 41c with an antibody against cleaved caspase-3 (cell signaling technology).
+nonspeciﬁc staining was assessed by omitting the primary antibody. after washing,
+sections were incubated for 2 h at room temperature with anti-mouse alexa 594
+(molecular probes). in situ labeling of fragmented dna in heart sections was
+performed using the in situ cell death detection kit (roche applied science)
+according to the manufacturer’s instructions. nuclei were counterstained with
+hoechst 33342 (molecular probes).
+preparation of mitochondria and cytosol and western
+blotting. the isolation of mitochondria and cytosol and western blotting were
+carried out as previously described.18 brieﬂy, ventricles were minced and
+(220 mm mannitol, 70 mm
+homogenized by polytron in ice-cold mse buffer
+sucrose, 2 mm egta, 5 mm mops ph 7.4, and 0.2% bsa). the lysates were
+centrifuged for 10 min at 600 g to remove unbroken tissue and nuclei, and the
+supernatants were centrifuged for 10 min at 3000 g to pellet mitochondria. the
+supernatant was centrifuged for 30 min at 100 000 g to obtain cytosol, while the
+mitochondrial fraction was resuspended in incubation buffer containing 180 mm
+mannitol, 70 mm sucrose, 10 mm kcl, 10 mm mgcl2, 1 mm egta, 5 mm kh2po4,
+and 10 mm mops ph 7.4.
+alkali extraction. freshly isolated heart mitochondria were resuspended in
+freshly prepared 0.1 m na2co3 (ph 11.5) and incubated for 20 min on ice. the
+membranes were recovered by centrifugation at 100 000 g for 30 min, separated
+by sds-page, and analyzed by immunoblotting using an antibody against bnip3
+(sigma), bak (g-23, santa cruz), or bax (n-20, santa cruz).
+assessment of cytochrome c and aif release. heart mitochondria
+(50 mg) were incubated with vehicle, bnip3 (1 mg), bnip3dtm (1 mg), or tbid
+(100 ng) for 60 min at 301c, and cytochrome c and aif release was determined by
+western blotting as described.18
+electron microscopy. hearts were perfused with 4% paraformaldehyde,
+1.5% glutaraldehyde in 0.1 m na cacodylate buffer, postﬁxed in 1% osmium
+tetroxide, dehydrated in ethanol, treated in propylene oxide and embedded in
+embed 812/araldite (electron microscopy sciences, fort, washington, pa,
+usa). hl-1 myocytes were ﬁxed in 2.5% glutaraldehyde in 0.1 m cacodylate
+buffer, postﬁxed in 1% osmium tetroxide, and then treated with 0.5% tannic acid,
+1% sodium sulfate, cleared in 2-hydroxypropyl methacrylate and embedded
+in lx112 (ladd research, williston, vt, usa). sections were mounted on
+copper slot grids coated with parlodion and stained with uranyl acetate and lead
+citrate for examination on a philips cm100 electron microscope (fei, hillsbrough,
+or, usa).
+cell culture model of ischemia/reperfusion. atrial derived hl-1 mouse
+cardiac myocytes38 were cultured in claycomb medium (jrh biosciences)
+supplemented with 10% fetal bovine serum, 0.1 mm norepinephrine, 2 mm l-
+glutamine, 100 u/ml penicillin, 100 u/ml streptomycin, and 0.25 mg/ml amphotericin
+b. simulated ischemia was introduced by incubating cells in ischemic buffer
+(125 mm nacl, 8 mm kcl, 1.2 mm kh2po4, 1.25 mm mgso4, 1.2 mm cacl2, 6.25 mm
+nahco3, 20 mm 2-deoxyglucose, 5 mm na-lactate, 20 mm hepes, ph 6.6) and
+placing the dishes in hypoxic pouches (gaspakt ez, bd biosciences) for 2 h at
+371c. reperfusion was initiated by changing to krebs–henseleit buffer (110 mm
+nacl, 4.7 mm kcl, 1.2 mm kh2po4, 1.25 mm mgso4, 1.2 mm cacl2, 25 mm
+nahco3, 15 mm glucose, 20 mm hepes, ph 7.4).
+langendorff perfusion and ischemia/reperfusion. hearts from
+anesthetized male sprague–dawley rats (225–250 g) were rapidly excised and
+cannulated onto the langendorff perfusion apparatus using a protocol adapted from
+tsuchida et al.36 the hearts were perfused with or without 50 nm tat protein and
+subjected to i/r as described.17 the creatine kinase (ck) activity in the coronary
+efﬂuent was measured using a diagnostic kit (stanbio laboratory) and infarct size
+was measured using triphenyl tetrazolium staining. superoxide production was
+short hairpin rna and cell death. sequences with 100% homology to
+mouse bnip3 were generated using block-itt rnai designer (invitrogen). the
+target sequence tccagcctccgtctctattta (78–98) showed no signiﬁcant
+homology to other mouse proteins as determined by blast analysis. the
+sequence was used to generate oligonucleotide pairs, and inserted into the
+pcdna6.2-gw/emgfp-mir vector. to control for nonspeciﬁc rnai effects, the
+construct pcdna6.2-gw/emgfp-mir-lacz was used as a control. the short
+cell death and differentiation
+156
+role of bnip3 in ischemia/reperfusion injury
+a hamacher-brady et al
+hairpin rna plasmids were introduced into cells by transient transfections using
+effectene (qiagen) according to manufacturer’s instructions with a transfection
+efﬁciency of 75–90%. bnip3 protein levels were typically reduced 80–90% after 48 h
+of
+the cells were subjected to 2 h of
+simulated ischemia and 12 h of reperfusion. cells were stained with hoechst 33342
+to assess nuclear morphology of gfp-positive cells.
+transfections. after 48 h of
+transfection,
+dna constructs. egfp of the vector pegfp-c1 (clonetech) was replaced
+with mcherry,39 generating the pmcherry-c1 vector. atg5 was ampliﬁed from
+mouse cdna by pcr and ligated into pmcherry-c1 vector. the k130r mutation
+was generated using site-directed mutagenesis as previously described.27
+quantitation of cell death and autophagy. hl-1 cardiac myocytes were
+transfected with gfp-lc3 and either pcdna3.1, bnip3, or bnip3dtm using
+effectene according to the manufacturer’s instruction (qiagen). the transfection
+efﬁciency of hl-1 cells was around 40%. to determine cell death, hl-1 cells were
+cotransfected with pdsred2 and pcdna3.1 or bnip3dtm. pdsred2-positive cells
+were evaluated for cell death 48 h after transfection or 12 h after reperfusion using
+yopro1 (molecular probes) ﬂuorescence staining as previously described.40 yopro-
+1 is a nuclear dye that only stains permeable cells undergoing apoptosis and is
+completely excluded from healthy living cells. to quantify autophagy, ﬁxed cells
+were classiﬁed as cells with predominantly diffuse gfp-lc3 ﬂuorescence or
+punctate gfp-lc3 pattern 48 h after transfection. cells were observed through a
+nikon te300 ﬂuorescence microscope (nikon) equipped with a cooled ccd camera
+(orca-er, hamamatsu). at least 75–150 cells were scored from two replicate
+dishes in three independent experiments.
+laser scanning confocal microscopy (lscm). lscm was performed
+with a bio-rad radiance 2100 laser scanning confocal microscope (hercules, ca,
+usa) using a  60 plan apo objective (1.4 n.a oil immersion lens; nikon, japan),
+equipped with both a mixed gas helium-neon (543 nm) laser and an argon
+(488 nm) laser, and operated through bio-rad lasersharp 2000 software. green
+and red ﬂuorescence were directed to separate photomultipliers by a 560-nm long-
+pass dichroic reﬂector
+through hq530sp and hq590/70 emission ﬁlters,
+respectively. the confocal pinholes were conﬁgured so as to obtain images of
+0.7 mm in the axial dimension and step increments were 0.3 mm.
+acknowledgements
+hl-1 cells were kindly provided by dr. claycomb (lsu health sciences center,
+louisiana). we are grateful for the the gfp-lc3 from dr. t yoshimori (national
+institute of genetics, japan), and the prset-mcherry from dr. r tsien (university
+of california, san diego, usa). we appreciate the help of dr malcolm wood (the
+scripps research institute) with the electron microscopy experiments. this
+research was supported by nih ro1-hl60590 (to rag), an american heart
+association, western regional afﬁliate postdoctoral fellowship and by funds from
+the california tobacco-related disease research program of the university of
+california, grant number 14kt-0109 (to a˚ bg), and the stein endowment fund. this
+is ms# 17321-mem of the scripps research institute.
+1. searle j, kerr jf, bishop cj. necrosis and apoptosis: distinct modes of cell death with
+fundamentally different signiﬁcance. pathol annu 1982; 17 (part 2): 229–259.
+2. olivetti g, quaini f, sala r, lagrasta c, corradi d, bonacina e et al. acute myocardial
+infarction in humans is associated with activation of programmed myocyte cell death in the
+surviving portion of the heart. j mol cell cardiol 1996; 28: 2005–2016.
+3. narula j, haider n, virmani r, disalvo tg, kolodgie fd, hajjar rj et al. apoptosis in
+myocytes in end-stage heart failure. n engl j med 1996; 335: 1182–1189.
+8. regula km, ens k, kirshenbaum la.
+inducible expression of bnip3 provokes
+mitochondrial defects and hypoxia-mediated cell death of ventricular myocytes. circ res
+2002; 91: 226–231.
+9. bruick rk. expression of the gene encoding the proapoptotic nip3 protein is induced by
+hypoxia. proc natl acad sci usa 2000; 97: 9082–9087.
+10. kubasiak la, hernandez om, bishopric nh, webster ka. hypoxia and acidosis activate
+cardiac myocyte death through the bcl-2 family protein bnip3. proc natl acad sci usa
+2002; 99: 12825–12830.
+11. vande vc, cizeau j, dubik d, alimonti j, brown t, israels s et al. bnip3 and genetic
+control of necrosis-like cell death through the mitochondrial permeability transition pore.
+mol cell biol 2000; 20: 5454–5468.
+12. daido s, kanzawa t, yamamoto a, takeuchi h, kondo y, kondo s. pivotal role of the cell
+death factor bnip3 in ceramide-induced autophagic cell death in malignant glioma cells.
+cancer res 2004; 64: 4286–4293.
+13. levine b. eating oneself and uninvited guests: autophagy-related pathways in cellular
+defense. cell 2005; 120: 159–162.
+14. liang xh, jackson s, seaman m, brown k, kempkes b, hibshoosh h et al. induction of
+autophagy and inhibition of tumorigenesis by beclin 1. nature 1999; 402: 672–676.
+15. shimomura h, terasaki f, hayashi t, kitaura y,
+isomura t, suma h. autophagic
+degeneration as a possible mechanism of myocardial cell death in dilated cardiomyopathy.
+jpn circ j 2001; 65: 965–968.
+16. yuan j, lipinski m, degterev a. diversity in the mechanisms of neuronal cell death. neuron
+2003; 40: 401–413.
+17. gustafsson ab, sayen mr, williams sd, crow mt, gottlieb ra. tat protein transduction
+into isolated perfused hearts: tat-apoptosis repressor with caspase recruitment domain is
+cardioprotective. circulation 2002; 106: 735–739.
+18. gustafsson ab, tsai jg, logue se, crow mt, gottlieb ra. apoptosis repressor with
+caspase recruitment domain protects against cell death by interfering with bax activation. j
+biol chem 2004; 279: 21233–21238.
+19. chen m, he h, zhan s, krajewski s, reed jc, gottlieb ra. bid is cleaved by calpain to an
+active fragment in vitro and during myocardial ischemia/reperfusion. j biol chem 2001;
+276: 30724–30728.
+20. decker rs, poole ar, crie js, dingle jt, wildenthal k. lysosomal alterations in hypoxic
+and reoxygenated hearts. ii. immunohistochemical and biochemical changes in cathepsin
+d. am j pathol 1980; 98: 445–456.
+21. yan l, vatner de, kim sj, ge h, masurekar m, massover wh et al. autophagy in
+chronically ischemic myocardium. proc natl acad sci usa 2005; 102: 13807–13812.
+22. dunn jr wa. studies on the mechanisms of autophagy: formation of the autophagic
+vacuole. j cell biol 1990; 110: 1923–1933.
+23. kabeya y, mizushima n, ueno t, yamamoto a, kirisako t, noda t et al. lc3, a
+mammalian homologue of yeast apg8p, is localized in autophagosome membranes after
+processing. embo j 2000; 19: 5720–5728.
+24. boya p, gonzalez-polo ra, casares n, perfettini jl, dessen p, larochette n et al.
+25:
+apoptosis. mol cell biol
+of macroautophagy
+inhibition
+1025–1040.
+triggers
+2005;
+25. lum jj, bauer de, kong m, harris mh, li c, lindsten t et al. growth factor regulation of
+in the absence of apoptosis. cell 2005; 120:
+survival
+autophagy and cell
+237–248.
+26. mizushima n, yamamoto a, hatano m, kobayashi y, kabeya y, suzuki k et al. dissection
+of autophagosome formation using apg5-deﬁcient mouse embryonic stem cells. j cell biol
+2001; 152: 657–668.
+27. pyo jo, jang mh, kwon yk, lee hj, jun ji, woo hn et al. essential roles of atg5 and
+fadd in autophagic cell death: dissection of autophagic cell death into vacuole formation
+and cell death. j biol chem 2005; 280: 20722–20729.
+28. karwatowska-prokopczuk e, nordberg ja, li hl, engler rl, gottlieb ra. effect of
+vacuolar proton atpase on phi, ca2+, and apoptosis in neonatal cardiomyocytes during
+metabolic inhibition/recovery. circ res 1998; 82: 1139–1144.
+29. long x, crow mt, sollott sj, o’neill l, menees ds, de lourdes hm et al. enhanced
+expression of p53 and apoptosis induced by blockade of the vacuolar proton atpase in
+cardiomyocytes. j clin invest 1998; 101: 1453–1461.
+30. steenbergen c, perlman me, london re, murphy e. mechanism of preconditioning. ionic
+alterations. circ res 1993; 72: 112–125.
+31. elmore sp, qian t, grissom sf, lemasters jj. the mitochondrial permeability transition
+initiates autophagy in rat hepatocytes. faseb j 2001; 15: 2286–2287.
+32. xue l, fletcher gc, tolkovsky am. mitochondria are selectively eliminated from eukaryotic
+cells after blockade of caspases during apoptosis. curr biol 2001; 11: 361–365.
+4. wang k, yin xm, chao dt, milliman cl, korsmeyer sj. bid: a novel bh3 domain-only
+33. grifﬁths ej, halestrap ap. protection by cyclosporin a of ischemia/reperfusion-induced
+death agonist. genes dev 1996; 10: 2859–2869.
+5. yasuda m, theodorakis p, subramanian t, chinnadurai g. adenovirus e1b-19k/bcl-2
+interacting protein bnip3 contains a bh3 domain and a mitochondrial targeting sequence.
+j biol chem 1998; 273: 12415–12421.
+6. ray r, chen g, vande vc, cizeau j, park jh, reed jc et al. bnip3 heterodimerizes with
+bcl-2/bcl-x(l) and induces cell death independent of a bcl-2 homology 3 (bh3) domain at
+both mitochondrial and nonmitochondrial sites. j biol chem 2000; 275: 1439–1448.
+7. chen g, ray r, dubik d, shi l, cizeau j, bleackley rc et al. the e1b 19k/bcl-2-binding
+protein nip3 is a dimeric mitochondrial protein that activates apoptosis. j exp med 1997;
+186: 1975–1983.
+damage in isolated rat hearts. j mol cell cardiol 1993; 25: 1461–1469.
+34. hausenloy dj, duchen mr, yellon dm. inhibiting mitochondrial permeability transition pore
+opening at reperfusion protects against ischaemia–reperfusion injury. cardiovasc res
+2003; 60: 617–625.
+35. baines cp, kaiser ra, purcell nh, blair ns, osinska h, hambleton ma et al. loss of
+cyclophilin d reveals a critical role for mitochondrial permeability transition in cell death.
+nature 2005; 434: 658–662.
+36. tsuchida a, liu y, liu gs, cohen mv, downey jm. alpha 1-adrenergic agonists
+precondition rabbit ischemic myocardium independent of adenosine by direct activation of
+protein kinase c. circ res 1994; 75: 576–585.
+cell death and differentiation
+role of bnip3 in ischemia/reperfusion injury
+a hamacher-brady et al
+157
+37. sayen mr, gustafsson ab, sussman ma, molkentin jd, gottlieb ra. calcineurin
+transgenic mice have mitochondrial dysfunction and elevated superoxide production. am j
+physiol cell physiol 2003; 284: c562–c570.
+38. claycomb wc, lanson jr na, stallworth bs, egeland db, delcarpio jb, bahinski a et al.
+hl-1 cells: a cardiac muscle cell line that contracts and retains phenotypic characteristics of
+the adult cardiomyocyte. proc natl acad sci usa 1998; 95: 2979–2984.
+39. campbell re, tour o, palmer ae, steinbach pa, baird gs, zacharias da
+et al. a monomeric red ﬂuorescent protein. proc natl acad sci usa 2002; 99:
+7877–7882.
+idziorek t, estaquier j, de bf, ameisen jc. yopro-1 permits cytoﬂuorometric analysis of
+programmed cell death (apoptosis) without interfering with cell viability. j immunol methods
+1995; 185: 249–258.
+40.
+cell death and differentiation

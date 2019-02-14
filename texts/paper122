@@ -1,0 +1,717 @@
+scientific report
+scientificreport
+atg1, an autophagy regulator, inhibits cell growth
+by negatively regulating s6 kinase
+sung bae lee1*, sunhong kim1*, jiwoon lee1, jeehye park1, gina lee1, yongsung kim1, jin-man kim2
+& jongkyeong chung1+
+1national creative research initiatives center for cell growth regulation, department of biological sciences, korea advanced
+institute of science and technology, and 2department of pathology, chungnam national university school of medicine, taejon,
+republic of korea
+it has been proposed that cell growth and autophagy are
+coordinated in response to cellular nutrient status, but the
+relationship between them is not fully understood. here, we have
+characterized the fly mutants of autophagy-specific gene 1
+(atg1), an autophagy-regulating kinase, and found that atg1
+is a negative regulator of the target of rapamycin (tor)/s6 kinase
+(s6k) pathway. our drosophila studies have shown that atg1
+inhibits tor/s6k-dependent cell growth and development by
+interfering with s6k activation. consistently, overexpression of
+atg1 in mammalian cells also markedly inhibits s6k in a kinase
+activity-dependent manner, and short interfering rna-mediated
+knockdown of atg1 induces ectopic activation of s6k and
+s6 phosphorylation. moreover, we demonstrated that atg1
+specifically inhibits s6k activity by blocking phosphorylation of
+s6k at thr 389. taken together, our genetic and biochemical
+results strongly indicate crosstalk between autophagy and cell
+growth regulation.
+keywords: autophagy; cell growth; s6k; tor
+embo reports (2007) 8, 360–365. doi:10.1038/sj.embor.7400917
+introduction
+the nutritional environment is a crucial determinant of important
+cellular decisions, such as growth, proliferation and development.
+recently, a series of outstanding studies have demonstrated that
+nutrient availability tightly regulates cell growth through an
+evolutionarily highly conserved signalling pathway, the target of
+1national creative research initiatives center for cell growth regulation,
+department of biological sciences, korea advanced institute of science and
+technology, 373-1 kusong-dong, yusong-gu, taejon 305-701, republic of korea
+2department of pathology, chungnam national university, school of medicine,
+640 daesa-dong, chung-gu, taejon 301-721, republic of korea
+*these authors contributed equally to this work
++corresponding author. tel: þ 82 42 869 2620; fax: þ 82 42 869 8260;
+e-mail: jchung@kaist.ac.kr
+received 26 april 2006; revised 18 january 2007; accepted 18 january 2007;
+published online 9 march 2007
+rapamycin (tor)/p70 s6 kinase (s6k) pathway (reviewed in hay
+& sonenberg, 2004). s6k was originally discovered as a kinase
+that phosphorylates 40s ribosomal protein s6 at many sites and its
+activity has been considered as a characteristic of cell growth
+(kozma & thomas, 1994). studies on the action mechanism of
+immunosuppressant rapamycin led to a surprising discovery that
+tor is the upstream activator of s6k in vivo (chung et al, 1992;
+brown et al, 1994; sabatini et al, 1994). recently, studies using
+mammalian cell lines (fingar et al, 2002) and knockout mice
+(shima et al, 1998) clearly showed that the tor/s6k signalling
+pathway controls cell growth in vertebrates. consistently,
+drosophila s6k (ds6k) and drosophila tor (dtor) mutants
+also showed reduced cell and body size compared with the wild-
+type (w1118) fly (montagne et al, 1999; oldham et al, 2000;
+zhang et al, 2000).
+large portions of
+tor is also involved in the regulation of autophagy. autophagy
+is a process conserved among all eukaryotic cells and is required
+for rapid degradation of
+the cytoplasm and
+lumen, occurring as a result of
+organelles in the lysosomal
+nutrient deprivation or normal developmental processes (levine
+& klionsky, 2004). under nutrient-rich conditions, tor blocks
+the initiation step of autophagy by facilitating dissociation of
+autophagy-specific gene (atg) 13 from atg1, an essential factor
+required for the formation of an autophagic vesicle (autophago-
+some) in budding yeast (kamada et al, 2000). furthermore, the
+crucial roles of tor and atg1 in starvation- and development-
+dependent autophagy have been discovered in the fat body cells
+of drosophila (scott et al, 2004).
+as cell growth and autophagy are opposite biological processes
+both regulated by tor, we hypothesized that autophagy might
+be responsible for inhibiting cell growth under conditions of
+suppressed tor signalling, such as starvation. to investigate the
+relationship between autophagy and cell growth regulation, we
+examined the interactions between the representative components
+of the two pathways, tor/s6k and atg1. using biochemical and
+genetic approaches, we demonstrated that atg1 negatively
+regulates s6k and, consequently, inhibits cell growth in both
+mammals and drosophila.
+3 6 0
+embo reports vol 8 | no 4 | 2007
+&2007 european molecular biology organization
+atg1 inhibits s6 kinase
+s.b. lee et al
+scientific report
+1.0
+0.8
+0.6
+0.4
+0.2
+w1118
+dmatg11/+
+dmatg11
+w1118
+dmatg11/+
+dmatg1∆3d/+
+dtor p1
+dtor p1;
+dmatg11/+
+dtor p1;
+dmatg1∆3d/+
+ep3348 (dmatg11)
+5 kb
+cg10967
+∆3d/+
+dmatg11/+
+dmatg1
+p1
+dtor
+p1;
+p1;
+∆3d/+
+dmatg11/+
+dmatg1
+dtor
+dtor
+w1118
+3 days
+ael
+6 days
+ael
+)100
+80
+60
+40
+20
+w1118
+dmatg11/+
+dmatg1∆3d/+
+dtor p1
+dtor p1;
+dmatg11/+
+dtor p1;
+dmatg1∆3d/+
+120
+100
+80
+60
+40
+20
+cell size
+nucleus size
+dmatg11/+
+∆3d/+
+w1118
+dmatg1
+p1
+dtor
+p1;
+∆3d/+
+dmatg11/+
+p1;
+dtor
+dtor
+dmatg1
+fig 1 | involvement of drosophila autophagy-specific gene 1 in drosophila target of rapamycin-dependent cell growth and development. (a) genomic
+structure of cg10967. the p-element insertion site of ep3348 (dmatg11) is denoted. (b) the transcriptional levels of dmatg1 in the third instar
+larvae were analysed by qrt–pcr. ribosomal protein 49 (rp49) was used as an internal control; n¼ 3. bars indicate mean7s.d. (c) images of the
+larvae of denoted genotypes at 3 days (top) and 6 days (middle) after egg-laying (ael), and quantification of the larvae that developed into the
+mid–late third instar stage of each genotype (bottom); n¼ 3. bars indicate mean7s.d. fifteen larvae of each genotype were examined in each
+experiment. (d) suppression of lipid vesicle aggregation in the fat body of dtor mutants by reduced gene dosage of dmatg1. the fat body images of
+the second/early third instar larvae of denoted genotypes under fully fed conditions. (e) images of the larval salivary glands of denoted genotypes.
+hoechst33342 (pseudo-coloured green) and phalloidin-tritc (red) were used to visualize the nuclei and cell boundary of larval salivary gland cells,
+respectively. (f) quantitative analysis of cell and nuclear sizes in fig 1e; n¼ 5. bars indicate mean7s.d. dmatg1, drosophila autophagy-specific gene 1;
+dtor, drosophila tor; qrt–pcr, quantitative real-time reverse transcriptase–pcr.
+results and discussion
+drosophila atg1 and characterization of its mutants
+the drosophila cg10967 gene, which encodes a sole drosophila
+orthologue of atg1,
+is known as dmatg1 (supplementary
+figs s1,s2a online). previous studies demonstrated that homo-
+zygous ep3348 flies, in which a single p element is inserted into
+the 50 untranslated region of dmatg1 (fig 1a), show larval/pupal
+lethality (spradling et al, 1999; scott et al, 2004). however, after
+we cleared the genomic background of the ep3348 line by four
+backcrosses with w1118 flies, about 30% of homozygous mutants
+were found to develop to adults (fig 2a). to confirm that the
+p-element insertion in ep3348 hampers transcription of dmatg1
+(scott et al, 2004), we carried out quantitative real-time reverse
+transcriptase–pcr (qrt–pcr), which showed highly reduced
+dmatg1 expression in the mutant (fig 1b). therefore, we named
+this cleared ep3348 allele as dmatg11.
+&2007 european molecular biology organization
+embo reports vol 8 | no 4 | 2007
+3 6 1
+scientific report
+atg1 inhibits s6 kinase
+s.b. lee et al
+100
+80
+60
+40
+20
+anti-pthr 398
+tubulin
+relative level
+(fold)
+w1118
+ds6k07084/+
+ds6kl–1/+
+dmatg11
+dmatg11;
+ds6k07084/+
+dmatg11;
+ds6kl–1/+
+third instar larvae
+pupae
+w1118
+dmatg11
+w1118
+dmatg11
+1.0
+3.6
+1.0
+2.6
+third instar larvae
+w1118
+dmatg11
+hs>rheb
+anti-pthr 398
+tubulin
+relative level
+(fold)
+1.0
+3.6
+11.2
+fig 2 | functional interaction between drosophila autophagy-specific gene 1
+and drosophila s6 kinase. (a) quantification of adults that survived after
+eclosion for denoted genotypes; n¼ 3. bars indicate mean7s.d. fifteen
+larvae of each genotype were examined in each experiment.
+(b,c) activation of ds6k in dmatg1 mutants. phosphorylation of ds6k
+was examined by immunoblot analyses using phosphospecific ds6k t398
+antibody in the third instar larvae or pupae of denoted genotypes.
+tubulin immunoblot was used as a loading control. rheb expressing flies
+(hs4rheb) were used as a positive control (c). hs4rheb larvae were
+subjected to heat shock at 37 1c for 1 h and then incubated at 30 1c for
+3 h before sample preparation to induce rheb expression. for
+quantification, the levels of ds6k phosphorylation in each genotype were
+measured using adobe photoshop, and normalized to the tubulin levels.
+results are expressed as a fold change compared with the wild-type
+controls (w1118). dmatg1, drosophila autophagy-specific gene 1; ds6k,
+drosophila s6 kinase.
+as bettencourt-dias et al (2004) have showed previously that
+cg10967 rna intereference (rnai) can induce mitotic abnorm-
+alities in drosophila s2 cells, we first examined the mitotic
+phenotypes in the larval brain and imaginal discs of dmatg1
+mutants, dmatg11 and dmatg1d3d (a null allele of dmatg1;
+scott et al, 2004). however, we could not
+find any notable
+mitotic defects in the mutants compared with the wild-type
+control (w1118, supplementary fig s3a,b online). consistently,
+dmatg1 mutants had no gross chromosomal abnormalities in
+the neuroblast cells of third instar larval brains (supplementary
+fig s3c online).
+next, we looked for any defects in autophagy in dmatg11
+flies using toluidine blue-azure ii staining and transmission
+electron microscopy (tem) analyses. as expected, dmatg11
+flies showed marked defects in the induction of autophagy under
+conditions of starvation (supplementary fig s2b–d,f–h online),
+which is highly consistent with the previous
+study using
+dmatg1d3d (scott et al, 2004). these results strongly supported
+that dmatg11 is a new hypomorphic mutant allele of dmatg1.
+functional interaction between atg1 and tor
+to understand further the in vivo roles of atg1 in drosophila,
+we generated double-mutant lines for dtorp1 (a loss-of-function
+mutant allele of dtor; zhang et al, 2000) and dmatg1 mutants
+(dmatg11, dmatg1d3d and ep3348). as reported previously
+(zhang et al, 2000), homozygous dtorp1 mutants showed growth
+arrest in the second/early third instar larval stage and markedly
+delayed growth. surprisingly, homozygous dtorp1 larvae with a
+heterozygous genetic background of dmatg11 or dmatg1d3d
+not only grew faster than homozygous dtorp1, but also extended
+their developmental stage to the mid–late third instar larval stage
+(fig 1c). furthermore, the double-homozygous mutants between
+dtorp1 and various dmatg1 mutants survived up to the mid–
+late third instar larval stage (data not shown), which is inconsistent
+with the previous results (scott et al, 2004).
+in addition, we found that another phenotype of dtorp1
+mutants, lipid vesicle aggregation in the fat body (colombani
+et al, 2003), was also suppressed by a reduction of the gene
+dosage of dmatg1 (fig 1d). these results implicated that atg1
+negatively mediates the developmental and physiological roles
+of tor in drosophila.
+as dtor regulates cell growth in a cell-autonomous manner
+(oldham et al, 2000; zhang et al, 2000), we decided to examine
+whether dmatg1 is also involved in this role of dtor. consistent
+with the previous report (zhang et al, 2000), the cell and nuclear
+sizes of the salivary gland cells were markedly reduced in dtorp1
+larvae (fig 1e,f).
+the heterozygous genetic back-
+ground of dmatg11 or dmatg1d3d partly rescued the reduced
+cell and nuclear size phenotype of dtorp1 (fig 1e,f), strongly
+implicating that dmatg1 mediates the crucial function of dtor
+in cell growth regulation. this is further supported by recent
+results (scott et al, 2007), that dmatg1-null cells have a relative
+growth advantage over wild-type cells when treated with
+rapamycin, a specific inhibitor of dtor.
+intriguingly,
+to examine the possibility that the suppression of dtorp1
+phenotypes by dmatg1 mutation resulted from altered auto-
+phagic activities, we investigated the genetic interactions between
+dtor and other autophagy-related genes, such as atg6 (beclin1)
+and uvrag (uv radiation resistance associated gene), which are
+known to form a complex regulating autophagosome formation
+(liang et al, 2006; supplementary fig s4 online). as a result, atg6
+and uvrag mutations did not suppress the developmental
+delay and cell growth defects of dtor mutants
+(supple-
+mentary fig s5 online), showing that the interaction between
+dtor and dmatg1 is not caused indirectly by uncontrolled
+regulation of autophagy.
+functional interaction between atg1 and s6k
+to determine the functional interaction between atg1 and s6k, a
+downstream effector of tor, we generated double-mutant lines
+3 6 2
+embo reports vol 8 | no 4 | 2007
+&2007 european molecular biology organization
+atg1 inhibits s6 kinase
+s.b. lee et al
+scientific report
+between dmatg11 and ds6k mutants—a hypomorphic allele,
+ds6k07084, and a null allele, ds6kl 1 (montagne et al, 1999).
+using tem analyses, we observed that a reduction of ds6k gene
+dosage did not rescue the defects in autophagosome formation in
+starved dmatg11 homozygous larvae (supplementary fig s2e,i
+online). however, surprisingly, the reduced gene dosage of ds6k
+increased the eclosion rate of homozygous dmatg11 in a ds6k
+gene dosage-dependent manner (fig 2a). although we cannot
+completely exclude the possibility that s6k promotes autophagy
+as reported previously (scott et al, 2004), these data indicate
+that ds6k has an important
+role in dmatg1-dependent
+developmental processes.
+next, we conducted a biochemical analysis to examine the
+effect of loss of dmatg1 on ds6k activation. as a result, we
+found that ds6k was markedly activated (bthreefold increase) in
+homozygous dmatg11 larvae and pupae, measured by the
+phosphorylation of ds6k at the thr 398 site, compared with the
+wild-type controls (w1118, fig 2b). notably, the increased level
+of ds6k phosphorylation in dmatg11 mutants was about one-
+third of that in flies overexpressing rheb (fig 2c). consistent with
+this, dmatg1 overexpression almost completely inhibited ds6k
+thr 398 phosphorylation in drosophila (scott et al, 2007). these
+results strongly suggest an important
+role of atg1 in the
+regulation of s6k.
+inhibition of s6k activity by atg1
+to extend our findings to the mammalian system and also to
+investigate further the molecular mechanism of the interaction
+between atg1 and tor/s6k, we examined the effect of atg1 on
+the activity of s6k in mammalian cells. there are two isoforms of
+atg1 in mammals, which are named unc-51-like kinase (ulk) 1
+and 2 (kuroyanagi et al, 1998; yan et al, 1998, 1999). however,
+according to the agreement on gene nomenclature made by
+researchers in the field of autophagy (klionsky et al, 2003),
+we renamed them atg1a and atg1b, respectively. nutrient
+deprivation of hek293t cells abolished the phosphorylation of
+s6k at both thr 229 and thr 389 sites, which represents the
+activation status of s6k (fig 3a,
+lanes 1–3). when nutrients
+including amino acids and glucose (dmem) were added back to
+the cells, the phosphorylation of both sites in s6k was strongly
+induced (fig 3a, lane 4). however, co-expression of wild-type
+mouse atg1a (atg1a wt) strongly inhibited s6k activity
+induced by dmem (fig 3a, lane 5). on the contrary, a kinase-
+dead form of atg1a (atg1a ki) was not able to block the
+nutrient-induced activation of s6k (fig 3a, lane 6), showing that
+atg1a inhibits s6k in a kinase activity-dependent manner.
+consistently, epidermal growth factor
+(egf)-stimulated s6k
+activation was also inhibited by atg1a (fig 3b). furthermore,
+we showed that atg1b, another isoform of atg1, has the same
+inhibitory effect on s6k phosphorylation as atg1a (supple-
+mentary fig s6b online). these data strongly suggest that atg1
+regulates the activities of upstream kinases or phosphatases of
+s6k, which affect both thr 229 and thr 389 phosphorylation.
+as atg1 is a crucial regulator of autophagy in yeast and
+drosophila (matsuura et al, 1997; kamada et al, 2000; levine
+& klionsky, 2004; scott et al, 2004), we tested whether
+overexpression of atg1 can induce autophagy in mammalian
+cells. nutrient deprivation was able to induce autophagy in mcf-
+7 cells (supplementary fig s7a,b online), whereas overexpression
+of atg1 did not induce autophagy in mcf-7 (supplementary
+fig s7a,b online) and hek 293t cells (supplementary fig s7c
+online), indicating that the inhibition of tor/s6k by atg1 is not
+an indirect consequence of an ectopic induction of autophagy.
+this was further supported by the observation that overexpression
+of atg6 and uvrag did not inhibit the phosphorylation of s6k
+(supplementary fig s7d online), which is also highly consistent
+with the above drosophila data (supplementary fig s5 online).
+then, we used short
+interfering rna (sirna)
+targeting for
+atg1a and atg1b messenger rna to confirm that atg1 inhibits
+s6k activity. the efficacy of sirna was verified by qrt–pcr using
+atg1-specific primers (supplementary fig s8a,b online). trans-
+fection of atg1a and atg1b sirna to hek 293t cells led
+to increased phosphorylation of s6k thr 389 (fig 3c, top panel)
+and s6 (the only proven in vivo substrate of s6k) thr 235/
+236 (fig 3c,
+lower middle panel). this result was further
+supported by immunocytochemistry by using phosphospecific s6
+antibody; atg1 sirna transfection alone induced phospho-
+specific immunostaining of s6 in starved cells (fig 3e). taken
+together,
+these results clearly demonstrate that atg1 inhibits
+s6k and s6 in vivo.
+notably, the level of s6k activation by atg1 sirna was about
+5% of that by nutritional stimulation (fig 3d). we think that this
+weak activation of s6k resulted from partial gene knockdown by
+rnai (supplementary fig s8) and genetic redundancy of atg1 in
+mammals (fig 3a; supplementary fig s6b online). consistent with
+this conclusion, we observed more pronounced activation of ds6k
+in dmatg1 mutants in drosophila, which contains only a single
+orthologue of atg1 (dmatg1; fig 2b,c).
+modulation of s6k thr 389 phosphorylation by atg1
+s6k is in the agc kinase family, which also includes akt and
+p90 ribosomal s6 kinase (rsk). these kinases are regulated
+by a similar mechanism in which both phosphorylation at their
+activation loop and a hydrophobic motif next
+to the kinase
+full activation (mora et al, 2004).
+domain are required for
+3-phosphoinositide-dependent kinase 1 (pdk1)
+is a kinase
+responsible for phosphorylation at the activation loop of agc
+kinases (mora et al, 2004). in the case of s6k, pdk1 directly
+phosphorylates the thr 229 residue at the activation loop of s6k,
+which is strictly dependent on the previous phosphorylation of
+thr 389 at the hydrophobic motif (collins et al, 2003; mora
+et al, 2004). these motifs are well conserved among the family
+members in different species. therefore, we examined whether
+atg1a also affects
+the phosphorylation of akt and rsk.
+interestingly,
+the phosphorylation of akt and rsk was not
+affected by atg1a, with or without stimulation by insulin and
+egf (fig 4a, b, respectively). these data indicate that atg1a
+specifically modulates s6k activity.
+next, to understand the molecular mechanism of the specific
+regulation of s6k by atg1, we investigated whether atg1 affects
+the phosphorylation of thr 229 in s6k by using an s6k mutant that
+specifically mimics the phosphorylated form of s6k, thr 389 glu.
+as a result, thr 229 phosphorylation of the s6k thr 389 glu mutant
+was not affected by wild-type atg1 (fig 4c). because akt was not
+inhibited by atg1 (fig 4a), it is unlikely that atg1 regulates
+thr 389 phosphorylation of s6k by inhibiting the pdk1/akt sig-
+nalling module. therefore, we believe that atg1 modulates s6k
+activity by affecting s6k thr 389-specific kinases or phosphatases.
+&2007 european molecular biology organization
+embo reports vol 8 | no 4 | 2007
+3 6 3
+scientific report
+atg1 inhibits s6 kinase
+s.b. lee et al
+immunoprecipitate: anti-ha
+anti-pthr 229
+anti-pthr 389
+s6k
+atg1α
+ha-s6k
+flag-
+atg1α
+anti-pthr 229
+anti-pthr 389
+s6k
+wcl
+– wt
+ki
+– wt ki
+dmem
+immunoprecipitate: anti-ha
+anti-pthr 389
+immunoprecipitate: anti-s6k
+anti-s6k
+anti-ps6
+anti-s6
+sirna:
+anti-pthr 389
+anti-s6k
+relative level
+(fold)
+sirna:
+wcl
+control
+atg1α
+atg1β
+immunoprecipitate: anti-s6k
+1.0
+control
+4.0
+atg1α
+87.3
+control
+88.2
+atg1α
+dmem
+control
+sirna
+atg1α
+wcl
+atg1α
+ha-s6k
+flag-
+atg1α
+wt
+ki
+– wt
+ki
+egf
+gfp
+anti-
+ps6
+fig 3 | inhibition of s6 kinase phosphorylation by autophagy-specific gene 1. (a,b) hek 293t cells transfected with denoted plasmids were (a)
+deprived of nutrients for 90 min, and then replenished with dmem for 30 min or (b) stimulated with 50 ng/ml epidermal growth factor (egf) for
+30 min. the s6k immune complexes were analysed by immunoblot using appropriate antibodies (top three panels). flag (atg1a) blots were
+completed from the same cell lysates (bottom panel). (c) hek 293t cells transfected with control sirna, atg1a sirna or atg1b sirna were
+deprived of nutrients for 90 min, and then the phosphorylation and protein levels of endogenous s6k (top two panels) and s6 (bottom two panels)
+were determined. (d) hek 293t cells transfected with control sirna or atg1a sirna were deprived of nutrients for 90 min, and then replenished
+with dmem for 30 min. the phosphorylation and protein levels of endogenous s6k were examined. for quantification, the levels of s6k thr 389
+phosphorylation were measured using adobe photoshop, and normalized to the s6k protein levels. results are expressed as a fold change compared
+with the first indicated sample. (e) hek293t cells were transfected with control sirna or atg1a sirna with pegfp-c1 (a transfection marker,
+green), and nutrient-starved for 90 min, fixed and stained with phosphospecific s6 antibody (red). atg1, autophagy-specific gene 1; ha,
+haemagglutinin; ki, atg1a lys 46 ile (kinase-dead) mutant; sirna, short interfering rna; s6k, s6 kinase; wt, wild type.
+anti-pthr 308
+anti-pser 473
+akt
+atg1α
+ha-akt
+flag-
+atg1α
+immunoprecipitate: anti-ha
+wcl
+– w t
+ki
+ki
+w t
+insulin
+anti-pthr 229
+anti-ppdm
+rsk
+atg1α
+myc-rsk
+flag-
+atg1α
+immunoprecipitate: anti-myc
+wcl
+w t
+ki
+ki
+w t
+egf
+anti-pthr 229
+s6k
+atg1α
+ha-s6k
+t389e
+flag-
+atg1α
+immunoprecipitate: anti-ha
+wcl
+w t
+ki
+w t
+ki
+dmem
+fig 4 | inhibition of s6 kinase thr 389 phosphorylation by autophagy-specific gene 1a. (a,b) hek 293t cells were transfected with ha–akt (a)
+or myc–rsk (b), and/or flag–atg1a wt or ki plasmids. the immunoprecipitated akt and rsk proteins were analysed by immunoblot using appropriate
+antibodies (top three panels). flag (atg1a) blots were completed from the same cell lysates (bottom panel). (c) hek 293t cells were transfected with ha–s6k
+thr 389 glu mutant and/or flag–atg1a wt or ki. the immunoprecipitated s6k mutants were analysed by immunoblot using anti-phosphospecific s6k thr
+229 (top panel) and ha (s6k) antibodies (middle panel). flag (atg1a) blot was completed from the same cell lysates (bottom panel). atg1, autophagy-
+specific gene 1; egf, epidermal growth factor; ha, haemagglutinin; ki, atg1a lys 46 ile (kinase-dead) mutant; rsk, ribosomal s6 kinase; wt, wild type.
+3 6 4
+embo reports vol 8 | no 4 | 2007
+&2007 european molecular biology organization
+atg1 inhibits s6 kinase
+s.b. lee et al
+scientific report
+in summary, under nutrient-rich conditions, activation of tor
+leads to inhibition of atg1, which facilitates s6k thr 389
+phosphorylation and the subsequent phosphorylation of thr 229
+by pdk1 to activate s6k fully. consequently, activated s6k
+promotes cell growth. however, under conditions of starvation,
+tor becomes quiescent and atg1 can inhibit s6k by blocking
+thr 389 phosphorylation. this nutrient-dependent signalling
+switch operated by tor and atg1 is highly consistent with that
+in yeast
+(noda & ohsumi, 1998; kamada et al, 2000). the
+observations described in this study clearly show the presence of
+crosstalk between atg1 and s6k signalling,
+in which atg1
+specifically inhibits s6k. we also showed that this is evolutiona-
+rily conserved between drosophila and mammals. we believe
+that our biochemical data and fly system will be useful in future
+studies that address the detailed molecular mechanism of crosstalk
+between the two nutrition-dependent physiological processes—
+autophagy and cell growth.
+methods
+drosophila strains. the fly lines for hs-gal4, dtorp1 and
+ds6k07084 were obtained from the bloomington stock center
+(indiana university, bloomington, in, usa). ep3348 was obtained
+from the szeged drosophila melanogaster p insertion mutant
+stock center (university of szeged, szeged, hungary). the ds6k l-1
+fly line was a generous gift from dr g. thomas (university of
+cincinnati genome research institute, cincinnati, oh, usa;
+montagne et al, 1999). the dmatg1d3d fly strain was kindly
+provided by dr t.p. neufeld (university of minnesota, minnea-
+polis, mn, usa; scott et al, 2004). the uas-rheb fly line was
+provided by dr f. tamanoi (university of california, los angeles,
+usa; patel et al, 2003).
+antibodies. phosphospecific ds6k thr 398, s6k thr 389, s6 ser
+235/236, akt thr 308 and akt ser 473 antibodies were purchased
+from cell signalling technology (danvers, ma, usa). phospho-
+(ser/thr) pdk1 docking motif (ppdm) antibody and s6 antibody
+were also purchased from cell signalling technology. phospho-
+specific s6k thr 229 antibody was obtained from r&d systems
+(minneapolis, mn, usa). s6k antibody was generated as
+described previously (chung et al, 1992). b-tubulin mouse
+antibody (e7) was purchased from the developmental studies
+hybridoma bank (dshb).
+supplementary information is available at embo reports online
+(http://www.emboreports.org)
+acknowledgements
+we thank dr m. muramatsu for mouse atg1 cdna, dr j.u. jung for
+lc3, atg6 and uvrag cdna, and dr g. thomas, dr t.p. neufeld and
+dr f. tamanoi for fly stocks. the e7 monoclonal antibody was obtained
+from the developmental studies hybridoma bank (dshb) maintained by
+the department of biological sciences, university of iowa.
+references
+bettencourt-dias m et al (2004) genome-wide survey of protein kinases
+required for cell cycle progression. nature 432: 980–987
+brown ej, albers mw, shin tb, ichikawa k, keith ct, lane ws, schreiber sl
+(1994) a mammalian protein targeted by g1-arresting rapamycin-
+receptor complex. nature 369: 756–758
+chung j, kuo cj, crabtree gr, blenis j (1992) rapamycin-fkbp specifically
+blocks growth-dependent activation of and signaling by the 70 kd s6
+protein kinases. cell 69: 1227–1236
+collins bj, deak m, arthur js, armit lj, alessi dr (2003) in vivo role of the
+pif-binding docking site of pdk1 defined by knock-in mutation. embo j
+22: 4202–4211
+colombani j, raisin s, pantalacci s, radimerski t, montagne j, leopold p
+(2003) a nutrient sensor mechanism controls drosophila growth. cell
+114: 739–749
+fingar dc, salama s, tsou c, harlow e, blenis j (2002) mammalian cell size
+is controlled by mtor and its downstream targets s6k1 and 4ebp1/eif4e.
+genes dev 16: 1472–1487
+hay n, sonenberg n (2004) upstream and downstream of mtor. genes dev
+18: 1926–1945
+kamada y, funakoshi t, shintani t, nagano k, ohsumi m, ohsumi y (2000)
+tor-mediated induction of autophagy via an apg1 protein kinase
+complex. j cell biol 150: 1507–1513
+klionsky dj et al (2003) a unified nomenclature for yeast autophagy-related
+genes. dev cell 5: 539–545
+kozma sc, thomas g (1994) p70s6k/p85s6k: mechanism of activation and role
+in mitogenesis. semin cancer biol 5: 255–260
+kuroyanagi h, yan j, seki n, yamanouchi y, suzuki y, takano t,
+muramatsu m, shirasawa t (1998) human ulk1, a novel serine/
+threonine kinase related to unc-51 kinase of caenorhabditis
+elegans: cdna cloning, expression, and chromosomal assignment.
+genomics 51: 76–85
+levine b, klionsky dj (2004) development by self-digestion: molecular
+mechanisms and biological functions of autophagy. dev cell 6:
+463–477
+liang c, feng p, ku b, dotan i, canaani d, oh bh, jung ju (2006)
+autophagic and tumour suppressor activity of a novel beclin1-binding
+protein uvrag. nat cell biol 8: 688–699
+matsuura a, tsukada m, wada y, ohsumi y (1997) apg1p, a novel protein
+kinase required for the autophagic process in saccharomyces cerevisiae.
+gene 192: 245–250
+montagne j, stewart mj, stocker h, hafen e, kozma sc, thomas g (1999)
+drosophila s6 kinase: a regulator of cell size. science 285: 2126–2129
+mora a, komander d, van aalten dm, alessi dr (2004) pdk1, the master
+regulator of agc kinase signal transduction. semin cell dev biol 15:
+161–170
+noda t, ohsumi y (1998) tor, a phosphatidylinositol kinase homologue,
+controls autophagy in yeast. j biol chem 273: 3963–3966
+oldham s, montagne j, radimerski t, thomas g, hafen e (2000) genetic and
+biochemical characterization of dtor, the drosophila homolog of the
+target of rapamycin. genes dev 14: 2689–2694
+patel ph, thapar n, guo l, martinez m, maris j, gau cl, lengyel ja,
+tamanoi f (2003) drosophila rheb gtpase is required for cell cycle
+progression and cell growth. j cell sci 116: 3601–3610
+sabatini dm, erdjument-bromage h, lui m, tempst p, snyder sh (1994)
+raft1: a mammalian protein that binds to fkbp12 in a rapamycin-
+dependent fashion and is homologous to yeast tors. cell 78: 35–43
+scott rc, schuldiner o, neufeld tp (2004) role and regulation of starvation-
+induced autophagy in the drosophila fat body. dev cell 7: 167–178
+scott rc, juhasz g, neufeld tp (2007) direct induction of autophagy by
+atg1 inhibits cell growth and induces apoptotic cell death. curr biol
+17: 1–11
+shima h, pende m, chen y, fumagalli s, thomas g, kozma sc (1998)
+disruption of the p70s6k/p85s6k gene reveals a small mouse phenotype
+and a new functional s6 kinase. embo j 17: 6649–6659
+spradling ac, stern d, beaton a, rhem ej, laverty t, mozden n, misra s,
+rubin gm (1999) the berkeley drosophila genome project gene
+disruption project: single p-element insertions mutating 25% of vital
+drosophila genes. genetics 153: 135–177
+yan j, kuroyanagi h, kuroiwa a, matsuda y, tokumitsu h, tomoda t,
+shirasawa t, muramatsu m (1998) identification of mouse ulk1, a novel
+protein kinase structurally related to c. elegans unc-51. biochem
+biophys res commun 246: 222–227
+yan j et al (1999) mouse ulk2, a novel member of the unc-51-like
+protein kinases: unique features of functional domains. oncogene 18:
+5850–5859
+zhang h, stallock jp, ng jc, reinhard c, neufeld tp (2000) regulation of
+cellular growth by the drosophila target of rapamycin dtor. genes dev
+14: 2712–2724
+&2007 european molecular biology organization
+embo reports vol 8 | no 4 | 2007
+3 6 5

@@ -1,0 +1,817 @@
+cell death and differentiation (2007) 14, 916–923
+& 2007 nature publishing group all rights reserved 1350-9047/07 $30.00
+www.nature.com/cdd
+proteomic analysis of steroid-triggered autophagic
+programmed cell death during drosophila
+development
+dn martin1,5, b balgley2,5, s dutta1,5, j chen3,5, p rudnick2, j cranford1, s kantartzis1, dl devoe2,4, c lee2,3 and eh baehrecke*,1
+two morphological forms of programmed cell death, apoptosis and autophagic cell death, remove unneeded or damaged cells
+during animal development. although the mechanisms that regulate apoptosis are well studied, little is known about autophagic
+cell death. a shotgun proteome analysis of puriﬁed dying larval salivary glands in drosophila was used to identify proteins that
+are expressed during autophagic programmed cell death. a total of 5661 proteins were identiﬁed from stages before and after the
+onset of cell death. analyses of these data enabled us to identify proteins from a number of interesting categories including
+regulators of transcription, the apoptosis, autophagy, lysosomal, and ubiquitin proteasome degradation pathways, and proteins
+involved in growth control. several of the identiﬁed proteins, including the serine/threonine kinase warts (wts), were not detected
+using whole-genome dna microarrays, providing support for the importance of such high-throughput proteomic technology.
+wts regulates cell-cycle arrest and apoptosis, and signiﬁcantly, mutations in wts prevent destruction of salivary glands.
+cell death and differentiation (2007) 14, 916–923. doi:10.1038/sj.cdd.4402098; published online 26 january 2007
+programmed cell death is a fundamental component of animal
+development, and disruption of normal cell death is asso-
+ciated with several disorders including cancer and autoimmu-
+nity.1 apoptosis and autophagic cell death are two prominent
+morphological forms of cell killing that occur during animal
+development.1–3 apoptosis occurs when isolated cells die,
+and these cells are engulfed and degraded by phagocytes.4
+by contrast, autophagic cell death is observed when groups of
+cells or entire tissues are destroyed, and these cells appear to
+degrade themselves with little or no help from phagocytes.3
+studies of apoptosis have resulted in the identiﬁcation of a
+conserved cell death pathway involving caspase proteases.5
+although recent studies of cells dying by autophagic cell death
+have implicated some of the conserved core apoptosis genes
+in this morphologically distinct form of regulated cell death,6–8
+the mechanisms that regulate autophagic cell death remain
+poorly understood.
+autophagic cell death is deﬁned by the presence of
+autophagic vacuoles (also known as autophagosomes) that
+are used to sequester and target components of
+the
+cytoplasm for degradation by the lysosome.9,10 autophagic
+vacuoles have been observed in many types of dying cells in
+diverse organisms, but little is known about the function of
+autophagy in cell death. recent studies of mammalian cells
+indicate that autophagy and atg genes are important for
+caspase-independent death of cells,11,12 but the relationship
+between autophagy and the death of cells is not clear.10
+although such studies of cell lines enable useful insights into
+the biochemical mechanisms that regulate cell death, it is
+important to study dying cells in a physiological context in vivo.
+autophagic cell death has been most frequently observed in
+cells dying in the context of animal development.1,2 the
+steroid hormone 20-hydroxyecdysone (ecdysone) triggers
+programmed autophagic cell death during drosophila deve-
+lopment. the ecdysone titer rises 10–12 h after puparium
+formation, and triggers the synchronous death of
+larval
+salivary gland cells by activating a transcription regulatory
+hierarchy. the ecdysone receptor, which is encoded by the
+nuclear receptors ecr and usp,13 and the nuclear receptor
+competence factor ftz-f1, activate transcription of the early
+genes br-c, e74a, and e93.14,15 these early genes are
+required for salivary gland cell death, and regulate transcrip-
+tion of the apoptosis genes rpr, hid, the apaf-1 homolog ark,
+and the caspases dronc and drice.16–18 salivary gland cell
+death is preceded by markers of apoptosis including dna
+fragmentation and nuclear acridine orange staining.16
+although ecdysone triggers programmed cell death in
+drosophila by activating the transcription of genes that
+encode components of the core apoptosis machinery, several
+differences exist in these dying cells. salivary gland cells
+possess autophagic vacuoles that contain organelles includ-
+ing mitochondria, and do not appear to be associated with
+phagocytes during degradation, indicating that they die by
+autophagic cell death.6,7 in addition, salivary gland degrada-
+tion is not completely prevented by either
+inhibition of
+caspases by p356,7 or loss-of-function mutations in ark and
+1center for biosystems research, university of maryland biotechnology institute, college park, md, usa; 2calibrant biosystems, rockville, md, usa; 3department of
+chemistry and biochemistry, university of maryland, college park, md, usa and 4department of mechanical engineering, university of maryland, college park, md,
+usa
+*corresponding author: eh baehrecke, center for biosystems research, university of maryland biotechnology institute, college park, md 20742-4450, usa.
+tel: 301 405 7525; fax: 301 314 9075; e-mail: baehreck@umbi.umd.edu
+5these authors contributed equally to this work
+keywords: drosophila; autophagy; ecdysone; steroid; proteome
+abbreviations:
+received 21.11.06; revised 12.12.06; accepted 12.12.06; edited by s kumar; published online 26.1.07
+(dinr), drosophila insulin receptor; (kel), kelch; (crb), crumbs; (cact) cactus|(qua), quail; (hiw), highwire; (ms), mass spectrometer
+proteome of autophagic cell death
+dn martin et al
+917
+drice,19,20 suggesting that caspase-independent degradation
+mechanisms may contribute to this alternative form of cell
+death.
+given the importance of cell death during development, and
+the lack of information about autophagic cell death, we have
+used high-throughput genomic approaches to investigate
+dying salivary glands in drosophila. here we use a novel
+proteomics approach to identify proteins that are expressed
+before and during steroid-triggered autophagic cell death
+during development. proteins that are known to function in
+dying salivary glands, including ecdysone-response proteins,
+transcription factors, caspases and caspase regulators, are
+expressed in dying salivary glands. in addition, new proteins
+that are involved in caspase-independent degradation
+mechanisms and growth control were also expressed in
+these dying cells. signiﬁcantly, the demonstration that wts
+functions in destruction of salivary glands illustrates the
+importance of complementary genomics approaches, as
+several proteins that were identiﬁed using proteomics,
+including wts, were not detected using whole-genome dna
+microarray and serial analysis of gene expression (sage)
+technologies to study these dying cells.18,21
+results
+identiﬁcation of proteins expressed during autophagic
+cell death of salivary glands. a rise in the steroid hormone
+20-hydroxyecdysone (ecdysone)
+triggers larval salivary
+gland autophagic programmed cell death.9,22 although
+proteins associated with apoptosis, including caspases, are
+induced and participate in the destruction of salivary glands,
+the inhibition of caspases does not completely prevent
+changes associated with dying cells.6,19,20 to identify
+proteins that are expressed in salivary glands, soluble
+proteins were extracted from salivary glands dissected from
+wild-type animals that were staged 6 and 13 h after puparium
+formation; stages before and immediately following the rise in
+ecdysone that triggers cell death. two independent samples
+of trypsin-digested proteins from each stage were separated
+by capillary isoelectric focusing (ief), and 12 different
+fractions were separated further by capillary reverse-phase
+liquid chromatography. these fractions were analyzed using
+a thermofinigan (waltham, ma, usa) lcq ion trap mass
+spectrometer (ms). three ms/ms scans were performed
+and raw data ﬁles were processed and submitted for
+database searching using mascot (matrix science,
+boston, ma, usa). we identiﬁed 3352 proteins in the 6 h
+samples with greater than 95% conﬁdence, and 1111 of
+these proteins contained two or more distinct peptide
+sequences (table s1). similarly, 4523 proteins were
+identiﬁed in the 13 h sample with greater
+than 95%
+conﬁdence, and 1907 of
+these proteins were identiﬁed
+based on two or more distinct peptide sequences. the total
+number of proteins identiﬁed in both samples is 5661 with
+2214 proteins common to both 6- and 13 h stages.
+proteins that are known to be involved in salivary gland
+programmed cell death were identiﬁed using this proteomic
+approach. the ecdysone regulated proteins eip74ef (e74),
+eip93f (e93), and the nuclear hormone receptors usp and
+e75b were all detected using this approach (table s1), and
+this is consistent with dna microarray studies18 and previous
+these transcription regulators.17,23–25 caspase
+studies of
+proteases function in salivary gland cell death,6,7,16,26 and
+several proteins that function during apoptosis were detected
+including the caspase activator ark, and the caspases
+strica/dream and nc/dronc, consistent with dna microarray
+studies.18 these data provide conﬁdence that proteins that
+are known to be involved in salivary gland programmed cell
+death can be identiﬁed using this shotgun proteomics
+approach, and that this can provide a valuable overview of
+the proteome in dying cells.
+identiﬁcation of new salivary gland proteins. although
+the identiﬁcation of several known salivary gland proteins
+provided evidence that this novel proteome technology is
+sensitive, the validation of the presence of newly discovered
+proteins is critical
+to endear conﬁdence before investing
+effort in reverse genetic studies. we analyzed our data for
+previously studied proteins so that we could use available
+antibodies to validate our salivary gland proteome data using
+immunohistochemical staining. salivary glands were isolated
+from wild-type canton s animals staged to 6 and 13 h
+after puparium formation, ﬁxed and stained with available
+antibodies against the drosophila insulin receptor (dinr),
+kelch (kel), crumbs (crb), cactus (cact), quail (qua),
+highwire (hiw), and osa.27–33 we had previously shown that
+nuclear lamin dmo and a-spectrin are expressed in dying
+salivary glands,7 and these antibodies were used as positive
+controls.
+whole-genome dna microarray studies indicated that
+several of the identiﬁed salivary gland proteins are transcribed
+in these cells,18 and we intitiated our validation by evaluating
+the presence of these proteins (figure 1). dinr was identiﬁed
+based on the detection of multiple distinct peptides and the
+presence of rna using dna microarrays, and dinr antigen is
+present in salivary gland cells. the actin-binding protein kel
+and the cell polarity protein crb were both detected using
+antibodies as expected based on the identiﬁcation of multiple
+distinct peptides from each of these proteins, as well as
+detection of their rnas in previous microarray studies. we
+only detected a single peptide from the ikb protein cact, and
+the presence of this nuclear factor kappa b regulator was
+validated using antibodies as expected based on the
+presence of cact rna in microarray studies. we then
+addressed if the actin binding protein qua was present in
+these cells, as quail rna was present at low levels in dna
+microarray studies,18 and we only detected a single qua
+peptide in our proteomic studies. the presence of qua
+antigen in salivary glands provided greater conﬁdence that the
+detection of single peptides using this approach can lead to
+the identiﬁcation of proteins.
+the identiﬁcation of low abundance proteins, and proteins
+that may not be regulated at the level of rna transcription,
+provides one of the greatest incentives for the development of
+sensitive high-throughput proteomics technologies. to test
+if we could detect proteins that were absent in our whole-
+genome microarray studies,18 but were present
+in our
+proteomics data, we stained salivary glands with antibodies
+against hiw and osa (figure 1). hiw encodes a putative
+cell death and differentiation
+918
+proteome of autophagic cell death
+dn martin et al
+several new proteins in this category including dhr96,
+cactus, bunched, hsf and the mediator/trap proteins
+med1, med14, and med17 (table 1) reﬂect the importance
+of the regulation of rna levels in these dying cells. little is
+known about the transcription coactivators and corepressors
+that are involved in programmed cell death, and the
+identiﬁcation of several proteins in these categories, including
+hcf, nej, tai, brm, gug, h, hira, and smarter (smr), provides
+a starting point for investigating their function in autophagic
+programmed cell death (table 1).
+salivary glands rapidly degrade during autophagic pro-
+grammed cell death,6 and we hypothesize that many
+categories of proteins may contribute to this process.
+supporting this idea, we identiﬁed proteins involved in
+apoptosis,
+the ubiquitin proteasome system, autophagy,
+lysosome biogenesis, and noncaspase proteases (table 2,
+table s2). several proteins that function during apoptosis
+were detected including the bcl-2 family members debcl and
+buffy, the ubiquitin ligase morgue, the caspase activator ark,
+and the caspases dream/strica and nc/dronc. the ubiquitin
+proteasome system serves an important role in the degrada-
+tion of short-lived proteins including caspase regulators. in
+addition to the identiﬁcation of several proteasome compo-
+nents (table s2), numerous proteins that are involved in the
+regulation of ubiquitination were detected including bruce and
+ago, as well as many others (table 2). autophagic vacuoles
+form following the initiation of salivary gland cell death.
+although the mechanism(s) by which autophagy is regulated
+is not fully understood in these cells, the presence of the
+autophagy proteins atg1, atg2, atg4, atg6, atg9, and the
+atg18-like protein cg8678 are consistent with this catabolic
+process being involved in salivary gland cell death (table 2).
+autophagy requires lysosomes for the degradation of cargo,
+and it is intriguing that several proteins involved in lysosome
+biogenesis and organization, such as orange, ruby, and
+garnet that were originally isolated based on defects in eye
+pigmentation, were identiﬁed (table 2). given this result, we
+tested if lysosomes are more abundant in later stages of
+salivary gland cell death by using a fusion between the
+lysosomal associated membrane protein 1 (lamp1) and
+horse radish peroxidase (hrp) that has been previously used
+to detect lysosomes in drosophila.36. salivary glands isolated
+from animals 12 h after puparium formation have large
+vacuoles in every cell and little lamp1–hrp staining
+(figure 2). by contrast, salivary glands dissected 14 h after
+puparium formation possess increased lamp1-hrp staining
+that
+lysosome membranes
+(figure 2). these results are consistent with the timing of
+the induction of autophagy, and atg rna and proteins, that
+immediately precede cell degradation6,18 (table 2), and
+suggest
+for
+completion of salivary gland degradation.
+lysosome biogenesis may be important
+is localized to perinuclear
+that
+dying salivary glands exhibit dynamic changes in structure
+including the loss and formation of different types of vacuoles6
+(figure 2), and the actin cytoskeleton is reorganized
+independent of caspase activation.7 although some of these
+changes could be caused by the cleavage of proteins by
+proteases, other mechanisms may regulate reorganization of
+the cytoskeleton and movement of structures during auto-
+phagic cell death. consistent with this hypothesis, we
+figure 1 veriﬁcation of proteome results by immunohistochemistry. salivary
+glands of staged wild-type canton s animals were stained with antibodies against
+either dinr (green) and nuclear lamin dmo (red), or a - spectrin (green) and
+experimental antibodies (in red) against kel, crb, cact, qua, hiw, osa
+ubiquitin ligase that regulates synaptic growth,34 and the
+identiﬁcation of multiple distinct peptides was validated based
+on hiw localization in the cytoplasm of salivary gland cells.
+similar to hiw,
+the transcription regulator osa was not
+detected in our previous dna microarray studies, but osa
+protein was present in the nuclei of salivary gland cells as
+expected based on the identiﬁcation of multiple osa peptides.
+although our previous use of this proteomics approach to
+identify yeast proteins indicated the robust nature of this
+technology,35 these data provide further evidence of
+its
+strength by identiﬁcation of numerous proteins from a
+complex animal with a larger genome.
+we identiﬁed many interesting proteins using this novel
+high-throughput technology (table s1), thus our next interest
+was to investigate what signaling pathways and cell
+processes may be involved in the autophagic cell death of
+salivary glands. transcription is known to play an important
+role in this steroid-triggered cell death, and the identiﬁcation of
+cell death and differentiation
+proteome of autophagic cell death
+dn martin et al
+919
+table 1 summary of new transcription regulators that were identiﬁed in dying salivary glands
+category
+name
+fbgn#
+notes
+dpep
+tpep
+dpep
+tpep
+6 h
+13 h
+transcription regulators
+dhr96*
+cact*
+bun*
+hsf*
+med1*
+med14*
+med17*
+transcription coactivators
+hcf*
+nej*
+tai
+brm*
+transcription corepressors
+gug
+h*
+hira
+smr*
+fbgn0015240
+fbgn0000250
+fbgn0010460
+fbgn0001222
+fbgn0037109
+fbgn0035145
+fbgn0038578
+fbgn0039904
+fbgn0015624
+fbgn0041092
+fbgn0000212
+fbgn0010825
+fbgn0001169
+fbgn0022786
+fbgn0024308
+nuclear receptor
+ikb, nfkb regulator
+heat shock factor
+mediator/trap220
+mediator/trap170
+mediator/trap80
+heat cell factor
+nejire
+taiman
+brahma
+grunge
+hairless
+smarter
+10
+19
+10
+14
+15
+categories are based on association with biological or biochemical properties. fbgn numbers and names of proteins are based on flybase annotation (http://
+ﬂybase.bio.indiana.edu/). the number of distinct peptides (dpep) and total peptides (tpep) identiﬁed in samples from each stage of salivary gland extract are indicated.
+proteins that are predicted to be present based on previous whole-genome dna microarray studies18 are indicated with an asterisk
+table 2 summary of new proteins that function in degradation that were identiﬁed in dying salivary glands
+category
+name
+fbgn#
+notes
+dpep
+tpep
+dpep
+tpep
+6 h
+13 h
+apoptosis
+autophagy
+debcl
+buffy
+morgue
+ark*
+dream*
+nc*
+atg1
+atg2*
+atg4*
+atg6*
+atg9*
+cg8678*
+ubiquitin conjugation
+bruce*
+ago
+cul-4*
+herc2*
+hyd*
+lack
+ubp64e*
+lysosome biogenesis
+or
+rb
+dip-b
+ect3*
+npc1*
+bchs
+fbgn0029131
+fbgn0040491
+fbgn0027609
+fbgn0024252
+fbgn0033051
+fbgn0026404
+fbgn0037679
+fbgn0035373
+fbgn0038325
+fbgn0039144
+fbgn0034110
+fbgn0032935
+fbgn0037808
+fbgn0041171
+fbgn0033260
+fbgn0031107
+fbgn0002431
+fbgn0029006
+fbgn0016756
+fbgn0003008
+fbgn0003210
+fbgn0001087
+fbgn0000454
+fbgn0037977
+fbgn0024320
+fbgn0043362
+bcl-2 family
+bcl-2 family
+ubiquitin ligase
+apaf-1
+strica, caspase
+dronc, caspase
+beclin1
+atg-18 like
+ubiquitin ligase
+ubiquitin ligase
+ubiquitin ligase
+ubiquitin ligase
+ubiquitin ligase
+ubiquitin ligase
+ubiquitin protease
+orange
+ruby
+garnet
+leucyl aminopeptidase
+b-galactosidase activity
+niemann-pick type c-1
+lysosome transport
+12
+17
+11
+categories are based on association with biological or biochemical properties. fbgn numbers and names of proteins are based on flybase annotation (http://
+ﬂybase.bio.indiana.edu/). the number of distinct peptides (dpep) and total peptides (tpep) identiﬁed in samples from each stage of salivary gland extract are indicated.
+proteins that are predicted to be present based on previous whole-genome dna microarray studies18 are indicated with an asterisk
+cell death and differentiation
+920
+proteome of autophagic cell death
+dn martin et al
+identiﬁed a large number of proteins that participate in
+changes in cell organization including gtpases, arfs,
+arps, formin homology proteins, and motors (table s3).
+figure 2 lysosomes are induced just before salivary gland cell death. salivary
+glands of animals that express the lysosome protein lamp1 fused to hrp were
+staged 12 h (a) and 14 h (b–d) after puparium formation to visualize lysosomes by
+either light (a and b) or transmission electron microscopy (c and d). (a) twelve-hour
+salivary glands have large vacuoles in every cell (asterisks) and little hrp staining.
+(b–d) salivary glands dissected 14 h after puparium formation have either few or no
+large vacuoles (asterisks), and these cells possess increased hrp staining that is
+localized to perinuclear lysosome membranes (arrows). scale bars in c and d, 1 mm
+an intricate relationship exists between cell growth and
+proliferation, and programmed cell death during animal
+development. growth and proliferation arrest are often
+associated with the activation of apoptosis, but the relation-
+ship between growth and autophagic cell death is unclear.
+the insulin receptor (inr) signaling pathway is an important
+mechanism for the regulation of growth. inr signaling may be
+relevant to autophagic cell death, as autophagy is inﬂuenced
+by the activity of several proteins within this pathway.37 we
+identiﬁed many components of this pathway including inr, the
+class i phosphotidylinositol 3 kinase (pi3 k) pi3k92e, the
+tuberous sclerosis protein tsc1, the target of rapamycin
+(tor), as well as 2 other inr-like proteins (table 3). in addition
+to our identiﬁcation of the class i pi3 k, we also identiﬁed a
+protein encoding the class ii pi3k68d (table 3).
+wts functions in salivary gland cell death. mutations in
+the serine/threonine kinase warts (wts) result in overgrowth
+of adult tissues,38 and it was of interest that we identiﬁed two
+distinct wts peptides in 13 h salivary glands (table s1). wts
+is among the novel proteins identiﬁed in this study that were
+not identiﬁed using dna microarrays.18 as wts has been
+previously linked to the regulation of cell-cycle arrest and
+apoptosis, and encodes a tumor suppressor, we tested if wts
+function is required for autophagic cell death of salivary
+glands.
+strong loss-of-function wts mutants are lethal before
+puparium formation. therefore, we analyzed the weak wtsp2
+allele for defects in salivary gland cell death.38 homozygous
+wtsp2 and wtsp2 /wild-type control pupae were aged 12 h after
+future adult head eversion which is 8 h after larval salivary
+gland cell death is complete in wild-type ﬂies.6 these pupae
+were embedded in parafﬁn, sectioned, and stained for
+examination of cell death defects. in sections of control wtsp2
+/wild-type, salivary glands are destroyed (figure 3). by
+contrast, 100% of homozygous wts pupae had defects in
+salivary gland destruction (figure 3), with 32% having intact
+salivary glands and 68% having fragmented salivary glands
+that are not properly degraded. although homozygous wts
+pupae often exhibited over growth of imaginal tissues, this did
+not prevent either head eversion or the normal development of
+other structures. as wts functions in a pathway with hippo
+(hpo), we also tested if expression of a previously studied
+table 3 summary of growth regulators that were identiﬁed in dying salivary glands
+category
+name
+fbgn#
+notes
+dpep
+tpep
+dpep
+tpep
+6 h
+13 h
+growth
+pi3k68d*
+pi3k92e*
+inr*
+cg3837*
+cg10702
+tsc1
+tor
+fbgn0015278
+fbgn0015279
+fbgn0013984
+fbgn0038279
+fbgn0032752
+fbgn0026317
+fbgn0021796
+class ii pi3k
+class i pi3k
+insulin receptor
+insulin-like receptor
+insulin-like receptor
+insulin receptor signaling
+target of rapamycin
+15
+categories are based on association with biological or biochemical properties. fbgn numbers and names of proteins are based on flybase annotation (http://
+ﬂybase.bio.indiana.edu/). the number of distinct peptides (dpep) and total peptides (tpep) identiﬁed in samples from each stage of salivary gland extract are indicated.
+proteins that are predicted to be present based on previous whole-genome dna microarray studies18 are indicated with an asterisk
+cell death and differentiation
+proteome of autophagic cell death
+dn martin et al
+921
+figure 3 wts and hpo function in salivary gland autophagic cell death. parafﬁn sections of pupae aged 12 h after head eversion. (a) in control wtsp2/cantons wild-type
+pupae salivary glands have degraded (n¼ 13). (b) 100% of wtsp2/wtsp2mutant pupae possess salivary glands 24 h after puparium formation (n¼ 22). (c) control, either uas-
+hpoir/cantons or fkh-gal4/cantons, pupae lack salivary glands (n¼ 16). (d) experimental fkh-gal4 uas-hpoir pupae possess partially degraded salivary glands 24 h
+after puparium formation in 40% of animals (n¼ 15). red circles mark the absence of salivary glands in controls (a and c), and persistent salivary glands and gland fragments
+in experimental wts mutant and hpoir animals (b and d)
+hippornai construct (hpoir)39 in salivary glands prevented
+salivary gland cell death by analysis of parafﬁn sections of
+pupae that were aged 12 h after future adult head eversion.
+control animals, either uas-hpoir/wild type or fkh-gal4/wild
+type, did not possess salivary glands (figure 3). animals that
+express hpoir in salivary glands had fragmented remnants of
+salivary glands in 40% of the specimens (figure 3). these
+results indicate that wts and hpo function in autophagic cell
+death of salivary glands.
+discussion
+although much is known about the mechanisms that regulate
+apoptosis,
+little is known about alternative morphological
+forms of cell killing including autophagic cell death. here we
+have used a high-throughput approach to identify proteins in
+dying salivary glands. this resulted in the identiﬁcation of
+numerous factors that we expected based on previous whole-
+genome microarray and sage studies,18,21 but we also
+identiﬁed proteins that were not previously known to be
+expressed in dying salivary glands. these data indicate that it
+is important to combine proteomic approaches with genomic
+technologies designed to detect rnas to get a complete
+overview of the possible players involved in a cellular process.
+the presence of a protein within a dying cell is not evidence
+that this factor functions in cell death, and caution should be
+taken before implicating innocent bystanders as being guilty
+by association. therefore, such genomic approaches will be
+most powerful when they are combined with genetic
+approaches, and we now have a list of cellular processes
+and signaling pathways that need to be investigated by
+analyses of mutants.
+previous studies have shown that a rise in the steroid
+ecdysone triggers a transcription cascade that activates a
+caspase-dependent autophagic cell death of salivary glands.9
+this model has strong support, because mutations in primary
+ecdysone-response transcription regulators prevent salivary
+gland cell death,6 and these mutants also possess decreased
+levels of caspases and caspase regulators.7 however, the
+inhibition of caspases and caspase mutants do not prevent all
+of the cellular changes associated with the death of salivary
+glands,6,7,19,40 and suggest
+that additional noncaspase
+degradation mechanisms may be involved in the physiological
+destruction of these cells. consistent with this hypothesis, our
+genomic studies indicate that multiple noncaspase degrada-
+tion systems, including autophagy, the ubiquitin proteasome,
+and the lysosome, may be involved in the death of salivary
+glands. furthermore, the presence and requirement for wts
+that is not ecdysone-regulated indicates that post-transla-
+tional mechanisms also contribute to the death of salivary
+glands.
+analyses of wts and hpo indicate that at least some of the
+mechanisms that regulate tissue growth control also function
+during autophagic cell death, but additional studies are
+needed to determine the relationship between cell growth
+and autophagic cell death. many growth regulators, including
+several proteins in the wts and pi3k pathways, depend on
+phosphorylation to modulate their activities, and studies of
+post-translational modiﬁcation of proteins in dying salivary
+glands should provide insights into the mechanisms that
+mediate their cell death. the relationship between different
+cell death and differentiation
+922
+proteome of autophagic cell death
+dn martin et al
+is important
+signaling pathways, degradation mechanisms, and how
+these factors contribute to the autophagic cell death morpho-
+logy is not clear, and it
+to resolve how
+these mechanisms integrate to result in a physiological cell
+removal strategy. these studies provide an important
+foundation for future genetic and biochemical studies of
+autophagic programmed cell death by providing a compre-
+hensive description of the proteins that are present in dying
+salivary glands.
+materials and methods
+protein extraction and proteomics. soluble protein extracts were
+obtained from wild-type canton s salivary glands that were dissected from
+animals staged 6 and 13 h after puparium formation. salivary glands were
+homogenized in 40 mm tris buffer containing 1 mm phenlymethylsulfonyl ﬂuoride,
+1 mm pepstatin a, 1 mm leupeptin, and incubated for 5 min at 1001c. proteins were
+denatured, reduced and alkylated in 20 mm tris buffer containing 8 m urea, 0.1 m
+dithiothreitol (dtt) and 0.1 m iodoacetamide. denatured, reduced and alkylated
+proteins were reconstituted in a solution of 10 mm tris, 0.4 m urea and 10 mm dtt
+using regenerated cellulose membrane ﬁlters (millipore, billerica, ma, usa) with a
+5000 molecular weight cutoff. trypsin (1:50, w/w, promega modiﬁed sequencing
+grade, madison, wi, usa) was added and the mixture was incubated at 371c for
+overnight.
+independent samples of
+trypsin-digested protein from each sample were
+separated by capillary isoelectric focusing . twelve different ief fractions were
+separated further by capillary reverse phase liquid chromatography, and analyzed
+using a thermofinigan lcq ion trap ms. three ms/ms scans were performed on
+the top three ions from the preceding ms scan. these data were processed using
+distiller (matrix science) and submitted for database analyses using mascot
+(matrix science). the database that was searched was a non-redundant
+compilation of the swiss-plot and trembl drosophila melanogaster data sets
+available from ebi.
+immunohistochemistry. wild-type canton s salivary glands were dissected
+from animals staged 6 and 13 h after puparium formation at 251c, ﬁxed in 4%
+paraformaldehyde/heptane for 20 min at room temperature, blocked in phosphate-
+buffered saline containing 1% bsa and 0.1%. triton-x (pbsbt), and incubated with
+primary antibodies for 16 h at 41c. salivary glands were washed for 2 h in pbsbt,
+incubated with appropriate secondary antibodies for two hours at room temperature
+and washed for another 2 h in pbsbt at room temperature. salivary glands were
+mounted in vectashield (vector laboratories) and examined using a zeiss axiovert
+100m confocal microscope.
+histology. uas-hrp-lamp1 transgenic
+ﬂies were kindly provided by
+h. kramer.36 salivary glands were dissected from fkh-gal4; uas-hrp-
+lamp1animals at speciﬁc stages during cell death. salivary glands were ﬁxed for
+10 min in 2.5% glutaraldehyde, rinsed in pbs, and incubated in 0.5 mg/ml dab and
+0.03% hydrogen peroxide. staining of 12 and 14-h salivary glands in dab was done
+for the same period of time so that these samples could be compared. for whole
+mount analyses, salivary glands were then dehydrated, mounted in methyl
+salicylate, and examined by light microscopy. for examination of thin sections by
+transmission electron microscopy, dab-stained salivary glands were ﬁxed for an
+additional hour in 2.5% glutaraldehyde, postﬁxed in 4% osmium tetroxide for 1 h,
+embedded in spurr’s resin, sectioned, and analyzed using a zeiss em 10
+transmission electron microscope.
+for parafﬁn sections, control (either wtsp2/cantons, uas-hpoir/cantons, or
+fkh-gal4/cantons) and experimental (either wtsp2/ wtsp2or fkh-gal4; uas-hpoir)
+animals were maintained at 251c and aged to 12 h after head eversion. whole
+pupae were ﬁxed in 1% glutaraldehyde, 4% formaldehyde and 5% acetic acid in
+80% ethanol at 41c. fixed pupae were dehydrated through an ethanol series,
+cleared in xylenes and inﬁltrated with parafﬁn. sections were cut at 7 mm, stained
+with weigert’s hematoxylin and pollak trichrome and examined and photographed
+using a zeiss axiophot ii microscope.
+acknowledgements. we thank b hay, d branton, p fisher, l pick, h
+kramer, g halder, n tapon, and the developmental studies hybridoma bank for
+cell death and differentiation
+antibodies and ﬂy stocks, and d berry for helpful comments and discussions. this
+work was supported by nih nrsa gm067563 to dnm, an hhmi undergraduate
+research fellowship to sk, and nih grants ca107988 to bmb, gm073723 to cl,
+and gm59136 to ehb.
+1. baehrecke eh. how death shapes life during development@ nature reviews mol. cell
+biol 2002; 3: 779–787.
+2. clarke pgh. developmental cell death: morphological diversity and multiple mechanisms.
+anat embryol 1990; 181: 195–213.
+3. schweichel j-u, merker h-j. the morphology of various types of cell death in prenatal
+tissues. teratology 1973; 7: 253–266.
+4. kerr jf, wyllie ah, currie ar. apoptosis: a basic biological phenomenon with wide-
+ranging implications in tissue kinetics. br j cancer 1972; 26: 239–257.
+5. shi y. mechanisms of caspase activation and inhibition during apoptosis. mol cell 2002;
+9: 459–470.
+6. lee c-y, baehrecke eh. steroid regulation of autophagic programmed cell death during
+development. development 2001; 128: 1443–1455.
+7. martin dn, baehrecke eh. caspases function in autophagic cell death in drosophila.
+development 2004; 131: 275–284.
+8. debnath j, mills kr, collins nl, reginato mj, muthuswamy sk, brugge js. the role of
+apoptosis in creating and maintaining luminal space within normal and oncogene-
+expressing mammary acini. cell 2002; 111: 29–40.
+9. baehrecke eh. autophagic programmed cell death in drosophila. cell death differ 2003;
+10: 940–945.
+10. baehrecke eh. autophagy: dual roles in life and death? nat rev mol cell biol 2005; 6:
+505–510.
+11. yu l, alva a, su h, dutt p, freundt e, welsh s et al. regulation of an atg7-beclin 1
+program of autophagic cell death by caspase-8. science 2004; 304: 1500–1502.
+12. shimizu s, kanaseki t, mizushima n, mizuta t, arakawa-kobayashi s, thompson cb
+et al. role of bcl-2 family proteins in a non-apoptotic programmed cell death dependent on
+autophagy genes. nature cell biol 2004; 6: 1221–1228.
+13. yao t-p, segraves wa, oro ae, mckeown m, evans rm. drosophila ultraspiracle
+formation. cell 1992; 71:
+function via heterodimer
+modulates ecdysone receptor
+63–72.
+14. broadus j, mccabe jr, endrizzi b, thummel cs, woodard ct. the drosophila bftz-f1
+orphan nuclear receptor provides competence for stage-speciﬁc responses to the steroid
+hormone ecdysone. mol cell 1999; 3: 143–149.
+15. woodard ct, baehrecke eh, thummel cs. a molecular mechanism for the stage-
+the drosophila prepupal genetic response to ecdysone. cell 1994; 79:
+speciﬁcity of
+607–615.
+16. jiang c, baehrecke eh, thummel cs. steroid regulated programmed cell death during
+drosophila metamorphosis. development 1997; 124: 4673–4683.
+17. lee c-y, wendel dp, reid p, lam g, thummel cs, baehrecke eh. e93 directs steroid-
+triggered programmed cell death in drosophila. mol cell 2000; 6: 433–443.
+18. lee c-y, clough ea, yellon p, teslovich tm, stephan da, baehrecke eh. genome-wide
+analyses of steroid- and radiation-triggered programmed cell death in drosophila. curr biol
+2003; 13: 350–357.
+19. mills k, daish t, harvey kf, pﬂeger cm, hariharan ik, kumar s. the drosophila
+melanogaster apaf-1 homologue ark is required for most, but not all, programmed cell
+death. j cell biol 2006; 172: 809–815.
+20. muro i, berry dl, huh jr, chen ch, huang h, yoo sj et al. the drosophila caspase ice is
+important for many apoptotic cell deaths and for spermatid individualization, a nonapoptotic
+process. development 2006; 133: 3305–3315.
+21. gorski sm, chittaranjan s, pleasance ed, freeman jd, anderson cl, varhol rj et al. a
+sage approach to discovery of genes involved in autophagic cell death. curr biol 2003;
+13: 358–363.
+22. baehrecke eh. steroid regulation of programmed cell death during drosophila
+development. cell death differ 2000; 7: 1057–1062.
+23. yao t-p, forman bm, jiang z, cherbas l, chen jd, mckeown m et al. functional
+ecdysone receptor is the product of ecr and ultraspiracle genes. nature 1993; 366:
+476–479.
+24. hill rj, segraves wa, choi d, underwood pa, macavoy e. the reaction with polytene
+chromosomes of antibodies raised against drosophila e75 protein. insect biochem mol
+biol 1993; 23: 99–104.
+25. boyd l, o’toole e, thummel cs. patterns of e74a rna and protein expression at the
+onset of metamorphosis in drosophila. development 1991; 112: 981–995.
+26. daish tj, mills k, kumar s. drosophila caspase dronc is required for speciﬁc
+developmental cell death pathways and stress-induced apoptosis. dev cell 2004; 7: 909–
+915.
+27. fernandez r, tabarini d, azpiazu n, frasch m, schlessinger j. the drosophila insulin
+receptor homolog: a gene essential for embryonic development encodes two receptor
+isoforms with different signaling potential. embo j 1995; 14: 3373–3384.
+28. whalen am, steward r. dissociation of the dorsal-cactus complex and phosphorylation of
+the dorsal protein correlate with the nuclear localization of dorsal. j cell biol 1993; 123:
+523–534.
+proteome of autophagic cell death
+dn martin et al
+923
+29. xue f, cooley l. kelch encodes a component of intercellular bridges in drosophila egg
+chambers. cell 1993; 72: 681–693.
+30. tepass u, theres c, knust e. crumbs encodes an egf-like protein expressed on apical
+membranes of drosophila epithelial cells and required for organization of epithelia. cell
+1990; 61: 787–799.
+31. mahajan-miklos s, cooley l. the villin-like protein encoded by the drosophila quail
+gene is required for actin bundle assembly during oogenesis. cell 1994; 78:
+291–301.
+32. wan hi, diantonio a, fetter rd, bergstrom k, strauss r, goodman cs. highwire
+regulates synaptic growth in drosophila. neuron 2000; 26: 313–329.
+33. collins rt, furukawa t, tanese n, treisman je. osa associates with the brahma
+chromatin remodeling complex and promotes the activation of some target genes. embo j
+1999; 18: 7029–7040.
+34. mccabe bd, hom s, aberle h, fetter rd, marques g, haerry te et al. highwire
+regulates presynaptic bmp signaling essential for synaptic growth. neuron 2004; 41:
+891–905.
+35. chen j, balgley bm, devoe dl, lee cs. capillary isoelectric focusing-based
+multidimensional concentration/separation platform for proteome analysis. anal chem
+2003; 75: 3145–3152.
+36. lloyd te, atkinson r, wu mn, zhou y, pennetta g, bellen hj. hrs regulates endosome
+membrane invagination and tyrosine kinase receptor signaling in drosophila. cell 2002;
+108: 261–269.
+37. scott rc, schuldiner o, neufeld tp. role and regulation of starvation-induced autophagy
+in the drosophila fat body. dev cell 2004; 7: 167–178.
+38. justice rw, zilian o, woods df, noll m, bryant pj. the drosophila tumor suppressor gene
+warts encodes a homolog of human myotonic dystrophy kinase and is required for the
+control of cell shape and proliferation. genes dev 1995; 9: 534–546.
+39. pantalacci s, tapon n, leopold p. the salvador partner hippo promotes apoptosis and
+cell-cycle exit in drosophila. nat cell biol 2003; 5: 921–927.
+40. akdemir f, farkas r, chen p, juhasz g, medved’ova l, sass m et al. autophagy occurs
+upstream or parallel to the apoptosome during histolytic cell death. development 2006;
+133: 1457–1465.
+supplementary information accompanies the paper on cell death and differentiation website ( http://www.nature.com/cdd)
+cell death and differentiation

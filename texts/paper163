@@ -1,0 +1,1137 @@
+molecular biology of the cell
+vol. 18, 919–929, march 2007
+atg19 mediates a dual interaction cargo sorting
+mechanism in selective autophagy□d
+chiung-ying chang* and wei-pang huang*†
+*institute of zoology and †department of life science, national taiwan university, taipei 106, taiwan,
+republic of china
+submitted august 7, 2006; revised november 27, 2006; accepted december 20, 2006
+monitoring editor: suresh subramani
+autophagy is a catabolic membrane-trafﬁcking mechanism conserved in all eukaryotic cells. in addition to the nonselec-
+tive transport of bulk cytosol, autophagy is responsible for efﬁcient delivery of the vacuolar enzyme ape1 precursor
+(prape1) in the budding yeast saccharomyces cerevisiae, suggesting the presence of a prape1 sorting machinery.
+sequential interactions between atg19-atg11 and atg19-atg8 pairs are thought responsible for targeting prape1 to the
+vesicle formation site, the preautophagosomal structure (pas), and loading it into transport vesicles, respectively.
+however, the different patterns of prape1 transport defect seen in the atg11⌬ and atg19⌬ strains seem to be incompatible
+with this model. here we report that prape1 could not be targeted to the pas and failed to be delivered into the vacuole
+in atg8⌬ atg11⌬ double knockout cells regardless of the nutrient conditions. we postulate that atg19 mediates a dual
+interaction prape1-sorting mechanism through independent, instead of sequential, interactions with atg11 and atg8. in
+addition, to efﬁciently deliver prape1 to the vacuole, a proper interaction between atg11 and atg9 is indispensable. we
+speculate that atg11 may elicit a cargo-loading signal and induce atg9 shuttling to a speciﬁc pas site, where atg9 relays
+the signal and recruits other atg proteins to induce vesicle formation.
+introduction
+autophagy, as a membrane-trafﬁcking mechanism con-
+served in all eukaryotic cells, is essential to the survival of
+unicellular organisms in nutrient starvation conditions.
+through a double-membrane–bound vesicle, called an au-
+tophagosome, autophagy mediates the degradation of
+cytosolic components in the lysosome/vacuole and recycles
+basic building blocks for new macromolecular synthesis or
+to serve as energy sources (onodera and ohsumi, 2005;
+yorimitsu and klionsky, 2005b). because nutrient starvation
+stimulates autophagosome formation and the contents of
+autophagosomes resemble their surrounding cytoplasm, au-
+tophagy has long been considered to be a nonselective cat-
+abolic pathway for bulk cytosol remodeling. recent studies,
+however, have provided evidence for selective cargo trans-
+port by autophagosomes. for example, intracellular infec-
+tious pathogens are enveloped by autophagosomes and
+killed upon fusion of the vesicles with lysosomes (gutierrez
+et al., 2004; nakagawa et al., 2004; ogawa et al., 2005). in
+autophagy-deﬁcient neuronal cells, intracellular protein ag-
+gregates accumulate, which may interfere with neural func-
+tion and eventually lead to neurodegeneration (hara et al.,
+2006; komatsu et al., 2006). moreover, autophagy selectively
+eliminates dysfunctional mitochondria to reduce the pro-
+duction of reactive oxygen species (ros) and apoptosis (gu
+et al., 2004). all these autophagic functions rely on speciﬁc
+this article was published online ahead of print in mbc in press
+(http://www.molbiolcell.org/cgi/doi/10.1091/mbc.e06–08–0683)
+on december 27, 2006.
+□d the online version of this article contains supplemental material
+at mbc online (http://www.molbiolcell.org).
+address correspondence to: wei-pang huang (wphuang@ntu.
+edu.tw).
+signal transduction events and precise cargo-sorting mech-
+anisms to load autophagosomes with appropriate cytosolic
+materials for elimination. deciphering these mechanisms in
+molecular detail is critical to the control of autophagy-re-
+lated human diseases, but our current knowledge on these
+issues is still limited. thus, it is important to study the
+process of autophagy in an experimentally more amenable
+model system, such as yeasts.
+in the budding yeast saccharomyces cerevisiae, several ex-
+amples of selective autophagy to mediate vacuolar delivery
+of speciﬁc cargo have been reported. by switching cells to
+glucose medium, the numerous peroxisomes induced by
+culturing cells in lipid-containing medium become superﬂu-
+ous and are targeted to the vacuole for degradation via the
+pexophagy pathway (hutchins et al., 1999; dunn et al., 2005).
+the vacuolar enzyme aminopeptidase i (ape1) and ␣-man-
+nosidase (ams1) are selectively delivered by starvation-in-
+duced autophagosomes (hutchins and klionsky, 2001;
+huang and klionsky, 2002). when cells are cultured in nu-
+trient-rich growth conditions, precursors of ape1 (prape1)
+is transported by another mechanism, named the cytoplasm-
+to-vacuole targeting (cvt) pathway, a selective trafﬁcking
+pathway that is topologically similar to autophagy and relies
+on most of the same molecular machinery. in fact, prape1 is
+known to induce cvt vesicle formation in growing cells
+(shintani and klionsky, 2004). therefore, the cvt pathway of
+budding yeast may better mimic the process of mammalian
+selective autophagy because cells in a multicellular organ-
+ism may not face signiﬁcant nutrient starvation conditions,
+and mammalian selective autophagy induced by deleterious
+cytosolic components is likely not associated with starvation
+signals. studies on the induction signaling and cargo-sorting
+molecular mechanisms for the cvt pathway will provide
+insight for future work on the mammalian system.
+mutant screens have identiﬁed several gene products re-
+quired for efﬁcient import of prape1 into the vacuole. be-
+© 2007 by the american society for cell biology
+supplemental material can be found at: 
+http://www.molbiolcell.org/content/suppl/2006/12/27/e06-08-0683.dc1.html
+919
+c.-y. chang and w.-p. huang
+cause most of these mutants are also defective in execution
+of starvation-induced general autophagy, they are named
+autophagy-related (atg) genes (klionsky et al., 2003). ex-
+amining the characteristics of prape1 and the phenotypes of
+atg mutant strains, has led to our current understanding on
+prape1 import mechanism as summarized below. after syn-
+thesis in the cytosol, prape1 quickly forms a homo-do-
+decamer and then further assembles into a larger cvt com-
+plex (kim et al., 1997). atg19, serving as the receptor, binds
+to the propeptide of prape1 and mediates targeting of the
+cvt complex to the perivacuolar vesicle formation site, the
+preautophagosomal structure (pas; scott
+et al., 2001;
+shintani et al., 2002). most atg proteins are then recruited to,
+and regulate vesicle formation from, the pas (suzuki et al.,
+2001; kim et al., 2002). finally, completely assembled vesi-
+cles encapsulate and transport prape1 together with its
+receptor atg19 to the vacuole. in growing ape1⌬ and atg19⌬
+cells, atg proteins are inefﬁciently recruited to the pas,
+indicating that the pas-targeted prape1-atg19 complex
+likely elicits a signal to regulate the pas and cvt vesicle
+formation. consequently, identifying the component that
+interacts with the cvt complex at the pas is critical to unveil
+the molecular mechanism of the cvt pathway and selective
+autophagy regulation.
+in an atg11⌬ strain, the prape1-atg19 complex is found
+away from the perivacuolar pas, which results in a block of
+prape1 transport, whereas general autophagy induction by
+starvation is not affected (kim et al., 2001b; yorimitsu and
+klionsky, 2005a). atg11 encodes a large protein with four
+potential coiled-coil (cc) domains. the atg11 c terminus,
+including its fourth cc domain (cc4), is responsible for
+interaction with atg19. other parts of atg11 are involved in
+homo-oligomer formation or interaction with other atg pro-
+teins. the exact timing and subcellular locations of these
+interactions are not known, but atg11 and its interacting
+partners are seen colocalized at the pas. these atg11 fea-
+tures and the atg11⌬ strain phenotypes indicate its critical
+role in delivering prape1-atg19 to the pas and subse-
+quently initiating a signal for cvt vesicle formation. an
+interaction partner for atg11 is likely located at the pas to
+dock with and transduce signals from the incoming cargo
+complex, but the identity of such a component is still not
+clear. among those pas-associated atg proteins, atg9 is the
+only one with transmembrane domains (noda et al., 2000).
+atg9 recruits atg2 and atg18 to the pas (wang et al., 2001;
+reggiori et al., 2004). while fulﬁlling its autophagy regula-
+tory function, atg9 cycles between subcellular punctate
+compartments and the pas. although the exact role of atg9
+cycling is still a question, this cycling behavior is blocked
+and atg9 accumulates at the pas in atg1⌬ and several other
+atg mutant strains. interestingly, atg9 is not restricted to the
+pas in growing atg1⌬ ape1⌬ double knockout cells (shintani
+and klionsky, 2004). these data suggest that atg9 may
+participate in an early event for loading prape1 cargo or
+integrating signals for control of vesicle formation at the
+pas.
+in this present study, we have characterized an atg19-
+mediated dual interaction prape1 sorting mechanism and
+found atg9 as the partner for interaction with atg11 to relay
+the cargo-loading signal at the pas. the domains required
+for atg11-atg9 interaction have been mapped. properties of
+atg11 and atg9 variants, which lost interaction with each
+other, indicate the critical role for a proper atg11-atg9 in-
+teraction to initiate cvt vesicle formation. in addition, atg9
+distribution patterns seen in different mutant backgrounds
+suggest that in the absence of the prape1 cargo, atg11 still
+affects the appearance of multiple perivacuolar pas sites in
+starved cells.
+materials and methods
+strains and media
+the s. cerevisiae yeast strains used in this study are listed in table 1. for gene
+disruptions, the entire coding region was replaced with either the escherichia
+coli kanr, schizosaccharomyces pombe his5 , ors. cerevisiae trp1 genes using pcr
+primers containing ⬃40 bases of identity to the regions ﬂanking the open
+reading frame (orf). yeast cells were grown in ypd (1% yeast extract, 2%
+peptone, 2% glucose) or synthetic medium (sd; 0.67% yeast nitrogen base
+without amino acids, 2% glucose, auxotrophic amino acids, and vitamins if
+necessary). for nitrogen starvation, sd-n medium (0.17% yeast nitrogen base
+without amino acids and ammonium sulfate, and 2% glucose) was used.
+plasmids
+for the two-hybrid analysis, we used the system developed by james et al.
+(1996). the prey plasmid pgad-atg9 or its truncated versions were con-
+structed by ligating the corresponding atg9 orf fragments into xmai and
+table 1. yeast strains used in this study
+strain
+descriptive name
+genotype
+sey6210
+why1
+wphyd7
+jky007
+ahy001
+ssy31
+why2
+why3
+why6
+why22
+tn124
+why28
+why29
+why30
+tn125
+cyy2
+pj69-4a
+why10
+why19
+920
+atg1⌬
+atg8⌬
+atg9⌬
+atg11⌬
+atg19⌬
+atg1⌬ ape1⌬
+atg8⌬ atg11⌬
+atg9⌬ atg11⌬
+atg11⌬ atg19⌬
+atg11⌬
+atg19⌬
+atg11⌬ atg19⌬
+atg9⌬
+atg9⌬
+atg11⌬
+mat␣ ura3-52 leu2-3,112 his3-⌬200 trp1-⌬901 lys2-801 suc2-⌬9 mel gal
+sey6210 atg1⌬::his5 s.p.
+sey6210 atg8⌬::leu2
+sey6210 atg9⌬::his3
+sey6210 atg11⌬::his3
+sey6210 atg19⌬::his5 s.p.
+sey6210 atg1⌬::his5 s.p. ape1⌬::leu2
+sey6210 atg8⌬::ura3 atg11⌬::his3
+sey6210 atg9⌬::trp1 atg11⌬::his5 s.p.
+sey6210 atg11⌬::his5 s.p. atg19⌬::leu2
+mat␣ leu2-3,112 ura3-52 trp1 pho8⌬::pho8⌬60 pho13⌬::leu2
+tn124 atg11⌬::trp1
+tn124 atg19⌬::kan
+tn124 atg11⌬::trp1 atg19⌬::kan
+mata ade2 his3 leu2 lys2 trp1 ura3 pho8⌬::pho8⌬60
+tn125 atg9⌬::kan
+mata his3-200 leu2-3, 112 trp1-901 ura3-52 gal4⌬ gal80⌬gal2-ade2
+lys2::gal1-his3 met2::gal7-lacz
+pj69-4a atg9⌬::trp1
+pj69-4a atg11⌬::trp1
+source
+robinson et al. (1988)
+shintani et al. (2002)
+kim et al. (2001)
+noda et al. (2000)
+kim et al. (2001)
+scott et al. (2001)
+shintani et al. (2002)
+shintani et al. (2002)
+this study
+this study
+noda et al. (1995)
+this study
+this study
+this study
+noda et al. (1995)
+this study
+james et al. (1996)
+this study
+this study
+molecular biology of the cell
+psti sites of pgad-c3. the bait plasmid pgbdu-atg11 or truncated versions
+were constructed by inserting the full-length or the truncated atg11 orf into
+the bamhi and sali sites of pgbdu-c3. atg9 or the truncated atg9 orf
+were generated by pcr and ligated into xmai and xhoi sites of pcuprota,
+pcu3xha, pcurfp, and pcugfp. the pcr products of the truncated atg11
+orf were inserted into the spei and kpni restriction sites of prs424. for the
+plasmid expressing gfp-ape1, the ape1 orf was ampliﬁed by pcr and
+ligated into xmai and clai sites of pcugfp. the dna fragment encoding rfp
+was inserted into the spei and xmai sites of pcu414-cvt9 to generate a
+plasmid expressing the rfp-atg11 fusion protein. plasmids for expressing
+gfp-atg5 and gfp-atg8 have been described elsewhere (george et al., 2000;
+kim et al., 2001a).
+protein a pulldown
+the cells harboring plasmids expressing protein a, prota-atg9, or prota-
+truncated atg9 and myc-atg11 or truncated atg11 were converted into
+spheroplasts and then lysed with lysis buffer (20 mm hepes-koh, ph 6.8,
+150 mm koac, 5 mm mgoac, 250 mm sorbitol, 0.5%triton x-100, 1 mm
+phenylmethylsulfonyl ﬂuoride [pmsf], complete edta-free protease inhib-
+itor; roche diagnostics, alameda, ca). after being centrifuged at 800 rpm for
+5 min, the cell lysate was incubated with human igg–coated dynabeads
+(invitrogen, carlsbad, ca) at 4°c for 3 h. the resultant protein complexes
+were eluted by sds-page sample buffer and analyzed by immunoblotting
+with anti-myc antibody (santa cruz biotechnology, santa cruz, ca) or rabbit
+pap (dako, carpinteria, ca).
+alkaline phosphatase assay
+the system we used was adapted from a previous report (noda et al., 1995).
+brieﬂy, cells starved for 4 h were harvested and lysed with lysis buffer (20 mm
+pipes, ph 6.8, 50 mm kcl, 100 mm koac, 10 mm mgso4, 10 ␮m znso4, 1
+mm pmsf, and 0.5% triton x-100) by glass beads. autophagic activity was
+estimated with p-nitrophenol phosphate (p-npp) as substrate. protein concen-
+tration was measured by pierce bca assay (pierce chemical, rockford, il).
+analysis of pexophagy activity
+the degradation of peroxisomes was determined by the loss of thiolase (fox3)
+as described previously (hutchins et al., 1999).
+fluorescence microscopy
+yeasts cells expressing ﬂuorescent proteins were grown to midlog phase and
+shifted to sd-n medium as needed. for labeling vacuolar membrane, the cells
+were incubated with 0.8 ␮m n-(triethylammoniumpropyl)-4-(p-diethyl-
+aminophenylhexatri-enyl) pyridinium (fm 4-64) at 30°c for 20 min. after
+being washed by medium once, the cells were incubated in ypd at 30°c for
+30–45 min and collected for observation.
+results
+atg19 mediates a dual interaction prape1-sorting
+mechanism
+current information on the molecular mechanism of prape1
+sorting indicates that atg19 facilitates this process by ﬁrst
+associating with prape1 to form a prape1-atg19 cvt com-
+plex, and then sequentially interacting with atg11 and atg8
+to load the cvt complex into transport vesicles (scott et al.,
+2001; shintani et al., 2002). mutations in any one of these
+components should inevitably result in blockage of prape1
+import. however, paradoxically, this prape1 import defect
+is partially reversed in nutrient starvation–treated atg8⌬ and
+atg11⌬ cells, whereas an atg19⌬ strain does not show this
+reversal phenotype (abeliovich et al., 2000; kim et al., 2001b).
+these data indicate that only atg19, but not its two interac-
+tion partners, is essential for prape1 transport by autopha-
+gosomes. because the atg8 expression level and its conju-
+gation to phosphatidylethanolamine (pe) is increased under
+starvation stress (huang et al., 2000; ichimura et al., 2000), we
+suspected that interaction between atg19 and increased lev-
+els of atg8-pe could bypass the atg11-dependent event and
+cause the reversal phenotype of an atg11⌬ strain. as a con-
+sequence, we proposed that by independent, instead of se-
+quential, interaction with atg11 and atg8, atg19 mediates
+prape1 sorting by a dual interaction mechanism (figure
+1a).
+cargo sorting in selective autophagy
+figure 1. atg19 mediates a dual interaction prape1 sorting mech-
+anism. (a) model. atg19 independently interacts with atg11 and
+atg8 to facilitate prape1 sorting. atg11 binds with atg9 to
+ensure efﬁcient targeting prape1 to the pas in growing cells,
+whereas starvation stress induces atg8-pe level and partially
+bypasses the atg11-dependent event. (b) double mutation in
+atg8⌬ and atg11⌬ shows synergistic effect in blocking prape1
+transport. total cell extracts from midlog phase growing cells or
+overnight nitrogen-starved cells were resolved by sds-page
+followed by immunoblotting with anti-ape1 antiserum. sample
+loadings for starved cells were empirically decreased to see sim-
+ilar intensities of ape1 signals. (c) the atg11⌬ atg19⌬ double
+mutant strain survives long-term nitrogen starvation stress. mid-
+log phase growing cells in ypd medium were collected and
+shifted to nitrogen starvation sd-n medium for further culture.
+at the indicated day, viability was determined by plating ali-
+quots of the culture on ypd plates and counting the number of
+colonies after 2 d growth. (d) the atg11⌬ atg19⌬ double mutant
+strain shows normal autophagy induction by short-term starva-
+tion. midlog phase growing cells were shifted from smd to sd-n
+medium for 4 h. autophagy was measured by the levels of
+pho⌬60 activity in whole-cell protein extracts. activity in starved
+wild-type strain was set to 100%, and activity in the other con-
+ditions was normalized accordingly. error bars, ⫾sd from three
+separate experiments. (e) atg19⌬10c-expressing atg11⌬ atg19⌬
+cells do not reverse prape1 transport defect after starvation.
+corresponding cells were handled as described in b.
+vol. 18, march 2007
+921
+c.-y. chang and w.-p. huang
+to test this dual interaction sorting proposal, we ﬁrst
+examined whether atg8⌬ atg11⌬ double knockout cells
+showed a synergistic effect in blocking the reversal pheno-
+type of the prape1 import defect. after overnight incubation
+the corresponding mutants in nitrogen starvation medium,
+both atg8⌬ and atg11⌬ cells generated a signiﬁcant amount
+of mape1, whereas atg8⌬ atg11⌬ double knockout cells still
+had a complete block in prape1 import (figure 1b). because
+atg1⌬ cells also did not generate mape1 by this prolonged
+starvation treatment, transport by autophagosomes was
+likely responsible for the reversal phenotype, and this result
+seemed to support our proposal. however, an atg8⌬ strain is
+known to have limited autophagy activity and assembles
+abnormally small autophagosomes (abeliovich et al., 2000).
+this atg8 defect in combination with the atg11 mutation may
+account for the synergistic effect we observed instead of
+indicating a direct involvement of atg8 in prape1 sorting by
+interaction with atg19. to exclude this possibility, we
+sought to re-examine this phenomenon in a genetic back-
+ground with normal autophagy functions.
+our strategy to conduct this experiment relied on the fact
+that a 10-residue deletion from the carboxy terminus of
+atg19 (atg19⌬10c) is enough to block its interaction with
+atg8 (shintani et al., 2002). to use atg19⌬10c for our pur-
+pose, we generated an atg11⌬ atg19⌬ double knockout
+strain. expressing atg19⌬10c in this strain should eliminate
+the atg19-atg11 and atg19-atg8 interactions without com-
+promising general autophagy execution. the ability of this
+atg11⌬ atg19⌬ strain to induce autophagy after long- and
+short-term starvation was ﬁrst conﬁrmed by analyzing sur-
+vival and pho8⌬60 activity, respectively. the survival of the
+double knockout cells under nitrogen starvation conditions
+was similar to that seen with the atg11⌬ cells (figure 1c).
+cytosolically accumulated pho8⌬60 was delivered to, and
+activated in, the vacuoles of atg11⌬ atg19⌬ cells as efﬁciently
+as wild-type or either single mutant strains (figure 1d).
+these two assay results indicated normal autophagy activity
+for the atg11⌬ atg19⌬ double knockout strain. expression of
+full-length atg19 complemented the atg19 defect of atg11⌬
+atg19⌬ cells and reversed their prape1 import defect after
+starvation treatment (figure 1e). atg19⌬10c also supported
+the reversal phenotype in the atg19⌬ background as ex-
+pected. the atg11⌬ atg19⌬ cells expressing atg19⌬10c did
+not generate any mape1, in agreement with our proposal of
+the dual interaction sorting mechanism. to our knowledge,
+these results were the ﬁrst to clearly demonstrate the func-
+tion of atg8, a cvt and autophagosomal vesicle membrane
+component, in facilitating transport cargo selection.
+atg19 facilitates targeting prape1 to the pas
+by interaction with atg11 and atg8
+targeting the prape1-atg19 complex to the vesicle forma-
+tion pas is a prerequisite for its vacuolar delivery. despite
+studies showing that this event is regulated by atg11,
+mape1 is still generated in starved atg11⌬ cells, which indi-
+cates that partial targeting of prape1 to the autophagosome
+formation site in the absence of atg11 is possible. we next
+studied the phenotypes of prape1 pas targeting to evaluate
+our proposal of the dual interaction sorting mechanism. a
+plasmid expressing prape1 with green ﬂuorescent protein
+(gfp) tagged to its amino terminus was prepared and the
+vacuolar delivery of this gfp-ape1 was conﬁrmed in wild-
+type cells, suggesting its normal distribution as other re-
+searchers observed (supplementary figure 1). the plasmid
+was introduced to different mutant strains to mark their
+prape1 cargo complex. the vacuole membrane in those cells
+was labeled with the lipophilic dye fm 4-64. because the
+pas site is close to the vacuole, overlapping of gfp and fm
+4-64 ﬂuorescence signals was proposed as an indication of
+proper prape1 pas targeting. the majority of atg1⌬ cells
+showed efﬁcient targeting of prape1 to the pas in either
+growing or starvation conditions, whereas separated gfp
+and fm 4-64 signals were detected in a signiﬁcant percent-
+age of a population of atg19⌬ cells, in agreement with its
+receptor function for prape1 transport (figure 2, a and b).
+for a population of growing atg11⌬ cells, the percentage of
+cells with a targeting error was about the same as that of the
+atg19⌬ strain. starvation treatment of atg11⌬ cells, however,
+decreased the severity of this defect. counting the number
+of cells with nonoverlapping gfp and fm 4-64 signals indi-
+cated that the reversal phenotype was statistically signiﬁcant
+(figure 2b). the sorting defect in an atg8⌬ background was
+less severe than in atg11⌬ cells, and starvation stress signif-
+icantly decreased the cells with separated signals. in accord
+with our proposal, when both the atg8 and atg11 branches
+of the prape1 sorting pathway were blocked, the percentage
+of atg8⌬ atg11⌬ double knockout cells with a sorting error
+was found to be similar to an atg19⌬ strain, and starvation
+stress did not decrease the sorting error (figure 2b).
+delivery of the prape1-atg19 cargo to the pas is pro-
+posed as an induction signal to stimulate cvt vesicle forma-
+tion, but how this induction is achieved is still unknown.
+because atg11 regulates pas targeting of prape1-atg19 and
+interacts with several atg proteins, it is a good candidate to
+elicit and relay a cargo-loading signal and induce vesicle
+formation (yorimitsu and klionsky, 2005a). to mediate these
+functions, a partner protein localized at the pas was proposed
+to interact with this incoming prape1-atg19-atg11 complex.
+we have found an interaction between atg11 and atg9 (see the
+next section), and proposed that atg9 served as the counterpart
+to interact with atg11 at the pas. the prape1 targeting
+defect in atg9⌬ cells was hence examined. although this
+strain did not cause as severe a defect as seen with the atg11
+mutation, cells with both atg9 and atg11 mutations (atg9⌬
+atg11⌬) still lessened the prape1-sorting error after starva-
+tion treatment (figure 2, a and b), in agreement with the
+idea that they are in the same branch of atg19-atg11 medi-
+ated prape1 sorting.
+atg9 physically interacts with atg11
+despite the fact that starvation-induced atg8 contributes to
+prape1 sorting, the defect in atg8⌬ cells was much weaker
+than that seen in atg19⌬ and atg11⌬ strains (figure 2, a and
+b), indicating the critical role of atg11 in this process. we
+next sought to identify the atg11 interaction partner at the
+pas to evaluate its involvement in targeting the prape1-
+atg19-atg11 complex. because atg9 is an integral mem-
+brane protein and its shuttling to the pas requires the
+presence of properly targeted prape1, we considered it a
+good candidate to accept or relay cargo-loading signals at
+the pas (noda et al., 2000; shintani and klionsky, 2004). to
+test its possible interaction with atg11, we applied human
+igg–coated magnetic beads to afﬁnity purify bacterial pro-
+tein a fragment–tagged atg9 fusion proteins (prota-atg9)
+from atg1⌬ cells. proteins associated with the pas were
+subjected to immunoblotting analyses with antisera against
+autophagy regulatory proteins. atg11 was indeed found
+coisolated with prota-atg9 (figure 3, b and d). the inter-
+action between atg9 and atg11 is likely to be direct because
+atg11 was seen in the pulldown sample from detergent
+triton x-100–treated protein extract, whereas prape1 and
+several other atg proteins were not (data not shown). these
+results exclude the possibility of indirect coisolation of
+atg11 with the atg9-localized pas as a whole entity. previ-
+922
+molecular biology of the cell
+cargo sorting in selective autophagy
+figure 2. both atg11 and atg8 contribute to
+target prape1 to the pas. (a) representative
+images of prape1 targeting in different auto-
+phagy mutant backgrounds. expression of
+gfp-ape1 was driven by a plasmid. cells of
+corresponding strains were grown to midlog
+phase, labeled with fm 4-64, and immediately
+examined (smd) or after additional culturing
+in nitrogen starvation medium for 2–3 h
+(sd-n) by ﬂuorescence microscopy. the gfp
+signals were shown in green and fm 4-64
+signals in red. scale bar, 5 ␮m. (b) quantita-
+tive results of prape1-sorting errors. the per-
+centages of cells with separated gfp and fm
+4-64 ﬂuorescence signals were counted from at
+least 200 cells for each condition. values re-
+ported are the means of three independent
+determinations ⫾ sd. *p ⬍ 0.0001 represents
+statistical differences between groups.
+ous studies have found four potential cc domains of atg11,
+which are involved in homo-oligomerization or interaction
+with other autophagy regulatory proteins, including atg1,
+atg17, and atg20 (yorimitsu and klionsky, 2005a). atg9 is
+also known to interact with atg2 and atg18 (wang et al.,
+2001; reggiori et al., 2004). we have conﬁrmed that the
+coisolation of atg11 with prota-atg9 is not affected by
+deletion of atg2, atg17, atg18 , oratg20 (supplementary figure
+2). our pulldown experimental results identiﬁed another
+unreported atg11 interaction partner, atg9.
+to map the atg11 domain required for interaction with
+atg9, we conducted a yeast two-hybrid analysis. atg11
+fused with the gal4 dna binding domain (bd-atg11) and
+gal4 activation domain fused atg9 (ad-atg9) recapitulated
+the speciﬁc interaction in an atg11⌬ two-hybrid test strain
+despite the fact that atg9 is a membrane protein with mul-
+tiple transmembrane domains (figure 3, a and c). the
+atg11⌬ background was chosen for this study to prevent any
+possible interference caused by endogenous full-length
+atg11. to further characterize the atg11 domain responsible
+for this interaction, several truncated variants of atg11 were
+prepared (figure 3a). the constructs were conﬁrmed to
+express the desired atg11 variants by an immunoblotting
+analysis probed with antiserum against the gal4 bd domain
+(data not shown). the amino terminal half of atg11 (bd-
+atg11⌬cc3-4) retained the ability to interact with ad-atg9,
+but the carboxy terminus of atg11 (bd-atg11⌬cc1-3) did
+not support cell growth on a test plate without histidine
+(figure 3 a). our construct of the atg11 amino terminus
+contained the ﬁrst and second cc domains (cc1 and cc2).
+deletion of either one of them (bd-atg11⌬cc1 and bd-
+atg11⌬cc2) inhibited cell growth on a test plate, indicating
+that both the cc1 and cc2 of atg11 are required for inter-
+action with atg9.
+the two-hybrid results were further conﬁrmed by afﬁnity
+pulldown experiments. prota-atg9 was coexpressed with
+amino terminus myc-tagged full-length or truncated atg11
+proteins by introducing corresponding low-copy plasmids
+to atg1⌬ cells. cell extracts were subjected to afﬁnity purify
+prota-atg9 together with its associated proteins. consistent
+with the two-hybrid results, both full-length and the amino
+terminus of myc-tagged atg11 were coisolated with prota-
+atg9, whereas truncation of either the cc1 or cc2 domain
+compromised atg11 and atg9 interaction (figure 3b).
+the atg9 protein is predicted to have six to eight central-
+located membrane-spanning segments with large hydro-
+philic domains at both termini (noda et al., 2000). we have
+constructed a series of truncated atg9 plasmids for a two-
+hybrid assay to identify the atg11-interacting domain (fig-
+ure 3c). all the constructs supported more or less similar
+expression levels of the corresponding ad-atg9 variants
+(data not shown). deletion of 200 residues from the carboxy
+terminus (ad-atg9⌬200c) did not affect its interaction with
+bd-atg11 (figure 3c). neither did 152 residues removed
+from the atg9 amino terminus (ad-atg9⌬152n) inhibit
+atg9-atg11 interaction. further removing an additional 49
+vol. 18, march 2007
+923
+c.-y. chang and w.-p. huang
+figure 3. atg11 interacts with atg9 and mapping of the binding domains. (a and b) the cc1 and cc2 domains of atg11 are required for
+interaction with atg9. (a) a schematic of atg11 indicates the location of the cc domains and the exact cloning sites for the different atg11
+variant constructs. the two-hybrid atg11⌬ strain was transformed with plasmids to express ad-atg9 and the indicated bd-atg11 variants.
+transformants were grow n 2 d at30°c on plates lacking histidine with 3 mm of 3-amino-1,2,4-triazole (3-at). those transformants grew on
+test plates were indicated with ⫹ signals. (b) protein extracts of atg1⌬ cells expressing prota-atg9 and the indicated myc-tagged atg11
+variants were incubated with human igg–coated dynabeads. coisolated proteins were subjected to sds-page followed by immunoblotting
+with anti-myc antibody and pap reagents for detecting protein a–tagged atg9. degradation products of myc-atg11 were labeled with an
+asterisk (*). (c and d) the atg9 residues 154-201 are required for interaction with atg11. (c) a schematic of atg9 indicates the location of
+the cloning sites for the different atg9 variant constructs. an atg9⌬ two-hybrid test strain was used for this study. the two-hybrid assay was
+conducted as described in a. (d) the afﬁnity pulldown assay conﬁrms the atg11-binding domain in atg9. cells of an atg1⌬ strain harboring
+an empty protein a vector (vector) or different protein a–tagged atg9 variants were prepared for this study. experimental procedures were
+as described in b.
+residues from the amino terminus (ad-atg9⌬201n), how-
+ever, blocked interaction. a plasmid expressing ad-atg9
+with residues 154-201 truncated (ad-atg9⌬154-201) also
+prevented cell growth on a test plate, suggesting that this
+fragment is critical for recognition with atg11.
+the conclusion drawn from the two-hybrid assay was then
+conﬁrmed by afﬁnity puriﬁcation experiments. low-copy plas-
+mids that express protein a fragment–tagged full-length or
+truncated atg9 proteins were individually introduced into
+atg1⌬ cells for evaluating their interaction with myc-atg11. all
+of the prota-atg9 proteins were ﬁrst demonstrated to be efﬁ-
+ciently isolated by human igg-coated magnetic beads (figure
+3d). unexpectedly, prota-atg9⌬154n and -atg9⌬201n vari-
+ants were found migrating faster than prota-atg9⌬200c in
+a gel, which seemed to not correlate with the number of
+residues deleted in the corresponding variants. to ensure
+that the plasmids drive the expression of the desired atg9
+proteins, their atg9 coding regions were conﬁrmed by se-
+quencing. we suspected that this unusual mobility associ-
+ated with different atg9 variants was due to different amino
+figure 4. the cc1 and cc2 domain of atg11 is re-
+quired for its proper function in control of prape1 vac-
+uolar transport. (a) loss interaction with atg9 also
+prevents atg11⌬cc1 and ⌬cc2 to mediate the trans-
+port of prape1 by the cvt pathway. total cell extracts of
+midlog phase growing cells or 4 h nitrogen-starved cells
+were resolved by sds-page followed by immunoblot-
+ting with anti-ape1 antiserum. (b) atg11⌬cc1 and
+⌬cc2 are defective in targeting prape1 to the pas.
+cells coexpressing gfp-ape1 and the indicated atg11
+variants were grown to midlog phase, labeled with fm
+4-64, and examined immediately (smd) or after addi-
+tional culturing in nitrogen-starvation medium for 2–3 h
+(sd-n) by ﬂuorescence microscopy. (c) restriction of
+gfp-atg9 to the pas is blocked in cells expressing
+atg11⌬cc1 and ⌬cc2. cells of atg1⌬ atg11⌬ strains
+were transformed with plasmids to coexpress gfp-atg9
+and the indicated atg11 variants. gfp-atg9 ﬂuores-
+cence signals were observed from 4-h nitrogen-starved
+cells. scale bar, 5 ␮m.
+molecular biology of the cell
+924
+acid compositions at the two termini. full-length (prota-
+atg9) and the atg9 variant with 200 residues truncated from
+the carboxy terminus (prota-atg9⌬200c) efﬁciently coiso-
+lated myc-atg11 (figure 3d). atg9 with residues 154-201
+truncated (prota-atg9⌬154-201) lost the ability to coprecipi-
+tate myc-atg11, which was in agreement with the two-
+hybrid results indicating the involvement of this region for
+interaction with atg11. however, deletion of 152 residues
+from the amino terminus of atg9 (prota-atg9⌬152n) also
+strongly obstructed coisolation of myc-atg11, which was
+contradictory to the two-hybrid data. this inconsistency
+may result from different stringency inherent in the two
+assays.
+deletion of the cc1 and cc2 of atg11 affects the
+vacuolar transport of prape1
+mapping of the binding domains has identiﬁed the require-
+ment of atg11 cc1 and cc2 for interaction with atg9. we
+rationalized that atg9 could function as a partner at the pas
+to relay a cargo-loading signal and regulate subsequent
+vesicle formation. if our hypothesis is correct, preventing the
+atg9-atg11 interaction should also inhibit prape1 transport
+by the cvt pathway, and starvation could reverse the defect
+due to the atg19-atg8 interaction. an immunoblotting analy-
+sis against ape1 showed that this was indeed the case (figure
+4a). expression of atg11⌬cc1 or atg11⌬cc2 in atg11⌬ cells
+did not rescue the prape1 import defect in growing conditions,
+but starvation treatment generated mape1 in these cells, which
+was also seen in control atg11⌬ cells with an empty plasmid.
+furthermore, we examined prape1-sorting phenotypes for
+cells expressing these two atg11 variants. in populations of
+atg11⌬cc1- and atg11⌬cc2-expressing cells, a signiﬁcant
+percentage of cells had gfp-ape1 separated from fm 4-64–
+labeled vacuoles (figure 4b).
+next, we also examined the cvt and autophagy functions
+of cells expressing atg9⌬154-201, a truncated atg9 that lost
+interaction with atg11. transport efﬁciency for prape1 was
+ﬁrst evaluated. as reported before, atg9⌬ cells were not able
+to deliver prape1 regardless of the nutrient conditions
+(figure 5a). introducing a plasmid to express full-length
+atg9 complemented this defect. interestingly, expressing
+atg9⌬154-201 did not support prape1 transport in nutrient-
+rich growing cells but starvation stress reversed this trans-
+port defect, which is a phenotype similar to atg11⌬ cells
+(figures 1a and 5a). this result again suggests that a proper
+atg9-atg11 interaction is critical for the cvt pathway regu-
+lation. next, the autophagy activity induced by short-term
+starvation was evaluated by the pho8⌬60 alkaline phospha-
+tase assay. atg9⌬154-201 supported delivery of cytosolically
+accumulated pho8⌬60 to, and subsequent activation in, the
+vacuoles to a level of ⬃75% of that seen with full-length
+atg9 (figure 5b). a survival curve assay was then con-
+ducted to test the viability of cells expressing atg9⌬154-201
+in nitrogen starvation medium. cells of an atg9⌬ strain died
+withi n 7 d ofstarvation treatment (figure 5c). expression of
+full-length atg9 complemented the atg9⌬ phenotype and
+maintained cell viability similar to the wild-type cell level.
+atg9⌬154-201–expressing cells survived a long duration of
+starvation stress but eventually died at the end of the assay
+period of more than 2 wk. taken together, atg9⌬154-201
+seems to completely block the cvt pathway but only mildly
+affects autophagy regulation. finally, in addition to facilitate
+prape1 transport via the cvt pathway, atg11 is also re-
+quired for efﬁcient elimination of superﬂuous peroxisomes
+during pexophagy (hutchins et al., 1999). we tested if
+atg9⌬154-201 also inhibited pexophagy due to its defect in
+interacting with atg11. after switching lipid-grown cells to
+cargo sorting in selective autophagy
+figure 5. atg9⌬154-201 is defective in the cvt transport of prape1,
+but only mildly affects autophagy, and does not interfere pexoph-
+agy. (a) import of prape1 in growing cells expressing atg9⌬154-
+201 is blocked. total cell extracts from midlog phase growing cells
+or 4-h nitrogen-starved cells were resolved by sds-page followed
+by immunoblotting with anti-ape1 antiserum. (b and c) compared
+with cells expressing full-length atg9, atg9⌬154-201 only mildly
+affects autophagy. (b) midlog phase growing cells harboring an
+empty plasmid or plasmids driving expression of the indicated atg9
+variants were shifted from smd to sd-n media for 4 h. autophagy
+was measured by the levels of pho⌬60 activity in whole-cell protein
+extracts. activity in starved cells expressing full-length ha-tagged
+atg9 was set to 100% and activity in the other conditions normal-
+ized, accordingly. error bars, ⫾sd from three separate experiments.
+(c) midlog phase growing cells in smd medium were collected and
+shifted to nitrogen starvation sd-n medium for further culture. at
+the indicated day, viability was determined by plating aliquots of
+the culture on ypd plates and counting the number of colonies after
+2 d growth. (d) atg9⌬154-201 supports pexophagy. cells harboring
+an empty plasmid (atg9⌬) or plasmids driving expression of the
+indicated atg9 variants were grown under peroxisome-inducing
+conditions and shifted to sd-n for 24 h. at the indicated times,
+proteins extracts were prepared and subjected to immunoblotting
+against anti-fox3 antiserum.
+glucose-containing medium, peroxisomes were efﬁciently
+degraded in cells expressing either full-length atg9 or
+atg9⌬154-201 (figure 5d), suggesting that pexophagy exe-
+cution does not require direct interaction between atg9 and
+atg11.
+cargo loading induces the assembly of the pas
+atg9 shuttles between mitochondria and the pas to regulate
+cvt vesicle and autophagosome formation (reggiori et al.,
+2004; reggiori and klionsky, 2006). although the exact func-
+tion of this cycling behavior is still elusive, a wild-type atg9
+vol. 18, march 2007
+925
+c.-y. chang and w.-p. huang
+figure 6. the cvt complex and starvation treatment induce atg9
+restriction at the pas. (a) transport cargo, such as the prape1-
+formed cvt complex, together with atg11 induce atg9 restriction.
+midlog phase growing cells or 4-h nitrogen-starved cells of the
+indicated genetic backgrounds were prepared for detecting gfp-
+atg9 signals by ﬂuorescence microscopy. scale bar, 5 ␮m. (b) gfp-
+atg9⌬154-201 does not concentrate to the pas in growing atg1⌬
+cells. gfp-atg9⌬154-201 was expressed in the corresponding strains.
+images were acquired as described in a.
+distribution pattern is not observed in several autophagy
+mutant strains, including atg1 and atg2 . inatg1⌬ cells, the
+majority of gfp-atg9 was restricted at the pas in either
+exponentially growing or starved cells (figure 6a). in grow-
+ing cells, this pas-restricted atg9 is likely stuck in the
+process of regulating cvt vesicle formation in order to de-
+liver prape1 to the vacuole. therefore, in the absence of
+prape1 cargo, gfp-atg9 restriction did not occur and a
+diffuse ﬂuorescence signal pattern was detected in growing
+atg1⌬ ape1⌬ double knockout cells (shintani and klionsky,
+2004; figure 6a). starvation treatment caused gfp-atg9 to
+be restricted in these cells, which was likely due to the
+induction of autophagosome formation. interestingly, most
+cells in this condition showed more than one gfp-atg9 dot.
+in atg1⌬ atg11⌬ double knockout cells, gfp-atg9 showed
+yet another distribution pattern. dispersed gfp-atg9 sig-
+nals in the cytosol were detected in most cells regardless of
+the nutrient conditions, although starvation seemed to have
+the tendency to concentrate gfp-atg9 signals in this genetic
+background. taken together, these distinctive gfp-atg9 sig-
+nal patterns observed in different strains clearly indicate that
+rather than merely facilitating transit of the prape1-atg19
+complex to the pas, atg11 also affect the appearance of the
+pas.
+figure 7. the multiple gfp-atg9 puncta in atg1⌬ ape1⌬ cells are
+likely structures for autophagosome formation. cells of correspond-
+ing strains harboring plasmids to express the indicated atg proteins
+were grown to midlog phase, labeled with fm 4-64, shifted to
+starvation medium for 2–3 h, and then examined by ﬂuorescence
+microscopy. (a) regardless of prape1 present or not, gfp-atg9 is
+restricted to perivacuolar sites in strains of atg1⌬ background. scale
+bar, 5 ␮m. (b–d) the multiple atg9 dots colocalize with atg8 (b),
+atg5 (c), and atg11 (d).
+to ﬁnd out if this role of atg11 also relies on its direct
+interaction with atg9, we examined gfp-atg9⌬154-201 ﬂu-
+orescence signals. unlike full-length gfp-atg9, gfp-
+atg9⌬154-201 was dispersed in the cytosol in growing atg1⌬
+cells (figure 6b), which is consistent with its defect in the
+regulation of cvt vesicle formation through interaction with
+atg11. starvation treatment restricted gfp-atg9⌬154-201 to
+a single pas in most atg1⌬ cells, a pattern shared with
+gfp-atg9. interestingly, gfp-atg9⌬154-201 behaved ex-
+actly the same as gfp-atg9 in both growing and starved
+atg1⌬ ape1⌬ cells (figure 6, a and b). these results indicate
+that atg9⌬154-201 retains the ability to cooperate with
+atg11 to control the appearance of a single or multiple
+autophagosome assembly pas sites depending on the pres-
+ence of prape1 or not, and the cooperation does not require
+direct atg11-atg9 interaction.
+the multiple gfp-atg9 dots induced by starvation treat-
+ment of atg1⌬ ape1⌬ double knockout cells might represent
+nucleated sites of autophagosome assembly. because the
+926
+molecular biology of the cell
+pas is usually found close to the vacuole in wild-type and
+atg1⌬ strains, we examined whether those multiple gfp-
+atg9 dots in double knockout cells also associated with the
+vacuole. no matter whether or not prape1 was present,
+gfp-atg9 signals were found colocalized with fm 4-64–
+labeled vacuoles in starved cells of the atg1⌬ genetic back-
+ground (figure 7a). next, a functional pas recruits many
+atg proteins to regulate vesicle formation, and we applied
+this as a criterion to evaluate the gfp-atg9 dots as sites of
+autophagosome formation. to colocalize atg9 with other
+atg proteins, a functional rfp-atg9 was prepared and its
+ability to complement atg9⌬ defects was conﬁrmed (data not
+shown). like gfp-atg9, rfp-atg9 was also restricted to
+multiple dots in starved atg1⌬ ape1⌬ cells and these dots
+colocalized with gfp-tagged atg8 (figure 7b), a marker of
+autophagosomes, and atg5 (figure 7c), a component of
+the autophagy-speciﬁc ubiquitin-like conjugation system
+(mizushima et al., 1998; kirisako et al., 1999; huang et al.,
+2000). furthermore, because gfp-atg9 did not form clear
+puncta in the absence of a functional atg11 (figures 4c and
+6b), we rationalized that the appearance of those atg9-
+positive multiple pas sites require the function of atg11. as
+a consequence, atg11 should also associate with atg9 dots.
+our colocalization data showed that this was indeed the case
+(figure 7d). finally, atg11 facilitates not only targeting of the
+prape1-atg19 complex to the pas but also selective peroxi-
+some degradation by pexophagy, which prompted us to spec-
+ulate that the atg9 dots formed in the absence of prape1 were
+stimulated by an atg11-dependent selective autophagic cargo.
+we have tried to colocalize these gfp-atg9 dots with several
+ﬂuorescent marker–labeled organelles, including peroxisomes,
+mitochondria, and endosomes, but none of them were found to
+colocalize (supplementary figure 3 and data not shown).
+whether these multiple gfp-atg9 dots are assembling around
+particulate selective autophagic cargo, equivalent
+to the
+prape1-formed cvt complex, remains to be tested.
+discussion
+right after being synthesized by cytosolic free ribosomes,
+prape1 assembles into a particulate cvt complex and trig-
+gers the cvt pathway to mediate its own efﬁcient import into
+the vacuole in growing yeast cells. when cells experience
+starvation stress, the now highly induced prape1 is deliv-
+ered together with nonspeciﬁc cytosolic components by au-
+tophagosomes. compared with the nonspeciﬁc autophagy
+transport maker pho8⌬60, however, prape1 delivery by
+either pathway is much more efﬁcient indicating the pres-
+ence of a prape1 sorting mechanism.
+the early event of prape1 sorting involves the atg11-
+mediated targeting of
+the prape1-atg19 cargo-receptor
+complex to the vesicle formation pas. atg8, through its
+covalent
+linkage to the vesicle membrane, assists the
+subsequent incorporation of prape1 into transport vesicles
+(huang et al., 2000). by means of direct interaction between
+atg19 and atg8, the prape1-atg19 complex may actually
+facilitate vesicle assembly by serving as a scaffold. in accor-
+dance with this current understanding, targeting prape1 to
+the pas is largely unaffected but further transportation is
+blocked due to the impairment of vesicle formation in atg8⌬
+cells (kirisako et al., 1999; huang et al., 2000). it is known that
+starvation stress induces atg8⌬ cells to generate small
+and/or aberrant vesicles, which could account for the ability
+of this strain to reverse its prape1 import defect (abeliovich
+et al., 2000). however, what seems to be incompatible with
+this working model of the prape1 sorting mechanism is that
+starvation only induces maturation of prape1 in atg11⌬ but
+cargo sorting in selective autophagy
+not atg19⌬ strains, whereas a direct interaction between atg11
+and atg19 was proposed as a crucial step for linking the
+prape1 cargo to the vesicle-forming machinery (yorimitsu and
+klionsky, 2005a). therefore, we suspected that atg19 achieved
+its prape1 sorting functions via independent, instead of se-
+quential, interactions with atg11 and atg8.
+here we found that a strain with both atg8 and atg11
+mutations lost the starvation-induced prape1 maturation
+phenotype. autophagy was conﬁrmed to be induced to
+full-strength by starvation in atg11⌬ atg19⌬ double knockout
+cells, but expression of atg19⌬10c, which could not interact
+with atg8, did not restore the ability to deliver prape1
+under starvation conditions in this strain (figure 1). there-
+fore, we concluded that atg19 might mediate a dual inter-
+action mechanism to support prape1 sorting, one by inter-
+action with atg11 and the other with atg8. quantifying the
+percentage of cells with a severe prape1 sorting defect
+seemed to support this proposal (figure 2). starvation de-
+creased the percentage of cells with separated gfp-ape1
+and fm 4-64 ﬂuorescence signals in atg8⌬ and atg11⌬
+strains, consistent with their abilities to reverse prape1 im-
+port defect. in an atg8⌬ atg11⌬ double knockout strain,
+starvation did not diminish the sorting defect, and the num-
+ber of cells with separated ﬂuorescence signals also reached
+the level shown in atg19⌬ strain, again in agreement with
+our proposal.
+however, regardless of the sorting function contributed
+by atg8, atg11 indeed plays an essential role to target the
+prape1 cargo. in addition to atg19, previous studies have
+identiﬁed multiple interacting partners of atg11, but none of
+these proteins were conﬁrmed responsible for targeting the
+whole prape1-atg19-atg11 complex to the pas (kim et al.,
+2001b; yorimitsu and klionsky, 2005a). here we reported a
+previously unidentiﬁed interaction between atg11 and atg9
+(figure 3), and their proper interaction was required for not
+only prape1 import by the cvt pathway but also normal
+patterns of atg9 subcellular distribution (figures 4-6). inter-
+estingly, pas-targeting of gfp-ape1 was affected by
+inhibiting the atg11 and atg9 interaction (figures 2 and 4).
+in the atg9⌬ atg11⌬ double knockout strain, the gfp-ape1
+targeting defect was partially relieved by starvation, which
+suggests that mutations in atg11 and atg9 affect the same
+prape1 sorting event. taken together, these results seem to
+indicate that atg9 plays an important role for targeting
+prape1 cargo to the vesicle-forming pas by interaction with
+atg11. however, the gfp-ape1 targeting defect in the atg9⌬
+strain was not as severe as in the atg11⌬ strain (figure 2).
+besides, atg9 is known to cycle between mitochondria and
+the pas (reggiori et al., 2005; reggiori and klionsky, 2006).
+it is necessary to distinguish the two populations of atg9 in
+order to correctly target prape1 cargo to the pas. therefore,
+we suspect that additional components participate in regu-
+lation of the atg11-mediated targeting process, and atg9 is
+responsible for relaying cargo-loading signals to induce ves-
+icle assembly. this postulate is also consistent with our
+observation that localization of gfp-atg11 to the perivacu-
+olar pas is not signiﬁcantly affected in atg9⌬ cells (supple-
+mentary figure 4). it is worth noting that, unlike a previous
+report, we have found cells expressing atg11⌬cc1 defective
+in prape1 transport (yorimitsu and klionsky, 2005a). the
+reason for this inconsistency is not clear, but our atg11⌬
+cc1 construct has four more residues deleted from the cc1
+region (⌬ 272-325 of atg11) than the one used in earlier
+studies (⌬ 272-321 of atg11). it remains to be conﬁrmed
+whether this accounts for the different observation.
+as atg9 fulﬁlls its function in regulation of vesicle forma-
+tion at the pas, it is retrieved and returned to peripheral
+vol. 18, march 2007
+927
+c.-y. chang and w.-p. huang
+mitochondria surface by the actions of several autophagy
+regulatory proteins,
+including the atg1-atg13 complex
+(reggiori et al., 2004). hence, atg9 is restricted at the pas in
+atg1⌬ cells, and studies of the distribution pattern of atg9 in
+this genetic background have led to the conclusion that
+cargo proteins facilitate vesicle formation at least in vegeta-
+tive growth conditions (shintani and klionsky, 2004). in-
+spired by these results, we examined the ﬂuorescence sig-
+nals of gfp-tagged atg9⌬154-201, an atg9 variant unable to
+interact with atg11, in several mutant strains and found
+interesting results (figure 6). first, gfp-atg9⌬154-201 was
+not restricted to the pas in growing atg1⌬ cells, a result
+supporting the idea that a proper interaction between atg11
+and atg9 is critical for the cvt pathway regulation. second,
+starvation induced restriction of gfp-atg9⌬154-201 to a sin-
+gle pas, whereas both gfp-atg9 and gfp-atg9⌬154-201
+did not restrict to a major structure in the absence of atg11.
+because atg9⌬154-201 cannot directly interact with atg11
+and yet its restriction is under atg11 control, we propose
+that other than targeting cargo proteins, atg11 also affects
+pas function and that does not rely on its direct interaction
+with atg9. this conclusion is in agreement with the data that
+atg11⌬cc1 or atg11⌬cc2 did not restore the gfp-atg9
+restriction phenomenon in atg1⌬ atg11⌬ double knockout
+cells (figure 4). finally, in the absence of prape1, starvation
+treatment induced the recruitment of the vesicle-forming
+machinery to several perivacuolar dots under the control of
+atg11 (figures 6 and 7). because atg11 also regulates other
+speciﬁc cargo sorting for transportation by autophagosomes,
+such as peroxisome degradation, we postulate whether un-
+identiﬁed speciﬁc cargo are nucleating vesicle formation in
+this situation (hutchins et al., 1999). our efforts to colocalize
+these dots with organelle markers were failed, and this
+hypothesis remains to be examined. alternatively, the pas
+may become unstable and tend to break off without prape1
+as a concrete cargo, which would also show this pas signal
+pattern. whatever the reason is, these atg9 puncta are
+clearly separated from mitochondria indicating their in-
+volvement in regulation of vesicle formation (supplemen-
+tary figure 3).
+although the vesicle formation mechanism for the cvt
+pathway and autophagy is quite distinctive from those for
+trafﬁcking between the endomembrane system, efﬁcient
+cargo sorting is equally important to all events (reggiori and
+klionsky, 2005). it is not unprecedented to ﬁnd cargo-sorting
+machineries with components generating multiple interac-
+tions. taking the endosomal sorting complexes required for
+transport (escrts) for example, all the three complexes
+contain multiple ubiquitin-binding motifs, which may com-
+pensate for the low afﬁnity between each motif and ubiq-
+uitin, and facilitate subsequent cargo delivery at the endo-
+somes (hurley and emr, 2006; slagsvold et al., 2006). in the
+case of prape1 sorting, its assembly into a cvt complex,
+association with atg19 and atg11, and atg11 oligomeriza-
+tion eventually lead to a huge structure with multiple sites
+to interact with downstream sorting components, atg8 and
+possibly atg9. maybe only with these multiple interactions
+it becomes possible to load such a huge protein inclusion
+into a forming cvt vesicle or autophagosome. excitingly,
+recent studies in mammalian systems have provided parallel
+comparisons. the polyubiquitin-binding protein p62 was
+found forming aggregates, associating with lc3, the mam-
+malian homolog of yeast atg8, and facilitating mutant hun-
+tingtin degradation by autophagosomes (kabeya et al., 2000;
+bjorkoy et al., 2005). these data provide striking similarity
+between prape1 sorting and p62-mediated huntingtin ag-
+gregates elimination. it will be interesting to test if an atg11-
+equivalent component links huntingtin-p62 complex to the
+mammalian autophagy machinery, say matg9, in the future.
+acknowledgments
+we thank drs. daniel klionsky, marks longtine, yoshinori ohsumi, and
+benedikt westermann for supplying plasmids and strains and chia-wei ku
+for technical assistant. this work was supported by grants nsc94-2311-b-
+002-026 and nsc95-2311-b-002-019-my3 from the national science council of
+taiwan (w.-p.h.).
+references
+abeliovich, h., dunn, w. a., jr., kim, j., and klionsky, d. j. (2000). dissection
+of autophagosome biogenesis into distinct nucleation and expansion steps.
+j. cell biol. 151, 1025–1034.
+bjorkoy, g., lamark, t., brech, a., outzen, h., perander, m., overvatn, a.,
+stenmark, h., and johansen, t. (2005). p62/sqstm1 forms protein aggregates
+degraded by autophagy and has a protective effect on huntingtin-induced cell
+death. j. cell biol. 171, 603–614.
+dunn, w. a., jr., cregg, j. m., kiel, j. a., van der klei, i. j., oku, m., sakai, y.,
+sibirny, a. a., stasyk, o. v., and veenhuis, m. (2005). pexophagy: the selec-
+tive autophagy of peroxisomes. autophagy 1, 75–83.
+george, m. d., baba, m., scott, s. v., mizushima, n., garrison, b. s., ohsumi,
+y., and klionsky, d. j. (2000). apg5p functions in the sequestration step in the
+cytoplasm-to-vacuole targeting and macroautophagy pathways. mol. biol.
+cell 11, 969–982.
+gu, y., wang, c., and cohen, a. (2004). effect of igf-1 on the balance between
+autophagy of dysfunctional mitochondria and apoptosis. febs lett. 577,
+357–360.
+gutierrez, m. g., master, s. s., singh, s. b., taylor, g. a., colombo, m. i., and
+deretic, v. (2004). autophagy is a defense mechanism inhibiting bcg and
+mycobacterium tuberculosis survival in infected macrophages. cell 119, 753–
+766.
+hara, t., nakamura, k., matsui, m., yamamoto, a., nakahara, y., suzuki-
+migishima, r., yokoyama, m., mishima, k., saito,
+i., okano, h., and
+mizushima, n. (2006). suppression of basal autophagy in neural cells causes
+neurodegenerative disease in mice. nature 441, 885–889.
+huang, w.-p., and klionsky, d. j. (2002). autophagy in yeast: a review of the
+molecular machinery. cell struct. funct. 27, 409–420.
+huang, w.-p., scott, s. v., kim, j., and klionsky, d. j. (2000). the itinerary of
+a vesicle component, aut7p/cvt5p, terminates in the yeast vacuole via the
+autophagy/cvt pathways. j. biol. chem. 275, 5845–5851.
+hurley, j. h., and emr, s. d. (2006). the escrt complexes: structure and
+mechanism of a membrane-trafﬁcking network. annu. rev. biophys. biomol.
+struct. 35, 277–298.
+hutchins, m. u., and klionsky, d. j. (2001). vacuolar localization of oligo-
+meric alpha-mannosidase requires the cytoplasm to vacuole targeting and
+autophagy pathway components in saccharomyces cerevisiae. j. biol. chem.
+276, 20491–20498.
+hutchins, m. u., veenhuis, m., and klionsky, d. j. (1999). peroxisome deg-
+radation in saccharomyces cerevisiae is dependent on machinery of macroau-
+tophagy and the cvt pathway. j. cell sci. 112(pt 22), 4079–4087.
+ichimura, y. et al. (2000). a ubiquitin-like system mediates protein lipidation.
+nature 408, 488–492.
+james, p., halladay, j., and craig, e. a. (1996). genomic libraries and a host
+strain designed for highly efﬁcient two-hybrid selection in yeast. genetics 144,
+1425–1436.
+kabeya, y., mizushima, n., ueno, t., yamamoto, a., kirisako, t., noda, t.,
+kominami, e., ohsumi, y., and yoshimori, t. (2000). lc3, a mammalian
+homologue of yeast apg8p, is localized in autophagosome membranes after
+processing. embo j. 19, 5720–5728.
+kim, j., huang, w.-p., and klionsky, d. j. (2001a). membrane recruitment of
+aut7p in the autophagy and cytoplasm to vacuole targeting pathways re-
+quires aut1p, aut2p, and the autophagy conjugation complex. j. cell biol.
+152, 51–64.
+kim, j., huang, w.-p., stromhaug, p. e., and klionsky, d. j. (2002). conver-
+gence of multiple autophagy and cytoplasm to vacuole targeting components
+to a perivacuolar membrane compartment prior to de novo vesicle formation.
+j. biol. chem. 277, 763–773.
+kim, j., kamada, y., stromhaug, p. e., guan, j., hefner-gravink, a., baba, m.,
+scott, s. v., ohsumi, y., dunn, w. a., jr., and klionsky, d. j. (2001b).
+928
+molecular biology of the cell
+cvt9/gsa9 functions in sequestering selective cytosolic cargo destined for the
+vacuole. j. cell biol. 153, 381–396.
+kim, j., scott, s. v., oda, m. n., and klionsky, d. j. (1997). transport of a large
+oligomeric protein by the cytoplasm to vacuole protein targeting pathway.
+j. cell biol. 137, 609–618.
+kirisako, t., baba, m., ishihara, n., miyazawa, k., ohsumi, m., yoshimori, t.,
+noda, t., and ohsumi, y. (1999). formation process of autophagosome is
+traced with apg8/aut7p in yeast. j. cell biol. 147, 435–446.
+klionsky, d. j. et al. (2003). a uniﬁed nomenclature for yeast autophagy-
+related genes. dev. cell 5, 539–545.
+komatsu, m. et al. (2006). loss of autophagy in the central nervous system
+causes neurodegeneration in mice. nature 441, 880–884.
+mizushima, n., noda, t., yoshimori, t., tanaka, y., ishii, t., george, m. d.,
+klionsky, d. j., ohsumi, m., and ohsumi, y. (1998). a protein conjugation
+system essential for autophagy. nature 395, 395–398.
+nakagawa, i. et al. (2004). autophagy defends cells against invading group a
+streptococcus. science 306, 1037–1040.
+noda, t., kim, j., huang, w.-p., baba, m., tokunaga, c., ohsumi, y., and
+klionsky, d. j. (2000). apg9p/cvt7p is an integral membrane protein required
+for transport vesicle formation in the cvt and autophagy pathways. j. cell
+biol. 148, 465–480.
+noda, t., matsuura, a., wada, y., and ohsumi, y. (1995). novel system for
+monitoring autophagy in the yeast saccharomyces cerevisiae. biochem. biophys.
+res. commun. 210, 126–132.
+ogawa, m., yoshimori, t., suzuki, t., sagara, h., mizushima, n., and
+sasakawa, c. (2005). escape of intracellular shigella from autophagy. science
+307, 727–731.
+onodera, j., and ohsumi, y. (2005). autophagy is required for maintenance of
+amino acid levels and protein synthesis under nitrogen starvation. j. biol.
+chem. 280, 31582–31586.
+reggiori, f., and klionsky, d. j. (2005). autophagosomes: biogenesis from
+scratch? curr. opin. cell biol. 17, 415–422.
+cargo sorting in selective autophagy
+reggiori, f., and klionsky, d. j. (2006). atg9 sorting from mitochondria is
+impaired in early secretion and vft-complex mutants in saccharomyces cer-
+evisiae. j. cell sci. 119, 2903–2911.
+reggiori, f., shintani, t., nair, u., and klionsky, d. j. (2005). atg9 cycles
+between mitochondria and the pre-autophagosomal structure in yeasts. au-
+tophagy 1, 101–109.
+reggiori, f., tucker, k. a., stromhaug, p. e., and klionsky, d. j. (2004). the
+atg1-atg13 complex regulates atg9 and atg23 retrieval transport from the
+pre-autophagosomal structure. dev. cell 6, 79–90.
+scott, s. v., guan, j., hutchins, m. u., kim, j., and klionsky, d. j. (2001). cvt19
+is a receptor for the cytoplasm-to-vacuole targeting pathway. mol. cell 7,
+1131–1141.
+shintani, t., huang, w.-p., stromhaug, p. e., and klionsky, d. j. (2002).
+mechanism of cargo selection in the cytoplasm to vacuole targeting pathway.
+dev. cell 3, 825–837.
+shintani, t., and klionsky, d. j. (2004). cargo proteins facilitate the formation
+of transport vesicles in the cytoplasm to vacuole targeting pathway. j. biol.
+chem. 279, 29889–29894.
+slagsvold, t., pattni, k., malerod, l., and stenmark, h. (2006). endosomal and
+non-endosomal functions of escrt proteins. trends cell biol. 16, 317–326.
+suzuki, k., kirisako, t., kamada, y., mizushima, n., noda, t., and ohsumi,
+y. (2001). the pre-autophagosomal structure organized by concerted func-
+tions of apg genes is essential for autophagosome formation. embo j. 20,
+5971–5981.
+wang, c.-w., kim, j., huang, w.-p., abeliovich, h., stromhaug, p. e., dunn,
+w. a., jr., and klionsky, d. j. (2001). apg2 is a novel protein required for the
+cytoplasm to vacuole targeting, autophagy, and pexophagy pathways. j. biol.
+chem. 276, 30442–30451.
+yorimitsu, t., and klionsky, d. j. (2005a). atg11 links cargo to the vesicle-
+forming machinery in the cytoplasm to vacuole targeting pathway. mol. biol.
+cell 16, 1593–1605.
+yorimitsu, t., and klionsky, d. j. (2005b). autophagy: molecular machinery
+for self-eating. cell death differ. 12(suppl 2), 1542–1552.
+vol. 18, march 2007
+929

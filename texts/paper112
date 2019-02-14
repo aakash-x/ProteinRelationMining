@@ -1,0 +1,703 @@
+cell death and differentiation (2007) 14, 1029–1039
+& 2007 nature publishing group all rights reserved 1350-9047/07 $30.00
+www.nature.com/cdd
+regulation of autophagy by the inositol trisphosphate
+receptor
+a criollo1,2,3,4, mc maiuri1,2,5, e tasdemir1,2,3, i vitale1,2,3, aa fiebig6, d andrews6, j molgo´ 7, j dı´az4, s lavandero4, f harper8,
+g pierron8, d di stefano9, r rizzuto9, g szabadkai9 and g kroemer*,1,2,3
+the reduction of intracellular 1,4,5-inositol trisphosphate (ip3) levels stimulates autophagy, whereas the enhancement of ip3
+levels inhibits autophagy induced by nutrient depletion. here, we show that knockdown of the ip3 receptor (ip3r) with small
+interfering rnas and pharmacological ip3r blockade is a strong stimulus for the induction of autophagy. the ip3r is known to
+reside in the membranes of the endoplasmic reticulum (er) as well as within er–mitochondrial contact sites, and ip3r blockade
+triggered the autophagy of both er and mitochondria, as exactly observed in starvation-induced autophagy. er stressors such
+as tunicamycin and thapsigargin also induced autophagy of er and, to less extent, of mitochondria. autophagy triggered by
+starvation or ip3r blockade was inhibited by bcl-2 and bcl-xl speciﬁcally targeted to er but not bcl-2 or bcl-xl proteins targeted
+to mitochondria. in contrast, er stress-induced autophagy was not inhibited by bcl-2 and bcl-xl. autophagy promoted by ip3r
+inhibition could not be attributed to a modulation of steady-state ca2 þ levels in the er or in the cytosol, yet involved the obligate
+contribution of beclin-1, autophagy-related gene (atg)5, atg10, atg12 and hvps34. altogether, these results strongly suggest
+that ip3r exerts a major role in the physiological control of autophagy.
+cell death and differentiation (2007) 14, 1029–1039. doi:10.1038/sj.cdd.4402099; published online 26 january 2007
+the ﬁrst step of macroautophagy consists in the gradual
+envelopment of cytoplasmic material (cytosol and/or orga-
+nelles) in the phagophore, a cistern that ﬁnally sequesters
+cytoplasmic material in autophagosomes (also called auto-
+phagic vacuoles (avs)) lined by two membranes. autophago-
+somes then undergo a progressive maturation by fusion with
+endosomes and/or
+lysosomes. this latter step creates
+autolysosomes in which the inner membrane as well as the
+luminal content of
+the avs is degraded by lysosomal
+enzymes. the process of autophagy is controlled by a series
+of evolutionary conserved genes,
+the atg genes, whose
+products are essential for speciﬁc steps of the autophagic
+process.1,2
+one of
+triggers of autophagy is nutrient
+stress.3,4 in response to starvation, cells degrade nonessen-
+tial components thereby generating nutrients for meeting
+the cell’s energetic demand as well as for vital biosynthetic
+reactions. in such circumstances, when autophagy is an
+adaptation, inhibition of autophagy has a negative impact on
+cell survival. for example, mice lacking the atg5 gene survive
+without any major developmental defect until birth, yet
+succumb to the stressful neonatal period unless puppies are
+force-fed with milk within the ﬁrst hours after birth.5 similarly,
+the strongest
+import
+human cell
+lines cultured in nutrient-free media mount a
+cytoprotective autophagic response. suppression of auto-
+phagy by chemical inhibitors or knockdown of essential genes
+thus sensitize cells to starvation-induced cell death.6,7
+autophagy inhibition also sensitizes cells to the depletion of
+obligatory growth (or survival) factors resulting in a decrease
+of nutrient
+through the plasma membrane. for
+example, the knockdown of atg5, atg10 or atg12 (which are
+all
+involved in a ubiquitin-like conjugation system required
+for autophagosome formation) prevents the generation of av
+and sensitizes cells to cell death induced by withdrawal of
+essential growth factors.8 similarly, knockdown of atg6/
+beclin-1 (whose major physiological partner is the class iii
+phosphatidylinositol 3- kinase vps34) inhibits autophagy and
+sensitizes to cell death induced by starvation.6,8 beclin-1 also
+interacts with bcl-2,9 which inhibits autophagy,10 perhaps by
+preventing the interaction between beclin-1 and vps34.11
+one recent study suggested that myo-inositol-1,4,5-tris-
+phosphate (ip3) could regulate autophagy because inhibition
+of inositol monophosphatase by lithium or l-690,330 stimu-
+lates autophagy through the depletion of inositol and ip3.12 ip3
+is a second messenger produced primarily in response to the
+stimulation of g-protein-coupled receptor or receptor tyrosine
+1inserm, u848, institut gustave roussy, pr1 39 rue camille desmoulins, villejuif, france; 2institut gustave roussy, 39 rue camille desmoulins, villejuif, france;
+3universite´ paris sud, institut gustave roussy, 39 rue camille desmoulins, villejuif, france; 4fondap center cemc, faculty of chemical and pharmaceutical
+sciences, university of chile, santiago, chile; 5department of experimental pharmacology, faculty of biotechnological sciences, universita` degli studi di napoli,
+federico ii, italy; 6department of biochemistry and biomedical sciences, mcmaster university health sciences centre, cdn-hamilton, ontario, canada; 7centre
+national de la recherche scientiﬁque, institut de neurobiologie alfred fessard, frc2118, upr 9040, gif-sur-yvette, france; 8cnrs, fre 2937, institut andre´ lwoff,
+villejuif, france and 9department of experimental and diagnostic medicine and interdisciplinary center for the study of inﬂammation and er-gentech, university of
+ferrara, ferrara, italy
+*corresponding author: g kroemer, cnrs-umr8125, institut gustave roussy, pr1, 38 rue camille desmoulins, f-94805 villejuif, france. tel: þ 33 1 42116046;
+fax: þ 33 1 42116047; e-mail: kroemer@igr.fr
+keywords: apoptosis; bcl-2; autophagic vacuoles; endoplasmic reticulum; mitochondria
+abbreviations: atg, autophagy-related gene; av, autophagic vacuole; er, endoplasmic reticulum; ip3, 1,4,5-inositol trisphosphate; ip3r, ip3 receptor; dcm,
+mitochondrial transmembrane potential; pi, propidium iodine
+received 11.10.06; revised 05.12.06; accepted 13.12.06; edited by m piacentini; published online 26.1.07
+1030
+ip3r in autophagy
+a criollo et al
+microdomains that transmit ca2 þ
+ip3 acts on the ip3 receptor (ip3r), a mostly
+kinases.
+endoplasmic reticulum (er)-sessile ca2 þ
+release channel
+that integrates signals from numerous small molecules and
+proteins including nucleotides, kinases and phosphatases, as
+well as nonenzyme proteins.13 ip3r is known to play a major
+role within the ca2 þ
+spikes
+generated by the er to mitochondria.14,15 ip3r is also
+regulated by bcl-2 16,17 and bcl-xl,18 which affect ca2 þ
+ﬂuxes through ip3r by direct molecular interactions, by
+inﬂuencing its regulatory phosphorylation and/or by modula-
+ting its response to ip3. through these regulatory mecha-
+nisms,
+ip3r modulates diverse cellular functions, which
+include, but are not limited to, contraction/excitation, gene
+expression, cellular growth and apoptosis.13,19
+on the basis of these premises, we decided to investigate
+the contribution of ip3r to the regulation of autophagy. here,
+we report that the depletion of ip3r or its inhibition triggers
+rapid autophagy affecting both er and mitochondria. ip3r
+functions as a bcl-2-regulated repressor of autophagy.
+results and discussion
+starvation-induced autophagy concerns both er and
+mitochondria. upon 12 h of culture in the absence of
+serum and nutrients (starvation), hela cells manifest the
+relocalization of lc3-gfp into avs and this effect is inhibited
+by addition of the cell-permeable ip3 precursor myo-inositol
+(figure 1a and b). under these conditions, little cell death (as
+determined with the vital dye propidium iodine (pi)) occurred
+after serum withdrawal and the reduction of the mitochondrial
+transmembrane potential (dcm) induced by starvation was
+inhibited by myo-inositol
+(figure 1c). starvation-induced
+lc3-gfp aggregates partially colocalized with the er
+marker calreticulin and with the mitochondrial matrix marker
+hsp60, indicating that this regimen caused autophagy of
+both er and mitochondria (figure 1d–f).
+er stress but not mitochondrial stress induce
+autophagy. as starvation can induce an er stress
+response20,21 as well as mitochondrial stress,22 we
+induction of organelle-speciﬁc
+investigated whether direct
+stress would stimulate autophagy. thapsigargin (which
+selectively inhibits the ca2 þ
+–atpase responsible for ca2 þ
+accumulation by the er, serca), tunicamycin (which blocks
+n-linked protein glycosylation), brefeldin a (which inhibits
+er–golgi
+transport) are well known for their capacity to
+induce er stress21,23 and all of them induce rapid lc3-gfp
+aggregation in avs (figure 2a and b), well before they cause
+cell death and dcm dissipation (figure 2c).
+in contrast,
+induction of mitochondrial stress by antimycin a (which
+inhibits complex iii of the respiratory chain), betulinic acid
+(which can cause direct permeabilization of mitochondrial
+membranes)24 or cadmium (a heavy metal
+induces
+oxidative stress and permeability transition)25 did not
+stimulate autophagy under conditions in which all
+three
+agents caused a signiﬁcant dcm loss (supplementary figure
+s1). these data suggest that er stress is a stronger inducer
+of autophagy than mitochondrial stress.
+that
+cell death and differentiation
+affects
+autophagy
+er and
+er stress-induced
+mitochondria. er stress triggered the emergence of bona
+ﬁde avs, as deﬁned by cytoplasmic structures lined by two
+membranes that can be detected by transmission electron
+microscopy (figure 2d and e). the lc3-gfp-positive
+vesicles induced by thapsigargin or tunicamycin colocalized
+with the er marker calreticulin, but also colocalized in part
+with the mitochondrial matrix marker hsp60, suggesting that
+er stress causes autophagy of both er and mitochondria
+(figure 2f–h). er stress-induced autophagy followed a
+classical autophagic pathway to the extent
+the
+knockdown of essential atg genes such as atg6/beclin-1,
+atg5, atg10, atg12 as well as the knockdown of
+the
+mammalian class iii phosphatidylinositol 3-kinase vps34
+inhibited autophagy induced by thapsigargin,
+tunicamycin
+or brefeldin a (figure 3). altogether, these data suggest that
+er stress effectively trigger autophagy that
+follows a
+canonical pathway.
+that
+ip3 depletion and ip3r inhibition stimulates autophagy
+of both er and mitochondria. the inositol mono-
+phosphatase inhibitors l-690,330 and lithium both induced
+autophagy (figure 4a and b) under conditions in which
+neither agent induced toxic effects on the viability or bio-
+energetic state of cells (figure 4c). both l-690,330 and
+lithium triggered signiﬁcant autophagy of both er and
+mitochondria (figure 4d–f). very similar
+results were
+obtained by inhibition of ip3r. knockdown of the ip3r i and
+iii
+isoforms caused a strong, nonsynergistic induction of
+autophagy, as measured by lc3-gfp relocalization (figure
+5a and b). similarly, xestospongin b, a chemical antagonist
+ip3r,26 caused lc3-gfp aggregation in cytoplasmic
+of
+vacuoles (figure 5c). stimulation of autophagy was more
+pronounced for xestospongin b than for xestospongin c,
+which has a lower afﬁnity for ip3r27 (figure 5d). moreover,
+the xestospongin b effect was rapid (p2 h, figure 5e) and
+did not involve any major toxicity on mitochondria (figure 5f)
+nor on the er (as estimated by measuring the er stress
+indicator gadd34;
+in figure 5f). xestospongin b-
+induced autophagy required atg6/beclin-1, atg5, atg10, atg12
+and vps34 (figure 5g), indicating that it followed an orthodox
+pathway. under the conditions in which xestospongin b was
+employed in this study,
+and the
+baseline cytosolic ca2 þ
+concentrations were not modulated
+(figure 6a and b), although xestospongin clearly blunted
+the histamine-induced ip3/ip3r-dependent er ca2 þ
+efﬂux,
+as an internal control of its efﬁcacy (figure 6c). moreover,
+depletion of extracellular ca2 þ
+the
+xestospongin b-induced autophagy (figure 6d), suggesting
+that the xestospongin b effects were not mediated by gross
+perturbations of
+ﬂuxes. ultrastructural
+analysis of xestospongin b-elicited av indicated that they
+frequently contained degenerating mitochondria or er
+(figure 7a). accordingly, lc3-gfp aggregates elicited by
+xestospongin b colocalized with either calreticulin or hsp60
+(figure 7b–d). thus, ip3r blockade caused the same pattern
+of autophagy as that induced by starvation.
+the luminal er ca2 þ
+intracellular ca2 þ
+did not affect
+inset
+er-targeted bcl-2 and bcl-xl differentially inhibit
+autophagy. ip3r has been shown to interact physically
+ip3r in autophagy
+a criollo et al
+1031
+figure 1 autophagy induced by starvation. (a–c) lc3-gfp redistribution inhibited by myo-inositol. hela cells transiently transfected with lc3-gfp were subjected to
+nutrient depletion in the presence or absence of myo-inositol for 12 h and representative pictures of hoechst 33342-counterstained cells were taken (a) and the percentage of
+adherent cells exhibiting a clear lc3-gfp relocalization into cytoplasmic vacuoles was determined (b). the frequency of adherent and nonadherent cells with a low dcm was
+determined by dioc6(3) staining (and counterstaining with pi) (c). results are means7s.d., of three independent experiments. (d–f). organelle-speciﬁc autophagy triggered
+by starvation. cells subjected to lc3-gfp transfection and nutrient depletion as in a–c were ﬁxed, permeabilized and stained for calreticulin (d) or hsp60 (e) to determine the
+colocalization of lc3-gfp and er (d) or mitochondrial (e). the right panels in d and e indicate the proﬁles of colocalization within the area of interest (labeled by arrows), as
+determined by quantitative confocal microscopy. (f) mean level of colocalization of lc3-gfp with calreticulin or hsp60, as determined for 50 cells (x7s.e.m.)
+cell death and differentiation
+w ipjr in autophay
+a cnoiio eta!
+1032
+with bcl-2 within the er's'17 moreover, the interaction of |p3 colmmuhoprecipitation oi bcl-2 and |p3r, depending on the
+with the ant interactome is strongly influenced by pro- subcelluiar localization of bcl-2. the colmmuhoprecipitation
+apoptotlc signaling.‘5 xestospongin b strongly aiiected the ot |p3r with bcl-2 targeted to the er (bci-z cytochrome b5
+    
+a conlml nam-gargm b ‘
+, “ unm-
+: .1 el _.
+mmmu bret'cldma
+mm
+ww
+1» n. m. m m.
+d cimtml hulmmm
+i m
+mm." twin
+mm: mm”... “mum."
+f i cm: :- ctmuu. mm mm:
+masts ‘in
+nw,
+tunitamycin
+ln
+mm
+tthsiy'gm
+h mm mm mm- mm:
+(mm w n .m :( w n u. u
+- - ‘ ”wm
+- i . gm.
+an m m n :u 2* w u m .5
+.2
+www
+'1 t " dciirnu-iil
+3 ~3 .um. t
+g n
+-e ,,
+mm “nonmi- me
+ceil death and diﬂlrlmiilinn
+ip3r in autophagy
+a criollo et al
+1033
+figure 3 implication of essential atg genes in er stress-induced autophagy. cells were transfected with the indicated sirnas and protein downregulation was determined
+by immunoblot for two different sirnas targeting beclin-1 (48 h after transfection) and for one sirna targeting hvps34 (a). one day after sirna transfection, cells were
+retransfected with lc3-gfp (optionally together with beclin-1) and the cells were subjected to er stress the day after for 6 h, followed by assessment of the cytoplasmic
+aggregation of lc3-gfp. results are means7s.d. of three experiments (b)
+overexpression
+(cb5)) was attenuated by xestospongin b, whereas that
+of ip3r with wild-type (wt) bcl-2 or with bcl-2 targeted
+to mitochondria (bcl-2 acta) was increased (figure 8a).
+although these results do not provide a molecular
+explanation for xestospongin b-induced autophagy,
+they
+point to an organelle-speciﬁc interaction between ip3r and
+bcl-2, which can be modulated by xestospongin b.
+transfection-enforced
+of bcl-2 cb5
+inhibited autophagy induced by starvation, l-690,330,
+lithium or xestospongin b. in contrast, wt bcl-2 (which is
+mostly mitochondrial) or bcl-2 acta failed to inhibit autophagy
+(figure 8b), although they were expressed at a similar level
+as bcl-2 cb5 (inset in figure 8b). very similar results were
+obtained for the bcl-2 analogue bcl-xl. er-targeted bcl-xl
+cb5 (but not wt bcl-xl and mitochondrion-targeted bcl-xl
+acta) inhibited autophagy induced by starvation, l-690,330,
+lithium or xestospongin b (figure 8c). of note, none of the
+bcl-2
+by
+tunicamycin (figure 8b and c), again
+thapsigargin or
+suggesting that er stress-induced and ip3r-regulated
+autophagy differ in mechanistic terms.
+or bcl-xl
+constructs
+inhibited
+autophagy
+concluding remarks
+in this article we provide arguments in favor of the implication
+of the ip3r in the regulation of autophagy. first, the elevation
+of
+inhibited
+autophagy induced by starvation (figure 1b). similarly, the
+ip3 levels using cell-permeable myo-inositol
+inhibition of
+pharmacological depletion of ip3 sufﬁced to induce autophagy
+in human cells (figure 4), as shown previously for murine and
+lines.12 second, depletion of ip3r by small
+hamster cell
+interfering rnas (sirnas) or pharmacological blockade of
+ip3r (figure 5) was highly efﬁcient in inducing autophagy,
+which was similar to that induced by starvation (figure 1) or
+ip3 depletion (figure 4) to the extent that it induced the
+autophagic sequestration of both er and mitochondria
+(figure 7). pharmacological
+ip3r induced
+autophagy as quickly and as efﬁciently as er stress-inducing
+agents including thapsigargin. at ﬁrst glance,
+it appears
+paradoxical that ip3r antagonists (that should increase the
+luminal er ca2 þ
+) and the serca agonist thapsigargin (that
+should deplete luminal er ca2 þ
+stores) both induced
+autophagy. one explanation would be to assume that any
+kind of perturbation in er homeostasis would induce
+autophagy. however, xestospongins do not
+the
+unfolded protein response in the er (as this is the case for
+thapsigargin), whereas a variety of mechanistically unrelated
+er stressors (including brefeldin a and tunicamycin) triggered
+autophagy. we failed to establish a link between ca2 þ
+signaling and ip3r-modulated autophagy. thus, under con-
+ditions in which xestospongin b induced autophagy, no
+change in cytosolic or er ca2 þ
+levels could be measured
+(figure 6a–c), and withdrawal of external ca2 þ
+(figure 6d) or
+chelation of intracellular ca2 þ
+(data not shown) failed to
+suppress xestospongin b-triggered autophagy. rather,
+it
+appears that xestospongin b affects the protein–protein
+trigger
+figure 2 autophagy induced by organelle-speciﬁc stress. (a–c) autophagy induced by er stress. lc3-gfp-transfected cells were treated with thapsigargin, tunicamycin
+or brefeldin a and the frequency of cells exhibiting the vacuolar redistribution of lc3-gfp was determined among adherent cells in b (for representative pictures taken at 6 h
+see a). the percentage of cells with a reduced dcm was determined by dioc6(3) staining (and counterstaining with pi). (c) the inset in c conﬁrms the induction of er stress,
+as detected by measuring the expression level of gadd34. results are means7s.d. of three independent experiments. (d, e) transmission electron microscopy of
+thapsigargin-induced autophagy after 6 h. note the presence of clearly distinguishable rough er in some av. the number of av of type 1 or 2 is quantiﬁed in d on a per cell
+basis (x7s.e.m., n¼ 50). (f–h) organelle-speciﬁc autophagy triggered by starvation. cells subjected to lc3-gfp transfection and nutrient depletion as in f, g were ﬁxed,
+permeabilized and stained for calreticulin (f) or hsp60 (g). the right panels in f and g depict proﬁles of colocalization. the percentage of colocalization (x7s.e.m.) was
+quantiﬁed for 50 cells for each condition (h)
+cell death and differentiation
+1034
+ip3r in autophagy
+a criollo et al
+figure 4 induction of autophagy by inositol monophosphate inhibitors. cells were treated with l-690,330, lithium and/or myo-inositol for 12 h, followed by determination of
+the cytoplasmic redistribution of lc3-gfp (a, b) or the quantitation of the dcm (c). results are means7s.d. of three experiments. in addition, the colocalizaton of lc3-gfp
+and calreticulin (d, f) or hsp60 (e, f) was determined (n¼ 50 in f)
+interaction in which ip3r engages, including the interaction
+with bcl-2 in the er (figure 8a). speciﬁcally er-targeted
+bcl-2 (figure 8b) or bcl-xl (figure 8c) strongly inhibited the
+induction of autophagy by starvations, several agents that
+reduce ip3 levels and the ip3r antagonist xestospongin b.
+under the same experimental setting, however, er-targeted
+bcl-2 (figure 8b) or bcl-xl (figure 8c) failed to reduce
+autophagy induced by er stressors including thapsi-
+gargin. these data strongly support
+in-
+duction of autophagy by inhibition of the ip3/ip3r signaling
+the notion that
+cell death and differentiation
+ip3r in autophagy
+a criollo et al
+1035
+figure 5 autophagy triggered by ip3r knockdown. hela cells were transfected with sirna speciﬁc for distinct ip3r isoforms. the protein expression level was controlled
+48 h after transfection (a). in addition, the impact on lc3-gfp relocalization (x7s.d., n¼ 3) was determined at different times posttransfection (b). (c–e) lc3-gfp
+aggregation induced by ip3r inhibitors. lc3-gfp-expressing cells were treated with the indicated doses of xestospongin b or c and the degree of cells with vacuolar
+redistribution of lc3-gfp was measured (standard dose for xestospongin b is 2 mm in c and e; the treatment is 6 h in c and d). (f) effect of ip3r blockade on the dcm, as
+determined by cytoﬂuorometry and on gadd34 expression as determined by immunoblot (insert). (g) implication of essential atg genes in autophagy induced by ip3r
+inhibition. cells were transfected with the indicated sirnas (day 0), then with lc3-gfp (optionally together with beclin-1, on day 1), treated with xestospongin b (day 2) for 6 h
+and scored for redistribution of lc3-gfp
+cascade is mechanistically different from autophagy induced
+by er stress.
+remains a conundrum through which
+molecular mechanisms er stress can activate the autophagic
+response.
+it
+in conclusion, our results strongly support a signaling
+pathway in which ip3 and ip3r act to suppress autophagy.
+thus, interruption of this pathway by depletion/inhibition of ip3
+or ip3r can unleash the autophagic response. these ﬁndings
+cell death and differentiation
+1036
+ip3r in autophagy
+a criollo et al
+release but does not change steady [ca2 þ
+figure 6 ca2 þ
+independence of xestospongin-induced autophagy. (a) xeb
+]er, er ca2 þ
+inhibits ip3-induced ca2 þ
+]c [ca2 þ
+leak and basal [ca2 þ
+]er was measured in eraeqmut-transfected hela
+]er was 475725 mm in controls, 481732 in xeb-treated cells; n¼ 7).
+cells ([ca2 þ
+xeb (1 mm) was added to the cells 2 h before the experiment. cells were kept in
+krb–egta (600 mm) solution, then er was ca2 þ
+loaded by the addition of 1 mm
+cacl2 (in krb) to the cells. er ca2 þ
+leak was estimated by the addition of the
+serca blocker tert-butylhydroquinone (tbhq). (b) basal [ca2 þ
+]c was measured in
+cells loaded with fura-2 as described in the materials and methods section (controls:
+46.274.5 nm; after xeb treatment: 42.275.5 nm, n¼ 35). after the control period,
+tbhq (in krb 1 mm cacl2) was added to the cells in order to estimate ca2 þ
+leak
+into the cytosol and the activity of ca2 þ
+extrusion through the plasma membrane.
+(c) histamine-induced ca2 þ
+release was measured in cytaeq-transfected cells
+(lower right panel). as an internal control of the efﬁcacy of xestospongin b as a ip3r
+antagonist, histamine-induced (ip3/ip3r-dependent) ca2 þ
+variations in the er
+were measured in the absence or presence of 2 mm xestospongin. the peak
+[ca2 þ
+]c response was 3.370.6 mm in controls, 0.8770.4 mm after xeb treatment
+(n¼ 9). note that xestospongin did not affect the baseline er ca2 þ
+concentration.
+(d) effect of ca2 þ
+depletion on xestospongin-induced autophagy. the concentra-
+tion of extracellular ca2 þ
+was modulated before addition of xestospongin b for 6 h
+and determination of lc3-gfp aggregation. results are means7s.d. of three
+experiments
+underscore the cardinal importance of ip3r in the integration
+of cell
+fate-determining signals and their conversion into
+biological responses including cell growth, motility, differen-
+tiation, apoptosis and, as shown here, autophagy.
+cell death and differentiation
+in wt conﬁguration or
+materials and methods
+cell
+lines, culture conditions and treatment. rat-1 ﬁbroblasts
+transfected with an empty control vector (cmv) or with a plasmid-encoding bcl-2,
+either
+fused to peptides that allow the targeting to
+mitochondria (acta) or to er (cb5) were described previously.28 rat-1 ﬁbroblasts as
+well as hela cells were cultured in dulbecco’s modiﬁed eagle’s medium containing
+10% fetal calf serum, 10 mm n-2-hydroxyethylpiperazine-n0-2-ethanesulfonic
+(hepes) buffer, 100 units/ml penicillin g sodium and 100 mg/ml streptomycin
+sulfate at 371c under 5% co2. all media and supplements for cell culture were
+purchased from gibco-invitrogen (carlsbad, ca, usa). for serum and amino-acid
+starvation, cells were cultured in serum-free earle’s balanced salt solution medium
+(sigma).6 cells (30–50 103)were seeded in 12- or 24-well plates and grown for
+24 h before treatment with antimycin a (from 0.06 to 0.5 mm; sigma-aldrich, st
+louis, mo, usa), betulinic acid (from 1.25 to 10 mm; sigma-aldrich), brefeldin a
+(20 mm; sigma-aldrich), cadmium (from 2.5 to 20 mm; sigma-aldrich), l-690330
+(100 mm;
+(10 mm; sigma-aldrich), myo-inositol
+tocris),
+(3 mm; calbiochem),
+(bt3(1,3,5)p3/am;
+tunicamycin (2.5 mm; sigma-aldrich), xestospongin b (from 0.08 to 10 mm;
+extracted from the marine sponge xestospongia exigua),26 or x. c (from 0.08 to
+10 mm; calbiochem) for 6–24 h.
+lithium chloride
+10 mm; calbiochem),
+thapsigargin
+plasmids, transfection and rna interference. cells were cultured in
+six-well plates and transfected at 80% conﬂuence with oligofectamine reagent
+(invitrogen), in the presence of 100 nm of sirnas speciﬁc for human beclin-1 and
+other atg genes,6,7 ip3-ri and ip3-riii (oakes sa et al., pnas 2005), hvps34,29,30
+a sirna targeting the unrelated protein emerin.31 sirna effects were controlled by
+immunoblots with suitable antibodies speciﬁc for beclin-1 (santa cruz) or vps34
+(zymed). transient transfections with plasmids were performed with lipofectamine
+2000 reagent (invitrogen) and cells were used 24 h after transfection unless
+speciﬁed differently. cells were transfected with empty vector alone or together with
+lc3-gfp,7 in the presence or absence of wt beclin-1, wt bcl-2, er-targeted bcl-2
+(bcl-2 cb5), mitochondrion-targeted bcl-2 (bcl-2 acta),28 wt bcl-xl, er-targeted
+bcl-xl (bcl-xl cb5) or mitochondrion-targeted bcl-xl (bcl-xl acta). the cdna
+encoding amino acids 1–210 of bcl-xl were fused either to the sequence encoding
+the c-terminus of acta or the cb5 hydrophobic tail for mitochondrial or er targeting,
+respectively. correct subcellular localization of the mutants expressed in cells was
+veriﬁed by immunoﬂuorescence microscopy as described previously,28 using rabbit
+anti-bcl-xl anti-sera followed by either a monoclonal antibody to the er protein
+calreticulin or
+to an inner mitochondrial membrane protein (2g2, exalpha
+biologicals).
+following
+ﬂuorochromes were
+flow cytometry. the
+by
+employed
+cytoﬂuorometry: 3,30-dihexyloxacarbocyanine iodide (dioc6(3), 40 nm)
+for
+quantiﬁcation or the dcm (molecular probes) and pi (1 mg/ml, sigma-aldrich) for
+determination of cell viability.6 cells were trypsinized and labeled with the
+ﬂuorochromes at 371c, followed by cytoﬂuorometric analysis with a ﬂuorescence-
+activated cell sorter scan (becton dickinson, san jose, ca, usa). data were
+statistically evaluated using cell quest software (becton dickinson).
+light microscopy and immunoﬂuorescence. cells were ﬁxed with
+paraformaldehyde (4%, w/v) for lc3-gfp and immunoﬂuorescence assays.6 cells
+were stained for the detection of hsp60 (mab from sigma-aldrich) or calreticulin32
+(pab from stressgen) revealed by goat anti-mouse or anti-rabbit immunoglobulin
+alexa ﬂuor conjugates (molecular probes). nuclei were labeled with 10 mg/ml
+hoechst 33342 (molecular probes-invitrogen). fluorescence microscopy was
+analyzed with a leica ire2 equipped with a dc300f camera. confocal microscopy
+was performed with a lsm 510 zeiss microscope equipped with a  63 objective.
+to determine the percentage of colocalization, images were loaded into image j
+software.
+electron microscopy. cells were ﬁxed for 1 h at 41c in 1.6% glutaraldehyde
+in 0.1 m so¨rensen phosphate buffer (ph 7.3), washed, ﬁxed again in aqueous
+2% osmium tetroxide and ﬁnally embedded in epon. electron microscopy was
+performed with a zeiss em 902 transmission electron microscope, at 90 kv, on
+ultrathin sections (80 nm), stained with lead citrate and uranyl acetate.
+dynamic in vivo measurements with targeted aequorin probes
+and fura-2. cytaeq, eraeqmut-expressing cells, were reconstituted with
+coelenterazine, transferred to the perfusion chamber, light signal was collected in
+ip3r in autophagy
+a criollo et al
+1037
+figure 7 organelle-speciﬁc autophagy after ip3r inhibition. (a) transmission electron microscopy of xestospongin b-induced autophagy after 6 h (i). note the presence of
+mitochondria and rough er in some av (ii). the number of type 1 or type 2 av is quantiﬁed in b (x7s.e.m., n¼ 50) (iii). (b–d) organelle-speciﬁc autophagy triggered by
+ip3r inhibition. lc3-gfp-expressing cells exposed to xestospongin b were stained for calreticulin (b) or hsp60 (c), both labeled in red. the degree of colocalization
+(x7s.e.m.) was measured for 50 cells (d)
+luminometer and calibrated into [ca2 þ
+a purpose-built
+] values as described
+previously.33 all aequorin measurements were carried out in krb containing 1 mm
+cacl2 (krb/ca2 þ
+, krebs-ringer modiﬁed buffer: 135 mm nacl, 5 mm kcl, 1 mm
+mgso4, 0.4 mm k2hpo4, 1 mm cacl2, 5.5 mm glucose, 20 mm hepes, ph 7.4). for
+[ca2 þ
+]er measurements, eraeqmut-transfected cells were reconstituted with
+coelenterazine n, following er ca2 þ
+depletion in a solution containing 0 [ca2 þ
+],
+cell death and differentiation
+1038
+ip3r in autophagy
+a criollo et al
+figure 8 impact of bcl-2 and bcl-xl on autophagy induced by ip3r inhibition. (a) relocalization of bcl-2 after ip3r association. cells expressing wt bcl-2, mitochondrion-
+targeted bcl-2 (acta) or er-targeted bcl-2 (cb5) were treated with xestospongin b, followed by immunoprecipation of bcl-2 and immunochemical detection of ip3r-iii or bcl-2.
+(b, c) impact of wt, mitochondrion-targeted (acta) or er-targeted (cb5) bcl-2 (b) or bcl-xl (c) on autophagy induced by ip3r inhibition, er stress or inositol
+monophosphatase inhibition. cells were transfected with lc3-gfp together with the indicated constructs, and 24 h later the cells were exposed to different stimuli for 12 h.
+then, lc3-gfp redistribution (x7s.d., n¼ 3) was determined by ﬂuorescence microscopy. asterisks indicate signiﬁcant (po0.01) inhibitory effects of er-targeted bcl-2
+and bcl-xl. the inserts in b and c conﬁrm the expression of wt, mitochondrion-targeted (acta) or er-targeted (cb5) bcl-2 and bcl-xl, respectively
+600 mm ethylene glycol bis(b-aminoethylether)-n,n,n’,n’,-tetraacetic acid (egta),
+1 mm ionomycin, as described.34 kinetic imaging of [ca2 þ
+]c transients in fura-2-
+loaded cells was performed as described.34
+immunoblots and immunoprecipitation. hela cells (1 106 cells)
+were washed with cold phosphate-buffered saline (pbs) at 41c and lysed
+as described previously.7 forty micrograms of protein were loaded on a 5–12%
+sodium dodecyl sulfate–polyacrylamide gel electrophoresis and transferred to
+polyvinylidene ﬂuoride membrane (millipore). the membrane was incubated for 1 h
+cell death and differentiation
+in pbs–tween 20 (0.05%) containing 5% bovine serum albumin. primary antibody
+anti-beclin-1 (santacruz), anti-gadd34 (abcam), anti-ip3-ri (calbiochem), anti-
+ip3-riii (bd biosciences) and anti-hvps34 (zymed) were incubated overnight at
+41c and revealed with appropriate horseradish peroxidase-labeled secondary
+antibodies (southernbiotech, birmingham, al, usa) and the supersignal west
+pico chemoluminiscent
+substrate (pierce). anti-glyceraldehyde-3-phosphate
+dehydrogenase
+loading.
+rat-1 ﬁbroblasts (8 106 cells) were collected, lysed, and immunoprecipitation
+was performed as described16 using anti-bcl-2 (santacruz) antibody and
+(chemicon)
+used
+was
+to
+control
+equal
+ip3r in autophagy
+a criollo et al
+1039
+protein g sepharose (ge healthcare) followed by western blotting with anti-ip3-riii
+antibody.
+acknowledgements. we thank dr abdelali jalil for confocal microscopy and
+the members of our laboratory for continuous discussion. we also thank the
+international collaboration program ecos-conicyt, grant c04b03 (to gk and
+sl). a criollo is a recipient of a phd fellowship from conicyt, chile. gk is
+supported by a special grant of the ligue nationale contre le cancer (e´quipe
+labelise´e), european commission (right), cance´ ropoˆle ile-de-france and institut
+national contre le cancer (inca).
+16. chen r, valencia i, zhong f, mccoll ks, roderick hl, bootman md et al. bcl-2
+functionally interacts with inositol 1,4,5-trisphosphate receptors to regulate calcium release
+from the er in response to inositol 1,4,5-trisphosphate. j cell biol 2004; 166: 193–203.
+17. oakes sa, scorrano l, opferman jt, bassik mc, nishino m, pozzan t et al. proapoptotic
+bax and bak regulate the type 1 inositol trisphosphate receptor and calcium leak from the
+endoplasmic reticulum. proc natl acad sci usa 2005; 102: 105–110.
+18. white c, li c, yang j, petrenko nb, madesh m, thompson cb et al. the endoplasmic
+reticulum gateway to apoptosis by bcl-x(l) modulation of the insp3r. nat cell biol 2005; 7:
+1021–1028.
+19. boehning d, van rossum db, patterson rl, snyder sh. a peptide inhibitor of cytochrome
+c/inositol 1,4,5-trisphosphate receptor binding blocks intrinsic and extrinsic cell death
+pathways. proc natl acad sci usa 2005; 102: 1466–1471.
+20. harding hp, zhang y, zeng h, novoa i, lu pd, calfon m et al. an integrated stress
+response regulates amino acid metabolism and resistance to oxidative stress. mol cell
+2003; 11: 619–633.
+1. shintani t, klionsky dj. autophagy in health and disease: a double-edged sword. science
+21. schroder m, kaufman rj. the mammalian unfolded protein response. annu rev biochem
+2004; 306: 990–995.
+2005; 74: 739–789.
+2. yorimitsu t, klionsky dj. autophagy: molecular machinery for self-eating. cell death differ
+22. green dr, kroemer g. the pathophysiology of mitochondrial cell death. science 2004;
+2005; 12 (suppl 2): 1542–1552.
+305: 626–629.
+3. levine b, yuan j. autophagy in cell death: an innocent convict? j clin invest 2005; 115:
+23. ferri kf, kroemer gk. organelle-speciﬁc initiation of cell death pathways. nat cell biol
+2679–2688.
+2001; 3: e255–e263.
+4. lum jj, deberardinis rj, thompson cb. autophagy in metazoans: cell survival in the land
+of plenty. nat rev mol cell biol 2005; 6: 439–448.
+5. mizushima n, yamamoto a, matsui m, yoshimori t, ohsumi y.
+in vivo analysis of
+autophagy in response to nutrient starvation using transgenic mice expressing a
+ﬂuorescent autophagosome marker. mol biol cell 2004; 15: 1101–1111.
+6. boya p, gonzalez-polo r-a, casares n, perfettini j-l, dessen p, larochette n et al.
+inhibition of macroautophagy triggers apoptosis. mol cell biol 2005; 25: 1025–1040.
+7. gonzalez-polo r-a, boya p, paulau a-l, jalil a-a, larochette n, souquere s et al. the
+apoptosis/autophagy paradox. accumulation of autophagic vacuoles triggers apoptosis.
+j cell sci 2005; 118: 3091–3102.
+8. lum jj, bauer de, kong m, harris hm, li c, lindsten t et al. growth factor regulation of
+autophagy and cell survival in the absence of apoptosis. cell 2005; 120: 237–248.
+9. liang xh, jackson s, seaman m, brown k, kempkes b, hibshoosh h et al. induction of
+autophagy and inhibition of tumorigenesis by beclin 1. nature 1999; 402: 672–676.
+10. pattingre s, tassa a, qu x, garuti r, liang xh, mizushima n et al. bcl-2 antiapoptotic
+proteins inhibit beclin 1-dependent autophagy. cell 2005; 122: 927–939.
+11. takacs-vellai k, vellai t, puoti a, passannante m, wicky c, streit a et al. inactivation of
+the autophagy gene bec-1 triggers apoptotic cell death in c. elegans. curr biol 2005; 15:
+1513–1517.
+12. sarkar s, floto ra, berger z, imarisio s, cordenier a, pasco m et al. lithium induces
+autophagy by inhibiting inositol monophosphatase. j cell biol 2005; 170: 1101–1111.
+13. patterson rl, boehning d, snyder sh. inositol 1,4,5-trisphosphate receptors as signal
+integrators. annu rev biochem 2004; 73: 437–465.
+14. bianchi k, rimessi a, prandini a, szabadkai g, rizzuto r. calcium and mitochondria:
+mechanisms and functions of a troubled relationship. biochim biophys acta 2004; 1742:
+119–131.
+15. verrier f, deniaud a, lebras m, metivier d, kroemer g, mignotte b et al. dynamic
+evolution of the adenine nucleotide translocase interactome during chemotherapy-induced
+apoptosis. oncogene 2004; 23: 8049–8064.
+24. fulda s, scafﬁdi c, susin sa, krammer ph, kroemer g, peter me et al. activation of
+mitochondria and release of mitochondrial apoptogenic factors by betulinic acid. j biol
+chem 1998; 273: 33942–33948.
+25. zoratti m, szabo` i. the mitochondrial permeability transition. biochem biophys acta – rev
+biomembr 1995; 1241: 139–176.
+26. jaimovich e, mattei c, liberona jl, cardenas c, estrada m, barbier j et al. xestospongin
+b, a competitive inhibitor of ip3-mediated ca2+ signalling in cultured rat myotubes, isolated
+myonuclei, and neuroblastoma (ng108-15) cells. febs lett 2005; 579: 2051–2057.
+27. gafni j, munsch ja, lam th, catlin mc, costa lg, molinski tf et al. xestospongins:
+potent membrane permeable blockers of the inositol 1,4,5-trisphosphate receptor. neuron
+1997; 19: 723–733.
+28. zhu w, cowie a, wasfy gw, penn lz, leber b, andrews dw. bcl-2 mutants with restricted
+subcellular location reveal spatially distinct pathways for apoptosis in different cell types.
+embo j 1996; 15: 4130–4141.
+29. nobukuni t, joaquin m, roccio m, dann sg, kim sy, gulati p et al. amino acids mediate
+mtor/raptor signaling through activation of class 3 phosphatidylinositol 3oh-kinase. proc
+natl acad sci usa 2005; 102: 14238–14243.
+30. byﬁeld mp, murray jt, backer jm. hvps34 is a nutrient-regulated lipid kinase required for
+activation of p70 s6 kinase. j biol chem 2005; 280: 33076–33082.
+31. harborth j, elbashir sm, bechert k, tuschl t, weber k. identiﬁcation of essential genes in
+cultured mammalian cells using small interfering rnas. j cell sci 2001; 114: 4557–4565.
+32. obeid m, tesniere a, ghiringhelli f, firmia gm, apetoh l, perfettini jl et al. calreticulin
+exposure dictates the immunogenicity of cancer cell death. nat med 2007; 13: 54–61.
+33. chiesa a, rapizzi e, tosello v, pinton p, de virgilio m, fogarty ke, et al. recombinant
+aequorin and green ﬂuorescent protein as valuable tools in the study of cell signalling.
+biochem j 2001; 355: 1–12.
+34. szabadkai g, simoni am, chami m, wieckowski mr, youle rj, rizzuto r. drp-1-
+dependent division of the mitochondrial network blocks intraorganellar ca2+ waves and
+protects against ca2+-mediated apoptosis. mol cell 2004; 8: 59–68.
+supplementary information accompanies the paper on cell death and differentiation website (http://www.nature.com/cdd)
+cell death and differentiation

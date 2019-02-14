@@ -1,0 +1,997 @@
+cell death and differentiation (2007) 14, 1071–1079
+& 2007 nature publishing group all rights reserved 1350-9047/07 $30.00
+www.nature.com/cdd
+p73 regulates dram-independent autophagy that does
+not contribute to programmed cell death
+d crighton1, j o’prey1, hs bell1,2 and km ryan*,1
+evading programmed cell death is a common event in tumour development. the p53 family member, p73, is a potent inducer of
+death and a determinant of chemotherapeutic response, but different to p53, is rarely mutated in cancer. understanding cell
+death pathways downstream of p53 and p73 is therefore pivotal to understand both the development and treatment of malignant
+disease. recently, p53 has been shown to modulate autophagy – a membrane trafﬁcking process, which degrades long-lived
+proteins and organelles. this requires a p53 target gene, dram, and both dram and autophagy are critical for p53-mediated
+death. we report here that ta-p73 also regulates dram and autophagy, with different ta-p73 isoforms regulating dram and
+autophagy to varying extents. rnai knockdown of dram, however, revealed that p73’s modulation of autophagy is dram-
+independent. also, p73’s ability to induce death, again different to p53, is neither dependent on dram nor autophagy. in contrast
+to ta-p73, dn-p73 is a negative regulator of p53-induced and p73-induced autophagy, but does not affect autophagy induced by
+amino-acid starvation. these studies, therefore, represent not only the ﬁrst report that p73 modulates autophagy but also
+highlight important differences in the mechanism by which starvation, p53 and p73 regulate autophagy and how this contributes
+to programmed cell death.
+cell death and differentiation (2007) 14, 1071–1079. doi:10.1038/sj.cdd.4402108; published online 16 february 2007
+in higher eukaryotes, programmed cell death pathways
+represent a major protective mechanism against malignant
+disease.1 these pathways are stimulated when cells experi-
+ence adverse conditions to prevent
+the propagation of
+mutated or damaged cells that may otherwise go on to form
+a tumour. as a result, inactivation of cell death pathways is a
+common event in many types of cancer.2 many standard
+forms of chemotherapy also utilize programmed cell death
+pathways to invoke a therapeutic response.3 as a result, the
+inactivation of these pathways during tumour development
+poses a serious problem for clinical success. however, the
+mechanism by which cell death is regulated during tumour
+development and in cancer therapy remains unclear. the
+further investigation, therefore, of the factors and pathways
+controlling tumour cell death should lead not only to a better
+understanding of the aetiology of cancer but also to improved
+strategies and novel targets for therapeutic intervention.
+one of the major factors controlling tumour cell death is the
+tumour suppressor p53.4 the importance of cell death to
+tumour suppression is exempliﬁed by p53, which is mutated in
+50% of all human cancers.5 in response to various forms of
+cellular stress, including dna damage, hypoxia and onco-
+gene activation, p53 levels become elevated.4 after a small
+proportion of p53 localizes to mitochondria – to stimulate cell
+death by interaction with members of the bcl-2 family6–8 – the
+majority of p53 accumulates in the nucleus where it activates a
+number of target genes.1,4 these genes regulate a spectrum
+of biological processes, for example growth arrest and dna
+repair, but an ever increasing number invoke cell death
+through a variety of mechanisms to ultimately stimulate the
+apoptotic cascade.1,4,9,10
+p53 has recently also been linked to another cellular
+process that controls cell death – autophagy.11,12 autophagy
+(strictly the form of autophagy known as macroautophagy, but
+hereafter for simplicity referred to as autophagy) is a vesicular
+trafﬁcking process that mediates the degradation of long-lived
+proteins and is the only pathway within the cell
+for the
+degradation of organelles.13 the basal levels of autophagy in
+a cell can vary from cell type to cell type, but can be stimulated
+in response to various forms of stress. upon induction, a
+membrane structure known as the ‘isolation membrane’
+is
+formed de novo from an unknown origin. this structure grows
+to form a double-membraned vesicle containing bulk cyto-
+plasm and organelles – the autophagosome. these autopha-
+gosomes then mature, perhaps fusing with endosomes,
+before fusing with lysosomes. the acidic hydrolases of the
+lysosome then effect degradation of
+the
+autophagosome, resulting in amino acids and fatty acids that
+can then be either metabolized for energy production or
+recycled into biosynthetic pathways.14
+the contents of
+autophagy has been reported to have both roles in cell
+death and cell survival.15 in response to nutrient deprivation,
+for example, the induction of autophagy can act as a self-
+limited survival mechanism, by degrading bulk cytoplasm and
+1tumour cell death laboratory, beatson institute for cancer research, cancer research uk beatson laboratories, garscube estate, glasgow, uk
+*corresponding author: km ryan, tumour cell death laboratory, beatson institute for cancer research, cancer research uk beatson laboratories, garscube estate,
+switchback rd, glasgow g61 1bd, uk. tel: þ 44 141 330 3655; fax: þ 44 141 942 6521; e-mail: k.ryan@beatson.gla.ac.uk
+2current address: department of biomedical science, university of aberdeen, uk
+keywords: p53; p73; autophagy; apoptosis; dram
+abbreviations: teton, tetracycline-responsive; ta-, transactivation-competent; dox, doxycycline; qpcr, quantitative-pcr; tam, tamoxifen; chx, cycloheximide; met/
+cys, methionine/cysteine; dram, damage-regulated autophagy modulator; mtor, mammalian target of rapamycin
+received 22.9.06; revised 15.12.06; accepted 04.1.07; edited by g melino; published online 16.2.07
+1072
+regulation of autophagy by p73
+d crighton et al
+organelles for energy production until a sufﬁcient supply of
+exogenous nutrients is restored.16–18 in other situations,
+however, autophagy has been reported to be a pro-death
+mechanism either by inducing type ii ‘autophagic cell death’ or
+by linking with other cell death pathways, including apoptosis,
+to effect the demise of the cell.19,20 in tumour development,
+therefore, autophagy can be considered, depending on the
+context, to act in either an oncogenic or tumour suppressive
+capacity. p53 has been reported to be an inducer of
+autophagy.11,12 morever, the recent discovery that dram –
+a p53 target gene that is required for p53-induced autophagy –
+is frequently down-regulated in squamous cancers under-
+scores the notion that autophagy is a component of tumour
+suppression downstream of p53.12
+p73 is a protein that is closely related to p53.21,22 it shares
+many functional similarities with p53, for example, both have
+been reported to mediate cell cycle arrest and programmed
+cell death.23 clearly though,
+the two proteins also have
+functions. this is perhaps most exempliﬁed in
+divergent
+studies of mouse development in which p53 appears largely
+dispensable, whereas p73-null animals exhibit clear develop-
+mental abnormalities.24,25 in addition, during tumour devel-
+opment, in contrast to p53, p73 is rarely mutated, indicating
+different contributions of the two proteins to tumour suppres-
+sion.26 several studies have shown that that these differences
+may lie in the spectrum of target genes activated by p53 and
+p73 in speciﬁc contexts and how these integrate to determine
+a cell’s fate.27 we sought therefore to determine whether p73,
+like p53, can regulate dram and autophagy and whether this
+contributes to p73-mediated programmed cell death.
+results
+p73 is an inducer of autophagy. to investigate if p73
+modulates autophagy, we utilized previously characterized
+tetracycline-responsive (teton) cell
+lines for three of the
+transactivation-competent (ta) isoforms of p73: ta-p73a,
+ta-p73b and ta-p73g.28 upon treatment of these cells with
+the tetracycline analogue, doxycycline (dox) each line
+undergoes a marked induction in expression of
+the
+transgene (figure 1a). before induction each of the lines,
+as well as a p53 inducible line (teton-p53), were infected
+with an adenovirus expressing the autophagy marker gfp-
+lc3.29 in most unstimulated cells, endogenous lc3 exists in
+a form lc3i, which shows a diffuse distribution within the
+cytoplasm. when autophagy is induced, lc3i is lipidated to
+form lc3ii which integrates into the autophagosome
+teton-
+ha-p73
+p53
+actin
+p73α p73β p73γ p53
+60
+40
+20
+teton-
+-dox
++dox
+p73α
+p73β
+p73γ
+p53
+-dox
++dox
+teton-
+p73α
+10µm
+p73β
+p73γ
+p53
+gfp-lc3
+p73/p53
+gfp-lc3
+merge
+-dox
+teton-p73γ
++dox
++dox
+teton-p73γ
+1.5
+0.5
+dox
+aa starvation
+60
+40
+20
+etop
+saos2-prs-scr
+saos2-prs-p73
+figure 1 p73 regulates autophagy. (a–c) teton-p73a, -p73b, -p73g and -p53 cells were infected with an adenovirus expressing gfp-lc3 then induced for 24 h with dox.
+cells were then assessed for transgene induction by western blotting (a) and visualized for the appearance of gfp-lc3ii puncta (b). gfp-lc3 is shown in green and ha-
+p73a, -p73b, -p73g and -p53 are shown in red. (c) cells were quantiﬁed for the appearance of gfp-lc3 puncta. cells positive for p73a, p73b, p73g or p53 were counted. (d)
+the presence of autophagosomes in dox-treated teton-p73g cells was conﬁrmed by transmission electron microscopy (white arrowheads highlight a selection of
+autophagosomes) (e) and the ability of p73 to induct successful autophagy was measured by analysis of long-lived protein degradation. (f) the involvement of p73 in the
+induction of autophagy following treatment with etoposide (etop) was assessed in saos2 cells containing an shrna to knockdown p73 (prs-p73) or a scrambled non-silencing
+shrna control (prs-scr)
+cell death and differentiation
+membrane.30 when this occurs, the exogenous marker gfp-
+lc3 behaves similarly and can be easily observed as distinct
+puncta under ﬂuorescent microscopy.29 although only a few
+gfp-lc3 puncta could be observed in each of the lines in
+the absence of dox, a large number of puncta were clearly
+visible following induction of each of the splice variants of
+p73 (figure 1b). no increase in puncta was observed when
+parental saos2 cells were treated with dox (supplementary
+figure 1). ta-p73g had the strongest effect, with
+approximately 50% of
+transgene-positive cells having a
+signiﬁcant number of gfp-lc3 puncta (above 8 per cell) –
+a score similar to what is observed following p53 induction
+(figure 1c). ta-p73a and ta-p73b had a less potent effect
+on autophagy with approximately 20–30% of the p73-postive
+cells showing signiﬁcant levels of gfp-lc3 puncta – despite
+similar levels of transgene expression to ta-p73g following
+treatment with dox (figure 1a and c).
+next, we analysed cells for the appearance of autophago-
+somes by electron microscopy (em). morphologically, auto-
+phagosomes are double-membraned vesicles that contain
+cytoplasm and/or organelles. these are most obvious in the
+later stages of autophagy when the autophagosomes contain
+at least partially degraded material and appear more electron
+dense.14 consistent with our ﬁndings with gfp-lc3, treat-
+ment of teton-p73g cells with dox caused a marked induction
+of electron dense vesicles (figure 1d, middle panel). when
+these vesicles were examined under higher magniﬁcation,
+they were clearly double-membraned and contained cellular
+material (figure 1d, right panel).
+the autophagosome is a transient mid-point
+in the
+autophagy process. as such, accumulation of autophaga-
+somes in cells can either indicate induction of autophagy or a
+blockade in the turnover of autophagosomes. as autophagy is
+the major route by which long-lived proteins are degraded
+in cells, we monitored the degradation rate of these proteins
+in the absence or presence of p73. teton-p73g cells were
+radio-labelled with [35s]met/cys and treated with dox or
+cultured in the absence of amino acids (a known inducer of
+autophagy).13 starvation and p73 expression both caused
+comparable increases in the degradation of
+long-lived
+proteins,
+indicating that p73 is an inducer of autophagy
+(figure 1e).
+lastly, we sought to determine whether endogenous p73
+could modulate autophagy. to do this, we utilized saos2 cells,
+which are null for p53 but have been shown to induce p73
+following treatment with the chemotherapeutic drug etopo-
+side.31 to determine the contribution of endogenous p73,
+these cells were infected with either a scrambled shrna or a
+previously described shrna designed to knockdown p73.32 in
+line with our ﬁndings with exogenous p73, the subsequent
+infection of these cells with gfp-lc3 and treatment with
+etoposide revealed a marked induction in the appearance of
+autophagosomes that was greatly reduced in cells expressing
+the shrna targeting p73 (figure 1f).
+autophagosome
+p73 induces dram, but this is not required for p73-
+mediated
+previous
+studies have indicated that p53-induced autophagy requires
+induction of the recently identiﬁed p53 target gene, dram.12
+we therefore tested if dram was also a target gene of p73.
+formation. our
+regulation of autophagy by p73
+d crighton et al
+1073
+following induction of the p73 isoforms and p53 for 24 h,
+rna was isolated and the levels of dram determined by
+quantitative rt-pcr (qpcr). this revealed that although
+ta-p73g was a strong inducer of dram expression
+(fourfold), ta-p73a and -b induced only small, but
+reproducible increases in dram mrna (figure 2a). each
+of the lines, however, was able to activate signiﬁcant levels of
+p21 (figure 2b). this therefore indicates that the low level of
+dram activation by ta-p73a and -b is genuine and not due
+to a lack of functional competence for these splice variants.
+to determine if the effect of p73 on dram was direct, we
+generated a h1299 cell
+line from a
+carcinoma of the lung), which contains a p73–er fusion
+protein. this switchable system can be used to modulate
+the activity of p73 by addition of the oestrogen analogue,
+tamoxifen (tam).33 activation of p73–er with tam does not
+require protein synthesis and as a result changes in mrna
+expression, which occur in the presence of a protein synthesis
+inhibitor, such as cycloheximide (chx), can be considered
+direct. in this system, dram was markedly induced following
+treatment with tam either in the absence or presence of chx
+(figure 2c) demonstrating a direct effect of p73 on dram
+expression.
+line (a p53-null cell
+to further examine the direct nature of the ability of p73 to
+activate dram, we examined if p73 could activate a luciferase
+reporter construct containing a fragment of dram intron 1,
+which has previously been shown to be p53 responsive.12
+consistent with our observations of dram activation in
+teton-p73g cells (figure 2a), co-transfection of ta-p73g with
+this reporter caused an approximately sixfold increase in
+luciferase activity (figure 2d). however, also consistent with
+our analysis of activation of endogenous dram (figure 2a),
+this was considerably lower
+than the 12-fold induction
+observed following transfection of p53 (figure 2d).
+as the ability of the p73 isoforms to induce autophagosome
+accumulation correlated with the ability to induce dram,
+we next asked if dram induction was required for p73 to
+modulate autophagy. initially, we focused our analysis on
+ta-p73g owing to its pronounced effects on autophagy and
+dram. teton-p73g cells were transfected with three dram-
+speciﬁc sirnas and a non-targeting sirna control. each of
+these dram sirnas caused a marked reduction in both basal
+dram and the levels of dram seen following treatment with
+dox (figure 3a). to test the effects of dram knockdown on
+autophagy in whole populations of p73-expressing cells, we
+utilized the fact that, as well as being detectable as puncta
+by immunoﬂuorescence, lc3ii migrates faster than lc3i on
+sds-page gels.29,30 teton-p73g cells were transfected with
+dram-speciﬁc and non-targeting sirnas and subsequently
+infected with gfp-lc3. cell lysates were analysed 48 h later
+by western blotting to determine the ratio of gfp-lc3i/gfp-
+lc3ii (figure 3b). for comparison, we assayed one of the
+dram-speciﬁc sirnas for its ability to knockdown dram and
+to affect the ratio of lc3i/lc3ii in teton-p53 cells (figure 3c
+and d). taken together, these data revealed that, in contrast to
+what was observed in teton-p53 cells where a clear reduction
+in gfp-lc3ii was observed (figure 3d), knockdown of dram
+had no affect on the gfp-lc3i/gfp-lc3ii ratio in teton-p73g
+cells (figure 3b). this indicates that p73-mediated modulation
+of autophagy is dram independent.
+cell death and differentiation
+1074
+regulation of autophagy by p73
+d crighton et al
+-dox
++dox
+h1299-p73er
+saos2
+teton-
+p73α
+teton-
+p73β
+teton-
+p73γ
+teton-
+p53
+tam
+chx
+teton-
+p53
+saos2
+dox
+teton-
+p73α
+teton-
+p73β
+teton-
+p73γ
+ha-p73
+p53
+p21
+actin
+14
+12
+dram-luc
+pcdna3
+p53
+p73γ
+figure 2 p73 induces dram. (a) teton-p73a, -p73b, -p73g and -p53 cells were induced with dox for 24 h, rna was extracted and the relative amounts of dram mrna
+was assessed by quantitative rt-pcr. (b) protein levels of p73a, p73b, p73g, p53 and p21 were analysed by western blotting. the ability of p73 to directly activate dram
+was assessed in h1299-p73-er cells (c) and in a reporter assay with a luciferase construct-containing sequences from dram intron 1 (d)
+p73-mediated induction of dram is not required for
+programmed cell death. our previous studies had also
+observed that as well as being required for p53 to induce
+autophagy, dram was also required for p53-mediated
+programmed cell death.12 we ﬁrst therefore questioned if
+the ability of p73 isoforms to induce programmed cell death
+correlated with expression of dram. teton-p73a, -b and -g
+cells were treated with dox for 48 h and the extent of resulting
+apoptosis measured by ﬂow cytometry. different to what we
+observed for activation of dram by the p73 isoforms, where
+activation was most pronounced following induction by ta-
+p73g, we found that levels of cell death were comparable
+following activation of ta-p73b and -g (figure 4a).
+in
+contrast, only a small amount of apoptosis was seen
+following activation of p73a (figure 4a).
+we next sought to determine therefore whether dram
+was contributing to the cell death observed. teton-ta-p73g
+cells were transfected with the three dram-speciﬁc
+sirnas and a non-targeting sirna control as outlined in
+figure 3a. for comparison, analysis was also made of
+the effects of dram knockdown in teton-p53 cells
+(figure 4b). cells were then incubated in either the absence
+or presence of dox and the extent of cell death determined by
+ﬂow cytometry. none of the dram-speciﬁc sirnas caused
+any signiﬁcant effect on the cell death seen following
+activation of ta-p73g (figure 4c); however, consistent with
+our previous studies, dram knockdown caused a reduction in
+the amount of cell death observed following activation of p53
+(figure 4d).
+induction of autophagy by p73 does not contribute to
+programmed cell death. our data indicate that in contrast to
+p53, when dram is induced by p73, it does not appear to play
+a role in either p73’s modulation of autophagy or programmed
+cell death. this however does not rule-out the possibility that
+p73-induced autophagy is contributing to cell death in a dram-
+independent manner. to test this, we transfected teton-ta-
+p73g and teton-p53 cells with a previously described sirna
+targeting the essential autophagy gene atg512 and a non-
+targeting control. following atg5 silencing, which was
+conﬁrmed by qpcr (figure 5a and b), the ability of p53 and
+p73g to modulate autophagy, as determined by analysis of
+lc3i/lc3ii ratios by western blotting, was markedly reduced
+(figure 5c and d). we next analysed if atg5 knockdown in
+these cells affected programmed cell death. consistent with
+our previous studies, atg5 knockdown caused a statistically
+signiﬁcant (p¼ 0.008) decrease in amount of cell death seen
+from p53 when compared with cells transfected with non-
+targeting sirna control (figure 5c).12 in contrast, no reduction
+in cell death was observed following atg5 knockdown in ta-
+p73g cells (figure 5d). a small but reproducible increase in
+death was observed, however,
+found to be
+statistically signiﬁcant (p40.05). these data clearly indicate
+that, in contrast to p53, the modulation of autophagy by ta-
+p73g does not contribute to programmed cell death.
+this was not
+dn-p73 modulates p53- and p73- driven autophagy, but
+does not affect starvation-driven autophagy. p73 splice
+variants also exist in forms with an alternate n-terminus,
+cell death and differentiation
+16
+12
+sirna
+-dox
++dox
+cont.
+d1
+d2
+d3
+sirna
+dox
+cont.
+d1
+d2
+d3
+ha-p73
+lc3i
+25
+20
+15
+10
+sirna
+dox
+cont.
+d1
+-dox
++dox
+discussion
+p53
+lc3i
+lc3ii
+regulation of autophagy by p73
+d crighton et al
+1075
+p53 does not contribute to p73-induced autophagy. for
+induction of cell death in certain systems, cooperativity
+between p53 family members has been shown to be
+important. we considered therefore whether the ability of
+p73 to induce autophagy in cell types containing wild-type
+p53, may be at
+least partially dependent on p53. we
+therefore analysed the ability of ta-p73 to induce
+autophagy in u2os cells, which like saos2 cells are from
+an osteosarcoma, but unlike saos2, contain wild-type p53.
+similar to what we observed in saos2 cells (figure 1),
+infection of u2os cells with an adenovirus expressing ta-
+p73 caused a marked increase in gfp-lc3 puncta
+(figure 7a). to test if this effect was in any way dependent
+on p53, we infected these cells with a shrna to knockdown
+p5334 (figure 7b). these cells and cells infected with a non-
+silencing shrna as control were then infected with
+adenoviral ta-p73 and gfp-lc3. this revealed however
+that knockdown of p53 had no effect on the ability of p73 to
+induce autophagy (figure 7c).
+lc3ii
+sirna
+cont.
+d1
+figure 3 silencing of dram does not affect p73-induced autophagy. control or
+dram-speciﬁc sirnas were transfected into teton-p73g (a and b) or teton-p53 (c
+and d) cells for a total of 72 h. the relative levels of dram were assessed by real-
+time pcr after 24 h of induction with dox (a and c). following transfection, the cells
+were infected with an adenovirus expressing gfp-lc3 and induced with dox for
+48 h. levels of gfp-lc3i/ii and either p73g (b) or p53 (d) were analysed by
+western blotting. cont., non-targeting control sirna. d1, d2 and d3, dram-
+speciﬁc sirnas
+and
+possibly
+therefore
+termed collectively dn-p73.26 these splice variants lack the
+ability to transactivate genes, but as they bind the same dna
+consensus sequences as ta-p73 and p53, they can act as
+transdominant-negative regulators of
+transactivation. as
+the ability of p73 to induce autophagy appears dram-
+independent
+transactivation
+independent, we asked whether dn-p73 could modulate
+autophagy per se and whether dn-p73 could modulate the
+induction of autophagy in a negative manner. to test this,
+saos2 cells were infected with an adenovirus expressing dn-
+p73 and gfp-lc3. unlike ta-p73 (figure 1) or amino-acid
+starvation, dn-p73 does not cause accumulation of
+autophagosomes (figure 6a). however, dn-p73 was able
+to repress the formation of autophagosomes induced by p53
+or ta-p73 (figure 6b–e), indicating that although p73-driven
+autophagy may not be dependent on dram, it is likely to be
+dependent on other target gene(s) of ta-p73. in contrast dn-
+p73 had no effect on starvation-induced autophagy. this
+implies three independent autophagy signalling pathways:
+is
+p53-driven that
+dram-independent
+starvation
+is
+independent of both p53 and ta-p73.
+is dram-dependent, p73-driven that
+induced
+that
+and
+to our knowledge, this is the ﬁrst report which shows that p73
+can modulate autophagy. it therefore introduces yet another
+regulator of this process that has also been shown to control
+cell viability. our previous studies and those of others have
+reported that p53 can modulate autophagy.11,12 it is perhaps,
+therefore, no surprise that its closely related family member,
+p73, can also do so. it is intriguing, however, to ﬁnd that
+the mechanism by which autophagy is regulated by p73 is
+different to that of p53. p53’s regulation of autophagy is
+critically dependent on the activation of
+its target gene,
+dram.12 although dram is directly activated by p73, it
+appears that it is dispensable for p73 to modulate autophagy.
+p53 has also been shown to modulate autophagy by signalling
+through the nutrient-sensing kinase, mtor.11 whether this
+signal is upstream or downstream of dram, or for that matter
+completely independent
+it would be
+intriguing to assess if p73 can affect mtor activity and
+whether this is involved in the regulation of autophagy by p73.
+it is also entirely possible that another p73 target gene, distinct
+from dram, may mediate p73-induced autophagy and our
+studies with dn-p73 would indicate that this is likely. the
+identiﬁcation of such a target gene(s) and an assessment of
+whether this is also a target of p53 would undoubtedly be very
+rewarding.
+is as yet unknown.
+we also report that the regulation of autophagy by p73 does
+not contribute to p73-mediated programmed cell death. this is
+clearly an important functional difference between p53 and
+p73 and it is tempting to speculate that this may underlie
+critical fundamental differences between the two proteins in,
+for example, tumour suppression. what then is the role of
+autophagy downstream of p73? clearly, we cannot comple-
+tely rule-out the possibility that autophagy induced by p73 may
+contribute to cell death in some situations. for example, it
+is possible that under nutrient-deprived conditions, where
+autophagy is a critical regulator of cell viability,
+the
+autophagy induced by p73 may be important. this would be
+an intriguing possibility regardless of whether autophagy
+under these conditions promotes cell death or cell survival.
+that
+cell death and differentiation
+1076
+teton-
+regulation of autophagy by p73
+d crighton et al
+-dox
++dox
+40
+30
+20
+10
+p73α
+p73β
+p73γ
+teton-
+p53
+16
+12
+teton-p73γ
+-dox
++dox
+35
+30
+25
+20
+15
+10
+50
+40
+30
+20
+10
+-dox
++dox
+teton-p53
+-dox
++dox
+sirna
+cont.
+d1
+d2
+d3
+sirna
+cont.
+d1
+figure 4 induction of dram is not required for p73-mediated programmed cell death. (a–b) p73-b and p73-g induce programmed cell death. teton-p73a, p73b, p73g
+cells (a) and p53 cells (b) were induced with dox for 48 h and the amount of apoptosis determined by ﬂow cytometry. apoptosis was measured by the % sub-g1 content of the
+cells. (c–d) knockdown of dram affects death from p53, but not p73. contol or dram-speciﬁc sirnas were transfected into teton-p73g (c) or teton-p53 (d) cells for a total
+of 72 h. cells were induced with dox for 48 h and the amount of apoptosis was determined by ﬂow cytometry. apoptosis was measured by the % sub-g1 content of the cells.
+cont., non-targeting control sirna. d1, d2 and d3, dram-speciﬁc sirnas
+sirna
+dox
+cont.
+atg5
+lc3i
+p53
+lc3ii
+teton-p53
+50
+40
+30
+20
+10
+-dox
++dox
+p = 0.008
+teton-p53
+sirna
+cont.
+atg5
+teton-p53
+-dox
++dox
+cont.
+atg5
+teton-p73
+-dox
++dox
+1.6
+1.2
+0.8
+0.4
+sirna
+1.5
+0.5
+sirna
+sirna
+dox
+cont.
+atg5
+35
+30
+25
+20
+15
+10
+sirna
+teton-p73
+p = 0.077
+-dox
++dox
+cont.
+atg5
+ha-p73γ
+lc3ii
+lc3i
+cont.
+atg5
+teton-p73
+figure 5 autophagy is not required for p73-induced apoptosis. teton-p53 (a, c, e) and teton-ta-p73g (b, d, f) cells were transfected with control or atg5-speciﬁc
+sirnas for a total of 72 h. the relative levels of atg5 were assessed by real-time pcr after 24 h induction with dox (a and b). the effects on autophagy were assessed after
+48 h induction with dox by measuring the ratio of gfp-lc3i to gfp-lc3ii by western blotting (c and d) and the effects on apoptosis determined by ﬂow cytometry (e, f).
+apoptosis was measured by the % sub-g1 content of the cells. cont., non-targeting control sirna
+aside from a role in controlling cell viability during tumour
+development or starvation conditions, it may also be possible
+that p73 regulates autophagy to serve a completely different
+purpose in a very speciﬁc context. one notable difference
+between p53 and p73 is the role of p73 in development.24,25
+autophagy has been shown to have roles in cell death
+regulation and also tissue remodelling during development
+and it may well be that it is during development that p73’s
+effects on autophagy play a role.
+our studies also raise questions about dram’s role
+downstream of p73. dram induction appears to play no role
+in the regulation of autophagy or programmed cell death by
+cell death and differentiation
+regulation of autophagy by p73
+d crighton et al
+1077
+control
+∆n-p73
+starvation
+30
+20
+10
+teton-p73γ
+dox
+cont.
+∆np73
+40
+30
+20
+10
+dox
+120
+80
+40
+aa
+starvation
+teton-p53
+cont.
+∆np73
+saos2
+cont.
+∆np73
+cont.
+∆np73
+cont.
+∆np73
+cont.
+∆np73
+dox
+ta-p73
+∆np73
+actin
+dox
+∆np73
+p53
+actin
+aa
+starvation
+∆np73
+actin
+figure 6 dn-p73 regulates p53- and p73-driven autophagy, but does induce autophagy itself and does not inhibit starvation-driven autophagy. (a) dn-p73 cells do not
+exhibit accumulation of autophagosomes following infection with gfp-lc3. (b–g) expression of dn-p73 impedes the ability of p53 and p73 to induce accumulation of
+autophagosomes, but does not affect starvation-induced autophagy. accumulation of gfp-lc3 puncta was assayed by microscopy and quantiﬁed (b, d, f) and transgene
+expression was determined by western blotting (c, e, g). cont., control ‘empty’ adenovirus
+p73 under the conditions tested. as with the role of autophagy
+downstream of p73, it may well be that dram contributes to
+p73 function, perhaps, even to p73-mediated programmed
+cell death, in a speciﬁc context. it may be for example, as
+dram is only strongly activated by p73g, that dram has
+speciﬁc functions in cells that express relatively large amounts
+of this p73 isoform. equally, it still remains possible that
+although knockdown of dram does not affect p73’s ability to
+modulate autophagy, it may be that the basal, or knockdown,
+levels of dram contribute to autophagy regulation in
+combination with other p73-induced genes. the generation
+of knockout cells/mice would clearly help resolve this issue.
+ultimately, however, the function of dram per se requires
+further
+investigation before these issues can really be
+addressed. although the speciﬁc function of dram is
+unknown, its lysosomal localization would indicate likely roles
+in either trafﬁcking through the secretory pathway or in the
+degradation of proteins that are delivered to the lysosome. it
+is possible that speciﬁc cellular stresses that target these
+processes elicit a p73-dependent response where dram is
+critical. it is clear, therefore, that further studies are required to
+elucidate what
+role dram and indeed autophagy play
+downstream of p73 and how this relates to the differences in
+function between p53 and p73.
+cell death and differentiation
+1078
+regulation of autophagy by p73
+d crighton et al
+control
+tap73
+control
+tap73
+ta-p73
+p53
+actin
+ha-tap73
+gfp-lc3
+dapi
+merge
+prs-scr
+prs-p53
+40
+30
+20
+10
+control
+tap73
+u2os-prs-scr
+u2os-prs-p53
+figure 7 p53 is not a component of p73-driven autophagy in wild-type p53 expressing cells. (a) infection of u2os cells with adenoviral ta-p73 causes accumulation of
+gfp-lc3 punta. (b, c) p73-induced autophagy is not affected by knockdown of p53 by rnai. expression of p53 and p73 was determined by western blotting (b).
+accumulation of gfp-lc3 puncta was visualized by ﬂuorescent microscopy and quantiﬁed (c). control, control ‘empty’ adenovirus
+materials and methods
+plasmids. pshuttlecmv-ha-tap73a and pshuttlecmv-ha-dnp73a were
+created by cloning ha-tap73a and ha-dnp73a fragments from pcdna3-ha
+vectors (kindly donated by gerry melino) into pshuttlecmv (kindly provided by bert
+vogelstein)35 using kpni and xhoi
+restriction enzymes. pretrosuper-scr,
+pretrosuper-p53 and pretrosuper-p73,12,32 pcdna3-p53, pcdna3-ha-
+tap73g and dram-luc (bs-1 luc) have been described previously.12,36
+pbabepuro-p73-er was generated by fusing coding sequences of p73 to the
+hormone-binding domain of the oestrogen receptor as described previously.33 the
+p73-er fusion was then subsequently cloned into pbabepuro.
+cell culture and transfetions. saos2, u2os and h1299 cells can all be
+obtained from atcc. teton-p53, teton-73a, teton-p73b and tetonp73g cells are
+saos2-derived lines and have been described previously.28,37 saos2-prs-scr and
+saos2-prs-p73 were generated by infection with pretrosuper-scr (prs-scr)
+and pretrosuper-p73 (prs-p73). u2os-prs-scr and u2os-prs-p53 were
+generated by infection of u2os cells with pretrosuper-scr (prs-scr) and
+pretrosuper-p53 (prs-p53), respectively. h1299-p73-er cells were generated
+by infection with pbabepuro-p73-er. all retrovirally infected cells were undertaken
+infected cells were selected with 1 mg/ml
+as previously described38 and all
+puromycin (sigma). all cell lines were maintained in dulbecco’s modiﬁed eagle’s
+medium supplemented with 10% foetal bovine serum.
+transgene
+expression was achieved by addition of 1 mg/ml doxyclycline (dox) (sigma). for
+starvation conditions, cells were incubated in earle’s balanced salt solution (ebss)
+(sigma). where indicated, cells were transfected by capo4 precipitation as
+previously described.39
+induction of
+‘shuttle’
+generation of adenoviruses. linearized
+plasmids were
+electroporated into bj5183-ad-1 electro-competent cells (stratagene) containing
+the adeasy-1 adenoviral construct. recombinant plasmids were then ampliﬁed in
+xl10-gold cells (stratagene) and transfected into hek293 cells after restriction
+digest with paci. following ampliﬁcation in 293 cells, puriﬁed adenovirus was
+isolated by freeze-thaw extraction and titred using the bd bioscience adeno-x
+rapid titer kit. adenoviruses were added to cultures at a concentration of 12
+infectious units per cell.
+long-lived protein degradation assays. teton-p73 cells were labelled
+for 6 h with l-[35s]met/cys (5 mci/ml) (amersham), washed three times in pbs and
+incubated for a further 16 h in dmem supplemented with 2 mm unlabelled l-met/cys
+plus dox where indicated. the degradation period was started by washing the cells
+again and replacing with fresh medium or ebss. after 4 h, the levels of degraded
+protein were calculated as previously described.18
+cell death assays. total populations of cells, including ﬂoating and adherent
+cells, were processed for ﬂow cytometric analysis (facscan, becton dickinson) as
+described previously.40 acquired events were analysed with cellquest software
+(becton dickinson). the percentage of cells with a sub-g1 dna content was taken
+as a measure of the extent of apoptosis in the cell population at that time.
+luciferase reporter assays. saos2 cells were transfected with 5 mg of
+dram-luc, and 0.5 mg of pcdna3-p53, pcdna-p73 or empty vector. 24 h later,
+cells were lysed in luciferase lysis buffer (promega) according to the manufacturer’s
+instructions. samples were assayed for luciferase activity.
+western blotting. cells were lysed in a 2 western sample buffer and
+transferred to nitrocellulose membranes as described previously.39 membranes
+were probed using standard immunoblotting techniques with antibodies that
+recognize p73 (hrp-conjugated ha, roche), p53 (do-1, pharmingen), p21 (sc-
+397g, santa cruz) and actin (clone 1a4, sigma).
+immunoﬂuoresence. for analysis of autophagosomes, cells were infected
+with an adenovirus expressing gfp-lc3 (a kind gift
+from aviva tolkovsky,
+university of cambridge).29 sixteen hours later, cells were incubated either in the
+absence of presence of dox. after a further 24 h, cells were ﬁxed with 4%
+paraformaldehyde and permeabilized with 0.3% triton. cells were then stained with
+antibodies that recognize exogenous p73 (ha – clone 12ca5, roche) or p53 (do-1,
+cell death and differentiation
+pharmingen). following incubation with a texas red-conjugated secondary
+antibody (molecular probes inc.), cells were analysed by confocal microsopy.
+electron microscopy. following treatments, cells were ﬁxed with 2%
+glutaraldehyde in 0.1 m sodium cacodylate and transmission electron microscopy
+performed using standard techniques.
+quantitative rt-pcr. rna was prepared using trizol reagent (invitrogen).
+qpcr analysis was undertaken using the dynamo sybr green 2-step qrt-pcr
+kit (finnzymes). data collection was carried out using a chromo4 real-time pcr
+detector and analysed with opticon monitor 3. primers for dram and 18s have
+previously.12
+primers
+(forward)
+been
+gcctgtatgtactgctttaactc,
+(reverse) ggataatgccatttcagtggt.
+qpcr cycling parameters were 951c 15 min [941c 10 s, 551c 30 s, 721c 30 s]
+34 cycles, 721c 10 min. expression levels of genes analysed by qpcr were
+normalized relative to levels of 18s rrna.
+described
+for
+atg5
+were:
+rnai. desalted and deprotected synthetic oligonucleotides were purchased from
+dharmacon. the sirna sequences targeting dram were: agccacgatg
+tatacaaga (1), ccacagaaatcaatggtga (2) and ggacagtggccttt
+ggttt (3). the sequence for atg5 was catctgagctacccggata and the
+non-silencing
+sirnas were
+transfected using oligofectamine reagent (invitrogen).
+sequence was taaggctatgaagagatac.
+statistical analyses. for statistical comparison of
+the effects of atg
+knockdown on cell death in teton-p53 and teton-p73 cells, the student’s t-test
+was applied assuming equal variances. using a levine test, there was no evidence
+to suggest that variances were unequal (supplementary table 1).
+acknowledgements. we thank reuven agami, bert vogelstein, karen
+vousden, aviva tolkovsky, gerry melino, kanaga sabapathy, trevor littlewood
+and noboru mizushima for reagents and gareth inman, dan croft, simon wilkinson
+and laura bell for critical reading of the paper. we are also extremely grateful to ken
+blight and lucy collinson for electron microscopy and to jacqui hall for statistics.
+work in the tumour cell death laboratory is supported by cancer research uk.
+kr is a cancer research uk senior cancer research fellow.
+regulation of autophagy by p73
+d crighton et al
+1079
+12. crighton d, wilkinson s, o’prey j, syed n, smith p, harrison pr et al. dram, a p53-
+induced modulator of autophagy, is critical for apoptosis. cell 2006; 126: 121–134.
+13. klionsky dj, emr sd. autophagy as a regulated pathway of cellular degradation. science
+2000; 290: 1717–1721.
+14. eskelinen el. maturation of autophagic vacuoles in mammalian cells. autophagy 2005; 1:
+1–10.
+15. baehrecke eh. autophagy: dual roles in life and death? nat rev mol cell biol 2005; 6:
+505–510.
+16. kuma a, hatano m, matsui m, yamamoto a, nakaya h, yoshimori t et al. the role of
+autophagy during the early neonatal starvation period. nature 2004; 432: 1032–1036.
+17. lum jj, bauer de, kong m, harris mh, li c, lindsten t et al. growth factor regulation of
+autophagy and cell survival in the absence of apoptosis. cell 2005; 120: 237–248.
+18. boya p, gonzalez-polo ra, casares n, perfettini jl, dessen p, larochette n et al.
+inhibition of macroautophagy triggers apoptosis. mol cell biol 2005; 25: 1025–1040.
+19. shimizu s, kanaseki t, mizushima n, mizuta t, arakawa-kobayashi s, thompson cb
+et al. role of bcl-2 family proteins in a non-apoptotic programmed cell death dependent on
+autophagy genes. nat cell biol 2004; 6: 1221–1228.
+20. yu l, alva a, su h, dutt p, freundt e, welsh s et al. regulation of an atg7-beclin 1
+program of autophagic cell death by caspase-8. science 2004; 304: 1500–1502.
+21. kaghad m, bonnet h, yang a, creancier l, biscan jc, valent a et al. monoallelically
+expressed gene related to p53 at 1p36, a region frequently deleted in neuroblastoma and
+other human cancers. cell 1997; 90: 809–819.
+22. jost ca, marin mc, kaelin jr wg. p73 is a simian (correction of human) p53-related protein
+that can induce apoptosis. nature 1997; 389: 191–194.
+23. de laurenzi v, melino g. evolution of functions within the p53/p63/p73 family. ann ny
+acad sci 2000; 926: 90–100.
+24. donehower la, harvey m, slagle bl, mcarthur mj, montgomery jr ca, butel js et al. mice
+deﬁcient for p53 are developmentally normal but susceptible to spontaneous tumours.
+nature 1992; 356: 215–221.
+25. yang a, walker n, bronson r, kaghad m, oosterwegel m, bonnin j et al. p73-deﬁcient
+mice have neurological, pheromonal and inﬂammatory defects but lack spontaneous
+tumours. nature 2000; 404: 99–103.
+26. melino g, de laurenzi v, vousden kh. p73: friend or foe in tumorigenesis. nat rev
+cancer 2002; 2: 605–615.
+27. harms k, nozell s, chen x. the common and distinct target genes of the p53 family
+transcription factors. cell mol life sci 2004; 61: 822–842.
+28. nakano k, balint e, ashcroft m, vousden kh. a ribonucleotide reductase gene is a
+transcriptional target of p53 and p73. oncogene 2000; 19: 4283–4289.
+29. bampton etw, goemans cg, niranjan d, mizushima n, tolkovsky am. the dynamics of
+autophagy visualized in live cells. autophagy 2005; 1: 23–36.
+30. kabeya y, mizushima n, ueno t, yamamoto a, kirisako t, noda t et al. lc3, a
+mammalian homologue of yeast apg8p, is localized in autophagosome membranes after
+processing. embo j 2000; 19: 5720–5728.
+1. crighton d, ryan km. splicing dna-damage responses to tumour cell death. biochim
+31. rossi m, de laurenzi v, munarriz e, green dr, liu yc, vousden kh et al. the ubiquitin-
+biophys acta 2004; 1705: 3–15.
+2. hanahan d, weinberg ra. the hallmarks of cancer. cell 2000; 100: 57–70.
+3. johnstone rw, rueﬂi aa, lowe sw. apoptosis: a link between cancer genetics and
+chemotherapy. cell 2002; 108: 153–164.
+4. ryan km, phillips ac, vousden kh. regulation and function of the p53 tumor suppressor
+protein. curr opin cell biol 2001; 13: 332–337.
+protein ligase itch regulates p73 stability. embo j 2005; 24: 836–848.
+32. toh wh, kyo s, sabapathy k. relief of p53-mediated telomerase suppression by p73.
+j biol chem 2005; 280: 17329–17338.
+33. littlewood td, hancock dc, danielian ps, parker mg, evan gi. a modiﬁed oestrogen
+receptor ligand-binding domain as an improved switch for the regulation of heterologous
+proteins. nucleic acids res 1995; 23: 1686–1690.
+5. soussi t, lozano g. p53 mutation heterogeneity in cancer. biochem biophys res
+34. brummelkamp tr, bernards r, agami r. a system for stable expression of short
+commun 2005; 331: 834–842.
+interfering rnas in mammalian cells. science 2002; 296: 550–553.
+6. mihara m, erster s, zaika a, petrenko o, chittenden t, pancoska p et al. p53 has a direct
+35. he tc, zhou s, da costa lt, yu j, kinzler kw, vogelstein b. a simpliﬁed system for
+apoptogenic role at the mitochondria. mol cell 2003; 11: 577–590.
+7. leu ji, dumont p, hafey m, murphy me, george dl. mitochondrial p53 activates bak and
+causes disruption of a bak-mcl1 complex. nat cell biol 2004; 6: 443–450.
+8. chipuk je, kuwana t, bouchier-hayes l, droin nm, newmeyer dd, schuler m et al. direct
+activation of bax by p53 mediates mitochondrial membrane permeabilization and
+apoptosis. science 2004; 303: 1010–1014.
+generating recombinant adenoviruses. proc natl acad sci usa 1998; 95: 2509–2514.
+36. de laurenzi v, costanzo a, barcaroli d, terrinoni a, falco m, annicchiarico-petruzzelli m
+et al. two new p73 splice variants, gamma and delta, with different transcriptional activity.
+j exp med 1998; 188: 1763–1768.
+37. ryan km, ernst mk, rice nr, vousden kh. role of nf-kappab in p53-mediated
+programmed cell death. nature 2000; 404: 892–897.
+9. laptenko o, prives c. transcriptional regulation by p53: one protein, many possibilities.
+38. ryan km, o’prey j, vousden kh. loss of nuclear factor-kappab is tumor promoting but
+cell death differ 2006; 13: 951–961.
+does not substitute for loss of p53. cancer res 2004; 64: 4415–4418.
+10. michalak e, villunger a, erlacher m, strasser a. death squads enlisted by the tumour
+39. bell la, o’prey j, ryan km. dna-binding independent cell death from a minimal
+suppressor p53. biochem biophys res commun 2005; 331: 786–798.
+proapoptotic region of e2f-1. oncogene 2006; 25: 5656–5663.
+11. feng z, zhang h, levine aj, jin s. the coordinate regulation of the p53 and mtor
+40. ryan km, vousden kh. characterization of structural p53 mutants which show selective
+pathways in cells. proc natl acad sci usa 2005; 102: 8204–8209.
+defects in apoptosis but not cell cycle arrest. mol cell biol 1998; 18: 3692–3698.
+supplementary information accompanies the paper on cell death and differentiation website (http://www.nature.com/cdd)
+cell death and differentiation

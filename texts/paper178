@@ -1,0 +1,905 @@
+xxxoriginal article
+hierarchy map of sixteen atg proteins
+k suzuki et al. 
+blackwell publishing inc
+malden, usa
+gtcgenes to cells
+1356-9597
+© the author. journal compilation © 2006 by the molecular biology society of japan/blackwell publishing ltd.
+hierarchy of atg proteins in pre-autophagosomal structure 
+organization
+1,2
+, yuka kubota
+, takayuki sekito
+ and yoshinori ohsumi
+kuninori suzuki
+department of cell biology, division of molecular cell biology, national institute for basic biology, nishigonaka 38, myodaiji-cho, okazaki, 
+444-8585 japan 
+department of basic biology, the graduate university for advanced studies, nishigonaka 38, myodaiji-cho, okazaki, 444-8585 japan
+1,2,
+saccharomyces cerevisiae
+autophagy is a bulk degradation process that is conserved in eukaryotic cells and functions in the
+turnover of cytoplasmic materials and organelles. when eukaryotic cells face nutrient starvation,
+the autophagosome, a double-membraned organelle, is generated from the pre-autophagosomal
+structure (pas). in the yeast 
+ (autophagy-related) genes are essential
+for  autophagosome  formation.  most  of  the atg  proteins  are  involved  in  the  pas,  leading  to
+autophagosome production. however, the mechanism of pas organization remains to be elucidated.
+here, we performed a systematic and quantitative analysis by ﬂuorescence microscopy to develop
+a hierarchy map of atg proteins involved in pas organization. this analysis suggests that atg17p
+is the most basic protein in pas organization: when it is speciﬁcally targeted to the plasma membrane,
+other atg proteins are recruited to that location, suggesting that atg17p acts as a scaffold protein
+to organize atg proteins to the pas.
+atg
+, 16 
+introduction
+eukaryotic cells maintain homeostasis by balancing the
+synthesis and degradation of cellular components such as
+proteins, lipids, ribosomes and organelles. macroautophagy
+(autophagy) is a degradation process ubiquitously observed
+in eukaryotes, playing important roles in cell survival, cell
+remodeling and intracellular clearance in higher eukaryotes
+(levine & klionsky 2004; shintani & klionsky 2004a).
+during  autophagy,  a  double-membraned  structure
+called the autophagosome emerges and non-selectively
+sequesters a portion of cytoplasm. the autophagosome
+fuses to a lytic compartment, the lysosome/vacuole, and is
+degraded within a couple of minutes (suzuki 
+ 2002).
+sixteen 
+  (autophagy-related)  genes  essential  for
+autophagosome formation have been isolated from the
+yeast 
+ (tsukada & ohsumi 1993).
+in addition to the autophagic pathway, the 
+ genes
+are  involved  in  a  biosynthetic  pathway  called  the
+cytoplasm-to-vacuole  (cvt)  pathway,  which  selectively
+delivers aminopeptidase i and 
+-mannosidase to the
+saccharomyces cerevisiae
+atg
+atg
+et al.
+et  al.
+atg
+  genes,  such  as 
+vacuole  under  growth  conditions  (scott 
+  1997;
+atg17
+hutchins & klionsky 2001). 
+ is a speciﬁc factor
+et al.
+for the autophagic pathway (kamada 
+ 2000), whereas
+atg19
+atg11
+several 
+  and 
+contribute only to the cvt pathway (kim 
+ 2001;
+scott 
+ 2001). autophagosomes and cvt vesicles are
+distinguishable based on their contents and size, which
+average 500 and 150 nm in diameter, respectively (baba
+et al.
+ 1997).
+et al.
+et al.
+et  al.
+et  al.
+  2001;  kim 
+recent morphological analyses of the budding yeast
+revealed that a number of atg proteins accumulate to a
+perivacuolar structure termed the pre-autophagosomal
+structure  (pas)  (suzuki 
+  2002).
+upon starvation, a cup-shaped membrane sac, called
+the isolation membrane, is produced from the pas. the
+isolation membrane extends and ﬁnally matures into an
+autophagosome (mizushima 
+ 2001). as the pas is an
+essential  structure  for  autophagosome  formation,  we
+have focused our work on determining how the pas
+is organized, in order to elucidate the complex protein
+and  membrane  dynamics  that  govern  autophagosome
+formation.
+et al.
+communicated by
+correspondence
+: keiji tanaka
+: e-mail: yohsumi@nibb.ac.jp
+in this report, we have studied the 16 
+ genes that
+are  absolutely  required  for  autophagosome  formation
+atg
+doi: 10.1111/j.1365-2443.2007.01050.x
+© 2007 the authors
+journal compilation © 2007 by the molecular biology society of japan/blackwell publishing ltd.
+genes to cells (2007)
+12
+, 209–218
+209
+k suzuki 
+et al.
+atg11
+ and 
+atg15
+ except 
+atg1
+atg18
+) and have
+quantiﬁed their pas localization by ﬂuorescence microscopy.
+this comprehensive analysis allowed us to construct
+a hierarchy  diagram  of atg  proteins  required  for  pas
+organization, and suggested that atg17p acts as a scaffold
+protein in pas organization.
+results
+comprehensive analysis of atg protein localization
+our systematic analysis aims to elucidate the mechanisms
+of pas organization. first, we examined whether each atg
+protein  localizes  to  the  pas.  second,  we  investigated
+whether pas localization of each atg protein is perturbed
+by disruption of another 
+ gene using quantitative
+ﬂuorescence microscopy.
+atg
+we constructed 16 yeast strains expressing gfp-fused
+atg proteins from their native loci (each of atg1 to atg18
+except atg11 and atg15), thereby avoiding mislocalization
+owing to over-expression. we conﬁrmed the autophagic
+activity of these strains and excluded the atg3-gfp strain
+from further analysis since it did not show any autophagic
+activity (data not shown).
+we examined the 15 different atg-gfp strains using
+ﬂuorescence microscopy and found that 11 out of the 15
+atg proteins exhibited perivacuolar punctuate structures
+that  co-localized  with ape1p,  showing  that  these atg
+proteins were indeed localized to the pas (fig. 1 and
+supplementary table s1). the gfp signals corresponding
+to atg4p-gfp, atg7p-gfp, atg10p-gfp and gfp-atg12p
+were too weak to quantify (data not shown). to determine
+which speciﬁc atg proteins were required for the pas
+atg
+localization of the various atg proteins, all of the 
+genes  were  individually  disrupted  in  each  atg-gfp
+strain, for a total of 165 (11 
+ 15) disruptants. these cells
+were treated with rapamycin for 5 h to induce autophagy
+and  analyzed  by  ﬂuorescence  microscopy. the  pas
+targeting  index  (pti)  was  introduced  to  quantify  the
+level of atg protein recruitment to the pas (see experi-
+mental procedures). the pti for each atg protein in a
+wild-type strain was set at 1.00. a lower pti indicates
+defects in pas targeting of the atg protein, as indicated
+by a lower frequency of dots, a lower intensity of dots,
+or both.
+ptis were calculated using the 176 strains (11 wild
+types and 165 disruptants), and summarized in fig. 2a.
+we omitted vps30p/atg6p-gfp from the analysis, as
+little difference was found between the wild type and
+disruptants, probably because only a small proportion of
+vps30p is involved in the autophagic pathway (obara
+et al.
+ 2006). white numbers indicate strains showing a
+figure 1 localization of atg proteins to the pas. each atg-gfp
+strain was mated with an ape1p-rfp strain of the opposite mating type.
+the resulting diploids were grown in sd + ca medium, incubated
+with rapamycin for 3 h, and then analyzed. bar represents 2 µm.
+defect in pas targeting. atg proteins belonging to the
+same functional group exhibited similar patterns (fig. 2a),
+conﬁrming the validity of our analysis. using these data,
+a  hierarchy  of  interrelationships  between atg  proteins
+210
+genes to cells (2007)
+12
+, 209–218
+© 2007 the authors
+journal compilation © 2007 by the molecular biology society of japan/blackwell publishing ltd.
+hierarchy map of sixteen atg proteins
+figure 2 comprehensive analysis of atg protein localization. (a) pas targeting index (pti). all ptis obtained from the 160 strains are
+listed. the top line indicates the gfp-fused atg proteins analyzed, and the left column indicates the atg genes disrupted. white numbers
+indicate strains showing a defect in pas targeting. a mercury lamp excitation was used for imaging. (b) hierarchy diagram of atg proteins
+required for pas organization. tails of arrows are placed at atg proteins that affect the pas localization of other atg proteins located at
+the heads of the arrows. numbers: atg proteins; v30: vps30p/atg6p.
+has been mapped (fig. 2b). we present the results of the
+detailed analysis in the following sections.
+mapping of atg proteins required for pas 
+organization
+et al.
+atg
+atg8
+atg8p is a protein that was ﬁrst identiﬁed as an autophago-
+some marker (kirisako 
+ 1999). our previous works
+showed that an ubiquitin-like conjugation system attaches
+et al.
+atg8p to phosphatidylethanolamine (pe) (ichimura 
+2000). the  analysis  presented  herein  showed  that  no
+atg proteins were mislocalized in the absence of atg8p
+(fig. 2a), suggesting that 
+ is located downstream
+of the other 
+ genes in terms of pas organization.
+in contrast, we identiﬁed ten 
+ genes responsible for
+pas targeting of atg8p (fig. 2a and for details, see
+supplementary fig. s1). in the absence of a functional
+atg8 system, atg8p-pe could not be produced (suzuki
+et  al.
+  2001),  resulting  in  a  dramatically  lower  pti  for
+atg8. a  similar  pattern  of atg8  modiﬁcation  and
+targeting  was  observed  in  strains  lacking  a  functional
+atg12 system (suzuki 
+ 2001). we concluded that
+atg8p-pe formation is requisite for atg8p targeting to
+the pas.
+atg
+et al.
+atg12p forms a conjugate with atg5p (mizushima
+et al.
+ 1998). subsequently, the conjugate associates with
+atg16p to form the atg12p-atg5p·atg16p complex (kuma
+et  al.
+  2002).  atg5p  is  also  capable  of  associating  with
+atg16p regardless of its conjugation to atg12p (mizushima
+et al.
+ 1999). the atg12p-atg5p·atg16p complex ﬁnally
+reaches  the  pas  and  is  involved  in  autophagosome
+formation. both atg5p-gfp and atg16p-gfp localize
+to the pas normally in mutants of the atg8 system
+(fig.  2a  and  for  details,  see  supplementary  fig.  s2),
+indicating that the atg12 system is located upstream of
+the atg8  system  in  the  context  of  pas  organization.
+atg16p-gfp  localization  to  the  pas  was  dependent
+upon atg5p; the converse was also true: pas localization
+of atg5p-gfp required atg16p (fig. 2a and for details,
+see  supplementary  fig.  s2). this  result  indicates  that,
+association of atg5p with atg16p, but not conjugation of
+atg5p with atg12p, is absolutely required for formation
+of the atg12p-atg5p·atg16p complex and its targeting
+to the pas.
+et al.
+atg14p is a member of the ptdins(3)-kinase complex
+i, together with vps30p/atg6p (kihara 
+ 2001). both
+atg14p and vps30p are required for the recruitment of
+atg8p-pe  and  the atg12p-atg5p·atg16p  complex  to
+the  pas  (fig.  2a).  our  group  recently  reported  that
+atg14p  determines  the  localization  of  the  ptdins(3)-
+et al.
+kinase complex in the autophagic pathway (obara 
+2006). the pas localization of atg14p-gfp was abolished
+in 
+ cells (fig. 2a and
+for details, see supplementary fig. s3).
+vps30
+, 
+atg17
+atg13
+atg9
+, 
+ and 
+© 2007 the authors
+journal compilation © 2007 by the molecular biology society of japan/blackwell publishing ltd.
+genes to cells (2007)
+12
+, 209–218
+211
+k suzuki 
+et al.
+et al.
+et al.
+ 2002; krogan 
+as  shown  in  fig.  2a, atg2p  and atg18p  showed
+similar patterns. moreover, atg2p and atg18p localize to
+the  pas  interdependently  (fig.  2a  and  for  details,  see
+supplementary fig. s4). this indicates that these proteins
+are functionally related. as genome-wide analyses suggested
+et al.
+that atg2p and atg18p form a complex (gavin 
+2002; ho 
+ 2006), we examined
+a physical interaction between atg2p and atg18p; such
+interaction was detectable by immunoprecipitation analysis
+at native expression levels (fig. 3a). hereafter, we will refer
+to these two proteins as the atg2p·atg18p complex. the
+localization of this complex was abolished in the absence
+of the ptdins(3)-kinase complex i (vps30p and atg14p),
+atg1p protein kinase and its regulators (atg1p, atg13p
+and atg17p), and atg9p (fig. 2a and for details, see
+supplementary  fig.  s4). the  localization  of  other atg
+proteins was not affected in the absence of atg2p or atg18p
+(fig.  2a). this  result  indicates  that  the atg2p·atg18p
+complex is not involved in the recruitment of other atg
+proteins to the pas.
+atg1p is required for pas localization of the atg2p·atg18p
+complex. the pti of atg1p was lower in the absence of
+atg13p (fig. 2a). in addition, atg17p was required for
+atg13p  targeting  to  the  pas  (fig.  3b). we  concluded
+that atg1p is localized to the pas in an atg13p-dependent
+its 
+regulators. 
+figure 3 analysis of the atg2p·atg18p complex, atg1p protein
+kinase  and 
+(a)  atg2p  and  atg18p  co-
+immunoprecipitate.  cells  were  cultured  in yepd  medium  and
+then analyzed. lysates from wild-type cells immunoprecipitated
+(1) with and (2) without anti-atg2p antibodies. (3) lysate from
+∆atg18 cells immunoprecipitated with anti-atg2p antibodies. (b)
+localization of atg1p-gfp and atg13p-gfp. cells were treated
+with rapamycin for 5 h and analyzed. ptis (fig. 2a) are indicated
+in each image. bar represents 5 µm.
+manner; this is also supported by our biochemical analysis
+(kabeya 
+ 2005).
+et al.
+finally, we analyzed atg9p, atg13p and atg17p, which
+affect  the  pas  localization  of  many atg  proteins. the
+ptis of atg9p and atg13p were lower in the absence of
+atg17p, but not vice versa (fig. 2a). moreover, the pti
+of atg17p was not low in any 
+ mutants (fig. 2a),
+indicating  that atg17p  acts  upstream  of  all  the  other
+atg
+ genes in pas organization.
+atg
+atg11p recruits atg proteins for the cvt pathway 
+under autophagy-inducing conditions
+et al.
+atg17
+atg17
+ genes in 
+localization of most atg proteins was impaired in the
+absence of atg17p (fig. 2). this fact led us to hypothesize
+that atg17p is a scaffold protein for pas organization. if
+this is true, no atg proteins should localize to the pas in the
+atg17
+absence of atg17p. however, the pti of atg8p in 
+cells was at the similar level as in wild-type cells (fig. 2a).
+the 
+  mutant,  which  is  speciﬁcally  defective  in
+autophagy, retains the ability to transport ape1p to the
+vacuole by way of the cvt pathway under growth con-
+ditions (kabeya 
+ 2005). to estimate the contribution of
+the cvt pathway to the recruitment of gfp-atg8p under
+autophagy-inducing  conditions,  we  disrupted  each  of
+ape1
+atg19
+atg11
+the 
+ and 
+ cells. in
+, 
+ape1
+atg17
+atg17
+atg19
+ cells, gfp-atg8p dots were
+ and 
+atg11
+atg17
+still detectable; however, they disappeared in 
+cells (fig. 4a). moreover, transport of gfp-atg8p and
+ape1p to the vacuole was completely blocked in these
+mutants  (fig.  4b,c). we  concluded  that  gfp-atg8p
+transport to the vacuole in the absence of atg17p depends
+on the cvt pathway and that this pathway is blocked in
+the absence of atg11p. presumably, atg11p is a scaffold
+protein for the cvt pathway. this assumption is consistent
+with the ﬁnding that atg11p facilitates the recruitment
+of atg1p, atg2p, atg8p and atg20p to a punctate structure
+under growth conditions (shintani & klionsky 2004b).
+in combination with this prior study, our data suggest
+that atg17p  plays  a  role  in  the  recruitment  of atg
+proteins for autophagosome formation and that atg11p
+plays a similar role for cvt vesicle formation, and that the
+autophagic  pathway  and  the  cvt  pathway  can  run
+independently under autophagy-induced conditions.
+in ∆atg17 disruptants, ptis of the other atg proteins were
+in general lower, but always maintained certain basal
+levels (fig. 2a). it is likely that the cvt pathway contributes
+to the recruitment of these atg proteins. to examine the
+effect of atg11p disruption on the recruitment of atg13p
+and atg9p, which are other upstream factors (fig. 2b), we
+analyzed their ptis. as expected, both of their ptis were
+drastically lower in the ∆atg11∆atg17 strain (fig. 4d,e).
+212
+genes to cells (2007)
+12
+, 209–218
+© 2007 the authors
+journal compilation © 2007 by the molecular biology society of japan/blackwell publishing ltd.
+hierarchy map of sixteen atg proteins
+figure 4 atg17p and atg11p are involved
+in  the  organization  of atg  proteins.  cells
+were  treated  with  rapamycin  for  5 h  and
+analyzed. a  laser  excitation  was  used  for
+imaging.  (a)  localization  of  gfp-atg8p.
+ptis  were  calculated  using  the  ∆atg17
+strain (1.20) as a standard and are indicated
+in each image. (b) gfp-atg8p transport to
+the  vacuole  via  the  cvt  and  autophagic
+pathways was monitored by measuring the
+conversion from gfp-atg8p to free gfp.
+lysates (20 µg protein) from (1) wild-type,
+(2)  ∆atg5,  (3)  ∆atg11,  (4)  ∆atg17  and  (5)
+∆atg17∆atg11  cells  were  subjected  to
+immunoblot  with  anti-gfp  antiserum.
+(c) the  cvt  pathway  was  monitored  by
+conversion of ape1p precursor (prape1p)
+to mature ape1p (mape1p). (1) wild-type,
+(2)  ∆atg5,  (3)  ∆atg11,  (4)  ∆atg17  and  (5)
+∆atg17∆atg11  lysates  were  subjected  to
+immunoblot  with  anti-ape1p  antiserum.
+(d)  localization  of  atg13p-gfp.  pas
+localization of atg13p-gfp was completely
+in  ∆atg17∆atg11  cells.  ptis  are
+lost 
+indicated in each image. (e) localization of
+atg9p-gfp and ape1p-rfp. co-localization
+of atg9p-gfp with ape1p-rfp is detectable
+in  cvt  pathway-positive  cells  (wild  type
+and ∆atg17), but disappears in cvt pathway-
+defective cells (∆atg11 and ∆atg17∆atg11).
+ptis are indicated in white. bars represent
+5 µm (a and d) and 2 µm (e).
+these data strongly support the possibility that atg17p and
+atg11p work as scaffold proteins that recruit atg proteins.
+atg17p is a scaffold protein that is responsible for 
+pas organization
+the  pas  localization  of  atg  proteins  is  completely
+absent  in  the ∆atg17∆atg11  mutant  (fig.  4).  if atg17p
+actually functions as a scaffolding protein in pas organization,
+atg proteins must be recruited to the site where atg17p
+localizes. we  constructed atg17p  fused  with  a  plasma
+membrane-targeting sequence of gpa2p (harashima &
+heitman 2005) (pm-atg17p), then examined whether
+other atg proteins were targeted to the plasma membrane
+in ∆atg17∆atg11 cells expressing pm-atg17p.
+atg9p,  atg13p  and  atg8p  exhibited  a  cytoplasmic
+expression pattern in ∆atg11∆atg17 cells carrying an empty
+vector (fig. 5, vector). c-terminally mrfp1-fused pm-
+atg17p (pm-atg17p-rfp) thoroughly localized to the
+plasma membrane (fig. 5, left column). intriguingly, other
+atg proteins were also recruited to the plasma membrane
+and essentially co-localized with atg17p (fig. 5), showing
+that atg17p indeed acts as a scaffold to recruit atg proteins.
+also, we found slight differences in the localization of atg
+© 2007 the authors
+journal compilation © 2007 by the molecular biology society of japan/blackwell publishing ltd.
+genes to cells (2007) 12, 209–218
+213
+k suzuki et al. 
+figure 5 atg17p is a scaffold protein that
+organizes atg proteins. cells were grown in
+sd  +  ca  medium  containing  250  µm
+cuso4 to drive the cu2+-inducible cup1
+promoter, and treated with rapamycin for
+5 h. (a) localization of atg13p-gfp in the
+∆atg17∆atg11 mutant. gys618 cells expressing
+plasma membrane-targeted atg17p-mrfp1
+(pm-atg17p-rfp)  and  those  carrying
+an  empty  vector  (vector)  were  analyzed.
+(b)  localization  of  atg9p-gfp  in  the
+∆atg17∆atg11 mutant. gys616 cells express-
+ing pm-atg17p-rfp and those carrying
+an empty vector (vector). (c) localization of
+gfp-atg8p in the ∆atg17∆atg11 mutant.
+gys614  cells  expressing  pm-atg17p-
+rfp and those carrying an empty vector
+(vector) were analyzed. bars represent 2 µm.
+proteins: whereas atg13p was closely co-localized with
+pm-atg17p (fig. 5a), atg9p was recruited to the plasma
+membrane, as visualized by the presence of a small number
+of punctate ﬂuorescence (fig. 5b), and atg8p formed a
+single dot just inside the plasma membrane (fig. 5c).
+notably, pm-atg17p-rfp did not recover the autophagic
+activity of the ∆atg17∆atg11 mutant, as determined by the
+failure of gfp-atg8p delivery to the vacuole (fig. 5c),
+suggesting that these plasma membrane-targeted atg
+proteins  are  unable  to  generate  autophagosomes.
+presumably, pas organization at the proper site (next to
+the vacuole) is required for normal autophagy. again, this
+experiment clearly showed that atg17p is a determinant
+of the site of pas organization during autophagy.
+214
+genes to cells (2007) 12, 209–218
+© 2007 the authors
+journal compilation © 2007 by the molecular biology society of japan/blackwell publishing ltd.
+discussion
+sixteen atg genes are essential for autophagosome
+formation.  extensive  analyses  have  elucidated  ﬁve
+functional groups among the atg proteins—two ubiquitin-
+like systems, the ptdins(3)-kinase complex, atg1 protein
+kinase and its regulators, and the atg2p·atg18p complex—
+but  little  has  been  determined  regarding  the  interrela-
+tionships between each unit in autophagosome formation.
+in  this  study,  we  show  that  every  functional  group  is
+organized within the pas (fig. 1), which plays a pivotal
+role in autophagosome formation (suzuki et al. 2001). key
+to understanding atg-mediated autophagy is elucidation
+of how atg proteins interact to organize and form the pas.
+therefore, we used ﬂuorescence microscopy to systematically
+analyze the pas localization of atg proteins.
+from this analysis, we have developed a hierarchy
+diagram of atg proteins in pas organization (fig. 2b).
+atg1p  protein  kinase  and  its  regulators  (blue),  atg9p
+(white), and the ptdins(3)-kinase complex i (green) act
+in initial atg protein recruitment to the pas. atg8p-pe
+(red), the atg16p-atg5p·atg12p complex (yellow) and
+the atg2p·atg18p complex (violet) are recruited to the
+pas with the help of the atg proteins belonging to
+the  above  group,  and  work  at  the  pas  to  generate
+autophagosomes. the two ubiquitin-like systems confer
+autophagic activity to atg8p and atg12p by modifying
+them. this  diagram  suggests  that atg17p  is  the  most
+upstream component in pas organization (fig. 2b).
+under  autophagy-inducing  conditions,  the  pas
+localization of most atg proteins was lost in the absence
+of atg17p (fig. 2a). the remaining pas localization was
+completely  abrogated  by  additional  disruption  of  the
+atg11  gene  (fig.  4). this  data  suggest  that  the  cvt
+pathway is able to operate in the absence of atg17 and
+that atg11p facilitates the recruitment of atg proteins to
+the cvt pathway under autophagy-inducing conditions.
+atg17p and atg11p were initially identiﬁed as proteins
+that associate with atg1p (kamada et al. 2000; kim et al.
+2001), but their actual roles in the autophagic and cvt
+pathways were initially unclear. in this study, we propose
+that atg17p and atg11p play roles in the recruitment
+of atg proteins: atg17p functions in autophagosome
+formation, whereas atg11p functions in the cvt vesicle
+formation.
+in the absence of atg17p and atg11p, the assembly of
+atg proteins in the pas was abolished (fig. 4). to conﬁrm
+the activity of atg17p as a scaffold protein, we forced atg17p
+to localize to the plasma membrane in the ∆atg17∆atg11
+mutant and then examined whether atg proteins were
+recruited to the plasma membrane. this experiment clearly
+demonstrated  the  scaffold  activity  of atg17p  (fig.  5).
+hierarchy map of sixteen atg proteins
+autophagic  activity  in  this  strain  was  estimated  by
+staining of the vacuolar lumen by gfp-atg8p; cells
+containing plasma membrane-targeted atg17p did not
+recover  autophagic  activity  (fig.  5c),  whereas  ∆atg11
+cells  did  (fig.  4a). this  suggests  that  the  perivacuolar
+localization of the pas is crucial for autophagy. the
+vacuolar membrane and/or proteins on the vacuole might
+have some roles in autophagosome formation from the pas.
+atg17p has several coiled-coil motifs (cheong et al. 2005)
+and interacts with many proteins (gavin et al. 2002;
+ho et al. 2002; krogan et al. 2006), suggesting that this
+protein plays a role not only in atg protein recruitment
+but also in connecting the autophagic machinery with
+other membrane-trafﬁcking pathways. further analysis is
+required to determine more precisely the mechanisms by
+which atg17p is localized to the pas.
+under nutrient-rich conditions, atg11p is responsible
+for  recruitment  of atg  proteins  (shintani  &  klionsky
+2004b), implying the atg17p is not functional. it is likely
+that  starvation  signals  confer  the  ability  to  recruit atg
+components upon atg17p. recently, we have identiﬁed
+atg29 as a new gene required for autophagy (kawamata
+et al. 2005). similarly to atg17p, atg29p localizes to the
+pas and is not required for the cvt pathway (kawamata
+et al. 2005). atg29p and atg17p may act closely together
+during  autophagy.  we  hope  that  further  analysis  of
+atg29p will reveal the role of atg17p in the recruitment
+of atg proteins during autophagy.
+our hierarchy map accounts for several phenomena
+previously reported in mammalian cells. this map suggests
+that the atg16p·atg5p-atg12p complex and the ptdins(3)-
+kinase complex are crucial for recruitment of atg8p
+(fig. 2b). this is the case in mammalian cells; atg5-deﬁcient
+cells show no lc3 (mammalian atg8p) dots (mizushima
+et al. 2001), suggesting the necessity of the atg16p·atg5p-
+atg12p  complex.  in  addition,  wortmannin  and  3-
+methyladenine,  inhibitors  of  ptdins(3)-kinases,  prevent
+atg5p from accumulating to the dot structures (mizushima
+et al. 2001), leading to the defect in recruitment of lc3 (ogata
+et  al.  2006).  presumably,  the  molecular  mechanisms  of
+lc3  recruitment  involving  the atg16p·atg5p-atg12p
+complex and the ptdins(3)-kinase complex are conserved
+between the yeast cells and mammals.
+the  most  prominent  difference  between  yeast  and
+mammalian cells is the number of atg8p dots emerging
+upon starvation. yeast cells mostly have a single dot per
+cell, whereas mammalian cells form multiple dots. the
+pas is deﬁned as the structure that contains most atg
+proteins and that produces autophagosomes (suzuki et al.
+2001). in this context, dot structures labeled with atg5p,
+atg12p  and  atg16p  could  be  deﬁned  as  the  pas  in
+mammalian cells (mizushima et al. 2001, 2003). in this
+© 2007 the authors
+journal compilation © 2007 by the molecular biology society of japan/blackwell publishing ltd.
+genes to cells (2007) 12, 209–218
+215
+k suzuki et al. 
+study, we found that atg17p determines the site of pas
+organization  (fig.  5). to  answer  the  question  whether
+mammalian cells have the pas as a functional counterpart
+of that in the yeast, functional homologue(s) of atg17p
+should be identiﬁed.
+our study has provided a framework for analyzing atg
+proteins in the context of pas organization. moreover,
+the knowledge obtained from these analyses will be generally
+applicable to the study of de novo biogenesis of intracellular
+membranes.
+experimental procedures
+strains and media
+standard methods were used for yeast manipulation (adams et al.
+1998). cells were grown in either yepd or sd + ca medium
+(0.17% yeast nitrogen base w/o amino acids and ammonium
+sulfate, 0.5% ammonium sulfate, 0.5% casamino acid and 2%
+glucose) with appropriate supplements. autophagy was induced
+in growth media containing 400 ng/ml rapamycin (sigma).
+the yeast strains used in this study are listed in supplementary
+table s2. ory strains were generated using a pcr-based gene
+modiﬁcation  method  (longtine  et  al.  1998). a  two-step  gene
+replacement method (adams et al. 1998) was used to generate the
+gfp-atg8 and gfp-atg12 strains. cells were transformed with
+the prs306 yegfp-atg8 plasmid digested with snabi or the
+prs306 yegfp-atg12 plasmid digested with ecori. to disrupt
+each atg gene, schizosaccharomyces pombe his5 (sphis5) fragments
+ampliﬁed from pdh5 were used. construction of the strains was
+carried out by oriental yeast co., ltd. (japan).
+an ape1-rfp strain was generated using an mrfp1 sequence
+ampliﬁed from the pfa6a-mrfp1-kanmx plasmid. the gys516
+strain was obtained by tetrad dissection. the sty1530-1533 strains
+were  generated  by  transforming  ory0900  cells  with  pps128
+digested with aﬂii or pps129 digested with avrii (plasmids were
+gifts from dr daniel j. klionsky, university of michigan, usa).
+subsequently, the atg11 and atg17 genes were disrupted as
+described previously (kamada et al. 2000; kim et al. 2001; kabeya
+et  al.  2005).  the  atg5  gene  was  disrupted  as  described
+(mizushima et al. 1998).
+the atg17-rfp and pm-atg17-rfp (plasma membrane-
+targeted atg17-mrfp1) plasmids were generated by successive
+cloning of atg17 and mrfp1 sequences into the bamhi site of
+pyex-bx  vector  (clontech). the  plasma  membrane-targeting
+sequence of gpa2p (2-10: glcassekn) (harashima & heitman
+2005) was inserted just after the start codon of atg17. cells
+carrying these plasmids were cultured in sd + ca medium
+containing 250 µm cuso4 to drive the cu2+-inducible cup1
+promoter in pyex-bx.
+measurement of autophagic activity
+a proform of aminopeptidase i (ape1p) is synthesized in the
+cytoplasm and is subsequently transported to the vacuole via the
+autophagosome for maturation. autophagic activity was estimated
+by measuring the maturation of ape1p using immunoblot. the
+autophagic  activity  in  the atg17-gfp  strain  was  conﬁrmed  by
+accumulation of autophagic bodies (takeshige et al. 1992).
+quantiﬁcation of co-localization between 
+gfp-fused atg proteins and ape1p
+to ascertain whether the punctate ﬂuorescence arising from gfp-
+fused atg proteins corresponded to the pas, a strain of opposite
+mating  type  that  chromosomally  expressed ape1p-mrfp1  was
+generated  (gys516).  this  strain  was  mated  with  each  gfp-
+expressing strain, and the resulting diploids were examined by
+ﬂuorescence  microscopy. the  extent  of  co-localization  was
+estimated by counting dots in cells where both gfp and rfp dots
+were detectable.
+microscopy
+fluorescence microscopy was performed using a tir-fm microscope
+system  (olympus)  equipped  with  a  100×  objective  lens
+(apo100xohr, na: 1.65) and a coolsnap hq ccd camera
+(nippon roper). gfp was excited with a mercury lamp and a
+u-mgfphq ﬁlter set. for cells labeled with both gfp and rfp,
+a blue laser (sapphire 488-20, coherent) and a yellow laser (85-
+yca-010, melles griot) were used. a u-mniba2, from which
+the excitation ﬁlter was removed, was used for gfp visualization,
+and  an  ff593-di02  dichroic  mirror  and  an  ff593-em02
+excitation  ﬁlter  (semrock)  were  used  to  analyze  rfp.  a
+uplansapo100xoil  (na:  1.40)  objective  lens  was  used  for
+microscopic observation. images were acquired using metamorph
+software (molecular devices).
+calculating pti (pre-autophagosomal structure 
+targeting index)
+cells  were  treated  with  rapamycin  for  5 h  before  images  were
+acquired. the pas always localizes next to the vacuole and
+relatively immobile; therefore, by a few-second exposure, we can
+distinguish  the  pas  from  other  mobile  structures. the  images
+were processed with metamorph software (version 6.2r6). first,
+the dot number and the average intensity of dots were counted as
+follows. (1) dots were extracted with a “tophat” operation. (2)
+background signals were subtracted using a “threshold image”
+operation. (3) regions of interest were determined by selecting a
+“create regions around objects” operation. (4) to extract the
+pas-related  dots,  we  removed  dots  exhibiting  abnormal
+localization  (apart  from  the  vacuolar  membrane)  and  abnormal
+shapes (tubular or circular). (5) using a “region measurements”
+operation,  the  number  of  dots  was  displayed  in  the  “region
+labels” column. values in the “integrated intensity” (of each dot)
+column were used for further analysis. the average intensity of the
+dots was calculated using the logged data.
+next, the cell number was counted. at least 200 cells were used
+to calculate the pti. the number of dots per cell was calculated
+by  dividing  the  number  of  dots  by  the  number  of  cells. the
+216
+genes to cells (2007) 12, 209–218
+© 2007 the authors
+journal compilation © 2007 by the molecular biology society of japan/blackwell publishing ltd.
+number of dots per cell obtained from each disruptant was divided
+by the number of dots per cell in wild-type cells. similarly, the
+intensity of dots in each disruptant was divided by the intensity of
+dots in wild-type cells. consequently, the relative dot number and
+the relative dot intensity were obtained. the pti was calculated by
+multiplying the relative dot number and the relative dot intensity.
+immunoblot analysis
+immunoprecipitation  analysis  was  performed  as  described
+(siniossoglou et al. 2000) with a slight modiﬁcation. atg2p was
+immunoprecipitated with afﬁnity-puriﬁed anti-atg2p antibodies
+(shintani  et  al.  2001). atg18p  was  probed  with  an  anti-atg18p
+antiserum raised against bacterially expressed atg18p (gift from dr
+fuyuhiko  inagaki,  hokkaido  university,  japan).  for  gfp  and
+ape1p,  detection  was  performed  with  anti-gfp  antiserum
+(molecular probes) or anti-ape1p antiserum (suzuki et al. 2002).
+acknowledgements
+we thank drs roger y. tsien and daniel j. klionsky for plasmids,
+dr fuyuhiko inagaki for the gift of bacterially expressed atg18p,
+and  drs yoshiaki  kamada  and  keisuke  obara  for  donation  of
+strains. we thank dr toshiaki harashima for helpful discussion. we
+also thank ms chika kondo and the nibb center for analytical
+instruments for their technical assistance. k.s., t.s. and y.o. were
+supported  by  grants-in-aid  for  scientiﬁc  research  from  the
+ministry of education, culture, sports, science and technology
+of  japan.  k.s.  was  also  supported  by  the  novartis  foundation
+( japan) grant for the promotion of science.
+references
+adams, a., gottschling, d.e., kaiser, c.a. & stearns, t. (1998)
+methods in yeast genetics, 1997 edn, cold spring harbor, ny:
+cold spring harbor laboratory press.
+baba,  m.,  osumi,  m.,  scott,  s.v.,  klionsky,  d.j.  &  ohsumi,  y.
+(1997) two distinct pathways for targeting proteins from the
+cytoplasm  to  the  vacuole/lysosome.  j.  cell  biol.  139,  1687–
+1695.
+cheong,  h.,  yorimitsu,  t.,  reggiori,  f.,  legakis,  j.e.,  wang,
+c.w. & klionsky, d.j. (2005) atg17 regulates the magnitude of
+the autophagic response. mol. biol. cell 16, 3438–3453.
+gavin,  a.c.,  bosche,  m.,  krause,  r.  et  al.  (2002)  functional
+organization  of  the  yeast  proteome  by  systematic  analysis  of
+protein complexes. nature 415, 141–147.
+harashima, t. & heitman, j. (2005) galpha subunit gpa2 recruits
+kelch repeat subunits that inhibit receptor-g protein coupling
+during camp-induced dimorphic transitions in saccharomyces
+cerevisiae. mol. biol. cell 16, 4557–4571.
+ho, y., gruhler, a., heilbut, a. et al. (2002) systematic identiﬁcation
+of  protein  complexes  in  saccharomyces  cerevisiae  by  mass
+spectrometry. nature 415, 180–183.
+hutchins, m.u. & klionsky, d.j. (2001) vacuolar localization of
+oligomeric  alpha-mannosidase  requires  the  cytoplasm  to
+vacuole  targeting  and  autophagy  pathway  components  in
+hierarchy map of sixteen atg proteins
+saccharomyces cerevisiae. j. biol. chem. 276, 20491–20498.
+ichimura, y., kirisako, t., takao, t., satomi, y., shimonishi, y.,
+ishihara,  n.,  mizushima,  n.,  tanida,  i.,  kominami,  e.,
+ohsumi, m., noda, t. & ohsumi, y. (2000) a ubiquitin-like
+system mediates protein lipidation. nature 408, 488–492.
+kabeya,  y.,  kamada,  y.,  baba,  m.,  takikawa,  h.,  sasaki,  m.  &
+ohsumi, y. (2005) atg17 functions in cooperation with atg1
+and atg13 in yeast autophagy. mol. biol. cell 16, 2544–2553.
+kamada, y., funakoshi, t., shintani, t., nagano, k., ohsumi, m.
+& ohsumi, y. (2000) tor-mediated induction of autophagy via
+an apg1 protein kinase complex. j. cell biol. 150, 1507–1513.
+kawamata,  t.,  kamada,  y.,  suzuki,  k.,  kuboshima,  n.,
+akimatsu,  h.,  ota,  s.,  ohsumi,  m.  &  ohsumi,  y.  (2005)
+characterization of a novel autophagy-speciﬁc gene, atg29.
+biochem. biophys. res. commun. 338, 1884–1889.
+kihara, a., noda, t., ishihara, n. & ohsumi, y. (2001) two
+distinct  vps34  phosphatidylinositol  3-kinase  complexes
+function  in  autophagy  and  carboxypeptidase y  sorting  in
+saccharomyces cerevisiae. j. cell biol. 152, 519–530.
+kim,  j.,  huang,  w.p.,  stromhaug,  p.e.  &  klionsky,  d.j.  (2002)
+convergence of multiple autophagy and cytoplasm to vacuole
+targeting components to a perivacuolar membrane compartment
+prior  to  de  novo  vesicle  formation. j.  biol.  chem.  277,  763–
+773.
+kim, j., kamada, y., stromhaug, p.e., guan, j., hefner-gravink,
+a.,  baba,  m.,  scott,  s.v.,  ohsumi,  y.,  dunn,  w.a.,  jr.  &
+klionsky,  d.j.  (2001)  cvt9/gsa9  functions  in  sequestering
+selective cytosolic cargo destined for the vacuole. j. cell biol.
+153, 381–396.
+kirisako, t., baba, m., ishihara, n., miyazawa, k., ohsumi, m.,
+yoshimori,  t.,  noda,  t.  &  ohsumi,  y.  (1999)  formation
+process of autophagosome is traced with apg8/aut7p in yeast.
+j. cell biol. 147, 435–446.
+krogan, n.j., cagney, g., yu, h. et al. (2006) global landscape of
+protein  complexes  in  the  yeast  saccharomyces  cerevisiae.  nature
+440, 637–643.
+kuma, a., mizushima, n., ishihara, n. & ohsumi, y. (2002)
+formation of the approximately 350-kda apg12-apg5·apg16
+multimeric  complex,  mediated  by apg16  oligomerization,  is
+essential  for  autophagy  in  yeast.  j.  biol.  chem.  277,  18619–
+18625.
+levine, b. & klionsky, d.j. (2004) development by self-digestion:
+molecular mechanisms and biological functions of autophagy.
+dev. cell 6, 463–477.
+longtine,  m.s.,  mckenzie,  a.,  3rd,  demarini,  d.j.,  shah,  n.g.,
+wach,  a.,  brachat,  a.,  philippsen,  p.  &  pringle,  j.r.  (1998)
+additional modules for versatile and economical pcr-based
+gene deletion and modiﬁcation in saccharomyces cerevisiae. yeast
+14, 953–961.
+mizushima,  n.,  kuma,  a.,  kobayashi,  y.,  yamamoto,  a.,
+matsubae, m., takao, t., natsume, t., ohsumi, y. & yoshimori,
+t. (2003) mouse apg16l, a novel wd-repeat protein, targets to
+the autophagic isolation membrane with the apg12-apg5
+conjugate. j. cell sci. 116, 1679–1688.
+mizushima,  n.,  noda,  t.  &  ohsumi,  y.  (1999)  apg16p  is
+required for the function of the apg12p-apg5p conjugate in
+the yeast autophagy pathway. embo j. 18, 3888–3896.
+© 2007 the authors
+journal compilation © 2007 by the molecular biology society of japan/blackwell publishing ltd.
+genes to cells (2007) 12, 209–218
+217
+k suzuki et al. 
+mizushima,  n.,  noda,  t.,  yoshimori,  t.,  tanaka,  y.,  ishii,  t.,
+george,  m.d.,  klionsky,  d.j.,  ohsumi,  m.  &  ohsumi,  y.
+(1998) a protein conjugation system essential for autophagy.
+nature 395, 395–398.
+mizushima,  n.,  yamamoto,  a.,  hatano,  m.,  kobayashi,  y.,
+kabeya, y., suzuki, k., tokuhisa, t., ohsumi, y. & yoshimori, t.
+(2001) dissection of autophagosome formation using apg5-
+deﬁcient mouse embryonic stem cells. j. cell biol. 152, 657–
+668.
+obara,  k.,  sekito,  t.  &  ohsumi,  y.  (2006)  assortment  of
+phosphatidylinositol  3-kinase  complexes—atg14p  directs
+association of complex i to the preautophagosomal structure in
+saccharomyces cerevisiae. mol. biol. cell 17, 1527–1539.
+ogata,  m.,  hino,  s.,  saito,  a.,  morikawa,  k.,  kondo,  s.,
+kanemoto,  s.,  murakami,  t.,  taniguchi,  m.,  tanii,  i.,  yoshinaga,
+k.,  shiosaka,  s.,  hammarback,  j.,  urano,  f.  &  imaizumi,  k.
+(2006) autophagy is activated for cell survival after er stress.
+mol. cell. biol. 26, 9220–9231.
+scott,  s.v.,  baba,  m.,  ohsumi,  y.  &  klionsky,  d.j.  (1997)
+aminopeptidase i is targeted to the vacuole by a nonclassical
+vesicular mechanism. j. cell biol. 138, 37–44.
+scott,  s.v.,  guan,  j.,  hutchins,  m.u.,  kim,  j.  &  klionsky,  d.j.
+(2001) cvt19  is  a  receptor  for  the  cytoplasm-to-vacuole
+targeting pathway. mol. cell 7, 1131–1141.
+shintani, t. & klionsky, d.j. (2004a) autophagy in health and
+disease: a double-edged sword. science 306, 990–995.
+shintani, t. & klionsky, d.j. (2004b) cargo proteins facilitate the
+formation of transport vesicles in the cytoplasm to vacuole
+targeting pathway. j. biol. chem. 279, 29889–29894.
+shintani,  t.,  suzuki,  k.,  kamada,  y.,  noda,  t.  &  ohsumi,  y.
+(2001) apg2p functions in autophagosome formation on
+the  perivacuolar  structure.  j.  biol.  chem.  276,  30452–
+30460.
+siniossoglou, s., peak-chew, s.y. & pelham, h.r. (2000) ric1p
+and rgp1p form a complex that catalyses nucleotide exchange
+on ypt6p. embo j. 19, 4885–4894.
+delivery  to  the  vacuole  mediated  by  autophagosomes  in
+saccharomyces cerevisiae. dev. cell 3, 815–824.
+suzuki, k., kirisako, t., kamada, y., mizushima, n., noda, t. &
+ohsumi,  y.  (2001)  the  pre-autophagosomal  structure
+organized by concerted functions of apg genes is essential for
+autophagosome formation. embo j. 20, 5971–5981.
+takeshige,  k.,  baba,  m.,  tsuboi,  s.,  noda,  t.  &  ohsumi,  y.
+(1992) autophagy  in  yeast  demonstrated  with  proteinase-
+deﬁcient mutants and conditions for its induction. j. cell biol.
+119, 301–311.
+tsukada, m. & ohsumi, y. (1993) isolation and characterization
+of autophagy-defective mutants of saccharomyces cerevisiae. febs
+lett. 333, 169–174.
+received: 24 september 2006 
+accepted: 8 november 2006
+supplementary material
+the following supplementary material is available for this article
+online:
+figure s1 recruitment of atg8p to the pas.
+figure s2 recruitment of the atg12p-atg5p·atg16p complex
+to the pas.
+figure s3 recruitment of the ptdins(3)-kinase complex i to the
+pas.
+figure s4 recruitment  of  the atg2p·atg18p  complex  to  the
+pas.
+table s1 co-localization  of  gfp-fused  atg  proteins  with
+ape1p-rfp at the pas
+suzuki,  k.,  kamada,  y.  &  ohsumi,  y.  (2002)  studies  of  cargo
+table s2 strains used in this study
+218
+genes to cells (2007) 12, 209–218
+© 2007 the authors
+journal compilation © 2007 by the molecular biology society of japan/blackwell publishing ltd.

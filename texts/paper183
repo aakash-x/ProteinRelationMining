@@ -1,0 +1,1020 @@
+cellular microbiology (2006) 8(11), 1720–1729
+doi:10.1111/j.1462-5822.2006.00795.x
+first published online 24 august 2006
+microreview
+intracellular innate resistance to bacterial pathogens
+andrea l. radtke and mary x. d. o’riordan*
+department of microbiology and immunology, university
+of michigan medical school, ann arbor, mi 48109-0620,
+usa.
+summary
+mammalian innate immunity stimulates antigen-
+speciﬁc immune responses and acts to control infec-
+tion prior to the onset of adaptive immunity. some
+bacterial pathogens replicate within the host cell and
+are therefore sheltered from some protective aspects
+of innate immunity such as complement. here we
+focus on mechanisms of innate intracellular resis-
+tance encountered by bacterial pathogens and how
+some bacteria can evade destruction by the innate
+immune system. major strategies of intracellular anti-
+bacterial defence include pathogen compartmental-
+ization and iron limitation. compartmentalization of
+pathogens within the host endocytic pathway is
+critical for generating high local concentrations of
+antimicrobial molecules, such as reactive oxygen
+species, and regulating concentrations of divalent
+cations that are essential for microbial growth. cyto-
+solic sensing, autophagy, sequestration of essential
+nutrients and membrane attack by antimicrobial pep-
+tides are also discussed.
+introduction
+the mammalian innate immune system serves as a pow-
+erful barrier to invading bacterial pathogens by employing
+direct antimicrobial mechanisms, and indirectly, by stimu-
+lating the potent and antigen-speciﬁc adaptive immune
+response. as the peak of primary adaptive immunity, char-
+acterized by lymphocyte activation and proliferation, does
+not occur until 5–7 days post infection, the innate immune
+system must employ resistance mechanisms that control
+bacterial survival and replication. successful pathogens,
+such as mycobacterium tuberculosis, by deﬁnition are
+able to cause disease in spite of innate immune defences.
+however, the innate immune system is likely protective
+received 4 june, 2006; revised 8 july, 2006; accepted 11 july, 2006.
+*for
+tel.
+(+1) 734 615 4289; fax (+1) 734 764 3562.
+oriordan@umich.edu;
+correspondence.
+e-mail
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd
+against many opportunistic pathogens and may increase
+the infectious dose of a successful pathogen required for
+symptomatic disease to occur. the study of host–
+pathogen interactions has been instrumental in deﬁning
+pathways of
+innate immune defence. this review will
+focus on innate antimicrobial mechanisms encountered
+by bacteria that enter the intracellular niche (table 1).
+most
+intracellular bacterial pathogens target macroph-
+ages or epithelial cells for entry, therefore we will primarily
+discuss innate immune strategies within these cell types.
+bacteria may enter mammalian cells by phagocytosis or
+by facilitating their own uptake, termed invasion. during
+the process of phagocytosis or invasion, innate immune
+sensors like the toll-like receptors (tlrs) or nod-like
+receptors (nlrs) may be triggered by bacterial ligands.
+the signalling pathways activated by tlrs and nlrs
+have been extensively reviewed elsewhere and predomi-
+nantly lead to expression and activation of proinﬂamma-
+tory cytokines such as il-1b (inohara et al., 2005; beutler
+et al., 2006). these receptor networks perform a critical
+but largely paracrine role in innate resistance to intracel-
+lular bacteria by allowing infected cells to communicate
+with other effectors of
+innate and adaptive immunity.
+however, some proteins of the tlr and nlr families, as
+well as other mechanisms discussed later, play important
+and direct roles within infected cells to mediate resistance
+to intracellular bacteria.
+once inside the host cell, bacteria face a formidable
+battery of defences in the endosome or the phagosome, a
+specialized vesicle of the endocytic compartment. patho-
+genic bacteria have evolved ways to avoid these innate
+defences either by diverting normal vesicular trafficking or
+by escaping into the host cytosol (fig. 1). although less
+well understood, a number of recent studies have dem-
+onstrated that innate antibacterial mechanisms also exist
+in the mammalian cytosol. however,
+the predominant
+strategy in innate immunity to intracellular bacterial patho-
+gens appears to involve compartmentalization within
+membrane bound vacuoles (fig. 2). compartmentaliza-
+tion serves multiple purposes in the innate immune
+response. first,
+the bacteria-
+containing vacuole provides an enclosed space within
+which the host cell can direct a potent antimicrobial attack
+such as the oxidative burst. host enzymes that mediate
+antibacterial activity might also compromise essential
+the physical barrier of
+innate immunity to intracellular infection 1721
+host cell functions if their activity were not conﬁned to the
+phagosome. second, the bacteria are contained within an
+environment that has low nutrient availability compared
+with the host cytosol. lastly, while not the focus of this
+review, containment of bacteria within the endocytic
+pathway facilitates mhc class ii antigen presentation by
+professional antigen presenting cells, such as dendritic
+cells, which stimulate antigen speciﬁc adaptive immunity.
+fusion with lysosomes
+bacterial invasion results in compartmentalization within
+an endosome. in a highly regulated manner, endosomes
+fuse with late endosomes and lysosomes which have an
+acidiﬁed lumen based on the proton pump activity of the
+vacuolar atpase (vatpase) (mellman et al., 1986; luzio
+et al., 2003). inhibition of vatpase activity by the mac-
+rolide, baﬁlomycin a, decreases the antimicrobial activity
+of alveolar macrophages (bidani et al., 2000). almost all
+intracellular pathogens inhibit or delay lysosome fusion
+suggesting that this cellular process must be subverted for
+bacteria to successfully establish a replicative environment
+(table 1). salmonella enterica ser. typhimurium (salmo-
+nella typhimurium) largely avoids lysosomes; under culture
+conditions where fusion of
+the salmonella-containing
+vacuole (scv) to the lysosome was increased, the bacteria
+were killed much more efficiently highlighting the impor-
+tance of the harsh lysosomal environment as a mechanism
+of innate immune defence (mukherjee et al., 2002).
+for
+many published reports show that lysosomes have the
+capacity to kill and degrade bacteria, however, the exact
+process by which bacteria are destroyed is multifactorial
+and somewhat
+ill deﬁned. lysosomal ph reaches
+~4.8 which is damaging to non-acid tolerant bacteria, and
+provides an optimal environment
+lytic enzymes
+present in the lysosome which include lipases, lysozyme
+and proteases. it was recently reported that mice deﬁcient
+in the lysosomal aspartyl protease cathepsin d (ctsd)
+showed increased susceptibility to listeria monocytoge-
+nes infection, and bacterial growth and survival was
+enhanced in ctsd–/– ﬁbroblasts and macrophages (del
+cerro-vadillo et al., 2006). many lysosomal proteins, such
+as cathepsin g, have demonstrated antibacterial activity
+in vitro in puriﬁed form, but their individual roles in defence
+against intracellular bacteria have not been rigorously
+tested (rivera-marrero et al., 2004). interestingly, some
+lytic enzymes including cathepsin g, can kill bacteria in
+vitro independently of their catalytic function (shafer et al.,
+1996). these proteins contain alpha helical domains that
+are proposed to act similarly to small cationic antimicrobial
+peptides (amp; discussed below).
+lysozyme, a muramidase that degrades bacterial
+peptidoglycan (pg),
+is another lytic enzyme found in
+phagolysosomes that may serve multiple intracellular
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 8, 1720–1729
+1722 a. l. radtke and m. x. d. o’riordan
+in vitro,
+innate immune functions (miyauchi et al., 1985; radons
+et al., 1994). first, weakening of the cell wall structure,
+particularly in gram-positive bacteria which have a
+thick pg layer, may allow better access of amp to the
+bacterial membrane.
+lysozyme signiﬁcantly
+decreased the concentrations of amp required for bac-
+terial killing (yan and hancock, 2001; chen et al., 2005).
+second, release of muramyl peptides from the bacterial
+cell wall by lysozyme in combination with other bacterial
+or host lytic enzymes may provide ligands for recogni-
+tion by host pattern recognition receptors that can regu-
+late inﬂammatory responses (lenz et al., 2003; strober
+et al., 2006). in support of this idea, mice deﬁcient in
+lysosome m, the homologue of human lysozyme, exhib-
+ited an altered inﬂammatory response compared with
+control mice in response to subcutaneous injection of
+fig. 1. exploitation of the intracellular niche
+by bacterial pathogens. bacteria can enter
+cells by invasion or phagocytosis. once inside
+the cell, these bacteria can be found in an
+endosome, or in a specialized vesicle termed
+the phagosome. particles internalized into
+endosomes traffic to the lysosomal
+compartment; however, many bacterial
+pathogens inhibit fusion with lysosomes or
+deviate entirely from endocytic trafficking by
+establishing an isolated vacuole or by
+escaping into the cytosol.
+function that
+is independent of
+pg (ganz et al., 2003). lastly, lysozyme is reported to
+have antibacterial
+its
+muramidase activity (nash et al., 2006). thus, it is likely
+that
+lysozyme contributes to innate resistance during
+infection by intracellular bacterial pathogens, but to date
+there are no reports in the literature empirically testing
+this hypothesis. lysm–/– mice were more susceptible
+than their wild-type littermates to infection by extracellu-
+lar bacteria;
+future studies using intracellular bacterial
+pathogens to infect lysm–/– mice will likely yield a deﬁni-
+tive conclusion as to whether lysozyme is a key player in
+innate resistance to this class of pathogens (ganz et al.,
+2003; cole et al., 2005).
+immune regulation of vesicular trafficking occurs during
+bacterial infection to enhance intrinsic fusion of vacuoles
+containing bacteria with lysosomes, although these
+fig. 2. cell autonomous mechanisms of innate resistance to intracellular bacterial pathogens. sequential fusion of endosomes with late
+endosomes and lysosomes results in bacterial killing by lytic enzymes and acidic ph. activated macrophages generate a rapid burst of
+reactive oxygen intermediates (roi) in the phagosome by the nadph oxidase followed by a prolonged production of nitric oxide (no).
+multiple efflux pumps remove divalent metal cations from the lumen of the phagosome, decreasing the ability of pathogens to use
+metal-dependent enzymes to remediate oxidative stress or for metabolism. the phagosome also contains antimicrobial peptides, such as
+cramp. although regulatory proteins such as lrg-47 enhance trafficking to lysosomes, some bacteria perforate the phagosome and enter
+the cytosol prior to phagolysosome fusion. bacteria in the cytosol may re-enter the endocytic compartment through capture by autophagy
+(regulated by a signalling cascade denoted atg) or may be subjected to putative cytosolic antimicrobial peptides (italics). host cells also
+express ido in an ifn-dependent manner to catabolize cellular pools of tryptophan which may become limiting for some bacterial species.
+other proteins that contribute to innate resistance to intracellular bacteria have been identiﬁed (ipaf, naip5, spa, ipr1), but exactly how these
+proteins mediate their antimicrobial effects is not yet known.
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 8, 1720–1729
+mechanisms are incompletely understood. an ifn-g
+induced gtpase, termed lrg-47, contributes to innate
+resistance to m. tuberculosis (macmicking et al., 2003).
+in lrg47–/– macrophages, mycobacterial phagosomes
+showed impaired fusion with lysosomes, decreased levels
+of vatpase and exhibited a higher ph than wild-type
+macrophages, indicating that lrg-47 directly or indirectly
+regulates vesicular trafficking. thus, the ability of the host
+cell to restrict intracellular bacteria to the endocytic com-
+partment and regulate the nature of the vacuolar environ-
+ment subjects invading bacteria to attack by damaging
+conditions such as low ph, and restricts nutrient access
+while protecting normal host function.
+reactive oxygen and nitrogen intermediates
+professional phagocytes such as macrophages and neu-
+trophils take up bacteria into a specialized vesicle known
+as the phagosome which is the target for many innate
+defence mechanisms. a particularly powerful host
+defence is the oxidative burst produced by the nadph-
+dependent phagocyte oxidase. humans with a non-
+functional phagocyte oxidase exhibit immunodeﬁciency
+characterized by recurrent bacterial and fungal infections
+(baehner and nathan, 1967). in resting cells, the phago-
+cyte oxidase complex is present but dissociated and inac-
+tive; one component, gp91phox (ﬂavocytochrome b558), is
+located in the plasma membrane. upon phagocytosis, the
+cytosolic components, p47phox, p67phox and p40phox, trans-
+locate to the phagosome in a rac-dependent manner and
+facilitate the formation of superoxide within the lumen of
+the phagosome (nauseef, 2004). s. typhimurium inter-
+feres with recruitment of oxidase components to the pha-
+gosome via the spi-2 type iii secretion system (t3ss)
+(vazquez-torres et al., 2000). in the absence of a func-
+tional spi-2 t3ss, wild-type but not phox-deﬁcient mac-
+rophages are able to restrict s. typhimurium infection
+demonstrating a critical role for the napdh oxidase in
+controlling intracellular bacterial growth.
+bacterial
+infection also stimulates the production of
+reactive nitrogen intermediates (rni) by the inducible
+nitric oxide synthase (inos). nos2, the gene encoding
+inos, is not transcribed in uninfected cells, but can be
+induced by type i and type ii interferons; therefore, nitric
+oxide (no) production is not an immediate response to
+infection. however, no, unlike reactive oxygen species,
+diffuses across membranes and can act upon bacteria in
+both vacuoles and the cytosol over a longer period of time
+than the short-lived oxidative burst. mice deﬁcient in inos
+are more susceptible to infection by many intracellular
+pathogens than their wild-type counterparts (chakravortty
+and hensel, 2003). the role of inos in human macroph-
+ages has been more controversial. some groups reported
+little or no detectable expression of
+inos in cultured
+innate immunity to intracellular infection 1723
+pathogens
+intracellular
+human macrophages, but other studies showed that mac-
+rophages isolated from tuberculosis patients did express
+inos, and inos function was critical in these cells during
+in vitro infection (nathan, 2006). in mice, rni and reactive
+oxygen intermediates (roi) can synergize in eliminating
+the
+s. typhimurium and
+l. monocytogenes as gp91phox–/–nos2–/– mice are highly
+susceptible to infections by these bacteria (shiloh et al.,
+1999). however, cell culture infection of macrophages
+deﬁcient in the phagocyte oxidase, inos or both, indi-
+cated that production of roi was more critical in short-
+term bacterial killing. roi and rni also prevent escape of
+viable l. monocytogenes from the phagosome emphasiz-
+ing that these molecules also contribute to innate resis-
+tance by mechanisms other than direct bacterial killing
+(myers et al., 2003).
+antimicrobial peptides
+small cationic peptides, or amp produced by diverse host
+organisms can act as powerful antibacterial agents (yang
+et al., 2004). these helical peptides are thought to pref-
+erentially disrupt bacterial membranes leading to loss of
+membrane potential and bacterial viability. amp are pri-
+marily secreted proteins; the major sites of amp activity
+are mucosal surfaces which can be portals for bacterial
+entry. neutrophils also contain many granule associated
+amp and proteins that are released by exocytosis to kill
+extracellular bacteria or released into phagosomes to
+destroy phagocytosed bacteria; these two types of killing
+are not often experimentally distinct (faurschou and bor-
+regaard, 2003). there are few amp that are deﬁnitively
+known to act upon bacteria primarily within macrophages
+and epithelial cells. here we discuss examples of amp
+that may be encountered by intracellular bacterial
+pathogens. one vacuolar amp from mouse myeloid cells
+has been identiﬁed, cathelicidin-related antimicrobial
+peptide (cramp; homologue of human ll-37), that con-
+tributes to innate resistance to s. typhimurium infection
+(gallo et al., 1997; rosenberger and finlay, 2002; rosen-
+berger et al., 2004).
+induction of cramp expression
+requires generation of reactive oxygen, implicating roi in
+innate immune signalling cascades as well as in direct
+antimicrobial functions. in human monocytes, triggering
+of
+the tlr2/1 heterodimer activated a vitamin d3-
+dependent induction of the cationic peptide ll-37 (the
+active processed form of cathelicidin, human homologue
+of cramp) (liu et al., 2006). colocalization of cathelicidin
+with vacuoles containing m.
+tuberculosis was also
+observed concomitant with a decrease in bacterial
+viability. in addition to cathelicidin, other lysosomal pro-
+teins like cathepsin g and lysozyme contain positively
+charged helical domains that are proposed to disrupt bac-
+terial membranes similarly to small cationic peptides.
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 8, 1720–1729
+1724 a. l. radtke and m. x. d. o’riordan
+taken together, these studies show that amp play a role in
+innate resistance to intracellular pathogens by acting on
+bacteria sequestered within vacuolar compartments.
+vacuolar amp would be effective against intracellular
+bacteria that replicate in a membrane bound compart-
+ment but would likely have limited efficacy against cyto-
+solic pathogens such as l. monocytogenes which
+quickly escapes from the phagosome. several groups
+have identiﬁed cytosolic components, namely ubiquitin,
+ubiquicidin, histones and hmgn2, that have antimicro-
+bial activity in vitro, but as yet, it is unclear what role
+these proteins play during intracellular infection. ubiq-
+uitin is a small polypeptide that can be covalently linked
+to proteins to regulate signalling, endocytosis or degra-
+dation. it was recently shown that ubiquitin derived pep-
+tides exhibited antibacterial activity in vitro (kieffer et al.,
+2003). a distinct small polypeptide, ubiquicidin, was
+originally characterized biochemically as an antimicrobial
+activity isolated from the cytosol of ifn-g treated mouse
+macrophages (hiemstra et al., 1999). further analysis
+showed identity with the small ribosomal subunit, s30.
+ubiquicidin has potent antimicrobial activity against
+l. monocytogenes and s. typhimurium in vitro. however
+no depletion or inhibition experiments have been per-
+formed to show that the peptide functions to kill intrac-
+ellular bacteria in infected macrophages or mice;
+the
+interpretation of such experiments might be complicated
+by non-speciﬁc effects of ubiquicidin/s30 depletion on
+normal cellular processes. this problem is reminiscent
+of the dilemma associated with the discovery of the anti-
+microbial
+function of histones many decades ago
+(hirsch, 1958). while the in vitro antibacterial activity of
+histones was unquestioned, it was thought to be non-
+speciﬁc and due to the highly basic nature of histones
+that
+it was unclear
+whether histones had any physiological
+role in the
+immune response to bacterial
+infections. recently, his-
+tones and dna were shown to participate in bacterial
+killing by neutrophil extracellular traps, or nets, where it
+is unlikely that histones are required solely for participa-
+tion in chromatin structure and transcriptional regulation
+(brinkmann et al., 2004; beiter et al., 2006; buchanan
+et al., 2006). histones are found in the mammalian
+cytosol as well as the nucleus and therefore may also
+contribute to controlling cytosolic bacterial pathogens
+(zlatanova et al., 1990). similarly, another dna binding
+protein hmgn2, also reported to have antimicrobial
+activity, is present in the cytosol and can be secreted
+from human mononuclear leukocytes (feng et al., 2005).
+host cells may proﬁt both metabolically and immuno-
+logically by exploiting the biochemical properties
+of abundant and readily available proteins such as
+histones to kill bacteria that escape from the endocytic
+compartment.
+facilitate binding to dna. thus,
+autophagy
+escape of bacteria into the host cytosol, the storehouse
+for many host nutrients, presents a signiﬁcant threat to the
+host. most characterized mechanisms for innate resis-
+tance to bacterial pathogens are directed within mem-
+brane bound compartments, but host cells do have a
+mechanism, termed autophagy, to capture particles in the
+cytosol and surround them with a newly formed
+membrane. the process and regulation of autophagy is
+conserved from yeast to man and has been primarily
+studied in the context of the cellular response to stress
+and starvation (shintani and klionsky, 2004). however,
+recent studies clearly show an important role for autoph-
+agy in capturing and eliminating bacteria in the cytosol
+(rich et al., 2003; nakagawa et al., 2004). the cytosolic
+pathogen, shigella ﬂexneri, actively inhibits autophagy; a
+strain deﬁcient in the virulence factor icsb was found
+trapped in autophagosomes (ogawa et al., 2005). more-
+over, autophagy facilitates elimination of pathogen-
+containing vacuoles by fusion with lysosomes. this
+process is enhanced by the ifn-g inducible gtpase
+lrg-47 in the case of m. tuberculosis infection (gutierrez
+et al., 2004; birmingham et al., 2006). it is as yet unclear
+how autophagy is initiated by bacterial infection although
+phosphoinositides participate in the regulatory process;
+vacuolar membrane damage has been proposed as a
+possible trigger (birmingham et al., 2006; lindmo and
+stenmark, 2006). in the case of legionella pneumophila,
+macrophage regulation of autophagy may mediate the
+difference between resistance and permissiveness.
+resistant c57bl/6 macrophages exhibit more rapid matu-
+ration of pathogen containing autophagosomes than sus-
+ceptible a/j macrophages which lack normal
+levels of
+naip5 (amer and swanson, 2005). autophagy is upregu-
+lated by ifn-g treatment like many other mechanisms of
+innate resistance.
+in addition to a direct antimicrobial
+function, autophagy also allows infected cells to capture
+antigens from cytosolic pathogens for processing and pre-
+sentation on mhc class ii (deretic, 2005; munz, 2006).
+nutritional immunity
+the host cell by necessity must contain all of the nutrients
+required for its own metabolism, however, these stores
+also are a rich source for bacterial pathogens to exploit.
+thus, another major strategy for innate resistance to intra-
+cellular infection is to sequester key nutrients such as iron
+from the invading bacteria. iron is essential for many vital
+processes of the host and bacterium, including metabo-
+lism and protection from oxidative stress. although iron is
+present in host cells, it is predominantly bound to proteins
+and is virtually unavailable in free soluble form. upon
+phagocytosis of a bacterium, iron can be removed from
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 8, 1720–1729
+the phagosome via multiple mechanisms. first, ferropor-
+tin, nramp1 and nramp2 (dmt1) act as iron transporters
+to move ferrous iron from the lumen of the phagosome
+into the cytosol (forbes and gros, 2003; chlosta et al.,
+2006). nramp1 also acts as a manganese efflux pump;
+both manganese and iron can be used as co-ordinating
+metal centres for bacterial proteins involved in protection
+against oxidative stress such as superoxide dismutase
+(jabado et al., 2000; papp-wallace and maguire, 2006).
+second, expression of transferrin receptor, a high affinity
+receptor for iron that allows iron uptake from plasma, is
+downregulated in response to ifn-g which decreases the
+amount of iron in the phagosome (byrd and horwitz,
+1989; 1993). coxiella burnetii overcomes the iron deﬁcit
+by stimulating upregulation of transferrin receptor (howe
+and mallavia, 1999). third, lactoferrin, an iron chelator
+found in neutrophil granules, can be taken up into the
+macrophage endocytic pathway from the extracellular
+milieu and thereby decrease the concentration of avail-
+able iron in the phagosome (byrd and horwitz, 1991).
+hepcidin, a small amp which is essential for iron homeo-
+stasis during normal host metabolism, also acts to
+increase iron efflux in macrophages (peyssonnaux et al.,
+2006). both fe2+ and mn2+ are critical for virulence of
+many pathogens, such as s. typhimurium (boyer et al.,
+2002). to enable replication, many intracellular bacteria
+produce high affinity iron chelators, called siderophores,
+which are able to steal iron from host proteins (de voss
+et al., 2000; parent et al., 2002; fischbach et al., 2006).
+host cells have in turn evolved innate immune mecha-
+nisms to protect
+iron acquisition by siderophores.
+lipocalin-2, which is upregulated by tlr signalling, binds
+siderophores of
+the enterobactin family produced by
+gram negative bacteria like s. typhimurium (flo et al.,
+2004). thus, regulation of iron availability is central
+in
+determining the balance of the host–pathogen interaction.
+intracellular bacteria must also acquire many other
+nutrients to promote survival and replication. global gene
+expression analysis has revealed that compared with
+extracellular counterparts, intracellular bacteria upregu-
+late genes characteristic of nutritional stress such as iron,
+magnesium, glucose, amino acid and phosphate limita-
+tion (chatterjee et al., 2006; jansen and yu, 2006). by
+analogy to the extensive regulation of iron availability, it is
+reasonable to speculate that other nutrients may be
+sequestered by the host cell during infection, but few
+relevant mechanisms have been described. one mecha-
+nism of nutrient deprivation has been well established –
+tryptophan catabolism by indoleamine 2,3-dioxygenase
+(ido). ido has two functions in innate immunity – a direct
+role in nutrient deprivation during intracellular infection
+and a role in negative regulation of t cell activation
+(thomas et al., 1993; beatty et al., 1994; mellor and
+ido by ifn-g restricted
+munn, 2004). upregulation of
+innate immunity to intracellular infection 1725
+growth of chlamydia trachomatis; the bacteriostatic effect
+was abrogated by inhibition or deﬁciency of ido or by
+addition of excess tryptophan. interfering with bacterial
+metabolism is a powerful strategy to restrict bacterial
+growth. future studies may identify additional mecha-
+nisms by which host cells modulate nutrient availability.
+future questions
+innate immune control of intracellular bacterial pathogens
+depends on diverse, overlapping and redundant mecha-
+nisms to ensure survival of the host until the onset of
+adaptive immunity. while innate immune recognition and
+signalling by tlr and nlr proteins have been explored in
+exquisite molecular detail, how these sensors may trigger
+direct antimicrobial mechanisms is for the most part poorly
+deﬁned. two members of the nlr family, naip5 (also
+called birc1e) and ipaf (also termed clan), which rec-
+ognize cytosolic bacterial ﬂagellin, exert a protective
+effect against macrophage infection by l. pneumophila
+and s. typhimurium (diez et al., 2003; wright et al., 2003;
+molofsky et al., 2006; ren et al., 2006; zamboni et al.,
+2006). the bacterial ﬂagellin likely contaminates the host
+cytosol via bacterial secretion systems, such as the type
+iii or type iv systems, that translocate virulence factors
+across the vacuolar membrane. these data demonstrate
+that naip5 and ipaf contribute to important mechanisms
+of bacterial control but exactly how is unclear. it is para-
+to inhibit
+doxical
+they may serve to
+growth of vacuolar pathogens but
+prevent
+to non-
+pathogenic vacuole-bound bacteria that present no
+danger to the host. as there are members of the nlr
+family that have not yet been extensively investigated, the
+possibility remains that some additional nlrs will also be
+important in preventing bacterial replication, while others,
+such as nod1, may function primarily as regulators of
+inﬂammation.
+that cytosolic detection systems act
+inappropriate immune responses
+other regulators of innate immune control of bacterial
+replication that remain to be explored are ipr1, lxra and
+spa. ipr1, an interferon inducible gene, was identiﬁed
+genetically as a locus that controls resistance to m. tuber-
+culosis infection in macrophages, mice and possibly
+humans (pan et al., 2005; tosh et al., 2006). the closest
+human homologue to ipr1 is sp110b, a protein that con-
+tains chromatin binding and nuclear localization domains,
+which may act as a cofactor for nuclear receptors to
+regulate transcription (bloch et al., 2000). tontonoz and
+colleagues reported that lxra, a nuclear receptor of the
+liver x receptor family, regulates cholesterol metabolism
+and resistance to the cytosolic pathogen, l. monocytoge-
+nes (joseph et al., 2004). spa, a scavenger receptor
+cystine rich repeat protein, was identiﬁed as an lxra
+target gene that contributed to antibacterial activity. spa
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 8, 1720–1729
+1726 a. l. radtke and m. x. d. o’riordan
+has been implicated in protection from apoptosis, but a
+recent study suggested that spa could also act as a
+pattern recognition receptor for lipopolysaccharide (lps)
+(sarrias et al., 2005). because l. monocytogenes has no
+lps, the defect in antibacterial function associated with the
+absence of lxra and spa in l. monocytogenes infection
+cannot be explained by lps recognition but implicates
+some other role of spa yet to be determined. it is apparent
+that we have much to learn about the many mechanisms by
+which host cells orchestrate innate immune control of
+bacterial pathogens that exploit the intracellular niche. an
+increased understanding of intracellular innate immune
+resistance may provide important clues about how to
+design more effective vaccines and therapeutic strategies
+to combat bacterial pathogens.
+acknowledgements
+we offer apologies to those authors whose excellent work could
+not be cited in the review due to space limitations. we thank dr
+amy decatur for critical review of the manuscript. we gratefully
+acknowledge niaid (r01ai064540), the cellular biotechnology
+training grant at the university of michigan (t32 gm08353), the
+crohn’s and colitis foundation of america and the ellison
+medical foundation for supporting our work.
+note added in proof
+miao et al. have also identiﬁed ipaf as a sensor for cytosolic
+ﬂagellin. miao ea, alpuche-aranda cm, dors m, clark ae, bader
+mw, miller si, aderem a. (2006) cytoplasmic ﬂagellin activates
+caspase-1 and secretion of
+interleukin i beta via ipaf. nat
+immunol 7:569–75.
+references
+amer, a.o., and swanson, m.s. (2005) autophagy is an
+legionella
+immediate macrophage
+pneumophila. cell microbiol 7: 765–778.
+response
+to
+andrews, h.l., vogel, j.p., and isberg, r.r. (1998) identiﬁ-
+cation of linked legionella pneumophila genes essential for
+intracellular growth and evasion of the endocytic pathway.
+infect immun 66: 950–958.
+baehner, r.l., and nathan, d.g. (1967) leukocyte oxidase:
+defective activity in chronic granulomatous disease.
+science 155: 835–836.
+beatty, w.l., belanger, t.a., desai, a.a., morrison, r.p., and
+byrne, g.i. (1994) tryptophan depletion as a mechanism of
+gamma interferon-mediated chlamydial persistence. infect
+immun 62: 3705–3711.
+beiter, k., wartha, f., albiger, b., normark, s., zychlinsky,
+a., and henriques-normark, b. (2006) an endonuclease
+allows streptococcus pneumoniae to escape from neutro-
+phil extracellular traps. curr biol 16: 401–407.
+beutler, b., jiang, z., georgel, p., crozat, k., croker, b.,
+rutschmann, s., et al. (2006) genetic analysis of host
+resistance:
+toll-like receptor signaling and immunity at
+large. annu rev immunol 24: 353–389.
+bidani, a., reisner, b.s., haque, a.k., wen, j., helmer, r.e.,
+tuazon, d.m., and heming, t.a. (2000) bactericidal activ-
+ity of alveolar macrophages is suppressed by v-atpase
+inhibition. lung 178: 91–104.
+birmingham, c.l., smith, a.c., bakowski, m.a., yoshimori,
+t., and brumell, j.h. (2006) autophagy controls salmonella
+infection in response to damage to the salmonella-
+containing vacuole. j biol chem 281: 11374–11383.
+bloch, d.b., nakajima, a., gulick, t., chiche, j.d., orth, d.,
+de la monte, s.m., and bloch, k.d. (2000) sp110 localizes
+to the pml-sp100 nuclear body and may function as a
+nuclear hormone receptor transcriptional coactivator. mol
+cell biol 20: 6138–6146.
+boyer, e., bergevin, i., malo, d., gros, p., and cellier, m.f.
+(2002) acquisition of mn (ii) in addition to fe (ii) is
+required for
+virulence of salmonella enterica
+serovar typhimurium. infect immun 70: 6032–6042.
+full
+brinkmann, v., reichard, u., goosmann, c., fauler, b., uhle-
+mann, y., weiss, d.s., et al. (2004) neutrophil extracellular
+traps kill bacteria. science 303: 1532–1535.
+buchanan, j.t., simpson, a.j., aziz, r.k., liu, g.y., kristian,
+s.a., kotb, m., et al. (2006) dnase expression allows the
+pathogen group a streptococcus to escape killing in neu-
+trophil extracellular traps. curr biol 16: 396–400.
+byrd, t.f., and horwitz, m.a. (1989) interferon gamma-
+activated human monocytes downregulate transferrin
+receptors and inhibit
+the intracellular multiplication of
+legionella pneumophila by limiting the availability of iron.
+j clin invest 83: 1457–1465.
+byrd, t.f., and horwitz, m.a. (1991) lactoferrin inhibits or
+promotes legionella pneumophila intracellular multiplica-
+tion in nonactivated and interferon gamma-activated
+human monocytes depending upon its degree of
+iron
+saturation.
+iron-lactoferrin and nonphysiologic iron che-
+lates reverse monocyte activation against legionella
+pneumophila. j clin invest 88: 1103–1112.
+byrd, t.f., and horwitz, m.a. (1993) regulation of transferrin
+receptor expression and ferritin content in human mono-
+nuclear phagocytes. coordinate upregulation by iron trans-
+ferrin and downregulation by interferon gamma. j clin
+invest 91: 969–976.
+del cerro-vadillo, e., madrazo-toca, f., carrasco-marin, e.,
+fernandez-prieto, l., beck, c., leyva-cobian, f., et al.
+(2006) cutting edge: a novel nonoxidative phagosomal
+mechanism exerted by cathepsin-d controls listeria mono-
+cytogenes intracellular growth. j immunol 176: 1321–1325.
+chakravortty, d., and hensel, m. (2003) inducible nitric oxide
+synthase and control of intracellular bacterial pathogens.
+microbes infect 5: 621–627.
+chatterjee, s.s., hossain, h., otten, s., kuenne, c., kuch-
+mina, k., machata, s., et al. (2006) intracellular gene
+expression proﬁle of listeria monocytogenes. infect immun
+74: 1323–1338.
+chen, x., niyonsaba, f., ushio, h., okuda, d., nagaoka, i.,
+ikeda, s., et al. (2005) synergistic effect of antibacterial
+agents human beta-defensins, cathelicidin ll-37 and
+lysozyme against staphylococcus aureus and escherichia
+coli. j dermatol sci 40: 123–132.
+chlosta, s., fishman, d.s., harrington, l., johnson, e.e.,
+knutson, m.d., wessling-resnick, m., and cherayil, b.j.
+(2006) the iron efflux protein ferroportin regulates the
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 8, 1720–1729
+intracellular growth of salmonella enterica. infect immun
+74: 3065–3067.
+cole, a.m., thapa, d.r., gabayan, v., liao, h.i., liu, l., and
+ganz, t. (2005) decreased clearance of pseudomonas
+aeruginosa from airways of mice deﬁcient in lysozyme m.
+j leukoc biol 78: 1081–1085.
+de voss, j.j., rutter, k., schroeder, b.g., su, h., zhu, y.,
+barry, c.e., 3rd. (2000) the salicylate-derived mycobactin
+siderophores of mycobacterium tuberculosis are essential
+for growth in macrophages. proc natl acad sci usa 97:
+1252–1257.
+deretic, v.
+(2005) autophagy in innate and adaptive
+immunity. trends immunol 26: 523–528.
+diez, e., lee, s.h., gauthier, s., yaraghi, z., tremblay, m.,
+vidal, s., and gros, p. (2003) birc1e is the gene within the
+lgn1 locus associated with resistance to legionella
+pneumophila. nat genet 33: 55–60.
+ernst, r.k., guina, t., and miller, s.i. (2001) salmonella
+typhimurium outer membrane remodeling: role in resistance
+to host innate immunity. microbes infect 3: 1327–1334.
+faurschou, m., and borregaard, n. (2003) neutrophil gran-
+ules and secretory vesicles in inﬂammation. microbes
+infect 5: 1317–1327.
+feng, y., huang, n., wu, q., and wang, b. (2005) hmgn2:
+a novel antimicrobial effector molecule of human mono-
+nuclear leukocytes? j leukoc biol 78: 1136–1141.
+fischbach, m.a., lin, h., liu, d.r., and walsh, c.t. (2006)
+how pathogenic bacteria evade mammalian sabotage in
+the battle for iron. nat chem biol 2: 132–138.
+flo, t.h., smith, k.d., sato, s., rodriguez, d.j., holmes,
+m.a., strong, r.k., et al. (2004) lipocalin 2 mediates an
+innate immune response to bacterial infection by seques-
+trating iron. nature 432: 917–921.
+flynn, j.l., and chan, j. (2003) immune evasion by myco-
+bacterium tuberculosis: living with the enemy. curr opin
+immunol 15: 450–455.
+forbes, j.r., and gros, p. (2003) iron, manganese, and
+cobalt
+transport by nramp1 (slc11a1) and nramp2
+(slc11a2) expressed at the plasma membrane. blood 102:
+1884–1892.
+gaillard, j.l., berche, p., mounier, j., richard, s., and san-
+sonetti, p. (1987) in vitro model of penetration and intrac-
+ellular growth of listeria monocytogenes in the human
+enterocyte-like cell line caco-2. infect immun 55: 2822–
+2829.
+gallo, r.l., kim, k.j., bernﬁeld, m., kozak, c.a., zanetti, m.,
+merluzzi, l., and gennaro, r. (1997) identiﬁcation of
+cramp, a cathelin-related antimicrobial peptide expressed
+in the embryonic and adult mouse. j biol chem 272:
+13088–13093.
+ganz, t., gabayan, v., liao, h.i., liu, l., oren, a., graf, t.,
+and cole, a.m. (2003) increased inﬂammation in lysozyme
+m-deﬁcient mice in response to micrococcus luteus and its
+peptidoglycan. blood 101: 2388–2392.
+gutierrez, m.g., master, s.s., singh, s.b., taylor, g.a.,
+colombo, m.i., and deretic, v. (2004) autophagy is a
+defense mechanism inhibiting bcg and mycobacterium
+in infected macrophages. cell 119:
+tuberculosis survival
+753–766.
+gutierrez, m.g., vazquez, c.l., munafo, d.b., zoppino, f.c.,
+beron, w., rabinovitch, m., and colombo, m.i. (2005)
+innate immunity to intracellular infection 1727
+autophagy induction favours the generation and matura-
+tion of the coxiella-replicative vacuoles. cell microbiol 7:
+981–993.
+hackstadt, t., fischer, e.r., scidmore, m.a., rockey, d.d.,
+and heinzen, r.a. (1997) origins and functions of the
+chlamydial inclusion. trends microbiol 5: 288–293.
+henry, r., shaughnessy, l., loessner, m.j., alberti-segui,
+c., higgins, d.e., and swanson, j.a. (2006) cytolysin-
+dependent delay of vacuole maturation in macrophages
+infected with listeria monocytogenes. cell microbiol 8:
+107–119.
+hiemstra, p.s., van den barselaar, m.t., roest, m., nibber-
+ing, p.h., and van furth, r. (1999) ubiquicidin, a novel
+murine microbicidal protein present in the cytosolic fraction
+of macrophages. j leukoc biol 66: 423–428.
+high, n., mounier, j., prevost, m.c., and sansonetti, p.j.
+(1992) ipab of shigella ﬂexneri causes entry into epithelial
+cells and escape from the phagocytic vacuole. embo j 11:
+1991–1999.
+hirsch, j.g. (1958) bactericidal action of histone. j exp med
+108: 925–944.
+holden, d.w. (2002) trafficking of the salmonella vacuole in
+macrophages. traffic 3: 161–169.
+howe, d., and mallavia, l.p. (1999) coxiella burnetii infection
+increases transferrin receptors on j774a. 1 cells. infect
+immun 67: 3236–3241.
+inohara, c., mcdonald, c., and nunez, g. (2005) nod-lrr
+proteins: role in host–microbial interactions and inﬂamma-
+tory disease. annu rev biochem 74: 355–383.
+jabado, n., jankowski, a., dougaparsad, s., picard, v.,
+grinstein, s., and gros, p. (2000) natural resistance to
+intracellular infections: natural resistance-associated mac-
+rophage protein 1 (nramp1) functions as a ph-dependent
+manganese transporter at
+the phagosomal membrane.
+j exp med 192: 1237–1248.
+jansen, a., and yu, j. (2006) differential gene expression of
+pathogens inside infected hosts. curr opin microbiol 9:
+138–142.
+joseph, s.b., bradley, m.n., castrillo, a., bruhn, k.w., mak,
+p.a., pei, l., et al. (2004) lxr-dependent gene expression
+is important
+for macrophage survival and the innate
+immune response. cell 119: 299–309.
+kieffer, a.e., goumon, y., ruh, o., chasserot-golaz, s.,
+nullans, g., gasnier, c., et al.
+(2003) the n- and
+c-terminal fragments of ubiquitin are important for the anti-
+microbial activities. faseb j 17: 776–778.
+lenz, l.l., mohammadi, s., geissler, a., and portnoy, d.a.
+(2003) seca2-dependent secretion of autolytic enzymes
+promotes listeria monocytogenes pathogenesis. proc natl
+acad sci usa 100: 12432–12437.
+lindmo, k., and stenmark, h. (2006) regulation of mem-
+brane traffic by phosphoinositide 3-kinases. j cell sci 119:
+605–614.
+liu, p.t., stenger, s., li, h., wenzel, l., tan, b.h., krutzik,
+s.r., et al. (2006) toll-like receptor triggering of a vitamin
+d-mediated human antimicrobial response. science 311:
+1770–1773.
+luzio, j.p., poupon, v., lindsay, m.r., mullock, b.m., piper,
+r.c., and pryor, p.r. (2003) membrane dynamics and
+the biogenesis of lysosomes. mol membr biol 20: 141–
+154.
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 8, 1720–1729
+1728 a. l. radtke and m. x. d. o’riordan
+macmicking, j.d., taylor, g.a., and mckinney, j.d. (2003)
+immune control of tuberculosis by ifn-gamma-inducible
+lrg-47. science 302: 654–659.
+mellman, i., fuchs, r., and helenius, a. (1986) acidiﬁcation
+the endocytic and exocytic pathways. annu rev
+of
+biochem 55: 663–700.
+mellor, a.l., and munn, d.h. (2004) ido expression by den-
+dritic cells: tolerance and tryptophan catabolism. nat rev
+immunol 4: 762–774.
+miyauchi, j., sasadaira, h., watanabe, k., and watanabe, y.
+(1985) ultrastructural immunocytochemical localization of
+lysozyme in human monocytes and macrophages. cell
+tissue res 242: 269–277.
+molofsky, a.b., byrne, b.g., whitﬁeld, n.n., madigan, c.a.,
+fuse, e.t., tateda, k., and swanson, m.s. (2006) cytoso-
+lic recognition of ﬂagellin by mouse macrophages restricts
+legionella pneumophila infection. j exp med 203: 1093–
+1104.
+mukherjee, k., parashuraman, s., krishnamurthy, g.,
+majumdar, j., yadav, a., kumar, r., et al. (2002) diverting
+intracellular
+trafficking of salmonella to the lysosome
+through activation of the late endocytic rab7 by intracellu-
+lar delivery of muramyl dipeptide. j cell sci 115: 3693–
+3701.
+munz, c. (2006) autophagy and antigen presentation. cell
+microbiol 8: 891–898.
+myers, j.t., tsang, a.w., and swanson, j.a. (2003) local-
+ized reactive oxygen and nitrogen intermediates inhibit
+escape of listeria monocytogenes from vacuoles in acti-
+vated macrophages. j immunol 171: 5447–5453.
+nakagawa, i., amano, a., mizushima, n., yamamoto, a.,
+yamaguchi, h., kamimoto, t., et al. (2004) autophagy
+defends cells against
+invading group a streptococcus.
+science 306: 1037–1040.
+nash, j.a., ballard, t.n., weaver, t.e., and akinbi, h.t.
+(2006) the peptidoglycan-degrading property of lysozyme
+is not required for bactericidal activity in vivo. j immunol
+177: 519–526.
+nathan, c. (2006) role of inos in human host defense.
+science 312: 1874–1875;author reply 1874–1875.
+nauseef, w.m. (2004) assembly of the phagocyte nadph
+oxidase. histochem cell biol 122: 277–291.
+ogawa, m., yoshimori, t., suzuki, t., sagara, h., mizushima,
+intracellular
+n., and sasakawa, c.
+shigella from autophagy. science 307: 727–731.
+(2005) escape of
+pan, h., yan, b.s., rojas, m., shebzukhov, y.v., zhou, h.,
+kobzik, l., et al. (2005) ipr1 gene mediates innate immu-
+nity to tuberculosis. nature 434: 767–772.
+papp-wallace, k.m., and maguire, m.e. (2006) manganese
+transport and the role of manganese in virulence. annu
+rev microbiol 60, in press. doi: 10.1146/annurev.micro.60.
+080805.142149.
+parent, m.a., bellaire, b.h., murphy, e.a., roop, r.m., 2nd,
+elzer, p.h., and baldwin, c.l. (2002) brucella abortus sid-
+erophore 2,3-dihydroxybenzoic acid (dhba)
+facilitates
+intracellular survival of the bacteria. microb pathog 32:
+239–248.
+peyssonnaux, c., zinkernagel, a.s., datta, v., lauth, x.,
+johnson, r.s., and nizet, v. (2006) tlr4-dependent hep-
+cidin expression by myeloid cells in response to bacterial
+pathogens. blood 107: 3727–3732.
+radons, j., biewusch, u., grassel, s., geuze, h.j., and
+hasilik, a. (1994) distinctive inhibition of the lysosomal
+targeting of lysozyme and cathepsin d by drugs affecting
+ph gradients and protein kinase c. biochem j 302: 581–
+586.
+raoult, d., drancourt, m., and vestris, g. (1990) bactericidal
+effect of doxycycline associated with lysosomotropic
+agents on coxiella burnetii
+in p388d1 cells. antimicrob
+agents chemother 34: 1512–1514.
+ren, t., zamboni, d.s., roy, c.r., dietrich, w.f., and vance,
+r.e. (2006) flagellin-deﬁcient legionella mutants evade
+caspase-1- and naip5-mediated macrophage immunity.
+plos pathog 2: e18.
+rich, k.a., burkett, c., and webster, p. (2003) cytoplasmic
+bacteria can be targets for autophagy. cell microbiol 5:
+455–468.
+rivera-marrero, c.a., stewart, j., shafer, w.m., and roman,
+j. (2004) the down-regulation of cathepsin g in thp-1
+monocytes after infection with mycobacterium tuberculosis
+is associated with increased intracellular survival of bacilli.
+infect immun 72: 5712–5721.
+rosenberger, c.m., and finlay, b.b. (2002) macrophages
+inhibit salmonella typhimurium replication through mek/
+erk kinase and phagocyte nadph oxidase activities.
+j biol chem 277: 18753–18762.
+rosenberger, c.m., gallo, r.l., and finlay, b.b. (2004) inter-
+play between antibacterial effectors: a macrophage antimi-
+crobial peptide impairs intracellular salmonella replication.
+proc natl acad sci usa 101: 2422–2427.
+sarrias, m.r., rosello, s., sanchez-barbero, f., sierra, j.m.,
+vila, j., yelamos, j., et al. (2005) a role for human sp alpha
+as a pattern recognition receptor. j biol chem 280: 35391–
+35398.
+shafer, w.m., hubalek, f., huang, m., and pohl, j. (1996)
+bactericidal activity of a synthetic peptide (cg 117–136) of
+human lysosomal cathepsin g is dependent on arginine
+content. infect immun 64: 4842–4845.
+shiloh, m.u., macmicking, j.d., nicholson, s., brause, j.e.,
+potter, s., marino, m., et al. (1999) phenotype of mice
+and macrophages deﬁcient
+in both phagocyte oxidase
+immunity 10: 29–
+and inducible nitric oxide synthase.
+38.
+shintani, t., and klionsky, d.j. (2004) autophagy in health
+and disease: a double-edged sword. science 306: 990–
+995.
+strober, w., murray, p.j., kitani, a., and watanabe, t. (2006)
+signalling pathways and molecular interactions of nod1
+and nod2. nat rev immunol 6: 9–20.
+thomas, s.m., garrity, l.f., brandt, c.r., schobert, c.s.,
+ifn-gamma-
+feng, g.s., taylor, m.w., et al.
+mediated
+2,3-
+response.
+dioxygenase-deﬁcient mutant host cells no longer inhibit
+intracellular chlamydia spp. or toxoplasma growth.
+j immunol 150: 5529–5534.
+antimicrobial
+(1993)
+indoleamine
+tilney, l.g., and portnoy, d.a. (1989) actin ﬁlaments and the
+growth, movement, and spread of the intracellular bacterial
+parasite, listeria monocytogenes. j cell biol 109: 1597–
+1608.
+tosh, k., campbell, s.j., fielding, k., sillah, j., bah, b.,
+gustafson, p., et al. (2006) variants in the sp110 gene
+are associated with genetic susceptibility to tuberculosis
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 8, 1720–1729
+in west africa. proc natl acad sci usa 103: 10364–
+10368.
+vazquez-torres, a., xu, y., jones-carson, j., holden, d.w.,
+(2000) salmonella
+the
+evasion
+1655–
+lucia, s.m., dinauer, m.c., et al.
+pathogenicity
+2-dependent
+phagocyte nadph oxidase. science
+1658.
+island
+287:
+of
+wiater, l.a., dunn, k., maxﬁeld, f.r., and shuman, h.a.
+(1998) early events in phagosome establishment are
+required
+of
+legionella
+pneumophila. infect immun 66: 4450–4460.
+intracellular
+survival
+for
+wright, e.k., goodart, s.a., growney, j.d., hadinoto, v.,
+endrizzi, m.g., long, e.m., et al. (2003) naip5 affects host
+susceptibility to the intracellular pathogen legionella
+pneumophila. curr biol 13: 27–36.
+innate immunity to intracellular infection 1729
+yan, h., and hancock, r.e. (2001) synergistic interactions
+between mammalian antimicrobial defense peptides. anti-
+microb agents chemother 45: 1558–1560.
+yang, d., biragyn, a., hoover, d.m., lubkowski, j., and
+oppenheim, j.j. (2004) multiple roles of antimicrobial
+defensins, cathelicidins, and eosinophil-derived neurotoxin
+in host defense. annu rev immunol 22: 181–215.
+zamboni, d.s., kobayashi, k.s., kohlsdorf, t., ogura, y.,
+long, e.m., vance, r.e., et al. (2006) the birc1e cytosolic
+pattern-recognition receptor contributes to the detection
+and control of legionella pneumophila infection. nat
+immunol 7: 318–325.
+zlatanova, j.s., srebreva, l.n., banchev, t.b., tasheva,
+b.t., and tsanev, r.g. (1990) cytoplasmic pool of histone
+h1 in mammalian cells. j cell sci 96: 461–468.
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 8, 1720–1729

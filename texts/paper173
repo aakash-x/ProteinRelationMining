@@ -1,0 +1,881 @@
+microbiology (2007), 153, 51–58
+doi 10.1099/mic.0.2006/001610-0
+autophagy in the pathogen candida albicans
+glen e. palmer, michelle n. kelly and joy e. sturtevant
+department of mip, louisiana state university health sciences center school of dentistry,
+1100 florida avenue, box f8-130, new orleans, la 70119, usa
+autophagy is a major cellular process that facilitates the bulk degradation of eukaryotic
+macromolecules and organelles, through degradation within the lysosomal/vacuole compartment.
+this has been demonstrated to inﬂuence a diverse array of eukaryotic cell functions including
+adaptation, differentiation and developmental programmes. for example, in saccharomyces
+cerevisiae autophagy is required for sporulation and survival of nitrogen starvation. the
+opportunistic pathogen candida albicans has the ability to colonize and cause disease within a
+diverse range of mammalian host sites. the ability to adapt and differentiate within the host is liable
+to be critical for host colonization and infection. previous results indicated that the vacuole plays an
+important role in c. albicans adaptation to stress, differentiation, and survival within and injury of host
+cells. in this study the importance of vacuole-mediated degradation through the process of
+autophagy was investigated. this involved identiﬁcation and deletion of atg9, a c. albicans gene
+required for autophagy. the deletion strain was blocked in autophagy and the closely related
+cytoplasm to vacuole (cvt) trafﬁcking pathway. this resulted in sensitivity to nitrogen starvation, but
+no defects in growth rate, vacuole morphology or resistance to other stresses. this indicates that
+the mutant has speciﬁc defects in autophagy/cvt trafﬁcking. given the importance of autophagy in
+the development and differentiation of other eukaryotes, it was surprising to ﬁnd that the atg9d
+mutant was unaffected in either yeast–hypha or chlamydospore differentiation. furthermore, the
+atg9d mutant survived within and killed a mouse macrophage-like cell line as efﬁciently as control
+strains. the data suggest that autophagy plays little or no role in c. albicans differentiation or during
+interaction with host cells.
+correspondence
+glen e. palmer
+gpalme@lsuhsc.edu
+received 22 august 2006
+revised
+23 september 2006
+accepted 26 september 2006
+introduction
+autophagy is a major pathway by which eukaryotes are able
+to degrade cellular material. this has been shown to
+inﬂuence a wide array of biological phenomena including
+resistance to stress and starvation, cellular differentiation,
+development and ageing, programmed cell death, antigen
+presentation, clearance of intracellular pathogens, tumor-
+igenesis and neurodegenerative disease (mizushima, 2005).
+in the model yeast saccharomyces cerevisiae, autophagy
+is critical
+for survival during nitrogen starvation, and
+to complete the differentiation process of sporulation
+(takeshige et al., 1992; tsukada & ohsumi, 1993). the
+molecular mechanism behind autophagy has been inten-
+sively studied in yeast and mammalian cells, and many of the
+components
+required have been identiﬁed
+(abeliovich & klionsky, 2001; klionsky, 2005). a portion
+of cytoplasmic material is bound in a double-membrane
+structure known as an autophagosome, which fuses with the
+vacuolar membrane to release a single-membrane-bound
+compartment within the vacuole lumen. degradation of this
+that are
+abbreviations: ams, a-mannosidase; api, aminopeptidase i; cpy,
+carboxypeptidase y; dic, differential
+interference contrast; sap,
+secreted aspartyl protease.
+material by the hydrolytic enzymes within the vacuole
+recycles cellular building blocks such as amino acids, which
+can be used in the synthesis of new macromolecules. thus
+autophagy is typically considered a non-speciﬁc means
+to degrade ‘bulk’ cytoplasmic material. however, recent
+studies have revealed that under some conditions certain
+cargo is preferentially targeted for sequestration within the
+autophagosome (nair & klionsky, 2005). for example, in s.
+cerevisiae under nutrient-replete conditions (i.e. when
+autophagy is repressed), the vacuolar hydrolases amino-
+peptidase i (api) and a-mannosidase (ams) are delivered
+from cytoplasm to vacuole via the cvt (cytoplasm to vacuole
+trafﬁcking) pathway. the cvt pathway closely resembles
+autophagy, and involves sequestration of the cargo proteins
+within a double-membrane vesicle, which subsequently
+fuses to the vacuole to release its contents within the lumen.
+the vesicles formed are smaller than autophagosomes and
+appear to speciﬁcally deliver the api and ams hydrolases.
+interestingly, the cvt and autophagy pathways rely on
+much of the same cellular machinery, and many mutants
+defective in autophagy are also blocked in the cvt pathway
+(abeliovich & klionsky, 2001; thumm et al., 1994; tsukada
+& ohsumi, 1993). furthermore, under starvation condi-
+tions api and ams are delivered to the vacuole in the
+2006/001610 g 2007 sgm printed in great britain
+51
+g. e. palmer, m. n. kelly and j. e. sturtevant
+autophagosome, underscoring
+between these pathways.
+the
+close
+relationship
+is a commensal organism of
+candida albicans
+some
+mammalian species including humans, where it commonly
+resides on mucosal surfaces. under conditions of host
+immunosuppression c. albicans can invade host tissues to
+cause a diverse range of diseases. infection of mucosal
+surfaces is common, with hiv patients being particularly
+susceptible
+(de
+repentigny et al., 2004), while neutropenic patients are at
+risk of disseminated disease, with a high mortality rate
+(maertens et al., 2001).
+to oral and oesophageal candidiasis
+given the importance of autophagy in a diverse array of
+eukaryotic cellular processes, we decided to establish the role
+of autophagy in c. albicans survival and differentiation
+within the host. to date the role the vacuole or indeed
+autophagy plays during candida–host interaction has not
+been established. we hypothesized that autophagy is
+required for c. albicans adaptation and differentiation,
+two properties critical for survival within and infection of
+the mammalian host.
+methods
+sequence analysis. c. albicans atg9 and lap4 homologues were
+identiﬁed through blastp searches on the c. albicans genome data-
+base (http://www.candidagenome.org/) using the s. cerevisiae protein
+sequences (http://www.yeastgenome.org/) as the query sequence.
+protein sequences were aligned using the emboss pairwise align alo-
+gorithm (http://www.ebi.ac.uk/emboss/). kyte–doolittle hydropathy
+plots (kyte & doolittle, 1982) were performed within the ds gene
+program (accelrys).
+strain construction. strains used in this study are described in
+table 1. gene deletion strains were constructed by the pcr-based
+approach described by wilson et al. (1999), using the ura3 his1 arg4
+strain bwp17, kindly provided by dr a. mitchell (columbia
+university). atg9d : : arg4 and atg9d : : his1 deletion cassettes were
+ampliﬁed by pcr using pargdspe and pgemhis1 plasmids,
+respectively, as template with primers atg9disf and atg9disr
+(table 2). bwp17 was ﬁrst transformed with atg9d : : arg4 to gen-
+erate heterozygote strains baa1 and baa4. each heterozygote strain
+was then transformed with the atg9d : : his1 cassette to generate the
+double deletion strains baa1h1 and baa4h4. correct integration
+of either cassette was conﬁrmed at each step by pcr analysis using
+primer pairs atg9detf and atg9detr, atg9ampr and
+arg4det2, or atg9ampf and his1f1268 (table 2). southern
+blot analysis was also performed using an atg9-speciﬁc probe to
+the 39-utr of atg9, ampliﬁed using primers atg9pbf and
+atg9pbr (table 2). correct gene deletion resulted in the replace-
+ment of 2858 bp of the 2859 bp atg9 orf, with either the 2822 nt
+his1 or 2161 nt arg4 encoding cassettes. finally a wild-type copy
+of atg9 including 59 and 39 ﬂanking sequences was introduced to
+the deletion strains on pla2, to produce a prototrophic ‘reconsti-
+tuted’ strain. prototrophic deletion strains were produced by trans-
+forming the deletion strains with plasmid vector alone (plux).
+either plasmid was digested with nhei prior to transformation to
+target integration into (and reconstitution of) the ura3 loci. the
+presence/absence of atg9 in the prototrophic deletion/reconstituted
+strains was conﬁrmed by ampliﬁcation using the atg9detf/r
+primer pair.
+strains harbouring api–gfp fusions were derived from bwp17
+(atg9/atg9), baa1 and baa4 (atg9/atg9d), and baa1h1 and
+baa4h4 (atg9d/atg9d) using the pcr-based tagging approach
+described by gerami-nejad et al. (2001). primers lap4gfpf and
+lap4gfpr (table 2) were designed to amplify a gfp : : ura3 cassette
+from plasmid pgfpura3 (gerami-nejad et al., 2001) with 78 bp of
+homology on either end to direct integration at the 39 end of the c.
+albicans lap41 gene to form an in-frame lap41–gfp fusion. the
+ampliﬁed cassette was transformed into the above strains; transformant
+colonies were selected, and screened for correct integration by pcr.
+genomic dna was prepared from transformants and pcr-ampliﬁed
+using primers lap4detr and ura3-5 (table 2); a product of 470 bp
+conﬁrmed the expected integration event.
+dna manipulations. pcr was performed using standard reagents.
+plasmids pgemura3, pgemhis1 and prsargdspe (wilson et al.,
+1999) were provided by dr a. mitchell (columbia university).
+plasmid plux (ramon & fonzi, 2003), was provided by dr w.
+fonzi (georgetown university). plasmids pla2 and pla9 were
+made by amplifying the atg9 orf with 693 bp of 59-utr and
+214 nt 39-utr from genomic dna with atg9ampf and
+atg9ampr (table 2) to incorporate bamhi sites. the resulting
+product was cloned into the bamhi site of plux.
+growth conditions. strains were routinely grown on ypd (1 %
+yeast extract, 2 % bacto peptone, 2 % glucose) at 30 uc, supple-
+mented with uridine (25 mg ml21) when necessary (guthrie & fink,
+1991). for growth curves, overnight cultures were subcultured to
+20 ml fresh ypd medium to od600 0.2 and incubated at 30 uc with
+table 1. strains
+strain
+sc5314
+yjb6284
+bwp17
+baa1/4
+baa1h1/baa4h4
+agd1 and agd5
+agr1 and agr5
+bl1/2
+la1/2
+dal3/51
+52
+relevant genotype
+source
+atg9/atg9
+atg9/atg9
+atg9/atg9 ura3d/ura3d his1d/his1d arg4d/arg4d
+atg9/atg9d : : arg4 ura3d/ura3d his1d/his1d arg4d/arg4d
+atg9d : : arg4/atg9d : : his1 ura3d/ura3d his1d/his1d arg4d/arg4d
+atg9d : : arg4/atg9d : : his1 ura3d/ura3d : : ura3 his1d/his1d arg4d/arg4d
+atg9d : : arg4/atg9d : : his1 ura3d/ura3d : : atg9 : : ura3 his1d/his1d arg4d/arg4d
+atg9/atg9 lap4/lap4-gfp
+atg9/atg9d : : arg4 lap4/lap4-gfp
+atg9d/atg9d : : arg4 lap4/lap4-gfp
+bensen et al. (2002)
+wilson et al. (1999)
+this study
+this study
+this study
+this study
+this study
+this study
+this study
+microbiology 153
+candida albicans autophagy
+table 2. oligonucleotides
+primer
+sequence (5§r3§)
+atg9ampr*
+atg9ampf*
+atg9disf
+tcatcaggatccaatagaaaataaaatcaaccc
+tcatcaggatccacttcttttgacgatcaaccc
+ttcacttatcctacttttcttctttttgaagaataacacaagctaacttgttca-
+atg9disr
+ctctcattccctccaaaaataacattatataaaccaatgtatgtaaaactaac-
+tgctggatgataagatttgtggaattgtgagcggata
+gtagtaatactaattacctttcccagtcacgacgtt
+atg9pbf
+atg9pbr
+atg9detf
+atg9detr
+lap4gfpf
+cgttagttttacatacattgg
+aagtatcacgattagttcgag
+tcatatataatcaacaggggc
+agttatagcccaaattgtccc
+attaggtattaaattcttctatggtttcttcaagaattggagagatgtctatg-
+ataattttgttgatttaggtggtggttctaaaggtgaagaattatt
+lap4gfpr
+taaactaacaaataactaatacttgcaaatcaacttgcaaatcaacttttaatg-
+attccttttcctgttgttcaatgttcgatctagaaggaccacctttgattg
+lap4detr
+arg4det2
+his1f1268
+ura3-5
+ttaatgtacaagccttgcggc
+atcaattaacacagagatacc
+ccgctactgtctctactttg
+cctatgaatccactattgaacc
+*bamhi sites shown in italic.
+taken hourly.
+shaking. od600 was determined from samples
+transformants were selected on minimal media [6.75 g l21 yeast
+nitrogen base plus ammonium sulfate and without amino acids, 2 %
+glucose, 2 % bacto agar (ynb)] supplemented with the appropriate
+auxotrophic requirements, as described for s. cerevisiae (burke et al.,
+2000), except for uridine, which was added at 25 mg ml21.
+phenotypic assays. resistance to temperature stress was deter-
+mined on ypd agar at 37 and 42 uc, and osmotic stress on ypd
+agar plus 2.5 m glycerol or 1.5 m nacl. secreted aspartyl protease
+(sap) secretion was examined on bsa+ye agar (crandall &
+edwards, 1987). carboxypeptidase y (cpy) activity was measured
+using a colorimetric assay as previously reported (palmer et al.,
+2003). resistance to nitrogen starvation was determined using an
+assay similar to that of noda et al. (2000). each strain was grown in
+ynb broth for 48 h at 30 uc. cells were washed twice in sd–n and
+107 cells resuspended in 2 ml sd–n medium (0.17 % yeast nitrogen
+base without ammonium sulfate or amino acids, 2 % glucose).
+samples taken at intervals were plated to ypd agar, and viability
+determined as c.f.u. after 2 days at 30 uc. accumulation of autopha-
+gic bodies within the vacuole was assayed by transferring cells grown
+overnight in ypd to sd–n medium in the presence of 1 mm pmsf
+(noda et al., 2000). pmsf inhibits the breakdown of the delivered
+autophagic bodies. after 6–24 h at 30 uc, cells were examined by dif-
+ferential interference contrast (dic) microscopy. filamentation on
+m199 and 10 % fetal calf serum (fcs) agar was performed as pre-
+viously described (palmer & sturtevant, 2004). cells from overnight
+cultures were also induced to ﬁlament in 10 % fcs (in distilled
+h2o) at 37 uc after inoculation at 106 cells ml21. chlamydospores
+were induced on cornstarch-tween agar as previously described
+(palmer et al., 2004). sensitivity to h2o2 and rapamycin was deter-
+mined by measuring growth in ypd medium supplemented with
+the appropriate compound. approximately 1000 cells from an over-
+night culture were inoculated to 200 ml growth medium within the
+wells of a 96-well plate. after 48 h incubation at 30 uc (250 r.p.m.),
+growth was measured at od600 using a plate reader.
+phagocytic assays. the murine macrophage cell
+line, j774a.1
+(atcc tib-67) was grown according to attc instructions in d-
+mem, high glucose, 4 mm glutamine, 10 % fetal bovine serum at
+37 uc under 5 % co2. the same culture conditions were used for
+incubations with c. albicans. c. albicans strains were incubated with
+j774a.1 cells as described by lorenz et al. (2004). brieﬂy, j774.a1
+cells were seeded overnight in 12-well plates (26105 per well) on
+18 mm coverslips and incubated at 37 uc under 5 % co2. c. albicans
+strains were grown overnight at 30 uc, washed and incubated with
+j774a.1 cells at an m.o.i. of 2.0 (46105 per well) unless otherwise
+noted.
+macrophage survival. c. albicans and j774a.1 cells were incubated
+for 1, 5 and 24 h and then wells were washed and incubated with
+0.2 mm calcein am (ﬁnal concentration) (live/dead viability/
+cytotoxicity kit, molecular probes). c. albicans cells were simulta-
+(0.225 mm). coverslips were
+neously
+removed from wells and observed under a ﬂuorescence microscope.
+macrophages that ﬂuoresced green were viable. macrophage survival
+was quantiﬁed by counting at least four ﬁelds for each well. results
+are presented as the mean number of macrophages observed per
+ﬁeld.
+stained with calcoﬂuor
+c. albicans survival. this was assessed using an end-point dilution
+assay as described by rocha et al. (2001). macrophages were seeded
+overnight in 96-well plates at 56103 per well. c. albicans (50 ml)
+were added to the ﬁrst column of cells (150 ml), then serially diluted
+1 : 4 for six columns so that the resulting m.o.i. were between 2 and
+1.961023. the plates were incubated for 48 h. controls were wells
+with c. albicans but no macrophages. the lowest dilution of the
+control well where it was possible to discriminate distinct colonies
+was counted. the same dilution was counted for the c. albicans plus
+macrophage well. results are presented as (number of colonies in
+the presence of macrophages/number of colonies in the absence of
+macrophages)6100. each experiment was set up in quadruplicate
+and p values determined using the unpaired student’s t-test.
+http://mic.sgmjournals.org
+53
+g. e. palmer, m. n. kelly and j. e. sturtevant
+vacuole morphology and api localization. vacuole morphol-
+ogy was visualized using the ﬂuorescent dye fm4-64, as reported
+(palmer et al., 2003; vida & emr, 1995). in order to localize the
+api–gfp fusion protein, cells were grown into the exponential
+phase in ypd medium, stained with fm4-64, washed twice in dis-
+tilled water, and visualized using an olympus bx51 ﬂuorescence
+microscope. all cells were applied to polylysine-coated slides prior
+to viewing.
+western blot analysis. western blot analysis was performed basi-
+cally as described previously (palmer & sturtevant, 2004). cell
+extracts of c. albicans were prepared by lysis with glass beads in the
+presence of a protease inhibitor cocktail (sigma). lysates were
+microfuged at 13 000 r.p.m. to yield supernatant and pellet fractions.
+the pellet was resuspended in 50 ml sds-page sample buffer.
+protein lysates (pellet and supernatant fractions) prepared from
+equivalent numbers of cells were loaded per lane in 12 % sds-page
+gels. gels were transferred to protran (schleicher and schuell)
+and blotted with a rabbit polyclonal anti-gfp antibody (anaspec).
+equivalent loading of sds-page gels was conﬁrmed by staining
+with coomassie blue, and membranes were stained with ponceau
+red (sigma) following the manufacturer’s directions. a horseradish-
+peroxidase-conjugated
+antibody
+(rockland) was used for detection with reagents supplied by pierce.
+anti-rabbit
+secondary
+goat
+results
+cloning and deletion of c. albicans atg9
+s. cerevisiae atg9 (also known as cvt7 and apg9) encodes
+an integral membrane protein of 998 amino acids, which is
+required for autophagosome and cvt vesicle formation
+(lang et al., 2000; noda et al., 2000). deletion of atg9
+results in complete abrogation of autophagy and cvt
+pathways, leading to a block in api and ams delivery,
+sensitivity to nitrogen starvation and an inability to
+complete sporulation (lang et al., 2000; noda et al.,
+2000). blast searches to the c. albicans genome sequence
+database (www.candidagenome.org/) identiﬁed a single
+atg9 orthologue, predicted to encode a protein of
+952 amino acids,
+sharing 32 % identity and 47.6 %
+similarity with s. cerevisiae atg9p. a kyte–doolittle plot
+of the predicted c. albicans atg9p sequence suggests six to
+eight transmembrane domains, which is in good agreement
+with the ﬁve to eight predicted transmembrane domains of
+the s. cerevisiae protein (lang et al., 2000; noda et al., 2000).
+in order to investigate the importance of autophagy (and the
+related cvt pathway) in the pathogen c. albicans, we
+constructed a strain in which both atg9 alleles were
+deleted. correct genotype was checked by both pcr
+detection and southern blot analysis. the deletion mutant
+was readily produced,
+indicating that this gene is not
+essential for viability. a wild-type copy of atg9 including 59
+and 39 ﬂanking sequences was then reintroduced to the
+deletion strain to produce a ‘reconstituted’ strain.
+the atg9d mutant had a growth rate comparable to wild-
+type and reconstituted strains in liquid ypd culture, and
+was not sensitive to osmotic, temperature or oxidative
+stresses (data not shown). levels of vacuolar cpy activity
+were also determined to be comparable between mutant and
+control strains, suggesting that trafﬁcking from the golgi
+apparatus to the vacuole was not affected in the atg9d
+mutant (data not shown), and the mutant strain was
+unaffected in sap activity (data not shown). the mutant
+strain was not sensitive to the autophagy-inducing drug
+rapamycin, or the replication checkpoint inhibitor caffeine
+(data not shown). vacuole morphology was analysed using
+the ﬂuorescent dye fm4-64 (vida & emr, 1995). the atg9d
+mutant was observed to have an intact vacuole morphology,
+control strains (data not shown).
+similar to that of atg9
+c. albicans atg9d is defective in autophagy
+we examined resistance to nitrogen starvation by measuring
+viability (as c.f.u.) after transfer to medium lacking a
+nitrogen source (sd–n) (fig. 1a). wild-type and recon-
+stituted strains underwent two to three further cell divisions
+after shifting to sd–n medium, and then maintained
+viability for the duration of the experiment (30 days).
+however, the atg9d strain did not continue to divide after
+the shift to sd–n and c.f.u. steadily declined to 0, clearly
+demonstrating that atg9d cells are sensitive to nitrogen
+800
+600
+400
+200
+(a)
+(b)
+11 15 20 25 30
+time (days)
+atg9/atg9
+atg9d/atg9d
+d/d+atg9
+fig. 1. c. albicans atg9d mutant is defective in autophagy. (a)
+resistance to nitrogen starvation was determined by measuring
+viability following shift to nitrogen-free (sd–n) medium. viability
+was determined as c.f.u. and represented as a percentage of
+the c.f.u. at time 0. data are given as the mean±sd of three
+experiments.
+(b) autophagosome formation was induced in
+sd–n medium, supplemented with pmsf to inhibit the break-
+down of
+the autophagic bodies following delivery to the
+vacuole. cells were inspected by dic microscopy after 16 h at
+30 6c. arrowheads indicate vacuole containing accumulated
+autophagic bodies (atg9+ strains), and vacuole lacking auto-
+phagic bodies (atg9d/atg9d mutant).
+54
+microbiology 153
+starvation. we next induced the formation of autophago-
+somes in sd–n media containing 1 mm pmsf. pmsf is a
+serine protease inhibitor which blocks the action of vacuolar
+prb, an enzyme required for degradation of autophagic
+bodies within the vacuole (noda et al., 2000). under these
+conditions wild-type and atg9 reconstituted strains
+accumulate autophagic bodies within the vacuole, giving
+the vacuole a granular appearance (fig. 1b). as expected,
+the atg9d strain did not accumulate autophagic bodies
+under these conditions, conﬁrming that our atg9d mutant is
+defective at an early step of autophagy, possibly autophago-
+some formation.
+c. albicans atg9d is defective in cvt trafﬁcking
+in order to establish if atg9p functions in the cytoplasm to
+vacuole trafﬁcking pathway, we tagged the cvt cargo protein
+api (encoded by the lap4 gene in s. cerevisiae). using the s.
+cerevisiae lap4p sequence we identiﬁed two lap4-like
+orfs, designated lap4 and lap41 by the c. albicans
+genome database. the predicted amino acid sequences had
+57 % (lap41p) and 34 % (lap4p) identity to s. cerevisiae
+lap4p. we therefore selected the lap41 orf for gfp
+tagging using a pcr-based procedure (gerami-nejad et al.,
+2001), to generate a c-terminal lap41–gfp fusion,
+in
+and atg9d backgrounds. tagged strains were grown
+atg9
+under nutrient-replete conditions (ypd) to the exponential
+phase of growth, conditions where cvt trafﬁcking occurs but
+not autophagy, and observed by ﬂuorescent microscopy
+cells had ﬂuorescence in three distinct
+(fig. 2a). atg9
+patterns: 1, single intense spot outside the vacuole; 2, single
+intense spot within vacuole lumen; 3, diffuse staining of the
+vacuole lumen. these patterns resemble api–gfp localiza-
+tion in s. cerevisiae (suzuki et al., 2002) and correspond
+nicely with the cvt trafﬁcking events: 1, oligomerized api–
+gfp precursor within the cytoplasm, or the membrane-
+bound cvt vesicle prior to vacuolar delivery; 2, cvt body
+released into the vacuole; 3, mature api–gfp released into
+the vacuole lumen following degradation of cvt vesicle
+(wang & klionsky, 2003). the distribution of api–gfp in
+the atg9d background mutant was altered (table 3). no
+diffuse staining of the vacuole lumen was detected, and an
+increased proportion of cells had a single spot distribution.
+furthermore, the spots were of increased intensity in the
+atg9d mutant as compared to the atg9
+control strains,
+suggesting an accumulation of api–gfp in the oligomeric
+cytoplasmic cvt complex.
+in s. cerevisiae, api is synthesized as an inactive precursor,
+which is activated upon delivery to the vacuole by
+proteolytic cleavage of an n-terminal propeptide of
+45 amino acids (oda et al., 1996). this can be followed as
+a shift in molecular mass on a western blot (klionsky et al.,
+1992; suzuki et al., 2002). in order to further conﬁrm the cvt
+trafﬁcking defects, we immunodetected the api–gfp fusion
+and atg9d backgrounds, using a
+protein in atg9
+polyclonal anti-gfp antibody. the predicted molecular
+mass of gfp is 26.9 kda and that of c. albicans lap41p
+56.7 kda (prior to proteolytic maturation). in atg9
+candida albicans autophagy
+(a)
+atg9/atg9
+atg9/atg9d
+atg9d/atg9d
+(b)
+80 kda
+30 kda
+–gfp control
+atg9/atg9
+atg9/atg9 d
+atg9 d/atg9 d
+fig. 2. c. albicans atg9d mutant is defective in cvt trafﬁcking.
+(a) the cvt cargo protein api (encoded by lap41) was c-
+terminally gfp tagged in atg9+ and atg9d genetic back-
+grounds. cells were grown into the exponential phase and
+labelled with fm4-64 (red)
+to locate each cell’s vacuole.
+phase-contrast and gfp-fm4-64 combined images are shown
+for each strain. arrows indicate faint diffuse gfp within the
+vacuole lumen (atg9+ strains only).
+(b) api–gfp was
+detected using a polyclonal anti-gfp antibody. the antibody
+detected a non-speciﬁc band of around 25 kda, and one of
+approximately 80 kda (atg9d only), which corresponded with
+the expected molecular mass of lap41–gfp. two indepen-
+dently constructed gfp-tagged strains were analysed for each
+genotype, and both experiments repeated three times. strain
+yjb6284 was used as the minus gfp control strain.
+strains, delivery of api–gfp to the vacuole would expose the
+gfp tag to the proteolytically active vacuole lumen, which is
+liable to have resulted in its cleavage and/or degradation.
+this may account for the inability to detect the api–gfp
+fusion species by western blotting (fig. 2b), and the fairly
+low level of ﬂuorescence detected within the vacuole lumen.
+unfortunately the anti-gfp antibody recognized a peptide
+in the minus gfp negative control (lane 1, fig. 2b), of
+http://mic.sgmjournals.org
+55
+g. e. palmer, m. n. kelly and j. e. sturtevant
+table 3. vacuolar
+upon atg9
+trafﬁcking of api–gfp is dependent
+and atg9d
+the distribution of api–gfp was scored in atg9
+genetic backgrounds. cells were scored from three ﬁelds of view
+(1006 magniﬁcation) for each of two independently constructed
+strains of each genotype. the proportion of cells in each gfp dis-
+tribution category was calculated as a percentage of
+the total
+number of cells within the ﬁeld. data for all six ﬁelds for a given
+genotype were used to calculate the mean and standard deviation
+for each genotype. results from a single experiment are shown.
+the experiment was repeated twice with similar results.
+genotype
+api–gfp distribution
+vacuolar*
+pointd
+noned
+atg9/atg9
+atg9/atg9d
+atg9d/atg9d
+71±1.4
+65.7±6.2
+0±0§
+23.1±4.7
+24.1±2.5
+73.8±10.1§
+5.9±4.8
+10.3±3.7
+26.2±10.1§
+*vacuolar, diffuse gfp within vacuole lumen, with or without
+intense gfp spot in cytoplasm.
+dpoint, intense gfp spot in cytoplasm, with no detectable staining of
+vacuole lumen.
+dnone, no detectable gfp.
+§p<0.05.
+around 25 kda. a similar non-speciﬁc band has been
+described in s. cerevisiae (suzuki et al., 2002) and may have
+obscured the detection of peptide species of a similar size,
+including any gfp that is cleaved upon vacuolar delivery.
+however, a species of 75–80 kda, corresponding to the
+predicted api–gfp molecular mass was detected in the
+atg9d background, indicating accumulation of api–gfp in
+the atg9d mutant. this species was detected in the pelletable
+fraction of the cell extracts, but not the soluble fraction. this
+suggests that the api–gfp has accumulated as part of a large
+complex before vacuole delivery, perhaps either the highly
+oligomerized precursor api (cvt body), or even within a cvt
+vesicle (yorimitsu & klionsky, 2005). these data clearly
+demonstrated that, similar to the s. cerevisiae atg9d mutant,
+our c. albicans atg9d mutant has a defect in cvt trafﬁcking to
+the vacuole.
+autophagy is not required for c. albicans
+differentiation
+in the model eukaryote s. cerevisiae, mutants defective in
+autophagy are unable to complete sporulation (takeshige
+et al., 1992; tsukada & ohsumi, 1993). moreover,
+autophagy has been intimately associated with a wide
+range of differentiation and development events in higher
+eukaryotes. we therefore assessed the consequences of a
+defect in autophagy on two major differentiation processes
+of c. albicans. yeast–hypha differentiation was examined on
+solid and in liquid m199 and fcs media. in each case the
+atg9d mutant produced ﬁlaments that were indistinguish-
+control strains (data not shown),
+able from the atg9
+indicating that under in vitro conditions autophagy is not
+essential for yeast–hypha differentiation. similarly, when
+the atg9d mutant
+induced on cornstarch-tween agar,
+produced chlamydospores with similar kinetics and abun-
+control strains (data not shown).
+dance as the atg9
+together these results suggest that autophagy is not required
+for two major differentiation events in c. albicans.
+autophagy is not required for c. albicans
+survival within or killing of a macrophage cell
+line
+previous studies using two c. albicans mutants with defects
+in vacuole biogenesis demonstrated that some vacuolar
+function(s) are required for survival within, and killing of a
+mouse macrophage-like cell line (j774a.1) (palmer et al.,
+2005). we considered that while not required for yeast–
+hypha differentiation or chlamydospore formation, autop-
+hagy may be important for normal interaction with host
+cells or survival within host tissues. to test this we analysed
+the outcome of atg9d interaction with the j774a.1 cell line,
+by determining macrophage and c. albicans survival rates.
+following co-culture, the macrophages rapidly phagocy-
+tosed wild-type c. albicans. this was followed by ﬁlamenta-
+tion of c. albicans within the macrophage, which resulted in
+stretching of the j774a.1 cells, followed by macrophage lysis.
+the atg9d mutant killed the j774a.1 cells as efﬁciently as
+strains (data not shown), indicating that autophagy
+atg9
+is not required for killing of the macrophage cell line. c.
+albicans survival of the macrophage challenge was deter-
+mined using an end-point dilution assay (rocha et al.,
+2001). we found that the atg9d cells exhibited similar
+control
+susceptibility to the j774a.1 interaction as atg9
+strains (data not shown), indicating that this pathway does
+not aid c. albicans survival within the j774a.1 cells.
+discussion
+autophagy is a well-conserved pathway in eukaryotes, and
+serves to facilitate a diverse range of cellular activities. in this
+study we investigated the importance of autophagy and
+the closely related cvt pathway during differentiation
+and pathogenesis of the fungal pathogen c. albicans. we
+hypothesized that autophagy may be an important
+mechanism for survival and/or differentiation within host
+tissues. we considered that during adaptation to new host
+environments c. albicans may need to recycle endogenous
+macromolecules to provide nutrients until host sources can
+be tapped, or that in order to facilitate rapid differentiation
+within the host an ‘elimination’ of inappropriately expressed
+proteins may occur via autophagic degradation. we
+addressed these questions by analysing a mutant strain
+defective in autophagy. as expected, the atg9d mutant strain
+constructed within this study was blocked in autophagy and
+the closely related cvt pathway, and was sensitive to nitrogen
+starvation. however, the atg9d mutant had a normal growth
+rate, vacuolar cpy activity, resistance to osmotic and
+temperature stress, and vacuole morphology. these ﬁndings
+56
+microbiology 153
+suggest that the atg9d mutant does not have a generalized
+defect in vacuolar function (palmer et al., 2005), but a
+speciﬁc defect in cvt/autophagy trafﬁcking.
+for
+survival
+the atg9d mutant has no detectable defect
+in either
+chlamydospore or yeast–hypha differentiation, a result
+which was surprising given the importance of this pathway
+in a diverse array of eukaryotic biological processes, includ-
+ing s. cerevisiae sporulation. microarray studies by lorenz
+et al. (2004) demonstrated that upon phagocytosis by
+j774a.1 cells, c. albicans undergoes a starvation-like tran-
+scriptional response, suggesting that the phagolysosome is
+a nutritionally poor environment. vacuolar proteases
+including api, cpy and prb are upregulated following
+macrophage ingestion, suggesting that vacuole-mediated
+proteolysis may be important
+following
+phagocytosis. however, our atg9d mutant was not deﬁcient
+in its ability to survive within or kill a mouse macrophage-
+like cell line, suggesting that autophagy may not be required
+for c. albicans–macrophage interaction. this prompted us
+to conduct a small-scale pilot study to test the virulence of
+the atg9d mutant in the well-deﬁned mouse model of
+haematogenously disseminated candidiasis. only three mice
+were infected per c. albicans strain, but our results (mean
+survival time and fungal burden in the kidneys) clearly
+suggested that the atg9d mutant is fully virulent (data not
+shown). taken together, these results indicate that autop-
+hagy plays little or no role in c. albicans differentiation
+or pathogenesis. it remains possible that autophagy is
+important for the long-term survival of c. albicans as a
+commensal organism, or to reside on a peripheral host site
+such as skin, or perhaps within the environment.
+previously we found a c. albicans vps11d mutant to be
+defective in vacuole biogenesis and to exhibit a range of
+pleiotropic phenotypes, including a reduced growth rate,
+sensitivity to a range of stresses and to nitrogen starvation,
+and reduced vacuolar and secreted protease activities
+(palmer et al., 2003, 2005). moreover, this mutant is
+unable to undergo yeast–hypha differentiation and was
+unable to kill the j774a.1 macrophage cell line. work with a
+partially functional vps11 allele revealed that restoring a
+normal growth rate, stress resistance, and sap and vacuolar
+hydrolase activities was not sufﬁcient to restore normal
+ﬁlamentation or macrophage killing. both vps11 mutants
+have highly fragmented vacuole morphology and are
+sensitive to nitrogen starvation, suggesting either of these
+vacuolar functions to be important in yeast–hypha differ-
+entiation and macrophage killing. as outlined above, the
+major role of the vacuole during nitrogen starvation is
+through the process of autophagy. the results presented
+here clearly demonstrate that vacuolar functions relating to
+autophagy are of little consequence in either yeast–hypha
+differentiation or interaction with macrophages.
+gow & gooday (1982, 1984) originally observed the vacuole
+to undergo a dynamic expansion during c. albicans germ-
+tube emergence from a parental yeast cell. furthermore,
+during apical extension of the germ-tube, asymmetrical
+candida albicans autophagy
+division of the protoplasm yields subapical compartments
+composed almost entirely of vacuole, whereas the proto-
+plasm migrates at the hyphal tip (barelle et al., 2003; gow
+& gooday, 1984). after a delay, the highly vacuolated
+compartments regenerate cytoplasm and the vacuoles
+recede. this pattern of vacuole inheritance also seems to
+inﬂuence cell cycle progression and branching frequency of
+the hyphae (barelle et al., 2003; veses et al., 2005). at present
+the mechanism by which vacuole expansion is mediated,
+and its importance during host interaction, are unknown.
+our results further strengthen the hypothesis that the major
+role the vacuole plays in yeast–hypha differentiation relates
+to its morphology, and perhaps its physical expansion to
+generate ‘empty’ hyphal compartments. moreover, our
+results eliminate the autophagic and cvt trafﬁcking pathways
+as mediating germ-tube induced vacuole expansion.
+acknowledgements
+this work was supported by nih grant r21ai60371, awarded to j. e. s.
+this publication was
+also made possible by grant number
+p20rr020160 from the national center for research resources
+(ncrr), a component of the national institutes of health (nih). its
+contents are solely the responsibility of the authors and do not
+necessarily represent the ofﬁcial view of ncrr or nih.
+references
+abeliovich, h. & klionsky, d. j.
+(2001). autophagy in yeast:
+mechanistic insights and physiological function. microbiol mol biol
+rev 65, 463–479.
+barelle, c. j., bohula, e. a., kron, s. j., wessels, d., soll, d. r.,
+schafer, a., brown, a. j. & gow, n. a. (2003). asynchronous cell
+cycle and asymmetric vacuolar inheritance in true hyphae of candida
+albicans. eukaryot cell 2, 398–410.
+bensen, e. s., filler, s. g. & berman, j.
+(2002). a forkhead
+transcription factor is important for true hyphal as well as yeast
+morphogenesis in candida albicans. eukaryotic cell 1, 787–798.
+burke, d., dawson, d. & stearns, t. (2000). methods in yeast
+genetics: a cold spring harbor laboratory course manual. cold
+spring harbor, ny: cold spring harbor laboratory.
+crandall, m. & edwards, j. e., jr (1987). segregation of proteinase-
+negative mutants
+j gen
+microbiol 133, 2817–2824.
+(2004).
+de repentigny, l., lewandowski, d. & jolicoeur, p.
+immunopathogenesis of oropharyngeal
+in human
+immunodeﬁciency virus infection. clin microbiol rev 17, 729–759.
+gerami-nejad, m., berman, j. & gale, c. a. (2001). cassettes for
+pcr-mediated construction of green, yellow, and cyan ﬂuorescent
+protein fusions in candida albicans. yeast 18, 859–864.
+gow, n. a. & gooday, g. w. (1982). vacuolation, branch production
+and linear growth of germ tubes in candida albicans. j gen microbiol
+128, 2195–2198.
+gow, n. a. & gooday, g. w. (1984). a model for the germ tube
+formation and mycelial
+albicans.
+sabouraudia 22, 137–144.
+guthrie, c. & fink, g. (1991). guide to yeast genetics and molecular
+biology. new york: academic press.
+from heterozygous candida albicans.
+growth form of candida
+candidiasis
+http://mic.sgmjournals.org
+57
+g. e. palmer, m. n. kelly and j. e. sturtevant
+klionsky, d. j. (2005). the molecular machinery of autophagy:
+unanswered questions. j cell sci 118, 7–18.
+klionsky, d. j., cueva, r. & yaver, d. s. (1992). aminopeptidase i of
+saccharomyces cerevisiae is localized to the vacuole independent of
+the secretory pathway. j cell biol 119, 287–299.
+kyte, j. & doolittle, r. f. (1982). a simple method for displaying the
+hydropathic character of a protein. j mol biol 157, 105–132.
+lang, t., reiche, s., straub, m., bredschneider, m. & thumm, m.
+(2000). autophagy and the cvt pathway both depend on aut9.
+j bacteriol 182, 2125–2133.
+lorenz, m. c., bender, j. a. & fink, g. r. (2004). transcriptional
+response of candida albicans upon internalization by macrophages.
+eukaryot cell 3, 1076–1087.
+maertens, j., vrebos, m. & boogaerts, m. (2001). assessing risk
+factors for systemic fungal infections. eur j cancer care 10, 56–62.
+mizushima, n. (2005). the pleiotropic role of autophagy:
+from
+protein metabolism to bactericide. cell death differ 12 (suppl. 2),
+1535–1541.
+(2005). molecular mechanisms and
+nair, u. & klionsky, d. j.
+regulation of speciﬁc and nonspeciﬁc autophagy pathways in yeast.
+j biol chem 280, 41785–41788.
+noda, t., kim, j., huang, w. p., baba, m., tokunaga, c., ohsumi, y.
+& klionsky, d. j. (2000). apg9p/cvt7p is an integral membrane
+protein required for transport vesicle formation in the cvt and
+autophagy pathways. j cell biol 148, 465–480.
+oda, m. n., scott, s. v., hefner-gravink, a., caffarelli, a. d. &
+klionsky, d. j. (1996). identiﬁcation of a cytoplasm to vacuole
+targeting determinant in aminopeptidase i. j cell biol 132, 999–1010.
+palmer, g. e. & sturtevant, j. e. (2004). random mutagenesis of an
+essential candida albicans gene. curr genet 46, 343–356.
+palmer, g. e., cashmore, a. & sturtevant, j.
+(2003). candida
+albicans vps11 is required for vacuole biogenesis and germ tube
+formation. eukaryot cell 2, 411–421.
+palmer, g. e., johnson, k. j., ghosh, s. & sturtevant, j. (2004).
+mutant alleles of the essential 14-3-3 gene in candida albicans
+distinguish between growth and ﬁlamentation. microbiology 150,
+1911–1924.
+to
+the
+by
+is
+autophagosomes
+vacuole mediated
+palmer, g. e., kelly, m. n. & sturtevant, j. e. (2005). the candida
+albicans vacuole
+required for differentiation and efﬁcient
+macrophage killing. eukaryot cell 4, 1677–1686.
+ramon, a. m. & fonzi, w. a. (2003). diverged binding speciﬁcity of
+rim101p, the candida albicans ortholog of pacc. eukaryot cell 2,
+718–728.
+rocha, c. r., schroppel, k., harcus, d., marcil, a., dignard, d.,
+taylor, b. n., thomas, d. y., whiteway, m. & leberer, e. (2001).
+signaling through adenylyl cyclase is essential for hyphal growth and
+virulence in the pathogenic fungus candida albicans. mol biol cell
+12, 3631–3643.
+suzuki, k., kamada, y. & ohsumi, y. (2002). studies of cargo
+delivery
+in
+saccharomyces cerevisiae. dev cell 3, 815–824.
+takeshige, k., baba, m., tsuboi, s., noda, t. & ohsumi, y. (1992).
+autophagy in yeast demonstrated with proteinase-deﬁcient mutants
+and conditions for its induction. j cell biol 119, 301–311.
+thumm, m., egner, r., koch, b., schlumpberger, m., straub, m.,
+veenhuis, m. & wolf, d. h. (1994). isolation of autophagocytosis
+mutants of saccharomyces cerevisiae. febs lett 349, 275–280.
+tsukada, m. & ohsumi, y. (1993). isolation and characterization of
+autophagy-defective mutants of saccharomyces cerevisiae. febs lett
+333, 169–174.
+veses, v., casanova, m., murgui, a., dominguez, a., gow, n. a. &
+martinez, j. p. (2005). abg1, a novel and essential candida albicans
+gene encoding a vacuolar protein involved in cytokinesis and hyphal
+branching. eukaryot cell 4, 1088–1101.
+vida, t. a. & emr, s. d. (1995). a new vital stain for visualizing vacuolar
+membrane dynamics and endocytosis in yeast. j cell biol 128, 779–792.
+wang, c. w. & klionsky, d. j. (2003). the molecular mechanism of
+autophagy. mol med 9, 65–76.
+wilson, r. b., davis, d. & mitchell, a. p. (1999). rapid hypothesis
+testing with candida albicans through gene disruption with short
+homology regions. j bacteriol 181, 1868–1874.
+yorimitsu, t. & klionsky, d. j.
+(2005). autophagy: molecular
+machinery for self-eating. cell death differ 12 (suppl. 2), 1542–1552.
+edited by: d sanglard
+58
+microbiology 153

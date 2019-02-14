@@ -1,0 +1,2422 @@
+research
+integrated proteomics and genomics
+strategies bring new insight into
+candida albicans response upon
+macrophage interaction*□s
+elena ferna´ ndez-arenas‡, virginia cabezo´ n, clara bermejo, javier arroyo,
+ce´ sar nombela§, rosalı´a diez-orejas¶, and concha gil
+the interaction of candida albicans with macrophages is
+considered a crucial step in the development of an ade-
+quate immune response in systemic candidiasis. an in vitro
+model of phagocytosis that includes a differential staining
+procedure to discriminate between internalized and non-
+internalized yeast was developed. upon optimization of a
+protocol to obtain an enriched population of ingested
+yeasts, a thorough genomics and proteomics analysis was
+carried out on these cells. both proteins and mrna were
+obtained from the same sample and analyzed in parallel.
+the combination of two-dimensional page with ms re-
+vealed a total of 132 differentially expressed yeast protein
+species upon macrophage interaction. among these spe-
+cies, 67 unique proteins were identified. this is the first time
+that a proteomics approach has been used to study c.
+albicans-macrophage interaction. we provide evidence of a
+rapid protein response of the fungus to adapt to the new
+environment inside the phagosome by changing the ex-
+pression of proteins belonging to different pathways. the
+clear down-regulation of the carbon-compound metabo-
+lism, plus the up-regulation of lipid, fatty acid, glyoxylate,
+and tricarboxylic acid cycles, indicates that yeast shifts to a
+starvation mode. there is an important activation of the
+degradation and detoxification protein machinery. the
+complementary genomics approach led to the detection of
+specific pathways related to the virulence of candida. net-
+work analyses allowed us to generate a hypothetical model
+of candida cell death after macrophage interaction, high-
+lighting the interconnection between actin cytoskeleton,
+mitochondria, and autophagy in the regulation of apoptosis.
+in conclusion, the combination of genomics, proteomics,
+and network analyses is a powerful strategy to better un-
+derstand
+interactions.
+molecular & cellular proteomics 6:460–478, 2007.
+host-pathogen
+the
+complex
+gastrointestinal tract, and vagina of many mammals and does
+not normally cause disease in immunocompetent colonized
+hosts. in the last 3 decades, c. albicans has increasingly be-
+come the focus of medical interest because it remains the cause
+of substantial morbidity and mortality in the expanding immu-
+nocompromised population (i.e. aids or cancer patients) (1, 2).
+at present, fatal opportunistic mycosis continues to be alarm-
+ingly frequent (3, 4) as the cure rate is limited by reduced
+effectiveness and serious side effects of the few currently avail-
+able drugs, the appearance of antifungal drug resistance, and
+the lack of accurate and prompt diagnostic procedures (5, 6).
+these infections are the result of a coordinated battle be-
+tween the fungus and its host. the mammalian immune sys-
+tem is a powerful barrier to candida infections, and phago-
+cytic cells, such as macrophages and neutrophils, are a
+primary line of defense against microbial infections. macro-
+phages also communicate with the adaptative immune sys-
+tem as antigen-presenting cells, capturing and processing
+foreign antigens for presentation to t cells, enabling immuno-
+logical memory (7). when a phagocyte recognizes the pres-
+ence of a foreign cell, it engulfs the microorganism by a
+process called phagocytosis by which its membrane forms a
+phagosome (8). this phagosome is a hostile environment (low
+nutrients, acidic ph, and hydrolytic enzymes) for the fungus.
+although tuned host responses are critical in controlling fun-
+gal infections, pathogens like candida have evolved mecha-
+nisms to overcome the damage caused by the macrophage.
+among the most important of these mechanisms are the
+morphological transition and inhibition or neutralization of
+toxic compounds (9). in this study, we suggest that the induc-
+tion of different pathways leading to active self-destruction
+(i.e. programmed cell death (pcd)1), originally described in
+mammals, could be a yeast survival mechanism (10, 11).
+the fungus candida albicans is part of the normal microbial
+flora that colonizes mucocutaneous surfaces of the oral cavity,
+from the departamento de microbiologı´a ii, facultad de farmacia,
+universidad complutense, 28040 madrid, spain
+received, june 5, 2006, and in revised form, november 1, 2006
+published, mcp papers in press, december 12, 2006, doi
+10.1074/mcp.m600210-mcp200
+1 the abbreviations used are: pcd, programmed cell death; 2d,
+two-dimensional; bp, band pass; cgd, candida genome database;
+cwh, calcofluor white m2r; funspec, functional specification;
+␥no⫺, ␥ nitric oxide-deficient; go, gene ontology; mips, munich
+information center for protein sequences; rni, reactive nitrogen
+intermediates; roi,
+reactive oxygen intermediates; gpi, glyco-
+sylphosphatidylinositol; c-compound, carbon-compound.
+460 molecular & cellular proteomics 6.3
+© 2007 by the american society for biochemistry and molecular biology, inc.
+this paper is available on line at http://www.mcponline.org
+functional analysis of c. albicans-macrophage interaction
+the ready availability of the c. albicans genome sequence
+has led to genome-wide transcription analysis in c. albicans
+(12–14). genome-wide mrna expression profiling by dna
+microarrays has proven to be a powerful tool in characterizing
+the changes in biological processes (15). different genomics
+approaches to studying c. albicans response after phagocyte
+interaction have been performed, showing the potential of
+these strategies to analyze the host-pathogen interplay (16 –
+18). nevertheless most biological functions are executed by
+the proteins. as a result, proteomics-based approaches,
+which examine the level of protein expression of a tissue or
+cell type, complement the genome initiatives and are increas-
+ingly being used to address biomedical questions. thus, pro-
+teomics could substantially complement the existing molec-
+ular understanding of host-pathogen interaction, giving new
+insight at a higher level (19). proteomics is based on highly
+efficient methods of separation and analysis of proteins in
+living systems, providing exhaustive information on biochem-
+ical properties such as the level of protein expression, post-
+translational modifications, protein-protein interactions, etc.
+a thorough proteomics analysis of the c. albicans response
+upon macrophage interaction could provide a large amount of
+information, such as putative new virulence factors required
+for future drug discovery and vaccine development (20, 21). in
+this work, we used an in vitro system of phagocytoses by
+utilizing the murine macrophage cell line raw 264.7 and the
+wild-type yeast strain sc5314. an exhaustive protocol of
+yeast isolation after the encounter with macrophages was
+developed. differential c. albicans protein expression in these
+conditions was studied by two-dimensional (2d) page. dif-
+ferentially expressed proteins were identified by peptide mass
+fingerprinting and fragmentation using a maldi-tof/tof
+mass spectrometer. in addition, the differential gene expres-
+sion using microarrays was also analyzed. proteomics infor-
+mation, when combined with mrna expression data, has
+provided a more detailed picture of the c. albicans-macro-
+phage interaction.
+this integrated approach has led to the establishment of
+correlations in “specific” cellular pathways that reflect a global
+view of the molecular fungal phenotype in this biological con-
+text. results from the network visualizing system led us to
+hypothesize that candida cells could possibly trigger different
+cell death pathways after macrophage contact. furthermore
+this apoptotic yeast cell death is connected with mitochondria
+and actin cytoskeleton.
+experimental procedures
+strains, media, and cell culture conditions—the c. albicans strain
+used in this study was sc5314 (a clinical isolate) (22). for phagocytic
+experiments, this strain was grown on solid yed medium (1% d-
+glucose, 1% difco yeast extract, and 2% agar), incubated at 30 °c for
+at least 2 days, and then collected and diluted to the desired cell
+dilution in rpmi 1640 medium supplemented with 10% heat-inacti-
+vated fetal bovine serum (invitrogen).
+raw 264.7 ␥no⫺ murine macrophages were obtained from the
+american type culture collection (manassas, va) and maintained in
+complete culture medium (rpmi 1640 medium containing 10% heat-
+inactivated fetal bovine serum, 2 mm l-glutamine, 100 units/ml peni-
+cillin, and 100 ␮g/ml streptomycin (invitrogen) at 37 °c in a humidified
+atmosphere with 5% co2. cells were split after reaching the confluent
+state, usually every 2–3 days. raw cells were plated at the indicated
+density 18 –24 h prior to the start of the experiments (23).
+phagocytosis quantification—to select the optimal conditions for
+subsequent genomics and proteomics analyses, a differential staining
+protocol was set up to quantify the phagocytic process. c. albicans
+yeasts were prelabeled with oregon green 488 (1 ␮m) (molecular
+probes). labeling was performed in the dark with gentle shaking
+(30 °c) for 1 h. dye uptake and cell viability in these conditions were
+confirmed by visualization of green fluorescence using a fitc filter.
+cells were washed twice with pbs, 100 mm glycine and resuspended
+in pbs at the desired density. raw 264.7 macrophages (5 ⫻ 105
+cells/well) were allowed to ingest oregon green-labeled yeast on
+sterile glass coverslips for 1.5 and 3 h using a fungus-macrophage
+ratio of 1:1. cells were then washed with ice-cold pbs and fixed in
+4% paraformaldehyde for 30 min. to distinguish between internalized
+and attached/non-ingested yeast, c. albicans cells were counter-
+stained with calcofluor white m2r (sigma) (2.5 ␮m) for 15 min in the
+dark. cwh, a fungus-specific stain, binds specifically to the yeast cell
+wall chitin and does not enter into macrophages. after several
+washes, coverslips were mounted with specific mounting medium
+(dakocytomation denmark a/s). the number of ingested cells (con-
+taining green fluorescence) and/or adhered/non-ingested (calcofluor
+white blue fluorescence) were quantified by phase-contrast and flu-
+orescence microscopy using a carl zeiss axioplan-2 microscope
+(carl zeiss ag) with a mercury hbo/100-watt lamp fitted with fitc
+(excitation/emission bp 480/30 and bp 535/40, respectively) and uv
+filters (4⬘,6-diamidino-2-phenylindole, dihydrochloride excitation/
+emission bp 365/12 and long pass 397, respectively) and equipped
+with a digital camera, spot-2 (diagnostic instruments). metamorph
+5.0 (universal imaging corp.) and imagej version 1.35h (available at
+rsb.info.nih.gov/ij/index.html) softwares were used to analyze images.
+three different slides were prepared for each time point, and at least
+four experiments were done. no less than 600 c. albicans cells were
+scored per slide, and data were expressed as the percentage of cells
+internalized by macrophages. to follow the interaction between c.
+albicans and macrophages (fungus-macrophage ratio, 1:1), 3-h time
+course video microscopy was carried out. images were captured
+every 30 s with a nikon eclipse te2000-u microscope (using contrast
+phase lenses) equipped with a thermostatic plate and connected to a
+high resolution hamamatsu orca-er camera. the information was
+processed using aquacosmos 2.0 software.
+isolation of ingested/attached yeasts after macrophage interac-
+tion—on day ⫺1 (18 –24 h prior to the start of the co-culture experi-
+ments), macrophages were collected and counted with a neubauer
+chamber (hemocytometer). a total of 3.5 ⫻ 107 cells were plated in
+complete culture medium in a 750-ml cell culture flask and grown
+overnight at 37 °c in a humidified atmosphere with 5% co2. c.
+albicans strain sc5314 was grown overnight at 30 °c on solid yed
+medium (to maintain cells in the yeast form). on day 1, these yeast
+cells were harvested, washed twice with pbs, counted, and diluted to
+the desired density in 50 ml of complete culture medium. a total of
+5 ⫻ 107 yeast cells were added per flask to obtain a fungus-macro-
+phage ratio of 1:1 (because repeated cell counts of the overnight
+macrophage cultures indicated a growth rate of 1.4) and incubated for
+1.5 h (for microarray experiments) and 3 h (for both proteomics and
+microarray experiments) at 37 °c and 5% co2. non-ingested and
+unbound candida cells were removed by washing three times with
+ice-cold pbs. the macrophages plus bound/ingested yeast cells
+were dislodged by scraping the flask with rubber scrapers in ice-cold
+molecular & cellular proteomics 6.3
+461
+functional analysis of c. albicans-macrophage interaction
+water and pooled by centrifugation for 10 min at 4000 rpm (kubota
+2010, kubota corp.). the resulting cell pellet was resuspended in a
+0.25% triton x-114 solution (50 mm tris-hcl, 2 mm edta, ph 7.5),
+vortexed three times, and chilled on ice for 30 min to eliminate most
+of the lysed macrophages. subsequently another triton x-114 treat-
+ment was performed for 5 min. next the sample was washed four to
+six times with ice-cold milliq water to eliminate any trace of the
+detergent used. control c. albicans cells were collected, washed, and
+treated in the same way as above but in the absence of macrophages.
+generation of candida protein extracts for proteomics analysis—
+cytoplasmic extracts were obtained according to ref. 24 with some
+modifications. briefly the cell pellet was resuspended in 3 ml of lysis
+buffer (50 mm tris-hcl, ph 7.5, 1 mm edta, 150 mm nacl, 1 mm dtt,
+0.5 mm pmsf, and a mixture of protease inhibitors (complete mini,
+edta-free protease inhibitor mixture tablets, roche diagnostics). an
+equal volume of 0.4–0.6-mm-diameter glass beads was added. cells
+were disrupted in a fastprep cell breaker (bio 101, inc.) for 20 s and
+cooled on ice for 5 min (this procedure was repeated until at least 80%
+of the cells had been lysed as determined by phase-contrast micro-
+scopic examination). cell extracts were separated from glass beads and
+cell debris, collected in a new tube through refrigerated centrifugation,
+further clarified at 13,000 rpm for 15 min, and stored at ⫺80 °c. protein
+quantification was performed using the bradford assay (bio-rad).
+2d page—two-dimensional gel electrophoresis was performed as
+reported previously (25) with some modifications. samples containing
+100 ␮g (analytical gels) or 0.5–1 mg (preparative gels) of protein were
+solubilized in a rehydration buffer (7 m urea, 2 m thiourea, 4% chaps,
+2% pharmalyte ph 3–10, 1% destreak (ge healthcare), and brom-
+phenol blue (sigma)) and were then applied onto 18-cm ready made
+ipg strips with non-linear ph 3–10 gradient (ge healthcare). ief was
+performed using an ipgphor姞 focusing unit (ge healthcare) at 15 °c:
+for analytical gels, 500 v for 1 h, 500–2000 v in 1 h, and 8000 v for 5.5 h;
+for preparative gels, 30 v (active rehydration) for at least 13 h, 500 v for
+1 h, 1000 v for 1 h, 2000 for 1 h, 2000–5000 v in 3 h, and 8000 v for
+11 h. after this, ipg strips were reduced (2% dithioerythritol) and then
+alkylated (2.5% iodoacetamide) in equilibration buffer (6 m urea, 50 mm
+tris-hcl, ph 6.8, 30% glycerol, 2% sds). the second dimension sep-
+aration by molecular weight was carried out on homogenous 10% t,
+1.6% c (piperazine diacrylamide as a cross-linker) in polyacrylamide
+gels (1.5 mm thick). electrophoresis was conducted at 40 ma/gel con-
+stant current for 6 h in a protean ii gel tank (bio-rad). analytical gels
+were silver-stained according to bjellqvist et al. (26) with few modifica-
+tions, and preparative gels were stained using r-250 coomassie bril-
+liant blue (sigma) and silver staining compatible with ms analyses (27).
+analysis of differential protein expression—2d images were cap-
+tured by scanning stained gels using a gs-800 imaging densitometer
+(bio-rad), digitalized with multi-analyst software (bio-rad), and an-
+alyzed with the image-master 2d-platinum computer software (ge
+healthcare). six gels of each sample (control and treated), obtained
+from three different assays, were analyzed to guarantee representa-
+tive results and for future comparative studies. after automated spot
+detection, spots were checked manually to eliminate any possible
+artifacts such as background noise or streaks. the patterns of each
+sample were overlapped and matched, using the selection of 28
+common spots present in both images as landmarks, to detect po-
+tential differentially expressed proteins. spot normalization, as an
+internal calibration to make the data independent of experimental
+variations between gels, was made using relative volumes (%vol) to
+quantify and compare the gel spots; %vol corresponds to the volume
+of each spot divided by the total volume of all the spots in the gel.
+synthetic gels from both treated and control yeasts were obtained
+from the six gels analyzed previously.
+protein identification by maldi-tof ms or ms/ms—the protein
+spots of interest were manually excised from preparative silver-
+462 molecular & cellular proteomics 6.3
+stained gels by biopsy punches, placed in an eppendorf tube, and
+washed twice with double distilled water. proteins for analysis were
+in-gel reduced, alkylated, and digested with bovine trypsin (12.5
+ng/␮l, sequencing grade; roche applied science) according to the
+procedure published by sechi and chait (28). after digestion, the
+supernatant was collected, and 1 ␮l was spotted on a maldi target
+plate and allowed to air dry for 10 min at room temperature. subse-
+quently 0.4 ␮l of matrix (3 mg/ml of ␣-cyano-4-hydroxy-trans-cin-
+namic acid (sigma) diluted in 0.1% tfa-acn/h2o (1:1, v/v)) were
+added to the dried peptide digest spots and allowed to air dry for
+another 5 min at room temperature. the samples were analyzed with
+a 4700 proteomics analyzer maldi-tof/tof mass spectrometer
+(applied biosystems, framingham, ma). this maldi-tof/tof instru-
+ment consists of a maldi source with a 200-hz neodynium yag
+(yttrium aluminium garnet) laser operating at 355 nm and operated in
+positive ion reflector mode with an accelerating voltage of 20,000 v.
+all ms spectra were internally calibrated using peptides from the
+autodigestion of trypsin. the analysis by maldi-tof mass spectrom-
+etry produced peptide mass fingerprints, and the peptides observed
+can be collated and represented as a list of monoisotopic molecular
+weights. for ms analyses, a monoisotopic peak is selected, and all
+known contaminant ions were excluded during the process. the
+parameters used to analyze the data were: a signal to noise threshold
+of 20 and a resolution higher than 10,000 with a mass accuracy of 20
+ppm. proteins ambiguously identified by peptide mass fingerprints
+were subjected to ms/ms sequencing analyses using the 4700 pro-
+teomics analyzer (applied biosystems). hence from the ms spectra,
+suitable precursors were selected for ms/ms analyses with cid (at-
+mospheric gas was used) in 1-kv ion reflector mode and precursor
+mass windows of ⫾10 da. the plate model and default calibration
+were optimized for the ms/ms spectra processing. the parameters
+used to analyze the data were: a signal to noise threshold of 10 and
+a resolution higher than 6000.
+for the protein identification, both ms and ms/ms spectra were
+automatically searched using a local
+license of mascot 1.9 from
+matrix science through the protein global server (gps) from applied
+biosystems. the search parameters for peptide mass fingerprints and
+tandem ms spectra obtained were set as follows: two sequence
+databases were used, swiss-prot/trembl non-redundant protein da-
+tabase (www.expasy.ch/sprot) as well as candidadb (genolist.pas-
+teur.fr/candidadb) (14) and cgd (www.candidagenome.org) (12, 13).
+fixed and variable modifications were considered (cys as s-carbam-
+idomethyl derivative and met as oxidized methionine), allowing for
+one missed cleavage site; precursor tolerance was 50 –100 ppm and
+ms/ms fragment tolerance was 0.3 da; a restriction was placed on
+isoelectric point (pi 3–10); and a protein mass range from 10 to 100
+kda was accepted. in all protein identifications, peptide mass finger-
+print, or ms/ms, the probability scores were greater than the score
+fixed as significant with a p value ⬍0.05.
+rna isolation, microarray hybridization, and data analysis—all
+these processes were basically carried out following the protocols
+described by garcia et al. (29) and eurogentec (manufacturer) with
+some modifications. briefly total rna was isolated using the rneasy
+midi kit (qiagen). rna concentrations were determined by measuring
+absorbance at 260 nm. rna purity and integrity were assessed using
+rna nano labchips in an agilent 2100b bioanalyzer (agilent tech-
+nologies, palo alto, ca) following the manufacturer’s instructions.
+cdna was synthesized from 20 –30 ␮g of total rna (control and
+ingested yeast) by reverse transcription using the cyscribetm post-
+labeling kit, incorporating cy3-dutp or cy5-dutp (ge healthcare)
+into the cdna corresponding to each sample to be compared. the
+amount of cdna, as well as the incorporation of cy3 and cy5 dyes
+into cdna targets, was quantified on an ultrospec 3300 pro uv/
+visible spectrophotometer (ge healthcare) by measuring the absorb-
+functional analysis of c. albicans-macrophage interaction
+fig. 1. a, raw 264.7 macrophages exposed to labeled c. albicans wild-type strain sc5314 (oregon green 488) for 1.5 h (left column) and
+3 h (central and right columns). intracellular and external/adhered c. albicans cells were distinguished based on fluorescence after co-staining
+with cwh, which does not enter or stain macrophages. cwh stains the cell wall of external/adhered fungal cells blue so that green cells have
+an external rim of blue fluorescence. (fluorescence and phase-contrast micrographs were acquired using a 40⫻ oil objective.) b, phagocytosis
+of c. albicans yeasts was quantified at the indicated periods of time (x axis). the number of ingested yeast (percentage) expressing oregon
+green 488 fluorescence (y axis) is shown. results shown are derived from triplicate measurements in one experiment, which was representative
+of four independent experiments (⫾s.d.) as described under “experimental procedures.”
+ance of each sample at 260, 550, and 660 nm, respectively. both
+labeled cdna populations were combined, dried in a vacuum trap,
+and used as a hybridization probe after resuspension in 55 ␮l of egt
+hybridization solution (eurogentec, seraing, belgium) and 100 ␮g of
+salmon sperm (invitrogen) ml⫺1. the printed microarrays including the
+complete set of 6039 orfs coded by the c. albicans sc5314 genome
+and 27 control genes (spotted in duplicate) used in this study were
+provided by eurogentec. information about c. albicans gene annota-
+tions was obtained from candidadb, mycopathpd (proteome bio-
+knowledge
+library, www.proteome.com/control/tools/proteome),
+and cgd. slides were hybridized overnight with the labeled probe at
+42 °c in a water bath. before scanning, the chips were washed and
+dried following the manufacturer’s instructions.
+for each condition tested, the total rna from at least two different
+experiments was analyzed, and for each rna sample at least two
+different hybridizations were performed. expression ratios were ob-
+tained from the average of four different microarray experiments using
+two biological samples and dye swapping. to allow a direct compar-
+ison of the data obtained from each experiment, labeled cdna cor-
+responding to rna from c. albicans upon macrophage interaction
+was co-hybridized with rna isolated from control c. albicans cells.
+microarrays were scanned with a genepix 4000b scanner (axon
+instruments, union city, ca) at a resolution of 5 ␮m (photomultiplier
+values ranging from 550 to 700 and laser power at 100%). genepix
+pro 4.0 analysis software (axon instruments) was used to locate spots
+in the microarray with the appropriate grid and to obtain the two
+image tiff files. all images were further processed using genepix 4.0
+software according to the manufacturer’s instructions. flagged spots
+and spots with an average intensity minus background below the
+mean of the background (considering this as the median of the local
+background for each spot) for all the non-flagged spots in any of the
+channels (cy3 or cy5) were not retained for further analysis. within
+this group, the spots showing in one channel a value of intensity
+minus background higher than 5 times the mean of the background
+for all spots in the microarray for that channel were recovered. the
+reproducibility of replicates in each microarray (two spots per orf)
+was analyzed by creating a normal distribution log2 (ra ⫻ 1/rb)
+where ra and rb are the ratios of replicated spots after background
+subtraction and normalization. replicates that exceeded the average
+by more than ⫾3 standard deviation were discarded. data analysis
+was accomplished using the genesight 4.0 software package (bio-
+discovery inc., el segundo, ca). locally weighed linear regression
+(lowess) analysis was performed as a normalization method to
+remove the intensity-dependent deviation in the log2 (ratio) values.
+significance analysis of the results was conducted using a student’s
+t test (genesight). genes with p ⬍0.05 were considered to be signif-
+icantly differentially expressed with respect to the treatment condi-
+tion; and genes with p values between 0.05 and 0.1 were considered
+to probably be significantly differentially expressed with respect to the
+treatment condition.
+the microarray data described here follow the miame (minimum
+information about a microarray experiment) recommendations and
+have been deposited at the national center for biotechnology infor-
+mation gene expression and hybridization array data repository (gene
+expression omnibus (geo), www.ncbi.nlm.nih.gov/geo/) with the fol-
+lowing accession number: gse4794.
+functional classification—functional categories (pathways) for c.
+albicans genes/proteins were assigned using candidadb, myco-
+pathpd, and cgd available from the pasteur institute, the pro-
+teome bioknowledge library, and the candida genome consor-
+tium and on the basis of the saccharomyces genome database
+(www.yeastgenome.org/) and mips (mips.gsf.de/proj/yeast/cygd/
+db/index.html) functional assignments for saccharomyces cerevi-
+siae homologs (30).
+the funspec (an acronym for “functional specification”) web-
+based tool was used for statistical evaluation of groups of genes and
+proteins with respect to existing annotations, including go terms or
+parents of the go terms (31). statistical testing for enrichment of
+functional categories among the set of identified proteins and genes
+was based on a hypergeometric distribution model using the method
+of hughes and co-workers (31). this method gives the probability (p
+value) that the intersection of a given list with any given functional
+category occurs by chance. a threshold cutoff p value of p ⬍0.05 was
+used as a final selection criterion to highlight statistically significant,
+potentially biologically interesting clusters.
+visualization,
+integration, and manipulation of
+interaction net-
+works—the osprey version 1.2.0 software platform was used for
+visualization and manipulation of complex interaction networks (32).
+this network visualization system not only represents interactions in
+a flexible and rapidly expandable graphical format but also provides
+options for functional comparisons between datasets. furthermore
+the built data-rich graphical representations are color-coded for gene
+molecular & cellular proteomics 6.3
+463
+functional analysis of c. albicans-macrophage interaction
+interaction data. osprey is dynamically
+function and experimental
+linked to the biogrid (general repository for interaction datasets)
+database (33), which in turn compiles gene annotations provided by
+the saccharomyces genome database.
+results
+yeast macrophage co-culture
+to set up the optimal conditions to study proteins and
+genes of c. albicans differentially expressed upon macro-
+phage interaction, co-culture assays were performed as de-
+scribed in detail under “experimental procedures” using a
+macrophage-candida ratio of 1:1. cells ingested or associ-
+ated with macrophages were discriminated using differential
+fluorescent labeling with oregon green and cwh (fig. 1a).
+the percentage of ingested cells was determined at different
+time points. as shown in fig. 1b the phagocytic percentage
+increased over the time from 1 to 3 h; it was 80% at the later
+time point. to monitor this process in vivo, 3-h time course
+video microscopy experiments were carried out. yeast internal-
+ization occurred as early as 15–20 min. after 1 h of interaction,
+the fungus started to germinate in an attempt to avoid being
+engulfed by the macrophage within 3 h (supplemental fig. 1).
+after optimization of the phagocytic conditions, a protocol
+was set up to obtain proteins and mrna samples from inter-
+nalized/attached yeast cells for proteomics and genomics
+analysis, respectively. a schematic protocol is shown in fig. 2.
+co-cultures (candida and macrophages) were washed twice
+with pbs to eliminate unbound yeast cells. macrophages
+were lysed with ice-cold water. two successive treatments
+with triton x-114 were carried out to eliminate the majority of
+cellular debris after phase separation. cellular debris (from
+lysed macrophages) were found exclusively in the aqueous
+phase where c. albicans cells can be recovered in the deter-
+gent phase (34) (less than 5% of macrophage contamination
+was present in the yeast fraction). fungal cells were exten-
+sively washed with ice-cold water to remove any trace of the
+detergent. next cells were mechanically disrupted to obtain
+both protein and rna extracts from the same samples. con-
+trol c. albicans cells, incubated under identical experimental
+conditions but in the absence of macrophages, were used to
+minimize variations due to experimental conditions.
+proteomics analysis
+protein separation by 2d page and comparative analy-
+sis—proteins from total soluble c. albicans extracts (control
+and upon macrophage interaction) were separated by 2d
+page. total protein extracts were prepared from three differ-
+ent experiments, and two different 2d silver-stained gels from
+each single preparation were analyzed with the image-master
+2d-platinum computer software. synthetic gels from both
+treated and control yeasts were obtained from the six gels
+analyzed previously. a protein spot had to occur in at least
+five of the six gels to be included in the average (synthetic) gel
+(supplemental fig. 2). reproducibility of the gels from each
+464 molecular & cellular proteomics 6.3
+fig. 2. strategy followed to obtain an enriched-ingested c. al-
+bicans fraction upon macrophage interaction for both proteom-
+ics and genomics approaches. m(cid:1), macrophage(s); fbs, fetal bo-
+vine serum.
+condition was confirmed by statistical analysis (supplemental
+table i). the analysis was done on each increased or dimin-
+ished spot present in the synthetic gel from each condition for
+which central
+tendency (arithmetic mean) and dispersion
+(mean squared deviation) of the %vol were calculated. the
+synthetic gels (control and upon macrophage interaction) gen-
+erated showed a total of 325 and 322 protein spots, respec-
+tively. the normalized volume of each protein spot in one sam-
+ple was compared with its counterpart in another sample to
+determine whether the ratio indicated a statistically significant
+difference occurring during the c. albicans-macrophage inter-
+action. over- and underexpressed protein species exhibited a
+probability associated with a student’s t test with a two-tailed
+distribution of 6.5 ⫻ 10⫺17 and 3.13 ⫻ 10⫺8, respectively (sup-
+plemental table i). a 2d reference map of c. albicans upon
+functional analysis of c. albicans-macrophage interaction
+fig. 3. representative silver-stained
+2d map of total yeast extracts after
+macrophage interaction. yeast pro-
+teins were separated by two-dimen-
+sional gel electrophoresis (x axis, first
+dimension, 18-cm ph 3–10 non-linear
+ipg strips; y axis, second dimension,
+10% sds-page gels using the protean
+ii system) and visualized by silver stain-
+ing. mr and pi calibrations were based
+on calculated molecular masses. la-
+beled spots indicate 132 statistically sig-
+nificant protein species that show differ-
+ential changes in yeast protein levels
+after macrophage exposure in all three
+independent experiments (two gels per
+experiment). down-regulated spots (53
+spots) are indicated by circles, and up-
+regulated spots (79 spots) are indicated
+by arrows. 100 ␮g of protein sample
+were loaded. magnified regions highlight
+examples of differentially expressed
+yeast proteins upon macrophage inter-
+action; examples of over-
+(gim5p,
+ykr049p, sod1p, rbp1p, gpx1p, and
+cit1p) and underexpressed proteins
+(tdh3p) are shown.
+fig. 4. two-dimensional gel electro-
+phoresis silver-stained gel of differen-
+tially expressed c. albicans proteins
+after macrophage interaction identi-
+fied by mass spectrometry (maldi-
+tof/tof). 67 identified proteins (40
+over- and 27 underexpressed) were an-
+notated in the gel by their protein names
+according to mycopathpd (proteome
+bioknowledge library, www.proteome.
+com/control/tools/proteome) database.
+more information can be found at com-
+pluyeast-2dpage site (babbage.csc.
+ucm.es/2d/2d.html).
+interaction with macrophages is shown in fig. 3 where differ-
+entially expressed statistically significant spots are highlighted
+(132). a high number of these regulated spots, 79, were over-
+expressed (indicated by arrows), and 53 spots were underex-
+pressed (shown in circles).
+identification of differentially expressed proteins—approxi-
+mately 90 of the 132 differentially expressed protein spots
+were excised from preparative 2d gels and subjected to tryp-
+sin digestion, and peptide fragments analyzed by mass spec-
+trometry (maldi-tof/tof) (supplemental table ii). a total of
+74 proteins spots, representing 67 different proteins, were
+unambiguously identified (1.2-fold up- or down-regulated).
+the differentially expressed protein spots identified are shown
+in fig. 4 and summarized in table i. a total of 40 identified
+molecular & cellular proteomics 6.3
+465
+functional analysis of c. albicans-macrophage interaction
+functional classification of c. albicans identified proteins that were differentially expressed after 3-h interaction
+with raw 264.7 murine macrophages
+table i
+protein namea
+descriptiona
+molecular
+massb
+pi
+number of
+matched/
+searched
+peptidesc
+protein
+coveraged
+accession
+numbera
+differential
+expression after
+macrophages
+interactione
+kda
+43
+57
+66
+44
+57
+26
+31
+16
+21
+56
+4.84
+6.75
+5.81
+5.05
+5.57
+13/82
+13/43
+15/24
+25/47
+14/36
+8/19
+6.71
+18/94
+9.34
+6.18
+10/31
+5.98 ms/msf
+19/76
+7.10
+59
+5.77
+8/35
+6.17
+20/86
+7.24
+7.74
+19/41
+9/24
+16/38
+7.81
+8/34
+5.75
+7/35
+6.10
+9/37
+5.68
+6/29
+4.97
+11/64
+5.74
+5.88
+12/50
+6.85 ms/msf
+7.92
+16/43
+9/39
+5.97
+5.13
+10/19
+5.50 ms/msf
+56
+27
+36
+57
+35
+37
+55
+62
+ms/msf
+71
+16
+42
+44
+51
+65
+25
+30
+30
+25
+51
+21
+ms/msf
+60
+40
+25
+ms/msf
+49
+62
+36
+36
+46
+26
+44
+29
+33
+69
+29
+36
+43
+66
+48
+32
+36
+74
+48
+46
+40
+37
+ca4181
+ca2998
+ca4802
+ca1983
+ca1598
+ca2069
+ca1982
+ca2645
+ca4627
+ca1246
+⫹⫹⫹
+⫹⫹
+⫺⫺
+⫺⫺
+⫹⫹⫹
+⫹⫹⫹
+ca3075
+⫺⫺⫺
+ca5239
+ca3483
+ca5892
+ca5892
+ca4765
+ca5950
+ca2391
+ca1704
+ca5788
+ca2470
+ca5950
+ca5892
+ca5180
+ca2474
+ca3874
+ca3771
+ca2858
+ca3564
+ca0290
+⫹⫹⫹
+⫺⫺⫺
+⫺⫺⫺
+⫺⫺⫺
+⫺⫺⫺
+⫺⫺⫺
+⫺⫺
+⫺⫺
+⫺⫺
+⫺⫺
+⫹⫹⫹
+⫹⫹⫹
+⫺⫺⫺
+metabolism and energy
+amino acid metabolism
+hom6p
+lpd1p
+ilv3p
+ilv5p
+ses1p
+nucleotide metabolism
+fur1p
+adk1p
+ynk1p
+dut1p
+imd3p (imh3p)
+gua1p (ipf6105)
+c-compound and
+carbohydrate metabolism
+gnd1p
+cdc19p
+tdh3p left
+tdh3p middle
+adh1p
+tpi1p
+adh5p
+sol3p
+gpp1p
+sdh3p (sdh12p)
+tpi1p
+tdh3p right
+fba1p
+pdc11p
+eno1p
+lipid, fatty acid ␤ oxidation,
+and isoprenoid
+metabolism
+ard8p
+sou1p
+acs2p
+oye32p (ipf7817)
+erg10p (pot14p)
+metabolism of vitamins,
+cofactors, and prosthetic
+groups
+hem13p
+snz1p
+phosphate metabolism
+ipp1p
+homoserine dehydrogenase
+dihydrolipoamide dehydrogenase
+dihydroxy-acid dehydratase
+ketol-acid reductoisomerase
+cytoplasmic seryl-trna synthetase
+uracil phosphoribosyltransferase
+adenylate kinase (cytosolic)
+nucleoside-diphosphate kinase
+dutp pyrophosphatase
+inosine-5⬘-monophosphate
+dehydrogenase (imp
+dehydrogenase)
+putative gmp synthetase
+6-phosphogluconate
+dehydrogenase
+pyruvate kinase
+glyceraldehyde-3-phosophate
+dehydrogenase
+alcohol dehydrogenase i
+triose-phosphate isomerase
+probable alcohol dehydrogenase
+probable 6-phosphoglucolactonase
+dl-glycerol phosphatase
+succinate dehydrogenase
+triose-phosphate isomerase
+glyceraldehyde-3-phosophate
+dehydrogenase
+fructose-bisphosphate aldolase
+pyruvate decarboxylase
+enolase i (2-phosphoglycerate
+dehydratase)
+d-arabinitol (d-arabitol)
+2-dehydrogenase
+l-sorbose dehydrogenase
+acetyl-coa synthetase
+putative nadph dehydrogenase
+acetoacetyl-coa thiolase i
+coproporphyrinogen iii oxidase
+putative pyridoxine (vitamin b6)
+biosynthetic enzyme induced
+during stationary phase
+466 molecular & cellular proteomics 6.3
+5.35 ms/msf
+ms/msf
+ca3288
+4.48 ms/msf
+20/50
+6.18
+20/87g
+6.08
+7.76
+19/50
+6.02
+5.77
+26/107
+18/41
+ms/msf
+29
+42h
+49
+58
+44
+ca0517
+ca4184
+⫺⫺
+inorganic pyrophosphatase
+42
+4.64
+13/88
+52
+ca0870
+⫹⫹⫹
+functional analysis of c. albicans-macrophage interaction
+table i—continued
+protein namea
+descriptiona
+taf14p (anc1p)
+rna polymerase ii transcription
+initiation factor tfiif (factor g)
+small subunit
+glyoxylate and tricarboxylic
+molecular
+massb
+pi
+number of
+matched/
+searched
+peptidesc
+kda
+31
+6.90
+7/50
+protein
+coveraged
+accession
+numbera
+differential
+expression after
+macrophages
+interactione
+47
+18
+17
+23
+56
+39
+ca0331
+ca3546
+ca3546
+ca3909
+ca5164
+ca5826
+⫹⫹⫹
+⫹⫹
+6.35
+6.05
+7.20
+5.46
+13/29
+12/45
+11/19
+15/24
+5.26
+10/51
+acid cycles
+aco1p right
+aco1p left
+cit1p
+mdh1p
+mdh2p (mdh11p)
+protein fate
+protein folding and
+stabilization
+gim5p
+rbp1p
+cpr3p
+aconitate hydratase
+mitochondrial citrate synthase
+mitochondrial malate
+dehydrogenase precursor
+malate dehydrogenase
+(mitochondrial)
+putative prefoldin subunit 5
+rapamycin-binding protein
+(putative peptidyl-prolyl cis-trans
+isomerase)
+cyclophilin (peptidyl-prolyl cis-trans
+isomerase)
+cpr1p (cyp1p)
+cyclophilin (peptidyl-prolyl cis-trans
+isomerase)
+heat shock protein 70
+cyclophilin (peptidyl-prolyl cis-trans
+isomerase or ppiase)
+mitochondrial heat shock protein
+70-related protein
+proteasome subunit ␤5
+proteasome subunit ␤1
+proteasome subunit ␣2_sc
+(protease ysce subunit y7)
+proteasome subunit ␣4
+cytochrome c oxidase subunit iv
+cytochrome c oxidase subunit va
+mitochondrial aspartate
+aminotransferase (fatty acid
+transport)
+mitochondrial outer membrane
+porin
+protein transport protein
+f1f0-atpase complex, fo d
+subunit
+ssb1p
+cyp5p (cyp51p)
+ssc1p
+protein modification and
+degradation
+pre2p
+pre3p
+pre8p
+pre6p
+assembly of protein
+complexes
+cox4p
+cox5ap
+cellular transport, transport
+facilitation, and
+transport routes
+aat1p right
+aat1p left
+por1p (vdac1p)
+sec13p
+atp7p
+cell rescue, defense, and
+virulence
+oxidative stress and
+detoxification
+sod1p
+84
+84
+48
+40
+37
+21
+20
+22
+19
+67
+23
+71
+26
+24
+28
+30
+18
+18
+45
+32
+35
+23
+5.67
+6.47 ms/msf
+7/18
+45
+ms/msf
+ca2888
+ca3676
+⫹⫹⫹
+⫹⫹⫹
+4.98
+9/39
+8.15
+19/77
+4.96
+5.58
+8/28
+9/26
+4.82
+17/29
+57
+83
+16
+48
+23
+ca3978
+ca0972
+ca3534
+ca5717
+ca4474
+6.78 ms/msf
+7.31 ms/msf
+5.74
+6/28
+ms/msf
+ms/msf
+26
+ca0764
+ca5037
+ca5569
+9.12 ms/msf
+ms/msf
+ca4257
+6.89
+7.12
+10/74
+8/24
+ca4533
+ca2630
+⫹⫹
+⫺⫺
+⫺⫺
+⫹⫹⫹
+⫹⫹⫹
+⫹⫹⫹
+⫹⫹
+⫹⫹⫹
+⫹⫹⫹
+71
+46
+33
+41
+ms/msf
+45
+7.80
+14/26
+7.25
+17/42
+9.34 ms/msf
+5.25
+6.15
+12/41g
+7/62
+43h
+41
+ca2661
+⫹⫹
+ca2661
+ca0919
+ca3392
+ca1907
+⫺⫺⫺
+⫺⫺
+cytosolic copper,zinc-superoxide
+21
+6.20
+6/64
+52
+ca4120
+⫹⫹⫹
+dismutase
+molecular & cellular proteomics 6.3
+467
+functional analysis of c. albicans-macrophage interaction
+protein namea
+descriptiona
+table i—continued
+molecular
+massb
+pi
+number of
+matched/
+searched
+peptidesc
+protein
+coveraged
+accession
+numbera
+differential
+expression after
+macrophages
+interactione
+⫹⫹
+⫹⫹
+⫹⫹
+⫹⫹
+⫺⫺
+⫹⫹⫹
+⫹⫹⫹
+⫹⫹⫹
+⫹⫹
+⫹⫹⫹
+superoxide dismutase
+glutathione peroxidase
+glucose-6-phosphate
+dehydrogenase
+thiol-specific antioxidant protein
+putative alkyl hydroperoxide
+reductase (contains an ahpc or
+tsa family domain)
+methionine sulfoxide reductase
+kda
+25
+22
+58
+24
+24
+23
+7.74 ms/msf
+10/64
+6.82
+6.54
+17/62
+4.73
+4.53
+4.66 ms/msf
+7/35
+4/23
+ms/msf
+47
+38
+51
+27
+ms/msf
+ca5587
+ca0559
+ca2634
+ca5714
+ca5714
+ca4127
+26
+7.61
+7/56
+55
+ca0123
+sod21p
+gpx1p
+zwf1p
+tsa1p right (ipf2431)
+tsa1p left (ipf2431)
+ahp1p (ipf6629)
+mxr1p
+biogenesis of cellular
+components
+actin cytoskeleton
+cof1p up (cof1.3p)
+cofilin; budding, cell polarity, and
+filament formation
+tropomyosin
+mannose-6-phosphate isomerase
+maintenance of mitochondrial dna
+20
+19
+26
+49
+19
+4.60
+4.60
+4.08
+7/85
+8/73
+19/75
+4.79
+10/31
+49
+63
+90
+16
+ca5409
+ca5409
+ca5116
+ca0988
+7.02 ms/msf
+ms/msf
+ca2758
+member of the duf1687 domain of
+22
+5.73 ms/msf
+ms/msf
+ca4437
+cof1p down (cof1.3p)
+tpm2p
+cell wall
+pmi40p
+mitochondrion
+mmd1p
+experimentally
+uncharacterized proteins
+ykr049p (ipf13867)
+ipf16470
+unknown function family, low
+similarity to s. cerevisiae
+fmp46p involved in oxidative
+stress response
+protein containing an alanine
+racemase n-terminal domain,
+high similarity to uncharacterized
+s. cerevisiae ybl036p
+dqd1p (ipf10071)
+protein containing a
+dehydroquinase class ii domain,
+high similarity to uncharacterized
+aspergillus fumigatus qute
+31
+6.79 ms/msf
+ms/msf
+ca2002
+⫹⫹⫹
+15
+7.11
+6/28
+47
+ca0996
+a protein name according to mycopathpd (proteome bioknowledge library, www.proteome.com/control/tools/proteome) database and
+accession number according to candidadb (www.genolist.pasteur.fr/candidadb). functional categories were assigned as described under
+“experimental procedures.”
+b experimental molecular mass and pi (image-master 2d-platinum).
+c number of peptide masses matching the top hit from mascot peptide mass fingerprinting (matrix science) versus total of masses
+searched.
+d amino acid sequence coverage for the identified proteins.
+e ⫹ and ⫺ factors indicate over- and underexpressed proteins after macrophage interaction, respectively. the regulation factors were
+defined as follows: 1.2–1.5-fold regulation for ⫹/⫺, 1.5–2.0-fold regulation for ⫹⫹/⫺⫺, and more than 2.0-fold regulation for ⫹⫹⫹/⫺⫺⫺.
+f proteins analyzed by tandem mass spectrometry using a maldi-tof/tof mass spectrometer.
+g masses matched/searched (ms-fit search results (92, 93)).
+h amino acid sequence coverage (ms-fit search results (92, 93)).
+proteins were overexpressed, whereas 27 were underex-
+pressed. examples of some representative differentially ex-
+pressed identified proteins are shown in fig. 3.
+the differentially expressed proteins identified were classi-
+fied in functional categories, structured in different functional
+groups (table i). these proteins are involved in metabolism
+and energy, protein fate, cellular transport, transport facilita-
+tion and transport routes, cell rescue, defense and virulence,
+and biogenesis of cellular components, and some of them are
+experimentally uncharacterized proteins. most of these pro-
+teins belong to different metabolic and energetic functional
+groups. some of these functional groups are clearly up-regu-
+468 molecular & cellular proteomics 6.3
+functional analysis of c. albicans-macrophage interaction
+lated like lipid and fatty acid ␤ oxidation as well as glyoxylate
+and tricarboxylic acid cycles, cell wall, and actin cytoskeleton.
+alternatively other metabolic proteins belonging to c-com-
+pound and carbohydrate metabolism as well as mitochondrial
+biogenesis were down-regulated. other important biological
+processes, such as protein fate and cell rescue, relevant for
+the antioxidant and detoxification cell responses, were mainly
+overexpressed. moreover proteins involved in cellular trans-
+port and amino acid and nucleotide metabolisms, as well as
+some unclassified proteins, were found to be over- or
+underexpressed.
+genomics analysis
+differential transcriptional analysis of c. albicans response
+after 1.5- and 3-h exposure to murine macrophages was
+carried out to complement proteomics. whole-genome mi-
+croarrays representing almost the complete genome of c.
+albicans (microarrays contained 6039 candida genes) were
+used. a total of 239 genes were found to be significantly
+differentially expressed (1.75-fold up- or down-regulated). of
+these, 120 and 119 genes were found to be up- and down-
+regulated, respectively. although 75 genes were consistently
+induced at 1.5 h, 45 were induced after 3 h. in addition, 60 and
+59 genes were found to be repressed after 1.5 and 3 h,
+respectively (supplemental table iii and table ii). entire data-
+sets of global expression profiles can be found at gene ex-
+pression omnibus as described under
+“experimental
+procedures.”
+differentially expressed genes were classified according to
+the previously reported protein functional classification. an
+overview of up- and down-regulated genes within the most
+interesting pathways is shown in supplemental table iii. the
+following functional groups were remarkably up-regulated:
+lipid, fatty acid ␤ oxidation, and isoprenoid metabolism and
+ion and c-compound, and amino acid transport as well as
+those involved in metal ion homeostasis and dna repair. in
+contrast, most of the genes related to protein fate and bio-
+genesis of cellular components (cytoskeleton and mitochon-
+dria) and those involved in metabolism of amino acid, nucle-
+otide, c-compound, and carbohydrate were mainly down-
+regulated. genes belonging to cell cycle and dna processing,
+transcription, protein synthesis, stress response, oxidative
+stress and detoxification, pathogenesis, biogenesis of cell
+wall, cell type differentiation, and apoptosis and genes of
+unknown function were up- and down-regulated full stop.
+a comparative analysis of the expression profile (number of
+up- and down-regulated genes) from both times analyzed,
+classified according to their biological function, is shown in
+supplemental fig. 3. the number of modulated genes is
+greater at the earlier time point, both in the up- and down-
+regulation response. only protein and cell fate, as well as
+protein with binding function, exhibit a higher number of
+genes after 3 h of interaction. the high number of experimen-
+tally uncharacterized genes both over- and underexpressed
+should be noted.
+annotation and statistical significance of the functional
+categories
+to obtain an integral view of the yeast biological processes
+affected after macrophages interaction, functional annotation
+was used for both proteomics and transcriptomics data anal-
+yses. due to the low number of c. albicans genes annotated
+in the cgd (www.geneontology.org/go.current.annotation-
+s.shtml) (50 and 15.5% of the genes/proteins examined in this
+study, respectively) and the high homology of this organism
+with the model yeast s. cerevisiae, we used s. cerevisiae
+orthologs as the input gene/protein list for funspec analysis
+(see “experimental procedures” for further details). an issue
+to be taken into account is that s. cerevisiae is not a patho-
+genic fungus; thus some biological functions may not be
+present in the output summary of functional classes (i.e.
+pathogenesis).
+to interpret the data generated by the groups of related
+fungal genes/proteins differentially expressed after macro-
+phage interaction, we used a web-based tool called funspec,
+which uses information from public databases (i.e. mips and
+go). we can look in the input list of yeast genes/proteins to
+determine whether they are enriched for particular attributes
+(i.e. functional roles, biochemical properties, and localization)
+using a well accepted statistical model. supplemental table
+iv shows a summary of the statistically significant (p ⬍ 0.05)
+evidence of functional enrichment in the genomics and pro-
+teomics datasets.
+an important fraction of the overexpressed proteins identi-
+fied by 2d page-ms were found to be involved in tricarbox-
+ylic acid pathway, cell rescue, defense and virulence, protein
+fate, glyoxylate cycle, and actin polymerization and/or depo-
+lymerization. regarding the underexpressed proteins, biolog-
+ical enrichment was found for metabolism (glycolysis, glu-
+coneogenesis, and fermentation) and for protein folding and
+stabilization.
+additionally gene transcripts that were up-regulated were
+enriched for transport facilitation, metal ion homeostasis, lipid
+and fatty acid metabolism, cell wall, cell-cell adhesion, and
+detoxification. meanwhile gene transcripts that were down-
+regulated were enriched for metabolism (c-compounds and
+carbohydrates), response to stress, cell fate, and protein fold-
+ing. hence by using this statistical model we were able to
+reinforce the significance of the differentially expressed pro-
+teins/genes on the biological functions of the cell as well as
+the importance of certain pathways considerably altered in
+the fungus after encountering the macrophage.
+genetic network analysis of unknown genes
+because the unknown function category is the one that
+contains the highest number of modulated genes we used a
+molecular & cellular proteomics 6.3
+469
+functional analysis of c. albicans-macrophage interaction
+selected significant c. albicans genes differentially expressed upon interaction with raw 264.7 macrophages
+in at least one of the conditions tested
+the average expression ratio from two independent experiments is shown. m(cid:1), macrophages; pcna, proliferating cell nuclear antigen;
+mek, mitogen-activated protein kinase/extracellular signal-regulated kinase kinase.
+table ii
+gene group, candidadb entry no.
+function (gene id)a
+cellular communication/signal
+transduction mechanism
+camp-mediated signal transduction
+ca4205
+cell rescue, defense, and virulence
+oxidative stress and detoxification
+ca4137
+ca4884
+ca2687
+ca0772
+ca1039
+ca2190
+ca0559
+ca2659
+ca1564
+ca0971
+ca4437
+dna damage repair
+ca6010
+ca2827
+ca2114
+ca4273
+ca5485
+pathogenesis
+ca0744
+ca0541
+ca5713
+ca0448
+ca1619
+ca5613
+interaction with the cellular
+environment
+metal ion homeostasis
+ca5884
+ca3415
+ca3416
+filamentous growth regulator, involved in g-protein signaling, coupled to
+camp nucleotide second messenger with adenylate cyclase activity.
+similar to s. cerevisiae cyr1p (adenylate cyclase) (fgr38)
+low affinity cyclic nucleotide phosphodiesterase (pde1)
+n-alkane inducible cytochrome p-450, detoxification involving cytochrome
+putative dihydrokaempferol 4-reductase, putative ortholog of s. cerevisiae
+gre2 involved in detoxification by modification (ifu6.3f)
+strong similarity to 4-aminobutyrate aminotransferase, exon 2
+p450 (alk6)
+(uga11.exon2)
+strong similarity to s. cerevisiae hypothetical gene ypl221w, involved in
+outer chain mannosylation; overexpression stimulates uptake of hemin
+and is involved in detoxification (bop1)
+alternative oxidase (aox1)
+glutathione peroxidase (gpx1)
+nadh dehydrogenase (ndh2)
+glutamate decarboxylase (gad1)
+similar to s. cerevisiae ahp1, which is an alkyl hydroperoxide reductase;
+involved in regulation of cell redox homeostasis and response to metal ion
+(ahp2)
+member of the duf1687 domain of unknown function family. similar to s.
+cerevisiae fmp46, involved in oxidative stress response (ykr049)
+thioredoxin (trx1)
+structure-specific nuclease of the nucleotide excision repairosome (rad2)
+similar to s. cerevisiae platinum sensitivity 2 (psy2), member of the protein
+phosphatase 4 cisplatin-sensitive complex (pp4cs) involved in dna repair
+and the histone h2a phosphatase complex (htp-c) required to exit the
+dna damage checkpoint (psy2)
+similar to s. cerevisiae cac2p, chromatin assembly complex subunit 2, likely
+to associate with pcna (pol30p). functions in nucleosome assembly
+linked with dna replication and in double strand dna break repair (cac2)
+member of the ercc4 domain family, has moderate similarity to s.
+cerevisiae rad1p, which is a component of the nucleotide excision
+repairosome (rad1.53f)
+similar to c. albicans mucin protein (by homology with c. albicans
+ipf14282) (ipf14919)
+protein containing a duf814 domain of unknown function, which is found in
+putative fibronectin or fibrinogen-binding protein (ipf14574)
+agglutinin-like cell surface protein (als6)
+agglutinin-like cell surface protein (als10)
+protein required for mannosylation of inositol phosphoceramide and
+production of phospholipomannan, involved in evasion of host defense
+response (mit1)
+low similarity to human estrogen-responsive finger protein (ipf525)
+copper homeostasis protein (slf1)
+strong similarity to s. cerevisiae ferric reductase fre2, internal fragment
+strong similarity to s. cerevisiae ferric reductase fre2, 5⬘-end fragment
+(fre30.53)
+(fre30.3)
+-fold change in
+expressionb (sc5314
+⫹ m(cid:1) vs. control
+sc5314)
+1.5 h
+3 h
+1.49
+2.07
+0.47
+5.60
+3.21
+2.16
+1.86
+1.78
+0.63
+0.57
+0.57
+0.57
+0.53
+0.54
+2.10
+1.98
+2.34
+2.71
+2.29
+1.12
+1.14
+0.38
+0.38
+0.68
+0.76
+1.10
+1.13
+1.78
+1.31
+1.32
+2.2
+2.71
+1.88
+1.84
+1.80
+0.53
+2.63
+2.10
+1.11
+0.79
+0.52
+2.68
+1.75
+1.74
+1.13
+1.07
+1.54
+470 molecular & cellular proteomics 6.3
+functional analysis of c. albicans-macrophage interaction
+table ii— continued
+gene group, candidadb entry no.
+function (gene id)a
+-fold change in
+expressionb (sc5314 ⫹
+m(cid:1) vs. control
+sc5314)
+1.5 h
+3 h
+3.54 (3.16)c 2.77 (6.25)c
+0.52 (0.07)c 0.64 (1.82)c
+cell fate: cell death
+apoptosis
+ca2984
+aging
+ca5232
+biogenesis of cellular components
+ca0183
+cell wall
+ca5400
+ca1905
+ca4245
+ca0788
+ca3642
+ca4679
+ca5936
+ca4894
+ca3706
+ca4577
+actin cytoskeleton
+ca0623
+mitochondrion
+ca2016
+ca1779
+cell type differentiation
+fungal cell type differentiation
+ca1610
+ca4027
+ca1402
+ca1621
+ca5780
+ca4193
+ca5425
+putative serine protease involved in promoting heat shock- or hydrogen
+peroxide-induced apoptosis, by homology with s. cerevisiae nma111
+(ipf12606.3eoc)
+putative cell wall ␤ -glucosidase with high homology to s. cerevisiae uth1p
+involved in aging process and determination of life span and viability upon
+starvation as well as autophagy (sun42)
+transcriptional activator involved in oxidative stress response and aging (cap1)
+glucan synthase subunit, 3⬘-end (by homology with s. cerevisiae kre6)
+(kre62.3f)
+putative structural constituent of cell wall (pir32)
+putative cell wall protein. similar to s. cerevisiae tip1, a major cell wall
+mannoprotein with possible lipase activity (pga21)
+similar to s. cerevisiae dan4 member of the seripauperin and tip1 family, has
+low similarity to cell surface flocculin (s. cerevisiae muc1p), which is required
+for invasive and pseudohyphal growth (ipf14107)
+putative gpi-anchored protein (pga19)
+putative gpi-anchored protein (pga17)
+lysine/glutamic acid-rich protein involved in cell wall biogenesis and
+organization and required for normal virulence (slk19)
+low similarity to s. cerevisiae ecm13, a protein possibly involved in cell wall
+structure or biosynthesis (ipf1617)
+member of the nucleotidyltransferase family, similar to c. albicans psa1, a
+mannose-1-phosphate guanyltransferase (psa2)
+protein kinase of mek, similar to s. cerevisiae mkk1, a serine/threonine protein
+kinase involved in cell wall integrity pathway (mkk2)
+phosphatidylinositol-4-phosphate 5-kinase. has high homology to s. cerevisiae
+mss4p that is a multicopy suppressor of stt4 mutation 4 and is required for
+proper organization of the actin cytoskeleton (mss4)
+0.52
+2.61
+2.15
+2.10
+2.12
+1.96
+1.95
+0.76
+0.68
+0.57
+0.52
+0.53
+2.00
+1.39
+1.64
+2.03
+1.16
+0.48
+0.56
+0.44
+0.42
+similar to s. cerevisiae yim1p mitochondrial inner membrane protease (yim1)
+possibly essential for maintaining wild-type mitochondrial morphology (mdm34)
+0.55
+0.73
+member of the las1-like family, low similarity to s. cerevisiae las1p, which is
+involved in cell morphogenesis, cytoskeletal regulation, and bud formation
+(las1)
+protein with moderate similarity to uncharacterized s. cerevisiae rdi1p, a rho
+gdp dissociation inhibitor that plays a role in small gtpase mediated signal
+transduction. possibly involved in budding, cell polarity, and filament
+formation (ipf7174).
+hypha-specific protein that is not required for the yeast-to-hyphae transition
+protein with low similarity to c. albicans hyr1p, which is a hypha-specific cell
+(ece1)
+wall protein (hyr10)
+protein with high similarity to s. cerevisiae tgl4, a triacylglycerol lipase 4
+involved in spore wall assembly (ipf1123)
+member of the ubx (ubiquitin-regulatory) domain-containing family, has low
+similarity to s. cerevisiae ubx7, which is involved in tetrad formation
+(ipf7535)
+similar to s. cerevisiae bdf1, which is required for sporulation and interacts
+with histones h3 and h4 (bdf1)
+3.76
+2.47
+2.28
+2.20
+2.20
+1.22
+0.66
+0.94
+1.20
+0.54
+0.49
+0.53
+0.71
+a gene functions were assigned as described under “experimental procedures.”
+b the average expression ratio from four different microarray experiments using two biological samples and dye swapping is shown. values
+⬎1.75 signify that the genes were up-regulated in treated yeast cells (exposed to macrophages) compared with control yeast cells; values
+⬍0.57 signify that the genes were down-regulated in treated yeast cells compared with control yeast cells. dashes (—) denote missing values.
+(the short listed c. albicans genes are selected from supplemental table iii.)
+c data within parentheses represents rt-pcr values (data not shown).
+molecular & cellular proteomics 6.3
+471
+functional analysis of c. albicans-macrophage interaction
+network visualization system (osprey) to extract biological
+meaning and, when possible, to formulate testable hypothe-
+ses from the data generated in this work. we used s. cerevi-
+siae orthologs as the input gene list as was done before with
+funspec (50% of the unknown genes did not present homo-
+log). maps of physical and genetic interactions of induced and
+repressed uncharacterized genes are shown in supplemental
+fig. 4, a and b, respectively. the network generated using the
+up-regulated unknown set of genes as input file shows sig-
+nificant interactions with genes related to cell organization
+and biogenesis (mainly associated with cell wall and nuclear
+pore), dna repair and dna damage response, protein bio-
+synthesis, and, surprisingly, autophagy (supplemental fig.
+4a). on the other hand, when the down-regulated unknown
+genes were used as the input list, interactions associated to
+metabolism, cell organization and biogenesis (largely linked to
+mitochondrion and actin cytoskeleton biogenesis), and trans-
+port routes and other uncharacterized genes were observed
+(supplemental fig. 4b). it is worth mentioning that the gene
+up-regulated at 1.5 h, sge1 (crystal violet resistance protein),
+interacts with sln1 that has high similarity to mammalian
+bag1 gene that negatively regulates apoptosis.
+interaction network analyses of cytoskeleton-,
+mitochondria-, autophagy-, and apoptosis-related
+genes/proteins
+as described in the above genetic network analysis, we
+detected some interactions between unknown genes and
+genes involved in autophagy and apoptosis. reports that
+connect apoptosis with actin dynamics, mitochondrial dys-
+function, and autophagy have been described recently (35–
+37). thus, we decided to search in our datasets for proteins/
+genes belonging to these biological functions to carry out a
+new interaction network analysis. a total of 32 proteins/genes,
+enclosed in those functions, were detected. a significant re-
+pression in genes related to the actin cytoskeleton and mito-
+chondria was noted, pointing toward a potential reduction in
+actin and mitochondrial dynamics. only three proteins of 22
+proteins/genes that belong to the above functional groups
+were overexpressed. concerning the apoptosis-related
+genes, induction of four genes and repression of two genes
+were observed. finally two differentially regulated autophagic
+genes were observed. more detailed information about these
+data can be found in the hierarchical cluster illustrated in fig.
+5a. an interaction network analysis revealed a highly complex
+regulatory map in which all these proteins/genes are deeply
+interconnected (supplemental fig. 5, a, b, c, and d), high-
+lighting the relevant role of these categories in the dynamics
+of the fungal response and cell death upon macrophage
+interaction.
+discussion
+the innate response and the initial handling of the pathogen
+by macrophages have been demonstrated to play a central
+472 molecular & cellular proteomics 6.3
+role in the resolution of candidiasis in a murine model of
+disseminated candidiasis (38 – 40). a proteomics analysis of
+the response of c. albicans after encountering macrophages
+has been carried out for the first time in this work. an accurate
+protocol to obtain an enriched-ingested yeast sample after
+this interaction has been established. moreover the require-
+ments for future proteomics studies were fulfilled with this
+protocol because only candida proteins, but not macrophage
+ones, were identified by ms. to complement the proteomics
+study, a genomics approach to analyze the differential tran-
+scriptional response of c. albicans was used. because the
+temporal relationship between transcription and translation
+on a large scale is not well defined, we chose to analyze not
+only mrna samples corresponding to the 3-h time point used
+for the proteomics analyses but also a preceding time point
+(1.5 h). although previous works afforded transcriptional pro-
+filing under similar conditions (16, 17), the key benefit of our
+approach was to obtain both fungal protein and rna extracts
+from the same cultures. in this situation, we combined the
+complementary data from gene- and protein-based assays,
+thus providing more information about the response of can-
+dida upon macrophage interaction. the ability to conduct
+these correlation analyses represents an additional and novel
+means to generate discrete and testable biological hypothe-
+ses from these global and discovery-driven measurements
+(41– 45).
+proteomics studies enabled us to describe a total of 132
+statistically differentially expressed protein species. of these, 74
+over- and underexpressed protein species were identified by
+ms, corresponding to 67 unique proteins (fig. 4 and table i)
+classified according to their biological function. some of these
+differentially expressed proteins are present in a 2d reference
+hyphal map and are also recognized by serum from mice and
+patients with disseminated candidiasis, highlighting the impor-
+tance of these proteins in the virulence of candida (25, 46–49).
+it should be noted that certain proteins could not be repre-
+sented due to a range of 2d page technical limitations (i.e.
+molecular weight and proteins either too acidic, too basic, or too
+hydrophobic) and also due to the relative abundance of proteins
+(50, 51). to overcome these restrictions, more sensitive tech-
+niques such as 2d dige (52, 53) or non-gel proteomics could be
+used. due to technical limitations of generating large proteome
+datasets, only a limited number of studies comparing differential
+gene and protein expression have been performed; a major
+obstacle is a lack of scalable database systems and computa-
+tional tools (54). integrating the information from selected path-
+ways has provided us with a global view of the yeast response.
+thus, a close correlation between genomics and proteomics
+datasets may indicate that genes for certain specific biological
+processes may require better transcriptional and translational
+synchronization for synergistic purposes and that the response
+may be more specific. the most relevant pathways related to
+this hostile environment are discussed below (tables i and ii
+and supplemental table iii).
+functional analysis of c. albicans-macrophage interaction
+fig. 5. a, hierarchical clustering of selected c. albicans protein/gene expression profiles after macrophage interaction (1.5-fold up- or
+down-regulated). this visualization shows records in a dendrogram (a tree graph) based on the similarity between them. the clustering method
+used was unweighted pair group method with arithmetric mean (upgma) (unweighted average), and the similarity measure was done based
+on the euclidean distance. each column represents interaction times (1.5 and 3 h), and each row represents the expression ratios (log2) for a
+particular gene upon macrophage contact. clustering was obtained by using the software spotfire decisionsite. red represents expression
+ratios higher than 1, and green indicates ratios lower than 1. the degree of color saturation represents the amount of the expression ratio as
+indicated by the scale bar. gray denotes missing values. asterisks indicate genes differentially expressed after macrophage interaction with a
+ratio between 1.35- and 1.5-fold up- or down-regulated, and underlined genes represent rt-pcr values (data not shown). b, hypothetical
+model of yeast cell death after macrophage interaction. different cell death pathways and their interdependency based on mammalian and s.
+cerevisiae knowledge are shown here. genes marked in black correspond to c. albicans, and genes in green/blue correspond to s.
+cerevisiae/human orthologs, respectively. blue boxes and arrows point out those pathways detected in mammals, whereas those in black
+indicate pathways detected in s. cerevisiae. dotted arrows indicate hypothetical
+interrelations (for further details see the text). pka,
+camp-dependent protein kinase.
+metabolism and energy—the metabolic changes detected
+in c. albicans protein/gene expression levels belonging to
+different functional groups reflect how the yeast cells sense
+this hostile environment. as described previously by other
+genomics studies, the glyoxylate cycle enables microorga-
+nisms to grow on acetate or fatty acids as the sole carbon
+sources, reflecting the important adaptation of pathogenic
+microorganisms such as mycobacterium tuberculosis and c.
+albicans (16, 55). microorganisms that are able to achieve this
+cycle can produce energy and grow in lipid-rich environments
+such as host cells. a similar biological response was detected
+here using a proteomics strategy. proteins belonging to the
+glyoxylate and tricarboxylic acid cycles were overexpressed
+indicating a dynamic yeast response to nutrient starvation
+inside the phagosome (56). the c. albicans proteomic re-
+sponse showed a clear down-regulation in the glycolytic
+route, indicating that the yeast surroundings are deficient in
+glucose. moreover other up-regulated proteins may reflect an
+increase in the lipid and fatty acid ␤ oxidation metabolism.
+these results are in agreement with previous reports that have
+suggested that various lipids are released during the candida-
+macrophage interaction (57, 58). similar results were exhib-
+ited in our genomics study as well as by studies of candida-
+phagocytes interaction using genomics approaches (16, 18).
+protein fate—from the proteomics results we can see a
+general overexpression of the proteins belonging to this path-
+way. the yeast proteasome is a multicatalytic/multifunctional
+proteinase complex necessary for the degradation of short
+lived, misfolded, ubiquitinated, and oxidized proteins (59, 60).
+thus, the possible existence of non-functional/toxic proteins
+that the fungus needs to eliminate for its own survival could
+explain the greatly increased expression of the proteasomal
+proteins. this biological situation may be similar to other
+biochemical and physiological stimuli, such as perturbation in
+calcium homeostasis, redox status, or sugar/glucose depri-
+vation that can disrupt endoplasmic reticulum homeostasis,
+molecular & cellular proteomics 6.3
+473
+functional analysis of c. albicans-macrophage interaction
+impose stress to the endoplasmic reticulum, and subse-
+quently lead to accumulation of unfolded or misfolded pro-
+teins (61). together with the induction of these systems, an
+important number of folding proteins were also up-regulated.
+on the other hand, genomics reflects a different situation. the
+vast majority of the genes related to protein folding and sta-
+bilization, protein targeting, sorting, modification, and degra-
+dation as well as assembly of protein complexes were re-
+pressed at both time points. this discrepancy in the
+expression of genes/proteins belonging to this particular
+pathway may be explained due to a very early yeast transcript
+response and high stability of these proteins, taking into ac-
+count their function stabilizing other proteins and their impor-
+tance for the cell viability. these latter hypotheses also rein-
+force the utility of both genomics and proteomics approaches
+to discern a more complete biological sense of these exper-
+imental results.
+cellular transport—proteomics studies reflect a combined
+response of over- and underexpressed mitochondrial trans-
+porters. the role of por1p in apoptosis will be discussed later
+on. genes corresponding to this nutrient acquisition pathway
+were found to be predominantly induced; briefly amino acid
+permeases (62), lipid transporters, and ion and oxygen trans-
+porters as well as permeases for carbon compounds (63)
+were found to be up-regulated. few genes belonging to these
+permeases were found to be repressed, possibly reflecting a
+strict regulatory specialization, thus permitting the cell to re-
+spond to different biological conditions.
+cell rescue, defense, and virulence—as deduced from
+genomics and proteomics results, this pathway showed an
+upward tendency, indicating its important role in the yeast
+response after macrophage interaction. different functional
+groups, such as oxidative stress and detoxification, dna
+damage repair, and pathogenesis are included in this path-
+way. reactive oxygen intermediates (roi) and reactive nitro-
+gen intermediates (rni), generated by professional phago-
+cytes as part of the antimicrobial burst, are thought to play a
+critical role in resistance to mucosal and systemic candidiasis
+(64, 65). nevertheless microorganisms can sometimes over-
+come the production of roi and rni and avoid being killed by
+suppressing production of roi and rni (9, 66). the strategies
+used by c. albicans for the evasion of roi and rni are similar
+to those described for other microorganisms; they include
+enzymatic detoxification of reactive species, scavenging of
+species to remove them,
+iron sequestration, stress re-
+sponses, and damage repair (67– 69).
+from our proteomics data sheet, several proteins that play
+an important role as antioxidants and detoxifying enzymes
+were identified. in contrast, c. albicans genes with antioxidant
+functions were found to be mostly down-regulated at 1.5 h.
+these different transcriptional responses may depend on the
+levels of the reactive species (70). in addition, the detoxifica-
+tion machinery of candida is up-regulated at both time points
+but predominantly at the earlier time point, indicating the
+474 molecular & cellular proteomics 6.3
+attempt of the yeast to neutralize and repair the oxidative
+damage caused by the reactive oxygen species of
+the
+macrophage.
+other important functional groups were only detected by
+our genomics approach. among them, several genes related
+to dna repair mechanisms were highly induced, predomi-
+nantly at the earlier time point. a notable induction of genes
+belonging to pathogenesis was also appreciable at both time
+points.
+biogenesis of the cell wall and fungal cell type differen-
+tiation—the yeast-to-hypha transition, hypha-associated fac-
+tors, cell wall proteins, such as glycosylphosphatidylinositol
+(gpi)-anchored proteins, and hydrolytic enzymes have been
+described as factors involved in host-pathogen interactions
+(i.e. full morphogenesis, virulence, survival, and resistance to
+macrophages) (71–74). during this interaction, the yeast pop-
+ulation has switched to hyphal forms at 1.5 h, increasing in
+amount over time. a number of genes known to be hypha-
+associated genes were found to be up-regulated as were a
+large number of genes associated with cell wall biogenesis
+and involved in virulence and invasive growth. nevertheless in
+this hostile environment, the yeast could somehow be dam-
+aged by macrophages and could in some way arrest its
+growth and inhibit the filamentous formation as well as impair
+its survival and reduce its virulence as can be deduced by the
+repression of some genes belonging to fungal cell type differ-
+entiation and cell wall biogenesis.
+metal ion homeostasis—the regulation of metal homeo-
+stasis, such as iron, may be of great importance to the
+ability of the microorganism to deal with oxidative stress
+because hydrogen peroxide can break down to form the
+highly reactive hydroxyl radical in the presence of a transi-
+tion metal catalyst (69). moreover iron acquisition is recog-
+nized to be a fundamental step in the infection process by
+pathogens because this essential nutrient is tightly seques-
+tered by high affinity iron-binding proteins and, therefore,
+not readily available in mammalian hosts (75, 76). c. albi-
+cans is no exception and has evolved different mechanisms
+(secreted siderophores and/or high affinity uptake systems)
+to acquire iron from the host tissues (77, 78). two homolo-
+gous transmembrane ferric reductases were found to be
+chiefly induced at 1.5 h of interaction. in addition, the ele-
+vated expression of the copper homeostasis gene slf1 is in
+agreement with the recent finding of the requirement of
+copper for high affinity iron import (79).
+experimentally uncharacterized genes—the largest cate-
+gory of modulated genes corresponds to those without
+known homology that might play an important role in vivo and
+would be modulated (induced or repressed) under conditions
+relevant to pathogenesis. the genomics results showed a
+significant representation of unknown genes, 28% (67 of 239
+genes), the majority of which are, at present, unique to c.
+albicans. a detailed study of these genes will be very inter-
+esting due to their possible role in candida pathogenesis.
+functional analysis of c. albicans-macrophage interaction
+network analysis of unknown genes with s. cerevisiae or-
+thologs (50%) revealed functional relationships between and
+within important regulatory modules (supplemental fig. 4, a
+and b).
+interconnection between actin cytoskeleton, mitochondria,
+autophagy, and apoptosis in candida during phagocytosis—
+after a thorough network analysis, our observations suggest
+the occurrence of several mechanisms that could lead to
+programmed cell death in candida after phagocytosis (sup-
+plemental fig. 5a). we speculate that candida cells could
+activate different cell death pathways after macrophage
+contact, similar to other external stimuli (nutrient limitation,
+heat, oxygen peroxide, and drug treatment among others).
+to establish this hypothesis, different proteins/genes impli-
+cated in pcd will be discussed using as reference the model
+yeast s. cerevisiae as well as the mammalian system. on
+this basis, we propose a hypothetical model of yeast cell
+death after macrophage interaction, summarized in fig. 5b.
+interactions between mitochondria and the actin cytoskel-
+eton in budding yeast are critical for normal mitochondrial
+morphology, respiratory activity, motility, and inheritance
+(36). we observed a significant repression in genes related
+to the actin cytoskeleton and mitochondrial function, indi-
+cating a potential reduction in actin dynamics and altered
+mitochondrial gene/protein turnover (supplemental fig. 5, b
+and c). two s. cerevisiae actin-regulatory genes, sla1 and
+end3, closely interact with most of the actin-related genes
+detected in this study. a recent report indicates that cells
+expressing a mutated form of sla1p or lacking end3p dis-
+play markers of apoptosis, suggesting the relevant role of
+these interactions in the possible induction of apoptosis
+(80). additionally overexpression of cofilin 1 (cof1p) in the
+context of reduced actin dynamics may have an important
+function during the initiation phase of apoptosis as de-
+scribed in mammals (81). the actin network diagram (sup-
+plemental fig. 5b) shows interconnection between cofilin 1
+and adenylate cyclase (cyr1), which participates in the
+ras-camp signaling pathway. in yeast, this pathway plays a
+role in resistance to nutrient limitations and promotes cell
+aging (82, 83). in this work, two components of this pathway
+were detected as differentially expressed: fgr38 (putative
+ortholog of cyr1) was up-regulated, whereas pde1 (low
+affinity cyclic nucleotide phosphodiesterase) was re-
+pressed. this suggests that a constitutive activation of the
+ras-camp pathway may exist, leading to elevated camp
+levels inside the fungus, and that this accumulation may
+accelerate candida cell death (84). moreover various direct
+and indirect physical
+interactions observed in the genetic
+map between camp signaling and actin-related genes hint
+at a substantial
+link between both functional groups and
+may control candida apoptosis as described in s. cerevisiae
+(85). surprisingly and in relation to the findings mentioned
+above, we observed overexpression of the yeast voltage-
+dependent anion-selective channel (por1p); this protein has
+been described as an inducer of apoptotic cell death (86).
+on the basis of all this evidence, we highlight the relevant
+link between actin cytoskeleton-mitochondria and apopto-
+sis because a reduction in actin dynamics can lead to
+reduced mitochondrial membrane potential (⌬␺m) and to an
+open state of the mitochondrial membrane pore (por1p),
+allowing the release of apoptogenic proteins from the mito-
+chondria (35).
+at
+time
+points,
+early
+proapoptotic
+in regard to apoptotic signals, differences over time were
+detected, reflecting the importance of selecting several time
+points.
+genes
+(ipf12606.3eoc, lcb1, and ipf12676) were induced with the
+exception of the metacaspase mca1. the antiapoptotic gene
+bir1 (baculovirus inhibitor of apoptosis) was induced,
+whereas cap1 (key transcriptional regulator in the oxygen
+stress response and aging) was repressed (fig. 5, a and b).
+this apparent contradictory result can be explained by bir1p,
+a substrate for nma111p (s. cerevisiae ortholog for
+ipf12606.3eoc): the antiapoptotic effect of bir1p is antago-
+nized by overexpression of nma111p (87). in addition, repres-
+sion of cap1 plus the induction of lcb1, whose human
+ortholog is said to control de novo ceramide synthesis trig-
+gering apoptosis (88), may suggest a proapoptotic process. in
+contrast, also at early time points, down-regulation of the
+yeast mca1, involved in the initiation of apoptosis, reflects a
+negative regulation of pcd (89). in conclusion, a dual yeast
+behavior (pro- and antiapoptotic signals) can be detected at
+1.5 h, whereas at the later time only proapoptotic signals are
+identified, reflecting the aggressive environment that sur-
+rounds them.
+lastly induction of autophagic cell death and a co-regula-
+tion of autophagy and apoptosis may be suggested by induc-
+tion of uth1 (s. cerevisiae ortholog for sun42) and beclin 1
+(becn1, human ortholog for vps30), indicating a high degree
+of flexibility in the response of a cell to changes in environ-
+mental conditions (37, 90, 91) (supplemental fig. 5d). in con-
+clusion, all the proteomics data combined with the genomics
+information described in this work reflect the biological situ-
+ation of the fungus inside macrophages, which depends on
+the expression of a specific group of protein/genes, which in
+turn triggers the adaptation to this environment.
+these results provide evidence of the importance of certain
+fungal pathways: metabolism and energy, protein fate, cellular
+transport, cell rescue, defense and virulence, biogenesis of
+the cell wall and fungal cell type differentiation, metal home-
+ostasis, and uncharacterized genes/proteins. network analy-
+ses have led us to suggest a hypothetical model of candida
+cell death after macrophage interaction. although further
+studies are needed to reveal the mechanistic basis of cell
+death decisions in this organism after macrophage contact,
+the specific role of actin and mitochondria interactions in the
+possible activation of different cell death pathways in candida
+during phagocytosis are currently under investigation.
+molecular & cellular proteomics 6.3
+475
+functional analysis of c. albicans-macrophage interaction
+acknowledgments—we thank m. l. herna´ ez, m. d. gutierrez, and
+j. garcı´a (from centro de geno´ mica y proteo´ mica, universidad com-
+plutense and parque cientı´fico de madrid) and l. m. alonso (from
+centro de microscopı´a y citometrı´a) for excellent technical support.
+we also thank l. monteoliva, r. garcı´a, l. castillo, and e. valentı´n for
+helpful and fruitful discussions regarding microarray experiments.
+* this work was supported in part by grant bio-2003-00030 from
+comisio´ n interministerial de ciencia y tecnologı´a and grant mrtn
+ct-2004-512481 from the european union and the fundacio´ n
+ramo´ n areces of spain. the costs of publication of this article were
+defrayed in part by the payment of page charges. this article must
+therefore be hereby marked “advertisement” in accordance with 18
+u.s.c. section 1734 solely to indicate this fact.
+□s the on-line version of this article (available at http://www.
+mcponline.org) contains supplemental material.
+the data discussed in this publication have been deposited in
+ncbis gene expression omnibus (geo, http://www.ncbi.nlm.nih.
+gov/geo/) and are accessible through geo series accession number
+gse4794.
+‡ recipient of a fellowship from the ministerio de educacio´ n y
+ciencia.
+§ director of the merck sharp and dohme special chair in genom-
+ics and proteomics.
+¶ to whom correspondence should be addressed. tel.: 34-91-394-
+1744; fax: 34-91-394-1745; e-mail: rosaliad@farm.ucm.es.
+references
+1. maertens, j., vrebos, m., and boogaerts, m. (2001) assessing risk factors
+for systemic fungal infections. eur. j. cancer care (engl.) 10, 56 – 62
+2. kullberg, b. j., and oude lashof, a. m. (2002) epidemiology of opportu-
+nistic invasive mycoses. eur. j. med. res. 7, 183–191
+3. pfaller, m. a., and yu, w. l. (2001) antifungal susceptibility testing. new
+technology and clinical applications. infect. dis. clin. north am. 15,
+1227–1261
+4. koch, s., rudel, b., and tietz, h. j. (2004) lethal otogenic candida men-
+ingitis. mycoses 47, 450 – 453
+5. sanglard, d. (2002) clinical relevance of mechanisms of antifungal drug
+resistance in yeasts. enferm. infecc. microbiol. clin. 20, 462– 469
+6. kontoyiannis, d. p., and lewis, r. e. (2002) antifungal drug resistance of
+pathogenic fungi. lancet 359, 1135–1144
+7. mcgreal, e. p., miller, j. l., and gordon, s. (2005) ligand recognition by
+antigen-presenting cell c-type lectin receptors. curr. opin. immunol. 17,
+18 –24
+8. desjardins, m., houde, m., and gagnon, e. (2005) phagocytosis: the con-
+voluted way from nutrition to adaptive immunity. immunol. rev. 207,
+158 –165
+9. chinen, t., qureshi, m. h., koguchi, y., and kawakami, k. (1999) candida
+albicans suppresses nitric oxide (no) production by interferon-gamma
+(ifn-␥) and lipopolysaccharide (lps)-stimulated murine peritoneal mac-
+rophages. clin. exp. immunol. 115, 491– 497
+10. madeo, f., herker, e., wissing, s., jungwirth, h., eisenberg, t., and
+(2004) apoptosis in yeast. curr. opin. microbiol. 7,
+frohlich, k. u.
+655– 660
+11. bursch, w. (2004) multiple cell death programs: charon’s lifts to hades.
+fems yeast res. 5, 101–110
+12. arnaud, m. b., costanzo, m. c., skrzypek, m. s., binkley, g., lane, c.,
+miyasato, s. r., and sherlock, g. (2005) the candida genome database
+(cgd), a community resource for candida albicans gene and protein
+information. nucleic acids res. 33, d358 –d363
+13. braun, b. r., van het, h. m., d’enfert, c., martchenko, m., dungan, j., kuo,
+a., inglis, d. o., uhl, m. a., hogues, h., berriman, m., lorenz, m., levitin,
+a., oberholzer, u., bachewich, c., harcus, d., marcil, a., dignard, d.,
+iouk, t., zito, r., frangeul, l., tekaia, f., rutherford, k., wang, e.,
+munro, c. a., bates, s., gow, n. a., hoyer, l. l., kohler, g., mor-
+schhauser, j., newport, g., znaidi, s., raymond, m., turcotte, b., sher-
+lock, g., costanzo, m., ihmels, j., berman, j., sanglard, d., agabian, n.,
+mitchell, a. p., johnson, a. d., whiteway, m., and nantel, a. (2005) a
+476 molecular & cellular proteomics 6.3
+human-curated annotation of
+genet. 1, 36 –57
+the candida albicans genome. plos
+14. d’enfert, c., goyard, s., rodriguez-arnaveilhe, s., frangeul, l., jones, l.,
+tekaia, f., bader, o., albrecht, a., castillo, l., dominguez, a., ernst,
+j. f., fradin, c., gaillardin, c., garcia-sanchez, s., de groot, p., hube,
+b., klis, f. m., krishnamurthy, s., kunze, d., lopez, m. c., mavor, a.,
+martin, n., moszer, i., onesime, d., perez, m. j., sentandreu, r., valen-
+tin, e., and brown, a. j. (2005) candidadb: a genome database for
+candida albicans pathogenomics. nucleic acids res. 33, d353–d357
+15. hoheisel, j. d. (2006) microarray technology: beyond transcript profiling
+and genotype analysis. nat. rev. genet. 7, 200 –210
+16. lorenz, m. c., bender, j. a., and fink, g. r. (2004) transcriptional response
+of candida albicans upon internalization by macrophages. eukaryot. cell
+3, 1076 –1087
+17. rubin-bejerano, i., fraser, i., grisafi, p., and fink, g. r. (2003) phagocy-
+tosis by neutrophils induces an amino acid deprivation response in
+saccharomyces cerevisiae and candida albicans. proc. natl. acad. sci.
+u. s. a. 100, 11007–11012
+18. fradin, c., de groot, p., maccallum, d., schaller, m., klis, f., odds, f. c.,
+and hube, b. (2005) granulocytes govern the transcriptional response,
+morphology and proliferation of candida albicans in human blood. mol.
+microbiol. 56, 397– 415
+19. rupp, s. (2004) proteomics on its way to study host-pathogen interaction
+in candida albicans. curr. opin. microbiol. 7, 330 –335
+20. pitarch, a., nombela, c., and gil, c. (2006) contributions of proteomics to
+diagnosis, treatment, and prevention of candidiasis. methods biochem.
+anal. 49, 331–361
+21. pitarch, a., nombela, c., and gil, c. (2006) candida albicans biology and
+pathogenicity: insights from proteomics. methods biochem. anal. 49,
+285–330
+22. gillum, a. m., tsay, e. y., and kirsch, d. r. (1984) isolation of the candida
+albicans gene for orotidine-5⬘-phosphate decarboxylase by complemen-
+tation of s. cerevisiae ura3 and e. coli pyrf mutations. mol. gen. genet.
+198, 179 –182
+23. martinez-solano, l., nombela, c., molero, g., and gil, c. (2006) differential
+protein expression of murine macrophages upon interaction with can-
+dida albicans. proteomics 6, suppl. 1, s133–s144
+24. pitarch, a., pardo, m., jimenez, a., pla, j., gil, c., sanchez, m., and
+nombela, c. (1999) two-dimensional gel electrophoresis as analytical
+tool for identifying candida albicans immunogenic proteins. electro-
+phoresis 20, 1001–1010
+25. fernandez-arenas, e., molero, g., nombela, c., diez-orejas, r., and gil, c.
+(2004) contribution of the antibodies response induced by a low virulent
+candida albicans strain in protection against systemic candidiasis. pro-
+teomics 4, 1204 –1215
+26. bjellqvist, b., sanchez, j. c., pasquali, c., ravier, f., paquet, n., frutiger,
+s., hughes, g. j., and hochstrasser, d. (1993) micropreparative two-
+dimensional electrophoresis allowing the separation of samples contain-
+ing milligram amounts of proteins. electrophoresis 14, 1375–1378
+27. shevchenko, a., wilm, m., vorm, o., and mann, m. (1996) mass spectro-
+metric sequencing of proteins silver-stained polyacrylamide gels. anal.
+chem. 68, 850 – 858
+28. sechi, s., and chait, b. t. (1998) modification of cysteine residues by
+in peptide mapping and protein identification. anal.
+alkylation. a tool
+chem. 70, 5150 –5158
+29. garcia, r., bermejo, c., grau, c., perez, r., rodriguez-pena, j. m., fran-
+cois, j., nombela, c., and arroyo, j. (2004) the global transcriptional
+response to transient cell wall damage in saccharomyces cerevisiae and
+its regulation by the cell integrity signaling pathway. j. biol. chem. 279,
+15183–15195
+30. ruepp, a., zollner, a., maier, d., albermann, k., hani, j., mokrejs, m.,
+tetko, i., guldener, u., mannhaupt, g., munsterkotter, m., and mewes,
+h. w. (2004) the funcat, a functional annotation scheme for systematic
+classification of proteins from whole genomes. nucleic acids res. 32,
+5539 –5545
+31. robinson, m. d., grigull, j., mohammad, n., and hughes, t. r. (2002)
+funspec: a web-based cluster interpreter for yeast. bmc bioinformatics
+3, 35
+32. breitkreutz, b. j., stark, c., and tyers, m. (2003) osprey: a network visu-
+alization system. genome biol. 4, r22
+33. stark, c., breitkreutz, b. j., reguly, t., boucher, l., breitkreutz, a., and
+functional analysis of c. albicans-macrophage interaction
+tyers, m. (2006) biogrid: a general repository for interaction datasets.
+nucleic acids res. 34, d535–d539
+lyase. nature 406, 735–738
+56. lorenz, m. c., and fink, g. r. (2002) life and death in a macrophage: role
+34. bordier, c. (1981) phase separation of integral membrane proteins in triton
+of the glyoxylate cycle in virulence. eukaryot. cell 1, 657– 662
+x-114 solution. j. biol. chem. 256, 1604 –1607
+35. gourlay, c. w., and ayscough, k. r. (2005) the actin cytoskeleton: a key
+regulator of apoptosis and ageing? nat. rev. mol. cell. biol. 6, 583–589
+36. boldogh, i. r., and pon, l. a. (2006) interactions of mitochondria with the
+actin cytoskeleton. biochim. biophys. acta 1763, 450 – 462
+37. camougrand, n., kissova, i., velours, g., and manon, s. (2004) uth1p: a
+yeast mitochondrial protein at the crossroads of stress, degradation and
+cell death. fems yeast res. 5, 133–140
+38. diez-orejas, r., molero, g., rios-serrano, i., vazquez, a., gil, c., nombela,
+c., and sanchez-perez, m. (1999) low virulence of a morphological
+candida albicans mutant. fems microbiol. lett. 176, 311–319
+39. molero, g., guillen, m. v., martinez-solano, l., gil, c., pla, j., nombela, c.,
+sanchez-perez, m., and diez-orejas, r. (2005) the importance of the
+phagocytes’ innate response in resolution of the infection induced by a
+low virulent candida albicans mutant. scand. j. immunol. 62, 224 –233
+40. romani, l. (1999) immunity to candida albicans: th1, th2 cells and be-
+yond. curr. opin. microbiol. 2, 363–367
+41. kellam, p. (2001) post-genomic virology: the impact of bioinformatics,
+microarrays and proteomics on investigating host and pathogen inter-
+actions. rev. med. virol. 11, 313–329
+42. gygi, s. p., rochon, y., franza, b. r., and aebersold, r. (1999) correlation
+between protein and mrna abundance in yeast. mol. cell. biol. 19,
+1720 –1730
+43. celis, j. e., kruhoffer, m., gromova, i., frederiksen, c., ostergaard, m.,
+thykjaer, t., gromov, p., yu, j., palsdottir, h., magnusson, n., and
+orntoft, t. f. (2000) gene expression profiling: monitoring transcription
+and translation products using dna microarrays and proteomics. febs
+lett. 480, 2–16
+44. orntoft, t. f., thykjaer, t., waldman, f. m., wolf, h., and celis, j. e. (2002)
+genome-wide study of gene copy numbers, transcripts, and protein
+levels in pairs of non-invasive and invasive human transitional cell car-
+cinomas. mol. cell. proteomics 1, 37– 45
+45. anderson, l., and seilhamer, j. (1997) a comparison of selected mrna and
+protein abundances in human liver. electrophoresis 18, 533–537
+46. hernandez, r., nombela, c., diez-orejas, r., and gil, c. (2004) two-
+dimensional reference map of candida albicans hyphal forms. proteom-
+ics 4, 374 –382
+47. fernandez-arenas, e., molero, g., nombela, c., diez-orejas, r., and gil, c.
+(2004) low virulent strains of candida albicans: unravelling the antigens
+for a future vaccine. proteomics 4, 3007–3020
+48. pitarch, a., jimenez, a., nombela, c., and gil, c. (2006) decoding sero-
+logical response to candida cell wall immunome into novel diagnostic,
+prognostic, and therapeutic candidates for systemic candidiasis by pro-
+teomic and bioinformatic analyses. mol. cell. proteomics 5, 79 –96
+49. pitarch, a., abian, j., carrascal, m., sanchez, m., nombela, c., and gil, c.
+(2004) proteomics-based identification of novel candida albicans anti-
+gens for diagnosis of systemic candidiasis in patients with underlying
+hematological malignancies. proteomics 4, 3084 –3106
+50. gygi, s. p., corthals, g. l., zhang, y., rochon, y., and aebersold, r. (2000)
+evaluation of two-dimensional gel electrophoresis-based proteome anal-
+ysis technology. proc. natl. acad. sci. u. s. a. 97, 9390 –9395
+51. gorg, a., obermaier, c., boguth, g., harder, a., scheibe, b., wildgruber,
+r., and weiss, w. (2000) the current state of two-dimensional electro-
+phoresis with immobilized ph gradients. electrophoresis 21, 1037–1053
+52. unlu, m., morgan, m. e., and minden, j. s. (1997) difference gel electro-
+phoresis: a single gel method for detecting changes in protein extracts.
+electrophoresis 18, 2071–2077
+53. tonge, r., shaw, j., middleton, b., rowlinson, r., rayner, s., young, j.,
+pognan, f., hawkins, e., currie, i., and davison, m. (2001) validation and
+development of fluorescence two-dimensional differential gel electro-
+phoresis proteomics technology. proteomics 1, 377–396
+54. fischer, h. p. (2005) towards quantitative biology: integration of biological
+information to elucidate disease pathways and to guide drug discovery.
+biotechnol. annu. rev. 11, 1– 68
+55. mckinney, j. d., honer zu bentrup, k., munoz-elias, e. j., miczak, a.,
+chen, b., chan, w. t., swenson, d., sacchettini, j. c., jacobs, w. r., jr.,
+and russell, d. g. (2000) persistence of mycobacterium tuberculosis in
+macrophages and mice requires the glyoxylate shunt enzyme isocitrate
+57. castro, m., ralston, n. v., morgenthaler, t. i., rohrbach, m. s., and limper,
+a. h. (1994) candida albicans stimulates arachidonic acid liberation from
+alveolar macrophages through ␣-mannan and ␤-glucan cell wall com-
+ponents. infect. immun. 62, 3138 –3145
+58. jouault, t., fradin, c., trinel, p. a., bernigaud, a., and poulain, d. (1998)
+early signal transduction induced by candida albicans in macrophages
+through shedding of a glycolipid. j. infect. dis. 178, 792– 802
+59. heinemeyer, w., fischer, m., krimmer, t., stachon, u., and wolf, d. h.
+(1997) the active sites of the eukaryotic 20 s proteasome and their
+in subunit precursor processing. j. biol. chem. 272,
+involvement
+25200 –25209
+60. enenkel, c., lehmann, a., and kloetzel, p. m. (1998) subcellular distribution
+of proteasomes implicates a major location of protein degradation in the
+nuclear envelope-er network in yeast. embo j. 17, 6144 – 6154
+61. zhang, k., and kaufman, r. j. (2006) protein folding in the endoplasmic
+reticulum and the unfolded protein response. handb. exp. pharmacol.
+69 –91
+62. biswas, s., roy, m., and datta, a. (2003) n-acetylglucosamine-inducible
+cagap1 encodes a general amino acid permease which co-ordinates
+external nitrogen source response and morphogenesis in candida albi-
+cans. microbiology 149, 2597–2608
+63. fan, j., chaturvedi, v., and shen, s. h. (2002) identification and phyloge-
+netic analysis of a glucose transporter gene family from the human
+pathogenic yeast candida albicans. j. mol. evol. 55, 336 –346
+64. cenci, e., romani, l., mencacci, a., spaccapelo, r., schiaffella, e., puc-
+cetti, p., and bistoni, f. (1993) interleukin-4 and interleukin-10 inhibit
+nitric oxide-dependent macrophage killing of candida albicans. eur.
+j. immunol. 23, 1034 –1038
+65. blasi, e., pitzurra, l., puliti, m., lanfrancone, l., and bistoni, f. (1992) early
+differential molecular response of a macrophage cell line to yeast and
+hyphal forms of candida albicans. infect. immun. 60, 832– 837
+66. diez-orejas, r., molero, g., moro, m. a., gil, c., nombela, c., and
+sanchez-perez, m. (2001) two different no-dependent mechanisms
+account for the low virulence of a non-mycelial morphological mutant of
+candida albicans. med. microbiol. immunol. (berl.) 189, 153–160
+67. shiloh, m. u., and nathan, c. f. (2000) reactive nitrogen intermediates and
+the pathogenesis of salmonella and mycobacteria. curr. opin. microbiol.
+3, 35– 42
+68. schapiro, j. m., libby, s. j., and fang, f. c. (2003) inhibition of bacterial
+dna replication by zinc mobilization during nitrosative stress. proc. natl.
+acad. sci. u. s. a. 100, 8496 – 8501
+69. fang, f. c. (2004) antimicrobial reactive oxygen and nitrogen species:
+concepts and controversies. nat. rev. microbiol. 2, 820 – 832
+70. enjalbert, b., smith, d. a., cornell, m. j., alam, i., nicholls, s., brown, a. j.,
+and quinn, j. (2006) role of the hog1 stress-activated protein kinase in
+the global transcriptional response to stress in the fungal pathogen
+candida albicans. mol. biol. cell 17, 1018 –1032
+71. clemons, k. v., calich, v. l., burger, e., filler, s. g., grazziutti, m., murphy,
+j., roilides, e., campa, a., dias, m. r., edwards, j. e., jr., fu, y.,
+fernandes-bordignon, g., ibrahim, a., katsifa, h., lamaignere, c. g.,
+meloni-bruneri, l. h., rex, j., savary, c. a., and xidieh, c. (2000)
+pathogenesis i: interactions of host cells and fungi. med. mycol. 38,
+99 –111
+72. albrecht, a., felk, a., pichova, i., naglik, j. r., schaller, m., de groot, p.,
+maccallum, d., odds, f. c., schafer, w., klis, f., monod, m., and hube,
+b. (2006) glycosylphosphatidylinositol-anchored proteases of candida
+albicans target proteins necessary for both cellular processes and host-
+pathogen interactions. j. biol. chem. 281, 688 – 694
+73. richard, m., ibata-ombetta, s., dromer, f., bordon-pallier, f., jouault, t.,
+and gaillardin, c. (2002) complete glycosylphosphatidylinositol anchors
+are required in candida albicans for full morphogenesis, virulence and
+resistance to macrophages. mol. microbiol. 44, 841– 853
+74. ibrahim, a. s., filler, s. g., sanglard, d., edwards, j. e., jr., and hube, b.
+(1998) secreted aspartyl proteinases and interactions of candida albi-
+cans with human endothelial cells. infect. immun. 66, 3003–3005
+75. payne, s. m. (1993) iron acquisition in microbial pathogenesis. trends
+microbiol. 1, 66 – 69
+76. weinberg, e. d. (1999) the role of iron in protozoan and fungal infectious
+molecular & cellular proteomics 6.3
+477
+functional analysis of c. albicans-macrophage interaction
+diseases. j. eukaryot. microbiol. 46, 231–238
+77. haas, h. (2003) molecular genetics of fungal siderophore biosynthesis and
+uptake: the role of siderophores in iron uptake and storage. appl. mi-
+crobiol. biotechnol. 62, 316 –330
+78. heymann, p., gerads, m., schaller, m., dromer, f., winkelmann, g., and
+ernst, j. f. (2002) the siderophore iron transporter of candida albicans
+(sit1p/arn1p) mediates uptake of ferrichrome-type siderophores and is
+required for epithelial invasion. infect. immun. 70, 5246 –5255
+79. knight, s. a., lesuisse, e., stearman, r., klausner, r. d., and dancis, a.
+(2002) reductive iron uptake by candida albicans: role of copper, iron
+and the tup1 regulator. microbiology 148, 29 – 40
+80. gourlay, c. w., and ayscough, k. r. (2005) identification of an upstream
+regulatory pathway controlling actin-mediated apoptosis in yeast. j. cell
+sci. 118, 2119 –2132
+81. chua, b. t., volbracht, c., tan, k. o., li, r., yu, v. c., and li, p. (2003)
+mitochondrial translocation of cofilin is an early step in apoptosis induc-
+tion. nat. cell biol. 5, 1083–1089
+82. rolland, f., winderickx, j., and thevelein, j. m. (2002) glucose-sensing
+and -signalling mechanisms in yeast. fems yeast res. 2, 183–201
+83. longo, v. d. (2004) ras: the other pro-aging pathway. sci. aging knowl-
+edge environ. 2004, e36
+84. phillips, a. j., crowe, j. d., and ramsdale, m. (2006) ras pathway signaling
+accelerates programmed cell death in the pathogenic fungus candida
+albicans. proc. natl. acad. sci. u. s. a. 103, 726 –731
+85. gourlay, c. w., and ayscough, k. r. (2005) the actin cytoskeleton in ageing
+and apoptosis. fems yeast res. 5, 1193–1198
+86. zaid, h., abu-hamad, s., israelson, a., nathan, i., and shoshan-barmatz,
+v. (2005) the voltage-dependent anion channel-1 modulates apoptotic
+cell death. cell death differ. 12, 751–760
+87. walter, d., wissing, s., madeo, f., and fahrenkrog, b. (2006) the inhibitor-
+of-apoptosis protein bir1p protects against apoptosis in s. cerevisiae
+and is a substrate for the yeast homologue of omi/htra2. j. cell sci. 119,
+1843–1851
+88. perry, d. k., carton, j., shah, a. k., meredith, f., uhlinger, d. j., and
+hannun, y. a.
+(2000) serine palmitoyltransferase regulates de novo
+ceramide generation during etoposide-induced apoptosis. j. biol. chem.
+275, 9078 –9084
+89. herker, e., jungwirth, h., lehmann, k. a., maldener, c., frohlich, k. u.,
+wissing, s., buttner, s., fehr, m., sigrist, s., and madeo, f. (2004)
+chronological aging leads to apoptosis in yeast. j. cell biol. 164,
+501–507
+90. xue, l., fletcher, g. c., and tolkovsky, a. m. (1999) autophagy is activated
+by apoptotic signalling in sympathetic neurons: an alternative mecha-
+nism of death execution. mol. cell. neurosci. 14, 180 –198
+91. jia, l., dourmashkin, r. r., allen, p. d., gray, a. b., newland, a. c., and
+kelsey, s. m. (1997) inhibition of autophagy abrogates tumour necrosis
+factor alpha induced apoptosis in human t-lymphoblastic leukaemic
+cells. br. j. haematol. 98, 673– 685
+92. chalkley, r. j., baker, p. r., hansen, k. c., medzihradszky, k. f., allen,
+n. p., rexach, m., and burlingame, a. l. (2005) comprehensive analysis
+of a multidimensional liquid chromatography mass spectrometry dataset
+acquired on a quadrupole selecting quadrupole collision cell, time-of-
+flight mass spectrometer. i. how much of the data is theoretically inter-
+pretable by search engines? mol. cell. proteomics 4, 1189 –1193
+93. chalkley, r. j., baker, p. r., huang, l., hansen, k. c., allen, n. p., rexach,
+m., and burlingame, a. l. (2005) comprehensive analysis of a multidi-
+mensional liquid chromatography mass spectrometry dataset acquired
+on a quadrupole selecting quadrupole collision cell, time-of-flight mass
+spectrometer. ii. new developments in protein prospector allow for
+reliable and comprehensive automatic analysis of large datasets. mol.
+cell. proteomics 4, 1194 –1204
+478 molecular & cellular proteomics 6.3

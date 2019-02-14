@@ -1,0 +1,1167 @@
+oncogene (2007) 26, 1840–1851
+& 2007 nature publishing group all rights reserved 0950-9232/07 $30.00
+www.nature.com/onc
+original article
+silencing mammalian target of rapamycin signaling by small interfering
+rna enhances rapamycin-induced autophagy in malignant glioma cells
+a iwamaru1, y kondo1, e iwado1, h aoki1, k fujiwara1, t yokoyama1, gb mills2
+and s kondo1,3,4
+1department of neurosurgery, the university of texas md anderson cancer center, houston, tx, usa; 2department of molecular
+therapeutics, the university of texas md anderson cancer center, houston, tx, usa; 3the university of texas graduate school
+of biomedical sciences at houston, houston, tx, usa and 4department of neurosurgery, the baylor college of medicine, houston,
+tx, usa
+inhibition of
+the mammalian target of rapamycin (mtor) plays a
+central role in regulating the proliferation of malignant
+glioma cells, and mtor-speciﬁc inhibitors
+such as
+rapamycin analogs are considered as promising therapy
+for malignant gliomas. however, the efﬁcacy of mtor
+inhibitors alone in the treatment of patients with malignant
+gliomas is only modest, potentially because these agents
+rather than acting as mtor kinase inhibitors instead
+interfere with the function of only mtor/raptor (regula-
+tory-associated protein of mtor) complex and thus do not
+perturb all mtor functions. the purpose of this study was
+to determine whether global
+the mtor
+molecule enhances the antitumor effect of rapamycin on
+malignant glioma cells. we showed that rapamycin induced
+autophagy and that
+inhibition of autophagy by small
+interfering rna (sirna) directed against autophagy-
+related gene beclin 1 attenuated the cytotoxicity of
+rapamycin in rapamycin-sensitive tumor cells,
+indicating
+that the autophagy was a primary mediator of rapamycin’s
+antitumor
+response.
+exogenous expression of an mtor mutant interfering
+with its kinase activity markedly enhanced the incidence
+of
+silencing
+of mtor with sirna augmented the inhibitory effect of
+rapamycin on tumor cell viability by stimulating autophagy.
+importantly, not only rapamycin-sensitive malignant glioma
+cells with pten mutations but also rapamycin-resistant
+malignant glioma cells with wild-type pten were sensitized
+to rapamycin by mtor sirna. these results indicate that
+rapamycin-induced autophagy is one of the agent’s anti-
+tumor effects and that silencing or inhibiting mtor kinase
+activity could enhance the effectiveness of rapamycin.
+oncogene (2007) 26, 1840–1851. doi:10.1038/sj.onc.1209992;
+published online 25 september 2006
+rapamycin-induced autophagy. moreover,
+effect
+rather
+than a protective
+keywords: rapamycin; autophagy; glioma; mtor; sirna
+correspondence: dr s kondo, department of neurosurgery, the
+university of texas md anderson cancer center, 1515 holcombe
+boulevard, unit bsrb 1004, houston, tx 77030, usa.
+e-mail: seikondo@mdanderson.org
+received 31 march 2006; revised 14 july 2006; accepted 1 august 2006;
+published online 25 september 2006
+introduction
+it
+malignant gliomas are among the most devastating
+cancers (surawicz et al., 1998). because these tumors
+rapidly grow and invade the surrounding brain paren-
+chyma,
+is often impossible to achieve complete
+surgical resection without causing severe neurologic
+damage. malignant gliomas have a dismal prognosis:
+the median overall survival duration of patients after
+diagnosis is 12–15 months despite the multidisciplinary
+use of surgery, chemotherapy and radiotherapy (mitchell
+et al., 2005). novel therapeutic agents for malignant
+gliomas are sorely needed.
+the phosphatidylinositol 3-phosphate kinase (pi3k)/
+protein kinase b (akt)/mammalian target of rapamycin
+(mtor) signaling pathway is crucial for cell prolifera-
+tion, survival and migration (vogt, 2001; oldham and
+hafen, 2003). dysregulation of this pathway occurs in
+various cancers (sekulic et al., 2000; vogt, 2001), and
+inhibition of pi3k/akt/mtor signaling is considered
+an attractive strategy for
+treating diverse cancers
+(vivanco and sawyers, 2002). in particular, mtor is
+regarded as an essential molecule in maintaining the
+transformed phenotype and therefore in regulating the
+sensitivity of cancer cells to mtor inhibitors (bjornsti
+and houghton, 2004). rapamycin and its derivatives,
+such as cci-779, rad001 and ap23573, speciﬁcally
+bind to the intracellular fkbp12 protein to form a
+drug–receptor complex that then interacts with and
+suppresses mtor,
+its
+downstream molecule p70s6 kinase (p70s6k) (huang
+and houghton, 2003; sawyers, 2003). accumulating
+results from phase i and ii trials suggest that the
+inhibition of mtor signaling could be exploited as
+therapy (peralba et al., 2003).
+a cancer-speciﬁc
+however, these agents alone were only mildly effective
+in patients with malignant gliomas, and only 36% of
+the patients showed improvement on neuroimaging
+(galanis et al., 2005). the resistance to mtor
+inhibitors underscores the need to explore a novel
+means of sensitizing this disease to treatment with
+mtor inhibitors.
+resulting in inactivation of
+a recent investigation showed that cellular treat-
+lead to irreversible
+ment with rapamycin does not
+rapamycin does not
+inhibition of mtor kinase activity because
+the
+fkbp12–rapamycin binding domain of mtor lies
+outside of the catalytic domain (edinger et al., 2003).
+moreover,
+inhibit all mtor
+functions, because mtor exists in cells at least two
+distinct multiprotein complexes and only one of which
+binds to fkbp12–rapamycin (loewith et al., 2002). the
+rapamycin-sensitive complex is deﬁned by the inter-
+action of mtor with the accessory protein raptor
+(regulatory-associated protein of mtor), and the
+rapamycin-insensitive complex interacts with rictor
+(rapamycin-insensitive companion of mtor) (guertin
+and sabatini, 2005). on the basis of these observations,
+we speculated that global
+inhibition of the mtor
+molecule would enhance the cytotoxic effect of rapa-
+mycin. to test our hypothesis, we treated rapamycin-
+sensitive and rapamycin-resistant malignant glioma cells
+with small interfering rna (sirna) directed against
+mtor in the presence of rapamycin. silencing of
+mtor augmented the effect of rapamycin in tumor
+cells regardless of
+intrinsic sensitivity to
+rapamycin. enhancement of rapamycin-induced auto-
+phagy or type ii programmed cell death appears to be
+the critical mediator. our ﬁndings suggest that silencing
+mtor signaling can sensitize malignant glioma cells to
+rapamycin.
+the cells’
+effect of mtor sirna on rapamycin-induced autophagy
+a iwamaru et al
+results
+1841
+effect of rapamycin on the cell viability of malignant
+glioma cells with mutant or wild-type pten
+accumulating evidence indicates that rapamycin is
+particularly effective against tumors with constitutively
+activation of the pi3k pathway such as that occurs with
+mutational inactivation of pten (guertin and sabatini,
+2005). therefore, we used four established malignant
+glioma cell lines, three with mutant pten (u87-mg,
+a172 and d54) and one with wild-type pten (ln229),
+to examine the antitumor effect of rapamycin. to assess
+the inhibitory effect of rapamycin, all four cell lines were
+treated with 1, 10 and 100 nm rapamycin for 48 h or with
+100 nm rapamycin for 24 or 48 h and then subjected to
+the wst-1 cell viability assay. as shown in figure 1a,
+the cell viability of the lines with mutant pten was
+moderately inhibited by rapamycin in dose- and time-
+dependent manners, whereas ln229 cells were resistant
+to rapamycin even at a high concentration of 100 nm for
+48 h. thus, as we predicted, tumor cells with wild-type
+pten were more resistant to rapamycin than were
+tumor cells with mutant pten.
+to investigate whether the variations in sensitivity
+to rapamycin were due to rapamycin’s effect on
+mtor signaling in tumor cells, we assessed the
+48 hours
+100 nm rapamycin
+rapamycin (nm)
+phospho-p70s6k
+total p70s6k
+140
+120
+100
+80
+60
+40
+20
+u87-mg
+a172
+d54
+ln229
+100
+10
+rapamycin
+concentration (nm)
+48 hours
+u87-mg
+ln229
+10
+100
+10
+100
+u87-mg
+a172
+d54
+ln229
+24
+48
+time after exposure (hours)
+140
+120
+100
+80
+60
+40
+20
+rapamycin (nm)
+phospho-4e-bp1
+total 4e-bp1
+48 hours
+u87-mg
+  ln229
+10
+100
+10
+100
+100 nm rapamycin
+u87-mg
+  ln229
+100 nm rapamycin
+u87-mg
+  ln229
+time (hours)
+24
+48
+24
+48
+time (hours)
+24
+48
+24
+48
+phospho-p70s6k
+total p70s6k
+phospho-4e-bp1
+total 4e-bp1
+figure 1 effect of rapamycin on malignant glioma cells. (a) cytotoxic effect of rapamycin on u87-mg, a172, d54 and ln229 cells.
+after exposure to 1, 10 or 100 nm rapamycin for 48 h (left) or to 100 nm rapamycin for 24 or 48 h (right), cell viability was evaluated
+with wst-1 reagent. the viability of cells treated with vehicle alone was regarded as 100%. results shown are the means7s.d.s of
+three independent experiments. (b and c) inhibitory effect of rapamycin on the phosphorylation of p70s6k (b) and 4e-bp1 (c). after
+exposure to 1, 10 or 100 nm rapamycin for 48 h (top) or to 100 nm rapamycin for 24 or 48 h (bottom), u87-mg and ln229 cells were
+lysed and processed for immunoblotting with antibody against phospho-thr389-speciﬁc p70s6k or phospho-thr37/46-speciﬁc 4e-bp1.
+anti-total p70s6k or total 4e-bp1 antibody was used to conﬁrm equal loading of proteins.
+oncogene
+effect of mtor sirna on rapamycin-induced autophagy
+a iwamaru et al
+1842
+phosphorylation of two downstream targets of mtor,
+p70s6k and eukaryotic initiation factor 4e-binding
+protein 1 (4e-bp1), by using western blotting. we
+found that rapamycin effectively inhibited the phos-
+phorylation of p70s6k in both rapamycin-sensitive
+u87-mg cells and rapamycin-resistant ln229 cells
+(figure 1b). in u87-mg cells, treatment with rapamycin
+the lowest concentration of 1 nm for 48 h
+even at
+(bic85; concentration resulting in cell viability in 85%
+of control) or at 100 nm for 24 or 48 h (bic80)
+remarkably inhibited p70s6k phosphorylation, and in
+ln229 cells, treatment with rapamycin at 1 nm for 48 h
+(bic95) almost completely suppressed p70s6k phos-
+phorylation.
+the phosphorylation of
+4e-bp1 was not
+inhibited by rapamycin treatment
+(figure 1c). these results indicated that the antitumor
+effect of rapamycin is modest even for malignant glioma
+cells without pten function. further, the inhibitory
+effect of rapamycin on the phosphorylation of p70s6k
+but not 4e-bp1 was apparent
+the
+sensitivity of tumor cells to rapamycin suggesting that
+rapamycin’s inhibitory effect on mtor function is
+partial and is not sufﬁcient to induce robust growth
+inhibition.
+regardless of
+interestingly,
+induction of autophagy in malignant glioma cells
+by rapamycin
+autophagy is detected in a variety of cells treated with
+rapamycin (noda and ohsumi, 1998; gutierrez et al.,
+2004; kanazawa et al., 2004; ravikumar et al., 2004).
+we used electron microscopic analysis to determine
+whether rapamycin induces autophagy in our malignant
+glioma cells. numerous autophagic vacuoles were
+observed in u87-mg cells treated with 100 nm rapamy-
+cin for 48 h, whereas u87-mg cells treated with vehicle
+alone for 48 h exhibited few autophagic features
+(figure 2a). there was no chromatin condensation or
+fragmentation, which is characteristic of apoptosis, in
+rapamycin-treated u87-mg cells.
+we also assessed the presence of a punctate pattern of
+the green ﬂuorescent protein (gfp)-tagged microtubule-
+associated protein light chain 3 (lc3)
+(gfp-lc3)
+expression to determine whether rapamycin induces
+autophagy in malignant glioma cells. u87-mg cells
+were transiently transfected with gfp-lc3 expression
+vector for 24 h and then treated with vehicle alone
+or rapamycin (100 nm)
+for an additional 48 h, as
+described previously (kanzawa et al., 2005). under
+a ﬂuorescence microscope, the vast majority of the
+figure 2 autophagy detection in malignant glioma cells treated with rapamycin. (a) electron photomicrographs showing the
+ultrastructure of u87-mg cells treated with vehicle alone or 100 nm rapamycin for 48 h. n, nucleus; arrows, autophagic vacuoles; bars,
+2 mm. (b) gfp-lc3 dots in rapamycin-treated tumor cells. u87-mg cells transfected with the gfp-lc3 expression vector were treated
+with vehicle alone or 100 nm rapamycin for 48 h. arrows, representative autophagic cells; bars, 10 mm. (c) quantiﬁcation of u87-mg,
+a172, d54 and ln229 cells treated with as described in (b) that were autophagic. results shown are the means7s.d.s of three
+independent experiments. *po0.01, compared with vehicle alone.
+oncogene
+gfp-lc3-transfected cells showed diffuse distribution
+of gfp-lc3 in the absence of rapamycin, whereas
+treatment with rapamycin often resulted in a punctate
+pattern of gfp-lc3 ﬂuorescence (figure 2b). this
+pattern represents the presence of autophagic vacuoles
+and indicated that lc3 is recruited to autophagic
+vacuoles in u87-mg cells treated with rapamycin.
+quantiﬁcation of autophagic cells
+revealed that
+compared with vehicle alone, treatment with rapamycin
+signiﬁcantly increased the incidence of autophagy in
+u87-mg cells (10 versus 32%), a172 cells (10 versus
+30%), d54 cells (10 versus 26%) and ln229 cells
+(7 versus 20%) (po0.01 for all cell lines) (figure 2c).
+the prevalence of autophagy was lower in rapamycin-
+treated ln229 cells than in other rapamycin-treated
+cells. these results indicated that rapamycin induces
+autophagy in malignant glioma cells and that the extent
+of autophagy induction might be related to their
+sensitivity to rapamycin.
+effect of inhibiting rapamycin-induced autophagy by
+beclin 1 sirna on malignant glioma cells
+whether cancer treatment-induced autophagy mediates
+anticancer activity or functions as a protective reaction
+against
+(ogier-
+denis and codogno, 2003; gozuacik and kimchi,
+the treatment remains controversial
+1843
+effect of mtor sirna on rapamycin-induced autophagy
+a iwamaru et al
+2004; kondo et al., 2005). to assess the role of
+autophagy in rapamycin cytotoxicity, we determined
+whether inhibition of autophagy alters rapamycin-
+induced cytotoxicity. u87-mg cells were transfected
+with 100 nm non-targeting (random) sirna or beclin 1
+sirna for 72 h in the presence of oligofectamine
+and subjected to western blotting using anti-beclin 1
+antibody. beclin 1 is a mammalian homologue of yeast
+atg6, which is necessary for autophagy to proceed
+in response to nutrient deprivation (liang et al., 1999).
+we observed that transfection with beclin 1 sirna
+markedly suppressed the expression of beclin 1 protein
+relative to transfection with random sirna (figure 3a).
+to determine the effect of beclin 1 sirna transfec-
+tion on rapamycin-induced autophagy, u87-mg and
+ln229 cells transiently transfected with the gfp-lc3
+vector for 24 h were transfected with random sirna or
+beclin 1 sirna for an additional 48 h. after that, the
+transfected cells were treated with vehicle alone or
+100 nm rapamycin for 48 h and observed with ﬂuore-
+scence microscopy, and autophagic cells were quanti-
+ﬁed. relative to the induction of autophagy by
+rapamycin alone, the prevalence of autophagic cells
+was signiﬁcantly reduced by beclin 1 sirna transfection
+(32 versus 8% in u87-mg cells, po0.01; 19 versus 13%
+in ln229 cells, po0.05), whereas transfection with
+random sirna did not signiﬁcantly affect autophagy
+figure 3 effect of inhibiting rapamycin-induced autophagy by beclin 1 sirna. (a) inhibition of beclin 1 protein expression by
+sirna transfection. u87-mg cells were transfected with 100 nm random sirna or beclin 1 sirna for 72 h and then lysed and
+processed for immunoblotting with antibody against beclin 1. anti-b-actin antibody was used to conﬁrm equal loading of proteins.
+(b) inhibition of rapamycin-induced autophagy by beclin 1 sirna transfection. u87-mg and ln229 cells were transfected with gfp-
+lc3 for 24 h and then with 100 nm random sirna or beclin 1 sirna for 48 h, and autophagic cells were quantiﬁed. results shown are
+the means7s.d.s of three independent experiments. *po0.01 in u87-mg cells and **po0.05 in ln229 cells, compared with
+rapamycin alone. (c) effect of inhibiting rapamycin-induced autophagy on cell viability. after transfection with 100 nm random sirna
+or beclin 1 sirna for 48 h, u87-mg and ln229 cells were treated with vehicle alone or rapamycin (10 or 100 nm) for another 48 h.
+cell viability was evaluated with wst-1 reagent. the viability of cells treated with vehicle alone was regarded as 100%. results shown
+are the means7s.d.s of three independent experiments. *po0.01, compared with random sirna at 100 nm rapamycin.
+oncogene
+1844
+effect of mtor sirna on rapamycin-induced autophagy
+a iwamaru et al
+induction caused by rapamycin (figure 3b). we also
+determined whether the cytotoxic effect of rapamycin
+was affected by beclin 1 sirna transfection. after
+transfection with 100 nm random sirna or beclin 1
+sirna for 48 h, u87-mg and ln229 cells were treated
+with vehicle alone or rapamycin (10 or 100 nm) for
+another 48 h for the cell viability assay. transfection
+with beclin 1 sirna signiﬁcantly attenuated the
+inhibitory effect of 100 nm rapamycin on the viability
+of u87-mg cells relative to random sirna (83 versus
+99%, po0.01) (figure 3c). however, beclin 1 sirna
+transfection did not increase the incidence of apoptosis
+in rapamycin-treated u87-mg cells (data not shown).
+on the other hand, inhibition of autophagy by beclin 1
+sirna did not affect the viability of ln229 cells treated
+with rapamycin (figure 3c), suggesting that autophagy
+might be not rather protective in ln229 cells. these
+results indicated that rapamycin-induced autophagy
+mediates the growth inhibitory activity of rapamycin in
+rapamycin-sensitive tumor cells, suggesting that stimula-
+tion of the autophagy caused by rapamycin should
+correspond to augmentation of its antitumor effect.
+involvement of mtor catalytic activity in rapamycin-
+induced autophagy
+because the domain of
+the mtor that binds the
+complex of the immunophilin fkbp12 and rapamycin
+lies outside of the catalytic domain (edinger et al.,
+2003),
+the
+phosphorylation of p70s6k but may not globally block
+the catalytic activity of
+the mtor. therefore, we
+treatment with rapamycin may inhibit
+determined the inhibitory effect of rapamycin on mtor
+kinase activity in malignant glioma cells. as shown in
+figure 4a, although the phosphorylation of p70s6k was
+suppressed to an undetectable level in u87-mg cells by
+treatment with 100 nm rapamycin for 48 h, mtor
+catalytic activity was not inhibited. a pi3k inhibitor
+ly294002 (5 mm, 24 h), which we used as a negative
+control (takeuchi et al., 2005), remarkably suppressed
+the phosphorylation of p70s6k and the mtor catalytic
+activity. these results suggested that the cellular effects
+of rapamycin are not mediated through the suppression
+of mtor kinase activity.
+to determine whether the inhibition of mtor kinase
+activity affects rapamycin-induced autophagy, u87-mg
+cells were transiently transfected with the expression
+containing the au1-tagged kinase-inactive
+vector
+mtor mutant
+(mtor sida), which acts as a
+dominant-negative, or the au1-tagged mtor mutant
+(mtor si), which has reduced binding afﬁnity for
+fkbp12–rapamycin complex and is catalytically active,
+and gfp-lc3 in the presence or absence of rapamycin.
+as shown in figure 4b, transfection of u87-mg cells
+with mtor sida or mtor si induced the expression
+of au1 protein and increased the expression level of
+mtor protein compared with parental u87-mg cells.
+treatment with 100 nm rapamycin for 48 h, transfection
+with 1 mg mtor sida for 72 h and their combination
+induced some cells to become autophagic (data not
+shown). quantiﬁcation of autophagic u87-mg cells
+showed that the prevalence of autophagy was 28% in
+u87-mg cells treated with rapamycin, 30% in cells
+transfected with mtor sida and 50% in cells
+figure 4 involvement of mtor kinase activity in rapamycin-induced autophagy of u87-mg cells. (a) lack of inhibitory effect of
+rapamycin on mtor kinase activity. cells were treated with vehicle alone, 100 nm rapamycin for 48 h or 5 mm ly294002 for 24 h, and
+then lysed for immunoblotting (wb) with antibody against phospho-thr389-speciﬁc p70s6k or for immunoprecipitation with mtor
+antibody for mtor kinase activity assay. anti-total p70s6k antibody was used to conﬁrm equal loading of proteins. (b) transfection
+with mtor mutants. after transfection with au1-tagged mtor si or mtor sida for 48 h, u87-mg cells were lysed and processed
+for immunoblotting with antibody against au1 or mtor. anti-b-actin antibody was used to conﬁrm equal loading of proteins.
+(c) quantiﬁcation of the rate of cells with gfp-lc3 dots in rapamycin- and mtor mutants-treated cells. u87-mg cells were treated
+with vehicle alone, 100 nm rapamycin for 48 h, transfected with mtor sida or mtor si for 48 h, or exposed to both rapamycin and
+mtor sida or mtor si. results shown are the means7s.d.s of three independent experiments. *po0.01 and **po0.05, compared
+with rapamycin alone.
+oncogene
+effect of mtor sirna on rapamycin-induced autophagy
+a iwamaru et al
+1845
+rapamycin-induced autophagy versus
+subjected to both (figure 4d). disruption of mtor
+kinase activity by overexpression of the mtor sida
+dominant negative signiﬁcantly enhanced the incidence
+of
+rapamycin
+alone (po0.01). in contrast, the prevalence of autop-
+hagy was 13 or 17% in u87-mg cells transfected with
+mtor si without or with rapamycin (figure 4d). u87-
+mg cells expressing si mtor were highly resistant to
+rapamycin-induced autophagy (po0.05),
+suggesting
+that the effect of rapamycin on autophagy is solely
+dependent on mtor. these results indicated that the
+inhibitory effect of rapamycin does not block mtor
+kinase activity and further that direct inhibition of the
+mtor kinase increased the effect of rapamycin on
+induction of autophagy.
+effect of mtor sirna on malignant glioma cells with
+mutant or wild-type pten
+because the transfection of mtor sida vector is
+not practical for clinical application, we decided to
+disrupt
+the mtor molecule by using sirna. to
+determine whether mtor sirna transfection
+effectively inhibits the expression of mtor protein
+in malignant glioma cells, we
+transfected tumor
+cells with 100 nm non-targeting (random) sirna or
+mtor sirna for 72 h and subjected them to
+western blotting. as
+the
+expression of mtor protein was markedly decreased
+in u87-mg cells by mtor sirna compared
+with random sirna. a similar inhibitory effect of
+mtor sirna on mtor protein expression was
+shown in figure 5a,
+u87-mg
+140
+120
+100
+80
+60
+40
+20
+oligofectamine random sirna mtor sirna
+d54
+oligofectamine random sirna mtor sirna
+u87-mg
+140
+120
+100
+80
+60
+40
+20
+100
+80
+60
+40
+20
+a172
+oligofectamine random sirna mtor sirna
+ln229
+oligofectamine random sirna mtor sirna
+a172
+140
+120
+100
+80
+60
+40
+20
+140
+120
+100
+80
+60
+40
+20
+100
+80
+60
+40
+20
+oligofectamine random sirna mtor sirna
+oligofectamine random sirna
+mtor sirna
+d54
+100
+80
+60
+40
+20
+oligofectamine
+random sirna
+mtor sirna
+100
+80
+60
+40
+20
+ln229
+oligofectamine
+random sirna
+mtor sirna
+figure 5 effect of mtor sirna on malignant glioma cells. (a) inhibition of mtor protein expression by sirna. u87-mg cells
+were transfected with 100 nm random sirna or mtor sirna for 72 h. the cells were harvested and processed for immunoblotting
+with antibody against mtor. anti-b-actin antibody was used to conﬁrm equal loading of proteins. (b) effect of mtor sirna on the
+cell viability of malignant glioma cells. u87-mg, a172, d54 and ln229 cells were treated with 100 nm random sirna or mtor
+sirna for 72 h, and cell viability was evaluated with wst-1 reagent. the viability of cells treated with oligofectamine alone was
+regarded as 100%. results shown are the means7s.d.s of three independent experiments. *po0.01, compared with random sirna.
+(c) electron photomicrographs showing the ultrastructure of u87-mg cells treated with 100 nm random sirna or mtor sirna for
+72 h. n, nucleus; arrows, autophagic vacuoles; bars, 2 mm. (d) gfp-lc3 dots in mtor sirna-treated tumor cells. u87-mg cells
+transfected with the gfp-lc3 expression vector for 24 h were then treated with oligofectamine alone or transfected with 100 nm
+random sirna or mtor sirna for 72 h. arrow indicates a representative cell with gfp-lc3 dots; bars, 10 mm. (e) quantiﬁcation of
+the rate of cells with gfp-lc3 dots in tumor cells treated with mtor sirna as described in (d). *po0.01 compared with random
+sirna. results shown are the mean7s.d.s of three independent experiments.
+oncogene
+eﬂecl nfmtor sirna nn lzpamycin-mduced autophzgy
+a lwamam er a/
+1846
+observed in a172. d54 and ln229 cells (data not
+shown).
+we then performed the wst-l cell viabillly assay
+using lumor cells lransfecled with 100nm random
+isna or mtor sirna for 72 h, the cell viabillly of
+lhe rapamycilrsensilwe u87-mg a172 and d54 cells
+and even the rapamycin-resislam ln229 cells “as
+slgniﬁcanlly inhibited by mtor sirna compared wnh
+u87»mg
+vzmclz rwamycm mwﬁmea rlvam‘lmn
+.mronsmm
+n54
+random sirna (p<().()l for all cell lines) (figure 5b),
+these results mdicmed [hm 100nm mtor isna can
+inhlbn the growlh 0f malignam glioma cells regardless
+of pten status,
+as a nexl slap we delermmed whelher mtor sirna
+transfection mduces aulophag) in malignant glloma
+cells. as shown in figure 5c, amophagic vacuoles were
+frequently observed in u87—mg cells lransfecled with
+a172
+mm. rivamycm momma mum“...
+.mmnsmm
+ln229
+mm
+”mu
+ﬂu
+i an 5 an
+l; 60 g 6”
+: 4“ n. ﬁ 4”
+3 2“ i - ° 2” i
+u h
+mm. m m mmmm ”mm md. mmm mam” “wc."
+.mmm .mmm
+b 1m) name a172
+g m '
+3 so
+g "’ i
+r 2:)
+., i i i -
+mm. rwamycm momma rivamycm
+vnwﬁ sxrna
+054
+mn
+ems: now 1
+mum: rlvnmycm mtﬂr sxrna rammycm
+.mmn isna
+ln229
+mm mmm... mam“ amm... mm rammycm mmnmm rinnmycm
+mmmm mmmm
+c ‘00 ‘20 ‘
+§ 50 h ‘00 ‘
+a .
+1: 60
+3 40 .
+& 20
+o o - ‘
+rwamycin rapunycin ¢ "#0)? raplmycin rapamycin v mer
+omror siina sirna o beclln 1 sirna omyor na sirna o 3mm 1 sirna
+.1
+d a i i ;
+-3 e
+z 1 § é
+; e 2 2
+tim lhuuvil 4b ‘5 ‘9 w
+pmspho-akl _ - = -
+yoxalak‘ i; —— -
+oncngene
+100 nm mtor sirna for 72 h compared with random
+sirna. as we found for rapamycin treatment, there
+was no chromatin condensation or
+fragmentation
+characteristic of apoptosis. we also assessed the
+incidence of autophagic cells by using gfp-lc3
+plasmid transfection. as shown in figure 5d, u87-mg
+cells treated with oligofectamine alone or transfected
+with 100 nm random sirna for 72 h showed diffuse
+distribution of green ﬂuorescence, whereas transfection
+with 100 nm mtor sirna for 72 h induced a punctate
+pattern of gfp-lc3 expression. quantiﬁcation of
+autophagic cells showed that compared with random
+sirna, the prevalence of mtor sirna-transfected
+autophagic cells increased in u87-mg cells (20 versus
+50%), a172 cells (14 versus 48%), d54 cells (15 versus
+46%) and ln229 cells (22 versus 48%) (po0.01 for all
+cell lines) (figure 5e). these results indicated that the
+inhibitory effect of mtor sirna on tumor cell viability
+is through the induction of autophagy.
+enhancement of the rapamycin-induced antitumor effect
+on malignant glioma cells by mtor sirna
+because mtor sirna induces autophagy in malignant
+glioma cells, we speculated that mtor sirna might
+enhance the antitumor effect of rapamycin by stimulat-
+ing the autophagic pathway. to test our hypothesis, we
+transfected malignant glioma cells with 100 nm mtor
+sirna for 24 h and then treated them with vehicle alone
+or with 100 nm rapamycin for 48 h for the wst-1 cell
+viability assay. as shown in figure 6a, the cell viability
+of u87, a172, d54 and ln229 cells was most inhibited
+by the combination of rapamycin and mtor sirna,
+and this combined effect was signiﬁcant compared with
+rapamycin alone or mtor sirna alone (pp0.01 for
+all comparisons).
+we also assessed the enhancement of autophagy by
+transfecting tumor cells with the gfp-lc3 expression
+vector before treatment with 100 nm rapamycin or
+transfection with 100 nm mtor sirna. quantiﬁcation
+of autophagic cells revealed that relative to vehicle
+alone, the combination therapy increased the prevalence
+of autophagic cells to 64% in u87-mg cells, 70%
+in a172 cells, 60% in d54 cells and 56% in ln229
+1847
+effect of mtor sirna on rapamycin-induced autophagy
+a iwamaru et al
+cells (figure 6b). transfection with mtor sirna
+signiﬁcantly increased the incidence of
+rapamycin-
+induced autophagy compared with rapamycin alone or
+mtor sirna alone (pp0.02 for all comparisons).
+these results indicated that mtor sirna increases the
+antitumor effects of rapamycin on not only rapamycin-
+sensitive u87-mg, a172 and d54 cells but also
+rapamycin-resistant ln229 cells by stimulating the
+induction of autophagy.
+to determine the role of autophagy in the loss of
+cell survival caused by rapamycin and mtor sirna,
+we inhibited the autophagy using beclin 1 sirna
+as described above. as shown in figure 6c, beclin 1
+sirna transfection inhibited the prevalence of auto-
+phagic cells from 62 to 31% in u87-mg cells (po0.01).
+furthermore, transfection with beclin 1 sirna signiﬁ-
+cantly reduced the inhibitory effect of rapamycin and
+mtor sirna on the viability of u87-mg cells
+(po0.05). these results conﬁrmed that autophagy
+plays a central role in the loss of cell viability in this
+setting.
+on the other hand, recent investigations showed that
+mtor inhibition activates the upstream signaling such
+as akt (shi et al., 2005; o’reilly et al., 2006). therefore,
+we determined whether rapamycin or mtor sirna
+stimulates the phosphorylation of akt in malignant
+glioma cells. as shown in figure 6d treatment with
+100 nm rapamycin for 48 h or 100 nm mtor sirna for
+48 h did not affect the phosphorylation level of akt.
+these results indicated that the upstream molecule of
+the mtor was not inﬂuenced by rapamycin or mtor
+sirna at least in u87-mg cells.
+discussion
+in this study, we demonstrated that rapamycin induced
+autophagy in malignant glioma cells and that
+this
+autophagy mediated the growth inhibitory effect of
+rapamycin. we also demonstrated that
+rapamycin
+treatment did not inhibit the mtor kinase activity
+directly. indeed, the incidence of autophagy induced by
+rapamycin was enhanced by suppression of the kinase
+figure 6 enhancement of rapamycin’s antitumor effect by mtor sirna. (a) effect of mtor sirna on rapamycin-induced
+cytotoxicity. u87, a172, d54 and ln229 cells transfected with 100 nm mtor sirna for 24 h were treated with 100 nm rapamycin for
+48 h and the cell viability was evaluated with wst-1 reagent. *p¼ 0.01 in u87-mg, **p¼ 0.005 in a172, ***po0.001 in d54 and
+po0.001 in ln229 cells, compared with rapamycin alone or mtor sirna. results shown are the mean7s.d.s of three independent
+experiments. (b) quantiﬁcation of the rate of cells with gfp-lc3 dots in tumor cells treated with rapamycin and mtor sirna.
+*p¼ 0.02 in u87-mg, **po0.001 in a172, d54 and ln229 cells, compared with rapamycin alone or mtor sirna. results shown
+are the mean7s.d.s of three independent experiments. (c) effect of autophagy inhibition. (left) inhibition of autophagy caused by
+rapamycin and mtor sirna by beclin 1 sirna transfection. u87-mg cells transfected with gfp-lc3 for 24 h were transfected with
+100 nm mtor sirna and/or beclin 1 sirna for 24 h, treated with 100 nm rapamycin for 48 h, and autophagic cells were quantiﬁed.
+results shown are the means7s.d.s of three independent experiments. *po0.01, compared with rapamycin plus mtor sirna.
+(right) effect of inhibiting autophagy caused by rapamycin and mtor sirna on cell viability. after transfection with 100 nm mtor
+sirna and/or beclin 1 sirna for 24 h, u87-mg cells were treated with 100 nm rapamycin for another 48 h. cell viability was
+evaluated with wst-1 reagent. the viability of cells treated with vehicle alone was regarded as 100%. results shown are the
+means7s.d.s of three independent experiments. *po0.05, compared with rapamycin plus mtor sirna. (d) effect of rapamycin or
+mtor sirna on the phosphorylation of akt. after treatment with vehicle alone, 100 nm rapamycin for 48 h, or transfection with
+100 nm control or mtor sirna for 48 h, u87-mg cells were lysed and processed for immunoblotting with antibody against phospho-
+ser473-speciﬁc akt. anti-total akt antibody was used to conﬁrm equal loading of proteins.
+oncogene
+1848
+effect of mtor sirna on rapamycin-induced autophagy
+a iwamaru et al
+activity. furthermore, mtor sirna increased the
+sensitivity of malignant glioma cells to rapamycin by
+stimulating autophagy regardless of the pten status of
+the tumor cells. these ﬁndings suggest that silencing the
+mtor signaling pathway is a potential therapeutic
+strategy with which to sensitize malignant glioma cells to
+rapamycin. the mechanism for the additive activity of
+rapamycin and mtor activity inhibition is not clear.
+however,
+it is likely that the inhibition of mtor
+activity by the dominant-negative construct or sirna
+was not complete and that rapamycin augmented the
+effects on the raptor-sensitive events downstream of
+mtor. inhibition of mtor likely initiated additional
+process dependent on rapamycin-insensitive actions of
+mtor such as rictor-dependent processes.
+mtor acts as a molecular link between apoptosis
+and autophagy (castedo et al., 2002). mtor inhibitors
+induce apoptosis in some types of tumor cells (hosoi
+et al., 1999; nepomuceno et al., 2003; majumder et al.,
+2004; avellino et al., 2005), whereas they trigger
+autophagy in other settings (noda and ohsumi, 1998;
+gutierrez et al., 2004; kanazawa et al., 2004; ravikumar
+et al., 2004) as well as in malignant glioma cells as
+shown in this study and our previous investigation
+(takeuchi et al., 2005). autophagy is a process by which
+cells degrade and recycle proteins and intracellular
+components in response to stress or starvation (klionsky
+and emr, 2000; levine and klionsky, 2004; shintani
+and klionsky, 2004). a complex of class iii pi3k and
+beclin 1 at the trans-golgi network acts to induce
+autophagy, whereas mtor, which is a downstream
+target of the class i pi3k/akt,
+inhibits autophagy.
+however, the direct relationship between beclin 1 and
+mtor is not yet deﬁned. tor kinase in yeast or mtor
+in mammalian cells is considered a gatekeeper for the
+initiation of the autophagic pathway. on the other
+study, beclin 1 sirna transfection
+hand,
+inhibited rapamycin-induced autophagy. these suggest
+that mtor might be located upstream of beclin 1.
+in this
+in cancer research, autophagy is a novel concept, and
+its therapeutic role remains unclear (ogier-denis and
+codogno, 2003; gozuacik and kimchi, 2004; kondo
+et al., 2005). in this study, we demonstrated that
+inhibition of rapamycin-induced autophagy by beclin 1
+sirna attenuated rapamycin’s cytotoxicity, indicating
+that rapamycin-induced autophagy likely mediates, at
+least in part, the antitumor effects of rapamycin. the
+extent of autophagy caused by rapamycin was greater in
+rapamycin-sensitive tumor cells than in rapamycin-
+resistant tumor cells. moreover, silencing the mtor
+signal by sirna enhanced rapamycin-induced auto-
+phagy and concurrently increased rapamycin’s cytoto-
+xicity. these ﬁndings
+the degree of
+autophagy induced by rapamycin is likely to correlate
+with its therapeutic efﬁcacy. in general, tumor cells
+require a higher level of protein synthesis than protein
+degradation to grow rapidly (cuervo, 2004). indeed, less
+autophagic degradation is seen in cancer cells than in
+their normal counterparts. therefore, autophagy is
+thought to be a tumor suppressor mechanism (ogier-
+denis and codogno, 2003; gozuacik and kimchi, 2004;
+suggest
+that
+oncogene
+kondo et al., 2005) based on the ﬁndings that beclin 1 is
+a haploinsufﬁcient tumor suppressor gene that regulates
+autophagy (liang et al., 1999; qu et al., 2003; yue et al.,
+2003). because beclin 1 sirna inhibited rapamycin-
+induced autophagy and reduced its antitumor effect
+but did not induce apoptosis in rapamycin-sensitive
+tumor cells, we speculated that beclin 1 plays a role
+in rapamycin-induced autophagy, which suppresses
+growth of malignant glioma cells.
+accumulating evidence indicates that pten-deﬁcient
+tumor cells are more sensitive to rapamycin than are
+tumor cells with wild-type pten because the loss of
+pten activates a rapamycin-sensitive raptor-mtor
+growth pathway (kim et al., 2002; guertin and sabatini,
+2005)
+to which these cells become dependent or
+addicted. indeed, in our study, ln229 cells with wild-
+type pten were resistant to rapamycin compared with
+other malignant glioma cells with mutant pten.
+strikingly, phosphorylation of p70s6k was equally
+sensitive to rapamycin in each of the cell lines indicating
+that
+inhibition of phosphorylation of p70s6k is
+insufﬁcient to explain the activity of rapamycin. the
+mechanism by which rapamycin blocks the phospho-
+rylation of p70s6k but not 4e-bp1 requires additional
+investigation as rapamycin did not directly inhibit
+mtor kinase activity, consistent with the results of
+investigation (edinger et al., 2003).
+another recent
+furthermore, expression of kinase-inactive mtor
+increased the effect of rapamycin on malignant glioma
+cells in this study and on human embryonic kidney
+hek 293 cells (edinger et al., 2003). these observations
+suggested that rapamycin does not perturb all mtor
+functions and therefore that inhibition of other mtor
+functions, such as kinase activity, could require the
+addition of anticancer agents other than rapamycin to
+sensitize cells to rapamycin.
+in contrast to raptor, rictor was recently identiﬁed in
+both yeast and mammals as a novel mtor-interacting
+protein (loewith et al., 2002). unlike its mtor–raptor
+sibling, the mtor–rictor complex does not bind to
+fkbp12–rapamycin and is insensitive to rapamycin.
+this discovery provided solid evidence that rapamycin
+does not completely inhibit mtor function. in addi-
+tion, a recent investigation showed that the inhibition of
+mtor by rapamycin triggered the activation of survival
+signaling pathways, including the akt pathway, and that
+this activation may contribute to drug resistance (sun
+et al., 2005). this phenomenon provides support for the
+idea that mtor has a positive role in regulating akt
+phosphorylation that is not shared with raptor but
+possibly is shared with rictor (guertin and sabatini,
+2005). in this study, we succeeded in sensitizing not only
+rapamycin-sensitive malignant glioma cells but also
+rapamycin-resistant cells to rapamycin by using mtor
+sirna. our success could be explained by the effects of
+dominant-negative mtor and mtor silencing on
+global
+inhibition of two mtor complexes. in other
+words, mtor sirna treatment could cause dysfunc-
+tion of both raptor–mtor and rictor–mtor com-
+plexes, whereas rapamycin treatment does not induce a
+complete inhibition of mtor function. the ability of
+rapamycin to increase the activity of dominant-negative
+mtor or mtor sirna suggests that these approaches
+do not completely block mtor function and that
+rapamycin provides a more complete blockade. alter-
+natively, rapamycin may mediate functions that are
+independent of mtor that are additive with inhibition
+of mtor.
+in conclusion, we demonstrated that autophagy is
+required for rapamycin to inhibit
+the viability of
+malignant glioma cells. the extent of autophagy
+induction correlates with the effectiveness of rapamycin,
+which is supported by a recent investigation showing the
+negative regulatory effect of ras oncogene on auto-
+phagy and its reversion by rapamycin that induces
+autophagy in ras-transformed cells (furuta et al.,
+2004). moreover, silencing the mtor signal by sirna
+enhances rapamycin’s antitumor effect by increasing
+the extent of autophagy. strikingly, in our study, this
+combination regimen sensitizes even rapamycin-resis-
+tant tumor cells. taken together, our results suggest that
+therapy with both rapamycin and mtor sirna is a
+promising strategy with which to manage malignant
+gliomas.
+materials and methods
+reagent
+rapamycin was obtained from sigma chemical (st louis,
+mo, usa). the stock solution was made at a concentration of
+1 mm in dimethyl sulfoxide and stocked at  201c.
+cell culture
+human malignant glioma u87-mg and a172 cells with pten
+mutation (adachi et al., 1999; morimoto et al., 1999) were
+purchased from american type culture collection (manassas,
+va, usa). human malignant glioma d54 cells with mutant
+pten and ln229 cells with wild-type pten were kindly
+supplied by dr frederick f lang and dr candelaria gomez-
+manzano (the university of texas md anderson cancer
+center, houston, tx, usa). cells were cultured in dulbecco’s
+modiﬁed eagle’s medium supplemented with 10% fetal bovine
+serum (invitrogen, carlsbad, ca, usa), 4 mm glutamine,
+100 u/ml penicillin and 2.5 mg/ml fungizone (invitrogen) at
+371c in 5% co2.
+cell viability assay
+the cytotoxic effect of rapamycin was determined using a
+wst-1 cell proliferation reagent kit (roche applied science,
+indianapolis, in, usa), as described previously (ito et al.,
+2005). tumor cells in the exponential growth phase were
+harvested and seeded at 5 103 cells per 0.1-ml well in 96-well
+ﬂat-bottomed plates (corning, corning, ny, usa) and
+incubated overnight at 371c in 5% co2. after exposure to
+rapamycin (1, 10 or 100 nm) for 24 or 48 h, the cells were
+incubated with 10% wst-1 cell culture medium for 1 h, and
+the absorbance of the samples against a background control
+was measured using a microplate reader. the viability of
+tumor cells treated with vehicle alone was regarded as 100%.
+western blotting
+soluble proteins were isolated from treated or untreated tumor
+cells for western blotting as described previously (takeuchi
+1849
+effect of mtor sirna on rapamycin-induced autophagy
+a iwamaru et al
+et al., 2005). equal amounts of protein (20–40 mg) from each
+sample were separated by electrophoresis through sodium
+dodecyl sulfate–polyacrylamide gels (bio-rad, richmond,
+ca, usa) and transferred to a hybond-p membrane
+(amersham, piscataway, nj, usa). the membranes were
+treated with antibodies and subjected to western blotting
+using an enhanced chemiluminescence (ecl) or ecl-plus
+chemiluminescence reagent (amersham). the primary anti-
+body against b-actin was purchased from sigma, and the
+antibodies against
+total
+p70s6k, phospho-p70s6k (thr389), 4e-bp1, phospho-4e-
+bp1 (thr37/46) and mtor were purchased from cell signaling
+technology (beverly, ma, usa). anti-beclin 1 antibody was
+purchased from novus biologicals (littleton, co, usa).
+anti-au1 antibody was purchased from covance (denver,
+pa, usa).
+total akt, phospho-akt
+(ser473),
+electron microscopy
+tumor cells were grown on glass coverslips,
+treated as
+described above for the cell viability assay, and ﬁxed with a
+solution containing 3% glutaraldehyde plus 2% paraformal-
+dehyde in 0.1 m cacodylate buffer, ph 7.3, for 1 h. after
+ﬁxation, the samples were post-ﬁxed in 1% oso4 in the same
+buffer for 1 h, and then subjected to electron microscopic
+analysis as described previously (takeuchi et al., 2005).
+representative areas were chosen for ultrathin sectioning
+and viewed with a jem 1010 transmission electron microscope
+(jeol, peabody, ma, usa) at an accelerating voltage of
+80 kv. digital images were obtained using the amt imaging
+system (advanced microscopy techniques, danvers, ma,
+usa).
+assessment of the involvement of lc3
+lc3, a mammalian homolog of atg8 in yeast, is recruited to
+the autophagosome membrane during autophagy (kabeya
+et al., 2000). gfp-lc3-expressing cells have been successfully
+used to demonstrate induction of autophagy by amino-acid
+deprivation or anticancer treatments (kabeya et al., 2000;
+mizushima et al., 2001; kanzawa et al., 2005). gfp-lc3 cells
+present a diffuse distribution under control conditions,
+whereas a punctate pattern of gfp-lc3 expression (gfp-
+lc3 dots) is induced by autophagy. in the current study, we
+determined the prevalence of autophagic cells (i.e., cells
+expressing gfp-lc3 dots) by using the gfp-lc3 expression
+vector kindly provided by dr noboru mizushima (tokyo
+metropolitan institute of medical science, tokyo, japan), as
+described previously (daido et al., 2005; kanzawa et al., 2005).
+tumor cells were transiently transfected with this vector by
+using fugene 6 transfection reagent (roche). after overnight
+culture, the cells were treated with vehicle alone, rapamycin or
+sirna for 48–72 h, ﬁxed with 4% paraformaldehyde, and
+examined under a ﬂuorescence microscope. to quantify
+autophagic cells after treatment, we counted the number of
+autophagic cells among 200 gfp-positive cells.
+sirna transfection
+for sirna transfection, cells at a concentration of 2.5 or
+5 104 cells/ml were incubated for 24 h in six-well plates in
+culture medium. the cells were then transfected with 100 nm
+beclin 1, mtor or non-targeting (random) sirna (dharma-
+con, lafayette, co, usa)
+for 72 h in the presence of
+oligofectamine (invitrogen) and subjected to western blotting
+using anti-beclin 1 or anti-mtor antibody. the beclin 1
+sirna sequence was 50-cagtttggcacaatcaata-30
+(yu et al., 2004), and the mtor sirna sequence was
+50-aagaaucaaagagcagagugc-30 (kim et al., 2002),
+oncogene
+effect of mtor sirna on rapamycin-induced autophagy
+a iwamaru et al
+1850
+respectively. to determine whether rapamycin-induced autop-
+hagy and cytotoxicity are affected by beclin 1 or mtor sirna
+transfection, tumor cells transfected with 100 nm beclin 1,
+mtor or random sirna for 24 h were treated with vehicle
+alone or rapamycin (1–100 nm) for 48 h for the wst-1 assay
+and the detection of gfp-lc3 dots.
+activity assay of mtor
+for mtor immunoprecipitation, tumor cells treated with
+vehicle alone or rapamycin (100 nm) for 48 h or ly294002
+(5 mm) for 24 h were solubilized in rippa lysis buffer (upstate,
+waltham, ma, usa). then, 100 mg of extracted protein per
+sample in 500 ml of lysis buffer was immunoprecipitated with
+anti-mtor antibody and protein a beads as described
+previously (zhang et al., 2003). samples were incubated with
+[g-32p]atp (perkin elmer, boston, ma, usa), cold atp
+(sigma) and 4e-bp-1 (calbiochem, san diego, ca, usa) in
+kinase buffer for 30 min and then processed for sodium
+dodecyl sulfate–polyacrylamide gel electrophoresis. labeling
+was visualized by autoradiography.
+transient transfection with kinase-inactive mtor mutant vector
+tumor cells were co-transfected with gfp-lc3 plasmid and
+au1 epitope-tagged mtor mutant vectors (si and sida)
+(edinger et al., 2003), which were kindly provided by
+dr robert t abraham (wyeth research, pearl river, ny,
+usa), by using fugene transfection reagent. twenty-four
+hours later, the cells were treated with vehicle alone or
+rapamycin (100 nm) for 48 h, ﬁxed with 4% paraformaldehyde
+and were examined under a ﬂuorescence microscope.
+statistical analysis
+all experiments were repeated at least three times. the data are
+expressed as means7standard deviations (s.d.s). statistical
+analysis was performed using student’s t-test (two-tailed). the
+criterion for statistical signiﬁcance was po0.05.
+acknowledgements
+we thank dr noboru mizushima for the gfp-lc3 vector,
+dr robert t abraham for the mtor mutant sida vector
+and emporia f hollingsworth for technical assistance. we
+also thank elizabeth l hess for editing the manuscript. this
+work was supported from national cancer institute grants
+ca088936 and ca108558, a start-up fund from the
+university of texas md anderson cancer center (sk), a
+generous donation from the anthony d. bullock iii founda-
+tion (yk, sk) and cancer center support grant (ccsg)/
+shared resources of national cancer institute.
+references
+adachi j, ohbayashi k, suzuki t, sasaki t. (1999). cell cycle
+arrest and astrocytic differentiation resulting from pten
+expression in glioma cells. j neurosurg 91: 822–830.
+avellino r, romano s, parasole r, bisogni r, lamberti a,
+poggi v et al. (2005). rapamycin stimulates apoptosis of
+childhood acute lymphoblastic leukemia cells. blood 106:
+1400–1406.
+bjornsti ma, houghton pj. (2004). the tor pathway: a
+target for cancer therapy. nat rev cancer 4: 335–348.
+castedo m, ferri kf, kroemer g. (2002). mammalian target
+of rapamycin (mtor): pro- and anti-apoptotic. cell death
+differ 9: 99–100.
+cuervo am. (2004). autophagy: in sickness and in health.
+trends cell biol 14: 70–77.
+daido s, yamamoto a, fujiwara k, sawaya r, kondo s,
+kondo y. (2005). inhibition of the dna-dependent protein
+kinase catalytic subunit radiosensitizes malignant glioma
+cells by inducing autophagy. cancer res 65: 4368–4375.
+edinger al, linardic cm, chiang gg, thompson cb,
+abraham rt. (2003). differential effects of rapamycin on
+mammalian target of rapamycin signaling functions in
+mammalian cells. cancer res 63: 8451–8460.
+furuta s, hidaka e, ogata a, yokota s, kamata t. (2004).
+ras is involved in the negative control of autophagy through
+the class i pi3-kinase. oncogene 23: 3898–3904.
+galanis e, buckner jc, maurer mj, kreisberg ji, ballman k,
+boni j et al.
+temsirolimus
+(cci-779) in recurrent glioblastoma multiforme: a north
+central cancer treatment group study. j clin oncol 23:
+5294–5304.
+(2005). phase ii
+trial of
+gozuacik d, kimchi a. (2004). autophagy as a cell death and
+tumor suppressor mechanism. oncogene 23: 2891–2906.
+guertin da, sabatini dm. (2005). an expanding role for
+mtor in cancer. trends mol med 11: 353–361.
+gutierrez mg, master ss, singh sb, taylor ga, colombo mi,
+deretic v.
+(2004). autophagy is a defense mechanism
+inhibiting bcg and mycobacterium tuberculosis survival in
+infected macrophages. cell 119: 753–766.
+oncogene
+hosoi h, dilling mb, shikata t, liu ln, shu l, ashmun ra
+et al. (1999). rapamycin causes poorly reversible inhibition
+of mtor and induces p53-independent apoptosis in human
+rhabdomyosarcoma cells. cancer res 59: 886–894.
+huang s, houghton pj. (2003). targeting mtor signaling for
+cancer therapy. curr opin pharmacol 3: 371–377.
+ito h, kanzawa t, miyoshi t, hirohata s, kyo s, iwamaru a
+et al. (2005). therapeutic efﬁcacy of puma for malignant
+glioma cells regardless of p53 status. hum gene ther 16:
+685–698.
+kabeya y, mizushima n, ueno t, yamamoto a, kirisako t,
+noda t et al. (2000). lc3, a mammalian homologue of yeast
+apg8p,
+is localized in autophagosome membranes after
+processing. embo j 19: 5720–5728.
+kanazawa t, taneike i, akaishi r, yoshizawa f, furuya n,
+fujimura s et al. (2004). amino acids and insulin control
+autophagic proteolysis through different signaling pathways
+in relation to mtor in isolated rat hepatocytes. j biol chem
+279: 8452–8459.
+kanzawa t, zhang l, xiao l, germano im, kondo y,
+kondo s. (2005). arsenic trioxide induces autophagic cell
+death in malignant glioma cells by up-regulation of mito-
+chondrial cell death protein, bnip3. oncogene 24: 980–991.
+kim dh, sarbassov dd, ali sm, king je, latek rr,
+erdjument-bromage h et al. (2002). mtor interacts with
+raptor to form a nutrient-sensitive complex that signals to
+the cell growth machinery. cell 110: 163–175.
+klionsky dj, emr sd. (2000). autophagy as a regulated
+pathway of cellular degradation. science 290: 1717–1721.
+kondo y, kanzawa t, sawaya r, kondo s. (2005). role of
+autophagy in cancer development and response to therapy.
+nat rev cancer 5: 726–734.
+levine b, klionsky dj. (2004). development by self-digestion:
+molecular mechanisms and biological functions of auto-
+phagy. dev cell 6: 463–477.
+liang xh, jackson s, seaman m, brown k, kempkes b,
+hibshoosh h et al. (1999). induction of autophagy and
+inhibition of tumorigenesis by beclin 1. nature 402: 672–676.

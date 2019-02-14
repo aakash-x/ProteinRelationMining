@@ -1,0 +1,1199 @@
+? 2006
+1112original article
+a role of ﬁssion yeast tor2
+m uritani et al.
+blackwell publishing inc
+malden, usa
+gtcgenes to cells
+1356-9597
+© blackwell publishing ltd
+fission yeast tor2 links nitrogen signals to cell proliferation 
+and acts downstream of the rheb gtpase
+*, hidetoshi hidaka
+, yukari hotta
+, masaru ueno
+1,3,
+masahiro uritani
+and takashi toda
+departments of chemistry and 
+laboratory of cell regulation, cancer research uk london research institute, lincoln’s inn fields laboratories, 44 lincoln’s inn fields, 
+london wc2a 3px, uk 
+bioscience, faculty of science, shizuoka university, 836 oya suruga-ku shizuoka, 422-8529 japan 
+, takashi ushimaru
+1,a
+the target of rapamycin (tor) plays a pivotal role in cell growth and metabolism. yeast contains
+two related proteins, tor1 and tor2. in ﬁssion yeast, tor1 is dispensable for normal growth but is
+involved in amino acid uptake and cell survival under various stress conditions. in contrast, tor2
+is essential for cell proliferation; however, its physiological function remains unknown. here we
+ts
+characterize  the  roles  of  ﬁssion  yeast tor2  by  creating  temperature  sensitive  (
+)  mutants.
+tor2
+ts
+remarkably, we have found that 
+ mimics nitrogen starvation responses, because the mutant
+tor2
+displays a number of phenotypes that are normally induced only on nitrogen deprivation. these
+include g1 cell-cycle arrest with a small cell size, induction of autophagy and commitment to
+ts
+sexual differentiation. by contrast, 
+ double mutant cells show distinct phenotypes, as the
+tor2
+cells cease division with normal cell size in the absence of g1 arrest. tor2 physically interacts with
+ or deletion of rhb1-gap-
+the conserved rhb1/gtpase. intriguingly, over-expression of 
+rhb1
+encoding 
+ mutant, implying that
+tor1 and tor2 also share functions in cell survival under adverse environment. we propose that
+tor1 and tor2 are involved in both corroborative and independent roles in nutrient sensing and
+stress response pathways.
+ is capable of rescuing stress-sensitive phenotypes of the 
+tsc2
+tor1∆∆∆∆
+tor1
+introduction
+the target of rapamycin [tor, also known as frap
+(fkbp12-rapamycine-associated  protein),  raft
+(rapamycin and fkbp12 target) and rapt (rapamycin
+target)] is a highly conserved 280 kda ser/thr kinase
+that plays a central role in the control of cell growth and
+metabolism (martin & hall 2005; wullschleger 
+. 2006).
+tor proteins comprise several functional domains (see
+fig. 1) (schmelzle & hall 2000). the large n-terminal
+region (
+2000 amino acids) consists of stretches of heat
+repeats,  which  mediate  protein–protein  interactions
+(kunz 
+. 2000; perry & kleckner 2003). the follow-
+ing  c-terminal 
+500  amino  acid  residues  contain  the
+et al
+et al
+: nic jones
+communicated by
+: e-mail: scmurit@ipc.shizuoka.ac.jp
+correspondence
+: department of molecular biotechnology,
+present address
+graduate school of advanced sciences of matter, hiroshima
+university, 1-3-1 kagamiyama, higashi-hiroshima 739-8530,
+japan
+et al
+et al
+et al
+et al
+et al
+in vivo
+ and 
+in vitro
+ (peterson 
+.  1999;  bosotti 
+fat domain, also involved in protein–protein interactions
+(alarcon 
+.  2000),  the  fkbp12-
+rapamycin  binding  (frb)  domain  (zheng 
+.  1995)
+and  the  kinase  catalytic  domain,  which  is  highly
+homologous to phosphoinositide (pi)-3 and pi-4 kinases.
+finally, the very c-terminal 33 residues of tor form
+the fatc domain, which is reported to be indispensable
+et al
+for tor function both 
+2000;  takahashi 
+.  2000).  in  the  cell, tor  forms
+two distinct complexes, tor complex 1 (torc1) and
+tor complex 2 (torc2). these complexes contain
+several non-tor components, in which some of them
+are shared in common (e.g. lst8), while others are speciﬁc
+for either torc1 (e.g. raptor) or torc2 (e.g. rictor
+and avo3)  (hara 
+.  2002;  loewith
+et al
+.  2004).
+unlike most of the other higher eukaryotes that contain
+a  single-copy  ortholog, 
+  has  two
+tor  proteins, tor1  and tor2,  in  which tor1  is  non-
+et al
+essential while tor2 is essential for growth (heitman 
+1991;  helliwell 
+.  1994).  both tor1  and tor2  are
+saccharomyces  cerevisiae
+.  2004;  sarbassov 
+.  2002;  jacinto 
+.  2002;  kim 
+et al
+et al
+et al
+et al
+doi: 10.1111/j.1365-2443.2006.01025.x
+© 2006 the authors
+journal compilation © 2006 by the molecular biology society of japan/blackwell publishing ltd.
+genes to cells (2006)
+11
+, 1367–1379
+1367
+m uritani 
+et al.
+figure 1 isolation  of  tor2  temperature-
+sensitive mutants and their mutation sites.
+(a) schematic presentation of ﬁssion yeast
+tor2  (upper  panel)  and  the  amino  acid
+sequences of tor2 proteins around mutation
+sites  (lower  panel)  are  presented.  mtor,
+human tor; sctor1. tor1 from s. cerevisiae;
+sctor2,  tor2  from  s.  cerevisiae;  sptor1,
+tor1 from s. pombe; sptor2, tor2 from s.
+pombe. plus (+) and minus (–) represent the
+space and the amino acid residue identical
+to  that  of  sptor2,  respectively. the  blue,
+black  and  red  letters  represent  the  amino
+acid  residues  in  the  kinase  domain,  a  gap
+region and the fatc domain, respectively.
+(b) growth of the tor2ts mutants (tor2ts-13
+[hu147] and tor2ts-19 [hu150]) at 26 °c
+and 36 °c on ye5s plates. wt, tor2+ strain
+(513).
+mrna-cap  binding  protein  eif-4e.  phosphorylation
+of  4e-bp1  promotes  its  dissociation  from  eif-4e,
+enabling recruitment of the eif-4e into the translation
+initiation complex. mtor also directly phosphorylates
+and activates the p70 s6 kinase (s6k), which regulates
+cell size.
+et al
+et al
+. 2002; inoki 
+recent evidence indicates that the tuberous sclerosis
+complex (a tsc1/tsc2 heterodimer) acts as a negative
+regulator of mtor (gao 
+. 2002;
+tee 
+. 2002). the inhibition of tor signaling by
+the tsc complex is attributed to the ability of the tsc
+complex to act as a speciﬁc gtpase activating protein
+(gap)  for  the  small  gtpase  rheb  (inoki 
+.  2003;
+saucedo 
+. 2003; tee 
+. 2003;
+zhang 
+.  2003).  in  line  with  this  notion,  transient
+. 2003; stocker 
+et al
+et al
+et al
+et al
+et al
+et al
+included  in torc1,  while  only tor2  is  incorporated
+into torc2.  it  is  shown  that torc1  mediates  the
+rapamycin-sensitive signaling branch, while torc2
+is rapamycin-insensitive. in budding yeast
+ binding of
+the rapamycin-fkbp12 complex to torc1, a mode
+of action that is conserved from yeast to human, inhibits
+the tor kinase activity and elicits a number of responses
+that  appear  to  mimic  nitrogen  starvation  response
+(loewith 
+. 2002; jacinto & hall 2003). on the other
+hand, rapamycin-insensitive torc2 is required for the
+organization of the actin cytoskeleton (jacinto 
+. 2004).
+in mammalian cells, a major target of torc1 is trans-
+lation  (hara 
+.  2002).  mammalian
+tor (mtor) stimulates translation initiation through
+the  phosphorylation  of  4e-bp1,  an  inhibitor  of  the
+.  2002;  kim 
+et al
+et al
+et al
+et al
+1368
+genes to cells (2006)
+11
+, 1367–1379
+© 2006 the authors
+journal compilation © 2006 by the molecular biology society of japan/blackwell publishing ltd.
+expression of rheb leads to the tor-mediated phos-
+phorylation of 4e-bp1, indicating that rheb activates
+tor.  indeed,  human  rheb  is  able  to  interact  with
+mtor (long 
+. 2005).
+et al
+ counterpart, 
+rhb1
+rheb
+rhb1
+schizosaccharomyces pombe
+ mutant mimics tor inactivation (urano 
+despite  its  excellence  as  a  model  system,  budding
+yeast does not contain tsc1/2-gap. also the mutant of
+the 
+, is neither essential nor
+et al
+the 
+2000). this may suggest that the molecular pathways that
+control tor signaling might not be identical between
+budding yeast and mammals. it is therefore important to
+characterize another simple system by which to investi-
+gate evolutional conservations of tor systems. fission
+yeast 
+ might ﬁll this gap, as this
+tor2
+organism  possesses,  in  addition  to 
+,  the
+rhb1
+rheb
+, which is essential for cell viability,
+tsc2
+and 
+  and 
+.  2000;
+kawai 
+. 2001; weisman & choder 2001; matsumoto
+et al
+.  2004).  moreover,
+components of torc including mip1 (kog1/raptor),
+sin1 (avo1), ste20 (avo3/rictor), and wat1/pop3 (lst8)
+have been identiﬁed and characterized to some extent
+(kemp 
+. 1999;
+shinozaki-yabana 
+.  2002;  van  slegtenhorst 
+et al
+. 2000; ochotorena 
+. 1999; wilkinson 
+et al
+. 1997; hilti 
+et al
+  orthologs  (mach 
+et al
+ gene, 
+tsc1
+et al
+tor1
+  and 
+et al
+et al
+et al
+. 2001).
+tor1
+studies in our laboratory as well as others have shown
++ is not essential for growth
+that, as in budding yeast, 
+while tor2+ is essential. the null mutant for tor1+(tor1∆)
+has defects in cell survival under various stress conditions
+such as high osmolarity, low and high ph, high temper-
+ature, and certain drugs including hydroxyurea (kawai
+et al.  2001;  weisman  &  choder  2001).  the  deletion
+mutant is also defective in the nitrogen-starvation response,
+in which on nitrogen depletion, unlike wild-type cells,
+tor1∆ cells fail to arrest the cell cycle at g1, which is a
+prerequisite for sexual development. as a result, tor1∆
+is sterile. tor1 has been shown to phosphorylate and
+activate an agc kinase/s6k gad8 (matsuo et al. 2003),
+which regulates the growth under stress conditions and
+the  nitrogen-starvation  response  through  unknown
+mechanisms. in contrast to the knowledge of tor1, the
+cellular functions of tor2 remain to be studied (kawai
+et al. 2001; weisman & choder 2001).
+in order to dissect the physiological roles of tor2, we
+created temperature-sensitive tor2 mutants and charac-
+terized these phenotypes. we present evidence that tor2
+mutants mimic the nitrogen-starvation response at the
+restrictive  temperature,  suggesting  that tor2  is  a  key
+molecule that senses a nitrogen source, thereby allowing
+cell  proliferation  under  nutrient-rich  conditions.
+furthermore,  both  biochemical  and  genetic  analyses
+indicate that rhb1 and tor2 act in the same pathway that
+corroborates with tor1.
+a role of fission yeast tor2
+results
+isolation of tor2ts mutants and determination 
+of mutation sites
+to create tor2 temperature sensitive mutants, pcr-based
+mutagenesis was carried out that targeted the c-terminal
+region containing the kinase and fatc domains (fig. 1a,
+upper). two temperature sensitive mutants were obtained,
+and  nucleotide  sequencing  analysis  revealed  that  they
+constitute different tor2 alleles, referred to as tor2ts-13 and
+tor2ts-19, respectively. both tor2ts-13 and tor2ts-19 mutants
+grew normally on rich ye5s plates when cultured at
+26 °c, but they did not form colonies at 36 °c (fig. 1b).
+three  amino  acid  changes  were  found  in  tor2ts-13:
+cys2163 to arg, ile2280 to val and gln2305 to leu. arg2163
+was  situated  in  the  highly  conserved  kinase  domain,
+while val2280  and  leu2305  were  present  in  a  gap  region
+between  the  kinase  domain  and  the  fatc  domain
+(fig. 1a,  lower).  in  tor2ts-19,  there  were  two  mutation
+sites: ile2241 to thr, and ser2293 to pro. thr2241 was present
+in a gap region and pro2293 located in the fatc domain.
+this suggests that the gap region and the fatc domain
+as well as the kinase domain are critical for tor2 activity
+and cell survival.
+tor2ts mutants display g1-cell cycle arrest with 
+a small cell size at the restrictive temperature
+tor2ts-13  and  tor2ts-19  mutants  did  not  grow  on ye5s
+plates  when  cultured  at  36 °c  (fig. 1b). the  mutant
+cells  were  then  examined  for  growth  in ye5s  liquid
+medium. cells were cultured in ye5s at 26 °c to a mid-
+log phase (3 × 106 cells/ml), transferred to a fresh ye5s
+and then shifted to 36 °c. while wild-type cells continued
+to divide, tor2ts-13 cells ceased increasing in cell number
+after approximately two rounds of cell division (fig. 2a).
+prior to the temperature shift, both cell size and shape
+were  normal  in  tor2ts-13. when  cultured  at  36 °c,  in
+contrast,  the  mutant  cells  became  shorter  in  size  and
+almost round (fig. 2b). at 4 h and 8 h after the shift to
+36 °c, the average cell length was reduced to 6.4 µm and
+6.2 µm, respectively, which were ∼50% decreases com-
+pared to wild-type cells (13.0 µm and 12.9 µm). similar
+results were obtained for tor2ts-19. it is of note that, in
+contrast to the reduced length, the cell width remained
+constant in these mutant cells.
+in s. pombe, the g1 phase is very short during expo-
+nentially growing cycles, so that most of the cells display
+the 2c content of dna and few cells show the 1c peak
+(moreno et al. 1991). when starved for nitrogen, on the
+other hand, the cells divide twice and then arrest at g1
+© 2006 the authors
+journal compilation © 2006 by the molecular biology society of japan/blackwell publishing ltd.
+genes to cells (2006)
+11
+, 1367–1379
+1369
+m uritani et al.
+figure 2 tor2ts mutants are arrested at g1
+upon temperature shift. (a) growth of the
+tor2ts mutants in ye5s liquid medium after
+a  shift  to  36 °c.  pre-cultures  grown  at
+26 °c to the mid-log phase were incubated
+at 36 °c. the cell number was measured by
+microscopy. open circle, tor2+ strain (513);
+open  square,  tor2ts-13  (hu147);  cross,
+tor2ts-19  [hu150].  (b)  the  shape  and
+length  of  the  tor2ts  mutant  cells  after  the
+shift to 36 °c. photos were taken every 4 h
+after the shift. for the cell length, 100 cells
+were  measured  and  the  average  length  is
+shown  with  standard  deviations. the  bar
+indicates 10 µm. (c) cell cycle arrest of the
+tor2ts  mutant  cells  at  g1  after  the  shift  to
+36 °c. the  cells  were  subjected  to  ﬂow
+cytometry  analysis  after  staining  with
+propidium iodide.
+with a small cell size (egel & egel-mitani 1974; kumada
+et al. 1995). the small cell-size phenotypes of tor2 mutants
+described above led us to examine whether tor2ts-13 and
+tor2ts-19 mutants mimic the nitrogen-starvation response.
+in order to address this point, the mutant cells were ana-
+lyzed with ﬂow cytometry. before the temperature shift,
+almost no 1c peak was present in either mutant (and also
+wild-type  cells,  fig. 2c).  in  sharp  contrast,  1c  peaks
+appeared at 4 h and became larger as incubation con-
+tinued.  these  results  indicate  that  both  tor2ts-13  and
+tor2ts-19 mutants tend to arrest at g1 with a small cell size
+and suggest that these mutants responded as if they were
+starved for nitrogen.
+tor2ts mutants induce autophagy and are competent 
+for sexual differentiation under nutrient-rich 
+conditions
+under  nitrogen  deprivation,  two  major  physiological
+changes  are  known  to  occur,  autophagy  and  sexual
+differentiation. we next sought to examine whether tor2ts
+mutants display these responses at the restrictive temper-
+ature. first, the mutant cells were examined to see if they
+conducted autophagy when cultured at 36 °c. because
+autophagy accompanies large-scale protein degradation
+(nakashima  et al.  2006),  the  production  of  free  amino
+acids  was  examined.  for  this  purpose,  cells  had  been
+1370
+genes to cells (2006) 11, 1367–1379
+© 2006 the authors
+journal compilation © 2006 by the molecular biology society of japan/blackwell publishing ltd.
+a role of fission yeast tor2
+figure 3 tor2ts  mutants  mimic  nitrogen-
+starvation response upon temperature shift.
+(a)  bulk  protein  degradation  of  the tor2ts
+mutant cells after the shift to 36 °c. cells
+were labeled with l-[14c] phe at 26 °c for
+4 h in emm liquid medium, transferred to
+the fresh medium without the radioactive
+amino acid, and cultured at 36 °c. aliquots
+of the culture were taken and the amount of
+radioactivity  was  measured  in  the  acid-
+soluble  fraction.  open  square,  tor2ts-13
+(hu147) at 36 °c; open circle, tor2ts-13 at
+26 °c; open diamond, tor2+ strain (513) at
+36 °c;  open  triangle,  513  at  26 °c.  (b)
+sexual  development  of  the  tor2ts  mutant
+cells upon the temperature shift. homothallic
+cells (h90) were placed on to ye5s plates
+and  incubated  at  33 °c  for  2 days  before
+tor2ts-19,
+inspection. 
+hu152; wt, tp114–2 a. the bar indicates
+10 µm.  (c)  mating  efﬁciency  of  the tor2ts
+mutant cells in (b). mating efﬁciency was
+calculated  by  dividing  the  numbers  of
+zygotes, asci and free spores by the numbers
+of  zygotes,  asci,  free  spores  and  unmated
+cells. a zygote and an ascus are counted as
+two cells but a free spore as a half cell. (d)
+induction or isp6+, a nitrogen speciﬁc gene,
+in the tor2 mutants upon the temperature
+shift.  rna  was  extracted  from  the  cells
+cultured  in ye5s  at  36 °c.  after  being
+separated with agarose gel electrophoresis,
+rna  was  subjected  to  northern  hybri-
+dization  using  isp6+  or  nda3+  as  a  probe.
+tor2ts-13, yh1273;  tor2ts-19, yh1263;  wt,
+l972.
+tor2ts-13,  hu148; 
+labeled with l-[14c] phe at 26 °c and then transferred to
+a  fresh  medium  without  the  radioactive  amino  acid,
+followed by a temperature shift to 36 °c. at the indi-
+cated  times,  the  amount  of  protein  degradation  was
+measured  by  counting  the  acid-soluble  radioactivity.
+proteins are insoluble to acid but amino acids and small
+peptides derived from protein degradation are soluble
+to acid. thus, radioactivity in acid solution reﬂects the
+amount of protein degradation. when cultured at 26 °c,
+tor2ts-13 as well as the wild-type showed only a basal level
+of protein degradation (fig. 3a), which conﬁrmed that
+autophagy was repressed under nutrient-rich conditions
+at the permissive temperature in both tor2ts-13 and wild-
+type. upon a temperature shift to 36 °c, however, tor2ts-13
+cells showed a signiﬁcant amount of protein degradation,
+which increased as the incubation time was prolonged.
+in contrast, wild-type cells showed only a marginal increase
+in  radioactivity. these  results  imply  that  the  protein
+degradation observed in tor2ts-13 was not due to the general
+response to heat shock; instead the inactivation of tor2
+did impose autophagy as if tor2ts-13 cells responded to
+nitrogen  starvation.  in  tor2ts-19,  such  protein  degrada-
+tion was obscure (data not shown), the reason for which
+is unclear. it is possible that the residual tor2 activity is
+retained in tor2ts-19 mutant cells, which is sufﬁcient to
+inhibit autophagy.
+nitrogen starvation also triggers sexual differentiation
+(egel & egel-mitani 1974), which includes conjugation
+and spore formation. s. pombe has two mating types h+
+and h–. when starved for nitrogen, haploid cells begin to
+© 2006 the authors
+journal compilation © 2006 by the molecular biology society of japan/blackwell publishing ltd.
+genes to cells (2006) 11, 1367–1379
+1371
+m uritani et al.
+conjugate with the opposite mating type of the cell. in
+order to investigate this point, homothallic strains were
+constructed  in  the  tor2ts-13  or  tor2ts-19  background.
+cells of the homothallic wild-type, tor2ts-13 or tor2ts-19
+strains  were  placed  on ye5s  plates  and  cultured  for  2
+days at 33 °c (the highest temperature that allows con-
+jugation in the wild-type cells under nitrogen starvation,
+nurse & bissett 1981). strikingly, more than 70% of
+the  tor2ts-13  cells  committed  sexual  development  to
+form zygotes and spores (fig. 3b,c). tor2ts-19 also initi-
+ated  sexual  differentiation  albeit  with  less  efﬁciency
+(16%) and, in contrast, wild-type cells displayed sexual
+development at a minimal level (7%). taking these results
+together, we conclude that tor2ts-13 and tor2ts-19 mimic
+the  nitrogen-starvation  response  when  shifted  to  the
+restriction  temperature. the  above  results  demonstrate
+that tor2ts mutants mimic nitrogen starvation response at
+the restrictive temperatures.
+tor2ts mutants induce expression of the nitrogen 
+starvation-speciﬁc gene
+we then examined whether the mutants would express
+the genes that are speciﬁc for nitrogen starvation. isp6+
+encodes a vacuolar protease that is essential for autophagy
+and its expression is induced speciﬁcally with nitrogen
+starvation  (nakashima  et al.  2002,  2006). as  shown  in
+fig. 3d, isp6+ was expressed at a basal level in tor2ts-13
+cells before temperature shift; however, it became highly
+expressed  as  incubated  at  36 °c.  in  contrast,  such  an
+expression pattern was not observed in wild-type cells.
+a house keeping gene, nda3 (encoding β-tubulin), did
+not show such induction. the same experiment was
+carried out for tor2ts-19, which showed a similar pattern.
+the results indicate that tor2ts mutants expressed nitrogen
+starvation speciﬁc genes on shift to the restrictive tem-
+perature  and  support  the  notion  that  tor2ts  mutants
+mimic nitrogen starvation responses.
+tor1∆∆∆∆ tor2ts double mutants display additive 
+phenotypes of each single mutant
+as described earlier, in s. pombe, tor is encoded by two
+genes,  tor1+  and  tor2+,  in  which  tor2+  is  essential  for
+proliferation  (weisman  &  choder  2001).  in  contrast,
+tor1+ is a nonessential gene; tor1-deletion results in slow
+growth and hypersensitivity to various stresses, suggest-
+ing that the activity of tor1 is important for cell survival
+especially when the cells are exposed to an adverse envi-
+ronment (kawai et al. 2001; wesiman & choder 2001).
+furthermore, tor1∆ was unable to respond properly to
+nitrogen starvation. in order to examine the function of
+tor1 and tor2 in cell proliferation and stress response, we
+created tor1∆tor2ts-13 and tor1∆tor2ts-19 double mutants
+and observed their phenotypes. first we examined the
+growth of the double mutants at varying temperatures.
+the mutant cells were spotted on to ye5s plates using
+a 10-times serial dilution and were cultured for 3 days.
+both  tor2ts-13  and  tor2ts-19  mutants  grew  normally  at
+26 °c, 30 °c and even at 32 °c (ﬁfth and sixth rows in
+fig. 4a).  tor1∆  could  also  form  colonies  well  at  these
+temperatures. the tor1∆tor2ts-13 double mutant, on the
+other hand, grew only marginally at 30 °c and did not
+do  so  at  32 °c  (the  third  row).  similar  results  were
+observed  for  tor1∆tor2ts-19. these  results  demonstrate
+that tor1 as well as tor2 is important for cell proliferation
+and,  furthermore,  although  tor1  is  dispensable,  tor1
+becomes necessary for cell growth when tor2 function
+is compromised.
+in order to address this point further, we observed cell
+division in ye5s liquid medium. cells were cultured at
+26 °c to a mid-log phase, transferred to a fresh medium,
+and then incubated at 36 °c (fig. 4b). both tor1∆tor2ts-13
+and tor1∆tor2ts-19 double mutants stopped proliferation
+earlier than the tor2ts-13 and tor2ts-19 single mutants. prior
+to the temperature shift, tor1∆tor2ts-13 and tor1∆tor2ts-19
+showed almost normal cell size, 13.2 µm and 12.9 µm,
+respectively (fig. 4c). at 4 h and 8 h after being cultured
+at 36 °c, the cell length of tor1∆tor2ts-19 was 14.5 µm
+and 14.2 µm, respectively, which indicates that, in sharp
+contrast to tor2ts-19, the cell size was not decreased (fig. 2c).
+similar  results  were  also  obtained  for  tor1∆tor2ts-13
+(fig. 4c). in this case, the cell size was somewhat decreased;
+however, it was still longer than that of tor2ts-13, 9.9 µm
+and 6.4 µm for tor1∆tor2ts-13 and tor2ts-13 at 4 h, respec-
+tively. it should be noted that the cell length of tor1∆ was
+not decreased when starved for nitrogen (kawai et al. 2001;
+weisman & choder 2001). given that tor2ts mutants mimic
+the  physiologies  of  nitrogen  starvation,  as  described
+earlier, failure to decrease the cell length in the double
+mutant seems to correspond to the appearance of tor1∆
+phenotypes in the tor2ts mutant background. it therefore
+appears  that  the  tor1∆tor2ts  double  mutants  display
+additive phenotypes of each single mutant.
+it is shown that, when starved for nitrogen, tor1∆ is
+defective  in  g1  arrest  (kawai  et al.  2001;  weisman  &
+choder  2001). we  then  examined  this  point  by  ﬂow
+cytometry. on the temperature shift, unlike a tor2ts-19
+single mutant (see fig. 2c), tor1∆tor2ts-19 showed only
+the 2c peak, and no 1c peak appeared at 36 °c (fig. 4d).
+similar results were obtained for tor1∆tor2ts-13, although
+a small 1c peak appeared after incubation for 4 h. taken
+together, the results presented here led us to the following
+idea. when tor2 is inactivated, the cells cease proliferation
+1372
+genes to cells (2006) 11, 1367–1379
+© 2006 the authors
+journal compilation © 2006 by the molecular biology society of japan/blackwell publishing ltd.
+a role of fission yeast tor2
+figure 4 both tor1+ and tor2+ are needed
+for  cell  proliferation.  (a)  growth  of  the
+tor1∆, tor2ts-13, tor2ts-19, tor1∆tor2ts-13, and
+tor1∆tor2ts-19  mutants  on ye5s  plates  at
+varying  temperatures.  the  cells  were
+spotted using a 10-times serial dilution on
+to plates and were incubated for 3 days at
+the  temperatures  as  indicated.  wt,  513;
+tor1∆,  μκ11;  tor2ts-13,  hu147;  tor2ts-19,
+hu150; tor1∆tor2ts-13, hu142; tor1∆tor2ts-
+19,  hu144.  (b)  growth  of  the  tor2ts-13,
+tor2ts-19,  tor1∆tor2ts-13  and  tor1∆tor2ts-19
+mutants in ye5s liquid medium after the
+shift to 36 °c. precultures grown at 26 °c
+to  the  mid-log  phase  were  incubated  at
+36 °c. the cell number was measured by
+microscopy. 䊊 tor2ts-19; 䉭 tor1∆tor2ts-19; 䊐
+tor2ts-13;  䉫 tor1∆tor2ts-13. (c) the shapes
+and  lengths  of  the  tor1∆tor2ts-13  and
+tor1∆tor2ts-19tor2ts cells after shift to 36 °c.
+photos  were  taken  4 h  and  8 h  after  the
+shift.  for  the  cell  length,  100  cells  were
+counted  and  the  average  length  is  shown
+with  the  standard  deviations.  the  bar
+indicates  10 µm.  (d)  failure  of  the  g1
+cell-cycle  arrest  of  the  tor1∆tor2ts-13  and
+tor1∆tor2ts-19 cells after the shift to 36 °c.
+the cells were subjected to ﬂow cytometry
+analysis  after  staining  with  propidium
+iodide.
+after two rounds of cell cycle and become arrested at g1
+with a small cell size. this process requires tor1 activity.
+if the function of tor1 is simultaneously lost, the cells fail
+to  divide  at  a  reduced  cell  size,  and  as  a  result,  they
+became neither arrested at g1 nor smaller (fig. 4c,d).
+tor2 physically interacts with a small gtpase rhb1
+several groups have reported that a novel small gtp-
+binding  protein,  rheb,  binds  and  activates  mtor
+(long et al. 2005). s. pombe has a rheb counterpart gene,
+rhb1+  (mach  et al.  2000).  intriguingly,  rhb1  mutants,  in
+which its expression is turned off by promoter shut-off
+systems, display phenotypes very similar to tor2ts described
+earlier. bearing this in mind, we next examined whether
+rhb1 would interact with tor2. in order to detect these
+two proteins, tor2 was tagged with ha and rhb1 with
+gfp at each n-terminus, and their own promoters were
+replaced  with  the  thiamine-repressible  nmt1  promoter
+(maundrell 1993; bähler et al. 1998). the cells that over-
+express both ha-tor2 and gfp-rhb1 were cultured in
+liquid  medium  without  thiamine,  and  protein  extracts
+© 2006 the authors
+journal compilation © 2006 by the molecular biology society of japan/blackwell publishing ltd.
+genes to cells (2006) 11, 1367–1379
+1373
+m uritani et al.
+figure 5 physical  and  genetic  interaction  between  tor2  and
+rheb gtpase. (a) co-immunoprecipitation of rhb1 with tor2.
+the cells expressing ha-tor2 (lane 1), gfp-rhb1 (lane 2), and
+ha-tor2 and gfp-rhb1 (lane 3) were cultured in emm3. the
+cell extract was subjected to immunoprecipitation with anti-ha
+antibody,  and  the  precipitate  was  analyzed  by western  blotting
+with both anti-ha and anti-gfp antibodies. for tor2+ and rhb1+,
+their  own  promoters  were  replaced  with  the  nmt1+  promoter.
+wce, whole cell extract (the extract prior to immunoprecipitation).
+(b)  suppression  of  the  growth  defects  of  tor1∆  with  over-
+expression of rhb1+ or tsc2 deletion. the cells of tor1∆ (mk11),
+tor1∆rhb1o/e  (hh101)  and  tor1∆tsc1∆  (hh102)  were  spotted
+using  a  10-times  serial  dilution  on  to  emm3  plates  with  and
+without 1 m kcl or 4 mm hydroxyurea and incubated for 3 days
+at 30 °c. for rhb1+, its own promoter was replaced with the nmt1+
+promoter.
+were prepared and subjected to immunoprecipitation. as
+shown in fig. 5a, gfp-rheb was co-precipitated with
+ha-tor2. when the cells were cultured in the presence of
+thiamine (repressed condition), co-immunoprecipitation
+of rhb1 and tor2 was not observed (data not shown),
+probably because the amount of each protein was not
+sufﬁcient  for  detection  of  the  interaction. this  result
+demonstrates  that  rhb1  and tor2  interact  physically
+with each other, at least under overproduction conditions.
+genetic interaction between tor2+ and rhb1+
+having seen the physical interaction, we next sought
+the genetic interaction between rhb1+ and tor2+. as pre-
+viously described, tor1∆ was unable to survive under stress
+conditions  such  as  high  osmotic  pressure  and  certain
+drugs (fig. 5b). we reasoned these defects of tor1∆ in the
+following  manner.  in  tor1∆,  in  which  only  the tor2
+pathway is functional, the basal level of tor2 activity
+is sufﬁcient to support cell division under normal con-
+ditions, but it is not sufﬁcient under stress conditions.
+if this is the case, when the tor2 pathway is activated,
+tor1∆ cells may become viable under stress conditions.
+we  have  shown  that,  as  in  mammalian  cells, tor2
+binds  rhb1  (fig. 5a),  and  therefore  we  expected  that
+over-expression of rhb1+ would stimulate tor2 activity,
+thereby  rescuing  the  growth  defects  of  tor1∆  in  stress
+response. to this end, the promoter of rhb1+ was replaced
+with the nmt1+ promoter. as shown in fig. 5b, tor1∆rhb1+
+o/e (rhb1+-over-expressing tor1∆) cells were capable of
+growing on the plates in the presence of either 1 m kcl
+or 4 mm hydroxyurea (the third row, fig. 5b). in animals,
+the tsc1/tsc2 complex negatively regulates rheb, and
+inactivation of either tsc1 or tsc2 results in the hyper-
+activation  of  rheb  (inoki  et al.  2003;  saucedo  et al.
+2003;  stocker  et al.  2003;  tee  et al.  2003;  zhang  et al.
+2003). we  constructed  tor1∆tsc2∆  cells  and  examined
+their growth under stress conditions. as expected, these
+double mutants behaved the same as tor1∆rhb1+o/e cells,
+in  which  growth  was  restored  under  stress  conditions
+(the fourth row). these results substantiated the notion
+that, in ﬁssion yeast, tor2 acts downstream of rhb1 and
+that tor1 and tor2 share functions under adverse growth
+conditions.
+actin organization in tor2ts mutants
+in  s.  cerevisiae, torc1  operates  the  growth  of  cells,
+whose inhibition leads cells to show nitrogen starvation-
+like response (loewith et al. 2002; jacinto & hall 2003),
+while torc2  is  required  for  the  organization  of  the
+actin cytoskeleton (jacinto et al. 2004). our results strongly
+suggest  that tor2  in  s.  pombe  functions  as torc1;
+however, it is also possible that tor2 is involved in actin
+organization because tor2 is essential as in s. cerevisiae. in
+s. cerevisiae, actin patches localize at buds; however, they
+became dispersed after temperature shift in tor2ts mutants
+(helliwell  et al.  1998;  jacinto  et al.  2004).  in  s.  pombe,
+actin localizes at the growing tips or the septa of cells and
+it also makes ﬁbers along the long axis (fig. 6a). when
+cultured at 26 °c, both tor2ts-13 and tor2ts-19 cells showed
+the actin organization patterns similar to wild-type cells
+(fig. 6b,c). at 2 h after shift to 36 °c, actin still localized
+at  the  tips  of  the  cells  in  either  tor2ts-13  or  tor2ts-19
+although it seemed slightly displaced from cell tips. the
+results  suggest  that tor2  is  not  critically  important  for
+action organization.
+discussion
+although ﬁssion yeast tor2+ is known to play an essential
+role in viability (weisman & choder 2001), its precise
+role in cell proliferation has not been investigated. in this
+1374
+genes to cells (2006) 11, 1367–1379
+© 2006 the authors
+journal compilation © 2006 by the molecular biology society of japan/blackwell publishing ltd.
+a role of fission yeast tor2
+figure 6 tor2ts  mutants  did  not  show
+defects in overall actin organization. cells
+cultured in ye5s at 26 °c were shifted
+to  36 °c  and  further  cultured  for  2 h.
+the  cells  were  ﬁxed  and  f-actin  was
+stained  with  rhodamine-phalloidin  (red)
+and nucleus with dapi (blue). cells were
+observed under a ﬂuorescence microscope.
+(a)  wt,  l972.  (b)  tor2ts-13, yh1273.  (c)
+tor2ts-19, yh1263. the bar indicates 10 µm.
+study,  we  have  obtained  and  characterized  two  tor2
+temperature-sensitive mutants. remarkably, when cultured
+at the restrictive temperature, the tor2ts mutants mimic
+nitrogen starvation responses. these include g1 cell-cycle
+arrest  with  a  small  cell  size  (fig. 2a–c),  induction  of
+autophagy  and  competence  for  sexual  differentiation
+(fig. 3a–c). furthermore, the tor2ts mutants expressed a
+nitrogen starvation speciﬁc gene, isp6+, when shifted to
+the restrictive temperature (fig. 3d). these results have
+led us to propose a working hypothesis that tor2 senses
+the  nitrogen  source,  thereby  preventing  physiological
+changes  that  are  normally  induced  only  on  nitrogen
+deprivation. it also implies that the activity of tor2 may
+become reduced on nitrogen consumption, which makes
+the cells cease proliferation, arrest at g1 and switch to the
+physiological status suitable for nutrient-starved conditions.
+the c-terminal 33 residues of tor form the fatc
+domain. deletion of the c-terminal trp as well as small
+deletions (three or more residues) of the c-terminus
+abolished mtor activity both in vivo and in vitro (peterson
+et al.  2000;  takahashi  et al.  2000).  a  recent  study  has
+shown that the fatc domain forms a novel structural
+motif consisting of an α-helix and a c-terminal disulﬁde
+bonded  loop  (dames  et al.  2005).  the  ﬂexibility  of
+fatc changed upon reduction of the disulﬁde bond.
+therefore, the fatc domain may function to regulate
+the kinase activity of tor. in tor2ts-13, one mutation
+site out of three resides in the fatc domain, which
+supports the importance of this domain. failure of the
+epitope-tagging of tor2 at its c-terminus is consistent
+with this notion (m. uritani, unpublished observation).
+in tor2ts-13, another mutation site was found at the gap
+region, and in tor2ts-19, all mutation sites were located at
+the gap region. the gap region consists of 70 amino acid
+residues,  which  are  located  between  the  kinase  and
+fatc domains. the signiﬁcance of the gap region remains
+to be clariﬁed; however, our results suggest that the gap
+region is crucial for tor activity.
+in s. cerevisiae, rapamycin treatment but not the tor2
+mutation  leads  to  switching  the  cell  from  vegetative
+© 2006 the authors
+journal compilation © 2006 by the molecular biology society of japan/blackwell publishing ltd.
+genes to cells (2006) 11, 1367–1379
+1375
+m uritani et al.
+figure 7 a  model  of tor1  and tor2  functions  in  ﬁssion  yeast.
+tor1  and tor2  play  both  overlapping  and  separate  roles  in  cell
+proliferation and survival under nitrogen-rich and adverse growth
+conditions.  rhb1-gtpase  appears  to  act  upstream  of tor2
+(see the text for details).
+growth to a nitrogen-starvation response (helliwell et al.
+1998).  in  contrast,  in  ﬁssion  yeast,  although  growth  is
+not inhibited by rapamycin even at high concentrations
+(weisman et al. 1997; kawai et al. 2001), as shown in this
+study, inactivation of tor2 alone is sufﬁcient to commit
+the cell to the nitrogen-starvation response. only tor2
+but  not tor1  may  fulﬁlll  the  budding  yeast  equivalent
+“rapamycin-sensitive”  function.  it  is  also  possible  that
+tor2  plays  a  major  role  in  the “rapamycin-sensitive”
+events, while that of tor1 is minor. in agreement with
+this idea, tor2 did not seem to play an important role in
+actin organization (fig. 6), while in the budding yeast,
+the “rapamycin-insensitive” function of tor2 is to organ-
+ize the actin cytoskeleton (helliwell et al. 1998; jacinto
+et al. 2004). if the above idea is true, tor2 mutants may be
+obtained  that  are  sensitive  to  rapamycin  in  the  tor1∆
+background. the tor2ts mutants described in this study did
+not show rapamycin sensitivity. we have recently obtained
+rapamycin-sensitive  tor2  mutants  and  their  analysis  is
+underway (m. uritani, unpublished observations).
+previous reports have indicated that tor1+ is necessary
+for  the  proper  response  to  nitrogen  starvation  (kawai
+et al. 2001; weisman & choder 2001). given the notion
+that tor2  plays  a  crucial  role  in  nitrogen  signaling  as
+shown in the current work, this function of tor1 agrees
+with our data that tor1∆tor2ts mutants failed to mimic
+a  nitrogen-starvation  response  when  cultured  at  the
+restrictive  temperature  (fig. 4b–d). the  precise  func-
+tion of tor1 and tor2 is still unclear and further study is
+necessary. at present, we have a working hypothesis that
+tor1  is  necessary  for  physiological  alterations  against
+nitrogen  starvation,  while tor2  prevents  them,  and  its
+inactivation triggers these responses even in the presence
+of nitrogen sources (fig. 7).
+s. pombe has all the counterparts of the components
+of torc1 and torc2. for example, it has mip1 for
+raptor/kog1, wat1/pop3  for  lst8,  sin1  for avo1  and
+ste20  for  rictor/avo3  (kemp  et al.  1997;  hilti  et al.
+1999;  wilkinson  et al.  1999;  shinozaki-yabana  et al.
+2000; ochotorena et al. 2001). all pop3+, sin1+ and ste20+
+genes are nonessential, in which these deletion mutants
+show  phenotypes  similar  to  those  of  tor1∆  (hilti  et al.
+1999;  wilkinson  et al.  1999;  kawai  et al.  2001;  ocho-
+torena et al. 2001; weisman & choder 2001). avo1 and
+rictor/avo3  are  speciﬁc  components  for  the torc2
+complex, and thus in ﬁssion yeast tor1, but not tor2 as
+in budding yeast, might interact with sin1 and ste20 to
+form torc2.  in  contrast,  mip1+  is  an  essential  gene,
+and similar to tor2+, its role is related to nitrogen starvation
+and mating response pathways (shinozaki-yabana et al.
+2000). raptor/kog1 is speciﬁc for torc1. it is there-
+fore possible that tor2 and mip1 form torc1, again
+different from the budding yeast system, in which tor1
+and tor2 form torc1. obviously, more biochemical
+study  with  regard  to tor-complexes  is  necessary  for
+further understanding of the roles of tor1 and tor2 in
+ﬁssion yeast. we are currently undertaking investigation
+of the physical interaction between tor2 and mip1.
+both  the  physical  and  genetic  interactions  between
+tor2 and rhb1 presented in this work (fig. 5a,b) strongly
+suggest  that  rhb1  is  an  upstream  element  of  the
+tor2-mediated signaling pathway (fig. 7). in line with
+this, recently urano et al. (2005) also reported binding
+between  a  hyperactive  rheb  protein  and tor2,  and
+furthermore, an rhb1 shut-off mutant strain is known
+to  display  g1-mimicking  phenotypes  similar  to  tor2ts
+(mach et al. 2000). we have been attempting to identify
+the downstream molecules of tor2 by screening for
+multicopy suppressors of tor2ts mutants. understanding
+of  tor-mediated  growth  factor/nutrient  signaling
+pathways would be our ﬁnal goal.
+experimental procedures
+strains and culture
+the strains used in this study are listed in table 1. cells were grown
+in edinburgh minimal medium (emm3) or yeast extract complete
+medium with uracil, histidine, adenine, lysine, and leucine (ye5s)
+as previously described (moreno et al. 1991; kawai et al. 2001).
+1376
+genes to cells (2006) 11, 1367–1379
+© 2006 the authors
+journal compilation © 2006 by the molecular biology society of japan/blackwell publishing ltd.
+a role of fission yeast tor2
+table 1 strains used in this study
+strains
+genotypes
+l972
+513
+tp114–2 a
+hu147
+hu150
+hu148
+hu152
+yh1273
+yh1263
+hu142
+hu144
+mk11
+hh101
+hh102
+hh103
+hh104
+hh105
+h–
+h– leu1–32 ura4-d18
+h90 leu1–32 ura4-d18
+h– leu1–32 ura4-d18 tor2ts-13-kanr
+h– leu1–32 ura4-d18 tor2ts-19-kanr
+h90 leu1–32 ura4-d18 tor2ts-13-kanr
+h90 leu1–32 ura4-d18 tor2ts-19-kanr
+h– tor2ts-13-ura4+
+h– tor2ts-19-ura4+
+h– leu1–32 ura4-d18 tor2ts-13-kanr tor1::ura4+
+h– leu1–32 ura4-d18 tor2ts-19-kanr tor1::ura4+
+h– leu1–32 ura4-d18 tor1::ura4+
+h– leu1–32 ura4-d18 tor1::ura4+ kanr-p3nmt-gfp-rhb1+
+h– leu1–32 ura4-d18 tor1::ura4+ tsc2:: ura4+
+h– leu1–32 ura4-d18 ura4+-p3nmt-ha-tor2+
+kanr-p3nmt-gfp-rhb1+
+h– leu1–32 ura4-d18 ura4+-p3nmt-ha-tor2+
+h– leu1–32 ura4-d18 kanr-p3nmt-gfp-rhb1+
+derivations
+our stock
+our stock
+our stock
+this study
+this study
+this study
+this study
+this study
+this study
+this study
+this study
+our stock
+this study
+this study
+this study
+this study
+this study
+creation of tor2ts mutants
+tor2ts mutants were obtained as follows. first, the kanr cassette was
+inserted just after the open reading frame of tor2+. using the set of
+primers,  cctcctctttgagtgttcgtaaatctgtgc  and  acaatataaagagatgcattctc-
+tactaca, a dna fragment was ampliﬁed which was from 200 bp
+upstream from the conserved ser1817 that is responsible for fkbp-
+rapamycin binding in s. cerevisiae and to 200 bp downstream of
+the kanr insertion. this 3.4 kb dna fragment was mutagenized
+with  error-prone  pcr.  513  (h–  leu1–32  ura4-d18)  was  trans-
+formed with the dna fragment. from ∼500 g418-resistant
+colonies, the two colonies were selected that grew on ye5s plates
+at 26 °c but not at 36 °c. marker insertion, replacement of the
+promoter, and tagging were carried out as previously described
+(bähler et al. 1998).
+measurement of protein degradation
+protein  degradation  was  measured  as  previously  described
+(nakashima  et al.  2006).  in  brief,  mid-log  cells  were  labeled
+with [u-14c]l-phenylalanine (1.85 mbq/mmol) at a ﬁnal con-
+centration  of  11.1  kbq/ml,  harvested,  washed  twice  with
+emm3-n,  and  incubated  in  emm3-n  at  30 °c. at  intervals,
+aliquots  (0.1 ml)  of  the  culture  were  withdrawn,  mixed
+quickly  with  11 µl  of  100%  trichloroacetic  acid  solution,  and
+kept on ice overnight. to the suspension, 11 µl of a bovine serum
+albumin  solution  (10 mg/ml)  was  added  and  mixed  well. the
+mixture  was  centrifuged  at  12000 g  for  15 min  at  4 °c,  the
+supernatant  was  spotted  on  to  a  paper  disk  (whatman  3 mm
+2.4-cm diameter), and the radioactivity on the disk was meas-
+ured  with  a  liquid  scintillation  counter  after  drying.  results
+were expressed as the percentage of radioactivity in the acid-
+soluble fraction compared to the radioactivity in the initial total
+fraction.
+northern blotting
+cells were cultured in ye5s at 26 °c, and the cells in the mid-log
+phase were shifted to 36 °c and cultured at the times as indicated
+in  fig. 3d. total  rna  (25 µg)  from  the  cells  was  subjected  to
+northern hybridization with the entire coding region of isp6+ as
+a  probe  (nakashima  et al.  2002). as  a  control  probe,  the  entire
+region of nda3+ was used. ecl direct labeling and detection sys-
+tem (ge healthcare) was used for detection.
+others
+general,  cytological  and  molecular  genetic  techniques  were
+followed according to standard protocols (moreno et al. 1991).
+transformation of s. pombe cells was performed by the lithium
+acetate  method  (okazaki  et al.  1990).  cell-cycle  analyses  were
+conducted as previously described (kawai et al. 2001).
+acknowledgements
+we would like to thank dr ayumu yamamoto for actin staining,
+dr t.  matsumoto  for  strains,  dr  masayuki yamamoto  and  dr
+takanori oyoshi for helpful discussions. this research was partially
+supported by a grant-in-aid for scientiﬁc research (c) (16570114
+to m.u.) from the ministry of education, culture, sports, science
+and technology of japan (mext). this research was partially carried
+out at the institute for genetic research and biotechnology,
+shizuoka university and the center for instrumental analysis,
+shizuoka university. t.t. is supported by cancer research uk.
+references
+alarcon,  c.m.,  heitman,  j.  &  cardenas,  m.e.  (1999)  protein
+kinase activity and identiﬁcation of a toxic effector domain of
+© 2006 the authors
+journal compilation © 2006 by the molecular biology society of japan/blackwell publishing ltd.
+genes to cells (2006) 11, 1367–1379
+1377
+m uritani et al.
+the target of rapamycin tor proteins in yeast. mol. biol. cell
+10, 2531–4256.
+bähler, j., wu, j.q., longtine, m.s., shah, n.g., mckenzie, a., 3rd,
+steever, a.b., wach, a., philippsen, p & pringle, j.r. (1998)
+heterologous modules for efﬁcient and versatile pcr-based
+gene targeting in schizosaccharomyces pombe. yeast 14, 943–951.
+bosotti, r., isacchi, a. & sonnhammer, e.l. (2000) fat: a novel
+domain in pik-related kinases. trends biochem. sci. 25, 225–227.
+dames,  s.a.,  mulet,  j.m.,  rathgeb-szabo,  k.,  hall,  m.n.  &
+grzesiek, s. (2005) the solution structure of the fatc domain
+of  the  protein  kinase  target  of  rapamycin  suggests  a  role  for
+redox-dependent structural and cellular stability. j. biol. chem.
+280, 20558–20564.
+egel, r. & egel-mitani, m. (1974) premeiotic dna synthesis in
+ﬁssion yeast. exp. cell res. 88, 127–134.
+gao, x., zhang, y., arrazola, p., hino, o., kobayashi, t., yeung,
+r.s., ru, b. & pan, d. (2002) tsc tumour suppressor proteins
+antagonize amino-acid-tor signalling. nat. cell biol. 4, 699–
+704.
+hara, k., maruki, y., long, x., yoshino, k., oshiro, n., hidayat,
+s., tokunaga, c., avruch, j. & yonezawa, k. (2002) raptor, a
+binding partner of target of rapamycin (tor), mediates tor
+action. cell 110, 77–89.
+heitman, j., movva, n.r. & hall, m.n. (1991) targets for cell
+cycle  arrest  by  the  immunosuppressant  rapamycin  in  yeast.
+science 253, 905–909.
+helliwell,  s.b.,  howald,  i.,  barbet,  n.  &  hall,  m.n.  (1998)
+tor2 is part of two related signaling pathways coordinating
+cell growth in saccharomyces cerevisiae. genetics 148, 99–112.
+helliwell,  s.b.,  wagner,  p.,  kunz,  j.,  deuter-reinhard,  m.,
+henriquez,  r.  &  hall,  m.n.  (1994)  tor1  and tor2  are
+structurally and functionally similar but not identical phosphati-
+dylinositol kinase homologues in yeast. mol. biol. cell 5, 105–
+118.
+hilti,  n.,  baumann,  d.,  schweingruber,  a.m.,  bigler,  p.  &
+schweingruber,  m.e.  (1999)  gene  ste20  controls  amiloride
+sensitivity and fertility in schizosaccharomyces pombe. curr. genet.
+35, 585–592.
+inoki, k., li, y., xu, t. & guan, k.l. (2003) rheb gtpase is a
+direct target of tsc2 gap activity and regulates mtor sign-
+aling. genes dev. 17, 1829–1834.
+inoki, k., li, y., zhu, t., wu, j. & guan, k.l. (2002) tsc2 is
+phosphorylated  and  inhibited  by akt  and  suppresses  mtor
+signalling. nat. cell biol. 4, 648–657.
+jacinto, e. & hall, m.n. (2003) tor signalling in bugs, brain and
+brawn. nat. rev. mol. cell biol. 4, 117–126.
+jacinto, e., loewith, r., schmidt, a., lin, s., ruegg, m.a., hall,
+a. & hall, m.n. (2004) mammalian tor complex 2 controls
+the  actin  cytoskeleton  and  is  rapamycin  insensitive. nat.  cell
+biol. 6, 1122–1128.
+kawai,  m.,  nakashima,  a.,  ueno,  m.,  ushimaru,  t.,  aiba,  k.,
+doi, h. & uritani, m. (2001) fission yeast tor1 functions in
+response to various stresses including nitrogen starvation, high
+osmolarity, and high temperature. curr. genet. 39, 166–174.
+kemp, j.t., balasubramanian, m.k. & gould, k.l. (1997) a wat1
+mutant  of  ﬁssion  yeast  is  defective  in  cell  morphology.  mol.
+gen. genet. 254, 127–138.
+kim,  d.h.,  sarbassov,  d.d.,  ali,  s.m.,  king,  j.e.,  latek,  r.r.,
+erdjument-bromage, h., tempst, p. & sabatini, d.m. (2002)
+mtor  interacts  with  raptor  to  form  a  nutrient-sensitive
+complex that signals to the cell growth machinery. cell 110,
+163–175.
+kumada, k., su, s., yanagida, m. & toda, t. (1995) fission yeast
+tpr-family protein nuc2 is required for g1-arrest upon nitrogen
+starvation and is an inhibitor of septum formation. j. cell sci.
+108, 895–905.
+kunz,  j.,  schneider,  u.,  howald,  i.,  schmidt,  a.  &  hall,  m.n.
+(2000) heat repeats mediate plasma membrane localization
+of tor2p in yeast. j. biol. chem. 275, 37011–37020.
+loewith, r., jacinto, e., wullschleger, s., lorberg, a., crespo, j.l.,
+bonenfant,  d.,  oppliger,  w.,  jenoe,  p.  &  hall,  m.n.  (2002)
+two tor complexes, only one of which is rapamycin sen-
+sitive,  have distinct roles in cell growth control.  mol. cell  10,
+457–468.
+long,  x.,  lin,  y.,  ortiz-vega,  s.,  yonezawa,  k.  &  avruch,  j.
+(2005) rheb binds and regulates the mtor kinase. curr. biol.
+15, 702–713.
+mach, k.e., furge, k.a. & albright, c.f. (2000) loss of rhb1,
+a  rheb-related  gtpase  in  ﬁssion  yeast,  causes  growth  arrest
+with a terminal phenotype similar to that caused by nitrogen
+starvation. genetics 155, 611–622.
+martin, d.e. & hall, m.n. (2005) the expanding tor signaling
+network. curr. opin. cell biol. 17, 158–166.
+matsumoto,  s.,  bandyopadhyay,  a.,  kwiatkowski,  d.j.,  maitra,
+u. & matsumoto, t. (2002) role of the tsc1-tsc2 complex in
+signaling and transport across the cell membrane in the ﬁssion
+yeast schizosaccharomyces pombe. genetics 161, 1053–1063.
+matsuo,  t.,  kubo,  y.,  watanabe,  y.  &  yamamoto,  m.  (2003)
+schizosaccharomyces  pombe agc  family  kinase  gad8p  forms  a
+conserved signaling module with tor and pdk1-like kinases.
+embo j. 22, 3073–3083.
+maundrell,  k.  (1993)  thiamine-repressible  expression  vectors
+prep and prip for ﬁssion yeast. gene 123, 127–130.
+moreno, s., klar, a. & nurse, p. (1991) molecular genetic analysis
+of ﬁssion yeast schizosaccharomyces pombe. methods enzymol. 194,
+795–823.
+nakashima,  a.,  hasegawa,  t.,  mori,  s.,  ueno,  m.,  tanaka,  s.,
+ushimaru, t., sato, s. & uritani, m. (2006) a starvation-
+speciﬁc  serine  protease  gene,  isp6+,  is  involved  in  both
+autophagy  and  sexual  development  in  schizosaccharomyces
+pombe. curr. genet. 49, 403–413.
+nakashima,  a.,  ueno,  m.,  ushimaru,  t.  &  uritani,  m.  (2002)
+involvement of a ccaat-binding complex in the expression
+of a nitrogen-starvation-speciﬁc gene, isp6+. schizosaccharomyces
+pombe. biosci. biotechnol. biochem. 66, 2224–2227.
+nurse, p. & bissett, y. (1981) gene required in g1 for commit-
+ment to cell cycle and in g2 for control of mitosis in ﬁssion
+yeast. nature 292, 558–560.
+ochotorena, i.l., hirata, d., kominami, k., potashkin, j., sahin, f.,
+wentz-hunter, k., gould, k.l., sato, k., yoshida, y., vardy, l.
+& toda, t. (2001) conserved wat1/pop3 wd-repeat protein of
+ﬁssion  yeast  secures  genome  stability  through  microtubule
+integrity and may be involved in mrna maturation. j. cell sci.
+114, 2911–2920.
+1378
+genes to cells (2006) 11, 1367–1379
+© 2006 the authors
+journal compilation © 2006 by the molecular biology society of japan/blackwell publishing ltd.
+okazaki,  k.,  okazaki,  n.,  kume,  k.,  jinno,  s.,  tanaka,  k.  &
+okayama, h. (1990) high-frequency transformation method
+and library transducing vectors for cloning mammalian cdnas
+by trans-complementation of schizosaccharomyces pombe. nucleic
+acids res. 18, 6485–6489.
+perry, j. & kleckner, n. (2003) the atrs, atms, and tors are
+giant heat repeat proteins. cell 112, 151–155.
+peterson, r.t., beal, p.a., comb, m.j. & schreiber, s.l. (2000)
+fkbp12-rapamycin-associated protein (frap) autophospho-
+rylates at serine 2481 under translationally repressive conditions.
+j. biol. chem. 275, 7416–7423.
+sarbassov, d.d., ali, s.m., kim, d.h., guertin, d.a., latek, r.r.,
+erdjument-bromage, h., tempst, p. & sabatini, d.m. (2004)
+rictor, a novel binding partner of mtor, deﬁnes a rapamycin-
+insensitive and raptor-independent pathway that regulates the
+cytoskeleton. curr. biol. 14, 1296–1302.
+saucedo, l.j., gao, x., chiarelli, d.a., li, l., pan, d. & edgar, b.a.
+(2003) rheb promotes cell growth as a component of the insulin/
+tor signalling network. nat. cell biol. 5, 566–571.
+schmelzle, t. & hall, m.n. (2000) tor, a central controller of
+cell growth. cell 103, 253–262.
+shinozaki-yabana, s., watanabe, y. & yamamoto, m. (2000) novel
+wd-repeat protein mip1p facilitates function of the meiotic
+regulator mei2p in ﬁssion yeast. mol. cell. biol. 20, 1234–1242.
+van  slegtenhorst,  m.,  carr,  e.,  stoyanova,  r.,  kruger,  w.d.  &
+henske,  e.p.  (2004)  tsc1+  and  tsc2+  regulate  arginine  uptake
+and metabolism in schizosaccharomyces pombe. j. biol. chem. 279,
+12706–12713.
+stocker,  h.,  radimerski,  t.,  schindelholz,  b.,  wittwer,  f.,
+belawat,  p.,  daram,  p.,  breuer,  s.,  thomas,  g.  &  hafen,  e.
+(2003) rheb is an essential regulator of s6k in controlling cell
+growth in drosophila. nat. cell biol. 5, 559–565.
+takahashi,  t.,  hara,  k.,  inoue,  h.,  kawa,  y.,  tokunaga,  c.,
+hidayat,  s.,  yoshino,  k.,  kuroda,  y.  &  yonezawa,  k.  (2000)
+carboxyl-terminal region conserved among phosphoinositide-
+kinase-related kinases is indispensable for mtor function in
+vivo and in vitro. genes cells 5, 765–775.
+tee,  a.r.,  fingar,  d.c.,  manning,  b.d.,  kwiatkowski,  d.j.,
+cantley, l.c. & blenis, j. (2002) tuberous sclerosis complex-1
+a role of fission yeast tor2
+and -2 gene products function together to inhibit mammalian
+target of rapamycin (mtor)-mediated downstream signaling.
+proc. natl. acad. sci. usa 99, 13571–13576.
+tee, a.r., manning, b.d., roux, p.p., cantley, l.c. & blenis, j.
+(2003) tuberous sclerosis complex gene products, tuberin and
+hamartin, control mtor signaling by acting as a gtpase-
+activating protein complex toward rheb. curr. biol. 13, 1259–
+1268.
+urano,  j.,  comiso,  m.j.,  guo,  l.,  aspuria,  p.j.,  deniskin,  r.,
+tabancay, a.p., jr., kato-stankiewicz, j. & tamanoi, f. (2005)
+identiﬁcation of novel single amino acid changes that result in
+hyperactivation of the unique gtpase, rheb, in ﬁssion yeast.
+mol. microbiol. 58, 1074–1086.
+urano, j., tabancay, a.p., yang, w. & tamanoi, f. (2000) the
+saccharomyces cerevisiae rheb g-protein is involved in regulating
+canavanine resistance and arginine uptake. j. biol. chem. 275,
+11198–11206.
+weisman,  r.  &  choder,  m.  (2001)  the  ﬁssion  yeast  tor
+homolog, tor1+, is required for the response to starvation and other
+stresses via a conserved serine. j. biol. chem. 276, 7027–7032.
+weisman,  r.,  choder,  m.  &  koltin,  y.  (1997)  rapamycin
+speciﬁcally  interferes  with  the  developmental  response  of
+ﬁssion yeast to starvation. j. bacteriol. 179, 6325–6334.
+wilkinson, m.g., pino, t.s., tournier, s., buck, v., martin, h.,
+christiansen, j., wilkinson, d.g. & millar, j.b. (1999) sin1: an
+evolutionarily conserved component of the eukaryotic sapk
+pathway. embo j. 18, 4210–4221.
+wullschleger, s., loewith, r. & hall, m.n. (2006) tor signaling
+in growth and metabolism. cell 124, 471–484.
+zhang, y., gao, x., saucedo, l.j., ru, b., edgar, b.a. & pan, d.
+(2003) rheb is a direct target of the tuberous sclerosis tumour
+suppressor proteins. nat. cell biol. 5, 578–581.
+zheng, x.f., florentino, d., chen, j., crabtree, g.r. & schreiber,
+s.l. (1995) tor kinase domains are required for two distinct
+functions, only one of which is inhibited by rapamycin. cell 82,
+121–130.
+received: 16 april, 2006 
+accepted: 31 august 2006
+© 2006 the authors
+journal compilation © 2006 by the molecular biology society of japan/blackwell publishing ltd.
+genes to cells (2006) 11, 1367–1379
+1379

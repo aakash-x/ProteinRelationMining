@@ -1,0 +1,1005 @@
+the journal of biological chemistry vol. 281, no. 51, pp. 39041–39050, december 22, 2006
+© 2006 by the american society for biochemistry and molecular biology, inc. printed in the u.s.a.
+mitochondrial aberrations in mucolipidosis type iv*□s
+received for publication, august 21, 2006, and in revised form, october 6, 2006 published, jbc papers in press, october 20, 2006, doi 10.1074/jbc.m607982200
+john j. jennings, jr.‡1, jian-hui zhu§1, youssef rbaibi‡, xiang luo¶, charleen t. chu储, and kirill kiselyov‡2
+from the departments of ‡biological science and §pathology and the 储center for neuroscience, university of pittsburgh,
+pittsburgh, pennsylvania 15260 and the ¶department of physiology, university of texas southwestern medical center,
+dallas, texas 75390
+mucolipidosis type iv is a genetic lysosomal storage disease
+associated with degenerative processes in the brain, eye, and
+other tissues. mucolipidosis type iv results from mutations in
+the gene mcoln1, which codes for the trp family ion channel,
+mucolipin 1. the connection between lysosomal dysfunction
+and degenerative processes in mucolipidosis type iv is unclear.
+here we report that mucolipidosis type iv and several unrelated
+lysosomal storage diseases are associated with significant mito-
+chondrial fragmentation and decreased mitochondrial ca2ⴙ
+buffering efficiency. the mitochondrial alterations observed in
+these lysosomal storage diseases are reproduced in control cells
+by treatment with lysosomal inhibitors and with the autophagy
+inhibitor 3-methyladenine. this suggests that inefficient autoph-
+agolysosomal recycling of mitochondria generates fragmented,
+effete mitochondria in mucolipidosis. mitochondria accumulate
+thatcannotproperlybuffercalciumfluxesinthecell.adecreasein
+mitochondrial ca2ⴙ buffering capacity in cells affected by these
+lysosomal storage diseases is associated with increased sensitivity
+toapoptosisinducedbyca2ⴙ-mobilizingagonistsandexecutedvia
+a caspase-8-dependent pathway. deficient ca2ⴙ homeostasis may
+represent a common mechanism of degenerative cell death in sev-
+eral lysosomal storage diseases.
+mucolipidosis (ml)3 is the collective name for a group of
+autosomal recessive diseases characterized by accumulation of
+membranous lipid inclusions in patients’ cells (1, 2). there are
+four types of ml, three of which (mlii, mliiia, and mliiic)
+* this work was supported by the pittsburgh life science greenhouse
+start-up fund, a winters foundation grant, and the university of pittsburgh
+small grant development fund and by a mucolipidosis iv foundation
+grant (to k. k.), national institutes of health grant ns40817, and a pilot
+grant from the university of pittsburgh center for the environmental basis
+of human disease (to c. t. c.). the costs of publication of this article were
+defrayed in part by the payment of page charges. this article must there-
+fore be hereby marked “advertisement” in accordance with 18 u.s.c. sec-
+tion 1734 solely to indicate this fact.
+□s the on-line version of this article (available at http://www.jbc.org) contains
+supplemental figs. s1 and s2.
+1 these authors contributed equally to this work.
+2 to whom correspondence should be addressed: dept. of biological sci-
+ences, university of pittsburgh, 4249 fifth ave., pittsburgh, pa 15260. tel.:
+412-624-4317; e-mail: kiselyov@pitt.edu.
+3 the abbreviations used are: ml, mucolipidosis; lsd, lysosomal storage dis-
+ease; fccp, carbonyl cyanide p-trifluoromethoxyphenylhydrazone; dapi,
+4⬘,6⬘-diamino-2-phenylindole; 3-ma, 3-methyladenine; mdc, monodan-
+sylcadaverine; pbs, phosphate-buffered saline; cytc, cytochrome c; chaps,
+3-[(3-cholamidopropyl)dimethylammonio]-1-propanesulfonic acid; pipes,
+1,4-piperazinediethanesulfonic acid; bk, bradykinin; sta, staurosporin;
+bapta-am, 1,2-bis(o-aminophenoxy)ethane-n,n,n⬘,n⬘-tetraacetic acid
+tetra(acetoxymethyl)ester; tunel, terminal deoxynucleotidyltransferase-
+mediated dutp nick end-labeling.
+involve incorrect intracellular targeting of lysosomal
+lipid
+hydrolases, resulting in inefficient processing of endocytosed
+lipids (3–5). although the cellular phenotype of type iv (mliv)
+is similar to other mls, mliv is linked to mutations in the ion
+channel, mucolipin 1 (trp-ml1), a member of the trp fam-
+ily of ion channels (6–8). the current consensus assigns
+trp-ml1 a role in some aspect of lysosomal/endosomal
+function (4, 9, 10).
+the pathological manifestations of mliv are retinal degen-
+eration, corneal cloudiness, and neuromotor retardation (11,
+12). brain mri studies of autopsied cases are consistent with
+demyelinization, neuronal death, and neuronal loss in the cer-
+ebral cortex, basal ganglia, and deep cerebellar and brainstem
+nuclei (13, 14). the degenerative processes in mliv and in
+most other lysosomal storage diseases (lsds) are not limited to
+brain but also involve skeletal and cardiac muscle, skin, parietal
+cell, and other tissues (15–17).
+the range of pathological manifestations in many lsds is
+similar and suggests that a generalized mechanism of degener-
+ation exists. one such mechanism may involve the lysosomal-
+mitochondrial axis, as proposed for aged cardiac myocytes (18,
+19). this model suggests that accumulation of lipofuscin in
+lysosomes of post-mitotic cardiac myocytes impairs lysosomal
+function. because lysosomes are major players in autophagic
+recycling of mitochondria (20–22), lysosomal inactivation by
+lipofuscin deposits results in accumulation of fragmented, dys-
+functional mitochondria (18, 23). normally, mitochondrial
+fragmentation is the result of activity of a dynamin-related pro-
+tein, drp1 (24, 25), and other proteins (26–30) that cleave
+mitochondria destined for degradation into smaller pieces to
+facilitate their engulfment by autophagosomes. therefore, one
+expects to see accumulation of fragmented mitochondria in
+cells with lysosomal deficiencies. by analogy with this model,
+we proposed that lysosomal deficiencies in lsds should also
+affect mitochondrial homeostasis.
+normal mitochondria are frequently arranged in extended
+linear networks, allowing intermitochondrial communication
+to facilitate crucial energetic and calcium buffering functions
+(reviewed in refs. 31 and 32). our results demonstrate signifi-
+cant changes in both the appearance and function of mitochon-
+dria in skin fibroblast cultures from patients with mliv and
+other lsds. this is pathogenically significant for mucolipido-
+ses because post-mitotic neurons and cardiomyocytes are espe-
+cially sensitive to alterations in mitochondrial function (18, 24,
+33). we hypothesize that impaired lysosomal function in mliv
+affects autophagy of mitochondria, which leads to accumula-
+tion of effete mitochondria that cannot effectively buffer cyto-
+december 22, 2006 • volume 281 • number 51
+journal of biological chemistry 39041
+altered mitochondria in lysosomal storage diseases
+plasmic ca2⫹. as a result, cells affected by mliv are more sen-
+sitive to pro-apoptotic effects of ca2⫹-mobilizing agonists than
+cells with normal mitochondria.
+at present, little is known about the pathways leading to cell
+death in lsds. a recent paper by schaheen et al. (34) reports
+that mutations in cup-5, a caenorhabditis elegans orthologue
+of trp-ml1, lead to increased apoptosis, but it did not explain
+why a cell death pathway is activated in the cup-5-deficient
+cells. we believe that our results provide a mechanistic expla-
+nation that links suppression of lysosomal function in mliv,
+and perhaps other lsds, with cell death.
+experimental procedures
+fluorescein
+materials and solutions—fccp, 123-rhodamine, disc3 (5),
+mitotracker red,
+isothiocyanate-conjugated
+annexin v, dapi, rhod2, bapta-am, and the tunel apo-
+ptosis kit were from molecular probes (eugene, or); bradyki-
+nin, bafilomycin, nigericin,
+ionomycin, and cell-permeable
+caspase inhibitors (caspase-3/7, -8, and -9) were from calbio-
+chem;
+(3-ma), monodansylcadaverine
+(mdc), and ammonium chloride were from sigma. fura-2am
+was from teflabs (austin, tx).
+3-methyladenine
+cells—skin fibroblasts from mliv, mlii, and mliii patients
+(clones wg 0909, wg 0229, and wg 0109) and corresponding
+heterozygous nondiseased parent skin fibroblasts (clones wg
+0987 and wg 0140) were obtained from the repository for
+mutant human cell strains of montreal children’s hospital
+(montreal, canada). mliv fibroblasts clone gm02525 and
+cln2 fibroblasts clone gm09404 were from coriell cell
+repositories (boston, ma). fibroblasts were grown in dulbec-
+co’s modified eagle’s medium supplemented with 10% fetal
+bovine serum and 1% streptomycin (all from atlanta biologi-
+cals, atlanta, ga).
+confocal immunocytochemistry—for experiments with fixed
+cells, the cells grown on glass coverslips were fixed and perme-
+abilized by 10 min of incubation at ⫺20 °c with 100% methanol
+or were fixed by a 5-min incubation with 3.7% formaldehyde
+and permeabilized by incubation with 0.01% triton x-100 at
+4 °c for 5 min. after fixation, nonspecific sites were blocked by
+incubation in 5% goat serum. subsequently the cells were incu-
+bated with the primary antibodies in blocking solution. follow-
+ing wash-out of the primary antibodies with pbs, the cells were
+stained with fluorescent secondary antibodies and analyzed as
+above. primary antibodies used for immunocytochemistry for
+lc3 were clone h-50 and clone 6h2 for cytochrome c. they
+were from santa cruz biotechnology (santa cruz, ca). the
+primary cytochrome c antibodies used in western blotting
+were clone 6h2.b4 from zymed laboratories inc. (san fran-
+cisco, ca). primary antibodies for caspase-8 (clone 1c12) were
+from cell signaling (danvers, ma).
+for experiments with live cells, the cells on coverslips were
+bathed in the standard bath solution, which contained 140 mm
+nacl, 5 mm kcl, 1 mm cacl2, 1 mm mgcl2, 10 mm hepes, ph
+7.4. following loading with dyes and three washes, the cover-
+slips were mounted into a perfusion chamber containing stand-
+ard solution. the chamber was placed on the stage of a bio-rad
+1024 confocal microscope, and fluorescence was recorded and
+analyzed off-line using imagej software.
+measurement of [ca2⫹]i—for standard fluorescence record-
+ing experiments, the cells grown on coverslips were loaded with
+5 ␮m fura-2am in the standard solution for 30 min at 37 °c.
+following three washes, the coverslips were placed in the per-
+fusion chamber that allows rapid exchange of bath solutions.
+the solutions were applied by bath perfusion with ten volumes
+of the perfusion chamber. fura was excited by alternating 340/
+380-nm light, and the resulting 510-nm fluorescence was
+recorded through a ccd-cooled camera and analyzed using
+metafluor software (universal images corporation).
+to record mitochondrial ca2⫹, the cells were loaded with
+rhod2 and analyzed essentially as above. to record mdc fluo-
+rescence, the coverslips were washed three times with 1⫻ pbs
+and incubated with 0.05 mm mdc diluted in 1⫻ pbs for 10 min
+at 37 °c. the coverslips were washed three times with 1⫻
+pbs to remove excess and placed in the perfusion chamber.
+mdc fluorescence was excited by 340-nm light and
+recorded at 510 nm.
+apoptosis assays—tunel and annexin v-based assays were
+performed according to the manufacturer’s instructions
+(molecular probes, eugene, or). confluent coverslips, either
+untreated or treated with an apoptosis-inducing agonist, were
+washed three times with 1⫻ pbs. the cells were fixed with
+⫺20 °c methanol for 10 min and washed three times with 1⫻
+pbs. the coverslips were incubated in 300 nm dapi (molecular
+probes, eugene, or) diluted in 1⫻ pbs for 5 min, washed three
+times with 1⫻ pbs, and mounted on slides.
+caspase-8 fluorogenic substrates—the fluorogenic z-
+ietd-afc substrate (calbiochem, san diego, ca) was used to
+measure the caspase-8 activity in this study (35). lysate (10 ␮g
+of protein) was prepared in 200 ␮l of reaction buffer (0.1%
+chaps buffer containing 20 mm pipes, 100 mm nacl, 10 mm
+dithiothreitol, 1 mm edta, and 10% sucrose) and mixed with
+20 ␮m z-ietd-afc. the fluorescence of the cleavage product
+was measured over time at 37 °c in a microplate spectroflu-
+orometer (molecular devices; excitation wavelength, 400 nm;
+emission, 505 nm). proteolytic activity was expressed as relative
+fluorescence units normalized to control cultures.
+results
+mitochondrial appearance in mliv—live skin fibroblasts
+from a heterozygous control relative and a mliv patient,
+homozygous for the trp-ml1 mutation (clones wg0987 and
+wg0909, henceforth identified as mliv-control and mliv
+fibroblasts, respectively) were stained with 1 ␮m mitotracker
+red or 1 ␮m 123-rhodamine. at these concentrations, both
+dyes showed nearly perfect overlap, and from this point on, the
+description and statistical analysis of mitochondrial appear-
+ance in the two cell types were performed on 123-rhodamine-
+stained cells. confocal analysis revealed significant differences
+in mitochondrial appearance between mliv-control and
+mliv cells. mitochondrial chain length was estimated by man-
+ually tracing unbranched mitochondria on confocal images of
+the cells and measuring their length using imagej software. in
+mliv-control
+fibroblasts, mitochondria are organized as
+extended threads with average lengths of 73.8 ⫾ 4.5 ␮m (n ⫽ 25
+cells and all results are the means ⫾ s.e.) (fig. 1, a and b). in
+comparison, mliv cells contain mitochondria that appear sig-
+39042 journal of biological chemistry
+volume 281 • number 51 • december 22, 2006
+altered mitochondria in lysosomal storage diseases
+lysosomal
+esized that depressed lysosomal function contributed to the
+mitochondrial fragmentation observed in mliv fibroblasts.
+furthermore, a prediction can be made that mitochondrial
+fragmentation similar to that observed in mliv fibroblasts and
+aged cardiac myocytes should also be observed in fibroblasts
+with other lsds or in cells whose lysosomal function is sup-
+pressed by pharmacological means.
+mitochondrial alterations in other mucolipidoses—fig. 1 (a
+and b) shows that mitochondrial
+fragmentation is also
+observed in fibroblasts from an mliii patient but not from a
+matching heterozygous control relative (clones wg0109 and
+wg0140 will be identified as mliii and mliii-control, respec-
+tively). average mitochondrial numbers were 34.8 ⫾ 3.5 (n ⫽
+11) in mliii-control fibroblasts and 123.6 ⫾ 13.7 in mliii
+fibroblasts (n ⫽ 10, p ⬍ 0.05) (fig. 1, a and b). fibroblasts from
+an mlii patient (clone wg0229) showed a similar trend
+(39.5 ⫾ 8.1 ␮m (n ⫽ 25) and 91.6 ⫾ 6.1 average mitochondrial
+number (n ⫽ 10, p ⬍ 0.05)) (fig. 1, a and b). fibroblasts from an
+unrelated storage disease, neuronal ceroid lipofuscinosis 2
+(cln2, clone gm09404), which is a result of mutations in a
+gene coding for tripeptidyl peptidase i, also contained numer-
+ous, fragmented mitochondria (average mitochondrial length
+was 19.1 ⫾ 1.2 ␮m (n ⫽ 25), and the average mitochondrial
+number was 105.8 ⫾ 7.2 (fig. 1, a and b).
+function, autophagy,
+and mitochondrial
+fragmentation—mlii, mliii, mliv, and cln2 are caused by
+lysosomal dysfunctions linked to inefficient breakdown of lip-
+ids or proteins (37, 38). the fact that these lsds result from
+mutations in completely different proteins yet cause same
+mitochondrial phenotype indicates a common cause of mito-
+chondrial fragmentation in these diseases, such as lysosomal
+dysfunction. we used a series of lysosomal degradation inhibi-
+tors to determine whether impaired completion of autoph-
+agolysosomal degradation could explain the observed alter-
+ations in mitochondrial organization in the mutant cells.
+lysosomal function was suppressed using bafilomycin, which
+blocks the lysosomal v-type h⫹ pump, nigericin, the h⫹ iono-
+phore, and ammonium chloride, which disrupt the acidic envi-
+ronment essential for lysosomal hydrolase activities (39). fig. 2
+shows that treatment of mliv-control and mliii-control cells
+with bafilomycin (0.1–100 nm) for 3 days induced mitochon-
+drial fragmentation similar to that observed in the lsd fibro-
+blasts (fig. 2a). average mitochondrial lengths in bafilomycin-
+treated mitochondria were 21.0 ⫾ 0.8 and 10.7 ⫾ 0.5 ␮m,
+respectively (n ⫽ 20 and 20, p ⬍ 0.05 for both sets). short treat-
+ment with bafilomycin did not induce significant mitochon-
+drial fragmentation (fig. 2, a and b). therefore, these changes
+do not reflect rapid induction of mitochondrial fission by lyso-
+somal or autophagy inhibitors. counting individual mitochon-
+dria in control and treated cells confirmed that cells treated
+with lysosomal inhibitors contained more discrete mitochon-
+drial fragments than untreated cells (fig. 2c). similar results
+were obtained with nigericin and ammonium chloride used as
+lysosomal inhibitors (data not shown).
+the primary pathway through which mitochondria recycle
+and renew is autophagy, a process in which lysosomes are key
+participants (33, 40, 41). upstream signals that stimulate auto-
+phagy include vps34, a class iii pi3k, and inhibition of vps34
+figure 1. mitochondrial fragmentation in mliv, mliii, mlii, and cln2.
+a, confocal images of control and lsd-affected fibroblasts loaded with 1 ␮m
+123-rhodamine. b, left panel, statistical comparison of the average lengths of
+mitochondria in mliv, mliii, mlii, and cln2 fibroblasts and in corresponding
+control fibroblasts. right panel, average number of individual mitochondria in
+control and lsd-affected fibroblasts. statistical details are given in the text.
+*, p ⬍ 0.05 within group. c, distribution of mitochondrial lengths in mliv-
+control and mliv cells. the data reflect the summation of all mitochondria
+from four consecutive cells on the same coverslip. it can be seen that mliv
+cells predominantly contain shorter mitochondria, whereas mliv-control
+cells are enriched in longer mitochondria and have fewer short ones.
+nificantly shorter with an average length of 33.1 ⫾ 2.6 ␮m (n ⫽
+20, p ⬍ 0.05) (fig. 1, a and b). mitotracker red showed the
+same fragmentation pattern as 123-rhodamine. similar results
+were obtained with the mliv fibroblasts clone gm02525 (not
+shown). as another indicator of mitochondrial fragmentation,
+the numbers of separately identifiable mitochondrial particles/
+cell were analyzed. the average numbers of mitochondria in
+mliv-control fibroblasts were 32.6 ⫾ 3.8 (n ⫽ 11) and 94.5 ⫾
+7.8 (n ⫽ 12, p ⬍ 0.05) in mliv cells (fig. 1b). mitochondrial
+fragmentation in mliv cells was associated not only with an
+increase in numbers of shorter mitochondria but also with a
+depletion of longer mitochondria (see a representative histo-
+gram in fig. 1c).
+mitochondrial fragmentation in mliv fibroblasts cannot be
+explained by differences between proliferation rates of control
+and mliv fibroblasts because our own observations do not
+indicate such a difference. trp-ml1 did not colocalize with
+mitochondria (data not shown) and is therefore unlikely to
+directly regulate mitochondrial length and/or function.
+mitochondrial fragmentation was previously reported in
+post-mitotic myocytes with lipofuscin deposits in lysosomes
+(18, 19, 23, 36), and because mliv is associated with sup-
+pressed lipid degradation in the lysosomal pathway, we hypoth-
+december 22, 2006 • volume 281 • number 51
+journal of biological chemistry 39043
+altered mitochondria in lysosomal storage diseases
+figure 2. mitochondrial fragmentation in control cells after conditions of inhibited lysosomal function
+or autophagocytosis. a and b, confocal images of 1 ␮m 123-rhodamine-stained mitochondria in mliv-control
+and mliii-control cells under control conditions and following long (a) and short (b) treatment with lysosomal
+and autophagy inhibitors. 3-ma was used at 5 mm, and bafilomycin (baf) was used at 0.01 ␮m. c, left panel,
+quantitative analysis of the average lengths of mitochondria in mliv and mliii human fibroblasts after corre-
+sponding cultures. right panel, average number of individual mitochondria in various fibroblast clones. statis-
+tical details are given in the text. *, p ⬍ 0.05 within group.
+sients that might otherwise be dam-
+aging for cells (43–45). mitochon-
+dria are normally organized as
+extended cellular networks, and we
+hypothesized that disruption of this
+network would significantly impair
+mitochondrial ca2⫹ buffering.
+to test [ca2⫹]i buffering by mito-
+chondria, the cells were stimulated
+with a ca2⫹-mobilizing agonist,
+bradykinin (bk), and the amount of
+ca2⫹ accumulated in mitochondria
+after completion of the ca2⫹ flux
+was compared. bk activates phos-
+pholipase c␤, generates inositol (1,
+4, 5) trisphosphate, and induces
+both ca2⫹ release for endoplasmic
+reticulum and associated ca2⫹
+influx
+and
+mliv fibroblasts showed normal
+ca2⫹ release and influx (fig. 3a).
+the endoplasmic reticulum ca2⫹
+load in mliv-control and mliv
+fibroblasts was previously analyzed
+using ionomycin and was found to
+be very similar in the two cell types
+(8). therefore, the differences in
+mitochondrial ca2⫹ load described
+below can be directly attributed to
+variations in mitochondrial ca2⫹
+(46). mliv-control
+by 3-ma effectively inhibits starvation-induced autophagy
+(42). to see whether disrupted autophagy could result in mito-
+chondrial changes observed in mliv and mliii fibroblasts, we
+used a pharmacologic inhibitor of autophagy. fig. 2a shows
+that treating mliv-control and mliii-control fibroblasts with
+5 mm 3-ma for 3–4 days induced mitochondrial fragmentation
+similar to that observed in mliv and mliii fibroblasts. aver-
+age mitochondrial lengths of 3-ma-treated mliv-control and
+mliii-control fibroblasts were 32.3 ⫾ 1.7 and 34.7 ⫾ 2.4 ␮m,
+respectively (n ⫽ 20 and 20, p ⬍ 0.05). short, 1-h treatment
+with 3-ma did not induce noticeable mitochondrial fragmen-
+tation (fig. 2, b and c), indicating that 3-ma does not directly
+induce mitochondrial fission. thus, inhibition of autophagocyto-
+sis results in the loss of the extended, filamentous mitochondrial
+network and accumulation of individual, isolated mitochondria as
+observed in mliv and mliii fibroblasts. the number of individ-
+ual mitochondria per cell was also higher in 3-ma-treated control
+fibroblasts than in untreated controls (fig. 2c).
+based on these three series of experiments, we conclude that
+suppression of lysosomal function in lsds results in the accu-
+mulation of isolated, fragmented mitochondria. by analogy
+with lipofuscin-induced mitochondrial fragmentation reported
+by terman et al. (18), we hypothesize that mitochondrial frag-
+mentation in lsds is a result of suppressed autolysosomal deg-
+radation of mitochondria.
+mitochondrial ca2⫹ buffering in mliv—mitochondria are
+involved in ca2⫹ homeostasis because they work as ca2⫹ sinks
+buffering cytoplasmic ca2⫹ and preventing large ca2⫹ tran-
+uptake in control and lsd cells.
+during the [ca2⫹]i spike, some of the ca2⫹ is accumulated by
+mitochondria; this amount can be estimated by releasing mito-
+chondrial ca2⫹ with the mitochondrial uncoupler fccp,
+which collapses mitochondrial membrane potential. when
+applied during ca2⫹ response, 0.1 ␮m fccp induced an
+increase in [ca2⫹]i in 9 of 14 of mliv-control cells (fig. 3a).
+the increase was never seen in mliv fibroblasts (25 cells
+tested). similar results were obtained with gm02525 mliv
+fibroblasts. we conclude that the mitochondrial ca2⫹ buffer-
+ing capacity is markedly reduced in mliv fibroblasts as com-
+pared with mliv-control fibroblasts. to determine whether
+suppressed mitochondrial ca2⫹ accumulation could be a gen-
+eral feature of lsds, we used mliii-control and mliii fibroblasts.
+fig. 3a shows that much like mliv fibroblasts, mliii fibroblasts
+did not release ca2⫹ in response to fccp application during bk-
+inducedca2⫹response,whereasmliii-controlsfdid.thesedata
+represent 11 of 11 mliii-control and 12 of 12 mliii fibroblasts.
+no mitochondrial ca2⫹ accumulation was detected in 20 of 20
+mlii or 10 of 10 cln2 fibroblasts (data not shown).
+because fccp is a h⫹ ionophore, a possibility exists that the
+fccp-induced ca2⫹ release originates, at least partially, from
+lysosomes. to remove this uncertainty, we depleted lysosomal
+ca2⫹ by bursting lysosomes using 100 ␮m glycyl-phenylala-
+nine-naphthylamide. this peptide is cleaved in lysosomes, thus
+exerting osmotic pressure on their membranes. the resulting
+osmotic shock bursts lysosomes and releases lysosomal ca2⫹
+(47, 48). we found that bursting lysosomes with glycyl-phenyl-
+39044 journal of biological chemistry
+volume 281 • number 51 • december 22, 2006
+altered mitochondria in lysosomal storage diseases
+was equally effective in dissipating
+123-rhodamine mitochondrial stain
+(fig. 3b).
+the fccp-based assay was vali-
+dated by directly measuring mito-
+chondrial ca2⫹ using mitochon-
+drial ca2⫹ indicator rhod2. fig. 3c
+shows that stimulation with bk sig-
+nificantly increases mitochondrial
+ca2⫹ in mliv-control, but not
+mliv cells. although rhod2 may
+pick up cytoplasmic ca2⫹, and cyto-
+plasmic ca2⫹ signals may bias mito-
+chondrial ca2⫹ measurements, the
+amplitudes of ca2⫹ signals induced
+by bk in mliv-control and mliv
+cells were essentially the same (fig.
+3a; see also ref. 8). therefore, the
+difference between ca2⫹ signals
+detected with rhod2 in mliv and
+mliv-control cells is a direct reflec-
+tion of different ca2⫹ uptake by
+mitochondria in these cells. two
+independent approaches demon-
+strate the loss of mitochondrial
+ca2⫹ uptake in mliv fibroblasts.
+the link between lysosomal dys-
+function and mitochondrial ca2⫹
+buffering was further probed using
+mliv-control and mliii-control
+cells in which autophagocytosis or
+lysosomal function was inhibited.
+fig. 4a shows that incubating the
+cells with 5 mm 3-ma or 0.01 ␮m
+bafilomycin for 3 days abolished
+fccp-induced ca2⫹ release. short
+(1 h) exposure to either drug did not
+decrease the mitochondrial ability
+to release ca2⫹ (fig. 4b). similar
+results were obtained with nigericin
+or ammonium chloride used as lyso-
+somal inhibitors (data not shown).
+these data demonstrate that inhib-
+iting lysosomal
+function and/or
+impairs mito-
+autophagocytosis
+chondrial ca2⫹
+accumulation.
+therefore,
+lysosomal
+function in mliv and mliii leads
+to accumulation of dysfunctional
+mitochondria, which are unable to
+efficiently
+cytoplasmic
+ca2⫹. although a prolonged treat-
+ment of the cells with these com-
+pounds may have nonspecific effects, it should be noted that
+such treatments did not have a noticeable effect on bk-induced
+ca2⫹ signal but resulted in a specific mitochondrial phenotype
+that recapitulates mitochondrial abnormalities detected in
+mliv and mliii.
+abnormal
+scavenge
+figure 3. ca2ⴙ signaling and mitochondrial ca2ⴙ accumulation in mliv and mliii cultures. a, ca2⫹ signals
+induced by 1 ␮m bk and 0.1 ␮m fccp were measured in control and lsd-affected fibroblasts using fura-2am.
+please note similar amplitudes of bk-induced ca2⫹ responses in control and lsd-affected cells and a lack of
+fccp-induced mitochondrial ca2⫹ release in lsd-affected cells. the results are representative of 10 or more
+experiments. b, confocal experiments demonstrating that mitochondria in mliv and mliv-control fibroblasts
+are equally accessible to fccp. note dissipation of 1 ␮m 123-rhodamine mitochondrial stain in fccp treatments
+indicating depolarization of mitochondria. c, ca2⫹ accumulation in mitochondria during bk-induced response
+recorded using rhod2 dye. the figure represents two trials, with five images for each condition, 2–5 cells each.
+figure 4. loss of mitochondrial ca2ⴙ accumulation in control cells treated with autophagocytosis and
+lysosomal inhibitors. fccp-induced ca2⫹ responses in (top panels) mliv-control and (bottom panels) mliii-
+control fibroblasts treated with 5 mm 3-ma or 0.01 ␮m bafilomycin for 3 days (a) or 1 h (b). bk was used at 1 ␮m,
+and fccp was used at 0.1 ␮m. five micromolar fura-2am was used to measure [ca2⫹]i. the panels represent 5–7
+independent experiments.
+alanine-naphthylamide released lysosomal ca2⫹ into the cyto-
+plasm but did not affect fccp-induced ca2⫹ release (data not
+shown). therefore, fccp-induced ca2⫹ release originates
+largely or entirely from mitochondria. fccp has equal access to
+mitochondria in mliv-control and mliv fibroblasts because it
+december 22, 2006 • volume 281 • number 51
+journal of biological chemistry 39045
+altered mitochondria in lysosomal storage diseases
+ptotic phenotype. afte r 3 h ofstim-
+ulation with bk, the percentage of
+annexin v-positive cells was 4.6 ⫾
+1.9% in mliv-control fibroblasts
+and 18.4 ⫾ 3.9% (n ⫽ 10 and 10, p ⬍
+0.05) in mliv fibroblasts, a statisti-
+cally significant difference (fig. 5a).
+a similar response was observed
+using the dapi and tunel assays
+(fig. 5a). these data indicate
+increased sensitivity of mliv fibro-
+blasts to apoptotic stimuli brought
+about by ca2⫹-mobilizing agonists.
+mliii fibroblasts were also more
+sensitive to bk-induced apoptosis
+than were mliii-control cells (fig.
+5b). it was only after a 16-h expo-
+sure to bk that apoptosis rates in
+control cells approached the levels
+detected in lsds.
+two lines of experiments con-
+firmed that bk-induced apoptosis in
+lsd-affected cells is mediated by
+ca2⫹. first, thapsigargin, a plant
+alkaloid that blocks endoplasmic
+reticulum ca2⫹ pump and thus
+releases the ca2⫹ stored in the
+reticulum without
+endoplasmic
+activating phospholipase c (54), also induced apoptosis in
+mliv, but not in mliv-control fibroblasts (fig. 5c). second,
+bk-induced apoptosis was abolished by incubating the cells
+with a cell-permeable form of the ca2⫹ chelator bapta,
+bapta-am (fig. 5d). at a 30 ␮m concentration, bapta-am
+inhibited bk-induced ca2⫹ transients and bk-induced apopto-
+sis in mliv fibroblasts. in two separate experiments, stimula-
+tion of mliv fibroblasts with bk for 1 h increased apoptosis
+from 5.5 ⫾ 1.6% (n ⫽ 10) to 18.0 ⫾ 6.6% (n ⫽ 10, p ⬍ 0.05) in the
+absence of bapta-am, whereas in the presence of bapta-
+am, apoptosis increased from 3.2 ⫾ 1.8% (n ⫽ 10) only to 4.5 ⫾
+2.0% (n ⫽ 10, not significant) as determined by annexin v assay.
+staurosporin (sta), is known to enhance the rate of ca2⫹-
+induced apoptosis by inhibiting protein kinase c, a regulator of
+ca2⫹ signals (55, 56). we found that similar to bk-stimulated
+cells, apoptotic rates are higher in mliv fibroblasts treated
+with 0.1 ␮m sta than in sta-treated mliv-control fibroblasts
+(see fig. 7a) as determined by dapi staining.
+to test whether the cell stress induced by ca2⫹ stimulation
+involves liberation of cytc from mitochondria and apoptosis
+by a caspase-9-dependent scenario, we stained untreated and
+stimulated cells with antibodies specific to the native form of
+cytc (clone 6h2) and analyzed their cellular localization in
+control and treated cells. the cells were incubated with the
+drugs for 1–3 h, and cytc translocation was surveyed using
+confocal immunocytochemistry. neither bk nor 0.l ␮m sta
+caused a noticeable change in the cytc localization pattern
+(fig. 6a). at the same time, 0.25 mm h2o2, which is used to
+induce apoptosis by liberating cytc, changed cytc appearance
+from the highly compartmentalized pattern detected in
+figure 5. apoptosis in control, mliv, and mliii fibroblasts induced by ca2ⴙ-mobilizing agonists.
+a, apoptosis induced by 1 ␮m bk was measured in mliv-control (ctrl) and mliv cells using three different assays:
+dapi, annexin v, and tunel. statistical details are given in the text. b, apoptosis in mliii-control and mliii cells
+after stimulation with 1 ␮m bk was analyzed using dapi. c, calcium release induced by 3 ␮m thapsigargin (tg)
+was measured by fura-2am (left panel) and associated apoptosis rates (right panel) were assessed afte r 1 h of
+thapsigargin treatment using dapi staining in mliv and mliv-control cells. apoptosis percentages show that
+cell death occurs to a greater extent in patient cells treated with tg than in mliv-control cells. the results are
+representative of three independent experiments. d, left panel, fura-2am experiments demonstrating bapta-
+am-induced blockade of ca2⫹ spike induced by 1 ␮m bk. the results are representative of six experiments in
+mliv-control and mliv cells. right panel, quantitative analysis of apoptosis induced by a 3-h treatment with 1
+␮m bk in mliv fibroblasts with and without 30 ␮m bapta-am. statistical details are given in the text. *, p ⬍ 0.05
+within group.
+apoptosis—mitochondria are major players in apoptosis
+because they release cytochrome c (cytc) that triggers the
+caspase-9-dependent branch of apoptosis and because their
+ca2⫹-buffering function regulates apoptotic events triggered
+by ca2⫹ (49–51). bearing this in mind, we tested whether
+decreased mitochondrial ca2⫹ buffering function in mliv
+translates into increased cell death rates for cells stimulated
+with ca2⫹-mobilizing agonists. apoptosis rates were estimated
+using three different apoptosis markers: nuclear morphology
+visualized using dapi stain, phosphatidylserine translocation
+to the outer layer of the plasma membrane visualized using
+fluorescein isothiocyanate-conjugated annexin v, and dna
+fragmentation visualized using tunel assays. the stained
+cells were analyzed using either a fluorescence imaging system
+or a confocal microscope; the percentage of apoptotic cells was
+calculated as the ratio of cells displaying apoptotic characteris-
+tics to the total number of cells in the field of view. five to seven
+images were taken in each trial with 5–25 cells each.
+in the first set of assays, mliv-control and mliv fibroblasts
+were stimulated with 1 ␮m bk for 1–16 h and assayed for apo-
+ptosis rates. there was some degree of variability to the exact
+values yielded by these assays, which has been previously
+observed (52, 53). nonetheless, the three assays demonstrated
+the same trend: under control conditions, the percentage of
+mliv cells undergoing apoptosis was not statistically different
+from mliv-control fibroblasts (fig. 5a). however, when stim-
+ulated with 1 ␮m bk for 1–3 h, mliv fibroblasts showed dra-
+matically increased apoptosis rates as compared with control
+cells (fig. 5a). specifically, in annexin v assays, 2–4% of
+untreated mliv-control and mliv fibroblasts displayed apo-
+39046 journal of biological chemistry
+volume 281 • number 51 • december 22, 2006
+altered mitochondria in lysosomal storage diseases
+fluorogenic substrate of caspase-8,
+z-ietd-afc. its fluorescent group,
+afc, is quenched until the polypep-
+tide is cleaved by caspase-8 (35).
+after the cleavage, the fluorescent
+group can be excited by 400-nm
+light to emit at 505 nm. the net flu-
+orescence can be used to estimate
+caspase-8 activity in a given sample.
+to compare caspase-8 activity using
+this assay, untreated and bk-stimu-
+lated mliv-control and mliv
+fibroblasts were homogenized, and
+the protein loads were normalized
+between the samples. fluorescence
+readings were taken before and 30
+min after the addition of the fluoro-
+genic substrate. four independent
+experiments showed an increase in
+fluorescence in bk-treated mliv
+cells, which was significantly higher
+than that detected in bk-treated
+mliv-control cells (fig. 7b). there-
+fore, we conclude that ca2⫹ stimulation activates caspase-8 in
+mliv fibroblasts.
+although the 0.1 ␮m sta elicited caspase-8-dependent apo-
+ptosis in these cells, higher concentrations of sta (1 ␮m) are
+typically used to induce apoptosis by a caspase-9-dependent
+pathway. at this higher dose, sta-induced cell death rates were
+essentially the same in mliv-control and mliv fibroblasts
+(65.0 ⫾ 6.1% and 69.1 ⫾ 5.4%, respectively, n ⫽ 3 independent
+experiments). thus, the enhanced sensitivity of mliv fibroblasts
+is specifically manifested through ca2⫹-induced, caspase-8-
+dependent pathways rather than via oxidative stress- or caspase-
+9-dependent pathways.
+discussion
+mechanisms of cell death in lsds are not well understood,
+and the lack of a mliv mouse model impedes elucidation of the
+pathways that lead to cellular death in this disease. although
+psychomotor retardation is a major consequence of mliv,
+trp-ml1 is ubiquitously expressed, and the degenerative pro-
+cesses are not limited to the brain but are also documented in
+cornea, retina, skeletal muscles, pituitary gland, and other tis-
+sues (11, 16, 57). indeed corneal opacification and retinal
+degeneration are often the presenting symptoms. given the
+similarity between fibroblasts and corneal keratinocytes and
+the availability of fibroblasts isolated from patients with muco-
+lipodoses, we selected these cells as an initial model system to
+dissect mechanisms of cell death in mliv.
+we found that mitochondria in mliv fibroblasts are frag-
+mented and hampered in ca2⫹ buffering capacity. because
+mliv is a lysosomal storage disease, we suggested that these
+aberrations were due to inefficient autophagocytosis and recy-
+cling of effete mitochondria (19, 23). our idea is supported by
+the fact that every aspect of the mitochondrial phenotype
+observed in mliv fibroblasts has been observed in three unre-
+lated lysosomal storage disease systems (mliii, mlii, and
+figure 6. cytc translocation is not involved in bk-induced apoptosis in mliv fibroblasts. a, confocal
+images of cytc visualized using anti-cytc antibodies clone 6h2 under control (ctrl) conditions and following
+cell stimulation with 1 ␮m bk, low (0.1 ␮m) sta, or 0.25 mm h2o2. the figure is representative of three trials
+consisting of five images with 3–10 cells each. b, western blot analysis with cytc antibodies clone 6h2.b4
+demonstrating abundant cytc translocation in h2o2-treated cells, which was much less robust in bk-treated
+mliv cells. c, apoptotic response of mliv and mliv-control cells challenged with h2o2 was measured using
+dapi assay. mab, monoclonal antibody; mito, mitochondrial; cyto, cytoplasmic.
+untreated cells to a smooth stain pattern associated with cyto-
+plasmic localization of cytc (fig. 6a). high concentrations of
+sta also changed the cytc localization pattern (not shown).
+similar results were obtained using western blotting analysis
+of cytoplasmic and mitochondrial cytc. untreated and stimu-
+lated mliv-control and mliv fibroblasts were homogenized,
+and unbroken cells and nuclei were separated by centrifugation
+at 700 ⫻ g in the presence of protease inhibitors. the mitochon-
+drial fraction was then isolated by centrifugation at 5,000 ⫻ g,
+and mitochondrial and cytoplasmic fractions were analyzed
+using sds-page and western blotting with cytc antibodies
+(clone 6h2). fig. 6b shows that h2o2 increased the levels of
+cytc in cytoplasm of mliv cells, whereas bk-induced cytc
+translocation was less pronounced.
+it is important to note that h2o2 is equally efficient in induc-
+ing apoptosis in mliv-control, mliii-control, mlivl, and
+mliii fibroblasts (fig. 6c). therefore, oxidative stress- and
+ca2⫹-induced cell death likely involves different pathways in
+our system, and the consequences of altered mitochondrial
+morphology specifically impact survival-death mechanisms
+involving ca2⫹ buffering.
+the mechanism of cell death was further probed using
+caspase-3/7, -8, and -9 inhibitors and fluorogenic substrates.
+our assumption was that if the cell death pathway triggered by
+bk and sta is, indeed, apoptosis, it should be sensitive to the
+inhibitors of the downstream executioner caspase-3. this idea
+proved to be correct. pretreatment of cells with cell-permeable
+caspase-3 inhibitor abolished bk- and sta-induced apoptosis in
+both mliv-control and mliv fibroblasts (fig. 7a). impor-
+tantly, both bk- and 0.1 ␮m sta-induced apoptotic responses
+were also abolished by inhibition of caspase-8, suggesting that a
+caspase-8-dependent mechanism mediates ca2⫹-induced cell
+death in mliv fibroblasts.
+to further confirm the involvement of caspase-8 in apoptosis
+induced by ca2⫹ stimulation of mliv fibroblasts, we used a
+december 22, 2006 • volume 281 • number 51
+journal of biological chemistry 39047
+altered mitochondria in lysosomal storage diseases
+figure 7. mechanisms of apoptosis in control and mliv fibroblasts.
+a, analysis of 1 ␮m bk- and 0.1 ␮m sta-induced apoptosis under control con-
+ditions or under conditions of caspase-3/7, -8, or -9 inhibition. the cells were
+pretreated with caspase-3/7 (30 ␮m), caspase-8 (20 ␮m), or caspase-9 (20 ␮m)
+cell-permeable inhibitors at 37 °c for 30 min before treatment with apoptosis
+stimulus. it is evident that inhibition of caspase-9 has no effect on the rate of
+apoptosis when cells are stimulated with ca2⫹-releasing agonists and can be
+excluded as the caspase that mediates ca2⫹-induced apoptosis in mliv cells.
+the results are representative of five experiments; *, p ⬍ 0.05 within group.
+b, fluorogenic substrate assay demonstrating caspase-8 activation in bk-stim-
+ulated mliv, but not mliv-control fibroblasts. experimental details are given
+in the text. the figure represents four individual trials.
+cln2). furthermore, control fibroblasts express similar mito-
+chondrial dysmorphology and corrupted function when auto-
+phagocytosis or lysosomal function is inhibited. thus, we estab-
+lished a lysosomal-mitochondrial connection in mliv, and
+possibly, in other lysosomal storage diseases: depressed lysoso-
+mal function inhibits autophagic turnover of aged and/or dam-
+aged mitochondria, which in turn results in accumulation of
+dysfunctional mitochondria and increased susceptibility to
+ca2⫹ toxicity.
+it is possible that accumulation of short, fragmented mito-
+chondria could result from the failure of mitochondria to fuse
+(24), potentially related to lipid deficiencies in cells affected by
+mliv. on the other hand, the similarity between our system
+and the aged post-mitotic cells with lipofuscin accumulation as
+well as the fact that mitochondrial fragmentation can be repro-
+duced in control cells by lysosomal or autophagy inhibitors sup-
+port our interpretation that mitochondrial abnormalities
+detected in our system are the result of inhibited autophagocy-
+tosis of effete mitochondria.
+additional data further implicate abnormalities in autoph-
+agy in mliv fibroblasts. autophagy can be monitored by the
+redistribution of microtubule-associated protein light chain 3
+(lc3, also known as autophagy gene 8, atg8) from a perinuclear
+position to the nascent autophagosome membrane (58–60).
+we used immunofluorescence to study the dynamics of lc3
+translocation in untreated, starved, and refed cells. in our
+experiments, lc3-positive immunofluorescence was primarily
+located in the perinuclear area of untreated mliv and mliv-
+control cells (supplemental fig. s1, left column). a 1-h starva-
+tion induced translocation of lc3-positive stain into cyto-
+plasm, where it was associated with numerous puncta,
+presumably autophagosomes (supplemental fig. s1, middle
+column). refeeding control fibroblasts for 3 h restored perinu-
+clear lc3 localization. at the same time, clumps of lc3 stain
+were retained in the cytoplasm of refed mliv fibroblasts (sup-
+plemental fig. s1, right column). these results suggest that
+although autophagic sequestration commences normally in
+both mliv and mliv-control fibroblasts, completion of the
+degradation process is impaired/delayed in mliv fibroblasts.
+another autophagy marker, mdc (61) confirmed this trend.
+nearly all mliv-control cells and a majority of untreated mliv
+cells displayed smooth cytoplasmic mdc signals (supplemen-
+tal fig. s2, left column). however, a large fraction of mliv
+fibroblasts showed punctate mdc localization similar to that
+shown in the middle column in supplemental fig. s2. both star-
+vation and mitochondrial damage induce the transformation of
+mdc stain into a punctate morphology shown to be associated
+with autophagosomes (61, 62). in our system starvation elicits
+punctate mdc staining (supplemental fig. s2, middle column).
+the punctate mdc stain was completely abolished by refeed-
+ing of mliv-control fibroblasts but was largely retained in
+refed mliv fibroblasts (supplemental fig. s2, right column).
+again, generation of autophagosomes seems to commence at
+similar rates after starvation in both mliv and mliv-control
+cells, but completion of autophagy seems to be delayed in mliv
+cells. these data further support the model that abnormal auto-
+phagy in mliv contributes to accumulation of dysfunctional
+mitochondria.
+mitochondria are well known to regulate apoptosis by buff-
+ering ca2⫹ and by releasing cytc. one of the better known
+connections between mitochondria, apoptosis, and ca2⫹ has
+been documented in neurons, where it has been convincingly
+shown that mitochondrial ca2⫹ overload during prolonged
+ca2⫹ stimulation destabilizes mitochondrial membranes and
+releases cytc (reviewed in ref. 63). in fact, inhibition of mito-
+chondrial ca2⫹ uptake by fccp has been shown to have a neu-
+roprotective effect (64). our results prompt a complimentary
+model, in which pro-apoptotic effects of ca2⫹ may also manifest
+under conditions of suppressed ca2⫹ uptake by mitochondria.
+interestingly, although the cell death induced by mitochondrial
+ca2⫹ overload involves the “intrinsic,” caspase-9-dependent path-
+39048 journal of biological chemistry
+volume 281 • number 51 • december 22, 2006
+way (63), we found that the caspase-8-dependent pathway exe-
+cutes ca2⫹-dependent apoptosis in the fibroblasts of mliv
+patients. based on the fact that mitochondria in cells affected by
+lsds are deficient in ca2⫹ uptake function, we hypothesize
+that in this situation, ca2⫹ exerts its pro-apoptotic effects in
+the cytoplasm, perhaps in the immediate proximity of
+mitochondria.
+the perimitochondrial ca2⫹-sensitive elements that activate
+caspase-8 in our system remain to be identified. however, this
+is not an unprecedented suggestion; recently, it has been shown
+that the ca2⫹-sensitive protease calpain-10 localizes to mito-
+chondria (65). notably, calpain-cleaved forms of caspase-8 are
+active, whereas calpain-cleaved caspase-9 is inactive (66),
+which concurs with our findings that apoptosis induced in
+mliv and mliii fibroblasts by bk involves caspase-8, not
+caspase-9.
+autophagosome-rich forms of cell death elicited by other
+stimuli have also been reported to occur through caspase-8
+rather than caspase-9-dependent pathways (67, 68). although
+the term autophagic cell death or type ii programmed cell death
+has been used to describe this morphology, it is controversial
+whether the increased autophagy contributes to cell death or
+represents a failed compensatory reaction (20–22, 69, 70).
+to summarize, we observed a common mitochondrial phe-
+notype in mliv, mliii, and other lsds, namely accumulation
+of fragmented mitochondria with impaired calcium buffering
+capacity. these changes could be recapitulated in control fibro-
+blasts treated with inhibitors of autolysosomal degradation,
+implicating a role for impaired recycling of effete mitochondria.
+moreover, accumulation of abnormally fragmented mitochon-
+dria was associated with ineffective mitochondrial ca2⫹ home-
+ostasis and increased susceptibility to apoptosis induced by
+ca2⫹ mobilizing agents. in particular, a pathway of caspase-8-
+dependent apoptosis is implicated in degenerative cell death
+associated with mliv.
+acknowledgments—we thank drs. ian reynolds, michael palladino,
+shmuel muallem, and randen patterson for fruitful discussion.
+references
+1. mach, l. (2002) biol. chem. 383, 751–756
+2. mancini, g. m., havelaar, a. c., and verheijen, f. w. (2000) j. inherit.
+metab. dis. 23, 278–292
+3. slaugenhaupt, s. a. (2002) curr. mol med. 2, 445–450
+4. bargal, r., and bach, g. (1989) clin. chim. acta 181, 167–174
+5. bach, g., and desnick, r. j. (1988) enzyme 40, 40–44
+6. bach, g. (2005) pfluegers arch. eur. j. physiol. 451, 313–317
+7. kiselyov, k., chen, j., rbaibi, y., oberdick, d., tjon-kon-sang, s., shchey-
+nikov, n., muallem, s., and soyombo, a. (2005) j. biol. chem. 280,
+43218–43223
+8. soyombo, a. a., tjon-kon-sang, s., rbaibi, y., bashllari, e., bisceglia, j.,
+muallem, s., and kiselyov, k. (2006) j. biol. chem. 281, 7294–7301
+9. fares, h., and greenwald, i. (2001) nat. genet. 28, 64–68
+10. laplante, j. m., ye, c. p., quinn, s. j., goldin, e., brown, e. m., slaugen-
+haupt, s. a., and vassilev, p. m. (2004) biochem. biophys. res. commun.
+322, 1384–1391
+11. altarescu, g., sun, m., moore, d. f., smith, j. a., wiggs, e. a., solomon,
+b. i., patronas, n. j., frei, k. p., gupta, s., kaneski, c. r., quarrell, o. w.,
+slaugenhaupt, s. a., goldin, e., and schiffmann, r. (2002) neurology 59,
+306–313
+26. lee, y. j., jeong, s. y., karbowski, m., smith, c. l., and youle, r. j. (2004)
+27. yoon, y., krueger, e. w., oswald, b. j., and mcniven, m. a. (2003) mol.
+28. james, d. i., parone, p. a., mattenberger, y., and martinou, j. c. (2003)
+mol. biol. cell 12, 2245–2256
+mol. biol. cell 15, 5001–5011
+cell. biol. 23, 5409–5420
+j. biol. chem. 278, 36373–36379
+j. cell biol. 170, 1067–1078
+altered mitochondria in lysosomal storage diseases
+12. chitayat, d., meunier, c. m., hodgkinson, k. a., silver, k., flanders, m.,
+anderson, i. j., little, j. m., whiteman, d. a., and carpenter, s. (1991)
+am. j. med. genet. 41, 313–318
+13. frei, k. p., patronas, n. j., crutchfield, k. e., altarescu, g., and schiffmann,
+r. (1998) neurology 51, 565–569
+14. folkerth, r. d., alroy, j., lomakina, i., skutelsky, e., raghavan, s. s., and
+kolodny, e. h. (1995) j. neuropathol. exp. neurol. 54, 154–164
+15. tardy, c., andrieu-abadie, n., salvayre, r., and levade, t. (2004) neuro-
+16. lubensky, i. a., schiffmann, r., goldin, e., and tsokos, m. (1999) am. j.
+chem. res. 29, 871–880
+surg. pathol. 23, 1527–1531
+17. schiffmann, r., dwyer, n. k., lubensky, i. a., tsokos, m., sutliff, v. e.,
+latimer, j. s., frei, k. p., brady, r. o., barton, n. w., blanchette-mackie,
+e. j., and goldin, e. (1998) proc. natl. acad. sci. u. s. a. 95, 1207–1212
+18. terman, a., dalen, h., eaton, j. w., neuzil, j., and brunk, u. t. (2004) ann.
+n. y. acad. sci. 1019, 70–77
+19. brunk, u. t., and terman, a. (2002) eur. j. biochem. 269, 1996–2002
+20. uchiyama, y. (2001) arch. histol. cytol. 64, 233–246
+21. bursch, w. (2001) cell death differ. 8, 569–581
+22. lockshin, r. a., and zakeri, z. (2004) int. j. biochem. cell biol. 36,
+23. terman, a., dalen, h., eaton, j. w., neuzil, j., and brunk, u. t. (2003) exp.
+24. chen, h., and chan, d. c. (2005) hum. mol. genet. 14, (suppl. 2)
+2405–2419
+gerontol. 38, 863–876
+r283–r289
+25. smirnova, e., griparic, l., shurland, d. l., and van der bliek, a. m. (2001)
+29. niemann, a., ruegg, m., la padula, v., schenone, a., and suter, u. (2005)
+30. harder, z., zunino, r., and mcbride, h. (2004) curr. biol. 14, 340–345
+31. karbowski, m., and youle, r. j. (2003) cell death differ. 10, 870–880
+32. skulachev, v. p. (2001) trends biochem. sci 26, 23–29
+33. jolly, r. d., brown, s., das, a. m., and walkley, s. u. (2002) neurochem.
+34. schaheen, l., dang, h., and fares, h. (2006) dev. biol. 293, 382–391
+35. karahashi, h., and amano, f. (2000) biol. pharm. bull. 23, 140–144
+36. stroikin, y., dalen, h., brunk, u. t., and terman, a. (2005) biogerontology
+int. 40, 565–571
+6, 39–47
+37. sleat, d. e., wiseman, j. a., el-banna, m., kim, k. h., mao, q., price, s.,
+macauley, s. l., sidman, r. l., shen, m. m., zhao, q., passini, m. a.,
+davidson, b. l., stewart, g. r., and lobel, p. (2004) j. neurosci. 24,
+9117–9126
+38. lin, l., and lobel, p. (2001) biochem. j. 357, 49–55
+39. jin, s., zhang, b., weisz, o. a., and montelaro, r. c. (2005) j. virol. 79,
+14489–14497
+chem. 270, 3778–3786
+40. zhao, m., antunes, f., eaton, j. w., and brunk, u. t. (2003) eur. j. bio-
+41. winchester, b. g. (2001) eur. j. paediatr. neurol. 5, (suppl. a) 11–19
+42. stroikin, y., dalen, h., loof, s., and terman, a. (2004) eur j. cell biol. 83,
+43. boitier, e., rea, r., and duchen, m. r. (1999) j. cell biol. 145, 795–808
+44. monteith, g. r., and blaustein, m. p. (1999) am. j. physiol. 276,
+583–590
+c1193–c1204
+45. parekh, a. b. (2003) j. physiol. 547, 333–348
+46. broad, l. m., braun, f. j., lievremont, j. p., bird, g. s., kurosaki, t., and
+putney, j. w., jr. (2001) j. biol. chem. 276, 15945–15952
+47. haller, t., dietl, p., deetjen, p., and volkl, h. (1996) cell calcium 19,
+48. srinivas, s. p., ong, a., goon, l., and bonanno, j. a. (2002) investig. oph-
+thalmol. vis. sci. 43, 2341–2350
+49. smaili, s. s., hsu, y. t., youle, r. j., and russell, j. t. (2000) j. bioenerg.
+biomembr. 32, 35–46
+157–165
+december 22, 2006 • volume 281 • number 51
+journal of biological chemistry 39049
+altered mitochondria in lysosomal storage diseases
+50. jiang, x., and wang, x. (2004) annu. rev. biochem. 73, 87–106
+51. szabadkai, g., and rizzuto, r. (2004) febs lett. 567, 111–115
+52. overbeeke, r., steffens-nakken, h., vermes, i., reutelingsperger, c., and
+60. asanuma, k., tanida, i., shirato, i., ueno, t., takahara, h., nishitani, t.,
+kominami, e., and tomino, y. (2003) faseb j. 17, 1165–1167
+61. gutierrez, m. g., munafo, d. b., beron, w., and colombo, m. i. (2004)
+haanen, c. (1998) apoptosis 3, 115–121
+53. aubry, j. p., blaecke, a., lecoanet-henchoz, s., jeannin, p., herbault, n.,
+caron, g., moine, v., and bonnefoy, j. y. (1999) cytometry 37, 197–204
+54. takemura, h., hughes, a. r., thastrup, o., and putney, j. w., jr. (1989)
+j. biol. chem. 264, 12266–12271
+55. andersson, m., sjostrand, j., petersen, a., honarvar, a. k., and karlsson,
+j. o. (2000) investig. ophthalmol. vis. sci. 41, 2623–2632
+56. montero, m., lobaton, c. d., gutierrez-fernandez, s., moreno, a., and
+in press
+alvarez, j. (2003) j. biol. chem. 278, 49972–49979
+57. bach, g. (2001) mol. genet. metab. 73, 197–203
+58. tanida, i., ueno, t., and kominami, e. (2004) int. j. biochem. cell biol. 36,
+2503–2518
+59. kabeya, y., mizushima, n., ueno, t., yamamoto, a., kirisako, t., noda,
+t., kominami, e., ohsumi, y., and yoshimori, t. (2000) embo j. 19,
+5720–5728
+j. cell sci. 117, 2687–2697
+(2006) am. j. pathol., in press
+62. zhu, j., horbinski, c., guo, f., watkins, s., uchiyama, y., and chu, c. t.
+63. polster, b. m., and fiskum, g. (2004) j. neurochem. 90, 1281–1289
+64. stout, a. k., raphael, h. m., kanterewicz, b. i., klann, e., and reynolds, i. j.
+(1998) nat. neurosci. 1, 366–373
+65. arrington, d., van vleet, t., and schnellmann, r. (2006) am. j. physiol.,
+66. chua, b. t., guo, k., and li, p. (2000) j. biol. chem. 275, 5131–5135
+67. persaud-sawin, d. a., and boustany, r. m. (2005) apoptosis 10, 973–985
+68. thorburn, j., moore, f., rao, a., barclay, w. w., thomas, l. r., grant,
+k. w., cramer, s. d., and thorburn, a. (2005) mol. biol. cell 16,
+1189–1199
+69. gozuacik, d., and kimchi, a. (2004) oncogene 23, 2891–2906
+70. chu, c. t. (2006) j. neuropathol. exp. neurol. 65, 423–432
+39050 journal of biological chemistry
+volume 281 • number 51 • december 22, 2006
+molecular basis of cell and
+developmental biology:
+mitochondrial aberrations in
+mucolipidosis type iv
+  
+john j. jennings, jr., jian-hui zhu, youssef
+rbaibi, xiang luo, charleen t. chu and 
+kiselyov
+j. biol. chem. 
+doi: 10.1074/jbc.m607982200 originally published online october 20, 2006
+2006, 281:39041-39050.
+kirill
+10.1074/jbc.m607982200
+access the most updated version of this article at doi: 
+  
+find articles, minireviews, reflections and classics on similar topics on the 
+  
+alerts: 
+•  
+•  
+  
+when this article is cited
+when a correction for this article is posted
+jbc affinity sites
+click here
+ to choose from all of jbc's e-mail alerts
+supplemental material:
+http://www.jbc.org/content/suppl/2006/10/23/m607982200.dc1.html
+  
+this article cites 67 references, 24 of which can be accessed free at
+http://www.jbc.org/content/281/51/39041.full.html#ref-list-1
+  

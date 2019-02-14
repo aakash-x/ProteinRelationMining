@@ -1,0 +1,916 @@
+the journal of biological chemistry vol. 281, no. 47, pp. 36187–36197, november 24, 2006
+© 2006 by the american society for biochemistry and molecular biology, inc. printed in the u.s.a.
+evaluation of the roles of apoptosis, autophagy,
+and mitophagy in the loss of plating efficiency
+induced by bax expression in yeast*
+received for publication, august 4, 2006, and in revised form, september 18, 2006 published, jbc papers in press, september 21, 2006, doi 10.1074/jbc.m607444200
+ingrid kisˇsˇova´ ‡§1, louis-thomas plamondon¶, louise brisson¶, muriel priault‡, vincent renouf ‡,
+jacques schaeffer‡储, nadine camougrand‡2, and ste´phen manon‡3
+from the ‡umr5095 cnrs/universite´ de bordeaux 2, 1 rue camille saint-sae¨ns, 33077 bordeaux cedex, france, the §department
+of biochemistry, faculty of natural sciences, comenius university, mlynska dolina ch-1, 84215 bratislava, slovak republic,
+the ¶de´partement de biochimie et de microbiologie, universite´ laval, que´bec g1k 7p4, canada, and the 储service commun de
+microscopie, universite´ de bordeaux 2, 146 rue le´o saignat, 33076 bordeaux cedex, france
+we found recently that, in yeast cells, the heterologous
+expression of bax induces a loss of plating efficiency different
+from that induced by acute stress because it is associated with
+the maintenance of plasma membrane integrity (camougrand,
+n., grelaud-coq, a., marza, e., priault, m., bessoule, j. j., and
+manon, s. (2003) mol. microbiol. 47, 495–506). bax effects were
+neither dependent on the presence of the yeast metacaspase
+yca1p and the apoptosis-inducing factor homolog nor associ-
+ated with the appearance of typical apoptotic markers such as
+metacaspase activation, annexin v binding, and dna cleavage.
+yeast cells expressing bax instead displayed autophagic fea-
+tures, including increased accumulation of atg8p, activation
+of vacuolar alkaline phosphatase, and the presence of auto-
+phagosomes and autophagic bodies. however, the inactiva-
+tion of autophagy did not prevent and actually slightly accel-
+erated bax-induced loss of plating efficiency. on the other
+hand, bax expression induced a fragmentation of the mito-
+chondrial network, which retained, however, some level of
+organization in wild-type cells. however, when expressed in
+cells inactivated for the gene uth1, previously shown to be
+involved in mitophagy, bax induced a complete disorganiza-
+tion of the mitochondrial network. interestingly, although
+mitochondrially targeted green fluorescent protein was
+slowly degraded in the wild-type strain, it remained unaf-
+fected in the mutant. furthermore, the slow loss of plating
+efficiency in the mutant strain correlated with a loss of
+plasma membrane integrity. these data suggest that bax-in-
+duced loss of growth capacity is associated with maintenance
+of plasma membrane integrity dependent on uth1, suggest-
+* this work was supported in part by grants from cnrs, the universite´ de
+bordeaux 2, and the conseil re´gional d’aquitaine (to umr5095); by sci-
+ence and technology assistance agency grant apvt-20-012404 (to i. k.);
+and by association pour la recherche contre le cancer grant 3812 (to
+s. m.). the france/slovakia collaboration was supported by e´gide eco-net
+10187vf (to s. m.). the costs of publication of this article were defrayed in
+part by the payment of page charges. this article must therefore be hereby
+marked “advertisement” in accordance with 18 u.s.c. section 1734 solely to
+indicate this fact.
+1 recipient of a post-doctoral fellowship from the fondation pour la recher-
+che me´dicale.
+2 to whom correspondence may be addressed. tel.: 33-556-99-9045; fax:
+33-556-99-9051; e-mail: n.camougrand@ibgc.cnrs.fr.
+3 to whom correspondence may be addressed. tel.: 33-556-99-9045; fax:
+33-556-99-9051; e-mail: stephen.manon@ibgc.cnrs.fr.
+ing that selective degradation of altered mitochondria is
+required for a regulated loss of growth capacity.
+recent data have provided evidence for the existence of dif-
+ferent forms of programmed cell death. in addition to the long
+time established existence of apoptosis in the worm caenorh-
+abditis elegans (1), apoptotic markers associated with loss of
+viability have been observed in various organisms, including
+dictyostelium discoideum (2), leishmania sp. (3), and saccha-
+romyces cerevisiae (4–7). however, apoptosis might not be the
+only process leading to programmed cell death. autophagy, an
+intracellular degradation process normally responsible for cell
+survival under starvation conditions, has been observed fre-
+quently as accompanying the loss of growth capacity in mam-
+malian cells (8–11). moreover, in mammalian cells, data have
+suggested a co-regulation of apoptosis and autophagy, which
+could both participate in cell death (12, 13). these observations
+support the occurrence of cell death associated with autophagy,
+although certain authors consider autophagy to be a cellular
+attempt to survive apoptotic cell death (10, 14–17). the sim-
+pler eukaryotic models d. discoideum and podospora anserina
+have provided the opportunity to demonstrate that autophagy
+inactivation stimulates rather than inhibits the kinetics of
+physiological programmed cell death (18, 19). it has there-
+fore been proposed that, if a low level of autophagy is actually
+responsible for better survival (including apoptosis-deficient
+mammalian cells), an abnormally high level of autophagy
+might be responsible for cell death (9, 13, 20). up to now, the
+deregulation events responsible for uncontrolled autophagic
+activity have not been characterized. the actual role of auto-
+phagy in programmed cell death thus remains unclear, and
+investigators have proposed to describe “programmed cell
+death with autophagy” rather than “autophagic programmed
+cell death” (21, 22).
+the yeast s. cerevisiae is the organism in which autophagy
+has been best genetically characterized (23–25). of note, pro-
+teins involved in autophagy (encoded by atg genes) are widely
+conserved in mammals and plants, suggesting that their func-
+tion is part of the basic processes of life (26, 27). this situation
+contrasts with apoptosis, for which key regulators, including
+proteins of the bcl-2 family, are lacking in yeast cells. this
+november 24, 2006 • volume 281 • number 47
+journal of biological chemistry 36187
+bax-induced cell death in yeast
+absence has made yeast a useful tool to investigate the function
+of some of these proteins because, when expressed in yeast, they
+conserve their molecular effects at the level of mitochondria,
+making it possible to test their function independently of each
+other (28). this utilization of yeast as a “living test tube” has
+provided new information concerning the molecular aspects of
+pro-apoptotic bax protein function, further confirmed by
+experiments in mammalian cells (29–32). in yeast, the pro-
+apoptotic bax protein can be translocated to the outer mito-
+chondrial membrane to form a high conductance channel (33)
+and to allow cytochrome c release (32, 34). other bcl-2 family
+members such as anti-apoptotic bcl-xl and bh3 (bcl-2 homol-
+ogy 3) domain-only truncated bid also retain their regulatory
+effect over bax function (29, 32, 35–37).
+the expression of the human pro-apoptotic bax protein in
+yeast induces growth arrest and loss of plating efficiency (35,
+36). this observation supports the hypothesis that a primitive
+form of apoptosis exists in yeast (38–40). however, the corre-
+lation between bax-induced release of cytochrome c and bax-
+induced loss of plating efficiency is unclear. indeed, the expres-
+sion of bax-c-myc induces a loss of plating efficiency in a
+cytochrome c-less mutant, although more slowly than in the
+parental strain (35) and in a strain in which cytochrome c had
+been replaced with the larger and unreleased cytochrome
+c-gfp4 fusion protein (41). for this reason, the existence of
+bax-induced cytochrome c release is not sufficient to assert that
+bax induces apoptosis in yeast, so further evidence is needed.
+we previously identified uth1p, a protein that localizes to
+the outer mitochondrial membrane and that participates in
+selective mitochondrial autophagy (also called mitophagy) (42).
+one of the phenotypes of a mutant strain carrying an inactiva-
+tion of uth1 is a delayed loss of plating efficiency following bax
+expression (43). this suggests that autophagy (and more pre-
+cisely, mitophagy) is part of the bax effects in yeast. in this
+study, our aim was to investigate the role(s) of apoptosis, auto-
+phagy, and mitophagy as a consequence of bax expression in
+yeast.
+experimental procedures
+and pcm184/bax-c-myc,
+strains and plasmids—the construction of plasmids
+pcm189/bax-c-myc
+expressing
+c-myc-tagged human bax under the control of a tet-off pro-
+moter (repressed by the addition of doxycycline), has been
+described previously (35). the mutant ⌬uth1 was constructed
+from the wild-type strain w303-1a by disrupting uth1 with
+trp1 (43). mutants ⌬yca1, ⌬aif1, and ⌬atg5 (constructed from
+the wild-type strain by4742 by disrupting the respective genes
+with kanmx4) and mutants ⌬atg4, ⌬atg5, ⌬atg7, ⌬atg8,
+⌬atg15, and ⌬atg16 (similarly constructed from by4741) were
+provided by euroscarf. the ⌬atg5 mutant was also con-
+structed by transformation of w303-1a with the pcr-ampli-
+fied atg5::kanmx4 cassette and selection for geneticin resist-
+ance. bax repression was obtained by including 10 ␮g/ml
+4 the abbreviations used are: gfp, green fluorescent protein; mtgfp, mito-
+chondrially targeted green fluorescent protein; pi, propidium iodide;
+tunel, terminal deoxynucleotidyltransferase-mediated dutp nick end
+labeling.
+doxycycline in the appropriate culture medium. bax expression
+was triggered by three washes, followed by resuspension in
+fresh medium without doxycycline. western blotting showed
+that the bax expression level reached a plateau after ⬃8 h, fol-
+lowed by immediate growth arrest and loss of plating efficiency
+(see fig. 1). the ura3 plasmid pclbgfp, encoding gfp fused
+to the mitochondrial presequence of citrate synthase under the
+control of the gal1/10 promoter, was described by okamoto
+et al. (44). its his3 counterpart pnc-gfp was constructed by
+swapping the pcr-amplified gal1/10-mtgfp cassette from
+pclbgfp with prs313. replacement of pho8 with pho8⌬60
+was done by transforming the cells with a hindiii fragment
+from plasmid ptn9 and by selecting the colonies as described
+by noda et al. (45). the construction of plasmids pdp34/bcl-2
+and pfl39/bcl-xl, expressing full-length human bcl-2 and bcl-
+xl, respectively, under the control of the gal1/10 promoter,
+has been described previously (36, 46).
+culture media—cells were grown aerobically in ynb
+medium (0.17% yeast nitrogen base without amino acids and
+ammonium sulfate, 0.5% ammonium sulfate, 0.1% potassium
+phosphate, 0.2% drop-mix, and 0.01% auxotrophic require-
+ments, ph 5.5) supplemented with 2% dl-lactate as a carbon
+source. for mtgfp expression, 0.5% galactose was added to the
+medium overnight. doxycycline (solubilized in ethanol; sigma)
+was added at 10 ␮g/ml except where indicated. the nitrogen
+starvation medium was deprived of amino acids and ammo-
+nium sulfate.
+plating efficiency—cells were routinely grown in the pres-
+ence of 10 ␮g/ml doxycycline for bax repression. at time 0, they
+were harvested, washed three times with water, and resus-
+pended at a cell concentration of 106 cells/ml in fresh medium
+without doxycycline (to induce bax expression). they were
+counted at different time intervals and plated onto ypd plates
+(500 cells/plate) supplemented with doxycycline to repress bax
+expression. the number of colonies was counted after 48 h at
+28 °c. alternatively, serial dilutions were plated, and the
+number of living cells in the culture was estimated by count-
+ing the colonies that had grown after 48 h. data are pre-
+sented as the percentage of living cells at time t divided by
+living cells at time 0.
+flow cytometry—caspase activity was measured on whole
+cells with the caspacetm kit (promega corp.) as described by
+madeo et al. (6). labeling with propidium iodide (pi) was done
+by incubating the cells (5 ⫻ 106 cells/ml) in 50 mm citrate/
+phosphate buffer, ph 7.2, containing 1 ␮g/ml pi for 15 min in
+the dark. annexin v/pi co-labeling was done with the apo-
+alerttm kit (clontech) on intact cells or zymolyase-treated cells
+(spheroplasts) as described by madeo et al. (5). tunel assay
+was performed on cells permeabilized and fixed in 70% ethanol
+overnight at 4 °c with a tetramethylrhodamine red in situ cell
+death detection kit (roche applied science).
+fluorescence was measured in a galaxy flow cytometer
+(partec). at least 30,000 cells were counted per run, and all
+experiments were reproduced independently at least five times.
+plasma membrane permeability—in addition to the pi assay
+(see above), plasma membrane permeability was measured as
+the capacity of the cells to accumulate erythrosin b (47). cells
+were incubated at 28 °c for 45 min in the presence of 75 ␮m
+36188 journal of biological chemistry
+volume 281 • number 47 • november 24, 2006
+erythrosin b and observed under a light microscope. cells with
+altered plasma membrane properties accumulated erythrosin b
+and were pink, whereas unaltered cells remained white. parallel
+experiments with pi accumulation and erythrosin b staining
+gave similar results.
+in vitro assays—devdase activity was measured in cell
+extracts (prepared by incubating zymolyase-treated cells with
+0.1% triton x-100 to solubilize cell membranes) using the enz-
+checktm caspase-3 kit (molecular probes) in a xenius spec-
+trofluorometer (safas s.a.) according to the manufacturer’s
+instructions. alkaline phosphatase activity was measured as
+described previously (42) in 1% toluene and 4% ethanol-treated
+cells in the presence of 1 mm phenylmethylsulfonyl fluoride and
+a mixture of protease inhibitors (completetm, roche applied
+science). western blotting was performed on cell extracts pre-
+pared as described previously (42), separated by sds-page,
+and blotted on problotttm (applied biosystems) with primary
+antibodies directed against yeast phosphoglycerate kinase
+(mouse monoclonal, 1:5000; molecular probes), human bax
+(clone n20, rabbit polyclonal, 1:5000; santa cruz biotechnol-
+ogy, inc.), yeast atg8p (goat polyclonal, 1:250; santa cruz bio-
+technology, inc.), human bcl-2 (rabbit polyclonal, 1:1000; cal-
+biochem), and human bcl-x (rabbit polyclonal, 1:1000; santa
+cruz biotechnology, inc.). peroxidase-coupled secondary anti-
+bodies were from jackson immunoresearch laboratories and
+were used at a 1:5000 dilution. peroxidase activity was revealed
+with ecl plustm (amersham biosciences). different exposure
+times were used for quantification of the blots with image j
+software.
+fluorescence and electron microscopy—when used, the
+yeast vacuolar membrane autofluorescent probe fm4-64 (n-
+(3-triethylammoniumpropyl)4-(p-diethylaminophenyl-
+hexatrienyl)pyridinium dibromide; 40 ␮m) was added 4 h prior
+to observation. cells were observed with a leica microsystems
+dm-lb epifluorescence microscope. for electron microscopy,
+yeast pellets were placed on the surface of formvar-coated cop-
+per electron microscope grids (400 mesh). each loop was
+quickly submerged in liquid propane (⫺180 °c) and transferred
+to a precooled solution of 4% osmium tetroxide in dry acetone
+at ⫺82 °c for 48 h for substitution/fixation. samples were grad-
+ually warmed up to room temperature and washed with dry
+acetone. specimens were stained fo r 1 h in 1%uranyl acetate in
+acetone at 4 °c, rinsed, and infiltrated with araldite (epoxy
+resin; fluka). ultrathin sections were stained with lead citrate
+and viewed with a philips tecnai 12 biotwin (120 kv) electron
+microscope.
+results
+bax-induced loss of plating efficiency in yeast is not associ-
+ated with apoptotic markers—we reported previously that, in
+addition to immediate growth inhibition, the expression of bax
+in yeast is followed by a loss of plating efficiency, i.e. bax-ex-
+pressing cells are not able to restart growth even after bax
+expression has been stopped (fig. 1, b and c) (35, 36).
+this loss of growth capacity occurs without any alteration of
+the plasma membrane permeability properties as measured
+with the widely used dna-binding probe pi, which penetrates
+altered cells only. in contrast with the loss of plating efficiency
+bax-induced cell death in yeast
+figure 1. time course of bax expression, loss of plating efficiency, and
+growth arrest following the removal of doxycycline. wild-type w303-1a
+cells containing plasmid pcm189/bax-c-myc were grown in ynb/lactate
+medium in the presence of 10 ␮g/ml doxycycline. at time 0, cells were
+washed and transferred into fresh medium without doxycycline. a, west-
+ern blot analysis of bax expression compared with the loading control
+pgk1p. b, quantification of non-saturated western blots (f). plating effi-
+ciency was measured on ypd medium supplemented with 10 ␮g/ml doxy-
+cycline to stop bax expression. colony growth was checked after 48 h, and
+the plating efficiency (䡺) is expressed as the percentage of the number of
+colonies grown in the presence of bax expression divided by the number
+of colonies grown in the absence of bax expression. c, cell growth meas-
+ured as the absorbance of the cultures at 550 nm.
+induced by ethanol treatment, heat shock, or acute oxidative
+stress (fig. 2a), bax-induced loss of plating efficiency was not
+associated with any increase in pi permeability, even after long
+bax expression (fig. 2b). these data suggest that bax-induced
+loss of growth capacity is a regulated event, unlike the one
+induced by acute stress, which is associated with a dramatic loss
+of membrane integrity.
+to investigate the putative roles of apoptosis in bax effects,
+bax was expressed in two strains with impairment of the apo-
+ptotic program: one lacking metacaspase (⌬yca1 strain) and the
+other lacking the apoptosis-inducing factor homolog (⌬aif1
+strain). of note, the identification of a metacaspase encoded by
+the gene yca1, which is activated by different stimuli (6),
+remains the most compelling argument supporting the exist-
+ence of a primitive form of apoptosis in yeast. the inactivation
+of yca1 also leads to a decrease in the kinetics of the loss
+of growth capacity induced by hydrogen peroxide and other
+stimuli (6, 48–50).
+compared with wild-type cells, the absence of the meta-
+caspase did not change the extent and kinetics of bax-induced
+loss of plating efficiency (fig. 3a), thus confirming data from a
+recent study (51). however, the absence of the apoptosis-induc-
+november 24, 2006 • volume 281 • number 47
+journal of biological chemistry 36189
+bax-induced cell death in yeast
+figure 2. bax expression does not induce alterations of the plasma mem-
+brane. a, wild-type w303-1a cells were grown aerobically at 28 °c in ynb/
+lactate medium to 1 a550 nm unit and treated as follows: 15-min incubation at
+60 °c, addition of 6% (v/v) ethanol for 30 min at 28 °c, or addition of 100 mm
+h2o2 for 30 min at 28 °c. they were further washed, resuspended in fresh
+medium in the presence of 0.1 ␮g/ml pi, and incubated at 28 °c for 15 min in
+the dark before flow cytometry analysis. data are representative of 10 inde-
+pendent experiments. the three treatments led to plating efficiencies below
+10%. b, bax expression was induced as described under “experimental proce-
+dures.” at the indicated times, pi permeability was measured as described for
+a. bax expression led to plating efficiencies of 50 and 15% after 14 and 26 h,
+respectively (fig. 1b). the slight increase in pi permeability observed in con-
+trol cells was related to the entry of the cells in the stationary phase of growth
+(77).
+ing factor homolog, encoded by the gene aif1, stimulated
+rather than inhibited the kinetics of bax-induced loss of plating
+efficiency (fig. 3a). measurement of devdase activity in cell
+extracts did not reveal any activity (data not shown). measure-
+ment of caspase activity with the permeant substrate valyl-ala-
+nyl-aspartyl-(o-methyl)-fluoromethyl ketone-fluorescein iso-
+thiocyanate in whole cells showed a basal signal in control cells,
+which decreased following bax expression (fig. 3b). measure-
+ment of phosphatidylserine exposure with annexin v was also
+done in both intact whole cells (fig. 3c) and spheroplasts (data
+not shown): no annexin v-positive cells appeared in control or
+bax-expressing cells. as positive controls, significant increases
+in both caspase activity and annexin v binding were found in
+aged cells (data not shown), as described by laun et al. (52).
+although no degradation of dna following bax expression
+could be evidenced by tunel assay, this degradation was
+observed in h2o2-treated cells (fig. 3d). these data unequivo-
+cally show that typical characteristics of apoptosis cannot be
+evidenced in yeast following bax expression under conditions
+in which bax hampers the capacity of yeast to grow after bax
+expression has been stopped. finally, in the absence of yca1p or
+aif1p, bax-induced loss of plating efficiency was still associated
+with maintenance of plasma membrane integrity (fig. 3e),
+showing that the apoptotic program is not responsible for this
+maintenance.
+bax expression induces the appearance of autophagic
+characteristics—we reported previously that the kinetics of
+loss of plating efficiency following bax expression are slower in
+a yeast mutant inactivated for the gene uth1 than in its wild-
+type counterpart (43). the product of this gene was shown to be
+involved in mitochondrial autophagy (42). because a possible
+death function of autophagy has been suggested in mammalian
+cells unable to achieve apoptosis (12), we reasoned that auto-
+phagy might be involved in bax-induced loss of growth capacity
+in yeast.
+implementation of autophagy involves the transcriptional
+regulation of several genes. for example, an increased amount
+of the atg8 product is considered to be one of the typical
+markers of autophagy that have been observed following nitro-
+gen starvation or rapamycin treatment (53). we found that bax
+expression correlated with an increase in atg8p (fig. 4a), sim-
+ilar to that induced by nitrogen starvation (fig. 4b, panel c).
+induction of autophagy upon bax expression was further con-
+firmed by the widely used alkaline phosphatase assay (45). bax
+expression correlated with an increase in alkaline phosphatase
+activity, similar to that observed in nitrogen-starved cells (fig.
+4b, panel a), showing that bax expression is accompanied by
+nonselective autophagy. the coexpression of the anti-apopto-
+tic protein bcl-xl or bcl-2, which prevents bax-induced loss of
+growth capacity in yeast (35), also prevented bax-induced acti-
+vation of alkaline phosphatase, but not the activation of alkaline
+phosphatase induced by the autophagy-inducing drug rapamy-
+cin (fig. 4b, panel a). both bcl-2 and bcl-xl expression actually
+prevented the bax-induced increase in atg8p expression (fig.
+4b, panel c), in accordance with the fact that they abolished all
+bax effects in yeast (34–36). treatment of cells with low con-
+centrations of h2o2 (1 or 5 mm) or with 180 mm acetic acid has
+been identified as a typical inducer of yeast apoptosis (5, 54).
+these treatments did not trigger any activation of alkaline
+phosphatase (data not shown; for acetic acid, see ref. 55), show-
+ing that yeast apoptosis is not associated with the activation of
+autophagy. moreover, treatment with 100 mm h2o2, which
+induced a massive loss of membrane integrity (fig. 2a), did not
+induce any activation of alkaline phosphatase (data not shown).
+electron microscopy also confirmed the presence of autophagy
+in bax-expressing cells, viz. microautophagy (direct engulfment
+of cytosolic material by the vacuoles), macroautophagy (pres-
+ence of autophagosomes), and the resulting presence of auto-
+phagic bodies within the vacuoles (fig. 4c).
+given that autophagic characteristics appeared following
+bax expression, we determined whether the inactivation of sev-
+36190 journal of biological chemistry
+volume 281 • number 47 • november 24, 2006
+bax-induced cell death in yeast
+figure 3. bax does not induce apoptotic characteristics in yeast. a, the wild-type by4742 strain and its ⌬yca1 and ⌬aif1 mutants containing plasmid
+pcm189/bax-c-myc were grown in ynb/lactate medium in the presence of 10 ␮g/ml doxycycline. bax expression and plating efficiency were as described
+under “experimental procedures.” data are given as the percentage of growing colonies for each mutant divided by the amount of plated cells. values are the
+means ⫾ s.d. of three independent experiments. b–d, the wild-type w303-1a strain containing plasmid pcm189 (control cells) or pcm189/bax-c-myc (bax-
+expressing cells) was grown in ynb/lactate medium in the presence of 10 ␮g/ml doxycycline (bax-repressing conditions), washed, and transferred to the same
+medium without doxycycline for 14 h. devdase activity (b), annexin v-fluorescein isothiocyanate (fitc) binding (c), and tunel (d) were measured as described
+under “experimental procedures.” in d, h2o2-treated cells were incubated for 15 min with 88 mm h2o2. values in d represent the mean percentage ⫾ s.d. of
+cells with a fluorescence above that indicated by the vertical bar (1.1) from five independent experiments. tmr, tetramethylrhodamine. e, the pi permeability
+of the wild-type by4742 strain and its ⌬yca1 and ⌬aif1 mutants containing plasmid pcm189/bax-c-myc was measured as in the legend to fig. 2 in cells
+transferred for 18 h in the absence or presence of 10 ␮g/ml doxycycline.
+eral genes involved in autophagy altered the characteristics of
+bax-induced loss of plating efficiency. none of the different
+mutants assayed exhibited a significantly better plating effi-
+ciency following bax expression compared with the wild-type
+cells (fig. 5a). however, two of them, ⌬atg5 and ⌬atg7, did
+exhibit a significantly lower plating efficiency. this was further
+confirmed for the well characterized ⌬atg5 mutant by accumu-
+lating data from seven independent experiments performed at
+different times and with different levels of bax expression
+obtained with 0, 0.25, or 0.5 ␮g/ml doxycycline. for all times
+and all doxycycline concentrations, the plating efficiency in
+⌬atg5 cells was slightly but reproducibly lower than that in
+wild-type cells (fig. 5b).
+we also checked whether the inhibition of autophagy
+altered the properties of bax-expressing cells, viz. their
+capacity to maintain their plasma membrane integrity.
+atg5 inactivation did not alter the behavior of the cells (fig.
+5c). taken together, these data suggest that, although auto-
+phagy is activated following bax expression, it is not respon-
+sible for the loss of plating efficiency. rather unexpectedly, it
+play a marginal role in the capacity of the cells to maintain
+growth capacity.
+uth1-dependent mitophagy is required for regulated loss
+of growth capacity—the disruption of uth1 delays bax-in-
+duced loss of plating efficiency (43), indicating that the product
+of this gene likely participates in this process. moreover, uth1p
+was shown to be required for efficient mitophagy (42). there-
+fore, we reasoned that mitophagy might be involved in the
+process of bax-induced loss of viability. to address this ques-
+tion, mitochondrial behavior was followed in vivo in cells
+expressing mtgfp. fragmentation of the mitochondrial net-
+work was observed following bax expression (fig. 6a). how-
+november 24, 2006 • volume 281 • number 47
+journal of biological chemistry 36191
+bax-induced cell death in yeast
+figure 4. bax expression induces autophagy that is prevented by anti-apoptotic proteins. a: the wild-type w303-1a strain containing the pcm189/
+bax-c-myc plasmid was triggered for bax expression for the indicated times, and western blotting was performed as described in the legend to fig. 1c.
+a.u., arbitrary units. b: panel a, wild-type w303-1a cells expressing pho8⌬60p and containing plasmid pcm184/bax-c-myc were grown in ynb/lactate
+medium in the presence of doxycycline. cells were then transferred into a nitrogen starvation medium for 15 h, treated for bax expression for 14 or 18 h,
+or treated with rapamycin for 1 h. repr 18h indicates cells that were resuspended and incubated for 18 h in the presence of doxycycline. alkaline
+phosphatase (alp) activity was then measured as described under “experimental procedures.” data are the means ⫾ s.d. of three to five independent
+experiments. strains coexpressing bax and bcl-2 or bcl-xl were also assayed for alkaline phosphatase activity after 20 h of coexpression, and strains
+expressing bcl-2 or bcl-xl were assayed for rapamycin-induced alkaline phosphatase activity. panel b, control western blotting was performed for
+the expression of bax, bcl-2, and bcl-xl under the conditions described for panel a. panel c, shown are the expression of atg8p in bax-expressing cells and
+in nitrogen-starved cells (⫺n) and inhibition of bax-induced atg8p expression by bcl-2 and bcl-xl. c: cells expressing bax for 14 h were observed by
+electron microscopy. autophagic bodies (ab) are identified as large vesicles localized within the vacuoles (vac.) and containing material exhibiting the
+same aspect as the cytosol (cyt.). autophagosomes (at) are identified as large intracytosolic vesicles with more than one membrane. images of
+microautophagy (direct engulfment of cytosolic material by the vacuoles) are also observed (white arrows). mitochondria (m) might be found close to
+the vacuoles. scale bars ⫽ 500 nm.
+ever, even after prolonged bax expression, mitochondrial spots
+remained visible, and almost no diffuse gfp appeared within
+the vacuoles, contrasting with what was observed when auto-
+phagy was induced by nitrogen starvation. this was confirmed
+by the observation that bax expression did not induce any co-
+localization of both mtgfp and the vacuolar probe fm4-64
+(data not shown). as expected, the coexpression of the anti-
+apoptotic protein bcl-xl, which prevents the mitochondrial
+localization of bax (32, 35, 36), hampered the bax-induced frag-
+mentation of mitochondria (fig. 6a).
+the inhibition of autophagy caused by the inactivation of
+atg5 did not modify the mitochondrial network fragmenta-
+tion process (fig. 6b). the inhibition of mitophagy caused by
+the inactivation of uth1 did not prevent the fragmentation of
+mitochondria; however, unlike the wild-type and ⌬atg5 strains,
+mitochondria appeared disorganized, with an unordered local-
+ization of spots of different sizes and intensities (fig. 6c). quan-
+tification of the three types of mitochondria; organization
+clearly showed the difference between the ⌬uth1 strain and the
+wild-type and ⌬atg5 strains (fig. 6d).
+flow cytometry of mtgfp was performed to evaluate the
+possible degradation of mitochondria. at the time of initiation
+of bax expression (removal of doxycycline), the synthesis of
+mtgfp was stopped (removal of galactose) to prevent gfp
+turnover. fig. 7a shows that bax expression induced differ-
+ences in the flow cytometry profiles; although ⌬atg5 cells were,
+on average, similar to wild-type cells, ⌬uth1 cells were more
+fluorescent. this was better visualized by measuring the evolu-
+tion of the populations of the least and the most fluorescent
+cells as a function of duration of bax expression (fig. 7b); the
+number of the least fluorescent cells increased in both wild-type
+and ⌬atg5 cells, whereas the number of the most fluorescent
+36192 journal of biological chemistry
+volume 281 • number 47 • november 24, 2006
+bax-induced cell death in yeast
+teristics of bax-induced loss of viability. not only was this loss
+delayed (43), but, in contrast to both wild-type and ⌬atg5
+strains, ⌬uth1 cells were not able to maintain plasma mem-
+brane integrity; after 14 h of bax expression, a significant
+increase in pi-permeable cells was observed in bax-expressing
+⌬uth1 cells, but not in wild-type and ⌬atg5 cells (fig. 8a). the
+difference was even more spectacular after prolonged bax
+expression (30 and 44 h); after 44 h of bax expression, ⬎90% of
+the cells from both wild-type and ⌬uth1 strains had lost growth
+capacity, and ⬍15% of the wild-type cells and ⬎90% of the
+⌬uth1 cells were pi-permeable (fig. 8b).
+discussion
+since the first demonstration that fusion proteins of bax used
+in a two-hybrid system are able to kill yeast (56, 57), the heter-
+ologous expression of bcl-2 family members in yeast has been
+used as a tool to understand several molecular aspects of the
+function of these proteins (28). despite several discrepancies in
+the literature caused mainly by the utilization of different vari-
+ants of bax, parallel experiments done in yeast and mammalian
+cells showed that the effects of bax on mitochondria (address-
+ing insertion, high conductance channel formation, and the
+capacity to promote cytochrome c release) are conserved in
+yeast (29–33).
+however, few studies addressed the nature of bax-induced
+loss of plating efficiency in yeast. the possible existence of an
+ancestral apoptosis-like program in yeast led several investiga-
+tors to propose that bax-induced loss of growth capacity is
+caused by apoptotic cell death (39, 40). in contrast with differ-
+ent acute stresses, bax-induced loss of plating efficiency was not
+related to any alteration of plasma membrane properties (fig.
+2), suggesting that it is a form of “clean” cell death that allows
+cells to die without releasing their content into the medium.
+the identification of two molecular components of the yeast
+apoptotic program, the metacaspase yca1p/mca1p (6) and the
+apoptosis-inducing factor homolog aif1p (7), offered the pos-
+sibility to test this hypothesis. the data reported here show that
+this program is not involved in bax-induced yeast cell death
+because the inactivation of these proteins did not modify its
+characteristics. furthermore, typical markers of yeast apoptosis
+such as the appearance of devdase activity, annexin v binding,
+and dna fragmentation did not occur following bax expres-
+sion (fig. 3).
+on the other hand, bax expression was also associated with
+the appearance of autophagic characteristics. in accordance
+with data from different groups, this suggests that bax expres-
+sion in yeast interferes with processes linked to vesicular traf-
+ficking (58–60). recent data have suggested that,
+in the
+absence of an active apoptotic program, autophagy might be an
+“alternative” mode of cell death in mammalian cells (12). auto-
+phagy has often been observed simultaneously with apoptosis,
+but data suggest that it might correspond to a survival attempt
+in apoptotic cells because the inhibition of autophagy induces a
+stimulation of cell death kinetics (17). processes of cell death
+with autophagy have been reported previously in two models of
+physiological cell death: dif-induced death in d. discoideum
+(61) and genetic incompatibility in p. anserina (62). in these two
+models, death is clearly associated with autophagic markers,
+figure 5. effect of the inactivation of atg genes on bax effects. a, strain
+by4741 carrying the indicated deletions of various atg genes and containing
+plasmid pcm189/bax-c-myc was assayed for plating efficiency. results are
+given as the percentage of the number of growing colonies for each mutant
+strain divided by the number of growing colonies for the wild-type strain.
+data are the means ⫾ s.e. of three independent measurements. *, statistically
+different from 100 (p ⬍ 0.01). b, seven independent experiments of survival
+following bax expression were performed in parallel for the wild-type and
+⌬atg5 strains carrying the pcm189/bax-c-myc plasmid. at different times, the
+survival ratio of ⌬atg5 was plotted versus the survival ratio of the wild-type
+strain. each symbol corresponds to different experiments done at different
+concentrations of doxycycline (0, 0.25, and 0.5 ␮g/ml) and at different times
+(3, 4, 6, and 8 h) to provide different extents of cell death. the dotted line
+visualizes the theoretical curve that should have been obtained had the
+behavior been the same for both strains. statistical analysis showed that the
+higher sensitivity of the ⌬atg5 mutant to bax expression was highly signifi-
+cant (p ⫽ 0.0003). c, w303-1a cells and the derived ⌬atg5 mutant containing
+the pcm189/bax-c-myc plasmid were analyzed for pi permeability after 18 h
+of bax expression as described in the legend to fig. 2.
+cells decreased. in ⌬uth1, both populations remained roughly
+constant, suggesting that the absence of uth1 and the result-
+ing inhibition of mitophagy prevent the degradation of mito-
+chondria altered by bax expression, leading to disorganization
+of the chondriome.
+the altered behavior of mitochondrial degradation in the
+⌬uth1 mutant was associated with an alteration of the charac-
+november 24, 2006 • volume 281 • number 47
+journal of biological chemistry 36193
+bax-induced cell death in yeast
+figure 6. bax expression induces the fragmentation of the mitochondrial network. w303-1a cells containing the appropriate mutations and plasmids
+(see “experimental procedures”) were grown in ynb/lactate/galactose medium in the presence of doxycycline, centrifuged, washed, and resuspended in fresh
+medium without doxycycline. a: upper left panel (control), cells grown in the presence of 10 ␮g/ml doxycycline (bax-repressed); upper middle and right panels,
+fragmented mitochondria following bax expression in wild-type cells; lower left panel, images of cells committed into autophagy by nitrogen starvation, clearly
+containing gfp in vacuoles; lower middle and right panels, the absence of mitochondrial fragmentation in cells expressing bcl-xl alone or coexpressing bax and
+bcl-xl. b: same experiment as described for a performed with the ⌬atg5 mutant. c: same experiment as described for a performed with ⌬uth1 mutant.
+d, a quantification of the number of cells containing the three different types of mitochondria morphology was done for the indicated strains and conditions.
+at least 150 cells in randomly selected fields were counted for each condition.
+but the inhibition of autophagy associated with the inactivation
+of an atg gene does not prevent and actually accelerates cell
+death (18, 19). a similar situation emerged from our study, in
+which the inactivation of atg5 or atg7 accelerated bax-in-
+duced loss of plating efficiency. however, the inactivation of
+several other atg genes did not appear to have any significant
+effect. it should be noted, however, that the inactivation of only
+one gene (atg1) was reported previously (18, 19).
+in a previous study, a genetic screen to identify bax-resistant
+yeast mutants allowed the identification of uth1 (43). the
+further characterization of this gene indicated its requirement
+for mitochondrial autophagy (mitophagy), but not for cytosolic
+protein autophagy (42). it is now well established that the
+expression of c-myc-tagged bax in yeast results in a mitochon-
+drial localization (28, 29, 35, 36), with subsequent alterations of
+the outer mitochondrial membrane. the absence of uth1 does
+not change this mitochondrial localization of bax-c-myc (43). it
+has been hypothesized that the putative function of mitophagy
+would be the elimination of altered mitochondria (20, 63, 64).
+furthermore, it has been shown that alteration of mitochon-
+drial biogenesis is a trigger of autophagy (65). we therefore
+reasoned that bax-induced alterations of mitochondria might
+be a trigger of mitophagy.
+conversely, it might be envisaged that moderate defects in
+mitochondrial biogenesis would be responsible for the
+altered response of ⌬uth1 to bax expression. it should be
+noted, however, that the absence of uth1p leads to a fully
+respiratory-competent phenotype and that only detailed
+bioenergetic analysis illustrated a 25% decrease in respira-
+tory enzymes (66). also, the absence of uth1p does not pre-
+vent bax-c-myc-induced alterations of mitochondria, viz.
+the permeabilization of the outer mitochondrial membrane
+(43). furthermore, mutants of mitochondrial proteins that
+exhibit much stronger deficiencies in mitochondrial func-
+tions compared with ⌬uth1 have been tested; none of them
+shows a response to bax significantly different from that of
+the wild-type strain (35, 67, 68). further investigations will
+be required to draw a link between mitochondrial biogenesis
+and mitophagy.
+the fragmentation of the mitochondrial network is an early
+step of mammalian apoptosis, although its actual function, if
+any, remains unclear (69). it has also been reported that the
+36194 journal of biological chemistry
+volume 281 • number 47 • november 24, 2006
+bax-induced cell death in yeast
+figure 7. bax induces mitophagy-dependent mtgfp degradation. cells of the w303-1a, ⌬atg5, and ⌬uth1 strains containing bax- and mtgfp-expressing
+plasmids were grown in ynb/lactate medium in the presence of doxycycline. for optimal mtgfp expression, 0.5% galactose was added, and cells were grown
+overnight, washed, and resuspended in ynb/lactate medium with or without doxycycline (galactose was omitted at this point to prevent gfp resynthesis).
+a, cells were analyzed by flow cytometry after 24 h. the vertical bars are at the positions of the peaks in w303-1a cells. the indicated values are the mean
+percentage ⫾ s.d. of cells above this bar from five independent experiment. *, significantly different from w303-1a cells (p ⬍ 0.01). b, the percentage of cells
+containing a low amount of mtgfp (fluorescence ⬍ 2) and a high amount of gfp (fluorescence ⬎ 15) was quantified as a function of the length of bax
+expression (⫺doxycycline). each point is the average of two independent experiments.
+mitochondrial fission machinery is involved in yeast pro-
+grammed cell death (70). we have reported here that this proc-
+ess of mitochondrial fission also follows bax expression. how-
+ever, the mitochondrial network remained relatively organized
+in the form of spots that did not appear to be randomly distrib-
+uted within the cells. conversely, in the ⌬uth1 mutant, frag-
+mented mitochondria were disorganized, with a random distri-
+bution of spots of different sizes. furthermore, the degradation
+of mtgfp observed in wild-type cells (and in ⌬atg5 cells) did
+not appear in ⌬uth1 cells, suggesting that the inactivation of
+mitophagy in the ⌬uth1 strain is responsible for the disorgani-
+zation of the mitochondrial network. this had a major conse-
+quence on the nature of the loss of growth capacity because,
+unlike wild-type and ⌬atg5 cells, ⌬uth1 cells were not able to
+maintain the integrity of the plasma membrane; the slow loss of
+plating efficiency observed in ⌬uth1 cells thus resembled a
+necrotic form of cell death such as that observed following
+acute stress. it should be noted that the apparent resistance of
+⌬uth1 to the effects of bax expression (i.e. the slower kinetics of
+the loss of growth capacity) was actually caused by the fact that
+this necrosis-like form of cell death in ⌬uth1 was slower than
+the regulated loss of growth capacity in the wild-type and ⌬atg5
+strains.
+base on these data, mitophagy is clearly not the cause of
+bax-induced loss of growth capacity, but is required for a rapid
+and regulated form of cell death (by opposition to the necrotic
+form of cell death observed in the ⌬uth1 mutant) (fig. 9). gen-
+eral autophagy, dependent on atg5, also appears to be acti-
+vated as a protective phenomenon, but its function seems to be
+less crucial and modifies the kinetics of cell death only, not its
+nature.
+this study raises several questions about the nature of the
+mammal-like apoptotic program in yeast. bax is a major player
+in mammalian apoptosis because its absence strongly impairs
+the process, and the double inactivation of bax and its closely
+related homolog bak completely blocks apoptosis (71).
+although human bax retains its most important function in
+yeast, i.e. permeabilization of the outer mitochondrial mem-
+brane to cytochrome c, it is not, however, able to induce the
+yeast apoptosis-like program. however, bax is still able to
+induce a “regulated” form of cell death because of the activation
+of autophagy and, more particularly, of uth1-dependent mito-
+november 24, 2006 • volume 281 • number 47
+journal of biological chemistry 36195
+bax-induced cell death in yeast
+recent reports have questioned the involvement of the yeast
+apoptotic program in several forms of programmed cell death,
+viz. the role of reactive oxygen species (72) and of the meta-
+caspase yca1p (73). furthermore, the proposal that apoptosis is
+required for the response to ␣-mating factor (74) has been dis-
+cussed rigorously (75). data reported on non-animal organisms
+support the existence of a much wider variety of programmed
+cell death than the apoptotic program alone in mammalian cells
+(21, 76), and it seems that each organism has developed its own
+strategy for a clean cell death, when needed. even when consid-
+ering mammalian cells, the concept that programmed cell
+death is limited to apoptosis has been re-evaluated because
+autophagy, necrosis, and probably still unknown processes can
+participate in programmed cell death (21). this study supports
+the view that activation of mitophagy as a process that protects
+against mitochondrial alterations is a means to convert a
+necrotic form of death into a regulated form of death.
+acknowledgment—we thank dr. christine schwimmer for language
+corrections.
+references
+1. hengartner, m. o., and horvitz, h. r. (1994) curr. opin. genet. dev. 4,
+581–586
+729–734
+2. arnoult, d., tatischeff, i., estaquier, j., girard, m., sureau, f., tissier, j. p.,
+grodet, a., dellinger, m., traincard, f., kahn, a., ameisen, j. c., and petit,
+p. x. (2001) mol. biol. cell 12, 3016–3030
+3. arnoult, d., akarid, k., grodet, a., petit, p. x., estaquier, j., and ameisen,
+j. c. (2002) cell death differ. 9, 65–81
+4. madeo, f., frohlich, e., and frohlich, k. u. (1997) j. cell biol. 139,
+5. madeo, f., frohlich, e., ligr, m., grey, m., sigrist, s. j., wolf, d. h., and
+frohlich, k. u. (1999) j. cell biol. 145, 757–767
+6. madeo, f., herker, e., maldener, c., wissing, s., lachelt, s., herlan, m.,
+fehr, m., lauber, k., sigrist, s. j., wesselborg, s., and frohlich, k. u. (2002)
+mol. cell 9, 911–917
+7. wissing, s., ludovico, p., herker, e., buttner, s., engelhardt, s. m., decker,
+t., link, a., proksch, a., rodrigues, f., corte-real, m., frohlich, k. u.,
+manns, j., cande, c., sigrist, s. j., kroemer, g., and madeo, f. (2004) j. cell
+biol. 166, 969–974
+8. edinger, a. l., and thompson, c. b. (2004) curr. opin. cell biol. 16,
+663–669
+1509–1518
+1528–1534
+9. levine, b., and yuan, j. (2005) j. clin. investig. 115, 2679–2688
+10. codogno, p., and meijer, a. j. (2005) cell death differ. 12, suppl. 2,
+11. tsujimoto, y., and shimizu, s. (2005) cell death differ. 12, suppl. 2,
+12. shimizu, s., kanaseki, t., mizushima, n., mizuta, t., arakawa-kobayashi,
+s., thompson, c. b., and tsujimoto, y. (2004) nat. cell biol. 6, 1221–1228
+13. pattingre, s., tassa, a., qu, x., garuti, r., liang, x. h., mizushima, n.,
+packer, m., schneider, m. d., and levine, b. (2005) cell 122, 927–939
+14. petiot, a., ogier-denis, e., blommaart, e. f., meijer, a. j., and codogno, p.
+(2000) j. biol. chem. 275, 992–998
+15. arico, s., petiot, a., bauvy, c., dubbelhuis, p. f., meijer, a. j., codogno, p.,
+and ogier-denis, e. (2001) j. biol. chem. 276, 35243–35246
+16. meijer, a. j., and codogno, p. (2004) int. j. biochem. cell biol. 36,
+17. lavieu, g., scarlatti, f., sala, g., carpentier, s., levade, t., ghidoni, r.,
+botti, j., and codogno, p. (2006) j. biol. chem. 281, 8518–8527
+18. kosta, a., roisin-bouffay, c., luciani, m. f., otto, g. p., kessin, r. h., and
+golstein, p. (2004) j. biol. chem. 279, 48404–48409
+19. pinan-lucarre´, b., balguerie, a., and clave´, c. (2005) eukaryot. cell 4,
+figure 8. appearance of pi permeability in the ⌬uth1 mutant expressing
+bax. a, the w303-1a, ⌬atg5, and ⌬uth1 strains containing the pcm189/bax-
+c-myc plasmid were grown as described in the legend to fig. 7 and checked
+for pi permeability. after washing, cells were resuspended in fresh medium in
+the presence (control) or absence (bax) of 10 ␮g/ml doxycycline for 14 h. data
+are the means ⫾ s.d. of four independent experiments. b, shown are the pi
+permeability profiles obtained after long bax expression. the growth capacity
+of wild-type cells was ⬍5% at both 30 and 44 h. the growth capacity of ⌬uth1
+cells was ⬍20% at 30 h and ⬍5% at 44 h.
+figure 9. mitophagy and autophagy in bax-induced death. mitochondrial
+alterations induced by bax (fragmentation of the network (fig. 6), reactive
+oxygen species (ros) production, and lipid peroxidation (78)) activate uth1-
+dependent mitophagy, thus preventing a necrotic type of death. the death
+process itself might activate atg5-dependent autophagy as an ultimate
+attempt to survive.
+phagy, which probably allow the elimination of mitochondria
+altered by bax, thus preventing the necrotic form of death
+observed in ⌬uth1 cells.
+2445–2462
+1765–1774
+36196 journal of biological chemistry
+volume 281 • number 47 • november 24, 2006
+20. kundu, m., and thompson, c. g. (2005) cell death differ. 12, suppl. 2,
+50. khan, m. a., chock, p. b., and stadtman, e. r. (2005) proc. natl. acad. sci.
+bax-induced cell death in yeast
+u. s. a. 102, 17326–17331
+51. guscetti, f., nath, n., and denko, n. (2005) faseb j. 19, 464–466
+52. laun, p., pichova, a., madeo, f., fuchs, j., ellinger, a., kohlwein, s.,
+dawes, i., frohlich, k. u., and breitenbach, m. (2001) mol. microbiol. 39,
+1166–1173
+53. kirisako, t., baba, m., ishihara, n., miyazawa, k., ohsumi, m., yoshimori,
+t., noda, t., and ohsumi, y. (1999) j. cell biol. 147, 435–446
+54. ludovico, p., rodrigues, f., almeida, a., silva, m. t., barrientos, a., and
+coˆrte-real, m. (2002) mol. biol. cell 13, 2598–2606
+55. hazan, r., levine, a., and abeliovich, a. (2004) appl. environ. microbiol.
+56. hanada, m., aime-sempe, c., sato, t., and reed, j. c. (1995) j. biol. chem.
+57. zha, h., aime-sempe, c., sato, t., and reed, j. c. (1996) j. biol. chem.271,
+58. abudugupur, a., mitsui, k., yokota, s., and tsurugi, k. (2002) cell death
+70, 4449–4457
+270, 11962–11969
+7440–7444
+differ. 9, 158–168
+1484–1489
+1490–1496
+21. golstein, p., and kroemer, g. (2005) cell death differ. 12, suppl. 2,
+22. kroemer, g., el-deiry, w. s., golstein, p., peter, m. e., vaux, d., vandena-
+beele, p., zhivotovsky, b., blagosklonny, m. v., malorni, w., knight, r. a.,
+piacentini, m., nagata, s., and melino, g. (2005) cell death differ. 12,
+suppl. 2, 1463–1467
+23. abeliovich, h., and klionsky, d. j. (2001) microbiol. mol. biol. rev. 65,
+24. huang, w. p., and klionsky, d. j. (2002) cell struct. funct. 27, 409–420
+25. kamada, y., sekito, t., and ohsumi, y. (2004) curr. top. microbiol. im-
+26. levine, b., and klionsky, d. j. (2004) dev. cell 6, 463–477
+27. thompson, a. r., and vierstra, r. d. (2005) curr. opin. plant biol. 8,
+munol. 279, 73–84
+463–479
+165–173
+28. priault, m., camougrand, n., kinnally, k. w., vallette, f. m., and manon,
+s. (2003) fems yeast res. 4, 15–27
+29. priault, m., cartron, p. f., camougrand, n., antonsson, b., vallette, f. m.,
+and manon, s. (2003) cell death differ. 10, 1068–1077
+30. cartron, p. f., priault, m., oliver, l., meflah, k., manon, s., and vallette,
+f. m. (2003) j. biol. chem. 278, 11633–11641
+31. cartron, p. f., arokium, h., oliver, l., meflah, k., manon, s., and vallette,
+f. m. (2005) j. biol. chem. 280, 10587–10598
+32. arokium, h., camougrand, n., vallette, f. m., and manon, s. (2004)
+j. biol. chem. 279, 52566–52573
+33. pavlov, e. v., priault, m., pietkiewicz, d., cheng, e. h., antonsson, b.,
+manon, s., korsmeyer, s. j., mannella, c. a., and kinnally, k. w. (2001)
+j. cell biol. 155, 725–731
+34. manon, s., chaudhuri, b., and gue´rin, m. (1997) febs lett. 415, 29–32
+35. priault, m., camougrand, n., chaudhuri, b., schaeffer, j., and manon, s.
+36. priault, m., chaudhuri, b., clow, a., camougrand, n., and manon, s.
+(1999) febs lett. 456, 232–238
+(1999) eur. j. biochem. 260, 684–691
+(2005) cell death differ. 12, 659–667
+37. gonzalvez, f., bessoule, j. j., rocchiccioli, f., manon, s., and petit, p. x.
+38. skulachev, v. p. (2002) febs lett. 528, 23–26
+39. madeo, f., herker, e., wissing, s., jungwirth, h., eisenberg, t., and
+frohlich, k. u. (2004) curr. opin. microbiol. 7, 655–660
+40. ludovico, p., madeo, f., and silva, m. (2005) iubmb life 57, 129–135
+41. roucou, x., prescott, m., devenish, r. j., and nagley, p. (2000) febs lett.
+42. kissova, i., deffieu, m., manon, s., and camougrand, n. (2004) j. biol.
+471, 235–239
+chem. 279, 39068–39074
+43. camougrand, n., grelaud-coq, a., marza, e., priault, m., bessoule, j. j.,
+and manon, s. (2003) mol. microbiol. 47, 495–506
+44. okamoto, k., perlman, p. s., and butow, r. a. (1998) j. cell biol. 142,
+45. noda, t., matsuura, a., wada, y., and ohsumi, y. (1995) biochem. bio-
+phys. res. commun. 210, 126–132
+46. clow, a., greenhalf, w., and chaudhuri, b. (1998) eur. j. biochem. 258,
+47. bonneu, m., crouzet, m., urdaci, m., and aigle, m. (1991) anal. biochem.
+613–623
+19–28
+193, 225–230
+59. belhocine, s., mbithe, c., dimitrova, i., kampranis, s. c., and makris,
+a. m. (2004) cell death differ. 11, 946–948
+60. dimitrova, i., toby, g. g., tili, e., strich, r., kampranis, s. c., and makris,
+a. m. (2004) febs lett. 566, 100–104
+61. levraud, j. p., adam, m., luciani, m. f., de chastellier, c., blanton, r. l.,
+and golstein, p. (2003) j. cell biol. 160, 1105–1114
+62. pinan-lucarre´, b., paoletti, m., dementhon, k., coulary-salin, b., and
+clave´, c. (2003) mol. microbiol. 47, 321–333
+63. tolkovsky, a. m., xue, l., fletcher, g. c., and borutaite, v. (2002) bio-
+chimie (paris) 84, 233–240
+64. lemasters, j. j. (2005) rejuvenation res. 8, 3–5
+65. priault, m., salin, b., schaeffer, j., vallette, f. m., di rago, j. p., and mar-
+tinou, j. c. (2005) cell death differ. 12, 1613–1621
+66. camougrand, n., mouassite, m., velours, g., and gue´rin, m. (2000) arch.
+67. kissova, i., polcic, p., kempna, p., zeman, i., sabova, l., and kolarov, j.
+biochem. biophys. 375, 154–160
+(2000) febs lett. 471, 113–118
+68. gross, a., pilcher, k., blachly-dyson, e., basso, e., jockel, j., bassik, m. c.,
+korsmeyer, s. j., and forte, m. (2000) mol. cell. biol. 20, 3125–3136
+69. youle, r. j., and karbowski, m. (2005) nat. rev. mol. cell biol. 6, 657–663
+70. fannjiang, y., cheng, w. c., lee, s. j., qi, b., pevsner, j., mccaffery, j. m.,
+hill, r. b., basanez, g., and hardwick, j. m. (2004) genes dev. 18,
+2785–2797
+71. lindsten, t., ross, a. j., king, a., zong, w. x., rathmell, j. c., shiels, h. a.,
+ulrich, e., waymire, k. g., mahar, p., frauwirth, k., chen, y., wei, m.,
+eng, v. m., adelman, d. m., simon, m. c., ma, a., golden, j. a., evan, g.,
+korsmeyer, s. j., macgregor, g. r., and thompson, c. b. (2000) mol. cell
+6, 1389–1399
+72. wysocki, r., and kron, s. j. (2004) j. cell biol. 166, 311–316
+73. hauptmann, p., riel, c., kunz-schughart, l. a., frohlich, k. u., madeo, f.,
+and lehle, l. (2006) mol. microbiol. 59, 765–778
+74. pozniakovsky, a. i., knorre, d. a., markova, o. v., hyman, a. a., skula-
+chev, v. p., and severin, f. f. (2005) j. cell biol. 168, 257–269
+75. zadrag, r., wojnar, l., bartosz, g., and bilinski, t. (2006) cell biol. int. 30,
+205–209
+48. mitsui, k., nakagawa, d., nakamura, m., okamoto, t., and tsurugi, k.
+(2005) febs lett. 579, 723–727
+49. mazzoni, c., herker, e., palermo, v., jungwirth, h., eisenberg, t., madeo,
+f., and falcone, c. (2005) embo rep. 6, 1076–1081
+76. ameisen, j. c. (2002) cell death differ. 9, 367–393
+77. marza, e., camougrand, n., and manon, s. (2002) febs lett. 521, 47–52
+78. priault, m., bessoule, j. j., grelaud-coq, a., camougrand, n., and manon,
+s. (2002) eur. j. biochem. 269, 5440–5450
+november 24, 2006 • volume 281 • number 47
+journal of biological chemistry 36197
+metabolism and bioenergetics:
+evaluation of the roles of apoptosis,
+autophagy, and mitophagy in the loss of 
+plating efficiency induced by bax
+expression in yeast
+  
+ingrid kissová, louis-thomas plamondon,
+louise brisson, muriel priault, vincent 
+renouf, jacques schaeffer, nadine
+camougrand and stéphen manon
+j. biol. chem. 
+doi: 10.1074/jbc.m607444200 originally published online september 21, 2006
+2006, 281:36187-36197.
+10.1074/jbc.m607444200
+access the most updated version of this article at doi: 
+  
+find articles, minireviews, reflections and classics on similar topics on the 
+  
+alerts: 
+•  
+•  
+  
+when this article is cited
+when a correction for this article is posted
+jbc affinity sites
+click here
+ to choose from all of jbc's e-mail alerts
+this article cites 78 references, 30 of which can be accessed free at
+http://www.jbc.org/content/281/47/36187.full.html#ref-list-1
+  

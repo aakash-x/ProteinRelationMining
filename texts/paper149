@@ -1,0 +1,884 @@
+the journal of biological chemistry vol. 282, no. 9, pp. 6763–6772, march 2, 2007
+© 2007 by the american society for biochemistry and molecular biology, inc. printed in the u.s.a.
+structure of atg5䡠atg16, a complex essential for autophagy*
+received for publication, october 20, 2006, and in revised form, december 8, 2006 published, jbc papers in press, december 27, 2006, doi 10.1074/jbc.m609876200
+minako matsushita‡, nobuo n. suzuki‡, keisuke obara§, yuko fujioka‡, yoshinori ohsumi§, and fuyuhiko inagaki‡1
+from the ‡department of structural biology, graduate school of pharmaceutical sciences, hokkaido university, n-21, w-11,
+kita-ku, sapporo 001-0021, japan and §division of molecular cell biology, national institute for basic biology, myodaiji,
+okazaki 444-8585, japan
+atg5 is covalently modified with a ubiquitin-like modifier,
+atg12, and the atg12-atg5 conjugate further forms a complex
+with the multimeric protein atg16. the atg12-atg5䡠atg16 mul-
+timeric complex plays an essential role in autophagy, the bulk
+degradation system conserved in all eukaryotes. we have
+reported here the crystal structure of atg5 complexed with the
+n-terminal region of atg16 at 1.97 a˚ resolution. atg5 comprises
+two ubiquitin-like domains that flank a helix-rich domain. the
+n-terminal region of atg16 has a helical structure and is bound
+to the groove formed by these three domains. in vitro analysis
+showed that arg-35 and phe-46 of atg16 are crucial for the
+interaction. atg16, with a mutation at these residues, failed to
+localize to the pre-autophagosomal structure and could not
+restore autophagy in atg16-deficient yeast strains. further-
+more, these atg16 mutants could not restore a severe reduction
+in the formation of the atg8-phosphatidylethanolamine conju-
+gate, another essential factor for autophagy, in atg16-deficient
+strains under starvation conditions. these results taken
+together suggest that the direct interaction between atg5 and
+atg16 is crucial to the performance of their roles in autophagy.
+autophagy mediates the bulk degradation of cytoplasmic
+components in lysosomes/vacuoles (1, 2) and plays a critical
+role in numerous biological processes such as neurodegenera-
+tion and pathogen infection, as well as in the survival response
+during neonatal starvation (3–7). in autophagy, a double mem-
+brane structure called an autophagosome sequesters a portion
+of cytoplasm and fuses with the lysosome/vacuole to deliver its
+contents into the organelle lumen.
+atg5 was identified together with other atg proteins by
+genetic screening in the yeast saccharomyces cerevisiae (8).
+because atg5 has little sequence homology with proteins with
+known functions, it is difficult to predict its structure and func-
+tion from the sequence. thus far, biochemical analyses have
+* this work was supported by grants-in-aid for young scientists (b) 17790048
+and for priority areas and the national project on protein structural and
+functional analyses from the ministry of education, culture, sports, sci-
+ence, and technology, japan. this work was carried out under the national
+institute for basic biology cooperative research program 4-148. the costs
+of publication of this article were defrayed in part by the payment of page
+charges. this article must therefore be hereby marked “advertisement” in
+accordance with 18 u.s.c. section 1734 solely to indicate this fact.
+the atomic coordinates and structure factors (code 2dym and 2dyo) have been
+deposited in the protein data bank, research collaboratory for structural
+bioinformatics, rutgers university, new brunswick, nj (http://www.rcsb.org/).
+1 to whom correspondence should be addressed: dept. of structural biology,
+graduate school of pharmaceutical sciences, hokkaido university, n-21,
+w-11, kita-ku, sapporo 001-0021, japan. tel.: 81-11-706-9011; fax: 81-11-
+706-9012; e-mail: finagaki@pharm.hokudai.ac.jp.
+shown that lys-149 of atg5 is conjugated to atg12, a ubiquitin-
+like (ubl)2 modifier dependent on atp and two enzymes atg7
+(e1-like) and atg10 (e2-like) (9, 10). compared with other
+ubiquitin-like modifications, the atg12-modification is unique
+in that it is irreversible and constitutive. the majority of atg5
+and atg12 exist as atg12-atg5 conjugates irrespective of
+whether autophagy is induced or not and behave as a single
+protein (11). in yeast, the atg12-atg5 conjugate localizes to the
+pre-autophagosomal structure (pas), a putative center for
+autophagosome formation (12). all atg proteins involved in
+atg12-atg5 conjugation are also conserved in mammals. local-
+ization studies of the atg12-atg5 conjugate in embryonic stem
+cells using green fluorescent protein-fused atg5 showed that
+the atg12-atg5 conjugate is translocated from the cytosol to
+the isolation membranes upon nutrient deprivation and,
+immediately upon completion of autophagosome formation,
+the atg12-atg5 conjugate dissociates from the membrane,
+suggesting that it plays a significant role in autophagosome
+formation (13).
+in addition to the covalent interaction with atg12, atg5
+interacts non-covalently with a multimeric protein, atg16 (14).
+atg16 was originally obtained from a two-hybrid screen using
+atg12 as a bait and was later confirmed to interact with atg5
+(but not atg12) via its n-terminal region. because atg16 self-
+assembles via its c-terminal coiled-coil motif
+(residues
+58–123), the atg12-atg5 conjugate forms a multimeric com-
+plex with atg16 (11, 14). further, as the majority of atg12-atg5
+conjugates form a complex with atg16 constitutively, the con-
+jugates should function as a complex with atg16 during auto-
+phagosome formation. in fact, the atg12-atg5 conjugate can-
+not localize to the pas in ⌬atg16 yeast strains (12, 15). in
+mammals, atg16l, a functional counterpart of yeast atg16, was
+shown to localize to the isolation membranes together with the
+atg12-atg5 conjugate during autophagosome formation (16).
+although the significance of the atg12-atg5䡠atg16 complex
+in autophagosome formation has been shown, its molecular
+function is still not clearly understood. one identified function
+of the atg12-atg5 conjugate is to promote the formation of the
+atg8-phosphatidylethanolamine (pe) conjugate, the other con-
+jugate essential for autophagosome formation, and the target-
+ing of the atg8-pe conjugate to the pas (12). atg8 is a ubiq-
+2 the abbreviations used are: ubl, ubiquitin-like; pe, phosphatidylethanol-
+amine; lc3, microtubule-associated protein light chain 3; gst, glutathione
+s-transferase; api, aminopeptidase i; pas, pre-autophagosomal structure;
+ca, casamino acid; sd, synthetic defined; pi3k, phosphoinositide 3-kinase;
+pi3p, phosphoinositide 3-phosphate; e1, ubiquitin-activating enzyme; e2,
+ubiquitin carrier protein; e3, ubiquitin-protein isopeptide ligase; hr, helix-
+rich; ⫺n, nitrogen-depleted; ⫺nc, nitrogen- and carbon-depleted.
+march 2, 2007 • volume 282 • number 9
+journal of biological chemistry 6763
+data collection statistics
+x-ray source
+wavelength (å)
+soaking conditions
+resolution range (å)
+outer shell (å)
+cell parameters
+a (å)
+b (å)
+c (å)
+␤(°)
+observed reflections
+unique reflections
+completeness (%)
+rmerge(i)a
+i/␴(i)
+phasing statistics
+resolution range (å)
+no. of sites
+phasing power
+mean figure of merit
+native2
+cu k␣
+1.5418
+50.00–2.50
+2.59–2.50
+66.23
+104.34
+112.23
+92.13
+99,889
+51,153
+96.5 (95.1)b
+0.058 (0.352)
+9.8 (1.74)
+50.00–3.50
+0.5202
+mir phasing
+k2(hgi4)
+cu k␣
+1.5418
+1 mm, 30 min
+50.00–3.30
+3.42–3.30
+66.22
+104.65
+112.03
+92.01
+78,723
+22,841
+98.5 (96.5)
+0.098 (0.286)
+5.6 (2.46)
+50.00–3.50
+1.02
+(nh4)2ptcl2
+cu k␣
+1.5418
+10 mm, 5 min
+50.00–3.60
+3.73–3.60
+66.11
+104.84
+111.69
+92.00
+50,333
+15,864
+87.0 (72.0)
+0.111 (0.284)
+7.0 (3.5)
+50.00–3.50
+0.76
+mad phasing
+se-met
+bl41xu
+0.9795
+50.00–2.00
+2.07–2.00
+66.27
+104.85
+112.91
+92.35
+273,628
+147,086
+71.2 (17.6)
+0.051 (0.242)
+9.8 (1.88)
+50.00–3.00
+1.47/0.90c
+35
+bl41xu
+0.9792
+50.00–2.00
+2.07–2.00
+66.28
+104.85
+112.91
+92.35
+274,319
+147,491
+71.6 (19.1)
+0.052 (0.252)
+9.8 (1.81)
+50.00–3.00
+1.47/0.56c
+35
+bl41xu
+0.9750
+50.00–2.00
+2.07–2.00
+66.28
+104.86
+112.91
+92.35
+271,429
+145,906
+70.8 (13.5)
+0.051 (0.242)
+9.9 (1.91)
+50.00–3.00
+35
+0.75/0c
+structure of atg5䡠atg16 complex
+table 1
+data collection and phasing statistics
+armerge(i) ⫽ (⌺⌺兩ii ⫺ 具i典兩)/⌺⌺ii, where ii is the intensity of the ith observation and 具i典 is the mean intensity. values in parentheses refer to the outer shell.
+bvalues in parentheses refer to the outer shell.
+cvalues to the left and the right of a slash refer to the phasing power for anomalous and dispersive, respectively.
+uitin-like modifier that is first processed by a cysteine protease,
+atg4 (17). the processed atg8 is conjugated to pe dependent
+on atp and two enzymes, atg7 (e1-like) and atg3 (e2-like)
+(18). although atg3, atg7, atg8 (processed form), and atp are
+sufficient for atg8-pe conjugation in vitro (19), the atg12-atg5
+conjugate is also required for atg8-pe conjugation in vivo (12).
+the expression of atg8 is dramatically enhanced upon nutrient
+depletion. under such conditions, atg16 is also required for the
+efficient formation of atg8-pe (12). however, the molecular
+mechanism by which the atg12-atg5 conjugate and atg16 pro-
+mote atg8-pe formation is not clear. recently, we reported the
+crystal structure of plant atg12 and revealed that atg12 is a
+ubiquitin-fold protein (20). however, structural information on
+atg5 and atg16 has been thoroughly lacking, preventing us
+from elucidating the molecular functions of
+the atg12-
+atg5䡠atg16 complex. in this report, we describe the first struc-
+ture of atg5 in complex with the n-terminal region of atg16.
+furthermore, based on structural information, atg16 mutants
+that lost the binding affinity to atg5 were constructed and used
+to clarify the significance of the direct interaction between atg5
+and atg16 in autophagy.
+experimental procedures
+protein expression and purification—expression and purifi-
+cation of atg5䡠atg16-(1–46) and atg5䡠atg16-(1–57) as well as
+the construction of the expression vector of hexahistidine-
+tagged atg5 were described previously (21). the expression
+vectors of gst-fused atg16 and its mutants were constructed
+as follows. the full-length atg16 gene was amplified by pcr
+and inserted into pgex-6p-1 (ge healthcare). mutations lead-
+ing to the indicated amino acid substitutions were introduced
+by pcr-mediated site-directed mutagenesis. all of the con-
+structs were sequenced to confirm their identities and were
+expressed in escherichia coli strain bl21 (de3) cells. after cell
+lysis, gst-fused atg16 and its mutants were purified by
+table 2
+refinement statistics
+atg5䡠atg16-(1–46) atg5䡠atg16-(1–57)
+resolution range (å)
+reflections used
+no. of protein atoms
+no. of water molecules
+r/rfree
+root mean square
+deviation from ideality
+length (å)
+angles (°)
+50.00–2.20
+74,879
+8,882
+321
+0.222/0.250
+50.00–1.97
+28,960
+2,429
+244
+0.215/0.245
+0.006
+1.3
+0.005
+1.2
+sequential chromatography using a glutathione-sepharose 4b
+column (ge healthcare) and a superdex200 gel filtration col-
+umn (ge healthcare). hexahistidine-tagged atg5 was purified
+by sequential chromatography using a nickel-nitrilotriacetic
+acid column (qiagen) and a superdex75 gel filtration column
+(ge healthcare).
+diffraction data collection—crystallization of atg5䡠atg1-
+(1–46) and atg5䡠atg16-(1–57) was performed, and four crys-
+tal forms (i–iv) were obtained as described previously (21).
+crystal form i (atg5䡠atg16-(1–46) complex) was used for
+phase determination, and crystal form iv was used for struc-
+ture determination of atg5䡠atg16-(1–57). collection of
+native data for atg5䡠atg16-(1–46) and atg5䡠atg16-(1–57)
+for final refinement was described previously (21) (tables 1
+and 2). nativedataforphasedeterminationaswellasthemercury
+and platinum derivative data for atg5䡠atg16-(1–46) were col-
+lected on rigaku r-axis iv and vii imaging plate detectors using
+cuk␣radiationfromanin-houserigakurotatinganodex-raygen-
+erator. multiwavelength anomalous diffraction data for the selen-
+omethionine-substituted crystal of atg5䡠atg16-(1–46) at three
+wavelengths were collected on the adsc quantum 315 charge-
+coupled device detector at the bl41xu beamline, spring-8. all
+diffraction data were indexed,
+integrated, and scaled with
+hkl2000 (22).
+6764 journal of biological chemistry
+volume 282 • number 9 • march 2, 2007
+structure determination—the initial phasing was per-
+formed by the combination of multiple isomorphous replace-
+ment and multiwavelength anomalous diffraction methods
+against atg5䡠atg16-(1–46) crystals using the crystallography
+nmr software program suite (23). after multiple isomorphous
+replacement phases were calculated using the data between 50
+and 3.5 å resolution for mercury and platinum derivatives, 35
+selenium sites for selenomethionine-substituted crystals were
+identified from the anomalous difference fourier map calcu-
+lated using the peak data and the multiple isomorphous
+replacement phases. multiwavelength anomalous diffraction
+phases were then calculated using the data between 50 and 3.0
+å resolution for a selenomethionine-substituted crystal at three
+wavelengths and were combined with the multiple isomor-
+phous replacement phases. after density modification, the
+obtained phases were used to calculate the electron density
+map for model building. model building was performed manu-
+ally using programs o (24) and coot (25), and crystallo-
+graphic refinement was performed using crystallography nmr
+software. the structure of atg5䡠atg16-(1–57) was determined
+by the molecular replacement method using the structure of
+atg5䡠atg16-(1–46) as a search model.
+in vitro pulldown assay—gst-fused atg16 and its mutants
+were mixed with hexahistidine-tagged atg5 in phosphate-buff-
+ered saline and incubated at 277 k for 30 min. subsequently, a
+slurry of glutathione-sepharose 4b was added followed by fur-
+ther incubation at 277 k for 30 min. after washing three times
+with phosphate-buffered saline, proteins were incubated with
+10 mm glutathione in 50 mm tris-hcl buffer at ph 8.0. the
+elutes were subjected to 15% sds-page and stained with coo-
+massie brilliant blue.
+in vivo assay—the significance of the complex formation
+between atg16 and atg5 in vivo was examined as follows. point
+mutations were introduced by pcr-based site-directed
+mutagenesis using prs314- or prs424-based plasmids con-
+taining the atg16-ha gene (14) as templates. successful intro-
+duction of the point mutations was confirmed by sequencing.
+these plasmids were introduced into ⌬atg16::leu2 cells on a
+sey6210 (mat␣leu2 ura3 his3 trp1 lys2 suc2) (26) or bj2168
+(mat␣ leu2 trp1 ura3 pep4-3 prb1–1122 prc1-407; yeast
+genetic stock center) background. sey6210 ⌬atg16::leu2
+cells expressing atg16 mutants were cultured in synthetic
+defined (sd) medium ⫹ casamino acids (cas) ⫹ adeura
+medium to logarithmic phase and then transferred to sd (⫺n)
+medium. after culture for 4 h in sd (⫺n) medium, cells were
+collected. the lysates were prepared by the alkaline-trichloro-
+acetic acid method, resuspended in sds-page sample buffer,
+and separated by sds-page, with subsequent immunoblotting
+using anti-aminopeptidase i (anti-api) and anti-atg8 antibod-
+ies. signals were detected using an ecl system (ge healthcare,
+buckinghamshire, uk) with a bioimaging analyzer (las1000;
+fujifilm, tokyo, japan). to separate lipidated and non-lipi-
+dated atg8 by mobility, separating gel containing 6 m urea was
+used (17). accumulation of autophagic bodies was examined
+using bj2168 ⌬atg16::leu2 cells expressing the atg16 mutants.
+cells in logarithmic phase of growth were transferred to s
+(⫺nc) medium. after culture for 4 h in s (⫺nc) medium, cells
+were observed by phase-contrast microscopy. yellow fluores-
+structure of atg5䡠atg16 complex
+cent protein-tagged atg16 mutants were engineered by pcr-
+based site-directed mutagenesis using a plasmid containing the
+atg16-yfp gene (12) as a template. successful introduction of
+the point mutations was confirmed by sequencing. the plas-
+mids were introduced into sey6210 ⌬atg16::leu2 cells. cells
+with the plasmids were cultured in sd ⫹ ca ⫹ adeura
+medium to logarithmic phase and transferred to sd (⫺n)
+medium. after culture for 4 h in sd (⫺n) medium, the cells
+were observed under an inverted fluorescence microscope (ix-
+81; olympus, tokyo, japan) equipped with a cooled charge-
+coupled device camera (coolsnap hq; nippon roper, tokyo,
+japan). images were acquired using metamorph software
+(universal imaging, buckinghamshire, uk) and processed
+using adobe photoshop software (adobe systems, moun-
+tain view, ca).
+results
+overall structure of the atg5䡠atg16-(1–57) complex—as the
+n-terminal half (residues 1–87) of atg16 was reported to be
+sufficient for complex formation with atg5 (14), we con-
+structed two lengths of atg16, atg16-(1–46) and atg16-(1–
+57). both were found to form a stable complex with atg5 (data
+not shown). we prepared and crystallized both atg5䡠atg16-(1–
+46) and atg5䡠atg16-(1–57) complexes (21) and determined
+their structures. the structures of the two complexes were
+essentially identical except for residues 47–57 of atg16; there-
+fore, we refer only to the structure of the atg5䡠atg16-(1–57)
+complex hereafter. the structure of atg5䡠atg16-(1–57) was
+refined against 1.97 å of data to an r-factor of 0.215 and a free
+r-factor of 0.245. the regions corresponding to amino acids
+1–310 of atg5 and 22–57 of atg16 were modeled along with
+244 water molecules (fig. 1a). residues 65–68, 100–108, and
+243–246 of atg5 and residues 1–21 of atg16 lacked defined
+electron density and were omitted from the model. the
+atg5䡠atg16-(1–57) complex has an ␣/␤ fold comprising 10
+␤-strands (␤1–␤10) and 10 ␣-helices (␣1–␣9 of atg5 and a
+helix of atg16), with overall approximate dimensions of
+65 ⫻ 45 ⫻ 45 å.
+atg5 comprises three domains—fig. 1b shows the topology
+of atg5. atg5 comprises two ubiquitin-like domains that flank a
+helix-rich domain. we named the n- and c-terminal ubiquitin-
+like domains ubla (yellow) and ublb (red), respectively, and the
+helix-rich domain between ubla and ublb, hr (green) (fig.
+1b). the linker regions connecting hr with ubla and ublb
+were named l1 and l2, respectively. in addition to the three
+domains and two linkers, atg5 has an additional ␣-helix (␣1) at
+its n terminus (orange) (fig. 1b). a color-coded ribbon diagram
+of atg5 domains is shown in fig. 1c.
+both ubla and ublb comprise a five-stranded ␤-sheet and
+two ␣-helices, which is a conserved feature in all ubiquitin
+superfamily proteins. comparison of ubla and ublb of atg5
+with the protein data bank (pdb) using the dali search engine
+revealed that both domains show structural similarity to ubiq-
+uitin (pdb code 1ubi) and ubiquitin-like proteins, including
+lc3 (pdb code 1ugm, a mammalian ortholog of yeast atg8)
+and atatg12b (pdb code 1wz3, a plant ortholog of yeast
+atg12) with a z-score of 5.8–8.2 and a root mean square devi-
+ation of 2.3–3.0 å for 66–80 residues. fig. 2 shows the
+march 2, 2007 • volume 282 • number 9
+journal of biological chemistry 6765
+structure of ath-atg 16 complex
+b u bla ubl 8
+(11—124) (200-285)
+      
+l2
+1194-195)
+l1
+(125—131)
+h r
+(138-1 93)
+6766 journal of biological chem/stry w volume 282‘ number 9-march 2, 2007
+structure of atg5䡠atg16 complex
+figure 2. sequence alignment of atg5 homologs. the secondary structure elements (colored as in fig. 1b) and residue numbers of scatg5 are shown above
+the alignment. conserved hydrophobic residues are yellow, whereas conserved non-hydrophobic residues are cyan. sequences of lc3 and ubiquitin are also
+aligned with ubla and ublb of atg5 based on their three-dimensional structures.
+sequence alignment of atg5 homologs in which val, leu, ile,
+pro, met, phe, tyr, and trp are all considered to be hydropho-
+bic residues and colored yellow, and other conserved residues
+are colored cyan. the sequences of ubiquitin and lc3 are also
+aligned based on their three-dimensional structures. although
+the sequence identities of ubla and ublb with ubiquitin and
+lc3 are low (11–16%), hydrophobic residues that constitute
+the ubiquitin core are conserved, indicating that the two ubiq-
+uitin-like domains are part of the conserved architecture in
+atg5 family proteins.
+hr comprises three long and one short ␣-helices that
+form a helix-bundle structure. comparison of hr with the
+pdb data base using the dali search engine showed that hr
+is structurally similar to the domain iii of cysg, a multifunc-
+tional siroheme synthase (27) (pdb code 1l3i), with a
+z-score of 4.8 and a root mean square deviation value of 2.9
+å for 53 residues. hr also shows weak structural similarity to
+cue (coupling of ubiquitin conjugation to er), a ubiquitin
+binding domain, with a z-score of 2.2 and a root mean square
+deviation value of 3.4 å for 40 residues. eleven hydrophobic
+residues constituting the core of hr are conserved among
+atg5 homologs (fig. 2), indicating that hr is also part of the
+conserved architecture in atg5 family proteins. lys-149, the
+conjugation site for atg12, is located on ␣4 of hr and
+exposes its side chain (fig. 1).
+structural basis of the atg5 architecture—although each
+domain constituting atg5 has a common fold, the overall
+architecture of atg5 is unique, and no similar structures
+have been reported. three domains, two linkers, and ␣1
+form many interactions with each other and are packed into
+a globular structure. among all pairs, the ubla-ublb pair
+forms the largest interaction surface (1,574 å2). ␣3 of ubla is
+located on the central ␤-sheet of ublb and is surrounded by
+three loops connecting ␤6–␤7, ␤8–␤9, and ␣9–␤10 of ublb
+(fig. 3a, left), thus forming a wide point of contact with
+ublb. this binding mode is partly similar to that between
+ubiquitin and the ubiquitin-interacting motif (28), although
+the direction of the bound helix is inverse (fig. 3a, right).
+compared with the interaction surface between ubla and
+ublb, those between ubla and hr (657 å2) and between ublb
+and hr (824 å2) are rather small. however, ublb and hr form
+extensive hydrophobic interactions with each other (fig. 3b,
+left). pro-201 and phe-276 of ublb interact with val-151 and
+ile-154 of hr, whereas phe-273 of ublb interacts with trp-144
+figure 1. structure of the atg5䡠atg16-(1–57) complex. a, ribbon diagram of the atg5䡠atg16-(1–57) complex. ␣-helices are labeled (␣1–␣9) and indicated by
+red helical ribbons, and ␤-strands are labeled (␤1–␤10) and indicated by cyan arrows. the n and c termini of atg5 are denoted by n5 and c5, respectively,
+whereas those of atg16 are denoted by n16 and c16, respectively. residues adjacent to the disordered regions are numbered. this figure and figs. 3 and 4a were
+prepared using pymol. b, topology of atg5. ␣-helices are indicated by rectangles and ␤-strands by arrows. secondary structure elements of ubla, ublb, and hr
+are yellow, red, and green, respectively, whereas ␣1 is orange. loop regions are indicated by black lines, except for l1 and l2, which are indicated by gray lines.
+residues at the termini of secondary structure elements are numbered. the location of lys-149 is indicated by a black circle. c, stereoview of the ribbon diagram
+of atg5. ubla, ublb, hr, ␣1, l1, and l2 are colored as in b. the side chain of lys-149 is indicated by a blue stick model. the n and c termini are denoted by n and
+c, respectively. this figure and fig. 4b were prepared using molscript (33) and raster 3d (34).
+march 2, 2007 • volume 282 • number 9
+journal of biological chemistry 6767
+structure of atg5䡠atg16 complex
+figure 3. intramolecular interactions constituting the architecture of atg5. a, ribbon diagrams of the
+interaction between ubla and ublb (left) and that between ubiquitin-interacting motif and ubiquitin
+(right). ubla and ubiquitin-interacting motifs are yellow, whereas ublb and ubiquitin are red. b, ribbon
+diagrams of the interaction between hr and ublb (left) and that between the n-terminal and ubiquitin-
+core regions of lc3 (right). the hr and n-terminal regions of lc3 are green, ublb and the ubiquitin-core of
+lc3 are red, and ubla is yellow. the side chains of the residues involved in these interactions as well as
+lys-149 are shown as stick models. residues observed in both atg5 and lc3 are labeled with blue letters. c,
+a ribbon diagram of the interaction between l1 and ubla. ubla, hr, and l1 are yellow, green, and gray,
+respectively. four conserved hydrophobic residues of l1 and two conserved tryptophan of ubla are
+shown as stick models. d, a ribbon diagram of the interaction of ␣1 with its neighbors. ␣1, ubla, ublb, hr,
+and atg16 are orange, yellow, red, green, and cyan, respectively. the side chains of the residues involved in
+the interaction between ␣1 and its neighbors are shown as stick models.
+and val-177 of hr. phe-273 also
+interacts with tyr-44 and pro-86 of
+ubla, thus playing a crucial role in
+gathering the three domains. inter-
+estingly, the loop connecting ␣9 and
+␣10 of ublb, which plays a major
+role in these interactions, is both
+sequentially and structurally similar
+to the equivalent loop of lc3 (figs. 2
+and 3b, right). in lc3, the loop is
+involved in the interaction with two
+n-terminal ␣-helices, ␣1 and ␣2
+(29). val-151 and ile-254 of hr and
+pro-201 and ile-203 of ublb are also
+conserved in lc3 and are involved
+in the interaction between the ubiq-
+uitin fold region and ␣2 of lc3.
+thus, the ubiquitin folds in both
+atg5 and lc3 utilize the common
+residues for the construction of the
+architecture of each protein.
+sequence alignment shows that,
+in addition to the three domains, ␣1
+and l1 are also conserved among
+atg5 homologs, whereas l2 is not
+conserved at all (fig. 2). l1 has four
+hydrophobic residues, leu-126, pro-
+127, ile-131, and pro-132, which are
+conserved among atg5 homologs
+(fig. 2). leu-126 and pro-132 interact
+witheachother,whereaspro-127and
+ile-131 interact with the conserved
+tryptophans trp-73 and trp-83 of
+ubla, respectively (fig. 3c). through
+these interactions, l1 takes on a rigid
+conformation and may contribute to
+fixing the ubla-hr arrangement. in
+addition to the interactions described
+above, the interactions mediated by
+␣1 seem to play critical roles in the
+formation of the atg5 architecture.
+␣1 has two conserved hydrophobic
+residues leu-8 and trp-9 (fig. 2);
+trp-9
+interacts with conserved
+hydrophobic residues, val-177, phe-
+182, and phe-185 of hr, whereas
+leu-8 interacts with a conserved
+hydrophobic residue, leu-270, of
+ublb (fig. 3d). ile-4 of ␣1, which is
+partially conserved, also interacts
+with leu-270. thus ␣1, which is
+located prior to the n terminus of
+ubla, plays an essential role in the
+assembling of the three domains. in
+addition to the
+intramolecular
+interactions, ile-4 and leu-8 of ␣1
+also interact with the hydrophobic
+residues in atg16 (fig. 3d).
+6768 journal of biological chemistry
+volume 282 • number 9 • march 2, 2007
+structure of atg5䡠atg16 complex
+structural basis of the interaction
+between atg5 and atg16—atg16-
+(1–57) comprises an ␣-helix (resi-
+dues 22–40) and its downstream
+loop (residues 41–57). the helix
+moiety of atg16 is bound to the
+groove formed by ubla, ublb, and
+␣1, whereas the loop moiety is
+mainly bound to ubla (fig. 4a).
+the n-terminal residues (residues
+1–21) of atg16 were disordered in
+the crystal and may not interact
+with atg5.
+the detailed interactions observed
+betweenatg5andatg16areshownin
+fig. 4b. the side chains of asp-25,
+arg-31,arg-35,asn-36,glu-39,asp-
+48, and asn-49 of atg16 form hydro-
+philic interactions with atg5. in par-
+ticular, the side chains of arg-35,
+asn-36, and glu-39 are clustered at
+the deep groove at the boundary of
+ubla, ublb, and ␣1 of atg5 and form
+extensive hydrophilic interactions
+with these three regions. three gly-
+cine residues (gly-11, gly-88, and
+gly-254) together with arg-41 and
+asp-92 of atg5, which constitute the
+deep groove, are well conserved
+among atg5 homologs (fig. 2). in
+addition to the hydrophilic interac-
+tions, atg16 also forms hydrophobic
+interactions with atg5.
+ile-255,
+ile-257, pro-258, met-261, and leu-
+270 of ublb and ile-4, leu-7, and
+leu-8 ␱f ␣1 form an extensive hydro-
+phobic surface on which met-24,
+leu-27, leu-28, ile-29, and leu-32 of
+atg16 are bound. furthermore, leu-
+16, arg-36, leu-113, and phe-115 of
+ubla form a hydrophobic cavity in
+which phe-46 of atg16 is bound. in
+contrast, residues 50–57 of atg16
+have few interactions with atg5,
+which is consistent with the observa-
+tion that atg16-(1–46) is sufficient
+for complex formation with atg5.
+to identify the residues of atg16
+crucial
+for the interaction with
+atg5, an in vitro pulldown assay was
+performed
+using hexahistidine-
+tagged atg5 and gst-fused atg16
+mutants. eleven atg16 residues
+(labeled in fig. 4a) were mutated
+with alanine. as shown in fig. 4c,
+arg-35 and phe-46, especially arg-
+35, were crucial for the interaction
+between atg5 and atg16.
+figure 4. structural basis of the interaction between atg5 and atg16. a, an entire view of the interac-
+tion between atg5 and atg16. atg5 is shown with the surface representation colored as in fig. 1b, and
+atg16 is shown as a cyan ribbon diagram. the side chains of atg16 are shown as stick models in which
+oxygen, nitrogen, and sulfur atoms are shown as red, blue, and yellow, respectively. b, stereoview of the
+detailed interaction between atg5 and atg16. atg5 is colored as in fig. 1b, whereas atg16 is cyan. residues
+involved in the interaction between atg5 and atg16 are shown as stick models, in which oxygen, nitrogen,
+and sulfur atoms are shown as red, blue, and yellow, respectively. residues forming hydrophilic interac-
+tions are connected with broken lines. c, in vitro pulldown assay between atg5 and atg16 mutants. gst-
+fused atg16 and its mutants were incubated with hexahistidine-tagged atg5. proteins pulled down with
+glutathione-sepharose 4b resin were subjected to sds-page and stained with coomassie brilliant blue.
+march 2, 2007 • volume 282 • number 9
+journal of biological chemistry 6769
+structure of atg5䡠atg16 complex
+figure 5. interaction between atg5 and atg16 is essential for autophagy. a, api maturation in cells expressing atg16 mutants were monitored. cells
+(sey6210 background) grown in sd ⫹ ca ⫹ adeura medium were collected during the logarithmic phase (starvation ⫺) and at 4 h after transfer into sd (⫺n)
+medium (starvation ⫹). the prepared lysates were separated by sds-page and subjected to immunoblotting with anti-api antibody. b, the accumulation of
+autophagic bodies was examined on the bj2168 background, which lacks vacuolar proteases. cells in the logarithmic phase of growth were transferred to s
+(⫺nc) medium. after culture for 4 h in s (⫺nc) medium, cells were observed by phase-contrast microscopy. wt cells bearing an empty vector (a) and ⌬atg16
+cells bearing an empty vector (b) or expressiong atg16 (c), atg16 r35a (d), atg16 f46a (e), or atg16 d25a (f) are shown. autophagic bodies were indicated by
+arrowheads. bar, 5 ␮m. c, intracellular localization of atg16 mutants was observed. cells (sey6210 background) expressing yellow fluorescent protein-tagged
+atg16 mutants were grown in sd ⫹ ca ⫹ adeura medium to logarithmic phase and transferred to sd (⫺n) medium. after culture for 4 h in sd (⫺n) medium,
+cells were subjected to fluorescence microscopy. arrows indicate atg16 mutants accumulated at the pas. bar, 5 ␮m. d, atg8 lipidation in cells expressing atg16
+mutants was monitored. cells (sey6210 background) grown in sd ⫹ ca ⫹ adeura medium were collected during the logarithmic phase (starvation ⫺) and at
+4 h after transfer into sd (⫺n) medium (starvation ⫹). the prepared lysates were separated by sds-page and subjected to immnoblottting with anti-atg8
+antibody.
+significance of the atg5-atg16 interaction for both atg8 lipi-
+dation and autophagy—to reveal the significance of the direct
+interaction between atg5 and atg16, we measured the in vivo
+activities of two atg16 mutants, r35a and f46a, that lack bind-
+ing affinity to atg5 in vitro. as a control, the atg16 d25a
+mutant, which retains binding affinity to atg5 in vitro, was also
+assayed. the activity of atg16 mutants was first assayed by
+monitoring the maturation of the proform of api (aminopep-
+tidase i), which is transported into vacuoles via the cytoplasm-
+to-vacuole targeting pathway or by autophagy under nutrition-
+rich and starvation conditions, respectively. the protein is then
+processed into a mature form within vacuoles. api maturation,
+which was not observed in ⌬atg16 cells, was restored in cells
+expressing the atg16 d25a mutant to a similar extent as those
+expressing wild-type atg16 (fig. 5a). in contrast, there was
+little restoration of api maturation in cells expressing the r35a
+or f46a mutants of atg16 (fig. 5a). next, the accumulation of
+autophagic bodies in vacuoles was examined using an optical
+microscope. typical accumulation of autophagic bodies was
+observed in wild-type cells and ⌬atg16 cells expressing wild-
+type or d25a atg16 (fig. 5b, a, c, and f), whereas no such accu-
+mulation was observed in either ⌬atg16 cells or those express-
+ing the r35a or f46a mutants of atg16 (fig. 5b, b, d, and e).
+these results support the notion that direct interaction
+between atg5 and atg16 is crucial for autophagy.
+the atg12-atg5䡠atg16 complex localizes to the pas and
+plays a crucial role in autophagosome formation (12), where
+atg5 and atg16 (but not atg12) is necessary for the localiza-
+tion. thus, we next studied whether atg16 mutants can localize
+to the pas using yellow fluorescent protein-tagged atg16 in
+6770 journal of biological chemistry
+volume 282 • number 9 • march 2, 2007
+⌬atg16 yeast strains. wild-type atg16 localized to a punctate
+structure proximal to the vacuole, which corresponds to the
+pas (fig. 5c, top). the atg16 d25a mutant also localized to a
+similar dot structure (fig. 5c, bottom). in contrast, atg16 r35a
+and f46a mutants did not localize to any punctate structures
+and spread in the cytosol (fig. 5c, middle two panels). these
+results suggest that the direct interaction between atg5 and
+atg16 is essential for the localization of atg16 to the pas.
+the expression of atg8 is significantly enhanced under
+starvation conditions, and the atg8-pe level dramatically
+increases compared with that of unconjugated atg8.
+atg8-pe formation was severely diminished in the absence
+of the atg12-atg5 conjugate (12). moreover, in the absence
+of atg16, atg8-pe formation was reduced, and unconjugated
+atg8 was accumulated under starvation conditions but not
+under nutrient-rich conditions (12). therefore, we exam-
+ined atg8-pe formation in ⌬atg16 cells expressing atg16
+mutants.
+in cells expressing the atg16 d25a mutant,
+atg8-pe formation was observed to a similar extent to those
+expressing wild-type atg16 even under starvation condi-
+tions (fig. 5d). in contrast, unconjugated atg8 but not
+atg8-pe was accumulated in cells expressing the r35a or
+f46a mutants of atg16 under starvation conditions to a sim-
+ilar extent as cells transformed with a control vector (fig.
+5d). these results suggest
+interaction
+between atg5 and atg16 is critical for efficient atg8-pe for-
+mation under starvation conditions.
+the direct
+that
+discussion
+in the yeast s. cerevisiae, many atg proteins have been
+observed to cluster into a punctuate structure proximal to
+the vacuole, called the pas. from the pas, isolation mem-
+branes, the precursors of autophagosomes, are thought to be
+formed. the atg12-atg5䡠atg16 complex was found to be
+localized to the pas, suggesting that the complex plays a
+critical role in autophagosome formation. thus far, it has
+been reported that the localization of the atg12-atg5䡠atg16
+complex to the pas depends on both atg5 and atg16, but
+not atg12 (12). however, the significance of the direct com-
+plex formation between atg5 and atg16 remained unclear.
+we have shown herein that the direct interaction between
+atg5 and atg16 is crucial not only for the localization, but
+also for autophagy (fig. 5). furthermore, we have also shown
+that the binding site for atg16 and the conjugation site for
+atg12 are located on the opposite sides of atg5 (fig. 1).
+these results suggest that the atg12-atg5䡠atg16 complex
+localizes to the pas using the surface formed by both atg5
+and atg16. the autophagy-specific phosphoinositide 3-ki-
+nase (pi3k) complex, which itself localizes to the pas (30), is
+known to be essential for targeting the atg12-atg5 conju-
+gate to the pas (12). because pi3k produces phosphoinosit-
+ide 3-phosphate (pi3p), it can be speculated that pi3p is
+produced on the pas by pi3k and then interacts with the
+atg5䡠atg16 complex, either directly or via some pi3p bind-
+ing protein(s), by which the complex is recruited to the pas.
+because the overall architecture of atg5䡠atg16-(1–57) is
+quite novel and the structure contains no known binding
+structure of atg5䡠atg16 complex
+motifs for pi3p, the interaction between the atg5䡠atg16
+complex and pi3p, if it exists, is also thought to be novel.
+atg3, atg7, atg8 (processed form), and atp are necessary
+and sufficient for atg8-pe formation in vitro (19). however, in
+addition to these factors, the atg12-atg5 conjugate is also
+required for atg8-pe formation in vivo (12), and the signifi-
+cance of atg12 in atg8-pe formation was shown by mutational
+analyses (31). the expression level of atg8 is dramatically
+enhanced upon nutrient depletion. under such conditions,
+atg16 is also required for the efficient formation of atg8-pe
+(12). we demonstrated here that atg16 mutants that lack affin-
+ity to atg5 do not promote atg8-pe formation (fig. 5d).
+because most atg5 exists as a conjugate with atg12 in vivo, this
+result suggests that atg16 promotes atg8-pe formation as a
+complex with the atg12-atg5 conjugate. this activity of the
+atg12-atg5䡠atg16 complex is similar to that of e3 enzymes in
+the ubiquitin system. in most cases, e3 binds to both e2 and a
+target protein, thus mediating the transfer of ubiquitin between
+them. the atg5䡠atg16-(1–57) complex shows no structural
+similarity to e3 enzymes, and the molecular mechanism by
+which the atg12-atg5䡠atg16 complex promotes atg8-pe for-
+mation is still unclear. because complex formation between
+atg16 and the atg12-atg5 conjugate is crucial for both the
+promotion of atg8-pe formation and targeting of the atg12-
+atg5䡠atg16 complex to the pas, these two events appear to
+have a strong relationship. atg12 was shown to interact with
+atg3, the e2 enzyme for atg8 lipidation, by yeast two-hybrid
+screening (32). taken together, these results suggest that the
+atg12-atg5䡠atg16 complex binds to both atg3 and the pas,
+thus promoting the transfer of atg8 between atg3 and pe at the
+pas. this idea is consistent with the observation that the
+atg12-atg5䡠atg16 complex is also crucial for the localization of
+atg8-pe to the pas. however, further studies are required to
+elucidate this mechanism, including the identity of the pas
+itself.
+acknowledgments—we thank dr. d. j. klionsky for providing the
+anti-api antibody and r. ichikawa for technical support. the syn-
+chrotron radiation experiments were performed at the bl41xu in the
+spring-8 with the approval of the japan synchrotron radiation
+research institute proposal no. 2004b0839.
+references
+1. seglen, p. o., and bohley, p. (1992) experientia (basel) 48, 158–172
+2. takeshige, k., baba, m., tsuboi, s., noda, t., and ohsumi, y. (1992) j. cell
+biol. 119, 301–311
+3. hara, t., nakamura, k., matsui, m., yamamoto, a., nakahara, y., suzuki-
+migishima, r., yokoyama, m., mishima, k., saito, i., okano, h., and
+mizushima, n. (2006) nature 441, 885–889
+4. komatsu, m., waguri, s., chiba, t., murata, s., iwata, j., tanida, i., ueno,
+t., koike, m., uchiyama, y., kominami, e., and tanaka, k. (2006) nature
+441, 880–884
+5. ogawa, m., yoshimori, t., suzuki, t., sagara, h., mizushima, n., and
+sasakawa, c. (2005) science 307, 727–731
+6. nakagawa, i., amano, a., mizushima, n., yamamoto, a., yamaguchi, h.,
+kamimoto, t., nara, a., funao, j., nakata, m., tsuda, k., hamada, s., and
+yoshimori, t. (2004) science 306, 1037–1040
+7. kuma, a., hatano, m., matsui, m., yamamoto, a., nakaya, h., yoshimori,
+t., ohsumi, y., tokuhisa, t., and mizushima, n. (2004) nature 432,
+1032–1036
+march 2, 2007 • volume 282 • number 9
+journal of biological chemistry 6771
+structure of atg5䡠atg16 complex
+8. tsukada, m., and ohsumi, y. (1993) febs lett. 333, 169–174
+9. mizushima, n., noda, t., yoshimori, t., tanaka, y., ishii, t., george,
+m. d., klionsky, d. j., ohsumi, m., and ohsumi, y. (1998) nature 395,
+395–398
+10. shintani, t., mizushima, n., ogawa, y., matsuura, a., noda, t., and
+ohsumi, y. (1999) embo j. 18, 5234–5241
+11. kuma, a., mizushima, n., ishihara, n., and ohsumi, y. (2002) j. biol.
+chem. 277, 18619–18625
+21. matsushita, m., suzuki, n. n., fujioka, y., ohsumi, y., and inagaki, f.
+(2006) acta crystallogr. f. struct. biol. crystalliz. comm. 62, 1021–1023
+22. otwinowski, z., and minor, w. (1997) methods enzymol. 276, 307–326
+23. bru¨nger, a. t., adams, p. d., clore, g. m., delano, w. l., gros, p.,
+grosse-kunstleve, r. w., jiang, j. s., kuszewski, j., nilges, m., pannu, n. s.,
+read, r. j., rice, l. m., simonson, t., and warren, g. l. (1998) acta
+crystallogr. sect. d. biol. crystallogr. 54, 905–921
+24. jones, t. a., zou, j. y., cowan, s. w., and kjeldgaard, m. (1991) acta
+12. suzuki, k., kirisako, t., kamada, y., mizushima, n., noda, t., and oh-
+crystallogr. sect. a. 47, 110–119
+sumi, y. (2001) embo j. 20, 5971–5981
+13. mizushima, n., yamamoto, a., hatano, m., kobayashi, y., kabeya, y.,
+suzuki, k., tokuhisa, t., ohsumi, y., and yoshimori, t. (2001) j. cell biol.
+152, 657–668
+14. mizushima, n., noda, t., and ohsumi, y. (1999) embo j. 18, 3888–3896
+15. kim, j., huang, w. p., and klionsky, d. j. (2001) j. cell biol. 152, 51–64
+16. mizushima, n., kuma, a., kobayashi, y., yamamoto, a., matsubae, m.,
+takao, t., natsume, t., ohsumi, y., and yoshimori, t. (2003) j. cell sci.
+116, 1679–1688
+17. kirisako, t., ichimura, y., okada, h., kabeya, y., mizushima, n., yoshi-
+mori, t., ohsumi, m., takao, t., noda, t., and ohsumi, y. (2000) j. cell
+biol. 151, 263–276
+18. ichimura, y., kirisako, t., takao, t., satomi, y., shimonishi, y., ishihara,
+n., mizushima, n., tanida, i., kominami, e., ohsumi, m., noda, t., and
+ohsumi, y. (2000) nature 408, 488–492
+19. ichimura, y., imamura, y., emoto, k., umeda, m., noda, t., and ohsumi,
+y. (2004) j. biol. chem. 279, 40584–40592
+20. suzuki, n. n., yoshimoto, k., fujioka, y., ohsumi, y., and inagaki, f.
+(2005) autophagy 1, 119–126
+25. emsley, p., and cowtan, k. (2004) acta crystallogr. sect. d. biol. crystal-
+26. robinson, j. s., klionsky, d. j., banta, l. m., and emr, s. d. (1988) mol. cell.
+logr. 60, 2126–2132
+biol. 8, 4936–4948
+27. stroupe, m. e., leech, h. k., daniels, d. s., warren, m. j., and getzoff,
+e. d. (2003) nat. struct. biol. 10, 1064–1073
+28. swanson, k. a., kang, r. s., stamenova, s. d., hicke, l., and radhakrish-
+nan, i. (2003) embo j. 22, 4597–4606
+29. sugawara, k., suzuki, n. n., fujioka, y., mizushima, n., ohsumi, y., and
+inagaki, f. (2004) genes cells 9, 611–618
+30. obara, k., sekito, t., and ohsumi, y. (2006) mol. biol. cell 17, 1527–1539
+31. hanada, t., and ohsumi, y. (2005) autophagy 1, 110–118
+32. uetz, p., giot, l., cagney, g., mansfield, t. a., judson, r. s., knight, j. r.,
+lockshon, d., narayan, v., srinivasan, m., pochart, p., qureshi-emili, a.,
+li, y., godwin, b., conover, d., kalbfleisch, t., vijayadamodar, g., yang,
+m., johnston, m., fields, s., and rothberg, j. m. (2000) nature 403,
+623–627
+33. kraulis, p. j. (1991) j. appl. crystallogr. 24, 946–950
+34. merritt, e. a., and bacon, d. j. (1997) methods enzymol. 277, 505–524
+6772 journal of biological chemistry
+volume 282 • number 9 • march 2, 2007

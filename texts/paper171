@@ -1,0 +1,1159 @@
+the faseb journal (cid:127) research communication
+telomere 3ⴕ overhang-speciﬁc dna oligonucleotides
+induce autophagy in malignant glioma cells
+hiroshi aoki,*,1 eiji iwado,*,1 mark s. eller,† yasuko kondo,* keishi fujiwara,*
+guang-zhi li,† kenneth r. hess,‡ doris r. siwak,§ raymond sawaya,*,储
+gordon b. mills,§ barbara a. gilchrest,† and seiji kondo*,储,¶,2
+department of *neurosurgery, the university of texas m. d. anderson cancer center, houston,
+texas, usa; †department of dermatology, boston university school of medicine, boston,
+massachusetts, usa; departments of ‡biostatistics and applied mathematics and §molecular
+therapeutics, the university of texas m. d. anderson cancer center; 储department of neurosurgery,
+baylor college of medicine; and ¶the university of texas graduate school of biomedical sciences at
+houston, houston, texas, usa
+telomere 3ⴕ overhang-speciﬁc dna oli-
+abstract
+gonucleotides (t-oligos) induce cell death in cancer
+cells, presumably by mimicking telomere loop disrup-
+tion. therefore, t-oligos are considered an exciting
+new therapeutic strategy. the purpose of this study was
+to elucidate how t-oligos exert antitumor effects on
+human malignant glioma cells in vitro and in vivo. we
+demonstrated that t-oligos inhibited the proliferation
+of malignant glioma cells through induction of non-
+apoptotic cell death and mitochondria hyperpolariza-
+tion, whereas normal astrocytes were resistant to t-
+oligos. tumor cells treated with t-oligos developed
+features compatible with autophagy, with development
+of autophagic vacuoles and conversion of an autoph-
+agy-related protein, microtubule-associated protein 1
+light chain 3 from type i (cytoplasmic form) to type ii
+(membrane form of autophagic vacuoles). a reverse-
+phase protein microarray analysis and western blotting
+revealed that treatment with t-oligos inhibited the
+mammalian target of the rapamycin (mtor) and the
+signal
+transducer and activator of transcription 3
+(stat3). moreover, pretreatment with t-oligos signif-
+icantly prolonged the survival time of mice inoculated
+intracranially with malignant glioma cells compared
+with that of untreated mice and those treated with
+control oligonucleotides (pⴝ0.0065 and pⴝ0.043, re-
+spectively). these results indicate that t-oligos stimu-
+late the induction of nonapoptotic autophagic also
+known as type ii programmed cell death and are thus
+promising in the treatment of malignant glioma.—aoki,
+h., iwado, e., eller, m. s., kondo, y., fujiwara, k., li,
+g.-z., hess, k. r., siwak, d. r., sawaya, r., mills, g. b.,
+gilchrest, b. a., kondo, s. telomere 3ⴕ overhang-
+speciﬁc dna oligonucleotides induce autophagy in
+malignant glioma cells. faseb j. 21, 2918 –2930 (2007)
+key words: t-oligos 䡠 mtor
+malignant gliomas are the most common primary
+brain tumors in adults. the disease has one of the worst
+prognoses of all cancers, with a median survival of 12
+months despite remarkable advances in surgery, radio-
+therapy, and chemotherapy (1, 2). thus, novel treat-
+ment strategies for malignant gliomas are needed.
+telomeres are tandem repeats of a speciﬁc 5⬘-
+ttaggg-3⬘ nucleotide sequence at the ends of chro-
+mosomes (3, 4). telomerase, a ribonucleic acid-protein
+complex, adds telomeric repeats to the ends of telo-
+meres to compensate for the progressive loss (5, 6).
+the essential role of telomeres in protecting chromo-
+some ends from fusion or from being recognized as
+dna damage is mediated by a cap of telomere-associ-
+ated proteins [telomere repeat factors 1 and 2 (trf1
+and 2) (7–9)]. the 3⬘ end of each telomere consists of
+a single-stranded g-rich overhang that inserts into the
+proximal double-stranded telomere and stabilizes a
+loop structure at the chromosome ends (8).
+when the telomere loop structure is disrupted by
+expression of dominant-negative trf2, the telomere 3⬘
+overhang is exposed and degraded, and cell death is
+triggered in certain cell types (9). exposure of the
+telomere 3⬘ overhang due to the opening of the normal
+telomere loop structure may be a physiological signal
+inducing dna damage responses. therefore, dna
+oligonucleotides homologous to the telomere 3⬘ over-
+hang (t-oligos) may mimic this signal in the absence of
+dna damage or telomere disruption. indeed, treat-
+ment with t-oligos induced apoptosis in lymphocytic
+leukemia (10), melanoma cells (11), and breast carci-
+noma cells (unpublished data), whereas a senescent
+phenotype or an early response to dna damage such as
+the phosphorylation of
+the histone variant h2ax,
+yielding ␥-h2ax, was induced in ﬁbroblasts or ﬁbrosar-
+coma cells (12–15). these observations indicate that
+1 these authors contributed equally to this work.
+2 correspondence: department of neurosurgery, the
+university of texas m. d. anderson cancer center, 1515
+holcombe blvd., unit bsrb 1004, houston, tx 77030,
+usa. e-mail: seikondo@mdanderson.org.
+doi: 10.1096/fj.06-6941com
+2918
+0892-6638/07/0021-2918 © faseb
+t-oligos may be useful
+in the treatment of various
+cancers. however, whether t-oligos are effective against
+malignant gliomas is unknown. therefore, in this study,
+we determined the effect of t-oligos on malignant
+glioma cells in vitro and in vivo. treatment with t-oligos
+inhibited the proliferation of malignant glioma cells,
+but not normal human astrocytes (nhas), through
+induction of nonapoptotic autophagy. pretreatment
+with t-oligos markedly suppressed the growth of intra-
+cranial tumors in nude mice. our ﬁndings provide a
+strong basis for treating malignant gliomas with t-
+oligos as a tumor-selective approach.
+materials and methods
+oligonucleotides
+two dna oligonucleotides were designed as described pre-
+viously (10 –15) and purchased from the midland certiﬁed
+reagent company (midland, tx, usa). one was homolo-
+gous to the telomere overhang [11 mer test (t)-oligo: pgt-
+tagggttag], and the other was complementary to this
+sequence [11 mer control (c)-oligo: pctaaccctaac]. oli-
+gonucleotides were resuspended in h2o to provide a 2 mm
+stock solution. for use in experiments, the stock solution was
+diluted into culture medium, ﬁlter-sterilized, and added to
+culture dishes. in all experiments, cells were placed in
+medium containing oligonucleotides at a concentration of
+10 – 80 ␮m. on the basis of previous experiments (10 –15),
+this medium was added only once.
+reagents
+3-methyladenine (3-ma), rapamycin, ag490, and an antibody
+against ␤-actin were purchased from sigma chemical (st.
+louis, mo, usa). antibodies against akt, phospho-akt
+(thr308 and ser473), phospho-glycogen synthase kinase-3
+(gsk3) (ser21/9), mammalian target of rapamycin (mtor),
+phospho-mtor (ser2448), p38, phospho-p38 (thr180/
+tyr182), src, phospho-src (tyr416), and phospho-signal trans-
+ducer and activator of transcription 3 (stat3) (ser727) were
+purchased from cell signaling technology (beverly, ma,
+usa). anti-gsk3 antibody was purchased from santa cruz
+biotechnology (santa cruz, ca, usa). an antibody against
+stat3 was purchased from upstate (charlottesville, va,
+usa). an antibody against the microtubule-associated pro-
+tein 1 light chain 3 (lc3) was kindly provided by dr. tamotsu
+yoshimori (national institute of genetics, mishima, japan).
+cell culture
+human malignant glioma u87-mg and u373-mg cells were
+purchased from american type culture collection (manas-
+sas, va, usa). nhas were kindly provided by dr. kenneth
+aldape (the university of texas m. d. anderson cancer
+center, houston, tx, usa) (16). cells were cultured in
+dmem supplemented with 10% fetal bovine serum (invitro-
+gen, carlsbad, ca), 100 u/ml penicillin (invitrogen), and 2.5
+␮g/ml fungizone (invitrogen) at 37°c in 5% co2. doubling
+times of u87-mg, u373-mg, and nhas were 25.5, 25.2, and
+29.6 h, respectively, indicating that these cells have similar
+proliferative rates in cell culture.
+cell viability assay
+the cytotoxic effect of t-oligos or c-oligos on cultured cells
+was determined using cell proliferation reagent wst-1
+(roche applied science, indianapolis, in, usa), as described
+previously (17). cells were seeded at 2 ⫻ 103 cells/well in a
+96-well plate and incubated at 37°c overnight. the cells were
+treated with 10 – 80 ␮m c-oligos or t-oligos for 3, 5, or 7 days
+and exposed to 10 ␮l of wst-1 reagent for 1 h at 37°c. the
+absorbance at 450 nm was measured in a microplate reader.
+the viability of cells treated with vehicle alone was considered
+to be 100%.
+apoptosis detection assay
+to determine whether treatment with t-oligos induces apo-
+ptosis, we used an annexin v-fitc apoptosis detection kit
+(bd biosciences pharmingen, san diego, ca, usa), accord-
+ing to the manufacturer’s instructions. at 72 h after exposure
+to 40 ␮m c-oligos or t-oligos, the cells were trypsinized and
+incubated with annexin v-fitc and propidium iodide for 15
+min at room temperature in the dark, followed by cytoﬂuoro-
+metric analysis with a facs calibur ﬂow cytometer using
+cellquest software (becton dickinson, san jose, ca, usa).
+at least 10,000 cells were analyzed from each sample. to
+detect apoptosis morphologically, we treated tumor cells with
+10 – 80 ␮m c-oligos or t-oligos for 3 to 7 days, ﬁxed them with
+4% paraformaldehyde, and stained them with hoechst 33258
+(0.5 ␮g/ml) for 15 min, as described previously (18). two
+hundred cells were counted and scored for the incidence of
+apoptotic chromatin changes under a ﬂuorescence micro-
+scope. paclitaxel (4 nm) was used as a positive control to
+induce apoptosis (19).
+electron microscopy
+cells were grown on glass coverslips, treated with c-oligos or
+t-oligos at 40 ␮m for 72 h as described above, and ﬁxed with
+a solution containing 3% glutaraldehyde plus 2% paraformal-
+dehyde in 0.1 m cacodylate buffer, ph 7.3, for 1 h. the
+samples were postﬁxed in 1% oso4 in the same buffer for 1 h
+and then subjected to electron microscopic analysis as de-
+scribed previously (18). representative areas were chosen for
+ultrathin sectioning and viewed with a jem 1010 transmission
+electron microscope (jeol, peabody, ma, usa) at an accel-
+erating voltage of 80 kv. digital images were obtained with the
+amt imaging system (advanced microscopy techniques,
+danvers, ma, usa).
+detection and quantiﬁcation of acidic vesicular organelles
+with acridine orange staining
+autophagy is the process of sequestering cytoplasmic proteins
+into the lytic component and is characterized by the forma-
+tion and promotion of acidic vesicular organelles (avos), as
+described previously (20). to detect the development of
+avos, we treated cells with 40 ␮m c-oligos or t-oligos for
+72 h as described above and then performed vital staining
+with acridine orange as described previously (18). to quantify
+the development of avos, the cells were stained with 1 ␮g/ml
+acridine orange for 15 min, removed from the plate with
+trypsin-edta (invitrogen), and analyzed using the facscan
+ﬂow cytometer and cellquest software (becton dickinson).
+assessment of the involvement of lc3
+lc3, a mammalian homologue of the yeast autophagy-related
+(atg) gene atg8, is recruited to the autophagosome mem-
+autophagy and telomere 3⬘ overhang dna
+2919
+brane during autophagy (21). green ﬂuorescent protein
+(gfp)-tagged lc3-expressing cells can be used to demon-
+strate induction of autophagy (18, 21–23). gfp-lc3 cells
+exhibit diffuse gfp ﬂuorescence under control conditions,
+whereas a punctate pattern of gfp-lc3 ﬂuorescence (gfp-
+lc3 dots) was observed during autophagy. therefore, using
+the gfp-lc3 expression vector kindly provided by dr.
+noboru mizushima (tokyo metropolitan institute of medical
+science, tokyo, japan), we determined the involvement of
+lc3 in cells treated with c-oligos or t-oligos. cells were
+transiently transfected with the gfp-lc3 expression vector
+using fugene 6 transfection reagent (roche). after being
+cultured overnight, cells were treated with 40 ␮m t-oligo or
+c-oligo for 72 h as described above, ﬁxed with 4% parafor-
+maldehyde, and examined under a ﬂuorescence microscope.
+to quantify autophagic cells after treatment, we counted the
+number of autophagic cells (ⱖ5 gfp-lc3 dots per cell)
+among 200 gfp-positive cells.
+western blotting
+soluble proteins were isolated from untreated cells and cells
+treated with 40 ␮m c-oligos or t-oligos for the indicated
+periods for western blotting, as described previously (18).
+equal amounts of protein (40 ␮g) were separated by 10% or
+15% sds-page gel (bio-rad, richmond, ca, usa) and
+transferred to a hybond-p membrane (amersham, piscat-
+away, nj, usa). the membranes were treated with primary
+antibodies (diluted 1:1000) overnight at 4°c and incubated
+for 1 h with a horseradish peroxidase-conjugated anti-mouse
+or anti-rabbit secondary antibody (1:3000 dilution, amer-
+sham) at room temperature for 1 h. bound antibody com-
+plexes were detected using an enhanced chemiluminescence
+reagent (amersham) according to the manufacturer’s in-
+structions.
+reverse-phase protein microarray analysis
+the protein microarray was processed as described previously
+(24). cells treated with 40 ␮m c-oligos or t-oligos for 15, 30,
+or 60 min were lysed with reverse-phase protein microarray
+(rppm) lysis buffer (150 mm nacl; 50 mm hepes, ph 7.4;
+1.5 mm mgcl2; 1 mm egta; 100 mm naf; 10 mm nappi;
+10% glycerol; and 1% triton x-100) supplemented with
+complete protease inhibitor cocktail tablets (roche ap-
+plied science, indianapolis, in, usa). after being centri-
+fuged, supernatants containing postnuclear lysates were col-
+lected. samples were then denatured by the addition of one
+part 4⫻ sds sample buffer (0.25 m tris ph 6.8, 35% glycerol,
+8% sds, and 10% 2-mercaptoethanol) to three parts lysate
+and boiling for 5 min. samples were serially diluted with
+dilution buffer (3 parts rppm lysis buffer⫹1 part 4⫻ sds
+sample buffer) and transferred to 384-well plates for spotting
+onto nitrocellulose-coated fast slides (whatman, florham
+park, nj, usa) using a genetac g3 arrayer (genomic
+solutions, ann arbor, mi, usa). an array consisting of 4 ⫻ 4
+grids (2 samples with 82-fold serial dilutions/grid) arranged
+in 4 rows and 12 columns with 8 or 9 touches per spot was
+programmed for printing. slides not immediately stained
+were stored in desiccant at ⫺20°c.
+slides were precleared by being washed in re-blot plus
+mild antibody stripping solution (chemicon international,
+temecula, ca, usa) for 15 min and washed with rppm
+tbs-t (0.3 m nacl; 0.05 m tris, ph 7.6; and 0.1% tween-20).
+slides were then blocked with 0.2% i-block (applied biosys-
+tems, foster city, ca, usa) in pbs ⫹ 0.1% tween-20, either
+for 30 min at room temperature or overnight at 4°c. after a
+tbs-t rinse, slides were stained using a tyramide-based signal
+ampliﬁcation assay (catalyzed signal ampliﬁcation system,
+dako, carpintiria, ca, usa) and a colorimetric substrate
+(diaminobenzidine). speciﬁcally, slides were further blocked
+for peroxidases, avidin, biotin, and proteins (5 min per
+reagent followed by 3 min. washes with rppm tbs-t) and
+incubated for 45 min with the primary antibodies. after
+rppm tbs-t washes, a 1:10,000 dilution of the appropriate
+biotinylated antibody (vector laboratories, burlingame, ca,
+usa) was added and incubated for 30 min. antibodies were
+diluted in background-reducing antibody diluent (dako).
+the slides were washed, and the three ampliﬁcation reagents
+from the dako csa kit (streptavidin-biotin complex, ampliﬁ-
+cation reagent, and streptavidin-hrp) were added for 15 min
+each, followed by rppm tbs-t washes. for signal detection,
+diaminobenzidine was added to the slides and incubated for
+3–5 min; the reaction was stopped by immersing the slides in
+ddh20 and then air-drying them.
+for sample quantiﬁcation, slides were scanned on an hp
+scanjet 8200 scanner at 600 dpi in grayscale and saved as a
+16-bit tiff ﬁle. the images were analyzed using microvigene
+version 2.2 (vigene tech, north billerica, ma, usa), which
+contains spot-ﬁnding and curve-ﬁtting programs. protein
+levels of samples were determined by converting ln (y0)
+values (set at mean net and total curve mean) to linear values.
+the protein phosphorylation level was standardized by the
+equivalent total protein level, and each value was expressed as
+an intensity showing the ratio of the standardized expression
+in cells treated with c-oligos or t-oligos to that in untreated
+cells.
+flow cytometric analysis of mitochondrial
+membrane potential
+to detect changes in mitochondrial membrane potential,
+rhodamine 123 (molecular probe, eugene, or) was added as
+described previously (18). tumor cells were treated with 40
+␮m c-oligos or t-oligos for 72 h, collected by trypsinization,
+washed with pbs, and stained with 1 ␮m rhodamine 123 in
+pbs in the dark at 37°c for 1 h. samples were washed,
+resuspended in pbs, and then subjected to facscan using
+cellquest software.
+measurement of telomere length
+u373-mg cells were treated with 40 ␮m c-oligos or t-oligos
+or diluent alone for 3 or 5 days, and genomic dna was
+isolated using the dneasy tissue kit (qiagen, valencia, ca,
+usa). telomere length was determined using the telo
+ttaggg telomere length assay (roche) following the pro-
+tocol supplied by the manufacturer. in brief, 1 ␮g of puriﬁed
+genomic dna was digested with hinfi/rsai. the dna frag-
+ments were separated on a 0.8% agarose gel, transferred to a
+nylon membrane for southern blotting, hybridized to a
+digoxigenin-labeled probe speciﬁc for telomeric repeats, and
+incubated with antidigoxigenin-alkaline phosphatase. termi-
+nal restriction fragments were detected by chemilumines-
+cence. the mean telomere length (mtl) was determined by
+scanning the exposed x-ray ﬁlm with a densitometer and
+calculated as described previously (25).
+animal studies
+to determine the therapeutic efﬁcacy of t-oligos for malig-
+nant gliomas, the 8- to 12-wk-old female nude mice (experi-
+mental radiation oncology at m. d. anderson cancer cen-
+ter; 5 or 6 mice in each treatment group) were anesthetized
+with ketamine and xylazine as described previously (26). a
+0.9-mm burr hole was then drilled in the mouse skulls 1.0 mm
+2920
+vol. 21 september 2007
+the faseb journal
+aoki et al.
+anterior and 2.5 mm lateral to the bregma to expose the dura.
+a screw guide with a 0.5-mm central hole and a stylet were
+placed into the burr hole as described previously (27). three
+days after the screw guide was set in the skull, a 10 ␮l syringe
+(hamilton, reno, nv, usa) ﬁtted with a 26-gauge needle was
+connected to a microinfusion pump (harvard apparatus,
+cambridge, ma, usa). through the screw guide, at a depth
+of 3.5 mm from the skull (corresponding to the region of the
+caudate nucleus), 10 ␮l aliquots of 5 ⫻ 104 u87-mg cells
+(untreated or pretreated with 40 ␮m t-oligos or c-oligos for
+24 h in serum-free dmem) were inoculated at a rate of 1.0
+␮l/min. mice were then observed until they became mori-
+bund, lethargic, anorexic, dehydrated, or distressed, at which
+point they were deeply anesthetized and then euthanized by
+intracardiac perfusion-ﬁxation. for histological analysis, the
+brains were removed, sliced coronally into ﬁve, blocks and
+snap-frozen. coronal sections (8 –10 ␮m) were then made. all
+animal studies were performed in the veterinary facilities of
+the university of texas m. d. anderson cancer center in
+accordance with institutional, state, federal, and ethical reg-
+ulations for experimental animal care.
+statistical analysis
+data are mean ⫾ sd. the signiﬁcance of the in vitro experi-
+ments was determined using the student’s t test (2-tailed).
+the kaplan-meier product-limit method was used to estimate
+the survival curves (27). the signiﬁcance of differences in
+survival time between treatment groups was assessed using
+the cox-mantel log-rank test as described previously (27).
+p values of ⬍0.05 were considered statistically signiﬁcant.
+results
+t-oligos decrease the viability of malignant glioma
+cells but not nhas
+to determine the cytotoxic effects of t-oligos on ma-
+lignant glioma cells and their normal counterparts,
+nhas, we treated two malignant glioma cell
+lines
+(u87-mg and u373-mg) and nhas with 40 ␮m t-
+oligos or c-oligos for 3 or 5 days and assessed cell
+viability using a wst-1 cell proliferation assay. as shown
+in fig. 1a, treatment with t-oligos remarkably sup-
+pressed the cell viability of u87-mg and u373-mg cells
+compared with c-oligos (60 vs. 81% viability and 82 vs.
+94% viability on day 3 and 62 vs. 94% viability and 55 vs.
+97% viability on day 5, respectively). the inhibition was
+signiﬁcant in u87-mg and u373-mg cells (p⬍0.001 on
+days 3 and 5). in contrast, treatments with t-oligos only
+slightly diminished the viability of nha cells (88 vs.
+91% viability on day 3 and 80 vs. 85% viability on day 5).
+the differences in cell viability were not signiﬁcant.
+when u373-mg cells were treated with t-oligos at
+10 – 80 ␮m for 3–7 days, the viability was reduced in
+dose- and time-dependent manners (fig. 1b). treat-
+ment with t-oligos at 80 ␮m for 7 days inhibited the
+viability of u373-mg cells to 23% (p⬍0.001, compared
+with c-oligos). these results indicate that t-oligos have
+a tumor-speciﬁc cytotoxicity for malignant glioma cells.
+t-oligos do not signiﬁcantly affect apoptosis in
+malignant glioma cells
+to determine whether u87-mg and u373-mg cells
+treated with t-oligos undergo increased apoptosis, we
+performed apoptosis detection assays. the annexin
+v-fitc apoptosis detection assay revealed no signiﬁ-
+cant increase in apoptotic u373-mg cells treated with
+40 ␮m c-oligos or t-oligos for 72 h compared with
+control (vehicle alone; fig. 2a). a 4 nm concentration
+of paclitaxel, which was used as a positive control to
+induce apoptosis in malignant glioma cells, induced
+apoptosis in 15% of u373-mg cells. similar results were
+observed in u87-mg cells treated with 40 ␮m t-oligos
+and c-oligos for 72 h (data not shown). to determine
+the incidence of apoptosis morphologically, we stained
+the nuclei of treated tumor cells with hoechst 33258.
+as shown in fig. 2b, apoptotic morphological charac-
+teristics such as chromatin condensation and nuclear
+fragmentation were detected in u373-mg cells treated
+with 4 nm paclitaxel but not in those treated with 40
+␮m c-oligos or t-oligos. to quantify the incidence of
+apoptosis, we counted 200 cells and scored for the
+incidence of apoptosis. treatment with paclitaxel at 4
+nm for 72 h induced apoptosis in 15% of u87-mg cells
+and 11% of u373-mg cells (p⬍0.01 compared with
+control; fig. 2c). on the other hand, treatments with
+t-oligos at 40 ␮m for 72 h induced apoptosis in 5.5% of
+u87-mg cells and 3.4% of u373-mg cells. compared
+with control or c-oligos treatment, t-oligos treatment
+did not signiﬁcantly increase apoptotic cells. even when
+u373-mg cells were treated with t-oligos at 80 ␮m for
+7 days, ⬍10% of u373-mg cells were apoptotic (fig.
+2d). paclitaxel at 4 nm for 7 days induced apoptosis in
+30% of u373-mg cells. these results indicate that the
+main growth inhibition induced by t-oligos in these
+malignant glioma cells is not due to induction of
+apoptosis, although apoptotic pathway was activated to
+some extent by t-oligos, particularly at late time points
+and high concentrations.
+t-oligos induce autophagy in malignant glioma cells
+malignant glioma cells treated with various anticancer
+agents undergo autophagy rather than apoptosis (28).
+we used electron microscopic analysis to determine
+whether t-oligos induce autophagy in malignant gli-
+oma cells. as shown in fig. 3a, numerous autophagic
+vacuoles were observed in u373-mg cells treated with
+40 ␮m t-oligos for 72 h, whereas untreated u373-mg
+cells or u373-mg cells treated with 40 ␮m c-oligos for
+72 h exhibited few autophagic features. in u373-mg
+cells incubated with 4 nm paclitaxel for 72 h, we
+observed fewer autophagic vacuoles with clear chroma-
+tin condensation and nuclear fragmentation, which is
+characteristic of apoptosis. as expected based on the
+data of the annexin v assay and hoechst 33258 stain-
+ing, we found no evidence of apoptosis in u373-mg
+cells treated with 40 ␮m c-oligos or t-oligos for 72 h.
+autophagy and telomere 3⬘ overhang dna
+2921
+figure 1. effect of t-oligos on malignant glioma cells. a) effect of t-oligos on cell viability of malignant glioma u87-mg and
+u373-mg cells and nhas. after being exposed to 40 ␮m c-oligos or t-oligos for 3 or 5 days, cell viability was determined using
+a wst-1 assay. viability of cells treated with vehicle alone was considered to be 100%. *p ⬍ 0.001 compared with c-oligos on
+days 3 and 5, respectively. results are means ⫾ sd of 3 independent experiments. b) effect of t-oligos on cell viability of
+malignant glioma u373-mg cells. after being exposed to 10 to 80 ␮m c-oligos or t-oligos for 3, 5, or 7 days, cell viability was
+determined using a wst-1 assay. viability of cells treated with vehicle alone was considered to be 100%. *p ⬍ 0.001 and **p ⬍
+0.005 compared with c-oligos on days 3, 5, and 7, respectively. results are means ⫾ sd of 3 independent experiments.
+development of avos by t-oligos
+to detect and quantify the t-oligo-induced increase in
+fractional volume and acidity of avos, we stained
+treated tumor cells with acridine orange for ﬂow cyto-
+metric analysis. as shown in fig. 3b, 40 ␮m t-oligos for
+72 h increased the amount and frequency of red
+ﬂuorescence (y axis) in u373-mg and u87-mg cells,
+indicating development of avos from 3.7 to 60.9% and
+from 2.6 to 30.1%, respectively. in contrast, treatment
+with 40 ␮m c-oligos for 72 h induced only a modest
+increase in avos (7.2% in u373-mg cells and 2.7% in
+u87-mg cells).
+induction of gfp-lc3 dots by t-oligos
+we also assessed the presence of a punctate pattern of
+gfp-lc3 expression (gfp-lc3 dots) to determine
+whether lc3 is concentrated in autophagic vacuoles in
+malignant glioma cells by t-oligos. u373-mg and
+u87-mg cells were transiently transfected with gfp-
+lc3 expression vector for 24 h and then treated with
+c-oligos or t-oligos at 40 ␮m for an additional 72 h, as
+described previously (18, 23). the gfp-lc3-transfected
+cells showed diffuse distribution of gfp-lc3 under
+untreated conditions or in the presence of c-oligos,
+whereas t-oligo-treated u373-mg and u87-mg cells
+showed a marked increase in number and frequency of
+gfp-lc3 dots (ⱖ5 dots per cell; fig. 3c, top). this gfp
+ﬂuorescence pattern represents the presence of auto-
+phagic vacuoles and indicates that lc3 was recruited to
+autophagic vacuoles in both tumor cell lines treated
+with t-oligos. to quantify the induction of cells express-
+ing gfp-lc3 dots, we counted 200 gfp-positive cells
+for each treatment. as shown in fig. 3c (bottom),
+18.2% of u373-mg cells and 25.7% of u87-mg cells
+2922
+vol. 21 september 2007
+the faseb journal
+aoki et al.
+figure 2. effect of t-oligos on induction of apoptosis. a)
+annexin v-fitc assay. after u373-mg cells were treated
+with vehicle alone (control), 40 ␮m c-oligos or t-oligos, or
+4 nm paclitaxel for 72 h, an annexin v-fitc analysis was
+performed. b) hoechst 33258 staining. nuclei of u373-mg
+cells treated as described in a were stained with hoechst
+33258 to detect apoptosis morphologically. arrowheads
+indicate representative apoptotic cells; bars ⫽ 50 ␮m. c)
+percentage of apoptotic cells in u373-mg and u87-mg
+cells treated as described in a. results are means ⫾ sd of
+3 independent experiments. *p ⬍ 0.01 compared with
+control. d) percentage of apoptotic cells in u373-mg cells
+treated with 10 – 80 ␮m c-oligos or t-oligos, or 4 nm
+paclitaxel for 3–7 days. results are means ⫾ sd of 3
+independent experiments.
+treated with t-oligos at 40 ␮m for 72 h showed gfp-
+lc3 dots, whereas these autophagic features were de-
+tected in only 5.2% of untreated u373-mg cells and
+7.2% of untreated u87-mg cells. the number of cells
+expressing gfp-lc3 in a punctate pattern was signiﬁ-
+cantly increased in u373-mg and u 87-mg cells treated
+with t-oligos compared those treated with c-oligos
+(p⬍0.01).
+increase in lc3-ii expression by t-oligos
+a recent investigation showed that there are two forms
+of the lc3 proteins in cells; lc3-i and lc3-ii (21).
+lc3-i is the cytoplasmic form of lc3 and is processed
+into lc3-ii, which is associated with the autophagoso-
+mal membrane. therefore, the amount of lc3-ii is
+associated with autophagy induction. western blotting
+with anti-lc3 antibody revealed that the expression of
+lc3-i and lc3-ii proteins markedly increased in
+u373-mg cells treated with 40 ␮m t-oligos for 48 h
+compared with that in cells treated with c-oligos under
+the same treatment conditions (fig. 3d), suggesting
+that t-oligos induce the synthesis of lc3 protein and
+the conversion of a substantial fraction of lc3-i into
+lc3-ii. these results together indicate that t-oligos but
+not c-oligos induce autophagy in malignant glioma
+cells.
+effect of inhibition of t-oligo-induced autophagy on
+malignant glioma cells
+whether anticancer treatments-induced autophagy is a
+protective response or nonapoptotic cell death is still
+debatable (28). therefore, we used 3-ma to inhibit
+t-oligo-induced autophagy as described previously
+(27). treatment with 3-ma (2.0 mm) in the presence of
+40 ␮m t-oligos for 72 h suppressed the development of
+avos in u87-mg cells (down to 11.7%) and u373-mg
+cells (down to 0.9%). as shown in fig. 3e, the de-
+creased viability of u87-mg and u373-mg cells was
+signiﬁcantly reversed by addition of 3-ma (p⬍0.01
+each). these results indicate that t-oligo-induced au-
+tophagy mediates cell killing effect rather than protec-
+tive reaction.
+t-oligos inhibit the mtor or stat3
+signaling pathway
+to screen for potential molecular pathways responsible
+for t-oligo-induced cytotoxicity, we conducted rppm
+autophagy and telomere 3⬘ overhang dna
+2923
+figure 3.
+induction of autophagy in malignant glioma cells by t-oligos. a) electron micrographs showing ultrastructure of
+u373-mg cells treated with vehicle alone (control), 40 ␮m c-oligos or t-oligos, or 4 nm paclitaxel for 72 h. n indicates the
+nucleus; arrows and arrowheads indicate empty and autophagic vacuoles, including residual materials, respectively; bars ⫽ 2 ␮m.
+b) development of avos in malignant glioma cells treated with t-oligos. u373-mg and u87-mg cells treated with 40 ␮m
+c-oligos or t-oligos for 72 h were stained with 1 ␮g/ml acridine orange and subjected to ﬂow cytometric analysis. fl1-h
+indicates green color intensity, and fl3-h shows red color intensity. top of grid was considered as avos. c, top: gfp-lc3 dots
+in malignant glioma cells treated with t-oligos. u373-mg and u87-mg cells transfected with the gfp-lc3 expression vector
+were treated with vehicle alone (control) or 40 ␮m c-oligos or t-oligos for 72 h. arrows indicate representative autophagic cells;
+bars ⫽ 20 ␮m. (bottom), quantiﬁcation of autophagic u373-mg and u87-mg cells treated as described in top. results are
+means ⫾ sd of 3 independent experiments. *p ⬍ 0.01 compared with c-oligos. d) expression of lc3-i and lc3-ii proteins in
+malignant glioma cells treated with t-oligos. proteins were harvested from untreated u373-mg cells and u373-mg cells treated
+with 40 ␮m c-oligos or t-oligos for 24 and 48 h. aliquots of 40 ␮g of protein extract were used for immunoblotting assay using
+anti-lc3 antibody. anti-␤-actin antibody was used for loading-equivalence of proteins. e) effect of autophagy inhibition on
+cytotoxicity of t-oligos. after u87-mg and u373-mg cells were treated with 40 ␮m t-oligos in the presence or absence of 3-ma
+for 72 h, cell viability was determined using a wst-1 assay. *p ⬍ 0.01. results are means ⫾ sd of 3 independent experiments.
+2924
+vol. 21 september 2007
+the faseb journal
+aoki et al.
+compared with c-oligos,
+the phosphorylation of
+stat3 at ser727, which is associated with cell death
+(32), was suppressed in both tumor cells 30 and 60 min
+after exposure to t-oligos. t-oligos increased the phos-
+phorylation level of gsk3 at ser21/9, which is recog-
+nized as a key component of cell growth and death
+(33), in u373-mg cells at 15 min and in u87-mg cells
+later. on the other hand, the phosphorylation of the
+intracellular proto-oncogene src at tyr416, which is
+related to the akt pathway (34), was increased in
+u87-mg cells 30 min after treatment with t-oligos but
+was not affected in u373-mg cells. these results indi-
+cate that phosphorylations of signaling molecules in
+several pathways are altered differently and/or op-
+posed each other in u87-mg and u373-mg cells.
+assay for signaling through the pi3k/akt/mtor, the
+ras/mitogen-activated protein kinase (mapk) path-
+way, cell cycle, pkc, src, jak/stat, and apoptosis
+pathways. tor kinase—mtor in mammalian cells—is
+located upstream of autophagy-associated genes and
+regulates the autophagic pathway (29). in addition, not
+only the mtor and its upstream molecule akt but also
+mapks play a key role in regulating autophagy (28, 30,
+31). therefore, we focused on these molecules. as
+shown in supplemental fig. 1, the phosphorylation of
+akt at thr308 and ser473 was increased in u87-mg cells
+15 and 30 min after exposure to t-oligos, whereas it was
+suppressed in u373-mg cells 15 min after the addition
+of t-oligos. t-oligos inhibited the phosphorylation of
+mtor at ser2448 in both tumor cell lines at 15 min but
+stimulated the phosphorylation in u373-mg cells at 30
+and 60 min. the phosphorylation of p38 at thr180/
+tyr182, one of mapks, was increased in u87-mg but not
+u373-mg cells by c-oligos compared with t-oligos.
+to conﬁrm the data of rppm, we conducted western
+blotting at the same treatment conditions. as shown in
+fig. 4a, western blotting was consistent with some
+results of rppm but not with others. in particular, the
+phosphorylation of akt was not affected in both tumor
+cells by t-oligos, but the phosphorylation of mtor was
+inhibited in u87-mg cells but not u373-mg cells 60
+min after t-oligo treatment. t-oligos suppressed the
+phosphorylation of stat3 but not p38 in both tumor
+cells 60 min after the treatment. one explanation for
+the discrepancy between rppm and western blotting
+may be that antibodies are not absolutely mono-speciﬁc
+and that rppm cumulates speciﬁc and non-speciﬁc
+labeling, although mono-speciﬁc bands can be chosen
+in western blotting. to analyze the data of western
+blotting statistically, we repeated the same experiments
+three times. as shown in fig. 4b, there was no signiﬁ-
+cant change in the phosphorylation of akt and p38. in
+u87-mg cells, the phosphorylation of mtor was sig-
+niﬁcantly decreased after 60 min of exposure to t-
+oligos (p⬍0.05). because mtor is located downstream
+of akt, the inhibitory effect of t-oligos on mtor in
+u87-mg cells may be akt independent. moreover,
+t-oligos signiﬁcantly inhibited the phosphorylation of
+stat3 in u87-mg cells (p⬍0.05, 60 min) and in
+u373-mg cells (p⬍0.05, 30 min; p⬍0.01, 60 min).
+to assess the involvement of mtor and stat3 in
+cytotoxicity of t-oligo, we used an inhibitor of each
+pathway and determined whether inhibition of mtor
+or stat3 affects the effect of t-oligos. to inhibit the
+mtor pathway, rapamycin, an inhibitor of mtor, was
+used as described previously (35). as shown in fig. 4c,
+the addition of rapamycin (1 nm) signiﬁcantly en-
+hanced the effect of t-oligos on the viability of u87-mg
+cells (p⬍0.001). on the other hand, we used ag490, an
+inhibitor of stat3, as described previously (36). as
+shown in fig. 4d, the addition of ag490 (50 ␮m)
+signiﬁcantly increased the sensitivity of u87-mg cells
+(p⬍0.001) and u373-mg cells (p⬍0.001) to t-oligos.
+these results indicate that inhibition of the mtor or
+stat3 pathway plays a key role in cytotoxicity of
+t-oligo in malignant glioma cells.
+to clarify the relationship between autophagy and
+the effects of rapamycin and ag490, we determined
+whether these inhibitors affect t-oligo-induced autoph-
+agy in u87-mg and u373-mg cells by using gfp-lc3
+dot assay. as shown in fig. 4e, the addition of rapamy-
+cin increased the percentage of t-oligo-induced auto-
+phagic cells with gfp-lc3 dots compared with c-oligo
+treatment (31– 48% in u87-mg cells and 35–57% in
+u373-mg cells, p⬍0.01). in addition, ag490 aug-
+mented the incidence of autophagic cells caused by
+t-oligos compared with c-oligos (21–37% in u87-mg
+cells and 38 –58% in u373-mg cells, p⬍0.01). these
+results indicate that
+the effects of rapamycin and
+ag490 are positively implicated in t-oligo-induced
+autophagy.
+t-oligos hyperpolarize mitochondria
+a recent study showed that radiation and rapamycin
+lead to hyperpolarization of mitochondria and subse-
+quently induce autophagy in breast cancer cells (37).
+therefore, to determine whether t-oligos cause hyper-
+polarization of mitochondria in malignant glioma cells,
+we measured the mitochondria membrane potential
+with rhodamine 123. as shown in fig. 5, compared with
+c-oligos, treatment with 40 ␮m t-oligo for 72 h in-
+duced an increase in membrane potential from 0.1 to
+38.8% in u373-mg cells and 0.7 to 31.2% in u87-mg
+cells,
+indicating mitochondrial hyperpolarization by
+t-oligos.
+t-oligos do not affect telomere length
+to rule out the possibility that t-oligos promote accel-
+erated telomere shortening contributing to autophagy
+in malignant glioma cells, we determined the mtl
+after treating u373-mg cells with 40 ␮m c-oligos or
+t-oligos for 3 or 5 days. treatment with t-oligos for 3 or
+5 days did not alter the mtl (5.72 or 5.92 kb with
+t-oligos treatment; 5.75 or 5.69 kb without treatment;
+and 5.76 or 5.71 kb with c-oligos treatment), respec-
+tively (fig. 6). these results, together with those of
+recent studies (12, 14), indicate that t-oligos do not
+autophagy and telomere 3⬘ overhang dna
+2925
+2926
+a “37"“5 u373-mg
+c-oligo t-oligo c—oiigo t-oligo
+u 15 30 60 15 30 60 (mm) 0 15 30 60 15 30 60 (min)
+m—v phosphor“! e phosphoakl
+w toia‘aki m tokalakt
+m phusuhwm phasphame
+phospho'dse
+phuspho-dgb
+   
+-m-— tdia‘stats iozalsmm
+u97—mg p-amvs um-ms p-akm: uwmg witor ujwmg n—mtor
+' v v 7 am».
+43m.“ -w-v4m~
+v r gum “
+= ‘ = ‘ 5 ‘ . 5 ‘
+e e e ‘ - e
+mlnuln minum mlnulll mlnuln
+u-1-mg mm: um—ma paw:
+ubt-mg p—pu um-mg p-nsu , 3
+7 'l :cva 25 25
+um
+v 5“ g 2 g z ‘
+v- a 9mm:
+e g ‘ g ‘5 g ‘ 5 own:
+1; ‘ -+__*_/_," g ‘ 5 . —
+- - < < ‘
+" us ‘ ‘ us.
+‘ _. m u h o ‘s an so a ‘5 an an
+mum mlnutu mmum anm
+0 mm: "n. d “mig w" uan-mg cull-
+m:
+w w .n
+ma i i ‘ w ‘ . 4" ’
+g g x _ ‘
+i w ‘ 3 en ~ 3 “‘
+s n x x .. ‘ .. ‘
+3 m7 5 n e w
+“ i = a;
+x «7 u m u m
+x a:
+zn in
+n h n ‘
+camml cum mgr; “ w “
+a6430 concentrmlon (um acne cancemmlnn [pm)
+e um; «us uznum e...;
+w m
+w w
+a w
+a w 5;
+3 m e “‘
+a t w
+" mm, wm" mm kua "mm mun
+vol 21 september 2007 the faseb journal aoki et al,
+figure 5. hyperpolarization of mitochondrial membrane
+potential in malignant glioma cells by t-oligos. rhodamine
+123 was used to determine changes in mitochondrial mem-
+brane potential. after treatment with 40 ␮m c-oligos or
+t-oligos for 72 h, u373-mg and u87-mg cells were collected
+and stained with rhodamine 123. filled areas, control; open
+areas, treated with c-oligos or t-oligos.
+affect telomere length even when antitumor effect is
+observed.
+t-oligos reduce tumorigenesis in vivo
+to determine whether the in vitro effect of t-oligos is
+recapitulated in in vivo settings, u87-mg cells were
+treated with 40 ␮m c-oligos or t-oligos for 24 h and
+inoculated into the brain of nude mice for survival
+studies. as shown in fig. 7a, all ﬁve control mice died
+of intracranial tumors within 42 days (median survival,
+38 days) after inoculation of 5 ⫻ 104 untreated u87-mg
+cells. the median survival of six mice intracranially
+inoculated with u87-mg cells pretreated with c-oligos
+was 40 days; there was no signiﬁcant difference between
+figure 6. effect of t-oligos on mtl in malignant glioma
+u373-mg cells. u373-mg cells were treated with diluent
+alone (d) or 40 ␮m t-oligos (t) or c-oligos for 3 or 5 days,
+and the mtls were analyzed. lanes 1 and 2 contained high
+(h) molecular and low (l) molecular weight standard telo-
+meric dna.
+no treatment and c-oligos treatment (p⫽0.21). on the
+other hand, survival of 4 of the 6 mice treated with
+t-oligos was prolonged to 71 days; the 2 surviving mice
+were killed on day 85 for histological analysis (median
+survival of all 6 mice⬎65 days). the survival time of the
+animals was signiﬁcantly higher in the t-oligo-treated
+group than in the untreated and c-oligo-treated groups
+(p⫽0.0065 and p⫽0.043, respectively). u87-mg cells
+pretreated with 40 ␮m c-oligos for 24 h developed into
+intracranial tumors, and the midline was shifted later-
+ally by the mass effect (fig. 7b). in contrast, in brain
+tissues harvested from the two mice that survived 85
+days after inoculation of u87-mg cells pretreated with
+40 ␮m t-oligos for 24 h, tumors were histologically
+undetectable. those two mice showed no weight loss or
+neurological deﬁcits, such as hemiparesis or seizures.
+these results indicate that t-oligos reduce tumorigen-
+esis in vivo, suggesting that they have the potential to
+figure 4. effect of t-oligos on mtor or stat3 pathway in malignant glioma cells. a) western blotting assay. proteins were
+harvested from u373-mg and u87-mg cells treated with 40 ␮m c-oligos or t-oligos for 15– 60 min. aliquots of 40 ␮g of protein
+extract were used for the immunoblotting assay using an antibody against phospho-ser473-speciﬁc akt, phospho-ser2448-speciﬁc
+mtor, phospho-thr180/tyr182-speciﬁc p38, or phospho- ser727-speciﬁc stat3. antitotal akt, antitotal mtor, antitotal p38,
+and antitotal stat3 antibodies were used to conﬁrm equal loading of proteins. b) statistical analysis of western blotting. the
+phosphorylation levels of akt at ser473, mtor at ser2448, p38 at thr180/tyr182, and stat3 at ser727 were standardized by the
+equivalent total protein level, and each value was expressed as an intensity showing the ratio of the expression in tumor cells
+treated with c-oligos or t-oligos to that in untreated cells. *p ⬍ 0.05 and **p ⬍ 0.01 compared with c-oligos, respectively. results
+shown are the means ⫾ sds of three independent experiments. c) effect of rapamycin on cytotoxicity of t-oligo for u87-mg
+cells. after being exposed to 40 ␮m c-oligos or t-oligos with or without rapamycin (1 nm) for 3 days, cell viability was
+determined using a wst-1 assay. viability of cells treated with vehicle alone was considered to be 100%. *p ⬍ 0.001. results are
+means ⫾ sd of 3 independent experiments. d) effect of ag490 on t-oligo’s cytotoxicity for u87-mg and u373-mg cells. after
+being exposed to 40 ␮m c-oligos or t-oligos with or without ag490 (50 ␮m) for 3 days, cell viability was determined using a
+wst-1 assay. the viability of cells treated with vehicle alone was considered to be 100%. *p ⬍ 0.001 and **p ⬍ 0.005. results
+are means ⫾ sd of 3 independent experiments. e) effect of rapamycin and ag490 on t-oligo-induced autophagy. u87-mg and
+u373-mg cells transfected with gfp-lc3 expression vector were treated with 40 ␮m c-oligos or t-oligos in the presence of
+vehicle, rapamycin (1 nm), or ag490 (50 ␮m) for 72 h. percentage of cells with gfp-lc3 dots was quantitated. results are
+means ⫾ sd of 3 independent experiments. *p ⬍ 0.01 compared with c-oligos.
+autophagy and telomere 3⬘ overhang dna
+2927
+the duplex region (8). disruption of this loop structure
+leads to exposure and degradation of the 3⬘ overhang
+and eventually to the induction of dna damage re-
+sponses (9). accumulating evidence shows that t-oli-
+gos, which we hypothesize mimic telomere loop disrup-
+tion and overhang exposure,
+induce apoptosis or
+senescence in malignant cells from multiple cell lin-
+eages (10 –15) but have far less effect on the normal
+counterparts of these cells (11, 14). another study
+demonstrated that t-oligos pretreatment reduced the
+mutation rate and photocarcinogenesis in uv-irradi-
+ated mice (38) and decreased the expression of cyclo-
+oxygenase-2 in human skin explants (39), suggesting
+additional anticancer mechanisms of action for t-
+oligos. in the present study, t-oligos induced autoph-
+agy instead of apoptosis in malignant glioma cells. both
+autophagy and apoptosis represent
+forms of pro-
+grammed cell death; however, the molecular mecha-
+nisms are markedly different in both cases. this dis-
+crepancy might be due to the cancer cell type tested
+because malignant glioma cells have a tendency to
+undergo autophagy rather than apoptosis after antican-
+cer treatments such as radiation and chemotherapy
+(23, 40 – 44).
+autophagy is a process in which intracellular mem-
+brane structures sequester proteins and organelles to
+degrade and recycle these materials (45). these re-
+sponses are dominated by the appearance and accumu-
+lation of avos (20). induction of autophagy has been
+seen in various cell conditions,
+including nutrient
+deprivation, differentiation, aging, and cancer therapy
+(28, 30, 31, 46). in lower organisms, autophagy allows
+survival during stress by generating energy from intra-
+cellular sources. however, prolonged autophagy results
+in cell death. thus, autophagy is best thought of as a
+temporary stress survival process that eventuates into
+cell death. thus, autophagy could both increase or
+decrease tumor development depending on the con-
+text. autophagy has been frequently compared with
+apoptosis as a response of cancer cells to treatments on
+the basis of
+its morphological appearances; pro-
+grammed cell death type i (apoptosis) and type ii
+(autophagic cell death) (47). apoptosis has typical
+morphological and biochemical characteristics such as
+nuclear condensation and fragmentation and is associ-
+ated with caspase activation. in this study, ⬍10% of
+apoptosis was observed in t-oligo-treated u373-mg
+cells, although paclitaxel induced apoptosis in 30% of
+the same cell line. on the other hand, autophagic cell
+death is generally caspase independent (48) but also
+associated with typical morphological changes includ-
+ing induction of multilamellar vesicles. it appears likely
+that crosstalk between apoptosis and autophagy exists
+with the balance determining why some tumor cells die
+from apoptosis and others from autophagy.
+the rppm is best used under these circumstances to
+determine which signaling molecules and pathways
+warrant further exploration. thus, we used these to
+direct western blotting studies and perform statistical
+analysis on multiple samples. our data indicated the
+figure 7. effect of t-oligos on growth of intracranial u87-mg
+tumors in nude mice. u87-mg cells (5⫻104) were untreated
+or pretreated with 40 ␮m c-oligos or t-oligos for 24 h and
+intracranially inoculated into nude mice. a) curves showing
+overall survival of nude mice after intracranial injection of
+treated or untreated u87-mg cells. the kaplan-meier prod-
+uct-limit method was used to estimate survival curves. p values
+were calculated against the untreated control. b) hematoxy-
+lin-and-eosin-stained brain tissues of nude mice injected with
+u87-mg cells treated with 40 ␮m c-oligos or t-oligos for 24 h.
+bar ⫽ 1.0 mm.
+prevent the development of malignant glioma and, in a
+subset of animals, induce pathological complete remis-
+sions.
+discussion
+in this study, we demonstrated that t-oligos inhibited
+the growth of malignant glioma cells in vitro and in vivo
+without decreases in the viability of nhas, suggesting
+the existence of a favorable therapeutic index. treat-
+ment with t-oligos induced nonapoptotic autophagy
+associated with down-regulation of
+the mtor or
+stat3 signaling pathway in malignant glioma cells.
+mitochondrial hyperpolarization, which occurs in radi-
+ation-induced autophagy (37), was observed in malig-
+nant glioma cells undergoing autophagy. these ﬁnd-
+ings suggest that t-oligos are a promising therapeutic
+agent for managing malignant gliomas exhibiting a
+novel mechanism of induction of cell death.
+the 3⬘ end of each telomere forms a loop structure
+with the double-stranded chromosome folded back and
+the loop is secured by insertion of the 3⬘ overhang into
+2928
+vol. 21 september 2007
+the faseb journal
+aoki et al.
+involvement of mtor or stat3 signaling pathway in
+the cytotoxicity of t-oligo for u87-mg and u373-mg
+cells. in mammalian cells, mtor is well established as
+a signaling system that contributes to the control of the
+autophagic pathway (31, 45). because rapamycin,
+which causes autophagy in malignant glioma cells (35,
+44), enhanced the antitumor effect of t-oligos, mtor
+may be one of key molecules regulating the cytotoxicity
+of t-oligo for at least u87-mg cells. on the other hand,
+our ﬁndings indicated that stat3 is involved in the
+efﬁcacy of t-oligo, although there is no study demon-
+strating the relationship between autophagy and
+stat3. thus, the predictions from the rppm data,
+particularly when concordance is observed between the
+cell lines analyzed, are highly predictive of functional
+importance. however, those effects that are observed in
+only one cell line are likely related to the pathogenic
+rewiring of
+the signaling pathways by underlying
+genomic aberrations. more importantly, the signaling
+pathway is extremely complex with a number of feed
+forward and feed back loops as well as crosstalk with
+multiple other signaling networks. therefore, further
+study is needed to determine which molecule is more
+important or associated with autophagy.
+our ﬁndings suggest that t-oligos have the potential
+to suppress the proliferation of malignant glioma cells
+in vitro and in vivo. pretreatment of malignant glioma
+cells, as was done in this study, is not equivalent to
+treating tumor cells already established in the brain.
+however, in a similar mouse model of melanoma (11),
+the selective inability of t-oligo-pretreated melanoma
+cells to produce metastases when injected intravenously
+predicted their ability to reduce tumor burden in vivo.
+in any case, our data show that relatively brief exposure
+to t-oligos has a long-lasting effect on malignant gli-
+oma cells that is not reversed by the tissue environment.
+therefore, we will further assess whether treatment
+with t-oligos prolongs the survival of mice carrying
+established intracranial tumors and determine the util-
+ity of t-oligos in therapy.
+we thank dr. t. yoshinori for the anti-lc3 antibody and
+dr. n. mizushima for the gfp-lc3 vector. we also thank e. f.
+hollingsworth for technical support, c. joy for the data
+analysis of the rppm, and a. m. sutton for editing the
+manuscript. this study was supported in part by united states
+public health service grants ca-088936 and ca-108558 by
+the national cancer institute, a start-up fund from the
+university of texas m. d. anderson cancer center (s.
+kondo), a generous donation from the anthony d. bullock
+iii foundation (y. kondo, s. kondo), and a cancer center
+support grant (ccsg)/shared resources (ca16672).
+references
+1. surawicz, t. s., davis, f., freels, s., laws, e. r., jr., and menck,
+h. r. (1998) brain tumor survival:results from the national
+cancer data base. j. neurooncol. 40, 151–160
+2. mitchell, p., ellison, d. w., and mendelow, a. d. (2005) surgery
+for malignant gliomas: mechanistic reasoning and slippery
+statistics. lancet neurol. 4, 413– 422
+3. blackburn, e. h. (1991) structure and function of telomeres.
+nature 350, 569 –573
+4. moyzis, r. k., buckingham, j. m., cram, l. s., dani, m., deaven,
+l. l., jones, m. d., meyne, j., ratliff, r. l., and wu, j. r. (1998)
+a highly conserved repetitive dna sequence, (ttaggg)n,
+present at the telomeres of human chromosomes. proc. natl.
+acad. sci. u. s. a., 85, 6622– 6626
+5. counter, c. m., avilion, a. a., lefeuvre, c. e., stewart, n. g.,
+greider, c. w., harley, c. b., and bacchetti, s. (1992) telomere
+shortening associated with chromosome instability is arrested in
+immortal cells which express telomerase activity. embo j. 11,
+1921–1929
+6. de lange, t. (1994) activation of telomerase in a human tumor.
+7.
+proc. natl. acad. sci. u. s. a. 91, 2882–2885
+van steensel, b., smogorzewska, a., and de lange, t. (1998)
+trf2 protects human telomeres from end-to-end fusions. cell
+92, 401– 413
+8. grifﬁth, j. d., comeau, l., rosenﬁeld, s., stansel, r. m.,
+bianchi, a., moss, h., and de lange, t. (1999) mammalian
+telomeres end in a large duplex loop. cell 97, 503–514
+9. karlseder, j., broccoli, d., dai, y., hardy, s., and de lange, t.
+(1999) p53- and atm-dependent apoptosis induced by telo-
+meres lacking trf2. science 283, 1321–1325
+10. eller, m. s., puri, n., hadshiew, i. m., venna, s. s., and
+gilchrest, b. a. (2002) induction of apoptosis by telomere 3⬘
+overhang-speciﬁc dna. exp. cell res. 276, 185–193
+11. puri, n., eller, m. s., byers, h. r., dykstra, s., kubera, j., and
+gilchrest, b. a. (2004) telomere-based dna damage responses:
+a new approach to melanoma. faseb j. 18, 1373–1381
+12. eller, m. s., li, g. z., firoozabadi, r., puri, n., and gilchrest,
+b. a. (2003) induction of a p95/nbs1-mediated s phase check-
+point by telomere 3⬘ overhang speciﬁc dna. faseb j. 17,
+152–162
+13. li, g. z., eller, m. s., firoozabadi, r., and gilchrest, b. a.
+(2003) evidence that exposure of the telomere 3⬘ overhang
+sequence induces senescence. proc. natl. acad. sci. u. s. a.
+100, 527–531
+14. li, g. z., eller, m. s., hanna, k., and gilchrest, b. a. (2004)
+signaling pathway requirements for induction of senescence by
+telomere homolog oligonucleotides. exp. cell res. 301, 189 –200
+15. eller, m. s., liao, x., liu, s., hanna, k., backvall, h., opresko,
+p. l., bohr, v. a., and gilchrest, b. a. (2006) a role for wrn in
+telomere-based dna damage responses. proc. natl. acad. sci.
+u. s. a. 103, 15073–15078
+16. sonoda, y., ozawa, t., hirose, y., aldape, k. d., mcmahon, m.,
+berger, m. s., and pieper, r. o. (2001) formation of intracra-
+nial tumors by genetically modiﬁed human astrocytes deﬁnes
+four pathways critical in the development of human anaplastic
+astrocytoma. cancer res. 61, 4956 – 4960
+ito, h., kanzawa, t., miyoshi, t., hirohata, s., kyo, s., iwamaru,
+a., aoki, h., kondo, y., and kondo, s. (2005) therapeutic
+efﬁcacy of puma for malignant glioma cells regardless of p53
+status. hum. gene ther. 16, 685– 698
+17.
+18. daido, s., kanzawa, t., yamamoto, a., takeuchi, h., kondo, y.,
+and kondo, s. (2004) pivotal role of the cell death factor bnip3
+in ceramide-induced autophagic cell death in malignant glioma
+cells. cancer res. 64, 4286 – 4293
+19. terzis, a. j., thorsen, f., heese, o., visted, t., bjerkvig r., dahl,
+o., arnold, h., and gundersen, g. (1997) proliferation, migra-
+tion and invasion of human glioma cells exposed to paclitaxel
+(taxol) in vitro. br. j. cancer 75, 1744 –1752
+20. paglin, s., hollister, t., delohery, t., hackett, n., mcmahill, m.,
+sphicas, e., domingo, d., and yahalom, j. (2001) a novel
+response of cancer cells to radiation involves autophagy and
+formation of acidic vesicles. cancer res. 61, 439 – 444
+21. kabeya, y., mizushima, n., ueno, t., yamamoto, a., kirisako, t.,
+noda, t., kominami, e., ohsumi, y., and yoshimori, t. (2000)
+lc3, a mammalian homologue of yeast apg8p, is localized in
+autophagosome membranes after processing. embo j. 19,
+5720 –5728
+22. mizushima, n., yamamoto, a., hatano, m., kobayashi, y., ka-
+beya, y., suzuki, k., tokuhisa, t., ohsumi, y., and yoshimori, t.
+(2001) dissection of autophagosome formation using apg5-
+deﬁcient mouse embryonic stem cells. j. cell biol. 152, 657– 668
+23. kanzawa, t., germano, i. m., komata, t., ito, h., kondo, y., and
+kondo, s. (2004) role of autophagy in temozolomide-induced
+autophagy and telomere 3⬘ overhang dna
+2929
+cytotoxicity for malignant glioma cells. cell death differ. 11,
+448 – 457
+24. sheehan, k. m., calvert, v. s., kay, e. w., lu, y., fishman, d.,
+espina, v., aquino, j., speer, r., araujo, r., mills, g. b., et al.
+(2005) use of reverse phase protein microarrays and reference
+standard development for molecular network analysis of meta-
+static ovarian carcinoma. mol. cell. proteomics 4, 346 –355
+25. harley, c. b., futcher, a. b., and greider, c. w. (1990)
+telomeres shorten during ageing of human ﬁbroblasts. nature
+345, 458 – 460
+26. mukai, s., kondo, y., koga, s., komata, t., barna, b. p., and
+kondo, s. (2000) 2–5a antisense telomerase rna therapy for
+intracranial malignant gliomas. cancer res. 60, 4461– 4467
+ito, h., aoki, h., kuhnel, f., kondo, y., kubicka, s., wirth, t.,
+iwado, e., iwamaru, a., fujiwara, k., hess, k. r., et al. (2006)
+autophagic cell death of malignant glioma cells induced by a
+conditionally replicating adenovirus. j. natl. cancer. inst. 98,
+625– 636
+28. kondo, y., kanzawa, t., sawaya, r., and kondo, s. (2005) role
+of autophagy in cancer development and response to therapy.
+nat. rev. cancer 5, 726 –734
+29. wang, c. w., and klionsky, d. j. (2003) the molecular mecha-
+27.
+nism of autophagy. mol. med. 9, 65–76
+30. ogier-denis, e., and codogno, p. (2003) autophagy: a barrier
+or an adaptive response to cancer. biochim. biophys. acta 1603,
+113–128
+31. shintani, t., and klionsky, d. j. (2004) autophagy in health and
+disease: a double-edged sword. science 306, 990 –995
+33.
+32. battle, t. e., and frank, d. a. (2002) the role of stats in
+apoptosis. curr. mol. med. 2, 381–392
+jope, r. s., and johnson, g. v. (2004) the glamour and gloom
+of glycogen synthase kinase-3. trends biochem. sci. 29, 95–102
+35.
+34. cheng, j. q., lindsley, c. w., cheng, g. z., yang, h., and
+nicosia, s. v. (2005) the akt/pkb pathway: molecular target
+for cancer drug discovery. oncogene 24, 7482–7492
+iwamaru, a., kondo, y., iwado, e., aoki, h., fujiwara, k.,
+yokoyama, t., mills, g. b., and kondo, s. (2006) silencing
+mammalian target of rapamycin signaling by small interfering
+rna enhances rapamycin-induced autophagy in malignant gli-
+oma cells. oncogene 26, 1840 –1851
+iwamaru, a., szymanski, s., iwado, e., aoki, h., yokoyama, t.,
+fokt, i., hess, k., conrad, c., madden, t., sawaya, r., et al.
+(2006) a novel inhibitor of the stat3 pathway induces apopto-
+sis in malignant glioma cells both in vitro and in vivo. oncogene
+[epub ahead of print]
+37. paglin, s., lee, n. y., nakar, c., fitzgerald, m., plotkin, j., deuel,
+b., hackett, n., mcmahill, m., sphicas, e., lampen, n., and
+36.
+yahalom, j. (2005) rapamycin-sensitive pathway regulates mito-
+chondrial membrane potential, autophagy, and survival in irra-
+diated mcf-7 cells. cancer res. 65, 11061–11070
+38. goukassian, d. a., helms, e., van steeg, h., van oostrom, c.,
+bhawan, j., and gilchrest, b. a. (2004) topical dna oligonu-
+cleotide therapy reduces uv-induced mutations and photocar-
+cinogenesis in hairless mice. proc. natl. acad. sci. u. s. a. 101,
+3933–3938
+39. marwaha, v., chen, y. h., helms, e., arad, s., inoue, h., bord,
+e., kishore, r., sarkissian, r. d., gilchrest, b. a., and goukas-
+sian, d. a. (2005) t-oligo treatment decreases constitutive and
+uvb-induced cox-2 levels through p53- and nfkappab-depen-
+dent repression of the cox-2 promoter. j. biol. chem. 280,
+32379 –32388
+40. kanzawa, t., kondo, y., ito, h., kondo, s., and germano, i. m.
+(2003) induction of autophagic cell death in malignant glioma
+cells by arsenic trioxide. cancer res. 63, 2103–2108
+41. yao, k. c., komata, t., kondo, y., kanzawa, t., kondo, s., and
+germano, i. m. (2003) molecular response of human glioblas-
+toma multiforme cells to ionizing radiation: cell cycle arrest,
+modulation of the expression of cyclin-dependent kinase inhib-
+itors, and autophagy. j. neurosurg. 98, 378 –384
+42. daido, s., yamamoto, a., fujiwara, k., sawaya, r., kondo, s., and
+kondo, y. (2005) inhibition of the dna-dependent protein
+kinase catalytic subunit radiosensitizes malignant glioma cells by
+inducing autophagy. cancer res. 65, 4368 – 4375
+43. kanzawa, t., zhang, l., xiao, l., germano, i. m., kondo, y., and
+kondo, s. arsenic trioxide induces autophagic cell death in
+malignant glioma cells by up-regulation of mitochondrial cell
+death protein, bnip3. oncogene 24, 980 –991
+44. takeuchi, h., kondo, y., fujiwara, k., kanzawa, t., aoki, h.,
+mills, g. b., and kondo, s. (2005) synergistic augmentation of
+rapamycin-induced autophagy in malignant glioma cells by
+phosphatidylinositol 3-kinase/protein kinase b inhibitors. can-
+cer res. 65, 3336 –3346
+45. klionsky, d. j., and emr, s. d. (2000) autophagy as a regulated
+pathway of cellular degradation. science 290, 1717–1721
+46. cuervo, a. m. (2004) autophagy: in sickness and in health.
+trends cell biol. 14, 70 –77
+47. bursch, w., ellinger, a., gerner, c., frohwein, u., and schulte-
+hermann, r. (2000) programmed cell death (pcd). apoptosis,
+autophagic pcd, or others? ann. n. y. acad. sci. 926, 1–12
+48. lockshin, r. a., and zakeri, z. (2002) caspase-independent cell
+deaths. curr. opin. cell biol. 14, 727–733
+received for publication july 21, 2006.
+accepted for publication march 26, 2007.
+2930
+vol. 21 september 2007
+the faseb journal
+aoki et al.

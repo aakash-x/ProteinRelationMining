@@ -1,0 +1,1018 @@
+blackwell publishing ltd
+oxford, uk
+cmicellular microbiology 1462-5814© 2006 the authors; journal compilation © 2006 blackwell publishing ltd
+2006
+6891898
+review article
+c. münzantigen processing after autophagy
+cellular microbiology (2006) 
+(6), 891–898
+microreview
+doi:10.1111/j.1462-5822.2006.00714.x
+first published online 3 april 2006
+autophagy and antigen presentation
+christian münz
+laboratory of viral immunobiology and christopher h. 
+browne center for immunology and immune diseases, 
+the rockefeller university, 1230 york avenue, new york, 
+ny 10021, usa.
+summary
+cd4
+ t  cells  co-ordinate  adaptive  immunity  and  are
+required  for  immunological  memory  establishment
+and  maintenance. they  are  thought  to  primarily  rec-
+ognize extracellular antigens, which are endocytosed,
+processed  by  lysosomal  proteases  and  then  pre-
+sented  on  major  histocompatibility  complex  (mhc)
+class  ii.  however,  recent  studies  have  demonstrated
+that viral, tumour and autoantigens can gain access
+to this antigen presentation pathway from within cells
+by autophagy. this review will discuss the autophagic
+pathways that contribute to endogenous mhc class ii
+antigen processing. furthermore, potential character-
+istics  of  autophagy  substrates,  qualifying  them  to
+access these pathways, and regulation of autophagy
+will be considered. finally, i will suggest how antigen
+presentation  after  autophagy  might  contribute  to
+immune  surveillance  of  infected  and  transformed
+cells.
+introduction
+t cell of the adaptive immune system monitor the protein
+degradation products of cells in order to detect pathogen-
+derived peptides. cd8
+ and cd4
+ t cells, the two main t
+cell compartments, thereby survey the output of the two
+main proteolytic machineries within cells, the proteasome
+and the lysosome. cd8
+ t cell epitopes are usually eight
+to  nine  amino  acids  in  length,  are  presented  on  major
+histocompatibility complex (mhc) class i and originate in
+their  majority  from  cytosolic  and  nuclear  proteins  after
+proteasomal  degradation  (fig. 1).  on  the  contrary,  cd4
+t cells are stimulated by longer peptides, which are pre-
+received 5 december, 2005; revised 5 january, 2006; accepted 12
+january, 2006. for correspondence. e-mail munzc@rockefeller.edu;
+1) 212 327 7611; fax (
+1) 212 327 7887.
+tel. (
+© 2006 the author
+journal compilation © 2006 blackwell publishing ltd
+sented by mhc class ii molecules and primarily the prod-
+ucts  of  lysosomal  proteolysis  (trombetta  and  mellman,
+2005). because phagocytes, like dendritic cells and mac-
+rophages, very efﬁciently load extracellular antigens onto
+mhc class ii products and these cell types are instrumen-
+tal  for  the  initiation  of  many  immune  responses,  mhc
+class  ii  antigens  are  thought  to  primarily  originate  from
+extracellular  sources.  however,  peptide  ligand  isolation
+after  afﬁnity  puriﬁcation  of  mhc  class  ii  molecules  from
+cell  types  with  less  endocytic  capacity,  like  b  cells,  has
+revealed that the majority of peptides originate from intra-
+et al
+.,
+cellular  sources  of  these  cell  types  (rammensee 
+1999).  this  suggests  that  apart  from  endocytosis  other
+intracellular pathways must exist that deliver antigens to
+lysosomal  degradation  and  mhc  class  ii  presentation.
+therefore, rather than the topographical localization of the
+antigen,  the  degradation  behaviour  of  a  protein  might
+determine, if it is recognized by cd8
+ t cells. in
+ or cd4
+other  words,  substrates  of  proteasomes  and  lysosomes
+will differ in their ability to be presented on mhc class i
+and ii. consistent with these considerations, recent stud-
+ies implicate autophagy, a group of degradation pathways
+that  deliver  cytoplasmic  constituents  to  lysosomes,  in
+mhc class ii antigen processing of intracellular antigens
+(brazil 
+.,  2003;  dengjel
+., 2005; dörfel 
+et al
+., 2005; zhou
+et al
+et al
+., 2005). this review will outline the different autoph-
+agy  pathways,  which  have  been  shown  to  contribute  to
+endogenous  mhc  class  ii  antigen  processing.  further-
+more,  it  will  discuss  features  of  autophagy  substrates,
+which  have  been  revealed  in  recent  studies  mainly  on
+neurodegenerative diseases, and will point out how innate
+and adaptive immunity might regulate autophagy. finally,
+i  will  suggest  ways  in  which  mhc  class  ii  antigen  pro-
+cessing  after  autophagy  might  contribute  to  immune
+responses.
+et al
+., 2005; paludan 
+et al
+et al
+.,  1997;  nimmerjahn 
+pathways of autophagy
+in  higher  eukaryotes  three  main  autophagic  pathways
+exist that deliver substances from the cytoplasm to lyso-
+somes:  macroautophagy,  microautophagy  and  chaper-
+one-mediated  autophagy  (klionsky  and  ohsumi,  1999).
+only  macroautophagy  and  chaperone-mediated  auto-
+892
+c. münz
+phagy  have  been  characterized  in  mammalian  cells  to
+some degree, and implicated in processing of intracellular
+proteins  onto  mhc  class  ii  so  far  (paludan 
+.,  2005;
+zhou 
+.,  2005).  therefore,  i  will  focus  on  these  two
+pathways in this review.
+et al
+et al
+et al
+et al
+et al
+., 2005; paludan 
+.,  1997;  nimmerjahn 
+macroautophagy  has  been  described  to  contribute  to
+mhc  class  ii  antigen  presentation  of  viral,  self-  and
+tumour  antigens  (brazil 
+et al
+.,
+2003; dörfel 
+., 2005). during this
+process  a  cup-shaped  isolation  membrane  forms  from
+membranes  of  unknown  origin  (yorimitsu  and  klionsky,
+2005). two  conjugation  systems,  which  involve  ubiquitin
+like  coupling  of  either  atg8/lc3  to  the  autophagosomal
+membrane or atg12 coupling to atg5, which then localizes
+via association with atg16l to the isolation membrane, are
+essential  for  the  formation  of  the  isolation  membrane
+(yorimitsu  and  klionsky,  2005). this  isolation  membrane
+engulfs  cytoplasmic  content  and  upon  closure  forms
+autophagosomes with one or multiple intravesicular mem-
+branes and a fairly large diameter of 0.5–1.5 
+m. these
+autophagosomes  fuse  with  lysosomes  and  late  endo-
+.,  1998)  (fig. 1). the
+somes  (liou 
+ultrastructural morphology of the fusion vesicles between
+autophagosomes and late endosomes, so-called amphi-
+somes, has been described to be multilamellar and mul-
+tivesicular.  lysosomal  hydrolases  in  the  fusion  vesicles
+then  degrade  the  intravesicular  membranes  and  auto-
+phagosome  content.  while  atg5/atg12/atg16l  trimeric
+complexes  recycle  from  the  isolation  membrane  after
+autophagosome  formation,  atg8/lc3  stays  coupled  to
+phosphatidyl-ethanolamine on the out- and inside of the
+autophagosome and is partially degraded with its content
+(kabeya 
+.,  1997;  berg 
+., 2000).
+et al
+et al
+et al
+interestingly, the vesicular compartment in which mhc
+class ii molecules acquire their peptide cargo resemble in
+many  features  amphisomes.  first,  mhc  class  ii  loading
+compartments  have  been  described  to  be  late  endo-
+somes, in which endocytosed antigens meets mhc class
+ii  molecules  and  peptide  loading  occurs  with  the  assis-
+tance of the non-classical mhc class ii molecule hla-dm
+after lysosomal degradation of the invariant chain chaper-
+oning  mhc  class  ii  to  these  vesicles  (tulp 
+.,  1994).
+these  compartment  display,  similar  to  amphisomes,  a
+multivesicular  or  multilamellar  morphology  (zwart 
+et al
+.,
+2005). second, when peptides were eluted from afﬁnity-
+puriﬁed  hla-dr  molecules  of  epstein  barr  virus  (ebv)
+transformed  b  cell  lines  and  404  mhc  class  ii  ligand
+sequences   were   identiﬁed,   two   peptides   turned   out
+to   be  derived  from  atg8/lc3  (map1lc3b
+  and
+map1lc3b
+.,  2005),  indicating  that
+autophagosome  associated  proteins  can  gain  access  to
+mhc  class  ii  loading. taken  together  these  lines  of  evi-
+dence  suggest  that  autophagosomes  might  fuse  with
+mhc class ii loading compartments.
+)  (dengjel 
+et al
+et al
+93
+109
+93
+110
+chaperone-mediated autophagy delivers cytosolic pro-
+teins directly into lysosomes and has been described to
+enhance autoantigen presentation by mhc class ii (zhou
+et al
+., 2005). this pathway translocates cytosolic proteins,
+like  rnase  a,  via  the  protein  transporter  lamp-2a
+assisted  by  cytosolic  and  lysosomal  hsc70  chaperone
+proteins from the cytoplasm across the lysosomal mem-
+brane (agarraberes and dice, 2001) (fig. 1). protein sort-
+ing  into  this  pathway  is  guided  by  a  mostly  pentameric
+signal peptide sequence (kferq in rnase a). because
+antigens  for  mhc  class  ii  presentation  are  primarily
+degraded by lysosomal proteases, substrates of chaper-
+one-mediated autophagy might readily gain access to the
+mhc class ii loading compartment. it remains to be deter-
+mined if the signal peptide requirement for transport sig-
+niﬁcantly  limits  the  number  of  substrates  that  can  gain
+access to mhc class ii presentation via this pathway.
+substrates of autophagy
+the above-listed studies suggest that autophagy delivers
+antigens to the mhc class ii loading compartment. under-
+standing  the  characteristics  of  substrates  for  macro-
+autophagy  and  chaperone  mediated  autophagy  should
+allow us to predict which pathogen derived proteins can
+be detected by cd4
+ t cells via this pathway and which
+signals should be used to target antigens into this pathway
+ t cell stimulation.
+for enhanced cd4
+macroautophagy substrates have been described to be
+cell organelles, intracellular pathogens, long-lived proteins
+and protein aggregates (mizushima, 2005). mitochondria
+and endoplasmic reticulum fragments have been found in
+ultrastructurally  deﬁned  autophagosomes,  and  due  to
+their large vesicle size autophagosomes are assumed to
+deliver aged cell organelles to lysosomes for degradation
+(klionsky  and  ohsumi,  1999).  in  addition,  macroauto-
+phagy  has  been  described  to  mediate  innate  resistance
+against  invading  pathogens.  both  bacteria  and  viruses
+can  be  targeted  by  autophagic  degradation  (kirkegaard
+et al
+., 2004; levine, 2005). the best characterized exam-
+ples for pathogen autophagy, also termed xenophagy, are
+engulfment  of 
+  containing
+., 2004), trapping of cytosolic
+phagosomes (gutierrez 
+  in  autophagosomes  (nakagawa
+group  a 
+et al
+shi-
+., 2005). furthermore, macroautophagy
+gella
+was found to mediate protection against herpes simplex
+virus infection of mouse embryonic ﬁbroblasts as part of
+the type i interferon induced antiviral response (talloczy
+et al
+.,  2002).  moreover,  beclin-1,  the  mammalian  homo-
+logue of the essential autophagy gene product atg6, was
+found to limit sindbis virus mediated encephalitis in mice
+.,  1998).  these  studies  implicated  macroau-
+(liang 
+tophagy in the clearance of aged organelles and intracel-
+., 2004) and immune escape from autophagy by 
+ (ogawa 
+mycobacterium  tuberculosis
+streptococci
+et al
+et al
+et al
+journal compilation © 2006 blackwell publishing ltd, 
+cellular microbiology
+, 
+© 2006 the authors
+, 891–898
+antigen processing after autophagy
+893
+mhc 
+class i
+mhc 
+class ii
+miic
+er
+lamp-2a
+tap
+signal
+peptide
+2.
+lysosome
+proteasome
+1.
+auto-
+phagosome
+3.
+fig. 1.
+the degradation behaviour of three distinct cytosolic/nuclear protein pools might determine preferential processing onto mhc class i or 
+ii. 1. soluble short-lived proteins are primarily degraded by the proteasome and peptide products of this proteolysis gain access to the endoplasmic 
+reticulum (er) via the transporter associated with antigen processing (tap). in the er, newly synthesized mhc class i molecules load some of 
+ t cells. 2. soluble proteins or peptides that 
+these ligands and migrate to the cell surface via the secretory pathway to be recognized by cd8
+contain a lysosomal targeting signal peptide get imported into the mhc class ii loading compartment (miic) via the lamp-2a transporter under 
+the assistance of cytosolic and lysosomal hsc70 members. in miics, they get degraded by lysosomal proteases and their fragments get loaded 
+ t cell stimulation. 3. aggregate-prone long-lived proteins get 
+onto mhc class ii molecules, which then migrate to the cell surface for cd4
+incorporated into autophagosomes, which then fuse with miics. their content is also degraded by lysosmal hydrolases and peptides derived 
+ t cells.
+thereof are loaded onto mhc class ii. stable mhc class ii/ligand complexes then move to the cell surface and display their cargo to cd4
+lular pathogens, suggesting speciﬁc recognition of these
+structures by the forming autophagosome.
+these 
+speciﬁcity of macroautophagy for distinct protein sub-
+strates is much less clear. early studies found a dichotomy
+of  protein  substrates  for  proteasomal  versus  lysosomal
+degradation, guided by the protein half-life (henell 
+et al
+.,
+1987). long-lived proteins were preferentially degraded in
+lysosomes  after  autophagy,  while  short-lived  proteins
+were targeted for proteasomal proteolysis. in good agree-
+ment  with 
+initial  ﬁndings,  glyceraldehyde-3-
+phosphate  dehydrogenase  (gapdh),  a  protein  with  an
+extraordinarily long half-life of 130 h (dice and goldberg,
+1975),  was  reported  to  be  a  substrate  for  chaperone-
+mediated autophagy (aniento 
+., 1993) and could be
+.,  2000).
+isolated  from  autophagosomes  (fengsrud 
+interestingly, gapdh derived peptides could be isolated
+from four different hla-dr and -dq alleles, while it was
+never  found  as  a  source  of  natural  mhc  class  i  ligands
+(rammensee 
+., 1999). vice versa, short-lived cyclins
+are  among  the  most  frequent  sources  of  natural  mhc
+class i ligands, but not a single cyclin-derived peptide has
+so far been eluted from mhc class ii molecules (ramm-
+ensee 
+., 1999). these ﬁndings suggest that long-lived
+proteins are preferentially targeted by autophagy and fre-
+quently presented on mhc class ii.
+et al
+et al
+et al
+et al
+however,  if  autophagy  is  selective  for  long-lived  pro-
+teins, how are these detected by the forming autophago-
+some.  this  questions  still  remains  largely  unanswered.
+et al
+et al
+et al
+.,  2005a,b;  ravikumar 
+however, recent studies primarily on proteins involved in
+neurodegenerative diseases such as alzheimer’s, huntin-
+ton’s  and  parkinson’s  disease  speculate,  that  protein
+aggregates might be suitable substrates for macroautoph-
+agy. it could be demonstrated that aggregates of proteins
+with  polyglutamine  domains  like  huntingtin  accumulate
+upon  inhibition  of  autophagy  and  their  levels  can  be
+reduced  upon  stimulation  of  autophagy  with  rapamycin
+(iwata 
+.,  2002;  2004;
+2005). interestingly, treatment with the rapamycin analog
+cci-779, which upregulates autophagy, ameliorated neu-
+rodegeneration in animal models of huntington’s disease
+(ravikumar 
+., 2004). two of these studies implicated
+transport  on  microtubules  in  the  delivery  of  aggregate-
+prone  proteins  to  autophagosomes  (iwata 
+.,  2005b;
+., 2005). protein aggregates could even in
+ravikumar 
+a  broader  sense  serve  as  macroautophagy  substrates,
+because conditional knockout of the essential autophagy
+gene product atg7 in the liver (komatsu 
+., 2005) and
+lack  of  atg5  in  neonates  (mizushima,  2005)  led  to  the
+accumulation  of  ubiquitinated  protein  aggregates.  two
+cytosolic  proteins  have  been  suggested  to  assist  in  the
+recruitment  of  autophagosomal  membranes  to  ubiquiti-
+nated  protein  aggregates.  one  of  them,  alfy  can  bind
+posphatidylinositol-3-phosphate,  the  product  of  class  iii
+pi3kinases, which induce autophagy, and localizes to pro-
+tein  aggregates  and  autophagic  membranes  (simonsen
+et al
+., 2004). the other, p62/sqstm1 contains an ubiq-
+et al
+et al
+et al
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, 
+cellular microbiology
+, 
+, 891–898
+894
+c. münz
+et al
+uitin  binding  domain  (uba)  and  its  polymerization  is
+required for efﬁcient recruitment of the atg8/lc3 to these
+structures (bjorkoy 
+., 2005). however, none of these
+two  protein  aggregate  associated  proteins  has  been
+shown to directly interact with essential autophagy gene
+products and therefore initiate the nucleation of isolation
+membranes  around  protein  aggregates.  nevertheless,
+protein aggregates have been described to evade protea-
+somal degradation (bence 
+., 2001) and might there-
+fore  be  preferentially  targeted  for  lysosomal  proteolysis
+after  macroautophagy.  from  these  studies  it  is  tempting
+to speculate that long-lived proteins might aggregate more
+easily and then become substrates for macroautophagy.
+et al
+regulation of autophagy
+traditionally, upregulation of autophagy has been reported
+to overcome starvation periods or growth hormone deple-
+tion  (mizushima,  2005).  nutrient  or  growth  hormone
+depletion  is  thought  to  inhibit  the  mtor  kinase,  which
+prevents  the  assembly  of  the  autophagy-inducing  atg1
+kinase complex. in addition, lack of amino acids triggers
+the assembly of the type iii pi3 kinase/beclin-1 signalling
+complex  for  autophagy  upregulation. while  some  of  the
+players of starvation mediated autophagy induction have
+been  identiﬁed  it  is  much  less  clear  how  and  to  which
+extent  autophagy  is  regulated  upon  cellular  stress  like
+bacterial and viral infections.
+that 
+innate 
+both  type  i  and  ii  interferons  have  been  reported  to
+inﬂuence autophagy levels. herpes simplex virus infection
+of mouse embryonic ﬁbroblasts was reported to upregu-
+late  autophagy  via  the  ifn
+  inducible  kinase  pkr,
+which  phosphorylates  the  eukaryotic  initiation  factor-2-
+.,
+for translation arrest during viral infections (talloczy 
+et al
+2002).  this  ﬁnding  suggested 
+immune
+responses to viral infection might trigger macroautophagy,
+but  it  is  unknown  which  components  of  the  autophagy
+machinery  participate  in  this  regulation.  in  addition,
+macroautophagy  might  be  increased  during  immune
+.  autophagic  clear-
+responses  due  to  the  action  of  ifn
+ infection of mouse macrophages
+ance of 
+et al
+.,
+  treatment  (gutierrez 
+was  enhanced  upon  ifn
+2004). therefore, autophagy regulation might be used to
+clear  pathogens  during  infection  and  it  might  lead  to
+enhanced trafﬁcking of antigens to mhc class ii loading
+compartments for increased cd4
+ t cell stimulation.
+m. tuberculosis
+mhc class ii antigen presentation after autophagy
+the  above-listed  evidence  suggested  that  autophagic
+pathways exist and deliver proteins from the cytosol to late
+endosomes,  the  vesicular  compartment,  in  which  mhc
+class  ii  loading  occurs,  and  that  these  pathways  might
+even  be  upregulated  upon  infection.  in  addition,  when
+peptides  were  eluted  from  afﬁnity-puriﬁed  mhc  class  ii
+et al
+et al
+et al
+., 1999; dongre 
+., 2001; dengjel 
+molecules, up to 20% were found to originate from cyto-
+solic  sources,  while  only  few  ligands  from  extracellular
+., 1993; rammensee
+proteins were identiﬁed (chicz 
+et al
+., 2005). in
+addition,  especially  hla-dr  ligands,  originating  from
+cytosolic and nuclear proteins, were found upregulated on
+starved  ebv  transformed  b  cells,  while  peptides  from
+membrane  and  secreted  proteins  were  unaffected  by
+amino acid depletion (dengjel 
+., 2005). interestingly,
+four  mhc  class  ii  ligands  stood  out  in  this  analysis  and
+their presentation was upregulated between 1.8- and 2.9-
+fold  upon  starvation  for  24 h. these  were  peptides  from
+elongation  factor  1-alpha  1,  cathepsin  d,  heat  shock
+70 kda protein 1 and rad23 homologue b. interestingly,
+rad23  homologue  a  and  b  proteins  are  long-lived  and
+contain  a  c-terminal  uba2  domain  that  protects  them
+from proteasomal degradation (heessen 
+., 2005). the
+uba2 domains transfers half-life extension and proteaso-
+mal proteolysis protection to other proteins. these rad23
+characteristics ﬁt the criteria for autophagy substrates and
+rad23’s mhc class ii presentation was upregulated upon
+starvation induced autophagy.
+et al
+et al
+et al
+for a small number of proteins, involvement of autoph-
+agy in mhc class ii presentation and cd4
+ t cell recog-
+nition  was  also  demonstrated  directly.  in  the  earliest  of
+these  studies,  stockinger  and  colleagues  have  shown
+that complement c5 is endogenously processed for cd4
+t cell recognition in mouse macrophage and b cell lines
+(brazil 
+., 1997). mhc class ii presentation of c5 was
+dependent  on  lysosomal  degradation  and  could  be
+blocked by nh
+cl, and was sensitive to the class iii pi3
+kinase  inhibitor  3-methyladenine  (3-ma),  which  potently
+inhibits macroautophagy (seglen and gordon, 1982), but
+to  some  extent  also  compromises  other  membrane  traf-
+ﬁcking events. this study suggested that ectopic overex-
+pression  leads  to  endogenous  mhc  class  ii  antigen
+processing  of  complement  c5  after  macroautophagy  in
+mouse  macrophage  and  b  cell  lines.  in  a  second  study,
+mautner  and  coworkers  transfected  ebv  transformed
+human  b  cells  and  a  renal  cell  carcinoma  cell  line  with
+neomycin phophotransferase ii (neor) and documented
+that  neor  is  endogenously  processed  for  mhc  class  ii
+presentation  to  cd4
+.,  2003).
+  t  cells  (nimmerjahn 
+they could show that neor is degraded in lysosomes in
+these  cell  types  and  its  targeting  to  lysosomes  is  3-ma
+sensitive.  implicating  macroautophagy  in  endogenous
+mhc  class  ii  processing  of  neor,  the  authors  could
+block cd4
+ t cell recognition of their neor transfectants
+with  3-ma  and  the  somewhat  less  speciﬁc  pi3  kinase
+inhibitor wortmannin. these data suggested that overex-
+pression of a cytosolic protein can lead to macroautoph-
+agosomal  delivery  of  this  protein  for  mhc  class  ii
+presentation.  thirdly,  our  studies  documented  that  the
+nuclear  antigen  1  of  ebv  (ebna1)  gains  access  to
+et al
+journal compilation © 2006 blackwell publishing ltd, 
+cellular microbiology
+, 
+© 2006 the authors
+, 891–898
+et al
+et al
+et al
+endogenous  mhc  class  ii  antigen  processing  in  ebv
+transformed b cells (münz 
+., 2000). ebna1 could be
+visualized  in  autophagosomes  after  inhibition  of  lysoso-
+mal  proteolysis,  and  inhibition  of  macroautophagy  by
+either  3-ma  or  atg12  speciﬁc  rna  interference  signiﬁ-
+cantly decreased recognition of ebv transformed b cells
+by  ebna1  speciﬁc  cd4
+et al
+.,
+  t  cell  clones  (paludan 
+2005).  ebna1  was  the  ﬁrst  pathogen-derived  antigen
+that  was  demonstrated  to  gain  access  to  mhc  class  ii
+presentation  after  macroautophagy  at  physiological
+expression  levels.  interestingly,  ebna1  is  a  long-lived
+protein,  carrying  a  glycine-alanine  repeat  domain  that
+downregulates proteasomal degradation and mhc class
+i  presentation  (levitskaya 
+.,  1995;  1997).  when  its
+glycine-alanine  repeat  domain  is  deleted  ebna1’s  half-
+life  shortens  and  its  recognition  by  cd8
+  t  cells  is
+enhanced  (münz,  2004).  in  addition,  glycine-alanine
+repeat  domains  of  different  length  transfer  protection
+from proteasomal proteolysis to other proteins (dantuma
+et al
+., 2002). these characteristics are reminiscent of the
+above discussed degradation behaviour of rad23, sug-
+gesting that antigens with long half-life and evasion from
+proteasomal  degradation  are  well  presented  on  mhc
+class ii after macroautophagy. a third example of a pro-
+tein falling into this category is the inﬂuenza matrix pro-
+tein  1  (mp1).  long  and  colleagues  have  demonstrated
+that  mp1  is  intracellularly  processed  onto  mhc  class  ii
+.,  1990).  however,  when  the  half-life
+(jaraquemada 
+of  mp1  is  shortened  by  n-end  rule  modiﬁcation,  which
+makes proteins more susceptible for proteasomal degra-
+dation, endogenous mhc class ii processing is lost and
+cd4
+ t cells fail to detect mutant mp1 expression in ebv
+transformed  b  cells  (gueguen  and  long,  1996).  there-
+fore, long protein half-life, evasion from proteasomal deg-
+radation, macroautophagy and endogenous mhc class ii
+processing  might  be  linked.  in  a  fourth  study  on  mhc
+class  ii  loading  via  an  intracellular  route,  brossart  and
+coworkers  demonstrated  that  mhc  class  ii  presentation
+of the tumour antigen mucin 1 (muc1) after transfection
+into dendritic cells by rna electroporation was sensitive
+.,  2005).
+to  3-ma  and  wortmannin  treatment  (dörfel 
+because,  however,  the  authors  also  could  decrease
+cd4
+  t  cell  recognition  of  muc1  rna-electroporated
+dendritic  cells  by  proteasome  inhibition,  the  pathway
+leading to the observed mhc class ii presentation is not
+entirely clear. finally, in a ﬁfth study blum and colleagues
+described  that  mhc  class  ii  presentation  of  the  auto-
+antigens  glutamate  decarboxylase  65  (gad65)  and
+sma, a mutant human immunoglobulin 
+ chain, could be
+increased by overexpression of lamp-2a, the transporter
+associated  with  chaperone-mediated  autophagy  (zhou
+.,  2005).  cd4
+et al
+  t  cell  recognition  of  these  autoanti-
+gens  was  also  found  to  be  dependent  on  proteasomal
+degradation  and  the  authors  therefore  suggested  that
+et al
+antigen processing after autophagy
+895
+gad65 and sma are processed to peptides in the cyto-
+sol  by  proteasomes  and  the  resulting  peptides  are  then
+transported  into  miics  by  chaperone  mediated  autoph-
+agy. the  above  list  of  antigens  suggest  that  autophagic
+pathways,  previously  primarily  considered  to  generate
+nutrients  during  starvation  conditions,  might  deliver  a
+substantial amount of cytosolic and nuclear antigens for
+mhc class ii presentation to cd4
+ t cells.
+role of autophagy during immune responses
+recent studies have implicated autophagy in mhc class
+ii  presentation  of  intracellular  antigens  to  cd4
+  t  cells.
+however, the importance of this pathway for the immune
+system and its responses against pathogens and tumours
+remains unclear. several lines of evidence, however, sug-
+gest that this pathway might contribute to immune surveil-
+lance of intracellular antigens and might be involved in t
+cell  selection  in  the  thymus.  in  a  gfp-atg8/lc3  trans-
+genic mouse constitutive macroautophagy was observed
+in many tissues (mizushima et al., 2004), but was espe-
+cially elevated in cortical thymic, lens and kidney epithelial
+cells as well as some exocrine gland cells such as gastric
+chief cells and seminal vesicle cells. of these, the cortical
+thymic  epithelial  cells  are  of  special  importance  to  the
+immune  system,  because  they  have  been  implicated  in
+positive  selection  of  t  cells,  including  mhc  class  ii
+restricted  cd4+ t  cells  (starr et al.,  2003).  because  this
+tissue, however, lacks robust endocytic capacity, cortical
+epithelial  cells  might  employ 
+intracellular  pathways,
+including autophagy, to load their mhc class ii molecules
+for positive selection of cd4+ t cells.
+in addition to thymic epithelium, autophagy might con-
+tribute to mhc class ii loading in other epithelial tissues
+that upregulate mhc class ii molecules upon exposure to
+inﬂammatory  cytokines,  predominantly  ifnγ  (reith  and
+mach, 2001), and cd4+ t cells might contribute to immune
+surveillance of these tissues. this notion is supported by
+the fact that cytolytic cd4+ t cells can be found in close
+proximity to mhc class ii positive epithelial cells in inﬂamed
+tissues (wu et al., 1994; muller et al., 1998; yawalkar et al.,
+2001). these cytolytic cd4+ t cells seem to be much more
+frequent than previously appreciated and have now been
+identiﬁed  ex  vivo  in  both  mouse  and  man  (appay et al.,
+2002; amyes et al., 2005; jellison et al., 2005). in addition,
+cytolytic  cd4+ t  cells  have  been  found  to  target  tumour
+and virus infected cells in vitro (münz et al., 2000; bickham
+et al.,  2001;  2003;  nikiforow  et al.,  2001;  2003;  paludan
+et al.,  2002;  hegde  et al.,  2005)  and  in  vivo  (stevenson
+et al.,  1999;  robertson  et al.,  2001;  fu  et al.,  2004;
+sparks-thissen  et al.,  2004).  these  data  suggest  that
+immune surveillance by cd4+ t cells might target infected
+and transformed cells after intracellular antigen processing
+onto mhc class ii molecules via autophagy.
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, 
+cellular microbiology
+, 
+, 891–898
+896 c. münz
+apart from direct immune effector functions by cd4+ t
+cells  in  response  to  display  of  intracellular  antigens  on
+mhc class ii molecules, stimulation of these cells is also
+crucial to establish and maintain immunological memory
+in  b  and t  cell  compartments  (bevan,  2004;  mcheyzer-
+williams  and  mcheyzer-williams,  2005).  therefore,
+broadening the repertoire of mhc class ii presented anti-
+gens by displaying peptides from intracellular antigens for
+the stimulation of cd4+ t cell help should be in the interest
+of the immune system. in addition, cytosolic and nuclear
+antigens displayed by epithelial cells on mhc class ii at
+sites of inﬂammation could boost cd4+ t cell responses,
+which then mature dendritic cells for more efﬁcient priming
+of cd8+ t cell responses and provide support factors for
+cd8+ t cell maintenance. this mhc class ii presentation
+at  sites  of  infection  might  eventually  even  lead  to  the
+development of tertiary lymphoid organs at sites of patho-
+gen invasion and tumorigenesis.
+altogether,  immune  surveillance  of  intracellular  anti-
+gens through mhc class ii presentation after autophagy
+might  complement  cd8+  t  cell  responses  restricted  by
+mhc  class  i  quite  well,  and  selectively  target  long-lived
+aggregate-prone  proteins,  which  are  inefﬁciently  de-
+graded by proteasomes and therefore difﬁcult to present
+on mhc class i.
+conclusion
+recent  studies  by  a  number  of  laboratories  have  impli-
+cated autophagy in the delivery of cytosolic and nuclear
+antigens for mhc class ii loading. these studies suggest
+that cd4+ t cells are able to immune survey intracellular
+antigens  in  addition  to  extracellular  antigens,  which  are
+taken up and processed onto mhc class ii by phagocytes.
+two autophagic pathways, macroautophagy and chaper-
+one-mediated  autophagy,  have  been  implicated  in  deliv-
+ering  endogenous  antigens  for  mhc  class  ii  loading.
+interestingly,  these  pathways  might  tab  into  a  different
+cytosolic and nuclear antigen pool than endogenous mhc
+class i antigen processing. primarily long-lived and aggre-
+gate-prone  proteins,  which  manage  to  escape  degrada-
+tion  by  the  proteasome,  might  be  channelled  into
+macroautophagy and displayed on mhc class ii for cd4+
+t cell stimulation. endogenous mhc class ii antigen pro-
+cessing  after  autophagy  might  lead  to  immune  surveil-
+lance  by  cd4+ t  cells  in  mhc  class  ii  positive  inﬂamed
+tissues and enhance cd4+ t cell help for the initiation and
+maintenance of adaptive immune responses.
+acknowledgements
+i thank the national cancer institute (r01ca108609), the arnold
+and mabel beckman foundation, the alexandrine and alexander
+sinsheimer foundation, and the foundation for the national insti-
+tutes of health, grand challenges in global health, for support-
+ing my research.
+references
+agarraberes, f.a., and dice, j.f. (2001) protein translocation
+across membranes. biochim biophys acta 1513: 1–24.
+amyes, e., mcmichael, a.j., and callan, m.f. (2005) human
+cd4+ t cells are predominantly distributed among six phe-
+notypically  and  functionally  distinct  subsets.  j  immunol
+175: 5765–5773.
+aniento, f., roche, e., cuervo, a.m., and knecht, e. (1993)
+uptake  and  degradation  of  glyceraldehyde-3-phosphate
+dehydrogenase  by  rat  liver  lysosomes.  j  biol  chem  268:
+10463–10470.
+appay, v., zaunders, j.j., papagno, l., sutton, j., jaramillo,
+a., waters, a., et al. (2002) characterization of cd4+ ctls
+ex vivo. j immunol 168: 5954–5958.
+bence, n.f., sampat, r.m., and kopito, r.r. (2001) impair-
+ment of the ubiquitin-proteasome system by protein aggre-
+gation. science 292: 1552–1555.
+berg,  t.o.,  fengsrud,  m.,  stromhaug,  p.e.,  berg,  t.,  and
+seglen,  p.o.  (1998)  isolation  and  characterization  of  rat
+liver amphisomes. evidence for fusion of autophagosomes
+with  both  early  and  late  endosomes.  j  biol  chem  273:
+21883–21892.
+bevan,  m.j.  (2004)  helping  the  cd8+  t-cell  response.  nat
+rev immunol 4: 595–602.
+bickham, k., münz, c., tsang, m.l., larsson, m., fonteneau,
+j.f.,  bhardwaj,  n.,  and  steinman,  r.  (2001)  ebna1-
+speciﬁc  cd4+  t  cells  in  healthy  carriers  of  epstein-barr
+virus are primarily th1 in function. j clin invest 107: 121–
+130.
+bickham,  k.,  goodman,  k.,  paludan,  c.,  nikiforow,  s.,
+tsang,  m.l.,  steinman,  r.m.,  and  münz,  c.  (2003)  den-
+dritic  cells  initiate  immune  control  of  epstein-barr  virus
+transformation of b lymphocytes  in vitro. j exp med 198:
+1653–1663.
+bjorkoy, g., lamark, t., brech, a., outzen, h., perander, m.,
+overvatn,  a.,  et  al.  (2005)  p62/sqstm1  forms  protein
+aggregates  degraded  by  autophagy  and  has  a  protective
+effect  on  huntingtin-induced  cell  death.  j  cell  biol  171:
+603–614.
+brazil, m.i., weiss, s., and stockinger, b. (1997) excessive
+degradation  of  intracellular  protein  in  macrophages  pre-
+vents presentation in the context of major histocompatibility
+complex class ii molecules. eur j immunol 27: 1506–1514.
+chicz,  r.m.,  urban,  r.g.,  gorga,  j.c.,  vignali,  d.a.,  lane,
+w.s., and strominger, j.l. (1993) speciﬁcity and promis-
+cuity among naturally processed peptides bound to hla-
+dr alleles. j exp med 178: 27–47.
+dantuma, n.p., sharipo, a., and masucci, m.g. (2002) avoid-
+ing proteasomal processing: the case of ebna1. curr top
+microbiol immunol 269: 23–36.
+dengjel,  j.,  schoor,  o.,  fischer,  r.,  reich,  m.,  kraus,  m.,
+muller, m., et al. (2005) autophagy promotes mhc class ii
+presentation of peptides from intracellular source proteins.
+proc natl acad sci usa 102: 7922–7927.
+dice, j.f., and goldberg, a.l. (1975) a statistical analysis of
+the relationship between degradative rates and molecular
+weights of proteins. arch biochem biophys 170: 213–219.
+dongre, a.r., kovats, s., deroos, p., mccormack, a.l., nak-
+agawa,  t.,  paharkova-vatchkova,  v.,  et  al.  (2001)  in  vivo
+mhc class ii presentation of cytosolic proteins revealed by
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 8, 891–898
+rapid automated tandem mass spectrometry and functional
+analyses. eur j immunol 31: 1485–1494.
+dörfel,  d.,  appel,  s.,  grunebach,  f.,  weck,  m.m.,  muller,
+m.r.,  heine,  a.,  and  brossart,  p.  (2005)  processing  and
+presentation  of  hla  class  i  and  ii  epitopes  by  dendritic
+cells after transfection with in vitro transcribed muc1 rna.
+blood 105: 3199–3205.
+fengsrud,  m.,  raiborg,  c.,  berg,  t.o.,  stromhaug,  p.e.,
+ueno,  t.,  erichsen,  e.s.,  and  seglen,  p.o.  (2000)
+autophagosome-associated  variant  isoforms  of  cytosolic
+enzymes. biochem j 352 part 3: 773–781.
+fu,  t.,  voo,  k.s.,  and  wang,  r.f.  (2004)  critical  role  of
+ebna1-speciﬁc cd4+ t cells in the control of mouse burkitt
+lymphoma in vivo. j clin invest 114: 542–550.
+gueguen, m., and long, e.o. (1996) presentation of a cyto-
+solic  antigen  by  major  histocompatibility  complex  class  ii
+molecules requires a long-lived form of the antigen.  proc
+natl acad sci usa 93: 14692–14697.
+gutierrez,  m.g.,  master,  s.s.,  singh,  s.b.,  taylor,  g.a.,
+colombo,  m.i.,  and  deretic,  v.  (2004)  autophagy  is  a
+defense  mechanism  inhibiting  bcg  and  mycobacterium
+tuberculosis  survival  in  infected  macrophages.  cell  119:
+753–766.
+heessen, s., masucci, m.g., and dantuma, n.p. (2005) the
+uba2 domain functions as an intrinsic stabilization signal
+that  protects  rad23  from  proteasomal  degradation.  mol
+cell 18: 225–235.
+hegde, n.r., dunn, c., lewinsohn, d.m., jarvis, m.a., nel-
+son, j.a., and johnson, d.c. (2005) endogenous human
+cytomegalovirus gb is presented efﬁciently by mhc class
+ii molecules to cd4+ ctl. j exp med 202: 1109–1119.
+henell,  f.,  berkenstam,  a.,  ahlberg,  j.,  and  glaumann,  h.
+(1987)  degradation  of  short-  and  long-lived  proteins  in
+perfused 
+isolated  autophagic  vacuoles-
+lysosomes. exp mol pathol 46: 1–14.
+liver  and 
+in 
+iwata, a., christianson, j.c., bucci, m., ellerby, l.m., nukina,
+n.,  forno,  l.s.,  and  kopito,  r.r.  (2005a)  increased  sus-
+ceptibility of cytoplasmic over nuclear polyglutamine aggre-
+gates to autophagic degradation. proc natl acad sci usa
+102: 13135–13140.
+iwata,  a.,  riley,  b.e.,  johnston,  j.a.,  and  kopito,  r.r.
+(2005b)  hdac6  and  microtubules  are  required  for  auto-
+phagic degradation of aggregated huntingtin. j biol chem
+280: 40282–40292.
+jaraquemada,  d.,  marti,  m.,  and  long,  e.o.  (1990)  an
+endogenous processing pathway in vaccinia virus-infected
+cells  for  presentation  of  cytoplasmic  antigens  to  class  ii-
+restricted t cells. j exp med 172: 947–954.
+jellison,  e.r.,  kim,  s.k.,  and  welsh,  r.m.  (2005)  cutting
+edge:  mhc  class  ii-restricted  killing  in  vivo  during  viral
+infection. j immunol 174: 614–618.
+kabeya,  y.,  mizushima,  n.,  ueno,  t.,  yamamoto,  a.,  kir-
+isako,  t.,  noda,  t.,  et  al.  (2000)  lc3,  a  mammalian
+homologue  of  yeast  apg8p,  is  localized  in  autophago-
+some  membranes  after  processing.  embo  j  19:  5720–
+5728.
+kirkegaard, k., taylor, m.p., and jackson, w.t. (2004) cel-
+lular  autophagy:  surrender,  avoidance  and  subversion  by
+microorganisms. nat rev microbiol 2: 301–314.
+klionsky,  d.j.,  and  ohsumi,  y.  (1999)  vacuolar  import  of
+proteins and organelles from the cytoplasm. annu rev cell
+dev biol 15: 1–32.
+komatsu,  m.,  waguri,  s.,  ueno,  t.,  iwata,  j.,  murata,  s.,
+tanida,  i.,  et  al.  (2005)  impairment  of  starvation-induced
+antigen processing after autophagy 897
+and  constitutive  autophagy  in  atg7-deﬁcient  mice.  j  cell
+biol 169: 425–434.
+levine,  b.  (2005)  eating  oneself  and  uninvited  guests:
+autophagy-related pathways in cellular defense. cell 120:
+159–162.
+levitskaya,  j.,  coram,  m.,  levitsky,  v., 
+imreh,  s.,
+steigerwald-mullen, p.m., klein, g., et al. (1995) inhibition
+of antigen processing by the internal repeat region of the
+epstein-barr  virus  nuclear  antigen-1.  nature  375:  685–
+688.
+levitskaya,  j.,  sharipo,  a.,  leonchiks,  a.,  ciechanover,  a.,
+inhibition  of  ubiquitin/
+and  masucci,  m.g. 
+proteasome-dependent protein degradation by the gly-ala
+repeat domain of the epstein-barr virus nuclear antigen 1.
+proc natl acad sci usa 94: 12616–12621.
+(1997) 
+liang,  x.h.,  kleeman,  l.k.,  jiang,  h.h.,  gordon,  g.,  gold-
+man, j.e., berry, g., et al. (1998) protection against fatal
+sindbis virus encephalitis by beclin, a novel bcl-2-interact-
+ing protein. j virol 72: 8586–8596.
+liou,  w.,  geuze,  h.j.,  geelen,  m.j.,  and  slot,  j.w.  (1997)
+the  autophagic  and  endocytic  pathways  converge  at  the
+nascent autophagic vacuoles. j cell biol 136: 61–70.
+mcheyzer-williams,  l.j.,  and  mcheyzer-williams,  m.g.
+(2005) antigen-speciﬁc memory b cell development. annu
+rev immunol 23: 487–513.
+mizushima, n. (2005) the pleiotropic role of autophagy: from
+protein  metabolism  to  bactericide.  cell  death  differ  12
+(suppl. 2): 1535–1541.
+mizushima, n., yamamoto, a., matsui, m., yoshimori, t., and
+ohsumi,  y.  (2004)  in  vivo  analysis  of  autophagy  in
+response  to  nutrient  starvation  using  transgenic  mice
+expressing a ﬂuorescent autophagosome marker. mol biol
+cell 15: 1101–1111.
+muller, s., lory, j., corazza, n., grifﬁths, g.m., z’graggen,
+k., mazzucchelli, l., et al. (1998) activated cd4+ and cd8+
+cytotoxic  cells  are  present  in  increased  numbers  in  the
+intestinal  mucosa  from  patients  with  active  inﬂammatory
+bowel disease. am j pathol 152: 261–268.
+münz,  c.  (2004)  epstein-barr  virus  nuclear  antigen  1:  from
+immunologically invisible to a promising t cell target. j exp
+med 199: 1301–1304.
+münz, c., bickham, k.l., subklewe, m., tsang, m.l., chahr-
+oudi, a., kurilla, m.g., et al. (2000) human cd4+ t lympho-
+cytes consistently respond to the latent epstein-barr virus
+nuclear antigen ebna1. j exp med 191: 1649–1660.
+nakagawa,  i.,  amano,  a.,  mizushima,  n.,  yamamoto,  a.,
+yamaguchi,  h.,  kamimoto,  t.,  et  al.  (2004)  autophagy
+defends  cells  against  invading  group  a  streptococcus.
+science 306: 1037–1040.
+nikiforow, s., bottomly, k., and miller, g. (2001) cd4+ t-cell
+effectors inhibit epstein-barr virus-induced b-cell prolifera-
+tion. j virol 75: 3740–3752.
+nikiforow,  s.,  bottomly,  k.,  miller,  g.,  and  münz,  c.  (2003)
+cytolytic  cd4+-t-cell  clones  reactive  to  ebna1  inhibit
+epstein-barr  virus-induced  b-cell  proliferation.  j virol  77:
+12088–12104.
+nimmerjahn,  f.,  milosevic,  s.,  behrends,  u.,  jaffee,  e.m.,
+pardoll,  d.m.,  bornkamm,  g.w.,  and  mautner,  j.  (2003)
+major histocompatibility complex class ii-restricted presen-
+tation of a cytosolic antigen by autophagy. eur j immunol
+33: 1250–1259.
+ogawa, m., yoshimori, t., suzuki, t., sagara, h., mizushima,
+n., and sasakawa, c. (2005) escape of intracellular  shi-
+gella from autophagy. science 307: 727–731.
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 8, 891–898
+898 c. münz
+paludan, c., bickham, k., nikiforow, s., tsang, m.l., good-
+man,  k.,  hanekom,  w.a.,  et  al.  (2002)  ebna1  speciﬁc
+cd4+  th1  cells  kill  burkitt’s  lymphoma  cells.  j  immunol
+169: 1593–1603.
+paludan,  c.,  schmid,  d.,  landthaler,  m.,  vockerodt,  m.,
+kube,  d.,  tuschl,  t.,  and  münz,  c.  (2005)  endogenous
+mhc  class  ii  processing  of  a  viral  nuclear  antigen  after
+autophagy. science 307: 593–596.
+rammensee,  h.,  bachmann,  j.,  emmerich,  n.p.,  bachor,
+o.a., and stevanovic, s. (1999) syfpeithi: database for
+mhc  ligands  and  peptide  motifs.  immunogenetics  50:
+213–219.
+ravikumar,  b.,  duden,  r.,  and  rubinsztein,  d.c.  (2002)
+aggregate-prone proteins with polyglutamine and polyala-
+nine  expansions  are  degraded  by  autophagy.  hum  mol
+genet 11: 1107–1117.
+ravikumar, b., vacher, c., berger, z., davies, j.e., luo, s.,
+oroz,  l.g.,  et  al.  (2004)  inhibition  of  mtor  induces
+autophagy  and  reduces  toxicity  of  polyglutamine  expan-
+sions in ﬂy and mouse models of huntington disease. nat
+genet 36: 585–595.
+ravikumar, b., acevedo-arozena, a., imarisio, s., berger, z.,
+vacher,  c.,  o’kane,  c.j.,  et  al.  (2005)  dynein  mutations
+impair autophagic clearance of aggregate-prone proteins.
+nat genet 37: 771–776.
+reith,  w.,  and  mach,  b.  (2001)  the  bare  lymphocyte  syn-
+drome  and  the  regulation  of  mhc  expression.  annu  rev
+immunol 19: 331–373.
+robertson,  k.a.,  usherwood,  e.j.,  and  nash,  a.a.  (2001)
+regression of a murine gammaherpesvirus 68-positive b-
+cell lymphoma mediated by cd4 t lymphocytes. j virol 75:
+3480–3482.
+seglen,  p.o.,  and  gordon,  p.b.  (1982)  3-methyladenine:
+speciﬁc inhibitor of autophagic/lysosomal protein degrada-
+tion  in  isolated  rat  hepatocytes.  proc  natl  acad  sci  usa
+79: 1889–1892.
+simonsen, a., birkeland, h.c., gillooly, d.j., mizushima, n.,
+kuma, a., yoshimori, t., et al. (2004) alfy, a novel fyve-
+domain-containing protein associated with protein granules
+and autophagic membranes. j cell sci 117: 4239–4251.
+sparks-thissen, r.l., braaten, d.c., kreher, s., speck, s.h.,
+and  virgin,  h.w.t.  (2004)  an  optimized  cd4  t-cell
+response can control productive and latent gammaherpes-
+virus infection. j virol 78: 6827–6835.
+starr, t.k., jameson, s.c., and hogquist, k.a. (2003) posi-
+tive and negative selection of t cells. annu rev immunol
+21: 139–176.
+stevenson,  p.g.,  cardin,  r.d.,  christensen,  j.p.,  and
+doherty,  p.c.  (1999)  immunological  control  of  a  murine
+gammaherpesvirus  independent  of  cd8+  t  cells.  j  gen
+virol 80: 477–483.
+talloczy, z., jiang, w., virgin, h.w.t., leib, d.a., scheuner,
+d.,  kaufman,  r.j.,  et  al.  (2002)  regulation  of  starvation-
+and virus-induced autophagy by the eif2alpha kinase sig-
+naling pathway. proc natl acad sci usa 99: 190–195.
+trombetta, e.s., and mellman, i. (2005) cell biology of anti-
+gen processing in vitro and in vivo. annu rev immunol 23:
+975–1028.
+tulp,  a.,  verwoerd,  d.,  dobberstein,  b.,  ploegh,  h.l.,  and
+pieters,  j.  (1994)  isolation  and  characterization  of  the
+intracellular mhc class ii compartment. nature 369: 120–
+126.
+wu,  z.,  podack,  e.r.,  mckenzie,  j.m.,  olsen,  k.j.,  and
+thyroid-
+zakarija,  m.  (1994)  perforin  expression  by 
+inﬁltrating t cells in autoimmune thyroid disease. clin exp
+immunol 98: 470–477.
+yawalkar,  n.,  hunger,  r.e.,  buri,  c.,  schmid,  s.,  egli,  f.,
+brand,  c.u.,  et  al.  (2001)  a  comparative  study  of  the
+expression of cytotoxic proteins in allergic contact derma-
+titis and psoriasis: spongiotic skin lesions in allergic contact
+dermatitis  are  highly  inﬁltrated  by t  cells  expressing  per-
+forin and granzyme b. am j pathol 158: 803–808.
+yorimitsu, t., and klionsky, d.j. (2005) autophagy: molecular
+machinery  for  self-eating.  cell  death  differ  12  (suppl.  2):
+1542–1552.
+zhou, d., li, p., lott, j.m., hislop, a., canaday, d.h., brut-
+kiewicz,  r.r.,  and  blum,  j.s.  (2005)  lamp-2a  facilitates
+mhc class ii presentation of cytoplasmic antigens. immu-
+nity 22: 571–581.
+zwart,  w.,  griekspoor,  a.,  kuijl,  c.,  marsman,  m.,  van
+rheenen,  j.,  janssen,  h.,  et  al.  (2005)  spatial  separa-
+tion  of  hla-dm/hla-dr  interactions  within  miic  and
+phagosome-induced  immune  escape.  immunity  22:  221–
+233.
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 8, 891–898

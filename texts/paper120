@@ -1,0 +1,1478 @@
+the embo journal (2007) 26, 2527–2539 | & 2007 european molecular biology organization | all rights reserved 0261-4189/07
+www.embojournal.org
+functional and physical interaction between
+bcl-xl and a bh3-like domain in beclin-1
+the
+the
+embo
+embo
+embo
+journal
+journal
+m chiara maiuri1,2,3,4, gae¨ tane le
+toumelin5, alfredo criollo1,2,3,
+jean-christophe rain6, fabien gautier7,
+philippe juin7, ezgi tasdemir1,2,3, ge´ rard
+pierron8, kostoula troulinaki9, nektarios
+tavernarakis9, john a. hickman5, olivier
+geneste5,10,* and guido kroemer1,2,3,10,*
+1inserm u848, villejuif, france, 2institut gustave roussy, villejuif,
+france, 3universite´ paris sud—paris 11, villejuif, france, 4universita`
+degli studi di napoli ‘federico ii’, facolta` di scienze biotecnologiche,
+napoli, italy, 5institut de recherche servier, croissy sur seine, france,
+6hybrigenics, paris, france, 7inserm, u601-equipe 4, university of
+nantes, faculty of medicine, nantes, france, 8cnrs, fre 2937, institut
+andre´ lwoff, villejuif, france and 9institute of molecular biology and
+biotechnology, foundation for research and technology—hellas, crete,
+greece
+the anti-apoptotic proteins bcl-2 and bcl-xl bind and inhibit
+beclin-1, an essential mediator of autophagy. here, we
+demonstrate that this interaction involves a bh3 domain
+within beclin-1 (residues 114–123). the physical interaction
+between beclin-1 and bcl-xl is lost when the bh3 domain of
+beclin-1 or the bh3 receptor domain of bcl-xl is mutated.
+mutation of the bh3 domain of beclin-1 or of the bh3
+receptor domain of bcl-xl abolishes the bcl-xl-mediated
+inhibition of autophagy triggered by beclin-1. the pharma-
+cological bh3 mimetic abt737 competitively inhibits the
+interaction between beclin-1 and bcl-2/bcl-xl, antagonizes
+autophagy inhibition by bcl-2/bcl-xl and hence stimulates
+autophagy. knockout or knockdown of the bh3-only protein
+bad reduces starvation-induced autophagy, whereas bad
+overexpression induces autophagy in human cells. gain-of-
+function mutation of
+the sole bh3-only protein from
+caenorhabditis elegans, egl-1, induces autophagy, while
+deletion of egl-1 compromises starvation-induced autop-
+hagy. these results reveal a novel autophagy-stimulatory
+function of bh3-only proteins beyond their established role
+as apoptosis inducers. bh3-only proteins and pharmacologi-
+cal bh3 mimetics induce autophagy by competitively dis-
+rupting the interaction between beclin-1 and bcl-2 or bcl-xl.
+the embo journal (2007) 26, 2527–2539. doi:10.1038/
+sj.emboj.7601689; published online 19 april 2007
+subject categories: differentiation & death
+keywords: apoptosis; autophagy; bax; bcl-2; mitochondria
+*corresponding authors. g kroemer, inserm u848, institut gustave
+roussy, pr1, 39 rue camille desmoulins, villejuif 94805, france.
+tel.: þ 33 1 42 11 60 46; fax: þ 33 1 42 11 60 47;
+e-mail: kroemer@igr.fr or o geneste, institut de recherche servier,
+125 chemin de ronde, croissy sur seine 78290, france.
+tel.: þ 33 1 55 72 21 68; fax: þ 33 1 55 72 21 80;
+e-mail: olivier.geneste@fr.netgrs.com
+10these authors contributed equally to this work
+received: 13 march 2007; accepted: 15 march 2007; published
+online: 19 april 2007
+introduction
+two self-destructive processes, apoptosis (self-killing) and
+autophagy (self-eating), have captured the attention of cell
+biologists over the last decades. while apoptosis involves the
+activation of catabolic enzymes leading to the demolition of
+cellular structures and organelles, autophagy is a slow,
+localized phenomenon in which parts of the cytoplasm are
+sequestered within double-membraned autophagic vacuoles
+and ﬁnally digested by lysosomal hydrolases (gozuacik and
+kimchi, 2004; kroemer and jaattela, 2005). the relationship
+between apoptosis and autophagy is complex and autophagy
+may either contribute to cell death (shimizu et al, 2004; yu
+et al, 2004) or constitute a cellular defense against acute
+stress, in particular stress induced by starvation from nutri-
+ents or obligate growth factors (boya et al, 2005; lum et al,
+2005). the crosstalk between autophagy and apoptosis is
+mediated at least in part by the functional and physical
+interaction between beclin-1, an essential autophagy gene,
+and bcl-2, one of the paradigmatic apoptosis-inhibitory pro-
+teins (liang et al, 1999; pattingre et al, 2005; takacs-vellai
+et al, 2005).
+bcl-2 is the prototype of a family of proteins containing at
+least one bcl-2 homology (bh) region. the family is split into
+anti-apoptotic multidomain proteins (such as bcl-2 and bcl-
+xl), which contain four bh domains (bh1234), pro-apoptotic
+multidomain proteins (prototypes bax and bak), which con-
+tain three bh domains (bh123), and the pro-apoptotic bh3-
+only protein family (letai et al, 2002). as a rule, bh1234
+proteins (bcl-2, bcl-xl, mcl-1) mainly reside in mitochondria,
+protecting these organelles against mitochondrial outer mem-
+brane permeabilization (momp), one of the rate-limiting
+events of apoptosis induction. either of
+the two bh123
+proteins (bax and bak) are required for momp, in a series
+of different models of apoptosis induction (wei et al, 2001).
+bh3-only proteins are suggested to kill cells by interacting
+with the bh3 receptor, which is a hydrophobic groove formed
+by apposition of the bh1, bh2 and bh3 domains, hence
+activating bh123 proteins and/or by neutralizing bh1234
+proteins. the so-called ‘bh3 mimetics’, pharmacological
+compounds that bind to bh3 receptors, can induce apoptosis
+or facilitate apoptosis induction in cancer cells (letai et al,
+2002; oltersdorf et al, 2005).
+is essential
+beclin-1 (also called atg6) is a phylogenetically conserved
+for the initiation of autophagy,
+protein that
+perhaps via its interaction with the class iii phosphatidylino-
+sitol-3-kinase vps34 (zeng et al, 2006). originally, human
+beclin-1 has been identiﬁed as an interactor of bcl-2 (liang
+et al, 1999). caenorhabditis elegans beclin-1 (bec-1) inter-
+acts with the bcl-2 homolog ced-9, and inactivation of the c.
+elegans bec-1 gene causes apoptosis (takacs-vellai et al,
+2005). in mammalian cells, knockdown of beclin-1 sensitizes
+to apoptosis induction by starvation (boya et al, 2005; lum
+et al, 2005). however, beclin-1 downregulation can also
+inhibit cell death induction by conditions in which essential
+& 2007 european molecular biology organization
+the embo journal vol 26 | no 10 | 2007
+2527
+bh3 domain in beclin-1
+mc maiuri et al
+200
+150
+100
+50
+bak bh3
+wt beclin
+l116a beclin
+f123a beclin
+ic50 bak bh3 = 0.62 µ m
+ic50 beclin-1 peptide = 3.59 µ m
+− 8 − 7 − 6 − 5 − 4 − 3
+− 10
+log competing peptide concentration (m)
+− 9
+150
+100
+50
+− 50
+− 9
+wt bcl-xl
+g138a bcl-xl
+− 5
+− 4
+− 8
+− 7
+− 6
+log (gst-xl)
+flag bcl-xl
+wt beclin-1 v5his
+l116a beclin-1 v5his
+f123a beclin-1 v5his
+tagged beclin-1 (64 kda)
+tagged beclin-1 (64 kda)
+endogenous beclin-1
+flag bcl-xl
+flag g138a bcl-xl
+64 kda-
+endogenous beclin-1
+endogenous beclin-1
+64 kda-
+ip: α flag,
+ib: α beclin-1
+lysates,
+ib: α beclin-1
+36 kda-
+36 kda-
+ip: α flag, ib: α beclin-1
+lysates, ib: α beclin-1
+ip: α flag, ib: α bcl-xl
+lysates, ib: α bcl-xl
+figure 1 physical interaction between bcl-xl/bcl-2 and the bh3-like domain of beclin-1. (a) selection of beclin-1 fragments that interact with
+bcl-xl/bcl-2 in the yeast-two-hybrid system. black lines indicate the fragments of beclin-1 (grey) that interact with bcl-xl (upper part of the
+graph) or with bcl-2 (lower part). &, cemc7 library; k, human thymocyte library; m, placenta library and %, human brain library. the
+minimal interacting domain required for interaction with bcl-xl/bcl-2 is situated between aa 112 and 159. (b) alignment of the bh3-like
+domain of beclin-1 with established bh3 domains. l116a beclin-1 and f123a beclin-1 describe two beclin-1 mutant peptides. (c) fluorescence
+polarization assays demonstrating that a peptide containing the bh3-like domain of beclin-1 interacts with bcl-xl. recombinant bcl-xl dtm
+was incubated with carboxyﬂuorescein-labeled bak bh3 peptide, in the absence or presence of wild-type (wt) beclin-1 bh3 or either of the
+two mutant peptides described in b. (d) afﬁnity determination of the interaction between recombinant bcl-xl dtm and ﬂuorescent beclin-1
+bh3, by ﬂuorescence polarization. a comparison between wt bcl-xl(squares) and g138a bcl-xl (triangles) is shown (means7s.d., n ¼ 3
+separate experiments). (e) co-immunoprecipitation of bcl-xl and wt or mutant beclin-1. hela cells were transfected with the indicated
+constructs, followed by immunoprecipitation of flag-tagged bcl-xl and immunochemical detection of beclin-1. (f) co-immunoprecipitation of
+beclin-1 with-wt and mutant (g138a) bcl-xl. results are representative of at least three experiments yielding similar results.
+pro-apoptotic momp or caspase activation are blocked
+(shimizu et al, 2004; yu et al, 2004), and restoration of
+normal beclin-1 levels in beclin-1 deﬁcient tumor cells can
+facilitate the induction of cell death by vitamin d analogues
+(hoyer-hansen et al, 2005). importantly, beclin-1 is a hap-
+loinsufﬁcient tumor suppressor gene (qu et al, 2003; yue
+et al, 2003). transfection-enforced overexpression of beclin-1
+stimulates autophagy, and this autophagy-stimulatory effect
+is enhanced by depletion of bcl-2 and reduced by bcl-2
+overexpression (pattingre et al, 2005).
+based on these premises and incognita, we explored the
+ﬁne mechanisms which govern the interaction between
+beclin-1 and bcl-2/bcl-xl. as shown here, beclin-1 possesses
+a bh3-like domain, thus elucidating the structural basis for
+the functional beclin-1-bcl-2/bcl-xl interaction. disrupting
+this interaction by bh3-only proteins or bh3 mimetics in-
+creases the autophagic activity of beclin-1, thus revealing a
+novel physiological role for bh3 domains.
+results
+identiﬁcation of a bh3-like domain in beclin-1
+in multiple yeast two-hybrid screens, using complex human
+dna libraries, a number of beclin-1 fragments interacted
+with bcl-2 as well as with bcl-xl, allowing us to narrow
+down the precise interaction domain of beclin-1 to amino
+2528
+the embo journal vol 26 | no 10 | 2007
+& 2007 european molecular biology organization
+150
+125
+100
+75
+50
+− 10 − 9 − 8 − 7 − 6 − 5 − 4 − 3
+log (abt737)
+flag bcl-xl
+wt beclin-1 v5his
+abt737 (µm)
+0.5
+10
+tagged beclin-1 (64 kda)
+tagged beclin-1 (64 kda)
+endogenous beclin-1
+ip: α flag, ib: α beclin-1
+lysates, ib: α beclin-1
+0.5
+10
+flag bcl-xl
+abt737 (µm)
+64 kda-
+64 kda-
+ip: α flag, ib: α beclin-1
+lysates, ib: α beclin-1
+flag bcl-2
+wt beclin-1 v5his
+abt737 (µm)
+0.5
+10
+tagged beclin-1 (64 kda)
+tagged beclin-1 (64 kda)
+endogenous beclin-1
+flag mcl-1
+wt beclin-1 v5his
+abt737 (µm)
+tagged beclin-1 (64 kda)
+tagged beclin-1 (64 kda)
+endogenous beclin-1
+0.5
+10
+ip: α flag, ib: α beclin-1
+lysates, ib: α beclin-1
+ip: α flag, ib: α beclin-1
+lysates, ib: α beclin-1
+figure 2 inhibition of the interaction between beclin-1 and anti-
+apoptotic bcl-2 proteins by abt737. (a) competition between
+beclin-1 bh3 and abt737 for bcl-xl binding. a ﬂuorescent 25-
+mer peptide containing the bh3-like domain of beclin-1 (figure 1d)
+was docked to recombinant bcl-xl dtm protein in the absence or
+presence of abt737. the ic50 of abt737, as measured in the
+presence of 15 nm of peptide and 100 nm of bcl-xl dtm, was
+1.7 mm. (b, c) abolition of the interaction between bcl-xl and
+beclin-1 by abt737 in intact cells. co-immunoprecipitation assays
+were performed on hela cells transfected 48 h earlier with the
+indicated constructs as in figure 1e. sixteen hours before the
+immunoprecipitation, cells were exposed to abt737. similar results
+were obtained for co-transfected bcl-xl and beclin-1 (b) and for
+endogenous beclin-1 interacting with flag-tagged bcl-xl (c). (d, e)
+differential effect of abt737 on the interaction between bcl-2 (d) or
+mcl-1 (e) and beclin-1. this experiment was designed as (b). all
+experiments have been performed at least three times, with similar
+results.
+acids (aa) 112 to 159 (figure 1a). a stretch of 10 amino acids
+(aa 114–123) within this domain showed signiﬁcant similarity
+with bh3 domains from the bcl-2 family (figure 1b). an
+eicosahexapeptide (aa 107–132) comprising this bh3-like
+domain in an a-helical conformation displaced a bak-derived
+bh3-containing peptide binding to the hydrophobic groove of
+puriﬁed recombinant bcl-xl measured in a ﬂuorescence
+anisotropy assay. mutation of the most conserved residue in
+the bh3-like domain of beclin-1 (l116a) as well as that of
+another amino acid (f123a) (pattingre et al, 2005) abolished
+the competition with bak-bh3 for bcl-xl binding (figure 1c).
+the afﬁnity of the wild-type bh3 peptide from beclin-1 for
+bcl-xl was high (kd 20376 nm, n ¼ 3) (figure 1d) and of an
+bh3 domain in beclin-1
+mc maiuri et al
+order of magnitude similar to bax-bh3 (145 nm) or bak-bh3
+(40 nm), although lower than bad-bh3 (10 nm) (data not
+shown).
+in contrast bcl-xl carrying a single mutation
+(g138a) in the bh3 binding groove (ottilie et al, 1997) was
+unable to interact with the beclin-derived bh3-like peptide.
+to corroborate the role of the bh3-like domain for the
+beclin-1 interaction with bcl-xl, cells were transfected with
+wild-type or mutant beclin-1 and/or with bcl-xl, followed by
+co-immunoprecipitation assays. the bh3-disrupting muta-
+tion l116a almost abolished the interaction of beclin-1 with
+bcl-xl (figure 1e), as well as that of beclin-1 with bcl-2 and
+mcl-1 (not shown). moreover, f123a mutation reduced the
+beclin-1-bcl-xl interaction (figure 1e). the g138a mutation
+within the bh3-binding cleft of bcl-xl abrogated the binding
+of beclin-1 in the cellular context (figure 1f). these results
+suggest that a novel bh3-like domain in beclin-1 is critical for
+the interaction of beclin-1 with anti-apoptotic members of the
+bcl-2 family. the bh3-like domain of beclin-1 is phylogen-
+etically conserved, because the beclin-1 orthologs from fugu
+(takifugu rubripes), latipes (oryzia latipes) and zebraﬁsh
+(danio rerio) exhibit sequence homology within their bh3-
+like domain with human beclin-1 (supplementary figure
+1a). peptides corresponding to these bh3-like domains in-
+duced apoptosis in a bax-dependent manner when they were
+microinjected into human hct116 cells (supplementary
+figure 1b and c), and the peptides from fugu and latipes
+(but not the ones from zebraﬁsh) are able to displace the bak
+bh3 peptide from recombinant bcl-xl or bcl-2 protein in vitro
+(supplementary figure 1d and e). the fact that the zebraﬁsh-
+derived beclin-1 peptide did not bind to human bcl-xl yet
+induced bax-dependent apoptosis, suggests that this particu-
+lar peptide induces cell death by acting on a multidomain bcl-
+2 family protein other than bcl-xl.
+inhibition of the beclin-1-bcl-xl/bcl-2 interaction
+by a bh3 mimetic
+the bh3-mimetic compound abt737 (oltersdorf et al, 2005),
+inhibits the binding of beclin-1 bh3 peptide to bcl-xl in a
+competitive manner, with an ic50 in the micromolar range, as
+determined by ﬂuorescence polarization of synthetic peptide
+binding to puriﬁed recombinant bcl-xl in vitro (figure 2a).
+pretreatment of cells with abt737 inhibited the co-immuno-
+precipitation of flag-tagged bcl-xl and his-tagged (figure 2b)
+or endogenous beclin-1 (figure 2c). abt737 also reduced the
+interaction between bcl-2 and beclin-1 (figure 2d), yet had
+no effect on the interaction between mcl-1 and beclin-1
+(figure 2e). this can be explained by the selectivity of
+abt737, which binds to bcl-2 and bcl-xl but not to mcl-1,
+and hence has a bad-like proﬁle (oltersdorf et al, 2005, van
+delft et al, 2006). it is important to note that abt737 also
+abolished the interaction between endogenous bcl-2 and
+beclin-1 (see below), meaning that these effects cannot be
+attributed to overexpression-associated artifacts. altogether,
+these data indicate that the bh3-like domain of beclin-1 binds
+to the bh3 receptor region of bcl-xl/bcl-2 and that abt737
+competitively disrupts this interaction.
+the bh3 mimetic abt737 stimulates beclin-1-
+dependent autophagy
+if the physiological function of the physical beclin-1-bcl-xl/
+bcl-2 interaction were to control beclin-1-initiated autophagy
+(pattingre et al, 2005), then inhibition of this interaction
+& 2007 european molecular biology organization
+the embo journal vol 26 | no 10 | 2007 2529
+bh3 domain in beclin-1
+mc maiuri et al
+sirna emerin
+sirna emerin + abt737
+sirna beclin 110
+sirna beclin 110 + abt737
+lc3-gfp
+10  µm
+40
+35
+30
+25
+20
+15
+10
+control
+sirna beclin 110
+sirna beclin 168
+sirna scrambled
+sirna emerin
+60 kda-
+37 kda-
+beclin-1
+gapdh
+abt737
+cm
+abt737
+nf
+sirna emerin
+sirna emerin + abt737
+sirna beclin 110 sirna beclin 110 + abt737
+cmfda
+10  µm
+control
+sirna beclin 110
+sirna beclin 168
+sirna scrambled
+sirna emerin
+60
+50
+40
+30
+20
+10
+abt737
+cm
+abt737
+nf
+figure 3 beclin-1-dependent autophagy stimulated by abt737. (a, b) detection of autophagic vacuoles by lc3-gfp and their modulation by
+abt737 and by beclin-1-speciﬁc sirnas. hela cells were transfected with control or beclin-1-speciﬁc sirnas, 24 h later re-transfected with
+lc3-gfp, cultured in complete medium (cm) for 24 h, and ﬁnally kept 12 h either in cm or in nutrient-free (nf) conditions, in the presence or
+absence of 1 mm abt737. representative microphotographs of cells cultured in nf medium are shown in (a) and the percentage (means7s.d.,
+n ¼ 3 separate experiments) of lc3-gfp-transfected cells bearing lc3-gfp aggregates in the cytoplasm (lc3-gfpvac) are quantiﬁed in (b). the
+insert in (b) demonstrates the efﬁciency of the beclin-1-speciﬁc sirnas, as quantiﬁed by immunoblot. (c, d) detection of cytoplasmic vacuoles
+using chloromethylﬂuorescein diacetate (cmfda). cells were transfected with control or beclin-1-speciﬁc sirnas, cultured for 48 h in cm,
+washed, cultured in cm (d) or nf (c, d) for 12 h, stained with cmfda, and either photographed (c) or subjected to the quantiﬁcation of the
+cells that bear at least one discernible cytoplasmic vacuole (arrow head) (means7s.d., n ¼ 3 separate experiments). (e) ultrastructure of
+autophagic vacuoles induced by abt737. transmission electron microphotographs are shown. (f) detection of dead and dying cells in the
+cultures. cells treated as in (a) were stained with the dcm-sensitive dye dioc6(3) and the vital dye propidium iodide (pi). the black portions
+of the columns refer to the dioc6(3)low pi þ population (dead) and the remaining part of the column corresponds to the dioc6(3)low pi 
+(dying) population. results are means7s.d. of three independent experiments.
+2530
+the embo journal vol 26 | no 10 | 2007
+& 2007 european molecular biology organization
+control
+abt737
+bh3 domain in beclin-1
+mc maiuri et al
+90
+80
+70
+60
+50
+40
+30
+20
+10
+1 µm
+1 µm
+0.5 µm
+0.5 µm
+pi+
+control
+sirna beclin 110
+sirna beclin 168
+sirna scrambled
+sirna emerin
+abt737
+cm
+abt737
+nf
+figure 3 continued.
+would be expected to stimulate autophagy. accordingly,
+abt737 increased the frequency of cells that manifested
+cytoplasmic (non-nuclear) aggregation of the marker of au-
+tophagic vacuoles, lc3-gfp. this aggregation of lc3-gfp
+(which, in non-autophagic cells, is diffuse in the cytosol as
+well as in the nucleus) is an established sign of autophagy
+(mizushima et al, 2004), and was induced both in complete
+medium as well as in conditions of nutrient depletion
+(figure 3a). knockdown of beclin-1 by two distinct small
+interfering rna (sirna) heteroduplexes (insert in figure 3b)
+inhibited the abt737-stimulated lc3-gfp aggregation
+(figure 3a and b). similarly, knockdown of other essential
+atg proteins (atg5, 10, 12) reduced abt737-induced lc3-
+gfp aggregation, conﬁrming that abt737 engages the classi-
+cal autophagic pathway (supplementary figure 2s). since
+lc3-gfp might interfere with the normal regulation of au-
+tophagy, cytoplasmic vacuoles (which are bona ﬁde autop-
+hagic vacuoles) were detected by staining with cmfda,
+without prior transfection with lc3-gfp. again, abt737
+induced signs of autophagy that could be completely sup-
+pressed by the knockdown of beclin-1 (figure 3c and d).
+these results could be conﬁrmed by transmission electron
+microscopy showing double-membraned autophagic va-
+cuoles that were elicited by abt737 and suppressed by
+beclin-1-speciﬁc sirnas (figures 3e and 4). the abt737-
+stimulated autophagy was organelle-speciﬁc in the sense that
+lc3-gfp colocalized with the mitochondrial marker hsp60
+(supplementary figure 3a and c) but not with the endoplas-
+mic reticulum (er) marker calreticulin (supplementary
+figure 3b and c). it is noteworthy that these results were
+obtained by observing viable, adherent cells (figure 3a–e)
+and that the cytotoxic pro-apoptotic effects of abt737 were
+minor. thus, abt737 failed to induce a major loss of the
+mitochondrial transmembrane potential (which may be asso-
+ciated with apoptosis or necrosis) (figure 3f) or phosphati-
+dylserine exposure (which is associated with apoptosis)
+(supplementary figure 4), unless beclin-1 was depleted
+simultaneously. this is in accord with the notion that
+abt737 as a single agent only kills a limited set of trans-
+formed cell lines (oltersdorf et al, 2005). abt737 can stimu-
+late autophagy without inducing cell death.
+bh3 dependency of the functional interaction between
+beclin-1 and bcl-xl/bcl-2
+overexpression of beclin-1 stimulates autophagy (liang et al,
+1999; hoyer-hansen et al, 2005; pattingre et al, 2005), and
+this effect was increased by abt737 (figure 5a and b). the
+beclin-1 mutants l116a and f123a were more efﬁcient than
+wild-type beclin-1 in stimulating autophagy, in line with the
+fact that these mutations disrupt the interaction with the
+beclin-1 inhibitors bcl-2/bcl-xl. this result was obtained
+when using two different read-outs, namely lc3-gfp aggre-
+gation (figure 5a and b) and cmfda-quantiﬁable vacuoliza-
+tion (figure 5c and d). in the presence of abt737, the
+differential capacity of wild-type beclin-1 and of its mutants
+l116a and f123a to induce autophagy was matched, sug-
+gesting that it was indeed the interaction between the bh3-
+like domain of beclin-1 and a bh3 receptor (inhibitable by
+abt737) that regulated the pro-autophagy activity of beclin-
+1. these data also suggests that endogenous mcl-1 (which is
+not inhibitable by abt737) (van delft et al, 2006) does not
+play a crucial role in controlling autophagy induced by over-
+expressed beclin-1. moreover, bcl-xl (but not bcl-xl g138a),
+bcl-2 and mcl-1 all inhibited the induction of autophagy by
+beclin-1 (figure 5e). the autophagy-inhibitory effect of bcl-
+xl and bcl-2 was abrogated by abt737. however, abt737
+the suppression of autophagy by mcl-1
+did not affect
+in accord with its incapacity to block the
+(figure 5e),
+beclin-1–mcl-1 interaction (figure 2e). altogether,
+these
+data suggest that abt737 stimulates (or de-inhibits) autop-
+& 2007 european molecular biology organization
+the embo journal vol 26 | no 10 | 2007 2531
+bh3 domain in beclin-1
+mc maiuri et al
+sirna emerin
+sirna emerin + abt737
+sirna beclin 110
+sirna beclin 110 + abt737
+1 µm
+av1
+av2
+sirna
+emerin
+sirna emerin
+sirna
+sirna beclin 110
++abt737
+beclin 110
++abt737
+30
+25
+20
+15
+10
+figure 4 quantiﬁcation of autophagic vacuoles
+induced by
+abt737. hela cells transfected with the indicated sirnas (speciﬁc
+for emerin or for beclin-1 at 0 h) were re-transfected with lc3-gfp
+ﬁnally cultured in nutrient-free (nf) conditions (60–72 h), in the
+presence or absence 1 mm abt737 and then subjected to electron
+microscopic detection of immature (av1) or mature (av2) autop-
+hagic vacuoles. representative pictures are shown in (a). the
+number of av1 and av2 was determined for a minimum of 50
+cells (means7s.e.m.) (b).
+hagy by competitively inhibiting the interaction between the
+bh3 domain of beclin-1 and the bh3 receptor regions of bcl-
+2/bcl-xl.
+spatially restricted, regulated interactions between
+bcl-2 and beclin-1 are inhibited by abt737
+abt737 as well as nutrient depletion reduced the amount of
+endogenous beclin-1 that immunoprecipitated with endogen-
+ous bcl-2, both in hela and in mv4.11 cells (figure 6a),
+conﬁrming that physiological levels of these proteins can
+interact in a fashion that is inhibited by nutrient depletion
+or abt737. bcl-2 associates both with er and mitochondrial
+membranes (germain and shore, 2003). wild-type and er-
+targeted bcl-2 (bcl-2-cb5) but not mitochondrion-targeted
+bcl-2 (bcl-2-acta)
+inhibits starvation-induced autophagy
+(pattingre et al, 2005), suggesting that the autophagy-regula-
+tory pool of bcl-2 is localized on er. to investigate this, we
+determined the inhibitory effect of abt737 and nutrient
+depletion on the bcl-2-beclin-1 interaction in cell lines that
+stably express wild-type bcl-2, bcl-2-cb5, or bcl-2-acta. the
+amount of beclin-1 that co-immunoprecipitated with wild
+type and bcl-2-cb5 diminished after treatment with abt737
+or starvation, whereas the amount of beclin-1 that co-im-
+munoprecipiated with
+constant
+(figure 6b). these results could be further substantiated by
+subcellular fractionation. the interaction between wild-type
+bcl-2 and beclin-1 measurable in microsomes (er) was
+reduced by abt737 or starvation, but remained constant
+within the heavy membrane fraction (mitochondria) (figure
+6c and d). hence, only the er-targeted pool of bcl-2 is
+relevant to the inhibition of autophagy.
+bcl-2-acta
+remained
+starvation-induced induction of autophagy via the
+bh3-only protein bad
+the results above imply that, to the very least in certain
+instances, induction of beclin-1-mediated autophagy should
+correlate with its release from inhibitory complexes. upon
+starvation, the amount of endogenous beclin-1 that co-im-
+munoprecipitated with bcl-xl declined within the ﬁrst hour
+of serum and nutrient withdrawal, whereas the amount of the
+bh3 protein bad (whose activation is known to be triggered
+by serum withdrawal) (danial and korsmeyer, 2004) that co-
+immunoprecipitated with bcl-xl increased (figure 7a). in
+contrast, addition of rapamycin (which induces autophagy by
+inhibition of mtor) (sarbassovdos et al, 2005) or other
+autophagy inducers that affect the level of phosphatidyl
+inositol-3-phoshate (sarkar et al, 2005) had less marked
+effects on the interactions between beclin-1, bcl-xl and bad
+(figure 7b). upon starvation (but not upon abt737 addi-
+tion), the amount of endogenous bad that immunoprecipi-
+tated with endogenous bcl-2 also increased (figure 7c), at
+the same time as the bcl-2–beclin-1 interaction was reduced
+(figure
+sirna-mediated depletion of bad
+(figure 7d) reduced the starvation-induced activation of
+autophagy, yet had no or little effect on rapamycin-induced
+autophagy, whereas depletion of vps34 inhibited both starva-
+tion and rapamycin-induced autophagy (figure 7e). bad / 
+mouse embryonic ﬁbroblasts (mef) (ranger et al, 2003) also
+exhibited a decreased starvation-induced autophagy as com-
+pared with wt mef, although this difference disappeared in
+the presence of abt737 (figure 7f). the absence of bad
+6a). the
+figure 5 impact of the bh3-like domain on beclin-1-induced autophagy. (a–d) modulation of beclin-1-induced autophagy by bh3 mutants
+and abt737. cells were transfected with gfp-lc3 together with an empty control vector or beclin-1 (wt, l116a, f123a) and cultured for 48 h,
+followed by overnight culture in cm (b) or nf (a, b) in the absence or presence of 1 mm abt737. representative microphotographs are shown
+in (a) and the lc3-gfp-positive vacuoles per cell are quantiﬁed in (b) (means7s.d.; n ¼ 3 separate experiments). alternatively, cells were not
+transfected and stained with cmfda to detect vacuoles, as shown in (c) and (d), yielding similar results as for the lc3-gfp method. (e) bh3-
+dependent modulation of beclin-1-induced autophagy by anti-apoptotic bcl-2 proteins. cells were transfected simultaneously with beclin-1 (or
+control vector) and equivalent amounts of plasmids coding for wt bcl-xl, bcl-xl g138a, bcl-2 or mcl-1 (or control vector), as well as gfp-lc3.
+the culture in cm or nf in the absence or presence of abt737 was performed during the last 12 h of the 60 h-long experiment. the percentage
+of cells exhibiting the accumulation of lc3-gfp in vacuoles (lc3-gfpvac) is quantiﬁed as means7s.d. (n ¼ 3 separate experiments).
+2532
+the embo journal vol 26 | no 10 | 2007
+& 2007 european molecular biology organization
+control
+beclin wt
+abt737
+beclin wt +abt737
+bh3 domain in beclin-1
+mc maiuri et al
+lc3-gfp
+10 µm
+control
+beclin-1 wt
+beclin-1 l116a
+beclin-1 f123a
+25
+20
+15
+10
+abt737
+cm
+abt737
+nf
+control
+beclin wt
+abt737
+beclin wt + abt737
+cmfda
+10  µm
+70
+60
+50
+40
+30
+20
+10
+50
+45
+40
+35
+30
+25
+20
+15
+10
+control
+beclin-1 wt
+beclin-1 l116a
+beclin-1 f123a
+abt737
+cm
+abt737
+nf
+control
+con
+ wt
+beclin-1 wt
+beclin-1
+n-1 wt xl
+beclin-1 wt +bcl-xl
+becli
+becli
+beclin-1 wt+bcl-xl g138a
+beclin-1 wt + bcl-2
+beclin-1 wt + mcl-1
+abt737
+cm
+abt737
+nf
+& 2007 european molecular biology organization
+the embo journal vol 26 | no 10 | 2007 2533
+hela wt
+309 1 h 2 h 4 h
+6 h
+309 1 h 2 h 4 h
+mv4.11
+1 h 2 h
+1 h
+2 h
+1 h 2 h
+1 h 2 h
+6 h
+ip: α bcl-2, ib: α beclin-1
+ip: α bcl-2, ib: α bcl-2
+bcl-2 wt
+1 h
+1 h 2 h
+bcl-2 acta (mito)
+2 h
+1 h 2 h
+1 h 2 h
+1 h 2 h
+1 h
+2 h
+1 h 2 h
+1 h 2 h
+bcl-2 cb5 (er)
+2 h
+1 h
+2 h
+1 h
+bh3 domain in beclin-1
+mc maiuri et al
+ebss
+abt737
+60 kda-
+26 kda-
+ebss
+abt737
+60 kda-
+26 kda-
+ebss
+abt737
+60 kda-
+26 kda-
+63 kda-
+bcl-2 wt 
+1 h
+1 h
+2 h
+2 h
+ip: α bcl-2, ib: α beclin-1
+ip: α bcl-2, ib: α bcl-2
+lysates, ib: α calreticulin
+1 h
+ebss
+abt737
+60 kda-
+26 kda-
+63 kda-
+bcl-2 wt 
+1 h
+2 h
+ip: α bcl-2, ib: α beclin-1
+ip: α bcl-2, ib: α bcl-2
+1 h 2 h
+2 h
+1 h
+2 h
+ip: α bcl-2, ib: α beclin-1
+ip: α bcl-2, ib: α bcl-2
+lysates, ib: α hsp60
+figure 6 interaction between endogenous and spatially restricted bcl-2 and beclin-1 in starvation and after addition of abt737. (a)
+immunoprecipitation of endogenous bcl-2 and beclin-1. untransfected hela or mv4.11 cells were treated by culture in nutrient-free ebss
+or with abt737 (1 mm). (b) immunoprecipitation of wild-type and er-targeted bcl-2 with beclin-1. cells stably transfected with wild type, er-
+and mitochondrion-targeted bcl-2 were subjected to starvation or treated with abt737, followed by immunoprecipitation of bcl-2 and
+immunodetection of beclin-1. (c, d) immunoprecipitation of bcl-2 and beclin-1 in subcellular fractions. cells treated as in (b) were lysed and
+subjected to subcellular fractionation to enrich either er vesicles (microsomes, (c)) or mitochondria (heavy membrane fraction, (d)), followed
+by immunoprecipitation of bcl-2 and immunodetection of beclin-1. calreticulin and hsp60 were used as internal controls. results are
+representative of three independent determinations.
+compromised the disruption of the beclin-1/bcl-2 interaction
+induced by starvation, yet had no effect on the disruption of
+this interaction by abt737 (figure 7g). the effect of bad
+depletion/deletion on starvation-induced autophagy (figure
+7d and f) and on the changing beclin-1/bcl-2 interaction
+(figure 7g) was partial, suggesting that bad is not the sole
+bh3 protein linking starvation to autophagy induction
+or that bh3-independent mechanisms may be involved.
+transfection-enforced overexpression of bad was sufﬁcient
+to induce autophagy both in normal conditions and condi-
+tions of caspase inhibition (figure 7h). these results indicate
+that bh3-only proteins including bad may participate in the
+activation of autophagy by starvation.
+regulation of autophagy by the bh3-only protein egl-1
+in c. elegans
+egl-1 is the sole pro-apoptotic bh3-only protein in c. elegans
+and is required for developmental cell death in this nematode
+(conradt and horvitz, 1998, 1999). hence, this model organ-
+ism is uniquely suitable to determine the phylogenetically
+conserved regulation of autophagy by bh3-only proteins. in
+c. elegans, lgg-1 (the nematode orthologue of atg8/lc3) is
+ubiquitously expressed throughout development and induced
+in conditions of autophagy (melendez et al, 2003). autophagy
+was monitored using an lgg-1hdsred reporter in embryos
+that carry a wild-type, gain-of-function or deletion allele of
+egl-1,
+in normal conditions or after starvation. starvation
+strongly induced autophagy, and this induction was blunted
+in egl-1-deﬁcient nematode embryos. in contrast, the gain-
+of-function mutation of egl-1 caused an increase in constitutive
+autophagy that was not enhanced further by starvation
+(figure 8). these results underscore the phylogenetic conser-
+vation of autophagy control by bh3-only proteins.
+discussion
+as shown here, beclin-1 possesses a bh3 domain that
+dictates its interaction with the bh3 receptor domain of
+anti-apoptotic proteins of the bcl-2 family including bcl-2,
+bcl-xl and mcl-1. a recent report, which was published when
+this paper was under review, revealed the crystallographic
+structure of human bcl-xl interacting with a peptide (aa 107–
+135) derived from human beclin-1 and corroborated the
+hypothesis that beclin-1 possesses a bh3-like amphipathic
+a-helix that can bind to the conserved hydrophobic groove of
+bcl-xl (oberstein et al, 2007). as shown here, this interaction
+is physiologically important because its inhibition by the
+bh3-only protein bad and by a bad-like bh3 mimetic can
+stimulate autophagy.
+beclin-1 possesses a bh3 domain that, in the form of a
+synthetic peptide excised from the context of the whole
+protein, induces bax-dependent apoptosis. upon overexpres-
+it promotes bcl-xl-inhibitable autophagy
+sion, however,
+rather than apoptosis, beclin appears therefore as a new
+type of bh3 protein, in which this domain plays a regulatory,
+rather than an effector function.
+the prevalence of the autophagic activity of bh3-contain-
+ing beclin-1 and its failure to induce apoptosis in an in vivo
+context raises important mechanistic questions. regulatory
+sequences in the beclin-1 full-length protein, or the structure
+of the beclin-1 bh3 domain itself, may normally prevent the
+bh3 motif in beclin-1 from activating apoptosis, perhaps
+because of different afﬁnities between bh3-only proteins
+for anti-apoptotic bcl-2 family members in a cellular context.
+indeed, in the recent report of the structure of beclin-1 bh3
+peptide binding to bcl-xl,
+interaction features suggest
+a distinct binding speciﬁcity (oberstein et al, 2007).
+2534
+the embo journal vol 26 | no 10 | 2007
+& 2007 european molecular biology organization
+flag bcl-xl
+ebss
+64 kda-
+−−
++ +
+30′
++ +
+1 h 2 h 4 h
+64 kda-
+22 kda-
+22 kda-
+36 kda-
+36 kda-
+ebss
+abt737
+22 kda-
+26 kda-
+1 h
+2 h
+1 h 2 h
+ip: α flag, ib: α beclin-1
+lysates, ib: α beclin-1
+ip:   α flag, ib: α bad
+lysates, ib: α bad
+ip: α flag, ib: α bcl-xl
+lysates, ib: α bcl-xl
+ip: α bcl-2, ib: α bad
+lysates, ib: α bcl-2
+flag bcl-xl
+lithium chloride
+rapamycin
+l-690,330
+carbamazepine
+64 kda-
++ +
+−−
+−−
+−−
+−−
+1 h 4 h
+−−
+−−
+−−
+64 kda-
+22 kda-
+22 kda-
+sirna 1 bad
+sirna 2 bad
+sirna emerin
+22 kda-
+37 kda-
+sirna 1 vps34
+sirna 2 vps34
+sirna emerin
+105 kda-
+37 kda-
+25
+20
+15
+10
+control
+sirna1 bad
+sirna2 bad
+sirna1 vps34
+sirna2 vps34
+sirna emerin
+cm
+nf
+cm + rapamycin
+50
+40
+30
+20
+10
+wt
+bad −/−
+1 h 2 h
+−−
+1 h
+2 h
+1 h 2 h
+1 h 2 h
+wt
+bad −/−
+ebss
+abt737
+60 kda-
+26 kda-
+60 kda-
+26 kda-
+ip: α bcl-2, ib: α beclin-1
+lysates, ib: α bcl-2
+ip: α bcl-2, ib: α beclin-1
+lysates, ib: α bcl-2
+40
+35
+30
+25
+20
+15
+10
+++
+−−
+1 h 4 h
+−−
+−−
+−−
+−−
+1 h 4 h
+−−
++ +
+−−
+−−
+−−
+1 h 4 h
+bh3 domain in beclin-1
+mc maiuri et al
+ip: α flag, ib: α beclin-1
+lysates, ib: α beclin-1
+ip: α flag, ib: α bad
+lysates, ib: α bad
+bad
+gapdh
+vps34
+gapdh
+abt737
+cm
+abt737
+nf
+control
+wt bad 
+pcdna3
+z-vad-fmk
+z-vad-fmk
+cm
+nf
+figure 7 impact of the bh3-only protein bad on autophagy. (a, b) interactions between bcl-xl, beclin-1 and bad in conditions of autophagy
+induction. cells were either treated by nutrient depletion (a) or addition of 1 mm rapamycin, 1 mm lithium chloride, 100 mm l-690,330 or 50 mm
+carbamazepine (b), followed by immunprecipitation of bcl-xl (as in figure 2c) and revealing the immunoblots by antibodies speciﬁc for bcl-
+xl, beclin-1 or bad. (c) interaction between endogenous bad and bcl-2. hela cells were treated with abt737 (1 mm) or nutrient-depleted,
+followed by immunoprecipitation of bcl-2 and immunodetection of bad. (d, e) impact of bad depletion on autophagy. cells were transfected
+with lc3-gfp together with sirnas speciﬁc for bad, sirnas speciﬁc for emerin or the beclin-1-associated pi3 kinase vps34. forty-eight hours
+later, when the sirnas had down-regulated the proteins of interest (d), cells were subjected by nutrient depletion (nf) or addition of
+rapamycin (e) and the frequency of cells exhibiting lc3-gfp aggregation as a marker of autophagy was assessed after 18 h (means7s.d.,
+*po0.05, n ¼ 3 separate experiments). (f) effect of the bad knock-out on autophagy. wild type (wt) or bad /  mef were transfected with
+lc3-gfp and then subjected to nutrient depletion (nf) and/or treatment with abt737 (18h; means7s.d., n ¼ 3). the asterisks denotes a
+signiﬁcant (po0.05) effect of bad deﬁciency. (g) effect of the bad knockout on the beclin-1/bcl-2 interaction. wt or bad /  mef were
+subjected to the indicated treatments, followed by immunoprecipitation of bcl-2 and immunobloting of beclin-1. (h) overexpression of bad
+triggers autophagy. cells were transfected with lc3-gfp alone (control), together with vector-only or with a vector encoding bad, and
+subjected 48 h later to nutrient depletion (nf). cells were cultured in the continuous presence or absence of the pan-caspase inhibitor z-vad-
+fmk (50 mm) for 16 h, followed by assessment of autophagy as in (e) (means7s.d., n ¼ 3 separate experiments, *po0.01). immunoblots are
+representative of at least three independent experiments.
+& 2007 european molecular biology organization
+the embo journal vol 26 | no 10 | 2007 2535
+bh3 domain in beclin-1
+mc maiuri et al
+wt
+egl-1(n487)
+egl-1(ok1418)
+dsred::lgg-1
+50  µm
+well-fed
+starved
+250
+200
+150
+100
+50
+w t
+w t-starved
+egl-1(n487) starved
+egl-1(n487)
+egl-1(ok1418)-starved
+egl-1(ok1418)
+figure 8 the bh3-domain protein egl-1 modulates starvation-
+induced autophagy in c. elegans. l4 larvae expressing an lgg-
+1hdsred reporter (whose expression level provides an indication
+of autophagy) as well as a gain-of-function mutation of egl-1 (n487)
+or a deletion allele of egl-1 (ok1418) were maintained in rich
+medium or starved overnight. (a) representative images of wt
+and egl-1 mutant embryos, bearing the plgg 1dsredhlgg-1 repor-
+ter transgene are shown under conditions of normal growth
+and under starvation. scale bars denote approximately 50 mm.
+(b) quantiﬁcation of lgg-1hdsred ﬂuorescence as determined
+in (a). each point represents the measurement for one individual
+embryo. horizontal bars denote means and gray areas denote
+standard errors.
+alternatively, there could be different pools of anti-apoptotic
+multidomain bcl-2 proteins, some sequestering pro-apoptotic
+bcl-2 family members, others beclin-1, and that these may be
+selectively displaced by other bh3 proteins, again perhaps
+reﬂecting their different afﬁnities and/or subcellular com-
+partmentalization.
+in favour of this latter possibility, we found that abt737 as
+well as nutrient withdrawal only affected the interaction
+between beclin-1 and er-localized bcl-2. the mechanisms
+through which abt737 may effect the interaction between
+er-localized bcl-2-beclin–1 complexes (but not those found
+on mitochondria) are elusive. on the one hand, the afﬁnity of
+abt737 for bcl-2 may be inﬂuenced by post-transcriptional
+alterations (such as bcl-2 phosphorylation; konopleva et al,
+2006) that may correlate with its subcellular localization
+(ruvolo et al, 1998). on the other hand, the nature of the
+physicochemical
+interaction between bcl-2 and beclin-1
+might be conditioned by the presence of additional orga-
+nelle-speciﬁc proteins, such as ip3r (1,4,5-inositol trispho-
+sphate receptor) in er (chen et al, 2004; criollo et al, 2007)
+and vdac (voltage-dependent anion channel) in mitochon-
+dria (shimizu et al, 1999). while mitochondrial bcl-2 and
+bcl-xl could be the preferential target for the pro-apoptotic
+function of bh3-only proteins, er-resident bcl-2-beclin-1
+complexes could be selectively disrupted by competing bh3
+domains (such as that of bad) or bh3 mimetics for the
+induction of autophagy, which is agreement with the ﬁndings
+of pattingre et al (2005) showing that only er-targeted bcl-2
+inhibits autophagy.
+it is noteworthy that the regulation of autophagy by bh3-
+only proteins is phylogenetically old. this does not only
+apply to the conservation of the bh3-like domain of beclin-
+1 in non-mammalian species but extends to the observation
+that egl-1, the sole bh3-only protein of c. elegans, sufﬁces to
+trigger autophagy and is a mediator of starvation-induced
+autophagy. it should be noted that loss-of-function mutants
+of egl-1 (in c. elegans) and depletion/deletion of bad (in
+human and mouse cells) did not completely abolish starva-
+tion-induced autophagy, in line with the presence of redun-
+dant regulatory pathways (shintani and klionsky, 2004) in
+which bh3-only proteins play a prominent but not exclusive
+role.
+by virtue of its bh3-mimetic action, abt737 exerts two
+distinct cellular effects. on the one hand, it inhibits the anti-
+apoptotic action of bcl-2 or bcl-xl, as established previously
+(oltersdorf et al, 2005), thus triggering apoptosis in cells in
+which neutralization of bcl-2 or bcl-xl is sufﬁcient to de-
+inhibit the mitochondrial cell death pathway. on the other
+hand, abt737 stimulates autophagy, which can be viewed as
+a cytoprotective mechanism (boya et al, 2005; lum et al,
+2005). although at present no clinically applicable autophagy
+inhibitors are available, these results point to the possibility
+of using autophagy inhibitors for sensitizing tumor cells to
+bh3 mimetics or indirect activators of bh3-dependent apop-
+totic pathways.
+in conclusion, our data support a novel function of the
+bh3-binding site of bcl-2 homolog, namely regulation of
+autophagy. beyond their established function as cell death
+inducers, bh3-only proteins or bh3 mimetics can induce
+autophagy by competitively disrupting the interaction of
+beclin-1 with bcl-2/bcl-xl. our ﬁndings indicate a hitherto
+unexpected crosstalk between self-killing and self-eating.
+both phenomena are controlled by bh3-only proteins.
+materials and methods
+cell lines and culture conditions
+hela cells were cultured in dmem containing 10% fetal calf serum
+(fcs), 1 mm pyruvate and 10 mm hepes at 371c under 5% co2.
+mv4.11 cells were cultured in rpmi 1640 medium containing 10%
+fcs, 1 mm pyruvate, 10 mm hepes, 100 u/ml penicillin g sodium,
+100 mg/ml streptomycin sulfate and 5 ng/ml granulocyte/macro-
+phage colony-stimulating factor (gm-csf) at 371c under 5% co2.
+wild type and bad /  mef (ranger et al, 2003), as well as cells
+expressing bcl-2 acta or bcl-2 cb5 (zhu et al, 1996) were
+maintained in dmem supplemented with 10% fcs, 1 mm pyruvate,
+10 mm hepes and 1% non-essential amino acids (neaa, sigma) at
+371c under 5% co2. all media and supplements were purchased
+from gibco-invitrogen (carlsbad, usa). for serum and amino-acid
+starvation, cells were cultured in serum-free earle’s balanced salt
+2536
+the embo journal vol 26 | no 10 | 2007
+& 2007 european molecular biology organization
+solution medium (sigma)
+supplemented with abt737 (1 mm; synthesized by servier).
+(vahsen et al, 2004), optionally
+plasmids, transfection and rna interference
+cells were cultured in six-well plates and transfected at 80%
+conﬂuence with oligofectamine (invitrogen), in the presence of
+100 nm of sirnas speciﬁc for human beclin-1 and other atg genes
+(boya et al, 2005; gonzalez-polo et al, 2005), bad (sirna1 from jin
+et al, 2004; sirna2: cugggcagccaucuugaau dtdt), vps
+(sirna1 from nobukuni et al, 2005 and sirna2 from byﬁeld
+et al, 2005), a scrambled sirna or an sirna targeting the unrelated
+protein emerin (harborth et al, 2001). sirna effects were controlled
+by immunoblots with suitable antibodies speciﬁc for beclin-1
+(santacruz), bad (santacruz) or vps34 (zymed). transient
+transfections with cdnas were performed with lipofectamine
+2000 reagent (invitrogen), and cells were used 24 h after transfec-
+tion unless speciﬁed differently. cells were transfected with empty
+vector alone or together with lc3-gfp (kabeya et al, 2000), in the
+presence or absence of beclin-1 wild type, beclin-1 l116a, beclin-1
+f123a, bcl-xl wild type, bcl-xl g138a, bcl-2 wild type, or mcl-1.
+yeast two-hybrid system
+bcl-xl and bcl-2 without their c-terminal transmembrane domains
+(bcl-xl 1–624and bcl-2 1–630) were pcr ampliﬁed (pfu, strata-
+gene) and cloned n-terminal to the lexa dna binding domain in
+the pb24 vector. cdna libraries constructed in pp6 vector
+(fromont-racine et al, 2002) were transformed into the y187 yeast
+strain. ten million independent yeast colonies were collected,
+pooled and stored at  801c as equivalent aliquot fractions of the
+same library. the mating protocol has been described (fromont-
+racine et al, 2002). each screen was performed to ensure a
+minimum of 50 million interactions. the prey fragments of the
+positive clones were ampliﬁed by pcr and sequenced at their 50 and
+30 junctions on a pe3700 sequencer. the resulting sequences were
+used to identify the corresponding gene in the genbank database
+(ncbi).
+peptides and recombinant protein
+recombinant gst fused to bcl-xl wild type or bcl-xl g138a (pgex
+5x vector, amersham) deleted of
+the c-terminal 21 aa were
+produced in escherichia coli (bl21) and puriﬁed on glutathione–
+sepharose resin (amersham). hplc-puriﬁed beclin wild-type
+(gtmenlsrrlkvtgdlfdimsgqtdv), beclin l116a (gtmenl
+srrakvtgdlfdimsgqtdv), beclin f123a (gtmenlsrrlkvtg
+dladimsgqtdv) and bak bh3 (gqvgrqlaiigddinr) peptides
+were obtained from neosystem.
+fluorescence polarization assays
+fluorescence polarization (fp) assays (measured with a fusiontm-
+packard equipment) were performed essentially as described (letai
+et al., 2002). brieﬂy, for competition experiments, ﬂuorescent bak
+bh3 peptide (15 nm) and gst- bcl-xl (100 nm) were mixed in
+binding buffer (20 mm na2hpo4 ph 7.4, 50 mm nacl, 1 mm edta
+and 0.05% pluronic acid) with titrations of competing peptides
+(beclin wild type, beclin l116a, beclin f123a or bak bh3, from
+10 9 to 10 4 m). for afﬁnity constant (kd) calculations, ﬂuorescent
+beclin peptide (15 nm) was mixed with increasing amounts of gst-
+bcl-xl wild type or gst- bcl-xl g138a (10 9–10 5 m).
+co-immunoprecipitation experiments
+hela cells were transiently transfected using effecten reagent
+(qiagen) with pcdna3topod vectors (invitrogen) expressing v5-
+his-tagged beclin constructs (wild type, l116a or f123a) alone or
+together with flag-tagged bcl-xl wild type, bcl-xl g138a, bcl-2
+wild type or mcl-1 wild type (p3xﬂag vectors, sigma). twenty-four
+hours later, cells were collected and lysed in ripa buffer. the
+cleared lysates were then subjected to immunoprecipitation with
+anti-flag beads (sigma). the immunoprecipitates were analysed by
+immunoblot with anti-beclin antibody (santa cruz, h300), anti-bcl-
+xl (transduction laboratory) or anti-mcl-1 (santacruz, s19). hela
+cells, mv4.11, wt and bad /  mef and cells expressing bcl-2 acta
+or bcl-2 cb5 (10 106 cells) were collected, lysed and/fractionated
+(focustm subcell, g biosciences, usa), and the immunoprecipita-
+tion was performed (chen et al, 2004) using anti-bcl-2 (santa cruz)
+antibody and protein g-sepharose (ge healthcare), followed by
+immunoblot detection of beclin-1 and bad (antibodies from
+santacruz).
+bh3 domain in beclin-1
+mc maiuri et al
+western blot analysis
+cells were washed with cold pbs at 41c and lysed. forty mg of
+protein were loaded on a 10% sds–page and transferred to
+nitrocellulose. the membrane was incubated for 1 h in pbs-tween
+20 (0.05%) containing 5% nonfat milk. primary antibody anti-
+beclin1 (santacruz), bad (santacruz), hvps (zymed) was incu-
+bated for 15 h at 41c and revealed with the appropriate horseradish
+peroxidase-labeled secondary antibodies (southern biotechnologies
+associates) plus the supersignal west pico chemoluminiscent
+substrate (pierce). anti-gapdh (chemicon), anti-hsp60 (sigma)
+or anti-calreticulin (stressgen) antibody was used to ensure equal
+loading.
+flow cytometry
+the following ﬂuorochromes were employed to determine apopto-
+sis-associated changes by cytoﬂuorometry: 3,30-dihexyloxacarbo-
+cyanine iodide (dioc6(3)
+the
+transmembrane potential (dcm) and propidium
+mitochondrial
+iodide (pi; 1 mg/ml) for determination of cell viability (molecular
+probes) (gonzalez-polo et al, 2005). trypsinized cells were labeled
+with the ﬂuorochromes at 371c,
+followed by cytoﬂuorometric
+analysis with a ﬂuorescence-activated cell sorter (facs) scan
+(becton dickinson).
+for quantiﬁcation of
+(40 nm)
+light microscopy, immunoﬂuorescence, and electron
+microscopy
+cells cultured on coverslips were stained with cell tracker green
+5-chloromethylﬂuorescein diacetate (cmfda (1 mm); molecular
+probes) and hoechst 33342 (2 mm; sigma). alternatively, cells were
+ﬁxed with paraformaldehyde (4% w:v) for lc3-gfp and immuno-
+ﬂuorescence assays (obeid et al, 2007). cells presenting a mostly
+diffuse distribution of lc3-gfp in the cytoplasm and nucleus were
+considered as non-autophagic, whereas cells representing several
+intense punctuate lc3-gfp aggregates with no nuclear lc3-gfp
+were classiﬁed as autophagic. each lc3-gfp staining was read by
+two independent investigators (mc maiuri and a criollo or e
+tasdemir). transmission electron microscopy was performed as
+described (gonzalez-polo et al, 2005).
+nematode experiments
+to generate the plgg 1dsredhlgg-1 reporter construct, we fused
+dsred to the n-terminus of c. elegans lgg-1. a 750 bp fragment
+containing the lgg-1 gene was ampliﬁed using the following oligos:
+50-ggaattcgaagtgggcttacaaggagga-30 and 50-ggaattcg
+tcttcttcgtttattcatg-30, and inserted at the c-terminus of
+dsred. the reporter fusion was placed under the lgg-1 promoter. to
+obtain the promoter, we ampliﬁed a 1934 bp fragment upstream of
+the lgg-1 gene using the following oligos: 50-acatgcatgcgca
+ctttcaaggcgacagta-30 and 50-ggggtacctcctccttgtaag
+cccactt-30. the reporter construct was injected into the gonads
+of n2 animals together with a plasmid that carries a pmyo 2gfp
+reporter fusion, expressing gfp in the pharyngeal muscle cells, as a
+transformation marker. transgenic males were crossed with egl-1
+mutant hermaphrodites to obtain mutants carrying the autophago-
+somal marker (brenner, 1974). the c. elegans strains n2: wild-type
+egl-1(n487), rb1305: egl-1(ok1418),
+bristol
+n2;ex[plgg 1dsredhlgg-1], egl-1(n487);ex[plgg 1dsredhlgg-1]
+and egl-1(ok1418);ex[plgg 1dsredhlgg-1] were obtained from the
+c. elegans knockout consortium (robert barstead, oklahoma
+medical research foundation, usa) or the caenorhabditis genetics
+center (theresa stiernagle, university of minnesota, minneapolis,
+usa). to monitor dsredhlgg-1 levels in embryos, eggs were
+obtained from transgenic gravid hermaphrodite adults, expressing
+plgg 1dsredhlgg-1. for starvation experiments,
+late l4 larval
+stage animals were grown in the absence of food and eggs were
+collected between 12–24 h into adulthood.
+isolate, mt1082:
+transgenic embryos expressing dsred were photographed on an
+axioskop 2 plus, epiﬂuorescence microscope (carl zeiss, jena,
+germany). images were acquired using a 480710 nm band-pass
+excitation ﬁlter and a 515715 nm band-pass emission ﬁlter.
+experiments were performed at 201c, with photography exposure
+time kept identical for each experiment. emission intensity was
+measured on greyscale images with a pixel depth of 8 bit (256
+shades of gray). the mean and maximum pixel intensity for each
+embryo in these images (minimum 25 over three independent trials)
+was determined with imagej software (http://rsb.info.nih.gov/ij/).
+& 2007 european molecular biology organization
+the embo journal vol 26 | no 10 | 2007 2537
+bh3 domain in beclin-1
+mc maiuri et al
+supplementary data
+supplementary data are available at the embo journal online
+(http://www.embojournal.org).
+acknowledgements
+we thank bert vogelstein (johns hopkins university, bethesda,
+ma) for the gift of bax-deﬁcient hct116 cells, andreas villunger
+(university of innsbruck, austria) for bad-negative mef, david
+andrews for bcl-2 acta cb5 expressing cells, abdelali jalil for confocal
+microscopy, and thierry le diguarher for synthesis of abt737.
+nematode strains were provided by the c. elegans gene knockout
+project at omrf (http://www.mutantfactory.ouhsc.edu/), which
+is part of the international c. elegans gene knockout consortium,
+and the caenorhabditis genetics center, which is funded by the
+nih national center for research resources (ncrr). gk is
+supported by ligue contre le cancer, european commission
+(active p53, chemores, transdeath, right, death-train) and
+institut de recherche servier. pj is supported by institut de
+recherche servier.
+references
+boya p, gonzalez-polo r-a, casares n, perfettini j-l, dessen p,
+larochette n, metivier d, meley d, souquere s, pierron g,
+ohsumi y, codogno p, kroemer g (2005) inhibition of macro-
+autophagy triggers apoptosis. mol cell biol 25: 1025–1040
+brenner s (1974) the genetics of caenorhabditis elegans. genetics
+77: 71–94
+byﬁeld mp, murray jt, backer jm (2005) hvps34 is a nutrient-
+regulated lipid kinase required for activation of p70 s6 kinase.
+j biol chem 280: 33076–33082
+chen r, valencia i, zhong f, mccoll ks, roderick hl, bootman md,
+berridge mj, conway sj, holmes ab, mignery ga, velez p,
+distelhorst cw (2004) bcl-2 functionally interacts with inositol
+1,4,5-trisphosphate receptors to regulate calcium release from the
+er in response to inositol 1,4,5-trisphosphate. j cell biol 166:
+193–203
+conradt b, horvitz hr (1998) the c. elegans protein egl-1 is
+required for programmed cell death and interacts with the bcl-2-
+like protein ced-9. cell 93: 519–529
+conradt b, horvitz hr (1999) the tra-1a sex determination
+protein of c. elegans regulates sexually dimorphic cell deaths
+by repressing the egl-1 cell death activator gene. cell 98: 317–327
+criollo a, maiuri mc, tasdemir e, vitale i, fiebig aa, andrews d,
+molgo j, diaz j, lavandero s, harper f, pierron g, di stefano d,
+rizzuto r, szabadkai g, kroemer g (2007) regulation of autop-
+trisphosphate receptor. cell death diff
+hagy by the inositol
+(in press)
+danial nn, korsmeyer s (2004) cell death: critical control points.
+cell 116: 205–219
+fromont-racine m, rain jc, legrain p (2002) building protein-
+protein networks by two-hybrid mating strategy. methods
+enzymol 350: 513–524
+germain m, shore gc (2003) cellular distribution of bcl-2 family
+proteins. sci stke 2003: pe10
+gonzalez-polo ra, boya p, paulau a-l, jalil a-a, larochette n,
+souquere s, eskelinen el, pierron g, saftig p, kroemer g (2005)
+the apoptosis/autophagy paradox. accumulation of autophagic
+vacuoles triggers apoptosis. j cell sci 118: 3091–3102
+gozuacik d, kimchi a (2004) autophagy as a cell death and tumor
+suppressor mechanism. oncogene 23: 2891–2906
+harborth j, elbashir sm, bechert k, tuschl t, weber k (2001)
+identiﬁcation of essential genes in cultured mammalian cells
+using small interfering rnas. j cell science 114: 4557–4565
+hoyer-hansen m, bastholm l, mathiasen is, elling f, jaattela m
+(2005) vitamin d analog eb1089 triggers dramatic lysosomal
+changes and beclin 1-mediated autophagic cell death. cell
+death differ 12: 1297–1309
+jin z, gao f, flagg t, deng x (2004) nicotine induces multi-site
+phosphorylation of bad in association with suppression of apop-
+tosis. j biol chem 279: 23837–23844
+kabeya y, mizushima n, ueno t, yamamoto a, kirisako t, noda t,
+kominami e, ohsumi y, yoshimori t (2000) lc3, a mammalian
+homologue of yeast apg8p, is localized in autophagosome mem-
+branes after processing. embo j 19: 5720–5728
+konopleva m, contractor r, tsao t, samudio i, ruvolo pp, kitada s,
+deng x, zhai d, shi y-x, sneed t, verhaegen m, soengas m,
+ruvolo vr, mcqueen t, schober wd, watt jc, jiffar t, ling x,
+marini fc, harris d, dietrich m, estrov z, mccubrey j, stratford
+may w, reed jc, andreeff m (2006) mechanisms of apoptosis
+sensitivity and resistance to the bh3 mimetic abt-737 in acute
+myeloid leukemia. cancer cell 10: 375–388
+kroemer g, jaattela m (2005) lysosomes and autophagy in cell
+death control. nat rev cancer 5: 886–897
+letai a, bassik mc, walensky ld, sorcinelli md, weiler s,
+korsmeyer sj (2002) distinct bh3 domains either sensitize or
+activate mitochondrial apoptosis, serving as prototype cancer
+therapeutics. cancer cell 2: 183–192
+liang xh, jackson s, seaman m, brown k, kempkes b, hibshoosh
+h, levine b (1999) induction of autophagy and inhibition of
+tumorigenesis by beclin 1. nature 402: 672–676
+lum jj, bauer de, kong m, harris hm, li c, lindsten t, thompson
+cb (2005) growth factor regulation of autophagy and cell survi-
+val in the absence of apoptosis. cell 120: 237–248
+melendez a, talloczy z, seaman m, eskelinen el, hall dh, levine
+b (2003) autophagy genes are essential
+for dauer develop-
+ment and life-span extension in c. elegans. science 301:
+1387–1391
+mizushima n, yamamoto a, matsui m, yoshimori t, ohsumi y
+(2004) in vivo analysis of autophagy in response to nutrient
+starvation using transgenic mice expressing a ﬂuorescent autop-
+hagosome marker. mol biol cell 15: 1101–1111
+nobukuni t, joaquin m, roccio m, dann sg, kim sy, gulati p,
+byﬁeld mp, backer jm, natt f, bos jl, zwartkruis fj, thomas g
+(2005) amino acids mediate mtor/raptor signaling through
+activation of class 3 phosphatidylinositol 3oh-kinase. proc natl
+acad sci usa 102: 14238–14243
+obeid m, tesniere a, ghiringhelli f, fimia gm, apetoh l, perfettini
+jl, castedo m, mignot g, panaretakis t, casares n, metivier d,
+larochette n, van endert p, ciccosanti f, piacentini m, zitvogel l,
+kroemer g (2007) calreticulin exposure dictates the immuno-
+genicity of cancer cell death. nat med 13: 54–61
+oberstein a, jeffrey p, shi y (2007) crystal structure of the bcl-xl–
+beclin 1 peptide complex: beclin 1 is a novel bh3-only protein.
+j biol chem [e-pub ahead of print]
+oltersdorf t, elmore sw, shoemaker ar, armstrong rc, augeri dj,
+belli ba, bruncko m, deckwerth tl, dinges j, hajduk pj, joseph
+mk, kitada s, korsmeyer sj, kunzer ar, letai a, li c, mitten mj,
+nettesheim dg, ng s, nimmer pm, o’connor jm, oleksijew a,
+petros am, reed jc, shen w, tahir sk, thompson cb, tomaselli
+kj, wang b, wendt md, zhang h, fesik sw, rosenberg sh (2005)
+an inhibitor of bcl-2 family proteins induces regression of solid
+tumours. nature 435: 677–681
+ottilie s, diaz jl, chang j, wilson g, tuffo km, weeks s,
+mcconnell m, wang y, oltersdorf t, fritz lc (1997) structural
+and functional complementation of an inactive bcl-2 mutant by
+bax truncation. j biol chem 272: 16955–16961
+pattingre s, tassa a, qu x, garuti r, liang xh, mizushima n,
+packer m, schneider md, levine b (2005) bcl-2 antiapoptotic
+proteins inhibit beclin 1-dependent autophagy. cell 122: 927–939
+qu x, yu j, bhagat g, furuya n, hibshoosh h, troxel a, rosen j,
+eskelinen el, mizushima n, ohsumi y, cattoretti g, levine b
+(2003) promotion of tumorigenesis by heterozygous disruption of
+the beclin 1 autophagy gene. j clin invest 112: 1809–1820
+ranger am, zha j, harada h, datta sr, danial nn, gilmore ap,
+kutok jl, le beau mm, greenberg me, korsmeyer sj (2003) bad-
+deﬁcient mice develop diffuse large b cell lymphoma. proc natl
+acad sci usa 100: 9324–9329
+ruvolo pp, deng x, carr bk, stratford may w (1998) a functional
+role for mitochondrial protein kinase ca in bcl-2 phosphorylation
+and suppression of apoptosis. j biol chem 278: 25436–25442
+sarbassovdos d, ali sm, sabatini dm (2005) growing roles for the
+mtor pathway. curr opin cell biol 17: 596–603
+sarkar s, floto ra, berger z, imarisio s, cordenier a, pasco m,
+cook lj, rubinsztein dc (2005) lithium induces autophagy by
+inhibiting inositol monophosphatase. j cell biol 170: 1101–1111
+2538
+the embo journal vol 26 | no 10 | 2007
+& 2007 european molecular biology organization
+shimizu s, kanaseki t, mizushima n, mizuta t, arakawa-
+kobayashi s, thompson cb, korsmeyer sj, tsujimoto y (2004)
+a role of bcl-2 family of proteins in non-apoptotic programmed
+cell death dependent on autophagy genes. nature cell biology 6:
+1221–1228
+shimizu s, narita m, tsujimoto y (1999) bcl-2 family proteins
+regulate the release of apoptogenic cytochrome c by the mito-
+chondrial channel vdac. nature 399: 411–412
+shintani t, klionsky dj (2004) autophagy in health and disease: a
+double-edged sword. science 306: 990–995
+takacs-vellai k, vellai t, puoti a, passannante m, wicky c, streit a,
+kovacs al, muller f (2005) inactivation of the autophagy gene
+bec-1 triggers apoptotic cell death in c. elegans. curr biol 15:
+1513–1517
+vahsen n, cande c, briere j-j, benit p, joza n, mastroberardini pg,
+pequignot m, casares n, larochette n, metivier d, feraud o,
+debili n, piacentini m, penninger jm, rustin p, kroemer g (2004)
+aif deﬁciency compromises oxidative phosphorylation. embo j
+23: 4679–4689
+van delft mf, wei ah, mason kd, vandenberg cj, chen l, czabotar
+pe, willis sn, scott cl, day cl, cory s, adams jm, roberts aw,
+huang dcs (2006) the bh3 mimetic abt-737 targets selective
+bh3 domain in beclin-1
+mc maiuri et al
+bcl-2 proteins and efﬁciently induces apoptosis via bak/bax if
+mcl-1 is neutralised. cancer cell 10: 389–399
+wei mc, zong w-x, cheng eh-y, lindsten t, panoutsakopoulou v,
+ross aj, roth ka, macgregor gr, thompson cb, korsmeyer sj
+(2001) proapoptotic bax and bak: a requisite gateway to mito-
+chondrial dysfunction and death. science 292: 727–730
+yu l, alva a, su h, dutt p, freundt e, welsh s, baehrecke eh,
+lenardo mj
+program of autophagic cell death by caspase-8. science 304:
+1500–1502
+(2004) regulation
+of
+an atg7-beclin
+yue z, jin s, yang c, levine aj, heintz n (2003) beclin 1, an
+autophagy gene essential for early embryonic development, is a
+haploinsufﬁcient tumor suppressor. proc natl acad sci usa 100:
+15077–15082
+zeng x, overmeyer jh, maltese wa (2006) functional speciﬁcity of
+the mammalian beclin-vps34 pi 3-kinase complex in macroauto-
+phagy versus endocytosis and lysosomal enzyme trafﬁcking.
+j cell sci 119: 259–270
+zhu w, cowie a, wasfy gw, penn lz, leber b, andrews dw (1996)
+bcl-2 mutants with restricted subcellular location reveal spatially
+distinct pathways for apoptosis in different cell types. embo j 15:
+4130–4141
+& 2007 european molecular biology organization
+the embo journal vol 26 | no 10 | 2007 2539

@@ -1,0 +1,990 @@
+molecular microbiology (2007) 63(4), 1069–1077
+doi:10.1111/j.1365-2958.2006.05580.x
+first published online 18 january 2007
+efficient degradation of misfolded mutant pma1 by
+endoplasmic reticulum-associated degradation
+requires atg19 and the cvt/autophagy pathway
+maría j. mazón,† pilar eraso† and francisco portillo*
+departamento de bioquímica and instituto de
+investigaciones biomédicas ‘alberto sols’, consejo
+superior de investigaciones cientíﬁcas-universidad
+autónoma de madrid, arturo duperier, 4, 28029 madrid,
+spain.
+summary
+misfolded proteins are usually arrested in the
+endoplasmic reticulum (er) and degraded by
+the er-associated degradation (erad) machinery.
+several mutant alleles of pma1, the gene coding for
+the plasma membrane h+-atpase, render misfolded
+proteins that are retained in the er and degraded by
+erad. a subset of misfolded pma1 mutants exhibit a
+dominant negative effect on yeast growth since, when
+coexpressed with the wild-type allele, both proteins
+are retained in the er. we have used a pma1-d378t
+dominant negative mutant
+to identify new genes
+involved in erad. a genetic screen was performed
+for isolation of multicopy suppressors of a gal1-
+pma1-d378t allele. atg19, a member of the cyto-
+plasm to vacuole targeting (cvt) pathway, was found
+to suppress the growth arrest phenotype caused by
+the expression of pma1-d378t. atg19 accelerates the
+degradation of pma1-d378t thus allowing the
+co-retained wild-type pma1 to reach the plasma
+membrane. atg19 was also able to suppress other
+dominant lethal pma1 mutations. the degradation of
+the mutant atpase occurs in the proteasome and
+requires intact both erad and cvt/autophagy
+pathways. we propose the cooperation of both path-
+ways for an efficient degradation of misfolded pma1.
+introduction
+proteins entering the secretory pathway are modiﬁed,
+folded and assembled in the endoplasmic reticulum (er)
+before the delivery to their ﬁnal
+localization (rapoport
+et al., 1996). these processes are monitored by a quality
+accepted 18 december, 2006.
+*for correspondence. e-mail
+fportillo@iib.uam.es; tel. (+34) 91 5854457; fax (+34) 91 5854401.
+†these authors contributed equally to this work.
+© 2007 the authors
+journal compilation © 2007 blackwell publishing ltd
+control mechanism to ensure that only correctly folded and
+assembled proteins exit the er (ellgaard and helenius,
+2003). non-properly folded proteins are usually retained in
+the er and eventually degraded by a mechanism known
+as erad (er-associated degradation). this mechanism
+involves retrograde translocation into the cytoplasm, ubiq-
+uitination and degradation of the misfolded protein by the
+proteasome (loayza et al., 1998; kostova and wolf, 2003;
+ahner and brodsky, 2004). in yeast, substrates for this
+pathway include mutant forms of integral membrane pro-
+teins such as the a-factor transporter ste6 (loayza et al.,
+1998),
+the multidrug transporter pdr5 (plemper et al.,
+1998) and the plasma membrane h+-atpase pma1 (wang
+and chang, 1999; mason et al., 2006).
+the present study has focused on the identiﬁcation of
+new genes involved in erad of pma1 mutants. to this
+end we have exploited the characteristics of some mutant
+pma1 alleles which display a dominant lethal phenotype.
+the h+-atpase, encoded by the pma1 gene (serrano
+et al., 1986) belongs to the family of p-type cation pumps
+(catty et al., 1997). pma1 is a polytopic cell surface
+protein which generates the electrochemical proton gra-
+dient essential for nutrient uptake by secondary active
+transport (serrano, 1991). newly synthesized pma1 is
+assembled as an oligomer in the er and delivered to the
+cell surface via the secretory pathway (lee et al., 2002;
+wang and chang, 2002). site-directed mutagenesis has
+been extensively used to study the role of potentially
+important residues of the enzyme and a large number of
+mutants have been generated (morsomme et al., 2000).
+these studies have allowed the identiﬁcation of a series
+of mutations that cause cell growth arrest even when
+wild-type pma1 is coexpressed (harris et al., 1994). this
+dominant
+lethal phenotype has been particularly well
+characterized in the case of point mutations altering asp-
+378,
+forms the aspartyl-
+phosphate intermediate during the catalytic cycle of the
+enzyme. mutations at asp-378 render misfolded pma1
+proteins that are retained in the er (dewitt et al., 1998).
+accumulation of the misfolded protein induces er prolif-
+eration leading to the formation of kar2-containing struc-
+tures termed bip bodies (harris et al., 1994; portillo,
+1997; wang and chang, 1999; ferreira et al., 2002). in
+the case of pma1-d378n it has been shown that the
+the essential
+residue that
+1070 m. j. mazón, p. eraso and f. portillo
+mutant enzyme is retained in the er and ultimately
+degraded slowly (t1/2 = 51 min) in an ubiquitin-dependent
+manner (wang and chang, 1999). when wild-type pma1
+is coexpressed with this mutant allele it oligomerizes with
+pma1-d378n resulting in the retention and degradation
+by erad of both proteins (wang and chang, 1999). since
+pma1 is essential for growth, the depletion of wild-type
+pma1 at the cell surface caused by the expression of the
+mutant enzyme leads to growth arrest. in fact, the tem-
+perature sensitive mutation lcb1-100, impairing sphingoid
+base synthesis, was reported to suppress the dominant
+growth defect of pma1-d378n because wild-type pma1
+fails to heterooligomerize with the mutant atpase (wang
+and chang, 2002).
+a genetic screen for mutations able to suppress the
+dominant-negative growth phenotype of pma1-d378n
+resulted in the identiﬁcation of eps1, a member of the
+protein disulphide isomerase family (wang and chang,
+1999). the subsequent genetic and biochemical analysis
+led to propose a role for eps1 as a component of the
+recognition machinery involved in erad (wang and
+chang, 2003). however, the fact that some carboxyl ter-
+minus truncated atpases are still retained in an eps1d
+mutant (mason et al., 2006) suggests that additional com-
+ponents must be involved in such recognition machinery.
+in this work, we undertook a genetic approach designed
+three different
+to isolate multicopy suppressors of
+dominant
+lethal pma1 alleles (pma1-d378n, -d378e,
+-d378t). we present here the isolation of atg19 as sup-
+pressor of the dominant-negative growth phenotype of
+pma1-d378t. attempts to isolate multicopy suppressors
+of pma1-d378n and pma1-d378e dominant lethal alleles
+were unsuccessful. atg19 was, ﬁrst,
+identiﬁed as a
+member of
+the cytoplasm to vacuole targeting (cvt)
+pathway in yeast (leber et al., 2001; scott et al., 2001).
+the cvt pathway mediates the transport to the vacuole of
+two vacuolar resident proteins, a-mannosidase (ams1)
+and aminopeptidase i (ape1) (kim et al., 1997; hutchins
+and klionsky, 2001). ape1 is synthesized in the cytosol,
+assembled into a large oligomeric structure and seques-
+tered into newly formed double membrane structures to
+form the cvt vesicles. these vesicles fuse with the vacu-
+olar membrane liberating the inner vesicle into the
+organelle lumen. the inner membrane is then degraded
+allowing the cargo proteins access to their ﬁnal location.
+the cvt pathway uses most of the molecular machinery
+required for macroautophagy, a catabolic process induced
+by starvation conditions that delivers cytosolic compo-
+nents including organelles to the vacuole for degradation
+and generation of an internal pool of nutrients. atg19 is
+speciﬁc to the cvt pathway, being responsible for the
+speciﬁc recognition of the two oligomeric cargo proteins
+ape1 and ams1. atg19 interacts with both cargoes, and
+with the components required for the formation of the cvt
+that
+in this study we report
+vesicle, thus assisting in the speciﬁc recruitment of the
+cargo proteins to the vesicle (levine and klionsky, 2004).
+the overexpression of
+atg19 suppresses the dominant-negative effect on cell
+growth of the pma1-d378t allele. suppression by atg19
+requires an intact cvt/autophagy machinery and is not
+restricted to pma1-d378t mutant allele since other domi-
+nant negative mutations located at different domains of
+the atpase are also suppressed. suppression is due to
+an accelerated and speciﬁc degradation by erad of the
+mutant protein allowing the delivery of the wild-type pma1
+to the plasma membrane.
+results
+atg19 overexpression suppresses the dominant growth
+defect induced by pma1-d378t
+mutant atpase altered in asp-378 is retained in the er
+and degraded slowly by erad. the turnover rate of
+pma1-d378n (t1/2 = 51 min) (wang and chang, 1999) is
+signiﬁcantly higher than that of other erad membrane
+substrates such as ste6–166 (t1/2 = 8 min) or sec61–2
+(t1/2 = 12 min)
+(loayza et al., 1998; vashist and ng,
+2004). thus, we reasoned that
+this delay in mutant
+pma1 degradation could be caused by the presence in
+low amounts of an erad component required to effi-
+the misfolded pma1 for degradation. to
+ciently direct
+gain insight
+into the molecular mechanism of mutant
+pma1 retention and degradation in the er we screened
+for genes that, when present in an episomal plasmid,
+conferred the ability to grow to cells expressing mutant
+pma1 altered in asp-378. yeast strains expressing
+-d378e mutant alleles
+ha-pma1-d378t,
+under the control of
+the galactose-inducible promoter
+were transformed with a yep24-based genomic library.
+after transformation and selective growth on sg medium
+(see experimental procedures) we only were able to
+isolate suppressors for ha-pma1-d378t allele, recover-
+ing plasmid sup221 (fig. 1a). the insert carried in this
+plasmid corresponded to a region of chromosome xv.
+subcloning experiments indicated that the fragment con-
+taining atg19 was enough to suppress the dominant
+lethality of ha-pma1-d378t (fig. 1b).
+-d378n or
+atg19 is an essential component of the cvt pathway
+involved in the recognition and selective targeting of ape1
+and ams1 to the vacuole. to this end atg19 interacts not
+only with the cargo proteins but also with two components
+of the vesicle forming machinery, atg8 and atg11 (shintani
+et al., 2002), and it has been shown that
+the atg19
+carboxyl-terminus is essential for its function in the cvt
+pathway (leber et al., 2001). a mutant allele of atg19
+lacking 32 c-terminal amino acids, placed under the
+control of the gal1 promoter, was unable to suppress the
+© 2007 the authors
+journal compilation © 2007 blackwell publishing ltd, molecular microbiology, 63, 1069–1077
+atg19 function in degradation of misfolded pma1 1071
+162
+164
+166
+168
+170
+172
+174
+176
+178
+(kb)
+chromosome xv
+phm7
+yol83w
+atg19
+sup·yol83w
+sup·atg19
+ira2
+sup221
+sd
+sg
+sup
+221
+yol083w
+atg19
+plasmid
+sd
+sg
+pyes 2.0
+pyes·atg19-δct
+pyes-atg19
+fig. 1. chromosomal location, subcloning and suppression analysis.
+a. map of a region of yeast chromosome xv. the arrows indicate the positions of the open reading frames. thin lines represent dna
+subclones used to test the ability to suppress the dominant lethal phenotype of ha-pma1-d378t mutant atpase. the different fragments of
+sup221 were cloned in plasmid yep352.
+b. drop test for growth of yeast strains coexpressing ha-pma1-d378t dominant lethal gene and one of the two subclones derived from
+plasmid sup221. cells were grown in sr medium during 24 h at 30°c. after growth, cells were suspended in water at od660 = 0.2, serially
+diluted (10-1 and 10-2) and 5 ml dropped in sd and sg media. suppression is deﬁned as the ability of yeast strain to grow on sg medium. at
+least two independent transformants were tested for suppression.
+c. drop test for suppressor capacity of an inactive atg19 mutant. wild-type yeast by4741 carrying the ha-pma1-d378t allele was
+transformed with either empty plasmid (pyes2.0), a c-terminus truncated allele of atg19 (pyes·atg19-dct) or wild-type atg19
+(pyes·atg19). drop tests for growth of the transformants in sd and sg media were performed as described above.
+dominant lethality of the mutant pma1 (fig. 1c), thus
+suggesting that
+the atg19 carboxyl-terminus is also
+required for its role in the suppression, and that other
+components of the pathway could be required for atg19-
+dependent suppression. to investigate this possibility we
+analysed the capacity of atg19 to suppress the dominant
+lethality of ha-pma1-d378t in yeast strains carrying dele-
+tions in genes encoding components of both cvt and
+macroautophagy (atg8d, atg11d, atg12d, atg17d and
+ypt7d) pathways (levine and klionsky, 2004). the results
+(fig. 2) suggest that atg19 requires an undamaged cvt/
+autophagy pathway to suppress the dominant lethality of
+the mutant atpase. in order to determine whether other
+components of the cvt pathway exhibited the same behav-
+iour than atg19, we cloned atg8 and atg11 under the
+control of the gal1 promoter and analysed their ability to
+suppress the dominant lethality of ha-pma1-d378t in both
+wild type and atg19d strains. none of them was able to
+suppress the dominant negative phenotype of the mutant
+atpase in any of the backgrounds tested (data not shown).
+we next investigated whether the atg19 suppression
+ability was restricted to pma1-d378t or extended to other
+strain
+sd sg
+wt
+atg19δ
+atg11δ
+atg17δ
+atg12δ
+atg8δ
+ypt7δ
+fig. 2. undamaged cvt- and autophagy-pathways are required for
+atg19-dependent suppression of pma1-d378t mutant dominant
+lethality. wild-type strain (by4741) and derivatives carrying null
+alleles of genes involved in the cvt and/or autophagy pathways
+were transformed with both ha-pma1-d378t and pyes·atg19.
+drop assays to test growth of the transformants on sd and sg
+media were performed as described in experimental procedures.
+identical results were obtained with three different transformants.
+© 2007 the authors
+journal compilation © 2007 blackwell publishing ltd, molecular microbiology, 63, 1069–1077
+1072 m. j. mazón, p. eraso and f. portillo
+pyes.
+atg19
+pma1 allele
+pma1
+pma1-r271t
+pma1-d378t
+pma1-d378n
+pma1-k474r
+pma1-d638n
+fig. 3. overexpression of atg19 rescues the dominant lethal
+phenotype of a wide spectrum of pma1 alleles. wild-type strain
+(by4741) was transformed with the indicated ha-pma1 alleles and
+either empty plasmid (–) or pyes·atg19 (+). drop tests for growth
+on galactose containing medium of the different transformants were
+performed as described in experimental procedures. identical
+results were obtained with three independent transformants.
+pma1 dominant lethal mutations. to this end, we cloned
+under the control of the gal1 promoter several dominant
+lethal mutations located at different pma1 domains (mor-
+somme et al., 2000) and tested the ability of pyes·atg19
+to suppress the dominant negative effect on cell growth of
+the pma1 mutants. the results (fig. 3) showed that
+atg19 overexpression suppressed the dominant lethal
+phenotype of all the pma1 mutants tested.
+pma1-d378t mutant atpase is rapid and speciﬁcally
+degraded in cells overexpressing atg19
+to characterize the mechanism by which atg19 overex-
+pression suppresses the effect of pma1-d378t we exam-
+ined the stability of the mutant atpase by cycloheximide-
+chase analysis in wild-type cells coexpressing atg19 and
+either ha-pma1 or ha-pma1-d378t alleles. figure 4
+shows that the ha-pma1-d378t atpase decayed much
+more rapidly in cells overexpressing atg19 than in cells
+expressing only the genomic copy. this is in contrast with
+the stability of the wild-type pma1 which is not affected at
+all by atg19 overexpression. we also examined the effect
+of atg19 overexpression on the degradation rate of two
+typical erad substrates, namely ste6–166 and cpy*, by
+cycloheximide-chase analysis. atg19 did not alter the sta-
+bility of these mutant proteins (data not shown) suggest-
+ing a speciﬁc role for atg19 in the degradation of the
+mutant atpase.
+it has been proposed that er retention and degrada-
+tion of dominant
+in turn,
+retention and degradation of wild-type pma1 (wang and
+lethal pma1 alleles cause,
+chang, 1999). thus, we next asked if atg19 overex-
+pression had any consequences on the degradation rate
+and/or the localization of wild-type pma1 when coex-
+pressed with mutant atpase. to address this question
+we analysed the stability and localization of a myc-
+tagged version of wild-type pma1 in cells expressing
+both atg19 and ha-pma1-d378t genes. figure 5a
+shows that in cells overexpressing atg19 the wild-type
+myc-pma1 remained relatively stable while ha-pma1-
+d378t was rapidly degraded. in the absence of atg19
+overexpression, both myc-pma1 and ha-pma1-d378t
+atpases were degraded at a similar rate. the localiza-
+tion of wild type and mutant pma1 was studied in par-
+allel by indirect
+immunoﬂuorescence. as mentioned
+pma1
+allele 
+pyes·
+atg19
+chx (h)
+0.5
+wt
+wt
+d378t
+d378t
+1,4
+1,2
+0,8
+0,6
+0,4
+0,2
+0,5
+1,5
+2,5
+chase (hours)
+fig. 4. atg19 facilitates degradation of pma1-d378t.
+a. yeast strains carrying either ha-pma1 (wt) or ha-pma1-d378t
+(d378t) alleles were transformed with either empty plasmid (–) or
+pyes·atg19 (+). transformants were grown in sr medium and
+transferred to sg medium during 4 h to induce the expression of
+pma1 alleles and atg19. cycloheximide-chase was performed as
+described under experimental procedures. western blot samples
+were normalized to lysate protein. recombinant pma1 proteins
+were detected using monoclonal antibody 12ca5 against the ha
+epitope. a representative blot of two cycloheximide-chase
+experiments performed with two different set of transformants is
+shown.
+b. densitometric analysis of the western blot shown in a. the
+remaining amount of pma1 at different chase times was referred to
+the amount of pma1 before adding cycloheximide (t = 0).
+transformants with: ha-pma1 and pyes2.0 (empty circles),
+ha-pma1 and pyes·atg19 (full circles), ha-pma1-d378t and
+pyes2.0 (empty triangles), ha-pma1-d378t and pyes·atg19
+(full triangles).
+© 2007 the authors
+journal compilation © 2007 blackwell publishing ltd, molecular microbiology, 63, 1069–1077
+pma1
+allele 
+pyes·
+atg19
+chx (h)
+wt
+d378t
+wt
+d378t
+wt
+d378t
+dapi
+pyes2.0
+pyes·atg19
+fig. 5. atg19-facilitated degradation is speciﬁc for pma1-d378t.
+a. representative blots of the cycloheximide-chase analysis of
+myc-pma1 and ha-pma1-d378t degradation. wild-type
+(fy1679–08a) cells carrying both the myc-pma1 (wt) and
+ha-pma1-d378t (d378t) alleles were transformed with either
+empty plasmid (pyes2.0) or plasmid expressing atg19 under the
+control of the galactose-inducible promoter (pyes·atg19). the
+transformants were grown and expression of the different alleles
+induced as described before. cycloheximide was added and
+samples were taken and processed as described in legend of
+fig. 4. myc tagged-pma1 protein was detected using a polyclonal
+antibody against the myc epitope (wt) and mutant ha-pma1-d378t
+atpase was detected using the monoclonal antibody 12ca5
+against the ha epitope (d378t).
+b. samples of cultures used in a, 2.5 od units, were taken 2 h
+after cycloheximide addition. samples were processed for
+indirect immunoﬂuorescence microscopy as described under
+experimental procedures. polyclonal anti-myc antibody and
+rhodamine-conjugated secondary antibody were used to detect the
+wild-type myc-pma1 atpase (wt) while a monoclonal anti-ha
+antibody and fitc-conjugated secondary antibody were used to
+detect the mutant ha-pma1-d378t atpase (d378t). staining of
+the cell nucleus is also shown (dapi).
+it
+above,
+is widely documented that expression of a
+dominant lethal atpase mutant leads to the formation of
+large punctate structures where the mutant pma1 and
+the er marker kar2 colocalize (harris et al., 1994;
+wang and chang, 1999; mason et al., 2006). figure 5b
+shows a double staining of yeast cells with anti-ha and
+anti-myc antibodies.
+in cells that did not overexpress
+atg19 the typical punctate structures were decorated
+with both antibodies and there was no observable stain-
+ing on the cell surface. as expected, in most of the cells
+ha staining was coincident with myc staining suggesting
+that wild type and mutant pma1 colocalized at the same
+atg19 function in degradation of misfolded pma1 1073
+structures. colocalization of wild type and mutant pma1
+with the er marker dpm1 was further conﬁrmed by
+sucrose density gradient (data not shown). by contrast,
+in cells overexpressing atg19,
+the anti-myc antibody
+decorated the cell surface whereas there was no
+obvious staining with the anti-ha antibody. this ﬁnding
+suggests that the atg19-dependent accelerated degra-
+dation of ha-pma1-d378t abolishes myc-pma1 reten-
+tion, thus allowing export of the wild-type pma1 to the
+cell surface. a simple explanation for
+that
+wild-type pma1 escapes from the er and reaches
+the plasma membrane would be that atg19 interferes
+with
+however,
+co-immunoprecipitation experiments of the mutant and
+wild-type forms of pma1 in the presence and absence of
+atg19 did not support this hypothesis (data not shown).
+heterooligomerization.
+the fact
+pma1
+atg19 accelerates degradation of mutant pma1-d378t
+by erad
+in yeast, erad substrates are degraded in the
+proteasome. on the other hand, atg19 is required for the
+selective recognition of oligomerized cargo proteins as a
+ﬁrst step for their transport to the vacuole. therefore, we
+next asked whether atg19-dependent suppression led
+pma1-d378t to the proteasome or to the vacuole for
+degradation. to discern between these possibilities, we
+analysed the atg19 suppression ability in mutants deﬁ-
+cient in either vacuole (pep4d) or proteasome (pre1-1
+pre2-2)-dependent protein degradation. the results
+(fig. 6a) show that atg19 suppression was not altered in
+a pep4d strain. in contrast, when atg19 and ha-pma1-
+d378t were coexpressed in a pre1 pre2 mutant strain,
+cells failed to grow suggesting that an active proteasome
+is required for suppression and that therefore ha-pma1-
+d378t is degraded in a proteasome-dependent fashion.
+this was further conﬁrmed by analysing the stability of the
+mutant atpase in either pep4d or pre1 pre2 mutant cells
+by cycloheximide-chase experiments (fig. 6b).
+in wild
+type and pep4d mutant cells the overexpression of atg19
+induced a rapid degradation of the mutant atpase and, by
+contrast, in the pre1 pre2 mutant an increased steady-
+state level of the mutant atpase was observed. we next
+studied the requirement of different components of the
+erad pathway for atg19-dependent suppression. for
+this purpose we coexpressed atg19 and ha-pma1-
+d378t in strains carrying deletions in genes required for
+erad of soluble and/or multispanning membrane pro-
+teins (hrd1, hrd3, der1, ubc7, npl4, and cue1)
+(kostova and wolf, 2003). we found (fig. 7) that atg19-
+dependent suppression of pma1-d378t required genes of
+the general machinery of erad (hrd1, hrd3, ubc7,
+npl4, and cue1) but not those involved in the speciﬁc
+degradation of glycosylated proteins (der1). altogether
+© 2007 the authors
+journal compilation © 2007 blackwell publishing ltd, molecular microbiology, 63, 1069–1077
+1074 m. j. mazón, p. eraso and f. portillo
+strain
+sd sg
+wild type
+pep4δ
+pre1 pre2
+strain
+pyes·
+atg19
+chx (h)
+wild type
+wild type
+pep4δ
+pep4δ
+pre1 pre2
+pre1 pre2
+fig. 6. the proteasome is required for the atg19-dependent
+suppression of pma1-d378t dominant lethality.
+a. atg19 suppression of the growth defect induced by
+pma1-d378t mutant allele in proteasome or vacuolar mutant
+strains. wild-type yeast (wcg4a) and derivatives with pep4::his3
+(ymtab) and pre1 pre2 (wg4a-11/21a) mutations were
+transformed with both ha-pma1-d378t and pyes·atg19 alleles.
+drop test for growth of the transformants was performed as
+described in experimental procedures. identical results were
+obtained with three different transformants.
+b. atg19-induced degradation of ha-pma1-d378t in proteasome
+or vacuolar mutant strains. representative blots are shown from
+two cycloheximide-chase analysis of ha-pma1-d378t stability in
+wild type, pep4::his3 and pre1 pre2 mutant strains. yeast strains
+were transformed with ha-pma1-d378t and either empty plasmid
+(–) or pyes·atg19 (+) and stability of ha-pma1-d378t was
+examined by cycloheximide-chase analysis as described in
+experimental procedures.
+the results presented suggest that pma1-d378t degrada-
+tion requires the erad/proteasome system.
+discussion
+dominant lethal alleles of the yeast plasma membrane
+atpase such as pma1-d378t produce misfolded proteins
+that are retained in the er and degraded slowly by the
+erad machinery. the dominant lethal phenotype of these
+alleles is caused by the co-retention of wild-type pma1 in
+the er leading to the gradual depletion of this essential
+enzyme from the cell surface. in the present study, we
+performed a genetic screening for multicopy suppressors
+of the dominant lethality of ha-pma1-d378t. using this
+approach we isolated atg19, one of the speciﬁc compo-
+the
+nents of
+that
+mechanism of atg19-dependent suppression of
+the
+dominant lethality is based on an increased degradation
+of the mutant atpase by erad, thus allowing the wild-
+the cvt-pathway. our data suggest
+type pma1 to escape from the er and reach the plasma
+membrane, ﬁnally resulting in cell growth. this is in con-
+trast with the mechanism of suppression proposed for the
+eps1 mutation, which allows the delivery of both wild type
+and mutant atpases to the plasma membrane thus
+eluding the mutant pma1 degradation by erad (wang
+and chang, 1999).
+one remarkable ﬁnding of this study is the observation
+that efficient degradation of ha-pma1-d378t mutant
+atpase requires an undamaged cvt/autophagy pathway.
+to our knowledge this is the ﬁrst report suggesting a role
+for the cvt/autophagy machinery in degradation of mis-
+folded proteins by erad in yeast. in macroautophagy,
+cytoplasmic components are non-selectively sequestered
+within autophagosomes for degradation in the vacuole/
+lysosome, whereas the cvt/autophagy is a selective
+pathway that operates constitutively delivering resident
+proteins to the vacuole. many of the components of the
+autophagic machinery are used for this selective pathway
+(levine and klionsky, 2004). the process described here
+exhibits atg19 dependence, suggesting selective cargo
+recognition.
+in the cvt pathway atg19 interacts with the vesicle
+forming machinery through its c-terminal domain. our
+results show that this domain is also needed for the sup-
+pressor function suggesting a similar role for atg19 in both
+processes. moreover, it has been recently reported that
+atg19 is ubiquitinated in vivo, and that both attachment
+and ubp3-dependent removal of ubiquitin are required for
+its full activity (baxter et al., 2005). ubiquitination and
+deubiquitination of atg19 are also apparently required for
+sd sg
+strain
+wt
+hrd1δ
+hrd3δ
+der1δ
+ubc7δ
+npl4δ
+cue1δ
+fig. 7. atg19-dependent suppression requires an undamaged
+erad pathway. wild-type by4741 and derivatives carrying null
+alleles of genes involved in erad mechanism were transformed
+with ha-pma1-d378t allele and pyes·atg19. drop tests for
+growth of the transformants on sd and sg media were performed
+as described in experimental procedures. identical results were
+obtained with three different transformants.
+© 2007 the authors
+journal compilation © 2007 blackwell publishing ltd, molecular microbiology, 63, 1069–1077
+atg19 to function as suppressor of the dominant lethality
+of pma1-d378t, since in an ubp3d strain atg19-
+dependent suppression failed (data not shown). another
+well established fact is that atg19 physically interacts with
+its cargoes ape1 and ams1 (shintani et al., 2002). there-
+fore, we searched for an interaction between atg19 and
+pma1-d378t using co-immunoprecipitation techniques.
+all attempts to detect such an interaction were unsuc-
+cessful (data not shown) suggesting that the atg19 cargo
+may not be pma1-d378t itself.
+several possible models could account for the observed
+involvement of the cvt/autophagy pathway in the efficient
+degradation of the misfolded mutant pma1 by erad. the
+simplest one is that erad/proteasome and cvt/autophagy
+systems act consecutively to efficiently degrade pma1-
+d378t. in this working model the degradation of the mis-
+folded atpase by the erad/proteasome would produce
+proteolytic peptides that could eventually aggregate and
+inhibit the proteasome, thus slowing the degradation of the
+mutant atpase. the cvt/autophagy pathway would be
+responsible for the removal of the pma1-derived aggre-
+gates from the proteasome via their recognition as cargo
+by atg19. therefore, the release of proteasome inhibition
+would result in an increased rate of pma1-d378t degrada-
+tion by the erad system. proteasomal degradation of
+proteins renders peptides with an average size of 2–25
+residues long, that generally become further degraded to
+free amino acids by other proteases in the cytosol (piwko
+and jentsch, 2006).the inhibition of the proteasome activ-
+ity by aggregates of proteolytic peptides is not unprec-
+edented and has been particularly well characterized in the
+case of the huntington’s disease. a central event in hun-
+tington’s disease is the proteasomal production of a hun-
+tingtin fragment containing a polyq repeat
+forms
+aggregates in affected neurons (difiglia et al., 1997). in
+polyq-disease cell models and in vitro enzymatic assays
+has been recently observed that polyq aggregates impair
+the proteasome function ﬁnally leading to accumulation of
+the aberrant protein (bennett et al., 2005; diaz-hernandez
+et al., 2006).
+that
+control
+the results of our study add a new piece to the machin-
+ery of protein quality
+in saccharomyces
+cerevisiae. future research aiming at the identiﬁcation of
+the putative pma1-derived proteolytic peptides,
+their
+impact on proteasome activity together with the analysis
+of the mechanism of their transport to the vacuole will help
+to elucidate the way in which cvt/autophagy is
+co-ordinated with the erad/proteasome system.
+experimental procedures
+yeast strains and growth conditions
+yeast strains deleted for atg19, atg11, atg17, atg12,
+atg8, ypt7, hrd1, hrd3, der1, ubc7, npl4 and cue1
+atg19 function in degradation of misfolded pma1 1075
+are isogenic with by4741 (mata his3d1 leu2d0 met15d0
+ura3d0)
+(25) and were purchased from euroscarf
+(frankfurt, germany). yeast mutants pre1 pre2 (wcg4a-11/
+21a) and pep4::his3 (ymtab) are isogenic with wcg4a
+(mata his3–11, 15 leu2–3, 112 ura3–52) (richter-ruoff
+et al., 1994) and were obtained from d. wolf. yeast strains
+used in the genetic screen were obtained by transformation
+of by4741 with prs315-derivatives carrying ha-pma1-
+d378t, -d378n or -d378e mutant alleles under the control of
+the gal1 promoter. experiments described in fig. 5 were
+performed with yeast strain fy1679-08a (mata ura3–52
+leu2d1
+(euroscarf, frankfurt,
+germany).
+his3d200)
+trp1d63
+synthetic media containing 0.67% yeast nitrogen base
+w/o amino acids, 2% dextrose (sd), 2% raffinose (sr) or 2%
+galactose (sg) and the appropriate requirements were used.
+standard methods for yeast
+transformation, culture and
+manipulation were used (kaiser et al., 1994). unless other-
+wise indicated, to test the dominant lethality of the pma1-
+d378t allele, yeast strains were grown on sr for 24 h,
+suspended in water to an od660 = 0.1 and 5 ml were dropped
+on sd and sg agar plates.
+in cycloheximide-chase experiments the different transfor-
+mants were grown in sr medium to mid-exponential phase
+(od660 = 0.8–1), collected, resuspended in sg medium and
+cultured during 4 h to induce the expression of the pma1 and
+atg19 alleles. cycloheximide was added to a ﬁnal concen-
+tration of 200 mg ml-1 and samples of 50 od were taken at the
+indicated times and frozen in liquid nitrogen.
+plasmids
+plasmids pfp238, pfp680, pfp2357 and pfp2367 are
+derivatives of the leu2 single copy plasmid prs315 (sikor-
+ski and hieter, 1989) and express a haemagglutinin (ha)-
+tagged wild-type pma1 (pfp238), pma1-d378t (pfp680),
+pma1-d378e (pfp2357) and pma1-d378n (pfp2367)
+the gal1 promoter
+mutant alleles under the control of
+(referred as ha-pma1, ha-pma1-d378t,
+-d378e and
+-d378n, respectively, in the text). these plasmids were gen-
+erated by cloning a 0.7 kb ecori–xhoi fragment containing
+the entire gal1 promoter (cid et al., 1987) and a 4.3 kb
+xhoi–hindiii fragment containing the ha-tagged pma1 allele
+(portillo, 1997) into the ecori and hindiii sites of prs315.
+plasmids expressing the ha-tagged pma1 alleles containing
+r271t, k474r and d638n mutations under the control of the
+gal1 promoter were built by replacing a 3.5 kb bsteii–
+hindiii fragment containing the desired mutation (portillo,
+1997) with the corresponding fragment in pfp238. plasmid
+pib1910 is a derivative of the trp1 centromeric plasmid
+ycplac22 (gietz and sugino, 1988) and expresses myc-
+tagged wild-type pma1 under the control of the gal1 pro-
+moter (referred as myc-pma1 in the text). plasmid pib1910
+was constructed by cloning the 0.7 kb ecori–xhoi fragment
+containing the gal1 promoter and the 4.3 kb xhoi–hindiii
+fragment containing the myc-tagged pma1 allele into the
+ecori and hindiii sites of ycplac22. the quickchange site
+directed mutagenesis kit (stratagene, la jolla, ca) was used
+to introduce the 10 amino acid myc epitope after the second
+codon of wild-type atpase using the 4.3 kb xhoi–hindiii frag-
+ment of the pma1 gene previously subcloned into plasmid
+© 2007 the authors
+journal compilation © 2007 blackwell publishing ltd, molecular microbiology, 63, 1069–1077
+1076 m. j. mazón, p. eraso and f. portillo
+psk (stratagene, la jolla, ca). the correct insertion of the
+epitope was veriﬁed by dna sequencing. the insertion of the
+myc-epitope had no deleterious effects on the function or
+regulation of the atpase (data not shown). plasmids pib1474
+and pib1882 are derivatives of pyes2.0 (invitrogen, san
+diego, ca) and express the wild-type atg19 and an inactive
+allele of atg19 lacking 32 c-terminal amino acids, respec-
+tively, both placed under the control of the gal1 promoter
+(referred as pyes·atg19 and pyes·atg19-dct in the text).
+construction of pib1474 has been already described (leber
+et al., 2001). plasmid pib1882 was created by cloning a
+1.1 kb bamhi–xhoi fragment obtained from plasmid pgfp-
+atg19dc32 (leber et al., 2001) into the corresponding sites
+of pyes2.0.
+genetic screen
+yeast strains expressing ha-pma1-d378t,
+-d378e or
+-d378n were transformed with 50 mg of dna from a yep24-
+based library (carlson and botstein, 1982). approximately
+10 000 transformants were selected in sr medium. trans-
+formed cells were pooled and plated in sg medium to induce
+the expression of the dominant lethal alleles. plasmids were
+rescued from those yeasts able to grow on galactose medium
+(ward, 1990) and retransformed to conﬁrm their ability to
+suppress the dominant
+the mutant
+atpase. inserts contained in the suppressor plasmids were
+partially sequenced.
+lethal phenotype of
+cells lysis and immunoblotting
+total yeast protein extracts were prepared by vortexing with
+glass beads in buffer containing 50 mm tris-hcl ph 8, 5 mm
+edta and a protease inhibitor cocktail (roche, manheim,
+germany). the homogenate was cleared from intact cells by
+centrifugation for 10 min at 300 g (beckman ja-20 rotor). the
+supernatant was then centrifuged at 15000 g for 20 min. the
+resulting pellet was resuspended at a concentration of 1 mg
+protein ml-1 in laemmli loading buffer (laemmli, 1970). pro-
+teins were resolved in 8% sds-polyacrylamide gel electro-
+phoresis and transferred to a pvdf membrane (immobilon p,
+millipore)
+immunodetection using mouse monoclonal
+12ca5 (roche, manheim, germany) against the ha epitope
+or rabbit polyclonal antibody against the myc epitope (sigma,
+st louis, mo) followed by incubation with a secondary anti-
+body conjugated to alkaline phosphatase (bio-rad, hercules,
+ca). densitometric analysis of western blots was performed
+using the nih image software. protein concentration was
+determined by the bradford method (bradford, 1976) with the
+bio-rad protein assay reagent (bio-rad, hercules, ca) and
+bovine igg as standard.
+for
+immunoﬂuorescence
+strain fy1679-08a was cotransformed with pfp238,
+pib1910 and pib1474 and transformants were selected in sr
+medium. cells were cultured in sr medium overnight at
+30°c, collected, resuspended in sg medium and, to induce
+the expression of gal1-dependent genes, cultured for 4 h at
+30°c. cells were ﬁxed and stained for immunoﬂuorescence
+as described (pringle et al., 1991) using mouse monoclonal
+12ca5 anti-ha and rabbit polyclonal anti-myc antibodies as
+primary antibodies followed by rhodamine-conjugated goat
+anti-rabbit or fitc-conjugated goat anti-mouse (jackson
+immunoresearch, west grove, pa).
+acknowledgements
+we are indebted to dr dieter h. wolf for his generous gift of
+wcg4a, wcg4a-11/21a and ymtab yeast strains. this
+work was supported by spanish grants dgicyt-bmc2001-
+1517 and dgicyt-bfu 2005-06037/bmc.
+references
+ahner, a., and brodsky, j.l.
+(2004) checkpoints in
+er-associated degradation: excuse me, which way to the
+proteasome? trends cell biol 14: 474–478.
+baxter, b.k., abeliovich, h., zhang, x., stirling, a.g., burlin-
+game, a.l., and goldfarb, d.s. (2005) atg19p ubiquitina-
+tion and the cytoplasm to vacuole trafficking pathway in
+yeast. j biol chem 280: 39067–39076.
+bennett, e.j., bence, n.f., jayakumar, r., and kopito, r.r.
+(2005) global
+the ubiquitin-proteasome
+system by nuclear or cytoplasmic protein aggregates pre-
+cedes inclusion body formation. mol cell 17: 351–365.
+impairment of
+bradford, m.m. (1976) a rapid and sensitive method for the
+quantitation of microgram quantities of protein utilizing the
+principle of protein-dye binding. anal biochem 72: 248–
+254.
+carlson, m., and botstein, d. (1982) two differentially regu-
+lated mrnas with different 5′ ends encode secreted with
+intracellular forms of yeast invertase. cell 28: 145–154.
+catty, p., de kerchove d’exaerde, a., and goffeau, a. (1997)
+the complete inventory of the yeast saccharomyces cer-
+evisiae p-type transport atpases. febs lett 409: 325–
+332.
+cid, a., perona, r., and serrano, r. (1987) replacement of
+the promoter of the yeast plasma membrane atpase gene
+by a galactose-dependent promoter and its physiological
+consequences. curr genet 12: 105–110.
+dewitt, n.d., dos santos, c.f., allen, k.e., and slayman,
+c.w. (1998) phosphorylation region of the yeast plasma-
+membrane h+-atpase. role in protein folding and
+biogenesis. j biol chem 273: 21744–21751.
+diaz-hernandez, m., valera, a.g., moran, m.a., gomez-
+ramos, p., alvarez-castelao, b., castano, j.g., et al.
+(2006) inhibition of 26s proteasome activity by huntingtin
+ﬁlaments but not inclusion bodies isolated from mouse and
+human brain. j neurochem 98: 1585–1596.
+difiglia, m., sapp, e., chase, k.o., davies, s.w., bates,
+g.p., vonsattel, j.p., and aronin, n. (1997) aggregation of
+huntingtin in neuronal intranuclear inclusions and dystro-
+phic neurites in brain. science 277: 1990–1993.
+ellgaard, l., and helenius, a. (2003) quality control in the
+endoplasmic reticulum. nat rev mol cell biol 4: 181–191.
+ferreira, t., mason, a.b., pypaert, m., allen, k.e., and
+slayman, c.w. (2002) quality control in the yeast secre-
+tory pathway: a misfolded pma1 h+-atpase reveals two
+checkpoints. j biol chem 277: 21027–21040.
+© 2007 the authors
+journal compilation © 2007 blackwell publishing ltd, molecular microbiology, 63, 1069–1077
+gietz, r.d., and sugino, a. (1988) new yeast-escherichia
+coli shuttle vectors constructed with in vitro mutagenized
+yeast genes lacking six-base pair restriction sites. gene
+74: 527–534.
+harris, s.l., na, s., zhu, x., seto-young, d., perlin, d.s.,
+teem, j.h., and haber, j.e. (1994) dominant lethal muta-
+tions in the plasma membrane h(+)-atpase gene of sac-
+charomyces cerevisiae. proc natl acad sci usa 91:
+10531–10535.
+hutchins, m.u., and klionsky, d.j. (2001) vacuolar localiza-
+tion of oligomeric alpha-mannosidase requires the cyto-
+plasm to vacuole targeting and autophagy pathway
+components in saccharomyces cerevisiae. j biol chem
+276: 20491–20498.
+kaiser, c., michaelis, s., and mitchell, a. (1994) methods in
+yeast genetics. ny: cold spring harbor laboratory press.
+kim, j., scott, s.v., oda, m.n., and klionsky, d.j. (1997)
+transport of a large oligomeric protein by the cytoplasm to
+vacuole protein targeting pathway. j cell biol 137: 609–
+618.
+kostova, z., and wolf, d.h. (2003) for whom the bell tolls:
+protein quality control of the endoplasmic reticulum and the
+ubiquitin-proteasome connection. embo j 22: 2309–2317.
+laemmli, u.k. (1970) cleavage of structural proteins during
+the assembly of the head of bacteriophage t4. nature 227:
+680–685.
+leber, r., silles, e., sandoval, i.v., and mazon, m.j. (2001)
+yol082p, a novel cvt protein involved in the selective
+targeting of aminopeptidase i to the yeast vacuole. j biol
+chem 276: 29210–29217.
+lee, m.c., hamamoto, s., and schekman, r. (2002) cera-
+mide biosynthesis is required for the formation of the oli-
+gomeric h+-atpase pma1p in the yeast endoplasmic
+reticulum. j biol chem 277: 22395–22401.
+levine, b., and klionsky, d.j. (2004) development by self-
+digestion: molecular mechanisms and biological functions
+of autophagy. dev cell 6: 463–477.
+loayza, d., tam, a., schmidt, w.k., and michaelis, s. (1998)
+ste6p mutants defective in exit
+from the endoplasmic
+reticulum (er) reveal aspects of an er quality control
+pathway in saccharomyces cerevisiae. mol biol cell 9:
+2767–2784.
+mason, a.b., allen, k.e., and slayman, c.w. (2006) effects
+of c-terminal truncations on trafficking of the yeast plasma
+membrane h+-atpase. j biol chem 281: 23887–23898.
+morsomme, p., slayman, c.w., and goffeau, a. (2000)
+mutagenic study of the structure, function and biogenesis
+the yeast plasma membrane h(+)-atpase. biochim
+of
+biophys acta 1469: 133–157.
+piwko, w., and jentsch, s. (2006) proteasome-mediated
+protein processing by bidirectional degradation initiated
+from an internal site. nat struct mol biol 13: 691–697.
+plemper, r.k., egner, r., kuchler, k., and wolf, d.h. (1998)
+endoplasmic reticulum degradation of a mutated atp-
+atg19 function in degradation of misfolded pma1 1077
+binding cassette transporter pdr5 proceeds in a concerted
+action of sec61 and the proteasome. j biol chem 273:
+32848–32856.
+portillo, f. (1997) characterization of dominant lethal muta-
+tions in the yeast plasma membrane h+-atpase gene.
+febs lett 402: 136–140.
+pringle, j.r., adams, a.e., drubin, d.g., and haarer, b.k.
+(1991) immunoﬂuorescence methods for yeast. methods
+enzymol 194: 565–602.
+rapoport, t.a., jungnickel, b., and kutay, u. (1996) protein
+transport across the eukaryotic endoplasmic reticulum and
+bacterial inner membranes. annu rev biochem 65: 271–
+303.
+richter-ruoff, b., wolf, d.h., and hochstrasser, m. (1994)
+degradation of the yeast mat alpha 2 transcriptional regu-
+lator is mediated by the proteasome. febs lett 354:
+50–52.
+scott, s.v., guan, j., hutchins, m.u., kim, j., and klionsky,
+d.j. (2001) cvt19 is a receptor for the cytoplasm-to-
+vacuole targeting pathway. mol cell 7: 1131–1141.
+serrano, r. (1991) transport across yeast vacuolar and
+plasma membrane. in the molecular and cellular biology
+of the yeast saccharomyces: genome, dynamics, protein
+synthesis and energetics. broach, j.r., jones, e.w., and
+pringle, j.r. (eds). cold spring harbor, ny: cold spring
+harbor laboratory press, pp. 523–585.
+serrano, r., kielland-brandt, m.c., and fink, g.r. (1986)
+yeast plasma membrane atpase is essential for growth
+and has homology with (na+ + k+), k+- and ca2+-
+atpases. nature 319: 689–693.
+shintani, t., huang, w.p., stromhaug, p.e., and klionsky,
+d.j. (2002) mechanism of cargo selection in the cytoplasm
+to vacuole targeting pathway. dev cell 3: 825–837.
+sikorski, r.s., and hieter, p. (1989) a system of shuttle
+vectors and yeast host strains designed for efficient
+manipulation of dna in saccharomyces cerevisiae. genet-
+ics 122: 19–27.
+vashist, s., and ng, d.t. (2004) misfolded proteins are sorted
+by a sequential checkpoint mechanism of er quality
+control. j cell biol 165: 41–52.
+wang, q., and chang, a. (1999) eps1, a novel pdi-related
+protein involved in er quality control in yeast. embo j 18:
+5972–5982.
+wang, q., and chang, a. (2002) sphingoid base synthesis is
+required for oligomerization and cell surface stability of the
+yeast plasma membrane atpase, pma1. proc natl acad
+sci usa 99: 12853–12858.
+wang, q., and chang, a. (2003) substrate recognition in
+er-associated degradation mediated by eps1, a member
+the protein disulﬁde isomerase family. embo j 22:
+of
+3792–3802.
+ward, a.c. (1990) single-step puriﬁcation of shuttle vectors
+for high frequency back-transformation into
+from yeast
+e. coli. nucleic acids res 18: 5319.
+© 2007 the authors
+journal compilation © 2007 blackwell publishing ltd, molecular microbiology, 63, 1069–1077

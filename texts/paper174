@@ -1,0 +1,1246 @@
+downloaded from 
+downloaded from 
+downloaded from 
+genesdev.cshlp.org
+genesdev.cshlp.org
+genesdev.cshlp.org
+ on march 9, 2015 - published by 
+ on march 9, 2015 - published by 
+ on march 9, 2015 - published by 
+cold spring harbor laboratory press
+cold spring harbor laboratory press
+cold spring harbor laboratory press
+autophagy suppresses tumor progression
+by limiting chromosomal instability
+robin mathew,1,2 sameera kongara,2,3 brian beaudoin,2,3 cristina m. karp,2 kevin bray,2,3
+kurt degenhardt,2,3 guanghua chen,2 shengkan jin,4,5 and eileen white1,2,3,5,6
+1university of medicine and dentistry of new jersey, robert wood johnson medical school, piscataway, new jersey 08854,
+usa; 2center for advanced biotechnology and medicine, rutgers university piscataway, new jersey 08854, usa;
+3department of molecular biology and biochemistry, rutgers university piscataway, new jersey 08854, usa; 4department
+of pharmacology, university of medicine and dentistry of new jersey, piscataway, new jersey 08854, usa; 5the cancer
+institute of new jersey, new brunswick, new jersey 08903, usa
+autophagy is a bulk degradation process that promotes survival under metabolic stress, but it can also be a
+means of cell death if executed to completion. monoallelic loss of the essential autophagy gene beclin1 causes
+susceptibility to metabolic stress, but also promotes tumorigenesis. this raises the paradox that the loss of a
+survival pathway enhances tumor growth, where the exact mechanism is not known. here, we show that
+compromised autophagy promoted chromosome instability. failure to sustain metabolism through autophagy
+was associated with increased dna damage, gene amplification, and aneuploidy, and this genomic instability
+may promote tumorigenesis. thus, autophagy maintains metabolism and survival during metabolic stress that
+serves to protect the genome, providing an explanation for how the loss of a survival pathway leads to tumor
+progression. identification of this novel role of autophagy may be important for rational chemotherapy and
+therapeutic exploitation of autophagy inducers as potential chemopreventive agents.
+[keywords: autophagy; beclin1; genomic instability; apoptosis; cancer]
+received february 23, 2007; revised version accepted april 12, 2007.
+autophagy is an evolutionarily conserved catabolic pro-
+cess involving regulated turnover and elimination of pro-
+teins and cellular organelles, such as peroxisomes, mito-
+chondria, and endoplasmic reticulum, through the lyso-
+somal degradation pathway (mizushima 2005). the
+process of autophagy is characterized by the formation of
+double-membrane cytosolic vesicles, known as autopha-
+gosomes, that are essential for the lysosomal targeting of
+these organelles. in yeast, a number of autophagy-related
+genes (referred to as atg) have been identified that regu-
+late the formation of autophagosomes and the autophagy
+process (klionsky et al. 2003). several mammalian ho-
+mologs of these yeast genes have been identified (levine
+and klionsky 2004), among which the essential au-
+tophagy genes atg5 and atg7 have been most informative
+in demonstrating a role for autophagy in maintaining
+metabolism and homeostasis in mammalian develop-
+ment.
+autophagy, constitutively active at low levels, is ro-
+bustly activated under metabolic stress. autophagy
+plays an important role in development, as mice defi-
+cient in autophagy due to complete deficiency of beclin1
+(atg6/vps30), another essential autophagy gene, die early
+6corresponding author.
+e-mail ewhite@cabm.rutgers.edu; fax (732) 235-5795.
+article published online ahead of print. article and publication date are
+online at http://www.genesdev.org/cgi/doi/10.1101/gad.1545107.
+in embryogenesis (yue et al. 2003). mice lacking atg5 fail
+to survive the neonatal starvation period and die perina-
+tally, suggesting that autophagy plays an important role
+in the maintenance of energy homeostasis (kuma et al.
+2004). thus, autophagy functions as an alternative cel-
+lular energy source to maintain normal metabolism dur-
+ing development and starvation by recycling cytoplasm
+and macromolecules (jin and white 2007). furthermore,
+targeted deletion of atg5 and atg7 in the central nervous
+system results in accumulation of polyubiquitinated
+proteins leading to neurodegeneration,
+revealing a
+housekeeping role for autophagy in the regulation of
+long-lived or damaged proteins to prevent neurodegen-
+eration (komatsu et al. 2005; hara et al. 2006). the pro-
+tective effects of autophagy also include immune-related
+functions such as defense against pathogens (kirkegaard
+et al. 2004) and t lymphocyte development (pua et al.
+2006). thus, autophagy plays a critical role in develop-
+ment, survival, and maintenance of homeostasis.
+despite its predominant role as a survival pathway,
+progressive autophagy can result in cell death if allowed
+to proceed to completion under persistent stress and dur-
+ing development. in drosophila, autophagic cell death
+plays an important role during salivary gland develop-
+ment (baehrecke 2003). in mammals, autophagy proteins
+beclin1 and atg7 are necessary for the autophagic cell
+death induced by the caspase-8 inhibitor zvad-fmk in
+l929 cells as well as in human u937 cells (yu et al.
+2004). furthermore, apoptosis-resistant bax−/−/bak−/−
+genes & development 21:1367–1381 © 2007 by cold spring harbor laboratory press issn 0890-9369/07; www.genesdev.org
+1367
+downloaded from 
+genesdev.cshlp.org
+ on march 9, 2015 - published by 
+cold spring harbor laboratory press
+mathew et al.
+mouse embryonic fibroblasts (mefs) undergo autophagic
+cell death in response to apoptosis inducers in a beclin1-
+and atg5-dependent manner (shimizu et al. 2004). au-
+tophagy-like cell death is visualized in alzheimer’s
+(cataldo et al. 1994) and parkinson’s (anglade et al. 1997)
+and other neurodegenerative diseases (klionsky and emr
+2000; gomez-santos et al. 2003). however, evidence in
+support of autophagy as a cell death mechanism is lim-
+ited mostly to pharmacological induction of autophagy
+in cell lines in vitro, and direct evidence in a physiologi-
+cal context is frequently lacking. moreover, it is not
+clear whether the induction of autophagy under the
+above circumstances represents the activation of a spe-
+cific pathway for cell death or merely a failed attempt to
+promote cell survival under stress.
+quite contradictory to its survival-promoting func-
+tion, defective autophagy is implicated in tumorigenesis,
+as haploinsuffieciency in the essential autophagy gene
+beclin1 is commonly observed in sporadic human ovar-
+ian, breast, and prostate cancers (aita et al. 1999), and
+allelic loss of beclin1 promotes the incidence of sporadic
+malignancies in mice (qu et al. 2003; yue et al. 2003). in
+addition, oncogenic signals such as that of the class i
+phosphatidylinositol-3-kinase (pi3k) pathway suppress
+autophagy, but if or how this contributes to tumorigen-
+esis is not known.
+we have shown that defects in apoptosis due to either
+bax/bak deficiency or bcl-2 expression reveal autophagy
+in response to metabolic stress, which is required for cell
+survival (degenhardt et al. 2006). allelic loss of beclin1
+impairs both constitutive and stress-induced autophagy,
+causing susceptibility to metabolic stress in immortal-
+ized baby mouse kidney epithelial (ibmk) cells (degen-
+hardt et al. 2006). despite impairment in autophagy-me-
+diated survival, the autophagy-defective beclin1+/− ibmk
+cells are more tumorigenic than the wild-type cells, and
+the tumorigenicity is further accentuated by defects in
+apoptosis conferred by bcl-2 expression (degenhardt et
+al. 2006). in tumors, autophagy localizes to metaboli-
+cally stressed regions, suggesting that tumor cells exploit
+autophagy to survive metabolic stress (degenhardt et al.
+2006). thus, defects in apoptosis manifest an autophagy-
+mediated survival pathway, and concomitant defects in
+apoptosis and autophagy render cells susceptible to
+metabolic stress while promoting tumorigenesis (nelson
+et al. 2004; degenhardt et al. 2006). however, these two
+apparently contradictory roles of autophagy lead to the
+paradox that the loss of a survival pathway promotes
+tumorigenesis.
+despite several studies linking autophagy to develop-
+ment, protein turnover, maintenance of cell organelles,
+and energy homeostasis, there is no satisfactory expla-
+nation for the intuitively contradictory roles of au-
+tophagy as a survival pathway and a tumor suppressor
+mechanism. we report here for the first time that au-
+tophagy can function to protect the genome. defects in
+autophagy, conferred by either allelic loss of beclin1 or
+deficiency in atg5, lead to impaired survival in metabolic
+stress and an enhanced dna damage response. further-
+more, loss of beclin1 function promotes gene amplifica-
+1368
+genes & development
+tion and chromosomal instability, resulting in aneu-
+ploidy, all of which are hallmarks of cancer, suggesting
+that autophagy plays a major role in the maintenance of
+genomic integrity.
+results
+allelic loss of beclin1 renders ibmk cells susceptible
+to metabolic stress in vitro and impairs autophagy
+in vivo
+in order to understand the role of impaired autophagy
+conferred by allelic loss of beclin1 in tumorigenesis, pri-
+mary baby mouse kidney epithelial cells were immortal-
+ized from mutant mice, expanding the panel of indepen-
+dent cell lines originally isolated (degenhardt et al.
+2006). several independent clones of these ibmk cells
+were then also engineered to express the anti-apoptotic
+protein bcl-2. all expressed the immortalization genes
+(e1a and p53dd), and beclin1+/− cells showed reduced
+levels of beclin1 compared with beclin1+/+ ibmk cells
+(fig. 1a).
+previous work demonstrated that allelic loss of
+beclin1 in ibmk cells results in a profound defect in
+autophagy that confers increased susceptibility to meta-
+bolic stress in apoptosis-defective cells (degenhardt et al.
+2006), which was reproduced in all the cell lines in the
+panel (fig. 1c; see below). this enhanced sensitivity to
+metabolic stress was also associated with enhanced tu-
+morigenicity, as previously reported (degenhardt et al.
+2006). to measure autophagy, beclin1+/+and beclin1+/−
+cells stably expressing bcl-2 were engineered to express
+the autophagy marker egfp-lc3 and were monitored in
+vivo for cytoplasmic-to-membrane translocation, indica-
+tive of autophagy. autophagy was robustly activated in
+beclin1+/+ ibmk cells overexpressing bcl-2, which was
+profoundly diminished due to allelic loss of beclin1 (de-
+genhardt et al. 2006). wild-type ibmk cells expressing
+bcl-2 demonstrated massive induction of autophagy in
+the tumor tissue, indicated by punctate cytoplasmic lc3
+translocation (fig. 1b, red arrows). in stark contrast, tu-
+mors from the autophagy-defective beclin1+/− ibmk
+cells expressing bcl-2 displayed predominantly diffuse
+localization, indicative of an autophagy defect (fig. 1b).
+as tumor allografts suffer from a lack of oxygen and nu-
+trition at early stages of implantation before adequate
+vascularization is established (nelson et al. 2004), this
+observation suggests that tumor cells exploit the au-
+tophagy pathway to survive intermittent metabolic
+stress in vivo. this is consistent with our earlier obser-
+vation that defects in apoptosis reveal the autophagy sur-
+vival pathway, and autophagy localizes to metabolically
+stressed regions in tumors (degenhardt et al. 2006).
+in order to confirm that beclin1+/− ibmk cells have
+impaired autophagic survival, viability under ischemia
+was determined as described previously (degenhardt et
+al. 2006) using a 1% oxygen gas mixture and medium
+without glucose that simulates metabolic stress condi-
+tions in the tumor microenvironment in vitro (nelson et
+downloaded from 
+genesdev.cshlp.org
+ on march 9, 2015 - published by 
+cold spring harbor laboratory press
+autophagy limits genomic instability
+figure 1. allelic loss of beclin1 impairs cell survival and recovery in vitro and results in defective autophagy in vivo. a panel of
+beclin1+/+ and beclin1+/− ibmk cells with and without bcl-2 were subjected to ischemia viability assay and recovery was analyzed for
+ultrastructure morphology by em. (a) western blots showing protein expression in beclin1+/+ and beclin1+/− ibmk cells with and
+without bcl-2. (b) allelic loss of beclin1 impairs autophagy in tumors in vivo. beclin1+/+ and beclin1+/− ibmk cells were engineered
+to stably express egfp-lc3 and were injected subcutaneously into nude mice for tumor formation. photomicrograph of beclin1+/+ and
+beclin1+/− tumor sections 1 d post-implantation showing robust activation of autophagy in the wild-type beclin1+/+ ibmk cells and
+impaired autophagy in the autophagy-defective beclin1+/− ibmk cells. (c) allelic loss of beclin1 results in susceptibility to metabolic
+stress. viability of beclin1+/+ and beclin1+/− ibmk cells with and with out bcl-2 showing diminished survival of the beclin1+/− ibmk
+cells in response to ischemia. (d) electron micrograph showing impaired recovery of beclin1+/− ibmk cells expressing bcl-2 following
+ischemic stress.
+al. 2004). there was no significant difference in sensitiv-
+ity observed in the apoptosis-competent beclin1+/+ and
+beclin1+/− cells without bcl-2. in contrast, beclin1+/−
+cells expressing bcl-2 showed substantial sensitivity to
+ischemia when compared with wild-type cells (fig. 1c),
+suggesting that metabolic stress is a potent trigger for
+genes & development
+1369
+downloaded from 
+genesdev.cshlp.org
+ on march 9, 2015 - published by 
+cold spring harbor laboratory press
+mathew et al.
+apoptosis, which readily eliminated apoptosis-compe-
+tent cells before autophagy could be manifested.
+allelic loss of beclin1 impairs recovery from
+metabolic stress
+to further understand how this impaired autophagy re-
+sponse to metabolic stress may impact homeostasis,
+beclin1+/+ and beclin1+/− ibmk cells expressing bcl-2
+were subjected to ischemia for 7 d and allowed to re-
+cover, and ultrastructural morphology was monitored by
+electron microscopy. wild-type beclin1+/+ ibmk cells
+expressing bcl-2 transitioned from normal to a con-
+densed morphology by the end of 7 d inischemia (fig.
+1d) and retained a high level of viability under these
+conditions (degenhardt et al. 2006). most wild-type cells
+regained their normal morphology b y 4 h ofrecovery,
+and almost all did so by 8 h. in stark contrast, mutant
+beclin1+/− ibmk cells expressing bcl-2 typically showed
+enhanced necrotic morphology and cell death with
+highly vacuolated cytoplasm, and there were fewer signs
+of reversion to normal morphology even after 8 h of re-
+covery (fig. 1d). these observations suggested that au-
+tophagy not only promotes survival but also facilitates
+recovery from metabolic stress, suggesting that au-
+tophagy is a specific process of adaptation to intermit-
+tent nutrient depletion to enable high-fidelity restora-
+tion of normal cellular functions.
+autophagy suppresses the dna damage in response
+to metabolic stress
+it was unclear how defects in autophagy could diminish
+survival while enhancing tumorigenesis. one possible
+explanation is that by impairing survival to metabolic
+stress, defective autophagy may increase dna damage,
+and thereby the mutation rate in the remaining viable
+cells, facilitating tumor progression. analogously, muta-
+tions in genes critical for dna repair create sensitivity
+to dna damage but enhance tumorigenesis by increas-
+ing the mutation rate (symington 2002). in order to test
+this hypothesis, we evaluated wild-type and autophagy-
+deficient ibmk cell lines expressing bcl-2 for ser 139
+phosphorylation of histone h2ax (␥-h2ax), signifying
+dna double-strand breaks (dsbs) and activation of the
+dna damage response in response to metabolic stress
+(ischemia). both beclin1+/+ and beclin1+/− ibmk cells ex-
+pressing bcl-2 showed a low basal level of nuclear
+␥-h2ax staining (fig. 2a,b). wild-type beclin1+/+ ibmk
+cells expressing bcl-2 showed a modest induction of
+␥-h2ax levels in response to metabolic stress gradually
+over the course of 3 d (fig. 2a,b). in contrast, autophagy-
+defective beclin1+/− ibmk cells expressing bcl-2 showed
+a remarkable increase in levels of ␥-h2ax staining in
+response to metabolic stress (fig. 2b). analysis of
+␥-h2ax levels by western blotting provided similar re-
+sults, showing elevated ␥-h2ax levels in the beclin1+/−
+cells expressing bcl-2 (fig. 2c). as a defect in autophagy
+may also be associated with other forms of stress such as
+1370
+genes & development
+induction of the unfolded protein response (upr), levels
+of grp-78, an early marker for upr, were also exam-
+ined. however, no difference in grp-78 induction in
+ischemia was evident in wild-type and beclin1 mutant
+cells at these time points (fig. 2c). thus, the increased
+levels of ␥-h2ax in the beclin1 mutant cells suggested
+that defects in autophagy may promote dna damage
+induced by metabolic stress.
+allelic loss of beclin1 increases the frequency
+of centrosome abnormalities
+how deficiency in autophagy-mediated survival may
+promote tumorigenesis was further suggested by the ac-
+cumulation of large cells with abnormally shaped nuclei
+under standard tissue culture conditions specifically in
+the beclin1+/− ibmk cells expressing bcl-2. to character-
+ize the morphological differences between beclin1+/+ and
+beclin1+/− ibmk cells expressing bcl-2, the microtu-
+bule network, dna, and centrosomes were examined.
+beclin1+/+ ibmk cells expressing bcl-2, with an intact
+autophagy pathway, maintained a normal cell size with
+a uniform microtubule framework, nuclear shape, and
+predominantly normal centrosome numbers (one or two
+centrosomes per cell) (fig. 3a). in contrast, autophagy-
+defective beclin1+/− ibmk cells expressing bcl-2 showed
+profound microtubule and centrosome abnormalities, in-
+cluding heterogeneity in cell and nuclear size and shape
+(fig. 3a) and an increase in the percentage of cells with
+centrosome abnormalities including increased centro-
+some number (fig. 3b). abnormalities in the microtu-
+bule framework can arise due to abnormally large cell
+size, and, moreover, supernumerary centrosomes and
+large nuclei are defining traits of excess dna content as
+well as genomic instability (nigg 2002). these abnor-
+malities in beclin1+/− ibmk cells suggested that au-
+tophagy and maintenance of metabolism might be cru-
+cial for limiting dna damage and maintaining genome
+integrity.
+allelic loss of beclin1 manifests ploidy abnormalities
+in an apoptosis-deficient background
+to investigate the potential for genomic instability in
+beclin1 mutant cells, the dna content of multiple, in-
+dependent beclin1+/+ and beclin1+/− ibmk cell lines
+along with their bcl-2-expressing counterparts was de-
+termined by flow cytometry. apoptosis-competent
+beclin1+/+ and beclin1+/− ibmk cell lines were predomi-
+nantly diploid, with only one cell line out of six from
+each displaying a mixed population of diploid and aneu-
+ploid cells (fig. 3c). therefore, allelic loss of beclin1 did
+not grossly alter ploidy, presumably due to the negative
+selection for aneuploidy imposed by a functional apopto-
+tic pathway. flow cytometry analysis of bcl-2-expressing
+beclin1+/+ and beclin1+/− ibmk cell lines, however, re-
+vealed a significant increase in the frequency of aneu-
+ploidy associated with beclin1 deficiency (fig. 3c). all
+eight beclin1+/− ibmk cell lines expressing bcl-2 were
+downloaded from 
+genesdev.cshlp.org
+ on march 9, 2015 - published by 
+cold spring harbor laboratory press
+autophagy limits genomic instability
+figure 2. allelic loss of beclin1 promotes dna damage response under metabolic stress. representative beclin1+/+ (wb-a2) and
+beclin1+/− (blnb-a4) ibmk cell lines expressing bcl-2 were subjected to ischemia stress and the dna damage response was measured
+by the induction of ␥-h2ax by immunofluorescence and western blotting. (a) representative photomicrographs showing accumu-
+lation of ␥-h2ax in the beclin1+/− ibmk cell line expressing bcl-2 (blnb-a4) as a marker of dna damage. (b) quantitation of
+␥-h2ax-positive cells in beclin1+/+ (wb-a2) and beclin1+/− (blnb-a4) ibmk cell lines expressing bcl-2 in a. the percentage of nuclei
+with positive ␥-h2ax foci was tabulated. data represent mean ± sd. note enhanced accumulation of ␥-h2ax in the beclin1+/− ibmk
+cell line expressing bcl-2 (blnb-a4) compared with the wild type. (c) western blot time course showing ␥-h2ax (marker of dna
+damage) and grp-78 (marker of upr) in beclin1+/+ (wb-a2) and beclin1+/− (blnb-a4) ibmk cell lines, both expressing bcl-2.
+aneuploid, while only one out of eight bcl-2-expressing
+beclin1+/+ ibmk cell
+lines showed aneuploidy (fig.
+3c,d). ploidy abnormalities arose independently and in a
+genotype-specific manner (fig. 3e). overall, these obser-
+vations suggested that impairment of autophagy pro-
+moted abnormalities in centrosome and dna content
+that were preserved in an apoptosis-defective back-
+ground.
+allelic loss of beclin1 and defective autophagy
+promote numerical and structural
+chromosome abnormalities
+increases in centrosome numbers and cellular dna con-
+tent are often caused by a numerical increase in chromo-
+some numbers. to further investigate the role of allelic
+loss of beclin1 and impaired autophagy in the accumu-
+lation of dna content abnormalities, we determined the
+average metaphase chromosome number of beclin1+/+
+and beclin1+/− ibmk cells with and without bcl-2. au-
+tophagy-competent beclin1+/+ ibmk cells showed a near-
+normal diploid chromosome number with a group aver-
+age of 38 (the normal mouse chromosome number is 40)
+irrespective of bcl-2 expression (fig. 4a,b), and allelic
+loss of beclin1 had a marginal impact on the average
+chromosome number when apoptosis was functional
+(group average, 42) (fig. 4a,b). the wild-type beclin1+/+
+ibmk cells expressing bcl-2 also showed a near-normal
+diploid chromosome number (group average, 38). in con-
+trast, beclin1+/− ibmk cells expressing bcl-2 displayed a
+profound increase in metaphase chromosomes with a
+near-triploid average chromosome number (group aver-
+age, 56) (fig. 4a,b), suggesting that autophagy suppresses
+aneuploidy. along with numerical chromosomal abnor-
+malities, beclin1+/− ibmk cells expressing bcl-2 also dis-
+played significant structural abnormalities, including
+the presence of double-minute chromosomes (fig. 4a,
+red arrows), suggesting the possibility of increased gene
+amplification (gebhart 2005).
+as these ibmk cell lines were derived from normal
+primary epithelial cells, defective autophagy may facili-
+tate gradual accumulation of chromosome aberrations
+permitted by inactivation of checkpoints (p53 and prb
+pathways) and are further manifested by impaired apo-
+genes & development
+1371
+downloaded from 
+genesdev.cshlp.org
+ on march 9, 2015 - published by 
+cold spring harbor laboratory press
+mathew et al.
+figure 3. allelic loss of beclin1 promotes nuclear, centrosome, and ploidy abnormalities. beclin1+/+ and beclin1+/− ibmk cells with
+and without bcl-2 were analyzed by fluorescence microscopy and also for dna content by flow cytometry. (a) representative
+photomicrographs of beclin1+/+ and beclin1+/− ibmk cells expressing bcl-2 (wb-a2 and wb-d1, blnb-a4, and blnb-c2) stained by
+indirect immunofluorescence for microtubules (anti-␣-tubulin), dna (dapi), and centrosomes (anti-␥-tubulin). note the extensive
+microtubule network, the heterogeneous nuclear size, and the accumulation of structural and numerical abnormalities in centrosomes
+in beclin1+/− mutants (indicated by arrows). (b) quantitation of centrosome numbers in a. percentage of cells with normal centrosome
+numbers (one or two; blue bars) and with supernumerary centrosomes (more than two; purple bars). data represent the mean ± sd. (c)
+flow cytometry analysis of a panel of beclin1+/+ and beclin1+/− ibmk cell lines showing their dna content. a beclin1+/+ ibmk cell
+line (w4-b1) with a diploid dna content was used as normal control for the analysis (shown in green in each panel). note the high
+prevalence of an aneuploid dna content in the beclin1+/− mutants expressing bcl-2. (d) summary of the dna content analyses in c
+showing the p value by two-tailed fisher’s exact test. (e) lineage of the cell lines used in the study with their ploidy status, showing
+independent, genotype-specific emergence of ploidy abnormalities.
+ptosis. in order to determine when these ploidy abnor-
+malities arose, we examined the early passages (passage
+5) of both beclin1+/+ and beclin1+/− bcl-2-expressing
+ibmk cell lines shown in figure 3c for their dna con-
+tent. indeed, seven of the eight early passage beclin1+/+
+ibmk cell lines expressing bcl-2 showed a diploid dna
+1372
+genes & development
+downloaded from 
+genesdev.cshlp.org
+ on march 9, 2015 - published by 
+cold spring harbor laboratory press
+autophagy limits genomic instability
+figure 4. beclin1+/− ibmk cells demonstrate chromosomal instability. the panel of beclin1+/+ and beclin1+/− ibmk cells with and
+without bcl-2 was analyzed for chromosome number in metaphase spreads and a subset of these cell lines were analyzed for ploidy
+changes in tissue culture by flow cytometry. (a) cells were treated with nocodazole (0.5 µg/ml) and metaphase chromosomes were
+prepared (brown and baltimore 2000). the panel shows representative photomicrographs from at least 100 geimsa-stained mitotic
+figures from each genotype. the diploid beclin1+/+ ibmk cell line, w4-b1, is shown as a control for each genotype. note the enhanced
+numerical and structural abnormalities in the beclin1+/− ibmk cells expressing bcl-2, with arrows indicating double-minute chromo-
+somes. (b) scatter plot of the chromosome numbers showing the mean (data point to the left) and the median (data point to the right)
+values in each cell line. one-hundred metaphases were scored for each cell line. average of the mean chromosome numbers in each
+group is shown as a horizontal black line for each genotype. (c) flow cytometry analysis of passages 5 and 25 of bcl-2-expressing
+beclin1+/+ and beclin1+/− ibmk cell lines (red) showing transition from the diploid to aneuploid state. the cell lines were maintained
+in parallel in the same culture conditions. the diploid beclin1+/+ ibmk cell line, w4-b1 (shown in green), was used as a control.
+content, and aneuploidy was observed in only one cell
+line (wb-b1), as was observed before. in contrast, aneu-
+ploidy was evident in six of the eight beclin1+/− ibmk
+cell lines expressing bcl-2 as early as passage 5. interest-
+ingly, two of the eight early passage beclin1+/− ibmk cell
+lines expressing bcl-2 (blnb-a4 and blnb-c2) that
+showed aneuploidy at a later passage number (fig. 3c)
+were diploid at passage 5, suggesting that aneuploidy in
+these two cell lines arose during passage in tissue cul-
+ture. continued propagation in vitro, however, resulted
+in conversion of the diploid beclin1+/−, but not the
+beclin1+/+, ibmk cells expressing bcl-2 to aneuploid cells
+(fig. 4c). this suggested that normal tissue culture con-
+stituted a level of metabolic stress that may be sufficient
+to manifest as genomic instability in autophagy-defi-
+cient cells. thus, constitutive autophagy functions to
+suppress chromosomal instability that occurs gradually
+over time in culture, perhaps due to low levels of con-
+stitutive metabolic stress, and that apoptosis plays a role
+in the elimination of these cells from the population.
+indeed, a constitutive level of autophagy in the range of
+1%–10% of the cell population is readily apparent in
+bcl-2-expressing or bax/bak-deficient ibmk cells, which
+is reduced by allelic loss of or rna interference for
+beclin1 (degenhardt et al. 2006).
+allelic loss of beclin1 is associated with gene
+amplification and chromosome gains and losses
+to arrive at the mechanism of enhanced chromosome
+instability induced by the allelic loss of beclin1, particu-
+larly the formation of double-minute chromosomes, we
+explored the possibility that autophagy suppressed dna
+damage and thereby gene amplification. gene amplifica-
+tion, a major mechanism of oncogene activation and
+resistance to chemotherapy, results from dna dsbs
+genes & development
+1373
+downloaded from 
+genesdev.cshlp.org
+ on march 9, 2015 - published by 
+cold spring harbor laboratory press
+mathew et al.
+(little and chartrand 2004). it is facilitated by the inac-
+tivation of the p53 dna damage checkpoint (living-
+stone et al. 1992; white et al. 1994), increased oxidative
+stress (in particular by h2o2) (mondello et al. 2002), and
+defects in dna repair (lin et al. 2001). moreover, gene
+amplification is the known mechanism of resistance to
+n-phosphonacetyl-l-aspartate (pala) that prevents de
+novo pyrimidine biosynthesis through the inhibition of
+carbamoyl-p synthetase/aspartate transcarbamylase/di-
+hydroorotase (cad) enzyme complex and selects for
+cad gene amplification (livingstone et al. 1992). to as-
+say for the propensity for gene amplification, we tested
+for the frequency of pala resistance in beclin1+/+ and
+beclin1+/− ibmk cell lines.
+autophagy-defective, beclin1+/− ibmk cells displayed
+∼50-fold to >1000-fold increase in the rate of colony for-
+mation in pala in comparison with the beclin1+/+
+ibmk cells at five times the pala ld50, independent of
+apoptosis deficiency (fig. 5a,b). inhibition of apoptosis
+further enhanced the frequency of pala resistance in
+beclin1+/− cell lines, but only by several-fold (fig. 5b). it
+should be noted that beclin1+/− colonies grew in the pres-
+figure 5. allelic loss of beclin1 promotes pala resistance and chromosome gain and losses. multiple independent clones of
+beclin1+/+ and beclin1+/− ibmk cell lines with and without bcl-2 were subjected to pala selection (livingstone et al. 1992) and acgh
+(kallioniemi et al. 1992). (a) representative photomicrographs showing pala-resistant colonies (100 µm). pala selection was
+performed using three and five times the ld50 concentration (60 µm and 100 µm, respectively). (b) quantitation of the frequency of
+pala resistance in beclin1+/+ and beclin1+/− ibmk cells with or without bcl-2. the frequency of pala resistance was determined as
+the number of resistance colonies per 3 × 105 cells. (c) pala-resistant clones display cad gene amplification in cad-specific pcr.
+panel shows pcr reaction product (for indicated number of cycles) (756 bp) from the genomic dna isolated from untreated (u) or
+pala-treated (t) beclin1+/− ibmk cells expressing bcl-2. (d) representative whole-genome dna copy number profile by acgh for
+beclin1+/+ (w4-b1, w4-c1, wb-3, wb-a2, wb-d1) and beclin1+/− (bln-4-1, bln-34-3, blnb-13, blnb-a4, blnb-c2) ibmk cell lines
+with and without bcl-2 showing enhanced gains and losses of chromosomes in the beclin1+/− mutants. plotted are log2 transformed
+hybridization ratios of the genomic dna isolated from the cell line to genomic dna from the normal isogenic mouse kidney. (e)
+summary of specific chromosome gains (blue bars) and losses (purple bars) in beclin1+/+ and beclin1+/− ibmk cell lines (n = 5 for each).
+complete or partial chromosomal dose variations are represented as frequencies. note the significant and widespread chromosomal
+dosage variations in the beclin1+/− ibmk cells (two-tailed fisher’s exact test; p = 0.003).
+1374
+genes & development
+downloaded from 
+genesdev.cshlp.org
+ on march 9, 2015 - published by 
+cold spring harbor laboratory press
+ence of pala (fig. 5a), indicating that this was true drug
+resistance and not merely failure of autophagic cell
+death. beclin1+/+ ibmk cells without bcl-2 expression
+showed substantially lower frequencies for pala resis-
+tance, which was marginally increased by an apoptotic
+block by bcl-2 (fig. 5b). indeed, pala-resistant clones
+demonstrated amplification of the cad gene (fig. 5c).
+these data suggested that defective autophagy promotes
+drug resistance by gene amplification, which is further
+enhanced by defective apoptosis.
+the increased frequency of gene amplification ob-
+served in the beclin1+/− ibmk cells prompted us to ana-
+lyze the chromosomes of beclin1+/+ and beclin1+/− ibmk
+cell lines for random gains and losses by microarray-
+based comparative genome hybridization (acgh) (kal-
+lioniemi et al. 1992). random chromosomal gains or
+losses occurred with low frequency in the autophagy-
+competent beclin1+/+ ibmk cell lines and were limited
+to fewer chromosomes in comparison with beclin1+/−
+ibmk cell lines, which showed widespread chromo-
+somal gains and losses in nearly all of the chromosomes
+(fig. 5d,e). as acgh detects only relative copy number
+variations and not ploidy, the increased chromosomal
+gains and losses observed in the acgh data do not ad-
+dress absolute chromosome variations that were appar-
+ent in the mitotic spreads and the dna content analysis
+(figs. 3, 4). nevertheless, these data suggested that bec-
+lin1 heterozygocity enhanced gene dosage variations,
+which may accompany the gross ploidy abnormalities
+observed by flow cytometry analysis.
+inhibition of pyrimidine biosynthesis triggers
+autophagy that suppresses dna damage
+the induction of gene amplification in the beclin1 mu-
+tant cells raised the intriguing possibility that pala and
+the resulting pyrimidine starvation, which itself may be
+a form of metabolic stress, promotes autophagy induc-
+tion. therefore, we tested the relative induction of au-
+tophagy in beclin1+/+ and beclin1+/− ibmk cells in re-
+sponse to pala by cytoplasmic-to-membrane trans-
+location of egfp-lc3 in stably expressing cells. consti-
+tutive autophagy levels were low in both beclin1+/+ and
+beclin1+/− ibmk cells expressing bcl-2. within 48 h of
+pala exposure (60 µm), wild-type beclin1+/+ ibmk cells
+expressing bcl-2 showed significant induction of au-
+tophagy (50%), and this induction of autophagy was sig-
+nificantly diminished (9%) in the mutant beclin1+/−
+ibmk cells expressing bcl-2 (fig. 6a,b). this demon-
+strated that pharmacologic depletion of pyrimidines trig-
+gers autophagy.
+pala depletes pyrimidine nucleotide (dntp) pools,
+and in checkpoint-deficient cells this can induce repli-
+cation stress and dna damage. autophagy-deficient
+cells may be particularly prone to this highly specific
+form of metabolic stress, which may enhance replication
+stress and dna damage. therefore, we tested the
+dna damage response following pala exposure in both
+beclin1+/+ and beclin1+/− ibmk cells by assessing the
+accumulation of ␥-h2ax, an early marker for dsbs.
+autophagy limits genomic instability
+low levels of basal dna damage were observed in both
+beclin1+/+ and beclin1+/− ibmk cells expressing bcl-2
+(figs. 2b,c, 6c,d). ␥-h2ax staining was dramatically in-
+creased following pala exposure in the mutant
+beclin1+/− ibmk cells expressing bcl-2, while in the
+wild-type cells this increase was significantly less (fig.
+6c,d). indeed, western blot analysis confirmed accumu-
+lation of ␥-h2ax in beclin1+/− ibmk cells (fig. 6e). fur-
+thermore, no induction of grp-78 indicative of upr was
+observed (fig. 6e).
+deficiency in atg5 confers susceptibility
+to metabolic stress
+in order to establish if the susceptibility to metabolic
+stress and genomic instability were due to defective au-
+tophagy, and not limited to allelic loss of beclin1, im-
+mortalized ibmk cell lines were derived from mice de-
+ficient for the essential autophagy gene atg5 (kuma et al.
+2004). multiple independent ibmk cell lines were de-
+rived from atg5+/+, atg5+/−, and atg5−/− mice, and west-
+ern blot analysis confirmed the absence of atg5 protein
+expression in atg5−/− (fig. 7a) and reduced expression in
+the atg5+/− (data not shown) compared with atg5+/+
+ibmk cell lines (fig. 7a). all ibmk cell lines expressed
+e1a and p53dd as expected (fig. 7a). to confirm that
+loss of atg5 impaired autophagy under metabolic
+stress, the wild-type, heterozygous, and deficient atg5
+ibmk cells (6.1, 5.1, and 7.1) transiently expressing lc3-
+egfp were subjected to metabolic stress, and the per-
+centage of membrane translocation indicative of au-
+tophagy was determined. all cell lines had low levels of
+egfp-lc3 translocation under normal growth condi-
+tions, whereas metabolic stress induced a dramatic up-
+regulation of autophagy in the atg5+/+ that was reduced
+in the atg5+/− and negligible in the atg5−/− ibmk cell
+lines (fig. 7b, percentage autophagy indicated in the top
+right corner of the panels). in order to test if defective
+autophagy due to loss of atg5 also impaired survival
+under metabolic stress, these cell lines were monitored
+by long-term computerized video time-lapse microscopy
+(cvtl). atg5+/+ ibmk cell lines were minimally affected
+at 24 h with morphological signs of apoptosis becoming
+apparent at 48 h of metabolic stress, as expected (fig. 7b).
+in comparison with the atg5+/+, at the same time points,
+apoptosis was accelerated in atg5+/− and was markedly
+pronounced in the atg5−/− ibmk cell lines (fig. 7b). thus,
+deficiency in atg5 compromises both autophagy and
+survival
+in metabolic stress, as does allelic loss of
+beclin1 (fig. 1c; degenhardt et al. 2006), but does so to
+a greater extent. this suggests that impaired survival to
+metabolic stress in cancer cells is independent of the
+means of autophagy inactivation as reported previously
+(degenhardt et al. 2006).
+atg5 deficiency promotes activation of the dna
+damage response
+to determine if the enhanced susceptibility to metabolic
+stress conferred by atg5 deficiency also resulted in an
+genes & development
+1375
+downloaded from 
+genesdev.cshlp.org
+ on march 9, 2015 - published by 
+cold spring harbor laboratory press
+mathew et al.
+figure 6. pala-induced autophagy is
+impaired leading to the accumulation of
+dna damage response in beclin1+/− cells
+and not in the beclin1+/+ cells. alleleic
+loss of beclin1 results in impaired au-
+tophagy and sustains enhanced dna dam-
+age response in response to pala treat-
+ment when compared with the corre-
+(a) repre-
+sponding wild-type cell line.
+sentative photomicrographs of beclin1+/+
+(wb-13 lc3) and beclin1+/− (blnb-13
+lc3) ibmk cell lines stably expressing
+egfp-lc3, showing the lack of egfp-lc3
+localization in the beclin1+/− (blnb-13
+lc3) ibmk cell lines indicating impaired
+autophagy in response to pala treatment
+(60 µm). (b) quantitation of the percentage
+of egfp-lc3 translocation indicative of
+autophagy in a as described previously
+(degenhardt et al. 2006). data represent
+mean ± sd. note that autophagy induc-
+tion in the beclin1+/− was approximately
+fivefold less than the wild-type cells even
+after 48 h of pala treatment. (c) repre-
+sentative photomicrographs of ␥-h2ax
+immunostaining in beclin1+/+ ibmk cells
+expressing
+and
+beclin1+/− ibmk cells expressing bcl-2
+(blnb-13 lc3) following pala treatment
+showing enhanced dna damage response
+in the beclin1+/− ibmk cells expressing
+bcl-2 compared with the wild-type cells.
+(d) quantitation of percentage of ␥-h2ax-
+positive cells is shown in c. data repre-
+sent mean ± sd. (e) western blots show-
+ing ␥-h2ax and grp-78 levels
+in
+beclin1+/+ (wb-a2) and beclin1+/− (blnb-
+a4) ibmk cells, both expressing bcl-2.
+(wb-13
+bcl-2
+lc3)
+enhanced dna damage response, as observed with alle-
+lic loss of beclin1, the appearance of ␥-h2ax nuclear
+staining was monitored under normal and stress condi-
+tions. autophagy-defective, atg5−/− cells had a slightly
+higher level of ␥-h2ax staining under normal growth
+conditions that was substantially increased by metabolic
+stress compared with wild-type atg5+/+ cells (fig. 7c,d).
+to test if autophagy dependent on atg5 further en-
+abled viability and suppressed dna damage under meta-
+bolic stress in cells with a defect in apoptosis, as does
+beclin1, atg5+/+ and atg5−/− ibmk cell lines were engi-
+neered to express bcl-2 along with vector controls (fig.
+7e). when subjected to metabolic stress for 10 d followed
+by recovery for 2 d, bcl-2-expressing atg5−/− ibmk cell
+lines displayed gross abnormalities in nuclear morphol-
+ogy (increased size and irregular shape indicative of chro-
+mosome instability)
+(fig. 7f,g), associated with dra-
+matic impairment in clonogenic survival compared with
+bcl-2-expressing atg5+/+ ibmk cells (fig. 7h). although
+atg5 deficiency reduced survival to metabolic stress even
+in the presence of an apoptotic block (data not shown), as
+observed for allelic loss of beclin1 (fig. 1c; degenhardt
+et al. 2006), this survival deficit was greatly accentuated
+upon replenishment of nutrients and oxygen (fig. 7h).
+1376
+genes & development
+impaired recovery following metabolic stress was also
+observed in bcl-2-expressing beclin1+/− ibmk cells (fig.
+1d). this suggested that defects in autophagy resulted in
+increased genome damage in stress conditions that were
+manifested more prominently when cells were returned
+to normal growth conditions. to test this, bcl-2-express-
+ing atg5+/+ and atg5−/− ibmk cell lines were monitored
+for ␥-h2ax-positive nuclei under stress conditions and
+recovery. bcl-2-expressing atg5+/+ ibmk cells showed
+few ␥-h2ax-positive nuclei, the occurrence of which
+was modestly increased by stress, as expected (fig. 7i,j).
+in contrast, bcl-2-expressing atg5−/− ibmk cells dis-
+played a marked increase in ␥-h2ax-positive nuclei dur-
+ing both stress and recovery (fig. 7i,j). thus, inactivation
+of autophagy by either allelic loss of beclin1 or defi-
+ciency in atg5 amplified the cellular response to dna
+damage and increased the susceptibility to metabolic
+stress. this supports a role for the autophagy pathway in
+suppressing genome damage and enabling survival of
+cancer cells under conditions of starvation. inactivation
+of cell cycle checkpoints and apoptosis in cancer cells
+may allow further manifestation of genome damage re-
+sulting from defective autophagy, contributing to tumor
+progression.
+downloaded from 
+genesdev.cshlp.org
+ on march 9, 2015 - published by 
+cold spring harbor laboratory press
+autophagy limits genomic instability
+figure 7. atg5 deficiency impairs survival and promotes dna damage response under metabolic stress. (a) western blot showing
+protein expression levels in parental atg5+/+ and atg5−/− ibmk cell lines. (b) frames from 2-d time-lapse videos of atg5+/+ (6.1), atg5+/−
+(5.1), and atg5−/− (7.1) cells performed as described previously (degenhardt et al. 2006), showing differential survival under ischemia
+for the indicated time points. numbers represent percentage of cells with lc3-egfp translocation from a total of 300 cells, indicative
+of autophagy at the indicated time points. (c) representative photomicrographs showing induction of ␥-h2ax in atg5+/+ and atg5−/−
+parental ibmk cell lines (6.1 and 7.1) in response to ischemia treatment for 48 h. (d) quantitation of ␥-h2ax-positive cells in atg5+/+
+(6.1) and atg5−/− (7.1) ibmk cell lines in c. data represent mean ± sd. (e) western blot showing protein expression levels for two
+independent atg5+/+ and atg5−/− ibmk cell lines expressing bcl-2 (6.1b2, 6.1b3, 7.1b4, and 7.1b5 respectively) and corresponding vector
+controls (6.1v1, 6.1v2, 7.1v1, and 7.1v2). (f) representative photomicrographs of atg5+/+ and atg5−/− ibmk cells expressing bcl-2
+showing dapi-stained nuclei untreated (left) or treated with metabolic stress (right) for 10 d followed by 2 d of recovery. note the gross
+abnormality in nuclear size and shape in the atg5−/− cells (yellow arrow). (g) quantitation of nuclear size in atg5+/+ and atg5−/− ibmk
+cell lines expressing bcl-2, shown in f. data represent mean ± sd. (h) relative clonogenic survival in atg5+/+ and atg5−/− ibmk cell
+lines expressing bcl-2 (6.1b2 and 7.1b4) following 10 d ischemia an d 2 d ofrecovery. data represent mean ± sd. (i) representative
+photomicrographs showing induction of ␥-h2ax in atg5+/+ and atg5−/− ibmk cell lines expressing bcl-2 (6.1b2 and 7.1b4). (j) quan-
+titation of percentage of ␥-h2ax-positive nuclei in bcl-2-expressing atg5+/+ and atg5−/− ibmk cells shown in i. data represent
+mean ± sd.
+genes & development
+1377
+downloaded from 
+genesdev.cshlp.org
+ on march 9, 2015 - published by 
+cold spring harbor laboratory press
+mathew et al.
+discussion
+the results described here demonstrate that autophagy
+functions to limit dna damage and chromosomal insta-
+bility, which may explain its tumor suppressor activity.
+thus, our study provides the first mechanistic link be-
+tween the regulation of metabolism and genome integ-
+rity. we report here that impaired autophagy rendered
+beclin1+/− and atg5−/− ibmk cells susceptible to meta-
+bolic stress in vitro. this impaired survival in autopha-
+gy-deficient cells, however, was overcome by an in-
+creased mutation rate and chromosomal instability re-
+sulting in accelerated progression to aneuploidy, the
+hallmark of cancer, providing an explanation as to why
+the loss of this survival pathway can function to sup-
+press tumorigenesis. we found that these abnormalities
+in autophagy-deficient cells were also accompanied by
+an increased dna damage response. interestingly, py-
+rimidine starvation triggered autophagy, the defect in
+which was sufficient to promote a dna damage re-
+sponse and gene amplification in autophagy-deficient
+cells. hence, our data suggest that constitutive and
+stress-induced autophagy function to limit dna damage
+and maintain genomic integrity, thereby identifying a
+novel, but not necessarily the only, role for defective
+autophagy in promoting oncogenesis.
+defective autophagy, metabolism, and
+chromosomal instability
+we have shown earlier that a defect in apoptosis enables
+survival to metabolic stress through autophagy, and that
+concomitant impairment of apoptosis and autophagy
+pathways results in necrotic cell death in response to
+metabolic stress, functioning as a non-cell-autonomous
+mechanism to promote tumorigenesis (degenhardt et al.
+2006). our current findings suggest that autophagy also
+has a more direct role in suppressing tumorigenesis
+through the maintenance of genome integrity. metabolic
+stress is a common occurrence in human solid tumors
+(folkman 2003) that functions as a potent trigger for
+apoptosis (nelson et al. 2004). therefore, autophagy as
+an alternate means for energy production may be benefi-
+cial for tumor cells to mitigate metabolic stress. in nor-
+mal development, the lack of autophagy in atg5−/− mice
+impairs survival in heart tissue during neonatal starva-
+tion, leading to early lethality (kuma et al. 2004). nev-
+ertheless, defects in autophagy promote tumorigenesis
+despite conferring an impediment to survival, as autoph-
+agy-defective beclin1+/− ibmk cells are more tumori-
+genic than the autophagy-competent beclin1+/+ ibmk
+cells (degenhardt et al. 2006). therefore, the enhanced
+gene amplification and chromosomal
+instability ob-
+served in the mutant beclin1+/− cells expressing bcl-2
+may enable cells to overcome the survival deficit by pro-
+moting tumorigenesis through an increased mutation
+rate. this observation is analogous to the increased tu-
+morigenicity of cells with defects in dna repair that
+also creates sensitivity to dna-damaging agents and
+ionizing radiation while facilitating the accumulation of
+oncogenic mutations (symington 2002).
+1378
+genes & development
+metabolic stress, gene amplification,
+and tumorigenesis
+tumorigenesis results from the accumulation of muta-
+tions that, our evidence suggests, is facilitated by defi-
+cient metabolism due to defective autophagy. au-
+tophagy deficiency in atg5−/− neonates results in lethal
+levels of energy depletion and low amino acid concen-
+trations in plasma and tissues that impair normal heart
+function (kuma et al. 2004). insufficient generation of
+atp for vital cellular processes such as dna replication
+or repair in autophagy-deficient cells may lead to stalled
+replication forks and breakage–fusion–bridge cycles lead-
+ing to gene amplification and tumorigenesis (hellman et
+al. 2002; narayanan et al. 2006; jin and white 2007).
+moreover, the basal housekeeping function of autophagy
+is required for protein quality control and homeostasis,
+as neuronal cells impaired for autophagy accumulate
+polyubiquitinated proteins (hara et al. 2006; komatsu et
+al. 2006). in keeping with this finding, we observed that
+autophagy-defective beclin1+/− and atg5−/− cells with
+bcl-2 also showed poor recovery from ischemic stress,
+with accumulation of vacuolated cytoplasm and other
+cellular aggregates. damage to critical cellular proteins
+that control mitosis or centrosome function in au-
+tophagy-deficient cells can be a cause of chromosomal
+instability. in addition, excessive generation of reactive
+oxygen species due to inefficient removal of damaged
+mitochondria is another possible mechanism by which
+defective autophagy can promote dna damage and tu-
+morigenesis (jin 2006). whether any or all of these
+mechanisms are responsible for genome alterations in
+autophagy-defective cells remains to be determined.
+gene amplification, a consequence of permissive lev-
+els of dsbs, is the major mechanism of oncogene acti-
+vation in solid tumors, as exemplified by myc, egfr, and
+erbb2 (shen et al. 1986; hennessy et al. 2005; albertson
+2006). gene amplification also leads to acentric, extra-
+chromosomal fragments called double minutes, a com-
+mon chromosomal aberration found in human solid tu-
+mors (albertson et al. 2003). furthermore, most human
+tumors display aneuploidy in the form of a near triploid
+dna content (barlogie et al. 1982), but the mechanism
+by which this is achieved is not clearly understood. by
+suppressing dna damage under stress, autophagy may
+suppress progression to aneuploidy as a tumor suppres-
+sor mechanism.
+in summary, our data suggest that reduced autophagy
+promotes dna damage, gene amplification, chromo-
+some instability, and aneuploidy, all of which are clini-
+cally associated with tumor progression and poor prog-
+nosis. similar findings with allelic loss of beclin1 in
+immortalized breast epithelial cells (v. karantza-wads-
+worth, pers. comm.) and immortalized, autophagy-defec-
+tive atg5−/− mouse embryo fibroblasts (mefs) (s. jin,
+pers. comm.) suggest that these observations are inde-
+pendent of tissue type. analogous to the mammalian
+central nervous system where targeted deletion of either
+atg5 or atg7 revealed the protective role of constitutive
+autophagy through prevention of the accumulation of
+downloaded from 
+genesdev.cshlp.org
+ on march 9, 2015 - published by 
+cold spring harbor laboratory press
+polyubiquitinated proteins and neurodegeneration (hara
+et al. 2006; komatsu et al. 2006), in tumor cells, prevent-
+ing the genome damage through autophagy may be an
+essential cell-autonomous mechanism for tumor sup-
+pression.
+autophagy defects, genomic instability, and novel
+therapeutic strategies
+identification of a novel role of autophagy in limiting
+chromosomal instability offers new insight into our un-
+derstanding of how autophagy modulates genomic integ-
+rity and impacts tumorigenesis. moreover, the finding
+that autophagy functions to limit chromosomal instabil-
+ity may have implications in rational chemotherapy and
+chemoprevention. as tumor cells frequently acquire de-
+fects in autophagy, pharmacological activation of au-
+tophagy may serve to limit genome damage and tumori-
+genesis. alternatively, in established aggressive cancers
+with defects in apoptosis, inhibiting the autophagy sur-
+vival pathway can be therapeutically exploited to pro-
+mote other modes of cell death such as metabolic catas-
+trophe, redirecting the cells to an acute necrotic cell
+death (jin and white 2007).
+materials and methods
+generation of stable cell lines
+primary epithelial cells were isolated from beclin1+/+ and
+beclin1+/− mice (generously provided by dr. zhenyu yue,
+mount sinai school of medicine, new york, ny) and were im-
+mortalized by the inactivation of the retinoblastoma (rb) and
+p53 pathways (degenhardt et al. 2002, 2006), and four indepen-
+dent clones of each were transfected with the vector (w4-a1,
+w4-b1, w4-c1, w4-e1, and bln-a3, bln-b2, bln-c3, bln-
+d1) or were engineered to express bcl-2 (wb-a2, wb-b1, wb-
+d1, wb-d3, and blnb-a4, blnb-b1, blnb-c2, blnb-d1), ex-
+panding the original pool of cell lines (degenhardt et al. 2006)
+from 12 to 28. primary epithelial cells were isolated from
+atg5+/+, atg5+/−, and atg5−/− newborn mice (kindly provided by
+dr. noboru mizushima, tokyo metropolitan institute of medi-
+cal sciences, tokyo, japan) and immortalized as previously de-
+scribed (degenhardt et al. 2002) to generate atg5+/+ (6.1), atg5+/−
+(5.1), and atg5−/− (7.1) ibmk cell lines. wild-type atg5 (6.1) and
+atg5−/− (7.1) ibmk cells were then transfected with vector
+(6.1v2, 6.1v3) or were engineered to express bcl-2 (6.1b4, 6.1b5).
+western blotting, immunofluorescence, and
+electron microscopy
+western blotting,
+immunofluorescence, and em were per-
+formed as previously described (nelson et al. 2004; degenhardt
+et al. 2006). western blotting and immunofluoresce were per-
+formed using the following antibodies: anti-beclin1, anti-bcl-2
+(santa cruz biotechnology); anti-p53 (ab-1), anti-e1a, and anti-
+actin (oncogene); anti-␣-tubulin (calbiochem); dna (dapi,
+sigma); anti-␥-tubulin (axel); anti-␥h2ax (s139) (upstate bio-
+technology); anti-atg5 (mizushima et al. 2001).
+autophagy limits genomic instability
+lated using image-pro plus software. briefly, representative pho-
+tomicrographs (600×) were taken and nuclear boundaries were
+determined using histogram-based segmentation, and areas
+were calculated and relative nuclear sizes were expressed in µ2.
+measurement of the frequency of pala-resistant clones
+the ld50 of pala in beclin1+/+ and beclin1+/− ibmk cells (105/
+10-cm dish) was determined by treating the cells with varying
+concentrations of pala (0–100 µm) (drug synthesis and chem-
+istry branch, national cancer institute) for 3 d and determining
+the cell viability by trypan blue exclusion. the frequency of
+pala resistance was determined to be the number of pala-
+resistant clones formed per 3 × 105 cells following treatment
+with 3× ld50 and 5× ld50 concentrations of pala (60 µm and
+100 µm, respectively) for 10–14 d. pala-containing medium
+was replaced every 3–4 d. colonies were fixed in methanol,
+stained with geimsa, and photographed.
+pcr for cad gene amplification
+genomic dna was isolated from multiple independent pala-
+resistant (100 µm) colonies of beclin1+/− ibmk cells expressing
+bcl-2. a 756-base-pair (bp) fragment flanking two exons that
+correspond to the mus musculus cad gene (accession no.
+nm_023525)
+from mouse chromosome 5 (accession no.
+ac_109608) was amplified from genomic dna by pcr using
+the following set of primers: 4-fwd (5⬘-ggagctggagactc
+cgacg-3⬘) and 4-rev (5⬘-ctaatgaacaggaagatccgg
+tatc-3⬘).
+the pcr reaction was performed for the indicated number of
+cycles (fig. 6c) to compare relative amplification in the linear
+range.
+acgh
+acgh was performed as described previously (kallioniemi et al.
+1994). briefly, genomic dna from beclin1+/+ and beclin1+/−
+ibmk cells and the normal mouse tissue was isolated, fluores-
+cent-labeled, and hybridized to a bac array (snijders et al. 2001)
+in triplicate. for each cell line, the data were plotted in genome
+order as the mean log2 ratio of the triplicate spots. an average
+log2 ratio of more than ±0.5 was considered as a loss or gain.
+acknowledgments
+we thank nathaniel heintz and zhenyu yue for providing
+beclin1+/+ and beclin1+/− mice; noboru mizushima for provid-
+ing atg5+/+, atg5+/−, and atg5−/− mice, the anti-mouse atg5 an-
+tibody, and egfp-lc3 plasmid; the drug synthesis and chem-
+istry branch, national cancer institute, bethesda, md, for the
+generous gift of pala; haiyan zhang and yong zhang for help
+with generation of atg5 cell lines; petra pham and theresa hy-
+ejeong choi for assistance with the flow cytometry; dr. kane-
+goldsmith for assistance with confocal microscopy; and raj
+patel for assistance with electron microscopy. we also thank
+thomasina sharkey for assistance with the preparation of the
+manuscript. this work was supported by a grant from the na-
+tional institutes of health (r37 ca53370) and the howard
+hughes medical institute (to e.w).
+dapi staining and quantitation of nuclear size
+dapi staining of the nuclei was performed as described previ-
+ously (nelson et al. 2004). relative nuclear sizes were calcu-
+aita, v.m., liang, x.h., murty, v.v., pincus, d.l., yu, w., caya-
+nis, e., kalachikov, s., gilliam, t.c., and levine, b. 1999.
+cloning and genomic organization of beclin 1, a candidate
+references
+genes & development
+1379
+downloaded from 
+genesdev.cshlp.org
+ on march 9, 2015 - published by 
+cold spring harbor laboratory press
+mathew et al.
+tumor suppressor gene on chromosome 17q21. genomics
+59: 59–65.
+albertson, d.g. 2006. gene amplification in cancer. trends
+genet. 22: 447–455.
+albertson, d.g., collins, c., mccormick, f., and gray, j.w.
+2003. chromosome aberrations in solid tumors. nat. genet.
+34: 369–376.
+anglade, p., vyas, s., javoy-agid, f., herrero, m.t., michel, p.p.,
+marquez, j., mouatt-prigent, a., ruberg, m., hirsch, e.c.,
+and agid, y. 1997. apoptosis and autophagy in nigral neu-
+rons of patients with parkinson’s disease. histol. histo-
+pathol. 12: 25–31.
+baehrecke, e.h. 2003. autophagic programmed cell death in
+drosophila. cell death differ. 10: 940–945.
+barlogie, b., johnston, d.a., smallwood, l., raber, m.n., mad-
+dox, a.m., latreille, j., swartzendruber, d.e., and drewinko,
+b. 1982. prognostic implications of ploidy and proliferative
+activity in human solid tumors. cancer genet. cytogenet. 6:
+17–28.
+brown, e.j. and baltimore, d. 2000. atr disruption leads to
+chromosomal fragmentation and early embryonic lethality.
+genes & dev. 14: 397–402.
+cataldo, a.m., hamilton, d.j., and nixon, r.a. 1994. lyso-
+somal abnormalities in degenerating neurons link neuronal
+compromise to senile plaque development in alzheimer dis-
+ease. brain res. 640: 68–80.
+degenhardt, k., sundararajan, r., lindsten, t., thompson, c.,
+and white, e. 2002. bax and bak independently promote cy-
+tochrome c release from mitochondria. j. biol. chem. 277:
+14127–14134.
+degenhardt, k., mathew, r., beaudoin, b., bray, k., anderson,
+d., chen, g., mukherjee, c., shi, y., gelinas, c., fan, y., et
+al. 2006. autophagy promotes tumor cell survival and re-
+stricts necrosis, inflammation, and tumorigenesis. cancer
+cell 10: 51–64.
+folkman, j. 2003. angiogenesis and apoptosis. semin. cancer
+biol. 13: 159–167.
+gebhart, e. 2005. double minutes, cytogenetic equivalents of
+gene amplification, in human neoplasia—a review. clin.
+transl. oncol. 7: 477–485.
+gomez-santos, c., ferrer, i., santidrian, a.f., barrachina, m.,
+gil, j., and ambrosio, s. 2003. dopamine induces autophagic
+cell death and ␣-synuclein increase in human neuroblastoma
+sh-sy5y cells. j. neurosci. res. 73: 341–350.
+hara, t., nakamura, k., matsui, m., yamamoto, a., nakahara,
+y., suzuki-migishima, r., yokoyama, m., mishima, k.,
+saito, i., okano, h., et al. 2006. suppression of basal autoph-
+agy in neural cells causes neurodegenerative disease in mice.
+nature 441: 885–889.
+hellman, a., zlotorynski, e., scherer, s.w., cheung, j., vincent,
+j.b., smith, d.i., trakhtenbrot, l., and kerem, b. 2002. a role
+for common fragile site induction in amplification of human
+oncogenes. cancer cell 1: 89–97.
+hennessy, b.t., smith, d.l., ram, p.t., lu, y., and mills, g.b.
+2005. exploiting the pi3k/akt pathway for cancer drug dis-
+covery. nat. rev. drug discov. 4: 988–1004.
+jin, s. 2006. autophagy, mitochondrial quality control, and on-
+cogenesis. autophagy 2: 80–84.
+jin, s. and white, e. 2007. role of autophagy in cancer: man-
+agement of metabolic stress. autophagy 3: 28–31.
+kallioniemi, a., kallioniemi, o.p., sudar, d., rutovitz, d.,
+gray, j.w., waldman, f., and pinkel, d. 1992. comparative
+genomic hybridization for molecular cytogenetic analysis of
+solid tumors. science 258: 818–821.
+kallioniemi, a., kallioniemi, o.p., piper, j., tanner, m., stokke,
+t., chen, l., smith, h.s., pinkel, d., gray, j.w., and wald-
+1380
+genes & development
+man, f.m. 1994. detection and mapping of amplified dna
+sequences in breast cancer by comparative genomic hybrid-
+ization. proc. natl. acad. sci. 91: 2156–2160.
+kirkegaard, k., taylor, m.p., and jackson, w.t. 2004. cellular
+autophagy: surrender, avoidance and subversion by micro-
+organisms. nat. rev. microbiol. 2: 301–314.
+klionsky, d.j. and emr, s.d. 2000. autophagy as a regulated
+pathway of cellular degradation. science 290: 1717–1721.
+klionsky, d.j., cregg, j.m., dunn jr., w.a., emr, s.d., sakai, y.,
+sandoval, i.v., sibirny, a., subramani, s., thumm, m.,
+veenhuis, m., et al. 2003. a unified nomenclature for yeast
+autophagy-related genes. dev. cell 5: 539–545.
+komatsu, m., waguri, s., ueno, t., iwata, j., murata, s., tanida,
+i., ezaki, j., mizushima, n., ohsumi, y., uchiyama, y., et al.
+2005. impairment of starvation-induced and constitutive au-
+tophagy in atg7-deficient mice. j. cell biol. 169: 425–434.
+komatsu, m., waguri, s., chiba, t., murata, s., iwata, j., tanida,
+i., ueno, t., koike, m., uchiyama, y., kominami, e., et al.
+2006. loss of autophagy in the central nervous system
+causes neurodegeneration in mice. nature 441: 880–884.
+kuma, a., hatano, m., matsui, m., yamamoto, a., nakaya, h.,
+yoshimori, t., ohsumi, y., tokuhisa, t., and mizushima,
+n. 2004. the role of autophagy during the early neonatal
+starvation period. nature 432: 1032–1036.
+levine, b. and klionsky, d.j. 2004. development by self-diges-
+tion: molecular mechanisms and biological functions of au-
+tophagy. dev. cell 6: 463–477.
+lin, c.t., lyu, y.l., xiao, h., lin, w.h., and whang-peng, j.
+2001. suppression of gene amplification and chromosomal
+dna integration by the dna mismatch repair system.
+nucleic acids res. 29: 3304–3310.
+little, k.c. and chartrand, p. 2004. genomic dna is captured
+and amplified during double-strand break (dsb) repair in hu-
+man cells. oncogene 23: 4166–4172.
+livingstone, l.r., white, a., sprouse, j., livanos, e., jacks, t.,
+and tlsty, t.d. 1992. altered cell cycle arrest and gene am-
+plification potential accompany loss of wild-type p53. cell
+70: 923–935.
+mizushima, n. 2005. the pleiotropic role of autophagy: from
+protein metabolism to bactericide. cell death differ. 12
+(suppl. 2): 1535–1541.
+mizushima, n., yamamoto, a., hatano, m., kobayashi, y., ka-
+beya, y., suzuki, k., tokuhisa, t., ohsumi, y., and yoshi-
+mori, t. 2001. dissection of autophagosome formation using
+apg5-deficient mouse embryonic stem cells. j. cell biol.
+152: 657–668.
+mondello, c., guasconi, v., giulotto, e., and nuzzo, f. 2002.
+␥-ray and hydrogen peroxide induction of gene amplifica-
+tion in hamster cells deficient in dna double strand break
+repair. dna repair (amst.) 1: 483–493.
+narayanan, v., mieczkowski, p.a., kim, h.m., petes, t.d., and
+lobachev, k.s. 2006. the pattern of gene amplification is
+determined by the chromosomal location of hairpin-capped
+breaks. cell 125: 1283–1296.
+nelson, d.a., tan, t.t., rabson, a.b., anderson, d., degen-
+hardt, k., and white, e. 2004. hypoxia and defective apo-
+ptosis drive genomic instability and tumorigenesis. genes &
+dev. 18: 2095–2107.
+nigg, e.a. 2002. centrosome aberrations: cause or conse-
+quence of cancer progression? nat. rev. cancer 2: 815–825.
+pua, h.h., dzhagalov, i., chuck, m., mizushima, n., and he,
+y.w. 2006. a critical role for the autophagy gene atg5 in t
+cell survival and proliferation. j. exp. med. 204: 25–31.
+qu, x., yu, j., bhagat, g., furuya, n., hibshoosh, h., troxel, a.,
+rosen, j., eskelinen, e.l., mizushima, n., ohsumi, y., et al.
+2003. promotion of tumorigenesis by heterozygous disrup-
+downloaded from 
+genesdev.cshlp.org
+ on march 9, 2015 - published by 
+cold spring harbor laboratory press
+tion of the beclin 1 autophagy gene. j. clin. invest. 112:
+1809–1820.
+shen, d.w., fojo, a., chin, j.e., roninson, i.b., richert, n.,
+pastan, i., and gottesman, m.m. 1986. human multidrug-
+resistant cell lines: increased mdr1 expression can precede
+gene amplification. science 232: 643–645.
+shimizu, s., kanaseki, t., mizushima, n., mizuta, t., arakawa-
+kobayashi, s., thompson, c.b., and tsujimoto, y. 2004.
+role of bcl-2 family proteins in a non-apoptotic programmed
+cell death dependent on autophagy genes. nat. cell biol. 6:
+1221–1228.
+snijders, a.m., nowak, n., segraves, r., blackwood, s., brown,
+n., conroy, j., hamilton, g., hindle, a.k., huey, b., kimura,
+k., et al. 2001. assembly of microarrays for genome-wide
+measurement of dna copy number. nat. genet. 29: 263–
+264.
+symington, l.s. 2002. role of rad52 epistasis group genes in
+homologous recombination and double-strand break repair.
+microbiol. mol. biol. rev. 66: 630–670.
+white, a.e., livanos, e.m., and tlsty, t.d. 1994. differential
+disruption of genomic integrity and cell cycle regulation in
+normal human fibroblasts by the hpv oncoproteins. genes
+& dev. 8: 666–677.
+yu, l., alva, a., su, h., dutt, p., freundt, e., welsh, s., baeh-
+recke, e.h., and lenardo, m.j. 2004. regulation of an atg7–
+beclin 1 program of autophagic cell death by caspase-8. sci-
+ence 304: 1500–1502.
+yue, z., jin, s., yang, c., levine, a.j., and heintz, n. 2003.
+beclin 1, an autophagy gene essential for early embryonic
+development, is a haploinsufficient tumor suppressor. proc.
+natl. acad. sci. 100: 15077–15082.
+autophagy limits genomic instability
+genes & development
+1381
+erratum
+genes & development 21: 1367–1381 (2007)
+autophagy suppresses tumor progression by limiting chromosomal instability
+robin mathew, sameera kongara, brian beaudoin, cristina m. karp, kevin bray, kurt degenhardt, guanghua chen,
+shengkan jin, and eileen white
+in the above-mentioned paper, the authors identified an inadvertent typographical error that they would like to
+correct. in the discussion section, the sentence should read “this impaired survival in autophagy-deficient cells,
+however, was overcome by increased mutation rate and chromosomal instability, resulting in accelerated
+progression to aneuploidy, a hallmark of cancer, providing an explanation why the loss of this survival pathway can
+function to promote tumorigenesis.” this correction does not affect the findings or conclusion of the study.
+genes & development 21:1701 © 2007 by cold spring harbor laboratory press issn 0890-9369/07; www.genesdev.org
+1701
+downloaded from 
+genesdev.cshlp.org
+ on march 9, 2015 - published by 
+cold spring harbor laboratory press
+autophagy suppresses tumor progression by limiting chromosomal
+instability
+  
+robin mathew, sameera kongara, brian beaudoin, et al. 
+  
+genes dev.
+access the most recent version at doi:
+ 2007 21: 1367-1381 originally published online may 17, 2007
+10.1101/gad.1545107
+references
+  
+related content
+email alerting
+service
+this article cites 45 articles, 14 of which can be accessed free at:
+http://genesdev.cshlp.org/content/21/11/1367.full.html#ref-list-1
+  
+articles cited in:
+http://genesdev.cshlp.org/content/21/11/1367.full.html#related-urls
+  
+erratum
+genes dev. july 1, 2007 21: 1701
+receive free email alerts when new articles cite this article - sign up in the box at the top
+right corner of the article or
+click here.
+to subscribe to 
+http://genesdev.cshlp.org/subscriptions
+genes & development 
+go to: 
+copyright © 2007, cold spring harbor laboratory press

@@ -1,0 +1,600 @@
+an obligatory requirement for the heterotrimeric
+g protein gi3 in the antiautophagic action
+of insulin in the liver
+antje gohla*, karinna klement*, roland p. piekorz*, katja pexa*, stephan vom dahl†‡, karsten spicher*§,
+vladyslav dreval*, dieter ha¨ ussinger†, lutz birnbaumer¶储, and bernd nu¨ rnberg*,**
+*institut fu¨ r biochemie und molekularbiologie ii and †klinik fu¨ r gastroenterologie, hepatologie, und infektiologie, klinikum der heinrich-heine-universita¨ t,
+d-40225 du¨ sseldorf, germany; §institut fu¨ r pharmakologie, charite´ -universita¨ tsmedizin, d-14195 berlin, germany; and ¶laboratory of signal transduction,
+national institute of environmental health sciences, national institutes of health, department of health and human services, research triangle park, nc
+27709
+contributed by lutz birnbaumer, december 21, 2006 (sent for review december 7, 2006)
+heterotrimeric g proteins of the gi class have been implicated in
+signaling pathways regulating growth and metabolism under
+physiological and pathophysiological conditions. knockout mice
+carrying inactivating mutations in both of the widely expressed g␣i
+class genes, g␣i2 and g␣i3, demonstrate shared as well as gene-
+speciﬁc functions. the presence of a single active allele of g␣i3 is
+sufﬁcient for embryonic development, whereas at least one allele
+of g␣i2 is required for extrauterine life. mice lacking both g␣i2 and
+g␣i3 are massively growth-retarded and die in utero. we have used
+biochemical and cell biological methods together with in situ liver
+perfusion experiments to study g␣i isoform-speciﬁc functions in
+g␣i2- and g␣i3-deﬁcient mice. the subcellular localization of g␣i3 in
+isolated mouse hepatocytes depends on the cellular metabolic
+status. g␣i3 localizes to autophagosomes upon starvation-induced
+autophagy and distributes to the plasma membrane upon insulin
+stimulation. analysis of autophagic proteolysis in perfused mouse
+livers showed that mice lacking g␣i3 are deﬁcient in the inhibitory
+action of insulin. these data indicate that g␣i3 is crucial for the
+antiautophagic action of insulin and suggest an as-yet-unrecog-
+nized function for g␣i3 on autophagosomal membranes.
+anticatabolic actions 兩 autophagy 兩 mouse knockout 兩
+pertussis toxin-sensitive g proteins
+h eterotrimeric g proteins functionally couple seven-
+transmembrane cell-surface receptors to a variety of intra-
+cellular effector systems, including enzymes and ion channels.
+the heterotrimeric g protein ␣-subunits are encoded by 16
+genes in humans and mice, and ⬎20 distinct g␣protein isoforms
+have been identified (1). the gi family of ␣-subunits comprises
+three closely related members, g␣i1–g␣i3, and originally was
+named for its ability to inhibit adenylyl cyclase activity. g
+proteins of the gi class are characterized by their sensitivity to
+pertussis toxin (ptx). the g␣i1–g␣i3 isoforms share 85–95% of
+amino acid sequence identity and partially overlapping expres-
+sion patterns. although g␣i1 primarily is found in the nervous
+system, g␣i2 is expressed ubiquitously and represents the quan-
+titatively predominant g␣i isoform. g␣i3, the closest homolog of
+g␣i1, is hardly detectable in the neuronal system but is broadly
+expressed in peripheral tissues.
+targeted loss-of-function mutations in mice have been pro-
+duced for all g␣i isoforms and have provided information about
+shared as well as gene-specific biological roles. the loss of g␣i1
+results in defects of long-term memory (2). g␣i2-deficient mice
+develop an inflammatory bowel disease with characteristics of
+ulcerative colitis (3). a gene-specific role of g␣i2 also has been
+described in the inflammatory response of alveolar macrophages
+(4). furthermore, the disruption of the g␣i2 locus leads to
+increased peri- and postnatal mortality of unclear origin. in
+contrast, mice constitutively deficient in either g␣i1 or g␣i3 are
+viable and fertile. the initial analysis of g␣i3-deficient mice did
+not reveal overt phenotypic defects (5, 6). however, the com-
+parative analysis of g␣i1/g␣i3-double-deficient with g␣i2-
+deficient mice led to the identification of overlapping as well as
+isoforms in the antiinfectious
+gene-specific functions of gi
+response of macrophages and splenocytes (7). recent studies of
+g␣i3 mutant mice have revealed craniofacial and other skeletal
+deformities consistent with a specific requirement for g␣i3 in the
+cranial neural crest and in somites (n. w. plummer, k.s., j.
+malphurs, l.b., unpublished work).
+in addition to their established functions for signal transduc-
+tion across the plasma membrane, heterotrimeric g protein
+␣-subunits localize to intracellular membranes and have been
+implicated in membrane trafficking and fusion events along the
+secretory and endocytic pathways, such as vesicle formation by
+the endoplasmic reticulum, the golgi/secretory pathway, and
+vesicle trafficking and fusion (8–11). in particular, g␣i3 has been
+localized to golgi membranes in renal and pancreatic cells (12,
+13) and to the endocytic compartment in kidney proximal tubule
+epithelium (14) and in rat hepatocytes (15). studies in the colon
+carcinoma cell line ht-29 furthermore have suggested a role for
+g␣i3 in macroautophagy (16).
+macroautophagy (hereafter referred to as autophagy) is a
+ubiquitous membrane-trafficking mechanism that sequesters
+cytoplasmic material for targeted delivery to lysosomes, where
+the material is degraded and subsequently recycled (17, 18). in
+contrast to the selective degradation of generally short-lived
+proteins through the proteasomal degradation pathway, auto-
+phagy constitutes the major cellular pathway for the bulk deg-
+radation of long-lived proteins and the turnover of organelles.
+constitutive autophagy plays an essential role for the mainte-
+nance of homeostasis by removing misfolded proteins or dam-
+aged organelles. upon short-term starvation, the initiation of
+autophagy functions as a temporary survival mechanism by
+providing an alternative energy source. however, unrestrained
+autophagy results in cell death (19). defects in autophagy
+author contributions: a.g., r.p.p., l.b., and b.n. designed research; k.k., r.p.p., k.p., s.v.d.,
+k.s., and v.d. performed research; s.v.d. and d.h. contributed new reagents/analytic tools;
+a.g., r.p.p., s.v.d., d.h., l.b., and b.n. analyzed data; and a.g., l.b., and b.n. wrote the
+paper.
+the authors declare no conﬂict of interest.
+abbreviations: ptx, pertussis toxin; mef, mouse embryonic ﬁbroblast; wt, wild type; lc3,
+ubiquitin-like light-chain protein 3.
+‡present address: st. franziskus-hospital, scho¨ nsteinstrasse 63, 50825 ko¨ ln, germany.
+储to whom correspondence may be addressed. e-mail: birnbau1@niehs.nih.gov.
+**to whom correspondence may be addressed at: institut fu¨ r biochemie und molekular-
+biologie ii, geb. 22.03.03, klinikum der heinrich-heine-universita¨ t, d-40225 du¨ sseldorf,
+germany. e-mail: bernd.nuernberg@uni-duesseldorf.de.
+this article contains supporting information online at www.pnas.org/cgi/content/full/
+0611434104/dc1.
+© 2007 by the national academy of sciences of the usa
+www.pnas.org兾cgi兾doi兾10.1073兾pnas.0611434104
+pnas 兩 february 20, 2007 兩 vol. 104 兩 no. 8 兩 3003–3008
+perturb development, and the deregulation of autophagy has
+been proposed to play a role in diseases including cancer,
+neurodegenerative disorders, cardiomyopathy, and muscular
+diseases (18, 20).
+a number of evolutionarily conserved proteins essential for
+autophagy have been identified, and their molecular and bio-
+logical functions are beginning to be elucidated (21–25). nev-
+ertheless, little is known currently about the signal transduction
+pathways that couple extra- or intracellular stimuli to the mo-
+lecular machinery of autophagosome formation and maturation.
+the protein kinase mammalian target of rapamycin (mtor)
+plays a central role for the transmission of autophagic stimuli.
+amino acids alone or in combination with insulin or other
+growth factors can stimulate the activity of mtor, leading to an
+inhibition of autophagy, but tor-independent pathways of insulin
+signaling also have been described in the rat liver (26–28). although
+it has been suggested that g proteins such as g␣i3 may be
+implicated in the control of autophagic sequestration in a colon
+carcinoma cell line (16, 17), supporting in vivo evidence is lacking.
+here, we have used biochemical and cell biological methods
+together with in situ liver perfusion experiments in g␣i2- and
+g␣i3-deficient mice to study the biological functions of gi class
+g proteins. our findings show that g␣i3 specifically is required
+for the insulin-mediated regulation of autophagy and suggest a
+previously unrecognized function for g␣i3 on autophagosomal
+membranes.
+results and discussion
+to distinguish gene-specific functions of the two peripheral g␣i
+isoforms, g␣i2 and g␣i3, from shared biological roles in vivo, we
+have intercrossed mice homo- or heterozygously deficient in
+g␣i2 and/or g␣i3 and analyzed the g␣i2- and g␣i3-deficient
+progeny. although g␣i2-deficient mice were born at less than the
+expected frequency, and animal numbers were reduced by
+⬇50% at weaning age, i.e., postnatal day 21 (p21) (3), mice
+mutant for g␣i3 were born at the predicted mendelian ratio
+[supporting information (si) tables 1–4]. g␣i2/g␣i3 double-
+deficiency resulted in massive growth retardation and embryonic
+lethality before embryonic day 10 (e10). the presence of one
+⫹/⫺ embryos was sufficient for
+allele of g␣i3 in g␣i2
+development and survival up to birth, but animals died perina-
+tally (see si table 4). the presence of a single allele of g␣i2 in
+⫺/⫺ mice maintained survival up to the neonatal
+g␣i2
+period, but postnatal survival was reduced. representative
+images of selected g␣i2/g␣i3 mutant embryos at e9 or e10 are
+shown in si fig. 6. thus, the presence of a single active allele of
+g␣i3 is sufficient for embryonic development, whereas one allele
+of g␣i2 is required for extrauterine life. these data not only
+indicate overlapping roles of g␣i2 and g␣i3 but also suggest the
+existence of gene-specific functions.
+⫹/⫺/g␣i3
+⫺/⫺/g␣i3
+to test the idea of functional compensation at the protein
+level, we have analyzed the expression of g␣i2 and g␣i3 in
+membrane preparations obtained from mouse embryonic fibro-
+blasts (mefs) or organs of wild-type (wt), g␣i2-deficient, and
+g␣i3-deficient mice. in the absence of g␣i2, steady-state protein
+levels of g␣i3 were markedly increased compared with wt levels.
+in contrast, the depletion of g␣i3 did not significantly trigger an
+up-regulation of g␣i2 protein levels (fig. 1a). these data suggest
+that increased levels of g␣i3 may compensate for g␣i2 functions
+in the case of g␣i2 depletion, whereas wt g␣i2 levels may be
+sufficient to substitute for g␣i3 functions in a g␣i3-depleted
+system. in all investigated wt cells and tissues from peripheral
+organs, including liver, g␣i2 was the predominant g␣i isoform
+(fig. 1 a and b and data not shown). we also have performed
+[32p]adp ribosylation experiments with ptx to test the func-
+tional expression of g␣i2 and g␣i3 in these mice (fig. 1c).
+despite the relatively low abundance of g␣i3 compared with
+g␣i2 in whole-liver membranes, the amount of ptx-modified
+⫺/⫺, or g␣i3
+expression pattern of peripheral gi isoforms. (a) cell membranes
+fig. 1.
+⫺/⫺ mice were
+from mefs or peripheral mouse tissues from wt, g␣i2
+analyzed by immunoblotting with a g␣common antibody. equal loading was
+conﬁrmed by a nonspeciﬁc protein stain with ponceau s. the depletion of g␣i2
+induces an up-regulation of the steady-state protein levels of g␣i3, whereas
+g␣i2 levels remain virtually unchanged in the absence of g␣i3. (b) liver cell
+membranes from wt and g␣i3 mutant mice were analyzed for gi isoform
+expression as described above. (c) cell membranes from liver, thymus, or
+spleen were subjected to a ptx-catalyzed adp ribosylation in the presence of
+[32p]nad⫹. shown are representative autoradiographs. the extent of g␣i3
+adp ribosylation is highest in liver. n ⫽ 3 for all experiments.
+g␣i3 was comparable to ptx-modified g␣i2. in contrast, the
+quantity of [32p]adp-ribosylated g␣i2/g␣i3 in thymus or spleen
+was proportional to the relative protein levels of g␣i2 and g␣i3.
+to investigate the function of g␣i3 in liver, we have generated
+a g␣i3-specific antibody. in its affinity-purified form, this g␣i3
+antibody specifically recognized g␣i3 species of the appropriate
+apparent molecular weight in whole-cell
+lysates of primary
+hepatocytes or mefs of wt and g␣i2-deficient, but not g␣i3-
+deficient, mice (fig. 2a). the g␣i3 antibody stained cultured
+primary hepatocytes from wt and g␣i2-deficient mice but failed
+to stain hepatocytes from g␣i3-deficient mice (fig. 2b). we
+conclude that the g␣i3 antibody specifically detects g␣i3 but not
+g␣i2 by immunoblotting and immunocytochemistry.
+g␣i3 localizes to golgi membranes and endosomes in different
+tissues, including liver (14), and has been involved in the control
+of autophagic sequestration and intracellular trafficking events
+in the colon carcinoma cell line ht-29 (16, 17). membranes
+derived from the golgi apparatus and the endoplasmic reticulum
+have been implicated in the biogenesis of autophagosomal
+vesicles, and endosomes and lysosomes fuse with autophagic
+vesicles during their maturation to a lytic compartment (17). to
+determine the potential role for g␣i3 in autophagy in liver, we
+first investigated the g␣i3 subcellular localization pattern. to
+induce autophagy, hepatocytes were subjected to a short-term
+amino acid starvation and growth factor starvation. ubiquitin-
+like light-chain protein 3 (lc3) was used as a specific marker for
+the autophagosomal compartment (29). lc3 exists in a cytosolic
+form (lc3-i) and in a membrane-associated, phospholipid-
+conjugated form (lc3-ii). the induction of autophagy leads to
+the processing of lc3-i to lc3-ii and its subsequent targeting
+to preautophagosomal and autophagosomal membranes (30).
+initially, we ascertained the suitability of a goat polyclonal
+lc3 antibody for immunocytochemistry in hepatocytes because
+this antibody does not recognize endogenous or overexpressed
+lc3 in western blotting experiments (data not shown). in
+3004 兩 www.pnas.org兾cgi兾doi兾10.1073兾pnas.0611434104
+gohla et al.
+fig. 2. characterization of a g␣i3-speciﬁc antibody. (a) whole-cell lysates (30
+␮g) of wt, g␣i2-deﬁcient, or g␣i3-deﬁcient mouse hepatocytes or mefs were
+separated on a 6 m urea/sds/page gel, blotted onto nitrocellulose, and
+incubated with the afﬁnity-puriﬁed polyclonal g␣i3 antibody. the antibody
+speciﬁcally recognizes g␣i3 but not the closely related g␣i2 isoform. g␣i3
+typically migrates as a doublet under these conditions (see ref. 36 and refer-
+ences cited therein). (b) primary mouse hepatocytes from wt, g␣i2-deﬁcient, or
+g␣i3-deﬁcient mice were ﬁxed and stained with the afﬁnity-puriﬁed poly-
+clonal g␣i3 antibody as detailed in experimental procedures. the antibody
+stains wt and g␣i2-deﬁcient, but not g␣i3-deﬁcient, hepatocytes. images are
+confocal micrographs (0.5-␮m single slices). n ⫽ 3 for all experiments.
+subcellular localization of g␣i3 upon inhibition of autophagy. pri-
+fig. 3.
+mary mouse hepatocytes were kept in culture medium (resting) or subjected
+to amino acid and growth factor withdrawal (starved). to inhibit autophagy,
+cells were treated with insulin (10 nm for 60 min) or with phenylalanine (0.2
+mm for 60 min). the inhibition of autophagy is characterized by the disap-
+pearance of lc3-positive autophagosomes, paralleled by a loss of g␣i3 from
+the vesicular compartment and the scattering of lysosomes. insulin induces an
+accumulation of g␣i3 in the plasma membrane, whereas phenylalanine leads
+to a diffuse cytosolic distribution of g␣i3. note the characteristic membrane
+rufﬂing response to insulin and the marked ﬂattening of cells in response to
+phenylalanine. images are confocal micrographs. n ⫽ 3 for all experiments.
+contrast, a widely used rabbit polyclonal anti-lc3 antibody is
+able to detect endogenous or overexpressed lc3 by immuno-
+cytochemistry as well as in western blotting experiments, but
+cannot be used together with the rabbit polyclonal anti-g␣i3
+antibody because of cross-reactivity in the secondary detection
+step. to this end, we first transfected primary mouse hepatocytes
+with gfp-lc3 and stained for lc3. gfp-lc3 localized to
+cup-like or ring-like structures typical of autophagosomes, and
+the same structures were detected by the goat polyclonal lc3
+antibody (si fig. 7a). second, we validated the goat polyclonal
+lc3 antibody by comparing it to a widely used rabbit polyclonal
+lc3 antibody. both antibodies recognized the same intracellular
+structures (si fig. 7b). we conclude that the goat polyclonal lc3
+antibody is able to reliably detect autophagic vacuoles in cells.
+starvation-induced autophagy triggered a redistribution of
+g␣i3. in the absence of autophagy, g␣i3 predominantly was
+found diffusely distributed in the cytosol (see fig. 2b). in
+contrast, cells undergoing starvation-induced autophagy were
+characterized by a local accumulation of g␣i3 on the plasma
+membrane as well as on lc3-positive autophagosomes and
+lysosomes (si fig. 8). the association of g␣i3 with membranes
+of autophagic vacuoles was corroborated biochemically by sub-
+cellular fractionation of isolated hepatocytes (si fig. 9). g␣i3
+also distributed to the endoplasmic reticulum and to endosomes
+upon induction of autophagy (si fig. 10). these compartments
+are required for the biogenesis of autophagosomes (17, 31) and
+for the maturation of autophagosomes to lytic organelles (17). in
+particular, a g␣i3-based mechanism has been hypothesized to
+control the flux of membranes originating from different vacu-
+olar compartments, such as the endoplasmic reticulum, to form
+a preautophagosomal structure (31). thus, g␣i3 is targeted to
+subcellular compartments with known functions in autophagy.
+starvation-induced autophagy is counteracted by hormones,
+such as insulin, and by nutrients (e.g., amino acids). we therefore
+tested whether the subcellular localization of g␣i3 is controlled
+by physiological regulators of autophagy. fig. 3 shows that the
+exposure of starved hepatocytes to insulin or phenylalanine led
+to the disappearance of the vesicular staining of lc3-ii, indi-
+cating that autophagy was suppressed efficiently. together with
+the loss of lc3-positive autophagosomes, the vesicular staining
+of g␣i3 disappeared. instead, insulin induced an accumulation of
+g␣i3 at the plasma membrane. treatment of cells with phenyl-
+alanine also resulted in the loss of autophagosomes and an
+accompanying disappearance of vesicular g␣i3 staining. phenyl-
+alanine treatment caused a marked flattening of the cells and a
+diffuse cytosolic distribution of g␣i3, similar to resting cells.
+autophagosomal vesicles mature into a catabolic compart-
+ment upon fusion with lysosomes to form autolysosomes (17).
+provided that the activity of lysosomal proteases is inhibited by
+the addition of cell-permeable protease inhibitors, autolyso-
+somes can be visualized with markers for autophagosomal and
+lysosomal vesicles. in hepatocytes undergoing autophagy (fig. 3,
+starved cells) the staining for lc3 and g␣i3 largely overlapped
+with the lysosomal compartment. these data indicate that, under
+our experimental conditions, most lc3-positive vesicles already
+have fused with lysosomes and demonstrate that g␣i3 also can be
+detected on autolysosomes. together, these data show that the
+subcellular localization of g␣i3 depends on the cellular meta-
+bolic status and suggest a previously unknown function for g␣i3
+on autophagosomal membranes.
+to test the relevance of these findings for autophagy in vivo,
+we have performed in situ perfusion experiments in mouse livers.
+autophagy is induced rapidly upon liver perfusion in the absence
+gohla et al.
+pnas 兩 february 20, 2007 兩 vol. 104 兩 no. 8 兩 3005
+the regulation of autophagic proteolysis in vivo requires gi proteins.
+fig. 4.
+(a) the in situ liver perfusion of wt mice with insulin (35 nm for 60 min) but
+not with perfusion buffer alone (control) leads to a reversible inhibition of
+proteolysis. the perfusion with ptx (100 ng/ml for 60 min) before the perfu-
+sion with insulin (35 nm for 60 min) inhibits the insulin response. (b) the in situ
+liver perfusion with phenylalanine (2 mm for 30 min) reversibly inhibits
+autophagic proteolysis. pretreatment with ptx (100 ng/ml for 60 min) pre-
+ceding the perfusion with phenylalanine (2 mm for 30 min) blocks the phe-
+nylalanine effect. shown are mean values of duplicate measurements ⫾ sd in
+three to four independent experiments.
+of added amino acids (32). the system has been used widely to
+analyze the regulation of hepatic autophagy in rats (28).
+fig. 4a shows that insulin reversibly inhibited the starvation-
+induced autophagic proteolysis in wt mouse livers by ⬇20–25%,
+comparable to the effect of the hormone in the rat liver (28, 32).
+insulin suppresses autophagy to a physiologically maximal ex-
+tent, even in the absence of added amino acids (17). to test the
+involvement of gi proteins in this process, livers were preper-
+fused with ptx. ptx markedly diminished the antiautophagic
+action of insulin (fig. 4a). hepatocytes predominantly express
+insulin receptors, whereas nonparenchymal liver cells such as
+kupffer cells express type i insulin-like growth factor receptors
+(33). together, these data suggest a role for gi proteins down-
+stream of insulin receptor signaling.
+high concentrations of amino acids alone are known to trigger
+a maximal inhibition of autophagy, even in the absence of insulin
+(17). fig. 4b shows that phenylalanine reversibly inhibited
+autophagic proteolysis in wt mouse livers by ⬇25%, which is
+comparable to the effects of insulin. likewise, ptx largely
+abolished the antiautophagic action of phenylalanine.
+we observed no significant additional antiautophagic effect of
+insulin in the presence of maximally effective levels of phenyl-
+alanine in four independent experiments compared with insulin
+alone (n ⫽ 3) or phenylalanine alone (n ⫽ 4; data not shown).
+although insulin inhibited autophagic proteolysis half-
+⫺/⫺ mice and ﬁve g␣i2
+fig. 5. g␣i3 is required for the antiproteolytic action of insulin. (a) livers
+from g␣i2-deﬁcient and g␣i3-deﬁcient mice were perfused in situ in the
+presence of insulin (35 nm for 60 min). shown are mean values of duplicate
+⫺/⫺ mice. (inset) [32p]adp
+measurements ⫾ sd in six g␣i3
+ribosylation demonstrates the loss of g␣i2 and g␣i3 in the respective gene-
+deﬁcient mice. shown is a representative autoradiograph (n ⫽ 3). (b) statis-
+tical analysis of in situ mouse liver perfusion experiments. shown is the mean
+relative inhibition of proteolysis ⫾ sd in the indicated number of wt, g␣i2-
+deﬁcient, and g␣i3-deﬁcient mice treated with insulin (35 nm for 60 min; black
+bars), phenylalanine (2 mm for 30 min; hatched bars), and/or pretreatment
+with ptx (100 ng/ml for 60 min). statistical signiﬁcance was assessed by paired
+student’s t tests.
+maximally after ⬇20 min, the effect of phenylalanine was
+half-maximal after 5–10 min (see fig. 4). the time course of the
+inhibition of autophagic proteolysis upon addition of insulin plus
+phenylalanine was consistent with the combination of a faster
+and a slower inhibitory phase (data not shown).
+the insulin- and amino acid-dependent regulation of autoph-
+agy appears to be mediated by distinct signal transduction
+mechanisms that may converge on mtor (17, 26, 28). so far, no
+other signaling components have been identified that are shared
+by both pathways. our data show that the antiautophagic action
+of insulin and phenylalanine can be blocked by ptx, indicating
+that gi proteins are crucial for both signal transduction pathways
+(fig. 4). however, neither insulin nor amino acids are known to
+activate g protein-dependent signal transduction. we have
+demonstrated a localization of g␣i3 to autophagosomal endo-
+membranes that is reversible upon addition of insulin and
+phenylalanine (see figs. 2 and 3), suggesting that g␣i3 may
+function downstream of both insulin- and phenylalanine-
+mediated regulation of autophagy.
+to examine the role of g␣i3 in the insulin- and phenylalanine-
+mediated regulation in vivo, and to directly compare the poten-
+tial contribution of g␣i2 and g␣i3, we have analyzed autophagic
+3006 兩 www.pnas.org兾cgi兾doi兾10.1073兾pnas.0611434104
+gohla et al.
+proteolysis in perfused livers of g␣i2- or g␣i3-deficient mice. fig.
+5a shows that the inhibitory action of insulin was lost almost
+completely in the absence of g␣i3, comparable to the effect of
+ptx (see fig. 4a). in contrast, the insulin response was not
+detectably impaired in the absence of g␣i2, the predominant g␣i
+isoform in hepatocytes (see fig. 1). the loss of g␣i2 or g␣i3 in
+the respective knockout mice was confirmed by adp ribosyla-
+tion (fig. 5a inset). furthermore, the antiautophagic action of
+phenylalanine was lost in the absence of g␣i3, as shown in fig.
+5b together with a statistical evaluation of the described liver
+perfusion experiments.
+in summary, our data clearly demonstrate an obligatory
+requirement for g␣i3 in the antiautophagic action of insulin and
+phenylalanine and suggest an essential function for g␣i3 on
+autophagosomal membranes. to date, no specific g protein-
+coupled receptors or effectors have been identified on intracel-
+lular membranes, and it is unclear whether the classical g
+protein-coupled receptor/g protein/effector paradigm applies
+on intracellular membrane compartments. nevertheless, g␣i3 is
+known to be regulated intracellularly by the guanine nucleotide
+dissociation inhibitor gaip-1 and by the regulator of g protein
+signaling ags3, which have been involved in the control of early
+events in autophagy (17). future work will be directed toward
+elucidating the upstream regulation and specific cellular func-
+tions of g␣i3 on autophagosomes. it remains to be demonstrated
+whether g␣i3 is involved in the regulation of autophagy under
+physiological and pathological conditions in the development of
+embryos and in adults.
+experimental procedures
+subcellular fractionation. plasma membranes and autophagoso-
+mal membranes were isolated from mouse hepatocytes by sub-
+cellular fractionation as detailed in si experimental procedures.
+mice. the generation and phenotypic characterization of g␣i2-
+deficient mice and the generation of g␣i3-deficient mice have
+been published (3, 34). knockout mice and their corresponding
+littermate controls were maintained at the animal facility of the
+heinrich-heine-universita¨t.
+preparation of cell membranes and [32p]adp ribosylation. the adp
+ribosylation of ptx-sensitive gi proteins was performed as
+described in ref. 34. gi proteins were resolved by electrophoresis
+on 6 m urea/sds/page gels, blotted onto nitrocellulose (hy-
+bond c extra; ge healthcare, fairfield, ct), and visualized with
+an fla 5000 fuji phosphoimager (raytest, straubenhardt,
+germany). in parallel, gi proteins were detected with a
+g␣common antibody (as 8; ref. 35).
+generation of a g␣i3-specific antibody. antibodies were raised
+against the keyhole limpet hemocyanin-coupled c-terminal 14
+aa of human/murine g␣i3, and an additional cysteine was
+introduced at the n terminus (c-dviiknnlkecgly). the
+corresponding c-terminal sequence of human/murine g␣i2
+(dviiknnlkdcglf) differs only by 2 aa residues from
+human/murine g␣i3. the internal cysteine of the g␣i3 peptide
+was replaced with the isosteric ␣-aminobutyric acid to prevent
+coupling to activated keyhole limpet hemocyanin. g␣i3-
+specific iggs were purified by using ammonium sulfate pre-
+cipitation, a´ kta-fplc affinity chromatography (amersham
+pharmacia, uppsala, sweden) on a g␣i3 peptide column and
+a´ kta-fplc gel filtration on a superdex 200 hr 10/30
+column. the g␣i3 antibody was preabsorbed on an acetone
+powder generated from livers of g␣i3-deficient mice to further
+reduce nonspecific binding.
+modifications and will be described in detail elsewhere (k.k., a.g.,
+b.n., unpublished data). briefly, the livers of 8- to 12-week-old
+c57bl/6 or 129sv male mice were perfused with a ca2⫹/so4
+2⫺-free
+perfusion buffer (6 mm glucose, 115 mm nacl, 25 mm nahco3,
+5.9 mm kcl, 1.2 mm mgcl2 ⫻ 6 h2o, and 1.2 mm nah2po4 ⫻
+h2o, ph 7.5) first without and then with addition of collagenase
+(0.33 mg/ml; type cls ii, 283 units/ml; biochrom, berlin, ger-
+many). liver tissue was mechanically dissociated, and nonparen-
+chymal cells and cell debris were removed by three centrifugation
+steps (19 ⫻ g for 2 min at 4°c). sedimented cells were seeded onto
+collagen (collagen r; serva, heidelberg, germany) and cultured
+in serum-free williams e medium without l-glutamine. the cells
+essentially were pure hepatocytes with no detectable contamination
+by other hepatic cell types. experiments were performed 3 days
+after hepatocyte isolation.
+western blotting analysis. hepatocytes and mefs were lysed in 50
+mm hepes, 150 mm nacl, 1% nonidet p-40, 1% sds, and 1%
+triton x-100 (ph 7.4). one complete edta-free inhibitor
+tablet (roche, penzberg, germany) was added per 100 ml of
+buffer. proteins (30–50 ␮g per lane) were separated on 6 m
+urea/sds/page gels and blotted onto nitrocellulose. the anti-
+g␣common antibody (as 8; ref. 35) was diluted 1:150, the anti-
+g␣i3 antibody was diluted 1:5,000, and the anti-lc3 antibody was
+diluted 1:750.
+cellular autophagy and microscopic observation. cumulative cel-
+lular autophagy was induced by amino acid starvation in
+hanks’ balanced salt solution (hbss; invitrogen/gibco, carls-
+bad, ca) for 2 hours in the presence of 10 ␮g/ml leupeptin and
+10 ␮g/ml pepstatin. the effects of insulin (0.02–10 nm for 60
+min) or phenylalanine (0.2 mm for 60 min) on autophagy were
+determined in the absence of protease inhibitors. lysosomes
+were visualized by incubation with lysotracker red dnd-99
+(75 nm for 30 min; invitrogen/molecular probes, carlsbad,
+ca). hepatocytes were fixed in 4% paraformaldehyde (20
+min) and permeabilized with 0.5% triton x-100 (5 min).
+nonspecific binding sites were blocked with 3% bsa. anti-
+bodies were diluted in 1% bsa to the following ratios:
+anti-g␣i3, 1:1,000; rabbit anti-lc3, 1:300; goat anti-lc3 clone
+f14, 1:200 (santa cruz biotechnology, santa cruz, ca);
+anti-early endosomal antigen 1 (eea-1), 1:400 (bd bio-
+sciences, heidelberg, germany); and anti-protein disulfide
+isomerase (pdi), 1:300 (bd biosciences). secondary detec-
+tion was performed with alexa fluor-coupled antibodies
+(invitrogen/molecular probes). nuclei were stained with
+dapi (sigma, deisenhofen, germany), and cells were
+analyzed on a lsm 510 meta confocal microscope (carl zeiss,
+jena, germany). single optical slices of ⬇0.5 ␮m are shown.
+in situ mouse liver perfusion and measurement of autophagic pro-
+teolysis. livers of 8- to 12-week-old male mice with a body weight
+of 20–25 g were perfused in situ essentially as described for the rat
+in ref. 28. briefly, proteolysis was determined in separate perfusion
+experiments as 3h-label release from mice that had been injected
+i.p. with 5 ␮ci of l-[4,5-3h]leucine 16 h before the perfusion
+experiment (1 ci ⫽ 37 gbq). livers from fed mice were prelabeled
+in vivo by i.p. injection of 5 ␮ci of [3h]leucine, and 3h-label release
+into the effluent was monitored as a measure of hepatic proteolysis.
+because of different labeling of the animals in vivo, the release of
+radioactivity was set to 100% during baseline conditions at 100 min
+of perfusion time. all perfusion experiments were performed with
+approval of the local animal care and use committee and super-
+vising state authorities.
+hepatocyte isolation and culture. the isolation of mouse hepato-
+cytes was performed according to published procedures (28) with
+we (a.g. and b.n.) gratefully dedicate this paper to our former mentor
+gu¨nter schultz, berlin, on the occasion of his 70th birthday. we thank
+olga felda for genotypic analysis and maintenance of the mouse colony,
+gohla et al.
+pnas 兩 february 20, 2007 兩 vol. 104 兩 no. 8 兩 3007
+nicole eichhorst and markus mroz for expert technical assistance with
+in situ liver perfusion experiments, dr. brigitte anliker for help with the
+figures, dr. yasuo uchiyama (osaka university graduate school of
+medicine, osaka, japan) for the generous gift of lc3 antibodies, and dr.
+eeva-liisa eskelinen (university of helsinki, helsinki, finland) for the
+gfp-lc3 plasmid. this work was supported in part by collaborative
+research centers, e.g., sfb575, of the german research foundation,
+and national institutes of health grant dk-19318 (to l.b.).
+1. mccudden cr, hains md, kimple rj, siderovski dp, willard fs (2005) cell
+mol life sci 62:551–577.
+2. pineda vv, athos ji, wang h, celver j, ippolito d, boulay g, birnbaumer l,
+storm dr (2004) neuron 41:153–163.
+3. rudolph u, finegold mj, rich ss, harriman gr, srinivasan y, brabet p,
+boulay g, bradley a, birnbaumer l (1995) nat genet 10:143–150.
+4. skokowa j, ali sr, felda o, kumar v, konrad s, shushakova n, schmidt re,
+piekorz rp, nu¨rnberg b, spicher k, et al. (2005) j immunol 174:3041–3050.
+5. jain m, lim cc, nagata k, davis vm, milstone ds, liao r, mortensen rm
+(2001) am j physiol 280:h569–h575.
+6. yang j, wu j, jiang h, mortensen r, austin s, manning dr, woulfe d, brass
+lf (2002) j biol chem 277:46035–46042.
+7. fan h, zingarelli b, peck om, teti g, tempel ge, halushka pv, spicher k,
+boulay g, birnbaumer l, cook ja (2005) am j physiol 289:c293–c301.
+8. le-niculescu h, niesman i, fischer t, devries l, farquhar mg (2005) j biol
+chem 280:22012–22020.
+9. nu¨rnberg b, ahnert-hilger g (1996) febs lett 389:61–65.
+10. ahnert-hilger g, nu¨rnberg b, exner t, scha¨fer t, jahn r (1998) embo j
+17:406–413.
+11. valenti g, procino g, liebenhoff u, frigeri a, benedetti pa, ahnert-hilger
+g, nu¨rnberg b, svelto m, rosenthal w (1998) j biol chem 273:22627–22634.
+12. stow jl, de almeida jb (1993) j cell sci suppl 17:33–39.
+13. denker sp, mccaffery jm, palade ge, insel pa, farquhar mg (1996) j cell
+biol 133:1027–1040.
+13:918–927.
+14. lou x, mcquistan t, orlando ra, farquhar mg (2002) j am soc nephrol
+15. van dyke rw (2004) bmc physiol 4:1.
+16. ogier-denis e, couvineau a, maoret jj, houri jj, bauvy c, de stefanis d,
+isidoro c, laburthe m, codogno pa (1995) j biol chem 270:13–16.
+17. meijer aj, codogno p (2006) mol aspects med 27:411–425.
+18. shintani t, klionsky dj (2004) science 306:990–995.
+19. levine b, yuan j (2005) j clin invest 115:2679–2688.
+20. cuervo am (2004) trends cell biol 14:70–77.
+21. kuma a, hatano m, matsui m, yamamoto a, nakaya h, yoshimori t,
+ohsumi y, tokuhisa t, mizushima n (2004) nature 432:1032–1036.
+22. komatsu m, waguri s, chiba t, murata s, iwata j, tanida i, ueno t, koike
+m, uchiyama y, kominami e, et al. (2006) nature 441:880–884.
+23. hara t, nakamura k, matsui m, yamamoto a, nakahara y, suzuki-
+migishima r, yokoyama m, mishima k, saito i, okano h, et al. (2006) nature
+441:885–889.
+24. komatsu m, waguri s, ueno t, iwata j, murata s, tanida i, ezaki j,
+mizushima n, ohsumi y, uchiyama y, et al. (2005) j cell biol 169:425–434.
+25. liang xh, jackson s, seaman m, brown k, kempkes b, hibshoosh h, levine
+b (1999) nature 402:672–676.
+26. wullschleger s, loewith r, hall mn (2006) cell 124:471–484.
+27. kanazawa t, taneike i, akaishi r, yoshizawa f, furuya n, fujimura s,
+kadowaki m (2004) j biol chem 279:8452–8459.
+28. ha¨ussinger d, schliess f, dombrowski f, vom dahl s (1999) gastroenterology
+116:921–935.
+29. tanida i, ueno t, kominami e (2004) cell biol 36:2503–2518.
+30. kabeya y, mizushima n, ueno t, yamamoto a, kirisako t, noda t,
+kominami e, ohsumi y, yoshimori t (2000) embo j 19:5720–5728.
+31. petiot a, ogier-denis e, blommaart efc, meijer aj, codogno p (2000) j biol
+chem 275:992–998.
+32. mortimore ge, schworer cm (1977) nature 270:174–176.
+33. caro jf, poulos j, ittoop o, pories wj, flickinger eg, sinha mk (1988) j clin
+invest 81:976–981.
+34. jiang m, spicher k, boulay g, martin-requero a, dye ca, rudolph u,
+birnbaumer l (2002) methods enzymol 344:277–298.
+35. exner t, jensen on, mann m, kleuss c, nu¨rnberg b (1999) proc natl acad
+sci usa 96:1327–1332.
+36. nu¨rnberg b, spicher k, harhammer r, bosserhoff a, frank r, hilz h, schultz
+g (1994) biochem j 300:387–394.
+3008 兩 www.pnas.org兾cgi兾doi兾10.1073兾pnas.0611434104
+gohla et al.

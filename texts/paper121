@@ -1,0 +1,737 @@
+scientific report
+scientificreport
+two newly identified sites in the ubiquitin-like protein
+atg8 are essential for autophagy
+nira amar1, gila lustig1, yoshinobu ichimura2, yoshinori ohsumi2 & zvulun elazar1+
+1department of biological chemistry, the weizmann institute of science, rehovot, israel, and 2division of molecular cell biology,
+national institute for basic biology, myodaiji, okazaki, japan
+atg8, a member of a novel ubiquitin-like protein family, is an
+essential component of the autophagic machinery in yeast. this
+protein undergoes reversible conjugation to phosphatidylethanol-
+amine through a multistep process in which cleavage of atg8 by
+a specific protease is followed by ubiquitin-like conjugation
+processes. here, we identify two essential sites in atg8, one of
+them involving residues phe 77 and phe 79 and the other, located
+on the opposite surface of atg8, residues tyr 49 and leu 50. we
+show that these two sites are associated with different functions of
+atg8: phe 77 and phe 79 seem to be part of the recognition site for
+atg4, a cystein protease that acts also as a deubiquitination
+enzyme, whereas tyr 49 and leu 50 act downstream of the
+lipidation step. these two newly identified distinct sites that are
+essential for atg8 activity provide an explanation for the many
+protein–protein interactions of this low-molecular-weight protein.
+keywords: atg8; autophagy; ubiquitin-like
+embo reports (2006) 7, 635–642. doi:10.1038/sj.embor.7400698
+introduction
+the autophagic pathway mediates delivery of cytosolic proteins
+and organelles for degradation within the lysosomes/vacuole
+compartments. recent studies linked autophagy with numerous
+physiological conditions,
+including liver diseases, muscular
+disorders, neurodegeneration, pathogen infections and cancer
+(cuervo, 2004; shintani & klionsky, 2004a).
+genetic screens
+in the yeast saccharomyces cerevisiae
+identified 16 autophagy-related genes (atgs) that are essential
+for this process (klionsky et al, 2003). this group of genes includes
+two unique ubiquitin-like (ubl) systems that take part in early
+stages of autophagosome biogenesis (ohsumi & mizushima,
+2004). the first includes atg12, a ubl molecule that is specifically
+1department of biological chemistry, the weizmann institute of science,
+rehovot 76100, israel
+2division of molecular cell biology, national institute for basic biology,
+38 nishigonaka, myodaiji, okazaki 444-8585, japan
++corresponding author. tel: þ 972 8 9343682; fax: þ 972 8 9344112;
+e-mail: bmzevi@wicc.weizmann.ac.il
+received 14 september 2005; revised 13 january 2006; accepted 28 march 2006;
+published online 5 may 2006
+conjugated to atg5 to form a stable atg12–atg5 conjugate. this
+process is mediated by both atg7, an e1-activating enzyme, and
+atg10, an e2-conjugating enzyme. together with atg16, which
+forms a complex with the atg12–atg5 conjugate (kuma et al,
+2002), these molecules may act upstream of the second ubl
+system that conjugates atg8 to phosphatidylethanolamine (pe;
+ichimura et al, 2000). this lipidation process serves to associate
+atg8 covalently with the isolation membrane and autophago-
+somes, thus rendering it a genuine marker for these membranes.
+the mechanism of autophagosome biogenesis remains enig-
+matic, and the exact role of atg8 in this process is not yet fully
+understood. this evolutionarily conserved molecule is part of a
+novel protein family with many homologues in mammals (elazar
+et al, 2003) and plants (yoshimoto et al, 2004), some of which are
+specifically associated with autophagosomes (kabeya et al, 2004).
+despite being a low-molecular-weight protein consisting of a
+single ubl fold decorated by two amino-terminal short helices,
+this protein is
+recognized specifically by several proteins,
+including the cysteine protease atg4 (kirisako et al, 2000), as
+well as by atg7 and atg3, which subsequently direct it to pe on
+the membrane (ichimura et al, 2000). here, we report
+the
+identification of two distinct functional sites that are required
+for the autophagic activity of atg8.
+(cvt; huang et al, 2000)
+results and discussion
+identification of essential residues on atg8
+atg8 was initially identified as an essential protein for autophagy
+(lang et al, 1998; kirisako et al, 1999) and for cytosol-to-vacuole
+transport
+in yeast. this protein first
+becomes conjugated to pe, a process that starts with the removal
+of the carboxy-terminal arginine from the newly synthesized atg8
+by the atg4 protease to expose a c-terminal glycine residue
+(atg8g116; kirisako et al, 2000). atg8g116 is then activated by atg7
+(e1) and transferred to atg3 (e2), which conjugates it to pe by an
+amide bond between the c-terminal glycine and the amino
+group of pe (ichimura et al, 2000). the latter process is then
+terminated by the deubiquitination activity of atg4. to clarify the
+physiological role of this conjugation process, it is imperative,
+first, to identify the functional domains on atg8 and, second,
+&2006 european molecular biology organization
+embo reports vol 7 | no 6 | 2006
+6 3 5
+scientific report
+newly identified functional sites in atg8
+n. amar et al
+atg8
+gabarap
+gate-16
+lc3
+atg8
+gabarap
+gate-16
+lc3
+atg8
+gabarap
+gate-16
+lc3
+α1
+α1
+10
+α2
+20
+β1
+β2
+30
+40
+50
+60
+α3
+70
+β3
+80
+90
+α4
+100
+β4
+110
+120
+leu 50
+tyr 49
+phe 79
+phe 77
+fig 1 | modelling the three-dimensional structure of atg8. (a) multiple sequence alignment of atg8 homologues. amino-acid sequences of atg8 and its
+mammalian homologues are aligned using the clustal_w program. underlined residues represent mutated amino acids in atg8. (b) alignment of atg8
+predicted three-dimensional structure with its mammalian homologues. swiss model was used to predict atg8 structure and pymol was used for
+presentation. orange represents the predicted atg8 structure, and red, blue and green represent gate-16, gabarap and lc3, respectively.
+(c) three-dimensional model of atg8. the predicted structure contains a ubiquitin fold decorated by two further amino-terminal helices
+(amino acids tyr 49, leu 50, phe 77 and phe 79 are marked in green).
+to determine whether lipidation is the end point of atg8 role in this
+process or whether it functions downstream of the conjugation
+step. to address these questions, we undertook a systematic
+mutagenesis approach aiming to identify the functional domains
+of atg8.
+atg8 shows significant amino-acid sequence homology to
+a novel ubl mammalian protein family (fig 1a). the crystal
+structures of
+this family, namely gate-16,
+gaparap and lc3, are almost identical (paz et al, 2000; knight
+et al, 2002; sugawara et al, 2004). on the basis of these structures
+and the sequence homology, we used swiss model to predict
+three members of
+the structure of atg8 with a root-mean-square deviation (r.m.s.d.)
+value of 0.48 a˚
+(fig 1b). we then systematically mutated the
+conserved amino-acid residues located on the predicted protein
+surface to alanine and tested the ability of
+these mutants to
+complement autophagy. autophagic activity was monitored in
+datg8 cells using aminopeptidase i
+(api) maturation under
+nitrogen starvation. altogether, we mutated 13 amino acids,
+including arg 20, arg 24, arg 28, lys 46, tyr 49, leu 50, tyr 62,
+lys 66, phe 77, phe 79 and asp 100 (underlined in the atg8 amino-
+acid sequence presented in fig 1a). nine of these mutations had
+no effect on the protein activity. however, because of limitations
+6 3 6
+embo reports vol 7 | no 6 | 2006
+&2006 european molecular biology organization
+newly identified functional sites in atg8
+n. amar et al
+scientific report
+growth condition:
+wt
+∆atg8
+wt
+gfp−atg8/∆atg8
+f77a
+f79a
+f77/79a
+papi
+mapi
+atg8
+starvation condition:
+wt
+∆atg8
+wt
+papi
+mapi
+atg8
+gfp−atg8/∆atg8
+f77a
+f79a
+f77/79a
+gfp − atg8
+gfp − atg8
+gfp−atg8wt
+gfp − atg8f77/79a
+control
+starvation
+wt
+f77a
+f79a
+f77/79a
+wt
+f77a
+f79a
+f77/79a
+18
+14
+10
+wt strain
+∆atg8
+atg8wt
+atg8f77a
+atg8f79a
+atg8f77/79a
+time (h)
+gfp−atg8
+gfp
+fig 2 | gfp–atg8f77/79a double mutant shows a defect in the autophagic process. gfp–atg8wt, gfp–atg8f77a, gfp–atg8f79a or gfp–atg8f77/79a was
+transformed into datg8 cells. (a) cells were grown to mid-exponential phase and then incubated in the presence of 3.5% galactose to induce
+expression of gfp–atg8. aminopeptidase i (api) maturation was tested in cells incubated in control or starvation medium by western blot analysis
+using anti-atg8 (right bottom panel), anti-gfp (left bottom panel) or anti-api antibodies (upper panel). (b) cells were pulse-labelled with
+[35s]methionine and chased on non-radioactive starvation medium. aliquots were taken at the indicated times and acid-soluble small peptides
+generated by proteolysis were determined. (c) cells were grown in control or in starvation medium and visualized by light microscopy. arrows point
+to the pre-autophagosomal structure (pas), and arrowheads point to gfp within the vacuoles. (d) cell extracts were subjected to sds–polyacrylamide
+gel electrophoresis followed by immunoblot analysis using anti-gfp antibodies. gfp, green fluorescent protein; mapi, mature aminopeptidase i;
+papi, premature aminopeptidase i; wt, wild type.
+of the api assay, we cannot exclude the possibility that some of
+these residues are involved in other autophagic activities of atg8.
+mutations of residue tyr 49 or leu 50 blocked the atg8 autophagic
+activity, whereas mutations of phe 77 and phe 79, when intro-
+duced in tandem,
+four residues are
+highlighted in the structure presented in fig 1c). on the basis of
+these results, we proposed that atg8 contains two distinct sites,
+located on opposite sides of the protein, which are essential for its
+autophagic activity.
+inhibited its activity (all
+residues phe 77 and phe 79 of atg8 recognize atg4
+green fluorescent protein (gfp)–atg8 has been previously shown
+to complement both cvt and autophagy in datg8 cells (suzuki
+et al, 2001). to further characterize the mutants described above,
+we have introduced gfp–atg8 harbouring mutations at residues
+phe 77 and phe 79 into datg8 cells. we have made use of api,
+a vacuolar resident hydrolase that travels to the vacuole by means
+of
+the cvt pathway under normal growth conditions and by
+autophagy under starvation conditions. its n-terminal propeptide
+containing the vacuole targeting signal is cleaved off by pep4
+following delivery to the vacuole (fig 2a). as depicted in fig 2a,
+gfp–atg8f77a or gfp–atg8f79a complemented api maturation
+under the different growth conditions, whereas the double mutant
+gfp–atg8f77/79a failed to do so. notably, similar results were
+obtained when the different atg8 mutants were expressed with
+their endogenous promoter
+(data not shown). these results
+&2006 european molecular biology organization
+embo reports vol 7 | no 6 | 2006
+6 3 7
+scientific report
+newly identified functional sites in atg8
+n. amar et al
+control
+atg8 − ha /∆ atg8
+starvation
+atg8 − ha /∆ atg8
+wt f77a f79a f77/79a
+wt f77a f79a f77/79a
+elution
+total
+wt
+f77a f79a f77/79a
+wt
+f77a f79a f77/79a
+control
+starvation
+control
+starvation
+wt 77/79 wt 77/79
+∆atg8
+papi
+mapi
+atg8 − ha
+atg8
+atg8
+atg4
+ a
+ −
+ a
+ −
+fig 3 | atg8f77/79a does not undergo cleavage in the carboxyl terminus. (a) atg8wt–ha, atg8f77a–ha, atg8f79a–ha or atg8f77/79a–ha was
+transformed into datg8 cells. cell extracts were prepared and subjected to 13.5% sds–polyacrylamide gel electrophoresis (sds–page) containing 6 m
+urea, followed by immunoblot analysis with anti-atg8 antibodies. (b) prediction of protein–protein interaction sites in atg8 (neuvirth et al, 2004).
+a three-dimensional model of atg8 is coloured according to promate prediction (see supplementary information online) with red representing the
+predicted protein–protein binding sites, and phe 77 and phe 79 are marked in green within the prediction site. (c) pull-down assay of atg8 mutants
+with atg4. his–atg4 was attached to cobalt beads (talon metal-affinity resin), washed and incubated with total cell extracts of atg8 mutants. elution
+was subjected to sds–page followed by western blot analysis using anti-atg8 and anti-atg4 antibodies. (d) localization of green fluorescent protein
+(gfp)–atg8wt and gfp–atg877/79 cells carrying atg4 plasmid under normal (control) and starvation conditions. arrows point to the pre-
+autophagosomal structure, and arrowheads point to gfp within the vacuoles. (e) aminopeptidase i (api) maturation was tested in cells incubated in
+control or starvation medium by western blot analysis using anti-api antibodies. mapi, mature aminopeptidase i; papi, premature aminopeptidase i;
+wt, wild type.
+indicate that phe 77 and phe 79 are indispensable for both the cvt
+and autophagy pathways.
+to study further the role of these phenylalanine residues in
+atg8 activity, we used different approaches to assess autophagy in
+living cells. first, we tested the ability of gfp–atg8f77a, gfp–
+atg8f79a and gfp–atg8f77/79a to complement starvation-induced
+protein degradation in the datg8 cells. consistent with their
+activity in the api maturation assay, both gfp–atg8f77a and gfp–
+atg8f79a partly complemented starvation-induced protein degra-
+dation, whereas the gfp–atg8f77/79a double mutant strain did not
+(fig 2b). these results lend support to the idea that these two
+adjacent phenylalanine residues are essential for autophagy.
+the vacuole,
+gfp–atg8 has been localized to the cytosol and to a dot-like
+structure, near
+termed the pre-autophagosomal
+structure (pas; suzuki et al, 2001). moreover, after starvation,
+gfp–atg8 is translocated from the cytosol to the vacuole in an
+(mizushima et al, 2004). we
+autophagy-dependent manner
+therefore examined the subcellular
+localization of wild-type
+gfp–atg8 and the mutant gfp–atg8f77/79a in datg8 cells under
+different growth conditions. as depicted in fig 2c, under control
+conditions, wild-type gfp–atg8 is mainly localized to the cystosol
+and the pas, whereas after starvation it accumulates within the
+vacuole. in contrast, gfp–atg8f77/79a did not localize to the pas
+and remained cytosolic even in starved cells. after delivery of
+gfp–atg8 to the vacuole,
+the gfp moiety is proteolytically
+removed, and the free gfp can serve as a biochemical marker to
+monitor vesicle delivery (shintani & klionsky, 2004b). the failure
+of gfp–atg8f77/79a to undergo translocation to the vacuole was
+further confirmed by western blot analysis using anti-gfp
+antibodies (fig 2d). notably,
+the vacuole in cells expressing
+gfp–atg8f77/79a appeared slightly fragmented.
+the inability of atg8f77/79a to support autophagic activities
+may have resulted from defects in its processing machinery. to
+test whether the aforementioned mutations affected c-terminal
+cleavage by atg4 protease, haemagglutinin (ha) tag was fused
+to the c terminus of the protein and expressed in the datg8
+cells under normal and starvation conditions. as shown in fig 3a,
+the c-terminal cleavage of the ha tag was not affected by the
+mutation at residue phe 79, whereas mutation at residue phe 77
+significantly inhibited cleavage under normal growth conditions
+and, to a lesser extent, under starvation. cleavage of atg8f77/79a–
+ha, however, was completely inhibited under both growth
+6 3 8
+embo reports vol 7 | no 6 | 2006
+&2006 european molecular biology organization
+newly identified functional sites in atg8
+n. amar et al
+scientific report
+conditions (fig 3a). similar
+results were obtained when a
+low-copy plasmid was used for the expression of atg8 (data not
+shown). from these results, we concluded that both phe 77 and
+phe 79 residues of atg8 are essential for cleavage by atg4 activity.
+notably, these residues are found at the centre of an interface
+surface predicted to participate in protein–protein interactions
+(fig 3b; for details, see supplementary information online). to test
+whether phe 77 and phe 79 participate in atg8–atg4 interaction,
+recombinant atg4 tagged with six histidine residues at
+its n
+terminus was coupled to talon beads and used in a pull-down
+assay with cell extracts obtained from the different strains. as
+depicted in fig 3c, mutations in either phe 77 or phe 79
+significantly reduced the binding of atg8 to atg4, whereas the
+double mutant had a larger effect. atg8 was not detected in
+eluates when the different extracts were incubated with talon
+beads in the absence of atg4 (data not shown). these results
+indicate that phe 77 and phe 79 are involved in atg8–atg4
+interaction. consistently, overexpression of atg4 suppressed the
+autophagic phenotype of atg8f77/79a (fig 3d,e). to test whether
+residues phe 77 and phe 79 are also essential for the conjugation
+process, we expressed the different mutants with the c-terminal
+glycine exposed (atg8f77/79adr), thus overcoming the need for
+the initial cleavage by the protease. as shown in fig 4a, both
+atg8f77a and atg8f79a, but not atg8f77/79a, undergo pe lipidation
+under starvation condition. notably, atg8f77/79a migrated in
+the urea sds–polyacrylamide gel electrophoresis (sds–page)
+slightly faster with a trail of a higher-molecular-weight band.
+this phenomenon was previously reported for an uncleaved
+protein (kirisako et al, 2000). atg8f77/79adr, conversely, was
+lipidated (fig 4a),
+these mutations specifically
+affect the protease but not the conjugation machinery. this was
+further confirmed by the ability of gfp–atg8f77/79adr to be
+localized to the pas (fig 4b), a lipidation-dependent process.
+these mutants, however,
+failed to reconstitute autophagy in
+the atg8-null strain (fig 4c), consistent with the notion that
+deconjugation of atg8 by atg4 is essential
+this process
+(kirisako et al, 2000).
+indicating that
+for
+atg8 tyr 49 and leu 50 are essential for autophagy
+as described in our initial screen, the two neighbouring residues
+tyr 49 and leu 50 seemed to be essential for autophagy. to further
+characterize the effect of these mutations on atg8 autophagic
+activity, we expressed gfp–atg8 fusion protein containing these
+mutations in datg8 cells. as shown in fig 5a, neither gfp–
+atg8y49a nor gfp–atg8l50a restored api maturation under normal
+or starvation conditions,
+these mutants do not
+support the cvt pathway or autophagy. to confirm the autophagic
+defect in these mutants, we tested their ability to complement
+starvation-induced protein degradation in datg8 cells. the
+control, gfp–atg8wt,
+fully complemented starvation-induced
+protein degradation, whereas gfp–atg8l50a or gfp–atg8y49a
+did not (fig 5b). these results confirm the essential role of tyr 49
+and leu 50 in atg8 autophagic activity.
+implying that
+to monitor
+the localization of
+these atg8 mutants, we
+examined the intracellular localization of gfp-tagged atg8 in
+datg8 cells. as shown in fig 6a, gfp–atg8y49a and gfp–atg8l50a
+were found in the cytosol and in pas-like structures under
+both control and starvation conditions. however,
+in response
+to starvation, gfp–atg8wt was translocated to the vacuole,
+atg8
+atg8 − pe
+atg8/∆atg8
+wt
+f77a
+f79a
+f77/79a
+f77/79a∆r
+control
+starvation
+papi
+mapi
+gfp − atg8
+gfp
+control
+starvation
+wt
+f77/79a wt f77/79a
+∆atg8
+fig 4 | gfp–atg8f77/79adr double mutant shows a defect in the autophagic
+process despite undergoing lipidation. gfp–atg8wtdr or gfp–atg8f77/79adr
+was transformed into datg8 cells. (a) cell extracts were subjected
+to 13.5% sds–polyacrylamide gel electrophoresis containing 6 m urea,
+followed by immunoblot analysis using anti-atg8-15n peptide antibodies.
+(b) cells were grown in control or in starvation medium and visualized
+using fluorescence microscopy. arrows point to the pre-autophagosomal
+structure, whereas arrowheads point to gfp within the vacuoles.
+(c) aminopeptidase i (api) maturation and gfp cleavage were tested
+as described above. asterisk represents nonspecific band. gfp, green
+fluorescent protein; mapi, mature aminopeptidase i; papi, premature
+aminopeptidase i; wt, wild type.
+the wild-type protein. nevertheless,
+whereas gfp–atg8y49a did not, and only traces of gfp–atg8l50a
+were detected in the vacuole. this was further confirmed
+by western blot analysis with anti-gfp antibodies (fig 6b).
+notably, the dot-like structures in these mutants were smaller
+than those of
+the fact
+that mutant proteins are localized to the pas under starvation
+conditions suggests that
+the
+overall
+the protein. moreover, as the localization
+of gfp–atg8wt to the pas apparently depends on the activity
+of
+the yeast conjugating machinery (suzuki et al, 2001),
+we assume that the ability of the mutants to undergo conjugation
+to pe is unaffected.
+these mutations do not affect
+folding of
+&2006 european molecular biology organization
+embo reports vol 7 | no 6 | 2006
+6 3 9
+scientific report
+newly identified functional sites in atg8
+n. amar et al
+growth condition:
+wt
+∆atg8
+wt
+l50a
+y49a
+gfp−atg8/∆atg8
+papi
+mapi
+atg8
+starvation condition:
+gfp−atg8/∆atg8
+wt
+∆atg8
+wt
+l50a
+y49a
+papi
+mapi
+atg8
+18
+14
+10
+wt strain
+∆atg8
+atg8wt
+atg8l50a
+atg8y49a
+time (h)
+gfp−atg8
+gfp−atg8
+fig 5 | gfp–atg8l50a or gfp–atg8y49a transformed into datg8 cells does not reconstitute. (a) datg8 cells transformed with gfp–atg8wt, gfp–atg8l50a
+or gfp–atg8y49a constructs were grown to mid-exponential phase and then incubated in the presence of 3.5% galactose to induce expression of gfp–
+atg8. api maturation was tested using anti-atg8 (right bottom panel), anti-gfp (left bottom panel) or anti-api antibodies. (b) starvation-induced
+protein degradation of datg8 harbouring the different mutants was tested as described above. api, aminopeptidase i; gfp, green fluorescent protein;
+mapi, mature aminopeptidase i; papi, premature aminopeptidase i; wt, wild type.
+these results, we conclude that
+to verify whether these mutants undergo cleavage in the c
+terminus by atg4, datg8 and datg8datg4 cells were transformed
+with atg8wt–ha, atg8l50a–ha or atg8y49a–ha fusion con-
+structs in which the ha tag was introduced at the protein c
+terminus. protein extracts were prepared from each strain,
+subjected to sds–page and analysed by immunoblot with anti-
+atg8 (fig 6c) and anti-ha antibodies (data not shown). both
+atg8y49a–ha and atg8l50a–ha were cleaved at their c termini.
+by using the datg8datg4 double knockout strain, we confirmed
+the involvement of atg4 in this cleavage (fig 6c). on the basis
+of
+the mutations at residues
+tyr 49 and leu 50 do not affect the c-terminal cleavage of the
+protein by atg4, an essential step for the subsequent conjuga-
+tion reaction. we next tested whether these mutants undergo
+pe lipidation. for this purpose, atg8wt, atg8l50a and atg8y49a
+were expressed in datg8 and datg8datg4 cells. cells were
+grown under starvation conditions, and protein extracts were
+prepared and subjected to 13.5% sds–page containing 6 m
+urea. both mutants acquired the lipidated form, which migrated
+faster only in the datg8 but not in the datg8datg4 cells (fig 6d).
+moreover,
+it has been reported that nascent atg8 (cleaved
+by the atg4 protease) migrates more slowly on sds–page urea
+gels (kirisako et al, 2000). consistently,
+it seems that on
+cleavage by atg4 protease, the unlipidated form of the wild-type
+and mutant proteins of atg8 migrated more slowly in these
+gels (fig 6d).
+for
+interestingly,
+taken together,
+its autophagic activity.
+these results indicate that residues tyr 49
+and leu 50 are located in a functional domain of atg8, which
+is essential
+ichimura
+et al (2004) have recently showed that after conjugation to pe,
+atg8 changes its conformation at
+the n-terminal region. we
+therefore suggested that, after lipidation, the protein changes its
+conformation,
+(containing
+its post-lipidation
+residues tyr 49 and leu 50)
+activity. furthermore, residues phe 77 and phe 79,
+located on
+the other side of
+the molecule, are involved in atg8-specific
+recognition by atg4.
+thus exposing a hydrophobic pocket
+that serves for
+methods
+site-directed mutagenesis. all mutations in the atg8 open read-
+ing frame were created with the quikchange site-directed
+mutagenesis kit (stratagene, la jolla, ca, usa) based on the
+construct pyes2/atg8 under the b-gal promoter, prs426 with
+pgk promoter or prs316 with atg8 endogenous promoter.
+western
+by
+prepared
+disrupting cells with glass beads in lysis buffer. sds–page and
+immunoblotting were performed as described (legesse-miller
+et al, 2000).
+protein turnover. the procedures for the protein degradation
+assay were performed as described (straub et al, 1997).
+fluorescence microscopy. fluorescence microscopy was per-
+formed using a confocal microscope (olympus fv500þ ix70).
+blotting. whole-cell
+lysates were
+6 4 0
+embo reports vol 7 | no 6 | 2006
+&2006 european molecular biology organization
+newly identified functional sites in atg8
+n. amar et al
+scientific report
+control
+starved
+ a
+ −
+ a
+ −
+ a
+ −
+gfp − atg8
+gfp
+atg8 − ha
+atg8
+atg8
+atg8p − pe
+gfp − atg8wt
+st
+gfp − atg8l50a
+st
+gfp − atg8y49a
+st
+atg8 − aha/∆atg8
+atg8 − ha/∆atg8∆atg4
+wt
+∆atg8
+wt
+l50a
+y49a
+wt
+l50a
+y49a
+atg8p/∆atg8
+atg8p/∆atg8∆atg4
+wt
+l50a
+y49a
+wt
+l50a
+y49a
+fig 6 | gfp–atg8 mutants were tested for their carboxy-terminus processing, phosphatidylethanolamine conjugation and autophagic activity. cells
+expressing gfp–atg8wt or gfp–atg8 mutants were grown in control or starvation medium. (a) gfp–atg8 localization was determined using
+fluorescence microscopy (arrows depict pre-autophagosomal structure, and arrowheads point to gfp within vacuoles). cells were also tested for the
+appearance of autophagic bodies by using light microscopy. (b) immunoblot analysis of different cell extracts was carried out using anti-gfp
+antibodies (asterisk represents nonspecific band). (c) atg8wt–ha, atg8l50a–ha or atg8y49a–ha was transformed into datg8 and datg8datg4 double
+knockout strains and cell extracts were subjected to sds–polyacrylamide gel electrophoresis (sds–page) followed by immunoblot analysis using
+anti-ha antibodies (lower panel; asterisk represents nonspecific band). (d) atg8wt, atg8l50a or atg8y49a was transformed into datg8 and
+datg8datg4 double knockout strains and grown under control or starvation conditions for 4 h. cell extracts were subjected to 13.5% sds–page
+containing 6 m urea, followed by immunoblot analysis using anti-atg8-n15 antibodies. gfp, green fluorescent protein; wt, wild type.
+cells were grown in the indicated medium to mid-exponential
+phase, induced with 3.5% galactose and shifted to sd-n starvation
+medium. to observe gfp-tagged proteins under a fluorescence
+microscope, we employed a band filter of 505–525 nm.
+supplementary information is available at embo reports online
+(http://www.emboreports.org).
+acknowledgements
+we thank g. schreiber and d. reichmann for fruitful advice in modelling
+atg8 structure. z.e. is incumbent of the sholimo and michla tomarin career
+development chair of membrane physiology. this work was supported in
+part by the israel science foundation and by the minerva center.
+references
+cuervo am (2004) autophagy: in sickness and in health. trends cell biol 14:
+70–77
+elazar z, scherz-shouval r, shorer h (2003) involvement of lma1 and
+gate-16 family members in intracellular membrane dynamics.
+biochim biophys acta 1641: 145–156
+huang wp, scott sv, kim j, klionsky dj (2000) the itinerary of a vesicle
+component, aut7p/cvt5p, terminates in the yeast vacuole via the
+autophagy/cvt pathways. j biol chem 275: 5845–5851
+ichimura y et al (2000) a ubiquitin-like system mediates protein lipidation.
+nature 408: 488–492
+ichimura y, imamura y, emoto k, umeda m, noda t, ohsumi y (2004)
+in vivo and in vitro reconstitution of atg8 conjugation essential for
+autophagy. j biol chem 279: 40584–40592
+&2006 european molecular biology organization
+embo reports vol 7 | no 6 | 2006
+6 4 1
+scientific report
+newly identified functional sites in atg8
+n. amar et al
+kabeya y, mizushima n, yamamoto a, oshitani-okamoto s, ohsumi y,
+yoshimori t (2004) lc3, gabarap and gate16 localize to
+autophagosomal membrane depending on form-ii formation. j cell sci
+117: 2805–2812
+mizushima n, yamamoto a, matsui m, yoshimori t, ohsumi y (2004) in vivo
+analysis of autophagy in response to nutrient starvation using transgenic
+mice expressing a fluorescent autophagosome marker. mol biol cell 15:
+1101–1111
+kirisako t, baba m, ishihara n, miyazawa k, ohsumi m, yoshimori t,
+neuvirth h, raz r, schreiber g (2004) promate: a structure based prediction
+noda t, ohsumi y (1999) formation process of autophagosome is traced
+with apg8/aut7p in yeast. j cell biol 147: 435–446
+program to identify the location of protein–protein binding sites. j mol
+biol 338: 181–199
+kirisako t, ichimura y, okada h, kabeya y, mizushima n, yoshimori t,
+ohsumi y, mizushima n (2004) two ubiquitin-like conjugation systems
+ohsumi m, takao t, noda t, ohsumi y (2000) the reversible
+modification regulates the membrane-binding state of apg8/aut7
+essential for autophagy and the cytoplasm to vacuole targeting pathway.
+j cell biol 151: 263–276
+essential for autophagy. semin cell dev biol 15: 231–236
+paz y, elazar z, fass d (2000) structure of gate-16, membrane transport
+modulator and mammalian ortholog of autophagocytosis factor aut7p.
+j biol chem 275: 25445–25450
+klionsky dj et al (2003) a unified nomenclature for yeast autophagy-related
+shintani t, klionsky dj (2004a) autophagy in health and disease:
+genes. dev cell 5: 539–545
+knight d, harris r, mcalister ms, phelan jp, geddes s, moss sj,
+driscoll pc, keep nh (2002) the x-ray crystal structure and
+putative ligand-derived peptide binding properties of g-aminobutyric
+acid receptor type a receptor-associated protein. j biol chem 277:
+5556–5561
+kuma a, mizushima n, ishihara n, ohsumi y (2002) formation of the
+approximately 350-kda apg12–apg5.apg16 multimeric complex,
+mediated by apg16 oligomerization, is essential for autophagy in yeast.
+j biol chem 277: 18619–18625
+lang t, schaeffeler e, bernreuther d, bredschneider m, wolf dh, thumm m
+(1998) aut2p and aut7p, two novel microtubule-associated proteins are
+essential for delivery of autophagic vesicles to the vacuole. embo j 17:
+3597–3607
+legesse-miller a, sagiv y, glozman r, elazar z (2000) aut7p, a soluble
+autophagic factor, participates in multiple membrane trafficking
+processes. j biol chem 275: 32966–32973
+a double-edged sword. science 306: 990–995
+shintani t, klionsky dj (2004b) cargo proteins facilitate the formation of
+transport vesicles in the cytoplasm to vacuole targeting pathway.
+j biol chem 279: 29889–29894
+straub m, bredschneider m, thumm m (1997) aut3, a serine/threonine
+kinase gene, is essential for autophagocytosis in saccharomyces
+cerevisiae. j bacteriol 179: 3875–3883
+sugawara k, suzuki nn, fujioka y, mizushima n, ohsumi y, inagaki f
+(2004) the crystal structure of microtubule-associated protein light chain
+3, a mammalian homologue of saccharomyces cerevisiae atg8. genes
+cells 9: 611–618
+suzuki k, kirisako t, kamada y, mizushima n, noda t, ohsumi y (2001) the
+pre-autophagosomal structure organized by concerted functions of apg
+genes is essential for autophagosome formation. embo j 20: 5971–5981
+yoshimoto k, hanaoka h, sato s, kato t, tabata s, noda t, ohsumi y (2004)
+processing of atg8s, ubiquitin-like proteins, and their deconjugation by
+atg4s are essential for plant autophagy. plant cell 16: 2967–2983
+6 4 2
+embo reports vol 7 | no 6 | 2006
+&2006 european molecular biology organization

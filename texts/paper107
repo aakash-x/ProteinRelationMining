@@ -1,0 +1,954 @@
+cell death and differentiation (2007) 14, 266–274
+& 2007 nature publishing group all rights reserved 1350-9047/07 $30.00
+www.nature.com/cdd
+a necrotic cell death model in a protist
+c laporte1,2,3, a kosta1,2,3, g klein4, l aubry4, d lam1,2,3, e tresse1,2,3, mf luciani1,2,3 and p golstein*,1,2,3
+while necrotic cell death is attracting considerable interest, its molecular bases are still poorly understood. investigations in
+simple biological models, taken for instance outside the animal kingdom, may beneﬁt from less interference from other cell death
+mechanisms and from better experimental accessibility, while providing phylogenetic information. can necrotic cell death occur
+outside the animal kingdom? in the protist dictyostelium, developmental stimuli induced in an autophagy mutant a stereotyped
+sequence of events characteristic of necrotic cell death. this sequence included swift mitochondrial uncoupling with
+mitochondrial 20,70-dichloroﬂuorescein diacetate ﬂuorescence, atp depletion and increased oxygen consumption. this was
+followed by perinuclear clustering of dilated mitochondria. rapid plasma membrane rupture then occurred, which was
+evidenced by time-lapse videos and quantiﬁed by facs. of additional
+interest, developmental stimuli and classical
+mitochondrial uncouplers triggered a similar sequence of events, and exogenous glucose delayed plasma membrane rupture in
+a nonglycolytic manner. the occurrence of necrotic cell death in the protist dictyostelium (1) provides a very favorable model for
+further study of this type of cell death, and (2) strongly suggests that the mechanism underlying necrotic cell death was present
+in an ancestor common to the amoebozoa protists and to animals and has been conserved in evolution.
+cell death and differentiation (2007) 14, 266–274. doi:10.1038/sj.cdd.4401994; published online 30 june 2006
+different
+types of cell death have long been deﬁned in
+morphological terms.1,2 thus, mammalian cells can die from
+‘apoptosis’,
+‘necrosis’ and ‘autophagic cell death’, and
+intermediate or mixed cell death types have also been
+reported. while caspase-dependent apoptosis has been
+studied in detail,
+less is known regarding the precise
+molecular mechanisms underlying caspase-independent
+types of cell death. these may play an important role
+especially in pathological circumstances and are thus now
+attracting considerable interest. caspase-independent cell
+death mechanisms that are not prominent in the usual model
+organisms may be more experimentally accessible in simpler
+biological models,3 with potentially less interference from
+other cell death pathways. the underlying mechanisms may
+be phylogenetically conserved, which would be of interest in
+itself and would allow the extension of results obtained with
+simple models to higher eukaryotes.
+in animal cells, necrosis is often deﬁned as a nonapoptotic,
+nonautophagic type of cell death, with swelling of cells and
+organelles and, importantly, early plasma membrane rup-
+ture.4,5 at a molecular level, necrosis but not apoptosis is often
+accompanied by acute atp depletion that is thought to cause
+cell death.6,7
+dictyostelium discoideum, a protist that emerged in evolu-
+tion after plants and from an ancestor common to fungi and
+animals,8 shows developmental cell death.9 this can be
+mimicked in monolayers of dictyostelium cells subjected to
+starvation and to the differentiation-inducing factor dif-1
+(hereafter designated dif10). the type of cell death thus
+obtained includes vacuolization.11,12 vacuolization is depen-
+dent on autophagy as inactivation of the atg1 autophagy
+gene13 prevented it. importantly, when subjected to starvation
+and dif, these atg1-1 cells still died, but now of a rapid
+nonvacuolar cell death.14
+we report here that
+this nonvacuolar cell death in
+dictyostelium possesses classical characteristics of necrotic
+cell death. this strongly suggests that
+the mechanism
+underlying necrotic cell death emerged in evolution before
+the divergence to amoebozoa protists and animals.
+results
+rapid mitochondrial uncoupling. hallmarks of necrotic
+cell death in mammalian cells include a rapid oxidative burst,
+mitochondrial uncoupling and plasma membrane rupture.
+to investigate whether early events following the addition of
+dif to dictyostelium hmx44a.atg1-1 cells (‘cells’, used
+throughout, unless mentioned otherwise)
+included an
+oxidative burst, we used the ﬂuorescent probe 20,70-
+dichloroﬂuorescein diacetate (dc-fda). upon addition of
+dif, starved cells stained ﬂuorescent in the presence of dc-
+fda, as shown by microscopy and by ﬂow cytometry
+(figure 1). the same pattern of ﬂuorescent labelling was
+obtained with dihydrorhodamine 123 and aminophenyl
+ﬂuorescein, but not with hydroethidium or mitosox red
+(not shown). like other signs of nonvacuolar cell death, dc-
+fda ﬂuorescence required prior starvation (not shown) and
+1centre d’immunologie de marseille-luminy, universite´ de la me´diterrane´e, case 906, parc scientiﬁque de luminy, 13288 marseille cedex 9, france; 2inserm u631,
+13288 marseille cedex 9, france; 3cnrs umr6102, 13288 marseille cedex 9, france and 4cea-grenoble/drdc/bbsi, umr 5092 cnrs-cea-ujf, 17, rue des
+martyrs, 38054 grenoble cedex 09, france
+*corresponding author: p golstein, centre d’immunologie de marseille-luminy, case 906, parc scientiﬁque de luminy, 13288 marseille cedex 9, france.
+tel: þ 33-4-91-26-94-68; fax: þ 33-4-91-26-94-30; e-mail: golstein@ciml.univ-mrs.fr
+keywords: cell death; necrosis; dictyostelium; atp; mitochondria; glucose
+abbreviations: cccp, carbonyl cyanide 3-chlorophenylhydrazone; dc-fda, 20,70-dichloroﬂuorescein diacetate; dif, differentiation-inducing factor; dnp,
+dinitrophenol; 2-dog, 2-deoxyglucose; pi, propidium iodide; vdac, voltage-dependent anion channel
+received 29.3.06; revised 21.4.06; accepted 11.5.06; edited by ja cidlowski; published online 30.6.06
+necrotic cell death model in a protist
+c laporte et al
+267
+102
+101
+100
+2.28
+200
+400 600 800
+102
+101
+100
+2.48
+400 600 800
+200
+forward scatter
+103
+102
+101
+100
+103
+102
+101
+100
+200
+400
+600
+seconds
+800 1000
+200
+400
+600
+seconds
+800 1000
+figure 1 induction of dc-fda ﬂuorescence following the addition of dif. starved hmx44a.atg1-1 cells were incubated with dc-fda and with (b) or without (a) dif for
+15–30 min and analyzed by phase-contrast and ﬂuorescence microscopy. the majority of cells were markedly ﬂuorescent and showed perinuclear clustering of organelles only
+when dif was added. contrast and luminosity had to be increased to see the very weak ﬂuorescence label of cells without dif. also, some photoactivation in dc-fda-labelled
+cells occurred during ﬂuorescence microscopy examination, leading to an increase in ﬂuorescence only in cells that were already labelled, thus only among dif-induced cells,
+therefore not affecting qualitative evaluation of labelling. (c, and d) flow cytometry showed compared to cells without dif (c) the presence of a ‘cloud’ of ﬂuorescent cells upon
+addition of dif (d). (e, and f) the emergence of ﬂuorescent cells as a function of time was followed by continuous ﬂow cytometry, starting the acquisition immediately after dif
+addition. cells without dif remained negative (e), whereas after the addition of dif some cells became ﬂuorescent as soon as 200 s, and most were ﬂuorescent after 1000 s (f)
+figure 2 dc-fda ﬂuorescence is mitochondrial. cells were observed about 30 min after the simultaneous addition of dif, dc-fda and mitotracker orange. (a) dic
+microscopy, (b) dc-fda ﬂuorescence, (c) mitotracker orange ﬂuorescence and (d) merge b and c
+addition of dif. remarkably, as shown by ﬂow cytometry
+some of
+the dc-fda-exposed cells became ﬂuorescent
+within 3 min after the addition of dif and most of them were
+ﬂuorescent after 15 min (figure 1 and not shown). after a few
+minutes, only few cells with intermediate ﬂuorescence levels
+could be detected (figure 1d and f),
+indicating a rapid
+transition from no to full ﬂuorescence in each cell. confocal
+microscopy of cells after dif addition showed for most
+stained structures colocalization of mitotracker orange
+(leading to red ﬂuorescence of mitochondria) and dc-fda
+(leading to green ﬂuorescence),
+indicating that dc-fda
+ﬂuorescence was mitochondrial (figure 2).
+has been argued that oxidative stress can trigger necrotic cell
+death. however, we did not observe any inhibition of dc-fda
+ﬂuorescence and of membrane rupture by an extensive range
+of inhibitors of oxidative burst (not shown). this might be
+owing to limited membrane permeability in starved dictyos-
+telium cells (but see also for reservations as to interpretation
+of dc-fda ﬂuorescence15). this lack of effect of inhibitors
+prevented us from formally concluding on the existence of an
+oxidative burst early in this cell death pathway. in any case,
+this dc-fda ﬂuorescence revealed early dif-induced events
+in mitochondria, presumably an oxidative burst, contemporary
+with mitochondrial uncoupling as shown below.
+the ﬂuorescence of dc-fda and of dihydrorhodamine 123
+is most often interpreted as revealing an oxidative burst, and it
+unlike apoptotic cell death, mammalian necrotic cell death
+is often associated with atp depletion.4,6,7 in wild-type
+cell death and differentiation
+268
+necrotic cell death model in a protist
+c laporte et al
+dictyostelium cells, starvation led to some atp depletion,
+which was not increased upon addition of dif; this may be
+related to the absence of increased dc-fda ﬂuorescence in
+this case (not shown). in atg1-1 cells, starvation similarly led to
+atp depletion. this apparent atp depletion upon starvation
+in both parental and atg1-1 cells may merely result from a
+starvation-induced reduction in size occurring in both types
+of cells. however, in starved atg1-1 but not in wild-type
+cells, atp per cell was further decreased upon addition of
+dif (figure 3a), likely through a decrease of the cellular
+concentration of atp. signiﬁcant atp depletion occurred
+within 3 min after the addition of dif (figure 3b). this atp
+depletion suggested that dif could directly or indirectly
+uncouple mitochondrial oxidative phosphorylation. an im-
+mediate consequence of such uncoupling should be an
+increase in oxygen consumption rate, which indeed occurred
+within less than a minute after the addition of dif (or of
+dinitrophenol
+showing
+mitochondrial uncoupling) to starved cells (figure 3c). we
+conclude that addition of dif to starved cells leads to
+almost
+immediate uncoupling of mitochondrial oxidative
+phosphorylation.
+(dnp) as a positive control
+about 20 min after the addition of dif, some cells became
+round with perinuclear clustering of cell organelles, which
+extended to almost all cells by 30 min (time-lapse videos in
+online supplementary material). by electron microscopy,
+most cells showed at
+this time perinuclear clustering of
+otherwise dilated mitochondria.14 clustering may be linked to
+the dependence of the actin system on energy supply by atp.
+perinuclear clustering has been reported also in circum-
+stances other than necrotic cell death, while dilation of
+mitochondria is usually associated with it.
+plasma membrane rupture. in animal cells, one of
+the
+most distinctive traits of necrotic cell death compared to other
+types of cell death is rapid rupture of the plasma membrane.
+in wild-type dictyostelium cells, 50% of the cells showed
+membrane rupture about 36 h after the addition of dif, as
+detected by propidium iodide (pi) uptake.11,12 in atg1-1 cells,
+this occurred 30–300 min after the addition of dif as shown
+by phase-contrast microscopy (figure 4) and by time-lapse
+videos (online supplementary material). sequences of still
+frames from these videos allowed a more precise timing of
+the duration of the membrane rupture event itself. only about
+15 s were required to shift from an apparently intact plasma
+membrane to its almost complete disappearance (figure 4a).
+in some but not all instances, an increase in apparent cell
+volume could be detected just before membrane rupture
+(time-lapse videos in online supplementary material). this
+cell swelling and the mitochondrial swelling seen by electron
+microscopy14 are reminiscent of
+the classical cell and
+organelle swelling in mammalian necrotic cell death.
+in all cases, plasma membrane rupture left behind some
+‘core’ material (figure 4a) whose aspect was distinct from that
+of the initial living cell. this physical change of dying cells
+suggested that detection and quantiﬁcation of this cell death
+might be possible through measure of cell scatter. indeed,
+ﬂow cytometry showed upon addition of dif the appearance
+of events of lower forward scatter (fsc) and slightly higher
+side scatter (ssc), generating a ‘cloud’ distinct from that of
+450
+400
+350
+300
+250
+200
+150
+100
+50
+vegetative cells
+starved cells
+with dif
+with d n p
+200
+150
+100
+50
+10
+30
+minutes after addition of dif
+c 
+100
+100
+100
+100
+2 min
+155
+140
+133
+186
+figure 3 mitochondrial uncoupling following the addition of dif. (a) stepwise atp depletion in hmx44a.atg1-1 cells after starvation and incubation with dnp or dif. cells
+were either grown in hl5 medium (vegetative cells) or incubated overnight in mes buffer (starved cells). the latter cells were also incubated for 30 min with 100 nm dif or
+100 mm dnp. perchloric cellular extracts were then prepared for determination of atp levels per cell. each column shows mean attomoles atp per cell7s.e.m. of
+sextuplicate samples. (b) dif induced most of the atp depletion within 3 min as shown by the amount of atp present in extracts from starved cells prepared 0, 3, 10 or 30 min
+after dif addition. (c) increase in oxygen consumption rates upon addition of dnp or dif. at the times indicated by arrows, dnp (a, 100 mm) or dif (b, 100 nm; c, 250 nm; d,
+500 nm) was added to starved atg1-1 cells, which led within less than a minute to an increase in oxygen consumption rate. values below the traces indicate oxygen
+consumption rates as percentages of the rate before additions (indicated by the dashed line)
+cell death and differentiation
+necrotic cell death model in a protist
+c laporte et al
+269
+time 0
+10 sec
+15 sec
+20 sec
+25 sec
+30 sec
+35 sec
+103
+102
+101
+100
+200
+400
+600
+800 1000
+fsc-h: fsc-height
+103
+102
+101
+100
+200
+400
+600
+800 1000
+fsc-h: fsc-height
+100
+3.24
+96.8
+50
+100
+200
+150
+97.3
+100
+50
+100
+102
+101
+pl fluorescence
+103
+104
+2.66
+102
+101
+103
+pl fluorescence
+104
+90
+80
+70
+60
+50
+40
+30
+20
+10
+80
+70
+60
+50
+40
+30
+20
+10
+0 1 2 3 4 5 6 7 8 9
+hours post-dif
+25
+50
+75
+100
+nm(dif, cccp), µm(dnp)
+figure 4 membrane rupture following the addition of dif or classical mitochondrial uncouplers. (a) starved hmx44a.atg1-1 cells were subjected to time-lapse movies
+following the addition of dif. a sequence of still frames extracted from time-lapse video 7 (in online supplementary material) shows two cells 2 h after the addition of dif, of
+which one shows rupture of its external membrane between the 20 s and the 35 s time points. (b and c) detection and quantiﬁcation by facs of cell membrane rupture. facs
+output of forward versus ssc of hmx44a.atg1-1 cells, (b) without dif or (c) 2.5 h after the addition of dif. the latter shows a newly appeared ‘cloud’ of cells with ruptured
+membrane. (d and e) pi check of the proportion of dead cells in the cell clouds obtained by facs (as in c). before facs analysis, cell populations were labelled with pi, which
+would only label cells with altered plasma membrane. (d) cells from the cloud appearing after the addition of dif were 97% positive, and (e) cells from the pre-existing cloud
+were only 3% positive. (f) in another experiment, the percentage of cells in the newly appeared cloud in (c) that is, the percentage of cells dead according to the criterion of
+membrane rupture, could be followed with time after the addition of dif; m, without dif ; ’, with dif. (g) percentage of starved cells with membrane rupture as a function of
+the concentrations of dif (.), dnp (m) or cccp (’), 2.5 h after their addition, a time when the percentage cell membrane rupture for dif-induced death, is not maximal and
+varies signiﬁcantly from experiment to experiment. this percentage would rise further at later times, reaching a maximum around 5 h post-dif (see f)
+cells not subjected to dif (figure 4b and c). cells in the cloud
+appearing after the addition of dif were dead, as 96–98%
+were positive for pi staining compared to 2–4% in the pre-
+existing cloud (figure 4d and e). within the time frame of
+these experiments, no gross secondary degradation of dead
+cells occurred that might generate a high proportion of large
+debris counted as new dead cells, as judged by relative
+stability of dead cell ‘cloud’ parameters and by microscopy
+(not shown). as an additional check, in every experiment we
+systematically veriﬁed the state of cells by phase-contrast
+microscopy, and found a consistent and strong correlation
+between the degree of cell alteration seen at 60 min post-dif
+and the % cell membrane rupture measured by facs at 2.5 h
+post-dif.
+flow cytometry of unlabelled cells thus allowed quantitative
+assessment of the proportion of dead cells, for instance, at
+various times after the addition of dif (figure 4f). while
+without dif cell death remained below 15% even at 9 h, upon
+addition of dif cell death reached a maximum of more than
+75% after 5 h. half-maximum values were reached at 2.5 h
+post-dif, which was therefore used thereafter as a sensitive
+read-out time. the slope of the curve at this time indicated a
+speed of cell death of about 20% cells per hour (figure 4f), a
+useful indication in time-lapse experiments that statistically
+one cell out of ﬁve would die in a given microscope ﬁeld within
+1 h. in this report, we operationally deﬁne cell death as rupture
+of the cell membrane, resulting under the microscope in a
+smaller and immobile mass of mostly organelles or organelle
+remnants, which can be stained by pi and shows by ﬂow
+cytometry a shift in scatter.
+as shown above, dif induces uncoupling of oxidative
+phosphorylation and plasma membrane rupture. addition of
+the classical inducers of uncoupling dnp or carbonyl cyanide
+3-chlorophenylhydrazone (cccp) to starved (but not
+to
+unstarved) cells also led to atp depletion and oxygen
+consumption increase, dc-fda ﬂuorescence, perinuclear
+clustering, and early plasma membrane rupture (figures 3
+and 4g and not shown). both latter traits were also observed in
+cell death and differentiation
+270
+necrotic cell death model in a protist
+c laporte et al
+parental cells (not shown). this similar effect of dissimilar
+molecules all endowed with uncoupling activity indicated that
+in starved cells mitochondrial uncoupling may be sufﬁcient for
+subsequent events including plasma membrane rupture. we
+then wished to investigate how this uncoupling can lead to
+plasma membrane rupture.
+from mitochondrial uncoupling to membrane rupture,
+as probed with exogenous glucose. in mammalian cells,
+atp depletion linked to uncoupling is often believed to be the
+cause of necrotic cell death, on the basis of results showing
+that provision of glucose led to both replenishment of atp
+and prevention of necrotic cell death in mammalian
+cells.6,7,16–18 to try to link mitochondrial uncoupling and
+membrane rupture in dictyostelium necrotic cell death, we
+investigated whether exogenous glucose would both prevent
+or delay cell death and replenish atp, in this system in which
+the cells were deprived of glucose because of experimental
+starvation and atg1 mutation.
+the addition of 5 mm glucose indeed delayed dif-induced
+cell death as assessed by membrane rupture (figure 5a) by
+more than 6 h, thus increasing more than fourfold the time
+required to reach a given level of cell death. the addition of
+glucose to atg1-1 cells (but not to parental cells, not shown)
+led to markedly less membrane rupture at 2.5 h after dif in
+each of more than 30 experiments. the addition of glucose did
+not, however, prevent or grossly delay dc-fda ﬂuorescence
+(figure 5b), showing that exogenous glucose affected a
+cell death stage downstream of mitochondrial events. dif-
+induced glucose-delayed cell death was morphologically
+similar to that occurring earlier in the absence of glucose
+(not shown). glucose delayed plasma membrane rupture
+induced not only by dif but also by classical uncouplers
+(figure 5c). the delay in membrane rupture observed
+90
+80
+70
+60
+50
+40
+30
+20
+10
+80
+70
+60
+50
+40
+30
+20
+10
+glucose
+dif
+dif
+hours post-dif
+70
+60
+50
+40
+30
+20
+10
+none
+dif
+dnp
+uncoupling agent
+cccp
+75
+50
+25
+concentrations mm
+additions to dif
+figure 5 glucose but not some other sugars delays cell membrane rupture. (a) glucose slowed down dif-induced cell membrane rupture. starved hmx44a.atg1-1 cells
+were incubated with dif in the absence (m) or in the presence of 5 mm glucose (e), and the percentage of cells with membrane rupture was followed with time. controls
+without dif with (’) or without glucose (.) showed almost no death. (b) glucose did not grossly delay dif-induced dc-fda ﬂuorescence or perinuclear clustering. starved
+cells were incubated for 30 min in the presence of glucose 5 mm. then, without discarding glucose, dc-fda was added together with, or without dif, and cells were checked
+by microscopy after another 30 min. all ﬂuorescent pictures were taken with a set exposure time of 2 s. in each labelled cell, organelles form a ﬂuorescent cluster around a
+much smaller nucleus. (c) also uncoupler-induced cell membrane rupture is delayed by glucose or 2-dog but not by sorbitol. starved cells were preincubated for 30 min with
+no sugar, or 5 mm of glucose, 2-dog or sorbitol (from left to right in each group of four columns, respectively), then in some chambers 100 nm of dif, or 30 mm of dnp, or
+30 nm of cccp, or no uncoupler, was added as indicated. cell membrane rupture was checked 2.5 h after this addition. (d) glucose delays cell membrane rupture more than
+fructose or sorbitol. starved cells were incubated for 30 min in the absence or in the presence of 1–6 mm of glucose (’), fructose (m) or sorbitol (.), then without removing
+the sugars dif was added. percentage cell membrane rupture was measured by ﬂow cytometry after 2.5 h of incubation. (e) glucose delays cell membrane rupture more than
+each of a range of sugars and than sorbitol. starved cells were incubated for 30 min in the absence or in the presence of 5 mm of the indicated sugar, and treated as in (d)
+cell death and differentiation
+with exogenous glucose was not, or far less, observed
+with 5 mm sorbitol or fructose (figure 5d), thus excluding a
+simple osmotic effect. also, trehalose and to a lesser extent
+sucrose, known to confer more efﬁciently than glucose cell
+resistance to an abiotic stress possibly through peculiar
+solution properties (for a review see crowe et al.19), were far
+less efﬁcient than glucose at delaying membrane rupture
+(figure 5e), making this explanation unlikely in the present
+situation.
+although glucose delayed dif-induced plasma membrane
+rupture, in marked contrast addition of galactose or mannose
+led to no more membrane rupture delay than the sorbitol
+control (figure 5e). this showed that speciﬁc recognition of
+glucose was required for its membrane effect. 6-deoxyglu-
+cose led to little membrane rupture delay (figure 6a), showing
+for the delaying effect of glucose.
+that c6 is signiﬁcant
+that can be c6-
+importantly, 2-deoxyglucose (2-dog),
+phosphorylated but cannot undergo glycolysis past
+this
+phosphorylation, led to a delay in dif (and also dnp and
+cccp)-induced membrane rupture (figures 5c and 6a, c),
+however sometimes less marked than with glucose. this
+result showed that at least part of the membrane-rupture-
+delaying effect of glucose can occur without glycolysis.
+consistent with the 2-dog results, addition of glucose 5 mm
+did not obviously replenish atp (figure 6b) tested 5–120 min
+after addition of dif (not shown). in contrast, addition as a
+control of cell-permeant methylpyruvate replenished atp or
+prevented its depletion (figure 6b) and also prevented dif-
+induced dc-fda ﬂuorescence, perinuclear clustering (not
+shown) and membrane rupture (figure 6c). altogether, in
+dictyostelium necrotic cell death exogenous glucose delayed
+membrane rupture otherwise than through glycolysis and atp
+replenishment, strongly indicating a nonglycolytic effect of
+glucose in this case.
+necrotic cell death model in a protist
+c laporte et al
+discussion
+271
+necrotic cell death: from mitochondrial uncoupling to
+cell membrane rupture. following addition of dif to
+starved atg1-1dictyostelium cells, early events occurring
+within 1–3 min include dc-fda mostly mitochondrial
+ﬂuorescence, atp depletion and oxygen consumption
+increase, all of
+these pointing toward mitochondrial
+uncoupling. this is consistent with the fact that dif can be
+replaced by the classical uncouplers dnp or cccp. these
+results are complementary to those of shaulsky and
+loomis,20 who showed that dif was able to reduce the
+membrane potential of isolated submitochondrial particles.
+both sets of results lead to the conclusion that there is an
+uncoupling effect of dif. the results of shaulsky and
+loomis20 indicated that the uncoupling effect of dif may
+occur through its direct interaction with mitochondria. thus,
+remarkably the dif differentiation factor may act at least in
+part through rapid uncoupling of oxidative phosphorylation.
+in dictyostelium development, dif has also been shown
+to activate transcription factors. when added after a 4 h
+starvation period, dif led within 2–3 min to the tyrosine
+the statc transcription factor,21 thus
+phosphorylation of
+detectably preventing the exit of statc from the nucleus,22
+and induced changes in subcellular
+the
+transcription factor dimb.23,24 the relationship between
+dif-induced rapid phosphorylation events and dif-induced
+rapid uncoupling of oxidative phosphorylation is not known.
+localization of
+the fact that distinct moieties such as dnp and cccp
+(classical uncouplers) and dif induced both mitochondrial
+uncoupling and plasma membrane rupture strongly indicated
+that in this system mitochondrial uncoupling is sufﬁcient for
+membrane rupture. whether there is a causal relationship
+between atp depletion and membrane rupture could not be
+30
+20
+10
+1 2 3 4
+concentrations mm
+300
+200
+100
+gluc. 2-dog methylpyr.
+60
+50
+40
+30
+20
+10
+gluc. 2-dog methylpyr.
+dif
+starvation
+1-3 min
+mitochondrial
+uncoupling 
+dc-fda fluor.
+atp depletion
+oxygen cons.
+20 min
+perinuclear
+clustering
+30-300 min
+plasma
+membrane
+rupture
+exogenous
+glucose
+figure 6 further characteristics of glucose-mediated delay of membrane rupture. (a) effect of glucose (’), sorbitol (.), 2-dog (open square) or 6-deoxyglucose (ﬁlled
+circle) on cell membrane rupture. cells were treated as in figure 5d. (b) glucose or 2-dog do not replenish atp, whereas methylpyruvate prevents atp depletion. starved
+cells were preincubated for 30 min with no sugar, or 5 mm of glucose, 2-dog or methylpyruvate as indicated, then in some chambers dif was added (right column of each
+group of two). the amount of atp per cell was measured 30 min after the addition of dif. (c) glucose but also 2-dog and methylpyruvate delay cell membrane rupture.
+starved cells were incubated for 30 min in the absence or in the presence of 5 mm glucose, 2-dog or methylpyruvate as indicated, then dif was added in some chambers
+(right column in each group of two). percentage cell membrane rupture was measured by ﬂow cytometry after 2.5 h of incubation. (d) schematic representation of the
+dictyostelium necrotic cell death model. starved atg1-1 cells to which the differentiation factor dif is added undergo mitochondrial uncoupling. this is sufﬁcient for subsequent
+plasma membrane rupture as shown by the effect of classical uncouplers. the addition of exogenous glucose delays plasma membrane rupture in a nonglycolytic manner
+cell death and differentiation
+272
+necrotic cell death model in a protist
+c laporte et al
+investigated in this system using glucose, because glucose
+affected membrane rupture otherwise than by replenishing
+atp. thus, mitochondrial uncoupling seems sufﬁcient
+to
+ensure plasma membrane rupture, but it is not known whether
+this is through atp depletion (although atp depletion is a
+convenient explanation for alterations of the cytoskeleton
+leading to perinuclear clustering of mitochondria, and of
+membrane atp-dependent molecular pumps contributing to
+membrane rupture).
+plasma membrane rupture delayed by glucose. in
+mammalian necrotic cell death, glucose-induced rescue
+was explained through concomitant atp replenishment.6,7
+in dictyostelium necrotic cell death, addition of glucose or
+of 2-dog led to membrane rupture delay with no atp
+replenishment (this report). at least in dictyostelium, factors
+other
+than atp depletion govern membrane rupture in
+necrotic cell death, and can be controlled by exogenous
+glucose. in mammalian necrotic cell death, these factors may
+occur, but may have been ignored owing to the readily
+available explanation of atp replenishment
+through
+glycolysis.
+exogenous glucose may act extracellularly to stabilize the
+membrane, either by a direct effect or through transmem-
+brane signaling by unspeciﬁed glucose receptors. exogenous
+glucose may also, or instead, act intracellularly, which we tend
+to favor based on the requirement for c6 phosphorylation
+and on the commonly accepted intracellular location of
+hexokinases/glucokinases. once in cells, to delay membrane
+rupture glucose must be both speciﬁcally recognized and c6-
+phosphorylated, presumably by a glucokinase. dictyostelium
+possesses no hexokinases but structurally unrelated gluco-
+kinases (eichinger et al.25; see also http://dictybase.org/),
+which, of note, showed activity in cells undergoing develop-
+ment.26 glucose delayed plasma membrane rupture but not
+dc-fda ﬂuorescence, perinuclear clustering of mitochondria
+or atp depletion. thus, the delaying effect of glucose was
+downstream or independent of early mitochondrial events.
+the efﬁcacy of 2-dog and the absence of atp replenish-
+ment strongly indicate that the effect of glucose on membrane
+rupture was not through glycolysis. in animal cells, glucose
+can modulate hexokinases in an energy-independent manner
+leading to voltage-dependent anion channel control of
+thereby affecting apoptotic cell death.27–30
+mitochondria,
+also,
+in some animal cells glucose inhibited cell death
+apparently through the pentose phosphate pathway.31 as an
+example, some mammalian cells could be protected from
+h2o2-induced necrotic cell death by 2-dog ﬂowing into the
+pentose phosphate pathway and producing nadph; exogen-
+ous glucose led only or mostly to glycolysis, and the pentose
+phosphate pathway was favored only when 2-dog was
+added instead of glucose.32 in starved dictyostelium cells, for
+unknown reasons exogenous glucose cannot undergo glyco-
+lysis. in both cases, (le goffe et al.32, this report), atp was
+not produced.
+altogether, we conclude that mitochondrial uncoupling
+leads to plasma membrane rupture in this necrotic cell death,
+whereas exogenous glucose delays it nonglycolytically
+(figure 6d).
+dictyostelium necrotic cell death and the phylogenesis
+of cell death. dictyostelium, a protist, belongs to the unikont
+group of eukaryotes together with fungi and animals.33
+the present results show that a similar necrotic cell death
+pathway can operate in both animal cells and dictyostelium.
+necrosis would thus seem more widespread and more
+ancient than apoptosis dependent on bona ﬁde caspases,
+which is restricted to the animal kingdom. necrosis must
+have existed in an ancestor common to dictyostelium and
+animals, and may thus qualify as a primordial cell death
+mechanism within unikont eukaryotes. it will be of interest to
+check whether a similar necrotic cell death mechanism exists
+among eukaryotes in other unikonts such as fungi, and in
+bikonts such as plants.
+the existence of several distinct
+types of cell death
+coexisting in the same cell (for a review see golstein and
+kroemer34) raises the question of which selective advantage
+led to their emergence in evolution. this bears on phylo-
+genetic evolution of a function, as opposed to that of a
+molecule or of a species. in phylogeny, a primordial (necrotic)
+cell death mechanism may have been conserved through at
+least some eukaryotic kingdoms. this conservation of
+necrotic cell death may have been accompanied by serial
+addition of molecules allowing other types of cell death, for
+instance, caspases at the emergence of the animal kingdom
+to allow apoptosis, perhaps initially to facilitate cell corpse
+dismantling.34
+more speciﬁcally, in a remote ancestor of dictyostelium, a
+primordial necrotic mechanism of cell death may have
+operated upon starvation, possibly on some isolated cells to
+ensure survival of others. addition upon evolution of atg1 and
+autophagy would have allowed initial developmental aggrega-
+tion (which atg1-1 mutant cells cannot undergo35). it would
+have led also to a much slower course of cell death in
+dictyostelium (compare the kinetics of death for atg1-1cells in
+this report and for wild-type cells11). a slower course of cell
+death during dictyostelium development would have provided
+enough time in this development for morphogenetic signalling
+of prestalk to prespore cells, cellulose synthesis and formation
+of a stalk. this may be an example of evolutionary modulation
+of cell death (interestingly, modulation of mechanism rather
+than of occurrence) inducing/allowing a shift in developmental
+pattern.
+a model
+for the study of necrotic cell death. dict-
+yostelium stalk cell death, at
+least as mimicked in
+monolayer cultures,
+is triggered by dif and starvation,
+which are physiological stimuli of dictyostelium development.
+this cell death is autophagic vacuolar for parental cells and
+necrotic for atg1-1cells. thus, dictyostelium cell death (kosta
+et al.14; this report) is necrotic when autophagy is prevented,
+reminiscent of mouse embryonic interdigital cell death being
+necrotic when apoptosis is prevented,36 providing examples of
+necrotic cell death resulting from developmental signals at
+least when other cell death mechanisms are inhibited.
+necrotic death of atg1-1 dictyostelium cells is one of the
+very few instances where a developmental trigger leads in
+a cell line to death in the absence of genes encoding bcl-2
+family members, or caspase or metacaspase genes (its only
+paracaspase gene is not involved in cell death37 and lam
+cell death and differentiation
+necrotic cell death model in a protist
+c laporte et al
+273
+line can undergo neither
+et al., in preparation). this cell
+autophagy nor apoptosis, thus ensuring minimal interference
+from other types of cell death with its necrotic cell death.
+dictyostelium bears a haploid and now sequenced genome,
+which contributes to its experimental and genetic tractability.
+together with a few other thoroughly studied models (for
+instance, mammalian cells4,38 and caenorhabditis elegans5),
+this model
+is thus attractive for further investigation on
+molecular mechanisms of necrotic cell death.
+materials and methods
+cells, cell culture and light microscopy. d. discoideum axenic strains
+hmx44a (for derivation, see levraud et al.12) and hmx44a. atg1-1 (an hmx44a
+derivative mutated for the autophagy gene atg114) were routinely grown at 221c in
+hl5 medium39 as modiﬁed,11 except for maltose which was 9 g/l. blasticidin (10 mg/
+ml) was added to the hmx44a.atg1-1 cultures.
+for experiments, unless stated otherwise, vegetative cells in growth phase were
+washed once and resuspended in 10 mm mes (mes hydrate, sigma m2933)
+prepared in demineralized water. the ph of this mes buffer was found to matter.
+the pho6 increased, and ph46.6 decreased cell membrane rupture, perinuclear
+clustering and dc-fda ﬂuorescence (not shown). the ph was therefore adjusted at
+6.4 with naoh in all experiments, and every molecular species tested in this report
+was checked not to alter this ph by more than 0.2 ph units. the cells were adjusted
+at a concentration of 3 105 cells/ml. one milliliter of this cell suspension was
+distributed in each well of lab-tek culture chambers (ref. 155380, nalge nunc,
+naperville, il, usa; these have a thin glass coverslip bottom allowing high-power
+inverted ﬂuorescence microscopy) with the addition of camp to a ﬁnal concentration
+of 3 mm. incubation proceeded for 16 h at 221c in mes buffer and camp. the
+previously used 8 h incubation period11,40 was found limiting for atg1-1cells. a
+starvation period of sufﬁcient duration was essential for efﬁcient induction by dif of
+necrotic cell death. cells were then washed once by careful removal and addition of
+mes and incubated at 221c in either mes, or mes in the presence of
+the
+differentiation factor dif-1 (dn1000, afﬁniti research products, exeter, uk) at a
+ 7 m, unless stated otherwise (varying the concentrations
+ﬁnal concentration of 10
+of dif did not modify the type of death but changed it quantitatively: when tested at
+7 h post-dif, percentage cell membrane rupture and perinuclear clustering induced
+ 8 m, and was almost not
+by 10
+ 8 m). after incubation for the indicated period of time, cells in the
+detectable at 10
+lab-tek chambers were examined using an inverted zeiss axiovert 200 microscope
+usually with a  100 oil-immersion objective. pictures were taken using an axiocam
+mrc digital camera connected to a pc equipped with axiovision (zeiss). in some
+cases, pictures were taken using a confocal microscope (zeiss axiovert 200,
+lsm510) with a  63 oil
+immersion objective, with the scanning module at
+1024 1024 pixel resolution, 8 bits, using a scan average of 4, and argon/2 and
+hene1 lasers with bp 505–530 and lp 560 ﬁlters. images were analyzed with lsm
+software using false colors. images and time-lapse videos were transferred to a
+macintosh computer and treated with graphic converter. figure assemblies were
+carried out using freehand and illustrator.
+ 7 m dif dropped by about 50% at 3 10
+measurement of cell membrane rupture. flow cytometry enables to
+quantify the proportion of cells with a disrupted membrane. cells in lab-tek
+chambers were resuspended and transferred to tubes and data acquisition was
+performed on a facscan cytometer with cellquest software (becton dickinson)
+for fsc and ssc parameters, which allowed to distinguish cells with a disrupted
+membrane from those with an intact one. to exclude debris, an fsc threshold was
+applied based on the light properties of the cells populations in fsc and ssc
+modes. five thousand or 10 000 events were collected per sample. data analysis
+was performed with cellquest software. in some experiments, cells were labelled
+with pi (1 mg/ml, sigma) for 10 min before facs cytometry.
+measurement of ﬂuorescence possibly revealing production of
+reactive oxygen species. possible production of reactive oxygen species
+was assessed by microscopy and ﬂow cytometry analysis. for each point of
+analysis, cells were incubated for 15 min at room temperature, protected from light,
+with either 20,70-dc-fda (10 mm, sigma-aldrich) or dihydrorhodamine 123 (1 mm,
+sigma-aldrich). for microscopy, cells in lab-tek culture chambers were examined
+directly after incubation by microscopy using filter set 09 (zeiss) for 20,70-dc-fda
+and filter set 15 (zeiss) for dihydrorhodamine 123. for ﬂow cytometry, data
+acquisition was performed directly after incubation, on a facscan cytometer with
+cellquest software (becton dickinson) using fl1 ﬁlter. for acquisitions as a
+function of time, we used a time resolution of 1 s. data were analyzed using flowjo
+software (tree star
+localization of dc-fda
+ﬂuorescence, cells were incubated with dif, dc-fda 10 mm and mitotracker
+orange (molecular probes) 500 nm in lab-tek chambers for 20 min and observed
+under the confocal microscope. pictures were taken between 20 and 40 min after
+dif addition.
+inc.). to assess mitochondrial
+measurement of atp levels. atp measurements were performed on 1 ml
+of cell suspension (5 105 cells/ml). cells were lysed by three sonications of 5 s
+(3w, ultrasonic processor, bioblock scientiﬁc) on ice, immediatly followed by the
+addition of perchloric acid 70% (125 ml for 1 ml of cell suspension), mixing and
+centrifugation at 41c for 5 min at 14 000 r.p.m. the supernatant was then collected
+in a new tube and ph was adjusted to 7.0 with potassium hydroxide 8 n. after 30 min
+on ice and 10 min centrifugation at 41c at 14 000 r.p.m., the supernatant was
+collected in a new tube. the supernatant could be stored at  201c for later
+measurement. atp levels present in the cellular extract was measured with atp
+assay mix (flaam, sigma) by luminometry. results were expressed as amount of
+atp per cell.
+measurement of oxygen consumption. cells were starved overnight in
+10 mm mes-na buffer, ph 6.4. in the presence of camp. aliquots (1 107 cells)
+were then collected by centrifugation, resuspended in 2 ml of mes-na buffer and
+transferred to a thermostated oxygraphic cell ﬁtted with a clark oxygen electrode.
+oxygen consumption was recorded as a function of time.
+incubation with sugars. given sugars were added to starved cells in lab-
+tek chambers, at the indicated ﬁnal concentrations, 30 min before the addition of
+dif or of dnp or cccp. sugars were: d-(þ )-glucose (merck 1.083770250 or
+sigma g 7528; these batches gave the same results), d-( )-fructose (sigma f
+3510), d-(þ )-galactose (sigma g 0750), d-(þ )-mannose (fluka 63579), d-sorbitol
+(sigma s 3889), sucrose (sigma s 0389), trehalose (sigma t 0299), 2-deoxy-d-
+glucose (sigma d 6134) and 6-deoxy-d-glucose (sigma d 9761). after the indicated
+duration of incubation, cells were checked by microscopy and/or by ﬂow cytometry.
+acknowledgements. we thank inserm and cnrs for institutional support,
+and for speciﬁc grants agence nationale pour la recherche (dictydeath anr-05-
+blan-0333-01), the european community (fp6 strep transdeath lshg-ct-
+2004-511983), the ministe`re pour la recherche (aci bcms174), cance´ropoˆle
+paca and association pour la recherche contre le cancer. we thank jonathan
+ewbank, didier marguet, pierre-henri puech and ge´rard brandolin for helpful
+discussions and reading the manuscript.
+1. kerr jfr, wyllie ah, currie ar. apoptosis: a basic biological phenomenon with wide-
+ranging implications in tissue kinetics. br j cancer 1972; 26: 239–257.
+2. clarke pgh, clarke s. historic apoptosis. nature 1995; 378: 230.
+3. golstein p, aubry l, levraud jp. cell-death alternative model organisms: why and which?
+nat rev mol cell biol 2003; 4: 798–807.
+4. lemasters jj. dying a thousand deaths: redundant pathways from different organelles to
+apoptosis and necrosis. gastroenterology 2005; 129: 351–360.
+5. syntichaki p, tavernarakis n. the biochemistry of neuronal necrosis: rogue biology? nat
+rev neurosci 2003; 4: 672–684.
+6. leist m, single b, castoldi af, kuhnle s, nicotera p. intracellular adenosine triphosphate
+(atp) concentration: a switch in the decision between apoptosis and necrosis. j exp med
+1997; 185: 1481–1486.
+7. eguchi y, shimizu s, tsujimoto y. intracellular atp levels determine cell death fate by
+apoptosis or necrosis. cancer res 1997; 57: 1835–1840.
+8. baldauf sl, roger aj, wenk-siefert
+i, doolittle wf. a kingdom-level phylogeny of
+eukaryotes based on combined protein data. science 2000; 290: 972–977.
+9. whittingham wf, raper kb. non-viability of stalk cells in dictyostelium. proc natl acad sci
+usa 1960; 46: 642–649.
+10. kay rr. cell differentiation in monolayers and the investigation of slime mold morphogens.
+methods cell biol 1987; 28: 433–448.
+11. cornillon s, foa c, davoust j, buonavista n, gross jd, golstein p. programmed cell death
+in dictyostelium. j cell sci 1994; 107: 2691–2704.
+12. levraud jp, adam m, luciani mf, de chastellier c, blanton rl, golstein p. dictyostelium
+cell death: early emergence and demise of highly polarized paddle cells. j cell biol 2003;
+160: 1105–1114.
+cell death and differentiation
+274
+necrotic cell death model in a protist
+c laporte et al
+13. otto gp, wu my, kazgan n, anderson or, kessin rh. macroautophagy is required for
+multicellular development of the social amoeba dictyostelium discoideum. j biol chem
+2003; 278: 17636–17645.
+14. kosta a, roisin-bouffay c, luciani mf, otto gp, kessin rh, golstein p. autophagy gene
+disruption reveals a non-vacuolar cell death pathway in dictyostelium. j biol chem 2004;
+279: 48404–48409.
+15. halliwell b, whiteman m. measuring reactive species and oxidative damage in vivo and in
+cell culture: how should you do it and what do the results mean? br j pharmacol 2004; 142:
+231–255.
+16. lieberthal w, menza sa, levine js. graded atp depletion can cause necrosis
+or apoptosis of cultured mouse proximal tubular cells. am j physiol 1998; 274 (part 2):
+f315–f327.
+17. leist m, single b, naumann h, fava e, simon b, kuhnle s et al. inhibition of mitochondrial
+atp generation by nitric oxide switches apoptosis to necrosis. exp cell res 1999; 249:
+396–403.
+18. volbracht c, leist m, nicotera p. atp controls neuronal apoptosis triggered by microtubule
+breakdown or potassium deprivation. mol med 1999; 5: 477–489.
+19. crowe jh, crowe lm, oliver ae, tsvetkova n, wolkers w, tablin f. the trehalose myth
+revisited: introduction to a symposium on stabilization of cells in the dry state. cryobiology
+2001; 43: 89–105.
+26. killick ka, wright be. multiple forms of glucokinase from dictyostelium discoideum.
+j bacteriol 1978; 133: 1039–1041.
+27. gottlob k, majewski n, kennedy s, kandel e, robey rb, hay n. inhibition of early
+apoptotic events by akt/pkb is dependent on the ﬁrst committed step of glycolysis and
+mitochondrial hexokinase. genes dev 2001; 15: 1406–1418.
+28. pastorino jg, shulga n, hoek jb. mitochondrial binding of hexokinase ii inhibits bax-
+induced cytochrome c release and apoptosis. j biol chem 2002; 277: 7610–7618.
+29. danial nn, gramm cf, scorrano l, zhang cy, krauss s, ranger am et al. bad and
+glucokinase reside in a mitochondrial complex that integrates glycolysis and apoptosis.
+nature 2003; 424: 952–956.
+30. zaid h, abu-hamad s, israelson a, nathan i, shoshan-barmatz v. the voltage-dependent
+anion channel-1 modulates apoptotic cell death. cell death differ 2005; 12: 751–760.
+31. nutt lk, margolis ss, jensen m, herman ce, dunphy wg, rathmell jc et al. metabolic
+regulation of oocyte cell death through the camkii-mediated phosphorylation of caspase-
+2. cell 2005; 123: 89–103.
+32. le goffe c, vallette g, charrier l, candelon t, bou-hanna c, bouhours jf et al. metabolic
+control of resistance of human epithelial cells to h2o2 and no stresses. biochem j 2002;
+364 (part 2): 349–359.
+33. richards ta, cavalier-smith t. myosin domain evolution and the primary divergence of
+eukaryotes. nature 2005; 436: 1113–1118.
+20. shaulsky g, loomis wf. mitochondrial dna replication but no nuclear dna replication
+34. golstein p, kroemer g. redundant cell death mechanisms as relics and backups. cell
+during development of dictyostelium. proc natl acad sci usa 1995; 92: 5660–5663.
+death differ 2005; 12 (suppl 2): 1490–1496.
+21. fukuzawa m, araki t, adrian i, williams jg. tyrosine phosphorylation-independent
+nuclear translocation of a dictyostelium stat in response to dif signaling. mol cell 2001;
+7: 779–788.
+22. fukuzawa m, abe t, williams jg. the dictyostelium prestalk cell inducer dif regulates
+nuclear accumulation of a stat protein by controlling its rate of export from the nucleus.
+development 2003; 130: 797–804.
+23. zhukovskaya nv, fukuzawa m, yamada y, araki t, williams jg. the dictyostelium bzip
+transcription factor dimb regulates prestalk-speciﬁc gene expression. development 2006;
+133: 439–448.
+24. huang e, blagg sl, keller t, katoh m, shaulsky g, thompson cr. bzip transcription
+factor interactions regulate dif responses in dictyostelium. development 2006; 133:
+449–458.
+25. eichinger l, pachebat ja, glockner g, rajandream ma, sucgang r, berriman m et al.
+the social amoeba dictyostelium discoideum. nature 2005; 435:
+the genome of
+43–57.
+35. otto gp, wu my, kazgan n, anderson or, kessin rh. dictyostelium macroautophagy
+mutants vary in the severity of their developmental defects. j biol chem 2004; 279: 15621–
+15629.
+36. chautan c, chazal g, cecconi f, gruss p, golstein p. interdigital cell death can occur
+through a necrotic and caspase-independent pathway. curr biol 1999; 9: 967–970.
+37. roisin-bouffay c, luciani mf, klein g, levraud jp, adam m, golstein p. developmental
+cell death in dictyostelium does not require paracaspase. j biol chem 2004; 279:
+11489–11494.
+38. leist m, jaattela m. four deaths and a funeral: from caspases to alternative mechanisms.
+nat rev mol cell biol 2001; 2: 589–598.
+39. sussman m. cultivation and synchronous morphogenesis of dictyostelium under
+in: spudich ja (ed). methods in cell biology.
+controlled experimental conditions.
+harcourt brace jovanovich: new york, 1987, pp. 9–29.
+40. kay rr. cell differentiation in monolayers and the investigation of slime mold morphogens.
+in: spudich ja (ed). methods in cell biology. ac. press: orlando, fl, 1987, pp. 433–448.
+supplementary information accompanies the paper on cell death and differentiation website (http://www.nature.com/cdd)
+cell death and differentiation

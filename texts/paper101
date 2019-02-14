@@ -1,0 +1,919 @@
+l e t t e r s
+the energy sensing lkb1–ampk pathway regulates 
+p27kip1 phosphorylation mediating the decision to enter 
+autophagy or apoptosis
+jiyong liang1, shan h. shao2,6, zhi-xiang xu1, bryan hennessy1, zhiyong ding1, michelle larrea5, seiji kondo3, 
+dan j. dumont2, jordan u. gutterman1, cheryl l. walker4, joyce m. slingerland5 and gordon b. mills1,7
+nutrients and bioenergetics are prerequisites for proliferation 
+and survival of mammalian cells1,2. we present evidence 
+that the cyclin-dependent kinase inhibitor p27kip1, is 
+phosphorylated at thr 198 downstream of the peutz-jeghers 
+syndrome protein–amp-activated protein kinase (lkb1–ampk) 
+energy-sensing pathway, thereby increasing p27 stability 
+and directly linking sensing of nutrient concentration and 
+bioenergetics to cell-cycle progression. ectopic expression of 
+wild-type and phosphomimetic thr 198 to asp 198 (t198d), 
+but not unstable thr 198 to ala 198 (p27t198a) is sufficient 
+to induce autophagy. under stress conditions that activate the 
+lkb1–ampk pathway with subsequent induction of autophagy, 
+p27 knockdown results in apoptosis. thus lkb1–ampk 
+pathway-dependent phosphorylation of p27 at thr 198 
+stabilizes p27 and permits cells to survive growth factor 
+withdrawal and metabolic stress through autophagy. this may 
+contribute to tumour-cell survival under conditions of growth 
+factor deprivation, disrupted nutrient and energy metabolism, 
+or during stress of chemotherapy.
+growth  factor  signalling  through  the  phosphatidylinositol  3  kinase 
+(pi(3)k) pathway increases uptake of glucose and amino acids, thus 
+preparing cells for the metabolic needs of cell growth and prolifera-
+tion3,4. metabolic stress results in a decline in atp:adp ratios with a 
+subsequent accumulation of amp. ampk, which is activated by amp 
+and the peutz-jeghers syndrome gene product lkb1, functions as an 
+intracellular energy sensor regulating metabolism and cell proliferation 
+through phosphorylation of acetyl coa carboxylase (acc) and tumour 
+suppressors, including tuberin (tsc2) and p53 (refs 5–7).
+under  conditions  of  reduced  nutrient  availability,  autophagy  (an 
+evolutionarily conserved process wherein catabolism of intracellular 
+organelles generates energy) allows cell survival. however, prolonged 
+autophagy can lead to non-apoptotic type ii programmed cell death8–10. 
+dysregulation of autophagy contributes to a number of pathological 
+conditions including tumorigenesis8.
+p27 inhibits the kinase activity of cyclin–cdk holoenzymes, particu-
+larly cyclin e–cdk2, resulting in cell-cycle arrest11. however, p27 also reg-
+ulates motility and cell survival, suggesting that its role extends beyond 
+cell-cycle regulation12. p27 abundance is governed by transcription, 
+translation, phosphorylation and ubiquitin-mediated proteolysis13–15. 
+phosphorylation also regulates p27 subcellular localization13,14,16–18, with 
+cytosolic sequestration of p27 limiting its nuclear functions.
+to identify p27 phosphorylation sites, p27 mutant alleles were trans-
+fected into mcf-7 cells and two-dimensional phosphopeptide map-
+ping performed. seven phosphopeptides were detected in wild-type 
+yfp–p27 (fig. 1a), flag-tagged and endogenous p27 (data not shown). 
+spots a and b were absent in yfp–p27t198a (fig. 1a) but present when 
+ser 7, ser 10, ser 12 and thr 157 were converted to alanine. yfp–p27 
+and yfp–p27t198a mixtures showed seven spots identical to yfp–p27 
+(fig. 1a). the presence of two distinct spots containing phosphothreo-
+nine exclusively (fig. 1b) suggests alternative trypsin digestion of the 
+amino-acid sequence 190-kpglrrrqt-198. antibodies raised against 
+phospho-thr 198 demonstrated strong reactivity towards yfp–p27 with 
+minimal reactivity with yfp–p27t198a, confirming antibody specificity 
+and thr 198 phosphorylation in asynchronous mcf-7 cells (fig. 1c).
+to characterize the role of thr 198 phosphorylation in p27 function, 
+mcf-7 cells were transfected with wild-type p27, p27t198a or p27t198d. 
+the frequency of fluorescent cells was strikingly lower (4–5-fold) with 
+yfp–p27t198a compared with yfp–p27 (fig. 1d). the proteasome inhibi-
+tor mg132 equalized the frequency of yfp–p27 and yfp–p27t198a positive 
+cells (fig. 1d and see supplementary information, fig. s1a). in addi-
+tion, after cotransfection with rfp, 60% of rfp-positive cells expressed 
+1department of molecular therapeutics, university of texas md anderson cancer center, 1515 holcombe boulevard, houston, tx 77030, usa. 2department of 
+medical biophysics, university of toronto, 2075 bayvie avenue, toronto, m4n 3m5, canada. 3department of neurosurgery, university of texas md anderson cancer 
+center, 1515 holcombe boulevard, houston, tx 77030, usa. 4department of carcinogenesis, university of texas md anderson cancer center, 1808 park road 1c, 
+smithville, tx 78957, usa.  5braman family breast cancer institute, sylvester comprehensive cancer center, university of miami miller school of medicine, 1580 
+n. w. 10th avenue, miami, fl 33136, usa.  6current address: department of experimental radiation oncology, university of texas md anderson cancer center, 
+1808 park road 1c, smithville, tx 78957, usa. 7correspondence should be addressed to g.b.m. (e-mail: gmills@mdanderson.org)
+received 1 november 2006; accepted 6 december 2006; published online 21 january 2007; doi: 10.1038/ncb1537
+218 
+nature cell biology  volume 9 | number 2 | february 2007
+wt
+p27t198a
+wt+
+p27t198a
+tle
+tle
+mg132
+p-thr 198
+(yfp–p27)
+yfp–p27
+p-thr 198
+(endo–p27)
+endo–p27
+β-actin
+wt
+ph 1.9
+wt
+p27t198a
+tle
+l e t t e r s
+wt
+p27t198a
+wt
++ mg132
+p27t198a
++ mg132
+wt
+0   2  4  6 10 240   2  4  6 10 24 0  2  4  6 10 24
+p27t198a
+p27t198d
+chx (h)
+yfp–p27
+β-tubulin
+yfp–p27
+(longer exposure)
+endo–p27
+figure 1 phosphorylation of p27 at thr 198 in vivo and p27 stability. 
+(a, b) two-dimensional tryptic mapping of yfp–p27, yfp–p27t198a and a 
+mixture of both (a). phosphoamino-acid analysis of spots a and b (b). the 
+migration of phosphoserine (s), phosphothreonine (t) and phosphotyrosine 
+(y) is marked with circles in b. the asterisk indicates the origin of migration. 
+(c–e) mcf-7 transfected with yfp–p27 or yfp–p27t198a mutant (c, d) or 
+cotransfected with yfp–p27 and an empty rfp vector in a 5:1 (yfp–p27: 
+rfp) ratio (e) were treated with (+) or without (–) mg132 (10 μm) for 
+12 h before western blot analysis (c) and fluorescence microscopy (d, 
+e). (f) western blots of protein extracts from mcf-7 transfected with 
+yfp–p27, yfp–p27t198a or yfp–p27t198d mutants following incubation with 
+cycloheximide (chx) for the indicated times. uncropped images of the 
+blots are shown in the supplementary information, fig. s5. the scale bars 
+represent 100 µm in d and e.
+yfp–p27 or yfp–p27t198d, whereas yfp–p27t198a was detected in only 10% 
+of cells and at greatly reduced levels. mg132 increased the frequency of 
+rfp and yfp–p27t198a coexpression (95%), as well as fluorescent intensity, 
+of yfp–p27t198a (fig. 1e). yfp–p27t198a half-life, determined by cyclohex-
+imide  chase,  was  markedly  reduced  compared  with  yfp–p27,  yfp–
+p27t198d or endogenous p27 (fig. 1f and see supplementary information, 
+fig. s1b). decreased stability of p27t198a also occurred with rfp-tagged 
+p27 constructs (see supplementary information, fig. s1c) and in u2os 
+osteosarcoma cells (see supplementary information, fig. s1d).
+in  mcf-7  cells,  yfp–p27t198d  demonstrated  similar  stability  to 
+wild-type  p27,  possibly  because  of  constitutive  thr 198  phosphor-
+ylation.  however  in  hela  cells,  which  have  low  levels  of  p-thr 198 
+p27, yfp–p27t198d was expressed at higher levels than yfp–p27 (see 
+supplementary information, fig. s1e). thus thr 198 phosphorylation 
+promotes p27 stability.
+consistent with thr 198 phosphorylation mediating accumulation 
+of p27, yfp–p27t198a was less efficient at inhibiting colony formation 
+in mcf-7 than yfp–p27 (fig. 2a). yfp–p27t198d was modestly more 
+efficient than yfp–p27 (fig. 2a), consistent with high basal phospho-
+rylation and stability of yfp–p27 in mcf-7 cells (fig. 1c). wild-type 
+p27 and p27t198d also induced g1 arrest more efficiently than p27t198a 
+(fig. 2b).  these  data  suggest  that  p-thr 198-dependent  stabiliza-
+tion of p27 is required for optimal inhibition of colony formation and 
+cell-cycle progression.
+in a fraction of stable yfp–p27 expressing cells, yfp–p27 and p27t198d, 
+but not yfp–p27t198a, were localized to cytosolic granular compartments 
+surrounded by lysosomes (see supplementary information, fig. s2a). in 
+addition, yfp–p27 and yfp–p27t198d transfected cells exhibited stronger 
+monodansylcadaverine  (mdc)  staining  than  yfp–p27t198a  cells  (see 
+supplementary information, fig. s2b). mdc is a selective marker for acidic 
+cellular compartments, including lysosomes and autophagosomes, induced 
+during autophagy19. furthermore, serum starvation (12 h) induced typical 
+autophagocytic gfp–lc3 puncta in  u2os cells expressing gfp fused with 
+the microtubule-associated protein-1 light chain-3 (lc3), an autophago-
+cytic vesicle marker20 (see supplementary information, fig. s2c). however, 
+even in the presence of serum, expression of rfp–p27 or rfp–p27t198d 
+increased cytoplasmic gfp–lc3 puncta to approximately 55–78% com-
+pared with approximately 15% in rfp–p27t198a or control cells (fig. 2c). 
+thus, expression of stable p27 was sufficient to induce autophagy.
+both p27 thr 198 phosphorylation and p27 stability increased in 
+serum-starved cells concurrent with induction of autophagy, consist-
+ent with p27 functioning in serum deprivation induced autophagy (data 
+not shown). a p27 small interfering rna (sirna) pool induced nearly 
+complete knockdown of p27 protein without affecting cyclin d1, cdk4 
+or p21 levels (see supplementary information, fig. s2d). in the pres-
+ence of non-targeted sirna, serum-starved gfp–lc3 u2os cells con-
+tained autophagic vesicles (see supplementary information, fig. s2e). 
+in contrast, on p27 depletion, serum deprivation induced rapid cell 
+nature cell biology  volume 9 | number 2 | february 2007 
+219   
+g1
+g2–m
+gfp–lc3
+rfp
+merge
+l e t t e r s
+80
+60
+40
+20
+120
+100
+80
+60
+40
+20
+figure 2 p27 thr 198 phosphorylation regulates cell cycle and and 
+macroautophagy. (a) crystal violet staining of mcf-7 cell transfected with 
+yfp (c1), yfp–p27, yfp–p27t198a or yfp–p27t198d and selected with 
+g418 for three weeks. data are presented as mean ± s.d. (n = 3). (b) flow 
+cytometry analysis of mcf-7 cells transfected with yfp (c1) or yfp–p27, 
+yfp–p27t198a and yfp–p27t198d for 48 h. data are presented as mean ± s.d. 
+(n = 3). (c) gfp–lc3 u2os cells 48 h post-transfection with rfp, rfp–p27, 
+rfp–p27t198a or rfp–p27t198d. data represent results of three independent 
+experiments, from which a total of ~200 cells were counted (s.d., 10~15%). 
+the scale bars represent 50 µm in c.
+shrinkage and membrane blebbing followed by loss of cellular integ-
+rity, indicative of apoptosis (see supplementary information, fig. s2e). 
+in serum-starved mcf-7 cells, p27 sirna induced cleavage of poly-
+adp–ribose polymerase (parp) and caspase-7 activation (fig. 3a). cell 
+viability was also markedly reduced by p27 knockdown (fig. 3b).
+to verify that cell death induced by p27 sirna was due to p27 knock-
+down, the effects of sirna-resistant yfp–p27 (wt-r) and yfp–p27t198a 
+(t198a-r) were assessed. transient transfection of wt-r but not t198a-
+r before p27 sirna inhibited parp cleavage by approximately 40% rela-
+tive to controls (fig. 3c), in parallel with transfection efficiency.
+serum starvation, inhibition of pi(3)k by ly294002 or mammalian 
+target of rapamycin (mtor) by rapamycin all induce autophagy21. 
+under  each  condition,  p27  sirna  triggered  parp  and  caspase-7 
+cleavage (fig. 3d). furthermore, both a sirna pool-1 and a single 
+sirna-4 targeting distinct p27 sequences induced ly294002-treated 
+mcf-7 cells to undergo cell shrinkage, membrane blebbing and pro-
+duction of apoptotic bodies (fig. 3e). parp and caspase-7 cleavage 
+control
+wt
+p27t198a
+p27t198d
++ fbs – fbs
+sirna nt p27 nt p27
+parp
+parpfr
+casp7
+casp7fr
+p27
+p21
+β-actin
+mr(k)
+140
+96
+46
+21
+30
+21
+46
+1000
+800
+600
+400
+200
++ fbs
+– fbs
+nt p27 sirna
+fbs
+ly
+rap
+mp
+p27
+parp
+parpfr
+casp7
+casp7fr
+p21
+β-actin
+nt
+p27
+sirna
+mr(k)
+30
+96
+21
+21
+46
+60
+40
+20
+nt sirna
+p27
+p27
+sirna pool-1
+sirna-4
+sirna
+glucose
+mr(k)
+140
+parp
+parpfr
+casp7
+casp7fr
+pampk
+ampk
+p27
+β-actin
+96
+21
+66
+66
+30
+46
+figure 3 p27 sirna inhibits cell viability in response to autophagy 
+stimuli. (a, b) mcf-7 cells were cultured for 24 h following sirna with 
+or without fbs before western analysis (a) and cell-viability assays (b). 
+(c) mcf-7 cells were transfected with vector alone (c1), yfp–p27 (wt), 
+or the sirna-resistant constructs wt-r and t198a-r 24 h before rna 
+interference (rnai). parp cleavage was determined by western blotting 
+and densitometric scanning. data represent three independent experiments 
+(mean ± s.d.). (d) western blots of lysates of mcf-7 cells transfected with 
+sirna before serum-starvation or treatment with ly294002 (ly, 10 µm) 
+or rapamycin (rap, 100 nm) for 48 h with or without methylpyruvate 
+(mp, 10 mm). (e) mcf-7 cells treated with or without ly294002 for 48 h 
+following rnai. p27 sirna pool-1, sirna1, 2 and 3; arrows, membrane 
+blebbing; triangles, apoptotic bodies. the scale bar represents 50 µm. (f) 
+western blots of protein extracts from mcf-7 cultured with (+) or without 
+(–) glucose for 24 h following rnai. fr, fragment; percentage parp 
+cleavage = 100 × parpfr / (parp + parpfr).
+were not due to premature cell-cycle progression resulting from p27 
+depletion as rapamycin induced a g1 arrest despite p27 knockdown 
+(see  supplementary  information,  fig. s2f).  cell-cycle  blockade  in 
+g2–m (~80%) or at the g1–s boundary (97%) by nocodazole and 
+mimosine, respectively, did not rescue cells from apoptosis induced 
+by p27 knockdown in the presence of rapamycin. instead, mimosine 
+and nocodazole cooperated with rapamycin and p27 knockdown to 
+increase cell death (see supplementary information, fig. s2g). thus, 
+the effects of p27 depletion on apoptosis were not due to aberrant 
+cell-cycle progression.
+220 
+nature cell biology  volume 9 | number 2 | february 2007
+hela (lkb1 null)
+pcdna3
+1 24
+lkb1
+1 24
+lkb1
+aicar (2 mm)
+time (h)
+p-ampk
+lkb1
+p27
+β-actin
+– glucose (h)
+p-thr 198
+pan-p27
+pacc
+p21
+β-actin
+akt
+p-thr 198
+pan-p27
+p-ampk
+p-acc
+β-actin
+sirna
+glucose
+lkb1
+p-thr 198
+p27
+β-actin
+aicar (24 h)
+0 0.25 0.5 1
+(mm)
+p-thr 198
+pan-p27
+p-ampk
+p-acc
+β-actin
+glucose
+p-p27t198
+pan-p27
+p-acc
+p-ampk
+pakt
+pan-akt
+β-actin
++ – + – – –
++ glucose
+– glucose
+ctl
+pool a
+sirna lkb1 sirna
+mr(k)
+66
+46
+30
+30
+46
+figure 4 lkb1–ampk pathway regulates p27 protein abundance and 
+thr 198 phosphorylation. (a) western blots of lysates from the indicated 
+cell lines. (b) pearson correlation analysis of p27 and lkb1 protein levels 
+quantified by reverse phase protein array assays in 74 randomly selected 
+primary breast tumors (mdacc). (c) western blots of protein lysates from 
+hela cells transfected with either pcdna3 or wild-type lkb1 cultured 
+with or without glucose for 24 h. (d–f) western blots of protein extracts 
+from mefs treated with aicar (d and e), from 3t3l1 cells cultured with 
+or without glucose for 30 min (f). (g) western blot analysis of 3t3l1 cells 
+72 h post-transfection rnai with or without glucose starvation for 1 h before 
+analysis. densitometric quantification of western blots is shown. uncropped 
+images of the blots are shown in the supplementary information, fig. s5.
+cell-cycle arrest in g1 and/or s phase may contribute to autophagy 
+as mimosine, hydroxyurea and aphidocholine increased lc3 cleav-
+age, whereas nocodazole had only modest effects (see supplementary 
+information, fig. s2h). cells arrested in g2–m were resistant to rapamy-
+cin-induced autophagy, consistent with previous studies22. this may rep-
+resent a highly conserved mitotic or post-mitotic checkpoint control 
+of autophagy23.
+l e t t e r s
+serum-starvation, ly294002- or rapamycin-induced apoptosis in p27-
+depleted cells was due to disruption of intracellular energy balance, as 
+methypyruvate, a growth factor-independent energy source4, markedly 
+reduced parp and caspase-7 cleavage (see fig. 3d). furthermore, deple-
+tion of glucose, together with p27 knockdown, augmented the induction 
+of parp and caspase-7 cleavage compare with that observed for either 
+treatment alone. glucose deprivation induced ampk t-loop phospho-
+rylation (pampk), indicative of elevated amp:atp ratios, regardless of 
+p27 knockdown (fig. 3f). thus, concurrent energy depletion and p27 
+knockdown are required to induce apoptosis.
+collectively, our data indicate that induction of autophagy by meta-
+bolic stress requires inputs from p27 and thr 198 phosphorylation stabi-
+lizes p27. therefore, we wanted to identify a kinase pathway activated in 
+response to metabolic stress that could mediate thr 198 phosphorylation 
+and subsequent p27 stabilization.
+the energy-sensing lkb1–ampk pathway regulates cell survival under 
+conditions of nutrient and energy-deprivation that increase amp:atp 
+ratios24,25. lkb1 and p27 levels were positively correlated in breast and 
+melanoma lines. mcf-7 cells with the highest lkb1 and p-thr 198 p27 
+levels (see fig. 1c), exhibit p27 levels 5–10-fold higher than wm239 and 
+wm35 melanoma cells where lkb1 protein and pampk were undetect-
+able (fig. 4a). there was also a statistical correlation between lkb1 and 
+p27 protein levels in primary human breast cancers (p <0.001; fig. 4b).
+in  hela  cells,  which  lack  lkb1  (ref. 24),  basal  p27  protein  and 
+thr 198 phosphorylation levels were low and unresponsive to glucose 
+starvation. in contrast, glucose starvation led to a threefold increase 
+in p27, p-thr 198 p27 and pacc (an ampk substrate) in hela cells 
+transfected with lkb1 (fig. 4c).
+aicar,  an  ampk  activator5,7,24,  induced  rapid  and  robust 
+increases in p27 thr 198 phosphorylation in a dose-dependent man-
+ner in mouse embryonic fibroblasts (mefs; fig. 4d, e). at early time 
+points (<2 h) or low concentrations of aicar (<1 mm), concurrent 
+increases in p-thr 198 and p27 levels occurred. p-thr 198 p27 levels 
+were sustained for >24 h following aicar addition, despite a mod-
+est decline in p27 levels when aicar concentration exceeded 1 mm 
+(fig. 4d, e). this may be due to suppression of protein synthesis, 
+as high levels of aicar and ampk activation abrogate ribosomal 
+protein s6 phosphorylation, indicative of inhibition of protein syn-
+thesis. similarly, glucose starvation5 in 3t3l1 preadipocytes acutely 
+increased p-thr 198 p27 (fig. 4f). aicar- and glucose deprivation-
+induced p27 thr 198 phosphorylation correlated with increases in 
+pampk and pacc indicative of ampk activation (fig. 4d, e and 
+f). thus, p27 thr 198 phosphorylation seems to be regulated by the 
+lkb1–ampk pathway.
+sirna-mediated depletion of lkb1 reduced p27 thr 198 phospho-
+rylation and p27 accumulation following glucose starvation, but had 
+little effect on p27 under high glucose conditions, further implicating 
+lkb1–ampk in p27 phosphorylation and stability (fig. 4g). however, 
+as lkb1 knockdown did not alter basal p27 thr 198 phosphorylation, 
+ampk  may  be  activated  through  lkb1-independent  mechanisms. 
+alternatively, kinases outside the lkb1–ampk pathway contribute to 
+basal p27 thr 198 phosphorylation.
+the sequence preceding thr 198 includes a potential ampk phos-
+phorylation motif5,26, as well as motifs for other kinases including 
+pka, p90rsk, chk1 and akt (see supplementary information, 
+fig. s3a). purified ampkα1 phosphorylated recombinant p27, which 
+nature cell biology  volume 9 | number 2 | february 2007 
+221   
+l e t t e r s
+was markedly increased by amp (see supplementary information, 
+fig. s3b). t198a mutation resulted in an approximately 15% decrease 
+in p27 phosphorylation (data not shown), indicating that although 
+thr 198  may  represent  an  ampk  target,  ampk  phosphorylates 
+additional  p27  sites  in  vitro.  ampkα1  modestly  phosphorylated 
+wild-type  thr 198  peptide  but  not  t198a  mutant  peptide  in  an 
+amp-dependent  manner,  as  indicated  by  32p  incorporation  (see 
+supplementary information, fig. s3c) or anti-p-thr 198 blotting (see 
+supplementary information, fig. s3d). the modest level of thr 198 
+peptide phosphorylation and decrease in p27t198a phosphorylation in 
+vitro, although compatible with ampk being a p27 thr 198 kinase, 
+implicate additional kinases downstream of lkb1–ampk in thr 198 
+phosphorylation in vivo.
+although p27 can be phosphorylated at thr 198 by p90rsk and 
+akt depending on cell context17,27, neither of these kinases are active 
+in quiescent cells. instead, akt activation is essential for the uptake 
+and utilization of extracellular nutrients9 and akt1/2 double-knockout 
+cells demonstrate increased amp:atp ratios and subsequent ampk 
+activation28. in mcf-7 cells, inhibition of pi(3)k markedly decreased 
+akt phosphorylation but increased pampk and p27 protein levels (see 
+supplementary information, fig. s3e), suggesting that akt did not con-
+tribute to p27 stabilization.
+to determine whether p90rsk and chk1 in the mapk or dna-
+damage pathways contribute to p27 thr 198 phosphorylation, mefs 
+were treated with either uv irradiation or the mek inhibitor uo126. 
+compared with the striking effects of aicar, uv irradiation or inhibi-
+tion of map activation did not significantly alter thr 198 phosphoryla-
+tion (see supplementary information, fig. s3f, g).
+our  data  suggest  that  the  lkb1–ampk  pathway  regulates  p27 
+thr 198 phosphorylation during metabolic stress. to determine whether 
+p27 is a critical mediator of lkb1–ampk controlled cell fate, ampk 
+was activated in normal (p27+/+) and p27 knockout (p27–/–) mefs with 
+aicar. aicar-induced apoptotic morphological changes and tunel 
+positivity in p27–/– cells, but not in p27+/+ cells (fig. 5a). electron micro-
+scopy was performed to determine whether the sensitivity of p27–/– cells 
+to apoptosis correlated with autophagy. although autolysosomes (late 
+stage autophagic vacuoles) were present at low levels in mefs (fig. 5b, 
+a and aʹ), aicar markedly increased the number and size of autophagic 
+vacuoles in p27+/+ mefs (fig. 5b, c and cʹ). in contrast, fewer autophagic 
+vacuoles were present in p27–/– mefs with (fig. 5b, d and dʹ) or with-
+out (fig. 5b, b and bʹ) aicar. at low concentrations of aicar, mem-
+brane-bound structures resembling autophagosomes were present in 
+p27–/– mefs (data not shown). thus, although not required for induction 
+of autophagy, p27 determines the extent and consequence of autophagy. 
+consistent with the role of p27 in regulating autophagy, glucose with-
+drawal for 14 h induced autophagy in p27+/+ mef (fig. 5b, e and eʹ) but 
+not in p27–/– cells (fig. 5b, f and fʹ, and c). together, these data suggest 
+that p27 functions in the maintenance of autophagy and cell viability 
+following ampk activation.
+the p27–/– cells express low levels of a truncated p27 lacking the 
+amino-terminal cyclin-binding domain29. therefore, the effects of p27 
+on autophagy and cell survival may depend on its ability to inhibit cyc-
+lin–cdks. on ampk activation, p-thr 198 p27 efficiently associated 
+with cyclin d1–cdk4, despite a substantial reduction in cyclin d1 levels 
+following aicar treatment (see supplementary information, fig. s4a, 
+b). the relative amount of cdk4 bound to p-thr 198 p27 was greater 
+30
+25
+20
+15
+10
+60
+50
+40
+30
+20
+10
+p27+/+
+p27–/–
+ctl
++ aicar – glucose
+p27+/+
+p27–/–
+0.5
+1.0
+2.0
+aicar 20 h (mm)
+p27+/+
+a'
+p27–/–
+b'
+c'
+e'
+d'
+f'
+figure 5 p27 is required for ampk-induced autophagy and cell survival. 
+(a) facs analysis of tunel positive p27+/+ and p27–/– cells treated 
+with aicar for 20 h. data represent mean ± s.d. of three independent 
+experiments. (b, c) electron microscopy of p27+/+ (a, c and e) and p27–/– 
+(b, d and f) mefs treated with (c and d), or without (a and b) aicar (1 mm), 
+or without glucose (e and f) for 14 h. magnified images of the boxed areas 
+were shown on the left (aʹ, bʹ, cʹ, dʹ, eʹ and fʹ) with arrowheads indicating 
+autophagic vacuoles including autolysosomes (black arrowheads). the scale 
+bars represent 10 µm in a–f and 0.5  µm in aʹ–fʹ. n, nucleus. autophagic 
+vacuoles were counted for three randomly selected cells from each electron 
+microscopy section and data represent mean ± s.d. (c).
+than that bound to total p27, whereas cdk2 was detectable in total p27 
+immunoprecipitates but not in p-thr 198 p27 immunoprecipitates (see 
+supplementary information, fig. s4b). thus p-thr 198 p27 seems to 
+preferentially bind to cdk4. neither cyclin e nor cyclin a was detectable 
+in either total p27 or p-thr 198 complexes (data not shown) under the 
+culture conditions tested, despite being readily detected in total lysates 
+(see supplementary information, fig. s4a).
+we further assessed the role of cdk2 and cdk4 in the effects of p27 
+depletion on autophagy and apoptosis (see supplementary information, 
+fig. s4c–f). knockdown of either cdk2 or cdk4 alone induced a mod-
+est increase in autophagy in the presence of serum and partially res-
+cued the effects of p27 depletion and serum starvation on apoptosis, 
+resulting  in  increased  autophagy  (see  supplementary  information, 
+fig. s4c). although cdk2 knockdown led to increases in p27 levels (see 
+supplementary information, fig. s4f), the ability of cdk2 sirna to 
+induce autophagy was not due to increases in p27 because this effect was 
+not abolished by simultaneous knockdown of p27 (see supplementary 
+information, fig. s4c). these data suggest that cdk2 and cdk4 both 
+222 
+nature cell biology  volume 9 | number 2 | february 2007
+contribute to the effects of p27 depletion. concurrent knockdown of 
+both cdk2 and cdk4 increased gfp–lc3 puncta and lc3-ii 2–3-fold in 
+a dose-dependent manner and suppressed apoptosis to a greater degree 
+than either cdk sirna alone (see supplementary information, fig. s4c–
+e). the effects of cdk4 and cdk2 silencing to reduce the apoptosis caused 
+by p27 knockdown may reflect the reversal of aberrant cdk activation 
+consequent to loss of p27. regardless, the effects of p27 on the decision 
+to undergo autophagy or apoptosis seem to be dependent, at least in part, 
+on the regulation of cdk activity.
+our data indicate that during metabolic stress thr 198 phosphor-
+ylation promotes p27 stability. p27 accumulation is a determinant of 
+whether quiescent cells enter the autophagy cell survival pathway or 
+undergo rapid cell death by apoptosis. thus, regulation of p27 links 
+the nutrient-sensing pathway, autophagy, cell-cycle arrest and cell sur-
+vival. this may contribute to a dual effect of p27 on tumorigenesis: 
+decreased levels of p27 allow cell-cycle progression, whereas loss of 
+p27 below a level sufficient to maintain autophagy results in death of 
+tumour cells by apoptosis under the adverse conditions present dur-
+ing tumorigenesis. these contentions are supported by the observa-
+tions that during growth factor deprivation-induced apoptosis p27 is 
+degraded by caspases30 and that oncogene-mediated transformation and 
+cancer progression are impaired in the absence of p27 in mouse breast 
+and prostate cancer model systems31,32. mutational inactivation of the 
+p27kip1 gene is a rare event in human cancers and homozygous deletions 
+have not been reported.
+the tumour microenvironment frequently has a decreased blood sup-
+ply with reduced oxygen tension, ph and nutrient availability. various 
+chemotherapy agents, signal transduction inhibitors and anti-angiogenic 
+agents antagonize cellular metabolism and also increase p27 levels. thus, 
+tumour cells may be dependent on p27 to sustain viability through 
+autophagy during tumorigenesis, tumour progression and therapy.
+methods
+cell culture. breast cancer cells mda-mb468, mda-mb231, bt474, bt474-
+m1, t47d and mcf-7 and melanoma cells wm35 and wm239 were cultured 
+in rpmi1640 medium supplemented with l-glutamine and 5% fbs. normal and 
+p27–/– mefs obtained from andrew koff (sloan-kettering, new york, ny), 3t3l1 
+and gfp–lc3 u2os cells generated by stable transfection of an expression vector 
+encoding for the lc3–gfp fusion protein were maintained in dmem with high 
+glucose supplemented with 5% fbs. where indicated, cells were treated with 
+ly294002 (roche scientific, indianapolis, in), mg132 (sigma, st louis, mo), 
+methylpyruvate (sigma), 5ʹ-phosphoribosyl-5-aminoimidazole-4-carboxamide 
+ribonucleoside (aicar; toronto research chemicals inc., north york, canada), 
+uo126 and rapamycin (cell signaling, beverly, ma) and the controls were treated 
+with vehicle alone.
+plasmids, site-directed mutagenesis and transfections. yfp–p27t198a and 
+yfp–p27t198d were generated by replacing respective amino acid residues 
+of yfp–p27 (ref. 33) with either alanine or aspartatic acid by site-directed 
+mutagenesis using a quickchange mutagenesis kit (stratagene, la jolla, 
+ca). rfp–p27, rfp–p27t198a and rfp–p27t198d were generated by cut-and-
+paste of the p27 alleles from the above yfp constructs. the sirna-resistant 
+yfp–p27 (wt-r) and the yfp–p27t198a mutant (t198a-r) constructs were 
+generated by mutating three nucleotide base pairs to alternative nucleotides 
+within the sirna target region without altering the amino acid sequences. 
+the sequences of all constructs were confirmed by dna sequencing. the 
+plasmid encoding gfp–lc3 vector was obtained from noboru mizushima 
+(tokyo metropolitan institute of medical science, tokyo, japan), and lkb1 
+from  hans  c.  clevers  (netherlands  cancer  institute,  amsterdam,  the 
+netherlands). transfection was performed using fugene 6 (roche scientific) 
+according to the manufacturer’s instructions and ensuing experiments were 
+l e t t e r s
+performed 48 h post-transfection unless otherwise specified. stable lines 
+were established by g418 selection.
+phase contrast and fluorescent microscopy. images  were  acquired  using  a 
+nikon eclipse te200-e microscope and iplab imaging software (biovision 
+technologies, exton, pa).
+cell-viability assays were performed using a celltiter glo kit (promega, madison, 
+wi). the data represent six independent experiments (mean ± s.d.).
+(lkb1 
+rna interference. a p27 sirna pool of four duplexes (1, 5ʹ-ggagcaaugcg
+caggaauauu::5ʹ-p.uauuccugcgcauugcuccuu;  2,  5  ʹ-gagcaau
+gcgcaggaauaauu::5ʹ-p.uuauuccugcgcauugcucuu; 3, 5ʹ-gcaa
+ugcgcaggaauaagguu::5ʹ-p.ccuuauuccugcgcauugcuu;  4,  5ʹ-
+cgacgauucuucuacucaauu::5ʹ-p.uugaguagaagaaucgucguu) 
+targeting  human  p27,  an  lkb1  sirna  pool  (lkb1  sirna)  of  four 
+duplexes 
+5ʹ-ugaaagggaugcuugaguauu::5ʹ-
+p.uacucaagcaucccuuucauu; lkb1 sirnaa, 5ʹ-gcaugacuguggugc
+cguauu::5ʹ-p.uacggcaccacagucaugcuu; lkb1 sirnac, 5ʹ-gagaagc
+guuucccaguguuu::5ʹ-p.acacugggaaacgcuucucuu; lkb1 sirnad, 
+5ʹ-gcucuuacggcaaggugaauu::5ʹ-p.uucaccuugccguaagagcuu) 
+targeting  mouse  lkb1,  and  a  non-targeting  sirna  pool  were  obtained  from 
+dharmacon, inc. (lafayette, co), and rnai-mediated knockdown was performed 
+according to manufacture’s protocol and non-targeting sirna was used as a control. 
+experiments were performed 24 h post-transfection unless otherwise specified.
+sirnaa, 
+antibodies. antibodies against parp, cyclin d1, pkb, phospho-pkb (ser 473), 
+ampk  and  phospho-ampkα  (t172)  were  obtained  from  cell  signaling 
+technology; against caspase-7 from bd pharmingen (san diego, ca); against p21 
+(c19), p27 (c-19), cyclin e (m20), cdk4 (c-22), and cdk2 (m2) from santa cruz 
+biotechnology (santa cruz, ca); against p27 from transduction laboratories; 
+against lkb1 from abcam (cambridge, ma); and against α-tubulin, β-tubu-
+lin and β-actin from sigma-aldrich. phospho-p27 (thr 198) antibody (301a) 
+against kpglrrrqpt was obtained as a prerelease reagent from r&d system 
+(minneapolis, mn).
+immunoprecipitation and western blotting. cell lysis, immunoprecipitation and 
+immunoblotting were performed as previously described34. immunoprecipitation 
+and  immunoblotting  experiments  used  200  and  50 μg  of  protein  lysates, 
+respectively, unless otherwise indicated. antibody alone controls were run along 
+side all immunoprecipitates and equal protein loading of all western blots was 
+verified by blotting for β-actin.
+reverse-phase  protein  microarray  analysis.  tissue  lysate  microarray  was 
+processed as previously described35. briefly, serially diluted lysates were spotted 
+onto fast slides (schleicher & schuell biosciences, keene, nh) using a robotic 
+genetac arrayer (genomic solutions, ann arbor, mi). after printing, the slides 
+were blotted sequentially with re-blot (chemicon, temecula, ca), i-block and 
+a biotin blocking system (dako, carpinteria, ca), probed with primary anti-
+bodies and incubated with biotin-conjugated secondary antibodies. the signals 
+were then amplified using a catalysed signal amplification kit (dakocytomation, 
+carpinteria, ca) according to manufacture’s instructions. the processed slides 
+were scanned and quantitated using the microvigene software (vigenetech inc., 
+north billerica, ma) and the quantitative values of five consistently expressed 
+proteins (p38, jnk, erk, mtor and gsk) as internal controls.
+two-dimensional tryptic phosphopeptide mapping and phosphoamino-acid 
+analysis. mcf-7 cells transfected with yfp–p27 or yfp–p27t198a were incubated 
+in phosphate-free medium containing 5% dialyzed fbs for 4 h before meta-
+bolic labelling with 1 mci 32p-orthophosphate (amersham pharmacia biotech, 
+piscataway, nj) per p100 dish for 3 h at 37 °c. cells were lysed in an ice-cold 
+nonidet p40 lysis buffer. cell lysates were then pre-cleared with normal rab-
+bit igg before immunoprecipitation of yfp–p27. the immunoprecipitates were 
+resolved by 12% sds–page, transferred to a polyvinyl difluoride membrane and 
+autoradiographed. yfp–p27 bands dissected from the membrane were blocked 
+with 0.5% polyvinyl difluride in 100 μm tris at ph 7.6 at 37 °c for 30 min and 
+digested overnight with 10 μg of modified trypsin (roche diagnostics). the sam-
+ples were then lyophilized and treated with ice-cold performic acid (45 μl formic 
+nature cell biology  volume 9 | number 2 | february 2007 
+223   
+l e t t e r s
+acid and 5 μl h2o2 ; 37%). lyophilized samples were resuspended in 5 μl ph 1.9 
+buffer (formic acid 2.5%; glacial acetic acid 7.8% in aqueous solution) and loaded 
+onto cellulose thin layer plates. thin layer electrophoresis (tle) was performed 
+with ph 1.9 buffer at 1000 v for 60 min using hunter thin-layer electrophoresis 
+system (htle-7000; cbs scientific, del mar, ca) system. ascending thin layer 
+chromatography (tlc) was performed using a phosphochromatography buffer 
+(n-butano 37.5%, pyridine 25%, glacial acetic acid 7.5% in aqueous solution) for 
+24 h. the plates were then air dried and subject to autoradiography.
+note: supplementary information is available on the nature cell biology website.
+acknowledgments
+j.l. is supported by the odyssey program of the cockrell foundation award for 
+scientific achievement from md anderson cancer center. we thank k. w. cheng 
+for help with statistical analysis, y. lu and q. yu for help with rppa microarray, 
+the md anderson cancer center breast tumor bank for providing samples, and 
+k. donner jr. for electron microscopy, and m.-c. hung, s.-y. lin, f. x. claret and 
+j. r. woodgett for helpful discussion. this work is supported by national institutes 
+of health spore (p50-ca83639) and po1 ca64602, po1ca099031, ccsg 
+grant p30 ca16672, and damd (17-02-01-0694) to g.b.m. and national cancer 
+institue (ca63613), national institute of environmental health sciences (es08263) 
+and national institute of child health and human development (hd046282) to 
+c.l.w. 
+competing financial interests
+the authors declare that they have no competing financial interests.
+published online at http://www.nature.com/naturecellbiology/
+reprints and permissions information is available online at http://npg.nature.com/
+reprintsandpermissions/
+1.  pardee, a. a restriction point for control of normal animal cell proliferation. proc. natl 
+acad. sci. usa 71, 1286–1290 (1974).
+2.  hay, n. & sonenberg, n. upstream and downstream of mtor. genes dev. 18, 1926–
+1945 (2004).
+3.  wilson, w. & roach, p. j. nutrient-regulated protein kinases in budding yeast. cell 
+111, 155–158 (2002).
+4.  lum, j. et al. growth factor regulation of autophagy and cell survival in the absence of 
+apoptosis. cell 120, 237–248 (2005).
+5.  inoki, k., zhu, t. & guan, k. l. tsc2 mediates cellular energy response to control cell 
+growth and survival. cell 115, 577–590 (2003).
+6.  hardie, d. the amp-activated protein kinase pathway – new players upstream and 
+downstream. j. cell sci. 117, 5479–5487 (2004).
+7.  jones, r. et al. amp-activated protein kinase induces a p53-dependent metabolic 
+checkpoint. mol. cell 18, 283–293 (2005).
+8.  kondo, y., kanzawa, t., sawaya, r. & kondo, s. the role of autophagy in cancer 
+development and response to therapy. nature rev. cancer 5, 726–734 (2005).
+9.  lum, j., deberardinis, r. j. & thompson, c.b. autophagy in metazoans: cell survival 
+in the land of plenty. nature rev. mol. cell biol. 6, 439–448 (2005).
+10. reggiori, f. & klionsky, d. j. autophagosomes: biogenesis from scratch? curr. opin. 
+cell biol. 17, 415–422 (2005).
+11. massagué, j. g1 cell-cycle control and cancer. nature 432, 298–306 (2004).
+12. wu, f. et al. reduction of cytosolic p27(kip1) inhibits cancer cell motility, survival, 
+and tumorigenicity. cancer res. 66, 2162–2172 (2006).
+13. slingerland, j. & pagano, m. regulation of the cdk inhibitor p27 and its deregulation 
+in cancer. j. cell physiol. 183, 10–17 (2000).
+14. ishida, n., kitagawa, m., hatakeyama, s. & nakayama, k. phosphorylation at serine 
+10, a major phosphorylation site of p27(kip1), increases its protein stability. j. biol. 
+chem. 275, 25146–25154 (2000).
+15. kossatz, u. et al. c-terminal phosphorylation controls the stability and function of 
+p27kip1. embo j. 25, 5159–5170 (2006).
+16. viglietto, g., motti, m.l. & fusco, a. understanding p27kip1 deregulation in cancer: 
+down-regulation or mislocalization. cell cycle 1, 394–400 (2002).
+17. fujita, n., sato, s. & tsuruo, t. phosphorylation of p27kip1 at threonine 198 by p90 
+ribosomal protein s6 kinases promotes its binding to 14–3-3 and cytoplasmic localiza-
+tion. j. biol. chem. 278, 49254–49260 (2003).
+18. motti, m. et al. complex regulation of the cyclin-dependent kinase inhibitor p27kip1 
+in thyroid cancer cells by the pi3k/akt pathway: regulation of p27kip1 expression and 
+localization. am. j. pathol. 166, 737–749 (2005).
+19. biederbick, a., kern, h. f. & elsasser, h.p. monodansylcadaverine (mdc) is a specific 
+in vivo marker for autophagic vacuoles. eur. j. cell biol. 66, 3–14 (1995).
+20. kabeya, y. et al. lc3, a mammalian homologue of yeast apg8p, is localized in 
+autophagosome membranes after processing. embo j. 19, 5720–5728 (2000).
+21. takeuchi, h. et al. synergistic augmentation of rapamycin-induced autophagy in malig-
+nant glioma cells by phosphatidylinositol 3-kinase/protein kinase b inhibitors. cancer 
+res. 65, 3336–3346 (2005).
+22. eskelinen, e. et al. inhibition of autophagy in mitotic animal cells. traffic 3, 878–893 
+(2002).
+23. veneault-fourrey, c., barooah, m., egan, m., wakley, g. & talbot, n. j. autophagic 
+fungal cell death is necessary for infection by the rice blast fungus. science 312, 
+580–580 (2006).
+24. shaw, r. et al. the tumor suppressor lkb1 kinase directly activates amp-activated 
+kinase and regulates apoptosis in response to energy stress. proc. natl acad. sci. usa 
+101, 3329–3335 (2004).
+25. lizcano, j. et al. lkb1 is a master kinase that activates 13 kinases of the ampk 
+subfamily, including mark/par-1. embo j. 23, 833–843 (2004).
+26. michell, b. et al. isoform-specific purification and substrate specificity of the 5’-amp-
+activated protein kinase. biol. chem. 271, 28445–28450 (1996).
+27. motti, m., de marco, c., califano, d., fusco, a. & viglietto, g. akt-dependent t198 
+phosphorylation of cyclin-dependent kinase inhibitor p27kip1 in breast cancer. cell 
+cycle 3, 1074–1080 (2004).
+28. hahn-windgassen, a. et al. akt activates mtor by regulating cellular atp and ampk 
+activity. j. biol. chem. 3, 32081–32089 (2005).
+29. kiyokawa, h. et al. enhanced growth of mice lacking the cyclin-dependent kinase 
+inhibitor function of p27(kip1). cell 85, 721–732 (1996).
+30. levkau,  b.  et  al.  cleavage  of  p21cip1/waf1  and  p27kip1  mediates  apoptosis  in 
+endothelial cells through activation of cdk2: role of a caspase cascade. mol. cell 1, 
+553–563 (1998).
+31. muraoka, r. et al. erbb2/neu-induced, cyclin d1-dependent transformation is acceler-
+ated in p27-haploinsufficient mammary epithelial cells but impaired in p27-null cells. 
+mol. cell biol. 22, 2204–2219 (2002).
+32. gao, h. et al. a critical role for p27kip1 gene dosage in a mouse model of prostate 
+carcinogenesis. proc. natl acad. sci. usa 104, 17204–17209 (2004).
+33. liang, j. et al. pkb/akt phosphorylates p27, impairs nuclear import of p27 and opposes 
+p27-mediated g1 arrest. nature med. 8, 1153–1160 (2002).
+34. lu, y. et al. src family protein-tyrosine kinases alter the function of pten to regulate phos-
+phatidylinositol 3-kinase/akt cascades. j. biol. chem. 278, 40057–40066 (2003).
+35. sheehan, k. et al. use of reverse phase protein microarrays and reference standard 
+development for molecular network analysis of metastatic ovarian carcinoma. mol. cell. 
+proteomics 4, 346–355 (2005).
+224 
+nature cell biology  volume 9 | number 2 | february 2007
+s u p p l e m e n ta ry  i n f o r m at i o n
+figure s1 the effect of t198a mutation on p27 stability. a, hoechst 33342 
+staining for nuclei (see fig 1d). scale bar, 100 μm. b, densitometric 
+analysis of wild type and mutant p27 protein levels represented as ratios to 
+0-h (see fig 1f). c and d, western blots of protein extracts from mcf-7 with 
+(+) or without (-) mg132 for 12-h following transfection with wild type and 
+mutant p27 (gfp was co-transfected as a transfection control) (c), and from 
+u2os cells transfected with rfp-p27wt, the indicated mutant alleles, or an 
+empty rfp vector (c1), or mock transfected (-) for 48-h prior to treatment 
+with (+) or without (-) mg132. e, densitometric analysis of western blots of 
+wild type and mutant p27 protein levels from mcf-7 or hela cells 48-h post-
+transfection. 
+www.nature.com/naturecellbiology 
+© 2007 nature publishing group  
+s u p p l e m e n ta ry  i n f o r m at i o n
+figure s2 the role of p27 and cell cycle in autophagy and cell viability. 
+a and b, mcf-7 cells transfected with yfp-p27wt and mutant allele 
+selected with g418 for 3 weeks were stained for lysosomes with lysotracker 
+(red) and nuclei with hoechst (blue) (a) and for acidic vacuoles with 
+monodansylcadaverine (mdc) (b). c, u2os-gfplc3 cells cultured in the 
+presence or absence of 10% fetal bovine serum (-fbs) for 12-h. d, western 
+blots of u2os-gfplc3 cell lysates (see also fig 3a). e, u2os-gfplc3 cells 
+cultured for 48-h with or without fbs 24-h post-rnai. f, cell cycle profiles 
+of mcf-7 transfected with non-targeting (nt) sirna or a p27sirna pool 
+for 48-h with or without rapamycin (100 nm) added 20-h before analysis. 
+g and h, mcf-7 cells incubated with either mimosine (mimo, 300 μm) 
+or nocodazole (noco, 40 ng ml-1) for 22-h, followed by treatment with (+) 
+or without (-) rapamycin (rap, 100 nm) 24-h post-rnai. arrows indicate 
+apoptotic cells (g). densitometric analysis of gfp-lc3-ii/i (western blots) 
+of u2os-gfp-lc3 cells asynchronously grown (ctl) or synchronized with 
+nocodazole, hydroxylurea (hu, 100 μm), mimosine, or aphidicolin (aphi, 
+5 μg ml-1) for 48-h prior to rapamycin treatment for 24-h. flow cytometric 
+analysis (h). scale bar, 50 μm.
+2 
+www.nature.com/naturecellbiology
+© 2007 nature publishing group  
+s u p p l e m e n ta ry  i n f o r m at i o n
+figure s3 kinases potentially mediating p27t198 phosphorylation a, 
+alignment of p27t198 peptide sequence with consensus phosphorylation 
+motifs of a panel of basophilic kinases. box, compatible residues; dashed 
+box, non-essential residues; *, phosphorylation sites; β, basic residue; φ, 
+hydrophobic residue. b, c, and d, kinase assays using purified ampk and 
+either recombinant full-length his-p27 (b) or a wild type p27t198 peptide 
+(wt, sgsg-kpglrrrqt) versus a t198a mutant peptide (c and d) as 
+substrates in the presence or absence of amp (172.5 μm). kinase activity 
+was determined by either 32p-atp incorporation (b and c) or by western dot 
+blot and densitometric scanning (representative of 3 independent assays) 
+using the pt198 antibody and densitometry analysis (d). cmp, counts per 
+minute. e, western blots of protein lysates from mcf-7 cells treated with 
+(+) or without (-) ly294002 (ly, 10 μm) for 24-h. f and g, western blots of 
+protein extracts from mefs cultured in the absence or presence of uo126 (5 
+μm) or aicar (2mm) or both for 2-h or 2-h after uv irradiation (5 μj cm-2). 
+www.nature.com/naturecellbiology 
+© 2007 nature publishing group  
+s u p p l e m e n ta ry  i n f o r m at i o n
+figure s4 the role of cyclin-cdks in autophagy and cell death. a and b, 
+western blots of protein extracts (a) or immunoprecipitates (b) from 3t3l1 
+cells treated with (+) or without (-) aicar (1.5 mm) for 2-h. #, rainbow 
+marker; nr igg, normal rabbit igg; 1x loading, 500 μg; cdk4:p27 (right 
+panel), densitometric ratio of p27-associated cdk4 to p27. c, d, and e, 
+mcf-7 with stable expression of gfp-lc3 transfected with control (ctl) 
+or indicated sirna pools, each consisting of 3 individual sirnas, for 24-h 
+and cultured for 48-h with or without 5%fbs (c). scale bar, 50 μm. protein 
+extracts were subject to western blotting using gfp antibody for gfp-lc3 or 
+indicated antibodies (d). the lc3-ii bands were quantified by densitometric 
+scanning and the data represent mean +/- sd (e). *, p=0.016;  **, p=0.001 
+(t test). f, western blots of protein extracts from u2os-gfplc3 cells 
+transfected with non-targeting (-) or individual cdk2 or cdk4 sirnas, 
+showing the efficacy and specificity of gene silencing. note p27 levels were 
+increased by cdk2 but not cdk4 depletion, indicating sufficient suppression 
+of cdk2 activity despite a slightly lesser degree of cdk2 knockdown 
+compared to cdk4 knockdown. d scan, densitometric scanning of western 
+blots (ratio to control); 1x sirna, 5 nm; cdk2 sirna duplex 12, 5’-gaa aca 
+agu uga cgg gag aau u::5’-puc ucc cgu caa cuu guu ucu u; 13, 
+5’-gga guu acu ucu aug ccu guu::5’-pca ggc aua gaa gua acu 
+ccu u; 14, 5’-ggg ccu agc uuu cug cca uuu::5’-pau ggc aga aag 
+cua ggc ccu u; cdk4 sirna duplex 13, 5’-gag cuc ugc agc acu cuu 
+auu::5’-pua aga gug cug cag agc ucu u; 14, 5’-cag cac agu ucg 
+uga ggu guu::5’-pca ccu cac gaa cug ugc ugu u; 15, 5’-gca cuu 
+aca ccc gug guu guu::5’-pca acc acg ggu gua agu gcu u.
+4 
+www.nature.com/naturecellbiology
+© 2007 nature publishing group  
+wwenm-snguu
+fm;
+bus pm: :21
+won
+0‘
+vfw a
+21
+flgﬂ
+wut- um emu,
+‘ wk)
+4.
+" an
+an 2‘
+ummrussu-m
+fm: m unal m urn:
+mo..n.a u.xu.,.
+mum)
+an ace
+i-i-‘fussm
+figur- ss extended mm: from ﬁgures in text. see velated figure legends.
+supplementary information
+   
+  
+  
+  
+www.naiuke.com/na’iurecellbiologv
+ihlnn group

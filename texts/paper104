@@ -1,0 +1,1203 @@
+perspectives
+o p i n i o n
+role of autophagy in cancer
+robin mathew, vassiliki karantza-wadsworth and eileen white
+abstract | autophagy is a cellular degradation pathway for the clearance of 
+damaged or superfluous proteins and organelles. the recycling of these intracellular 
+constituents also serves as an alternative energy source during periods of metabolic 
+stress to maintain homeostasis and viability. in tumour cells with defects in 
+apoptosis, autophagy allows prolonged survival. paradoxically, autophagy defects 
+are associated with increased tumorigenesis, but the mechanism behind this has 
+not been determined. recent evidence suggests that autophagy provides a 
+protective function to limit tumour necrosis and inflammation, and to mitigate 
+genome damage in tumour cells in response to metabolic stress.
+autophagy is a cellular catabolic degradation 
+response to starvation or stress whereby 
+cellular proteins, organelles and cytoplasm 
+are engulfed, digested and recycled to sustain 
+cellular metabolism1,2. constitutive, basal 
+autophagy also has an important homeostatic 
+function, maintaining protein and organelle 
+quality control, acting in parallel with the 
+ubiquitin proteasome degradation pathway 
+to prevent the accumulation of polyubiquiti-
+nated and aggregated proteins3–8. autophagy 
+is also a pathway that is used for the elimina-
+tion of pathogens9 and for the engulfment of 
+apoptotic cells10. however, the effect of these 
+events on cancer is not known. although 
+most evidence supports a role for autophagy 
+in sustaining cell survival, paradoxically, cell 
+death resulting from progressive cellular con-
+sumption has been attributed to unrestrained 
+autophagy11–13. 
+complicating this situation further, 
+cytotoxic events often induce autophagy, 
+but whether this is a death mechanism or a 
+futile effort at cellular preservation is often 
+unclear2. another enigma has been the role 
+of autophagy in tumour suppression; allelic 
+loss of the essential autophagy gene beclin1 
+(becn1, also known as atg6) is found with 
+high frequency in human breast, ovarian and 
+prostate cancers14,15, and autophagy-defective 
+becn1-heterozygous16,17 and autophagy-
+related 4c (atg4c)-deficient18 mice are prone 
+to tumours. paradoxically, most evidence 
+supports a role for autophagy in maintaining 
+tumour cell survival in response to metabolic 
+stress in vitro, and in hypoxic tumour regions 
+in vivo19–23. resolution of these paradoxes 
+surrounding autophagy function has proved 
+challenging.
+the mechanisms that regulate the 
+mutually opposed survival-supporting and 
+death-promoting roles for autophagy are still 
+far from resolution. the most plausible expla-
+nation is that catabolism through autophagy 
+is predominantly survival-supporting, but 
+that an imbalance in cell metabolism, where 
+autophagic cellular consumption exceeds the 
+cellular capacity for synthesis, promotes cell 
+death. although experimental evidence to 
+support this is currently lacking, insight into 
+the role of autophagy in tumour suppression 
+is beginning to evolve.
+how loss of the pro-survival function of 
+autophagy promotes tumorigenesis is partly 
+explained by the stimulation of necrotic 
+cell death and an inflammatory response 
+in tumours with defects in autophagy and 
+apoptosis19. preventing survival under 
+starvation through autophagy, and divert-
+ing apoptosis-defective tumour cells to 
+a necrotic cell fate, generates chronically 
+necrotic tumours. this can corrupt a normal 
+wound-healing response to support tumour 
+growth, representing a possible means by 
+which autophagy defects provide a non-cell-
+autonomous mechanism for stimulating 
+tumorigenesis24–26. in contrast to apoptosis, 
+necrosis and cell lysis causes nuclear hmgb1 
+to be released from cells, and this and 
+other events stimulate the innate immune 
+response, the recruitment of inflammatory 
+cells, cytokine production and nuclear factor-
+κb (nfκb) activation, which in some cases 
+is linked to increased tumorigenesis27–29. 
+indeed, blocking autophagy with constitutive 
+activation of akt in apoptosis-defective cells 
+results in necrosis in response to metabolic 
+stress in vitro, and in tumours in vivo this 
+necrosis is coincident with nf-κb activation 
+and promotion of tumorigenesis19. how 
+different cell-death processes interface with 
+the immune system and tumour micro-
+environment to modulate tumour growth is 
+far from clear and is an important area for 
+future investigation.
+how defective autophagy and com-
+promised survival to stress can promote 
+tumour progression despite reduced cellular 
+fitness is suggested by the increased rate of 
+cellular damage accumulation. in tumour 
+cells in which cell-cycle checkpoints are 
+inactivated, autophagy limits the accumula-
+tion of genome damage and suppresses the 
+mutation rate20,23. this supports the role 
+for autophagy in protecting the genome in 
+a cell-autonomous mechanism of tumour 
+suppression. it is currently unclear how 
+autophagy limits genome damage, but this 
+could involve maintaining energy homeo-
+stasis or preventing the damaging effects of 
+oxidative stress from defective organelle and 
+unfolded protein accumulation. as we begin 
+to define the role of tumour cell metabolism 
+in response to stress, the rational ability to 
+modulate the autophagy pathway in cancer 
+therapy is emerging.
+apoptosis and metabolic stress
+a common cellular response to metabolic 
+stress is cell death by apoptosis, and in 
+tumour cells in particular this apoptosis 
+is crucial to suppressing tumorigenesis30 
+(fig. 1a). the tumour-suppressive role for 
+apoptosis is well known, originating with the 
+realization that many tumours have apoptosis 
+suppressed by various mechanisms, including 
+overexpression of the apoptosis inhibitor 
+bcl2, and that preventing apoptotic cell 
+death allows tumour cells to survive the 
+stress of oncogene activation, uncontrolled 
+proliferation (fig. 2a) and chemotherapy31. 
+nature reviews | cancer	
+ volume 7 | december 2007 | 961
+© 2007 nature publishing group  
+p e r s p e c t i v e s
+metabolic stress
+apoptosis
+apoptosis and autophagy functional
+metabolic stress
+accelerated 
+apoptosis
+defective autophagy
+metabolic stress
+sustained 
+autophagy
+nutrient
+restoration
+nutrient
+restoration
+nutrient
+restoration
+defective apoptosis
+mccr
+metabolic stress
+maintenance phase
+preservation phase
+metabolic 
+catastrophe
+necrosis
+defective apoptosis and autophagy
+nature reviews | cancer
+figure 1 |	altered	capacity	for	apoptosis	and	autophagy	can	dictate	cell	fate	in	response	to	
+metabolic	stress.	a	| apoptosis is a common response to metabolic stress in which cells activate 
+caspases and die efficiently. for immortal epithelial cells, metabolic stress triggers apoptosis within 
+24 to 48 hours19,20,23. execution of apoptosis occurs in less than an hour and cell viability loss is five 
+to six orders of magnitude19. b	| defective autophagy (through loss of becn1 or atg5, for example) 
+can increase apoptotic cell death in some cells in response to metabolic stress56. in human mammary 
+cells in 3d culture in vitro, this accelerated apoptosis manifests as increased lumen formation in 
+mammary acini 20. therefore, preservation of cell metabolism through autophagy might increase 
+the threshold for apoptosis activation. c	| in cells with defects in apoptosis, survival in metabolic 
+stress is dependent on autophagy and is prolonged for weeks19,20,22,23. during the maintenance phase, 
+activities such as cell division and motility are sustained. prolonged starvation and progressive 
+autophagy causes cells to gradually shrink in size but restoration of nutrients allows recovery. in the 
+preservation phase, cell division and motility decrease, presumably as a bioenergenic conservation 
+effort, creating the minimal cell that is capable of recovery (mccr). eventually, restoration of nutrients 
+fails to allow recovery. in this way, autophagy can be viewed as an interruptible path to cell death. 
+d	| cells with defects in apoptosis and autophagy fail to tolerate metabolic stress, undergo metabolic 
+catastrophe and die by necrosis36.
+indeed, bcl2 antagonists have entered 
+the clinic as part of the armamentarium to 
+functionally restore the apoptotic pathway 
+to resistant tumours32.
+there is an entire family of multidomain 
+(bcl2 homology regions or bh1–4) anti-
+apoptotic bcl2-homologous proteins that 
+function to sequester the core pro-apoptotic 
+regulators, multidomain bax and bak31. 
+pro-apoptotic bh3-only proteins disrupt this 
+bax and bak antagonism by bcl2-like pro-
+teins and some might directly activate bax 
+and bak to propagate the death signal. once 
+activated, bax and bak oligomerize and 
+permeabilize membranes, particularly the 
+outer mitochondrial membrane, to release 
+pro-apoptotic factors such as cytochrome c 
+and smac/diablo. cytochrome c is a 
+cofactor for the apoptosome that activates the 
+cysteine protease caspase 9, whereas smac/
+diablo inhibits the caspase antagonists, 
+the inhibitor of apoptosis proteins (iaps). 
+together, this results in effector caspase 
+activation and widespread cellular protein 
+substrate cleavage, causing cell death31.
+exactly how metabolic stress triggers 
+apoptosis is not completely understood, 
+but it is associated with the induction of the 
+pro-apoptotic bh3-only protein puma, 
+requires the bh3-only protein bim, depends 
+on either bax or bak, and is inhibited by 
+bcl2 (refs 30,33,34). once the apoptotic 
+signal reaches bax and bak, mitochondrial 
+membrane permeabilization, caspase activa-
+tion and cell death occur in less than an 
+hour and the process is extremely efficient 
+and irreversible (fig. 1a). neighbouring cells 
+or professional phagocytes engulf apoptotic 
+cells, preventing the activation of an innate 
+inflammatory response. these attributes 
+are the reasons why apoptosis defects are 
+selected for in tumours and why restor-
+ing the apoptotic response is desirable for 
+cancer therapy. tumour cells with defects 
+in apoptosis through either deficiency in 
+bax and bak or gain of bcl2 or bcl-xl 
+(also known as bcl2l1) function are highly 
+resistant to metabolic stress and the proper-
+ties of these ‘undead cells’ are revealing 
+insights into the mechanisms regulating 
+metabolic stress response.
+metabolic stress has a major influence 
+on tumours in vivo, either as a stimulator of 
+apoptosis to limit tumour progression, or as 
+a damaging insult in surviving apoptosis-
+defective tumour cells (figs 1c, 2a). tumours 
+are frequently subjected to metabolic stress, 
+arising from the initial lack of a blood supply, 
+vascular collapse in established tumours or 
+therapeutic intervention. it is well known 
+that tumour cells can be reliant on the inef-
+ficient process of glycolysis, rather than the 
+more productive energy-generating process 
+of oxidative phosphorylation, to support 
+metabolism (the warburg effect)35. as such, 
+tumour cells are particularly vulnerable to 
+metabolic stress, which is only exacerbated 
+by the high energy demand of unrestrained 
+cell growth and the potentially reduced 
+capacity to access the nutrient recycling 
+activity provided by autophagy36. how 
+apoptosis-defective tumour cells adapt to 
+metabolic stress and if or how this facilitates 
+tumour progression has now been linked to 
+autophagy.
+autophagy promotes survival 
+evidence suggests that a constitutive, low 
+level of basal autophagy in normal tissues 
+provides an important homeostatic, 
+housekeeping function. targeted deletion 
+of atg5 or atg7 in the brain causes the 
+accumulation of polyubiquitylated protein 
+aggregates and neuronal degeneration, 
+supporting a role for autophagy in protein 
+quality control3,4. furthermore, atg5 is 
+required for maintaining t-cell survival 
+and proliferation37. autophagy induction in 
+response to stress and starvation also has 
+962 | december 2007 | volume 7 
+	www.nature.com/reviews/cancer
+© 2007 nature publishing group  
+a crucial role in normal cells. for example, 
+atg5-deficient mice fail to live through the 
+neonatal survival period, during which 
+tissues show signs of amino-acid deple-
+tion and metabolic insufficiency38. these 
+findings support a prosurvival role for 
+autophagy in both normal tissues and in 
+response to metabolic stress.
+in cancer cells, metabolic stress robustly 
+induces autophagy, which is sustained when 
+apoptosis is blocked19,20,22,23. importantly, 
+autophagy is required for tumour cells to 
+survive metabolic stress. genetic inactivation 
+of autophagy, either indirectly by constitu-
+tive activation of the phosphatidylinositol 
+3-kinase (pi3k) pathway or directly by 
+allelic loss of becn1 or deficiency in atg5, 
+or by rna interference (rnai), prevents 
+survival in response to metabolic deprivation 
+even when apoptosis is inactivated19,20,22,23. 
+presumably, in the absence of an external 
+nutrient source the catabolic capacity of 
+autophagy can sustain viability, but the role 
+of autophagy in cell damage control and miti-
+gation in response to stress may be equally 
+important. amino-acid starvation, glucose 
+and oxygen deprivation, growth-factor 
+withdrawal and cytotoxic cellular damage are 
+among the many stimuli that potently induce 
+autophagy2. in the example of nutrient star-
+vation, autophagy serves as a back-up energy 
+reserve, whereas the autophagic response 
+to cellular damage probably facilitates 
+adaptation through the removal of damaged 
+proteins and organelles.
+autophagy regulation
+autophagy is controlled mainly, but not 
+exclusively, by the kinase mammalian 
+target of rapamycin (mtor; also known 
+as frap1), which is a downstream com-
+ponent of the pi3k pathway2,39. mtor 
+functions in part to suppress autophagy 
+in response to nutrient and growth-factor 
+availability. conditions of starvation cause 
+the de-repression of autophagy, which 
+initiates isolation membrane or phagophore 
+formation and the subsequent genesis of 
+autophagosomes. autophagosomes are 
+double-membrane vesicles that sequester 
+cytoplasm and organelles. the autophagy-
+regulated or atg proteins are required for 
+the activation of autophagy, the formation 
+of autophagosomes, the sequestration of 
+intracellular constituents, and the targeting 
+and fusion of autophagosomes to lysosomes 
+where the contents are degraded and recy-
+cled39–41. for example, the serine/threonine 
+protein kinase atg1 (also known as ulk1) 
+is a candidate for activation by mtor de-
+repression that stimulates autophagy. atg5 
+p e r s p e c t i v e s
+a  
+oncogene activation
+apoptosis inhibition
+normal epithelium
+initiation
+proliferation 
+and apoptosis
+proliferation and
+tumour growth
+b  
+tumour growth, metabolic stress, autophagy and survival
+angiogenesis and
+tumour growth
+c 
+becn 1+/–
+tumour growth and
+metabolic stress
+dna damage, mutation
+and chronic necrosis
+inflammation, angiogenesis
+and tumour progression
+nature reviews | cancer
+figure 2 |	role	of	apoptosis	and	autophagy	in	tumorigenesis.	a	| tumour-initiating mutational 
+events such as oncogene activation promote cell proliferation, but also apoptosis, which limits tumour 
+growth. following the acquisition of defects in apoptosis, tumour proliferation is sustained in the 
+absence of apoptotic cell death. b	| tumour growth is initially limited by the absence of a blood supply, 
+which can trigger autophagy-mediated survival in the most metabolically stressed tumour regions, 
+commonly the hypoxic center19,20,23. the eventual recruitment of a blood supply cures the tumour of 
+hypoxia and metabolic stress, and the tumour cells formerly surviving through autophagy can emerge 
+to contribute to tumour growth30. c	| in tumours formed by cells with defects in both apoptosis and 
+autophagy, necrotic cell death is stimulated in metabolically stressed tumour regions and this 
+necrosis is associated with the activation of an inflammatory response, dna damage and tumour 
+progression19,20,23. analogous to a wound-healing response, chronic necrosis and inflammation can 
+stimulate angiogenesis and tumour growth24–26.
+is required for autophagy and becomes 
+covalently conjugated to the ubiquitin-like 
+protein atg12 by the ubiqutin-activating 
+enzyme atg7, but the specific role of this 
+process in autophagy is not known. becn1 
+is part of the class iii pi3k vps34 complex 
+that is also required for autophagy. atg8 
+(also known as map1lc3) is another 
+ubiquitin-like protein that is cleaved, 
+lipidated and becomes a component of the 
+autophagosome membrane, and this mem-
+brane translocation event is commonly used 
+to monitor autophagy42,43.
+the mechanics of phagophore and 
+autophagosome formation and the recogni-
+tion and capture of autophagosome cargo 
+are presently unclear. autophagy may be 
+a nonspecific, bulk degradation process 
+in some situations, and in others it may 
+be specific for targeting mitochondria44–46, 
+catalase47, peroxisomes48–50, endoplasmic 
+reticulum51, and aggregation-prone 
+proteins and protein aggregates6–8,52–54 
+for autophagy-mediated degradation. in 
+the case of polyubiquitylated proteins, 
+the multifunctional adaptor protein 
+p62/sqstm1 might facilitate the specific 
+autophagosome-targeting process53,55.  
+if or how other aggregation-prone proteins, 
+protein aggregates and organelles are 
+recognized and targeted by the autophagy 
+machinery is yet to be determined.
+autophagy in cell survival or death
+in cancer cells, autophagy can, in some 
+situations, increase apoptotic20,56 (fig. 1b) 
+and caspase-independent57 cell death. 
+however, autophagy has a more prominent 
+role in sustaining cell viability in cancer 
+cells with defects in apoptosis19,20,22,23 (fig. 1c). 
+apoptosis-defective tumour cells have the 
+remarkable ability to tolerate long-term 
+metabolic stress, either by cytokine depriva-
+tion in dependent lymphoid cells22 or by 
+oxygen (hypoxia) and glucose deprivation 
+in epithelial cells19,20,23,30,33,34. although the 
+absence of pro-apoptotic bax and bak or 
+the gain of anti-apoptotic bcl2 or bcl-xl 
+function adequately explains why cells fail to 
+die when deprived, it is insufficient to explain 
+how cell viability is maintained for weeks 
+under the harsh metabolic stress conditions 
+of nutrient deprivation in vitro and in vivo. it 
+is now clear that surviving metabolic stress 
+in vitro and in tumours in vivo is dependent 
+on autophagy.
+nature reviews | cancer	
+ volume 7 | december 2007 | 963
+© 2007 nature publishing group  
+p e r s p e c t i v e s
+a 
+angiogenesis inhibitors
+growth factor and/or 
+cytokine–signalling inhibition
+nutrient limitation
+autophagy 
+inhibitors
+tumour growth, metabolic stress, survival by autophagy and acute necrosis
+b  
+autophagy inhibitors
+surgery
+chemotherapy
+radiation
+metastasis
+due to defective autophagy remains to be 
+determined. furthermore, if or how this 
+contributes to viability of the cell population 
+is not determined. this ‘preservation phase’ 
+is probably vital for controlling cellular 
+consumption and mitigating protein and 
+organelle damage while suppressing metabo-
+lism and energy use to prolong cell viability 
+and enable recovery (fig. 1c).
+tumour suppression
+tumour growth
+metabolic stress
+necrosis or apoptosis
+tumour suppression
+c  
+autophagy activators 
+rapamycin
+tumour suppression
+tumour growth, metabolic stress, progressive autophagy, autophagic cell death, 
+mitigation of stress and genome damage
+figure 3 |	application	of	autophagy	modulation	to	cancer	therapy.	a	| in apoptosis-defective 
+nature reviews | cancer
+tumours that are reliant on autophagy to survive metabolic stress, autophagy inhibitors can be used 
+to induce acute necrotic cell death that may be facilitated by proteasome inhibition, enabling tumour 
+eradication. b	| in the adjuvant setting, and after elimination of a large proportion of the tumour by 
+radiation and chemotherapy, the remaining cells can reside in a disrupted and stressed environment, 
+susceptible to inhibition of the autophagy survival mechanism. tumour cells in the process of meta-
+stasis can be similarly vulnerable. c	| autophagy stimulators may be therapeutically useful to either 
+promote autophagic cell death or to prevent the damaging effects of autophagy deficiency and 
+mismanagement of metabolic stress leading to dna damage and tumour progression. by limiting 
+protein, organelle and ultimately dna damage, autophagy stimulators may suppress tumour progres-
+sion. in human breast, ovarian and prostate cancers, where allelic loss of becn1 occurs with high 
+frequency, correction of the autophagy deficiency with autophagy stimulators may delay tumour 
+progression by reducing the rate at which tumour-promoting mutations accumulate.
+the availability of cells with defects in 
+apoptosis, with or without the capacity for 
+autophagy (becn1+/+ or becn1 +/– and atg5+/+, 
+atg5 +/– or atg5–/–) has allowed a prolonged 
+evaluation of the cellular response to 
+metabolic stress, the survival from which is 
+autophagy-dependent. deprived epithelial 
+and lymphoid cells using the autophagy sur-
+vival function remain viable for weeks, during 
+which time they undergo a dramatic decrease 
+in cell size through progressive cellular con-
+sumption19,20,22,23. although bcl2 localized 
+to the endoplasmic reticulum can interact 
+with becn1 and inhibit autophagy58, in the 
+functional context in which the normally 
+predominantly mitochondrial bcl2 blocks 
+apoptosis and confers tumorigenic growth, 
+autophagy is efficiently induced in response 
+to metabolic stress19,20,23,30. it remains possible 
+that the regulation of becn1 by bcl2 is 
+more subtle or context-dependent.
+it is clear from the analysis of time-lapse 
+microscopy of apoptosis-defective immortal 
+epithelial cells undergoing autophagy-mediated  
+survival as a result of starvation that this 
+is a complex, poorly characterized and 
+prolonged process19,36. initially, autophagy 
+supports the continuation of cell prolif-
+eration under metabolic stress, which is 
+consistent with a role for autophagy in the 
+maintenance of homeostasis to support 
+normal cell function during intermittent 
+interruptions in nutrient availability (fig. 1c). 
+this ‘maintenance phase’ might also be 
+crucial for sustaining atp levels and cardiac 
+function during the neonatal starvation 
+period in mice38.
+beyond two days of starvation cell divi-
+sion ceases, cells shrink markedly (fig. 1c), 
+motility is suppressed and cells aggregate into 
+small clusters19,20,23,36. these aggregated clus-
+ters of starved cells often show evidence of 
+cells consuming other cells, or heterophagy, 
+particularly when cells are in a confined 
+space such as spheroid growth in matrigel20. 
+whether these cells are dead or alive at the 
+time of consumption or if the persistence 
+of these corpses reflects degradation failure 
+autophagy enables stress recovery
+remarkably, autophagy affords cells a 
+resilient capacity for regeneration, whereby 
+restoration of nutrients results in an increase 
+in cell size to that before starvation (fig. 1c) 
+and resumption of cell proliferation19,22,36. 
+this recovery process is rapid and efficient, 
+and dramatically impaired by defects in 
+autophagy (becn1+/– or atg5–/–). thus, 
+autophagy-deficient cells not only fail to 
+tolerate metabolic stress but are also defective 
+in the recovery process23. mitigation of the 
+damaging effects of stress, including damaged 
+protein, dna and organelle accumulation 
+during this phase is probably crucial for 
+enabling recovery.
+following prolonged starvation and pro-
+gressive autophagy, what defines the minimal 
+cell that is capable of recovery and what 
+events eventually lead to cellular demise are 
+currently unknown. this capacity for dura-
+ble, long-term survival of metabolic stress 
+through autophagy might be vital for the 
+survival of tumour cells that remain viable 
+following treatment, for metastatic tumour 
+cells (fig. 3c) and possibly for stem cells. in 
+cells using autophagy to survive metabolic 
+stress there is a gradual erosion of cell viabil-
+ity with time (fig. 1c), but whether this is due 
+to autophagic cell death or eventual cellular 
+attrition through atrophy is not clear. finally, 
+the interaction of cells undergoing progres-
+sive autophagy, either dead or alive, with the 
+immune system is unknown.
+autophagy and tumour dormancy
+one of the most daunting clinical problems 
+is the frequent re-emergence of tumours 
+following treatment, often after prolonged 
+dormancy59. how residual tumour cells 
+cope with metabolic stress and remain 
+viable yet dormant needs to be determined, 
+as elimination of these tumour cells might 
+be essential to achieving durable treatment 
+responses. the survival of tumour cells 
+through autophagy may be a key mechanism 
+to enable long-term tumour-cell survival 
+and eventual re-growth and relapse. thus, 
+autophagy may allow residual or metasta-
+sizing tumour cells to tolerate metabolic 
+deprivation with the flexibility to recover 
+964 | december 2007 | volume 7 
+	www.nature.com/reviews/cancer
+© 2007 nature publishing group  
+p e r s p e c t i v e s
+once growth conditions are favourable. this 
+dramatic capacity for recovery afforded by 
+autophagy vaguely resembles the process of 
+sporulation in microorganisms, and its sup-
+pression may be essential to achieve efficient 
+cancer eradication.
+metabolic stress and necrosis
+inactivation of autophagy, either by allelic 
+loss of becn1, deficiency in atg5, rnai 
+knockdown of expression of essential 
+autophagy regulators, or constitutive 
+activation of the pi3k pathway and mtor-
+mediated inhibition of autophagy, prevents 
+cells surviving metabolic stress. in apoptosis-
+defective cells this results in cell death by 
+necrosis19 (fig. 1d). what specifically triggers 
+necrosis is unknown, but insufficient atp 
+production to maintain plasma-membrane 
+integrity resulting in metabolic catastrophe 
+and cell lysis is highly probable36. this is 
+important because inhibition of autophagy 
+is a means for sensitizing tumour cells to 
+metabolic stress that is effective even in 
+tumour cells with defects in apoptosis that 
+would otherwise be difficult to eliminate36,60. 
+although diverting apoptosis-defective 
+tumour cells to a necrotic cell fate may not 
+be a benign cell death61 (box 1), stimulation 
+of acute necrotic cell death, if efficient 
+enough, may be therapeutically useful 
+(fig. 3a). indeed, the mechanism of cell death 
+induction by alkylating agents involves 
+poly(adp-ribose) polymerase (parp) 
+activation and atp consumption resulting 
+in acute necrotic tumour cell death, which 
+probably accounts for their success in the 
+clinic62. combining autophagy inhibitors 
+with metabolic stress conditions might be a 
+similarly effective means of promoting acute 
+necrotic tumour cell death.
+autophagy and tumour suppression 
+the role for autophagy as a survival mecha-
+nism in normal cells and in tumour cells 
+seems to contradict the observation that 
+loss-of-function mutations in the autophagy 
+pathway are associated with tumour pro-
+gression14–17,19,20. furthermore, constitutive 
+activation of the pi3k pathway is one of the 
+most common events in human cancer63, 
+and the downstream kinase mtor restricts 
+autophagy induction in response to starva-
+tion64. how loss of this autophagy-mediated 
+survival pathway promotes tumorigenesis 
+was initially difficult to reconcile; however, 
+two non-mutually exclusive possibilities have 
+emerged. one explanation is that stimula-
+tion of necrotic cell death and inflammation 
+caused by defects in apoptosis and autophagy 
+provides a cell with non-autonomous means 
+of tumour promotion through induction of a 
+chronic wound-healing response19. another 
+explanation is that proper management 
+of metabolic stress through autophagy is 
+required in tumour cells to suppress the 
+accumulation of deleterious mutations, per-
+haps caused by the increased oxidative stress 
+that can drive tumour progression20,23,36. as 
+such, overall cellular viability is compromised 
+in tumour cells with defects in autophagy, but 
+this initial disadvantage is overcome by an 
+increased mutation rate resulting from failure 
+of stress management in a cell-autonomous 
+mechanism of tumour promotion. this 
+is analogous to the mechanism by which 
+defects in dna repair cause sensitivity to 
+dna damage, yet the accelerated rate of 
+mutation that results from deficient dna 
+repair confers an increased incidence of 
+tumour formation65.
+autophagy limits genome damage
+autophagy is required in stressed cells for 
+maintaining protein and organelle quality 
+control and energy homeostasis2. a pos-
+sible reconciliation of the pro-survival and 
+tumour suppression functions of autophagy 
+is that some aspect of the mismanagement 
+of metabolic stress in autophagy-deficient 
+tumour cells leads to genome damage and 
+tumour progression20,23,60,66. this could occur 
+through protein, organelle and dna damage, 
+or insufficient atp levels for essential cel-
+lular functions that are required to maintain 
+genome integrity, such as mitosis and dna 
+replication and repair. this notion is sup-
+ported by upregulation of the dna damage 
+response, evidence of dna double-strand 
+breaks, and aneuploidy in autophagy-defec-
+tive immortal epithelial cells in association 
+with increased tumorigenesis20,23 (fig. 2c). 
+this genome damage is manifested most 
+obviously in cells with a defect in apoptosis, 
+which would otherwise eliminate most of 
+these damaged, abnormal cells, and is prob-
+ably also facilitated by cell-cycle checkpoint 
+inactivation (immortalization through rb1 
+and p53 loss). increased genome damage 
+resulting from an autophagy defect, however, 
+does not require a defect in apoptosis23, 
+consistent with the tumour-prone state 
+of becn1-heterozygous mutant mice that 
+have the apoptotic response intact16,17. the 
+origin of the increased dna damage in 
+autophagy-defective cells is not yet known. 
+malfunctioning organelles, accumulation of 
+toxic protein aggregates, generation of reac-
+tive oxygen species and oxidative stress, and 
+failure of energy homeostasis are all potential 
+contributors to induction of genome damage 
+when autophagy is defective.
+genetic instability and an enhanced muta-
+tion rate promote tumour-cell evolution and 
+adaptation to drive progression and resistance 
+to therapy (fig. 2c). it is the rare, adapted, 
+resistant tumour cells, which emerge typically 
+following therapy, that are lethal. autophagy 
+deficient, immortal epithelial cells show an 
+increased rate of gene amplification20,23, the 
+most common mechanism of oncogene 
+activation in human tumours67, rendering 
+this scenario plausible. cancer is a disease 
+where it is often the case that what grows back 
+kills you, and what grows back is a mutated 
+and more aggressive version of the original 
+tumour generated by mutation, selection 
+and genome instability. despite the reduced 
+cellular fitness caused by deficient autophagy, 
+the poor survival but superior adaptation 
+through an increased mutation rate might 
+be the key advantage that promotes tumori-
+genesis (fig. 2c). interestingly, autophagy is 
+associated with longevity, suggesting a role 
+in the suppression of ageing phenotypes68,69. 
+as dna damage accelerates both cancer 
+and ageing, this supports a general role for 
+autophagy in protecting cellular and genome 
+fitness to prevent cancer and extend lifespan.
+ box 1 | necrotic cell death stimulates inflammation 
+necrosis typically results from physical injury in which cell lysis and the release of intracellular 
+contents, including hmgb1 (ref. 80), activate the innate immune system and a wound-healing 
+response61. this recruitment of inflammatory cells provides cytokines, fostering cell growth to 
+replace damaged tissue while removing cell debris24–26. once the tissue damage is repaired, the 
+wound-healing response abates. tumours, however, often show persistent, chronic necrosis and 
+inflammation in a corrupted version of a wound-healing response. necrotic tumours are 
+associated with poor prognosis and the persistent inflammatory infiltration and cytokine 
+production are thought to promote tumour growth81. a high proportion of tumours have 
+constitutive activation of the phosphatidylinositol-3 kinase pathway, which inhibits the induction 
+of autophagy in response to metabolic stress, and many tumours also have defects in apoptosis. 
+this generates a necrotic cell-death response to metabolic stress. a chronic necrotic response to 
+persistent metabolic stress is created by rapid tumour growth and high metabolic demand that 
+outpaces atp production by glycolysis, angiogenesis and nutrient availability. thus, a necrotic cell 
+fate is a common event in tumorigenesis, and evidence suggests that this alters the tumour–
+microenvironment interaction, although the mechanisms involved are poorly understood.
+nature reviews | cancer	
+ volume 7 | december 2007 | 965
+© 2007 nature publishing group  
+p e r s p e c t i v e s
+autophagy inhibition in cancer therapy
+the ability to inhibit autophagy and sensitize 
+even apoptosis-resistant tumour cells to 
+metabolic stress is a promising avenue for 
+cancer therapy. as many current cancer 
+therapies (angiogenesis and growth factor 
+and receptor inhibitors, for example) inflict 
+metabolic stress, to which tumours are par-
+ticularly vulnerable because of high metabolic 
+demand and reliance on glycolysis, autophagy 
+inhibitors may be particularly useful (fig. 3a). 
+even conventional surgery, radiation and 
+chemotherapy disrupt tumour architecture 
+and vascularization leaving any remaining 
+tumour cells potentially susceptible to meta-
+bolic stress and autophagy-inhibitory therapy 
+(fig. 3b). furthermore, the process of cancer 
+metastasis necessarily requires that tumour 
+cells survive in isolation from the primary 
+tumour, without its nutrient support system. 
+this metastasis-prone state may be particu-
+larly susceptible to autophagy inhibition as 
+cells in isolation are expected to be more 
+reliant on autophagy, although this remains to 
+be investigated (fig. 3b). although inhibition 
+of autophagy can promote apoptosis under 
+nutrient-deprived conditions20,56, there is the 
+advantage that this is also effective on tumour 
+cells with defects in apoptosis through 
+induction of acute necrotic cell death (fig. 3a). 
+preclinical studies with chloroquine, which 
+inhibits lysosome acidification and thereby 
+autophagy, in conjunction with alkylating 
+agents, showed remarkable efficacy inhibiting 
+tumour growth in mice70. synergy between 
+chloroquine and the hdac inhibitor saha 
+in killing imatinib-refractory chronic myeloid 
+leukaemia cells also indicates the protective 
+role for autophagy, supporting the thera-
+peutic use of autophagy inhibitors in cancer 
+therapy71. development of specific inhibitors 
+that target the autophagy pathway directly, 
+such as inhibitors of the kinases atg1 and 
+vps34, which positively regulate autophagy, 
+warrant similar investigation.
+another angle for the use of autophagy 
+inhibitors is their potential synergy with 
+proteasome inhibitors. protein turnover 
+by lysosomal degradation through the 
+autophagy pathway is functionally coupled 
+to, and compensatory with, the ubiquitin-
+mediated proteasome protein degradation 
+pathway72–74. thus compromising both 
+proteasome- and autophagy-mediated 
+protein degradation may be a particularly 
+lethal combination to tumour cells with a 
+high metabolic rate or with increased suscep-
+tibility to production of unfolded proteins, 
+which is worth testing therapeutically (fig. 
+3a). the proteasome inhibitor bortezomib 
+has the approval of the us food and drug 
+966 | december 2007 | volume 7 
+administration and shows efficacy in treating 
+multiple myeloma75 and more proteasome 
+inhibitors are in development that will enable 
+testing of this possibility.
+autophagy and chemoprevention
+promoters of autophagy also have the poten-
+tial for clinical benefit in the setting of cancer 
+prevention. as autophagy is required for the 
+effective management of metabolic stress, 
+promoting autophagy through mtor inhibi-
+tion, for example, might be expected to limit 
+tumour progression (fig. 3c). this approach 
+has shown promise in the treatment of degen-
+erative disorders that are linked to aberrant 
+protein accumulation, such as huntington’s 
+disease, that is reliant on autophagy for the 
+removal of aggregated mutant proteins74,76. 
+whether autophagy stimulation can be used 
+in individuals at risk to slow the progres-
+sion of breast, ovarian and prostate cancers, 
+which have a high incidence of allelic loss of 
+becn1, remains to be investigated. however, 
+distinguishing the contribution of autophagy 
+stimulation to tumour regression from the 
+anti-proliferative effects of mtor inhibition 
+will be essential for determining whether this 
+is a valid approach.
+therapeutic induction of autophagic cell 
+death through over-stimulation of autophagy 
+remains another means for tumour-cell 
+elimination (fig. 3c). cytotoxic drug treat-
+ment often triggers autophagy, particularly 
+in apoptosis-defective cells, and the excessive 
+cellular damage and attempt to remediate that 
+damage through progressive autophagy can 
+promote autophagic cell death77. to this end, 
+a better understanding of the conditions that 
+distinguish between the survival-supporting 
+and death-promoting roles for autophagy 
+will be necessary. furthermore, roles for 
+autophagy, along with the elucidation of the 
+signalling pathways that confer specificity 
+to the autophagic response downstream of 
+different stimuli, will be necessary to selec-
+tively activate the specific and therapeutic 
+response desired.
+future directions
+we are at the initial stages of understanding 
+the complex interplay of autophagy and 
+cancer, but it is clear that autophagy is deeply 
+integrated into metabolism, stress response 
+and cell-death pathways. these responses 
+might vary with cell type and type of stress, 
+and will undoubtedly reflect the nature of 
+the mutational events that have occurred in 
+the tumour cells, not only that of becn1 
+and the pi3k pathway as described above, 
+but also p53 status78,79. establishing the muta-
+tional events and the order of those events 
+with respect to mutational inactivation of the 
+autophagy pathway in human tumours, and 
+using mouse models of human cancers, may 
+be informative. molecular markers for the 
+functional capacity for autophagy in human 
+tumours and their possible association 
+with prognosis need to be established. the 
+connection between the mismanagement 
+of metabolic stress and the induction of 
+genome damage in autophagy-deficient cells 
+is important, but the origins of the dna dam-
+age need to be identified. increased oxidative 
+stress is a likely candidate, but whether this 
+arises from protein or organelle malfunction 
+or is a consequence of metabolic insufficiency 
+remains to be investigated. existing therapies 
+indirectly inflict metabolic stress, but how this 
+is influenced by the competency of tumour 
+cells for autophagy is not known. how 
+autophagy is controlled and regulated, and 
+the specificity that is associated with cellular 
+consumption, requires investigation. it will be 
+important to molecularly and biochemically 
+characterize the minimal cells that are capable 
+of recovery and their relationship to tumour 
+dormancy, and to test the hypothesis that 
+inhibition of autophagy can eliminate dor-
+mant or residual tumour cells for therapeutic 
+benefit. moreover, the possibility of activating 
+autophagy to promote autophagic cell death 
+or limit genome damage and progression in 
+the setting of chemoprevention is intriguing. 
+finally, the molecular events that characterize 
+necrotic cell death and their consequences 
+need to be identified. we are only beginning 
+to understand the tumour–microenvironment 
+interaction and its interface with the immune 
+system, and it is clear that they are intimately 
+intertwined with tumour cell metabolism, cell 
+death mechanisms and the cellular response 
+to stress.
+robin mathew and eileen white are at the university of 
+medicine and dentistry of new jersey, robert wood 
+johnson medical school, piscataway, new jersey 
+08854, usa.
+vassiliki karantza-wadsworth is at the division of 
+medical oncology, department of medicine, university 
+of medicine and dentistry of new jersey, robert wood 
+johnson medical school, piscataway, new jersey 
+08854, usa.
+vassiliki karantza-wadsworth and eileen white are at 
+the cancer institute of new jersey, new brunswick, 
+new jersey 08901, usa.
+eileen white is also at the center for advanced 
+biotechnology and medicine, rutgers university, 
+piscataway, new jersey, usa; and the department of 
+molecular biology and biochemistry, rutgers 
+university, piscataway, new jersey 08854, usa.
+correspondence to e.w.  
+e-mail: ewhite@cabm.rutgers.edu
+doi: 10.1038/nrc2254
+published online 1 november 2007
+	www.nature.com/reviews/cancer
+© 2007 nature publishing group  
+1. 
+levine, b. & klionsky, d. j. development by self-
+digestion: molecular mechanisms and biological 
+functions of autophagy. dev. cell 6, 463–477 
+(2004).
+2.  mizushima, n. autophagy: process and function. 
+genes dev. (in the press)
+3.  hara, t. et al. suppression of basal autophagy in 
+neural cells causes neurodegenerative disease in 
+mice. nature 441, 885–889 (2006).
+4.  komatsu, m. et al. loss of autophagy in the central 
+nervous system causes neurodegeneration in mice. 
+nature 441, 880–884 (2006).
+5.  komatsu, m. et al. impairment of starvation-induced 
+and constitutive autophagy in atg7-deficient mice.  
+j. cell biol. 169, 425–434 (2005).
+6.  ravikumar, b., duden, r. & rubinsztein, d. c. 
+7. 
+9. 
+aggregate-prone proteins with polyglutamine and 
+polyalanine expansions are degraded by autophagy. 
+hum. mol. genet. 11, 1107–1117 (2002).
+shibata, m. et al. regulation of intracellular 
+accumulation of mutant huntingtin by beclin 1. j. biol. 
+chem. 281, 14474–14485 (2006).
+8.  williams, a. et al. aggregate-prone proteins are 
+cleared from the cytosol by autophagy: therapeutic 
+implications. curr. top. dev. biol. 76, 89–101 
+(2006).
+colombo, m. i. autophagy: a pathogen driven 
+process. iubmb life 59, 238–242 (2007).
+10.  qu, x. et al. autophagy gene-dependent clearance 
+of apoptotic cells during embryonic development. 
+cell 128, 931–946 (2007).
+11.  baehrecke, e. h. autophagy: dual roles in life and 
+death? nature rev. mol. cell biol. 6, 505–510 
+(2005).
+12.  debnath, j., baehrecke, e. h. & kroemer, g. does 
+autophagy contribute to cell death? autophagy 1, 
+66–74 (2005).
+13.  reef, s. et al. a short mitochondrial form of p19arf 
+induces autophagy and caspase-independent cell 
+death. mol. cell 22, 463–475 (2006).
+14.  aita, v. m. et al. cloning and genomic organization of 
+beclin 1, a candidate tumor suppressor gene on 
+chromosome 17q21. genomics 59, 59–65 (1999).
+15.  liang, x. h. et al. induction of autophagy and 
+inhibition of tumorigenesis by beclin 1. nature 402, 
+672–676 (1999).
+16.  qu, x. et al. promotion of tumorigenesis by 
+heterozygous disruption of the beclin 1 autophagy 
+gene. j. clin. invest. 112, 1809–1820 (2003).
+17.  yue, z., jin, s., yang, c., levine, a. j. & heintz, n. 
+beclin 1, an autophagy gene essential for early 
+embryonic development, is a haploinsufficient 
+tumor suppressor. proc. natl acad. sci. usa 100, 
+15077–15082 (2003).
+18.  marino, g. et al. tissue-specific autophagy 
+alterations and increased tumorigenesis in mice 
+deficient in atg4c/autophagin-3. j. biol. chem. 282, 
+18573–18583 (2007).
+19.  degenhardt, k. et al. autophagy promotes tumor cell 
+survival and restricts necrosis, inflammation, and 
+tumorigenesis. cancer cell 10, 51–64 (2006).
+20.  karantza-wadsworth, v. et al. autophagy mitigates 
+metabolic stress and genome damage in mammary 
+tumorigenesis. genes dev. 21, 1621–1635 (2007).
+21.  karantza-wadsworth, v. & white, e. role of 
+autophagy in breast cancer. autophagy 3, 610–613 
+(2007).
+22.  lum, j. j. et al. growth factor regulation of 
+autophagy and cell survival in the absence of 
+apoptosis. cell 120, 237–248 (2005).
+23.  mathew, r. et al. autophagy suppresses tumor 
+progression by limiting chromosomal instability. 
+genes dev. 21, 1367–1381 (2007).
+24.  balkwill, f., charles, k. a. & mantovani, a. 
+smoldering and polarized inflammation in the 
+initiation and promotion of malignant disease. 
+cancer cell 7, 211–217 (2005).
+25.  vakkila, j. & lotze, m. t. inflammation and necrosis 
+promote tumour growth. nature rev. immunol. 4, 
+641–648 (2004).
+26.  zeh, h. j. 3rd & lotze, m. t. addicted to death: 
+invasive cancer and the immune response to 
+unscheduled cell death. j. immunother. (1997) 28, 
+1–9 (2005).
+27.  ellerman, j. e. et al. masquerader: high mobility 
+group box-1 and cancer. clin. cancer res. 13, 
+2836–2848 (2007).
+28.  karin, m. nuclear factor-κb in cancer development 
+and progression. nature 441, 431–436 (2006).
+29.  karin, m., lawrence, t. & nizet, v. innate immunity 
+gone awry: linking microbial infections to chronic 
+inflammation and cancer. cell 124, 823–835 
+(2006).
+30.  nelson, d. a. et al. hypoxia and defective apoptosis 
+drive genomic instability and tumorigenesis. genes 
+dev. 18, 2095–2107 (2004).
+31.  adams, j. m. & cory, s. bcl-2-regulated apoptosis: 
+mechanism and therapeutic potential. curr. opin. 
+immunol. 19, 488–496 (2007).
+32.  fesik, s. w. promoting apoptosis as a strategy for 
+cancer drug discovery. nature rev. cancer 5, 
+876–885 (2005).
+33.  degenhardt, k., sundararajan, r., lindsten, t., 
+thompson, c. & white, e. bax and bak independently 
+promote cytochrome c release from mitochondria.  
+j. biol. chem. 277, 14127–14134 (2002).
+34.  tan, t. t. et al. key roles of bim-driven apoptosis in 
+epithelial tumors and rational chemotherapy. cancer 
+cell 7, 227–238 (2005).
+35.  warburg, o. on respiratory impairment in cancer 
+cells. science 124, 269–270 (1956).
+36.  jin, s., dipaola, r. s., mathew, r. & white, e. 
+metabolic catastrophe as a means to cancer cell 
+death. j. cell sci. 120, 379–383 (2007).
+37.  pua, h. h., dzhagalov, i., chuck, m., mizushima, n. 
+& he, y. w. a critical role for the autophagy gene 
+atg5 in t cell survival and proliferation. j. exp. med. 
+204, 25–31 (2007).
+38.  kuma, a. et al. the role of autophagy during the early 
+neonatal starvation period. nature 432, 1032–1036 
+(2004).
+39.  klionsky, d. j. autophagy: from phenomenology to 
+molecular understanding in less than a decade. 
+nature rev. mol. cell biol. 22 aug 2007 (doi: 
+10.1038/nrm2245).
+40.  klionsky, d. j. the molecular machinery of 
+autophagy: unanswered questions. j. cell sci. 118, 
+7–18 (2005).
+41.  ohsumi, y. & mizushima, n. two ubiquitin-like 
+conjugation systems essential for autophagy. semin. 
+cell dev. biol. 15, 231–236 (2004).
+42.  mizushima, n. methods for monitoring autophagy. 
+int. j. biochem. cell biol. 36, 2491–2502 (2004).
+43.  mizushima, n., yamamoto, a., matsui, m., yoshimori, 
+t. & ohsumi, y. in vivo analysis of autophagy in 
+response to nutrient starvation using transgenic mice 
+expressing a fluorescent autophagosome marker. 
+mol. biol. cell 15, 1101–1111 (2004).
+44.  jin, s. autophagy, mitochondrial quality control, and 
+oncogenesis. autophagy 2, 80–84 (2006).
+45.  kim, i., rodriguez-enriquez, s. & lemasters, j. j. 
+selective degradation of mitochondria by mitophagy. 
+arch. biochem. biophys. 462, 245–253 (2007).
+46.  zhang, y. et al. the role of autophagy in mitochondria 
+maintenance: characterization of mitochondrial 
+functions in autophagy-deficient s. cerevisiae strains. 
+autophagy 3, 337–346 (2007).
+47.  yu, l. et al. autophagic programmed cell death by 
+48. 
+selective catalase degradation. proc. natl acad. sci. 
+usa 103, 4952–4957 (2006).
+iwata, j. et al. excess peroxisomes are degraded by 
+autophagic machinery in mammals. j. biol. chem. 
+281, 4035–4041 (2006).
+49.  monastyrska, i. & klionsky, d. j. autophagy in 
+organelle homeostasis: peroxisome turnover. mol. 
+aspects med. 27, 483–494 (2006).
+50.  sakai, y., oku, m., van der klei, i. j. & kiel, j. a. 
+pexophagy: autophagic degradation of peroxisomes. 
+biochim. biophys. acta 1763, 1767–1775 (2006).
+51.  yorimitsu, t. & klionsky, d. j. eating the endoplasmic 
+reticulum: quality control by autophagy. trends cell 
+biol. 17, 279–285 (2007).
+52.  berger, z. et al. rapamycin alleviates toxicity of 
+different aggregate-prone proteins. hum. mol. genet. 
+15, 433–442 (2006).
+53.  bjorkoy, g. et al. p62/sqstm1 forms protein 
+aggregates degraded by autophagy and has a 
+protective effect on huntingtin-induced cell death.  
+j. cell biol. 171, 603–614 (2005).
+54.  sarkar, s. et al. small molecules enhance autophagy 
+and reduce toxicity in huntington’s disease models. 
+nature chem. biol. 3, 331–338 (2007).
+55.  pankiv, s. et al. p62/sqstm1 binds directly to atg8/
+lc3 to facilitate degradation of ubiquitinated protein 
+aggregates by autophagy. j. biol. chem. 282, 
+24131–24145 (2007).
+56.  boya, p. et al. inhibition of macroautophagy triggers 
+apoptosis. mol. cell biol. 25, 1025–1040 (2005).
+57.  colell, a. et al. gapdh and autophagy preserve 
+survival after apoptotic cytochrome c release in the 
+absence of caspase activation. cell 129, 983–997 
+(2007).
+p e r s p e c t i v e s
+58.  pattingre, s. et al. bcl-2 antiapoptotic proteins inhibit 
+beclin 1-dependent autophagy. cell 122, 927–939 
+(2005).
+59.  aguirre-ghiso, j. a. the problem of cancer 
+dormancy: understanding the basic mechanisms and 
+identifying therapeutic opportunities. cell cycle 5, 
+1740–1743 (2006).
+60.  jin, s. & white, e. role of autophagy in cancer: 
+management of metabolic stress. autophagy 3, 28–31 
+(2007).
+61.  zong, w. x. & thompson, c. b. necrotic death as a 
+cell fate. genes dev. 20, 1–15 (2006).
+62.  zong, w. x., ditsworth, d., bauer, d. e., wang, z. q. 
+& thompson, c. b. alkylating dna damage 
+stimulates a regulated form of necrotic cell death. 
+genes dev. 18, 1272–1282 (2004).
+63.  manning, b. d. & cantley, l. c. akt/pkb signaling: 
+navigating downstream. cell 129, 1261–1274 
+(2007).
+64.  guertin, d. a. & sabatini, d. m. defining the role of 
+mtor in cancer. cancer cell 12, 9–22 (2007).
+65.  bartek, j. & lukas, j. dna damage checkpoints: 
+from initiation to recovery or adaptation. curr. opin. 
+cell biol. 19, 238–245 (2007).
+66.  mathew, r. & white, e. why sick cells produce 
+tumors: the protective role of autophagy. autophagy 
+3, 502–505 (2007).
+67.  albertson, d. g. gene amplification in cancer. trends 
+genet. 22, 447–455 (2006).
+68.  finkel, t., serrano, m. & blasco, m. a. the common 
+biology of cancer and ageing. nature 448, 767–774 
+(2007).
+69.  melendez, a. et al. autophagy genes are essential  
+for dauer development and life-span extension in  
+c. elegans. science 301, 1387–1391 (2003).
+70.  amaravadi, r. k. et al. autophagy inhibition 
+enhances therapy-induced apoptosis in a myc-
+induced model of lymphoma. j. clin. invest. 117, 
+326–336 (2007).
+71.  carew, j. s. et al. targeting autophagy augments the 
+anticancer activity of the histone deacetylase 
+inhibitor saha to overcome bcr-abl-mediated drug 
+resistance. blood 110, 313–322 (2007).
+72.  ding, w. x. et al. linking of autophagy to ubiquitin-
+proteasome system is important for the regulation of 
+endoplasmic reticulum stress and cell viability. am. j. 
+pathol. 171, 513–524 (2007).
+73.  pandey, u. b. et al. hdac6 rescues neurodegeneration 
+and provides an essential link between autophagy and 
+the ups. nature 447, 859–863 (2007).
+74.  rubinsztein, d. c. the roles of intracellular protein-
+degradation pathways in neurodegeneration. nature 
+443, 780–786 (2006).
+75.  roccaro, a. m. et al. bortezomib as an antitumor 
+agent. curr. pharm. biotechnol. 7, 441–448 (2006).
+76.  rubinsztein, d. c., gestwicki, j. e., murphy, l. o. & 
+klionsky, d. j. potential therapeutic applications of 
+autophagy. nature rev. drug discov. 6, 304–312 
+(2007).
+77.  shimizu, s. et al. role of bcl-2 family proteins in a 
+non-apoptotic programmed cell death dependent on 
+autophagy genes. nature cell biol. 6, 1221–1228 
+(2004).
+78.  crighton, d. et al. dram, a p53-induced modulator 
+of autophagy, is critical for apoptosis. cell 126, 
+121–134 (2006).
+79.  feng, z., zhang, h., levine, a. j. & jin, s. the 
+coordinate regulation of the p53 and mtor 
+pathways in cells. proc. natl acad. sci. usa 102, 
+8204–8209 (2005).
+80.  lotze, m. t., deisseroth, a. & rubartelli, a. damage 
+associated molecular pattern molecules. clin. 
+immunol. 124, 1–4 (2007).
+81.  balkwill, f. cancer and the chemokine network. 
+nature rev. cancer 4, 540–550 (2004).
+acknowledgements
+research in the white laboratory is supported by grants 
+from the national institutes of health and the department 
+of defense. we thank t. sharkey for assistance with prepara-
+tion of the manuscript, the members of the white laboratory 
+and our collaborators for helpful discussions.
+databases
+entrez gene: http://www.ncbi.nlm.nih.gov/entrez/query.
+fcgi?db=gene
+atg5 | atg7 | atg12 | bak | bax | bcl2 | bcl2l1 | becn1 | 
+frap1 | hmgb1 | map1lc3 | nfκb | ulk1
+all	links	are	active	in	the	online	pdf
+nature reviews | cancer	
+ volume 7 | december 2007 | 967
+© 2007 nature publishing group

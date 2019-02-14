@@ -1,0 +1,618 @@
+legionella pneumophila inhibits macrophage
+apoptosis by targeting pro-death members
+of the bcl2 protein family
+simran banga*, ping gao*, xihui shen*, valena fiscus†, wei-xing zong‡, lingling chen†, and zhao-qing luo*§
+*department of biological sciences, purdue university, 915 west state street, west lafayette, in 47907; †department of biology, indiana university, 915
+east third street, bloomington, in 47405; and ‡department of molecular genetics and microbiology, stony brook university, stony brook, ny 11794
+edited by frederick m. ausubel, harvard medical school, boston, ma, and approved january 30, 2007 (received for review december 12, 2006)
+to establish a vacuole that supports bacterial replication, legio-
+nella pneumophila translocates a large number of bacterial pro-
+teins into host cells via the dot/icm type iv secretion system.
+functions of most of these translocated proteins are unknown, but
+recent investigations suggest their roles in modulating diverse host
+processes such as vesicle trafﬁcking, autophagy, ubiquitination,
+and apoptosis. cells infected by l. pneumophila exhibited resis-
+tance to apoptotic stimuli, but the bacterial protein directly in-
+volved in this process remained elusive. we show here that sidf,
+one substrate of the dot/icm transporter, is involved in the inhi-
+bition of infected cells from undergoing apoptosis to allow max-
+imal bacterial multiplication. permissive macrophages harboring a
+replicating sidf mutant are more apoptotic and more sensitive to
+staurosporine-induced cell death. furthermore, cells expressing
+sidf are resistant to apoptosis stimuli. sidf contributes to apopto-
+sis resistance in l. pneumophila-infected cells by speciﬁcally inter-
+acting with and neutralizing the effects of bnip3 and bcl-rambo,
+two proapoptotic members of bcl2 protein family. thus, inhibiting
+the functions of host pro-death proteins by translocated effectors
+constitutes a mechanism for l. pneumophila to protect host cells
+from apoptosis.
+bacterial pathogenesis 兩 type iv secretion 兩 intracellular pathogen 兩
+cell death
+programmed cell death plays an important role in the defense
+against pathogens, and manipulation of host cell apoptotic
+processes could determine the outcome of the interplay between
+the host cell and a pathogen (1). many pathogens have thus
+evolved various sophisticated strategies to manipulate the exe-
+cution of programmed cell death pathways for successful colo-
+nization of the host. among these, a variety of viruses code for
+proteins that specifically inhibit host apoptotic pathways to
+ensure maximal multiplication (1). similarly, some bacterial
+pathogens such as chlamydia trachomatis and bartonella
+henselae suppress cell death in infected cells (2, 3).
+legionella pneumophila is a facultative intracellular pathogen
+capable of multiplying in a wide spectrum of eukaryotic cells.
+intracellular growth of l. pneumophila requires the dot/icm
+type iv protein translocation system that injects a large number
+of bacterial effectors into host cells (4). these translocated
+bacterial proteins are believed to reorchestrate host cellular
+processes, thus allowing the vacuole containing internalized l.
+pneumophila to undergo a unique trafficking route that bypasses
+the endocytic pathways. by intercepting vesicles originating from
+the endoplasmic reticulum (er), the l. pneumophila-containing
+vacuole eventually is transformed into a compartment charac-
+teristic of rough er (5). consistent with this notion, l. pneu-
+mophila modulates the activities of vesicle trafficking regulatory
+molecules such as small gtpases arf1 and rab1 by translocated
+guanine nucleotide exchange factors specific for these proteins,
+thus facilitating the acquisition of er materials and the subse-
+quent intracellular bacterial multiplication (6–8).
+modulation of nonvesicle trafficking pathways by l. pneumo-
+phila also is important for its intracellular replication; pertur-
+bation of the er-associated degradation machinery by rnai
+leads to repression of bacterial growth, suggesting that this
+pathogen exploits the proteasome-dependent protein degrada-
+tion system (9). in mammalian cells, infection by l. pneumophila
+leads to the activation of two independent cell death pathways.
+in murine macrophages expressing a restrictive allele of birc1e,
+a gene encoding a member of the nucleotide binding oligomer-
+ization (nod) proteins that sense the presence of intracellular
+invaders (10), infection of l. pneumophila leads to activation of
+caspase 1 and subsequent cell death (11). recent studies indi-
+cated that activation of this caspase 1-dependent cell death
+pathway requires the bacterial flagellin protein as well as the
+dot/icm transporter (12, 13). in permissive macrophages, early
+studies suggested that l. pneumophila actively induces apoptosis
+via the activation of caspase 3 (14). however, recent studies
+indicate that vigorous bacterial replication did not lead to
+apoptosis in infected cells (15). instead, macrophages harboring
+actively replicating l. pneumophila exhibit strong resistance to
+exogenous cell death stimuli (16). these observations indicate
+that an apoptotic process is initiated in macrophages in response
+to l. pneumophila infection and replication, but the bacteria are
+able to inhibit or reverse the process in a dot/icm-dependent
+manner, possibly by injecting effectors that can interfere with
+apoptotic pathways. consistent with this hypothesis, two recent
+studies showed that a large number of antiapoptotic genes were
+induced in cells infected by virulent l. pneumophila strains via
+the activation of the multifunctional transcriptional regulator
+nf-␬b (17, 18). moreover, the dot/icm substrate sdha was
+recently shown to be required for protecting macrophages from
+cell death by a yet-unknown mechanism (19). in this study we
+present evidence that the dot/icm system substrate sidf (20) is
+involved in inhibition of host cell death during l. pneumophila
+intracellular growth in permissive macrophages, at least in part
+by directly interacting with and neutralizing the activities of two
+pro-death members of the bcl2 protein family.
+results
+permissive macrophages infected by a sidfmutant are more apoptotic.
+after verifying dot/icm-mediated translocation of sidf into in-
+fected cells during infection [see supporting information (si) fig. 7],
+author contributions: s.b., p.g., x.s., and z.-q.l. designed research; s.b., p.g., x.s., v.f., and
+z.-q.l. performed research; w.-x.z. and l.c. contributed new reagents/analytic tools; s.b.,
+p.g., x.s., and z.-q.l. analyzed data; and z.-q.l. wrote the paper.
+the authors declare no conﬂict of interest.
+this article is a pnas direct submission.
+abbreviations: er, endoplasmic reticulum; moi, multiplicity of infection.
+§to whom correspondence should be addressed. e-mail: luoz@purdue.edu.
+this article contains supporting information online at www.pnas.org/cgi/content/full/
+0611030104/dc1.
+© 2007 by the national academy of sciences of the usa
+www.pnas.org兾cgi兾doi兾10.1073兾pnas.0611030104
+pnas 兩 march 20, 2007 兩 vol. 104 兩 no. 12 兩 5121–5126
+phenotypes associated with infection by the sidf mutant. (a) the sidf
+fig. 1.
+mutant formed fewer large phagosomes. mouse macrophages were infected
+at an moi of 1, and the distribution of vacuoles was determined at 14 h after
+infection as described (32). strains tested are lp02(intact dot/icm),
+lp03(dota⫺) (data not shown), lp02⌬sidf, and lp02⌬sidf harboring
+pzl623(psidf). data are from two independent experiments performed in
+triplicate, and ⬎150 vacuoles were scored in each sample. (b) mouse macro-
+phages infected with a sidf mutant are more apoptotic. uninfected cells and
+cells infected with lp02(dot/icm intact), lp03(dota⫺), or lp02(⌬sidf) and
+lp02(⌬sidf/psidf) for 14 h were ﬁxed. intracellular bacteria were labeled by
+indirect ﬂuorescence staining with anti-l. pneumophila antibody, and the
+apoptotic status of the cells was probed by tunel staining. samples were
+scored for fragmented chromatin by counting infected cells displaying posi-
+tive tunel signals. similar data were obtained from more than ﬁve indepen-
+dent experiments, and data from one representative experiment are shown.
+we studied the function of sidf by analyzing a sidf mutant for
+several cell biological characteristics associated with vacuoles
+containing l. pneumophila. in murine bone marrow-derived
+macrophages the mutant was defective in intracellular growth,
+consistently exhibiting an ⬇3-fold growth defect (si fig. 8).
+consistent with this observation, in mouse macrophage the sidf
+mutant formed a significantly lower percentage of vacuoles
+containing ⬎10 bacteria (fig. 1a). no growth defect was de-
+tected in the human monocytic cell line u937 or in the amoeba
+host dictystelium discoideum (si fig. 9a and data not shown).
+despite its detectable intracellular growth defect in mouse
+macrophage, the sidf mutant still is able to efficiently avoid
+fusion with lysosome; it also can efficiently acquire er proteins
+such as calnexin and bip (data not shown). thus, we asked
+whether sidf is involved in modulating host apoptotic pathways
+by examining the apoptotic status of cells infected with the sidf
+mutant. in mouse macrophages 1 h after infection, no difference
+was observed between uninfected cells and cells infected by any
+strains. in each case, ⬍5% of the cells stained positively for
+apoptosis (data not shown). at the 14-h time point no change in
+the proportion of apoptotic cells was observed in samples
+infected by the dota mutant lp03, with ⬍5% of the infected cells
+staining positively for apoptosis (fig. 1b). approximately 6% of
+cells infected with the wild-type strain lp02 appeared apoptotic
+(fig. 1b). however, ⬇22% of the cells infected by the sidf
+mutant were apoptotic at this time point, significantly higher
+than that of cells infected by the wild-type strain (p ⬍ 0.02) (fig.
+1b). the apoptosis rate of cells infected by the sidf mutant can
+be partially suppressed by introducing a plasmid carrying the
+sidf gene (fig. 1b). the incomplete complementation most
+likely results from overexpression of sidf from the high-copy
+plasmid (si fig. 7), probably by interfering with the translocation
+of apoptosis-inducing effectors. such an increased cell death rate
+also was observed in u937 cells (si fig. 9b). taken together,
+these data suggest that sidf is involved in the inhibition of host
+cell apoptosis during infection.
+sidf contributes to cell death resistance in macrophages infected by
+wild-type l. pneumophila. macrophages harboring replicating l.
+pneumophila exhibit resistance to apoptosis stimuli (16). to
+fig. 2.
+sidf is important in apoptosis resistance exhibited in l. pneumophila-
+infected macrophages. uninfected u937 or cells infected with lp02(dot/icm
+intact), lp03(dota⫺), lp02(⌬sidf), or lp02(⌬sidf/psidf) at an moi of 1 for 8 h were
+treated with 2 ␮m staurosporine for an additional 4 h. after ﬁxation, bacterial
+vacuoles were labeled by immunostaining, and the morphology of cell nuclei was
+labeled with hoechst staining. the apoptotic status of infected cells was scored by
+counting infected cells displaying fragmented nuclei. data shown are averages of
+three independent experiments, with standard deviations.
+examine whether sidf contributes to such resistance, we infected
+u937 cells with l. pneumophila and subsequently treated these
+cells with staurosporine for 4 h. the apoptotic status of infected
+cells was examined by hoechst staining followed by microscopic
+inspection. in samples infected for 2 h, 4 h of staurosporine
+treatment resulted in extensive cell death in all samples, with
+⬇80% of the infected cells appearing apoptotic (data not
+shown). in samples that had been infected for 8 h, ⬇78% of the
+cells infected by the dota mutant were apoptotic, a rate similar
+to the 82% observed in the uninfected samples (fig. 2). con-
+sistent with earlier studies (16), cells infected by the wild-type
+strain were resistant to this cell death stimulus, with only ⬇26%
+of the cells being apoptotic (fig. 2). however, the ratio of
+apoptotic cells in the sidf mutant infection is ⬇58%, a value
+significantly higher than that of cells infected by the wild type
+(p ⬍ 0.01) (fig. 2). furthermore, expression of sidf from a
+plasmid in the mutant fully restored resistance to staurosporine,
+with ⬇28% of the infected cells being apoptotic (fig. 2). similar
+results were obtained when infection was allowed to proceed for
+10 h before adding staurosporine (data not shown). these data
+further suggested a role of sidf in apoptosis resistance conferred
+by cells harboring replicating l. pneumophila.
+mammalian cells expressing sidf are resistant to staurosporine-
+induced apoptosis. the above observations strongly suggested
+that sidf is directly involved in blocking apoptosis in cells
+infected by virulent l. pneumophila. to further demonstrate the
+cell death inhibition activity of sidf, we transduced two different
+cell lines with adenoviral particles containing a sidf expression
+construct and examined whether cells expressing sidf confer
+resistance to apoptosis stimuli. twenty-four hours after trans-
+duction, we treated the cells with 1 ␮m staurosporine and
+examined cell death by nuclear staining. in hela cells this agent
+induced apoptosis in most control cells transduced with a virus
+containing vector dna, with ⬇68%, 88%, and 95% of the cells
+being apoptotic after drug treatment for 3.5, 7, and 10 h,
+respectively (fig. 3 c–e). in contrast, many sidf-expressing cells
+survived, with only 31%, 36%, and 46% of the cells having
+succumbed to the drug (fig. 3 a, b, and e).
+in u937 cells transduced with control vector viruses, drug
+treatment for 3.5 h resulted in ⬇49% apoptosis, whereas only 24%
+of the cells transduced to express sidf were apoptotic. extending
+drug treatment to 7 and 10 h led to more extensive apoptotic cells
+death in cells not expressing sidf, with ⬇68% and 96% showing
+apoptotic nuclear morphology, respectively (fig. 3b). in samples
+5122 兩 www.pnas.org兾cgi兾doi兾10.1073兾pnas.0611030104
+banga et al.
+two pro-death bcl2 proteins in the yeast two-hybrid assay, we
+determined whether sidf could form complexes with these two
+proteins in mammalian cells. first, we expressed sidf and
+flag-tagged bnip3 in 293t cells, lysed the cells with nonidet
+p-40 and immunoprecipitated possible sidf/bnip3 complexes
+with anti-sidf antibody. as shown in fig. 4b, bnip3 was present
+in immunoprecipitates only when sidf was coexpressed. the
+migration pattern of bnip3 is similar to that previously reported,
+consisting of three bands of ⬇60 kda (dimer), 30 kda, and 22
+kda (monomer) (23). no signals were detected in untransfected
+samples or in samples transfected with plasmids expressing only
+bnip3 or sidf, indicating that the interactions were specific.
+reciprocal experiments using the anti-flag antibody also
+specifically precipitated sidf (data not shown). these results
+indicated that sidf forms a protein complex with bnip3 in
+mammalian cells.
+we also analyzed interactions between sidf and bcl-rambo.
+first, we coexpressed sidf and flag-tagged bcl-rambo and
+analyzed precipitates using anti-sidf antibody; interactions be-
+tween flag-bcl-rambo and sidf can be readily detected (fig. 4d).
+second, we analyzed whether sidf interacts with endogenous
+bcl-rambo. we first prepared a bcl-rambo-specific antibody with a
+recombinant protein (see materials and methods). this antibody
+specifically recognized bcl-rambo expressed in several cell lines in
+a pattern similar to that described earlier (data not shown and ref.
+21). we then transfected 293t cells with a plasmid expressing sidf
+or the empty vector and prepared precipitates with our anti-bcl-
+rambo antibody; sidf was detected not only in precipitates from
+cells transfected to overexpress bcl-rambo, but also in cells trans-
+fected with the control vector (fig. 4e), indicating that sidf forms
+a complex with endogenous bcl-rambo (fig. 4e). furthermore, the
+amount of sidf detected from cells expressing exogenous bcl-
+rambo was considerably higher than that from vector-transfected
+cells (fig. 4e).
+we further examined interactions between sidf and bcl-
+rambo under infection condition. to this end, lysates of u937
+cells infected with relevant l. pneumophila strains at a multi-
+plicity of infection (moi) of 5 for 6 h were analyzed. immuno-
+precipitates were prepared by using anti-bcl-rambo antibody,
+and the presence of sidf in the precipitates was probed. al-
+though sidf was not detected in precipitates from cells infected
+with the wild-type strain lp02, we were able to detect this protein
+in immunoprecipitates obtained from cells infected with the
+sidf overexpressing strain (fig. 4f). as expected, no sidf was
+detected in total lysates of cells infected with the dot/icm-
+deficient strain lp03 overexpressing sidf or the sidf deletion
+mutant (fig. 4f). the failure to detect protein complex formed
+by sidf and bcl-rambo in cells infected with wild-type bacteria
+most likely is due to the low abundance of sidf injected into
+those cells by this bacterial strain (fig. 4f, input). this obser-
+vation is consistent with our sidf immunostaining data in which
+almost all phagosomes containing this sidf-overexpressing
+strain stained positively for this protein (si fig. 7). the associ-
+ation of sidf with bcl-rambo in infected cells further strength-
+ened our conclusion that bcl-rambo is one target of sidf.
+we next established an in vitro assay to analyze whether sidf
+directly binds bcl-rambo. despite a predicted hydrophobic do-
+main in its carboxyl terminus, we found that a portion of
+bacterially expressed gst-bcl-rambo was soluble in pbs buffer,
+and thus we have affinity-purified this protein to ⬇90% purity
+(fig. 4g). we performed a pull-down experiment by incubating
+purified sidf with glutathione-resin or resin coated with the
+gst-bcl-rambo or gst. after extensive washes, we found that
+sidf was retained only by resin coated with gst-bcl-rambo (fig.
+4h), indicating that sidf directly binds bcl-rambo and that the
+interactions between these two proteins can occur after they
+have properly folded.
+cells expressing sidf are resistant to apoptosis induced by stauro-
+fig. 3.
+sporine. hela cells were transduced with adenovirus particles harboring a
+construct directing expression of a gfp::sidf chimera (a and b) or gfp (c and
+d) for 24 h before being treated with 1 ␮m staurosporine for 7 h. the nuclear
+morphology was visualized by hoechst 33342 staining (pseudocolored in red
+for ease in distinguishing) (b and d). (scale bar: 20 ␮m.) (e and f) kinetic
+analysis of apoptotic status of the hela cells (e) and u937 cells (f). transduced
+cells treated with 1 ␮m staurosporine for 3.5, 7, and 10 h were ﬁxed, stained,
+and scored for the rates of apoptosis. data shown are one representative of at
+least three independent experiments performed in triplicate, with at least 350
+cells inspected for each sample. *, p ⬍ 0.05; **, p ⬍ 0.01.
+transduced to express sidf, such incubation times caused signifi-
+cantly less apoptosis, with ⬇46% and 72% of the cells displaying
+condensed nuclei (p ⬍ 0.01) (fig. 3b). taken together, these data
+revealed that cells expressing sidf exhibited strong resistance to cell
+death insults. moreover, the increased apoptotic rates after pro-
+longed drug treatment indicated that sidf does not completely
+block staurosporine-induced apoptosis, but rather delays the onset
+of cell death, particularly in u937 cells.
+sidf interacts with bnip3 and bcl-rambo, two pro-death members of
+the bcl2 protein family. sidf is not homologous to any known
+protein, making it difficult to understand the molecular mech-
+anisms of its cell death inhibition activity and the importance of
+such activities in the intracellular replication of l. pneumophila.
+thus, we set up a yeast two-hybrid screening to identify host
+proteins that specifically interact with sidf. analysis of clones
+appearing on selective medium led to the identification of several
+proteins, including bnip3 and bcl-rambo, two proteins belong-
+ing to the bcl2 protein family as putative binding targets of sidf
+(si table 1) (21, 22). given the cell death related observations
+discussed above, we chose to focus on bnip3 and bcl-rambo. in
+the cdna clone harboring bnip3, the activation domain (ad)
+of gal4 was fused to the 42nd residue of the target with an
+intact c terminus. in the case of bcl-rambo, the fusion occurred
+at residue 296 of the 485-residue protein and the chimera also
+contains an intact c terminus. reconstructed ad::bnip3 and
+ad::bcl-rambo fusions showed similar specific interactions with
+sidf in a yeast two-hybrid assay (fig. 4a).
+to substantiate the interactions seen between sidf and these
+banga et al.
+pnas 兩 march 20, 2007 兩 vol. 104 兩 no. 12 兩 5123
+fig. 4.
+sidf interacts with bnip3 and bcl-rambo. (a) interactions between sidf and bcl2-rambo/bnip3 in yeast two-hybrid assay. yeast strains harboring the
+indicated constructs were streaked on leu⫺ and trp⫺ synthetic medium to select for plasmids (on the left) or on leu⫺, trp⫺, ade⫺, and his⫺ medium to examine
+the interactions (on the right). the two sidf deletion mutants tested were sidf⌬n1, sidf250 –912 and sidf⌬n2, sidf650 –912. (b) sidf forms complexes with bnip3.
+cell lysates of 293t cells transfected with the indicated plasmid combinations were analyzed either directly or after immunoprecipitation by immunoblots with
+an anti-flag antibody. relevant molecular mass markers are shown on the left in kilodaltons. (c) sidf in total cell lysates was detected by anti-sidf antibody.
+(d–f) sidf interacts with bcl-rambo in mammalian cells. (d) 293t cells were transfected with the indicated plasmid combinations, and cell lysates were used for
+immunoprecipitation. flag-bcl-rambo was detected with an anti-flag antibody. (e) sidf forms a complex with endogenous bcl-rambo. sidf was probed in
+immunoprecipitates obtained with anti-bcl-rambo antibody from cells transfected with shown plasmid combinations. note that more sidf was detected in
+precipitates of cells transfected with a bcl-rambo-expressing plasmid. (f) sidf and bcl-rambo form a complex in cells infected by a dot/icm-competent strain
+overexpressing sidf. lysates of u937 cells infected with wild-type (lane 1), dota⫺(psidf) (lane 2), the sidf⫺ mutant (lane 3), or ⌬sidf(psidf) (lane 4) for 6 h were
+subjected to immunoprecipitation with anti-bcl-rambo antibody, and the presence of sidf/bcl-rambo complexes was probed with anti-sidf antibody. (g and h)
+sidf directly binds bcl-rambo. (g) puriﬁcation of gst-bcl-rambo. relevant molecular mass markers are shown on the left in kda. (h) binding between bcl-rambo
+and sidf. glutathione beads or beads coated with gst or gst-bcl-rambo were incubated with sidf for 4 h at 4°c. after extensive washing, bound proteins were
+eluted with sds loading buffer, resolved by sds/page, and probed with anti-sidf antibody (lower). ten percent of input proteins were detected by coomassie
+bright blue staining (upper).
+sidf inhibits cell death induced by bcl-rambo. a common feature for
+antiapoptotic proteins that target pro-death proteins is their
+ability to inhibit cell death induced by their counterparts (24).
+our observation that cells expressing sidf are resistant to cell
+death stimuli and that sidf specifically interacts with bnip3 and
+bcl-rambo suggested that sidf is able to protect cell death
+induced by these proteins. thus, we cotransfected mcf-7 cells
+with constructs expressing sidf and bcl-rambo. twenty-four
+hours after transfection, cells were fixed and assessed for apo-
+ptosis by staining with hoechst 33342. in cells transfected with
+vector dna or cells transfected to express only sidf, ⬍18% of
+the cells appeared apoptotic (fig. 5). as expected, in samples
+transfected to express bcl-rambo, ⬎50% of the cells are apo-
+ptotic (fig. 5). in cells transfected to express both bcl-rambo and
+sidf, the rate of apoptotic cells decreased to ⬇27%, significantly
+lower than samples expressing only bcl-rambo (p ⬍ 0.05) (fig.
+5). these results indicated that sidf is able to inhibit cell death
+induced by bcl-rambo, further establishing the role of sidf in
+preventing cell death.
+a domain localized to the c-terminal half of sidf is important for its
+activity. induction of apoptosis by pro-death members of the bcl2
+family in part is by titrating its pro-survival counterparts via the
+formation of heteromultimers through the bh motif (24). be-
+cause sidf does not contain any detectable bh domain, we
+defined its target-binding domains by deletion analysis. in yeast
+two-hybrid analysis, we found that a sidf mutant lacking as many
+as 750 aa from its n terminus still strongly interacts with
+bcl-rambo and bnip3 (fig. 4a and data not shown). in mam-
+malian cells, these mutants are still able to form complexes with
+bcl-rambo (fig. 6a). furthermore, the cell death inhibition
+activity of the sidf⌬n250 mutant was indistinguishable from
+that of the full-length sidf (fig. 6c). however, loss of ⬎650 aa
+from the n terminus of sidf resulted in mutants that no longer
+are able to inhibit activity of bcl-rambo (fig. 6c).
+5124 兩 www.pnas.org兾cgi兾doi兾10.1073兾pnas.0611030104
+banga et al.
+agreement with the loss of target binding activity, none of these
+mutants retained the ability to inhibit the activity of bcl-rambo
+(fig. 6c). taken together, these results indicated that a carboxyl
+domain of sidf is important for target binding, but inhibition of
+apoptosis required a larger region extending to the central
+portion of the protein. the two putative hydrophobic domains
+may be directly involved in target binding or may be required for
+proper folding of sidf and thus subsequent target binding
+activity. interestingly, the location of this functional domain is
+similar to the bid domain of bepa, a b. henselae protein that
+inhibits apoptosis by inducing camp production (3).
+discussion
+it is well established that l. pneumophila actively modulates host
+apoptotic pathways. such modulation can occur at the transcrip-
+tional level because infection by l. pneumophila leads to the
+induction of several antiapoptotic genes via the activation of an
+nf-␬b-dependent pathway (17, 18). transcription of a number
+of pro-death genes, including the bh-3-only protein bnip3 and
+many caspases, also was elevated in response to intracellular
+growth of the bacterium (17). the induction of pro-death genes
+poses a problem for infected cells because these proteins sensi-
+tize cells to environmental insults, which, during l. pneumophila
+infection, can be represented by intracellular growth of the
+bacterium or the translocation of toxic substrates into host cells
+(19). here we present evidence that the bacterial protein sidf
+interferes with host cell death by directly interacting with and
+inhibiting activities of apoptotic proteins.
+several lines of evidence indicate that binding of sidf to its
+targets is highly specific. first, these proteins were identified
+multiple times independently in our original yeast two-hybrid
+screening (si table 1); second, binding of sidf to bcl-rambo can
+be detected under various conditions, including in cells in which
+sidf is delivered directly from the bacterium (fig. 4f); third,
+sidf did not detectably interact with several other pro-death
+proteins structurally similar to bnip3 and bcl-rambo (data not
+shown). clearly, binding to the targets is not sufficient for sidf
+to exert its activities because n-terminal deletion mutants of
+sidf lacking ⬎650 residues were still able to bind bcl-rambo
+efficiently but failed to confer protection (fig. 6 a and c). how
+elements not directly involved in target binding contribute to the
+cell death inhibitory activity remains to be determined.
+sidf appears to play a role in preventing cell death by
+abolishing the activities of bnip3 and bcl-rambo. formation of
+heterodimers between proapoptotic and antiapoptotic members
+of the bcl2 protein family determines at least in part the
+susceptibility of cells to death signals (24). the mechanism of
+action of sidf seems similar to that of the cell-death inhibiting
+19-kda protein from adenovirus which inhibits activities of
+multiple pro-death proteins by direct binding (22). differing
+from c. trachomatis, which causes degradation of a number of
+pro-death bh3-only proteins (25), infection of l. pneumophila
+did not lead to destabilization of either bnip3 or bcl-rambo
+(data not shown). although both bnip3 and bcl-rambo contain
+a carboxyl transmembrane domain important for mitochondria
+targeting and for cell death induction, their mechanisms of
+action are different (21, 26). bnip3 forms heterodimers with
+pro-survival members of the bcl2 protein family such as bcl2 and
+bcl-xl (26), but bcl-rambo does not detectably interact with any
+pro-survival members of the bcl2 protein family (21). further
+analysis of how sidf exerts its activity will likely shed light on the
+mechanisms of action of these host proteins.
+the function of sidf appears similar to that of the cell death
+protection protein sdha (19). however, unlike the mild growth
+defect observed in the sidf mutant, loss of sdha resulted in a
+severe growth defect accompanied by drastic morphological
+changes in the infected cells (19). sdha seems to control
+pathways critical for maintaining the integrity of infected cells,
+fig. 5.
+sidf inhibits apoptosis induced by bcl-rambo. mcf-7 cells were
+transfected with the indicated plasmid combinations for 24 h, and ﬁxed cells
+were stained with hoechst 33342 and scored microscopically for apoptotic
+nuclei. data shown are from three independent experiments performed in
+triplicate; at least 200 transfected cells were scored for each sample. cells
+transfected with both plasmids were identiﬁed by a gfp signal carried on the
+vector used to express sidf. *, p ⬍ 0.05.
+on the other hand, mutants lacking 50 or 100 aa from the
+carboxyl terminus of sidf had considerably lost their ability to
+inhibit bcl-rambo, although these mutants still detectably inter-
+act with bcl-rambo (fig. 6 b and c). deletion of 150 residues
+from this end of sidf completely abolished both the target
+binding and inhibitory activity (fig. 6 b and c). sidf contains
+two predicted 22-residue hydrophobic domains that are impor-
+tant for targeting the protein to the er/nuclear regions (si fig.
+10). loss of a single hydrophobic domain drastically reduced its
+ability to interact with bcl-rambo, whereas deletion of both such
+domains abolished its bcl-rambo binding activity (fig. 6b). in
+fig. 6.
+the c-terminal portion of sidf is important for its activity. (a and b)
+interactions between bcl-rambo and sidf mutants. 293t cells were transfected
+with combinations of plasmids expressing flag-bcl-rambo and individual mu-
+tants. precipitates were prepared with anti-sidf antibody (a) or with anti-bcl-
+rambo antibody (b). the presence of target proteins was detected with
+appropriate antibodies. in each case, 5% of the lysate used for coimmuno-
+precipitation was probed for levels of input proteins in total cell lysates. (c)
+inhibition of bcl-rambo activity by sidf and its derivatives. mcf-7 cells were
+transfected to express sidf and its derivatives along with bcl-rambo (shaded
+bars) or the vector (open bars). twenty-four hours after transfection, cells
+were ﬁxed and stained with hoechst 33342 and apoptotic rates were scored.
+data shown are from three independent experiments, with standard devia-
+tions. *, p ⬍ 0.05; **, p ⬍ 0.01.
+banga et al.
+pnas 兩 march 20, 2007 兩 vol. 104 兩 no. 12 兩 5125
+whereas sidf appears to function downstream of sdha by
+targeting branched death pathways triggered by l. pneumophila
+infection. thus, l. pneumophila is able to manipulate the
+apoptotic status of infected cells at different levels, ranging from
+controlling some major pathways to inhibition of specific pro-
+death proteins.
+protozoan is believed to be the natural host of l. pneumophila
+and infection of mammalian cells was considered to be acciden-
+tal (27). amoeba does not code for classic apoptotic pathways,
+or for proteins such as bnip3 and bcl-rambo. given that bnip1,
+a pro-death bh3-only protein of the bnip3 family is involved in
+membrane fusion in the er (28),
+it will be interesting to
+determine whether either bnip3 or bcl-rambo possesses similar
+dual functions and whether sidf interferes with such activities.
+alternatively, in the light of our results and recent discoveries
+that l. pneumophila manipulates several functions specific to
+higher organisms, a mammalian host may have been a driving
+force in the evolution of this bacterium.
+materials and methods
+bacterial strains, media, and plasmid construction. all l. pneumo-
+phila strains used in this study were derivatives of the philadel-
+phia 1 strain lp02 (29). details for manipulations of bacterial
+strains, primers, and construction of plasmids are described in si
+materials and methods and in si tables 2 and 3.
+yeast manipulation and two-hybrid assay. yeast strains were grown
+in ypd medium or in appropriate amino acid dropout minimal
+media. the sidf gene was fused to the activation domain of the gal4
+activator on pgbkt7 (si table 2). yeast strain pj-64a (30) was
+used for two-hybrid screening against the human cdna library
+according to instructions of the manufacturer (bd biosciences, san
+jose, ca).
+cell culture and transfection. u937 cells were cultured and dif-
+ferentiated following standard protocols (31). other cell lines,
+including 293t, hela, mcf-7, and cos1, were cultured in
+dmem supplemented with 10% fbs. cells grown to ⬇80%
+confluence were transfected with lipofectamine 2000 (invitro-
+gen, carlsbad, ca) following the manufacturer’s instructions.
+for experiments designed to assess the apoptosis inhibitory
+activity of sidf, to ensure high efficiency of cotransfection, a
+molar ratio of 1:3 (bacl-rambo:sidf) of dna was used. mouse
+macrophages were prepared by using a published protocol (32)
+and were plated at 2 ⫻ 105 cells per well for infection.
+immunoprecipitation. we seeded 293t cells on 100-mm plates at
+5 ⫻ 105 cells per plate 1 day before transfection and then
+transiently transfected cells with combinations of plasmids. in all
+experiments the total amount of plasmid dna was kept constant
+by adding appropriate amounts of vector dna. proteins of
+interest were detected by western blot after sds/page. for
+coimmunoprecipitation from lysates of infected cells, 5 ⫻ 107
+u937 cells were infected at an moi of 5 for 6 h with the indicated
+l. pneumophila strains. cell
+lysis buffer and the details of
+immunoprecipitation are given in si materials and methods.
+recombinant adenoviral particle preparation and transduction. sidf
+was cloned into the shuttle plasmid pcmv-yfp, and a recom-
+binant adenoviral vector containing sidf was obtained through
+in vivo homologous recombination by using the adeasy system
+(stratagene). the primary stock was propagated four times in
+ad-293 cells to achieve titers of 1010 to 1012 infectious particles
+per milliliter. this viral suspension was used to transduce hela
+or u937 cells at an moi of 10.
+cell death assays. the apoptotic status of mammalian cells was
+determined by the tunel assay with the in situ cell death
+detection kit tmr red (roche, indianapolis, in) or by staining
+of nuclei with hoechst 33342. cell death was determined by
+scoring cells with positively labeled fragmented chromatin
+(tunel assay) or condensed nuclei (hoechst staining). the
+rates of apoptotic cells obtained by tunel staining or by
+hoechst staining are very similar.
+protein purification, antibodies, immunostaining, and western blot.
+details of protein purification, sources of antibodies, and con-
+centrations of antibodies in each experiment are described in si
+materials and methods.
+we thank drs. r. isberg (tufts medical school, boston, ma) and j.
+tschopp (university of lausanne, lausanne, switzerland) for reagents
+and dr. art aronson and ms. virginia livingston for critical reading of
+the manuscript. this work was supported by american heart association
+grant 0535451z (to z.-q.l.), national institutes of health grants
+r01ai069344 (to z.-q.l.) and r01gm065260 (to l.c.), and a collab-
+oration in life sciences and informatics research pilot grant between
+purdue university and indiana university (to z.-q.l. and l.c.).
+1. creagh em, conroy h, martin sj (2003) immunol rev 193:10–21.
+2. fan t, lu h, hu h, shi l, mcclarty ga, nance dm, greenberg ah, zhong
+cell microbiol 9:246–264.
+17. abu-zant a, jones s, asare r, suttles j, price c, graham j, kwaik ya (2007)
+g (1998) j exp med 187:487–496.
+3. schmid mc, scheidegger f, dehio m, balmelle-devaux n, schulein r, guye
+p, chennakesava cs, biedermann b, dehio c (2006) plos pathog 2:e115.
+4. bruggemann h, cazalet c, buchrieser c (2006) curr opin microbiol 9:86–94.
+5. roy cr, tilney lg (2002) j cell biol 158:415–419.
+6. nagai h, kagan jc, zhu x, kahn ra, roy cr (2002) science 295:679–682.
+7. machner mp, isberg rr (2006) dev cell 11:47–56.
+8. murata t, delprato a, ingmundson a, toomre dk, lambright dg, roy cr
+(2006) nat cell biol 8:971–977.
+9. dorer ms, kirton d, bader js, isberg rr (2006) plos pathog 2:e34.
+10. fortier a, diez e, gros p (2005) trends microbiol 13:328–335.
+11. zamboni ds, kobayashi ks, kohlsdorf t, ogura y, long em, vance re,
+kuida k, mariathasan s, dixit vm, flavell ra, et al. (2006) nat immunol
+7:318–325.
+12. ren t, zamboni ds, roy cr, dietrich wf, vance re (2006) plos pathog
+2:e18.
+13. molofsky ab, byrne bg, whitfield nn, madigan ca, fuse et, tateda k,
+swanson ms (2006) j exp med 203:1093–1104.
+14. molmeret m, zink sd, han l, abu-zant a, asari r, bitar dm, abu kwaik
+y (2004) cell microbiol 6:33–48.
+18. losick vp, isberg rr (2006) j exp med 203:2177–2189.
+19. laguna rk, creasey ea, li z, valtz n, isberg rr (2006) proc natl acad sci
+usa 103:18745–18750.
+20. luo zq, isberg rr (2004) proc natl acad sci usa 101:841–846.
+21. kataoka t, holler n, micheau o, martinon f, tinel a, hofmann k, tschopp
+j (2001) j biol chem 276:19548–19554.
+22. boyd jm, malstrom s, subramanian t, venkatesh lk, schaeper u, elangovan
+b, d’sa-eipper c, chinnadurai g (1994) cell 79:341–351.
+23. vande velde c, cizeau j, dubik d, alimonti j, brown t, israels s, hakem r,
+greenberg ah (2000) mol cell biol 20:5454–5468.
+24. gross a, mcdonnell jm, korsmeyer sj (1999) genes dev 13:1899–1911.
+25. dong f, pirbhai m, xiao y, zhong y, wu y, zhong g (2005) infect immun
+73:1861–1864.
+26. ray r, chen g, vande velde c, cizeau j, park jh, reed jc, gietz rd,
+greenberg ah (2000) j biol chem 275:1439–1448.
+27. cianciotto np, fields bs (1992) proc natl acad sci usa 89:5188–5191.
+28. nakajima k, hirose h, taniguchi m, kurashina h, arasaki k, nagahama m,
+tani k, yamamoto a, tagaya m (2004) embo j 23:3216–3226.
+29. berger kh, isberg rr (1993) mol microbiol 7:7–19.
+30. james p, halladay j, craig ea (1996) genetics 144:1425–1436.
+31. tilney lg, harb os, connelly ps, robinson cg, roy cr (2001) j cell sci
+15. derre i, isberg rr (2004) infect immun 72:6221–6229.
+16. abu-zant a, santic m, molmeret m, jones s, helbig j, abu kwaik y (2005)
+114:4637–4650.
+infect immun 73:5339–5349.
+32. conover gm, derre i, vogel jp, isberg rr (2003) mol microbiol 48:305–321.
+5126 兩 www.pnas.org兾cgi兾doi兾10.1073兾pnas.0611030104
+banga et al.

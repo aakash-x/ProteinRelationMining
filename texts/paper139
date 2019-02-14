@@ -1,0 +1,948 @@
+metabolism and bioenergetics:
+amp-activated protein kinase and the
+regulation of autophagic proteolysis
+  
+daniel meley, chantal bauvy, judith h. p. m.
+houben-weerts, peter f. dubbelhuis, 
+mariette
+t. j. helmond, patrice codogno and alfred j. 
+meijer
+j. biol. chem. 
+doi: 10.1074/jbc.m605488200 originally published online september 21, 2006
+2006, 281:34870-34879.
+10.1074/jbc.m605488200
+access the most updated version of this article at doi: 
+  
+find articles, minireviews, reflections and classics on similar topics on the 
+  
+alerts: 
+•  
+•  
+  
+when this article is cited
+when a correction for this article is posted
+jbc affinity sites
+click here
+ to choose from all of jbc's e-mail alerts
+this article cites 49 references, 30 of which can be accessed free at
+http://www.jbc.org/content/281/46/34870.full.html#ref-list-1
+  
+the journal of biological chemistry vol. 281, no. 46, pp. 34870 –34879, november 17, 2006
+© 2006 by the american society for biochemistry and molecular biology, inc. printed in the u.s.a.
+amp-activated protein kinase and the regulation of
+autophagic proteolysis*
+received for publication, june 8, 2006, and in revised form, september 5, 2006 published, jbc papers in press, september 21, 2006, doi 10.1074/jbc.m605488200
+daniel meley‡1, chantal bauvy‡, judith h. p. m. houben-weerts§, peter f. dubbelhuis§, mariette t. j. helmond§,
+patrice codogno‡, and alfred j. meijer§2
+from the ‡inserm u756, faculte´ de pharmacie, universite´ paris-sud 11, 92296 chaˆtenay-malabry, france and the §department of
+medical biochemistry, academic medical center, meibergdreef 15, 1105 az amsterdam, the netherlands
+interruption of mtor-dependent signaling by rapamycin is
+known to stimulate autophagy, both in mammalian cells and in
+yeast. because activation of ampk also inhibits mtor-depend-
+ent signaling one would expect stimulation of autophagy by
+ampk activation. according to the literature, this is true for
+yeast but, unexpectedly, not for mammalian cells on the basis of
+the use of aicar, a pharmacological activator of ampk. in the
+present study, carried out with hepatocytes, ht-29 cells, and
+helacells,wehavereexaminedthepossibleroleofampkinthe
+control of mammalian autophagy. inhibition of ampk activity
+by compound c or by transfection with a dominant negative
+form of ampk almost completely inhibited autophagy. these
+results suggest that the inhibition of autophagy by aicar is not
+related to its ability to activate ampk. we conclude that in
+mammalian cells, as in yeast, ampk is required for autophagy.
+during macroautophagy (hereafter referred to as autoph-
+agy), a small part of the cytoplasm is sequestered by a double
+isolation membrane, presumably derived from the endoplas-
+mic reticulum, to form an autophagosome. this autophago-
+some then fuses with a lysosome and the sequestered macro-
+molecular material,
+is degraded. the
+process is activated by various stress situations, including nutri-
+ent depletion. under these conditions, autophagy provides the
+constituents required to maintain the metabolism essential for
+survival (1, 2). an example is that of the mammalian liver in
+which autophagy is accelerated during fasting to provide amino
+acids for gluconeogenesis to meet the energy requirements of
+the brain and of erythrocytes.
+including proteins,
+in many cell types, including liver cells, autophagy is inhib-
+ited by amino acids, in synergy with insulin, and this inhibition
+is mediated, at least in part, by mtor3-dependent signaling (1).
+* this work was supported by institutional funding from the institut national
+de la sante´ et de la recherche me´dicale (inserm) and from the university
+of paris-sud 11, and by a grant from the association pour la recherche sur
+le cancer (arc) (n°3503, to p. c.). the costs of publication of this article
+were defrayed in part by the payment of page charges. this article must
+therefore be hereby marked “advertisement” in accordance with 18 u.s.c.
+section 1734 solely to indicate this fact.
+1 supported by an arc fellowship.
+2 to whom correspondence should be addressed: dept. of medical biochem-
+istry, academic medical center, meibergdreef 15, 1105 az amsterdam, the
+netherlands. tel.: 31-20-5665159; fax: 31-20-6915519; e-mail: a.j.meijer@
+amc.uva.nl.
+3 the abbreviations used are: mtor, mammalian target of rapamycin; aicar,
+aica riboside, imidazole-4-carboxamide-1-␤-ribofuranoside; zmp, aicar
+monophosphate; 3-ma, 3-methyladenine; ampk, amp-activated protein
+depending on the cell type and the conditions, other signaling
+pathways, such as the ras/raf/mapk signaling pathway, may
+also participate in amino acid control of autophagy (1). in addi-
+tion, autophagy is controlled by phosphatidylinositol phospho-
+lipids. the process is inhibited by ptdins(3,4,5)p3, the product
+of pi3k class i, a lipid kinase located upstream of mtor in the
+insulin signaling pathway. by contrast, pi(3)p, the product of
+pi3k class iii, is essential for autophagy (1, 3, 4). this require-
+ment for pi(3)p explains why pi3k inhibitors are also autoph-
+agy inhibitors.
+the classical autophagy inhibitor
+3-methyladenine (5) turned out to be a pi3k inhibitor (1).
+indeed,
+after the original observation in 1995 that amino acids can
+stimulate mtor-dependent signaling (6), it is now generally
+accepted that the mtor pathway acts as a sensor of amino
+acids (7). a few years ago we, and others, discovered that mtor
+can also sense changes in the cellular energy state via amp-
+activated protein kinase (ampk). activation of this protein
+kinase inhibits mtor-dependent signaling and inhibits pro-
+tein synthesis (8), which is consistent with ampk function of
+switching off atp-dependent processes (9).
+inhibition of mtor by ampk, like that caused by addition of
+rapamycin (1, 2), may be expected to increase autophagy. how-
+ever, in the literature there is controversy on this issue. in yeast,
+activation of ampk stimulates autophagy (10). by contrast,
+activation of ampk by addition of the cell-permeable nucleo-
+tide analogue aica riboside (aicar) in hepatocytes strongly
+inhibits autophagy (11). in the present study, using different
+mammalian cell types, we have examined the possible role of
+ampk in the control of autophagy in more detail. our data
+indicate that ampk, like in yeast, is required for autophagy.
+experimental procedures
+materials
+cell culture products were from invitrogen. insulin, rapamy-
+cin, aicar (aica riboside, imidazole-4-carboxamide 1-␤-ri-
+bofuranoside), the chemicals for enhanced chemiluminescence
+(ecl), bca kits, ponceau red, metformin and protease inhibi-
+tors mixture were from sigma. compound c was a gift of merck
+sharp & dohme bv (haarlem, the netherlands). plasmid puri-
+fication kit nucleobond ax and nitrocellulose membranes
+kinase; pbs, phosphate-buffered saline; mapk, mitogen-activated protein
+kinase; pi3k, phosphatidylinositol 3-kinase; pkb, protein kinase b; p70s6k,
+p70s6 kinase; mdc, monodansylcadaverine; cc, compound c; acc, acetyl-
+coa carboxylase; eif4e, eukaryotic initiation factor 4e; gfp, green fluores-
+cent protein; gdw, gram dry weight of cells; bsa, bovine serum albumin;
+mops, 4-morpholinepropanesulfonic acid; met, metformin.
+34870 journal of biological chemistry
+volume 281 • number 46 • november 17, 2006
+control of macroautophagy by amp-activated protein kinase
+were from macherey-nagel (du¨ren, germany). the fugene
+6tm transfection kit was from roche applied science (basel,
+switzerland) and the lipofectaminetm 2000 was from invitro-
+gen. l-[u-14c]valine was from perkinelmer life sciences and
+l-valine was from merck (darmstadt, germany). ultima
+goldtm scintillation fluid was from packard biosciences. phos-
+phospecific antibodies against protein kinase b (ser473), ampk
+(thr172), and acetyl-coa carboxylase (ser79) were from cell
+signaling technology inc. (leusden, the netherlands). rabbit
+anti-p70s6 kinase, anti-eif4e, and mouse anti-c-myc (9e10)
+were from santa cruz biotechnology. mouse anti-actin was
+from chemicon. mouse anti-flag (2el-1b11) was from
+euromedex (souffelweyersheim, france). goat anti-rabbit
+horseradish peroxidase was from bio-rad. all other chemicals
+and enzymes were obtained from either roche applied science
+or sigma. [14c]chloroquine was from perkinelmer life sci-
+ences. interleukin 13 (il-13) was kindly provided by dr. a.
+minty (sanofi elf biorecherche, labege, france). rapamycin
+and compound c were dissolved in dimethyl sulfoxide
+(me2so). the final me2so concentration did not exceed 0.25%
+(v/v), which did not affect the processes that were studied.
+cdnas encoding the c-myc-tagged constitutively active
+ampk-␣1312 (t172d) (ampkca) and the c-myc-tagged dom-
+inant-negative-ampk-␣1 (k45r) (ampkdn) were kindly pro-
+vided by dr. d. carling (cellular stress group, hammersmith
+hospital, london, uk). cdna encoding for the gfp-tagged
+lkb1 was a generous gift from dr m. billaud (cnrs umr
+5201, lyon, france). cdna encoding for flag-tagged strad
+(12) was a generous gift from dr. h. c. clevers (utrecht, the
+netherlands).
+hepatocytes
+hepatocytes were isolated from male wistar rats (250–
+300 g) starved for 16–20 h by collagenase perfusion (6).
+hepatocytes (5 mg dry weight/ml) were incubated for the
+indicated times at 37 °c in minimal medium (krebs-hense-
+leit bicarbonate buffer plus 10 mm na⫹-hepes, ph 7.4, and
+20 mm glucose) plus the components as indicated in the leg-
+ends. the final incubation volume was 2 ml. the gas atmo-
+sphere was o2/co2 (19:1, v/v).
+at the end of the incubations, hepatocytes were collected for
+gel analysis by centrifugation in 5 volumes of an ice-cold solu-
+tion of 150 mm nacl plus 10 mm sodium hepes (ph 7.4) for 5 s
+in an eppendorf centrifuge. for the sds-page procedures, the
+pellet was lysed by addition of laemmli sample buffer and sub-
+sequently incubated at 95 °c for 5 min.
+for determination of atp, lactate, and amino acids, an ali-
+quot of the incubated cell suspension was acidified with hclo4
+(final concentration, 3%, m/v). after removal of the precipi-
+tated protein by centrifugation in a microcentrifuge (1 min;
+10,000 ⫻ g), the clear supernatant was neutralized to ph 7 with
+a small volume of a mixture of 2 m koh plus 0.3 m mops.
+cell culture
+ht-29 human colon cancer cells and hela cells were main-
+tained in dulbecco’s modified eagle’s medium 4.5 g/liter glu-
+cose supplemented with 10% fetal bovine serum and 1% peni-
+cillin/streptomycin solution. medium was replaced three times
+per week, and cells were passaged at confluency. the cells were
+grown in a humidified atmosphere of 10% co2, 90% air at 37 °c.
+cells were plated and grown to 50–80% confluency before
+treatment for different times with vehicle or adequate concen-
+trations of amino acids (4⫻), rapamycin (100 nm), metformin
+(1–10 mm), 3-methyladenine (3-ma) (10 mm), il-13 (30
+ng/ml), and aicar (0.1–1 mm).
+determination of atp, lactate, aicar, and zmp
+atp was determined fluorimetrically with nadp⫹, glucose,
+hexokinase, and glucose-6-phosphate dehydrogenase (13). lac-
+tate was measured spectrophotometrically with nad⫹ and lac-
+tate dehydrogenase (13). aicar and zmp were measured by
+hplc as described by samari and seglen (11).
+transfection
+the expression constructs pegfp-c1-lkb1wt, pcdna3-
+flag-strad, pcdna3-myc-ampkca, pcdna3-myc-
+ampkdn, and control vectors were introduced into ht-29
+cells and hela cells using lipofectaminetm 2000 and the
+fugene 6tm reagent transfection kit, respectively. trans-
+fected cells were cultured in complete medium for 48 h before
+use for the different experiments. expression levels of each con-
+struct were determined by sds-page analysis using the rele-
+vant tag antibody.
+immunoblotting
+after sds-page resolution, the proteins were transferred
+on nitrocellulose membrane. the membranes were blocked
+with 5% nonfat dry milk in tbst (10 mm tris-hcl, ph 8; 100
+mm nacl; 0.1% tween 20) fo r 1 h atroom temperature and then
+incubated with appropriate primary antibody overnight at 4 °c
+(diluted in tbst-5% bsa), followed by incubation with horse-
+radish peroxidase-conjugated secondary antibody at 1:5000
+dilution in tbst-5% nonfat dry milk for 1 h atroom tempera-
+ture. the anti-actin was used at 1:2500 dilution in tbst-5%
+bsa. all other total antibodies were used at 1:1000 dilution in
+tbst-5% bsa, and anti-phosphoantibodies were diluted at
+1:1000 in tbst-1% bsa. the anti-c-myc were used at 1:200
+dilution in tbst-5% bsa. the anti-flag was used at 1:1000
+dilution. to quantify the different spots of immunoblotting, we
+used the freeware scion imaging.
+autophagic parameters
+amino acid analysis—amino acids were analyzed with
+hplc exactly as described by (14). of the branched chain
+amino acids, the valine peak in the amino acid spectrum was
+contaminated with a compound of unknown origin, and was
+therefore not used.
+[14c]chloroquine accumulation—accumulation of the diva-
+lent weak base chloroquine, which monitors changes in the ph
+of intracellular acidic compartments, mainly lysosomes, was
+measured exactly as described elsewhere (15). in these experi-
+ments, the hepatocyte concentration was 1 mg dw/ml, the con-
+centration of chloroquine was ⬍1 ␮m and the amount of radio-
+activity was 0.025 ␮ci/ml of incubation medium.
+measurement of the degradation of long-lived proteins—
+proteolysis was determined as described previously (16).
+november 17, 2006 • volume 281 • number 46
+journal of biological chemistry 34871
+control of macroautophagy by amp-activated protein kinase
+metformin (2 mm), aicar (250
+␮m), 3-ma (10 mm), or il-13 (30
+ng/ml)
+in nutrient-free medium
+(without amino acids and in the
+absence of fetal calf serum), hbss
+or hanks balanced saline solution,
+supplemented with 0.1% bovine
+serum albumin and 10 mm cold
+valine were added at the beginning
+of the chase period. during the pre-
+chase, the short-lived proteins were
+being degraded. the chase contin-
+ued for 4 h. cells and radiolabeled
+proteins
+4-h chase
+medium were precipitated in tri-
+chloroacetic acid at a final concen-
+tration of 10% (w/v) at 4 °c over-
+night. after centrifugation, pellets
+were dissolved in 0.2 n naoh.
+radioactivity was determined by
+liquid scintillation counting. pro-
+tein degradation was calculated by
+dividing the acid-soluble radioactiv-
+ity recovered from both cells and
+medium by the radioactivity con-
+tained in the precipitated proteins
+from both cells and medium.
+from the
+monodansylcadaverine (mdc)
+staining—mdc staining was per-
+formed as previously described
+(17). briefly, cells were seeded on
+microscope coverglasses. after 3
+days, cells were treated for 2 h in
+appropriate mediums, and during
+the last 10 min 0.1 ␮m mdc was
+added. cells were then washed by
+three rinses with pbs⫹ and fixed
+with a solution of 3% paraformal-
+dehyde for 20 min. the micro-
+scope cover glasses were washed
+again by three rinses with pbs⫹,
+and put on microscope slides with
+mowiol. the slides were incu-
+bated overnight
+4 °c and
+observed in the epifluorescence
+microscope. only cells expressing
+gfp-lkb1 were counted for mdc
+staining.
+at
+figure 1. effects of aicar, met, cc, 3ma, methylamine (meam), and of glucose depletion on proteolysis
+and lactate production in hepatocytes. hepatocytes were incubated for 90 min in the presence of 20 mm
+glucose (unless otherwise indicated) and cycloheximide (10 ␮m), in the absence or presence of 2 mm met-
+formin, 250 ␮m aicar, 5 mm 3-methyladenine, 40 ␮m cc, or 5 mm methylamine, or combinations thereof, as
+indicated. data were obtained from experiments carried out with 3–11 different hepatocyte preparations.
+when no standard error is indicated, the standard error was too small to be seen. *, p ⬍ 0.05 versus control cells
+(none).
+briefly, cells were incubated for 24 h at 37 °c with 0.05 ␮ci/ml
+of l-[u-14c]valine. unincorporated radioisotope was removed
+by three rinses with phosphate-buffered saline (pbs). cells
+were incubated in complete medium, supplemented with 10
+mm cold valine throughout the pre-chase period. after 1 h of
+pre-chase, the medium was removed by three rinses with pbs
+containing 0.9 mm cacl2 and 0.5 mm mgcl2 (pbs⫹) and a
+complete mixture of amino acids in which each amino acid was
+present at four times its concentration in the portal vein of a
+24-h-fasted rat (for composition, see (6)), rapamycin (100 nm),
+results
+statistics—data were summarized as mean ⫾ s.e. statistical
+significance was determined using student’s t test (p ⬍ 0.05).
+effect of pharmacological modulators of ampk activity on
+autophagic proteolysis in isolated rat hepatocytes—when
+hepatocytes are incubated in the absence of amino acids, auto-
+phagic proteolytic flux is maximal. as previously reported in
+ref. 11, addition of the ampk activator aicar under these
+conditions strongly inhibited autophagy, as indicated by the
+34872 journal of biological chemistry
+volume 281 • number 46 • november 17, 2006
+control of macroautophagy by amp-activated protein kinase
+large reduction in the appearance of the branched chain amino
+acids isoleucine and leucine (which are not further catabolized
+in rat liver) (fig. 1, a and b). this was also accompanied by
+reductions in the major gluconeogenic amino acids aspartate,
+glutamate, glutamine, and alanine (fig. 1, c–f). it should be
+stressed that these experiments were carried out in the pres-
+ence of a low concentration of cycloheximide (10 ␮m) to pre-
+vent reincorporation of the proteolytically formed amino acids
+into protein. the inhibition of proteolysis by aicar was simi-
+lar to that observed with the autophagy inhibitor 3-methylad-
+enine and also to that observed with the acidotropic agent
+methylamine, which inhibits lysosomal function by raising the
+lysosomal ph (fig. 1, a and b).
+administration of the antidiabetic agent metformin is
+another way to stimulate ampk activity (18). the effects of
+aicar and metformin on ampk phosphorylation are com-
+pared in fig. 2. in the presence of aicar (250 ␮m), phos-
+phorylation of ampk was rapid but decreased after 40 min,
+presumably because continuous intracellular accumulation
+of zmp results in zmp levels high enough to inhibit ampk
+(19). by contrast, in the presence of 2 mm metformin, ampk
+phosphorylation was initially slow (at 40 min it was similar to
+that seen with aicar at 20 min) and increased with time to
+a maximum at 80 min. even though 2 mm metformin was
+more potent than aicar in stimulating ampk phosphoryl-
+ation, the ability of metformin to inhibit autophagic produc-
+tion of the branched-chain amino acids was less than that
+observed with aicar (fig. 1, a and b). furthermore, pro-
+duction of glutamine, glutamate, and aspartate was not sig-
+nificantly affected by metformin while that of alanine was
+even substantially increased (fig. 1, c–f), presumably
+because glycolytic flux increased in the presence of met-
+formin (see below).
+figure 2. effect of aicar and metformin on ampk phosphorylation in
+hepatocytes. hepatocytes were incubated in the presence of 20 mm glucose
+for the times indicated, in the absence or presence of 250 ␮m aicar or 2 mm
+metformin.
+while aicar and metformin are ampk activators, we also
+wanted to study the effect of inhibition of ampk activity on
+autophagy. compound c has been reported as a specific inhib-
+itor of ampk (18), and we examined its efficacy in this regard.
+metformin-stimulated phosphorylation of ampk was
+reversed by compound c (fig. 3). compound c did not inhibit
+aicar-stimulated ampk phosphorylation unless amino acids
+were also present (fig. 4) (see “discussion”). the same was true
+for acetyl-coa carboxylase (acc), which is a substrate for
+ampk (fig. 4). it was shown previously that compound c, in
+addition to its action as an inhibitor of ampk (18), can also
+inhibit ampk activity by competing with aicar transport
+across the plasma membrane, thus affecting intracellular con-
+version of aicar to zmp (20). this was confirmed in table 1
+showing that 40 ␮m compound c partly inhibited both aicar
+consumption and zmp production. interestingly, zmp forma-
+tion was also inhibited by amino acid addition, but in this case
+without significant effect on aicar consumption so that the
+amino acid effect must have been intracellular rather than at
+the level of aicar transport. the presence of both compound
+c and amino acids inhibited zmp production by about 90%
+(table 1). this accounts for the low ampk phosphorylation
+and ampk activity, as indicated by acetyl coa carboxylase
+phosphorylation (fig. 4), under these conditions (see further
+“discussion”).
+aicar inhibited amino acid-stimulated, rapamycin-sensi-
+tive, phosphorylation of p70s6 kinase, in agreement with our
+earlier observations (21). this effect was largely prevented by 40
+␮m compound c (fig. 4). aicar alone slightly stimulated
+p70s6 kinase phosphorylation (fig. 4), in agreement with the
+data of moller et al. (22) who showed that this phosphorylation
+was rapamycin-insensitive.
+having thus established that compound c can inhibit ampk
+activity in intact hepatocytes, whether by a direct effect on the
+enzyme or indirectly by competing with aicar for transport
+into the cells (20), we tested its effect on autophagy. if ampk
+activation inhibits autophagy as suggested (11), one would
+expect compound c to be able to reverse the inhibition of auto-
+phagy by metformin. unexpectedly, however, compound c
+inhibited autophagic proteolysis when added alone and the
+effect was not additive with either that of metformin, aicar, or
+3-methyladenine (fig. 1, a and b).
+to rule out the possibility that compound c inhibited the
+lysosomal proton pump, we tested its effect on the intracellular
+accumulation of [14c]chloroquine, a divalent weak base, which
+when present at low concentrations greatly accumulates in
+acidic intracellular compartments, mainly lysosomes (15). as a
+control, the effect of 5 mm methylamine was also tested. chlo-
+roquine accumulation was not affected by compound c (fig. 5),
+but methylamine greatly reduced it,
+as expected. aicar significantly
+decreased chloroquine accumula-
+tion although not to the same extent
+as methylamine, whereas met-
+formin had no significant effect.
+figure 3. effect of cc on ampk phosphorylation by aicar and metformin in hepatocytes. hepatocytes
+were incubated for 30 min with 20 mm glucose, in the absence or presence of 250 ␮m aicar or 2 mm metformin.
+we also examined whether varia-
+tions in glycolysis were in some
+way associated with the observed
+november 17, 2006 • volume 281 • number 46
+journal of biological chemistry 34873
+control of macroautophagy by amp-activated protein kinase
+figure 4. effect of aicar, compound c, and rapamycin on the phospho-
+rylation of ampk, acc, p70s6k, and protein kinase b, in the absence and
+presence of amino acids in hepatocytes. hepatocytes were incubated with
+20 mm glucose for 100 min in the absence or presence of 250 ␮m aicar, 100
+nm rapamycin, or 40 ␮m cc, or combinations thereof. a complete mixture of
+amino acids (21) (aa), if present, was added at 30 min. insulin (10⫺7 m), if
+present, was added 5 min before the end of the incubation. eif4e was used to
+check for the loading of the gel.
+table 1
+inhibition by compound c and by amino acids of zmp production
+from aicar in hepatocytes
+hepatocytes were incubated for 100 min in the presence of 250 ␮m aicar and,
+if present, 40 ␮m cc and/or the complete mixture of amino acids (4aa). data
+are the means (⫾s.e.) of experiments carried out with three different hepatocyte
+preparations.
+-⌬aicar
+␮mol/gdw
+37.1 ⫾ 1.8
+40.5 ⫾ 2.1
+25.5 ⫾ 1.8a
+27.9 ⫾ 2.3a
+zmp
+␮mol/gdw
+24.2 ⫾ 1.4
+10.6 ⫾ 1.0a
+11.6 ⫾ 0.8a
+3.6 ⫾ 0.4a
+control
+4aa
+cc
+4aa ⫹ cc
+ap ⬍ 0.05 versus control.
+changes in autophagic proteolysis, but this was not the case.
+omission of glucose did not affect autophagic proteolysis (fig.
+1, a and b) and lactate was not formed under these conditions
+(fig. 1g). atp levels and ampk phosphorylation were not
+affected by glucose depletion (not shown), presumably because
+mitochondrial oxidation of endogenous fatty acids provided
+sufficient energy. metformin stimulated, while both aicar
+and 3-methyladenine strongly inhibited production of lactate;
+compound c, on the other hand, had no effect on lactate for-
+mation (fig. 1g). the effect of metformin on the production of
+lactate is consistent with the ability of this compound to act as a
+weak inhibitor of the mitochondrial respiratory chain (23, 24).
+indeed, we observed a decrease in intracellular atp levels from
+11.2 ⫾ 0.9 to 6.2 ⫾ 0.2 ␮mol/g dry weight of cells after 90 min of
+incubation in the presence of 2 mm metformin (n ⫽ 5; p ⬍ 0.05)
+(data not shown). the inhibition of glycolysis by aicar and
+3-methyladenine is in agreement with previous observations in
+hepatocytes (25, 26).
+figure 5. intracellular/extracellular concentration gradient of chloro-
+quine. hepatocytes were incubated with 20 mm glucose and [14c]chloro-
+quine (0,025 ␮ci/ml) for 90 min, in the absence or presence of aicar, com-
+pound c, metformin, and methylamine (ma; added as the neutral
+hydrochloride compound) at the concentrations as indicated. values are the
+mean ⫾ s.e. of five independent experiments. *, p ⬍ 0.05 versus control cells.
+in the course of our experiments, we noted that aicar
+inhibited insulin-stimulated phosphorylation of protein kinase
+b, which was prevented by amino acids but not by compound c
+(fig. 4). these data indicate that, in addition to activating
+ampk, aicar may have other effects (see “discussion”).
+inhibition of ampk activity blocks autophagic proteolysis
+in human cell lines—we have previously shown that auto-
+phagic proteolysis is stimulated when the human colon car-
+cinoma ht-29 cells are incubated in nutrient-free medium
+(4). pilot experiments showed that metformin and aicar
+were able to activate ampk in ht-29 cells, as determined by
+its phosphorylation at position thr172 and phosphorylation
+of its substrate acc at position ser79, with a maximal effect
+at 250 ␮m aicar and 2 mm metformin (fig. 6a and data not
+shown). whatever the concentration used, cell viability was
+greater than 95% under the experimental conditions used in
+this study. following on with these results, we next investi-
+gated the effect of aicar and metformin on the degradation
+of long-lived [14c]valine-labeled proteins. both compounds
+inhibited the degradation of [14c]valine-labeled proteins in
+nutrient-free medium to the same extent (fig. 6b). however,
+only a partial inhibition of proteolysis was observed when
+compared with 3-ma, amino acids or interleukin 13, known
+inhibitors of autophagic proteolysis in ht-29 cells (4) (fig.
+6b). to correlate these findings with the state of ampk acti-
+vation, ht-29 cells were transfected with a constitutively
+active form of ampk (ampkca). as previously shown (27),
+ampk activity was increased, as determined here by the
+phosphorylation of the ampk substrate acc,
+in cells
+expressing ampkca (fig. 7a). next, we have analyzed the
+rate of degradation of long-lived [14c]valine-labeled pro-
+teins in cells expressing ampkca. as shown in fig. 7b, the
+rate of degradation of long-lived [14c]valine-labeled pro-
+teins and its sensitivity to autophagy inhibitors were similar
+to that observed in untransfected ht-29 cells (fig. 6b) and in
+cells transfected with an empty vector (data not shown)
+when incubated in nutrient-free medium. from these find-
+ings we reasoned that the inhibition of ampk activity should
+inhibit the rate of autophagic proteolysis in cells incubated
+34874 journal of biological chemistry
+volume 281 • number 46 • november 17, 2006
+control of macroautophagy by amp-activated protein kinase
+rate of degradation of long-lived [14c]valine-labeled pro-
+teins in the presence of compound c (40 ␮m). prior to this,
+we verified the inhibitory effect of compound c on ampk
+activity in ht-29 cells. for this purpose, ht-29 cells were
+cultured in the absence of glucose, a condition known to
+activate ampk and to favor the phosphorylation of its sub-
+strate acc (fig. 6a). in the presence of compound c, acc
+phosphorylation was inhibited by 80% in treated cells when
+compared with untreated cells. in agreement with the find-
+ings in hepatocytes (cf. fig. 1), compound c inhibited prote-
+olysis to the same extent as autophagic proteolysis inhibitors
+in ht-29 cells (fig. 6b). in addition, no additive inhibition
+was observed in the presence of both compound c and 3-ma
+(data not shown). from these findings we concluded that the
+inhibition of ampk activity blocks autophagic proteolysis
+whereas active ampk is required during starvation-induced
+autophagy. to exclude a cell line-dependent effect, we have
+next investigated the role of ampk during autophagic pro-
+teolysis in another cell line, hela cells. in this cell line, which
+does not express the ampk kinase lkb1 (28), aicar is not
+able to stimulate ampk unless lkb1 is expressed (fig. 8b
+and ref. 29). lkb1 is present in a complex with the regula-
+tory proteins strad and mo25 (29). as the amount of
+strad is low in hela cells (29), we co-transfected hela
+cells with cdnas encoding lkb1 and strad (fig. 8a). in
+transfected cells we observed an increase in ampk activity,
+which was further stimulated in the presence of aicar (fig.
+8b and ref. 29). next we have analyzed the rate of degrada-
+tion of long-lived [14c]valine-labeled proteins in cells trans-
+fected with cdnas encoding lkb1 and strad and in con-
+trol hela cells (cells transfected with empty vectors). as
+shown in fig. 8c, in both cell lines amino acid- and 3-ma-
+sensitive autophagic proteolysis was stimulated in hbss.
+however, no significative difference in the rate of starvation-
+stimulated autophagic proteolysis was observed depending
+on the activity of ampk. although the activity of ampk was
+not stimulated by aicar, an inhibitory effect of aicar on
+autophagic proteolysis was still observed (fig. 8c). next we
+analyzed the effect of inhibition of ampk activity on the rate
+of proteolysis. in a first series of experiments, hela cells
+expressing lkb1 and strad were transfected with the
+cdna encoding ampkdn (fig. 8a). under these conditions,
+we observed a decrease in ampk activity and no stimulatory
+effect of aicar (fig. 8b). we observed an almost complete
+inhibition of starvation-induced autophagic degradation of
+long-lived [14c]valine-labeled proteins in these cells (fig.
+8c). we then investigated the effect of compound c in hela
+cells and in cells expressing lkb1 and strad. compound c
+inhibited ampk activity in hela cells expressing lkb1 and
+strad and also in control hela cells, which have a low but
+detectable ampk activity (fig. 8b). in agreement with the
+results obtained in hepatocytes and ht-29 cells, compound
+c was a very potent inhibitor of starvation-induced autoph-
+agic proteolysis in hela cells, independent of the amount of
+lkb1 and strad (fig. 8c). as autophagy is a vacuolar
+mechanism that sequesters cytoplasmic material to deliver it
+to the lysosomal compartment, we have investigated the
+presence of autophagic vacuoles by staining with mdc, a dye
+figure 6. effect of aicar, metformin, and compound c on autophagic
+proteolysis in ht-29 cells. a, left, effect of aicar and metformin on ampk
+activity. when required, metformin (2 mm) or aicar (250 ␮m) was added for
+15 min to complete medium before the experiment. then, the medium was
+removed and replaced by the adequate medium for 1 h (aicar, 250 ␮m; met,
+2 mm). the cells were lysed and the state of phosphorylation of ampk␣was
+assessed by immunoblotting with the anti-ampk/phospho-thr172. phospho-
+rylation was quantified by the ratio of ampk-p per total ampk in arbitrary
+units. the ampk-dependent phosphorylation of acc was detected by the
+anti-acc/phospho-ser79. right, effect of compound c on acc. cells were
+incubated in a glucose-free medium to stimulate the ampk-dependent acc
+phosphorylation. when required, 40 ␮m cc was added. the quantification of
+acc phosphorylation was analyzed by the ratio of acc-p per total actin in
+arbitrary units. b, effect of aicar, met, and cc on [14c]valine-labeled protein
+degradation in ht-29 cells in comparison to other known inhibitors of auto-
+phagy, amino acids (aa, 4x), 3-ma (10 mm) and il-13 (30 ng/ml). after labeling
+overnight with radioactive valine, long-lived protein degradation was meas-
+ured as described under “experimental procedures” in complete medium
+(cm) and nutrient-free medium (hbss). the cell viability was greater than 95%
+in all conditions. values are the mean ⫾ s.e. of three independent experi-
+ments. *, p ⬍ 0.05 versus control cells incubated in nutrient-free medium.
+in nutrient-free medium. for this purpose, we used two
+approaches. in a first approach, cells were transfected with
+the cdna encoding a dominant-negative form of ampk
+(ampkdn). in a second approach, cells were treated with
+compound c. according to previous results (27), activation
+of ampk activity by aicar was impaired in cells expressing
+ampkdn (fig. 7a). moreover starvation-induced proteoly-
+sis was inhibited in these cells when compared with untrans-
+fected cells (fig. 6b), to cells expressing ampkca (fig. 7b)
+and to cells transfected with an empty vector (data not
+shown). in a second set of experiments we have analyzed the
+november 17, 2006 • volume 281 • number 46
+journal of biological chemistry 34875
+control of macroautophagy by amp-activated protein kinase
+ber of mdc-positive vacuoles sen-
+sitive to 3-ma or amino acids in
+cells incubated in nutrient-free
+medium (fig. 9) when com-
+pared with cells not expressing
+ampkdn. these findings strongly
+suggest that inhibition of ampk
+activity interferes with the stimu-
+lation of autophagy in nutrient-
+free medium.
+discussion
+we have been able to confirm the
+observation of samari and seglen
+(11) that aicar is a very effective
+inhibitor of autophagy in hepato-
+cytes. it was proposed (11) that
+aicar, after its intracellular phos-
+phorylation to zmp, inhibits auto-
+phagy because of its ability to acti-
+vate ampk. because autophagy is
+accelerated when cells have insuffi-
+cient oxidizable substrate at their
+disposal, inhibition of autophagy by
+ampk activation under these con-
+ditions would, however, be counter-
+productive (1).
+in hepatocytes, ampk activity
+did not match the inhibition of
+autophagy. our experiments show
+that metformin, even though it
+strongly stimulated ampk phos-
+phorylation, was less potent as an
+autophagy inhibitor. the partial
+inhibition of autophagy by met-
+formin may have been caused by the
+significant decline in cellular atp
+levels that was observed under these
+conditions. indeed, a decrease in
+atp alone,
+in the absence of
+changes in ampk activity, has pre-
+viously been shown by moller et al.
+(32) to inhibit autophagy. conse-
+quently, when nutrient depletion is
+too excessive, with strong reduction
+in intracellular atp, autophagy
+may become inhibited because,
+after all, autophagy is a complicated membrane flow-depend-
+ent process, which does require input of atp (33).
+the fact that the ampk inhibitor compound c strongly
+inhibited autophagy, not only in hepatocytes but also in ht-29
+cells and hela cells, suggested that activated ampk, rather
+than inhibiting autophagy is in fact required for autophagy, a
+situation similar to that in yeast (10). this was supported by the
+experiments with ht-29 cells and hela cells showing that
+transfection of these cells with ampkdn completely inhibited
+autophagy in hbss. by contrast, transfection with ampkca
+did not affect the rate of autophagy under these conditions. we
+figure 7. effect of ampkca and ampkdn on autophagic proteolysis in ht-29 cells. a, left, cells were trans-
+fected by ampkca and ampkdn constructs and the expression level was detected after sds-page and immu-
+noblotting with c-myc antibody. right, ampk-dependent phosphorylation of acc was analyzed in cells trans-
+fected with an empty vector, in cells expressing ampkca and ampkdn, respectively. when required aicar was
+added at 250 ␮m. the ampk-dependent phosphorylation of acc was detected by the anti-acc/phospho-ser79.
+the quantification of acc phosphorylation was expressed by the ratio of acc-p per total actin in arbitrary units.
+b, [14c]valine-labeled protein degradation in ht-29 cells expressing ampkca and ampkdn. after labeling over-
+night with radioactive valine, long-lived protein degradation was measured as described under “experimental
+procedures” in complete medium (cm) and nutrient-free medium (hbss). cells were used 48-h post-transfec-
+tion. when required, amino acids (aa, 4x); 3-ma (10 mm), and il-13 (30 ng/ml) were added to the chase
+medium. *, p ⬍ 0.05 versus ht-29 cells expressing ampkca incubated in nutrient-free medium.
+that accumulates in acidic compartments including autoph-
+agic vacuoles (30, 31). as expected, mdc-positive vacuoles
+accumulated in hela cells expressing lkb1 and strad
+when incubated fo r 2 h innutrient-free medium (fig. 9).
+according to previous studies (31), the number of mdc-
+positive vacuoles was reduced by 80–85% in cells incubated
+in nutrient-free medium in the presence of 3-ma or amino
+acids (fig. 9). the same qualitative and quantitative obser-
+vations were also made in control hela cells (data not
+shown). however, expression of ampkdn in hela cells
+expressing lkb1 and strad reduced by 65–70% the num-
+34876 journal of biological chemistry
+volume 281 • number 46 • november 17, 2006
+control of macroautophagy by amp-activated protein kinase
+the fact that in hela cells, which
+lack lkb1, autophagy can be inhib-
+ited by compound c (fig. 8) leads us
+to conclude that, apparently, ampk
+can also be phosphorylated by
+another upstream kinase. major
+candidates are camkk and tak1
+(38–40).
+rather zmp),
+for autophagy (4).
+the question to be answered
+now is why autophagy is inhibited
+by aicar. presumably, the inhibi-
+tion of autophagy by aicar is not
+related to its ability to activate
+ampk. one possibility is that
+aicar (or
+like
+3-methyladenine,
+is also a pi3k
+inhibitor which inhibits both pi3k
+class i and iii, the latter being
+essential
+in
+pi3k class iii-overexpressed chi-
+nese hamster ovary cells aicar
+strongly inhibited pi3k class iii
+activity, although the effect was
+assumed to be due to activation of
+ampk (41). the observation that
+insulin-induced phosphorylation of
+protein kinase b was antagonised by
+aicar (fig. 4), which has also been
+reported by others (42–44), may be
+explained by pi3k inhibition. in
+macrophages, aicar has been
+directly shown to inhibit pi3k (43).
+in this context, it is important to
+note that caffeine and theophylline,
+derivatives of the purine xanthine,
+are also inhibitors of pi3k, albeit
+only at high concentrations (45).
+figure 8. effect of compound c and ampkdn on autophagic proteolysis in hela cells. a, hela cells were
+co-transfected with the cdnas encoding gfp-lkb1 and flag-strad (t) or with control vectors (c). lkb1 and
+strad were detected by immunoblotting with an anti-gfp and an anti-flag, respectively, in co-transfected
+cells. hela lkb1/strad cells were transfected with the cdna encoding myc-ampkdn (t1) or with control vector
+(c1). the transfected protein was detected by immunoblotting with the anti-c-myc. b, the ampk-dependent
+phosphorylation of acc was detected by the anti-acc/phospho-ser79 in complete medium (cm) and nutrient-
+free medium (hbss). the quantification of acc phosphorylation was expressed by the ratio of acc-p per total
+actin in arbitrary units. when required aicar and cc were added at 250 ␮m and 40 ␮m, respectively. c, [14c]va-
+line-labeled protein degradation in hela cells, hela lkb1/strad, and hela lkb1/strad/ampkdn cells. after
+labeling overnight with radioactive valine, long-lived protein degradation was measured as described under
+“experimental procedures” in complete medium (cm) and nutrient-free medium (hbss). cells were used 48-h
+post-transfection. when required, amino acids (aa, 4x), 3-ma (10 mm), and cc (40 ␮m) were added to the chase
+medium. values are the mean ⫾ s.e. of three independent experiments. *, p ⬍ 0.05 versus control cells and hela
+lkb1/strad cells incubated in nutrient-free medium.
+conclude from these experiments that ampk is essential for
+autophagy and that, apparently, basal activity of ampk is suf-
+ficient for autophagy.
+our findings are in line with recent data showing that activa-
+tion of the tumor suppressor p53 inhibits mtor activity
+through activation of ampk, a phenomenon that is accompa-
+nied by increased autophagy (34, 35). our data also tally with
+the recently demonstrated requirement of autophagy for
+eukaryotic elongation factor 2-kinase (eef-2 kinase) (36),
+which is known to be activated by ampk (37).
+there are other observations that
+suggest that aicar may not be spe-
+cific as an activator of ampk but
+can exert other actions. thus,
+aicar was found to inhibit glycol-
+ysis in hepatocytes (fig. 1g). this
+effect, which has been reported pre-
+viously (26, 46),
+is highly unex-
+pected because activation of ampk
+should stimulate rather than inhibit
+glycolysis which, after all, is an atp-
+producing process. indeed, activation of ampk with met-
+formin was accompanied by increased production of lactate
+(fig. 1g).
+another effect of aicar, not related to ampk activation
+because metformin had no effect, was its ability to raise the
+lysosomal ph (fig. 5), perhaps due to the amine group in its
+chemical structure. although acidotropic agents may not
+affect the rate of formation of autophagosomes (6, 47), they
+do inhibit the degradation of protein (and of other macro-
+molecules) within the autophagolysosome. although aicar
+november 17, 2006 • volume 281 • number 46
+journal of biological chemistry 34877
+control of macroautophagy by amp-activated protein kinase
+finally, we would like to comment on the finding that not
+only compound c but also amino acids are able to inhibit
+zmp production from aicar, albeit by a different mecha-
+nism, so that zmp production was almost completely
+blocked in the presence of both compound c and amino
+acids (table 1). these observations underscore the warning
+(20) that variations in the activity of ampk in the presence
+of aicar are not always due to direct effects on ampk.
+although ampk is activated by zmp, high concentrations of
+zmp have been shown to inhibit the enzyme (19) and makes the
+effect of a partial decrease in intracellular zmp on ampk dif-
+ficult to predict. the ability of compound c, in contrast to
+amino acids, to inhibit aicar-induced ampk phosphoryla-
+tion in hepatocytes on its own (fig. 4), even though the accu-
+mulation of zmp in both cases decreased similarly (table 1)
+may be ascribed to small differences in intra/extracellular dis-
+tribution of zmp. although most of the zmp produced from
+aicar is recovered inside the hepatocytes (50), it is possible
+that in the presence of amino acids, when cell volume increases
+(8), some of the zmp leaks to the extracellular fluid so that the
+total amount of zmp in the cell suspension overestimates the
+actual concentration of zmp inside the cells.
+in summary, the data presented in this study confirm that the
+ampk activator aicar inhibits autophagy but do not support
+the conclusion that ampk is responsible for this effect (11).
+rather, our observations indicate that ampk activation is
+required for autophagy, a situation similar to that in yeast (10).
+acknowledgments—we thank adrian minty, david carling, marc
+billaud, and hans clevers for providing us with reagents used in this
+study. thanks are also due to merck sharp & dohme bv (haarlem,
+the netherlands) for compound c.
+figure 9. mdc staining of hela lkb1/strad cells and hela
+lkb1/strad/ampkdn cells. hela lkb1/strad cells and hela lkb1/strad/
+ampkdn cells were treated fo r 2 h inappropriate media (3-ma, 10 mm; aa, 4x),
+and, during the last 10 min, 0.1 ␮m mdc was added. only cells expressing
+gfp-lkb1 were used for mdc counting. the bar represents 5 ␮m. *, p ⬍ 0.05
+versus the control in hbss alone; **, p ⬍ 0.05 versus hela lkb1/strad cells
+incubated in nutrient-free medium.
+has been widely used in studies of the role of ampk in
+metabolism (9), clearly not all effects of aicar can be
+ascribed to its ability to activate ampk.
+we realize that part of the evidence that ampk is essential
+for autophagy relies on the use of compound c and its assumed
+specificity. compound c was originally described as a specific
+inhibitor of ampk activity (18) but more recent reports
+showed that ampk phosphorylation itself can also be affected
+by compound c (cf. also fig. 4) (48, 49). apart from an effect of
+compound c on the conversion of aicar to zmp (20) (cf.
+table 1), which can be considered as an indirect way of inhib-
+iting ampk activity, we have no indications that the inhibition
+of autophagy by compound c was due to effects other than that
+on ampk. moreover, an effect of compound c on the lysoso-
+mal ph could be ruled out (fig. 5).
+references
+1. codogno, p., and meijer, a. j. (2005) cell death. differ. 12, 1509–1518
+2. shintani, t., and klionsky, d. j. (2004) science 306, 990–995
+3. kihara, a., kabeya, y., ohsumi, y., and yoshimori, t. (2001) embo rep.
+4. petiot, a., ogier-denis, e., blommaart, e. f., meijer, a. j., and codogno, p.
+(2000) j. biol. chem. 275, 992–998
+5. seglen, p. o., and gordon, p. b. (1982) proc. natl. acad. sci. u. s. a. 79,
+2, 330–335
+1889–1892
+6. blommaart, e. f., luiken, j. j., blommaart, p. j., van woerkom, g. m., and
+meijer, a. j. (1995) j. biol. chem. 270, 2320–2326
+7. jacinto, e., and hall, m. n. (2003) nat. rev. mol. cell biol. 4, 117–126
+8. meijer, a. j., and dubbelhuis, p. f. (2004) biochem. biophys. res. commun.
+9. hardie, d. g. (2004) j. cell sci. 117, 5479–5487
+10. wang, z., wilson, w. a., fujino, m. a., and roach, p. j. (2001) mol. cell
+313, 397–403
+biol. 21, 5742–5752
+11. samari, h. r., and seglen, p. o. (1998) j. biol. chem. 273, 23758–23763
+12. baas, a. f., boudeau, j., sapkota, g. p., smit, l., medema, r., morrice,
+n. a., alessi, d. r., and clevers, h. c. (2003) embo j. 22, 3062–3072
+13. williamson, j. r., and corkey, b. e. (1979) methods enzymol. 55, 200–222
+14. wu, g. y., bazer, f. w., tuo, w. b., and flynn, s. p. (1996) biol. reprod. 54,
+15. luiken, j. j., aerts, j. m., and meijer, a. j. (1996) eur. j. biochem. 235,
+16. pattingre, s., bauvy, c., and codogno, p. (2003) j. biol. chem. 278,
+1261–1265
+564–573
+16667–16674
+17. scarlatti, f., bauvy, c., ventruti, a., sala, g., cluzeaud, f., vandewalle, a.,
+34878 journal of biological chemistry
+volume 281 • number 46 • november 17, 2006
+control of macroautophagy by amp-activated protein kinase
+34. feng, z., zhang, h., levine, a. j., and jin, s. (2005) proc. natl. acad. sci.
+u. s. a. 102, 8204–8209
+35. levine, a. j., feng, z., mak, t. w., you, h., and jin, s. (2006) genes dev. 20,
+36. wu, h., yang, j. m., jin, s., zhang, h., and hait, w. n. (2006) cancer res.
+267–275
+66, 3015–3023
+12220–12231
+20. fryer, l. g., parbu-patel, a., and carling, d. (2002) febs lett. 531,
+37. browne, g. j., finn, s. g., and proud, c. g. (2004) j. biol. chem. 279,
+ghidoni, r., and codogno, p. (2004) j. biol. chem. 279, 18384–18391
+18. zhou, g., myers, r., li, y., chen, y., shen, x., fenyk-melody, j., wu, m.,
+ventre, j., doebber, t., fujii, n., musi, n., hirshman, m. f., goodyear,
+l. j., and moller, d. e. (2001) j. clin. investig. 108, 1167–1174
+19. corton, j. m., gillespie, j. g., hawley, s. a., and hardie, d. g. (1995) eur.
+j. biochem. 229, 558–565
+21. dubbelhuis, p. f., and meijer, a. j. (2002) febs lett. 521, 39–42
+22. moller, m. t., samari, h. r., and seglen, p. o. (2004) toxicol. sci. 82,
+23. leverve, x. m., guigas, b., detaille, d., batandier, c., koceir, e. a., chau-
+vin, c., fontaine, e., and wiernsperger, n. f. (2003) diabetes metab. 29,
+6s88–6s94
+24. owen, m. r., doran, e., and halestrap, a. p. (2000) biochem. j. 348,
+189–192
+628–637
+607–614
+25. caro, l. h., plomp, p. j., wolvetang, e. j., kerkhof, c., and meijer, a. j.
+(1988) eur. j. biochem. 175, 325–329
+26. vincent, m. f., bontemps, f., and van den berghe, g. (1992) biochem. j.
+281, 267–272
+27. woods, a., azzout-marniche, d., foretz, m., stein, s. c., lemarchand, p.,
+ferre, p., foufelle, f., and carling, d. (2000) mol. cell biol. 20, 6704–6711
+28. tiainen, m., ylikorkala, a., and makela, t. p. (1999) proc. natl. acad. sci.
+u. s. a. 96, 9248–9251
+29. hawley, s. a., boudeau, j., reid, j. l., mustard, k. j., udd, l., makela, t. p.,
+alessi, d. r., and hardie, d. g. (2003) j. biol. 2, 28
+30. biederbick, a., kern, h. f., and elsasser, h. p. (1995) eur. j. cell biol. 66,
+31. munafo, d. b., and colombo, m. i. (2001) j. cell sci. 114, 3619–3629
+32. moller, t. n., samari, h. r., holden, l., and seglen, p. o. (2004) in auto-
+phagy (klionsky, d. j., ed.) pp. 48–59, landes bioscience
+33. plomp, p. j., gordon, p. b., meijer, a. j., hoyvik, h., and seglen, p. o.
+(1989) j. biol. chem. 264, 6699–6704
+3–14
+38. hawley, s. a., pan, d. a., mustard, k. j., ross, l., bain, j., edelman, a. m.,
+frenguelli, b. g., and hardie, d. g. (2005) cell metab. 2, 9–19
+39. hurley, r. l., anderson, k. a., franzone, j. m., kemp, b. e., means, a. r.,
+and witters, l. a. (2005) j. biol. chem. 280, 29060–29066
+40. momcilovic, m., hong, s. p., and carlson, m. (2006) j. biol. chem. 281,
+41. byfield, m. p., murray, j. t., and backer, j. m. (2005) j. biol. chem. 280,
+25336–25343
+33076–33082
+42. bolster, d. r., crozier, s. j., kimball, s. r., and jefferson, l. s. (2002) j. biol.
+chem. 277, 23977–23980
+43. jhun, b. s., jin, q., oh, y. t., kim, s. s., kong, y., cho, y. h., ha, j., baik,
+h. h., and kang, i. (2004) biochem. biophys. res. commun. 318, 372–380
+44. rattan, r., giri, s., singh, a. k., and singh, i. (2005) j. biol. chem. 280,
+39582–39593
+45. foukas, l. c., daniele, n., ktori, c., anderson, k. e., jensen, j., and shep-
+herd, p. r. (2002) j. biol. chem. 277, 37124–37130
+46. guigas, b., bertrand, l., taleux, n., foretz, m., wiernsperger, n., vertom-
+men, d., andreelli, f., viollet, b., and hue, l. (2006) diabetes 55, 865–874
+47. hoyvik, h., gordon, p. b., and seglen, p. o. (1986) exp. cell res. 166, 1–14
+48. mccullough, l. d., zeng, z., li, h., landree, l. e., mcfadden, j., and
+ronnett, g. v. (2005) j. biol. chem. 280, 20493–20502
+49. fediuc, s., gaidhu, m. p., and ceddia, r. b. (2006) j. lipid res. 47, 412–420
+50. vincent, m. f., bontemps, f., and van den berghe, g. (1996) biochem.
+pharmacol. 52, 999–1006
+november 17, 2006 • volume 281 • number 46
+journal of biological chemistry 34879

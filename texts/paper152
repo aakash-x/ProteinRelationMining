@@ -1,0 +1,1053 @@
+the journal of biological chemistry vol. 282, no. 25, pp. 18573–18583, june 22, 2007
+© 2007 by the american society for biochemistry and molecular biology, inc. printed in the u.s.a.
+tissue-specific autophagy alterations and increased
+tumorigenesis in mice deficient in atg4c/autophagin-3*
+received for publication, february 8, 2007, and in revised form, march 21, 2007 published, jbc papers in press, april 17, 2007, doi 10.1074/jbc.m701194200
+guillermo marin˜ o‡, natalia salvador-montoliu‡, antonio fueyo§, erwin knecht¶, noboru mizushima储,
+and carlos lo´ pez-otı´n‡1
+from the ‡departamento de bioquı´mica y biologı´a molecular and §biologı´a funcional, facultad de medicina, instituto
+universitario de oncologı´a, universidad de oviedo, 33006 oviedo, spain, ¶laboratorio de biologia celular, centro de investigacion
+principe felipe, 46013 valencia, spain, and 储department of bioregulation and metabolism, tokyo metropolitan institute of
+medical science, tokyo 113-8613, japan, department of physiology and cell biology, tokyo medical and dental university,
+tokyo 113-8519, japan, and sorst, japan science and technology agency, kawaguchi 332-0012, japan
+atg4c/autophagin-3 is a member of a family of cysteine pro-
+teinases proposed to be involved in the processing and delipida-
+tion of the mammalian orthologues of yeast atg8, an essential
+component of an ubiquitin-like modification system required
+for execution of autophagy. to date, the in vivo role of the dif-
+ferent members of this family of proteinases remains unclear.
+to gain further insights into the functional relevance of atg4
+orthologues, we have generated mutant mice deficient in
+atg4c/autophagin-3. these mice are viable and fertile and do
+not display any obvious abnormalities, indicating that they are
+able to develop the autophagic response required during the
+early neonatal period. however, atg4cⴚ/ⴚ-starved mice show a
+decreased autophagic activity in the diaphragm as assessed by
+immunoblotting studies and by fluorescence microscopic anal-
+ysis of samples from atg4cⴚ/ⴚ gfp-lc3 transgenic mice. in
+addition, animals deficient in atg4c show an increased suscep-
+tibility to develop fibrosarcomas induced by chemical carcino-
+gens. based on these results, we propose that atg4c is not essen-
+tial for autophagy development under normal conditions but is
+required for a proper autophagic response under stressful con-
+ditions such as prolonged starvation. we also propose that this
+enzyme could play an in vivo role in events associated with
+tumor progression.
+the mechanisms responsible for delivering cytoplasmic
+cargo to the lysosome are known collectively as autophagy and
+play an important role in the maintenance of cell homeostasis
+(1–4). this process has been observed in all eukaryotic cells,
+indicating the widespread occurrence of this evolutionarily
+conserved pathway. autophagy can be classified into at least
+three different pathways; that is, macroautophagy, microauto-
+phagy, and chaperone-mediated autophagy (4, 5). macroauto-
+phagy is the major lysosomal route for the turnover of cytoplas-
+mic components and will hereafter be referred as autophagy.
+this process begins with a sequestration event consisting of an
+* this work was supported by grants from comisio´ n interministerial de cien-
+cia y tecnologı´a, spain, fundacio´ n lilly, fundacio´ n m. botı´n, and european
+union (cancer degradome-fp6). the costs of publication of this article
+were defrayed in part by the payment of page charges. this article must
+therefore be hereby marked “advertisement” in accordance with 18 u.s.c.
+section 1734 solely to indicate this fact.
+1 tel.: 34-985-104201; fax: 34-985-103564; e-mail: clo@uniovi.es.
+engulfment of cytoplasmic constituents by a membrane sac,
+called the isolation membrane. this structure results in a dou-
+ble-membrane vesicle called the autophagosome, containing
+bulk portions of cytoplasm, which eventually fuses with the
+lysosome. finally, the inner membrane of the autophagosome
+and its protein and organelle contents are degraded by lysoso-
+mal hydrolases and recycled.
+the knowledge of the molecular mechanisms underlying
+autophagy has considerably improved after the isolation and
+characterization of autophagy-defective mutants in the yeast
+saccharomyces cerevisiae (6–9). a series of elegant studies
+directed to the functional characterization of these autophagy
+mutants has revealed that two ubiquitin-like conjugation sys-
+tems are required for yeast autophagy (10, 11). one of these two
+systems requires the participation of atg8 synthesized as a pre-
+cursor protein, which is cleaved after a gly residue by a cysteine
+proteinase called atg4 (12–14). this gly terminal residue from
+the modifier atg8 is also activated by atg7 (an ubiquitin-acti-
+vating enzyme (e1)-like enzyme), but then the modifier protein
+is transferred to atg3 (an ubiquitin carrier protein (e2)-like
+enzyme) and finally conjugated with membrane-bound phos-
+phatidylethanolamine through an amide bond (11). the com-
+plex atg8-phosphatidylethanolamine is also deconjugated by
+the proteinase atg4, leading to the release of atg8 from mem-
+branes. this modification system is an essential component of
+the membrane rearrangement dynamics taking place during
+the formation of autophagosomes and execution of autophagy.
+several studies have shown that these ubiquitin-like conjuga-
+tion systems associated with autophagy are conserved in higher
+eukaryotes (10, 15–18). thus, proteins structurally and func-
+tionally related to the diverse yeast atg proteins have been
+described in mammalian cells, and their roles in the process of
+autophagy have been elucidated in some cases (15, 16, 19).
+recently we have described and cloned the four human
+orthologues of the yeast proteinase atg4 (20). these proteins
+are members of the c-54 family of cysteine proteinases and
+maintain a significant sequence similarity with yeast atg4.
+human atg4 orthologues also exhibit the structural features
+characteristic of the yeast proteinase including the catalytic
+cys residue and its surrounding amino acid sequences. all of
+these structural features are also absolutely conserved in the
+amino acid sequence of the four murine orthologues of atg4
+(20).
+june 22, 2007 • volume 282 • number 25
+journal of biological chemistry 18573
+autophagy alterations and increased tumorigenesis in atg4cⴚ/ⴚ mice
+the finding that the above-mentioned ubiquitin-like system
+is composed of four proteinases that may target at least six
+distinct substrates in mammals (lc3a, lc3b, lc3c, gate-
+16, gabarap, and atg8l) (16, 21, 22) contrasts with the
+simplified yeast system involving a single proteinase with a spe-
+cific substrate and indicates that this conjugation system has
+evolved to acquire a larger complexity during eukaryote evolu-
+tion. several works have shed some light on the involvement of
+atg4 orthologues in the c-terminal processing and phosphati-
+dylethanolamine deconjugation of some of the atg8 mamma-
+lian orthologues (22–24). however, to date the in vivo role of
+the different members of this family of cysteine proteinases
+remains to be characterized. similarly, it is unclear if the com-
+plexity of mammalian atg4 orthologues and their putative sub-
+strates simply derives from functional redundancy in this sys-
+tem, as described for other protease families (25, 26), or by
+contrast it corresponds to a different scenario in which some
+components of this proteolytic system have evolved to accom-
+plish other functions distinct from autophagy.
+among the four mammalian atg4 orthologues, atg4c is the
+most widely distributed in human tissues (20). on this basis
+together with the fact that human atg4c is able to complement
+the deficiency of atg4 in yeast, studies were undertaken to gen-
+erate a murine model defective for the atg4c gene. in this work
+we report the generation and phenotype analysis of mutant
+mice deficient in this member of the atg4 family of cysteine
+proteinases. we show that these mice exhibit a tissue-specific
+decrease in autophagy in response to starvation, the main auto-
+phagy-inducing stimulus in vivo. in addition, atg4c⫺/⫺ mice
+also show a decreased locomotor activity after prolonged star-
+vation that could be correlated with their tissue-specific
+decrease in autophagic activity. finally, we describe studies of
+cancer susceptibility in these mutant mice with the finding that
+atg4c deficiency leads to an increased susceptibility to develop
+fibrosarcomas induced by chemical carcinogens. based on
+these results, we conclude that the activity of this enzyme is not
+essential for a proper autophagic activity under normal circum-
+stances but is required for an appropriate resistance to pro-
+longed starvation in vivo. finally, we propose that atg4c could
+be involved in events associated with tumor progression.
+experimental procedures
+targeting vector construction—a genomic dna clone was
+isolated from a mouse 129-sv/j genomic dna library (strat-
+agene, la jolla, ca), using a murine atg4c cdna fragment as
+probe. the genomic organization was determined by restric-
+tion analysis and subsequent subcloning of these fragments into
+pbluescript or puc18. plasmid ppn2t-hgterm (kindly pro-
+vided by dr. c. paszty, lawrence berkeley national laboratory,
+berkeley, ca) containing the pgk-neo and two pgk-tk (thymi-
+dine kinase) selection markers, was used to construct the atg4c
+targeting vector. a 3.4-kb hindiii-bamhi fragment from the
+5⬘-flanking region was used as the 5⬘-homologous region,
+whereas a 4.7-kb ecori-hincii fragment containing exons 5
+and 6 was used as the 3⬘-region of homology. the 2.4-kb neo
+cassette was used as a positive marker and replaced a 10-kb
+fragment containing exons 1–4 of the atg4c gene (fig. 1a).
+generation of atg4c-deficient mice—the targeting vector
+was linearized by digestion with noti, electroporated into hm1
+embryonic stem cells, and selected for homologous recombina-
+tion with g418 and ganciclovir. positive clones were screened
+by southern blot after psti digestion of genomic dna and
+probed with a radiolabeled 5⬘-external probe (fig. 1b). a 12-kb
+fragment was detected from the wild-type allele, and an 8-kb
+fragment was detected from the corresponding mutant allele.
+the targeted embryonic stem cell clones were expanded and
+subsequently injected into blastocysts to generate chimeras.
+chimeric males were mated with c57bl/6 female mice, and the
+offspring heterozygous for atg4c were used to generate
+homozygous null mice.
+in all experiments homozygous
+atg4c⫺/⫺ mice and their corresponding wild-type mice were
+littermates derived from interbreeding of heterozygotes with a
+mixed background of c57bl6/129sv. in all cases mice geno-
+types were determined by southern blot analysis of tail dna.
+rt-pcr2—total rna was isolated from mouse tissues accord-
+ing to the method of chomczynski and sacchi (27). about half of
+theobtainedproductwasreverse-transcribedusingtherna-pcr
+core kit威 from perkinelmer life sciences. a pcr reaction was
+then performed with mouse atg4c-specific primers for 25
+cycles of denaturation (94 °c, 20 s), annealing (62 °c, 20 s),
+and extension (72 °c, 30 s). as a control, ␤-actin was pcr-
+amplified from all samples under the same conditions.
+immunoblotting—mice tissues were immediately frozen in
+liquid nitrogen after extraction and were homogenized in a 20
+mm tris buffer, ph 7.4, containing 150 mm nacl, 1% triton
+x-100, 10 mm edta, and complete威 protease inhibitor mix-
+ture (roche applied science). once homogenized, tissue
+extracts were centrifuged at 12,000 rpm at 4 °c, and superna-
+tants were collected. the protein concentration of the superna-
+tant was evaluated by bicinchoninic acid technique (bca pro-
+tein assay kit, pierce). 25 ␮g of protein sample was loaded on
+13% sds-polyacrylamide gels. after electrophoresis, gels were
+electrotransferred onto nitrocellulose filters, and then the fil-
+ters were blocked with 5% nonfat dried milk in pbt (phos-
+phate-buffered saline with 0.05% tween 20) and incubated with
+primary antibodies in 5% bovine serum albumin in pbt. after
+three washes with pbt, filters were incubated with horseradish
+peroxidase-conjugated goat anti-rabbit igg at a 1:10,000 dilu-
+tion in 1.5% milk in pbt and developed with a west pico
+enhanced chemiluminescence kit (pierce). the antibodies
+against atg4c, gate-16, gabarap, and lc3 were kindly
+provided by dr. t. ueno (juntendo university, tokyo). the
+antibodies against atg4a, atg4b, and atg4d were from abgene
+(manchester, uk).
+northern blot analysis—nylon filters containing 2 ␮g of
+poly(a)⫹ rna of a wide variety of murine tissues were prehy-
+bridized at 42 °c fo r 3 h in 50%formamide, 5⫻ saline/sodium
+phosphate/edta (1⫻ saline/sodium phosphate/edta, 150
+mm nacl, 10 mm nah2po4, 1 mm edta, ph 7,4), 10⫻ den-
+hardt’s solution, 2% sds, and 100 ␮g/ml denatured herring
+2 the abbreviations used are: rt, reverse transcription; gfp, green fluorescent
+protein; mca, methylcholanthrene; pbs, phosphate-buffered saline;
+dmem, dulbecco’s modified eagle’s medium; gabarap, ␥-aminobutyric
+acid receptor-associated protein.
+18574 journal of biological chemistry
+volume 282 • number 25 • june 22, 2007
+autophagy alterations and increased tumorigenesis in atg4cⴚ/ⴚ mice
+sperm dna. filters were then hybridized with radiolabeled
+probes for each full-length clone cdna. hybridization was per-
+formed for 20 h under the same conditions. filters were washed
+with 0.1⫻ ssc ((1⫻ ssc ⫽ 0.15 m nacl and 0.015 m sodium
+citrate)) and 0.1% sds for 2 h at 50 °c, and exposed to autora-
+diography. rna integrity and equal loading were assessed by
+hybridization with an actin probe.
+of
+concentrations
+quantitative real-time pcr—total rna was extracted
+from mouse tissues using the
+rneasy kit (qiagen, valencia, ca)
+according to the manufacturer’s
+protocol. cdna was synthesized
+using 1–5 ␮g of total rna, 0.14
+mm oligo(dt) (22-mer) primer, 0.2
+mm
+each
+deoxynucleoside triphosphate, and
+superscript ii reverse transcriptase
+(invitrogen). quantitative reverse
+transcription-pcr was carried out
+in triplicate for each sample using
+20 ng of cdna, taqman威 universal
+pcr master mix (applied biosys-
+tems, san francisco, ca), and 1 ␮l
+of the specific taqman威 custom
+gene expression assay for atg4a,
+atg4b, atg4c, and atg4d (applied
+biosystems). to quantitate gene
+expression, pcr was performed at
+95 °c for 10 min followed by 40
+cycles of 95 °c for 15 s, 60 °c for 30 s,
+and 72 °c for 30 s using an abi
+prism 7700 sequence detector sys-
+tem. as an internal control for the
+amount of template cdna used,
+figure 1. targeted disruption of the atg4c gene. a, upper, genomic organization of the atg4c locus. lower,
+the targeting construct replaces exons i–iv, including the catalytic domain of atg4c (exon iii), with the neo-
+mycin gene driven by the 3-phosphoglycerate kinase promoter. b, southern blot of dna from wild-type,
+heterozygous, and knock-out mice tails. hybridization with the 3⬘-external probe detects 12- and 8-kb psti
+bands representing wild-type and mutant alleles, respectively. c, rt-pcr of rna of diverse tissues from wild-
+type (wt) and atg4c⫺/⫺ (ko) mice showing the absence of full-length atg4c mrna expression in mutant mice.
+d, immunoblotting of protein extracts of diverse tissues from wild-type and atg4c knock-out mice.
+figure 2. expression and immunoblotting analysis of atg4 orthologues in murine tissues. a, filters containing ⬃2 ␮g of polyadenylated rnas from the
+indicated murine tissues were hybridized with specific probes for mouse atg4 orthologues. approximate rna sizes are indicated. filters were subsequently
+hybridized with a murine actin probe to ascertain the differences in rna loading among the different samples. b, expression analysis of atg4a, atg4b, and atg4d
+in livers from starved wild-type and atg4c⫺/⫺ mice. the transcript expression levels are relative to that in the wild-type, which was set at 100%. c, immuno-
+blotting using antibodies against atg4a, atg4b, and atg4d in total protein extracts of skin from wild-type and atg4c knock-out mice.
+june 22, 2007 • volume 282 • number 25
+journal of biological chemistry 18575
+autophagya/terations and increased tumorigenesis in atg4c‘/‘ mice
+nusumlmn 20m my. mumm mmmm
+a wsl-nmun 24m
+' .h 4— .1.
+4‘
+liver “3"
+«cu
+mus“ «can
+<lc34r
+hearl “
+— «cu
+.- «c34»
+lung '2 ‘
+«cm .
+«cam
+my 88 3:
+diaphragm 2 g g
+m .0 d
+lwvilwvih-ﬂmyuim
+mar
+cams guam m1mw mu)
+hvsr
+pemem mrna
+atg4a
+18576 journal of blolog/cal che/wstry
+2 <lc3.\
+«cu
+- «cs4
+<lc3’h
+«cu
+”'93" - -
+mum. hurl
+muscll hear!
+atg4b
+m + m m 4— .1. 44
+«mar- <gate154
+«maw
+-4emnm p— ”<enzw
+“awn“
+“awn“ - .enzm
+,, - , .enmu
+'7 ”‘we's‘
+e- -«w. - mm
+«mm
+- «mm
+- -- - mm
+«mm
+.- - 45mm
+«asmw -- .2 «mam
+5 - «mam
+q- - : «mew
+«mm
+- q - . «umaw
+l ;
+lung mw mapmgm hum splean
+    
+   
+   
+    
+lwn mw-a .y.
+.mmmau :7
+:124 mm“ .y.
+n 24 h-u-nld .y.
+luw mney a-apmgm mm spiel"
+a(g4c atg4d
+w volume zbz-number zs-june 21, 2007
+gm w, qmew uo mswmun a|e|g ueﬁxqmw w /310'aq['mmm//id||'-l mm} papeomog
+autophagy alterations and increased tumorigenesis in atg4cⴚ/ⴚ mice
+gene expression was normalized to the mouse glyceraldehyde-
+3-phosphate dehydrogenase (gapdh) gene using the mouse
+gapd (gapdh) endogenous control (vic威/mgb probe,
+primer ltd) taqman威 gene expression assay (applied biosys-
+tems). relative expression of the distinct atg4 genes was calcu-
+lated according to manufacturer’s instructions. briefly, atg4a,
+atg4b, atg4c, and atg4d expression was normalized to glyc-
+eraldehyde-3-phosphate dehydrogenase
+in wild-type or
+atg4c⫺/⫺ derived samples using the following formula: the mean
+values of 2⌬ctgene (atg4a, atg4b, atg4c, oratg4d) ⫺⌬ctgene (gapdh) for
+three different wild-type animals were considered 100% for
+each atg4 gene, and the same values for atg4c⫺/⫺ mice tis-
+sues were referred to those values according to livak and
+schmittgen (28).
+quantitative analysis of gfp-lc3 dots—mutant mice defi-
+cient in atg4c were crossed with transgenic mice overexpress-
+ing gfp-lc3 that provide an efficient in vivo marker for auto-
+phagy (29). to avoid autophagy induction, mice were perfused
+with 4% paraformaldehyde in 0.1 m sodium phosphate buffer
+(pbs), ph 7.4. tissues were harvested and further fixed with the
+same fixative solution for at least 4 h followed by treatment with
+15% sucrose in pbs for 4 h, and then with 30% sucrose solution
+overnight. tissue samples were embedded in tissue-tek oct
+compound (sakura finetechnical co. ltd., tokyo, japan) and
+stored at ⫺70 °c. samples were then sectioned at 5-␮m of
+thickness with cryostat (cm3050 s, leica, deerfield, il), air-
+dried for 1 h, washed in pbs for 5 min, dried at room tempera-
+ture for 30 min, and mounted with conventional anti-fading
+medium. the number of gfp-lc3 dots was counted in five
+independent visual fields from at least five independent mice in
+each organ using a leica tcs sp2 aobs confocal fluorescence
+microscope.
+measurement of locomotor activity of mice—to monitor the
+locomotor activity of mice, an actimeter (le 8811 motor activ-
+ity monitor, letica, spain) was used. animals were placed alone
+in plastic cages inside the actimeter, and cages were washed
+between measurements to avoid possible alterations in mice
+behavior. the movements of each animal were recorded during
+10 min.
+carcinogenesis protocols and analysis of tumors—mouse
+experimentation was done in accordance with the guidelines of
+the universidad de oviedo (spain), regarding the care and use
+of laboratory animals. for methylcholanthrene (mca) chemi-
+cal carcinogenesis, groups of mice were injected subcutane-
+ously with a freshly prepared solution of mca in olive oil (100
+mg in 100 ml per mouse). mice were weekly monitored for
+tumor development over the course of 8–20 weeks. tumors
+larger than 5 mm and showing progressive growth were
+counted as positive and confirmed thereafter by histological
+analysis. mice were sacrificed when they had an overt tumor
+mass or they looked moribund. after conventional staining
+with hematoxylin and eosin, cells were morphologically identi-
+fied by an expert pathologist and counted with no previous
+knowledge of mice phenotypes.
+fibroblast extraction and culture—adult murine fibroblasts
+were extracted from 12-week-old mice ears. ears were steril-
+ized with ethanol, washed with pbs, and triturated with razor
+blades. samples were then incubated with 600 ml of 4 mg/ml
+collagenase d (roche applied science) and 4 mg/ml dispase ii
+(roche applied science)
+in dulbecco’s modified eagle’s
+medium (dmem; invitrogen) for 45 min at 37 °c and 5% co2.
+after filtering and washing, 6 ml of dmem with 10% fetal
+bovine serum (invitrogen), and 1% antimycotic-antibiotic
+(invitrogen) were added, and the mixture was incubated at 37 °c
+and 5% co2. once extracted, cells were cultured in dmem con-
+taining 10% fetal bovine serum at 37 °c and 5% co2.
+protein degradation assays—to label proteins, adult murine
+fibroblasts were incubated at 37 °c for 48 h in complete fresh
+dmem (sigma) containing 10% (v/v) fetal bovine serum
+(invitrogen), 1% antimycotic-antibiotic (invitrogen) and with 5
+␮ci/ml l-[3h]leucine (amersham biosciences). before the pro-
+teolysis experiments were started, cells were washed once with
+pbs containing 2 mm l-leucine and chased at 37 °c for 24 h in
+complete dmem containing 10% (v/v) fetal bovine serum, 1%
+antimycotic-antibiotic, and 2 mm l-leucine to eliminate short-
+lived proteins. proteolysis experiments and measurements of
+intracellular protein degradation were carried out as described
+previously (30) using 3-methyladenine to specifically inhibit
+autophagic degradation. protein degradation was analyzed 1 h
+after the addition of the 3-methyladenine and for an additional
+period of onl y 3 h toensure optimal inhibition and to avoid
+possible secondary effects of the inhibitor. all experiments
+were performed at least four times with duplicate samples and
+using independent cell lines.
+statistical analysis—all experimental data are reported as
+the mean, and the error bars represent the experimental s.e.
+statistical analysis were performed by the non-parametric stu-
+dent’s t test excepting for mca-tumor induction statistical
+analysis, which was evaluated using the kaplan-meier method
+(31) and compared with the log-rank test. statistical analyses
+were made using the prism program version 4.0 (graphpad
+software, inc).
+results
+generation of atg4c-deficient mice—to examine the in vivo
+function of atg4c, we generated mice with a targeted mutation
+in the atg4c gene. a genomic clone encoding atg4c was
+obtained from a mouse 129-sv/j genomic dna library and
+figure 3. analysis of lc3, gate-16, and gabarap status in atg4cⴚ/ⴚ mice. a, wild-type and atg4c⫺/⫺ mice of 12 weeks of age were fed ad libitum or
+starved for 24 h and then sacrificed. a variety of tissues from these mice were extracted and homogenized as described under “experimental procedures.”
+panels show representative immunoblots against lc3, gate-16, and gabarap in multiple tissues from wild-type and atg4c⫺/⫺ mice. lc3-i (⬃19 kda),
+gate16-i (⬃17 kda), and gabarap-i (⬃16 kda) stand for the cytosolic forms of these proteins, whereas lc3-ii (⬃16 kda) and gate-16-ii (⬃15 kda) stand for the
+lipidated forms of these proteins. the asterisk stands for a nonspecific band. b, densitometry analysis of the immunoblots against lc3 and gate-16 in tissues
+from atg4c⫹/⫹ and atg4c⫺/⫺ mice. bars represent the lipidation status of gate-16 and lc3. at least four atg4c⫺/⫺ and 4 atg4c⫹/⫹ mice were used for this
+experiment. in the case of heart and diaphragm tissues, 12 atg4c⫺/⫺ and 12 atg4c⫹/⫹ mice were used. the asterisk indicates differences found to be statistically
+significant at p ⬍ 0.05. c, expression analysis of atg4a, atg4b, atg4c, and atg4d in diaphragms from wild-type and atg4c⫺/⫺ mice. the transcript expression
+levels are relative to atg4c expression level, which was set at 100%.
+june 22, 2007 • volume 282 • number 25
+journal of biological chemistry 18577
+autophagyaiterations and increased tumorigenesis in atg4c’/’ mice
+a. he s|arvallcn 24 n s|arvallon c. no slamauon 24 h starvation
+    
+   
+alg4c‘/'
+um.” pzprolumoq
+atg4c‘/‘
+arg4c-/-
+a1940 l
+e i
+  
+  
+3 w
+'m, ww i
+g e
+wmm umlnw mm: mm
+wm. wu chu. wm
+wm: mum gum gum
+aygmm amc/ wm wm
+.0
+24 h starvallon
+24 h starvahon
+f”
+no starvallon no slawalwon
+algdc'“
+atg40/‘
+a2940“
+a two 'a
+5m“ gm 7
+§ § \
+1‘! "m3 ‘ :2 we: ‘
+gm 5m
+3‘ ‘ m'
+cm“ 5w .
+n ,. . 7.
+mm mm gm summ mm mm mm mm
+mm. wu. mm. wm ww. wm wow wu
+18578 7w: it 95 l m vojjmezbz-number junezz, 2007
+   
+gm; wrw uo x(usn'uuq ms urﬂxqaxw w
+autophagy alterations and increased tumorigenesis in atg4cⴚ/ⴚ mice
+used for construction of the targeting vector (fig. 1a). this
+vector was designed to allow the replacement of exons 1, 2, 3,
+and 4 of the endogenous atg4c gene with a neo cassette (fig.
+1a). the linearized targeting vector was electroporated into
+hm-1 embryonic stem cells, and 4 clones that were positive for
+homologous recombination were used to generate chimeric
+founder mice. heterozygous mice from the f1 generation were
+identified by southern blot analysis and then crossed to obtain
+atg4c⫺/⫺ mice (fig. 1b). rt-pcr analysis of total rna from
+diverse tissues of wild-type and knock-out animals revealed
+that the atg4c transcript was absent in atg4c⫺/⫺ mice (fig.
+1c). the same negative results were obtained by immunoblot-
+ting of these tissues (fig. 1d), confirming the generation of an
+atg4c-null allele.
+normal development and growth of atg4c⫺/⫺ mice—de-
+spite the atg4c deficiency, mutant mice developed normally
+with males and females being fertile. likewise, there were no
+gross detectable differences between the growth curves of wild-
+type and knock-out mice. in addition, the mutant mice showed
+no overt phenotype, and their long-term survival rates were
+indistinguishable from those of their wild-type littermates. his-
+topathological analysis of diverse tissues from adult atg4c⫺/⫺
+animals revealed no observable differences with wild-type tis-
+sues (data not shown). similarly, plasma levels of amino acids
+and major biochemical parameters (including glucose, choles-
+terol, triglycerides, uric acid, creatine kinase, aldosterone, and
+hepatic aminotransferases) were similar to the levels of their
+wild-type littermates. taken together, these data demonstrate
+that atg4c is dispensable for embryonic and adult mouse
+development as well as for normal growth and fertility.
+the above findings showing that the development of mice
+deficient for atg4c is normal suggest that this protein is not
+necessary for the induction of the requested level of autophagy
+which has been proved to be essential for the viability of neo-
+nate mice (32, 33). a functional redundancy in the atg4 family
+of cysteine proteinases, which has been previously reported for
+other protease families (25, 26, 34–36), could contribute to
+explain this observation. to test this possibility, we examined
+by northern blot analysis the expression profile of these genes
+in a variety of mouse tissues including testis, spleen, kidney,
+skeletal muscle, liver, lung, brain, and heart (fig. 2a). we
+observed that the expression pattern of the four atg4 genes is
+very similar in murine tissues. this could explain at least in part
+the fact that the activity of atg4c is not essential to generate the
+sufficient basal autophagy requested under normal circum-
+stances in any of the tissues analyzed. given this overlapping
+expression pattern in the atg4 gene family, we examined
+whether the loss of atg4c activity in vivo could modulate the
+levels of other atg4 cysteine proteinases. to test this hypothe-
+sis, we first analyzed by quantitative rt-pcr the atg4a, atg4b,
+and atg4d transcript levels in the livers of 48-h-starved
+atg4c⫺/⫺ and atg4c⫹/⫹ mice. as shown in fig. 2b, a consist-
+ent change in the relative expression levels of atg4 genes was
+not detected. we next analyzed the protein levels of atg4a,
+atg4b, and atg4d in atg4c⫺/⫺ and atg4c⫹/⫹ tissues. as
+shown in fig. 2c and in agreement with our quantitative pcr
+results, we did not observe any significant change in the protein
+levels of the different atg4 enzymes in atg4c⫺/⫺ tissues.
+finally, to evaluate a possible change in the subcellular distri-
+bution of these proteins in the absence of atg4c, we analyzed
+the localization of the other atg4 family members in atg4c⫺/⫺
+cells, but we did not find any evidence supporting putative
+changes in the distribution of these proteins (data not shown).
+taken together, these results do not provide evidence for a
+compensatory mechanism in atg4c-deficient mice.
+atg4c gene disruption leads to a tissue-specific decrease of
+autophagy in vivo—the fact that atg4c⫺/⫺ mice develop nor-
+mally suggests that autophagy is not impaired in the absence of
+atg4c. however, it should be emphasized that previous studies
+with other mutant mice exhibiting reduced autophagic activity
+have demonstrated that a decrease in this process is not neces-
+sarily accompanied by perinatal lethality (37, 38).
+to test the possibility that atg4c disruption leads to a
+decrease in autophagy but not to its total impairment, we per-
+formed immunoblotting studies in tissue extracts from mutant
+and control mice fed ad libitum or after 24 h of starvation,
+which has been shown to be the main stimulus for in vivo induc-
+tion of autophagy (29). we focused on the analysis of the molec-
+ular forms of lc3b (referred hereafter as lc3), gate-16, and
+gabarap. these proteins are the major mammalian ortho-
+logues of yeast atg8 detected in autophagosome membranes
+(39). as shown in fig. 3, we were able to detect the lipidated
+forms of lc3 and gate-16 in atg4c⫺/⫺ mice in the same
+tissues as in wild-type animals, whereas we could not detect the
+lipidated form of gabarap either in wild-type nor in
+atg4c⫺/⫺ mice, demonstrating that atg4c activity is not essen-
+tial for the processing of these proteins in vivo. however, we
+observed that the ratio of lc3-ii/lc3-i, which has been widely
+used as an indicator of autophagic activity, was significantly
+decreased in the diaphragm muscle of starved atg4c⫺/⫺ mice
+(fig. 3b). we also analyzed by quantitative rt-pcr the relative
+expression level of the distinct atg4 cysteine proteinases in the
+diaphragm with the finding of a high relative expression of
+atg4c in this tissue (fig. 3c).
+to confirm and extend these observations pointing to a tis-
+sue-specific reduction of autophagic responses in atg4c⫺/⫺
+mice, we crossed these mutant mice with those expressing the
+transgene gfp-lc3 that provides an efficient in vivo marker for
+autophagy (29, 37, 40, 41). fluorescence microscopic analysis of
+diverse tissues revealed that the number of punctate gfp-lc3
+structures is equivalent in tissues from non-starved wild-type
+or atg4c⫺/⫺ mice (fig. 4). similarly, we were not able to detect
+any significant change in the number of gfp-lc3 punctate
+structures in the majority of tissues analyzed after 24 or 48 h of
+figure 4. fluorescence analysis of tissues from wild-type and atg4cⴚ/ⴚ gfp-lc3 expressing mice fed ad libitum or after 24 h of starvation. represen-
+tative images and quantitation of gfp-lc3-positive dots in cryosections of different tissues from 2-month-old wild-type and atg4c⫺/⫺ mice stably expressing
+the gfp-lc3 transgene (a, heart. b, skeletal muscle. c, liver. d, diaphragm). the number of gfp-lc3 dots was counted and divided by the corresponding
+area. the x axis labels denote atg4c genotype. results shown represent the mean of 10 images from every tissue per mice obtained from 5 mice per genotype.
+note that the nuclei of liver cells shows nonspecific green fluorescence in c.
+june 22, 2007 • volume 282 • number 25
+journal of biological chemistry 18579
+autophagy alterations and increased tumorigenesis in atg4cⴚ/ⴚ mice
+the observed reduced resistance to starvation of atg4c⫺/⫺
+mice.
+increased susceptibility of atg4c-deficient mice to mca-
+induced fibrosarcomas—many works have analyzed the
+putative correlations between the ability of cancer cells for
+developing autophagy and their neoplasic potential (44–46).
+the fact that beclin-1 haplo-deficient mice, which show a
+decrease in autophagy, also exhibit a high incidence of spon-
+taneous tumors supports the idea that an autophagy
+decrease can confer an increased susceptibility to cancer (37,
+38). on this basis and considering that atg4c⫺/⫺ disruption
+leads to a decrease in autophagy under demanding condi-
+tions, we were prompted to test the hypothesis that the
+absence of this proteinase could be associated with an
+increase in cancer susceptibility in these mutant mice.
+because our first studies to examine this possibility indicated
+that atg4c⫺/⫺ mice do not develop more spontaneous
+tumors than their wild-type littermates (data not shown), we
+next focused on the comparative analysis of the susceptibil-
+ity of these mice to cancer induced by chemical carcinogens.
+to this purpose, wild-type and atg4c mutant mice were
+induced to develop fibrosarcomas using a carcinogenesis
+protocol based on the intradermal injection of a single dose
+of the carcinogen mca, as previously described (47, 48).
+this chemical carcinogen promotes the transformation of
+mesenchymal fibroblasts into fibrosarcomas. as shown in
+fig. 6a, fibrosarcomas arose more rapidly and with a signif-
+icantly higher incidence in atg4c⫺/⫺ mice than in wild-type
+animals. these differences in number of
+fibrosarcomas
+between mutant mice and wild-type controls were statisti-
+cally significant. histological analysis of fibrosarcomas gen-
+erated in both wild-type and atg4c⫺/⫺ male mice revealed
+that most of them (80%) were partially infiltrative grade i
+fibrosarcomas (with absence of necrosis, undifferentiated,
+and with 2 or 3 mitosis by each high magnification field), and
+only exceptionally gave rise to more aggressive grade ii
+tumors (fig. 6b). these results suggest that the absence of
+atg4c does not influence the late stages of tumor develop-
+ment in male mice.
+to test the possibility that a decrease in autophagy due to
+atg4c disruption leads to the higher incidence of fibrosar-
+comas observed in mutant mice, we studied the autophagic
+activity of adult murine fibroblasts, cells in which atg4c is
+highly expressed (fig. 7a). for that purpose, we analyzed the
+in vitro degradation of long-lived proteins in fibroblasts
+derived from atg4c⫺/⫺ mice and their wild-type littermates.
+as previously reported (30), we employed the autophagy
+inhibitor 3-methyladenine to measure the autophagy-medi-
+ated proteolysis in cultured cells. as expected, atg4c⫺/⫺
+fibroblasts did not show changes in protein degradation
+under confluent growing in normal conditions (fig. 7b).
+however, under
+serum and amino acids deprivation,
+atg4c⫺/⫺ cells showed a lower rate of 3-methyladenine sen-
+sitive protein degradation, which represented autophagic
+degradation, than the corresponding controls (fig. 7c). to
+test if the observed reduction of autophagic degradation was
+due to the lack of atg4c or to other causes, we transfected
+atg4c⫺/⫺ cells with an eukaryotic expression vector con-
+figure 5. locomotor activity analysis of atg4cⴚ/ⴚ and wild-type mice
+after prolonged starvation. mice were placed in a plastic cage inside a pho-
+tocell actimeter for 10 min in silence to monitor their locomotor activity. plas-
+tic cages were washed between measurements to avoid possible alterations
+in mice behavior. the activity counts registered by actimeter represent the
+number of longitudinal movements of mice during the time of the analysis.
+15 atg4c⫺/⫺ and 15 wild-type mice were used in this experiment for each
+condition. the locomotor activity of animals fed ad libitum is represented by
+gray bars, whereas white bars represent the locomotor activity of 48 h-starved
+mice. the asterisk indicates differences found to be statistically significant at
+p ⬍ 0.05.
+starvation (fig. 4 and data not shown). however, in agreement
+with our immunoblotting results, we could detect a clear
+decrease in the number of gfp-lc3 punctate structures per
+cell area unit in the diaphragms from 24-h-starved atg4c⫺/⫺
+mice as compared with their wild-type littermates (fig. 4d).
+although not statistically significant, the analysis of gfp-
+lc3 distribution in the diaphragm reveals a clear trend
+toward a reduction of autophagic activity in the diaphragm
+of starved atg4c⫺/⫺ mice as compared with wild-type ani-
+mals, thus confirming and extending the above immunoblot-
+ting results.
+atg4c gene disruption leads to reduced locomotor activ-
+ity in response to starvation—in the course of the different
+starvation treatments performed to induce autophagy, we
+could observe a reduced resistance to prolonged starvation
+in mice deficient in atg4c as compared with wild-type ani-
+mals. in fact, mutant mice showed a less healthy appearance
+and a reduced mobility than wild-type animals subjected to
+the same conditions, and some of them even succumbed to
+starvation after 48 h (data not shown). by contrast and as
+previously reported (29), wild-type animals were able to
+resist periods of 48 h of starvation. to further extend this
+observation, we performed an analysis of the locomotor
+activity of atg4c⫺/⫺ mice and their wild-type littermates fed
+ad libitum or subjected to 48 h starvation using a photocell
+actimeter, an apparatus that allows the recording of the
+movements and crossings of mice (42, 43). as shown in fig.
+5, the locomotor activity of non-starved atg4c⫺/⫺ mice was
+similar to control mice. however, after prolonged starvation,
+the locomotor activity of null mice was significantly reduced
+as compared with wild-type animals. thus, it is tempting to
+speculate that the diminished capacity of inducing autoph-
+agy in diaphragm from atg4c⫺/⫺ mice leads to a reduced
+resistance to starvation that results in a reduced mobility in
+these mutant animals. nevertheless, we cannot rule out the
+possibility that additional factors could contribute to explain
+18580 journal of biological chemistry
+volume 282 • number 25 • june 22, 2007
+autophagy alterations and increased tumorigenesis in atg4cⴚ/ⴚ mice
+term survival rates indistinguish-
+able from those of wild-type mice.
+these observations suggest
+that
+atg4c gene disruption does not
+impair the ability of cells to undergo
+a proper autophagic response after
+birth, which has been proven to be
+essential for neonate viability.
+to evaluate the involvement of
+atg4c in the processing and delipi-
+dation of atg8 orthologues in vivo,
+we first performed immunoblot
+analysis of their putative major
+substrates lc3, gate-16,
+and
+gabarap. these studies revealed
+that the lipidated forms of lc3 and
+gate-16 were present
+in the
+majority of
+the analyzed tissues
+from both mutant and wild-type
+animals at a similar extent, whereas
+we could not detect the lipidated
+form of gabarap in any of the tis-
+sues analyzed. the absence of
+gabarap lipidation even under
+strong starvation conditions pro-
+vides support to the idea that the
+major physiological function of this
+protein is not related to autophagic
+degradation (49, 50). all these observations suggest that atg4c
+is not essential for the processing or delipidation of atg8
+orthologues. however, we found that under starvation con-
+ditions, the lipidation status of lc3 in the diaphragm, a con-
+tinuous energy-consuming muscle, was diminished in
+mutant mice. this observation was confirmed by crossing
+atg4c⫺/⫺ mice with transgenic mice overexpressing gfp-
+lc3. atg4c⫺/⫺ mice showed a slight but significant decrease
+in the number of gfp-lc3 punctate structures, which was
+associated with a decrease in autophagy in diaphragm under
+starvation conditions.
+the fact that atg4c activity is not essential for the devel-
+opment of autophagy under normal conditions might be
+explained by a functional redundancy in the atg4 family of
+cysteine proteinases, as previously reported for other pro-
+teinase families from different catalytic classes (25, 35, 36,
+51). our finding of a considerable overlapping in the tissue
+distribution of the different mouse atg4 orthologues should
+be consistent with the proposal of a functional redundancy
+in the atg4 family of proteinases. however, despite this
+apparent redundancy observed in the atg4 family, the find-
+ing that autophagy is reduced after 24 h of starvation in
+diaphragm from atg4c-deficient mice muscle suggests that
+only under very demanding conditions, atg4c activity is
+necessary for a proper autophagic response. likewise, the
+reduced locomotor activity observed in atg4c⫺/⫺ mice after
+prolonged starvation could be a consequence of the decrease
+of autophagic activity in the diaphragm. further works
+aimed to study metabolic and respiratory functions of
+figure 6. induced tumorigenesis in atg4cⴚ/ⴚ and wild-type mice. a, percentage of mice with tumor among
+atg4c⫹/⫹ (⽧) oratg4c ⫺/⫺ (f) male mice injected with 100 ␮g of mca; eight mice for each phenotype were
+used for this experiment. b, representative pictures taken from hematoxylin and eosin stained tissue sections
+from atg4c⫹/⫹ or atg4c⫺/⫺ tumors showing that there are no significant differences in the grade of invasive-
+ness of tumors from both genotypes. stars indicate fibrosarcomas partially infiltrating normal tissue, whereas
+arrows indicate tumor cells that migrate through normal skin tissue.
+taining the atg4c cdna and measured the autophagic activ-
+ity of transfected cells under starvation conditions. as
+shown in fig. 7d, the autophagic degradation levels of
+atg4c-transfected mutant cells were comparable with those
+obtained with control cells, indicating that the loss of atg4c
+leads to a reduced autophagic degradation in vitro under
+starvation conditions. taken together, these results support
+the idea of a reduced capacity of atg4c⫺/⫺ cells to develop a
+proper autophagic response under compromising condi-
+tions. this fact could contribute to explaining the higher
+incidence of
+fibrosarcomas observed in null mice after
+chemical carcinogen induction.
+discussion
+to date, the precise in vivo role of the four members of the
+mammalian atg4 family of cysteine proteinases remains to
+be characterized. so far, it is not known whether the exist-
+ence of four mammalian orthologues of the yeast protease
+atg4 corresponds to a functional redundancy or, by contrast,
+the components of this proteolytic system have acquired
+other functions distinct from autophagy during eukaryote
+evolution. as a first step to address this issue, we describe in
+this work the generation and phenotype analysis of mutant
+mice deficient in atg4c, a member of the atg4 family of
+cysteine proteinases that exhibits a wide tissue distribution
+and complements the deficiency of yeast atg4 in autophagic
+processes. however, despite the wide expression pattern of
+atg4c under normal conditions, targeted disruption of this
+gene in mice does not cause any major abnormalities. thus,
+atg4c⫺/⫺ mice develop normally, are fertile, and have long
+june 22, 2007 • volume 282 • number 25
+journal of biological chemistry 18581
+autophagy alterations and increased tumorigenesis in atg4cⴚ/ⴚ mice
+mice to cancer development with
+the finding that these mice show a
+higher incidence of mca-induced
+fibrosarcomas, which is consistent
+with the proposed tumor suppres-
+sor role for autophagy processes.
+moreover, the fact that atg4c loss
+leads to a reduced autophagic
+response
+in fibroblasts under
+stressing conditions such as star-
+vation could contribute to explain
+the higher incidence of fibrosarco-
+mas, which are fibroblast-derived
+tumors, observed in atg4c mutant
+mice.
+in summary, in this work we show
+that atg4c activity is not essential
+for autophagy under normal condi-
+tions in vivo. however, under
+demanding conditions such as star-
+vation atg4c disruption leads to a
+tissue-specific decrease of autoph-
+agy in diaphragm, a tissue that is
+dependent on a continuous and
+high rate of energy consumption,
+and also to a reduced resistance to
+prolonged fasting.
+in addition,
+atg4c⫺/⫺ mice also show a higher
+incidence of mca-induced fibro-
+sarcomas as compared with their
+wild-type littermates, which could
+be correlated to the decrease in
+autophagy observed in atg4c-defi-
+cient fibroblasts under nutritional
+stressful conditions. further studies
+involving mice deficient in other components of the atg4 pro-
+teinase family will help to define the precise in vivo role of each
+family member in both normal and pathological conditions
+including cancer.
+figure 7. analysis of the autophagic activity of atg4cⴚ/ⴚ and wild-type adult murine fibroblasts. fibro-
+blasts were metabolically labeled and chased as described under “experimental procedures.” confluent cells
+were then switched to complete (cf) or serum- and amino acid-deficient (kh) media with or without 3-methy-
+ladenine. to allow optimal inhibition and to avoid secondary effects, protein degradation was measured at
+different time points starting after 1 h and continuing for an additional 3 h period. a, expression analysis of
+atg4a, atg4b, atg4c, and atg4d in fibroblasts from wild-type and atg4c⫺/⫺ mice. the transcript expression
+levels are relative to atg4c expression level, which was set at 100%. b, the total protein degradation is pre-
+sented for atg4c⫹/⫹ (gray bars)- or atg4c⫺/⫺ (white bars)-derived cells. c, the contribution of autophagy to total
+protein degradation in the presence of 3-methyladenine (3-methyladenine sensible degradation) under
+serum, and amino acid deprivation was calculated as previously described (30). these results are taken from
+four separate experiments with duplicate samples. four atg4c⫹/⫹ and five atg4c⫺/⫺ independent cell lines
+were used. d, the contribution of autophagy to total protein degradation after transfection with
+atg4c/pcdna3 or pcdna3 is presented for atg4c⫹/⫹- oratg4c ⫺/⫺-derived cells under serum and amino acid
+deprivation.
+starved atg4c⫺/⫺ mice will be very helpful to clarify this
+question.
+in addition to the relevance of autophagy as a physiologi-
+cal response to starvation, this pathway has also been sug-
+gested to play an important role in tumor development (52–
+54). in this regard the activation of several tumor suppressor
+genes as beclin-1, p53, pten , orp19arf are associated with
+an up-regulation of autophagy, whereas their loss is often
+accompanied by a loss of autophagic potential (44, 55–60).
+on the other hand, several genes which act as oncogenes,
+including akt, mtor , orras, are reported inhibitors of
+autophagy, and their overexpression is associated with a
+reduced ability of tumor cells to undergo autophagy (52,
+61–63). furthermore, several recent studies have described
+a protective role for autophagy as an alternative cell death
+pathway that is activated in cancer cells that have lost their
+potential to undergo apoptosis (64–66). all these findings
+suggest that malignant transformation exposes cells to a
+stressing situation in which all their autophagic potential
+would be required. accordingly, a reduction in the ability of
+inducing autophagy could eventually lead to a higher rate of
+tumorigenesis under compromising conditions. to test this
+hypothesis, we examined the susceptibility of atg4c⫺/⫺
+acknowledgments—we thank f. rodrı´guez, m. ferna´ndez, and m. s.
+pitiot for excellent technical assistance, drs. a. m. penda´s, j. m. freije,
+x. s. puente, a. baamonde, p. zuazua, a. astudillo, o. garcı´a-su-
+arez, and g. r. ordon˜ez for support and helpful comments, and dr. t.
+ueno (juntendo university, tokyo) for providing anti-atg4c, gate-
+16, gabarap, and lc3 antibodies. the instituto universitario de
+oncologı´a is supported by obra social cajastur-asturias.
+references
+1. mizushima, n. (2005) cell death differ. 12, suppl. 2, 1535–1541
+2. marino, g., and lopez-otin, c. (2004) cell. mol. life sci. 61, 1439–1454
+3. klionsky, d. j. (2005) curr. biol. 15, 282–283
+4. cuervo, a. m. (2004) mol. cell. biochem. 263, 55–72
+5. shintani, t., and klionsky, d. j. (2004) science 306, 990–995
+6. huang, p. h., and chiang, h. l. (1997) j. cell biol. 136, 803–810
+7. tsukada, m., and ohsumi, y. (1993) febs lett. 333, 169–174
+8. thumm, m., egner, r., koch, b., schlumpberger, m., straub, m., veen-
+huis, m., and wolf, d. h. (1994) febs lett. 349, 275–280
+9. huang, w. p., and klionsky, d. j. (2002) cell struct. funct. 27, 409–420
+18582 journal of biological chemistry
+volume 282 • number 25 • june 22, 2007
+autophagy alterations and increased tumorigenesis in atg4cⴚ/ⴚ mice
+10. mizushima, n., noda, t., yoshimori, t., tanaka, y., ishii, t., george,
+m. d., klionsky, d. j., ohsumi, m., and ohsumi, y. (1998) nature 395,
+395–398
+11. ichimura, y., kirisako, t., takao, t., satomi, y., shimonishi, y., ishihara,
+n., mizushima, n., tanida, i., kominami, e., ohsumi, m., noda, t., and
+ohsumi, y. (2000) nature 408, 488–492
+12. kirisako, t., ichimura, y., okada, h., kabeya, y., mizushima, n., yoshi-
+mori, t., ohsumi, m., takao, t., noda, t., and ohsumi, y. (2000) j. cell
+biol. 151, 263–276
+13. kim, j., huang, w. p., and klionsky, d. j. (2001) j. cell biol. 152, 51–64
+14. lang, t., schaeffeler, e., bernreuther, d., bredschneider, m., wolf, d. h.,
+and thumm, m. (1998) embo j. 17, 3597–3607
+15. kabeya, y., mizushima, n., ueno, t., yamamoto, a., kirisako, t., noda,
+t., kominami, e., ohsumi, y., and yoshimori, t. (2000) embo j. 19,
+5720–5728
+16. tanida, i., tanida-miyake, e., ueno, t., and kominami, e. (2001) j. biol.
+chem. 276, 1701–1706
+17. tanida, i., tanida-miyake, e., komatsu, m., ueno, t., and kominami, e.
+(2002) j. biol. chem. 277, 13739–13744
+18. mizushima, n., yoshimori, t., and ohsumi, y. (2003) int. j. biochem. cell
+biol. 35, 553–561
+19. mizushima, n., yamamoto, a., hatano, m., kobayashi, y., kabeya, y.,
+suzuki, k., tokuhisa, t., ohsumi, y., and yoshimori, t. (2001) j. cell biol.
+152, 657–668
+20. marino, g., uria, j. a., puente, x. s., quesada, v., bordallo, j., and lopez-
+otin, c. (2003) j. biol. chem. 278, 3671–3678
+21. he, h., dang, y., dai, f., guo, z., wu, j., she, x., pei, y., chen, y., ling, w.,
+wu, c., zhao, s., liu, j. o., and yu, l. (2003) j. biol. chem. 278,
+29278–29287
+22. hemelaar, j., lelyveld, v. s., kessler, b. m., and ploegh, h. l. (2003) j. biol.
+23. scherz-shouval, r., sagiv, y., shorer, h., and elazar, z. (2003) j. biol.
+chem. 278, 51841–51850
+chem. 278, 14053–14058
+509–519
+24. tanida, i., sou, y. s., ezaki, j., minematsu-ikeguchi, n., ueno, t., and
+kominami, e. (2004) j. biol. chem. 279, 36268–36276
+25. puente, x. s., sanchez, l. m., overall, c. m., and lopez-otin, c. (2003)
+nat. rev. genet. 4, 544–558
+26. lo´pez-otı´n, c., and overall, c. m. (2002) nat. rev. mol. cell. biol. 3,
+35, 651–664
+27. chomczynski, p., and sacchi, n. (1987) anal. biochem. 162, 156–159
+28. livak, k. j., and schmittgen, t. d. (2001) methods 25, 402–408
+29. mizushima, n., yamamoto, a., matsui, m., yoshimori, t., and ohsumi, y.
+(2004) mol. biol. cell 15, 1101–1111
+30. fuertes, g., villarroya, a., and knecht, e. (2003) int. j. biochem. cell biol.
+31. kaplan, e., and meier, p. (1958) j. am. stat. assoc. 53, 457–481
+32. kuma, a., hatano, m., matsui, m., yamamoto, a., nakaya, h., yoshimori,
+t., ohsumi, y., tokuhisa, t., and mizushima, n. (2004) nature 432,
+1032–1036
+33. komatsu, m., waguri, s., ueno, t., iwata, j., murata, s., tanida, i., ezaki, j.,
+mizushima, n., ohsumi, y., uchiyama, y., kominami, e., tanaka, k., and
+chiba, t. (2005) j. cell biol. 169, 425–434
+34. folgueras, a. r., pendas, a. m., sanchez, l. m., and lopez-otin, c. (2004)
+35. kim, t. s., heinlein, c., hackman, r. c., and nelson, p. s. (2006) mol. cell.
+int. j. dev. biol. 48, 411–424
+biol. 26, 965–975
+36. weskamp, g., cai, h., brodie, t. a., higashyama, s., manova, k., ludwig,
+t., and blobel, c. p. (2002) mol. cell. biol. 22, 1537–1544
+oncol. 32, 269–277
+37. qu, x., yu, j., bhagat, g., furuya, n., hibshoosh, h., troxel, a., rosen, j.,
+eskelinen, e. l., mizushima, n., ohsumi, y., cattoretti, g., and levine, b.
+(2003) j. clin. investig. 112, 1809–1820
+38. yue, z., jin, s., yang, c., levine, a. j., and heintz, n. (2003) proc. natl.
+acad. sci. u. s. a. 100, 15077–15082
+39. kabeya, y., mizushima, n., yamamoto, a., oshitani-okamoto, s., oh-
+sumi, y., and yoshimori, t. (2004) j. cell sci. 117, 2805–2812
+40. kamimoto, t., shoji, s., hidvegi, t., mizushima, n., umebayashi, k., per-
+lmutter, d. h., and yoshimori, t. (2006) j. biol. chem. 281, 4467–4476
+41. matsui, m., yamamoto, a., kuma, a., ohsumi, y., and mizushima, n.
+(2006) biochem. biophys. res. commun. 339, 485–489
+42. manzanedo, c., aguilar, m. a., rodriguez-arias, m., navarro, m., and
+minarro, j. (2004) behav. brain res. 150, 73–82
+43. el yacoubi, m., bouali, s., popa, d., naudon, l., leroux-nicollet, i.,
+hamon, m., costentin, j., adrien, j., and vaugeois, j. m. (2003) proc. natl.
+acad. sci. u. s. a. 100, 6227–6232
+44. liang, x. h., jackson, s., seaman, m., brown, k., kempkes, b., hibshoosh,
+h., and levine, b. (1999) nature 402, 672–676
+45. schwarze, p. e., and seglen, p. o. (1985) exp. cell res. 157, 15–28
+46. kisen, g. o., tessitore, l., costelli, p., gordon, p. b., schwarze, p. e.,
+baccino, f. m., and seglen, p. o. (1993) carcinogenesis 14, 2501–2505
+47. pendas, a. m., folgueras, a. r., llano, e., caterina, j., frerard, f., ro-
+driguez, f., astudillo, a., noel, a., birkedal-hansen, h., and lopez-otin,
+c. (2004) mol. cell. biol. 24, 5304–5313
+48. balbin, m., fueyo, a., tester, a. m., pendas, a. m., pitiot, a. s., astudillo,
+a., overall, c. m., shapiro, s. d., and lopez-otin, c. (2003) nat. genet.
+35, 252–257
+49. everitt, a. b., luu, t., cromer, b., tierney, m. l., birnir, b., olsen, r. w.,
+and gage, p. w. (2004) j. biol. chem. 279, 21701–21706
+50. chen, z. w., and olsen, r. w. (2007) j. neurochem. 100, 279–294
+51. nagler, d. k., and menard, r. (2003) biol. chem. 384, 837–843
+52. kondo, y., kanzawa, t., sawaya, r., and kondo, s. (2005) nat. rev. cancer
+53. gozuacik, d., and kimchi, a. (2004) oncogene 23, 2891–2906
+54. guertin, d. a., and sabatini, d. m. (2005) trends mol. med. 11, 353–361
+55. weng, l. p., smith, w. m., dahia, p. l., ziebold, u., gil, e., lees, j. a., and
+eng, c. (1999) cancer res. 59, 5808–5814
+56. liang, c., feng, p., ku, b., dotan, i., canaani, d., oh, b. h., and jung, j. u.
+(2006) nat. cell biol. 8, 688–699
+57. crighton, d., wilkinson, s., o’prey, j., syed, n., smith, p., harrison, p. r.,
+gasco, m., garrone, o., crook, t., and ryan, k. m. (2006) cell 126,
+121–134
+58. reef, s., zalckvar, e., shifman, o., bialik, s., sabanay, h., oren, m., and
+kimchi, a. (2006) mol. cell 22, 463–475
+59. feng, z., zhang, h., levine, a. j., and jin, s. (2005) proc. natl. acad. sci.
+60. ogier-denis, e., and codogno, p. (2003) biochim. biophys. acta 1603,
+u. s. a. 102, 8204–8209
+113–128
+61. blume-jensen, p., and hunter, t. (2001) nature 411, 355–365
+62. vivanco, i., and sawyers, c. l. (2002) nat. rev. cancer 2, 489–501
+63. furuta, s., hidaka, e., ogata, a., yokota, s., and kamata, t. (2004) onco-
+gene 23, 3898–3904
+64. cao, c., subhawong, t., albert, j. m., kim, k. w., geng, l., sekhar, k. r.,
+gi, y. j., and lu, b. (2006) cancer res. 66, 10040–10047
+65. kim, r., emi, m., and tanabe, k. (2005) oncol. rep. 14, 595–599
+66. kim, r., emi, m., tanabe, k., uchida, y., and arihiro, k. (2006) eur. j. surg.
+5, 726–734
+june 22, 2007 • volume 282 • number 25
+journal of biological chemistry 18583
+metabolism and bioenergetics:
+tissue-specific autophagy alterations and
+increased tumorigenesis in mice deficient 
+in atg4c/autophagin-3
+  
+guillermo mariño, natalia
+salvador-montoliu, antonio fueyo, erwin 
+knecht, noboru mizushima and carlos
+lópez-otín
+j. biol. chem. 
+doi: 10.1074/jbc.m701194200 originally published online april 17, 2007
+2007, 282:18573-18583.
+10.1074/jbc.m701194200
+access the most updated version of this article at doi: 
+  
+find articles, minireviews, reflections and classics on similar topics on the 
+  
+alerts: 
+•  
+•  
+  
+when this article is cited
+when a correction for this article is posted
+jbc affinity sites
+click here
+ to choose from all of jbc's e-mail alerts
+this article cites 66 references, 28 of which can be accessed free at
+http://www.jbc.org/content/282/25/18573.full.html#ref-list-1
+  

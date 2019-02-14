@@ -1,0 +1,811 @@
+the journal of biological chemistry vol. 281, no. 20, pp. 14474 –14485, may 19, 2006
+© 2006 by the american society for biochemistry and molecular biology, inc. printed in the u.s.a.
+regulation of intracellular accumulation of mutant
+huntingtin by beclin 1*
+received for publication, january 13, 2006, and in revised form, february 14, 2006 published, jbc papers in press, march 6, 2006, doi 10.1074/jbc.m600364200
+mamoru shibata‡1, tao lu§, tsuyoshi furuya‡, alexei degterev‡, noboru mizushima¶, tamotsu yoshimori储,
+marcy macdonald**, bruce yankner§, and junying yuan‡2
+from the ‡department of cell biology, harvard medical school, boston, massachusetts 02115, the department of pathology,
+harvard medical school, boston, massachusetts 02115, the §department of neurology and division of neuroscience, the
+children’s hospital and harvard medical school, boston, massachusetts 02115, the **molecular neurogenetics unit and center for
+human genetic research, massachusetts general hospital, charlestown, massachusetts 02129, the ¶department of bioregulation
+and metabolism, the tokyo metropolitan institute of medical science, 3-18-22 honkomagome, bunkyo-ku, tokyo 113-8613,
+japan, and the 储department of cell genetics, national institute of genetics, yata 1111, mishima, shizuoka 411-8540, japan
+intracellular accumulation of mutant huntingtin with expanded
+polyglutamine provides a context-dependent cytotoxicity critical for
+the pathogenesis of huntington disease (everett, c. m., and wood,
+n. w. (2004) brain 127, 2385–2405). here we demonstrate that the
+accumulation of mutant huntingtin is highly sensitive to the
+expression of beclin 1, a gene essential for autophagy. moreover, we
+show that the accumulated mutant huntingtin recruits beclin 1 and
+impairs the beclin 1-mediated long lived protein turnover. thus,
+sequestration of beclin 1 in the vulnerable neuronal population of
+huntington disease patients might further reduce beclin 1 function
+andautophagicdegradationofmutanthuntingtin.finally,wedem-
+onstrate that the expression of beclin 1 decreases in an age-depend-
+ent fashion in human brains. because beclin 1 gene is haploid insuf-
+ficientinregulatingautophagosomefunction(qu,x.,yu,j.,bhagat,
+g., furuya, n., hibshoosh, h., troxel, a., rosen, j., eskelinen, e. l.,
+mizushima, n., ohsumi, y., cattoretti, g., and levine, b. (2003)
+j. clin. invest. 112, 1809–1820; yue, z., jin, s., yang, c., levine, a. j.,
+and heintz, n. (2003) proc. natl. acad. sci. u. s. a. 100, 15077–
+15082), we propose that the age-dependent decrease of beclin 1
+expression may lead to a reduction of autophagic activity during
+aging, which in turn promotes the accumulation of mutant htt and
+the progression of the disease.
+huntington disease (hd)3 is one of at least nine inherited neurode-
+generative disorders caused by a cag repeat expansion in the corre-
+sponding causative genes (1). the gene involved in hd (hd) encodes a
+350-kda protein, named huntingtin (htt), that may function as a giant
+scaffold for organizing signaling complexes (4). the hd gene contains a
+highly polymorphic cag repeat: the number of cag copies ranges
+from 10 to 35 in unaffected individuals but exceeds 36 in patients with
+* this work was supported by the highq foundation, by nia, national institutes of
+health grant r37-12859 (to j. y.), by national institutes of health grants ns32765 and
+ns16367, and by the huntington’s disease center without walls (to m. m.). the costs
+of publication of this article were defrayed in part by the payment of page charges.
+this article must therefore be hereby marked “advertisement” in accordance with 18
+u.s.c. section 1734 solely to indicate this fact.
+1 present address: dept. of neurology, school of medicine, keio university, 35 shinano-
+machi, shinjuku-ku, tokyo 160-8582, japan.
+2 to whom correspondence should be addressed: dept. of cell biology, harvard medical
+school, 240 longwood ave., boston, ma 02115. tel.: 617-432-4170; fax: 617-432-
+4177; e-mail: jyuan@hms.harvard.edu.
+3 the abbreviations used are: hd, huntington disease; htt, huntingtin; poly(q), polyglu-
+tamine; ripa, radioimmune precipitation assay; sirna, small interference rna; wt,
+wild type; st q7/q7, sthdhq7/q7; st q111/q111, sthdhq111/q111; kd, knock down;
+bcl-2 id, bcl-2-interacting domain; lc3, light chain 3; gfp, green fluorescent protein;
+tgn, trans-golgi network.
+hd. the expansion of cag repeat in the mutant hd gene results in an
+extended polyglutamine (poly(q)) stretch at the n terminus of the htt
+protein. expansion of the poly(q) in htt beyond 36 has complete pen-
+etrance in development of the disease. hd is characterized by the onset
+of progressive chorea, psychiatric symptoms, and dementia in early- to
+mid-adult life, which then follows a relentlessly downhill course with
+death usually occurring 12–15 years after the appearance of initial
+symptoms. currently it is not clear what triggers the onset of hd, nor is
+there any effective treatment for this devastating disease.
+although the mechanism of neurotoxicity mediated by expanded
+poly(q) is still highly controversial, it has been well established that
+expanded poly(q) provokes a dominant gain-of-function neurotoxicity.
+the accumulation of expanded poly(q)-containing proteins is a hall-
+mark of hd as well as other poly(q) expansion diseases (5–7). accu-
+mulated truncated forms of htt containing the n-terminal expanded
+poly(q) are most easily recognized as neuronal inclusions (5–7). treat-
+ment with congo red and trehalose, both of which reduce the accumula-
+tion of overexpressed expanded poly(q)-positive proteins and increase the
+rate of their degradation, alleviated neuropathological findings and neuro-
+logical symptoms in hd transgenic mouse models (8, 9). these results
+stress the importance of understanding the mechanism that regulates the
+turnover of proteins with expanded poly(q).
+although neuronal htt-n-terminal product inclusions are highly
+ubiquitinated, recent studies demonstrated that poly(q) is a poor sub-
+strate for the eukaryotic proteasome (10). thus, the highly ubiquiti-
+nated state of htt inclusions may indicate the inability of the protea-
+somes in affected neurons to clear such abnormal truncated htt
+proteins. on the other hand, there is pharmacological evidence to sug-
+gest the role of autophagy, a large scale catabolic mechanism, in regu-
+lating the degradation of the n-terminal part of htt. the addition of
+3-methyladenine, an inhibitor of class iii phosphatidylinositol 3-kinase
+and autophagy, has been shown to increase aggregate formation in x57
+cells, a cell line derived from mouse striatal neurons, upon transfection
+with htt-n-terminal products with expanded poly(q) (11). rapamycin,
+an inducer of autophagy, has been shown to reduce the aggregation of
+expanded poly(q) polypeptides in transfected cells (12), protect against
+neurodegeneration in a fly poly(q) peptide model of hd, improve the
+performance on behavioral tests, and decrease aggregate formation in a
+mouse transgenic n-terminal fragment model of hd (13). these results
+support a possible role of autophagy in regulating the turnover of
+expanded poly(q) proteins. we still do not understand, however, the
+one or more molecular mechanisms that mediate the turnover of
+expanded poly(q) proteins or whether a defect in such mechanism(s)
+might contribute to the age-dependent accumulation of htt species.
+14474 journal of biological chemistry
+volume 281 • number 20 • may 19, 2006
+autophagy is an intracellular catabolic mechanism that mediates the
+degradation of large protein complexes and damaged organelles in a
+lysosome-dependent fashion (14–16). although several forms of auto-
+phagy have been described, macroautophagy (referred to simply as
+‘autophagy’ hereafter) is best studied. the hallmark of autophagy is the
+formation of a double-membrane cytosolic vesicle, the autophagosome,
+which sequesters cytoplasm and delivers it to the lysosomes for degra-
+dation (14). elegant genetic studies have identified the genes and delin-
+eated pathways that regulate autophagy in yeast (17), although our
+knowledge of autophagy mechanisms in mammalian cells remains
+scanty (15, 16). beclin 1 is a mammalian ortholog of atg6/vps30, a
+component of the class iii phosphatidylinositol 3-kinase complex in
+yeast that is essential for the formation of autophagosomes and cytosol-
+to-vacuole vesicles (18). beclin 1 deficiency leads to impaired autophagy
+function in mammalian cells (2, 3, 19). interestingly, the beclin 1 gene is
+mono-allelically deleted in 40–75% of sporadic human breast and ovar-
+ian cancers (19), and heterozygous beclin 1 mutant mice have increased
+spontaneous tumorigenesis (2, 3). thus, the beclin 1 gene encodes a
+haploid-insufficient tumor suppressor.
+in this study, we show that the intracellular accumulation of htt with
+expanded poly(q) is highly sensitive to the expression levels of beclin 1.
+we show an age-dependent decline of beclin 1 expression in human brains
+thatmightprovideamechanismfortheaccumulationofexpandedpoly(q)
+species, perhaps contributing to the disease onset and disease progression
+of poly(q) expansion diseases, including hd. furthermore, we show that
+beclin 1 is recruited to htt inclusions in the r6/2 mouse brain and in the
+striatal samples of human hd patients. thus, sequestration of beclin 1
+in the vulnerable neuronal population of hd patients might further
+reduce beclin 1 function and autophagic degradation of expanded
+poly(q)-containing htt. our study suggests a potentially important role
+of beclin 1 in both the initiation and progression of hd.
+experimental procedures
+antibodies—the commercial sources of antibodies were as follows:
+mouse monoclonal anti-ha (ha.11, covance), mouse monoclonal
+anti-␥-adaptin (bd biosciences), 1c2 (chemicon), and mouse mono-
+clonal anti-htt antibody (mab2166, chemicon).
+beclin 1 expression analysis for human brain samples—the detailed
+protocols for dna microarray analysis and quantitative reverse tran-
+scription-pcr are described elsewhere (38). for western blot analysis,
+brain tissues samples were homogenized with a glass dounce tissue
+grinder (kontes) in ripa-deoxycholate buffer (50 mm tris buffer, ph
+7.2, 150 mm nacl, 1% triton x-100, 1% deoxycholate, and 0.1% sds)
+supplemented with protease inhibitors (roche applied science) as well
+as phosphatase inhibitors (50 mm naf, 5 mm na2p2o7, 1 mm navo4,
+and 1 ␮m microcysteine).
+rna interference—the following dna sequences in the cdnas of
+human and murine beclin 1 were used to produce double-stranded
+rnas with a 3⬘-overhang: human beclin 1, 5⬘-tgaggatgacagtgaacag-3⬘;
+murine beclin 1, 5⬘-cagtttggcacaatcaata-3⬘. in each case, the targeted
+sequence was separated from its reverse complement by a nine-nucle-
+otide spacer (ttcaagaga) that served as the 3⬘-overhang. the constructs
+were annealed and inserted into the bglii and xhoi sites of psrp retro-
+virus vector developed to express double-stranded rnas bearing the
+3⬘-overhang under the control of the h1 promoter. pantropic retrovi-
+ruses were made by transfecting 293t cells with each of the psrp vec-
+tors harboring a beclin 1 target sequence and plasmids containing the
+gag-pol-env constructs derived from moloney leukemia virus. virus-
+rich supernatants were used to infect cells, and infected cells were
+selected with puromycin (2–3 ␮g/ml).
+beclin 1 in huntington disease
+immunohistochemistry and western blotting—8-week-old r6/2 and
+control mice (b6cbaf1/j) (jackson laboratory) were anesthetized with
+forane (abbott laboratories) and transcardially perfused with 4%
+paraformaldehyde/phosphate-buffered saline for fixation. after cryo-
+protection with 20% sucrose/phosphate-buffered saline, 15-␮m-thick
+frozen sections were prepared. paraffin-embedded striatal sections
+(thickness: 10 ␮m) were obtained from normal controls (n ⫽ 3; ages:
+87.7 ⫾ 1.5 (mean ⫾ s.d.) years old; post-mortem periods: 25.0 ⫾ 20.1 h)
+and hd patients (n ⫽ 5; ages: 44.6 ⫾ 23.2 years old; post-mortem peri-
+ods: 20.8 ⫾ 16.8 h). single immunostaining for htt and beclin 1 was
+performed using a vectastain elite abc kit (vector laboratories).
+counterstaining was performed with 0.2% methyl green. for immuno-
+fluorescence double staining, em48 and the rabbit polyclonal anti-be-
+clin 1 antibody (santa cruz biotechnology) were used as primary anti-
+bodies, and fluorescein isothiocyanate-conjugated anti-mouse igg
+antibody and rhodamine-conjugated anti-rabbit igg antibody (jackson
+immunoresearch) were used as secondary antibodies. for western
+blotting, frozen human striatal tissue was homogenized in 7 volumes of
+1% triton x-100 buffer (20 mm tris-cl, ph 8.0, 150 mm nacl, 1 mm
+edta, protease inhibitors). the homogenates were cleared by centrif-
+ugation (12,000 ⫻ g, 15 min), and the supernatants were boiled after the
+addition of the sample buffer.
+long lived protein degradation assay—cells were cultured with
+l-[3h]leucine (perkinelmer life sciences) for 24 h and chased in media
+with nonradioactive leucine for another 24 h. then the media was
+changed again and incubated for 4 more hours. the media were recov-
+ered and treated with 10% trichloroacetic acid to separate trichloroace-
+tic acid-soluble (amino acids) and trichloroacetic acid-insoluble (pro-
+teins) fractions. the cells were completely dissolved with 0.2 n naoh.
+radioactivity was measured with a liquid scintillation counter (beck-
+man). long lived protein degradation was calculated by dividing trichlo-
+roacetic acid-soluble radioactivity in the media by total radioactivity
+detected in the cells and media. the values were expressed as changes in
+-fold from the value obtained in normal control cells.
+results
+intracellular accumulation of mutant htt is sensitive to the levels of
+beclin 1—to examine a possible role of beclin 1 in regulating intracel-
+lular accumulation of htt, we designed a hairpin sirna to specifically
+reduce the expression of beclin 1 (becn1 sirna) in a pair of striatal cell
+lines, sthdhq7/q7 (st q7/q7) and sthdhq111/q111 (st q111/q111).
+sthdhq7/q7 (st q7/q7) cells were derived from the striatal primordia
+of mice that were wt for hdhq7/q7, encoding endogenous murine hun-
+tingtin with 7-glutamines; whereas sthdhq111/q111 (st q111/q111)
+cells are homozygous for a cag repeat knock-in mutant allele
+hdhq111/q111, which extends the poly(q) segment of endogenous
+murine huntingtin to 111 residues (20). it has been shown previously
+that the endogenous mouse htt q7 protein in st q7/q7 cells and the
+endogenous mutant htt q111 protein in st q111/q111 cells are both
+soluble proteins (⬎350 kda), except that the expanded poly(q) tract in
+the htt q111 protein confers reduced mobility compared with the htt
+q7 protein on sds-page (20). expression of becn1 sirna resulted in
+the reduction of beclin 1 protein in both st q7/q7 (18.8%) and st
+q111/q111 cells (29.8%) as demonstrated by western blotting followed
+by densitometric analysis (fig. 1a). no effect of becn1 knock down (kd)
+on the cell growth or gross morphology was detected (data not shown).
+interestingly, becn1 kd in st q111/q111 cells led to a significant
+increase in the levels of htt q111 and the appearance of htt q111
+species that migrated much slower as a smear-like immunoreactivity on
+sds-page, the latter of which suggested the formation of oligomeric
+may 19, 2006 • volume 281 • number 20
+journal of biological chemistry 14475
+beclin 1 in huntington disease
+figure 1. intracellular accumulation of htt with expanded poly(q) is sensitive to the levels of beclin 1 expression. a, striatal cell lines, st q7/q7 and stq111/q111 (20), were
+infected with either a control vector (psrp) or a vector expressing sirna for beclin 1 (becn1 kd) and selected as pools in the presence of puromycin for 2 weeks. western blots of cell
+lysate were probed with anti-beclin 1 (lower panels) and em48 (upper panels). anti-␤-tubulin (middle panels) was used as a loading control. the asterisks indicate the border between
+14476 journal of biological chemistry
+volume 281 • number 20 • may 19, 2006
+beclin 1 in huntington disease
+figure 2. the bcl-2-interacting domain of beclin 1 is not required for reducing insoluble expanded poly(q). a, the constructs of beclin 1 truncation mutants. b and c, h4 cells
+were transfected with expression vectors of q79 and the full length or one of the beclin 1 truncation mutants as shown in a. the effects of beclin 1 truncation mutants on the
+accumulation of insoluble q79 protein were examined by western blotting and a filter retardation assay using anti-ha (b), or by anti-beclin 1 immunostaining (c). the expression of
+the wild-type beclin 1 and the beclin 1 mutants were confirmed by western blotting (b, lower). nuclei were counterstained with hoechst dye (c). oe, overexpression. d, proportions
+of wild-type and mutant beclin 1-overexpressing cells with overt q79 aggregation were counted. four independent visual fields were analyzed in each group. the values for q79 only,
+wt (wild-type), bec 1–270, and ⌬bcl-2 id are 63.1 ⫾ 6.1%. 34.9 ⫾ 6.2%, 63.2 ⫾ 6.1%, and 44.3 ⫾ 5.2%, respectively. statistical analysis was carried out by analysis of variance followed
+by scheffe’s post hoc tests.
+htt (fig. 1a). in comparison, the reduction of beclin 1 expression in st
+q7/q7 cells did not cause the appearance of such smear-like immuno-
+reactivity of wt q7 htt protein (fig. 1a). this result indicates that the
+reduction of beclin 1 expression led to the accumulation of htt with
+expanded poly(q). the slower migrating species of htt in q111/q111
+becn1 kd cells, however, did not form aggregates visible by immuno-
+cytochemistry (data not shown). thus, a reduction of beclin 1 expres-
+sion in q111/q111 cells leads to the formation of slower migrating htt
+q111 species on sds-page but not large aggregates.
+to ask whether the accumulation of expanded poly(q) in q111/
+q111 cells is caused by a reduction of poly(q) turnover, we measured
+the rate of htt turnover in both q7/q7 and q111/q111 cells using a
+pulse-chase assay (fig. 1b). in control vector-infected q7/q7 and
+q111/q111 cells, the levels of labeled htt were significantly reduced as
+compared with the baseline level (0 h) after chasing for 24 h but not after
+4 h (q7: 91.8 ⫾ 9.4% at 4 h, 51.0 ⫾ 31.8% at 24 h; q111: 86.2 ⫾ 8.3% at
+4 h, 44.4 ⫾ 4.4% at 24 h, mean ⫾ s.d.%; fig. 1b). in becn1 kd q7/q7
+cells, there was a time-dependent reduction of labeled htt (72.9 ⫾ 29.6%
+at 4 h, 35.2 ⫾ 12.0% at 24 h; fig. 1b). on the other hand, the levels of
+labeled mutant htt in becn1 kd q111/q111 cells after chasing for 24 h
+were not changed significantly compared with that of 4 h (70.2 ⫾ 7.6% at
+4 h, 79.1 ⫾ 12.4% at 24 h; fig. 1b). the difference in labeled htt band
+the stacking and separating gels. the arrow points to htt smear-like immunoreactivity. the exposure time of films to ecl reagent-treated blot membranes to visualize em48-reactive
+bands was 20 min. b, the cells was labeled with 0.2 mci/ml l-[35s]met for 20 min and chased in cold methionine media for the indicated hours. htt was immunoprecipitated using
+anti-htt antibody (mab 2166) and analyzed by sds-page followed by autoradiography. c, h4 cells were transfected with expression vectors of q35-ha, q79-ha, or q79-ha plus that
+of beclin 1. cell lysates were separated into ripa-soluble and ripa-insoluble fractions, and analyzed by western blotting using anti-ha. anti-␤-tubulin and coomassie blue staining
+were used as loading controls for the ripa-soluble and ripa-insoluble fractions, respectively. beclin 1 expression levels were monitored by western blotting. the arrow indicates the
+border of the stacking and separating gels. d, h4 cells were infected with psrp retrovirus or psrp-beclin 1 retrovirus and selected by puromycin for 2 days to establish pools stably
+expressing control vector or beclin 1 sirna. western blots of cell lysates were probed with anti-beclin 1, anti-human gsa7/atg7, or anti-␤-tubulin. e, the accumulation of q79-ha in
+control (psrp-infected) and becn1 kd h4 cells was evaluated as in b. the arrowhead indicates the border between the stacking gel and the separating gel. f, control psrp-infected
+h4 cells or becn1 kd h4 cells were transfected with an empty vector (pcdna3-ha) or htt 171-q68-ha as indicated. the cells were extracted with ripa buffer first, and the supernatants
+were designated as s1. the pellets were subsequently extracted with 1% sarkosyl buffer. the resulting supernatants and pellets were designated as s2 and p, respectively. the
+western blot was probed with an anti-ha antibody. a western blot of equal aliquots of the whole cell lysates before the extraction was probed with anti-␤-tubulin to demonstrate
+the equal amount of starting material. g, control psrp h4 and becn1 kd h4 cells were transfected with expression vectors of q79-ha or httn 171-q68-ha and immunostained by
+anti-ha 24 h after transfection. the nuclei were counterstained with hoechst dye.
+may 19, 2006 • volume 281 • number 20
+journal of biological chemistry 14477
+beclin 1 in huntington disease
+figure 3. intracellular accumulation of poly(q) is sensitive to the levels of degradative autophagic function. a, h4 cells were transfected with a vector expressing q79 lys⫺
+with or without the wild-type beclin 1 expression vector. the cells were processed for western blotting (left) and filter retardation assay (right) using anti-ha to evaluate insoluble q79
+protein accumulation. the expression levels of beclin 1 were evaluated by western blotting. b, h4 cells were transfected with expression vectors of q79 with or without beclin 1 in the
+14478 journal of biological chemistry
+volume 281 • number 20 • may 19, 2006
+beclin 1 in huntington disease
+h4 cells. the poly(q) aggregates were visualized by immunostaining
+using anti-ha (fig. 1g). in these cellular models, the poly(q) aggregates
+were found in both the cytoplasm (⬃50%) and nuclei (⬃50%). we
+counted the percentages of cells with visible aggregates. the number of
+q79 aggregates was significantly increased in becn1 kd h4 cells in
+comparison with the control h4 cells (39.8 ⫾ 9.6 (mean ⫾ s.d.)% in
+becn1 kd versus 23.1 ⫾ 4.1% in control). furthermore, while htt 171-
+q68 formed relatively few aggregates in control h4 cells, nearly double
+the number of htt 171-q68-aggregates was observed in becn1 kd h4
+cells (22.1 ⫾ 2.5% in becn1 kd versus 12.1 ⫾ 5.2% in control). these
+results suggest that beclin 1 plays an important role in regulating the
+accumulation of proteins with expanded poly(q) in h4 cells as well as in
+the striatal cell lines, providing a validation for the use of h4 cells as a
+model to explore the mechanism by which beclin 1 regulates the accu-
+mulation of expanded poly(q).
+the bcl-2-interacting domain of beclin 1 is not required for reducing
+the level of expanded poly(q) aggregates—to explore the mechanism
+by which beclin 1 reduces the accumulation of expanded poly(q) aggre-
+gation, we characterized the domains of beclin 1 that might be impor-
+tant for this function. beclin 1 was identified as a bcl-2-interacting pro-
+tein (23). beclin 1 contains a bcl-2-interacting domain (bcl-2 id) and a
+coiled-coil domain. we constructed expression vectors for three beclin
+1 mutants, a c-terminal truncation containing amino acids 1–270
+(bec1–270), a bcl-2-interacting domain (⌬bcl-2 id) deletion mutant,
+and a bcl-2 id-coiled-coil domain deletion mutant (fig. 2a). the bcl-2
+id-coiled-coil deletion mutant could not be expressed in h4 cells, ren-
+dering further analysis of this mutant impossible. the effects of wt and
+mutant beclin 1 proteins were compared in h4 cells cotransfected with
+q79 expression vector and one of the other beclin 1 expression vectors
+by measuring the levels of insoluble q79 in the stacking gel and in a filter
+retardation assay (24). overexpression of the n-terminal half of beclin 1
+(bec1–270) failed to have any impact on the accumulation of q79 (fig.
+2b). on the other hand, the deletion of bcl-2-interaction domain
+retained the ability to reduce the insoluble poly(q) accumulation. the
+effects of wt beclin 1, bec1–270 beclin 1, and ⌬bcl-2 id beclin 1were
+further verified by immunostaining for q79 aggregates. the expression
+of wt beclin 1 and ⌬bcl-2 id beclin 1 but not bec1–270 beclin 1
+figure 3—continued
+intensities at 24 h between q7/q7 and q111/q111 was statistically
+significant in becn1 kd cells (p ⬍ 0.05, t test). this finding suggests that
+beclin 1-mediated long lived protein degradation pathway plays a crit-
+ical role in the catabolism of mutant htt.
+to explore the mechanism by which beclin 1 reduces the intracellular
+accumulation of mutant htt with poly(q), we chose the human neuro-
+glioma-derived h4 cells, because they are more amenable to manipula-
+tion than the striatal cell lines. to validate the use of h4 cells as a system
+to characterize the mechanism of beclin 1 in regulating the intracellular
+levels of htt, we first determined if overexpression of beclin 1 might
+cause changes in poly(q) aggregation, as predicted by the results from
+the striatal cell lines described above. we compared the accumulation of
+insoluble aggregates in h4 cells transfected with expression vectors of
+q79 and q35 (21) with or without that of beclin 1 (fig. 1c). q35 was
+identified as a 15-kda single band present exclusively in the ripa-sol-
+uble fraction, whereas most of q79 was present in the ripa-insoluble
+fraction, with a small portion migrating at 32 kda and in the stacking gel
+in the ripa-soluble fraction, consistent with the aberrant behavior of
+q79 (fig. 1c) (21). overexpression of beclin 1 led to a significant reduc-
+tion of q79 in the ripa-insoluble fraction, whereas it had no effect on
+the levels of soluble q79 (fig. 1c).
+to examine the effect of reducing beclin 1 expression on the accu-
+mulation of insoluble poly(q), we developed an sirna retroviral vector
+(psrp-beclin 1) for human beclin 1. psrp-beclin 1 specifically reduced
+the expression of beclin 1, whereas it had no effect on the expression
+level of human gsa7/atg7 (fig. 1d), a gene also involved in the execution
+of autophagy (22). an increased amount of ripa-insoluble q79 accu-
+mulated in becn1 kd h4 cells versus control cells (fig. 1e). further-
+more, the reduction of beclin 1 expression in h4 cells also increased the
+amount of insoluble (p fraction) n-terminal truncated (amino acids
+1–171) htt with q68 (htt 171-q68), which was present in the ripa-
+soluble fraction in control h4 cells, and became partly ripa-insoluble
+in becn1 kd h4 cells (fig. 1f).
+to examine if a reduction in the solubility of expanded poly(q) in
+becn1 kd h4 cells was reflected in an increase in the formation of
+poly(q) aggregates visible by immunocytochemistry, we transfected the
+expression vectors for q79 and htt 171-q68 into control and becn1 kd
+presence or absence of 10 ␮m pepstatin a for 6 h before fixation. 48 h after transfection, the cells were processed for immunostaining using anti-ha. the numbers of cells bearing
+intracellular q79 aggregates were counted, and expressed as mean ⫾ s.d. % of total cells. the cell counting was performed in five different visual fields for each group. statistical
+analysis was carried out by analysis of variance and scheffe’s post hoc tests. the expression levels of beclin 1 were shown by western blotting. c, cell lysates were analyzed by western
+blotting (left) and filter retardation assay (right) using anti-ha. the expression levels of beclin 1 were evaluated by western blotting. d, effects of beclin 1 expression levels on long lived
+protein degradation. the rates of long lived protein turnover in h4 cells treated with 3-methyladenine (10 mm), rapamycin (rap., 1 ␮m), stable beclin 1 knockdown h4 cells (becn1 kd),
+and h4 cells stably overexpressing ha-tagged beclin 1 (becn1 st). the values were expressed as changes in -fold from the values obtained in normal control cells. statistical analysis
+was performed by analysis of variance followed by fisher’s plsd (protected least significant difference). the data were obtained from at least three independent experiments. e,
+reduction of beclin 1 expression reduced gfp-lc3-positive autophagic vesicles. control psrp retrovirus-infected h4 cells and becn1 kd h4 cells were transfected with gfp-lc3 for 24 h
+and then stimulated by rapamycin (1 ␮m) or vehicle control for 4 h and examined by fluorescence microscopy. cell counting procedures were carried out from three independent
+fields in each of two different experiments. f, reduction of beclin 1 expression inhibits lc3-ii formation induced by rapamycin. control psrp retrovirus-infected h4 cells and becn1 kd
+h4 cells were stimulated by rapamycin for 4 h, and a western blot of the cell lysates was probed with anti-lc3. anti-␤-tubulin was used as a control.
+may 19, 2006 • volume 281 • number 20
+journal of biological chemistry 14479
+beclin 1 in huntington disease
+figure 4. effects of poly(q) expression on long lived protein turnover and beclin 1 distribution. a, h4 cells were transfected with expression vectors of htt 171-q17, htt 171-q68,
+q79, or q79 with that of beclin 1. long lived protein degradation was measured as in fig. 3d. b, the localization of beclin 1 (red) and ␥-adaptin (green) in control (top) and
+q79-gfp-overexpressing (middle and bottom panels) h4 cells. nuclei were counterstained by to-pro-3. the images were analyzed by confocal microscopy. c, solubility of beclin 1 was
+assessed in q35- and q79-overexpressing cells. 48 h after transfection, the cells were extracted with a detergent-free buffer (150 mm nacl, 20 mm tris-cl, ph 8.0), buffer with 0.5%
+nonidet p-40, or ripa. the levels of beclin 1 in soluble and insoluble fractions were determined by western blotting using anti-beclin 1. the increased levels of beclin 1 in q79
+expressing cells were marked with as asterisk. the levels of ␤-tubulin and actin were used as loading controls.
+14480 journal of biological chemistry
+volume 281 • number 20 • may 19, 2006
+beclin 1 in huntington disease
+figure 5. beclin 1 is recruited to cytoplasmic
+htt inclusions in r6/2 mouse brains. double
+immunostaining for htt (em48) and beclin 1 in wt
+and r6/2 brain. nuclear staining (nuc) was per-
+formed with to-pro-3. the colocalization of htt
+and beclin 1 in r6/2 mouse brain sample was indi-
+cated with arrows. nuclear aggregates without
+beclin 1 recruitment are indicated with arrow-
+heads. the images were analyzed by confocal
+microscopy. the image for em48 (green) in the
+wild-type mouse brain section was exposed for
+longer time to reveal no significant immunoreac-
+tivity in the sample.
+reduced the proportion of q79-gfp aggregate-positive cells (fig. 2, c
+and d). these results suggest that the activity of beclin 1 in reducing the
+accumulation of expanded poly(q) requires the c-terminal half of the
+protein (amino acids 271–450) but not the bcl-2-interacting domain.
+beclin 1 reduces the levels of expanded poly(q) by promoting auto-
+phagy—to exclude the possibility that the reduction in the intracellular
+accumulation of q79 promoted by beclin 1 might be in part due to the
+proteasome activity, we created a q79 mutant (q79 lys⫺) that had its
+two lys residues converted into arg residues (q79 k17r/k21r). over-
+expression of beclin 1 was still fully active in reducing the insoluble
+aggregates of lys⫺ q79 as for those of lys⫹ q79 (fig. 3a). because lys
+residues are required for ubiquitination, this result suggests that beclin
+1 regulates the turnover of mutant htt through an ubiquitination-inde-
+pendent pathway.
+we reasoned if the ability of beclin 1 to promote the turnover of
+mutant htt is mediated through autophagy, its activity should be sensi-
+tive to inhibitors of lysosomal acid hydrolases, such as cathepsins,
+because the degradative power of autophagy relies on the fusion of
+autophagosomes and lysosomes (17). hence, we examined whether the
+activity of beclin 1 in reducing the accumulation of poly(q) aggregates is
+sensitive to pepstatin a, an inhibitor of aspartic proteases, including
+cathepsin d. overexpression of beclin 1 in q79-expressing h4 cells
+reduced the number of q79 aggregate-positive cells (63.1 ⫾ 6.1
+(mean ⫾ s.d.)% versus 34.9 ⫾ 6.2%), an effect inhibited by pepstatin a
+(55.1 ⫾ 17.7%) (fig. 3b). overexpression of beclin 1 also reduced the
+accumulation of q79 aggregate as shown by a reduction in the amount
+of poly(q) aggregates in the stacking gel and in the filter retardation
+assay, which was also inhibited by pepstatin a (fig. 3c). these results
+suggest that pepstatin a-sensitive aspartic proteases, such as cathepsin
+d, may be important for the degradation process promoted by beclin 1.
+moreover, 3-methyladenine also abolished the ability of overexpressed
+beclin 1 to reduce q79 aggregation, implying that the effect of beclin 1 is
+dependent on phosphatidylinositol 3-kinase activity (data not shown).
+because autophagy has been proposed as one of the mechanisms
+involved in long lived protein turnover (25), we further measured the
+rates of long lived protein turnover in control h4 cells, and becn1 kd
+h4 cells (fig. 3d). long lived protein degradation in each group was
+expressed as a relative value against that in the control h4 cells. rapa-
+mycin, which stimulates autophagy (26), was used as a positive control;
+3-methyladenine, which inhibits class iii phosphatidylinositol 3-kinase
+and autophagy (27), was used as a negative control. consistent with our
+hypothesis, becn1 kd resulted in a reduction of long lived protein deg-
+radation (0.746 ⫾ 0.118-fold). in comparison, 3-methyladenine inhib-
+ited long lived protein degradation (0.670 ⫾ 0.202-fold of the control
+level), whereas rapamycin enhanced it (1.477 ⫾ 0.298-fold) (fig. 3d).
+these results indicate that long lived protein degradation is sensitive to
+the reduction of beclin 1 expression. overall, these results support the
+role of beclin 1-regulated long lived protein turnover in the catabolism
+of expanded poly(q).
+beclin 1 has been shown to regulate autophagy in mammalian cells
+(19). to examine the effect of beclin 1 on autophagosome formation in
+h4 cells, we first used the appearance of the phosphatidylethanolamine-
+conjugated form of microtubule-associated protein 1 light chain 3
+(lc3-ii) as a marker of autophagy activation. the microtubule-associ-
+ated protein 1 light chain 3 (lc3-i) is a mammalian ortholog of apg8/
+aut7/atg8, an essential protein for autophagy in yeast (28). lc3-ii, a
+phosphatidylethanolamine-modified form of lc3-i, is specifically local-
+ized to the autophagosomal membrane, and the generation of lc3-ii is
+an early and critical step in the formation of autophagosomes (28, 29).
+gfp-lc3 has been used as a marker for the intracellular levels of auto-
+phagy (15). we transfected h4 cells with an expression vector of gfp-
+lc3, and the levels of gfp-lc3-positive autophagosomes after rapamy-
+cin stimulation were determined by fluorescence microscopy (fig. 3e).
+the levels of gfp-lc3-positive autophagosomes were significantly
+lower in becn1 kd h4 cells than that of control (psrp only, 1.10 ⫾ 1.24
+(mean ⫾ s.d.); psrp plus rapamycin, 3.80 ⫾ 1.31; becn1 kd only,
+0.85 ⫾ 1.10; becn1 kd plus rapamycin, 1.35 ⫾ 1.52; p ⬍ 0.01 psrp plus
+rapamycin versus becn1 kd plus rapamycin, n ⫽ 6; *, p ⬍ 0.01 between
+psrp plus rapamycin and becn1 kd plus rapamycin, analysis of vari-
+ance; fig. 3e). we also determined the levels of lc3-ii by western blot
+and densitometric analysis (1647 for psrp only, 1287 for becn1 kd,
+2315 for psrp plus rapamycin, and 1947 for becn1 kd plus rapamycin
+(arbitrary units); fig. 3f). although a significant amount of basal lc3-ii
+was still present in becn1 kd h4 cells, which is consistent with the fact
+that yeast atg6 is not required for apg8-pe formation (31), the level of
+endogenous lc3-ii after rapamycin stimulation was lower in becn1 kd
+h4 cells than that of control h4 cells (fig. 3f). from these findings, we
+concluded that the reduction of beclin 1 expression in h4 cells led to a
+defect in autophagosome formation.
+mutant htt-n-terminal fragments have a negative effect on beclin
+1-mediated protein degradation—our studies demonstrate that a beclin
+1-regulated autophagy pathway plays an important role in regulating
+intracellular levels of htt with expanded poly(q). because the accumu-
+lation of expanded poly(q) is a hallmark of polyglutamine expansion
+diseases, we suspected that expanded poly(q) might have a negative
+effect on beclin 1-mediated protein turnover that in turn may promote
+and exacerbate the accumulation and oligomerization of expanded
+poly(q). to examine this possibility, we first determined the rate of long
+lived protein turnover in h4 cells transfected with a control vector or
+expression vectors for htt 171-q17, htt 171-q68, and q79 alone, or
+along with beclin 1 expression vector. a significant reduction in the rate
+of long lived protein turnover was detected after the cells were trans-
+may 19, 2006 • volume 281 • number 20
+journal of biological chemistry 14481
+beclin 1 in huntington disease
+figure 6. beclin 1 in human brain samples. a, quantitative reverse transcription-pcr for beclin 1 mrna was performed for young (n ⫽ 6, 26.8 ⫾ 3.2 (mean ⫾ s.d.) years old) and aged
+individuals (n ⫽ 6, 83.5 ⫾ 4.6 (mean ⫾ s.d.) years old). the data were normalized by 28 s ribosomal rna levels. b, western blotting for beclin 1 was performed for young (n ⫽ 6, 27.2 ⫾
+4.0 (mean ⫾ s.d.) years old) and aged individuals (n ⫽ 7, 84.1 ⫾ 8.8 (mean ⫾ s.d.) years old). the data were normalized by ␤-tubulin levels. in c: upper panels, htt was immunostained
+14482 journal of biological chemistry
+volume 281 • number 20 • may 19, 2006
+fected with expression vectors of q79 (0.629 ⫾ 0.085 (mean ⫾ s.d.)-
+fold) and htt 171-q68 (0.638 ⫾ 0.262-fold), but not that of htt171-q17
+(0.934 ⫾ 0.215-fold), at 24 h post-transfection, which was before any cell
+death could be detected (fig. 4a). the negative effect of q79 on the long
+lived protein turnover was fully corrected when cells were cotransfected
+with an expression vector of beclin 1 (fig. 4a). this effect of beclin 1 is
+not likely due to a possible indirect influence on the cell survival,
+because no adverse effect of q79 was detected in these cells 24 h after
+transfection; and furthermore, the same number of viable cells was used
+for comparison. these results suggest that the expression of expanded
+poly(q) has a selective inhibitory effect on the long lived protein turn-
+over regulated by beclin 1.
+to determine the mechanism by which expanded poly(q) interferes
+with beclin 1-sensitive long lived protein turnover, we examined the
+distribution of beclin 1 in h4 cells. consistent with a previous report
+that beclin 1 was present predominantly in the trans-golgi network
+(tgn) (32), we found that beclin 1 was colocalized with ␥-adaptin (fig.
+4b, upper panels) and giantin (data not shown), markers for the tgn in
+h4 cells. in h4 cells expressing q79-gfp, however, beclin 1 was par-
+tially re-distributed to q79-gfp aggregates (fig. 4b, middle panels).
+moreover, ␥-adaptin was also partially recruited to q79 aggregates (fig.
+4b, lower panels). these observations suggest that beclin 1, a tgn
+membrane-associated protein, may be translocated to q79 aggregates
+along with a part of tgn itself. to examine whether the effect of
+expanded poly(q) might have on the intracellular distribution of beclin
+1, we extracted h4 cells transfected with expression vectors of q35 or
+q79 with buffers with different amounts of detergents (fig. 4c). the
+result indicated that an increased amount of beclin 1 could be extracted
+with low detergent (0.5% nonidet p-40)-containing buffer in h4 cells
+expressing q79 than that in q35-expressing h4 cells (the ratios of sol-
+uble/insoluble beclin 1 corrected by tubulin and actin levels; 0.83 for
+q35/no detergent, 0.53 for q79/no detergent, 1.62 for q35/0.5% non-
+idet p-40, 3.37 for q79/0.5% nonidet p-40, 7.41 for q35/ripa, and 5.82
+for q79/ripa). thus, translocation of beclin 1 to the areas associated
+with expanded poly(q) aggregates made it become more amenable to
+the detergent extraction.
+beclin 1 is recruited to the cytoplasmic htt inclusions in r6/2 mouse
+brains—the recruitment of beclin 1 to poly(q) aggregates in cultured
+cells prompted us to investigate if a similar phenomenon occurs in the
+brains of r6/2 mice, which exhibit aggregates formed from the hd exon
+1 of htt with 150–160 qs (33). we examined the cerebral cortex of r6/2
+mice by immunocytochemistry using em48 (7). as previously reported
+(34), htt aggregates in r6/2 mice were predominantly nuclear (fig. 5).
+intriguingly, anti-beclin 1 immunoreactivity was associated with a sub-
+set of mutant htt aggregates, which appears to be localized in the cyto-
+plasm (arrows in fig. 5, lower panel) but not those clearly in the nucleus
+(arrowheads in fig. 5). this result suggests that beclin 1 is recruited to a
+subset of the mutant htt exon1 inclusions in r6/2 mice.
+beclin 1 in control and hd post-mortem human brains—our above
+studies demonstrated that the intracellular accumulation mutant htt is
+highly sensitive to the expression of beclin 1. to examine if a change in
+the expression levels of beclin 1 might explain the age-dependent accu-
+mulation of mutant htt, we determined the expression levels of beclin 1
+in the human prefrontal cortices from individuals ranging from 24 to
+106 years of age. the age-dependent decline in beclin 1 mrna level was
+identified by quantitative reverse transcription-pcr: the levels of beclin
+beclin 1 in huntington disease
+1 mrna were ⬃2-fold lower in older (83.5 ⫾ 4.6 years old, n ⫽ 6) versus
+young individuals (26.8 ⫾ 3.2 years old, n ⫽ 6) (fig. 6a). to confirm this
+finding at the protein level, we performed western blotting for beclin 1
+using the lysates prepared from the prefrontal cortex samples. in keep-
+ing with the quantitative reverse transcription-pcr data, beclin 1 pro-
+tein expression levels were also ⬃2-fold lower in the older (84.1 ⫾ 8.8
+years old, n ⫽ 7) versus young individuals (27.2 ⫾ 4.0 years old, n ⫽ 6)
+(fig. 6b). because the autophagy is highly sensitive to the beclin 1 gene
+dosage, our result suggests that the age-dependent reduction in the
+expression levels of beclin 1 contributes to the accumulation of mutant
+htt, which might have direct impacts to the disease onset and progres-
+sion of hd.
+to ask whether the accumulation of mutant htt in human hd
+patients might have a negative impact on the beclin 1 function as pre-
+dicted from our studies using cultured models and animal models
+described above, we next studied the distribution of beclin 1 in control
+and hd striatal samples and its relationship with that of htt aggregates.
+we first performed diaminobenzidine staining for htt in striatal sec-
+tions from normal control brains (n ⫽ 3) and hd brains (n ⫽ 5) using
+em48. consistent with previous reports, punctate em48-positive htt
+inclusions were evident in all of the hd but none of the control brain
+samples examined (fig. 6c, upper middle panel). such staining was
+abolished after exclusion of the primary antibody (fig. 6c, upper right
+panel). in contrast to the htt inclusions in r6/2 mice (34), these inclu-
+sions were mostly extranuclear as reported previously (7).
+striatal neurons in the normal control brains showed diffuse immu-
+noreactivity for beclin 1 (fig. 6c, lower left panel). on the other hand,
+inclusion-like deposits of beclin 1-positive immunoreactivity were
+found in the hd samples. most (⬎80%) of the inclusions seemed to be
+localized in the axon or neuropil, although we also observed intranu-
+clear inclusions, which was consistent with a previous finding (7). exclu-
+sion of beclin 1 antibody did not yield this pattern of immunoreactivity
+on the section from the same subject (fig. 6c, lower right panel). we also
+performed double fluorescence immunostaining for htt and beclin 1 in
+the striatal sections from hd brains. the results indicated that beclin 1
+was recruited to the mutant htt-n-terminal inclusions in the striatal
+samples of hd patients (fig. 6d). taken together with our finding in
+r6/2 mice, our results indicate that beclin 1 is recruited to the cytoplas-
+mic htt-n-terminal product aggregates in r6/2 mice as well as that in
+the striatum of hd patients.
+discussion
+in this study, we provide evidence that beclin 1 plays an important
+role in regulating intracellular levels of mutant htt. the reduction of
+degradative autophagy function in beclin 1 knockdown cells reduced
+the rate of long lived protein turnover and increased in the accumula-
+tion of mutant htt. the accumulation of mutant htt in st q111/q111
+cells induced by the partial inhibition of beclin 1 expression supports the
+hypothesis that the age-dependent decline of beclin 1 expression is a
+contributing factor to the age-delayed onset of hd. furthermore, the
+ability of accumulated oligomeric mutant htt to recruit beclin 1 pro-
+vides a mechanism to further exacerbate the age-dependent decline of
+autophagy function. based on our findings, we conclude that the beclin
+1-regulated autophagy pathway mediates a part of intracellular long
+lived protein turnover that is critical for the catabolism of mutant htt.
+the decline in the beclin 1-mediated autophagy pathway may be critical
+with em48. em48 was excluded from control. methyl green was used for counterstaining. lower panels, beclin 1 immunostaining. in the middle image, inclusion-like deposits are
+indicated with arrows. in theright image, beclin 1 antibody was excluded from the staining procedures. d, double immunostaining for htt (green) and beclin 1 (red) was performed on
+hd brain sections. control immunostaining was carried out in the absence of one or both primary antibodies. nuclei (nuc) were counterstained by to-pro-3. striatal sections were
+used for all the experiments in c and d.
+may 19, 2006 • volume 281 • number 20
+journal of biological chemistry 14483
+beclin 1 in huntington disease
+for both the onset as well as the progression of hd. a recent study
+showed that the liver-specific knock-out of atg7, another autophagy-
+related gene, leads to an increase in the propensity of protein aggrega-
+tion in the liver (35). along with this study, our results emphasize the
+importance of autophagy-mediated protein degradation machinery for
+suppressing aberrant protein aggregation.
+the effect of beclin 1 gene knockdown by sirna on the intracellular
+accumulation of mutant htt but a much milder effect on that of wt htt
+suggests at least two mutually nonexclusive possibilities regarding the
+catabolism of wt and mutant htt. first, the increased accumulation of
+mutant htt in beclin 1 kd cells may indicate the exclusive dependence
+of mutant htt degradation on the autophagy pathway, whereas the deg-
+radation of wt htt may be carried out by multiple pathways. this is
+consistent with the fact that beclin 1 knockdown only had a partial effect
+in inhibiting the long lived protein turnover. second, the excessive accu-
+mulation of mutant htt in beclin 1 knockdown cells may be in part due
+to the oligomerization of mutant htt which in turn further reduces its
+own degradation. this is supported by our demonstration that beclin 1
+is recruited to the aggregated mutant htt in cultured cells, hd trans-
+genic mouse models, and the striatal samples from hd patient. our
+studies demonstrate a critical role of beclin 1-mediated long lived pro-
+tein degradation in the accumulation of mutant htt. basedonourstudies
+using the beclin 1 mutants, the c-terminal half of the molecule is essential
+fortheexecutionofautophagy.as this part of beclin 1 is important for the
+association with cellular membranes (36), it is deduced that beclin 1
+should be tethered to cellular membranes to act in the autophagy proc-
+ess. our result shows that the bcl-2 id is not indispensable for the
+execution of autophagy, which is consistent with a recent report dem-
+onstrating that the bcl-2 id is important for functional modulation but
+not essential for the execution of autophagy (37).
+our study provides a potential mechanism that explains the age-
+delayed onset of hd. because the age-dependent decline in the levels of
+beclin 1 mrna in human brains is largely consistent with that of beclin
+1 protein, we conclude that the reduction of beclin 1 expression is
+mostly due to the reductions in beclin 1 transcription. recently, lu et al.
+(38) defined a set of genes whose transcriptions were reduced in human
+frontal cortex after the age of 40 years. lu et al. (38) further demon-
+strated that the promoters of the genes with reduced expression were
+preferentially damaged by oxidative stress with reduced base-excision
+dna repair. our result raises the possibility that the promoter of beclin
+1 gene may be sensitive to dna damage. the age-dependent reduction
+of beclin 1 expression would in turn contribute to the age-dependent
+decline of autophagy function (39, 40) and the consequential accumu-
+lation of mutant htt which eventually leads to the onset of disease.
+mutant htt aggregates have been shown to recruit many different
+proteins in vivo and in cultured cells (30). in most cases, the recruited
+proteins became tightly associated with the detergent-insoluble
+aggregates. the recruitment of beclin 1 by the mutant htt-n-termi-
+nal fragments, however, appears to be very different from most pro-
+teins known to be recruited to mutant htt aggregates, because the
+recruited beclin 1 became detergent-soluble in our case. although
+most of the endogenous beclin 1 immunoreactivity in mutant htt-
+expressing cells was around poly(q) aggregates, we could not dem-
+onstrate significant association between beclin 1 and truncated htt
+proteins (htt 480-q17 and htt 480-q68) by a coimmunoprecipita-
+tion assay (data not shown). instead, we found that beclin 1 appeared
+to be recruited to poly(q) aggregates along with at least a part of the
+tgn itself. mislocalization of beclin 1 as well as distortion of tgn may
+together result in the inhibition of autophagy function in mutant htt-ex-
+pressing cells.
+in summary, we demonstrate the critical role of beclin 1 in mediating
+the catabolism of mutant htt. our study pointed out that the age-de-
+pendent decline of beclin 1 expression and possible associated reduction
+of class iii phosphatidylinositol 3-kinase activity is critical for the
+decline of autophagic function, which may lead to the accumulation of
+mutant htt and the age-delayed disease onset of hd. furthermore, the
+ability of accumulated mutant htt to recruit beclin 1 provides a mech-
+anism to further reduce the function of beclin 1 and exacerbate the
+disease progression. our study suggests that pharmacological means to
+increase of beclin 1 function may be beneficial in delaying the onset as
+well as slowing the progression of hd.
+acknowledgments—we especially thank b. levine, a. goldberg, and j. deb-
+nath for helpful discussion and insightful comments. we are grateful for
+important reagents provided by b. levine (beclin 1 plasmids), x.-j. li (anti-
+htt, em48), m. greenberg (htt 1–171 plasmids), w. dunn (anti-gsa7/atg7),
+and a. kakizuka (q35 and q79 plasmids). we thank m. ericsson for her expert
+electron microscopy work and jennifer waters shuler at the nikon/harvard
+imaging center for help with confocal microscopy. we acknowledge the mas-
+sachusetts general hospital alzheimer’s disease research center, the har-
+vard brain tissue resource center, and the virtual brain bank of harvard
+center for neurodegeneration and repair for providing human brain tissue
+samples. we thank m. boyce and marta lipinski for critical reading of the
+manuscript.
+addendum—while we were preparing this manuscript, iwata et al. reported
+that autophagy plays an important role in clearing cytoplasmic htt aggre-
+gates. our study strengthens the importance of autophagy by demonstrating
+the role of beclin 1, an autophagy gene, in the pathophysiology of hd.
+references
+1. everett, c. m., and wood, n. w. (2004) brain 127, 2385–2405
+2. qu, x., yu, j., bhagat, g., furuya, n., hibshoosh, h., troxel, a., rosen, j., eskelinen,
+e. l., mizushima, n., ohsumi, y., cattoretti, g., and levine, b. (2003) j. clin. invest.
+112, 1809–1820
+3. yue, z., jin, s., yang, c., levine, a. j., and heintz, n. (2003) proc. natl. acad. sci.
+u. s. a. 100, 15077–15082
+4. macdonald, m. e. (2003) sci. stke 2003, pe48
+5. becher, m. w., kotzuk, j. a., sharp, a. h., davies, s. w., bates, g. p., price, d. l., and
+ross, c. a. (1998) neurobiol. dis. 4, 387–397
+6. difiglia, m. e., sapp, e., chase, k. o., davies, s. w., bates, g. p., vonsattel, j. p., and
+aronin, n. (1997) science 277, 1990–1993
+7. gutekunst, c. a., li, s. h., yi, h., mulroy, j. s., kuemmerle, s., jones, r., rye, d.,
+ferrante, r. j., hersch, s. m., and li, x. j. (1999) j. neurosci. 19, 2522–2534
+8. sanchez, i., mahlke, c., and yuan, j. (2003) nature 421, 373–379
+9. tanaka, m., machida, y., niu, s., ikeda, t., jana, n. r., doi, h., kurosawa, m.,
+nekooki, m., and nukina, n. (2004) nat. med. 10, 148–154
+10. venkatraman, p., wetzel, r., tanaka, m., nukina, n., and goldberg, a. l. (2004) mol.
+cell 14, 95–104
+1107–1117
+11. qin, z. h., wang, y., kegel, k. b., kazantsev, a., apostol, b. l., thompson, l. m.,
+yoder, j., aronin, n., and difiglia, m. (2003) hum. mol. genet. 12, 3231–3244
+12. ravikumar, b., duden, r., and rubinsztein, d. c. (2002) hum. mol. genet. 11,
+13. ravikumar, b., vacher, c., berger, z., davies, j. e., luo, s., oroz, l. g., scaravilli, f.,
+easton, d. f., duden, r., o’kane, c. j., and rubinsztein, d. c. (2004) nat. genet. 36,
+585–595
+14. levine, b., and klionsky, d. j. (2004) dev. cell 6, 463–477
+15. mizushima, n., yamamoto, a., matsui, m., yoshimori, t., and ohsumi, y. (2004)
+mol. biol. cell 15, 1101–1111
+16. shintani, t., and klionsky, d. j. (2004) science 306, 990–995
+17. klionsly, d. j., and emr, s. d. (2000) science 290, 1717–1721
+18. kametaka, s., okano, t., ohsumi, m., and ohsumi, y. (1998) j. biol. chem. 273,
+22284–22291
+19. liang, x. h., jackson, s., seaman, m., brown, k., kempkes, b., hibshoosh, h., and
+levine, b. (1999) nature 402, 672–676
+20. trettel, f., rigamonti, d., hilditch-maguire, p., wheeler, v. c., sharp, a. h.,
+persichetti, f., cattaneo, e., and macdonald, m. e. (2000) hum. mol. genet. 9,
+2799–2809
+21. ikeda, h., yamaguchi, m., sugai, s., axe, y., narumiya, s., and kakizuka, a. (1996)
+14484 journal of biological chemistry
+volume 281 • number 20 • may 19, 2006
+22. tanida, i., tanida-miyake, e., ueno, t., and kominami, e. (2001) j. biol. chem. 276,
+nat. genet. 13, 196–202
+1701–1706
+23. liang, x. h., kleeman, l. k., jiang, h. h., gordon, g., goldman, j. e., berry, g.,
+herman, b., and levine, b. (1998) j. viol. 72, 8586–8596
+24. scherzinger, e., lurz, r., turmaine, m., mangiarini, l., hollenbech, b., hasen-
+bank, r., bates, b. p., davies, s. w., lehrach, h., and wanker, e. e. (1997) cell 90,
+549–558
+25. mortimore, g. e., and poso, a. r. (1987) annu. rev. nutr. 7, 539–564
+26. blommaart, e. f., luiken, j. j., blommaart, p. j., van woerkom, g. m., and meijer, a. j.
+27. petiot, a., ogier-denis, e., blommaart, e. f., meijer, a. j., and codogno, p. (2000)
+(1995) j. biol. chem. 270, 2320–2326
+j. biol. chem. 275, 992–998
+28. kabeya, y., mizushima, n., ueno, t., yamamoto, a., kirisato, t., noda, t., komi-
+nami, e., ohsumi, y, and yoshimori, t. (2000) embo j. 19, 5720–5728
+29. kabeya, y., mizushima, n., yamamoto, a., oshitani-okamoto, s., ohsumi, y., and
+yoshimori, t. (2004) j. cell sci. 117, 2805–2815
+30. li, s. h., and li, x. j. (2004) trends genet. 20, 146–154
+31. suzuki, k., kirisato, t., kamada, y., mizushima, n., noda, t., and ohsumi, y. (2001)
+beclin 1 in huntington disease
+embo j. 20, 5971–5981
+32. kihara, a., noda, t., ishihara, n., and ohsumi, y. (2001) j. cell biol. 152, 519–530
+33. mangiriani, l., sathasivam, k., seller, m., cozens, b., harper, a., hetherington, c.,
+lawton, m., trottier, y., lehrach, h., davies, s. w., and bates, g. p. (1996) cell 87,
+493–506
+34. davies, s. w., turmaine, m., cozens, b. a., difiglia, m., sharp, a. h., ross, c. a.,
+scherzinger, e., wanker, e. e., mangiriani, l., and bates, g. p. (1997) cell 90, 537–548
+35. komatsu, m., waguri, s., ueno, t., iwata, j., murata, s., tanida, i., ezaki, j.,
+mizushima, n., ohsumi, y., uchiyama, y., kominami, e., tanaka, k., and chiba, t.
+(2005) j. cell biol. 169, 425–434
+36. aita, v. m., liang, x. h., murty, v. v., pincus, d. l., yu, w., cayanis, e., kalachikov,
+s., gilliam, t. c., and levine, b. (1999) genomics 59, 59–65
+37. pattingre, s., tassa, a., qu, x., garuti, r., liang, x. h., mizushima, n., packer, m.,
+schneider, m. d., and levine, b. (2005) cell 122, 927–939
+38. lu, t., pan, y., kao, s. y., li, c., kohane, i., chan, j., and yankner, b. a. (2004) nature
+39. cuervo, a. m. (2004) mol. cell. biochem. 263, 55–72
+40. donati, a., cavallini, g., paradiso, c., vittorini, s., pollera, m., gori, z., and ber-
+gamini, e. (2001) j. gerontol. a. biol. sci. med. sci. 56, b375–b583
+429, 883–891
+may 19, 2006 • volume 281 • number 20
+journal of biological chemistry 14485
+protein synthesis, post-translation
+modification, and degradation:
+regulation of intracellular accumulation
+of mutant huntingtin by beclin 1
+  
+mamoru shibata, tao lu, tsuyoshi furuya,
+alexei degterev, noboru mizushima, 
+tamotsu yoshimori, marcy macdonald,
+bruce yankner and junying yuan
+j. biol. chem. 
+doi: 10.1074/jbc.m600364200 originally published online march 6, 2006
+2006, 281:14474-14485.
+10.1074/jbc.m600364200
+access the most updated version of this article at doi: 
+  
+find articles, minireviews, reflections and classics on similar topics on the 
+  
+alerts: 
+•  
+•  
+  
+when this article is cited
+when a correction for this article is posted
+jbc affinity sites
+click here
+ to choose from all of jbc's e-mail alerts
+this article cites 39 references, 21 of which can be accessed free at
+http://www.jbc.org/content/281/20/14474.full.html#ref-list-1
+  

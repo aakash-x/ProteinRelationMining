@@ -1,0 +1,941 @@
+cell death and differentiation (2007) 14, 230–239
+& 2007 nature publishing group all rights reserved 1350-9047/07 $30.00
+www.nature.com/cdd
+er stress (perk/eif2a phosphorylation) mediates the
+polyglutamine-induced lc3 conversion, an essential
+step for autophagy formation
+y kouroku1, e fujita1, i tanida2, t ueno2, a isoai3, h kumagai3, s ogawa4, rj kaufman5, e kominami2 and t momoi*,1
+expanded polyglutamine 72 repeat (polyq72) aggregates induce endoplasmic reticulum (er) stress-mediated cell death with
+caspase-12 activation and vesicular formation (autophagy). we examined this relationship and the molecular mechanism
+of autophagy formation. rapamycin, a stimulator of autophagy, inhibited the polyq72-induced cell death with caspase-12
+activation. polyq72, but not polyq11, stimulated atg5-atg12-atg16 complex-dependent microtubule-associated protein 1 (map1)
+light chain 3 (lc3) conversion from lc3-i to -ii, which plays a key role in autophagy. the eucaryotic translation initiation factor 2 a
+(eif2a) a/a mutation, a knock-in to replace a phosphorylatable ser51 with ala51, and dominant-negative perk inhibited polyq72-
+induced lc3 conversion. polyq72 as well as er stress stimulators upregulated atg12 mrna and proteins via eif2a
+phosphorylation. furthermore, atg5 deﬁciency as well as the eif2a a/a mutation increased the number of cells showing polyq72
+aggregates and polyq72-induced caspase-12 activation. thus, autophagy formation is a cellular defense mechanism against
+polyq72-induced er-stress-mediated cell death by degrading polyq72 aggregates, with perk/eif2a phosphorylation being
+involved in polyq72-induced lc3 conversion.
+cell death and differentiation (2007) 14, 230–239. doi:10.1038/sj.cdd.4401984; published online 23 june 2006
+an autophagic pathway is a cellular defense process involving
+the bulk degradation of cellular contents by autophagosomes/
+lysosomes during starvation or viral infection.1 however, over
+production of autophagic vesicles interferes with normal
+membrane trafﬁcking in the cell and causes autophagic cell
+death with the degradation of cellular organs. these
+autophagic vesicles are also shown during neurodegenera-
+tion such as huntington disease (hd) with expanded
+polyglutamine (polyq) aggregation and parkinson’s disease
+with a-synuclein aggregation.2,3
+the molecular mechanism of autophagy has been inves-
+tigated in yeast and mammalian cells.4,5 the atg5-dependent
+conversion of microtubule-associated protein 1 (map1) light
+chain 3 (lc3), the mammalian homolog of atg8, from lc3-i
+(free form) to lc3-ii (membrane-bound form) is a key step in
+the induction of autophagy in mammalian cells.5,6 prolc3 is
+processed to lc3-i by cleavage at the c-terminal region7
+immediately after synthesis, and then lc3-i is targeted to the
+isolated membrane (lc3-ii), dependent on the atg5–atg12
+complex throughout the course of membrane elongation.5,8
+atg16 homo-oligomers crosslink multiple atg5–atg12 con-
+jugates to form atg5–atg12–atg16 complex.9 during these
+processes, lc3-i and atg12 are activated by atg7.
+recently, an atg7-deﬁcient mouse model showed the
+accumulation of ubiquitinated proteins and abnormal cellular
+organs in the liver.10 these results strongly suggest that
+autophagy as well as the ubiquitin/proteasome system is
+involved in protein degradation in addition to the degradation
+of cellular organs. rapamycin (rap), which stimulates
+autophagy,11 attenuates polyq aggregate formation and
+decreases polyq toxicity in cell and mouse models of
+hd.12,13 this suggests that autophagy seems to contribute
+to the cellular defense system, by degrading malfolded protein
+aggregates, as well as cellular dysfunction. however, little is
+known about the activation of the autophagic pathway in cells
+expressing malfolded protein aggregates.
+the relationship between the intracellular aggregation of
+malfolded proteins and endoplasmic reticulum (er) stress
+has been intensively examined.14 excess amounts of
+unfolded or malfolded proteins in the er are retrotranslocated
+to the cytoplasm and degraded by the er-associated
+ubiquitine/proteasome degradation (erad) system.15 how-
+ever,
+the amount of unfolded and malfolded proteins
+exceeds the capacity of the erad system, the proteins start
+to aggregate in the er and trigger er-stress-mediated cell
+death with caspase-12 activation, a caspase speciﬁcally
+if
+1divisions of development and differentiation, national institute of neuroscience, 4-1-1 ogawahigashi-machi, kodaira, tokyo 187-8502, japan; 2department of
+biochemistry, juntendo university school of medicine, 2-1-1, hongo, bunkyo-ku, tokyo 113-8421, japan; 3asahi glass co., 1150 hasawa-cho, kanagawa-ku,
+yokohama, kanagawa 221-0863, japan; 4department of neuroanatomy, kanazawa university medical school, 13-1, takara-machi, kanazawa, ishikawa 920-8640,
+japan and 5howard hughes medical institute and department of biological chemistry, university of michigan medical center, ann arbor, mi 48109-0650, usa
+*corresponding author: t momoi, divisions of development and differentiation, national institute of neuroscience, 4-1-1 ogawahigashi-machi, kodaira, tokyo 187-
+8502, japan. tel: þ 81-42-341-2711; fax: þ 81-42-346-1754; e-mail: momoi@ncnp.go.jp
+keywords: polyglutamine; er stress; autophagy; eif2a; caspase-12
+abbreviations: bre, brefeldin a; chop, c/ebp homologous protein; dn, dominant-negative; eif2a, eucaryotic translation initiation factor 2 a; er, endoplasmic
+reticulum; erad, er-associated degradation; egfp, green ﬂuorescent protein; hbss, hank’s balanced salt solution; hd, huntington’s disease; lc3, microtubule-
+associated protein 1 (map1) light chain 3; mef, mouse embryonic ﬁbroblast; mtor, mammalian target of rapamycin; pkr, protein kinase regulated by rna; perk,
+pkr-like er kinase; polyq, polyglutamine; thap, thapsigargin; tm, tunicamycin; rap, rapamycin; 3ma, 3-methyladenine
+received 01.12.05; revised 13.4.06; accepted 03.5.06; edited by m piacentini; published online 23.6.06
+localized at er.16,17 the cytoplasmic aggregates of malfolded
+proteins such as polyq also stimulate er stress signals and
+induce er-stress-mediated cell death with caspase-12
+activation in mouse cells, presumably by the accumulation
+of unfolded proteins in the er due to the inhibition of erad
+and retrotranslocation.18,19
+here, we show that rap inhibits the polyq-induced er-
+stress-mediated cell death with caspase-12 activation. these
+results strongly suggest
+the close relationship between
+autophagy formation and er stress signals in cells expressing
+cytoplasmic polyq aggregates.
+in the present study, we
+used the expanded polyglutamine 72 repeat (polyq72) and
+examined the relationship between degradation of intracel-
+lular aggregation of malfolded proteins by autophagy and er
+stress signals.
+results
+rap inhibits polyq-induced er-stress-mediated cell
+death. polyq72 forms cytoplasmic aggregates in c2c5
+cells 48 h after transfection of pegfp (green ﬂuorescent
+protein)-72cag and induces er-stress-mediated cell death
+with caspase-12 activation during aggregation, while
+polyq11 does not form aggregates nor induce the caspase-
+12 activation.18 to clarify the relation between autophagy
+and er-stress-mediated cell death in cells showing polyq72
+aggregates, we examined the effect of rap, a stimulator of
+autophagy, and 3-methyladenine (3ma), an inhibitor of
+autophagy, on polyq72-induced caspase-12 activation and
+dna fragmentation. rap decreased the amount of insoluble
+polyq72 and inhibited caspase-12 activation, about 50%
+decrease of the amount of the active form fragment, and
+dna fragmentation, whereas 3ma increased the amount of
+insoluble polyq72 and stimulated caspase-12 activation,
+about 2.0-fold increase of the amount of the active form
+fragment, and dna fragmentation (figure 1a).
+caspase-12
+antiactivated
+rap decreased the number of cells showing polyq72
+aggregates,
+(anti-m12d341)
+immunoreactivity, and apoptotic feature in cells expressing
+polyq72, whereas 3ma increased their cell numbers (figure
+1b and c). however, 3ma did not stimulate polyq11
+aggregation and did not induce caspase-12 activation and
+dna fragmentation in cells expressing polyq11 (figure 1a–c).
+these results suggest that autophagy formation is involved in
+the inhibition of er-stress-mediated cell death by degrading
+polyq72 aggregates.
+polyq-induced atg5-dependent lc3 conversion. poly-
+q72 induced the conversion of lc3-i (18 kda) to -ii (16 kda),
+a key molecule involved in autophagosome formation, in
+c2c5 cells, but polyq11 did not (figure 2a). deﬁciency of
+atg5, a key molecule in the conversion of lc3-i
+to -ii,
+inhibited the polyq72-induced lc3 conversion (figure 2b).
+during autophagosome formation, lc3-i was converted to
+lc3-ii, which is tightly associated with the autophagosomal
+membrane. lc3-i
+is diffusely stained by anti-lc3 in the
+cytoplasm of cells with no stress, while lc3-ii shows bright
+vesicular and granular anti-lc3 immunostaining with incre-
+ased ﬂuorescence intensity.7,20,21 anti-lc3-positive granules
+polyq-induced lc3 conversion through perk/eif2
+y kouroku et al
+231
+figure 1 effect of rap and 3ma on polyq11 and polyq72 aggregation and
+polyq aggregate-induced er-stress-mediated cell death. (a) effect of rap and 3ma
+on polyq11 and polyq72 aggregate-induced caspase-12 activation and dna
+fragmentation. c2c5 cells were transfected with pegfp-11cag or pegfp-72cag
+and incubated in the presence or absence of rap (10 mg/ml) or 3ma (10 mm),
+and the caspase-12 activation and cell death were examined by immunoblot
+analysis or dna fragmentation. lanes 1, 5; untreated cells, lanes 2, 6; polyq72
+or polyq11 transfected cells, respectively, lanes 3, 7; rap treated with polyq72
+or polyq11 transfected cells, respectively, lanes 4, 8; 3ma treated with polyq72 or
+polyq11 transfected cells, respectively. m, dna size makers. (b) immunoﬂuores-
+cence images of polyq11 or polyq72 aggregation (green) and caspase-12
+activation (red) in the presence or absence of rap or 3ma. arrowheads indicate
+polyq72 aggregates and arrows indicate the cells colocalizing caspase-12
+activation and polyq72 aggregates. scale bar, 25 mm. (c) effects of rap and
+3ma on polyq11 and polyq72 aggregation, polyq11- and polyq72-induced
+caspase-12 activation, and polyq11- and polyq72-induced cell death. percentages
+of cells showing polyq aggregates, caspase-12 activation, or apoptotic feature in
+cells expressing polyq11 or polyq72 were determined in the presence or absence
+of rap or 3ma as described in materials and methods. error bars represent s.e.m.
+of the percentage of cells with polyq aggregates (left panel), cells with caspase-12
+activation (middle panel) or cells showing apoptotic future (right panel) within cells
+expressing polyq
+were detected in the cytoplasm of cells showing polyq72
+aggregates but not observed in cells expressing polyq11
+(figure 2c) and in atg5-deﬁcient mouse embryonic
+cell death and differentiation
+232
+polyq-induced lc3 conversion through perk/eif2
+y kouroku et al
+figure 2 polyq72-induced atg5-dependent lc3 conversion. (a) polyq-induced conversion of lc3-i to -ii. after pegfp-72cag or pegfp-11cag was transfected into
+c2c5 cells, the conversion of lc3-i to -ii was examined in a time-dependent manner by immunoblot analysis. the lower panel indicates the relative amounts of lc3-i (closed
+bars) an lc3-ii (open bar) showing densitometric analyses. error bars represent s.e.m. of the lc3-i and -ii percentage of density. (b) effect of atg5-deﬁciency on polyq72-
+induced lc3 conversion. after pegfp-72cag was transfected into atg5þ /þ and atg5 /  mef cells, the lc3 conversion was examined by immunoblot analysis. the
+lower panel indicates the relative amounts of lc3-i (closed bars) an lc3-ii (open bar) showing densitometric analyses. error bars represent s.e.m. of the lc3-i and -ii
+percentage of density. (c) effect of polyq72 aggregates on the lc3 distribution. lc3 distribution in nontransfected cells, cells expressing egfp-polyq72, and -polyq11 were
+examined. (upper panels) egfp-labeled; green, (middle panels) anti-lc3, rhodamine; red, (lower panels) merged images. anti-lc3 granular immunoreactivity was detected
+in cells expressing polyq72 aggregates. the polyq aggregate colocalized with anti-lc3. (d) effect of atg5-deﬁciency on the lc3 distribution. atg5þ /þ and atg5 /  mef
+cells were transfected with pegfp-72cag (egfp-labeled: green), and immunoﬂuorescence images of lc3 distribution was detected by immunostaining using anti-lc3
+(rhodamine: red; hoechst 33342: blue). arrowheads indicate egfp-polyq72 aggregates. in contrast with atg5þ /þ mef cells, the colocalization is not detected in the
+atg5 /  mef cells. (e) double immunostaining with anti-lc3, anti-c-jun-p, anti-eif2a-p, or anti-m12d341 (rhodamine: red) and anti-huntingtin (em48) (fitc: green) in the
+brain tissues from transgenic r6/2 mice, a mouse model of hd. anti-lc3 granular immunoreactivity and anti-m12d341, anti-c-jun-p, anti-eif2a-p immunoreactivity were
+detected in the hd mouse brain (hdtg) but not in the wt mouse brain. arrows indicate immunoreactive cells. the numbers indicate the population of immunoreactive cells.
+scale bars, 25 mm
+ﬁbroblasts (atg5-/-mef) cells showing polyq72 aggregates
+(figure 2d). thus, granular anti-lc3 immunostaining is
+available for detection of
+the polyq72-induced atg5-
+dependent lc3 conversion leading to autophagy. er stress
+inducers, such as tunicamycin (tm), brefeldin a (bre), and
+thapsigargin (thap), as well as starvation, also induced lc3
+conversion and anti-lc3 granular immunoreactivities (see
+supplemental figure 1a and b).
+polyq aggregates are also detected in the brain of r6/2
+mouse, an hd model mouse expressing a truncated form of
+huntingtin with polyq144.22 we examined the relationship
+between lc3 conversion and er stress in the brain of r6/2
+mouse by immunostaining (figure 2e). anti-lc3 granular
+immunoreactivity was detected in 23.272.8% of cells
+expressing polyq144 aggregates in the brain of r6/2. in
+addition, caspase-12 activation, a sign of er stress cell death,
+was also detected in 5.171.2% cells showing polyq144
+aggregates in the r6/2 mouse brain, but undetectable in the
+wild-type (wt) mouse brain. furthermore, c-jun phosphoryl-
+ation, and eucaryotic translation initiation factor 2 a (eif2a)
+cell death and differentiation
+polyq-induced lc3 conversion through perk/eif2
+y kouroku et al
+233
+responsive signals to er stress, were
+phosphorylation,
+positive in 65.678.3, and 29.577.7% of cells showing polyq
+aggregates, respectively.
+polyq72 aggregates-induced lc3 conversion with
+lysosomal turnover of lc3-ii. a cellular level of lc3-ii
+does not always show the stimulation of lc3 conversion
+because autophagosomal lc3-ii is degraded by lysosomal
+hydrolases after formation of autolysosomes; the inhibition of
+the fusion of autophagosome with lysosome as well as the
+stimulation of lc3 conversion increases the level of lc3-ii.
+lc3-ii signiﬁcantly accumulates in the presence of e64d, a
+membrane-permeable inhibitor of cathepsins b, h, and l,
+and pepstatin a, an inhibitor of cathepsins d and e, under
+starvation conditions.23 lysosomal turnover of lc3-ii reﬂects
+autophagic activity. we examined the effect of e64d and
+pepstatin a on the level of polyq72 and the polyq72-induced
+lc3-ii. the polyq72, but not polyq11, accumulated in the
+insoluble
+also
+accumulated (figure 3a). e64d and pepstatin a increased
+the number of cells showing polyq72 aggregates, however,
+did not stimulate polyq11 aggregation (figure 3b and c). the
+increased level of lc3-ii induced by polyq72 was due to the
+stimulation of the lc3 conversion but not due to the inhibition
+the fusion of autophagosome with lysosome. thus,
+of
+polyq72 and polyq72-induced lc3-ii
+in the autopha-
+gosome were degraded in the autolysosome. the cells
+degradated polyq72 aggregates in the autolysosome by
+promoting the lc3 conversion and increasing the autophagic
+activity.
+polyq72-induced
+fraction
+lc3-ii
+and
+polyq-induced lc3 conversion via perk/eif2a-phos-
+phorylation. lc3-i is targeted to the isolated membrane
+(lc3-ii), dependent on the atg5-atg12-atg16 complex,
+and lc3-i and atg12 are activated by atg7 during
+these process.5,8,9 on the other hand, er stress regulates
+eif2a phosphorylation via activation of protein kinase
+regulated by rna (pkr)-like er kinase (perk).24 we
+examined whether polyq72 induces the upregulation of
+via eif2a
+atg5, atg7, atg12, and atg16 mrnas
+phosphorylation.
+in contrast with atg5, atg7, and atg16
+mrnas, atg12 as well as chop mrna was upregulated by
+polyq72 and their upregulation was inhibited by eif2aa/a
+mutation, a knock-in to replace a phosphorylatable ser51 with
+ala51 (figure 4a).25 moreover,
+thapsgargin induced the
+upregulation of atg12 mrna as well as chop mrna and
+their upregulation was inhibited by eif2aa/a mutation (see
+supplemental figure 1c). we examined the effect of
+dominant-negative (dn)-perk and an eif2aa/a mutation
+on polyq72-induced lc3 conversion (figure 4b and c).
+polyq72-induced lc3 conversion, c/ebp homologous
+protein (chop), and atg12 upregulation were inhibited
+by dn-perk (figure 4b) and the eif2aa/a mutation
+(figure 4c). furthermore, short
+interfering rna (sirna)
+of atg12 inhibited polyq72-induced upregulation of lc3
+inhibiting the eif2a phosphorylation
+conversion without
+(figure
+lc3
+contrast with
+conversion, starvation- and rap-induced lc3 conversion
+were inhibited by the eif2aa/a mutation (see supplemental
+figure 2b and d), but not
+inhibited by dn-perk (see
+polyq-induced
+4d).
+in
+figure 3 effect of e64d and pepstatin a on the level of polyq72 and polyq72-
+induced lc3 conversion. (a) c2c5 cells were transfected with pegfp-11cag or
+pegfp-72cag and incubated in the presence or absence of e64d (10 mg/ml) and
+pepstatin a (10 mg/ml), then lc3 conversion and accumulation of polyq were
+detected by immunoblot analysis. (b) immunoﬂuorescence images of polyq11 or
+polyq72 aggregation (green) in the presence or absence of e64d and pepstatin a.
+arrows indicate egfp-polyq72 aggregates. scale bar, 25 mm. (c) effects of e64d
+and pepstatin a on polyq11 and polyq72 aggregation. percentages of cells
+showing polyq aggregates in cells expressing egfp-polyq11 or egfp-polyq72
+were determined in the presence or absence of e64d and pepstatin a as described
+in materials and methods. error bars represent s.e.m. of the percentage of cells
+with polyq aggregates within cells expressing polyq
+supplemental figure 2a and c). thus, polyq72 induced the
+atg 12-dependent conversion of lc3-i to -ii via er-stress-
+mediated perk/eif2a phosphorylation.
+cell death and differentiation
+234
+polyq-induced lc3 conversion through perk/eif2
+y kouroku et al
+figure 4 involvement of perk/eif2a phosphorylation in polyq72-induced lc3
+conversion. (a) polyq72-induced upregulation of mrna of atg5, 7, 12, and 16 was
+examined by rt-pcr and involvement of eif2a phosphorylation in the up-
+regulation of atg genes. c2c5 cells (left panels), eif2as/s and eif2aa/a mef cells
+(right panels) were transfected with pegfp-72cag and subjected to the rt-pcr
+analysis. (b–c) effect of dn-perk (b) and the eif2a a/a mutation (c) on polyq-
+induced lc3 conversion. c2c5 (wt) cells and dn-perk cells (b) or eif2as/s (wt)
+and eif2aa/a (mutant) mef cells (c) were transfected with pegfp-72cag. lc3
+conversion, eif2a phosphorylation were detected by immunoblot analysis. (d)
+inhibition of lc3 conversion by silencing of atg12. c2c5 cells with silencing of
+control sirna or atg12 were transfected with pegfp-72cag, and lc3 conversion,
+eif2a phosphorylation, expression of atg 12 were detected by immunoblot analysis
+of
+examined
+involvement
+effect of eif2a dephosphorylation and atg5 deﬁciency
+on polyq aggregation and polyq-induced caspase-12
+eif2a
+activation. we
+phosphorylation in polyq72 aggregation and er-stress-
+mediated cell death in cells showing polyq72 aggregates.
+caspase-12 was activated at er of cells showing polyq72
+aggregates and then, activated caspase-12 became
+punctuated in apoptotic
+shown previously
+(figure 5a).18,26 the eif2a a/a mutation increased the
+population of the antiactivated caspase-12-positive cells in
+mef cell expressing polyq72 (3.471.1% of eif2a s/s cells
+and 11.172.0% of eif2a a/a cells) (figure 5a, b) and also
+increased the number of cells showing polyq72 aggregates
+(7.872.0% of eif2a s/s cells and 30.473.5% of eif2a a/a
+cells as
+cell death and differentiation
+the
+inhibited
+polyq72
+cells) (figure 5a and c), and apoptotic feature (4.271.7%
+of eif2a s/s cells and 11.570.9% of eif2a a/a cells)
+(figure 5d). furthermore, the eif2a a/a mutation increased
+the amount of
+insoluble polyq72 and stimulated the
+polyq72-induced caspase-12 activation (figure 5f). thus,
+in addition to polyq72-induced caspase-12 activation, eif2a
+phosphorylation
+aggregation.
+however, the population of cells with caspase-12 activation
+was almost the same, about 30%, in eif2as/s and eif2aa/a
+mef cells showing polyq72 aggregates; caspase-12 was
+activated in 31.673.3% of eif2a s/s cells and 35.37 2.5%
+of eif2a a/a cells showing polyq72 aggregates (figure 5e).
+we examined whether atg5–atg12–atg16 complex-depen-
+dent lc3 conversion inhibits polyq72 aggregate-induced
+caspase-12 activation (figure 6). atg5 deﬁciency increased
+the accumulation of the insoluble form of polyq72 (figure 6a)
+and the number of cells showing polyq72 aggregates
+(9.472.2% of atg5þ /þ cells and 38.673.2% of atg5 / 
+(figure 6b). atg5 deﬁciency also increased the
+cells)
+population of cells with caspase-12 activation (4.970.4%
+of atg5þ /þ cells and 10.970.7% of atg5 /  cells) and
+apoptotic features (3.971.6% of atg5þ /þ cells and
+11.670.9% of atg5 /  cells) in cells expressing polyq72
+(figure 6a, c and d), and increased the amount of insoluble
+polyq72 and stimulated caspase-12 activation although it did
+not affect the amount of eif2a phosphorylation and chop
+upregulation (figure 6f). however, the population of cells
+with caspase-12 was almost the same, about 30%, in the
+atg5þ /þ cells and atg5 /  cells showing polyq72 aggre-
+gates; caspase-12 was activated in 32.972.1% of atg5þ /þ
+cells and 29.274.3% of atg5 /  cells showing polyq72
+aggregates (figure 6e).
+thus, atg5–atg12–atg16 complex-dependent lc3 conver-
+sion inhibited er-stress-mediated cell death with caspase-12
+activation in cells expressing polyq72. these results suggest
+that atg5–atg12–atg16 complex-dependent lc3 conversion,
+leading to autophagy,
+inhibit polyq72-induced er-stress-
+mediated cell death with caspase-12 activation by degrading
+cytoplasmic polyq72 aggregates (figure 7).
+discussion
+the
+inhibited
+biological signiﬁcance of the autophagy formation in
+cells expressing cytoplasmic polyq aggregates. in the
+present study, we showed that atg5–atg12–atg16 complex-
+dependent lc3 conversion, a key factor for autophagy
+formation,
+polyq72-induced er-stress-
+mediated cell death (figures 2, 6). these results suggest
+that atg5–atg12-atg16 complex-dependent lc3 conversion
+targets cytoplasmic aggregates of polyq72. the cytoplasmic
+polyq aggregates inhibit retrotranslocation of proteins from
+the er and degradation of er proteins in the erad system,
+resulting in the accumulation of malfolded proteins in the
+er,19
+death.18
+cell
+cytoplasmic aggregation of polyq72 induces the accumu-
+lation of dysferlin, a protein involving in the ca2 þ
+-dependent
+membrane fusion process,27 in the er, resulting in the er
+stress cell death (fujita et al., submitted elsewhere). thus, it
+is likely that autophagy may inhibit the er-stress-mediated
+induce er-stress-mediated
+and
+including
+cell death by degrading protein aggregates,
+polyq72 aggregates, which cannot be degraded by the
+ubiquitine/proteasome system (figure 7). however, when the
+protein aggregates are not degraded enough, continuous er
+stress may produce excess autophagy, which unselectively
+degrades not only malfolded protein aggregates but also
+intracellular contents and induces severe neurodegeneration
+during excessive autophagic cell death. autophagy may be
+protective in initial stages of polyq-induced er stress,12 but
+may be deleterious in later stages.2
+degradation of malfolded protein aggregates by auto-
+phagy. cytoplasmic polyq aggregates can be degraded.28
+as large aggregates become difﬁcult for proteasomes to
+degrade, involvement of other degradation systems such as
+polyq-induced lc3 conversion through perk/eif2
+y kouroku et al
+235
+autophagy have been suggested to degrade polyq
+aggregates. rap-promoted autophagy prevents polyq-
+induced cell death by
+selectively degrading polyq
+aggregates (figure 1).12,29 these data and our data
+showing colocalization of lc3 staining with polyq72
+aggregates
+that
+autophagy degrades polyq aggregates.
+the possibility
+(figure 2c)
+support
+however, it is not yet clear how autophagy recognizes
+malfolded protein aggregates. atg7-deﬁcient mice show
+accumulation of ubiquitinated proteins in the liver,10 strongly
+suggesting that autophagy as well as the ubiquitin/protea-
+some system is involved in the degradation of ubiquitinated
+proteins. polyq aggregates show antiubiquitin immunoreac-
+tivity30 and that atg5 deﬁciency stimulates the accumulation
+of polyq72 aggregates. autophagy may preferentially
+degrade aggregates of ubiquitinated proteins rather than
+soluble nonubiquitinated proteins. the ubiquitination state
+and size of
+the protein aggregate may be a possible
+determinant for selective protein degradation by autophagy.
+involvement of eif2a phosphorylation in lc3 conver-
+sion. thus, lc3 conversion leading to autophagy is a
+cellular defense mechanism against polyq72-induced
+er-stress-mediated cell death. we examined the polyq72-
+induced er stress response signal stimulating lc3
+conversion. er stress stimulators, including thap as well
+as polyq72,
+induced lc3 conversion (see supplemental
+figure 1) and eif2a phosphorylation. the polyq72-induced
+lc3 conversion was inhibited in cells containing the eif2a a/
+a mutation and dn-perk (figure 4b and c), strongly
+the perk/eif2a pathway, an er stress
+suggesting that
+figure 5 involvement of eif2a phosphorylation in polyq72 aggregation and
+polyq72-induced caspase-12 activation. (a) the effects of eif2a dephosphorylation
+on polyq72 aggregation and polyq72-induced caspase-12 activation. eif2as/s
+(wt) mef cells and eif2aa/a (mutant) mef cells were transfected with pegfp-
+72cag (egfp-labeled: green), and immunoﬂuorescence images of polyq72
+aggregation (green) and caspase-12 activation (red) (upper panels) were captured.
+arrowheads indicate egfp-polyq72 aggregates and arrows indicate the cells
+colocalizing caspase-12 activation and egfp-polyq72 aggregates. caspase-12
+activation (lower panels) was detected by immunostaining using anti-m12d341
+(rhodamine:
+red; hoechst 33342: blue). arrowheads indicate egfp-polyq72
+aggregates. eif2aa/a(mutant) mef cells showed the apoptoti feautures with cell
+shrinkage and caspase-12 activation, but eif2as/s (wt) mef cells did not. scale
+bars, 25 mm. (b) percentages of cells showing caspase-12 activation in cells
+expressing egfp-polyq72. error bars represent s.e.m. of the percentage of cells
+with caspase-12 activation within cells expressing polyq72. (c) percentages of cells
+showing polyq aggregates in cells expressing egfp-polyq72. error bars represent
+s.e.m. of the percentage of cells with polyq aggregates within cells expressing
+polyq72. (d) percentages of cells showing apoptotic feature in cells expressing
+egfp-polyq72. error bars represent s.e.m. of the percentage of cells showing
+apoptotic feature within cells expressing polyq72. (e) percentages of cells showing
+caspase-12 activation in cells expressing egfp-polyq72 aggregate. error bars
+represent s.e.m. of the percentage of cells with caspase-12 activation within cells
+expressing polyq72 aggregate. the percentages were determined by counting
+100–200 cells expressing egfp-polyq72 at 48 h after transfection. the values are
+averages of the percentages of the number of cells obtained in three experiments.
+(f) the effects of eif2a dephosphorylation on polyq72 aggregate-induced caspase-
+12 activation. eif2as/s (wt) mef cells and eif2aa/a (mutant) mef cells were
+transfected with pegfp-72cag, and the caspase-12 activation were examined by
+immunoblot analysis
+cell death and differentiation
+236
+polyq-induced lc3 conversion through perk/eif2
+y kouroku et al
+response signal, plays an essential role in polyq72-induced
+lc3 conversion.
+the relationship between autophagy and eif2a phosphory-
+lation has been shown during starvation-induced autophagy
+in saccharomyces cerevisiae and during starvation- and
+virus-induced autophagy in mammalian cells.31 in yeast,
+starvation results in the accumulation of uncharged trnas to
+recently,
+activate gcn2, the sole eif2a kinase. in mammals, there
+are at least four eif2a kinases including gcn2, pkr, perk,
+and hri, which are activated by amino acid starvation, viral
+infection, er stress, and heme depletion, respectively.32
+virus induces autophagy via activation of pkr. thus, it is
+possible that various stress conditions, including er stress,
+that activate eif2a kinases may have an ability to induce
+autophagy in mammalian cells by stimulating lc3 conversion.
+it has been postulated the possibility that
+inhibition of mtor, a mammalian target of rap, induces
+autophagy and reduces the toxicity of polyq expansions.13
+rap fails to induce eif2a phosphorylation in yeast with gcn2
+defective in trna binding.33 in contrast with polyq72-induced
+lc3 conversion, rap- as well as starvation-induced lc3
+conversion was not mediated by perk/eif2a pathway (see
+supplemental figure 2). inhibition of mtor-mediated eif2a
+phosphorylation may be an alternative pathway by which
+polyq aggregates induce autophagy. rap inhibits the er-
+stress-mediated cell death (unpublished observation) but
+stimulates the starvation-induced autophagic cell death.34
+thus, eif2a phosphorylation does not inhibit the all types of
+stress-induced cell death.
+the possible molecular mechanism of eif2a phos-
+phorylation inducing lc3 conversion. the molecular
+mechanism, by which eif2a phosphorylation regulates lc3
+conversion is not yet clear. eif2a phosphorylation blocks the
+binding of initiator met-trna to the ribosome by inhibiting the
+turnover of eif2b and represses translation of most mrnas.
+however, atf4 mrna, a member of the camp response-
+is selectively translated
+element-binding (creb)
+under
+its small upstream
+open-reading frame (uorf) within the 50 untranslated
+these conditions because of
+family,
+figure 6 effect of atg5-deﬁciency on polyq72 aggregation, and polyq72- or
+thap-induced caspase-12 activation. (a) effect of atg5-deﬁciency on polyq72
+aggregation and polyq72-induced caspase-12 activation. atg5þ /þ mef cells
+and atg5 /  mef cells were transfected with pegfp-72cag (egfp-labeled:
+green), and immunoﬂuorescence images of polyq72 aggregation (green) and
+caspase-12 activation (red) (upper panels) were captured. arrowheads indicate
+egfp-polyq72 aggregates and arrows indicate the cells colocalizing caspase-12
+activation and egfp-polyq72 aggregates. caspase-12 activation (lower panels)
+was detected by immunostaining using anti-m12d341 (rhodamine: red; hoechst
+33342: blue). arrowheads indicate egfp-polyq72 aggregates. atg5 /  mef cells
+showed the apoptotic features with cell shrinkage and caspase-12 activation, but
+atg5þ /þ mef cells did not. scale bars, 25 mm. (b) percentages of cells showing
+polyq aggregates in cells expressing egfp-polyq72. error bars represent s.e.m.
+of the percentage of cells with polyq aggregates within cells expressing polyq72.
+(c) percentages of cells showing caspase-12 activation in cells expressing egfp-
+polyq72. error bars represent s.e.m. of the percentage of cells with caspase-12
+activation within cells expressing polyq72. (d) percentages of cells showing
+apoptotic feature in cells expressing egfp-polyq72. error bars represent s.e.m. of
+the percentage of cells showing apoptotic feature within cells expressing polyq72.
+(e) percentages of cells showing caspase-12 activation in cells expressing egfp-
+polyq72 aggregate. error bars represent s.e.m. of the percentage of cells with
+caspase-12 activation within cells expressing polyq72 aggregate. the percentages
+were determined by counting 100–200 cells expressing egfp-polyq72 at 48 h after
+transfection. the values are averages of the percentages of the number of cells
+obtained in three experiments. (f) the effects of atg5-deﬁciency on polyq72
+aggregate-induced caspase-12 activation. atg5þ /þ mef cells and atg5 / 
+mef cells were transfected with pegfp-72cag, and the caspase-12 activation and
+chop upregulation, eif2a phosphorylation were examined by immunoblot analysis
+cell death and differentiation
+polyq-induced lc3 conversion through perk/eif2
+y kouroku et al
+237
+a/a mutation increased the number of cells showing polyq72
+aggregates, resulting in increase of the number of cells with
+caspase-12 activation (figure 5), but did not increase the
+population of cells with caspase-12 activation in cells showing
+that eif2a
+polyq72 aggregates. these results suggest
+phosphorylation preferentially stimulates the lc3 conversion
+and the degradation of polyq72 aggregates to inhibit the
+polyq72 aggregates-induced cell death rather
+than the
+pathway inhibiting the caspase-12 activation.
+very recently, the accumulated mutant a1-antitrypsin z
+inhibitors in the er has been shown to be degraded by
+autophagy.41 we have also found that atg5–atg12-atg16
+complex-dependent lc3 conversion inhibits the accumulation
+of
+the mutated dysferlin in er (fujita et al., submitted
+elsewhere). these results suggest the possibility that auto-
+phagye/lysosome as well as ubiquitine/proteasome is involved
+not only in the degradation of cytoplasmic protein aggregates
+such as polyq aggregates but also in the degradation of the
+misfolded and unfolded er protein in the er as one of the
+erad degradation system to inhibit the er-stress-mediated
+cell death. this possibility remains to be studied.
+recently,
+it has been shown that
+interaction between
+antiapoptotic protein bcl-2 and the autophagy protein,
+beclin-1, homolog of atg6, represents a potentially important
+point of convergence of
+the apoptotic and autophagic
+machinery.42–44 dissociated beclin-1 from bcl-2 mediates
+the localization of other autophagy proteins to the preauto-
+phagosomal membrane and participates in autophagosome
+formation.45,46 thap increased the level of beclin-1 protein
+and its dissociation from bcl-2 (unpublished observation).
+er-stress-induced dissociation of the beclin-1 and bcl-2 may
+also play a role in the regulation of the er-stress-mediated
+apoptotic cell death and autophagic formation.
+conclusion
+the scheme in figure 7 shows the possible molecular
+mechanism of polyq72- and er-stress-induced lc3 conver-
+sion, lc3-i to -ii, via activation of the perk/eif2a pathway.
+atg5–atg12–atg16 complex-dependent lc3 conversion,
+the perk/eif2a
+which is stimulated by the activation of
+pathway in cells showing polyq72 aggregates, is the cellular
+defense system that inhibits er-stress-mediated cell death by
+degrading polyq72 aggregates. isolated membrane from the
+er membrane may be elongated into an autophagosome by
+lc3-ii activated by eif2a phosphorylation.
+materials and methods
+cell culture. c2c5 cells were p19 ec cells constitutively expressing c-jun.47
+mefs from atg5 /  and atg5þ /þ mouse embryos and c2c5 cells were
+cultured in a-minimum essential medium (a-mem; sigma, st louis, mo, usa)
+supplemented with 10% fetal calf serum (fcs). mefs from eif2as/s (wt) and
+eif2aa/a (mutant) knock-in mouse embryos were cultured in dmem (gibco,
+grand island, ny, usa) supplemented with 10% fcs, 0.1 mm nonessential amino
+acids solution (gibco), 1 amino acids solution (gibco) and 100 u/ml penicillin/
+streptomycin (gibco) at 371c in a humidiﬁed atmosphere of 5% co2.25
+figure 7 involvement of eif2a phosphorylation in malfolded protein polyq72-
+induced lc3 conversion. polyq72 aggregates induce er stress by inhibiting the
+retrotranslocation and/or erad activity.19 the accumulation of malfolded proteins in
+the er induces perk/eif2a phosphorylation, which induces lc3 conversion via
+upregulation of atg12 and probably activation of atg5–atg12–atg16 complex and
+stimulates autophagy degrading the polyq72 aggregates. when lc3 conversion is
+not sufﬁcient to reduce the polyq72 aggregate, cells may undergo er-stress-
+mediated cell death with caspase-12 activation18
+region, called ‘uorf bypath scanning system’.35,36 atf4
+upregulates the transcription of downstream genes, including
+chop. atg12, a component of atg5–atg12–atg16 complex,
+as well as chop mrna was selectively upregulated by
+polyq72 via eif2a phosphorylation (figure 4a). thus, one
+the eif2a phosphorylation-
+possible explanation is that
+dependent selective translation of transcription factors may
+increase the upregulation of atg12,
+resulting in the
+stimulation of
+the atg5–atg12–atg16 complex formation
+followed by the promotion of the conversion of lc3-i to -ii.
+eif2a phosphorylation-induced autophagy and inhibi-
+tion of er-stress-mediated cell death. phosphory-
+lation of eif2a inhibits er-stress-induced caspase-12
+activation and er-stress-mediated cells death.37,38 cells
+with phosphorylated eif2a are resistant to oxidative stress39
+and inhibition of eif2a dephosphorylation promotes survival
+of stressed cells.40 atg5 deﬁciency did not
+inhibit thap-
+induced caspase-12 activation (supplemental figure 3).
+moreover, rap inhibits the thap-induced caspase-12
+activation
+(unpublished
+observation), suggesting that eif2a phosphorylation may
+inhibits thap-induced cell death via preferentially inhibiting
+the caspase-12 activation. thus, it may be possible that rap
+inhibits the polyq72-induced cell death by both pathways;
+stimulation of autophagy and inhibition of caspase-12
+activation.
+phosphorylation
+via
+eif2a
+however, atg5 deﬁciency increased the population of cells
+with caspase-12 activation and apoptotic features in cells
+the eif2a
+expressing polyq72 although it did not affect
+phosphorylation and chop upregulation (figure 6). eif2a
+plasmid construction and establishment of c2c5 cell
+lines. pegfp-72cag and pegfp-11cag were prepared as described
+previously.48 using restriction enzyme digestion and ligation, we subcloned the
+myc-tagged perk(k618a) (dn-perk)24 into the pcdna4/to/myc-his expression
+cell death and differentiation
+238
+polyq-induced lc3 conversion through perk/eif2
+y kouroku et al
+(invitrogen, carlsbad, ca, usa). pcdna4/to/myc-his-dn-perk was
+vector
+transfected into c2c5 cells using the calcium phosphate method,49 and clones
+expressing dn-perk were selected by incubation with 50 mg/ml of zeocine and
+25 mg/ml blastin (invitrogen). cells were cultured in a-mem supplemented with 10%
+fcs with 5 mg/ml tetracycline at 371c in a humidiﬁed atmosphere of 5% co2.
+vesicular anti-lc3 staining were counted as cells showing lc3 conversion.21
+percentages of cells showing caspase-12 activation, c-jun phosphorylation, eif2a
+phosphorylation, and lc3 conversion were determined by counting 100–200 cells.
+the values are averages of the percentages of the number of cells obtained in three
+experiments.
+sequences
+used were
+as
+sirna. sirnas were designed and created at nippon egt co. (toyama, japan).
+50-
+the
+ccucggaacaguuguuuau-30. cells were transfected with 10 mg of sirna
+using lipofectamine per the manufacturer’s instructions. in the case of transfectio
+with complementary dna and sirna, dna were transfected and after 12 h sirnas
+were introduced.
+follows: mouse atg
+sirna,
+12
+isolation of fragmented dna. dna isolation was performed according to
+the method of prigent et al.50
+immunoblot analysis. er stress signals were examined by immunoblot
+analysis using anti-m12d341, antisera against the cleavage site of mouse caspase-
+12 at d341,26 anti-chop (santa cruz biotechnology inc., santa cruz, ca, usa),
+antitubulin (sigma), anti-gfp (boehringer mannheim, indianapolis, in, usa), anti-
+eif2a-p (antisera against phosphorylated serine at position 51 of eif2a; cell
+signaling technology, beverly, ma, usa), anti-eif2a (cell signaling technology),
+and anti-myc (santa cruz biotechnology inc.), anti-atg12 (zymed laboratories,
+south san francisco, ca, usa). lc3 conversion from i to ii was examined by
+immunoblot analysis using anti-lc3.20,23,51
+cells were treated with hank’s balanced salt solution (hbss) or incubated with
+bre (2 mg/ml), tm (2 mg/ml), thap (2 mm), rap (10 mg/ml) (sigma), and lysed with
+phosphate buffered saline (pbs) containing 1% triton x-100. pegfp-72cag and
+pegfp-11cag (5 mg) were transfected using the calcium phosphate method.
+sirna transfected cells were transfected with pegfp-72cag. cells were incubated
+for the indicated period in the presence or absence of rap (10 mg/ml), 3ma
+(10 mm), or e64d (10 mg/ml) (calbiochem, la jolla, ca, usa) and pepstatin a
+(10 mg/ml)
+then lysed with pbs
+containing 1% triton x-100.
+after centrifugation at 10 000 g for 10 min, the cell extracts (50 mg protein)
+were subjected to sds polyacrylamide gel (12%) electrophoresis and immunoblot
+analysis as described previously.18 insoluble fraction were lysed into sds sample
+buffer and subjected to sds polyacrylamide gel
+(12%) electrophoresis.
+quantiﬁcation of the images was performed using nih image (dr. w raeband
+national institute of health, bethesda, md, usa) programs.
+(icn biochemicals inc., aurora, oh, usa)
+immunostaining. cells were transfected with pegfp-72cag or pegfp-
+11cag and incubated in the presence or absence of rap (10 mg/ml), or 3ma
+(10 mm). after the cells were ﬁxed with 4% paraformaldehyde (pfa) in pbs at the
+indicated time, they were incubated with anti-lc3 or anti-m12d341 for 24 h at
+41c. they were then incubated with rhodamine-labeled goat anti-rabbit (leinco
+technologies inc., st louis, mo, usa) for 1 h at 371c, and the nuclei were labeled
+with hoechst 33342 (molecular probes, eugene, or, usa) and viewed with a
+confocal
+laser-scanning microscope (csu-10, yokogawa, tokyo, japan).
+percentages of cells showing polyq aggregates, caspase-12 activation, or
+apoptotic future were determined by counting 100–200 cells expressing egfp-
+polyq72 at 48 h after transfection in the presence or absence of rap, 3ma, e64d
+and pepstatin a. the values are averages of the percentages of the number of cells
+obtained in three experiments.
+12-week-old r6/2 transgenic mice22 and b6cbaf1/j wt mice were obtained
+from jackson lab. they were anesthetized with diethyl ether and perfused
+intracardially with 4% pfa in pbs. the brain was removed and incubated overnight
+in 4% pfa in pbs at 41c and then soaked in 30% sucrose in pbs at 41c overnight
+and embedded in optimal cutting temperature (oct) compound (sakura finetec,
+tokyo, japan) before being frozen. frozen sections of brain were cut on a cryostat
+and attached to slides coated with vectabond reagent (vector laboratories,
+burlingame, ca, usa) and double stained with antihuntingtin (em48) (chemicon
+international, temecula, ca, usa) and with anti-eif2a-p, anti-c-jun-p (antisera
+against phosphorylated serine at position 63 of c-jun; cell signaling technology),
+anti-lc3 or anti-m12d341. antihuntingtin reactivity was detected by the incubation
+with fitc-labeled goat anti-mouse immunoglobulin (leinco technologies inc.) and
+anti-eif2a-p, anti-c-jun-p, anti-lc3 or anti-m12d341 reactivity was detected by he
+incubation with rhodamine-labeled goat anti-rabbit immunoglobulin for 1 h at 371c
+to be viewed with a confocal laser scanning microscope. cells showing punctuate
+cell death and differentiation
+rt-pcr. complementary dnas were synthesized from total rna (1 mg) of cells
+treated with thap (2 mm) or cells transfected with polyq72 using reverse
+transcriptase (stratagene, la jolla, ca, usa). cdnas were subjected to pcr as
+described in the manual from perkin-elmer (branchburg, nj, usa) using primers of
+forward primer, 50-ggaagaatgacagatgac-30; and reverse
+mouse atg5;
+primer, 50-ctttcaatctgttggctg-30, atg7; forward primer, 50-atgggggg
+accctggactg-30; and reverse primer, 50-cagaacagtgtcgtcatc-30, atg12;
+forward primer, 50-atgtcggaa gattcagag-30; and reverse primer, 50-attt
+ctggctcatcccca-30, atg16; forward primer, 50-gcgttcgaggagatcatt-
+30; and reverse primer, 50-ttcctt tgctgcttctgc-30, chop; forward primer,
+50-cagaaggaagtgcatctt ca-30; and reverse primer, 50-tacacttccgg
+agagacaga-30 and g3pdh (toyobo, osaka, japan). the pcr fragments of the
+atg genes were ampliﬁed as follows: 1 cycle at 951c for 2 min, 25 cycles at 951c for
+1 min and 601c for 1 min, and 1 cycle at 601c for 7 min. the rt-pcr products were
+electrophoresed on 2% nusieve agarose gels (fm bioproducts, rockland, me,
+usa).
+acknowledgements. we thank dr. david ron (new york university school of
+medicine) for kindly providing the myc-tagged perk (k618a), and thank dr. noboru
+mizushima (tokyo metropolitan institute of medical science) for kindly providing the
+atg5 /  mef cells. this work was supported in part by research grants 14a-3 for
+nervous and mental disorders, research on brain science from the ministry of
+health and welfare of japan and the human science foundation and nih grant
+dk42394 (rjk). e.f. and y.k. are postdoctoral fellows of the jsps fellows.
+1. levine b. eating oneself and uninvited guests: autophagy-related pathways in cellular
+defense. cell 2005; 120: 159–162.
+2. kegel kb, kim m, sapp e, mcintyre c, castano jg, aronin n et al. huntingtin expression
+stimulates endosomal-lysosomal activity, endosome tubulation, and autophagy. j neurosci
+2000; 20: 7268–7278.
+3. stefanis l, larsen ke, rideout hj, sulzer d, greene la. expression of a53 t mutant but
+not wild-type alpha-synuclein in pc12 cells induces alterations of the ubiquitin-dependent
+degradation system, loss of dopamine release, and autophagic cell death. j neurosci
+2001; 21: 9549–9560.
+4. ohsumi y. molecular dissection of autophagy: two ubiquitin-like systems. nat rev mol cell
+biol 2001; 2: 211–216.
+5. mizushima n, ohsumi y, yoshimori t. autophagosome formation in mammalian cells. cell
+struct funct 2002; 27: 421–429.
+6. kuma a, hatano m, matsui m, yamamoto a, nakaya h, yoshimori t et al. the role of
+autophagy during the early neonatal starvation period. nature 2004; 432: 1032–1036.
+7. kabeya y, mizushima n, ueno t, yamamoto a, kirisako t, noda t et al. lc3, a
+mammalian homologue of yeast apg8p, is localized in autophagosome membranes after
+processing. embo j 2000; 19: 5720–5728.
+8. mizushima n, yamamoto a, hatano m, kobayashi y, kabeya y, suzuki k et al. dissection
+of autophagosome formation using apg5-deﬁcient mouse embryonic stem cells. j cell biol
+2001; 152: 657–668.
+9. klionsky dj. the molecular machinery of autophagy: unanswered questions. j cell sci
+2005; 118: 7–18.
+10. komatsu m, waguri s, ueno t, iwata j, murata s, tanida i et al. impairment of starvation-
+induced and constitutive autophagy in atg7-deﬁcient mice. j cell biol 2005; 169: 425–434.
+11. schmelzle t, hall mn. tor, a central controller of cell growth. cell 2000; 103: 253–262.
+12. ravikumar b, duden r, rubinsztein dc. aggregate-prone proteins with polyglutamine
+and polyalanine expansions are degraded by autophagy. hum mol genet 2002; 11:
+1107–1117.
+13. ravikumar b, vacher c, berger z, davies je, luo s, oroz lg et al. inhibition of mtor
+induces autophagy and reduces toxicity of polyglutamine expansions in ﬂy and mouse
+models of huntington disease. nat genet 2004; 36: 585–595.
+14. kopito rr, ron d. conformational disease. nat cell biol 2000; 2: e207–e209.
+15. sitia r, braakman i. quality control in the endoplasmic reticulum protein factory. nature
+2003; 426: 891–894.
+16. nakagawa t, zhu h, morishima n, li e, xu j, yankner ba et al. caspase-12 mediates
+endoplasmic-reticulum-speciﬁc apoptosis and cytotoxicity by amyloid-beta. nature 2000;
+403: 98–103.
+17. momoi t. caspases involved in er stress-mediated cell death. j chem neuroanat 2004;
+28: 101–105.
+polyq-induced lc3 conversion through perk/eif2
+y kouroku et al
+239
+18. kouroku y, fujita e, jimbo a, kikuchi t, yamagata t, momoi my et al. polyglutamine
+aggregates stimulate er stress signals and caspase-12 activation. hum mol genet 2002;
+11: 1505–1515.
+19. nishitoh h, matsuzawa a, tobiume k, saegusa k, takeda k, inoue k et al. ask1 is
+for endoplasmic reticulum stress-induced neuronal cell death triggered by
+essential
+expanded polyglutamine repeats. genes dev 2002; 16: 1345–1355.
+20. jager s, bucci c, tanida i, ueno t, kominami e, saftig p et al. role for rab7 in maturation
+of late autophagic vacuoles. j cell sci 2004; 117: 4837–4848.
+21. mizushima n, yamamoto a, matsui m, yoshimori t, ohsumi y.
+in vivo analysis of
+autophagy in response to nutrient starvation using transgenic mice expressing a
+ﬂuorescent autophagosome marker. mol biol cell 2004; 15: 1101–1111.
+22. mangiarini l, sathasivam k, seller m, cozens b, harper a, hetherington c et al. exon 1 of
+the hd gene with an expanded cag repeat is sufﬁcient to cause a progressive neurological
+phenotype in transgenic mice. cell 1997; 87: 493–506.
+23. tanida i, nubenatsy-ikeguchi n, uneno t, kominami e. lysosomal
+turnover, but
+not a cellular level, of endogenous lc3 is a marker for autophagy. autophagy 2005; 1:
+84–91.
+24. harding hp, zhang y, ron d. protein translation and folding are coupled by an
+endoplasmic-reticulum-resident kinase. nature 1999; 397: 271–274.
+25. scheuner d, song b, mcewen e, liu c, laybutt r, gillespie p et al. translational control is
+required for the unfolded protein response and in vivo glucose homeostasis. mol cell 2001;
+7: 1165–1176.
+26. fujita e, kouroku y, jimbo a, isoai a, maruyama k, momoi t. caspase-12 processing and
+fragment translocation into nuclei of tunicamycin-treated cells. cell death differ 2002; 9:
+1108–1114.
+35. harding hp, novoa i, zhang y, zeng h, wek r, schapira m et al. regulated translation
+initiation controls stress-induced gene expression in mammalian cells. mol cell 2000; 6:
+1099–1108.
+36. oyadomari s, mori m. roles of chop/gadd153 in endoplasmic reticulum stress. cell
+death differ 2004; 11: 381–389.
+37. harding hp, zhang y, bertolotti a, zeng h, ron d. perk is essential for translational
+regulation and cell survival during the unfolded protein response. mol cell 2000; 5:
+897–904.
+38. boyce m, bryant kf, jousse c, long k, harding hp, scheuner d et al. a selective inhibitor
+of eif2alpha dephosphorylation protects cells from er stress. science 2005; 307:
+935–939.
+39. tan s, somia n, maher p, schubert d. regulation of antioxidant metabolism by translation
+initiation factor 2alpha. j cell biol 2001; 152: 997–1006.
+40. jousse c, oyadomari s, novoa i, lu p, zhang y, harding hp et al. inhibition of a
+constitutive translation initiation factor 2alpha phosphatase, crep, promotes survival of
+stressed cells. j cell biol 2003; 163: 767–775.
+41. kamimoto t, shoji s, hidvegi t, mizushima n, umebayashi k, perlmutter dh et al.
+intracellular inclusions containing mutant alpha1-antitrypsin z are propagated in the
+absence of autophagic activity. j biol chem 2006; 281: 4467–4476.
+42. yu l, alva a, su h, freundt pde, welsh s, baehrecke eh et al. regulation of an atg7-
+beclin 1 program of autophagic cell death by caspase-8. science 2004; 304: 1500–1502.
+43. shimizu s, kanaseki t, mizushima n, mizuta t, arakawa-kobayashi s, thompson cb
+et al. role of bcl-2 family proteins in a non-apoptotic programmed cell death dependent on
+autophagy genes. nat cell biol 2004; 6: 1221–1228.
+44. pattingre s, tassa a, qu x, garuti r, liang h, schneider md et al. bcl-2 antiapoptotic
+27. bansal d, campbell kp. dysferlin and the plasma membrane repair in muscular dystrophy.
+proteins inhibit beclin 1-dependent autophagy. cell 2005; 122: 927–939.
+trends cell biol 2004; 14: 206–213.
+28. yamamoto a, lucas jj, hen r. reversal of neuropathology and motor dysfunction in a
+conditional model of huntington’s disease. cell 2000; 101: 57–66.
+29. qin zh, wang y, kegel kb, kazantsev a, apostol bl, thompson lm et al. autophagy
+regulates the processing of amino terminal huntingtin fragments. hum mol genet 2003; 12:
+3231–3244.
+30. senut mc, suhr st, kaspar b, gage fh. intraneuronal aggregate formation and cell death
+after viral expression of expanded polyglutamine tracts in the adult rat brain. j neurosci
+2000; 20: 219–229.
+31. talloczy z, jiang w, virgin hw, leib da, scheuner d, kaufman rj et al. regulation
+of starvation- and virus-induced autophagy by the eif2alpha kinase signaling pathway.
+proc natl acad sci usa 2002; 99: 190–195.
+45. liang xh, kleeman lk, jiang hh, gordon g, goldman je, berry g et al. protection against
+fatal sindbis virus encephalitis by beclin, a novel bcl-2-interacting protein. j virol 1998; 72:
+8586–8596.
+46. kihara a, kabeya y, ohsumi y, yoshimori t. beclin-phosphatidylinositol 3-kinase complex
+functions at the trans-golgi network. embo rep 2001; 2: 330–335.
+47. odaka a, tsukahara t, momoi m, momoi t. c-jun inhibited the alternative splicing of
+neuron-speciﬁc amyloid precursor protein, but stimulated the non-neuron type one in p19
+ec cells. biochem biophys res commun 1995; 206: 821–828.
+48. kouroku y, fujita e, urase k, tsuru t, setsuie r, kikuchi t et al. caspases that are
+activated during generation of nuclear polyglutamine aggregates are necessary for dna
+fragmentation but not sufﬁcient for cell death. j neurosci res 2000; 62: 547–556.
+49. graham fl, van der eb aj. a new technique for the assay of infectivity of human
+32. dever te. gene-speciﬁc regulation by general
+translation factors. cell 2002; 108:
+adenovirus 5 dna. virology 1973; 52: 456–467.
+545–556.
+33. kubota h, obata t, ota k, sasaki t, ito t. rapamycin-induced translational derepression
+of gcn4 mrna involves a novel mechanism for activation of the eif2 alpha kinase gcn2.
+j biol chem 2003; 278: 20457–20460.
+34. uchiyama y. autophagic cell death and its execution by lysosomal cathepsins. arch histol
+cytol 2001; 64: 233–246.
+50. prigent p, blanpied c, aten j, hirsch f. a safe and rapid method for analyzing apoptosis-
+induced fragmentation of dna extracted from tissues or cultured cells. j immunol methods
+1993; 160: 139–140.
+51. nemoto t, tanida i, tanida-miyake e, minematsu-ikeguchi n, yokota m, ohsumi m et al.
+the mouse apg10 homologue, an e2-like enzyme for apg12p conjugation, facilitates
+map-lc3 modiﬁcation. j biol chem 2003; 278: 39517–39526.
+supplementary information accompanies the paper on cell death and differentiation website (http://www.nature.com/cdd)
+cell death and differentiation

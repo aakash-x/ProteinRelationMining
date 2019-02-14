@@ -1,0 +1,1286 @@
+the journal of biological chemistry vol. 282, no. 8, pp. 5736 –5748, february 23, 2007
+© 2007 by the american society for biochemistry and molecular biology, inc. printed in the u.s.a.
+␣-synuclein stimulates differentiation of osteosarcoma cells
+relevance to down-regulation of proteasome activity*
+received for publication, june 28, 2006, and in revised form, december 15, 2006 published, jbc papers in press, december 22, 2006, doi 10.1074/jbc.m606175200
+masayo fujita‡, shuei sugama‡, masaaki nakai‡, takato takenouchi§, jianshe wei‡, tomohiko urano¶,
+satoshi inoue¶, and makoto hashimoto‡1
+from the ‡laboratory for chemistry and metabolism, tokyo metropolitan institute for neuroscience, fuchu, tokyo 183-8526,
+japan, §transgenic animal research center, national institute of agrobiological sciences, tsukuba, ibaraki 305-8634, japan,
+and ¶department of geriatrics and gerontology, school of medicine, university of tokyo, tokyo 113-8655, japan
+because a limited study previously showed that ␣-synuclein
+(␣-syn), the major pathogenic protein for parkinson disease,
+was expressed in differentiating brain tumors as well as vari-
+ous peripheral cancers, the main objective of the present
+study was to determine whether ␣-syn might be involved in
+the regulation of tumor differentiation. for this purpose,
+␣-syn and its non-amyloidogenic homologue ␤-syn were sta-
+bly transfected to human osteosarcoma mg63 cell line. com-
+pared with ␤-syn-overexpressing and vector-transfected
+cells, ␣-syn-overexpressing cells exhibited distinct features
+of differentiated osteoblastic phenotype, as shown by up-reg-
+ulation of alkaline phosphatase and osteocalcin as well as
+inductive matrix mineralization. further studies revealed
+that proteasome activity was significantly decreased in
+␣-syn-overexpressing cells compared with other cell types,
+consistent with the fact that proteasome inhibitors stimulate
+differentiation of various osteoblastic cells. in ␣-syn-overex-
+pressing cells, protein kinase c (pkc) activity was signifi-
+cantly decreased, and reactivation of pkc by phorbol ester
+significantly restored the proteasome activity and abrogated
+cellular differentiation. moreover, activity of lysosome was
+up-regulated in ␣-syn-overexpressing cells, and treatment of
+these cells with autophagy-lysosomal inhibitors resulted in a
+decrease of proteasome activity associated with up-regula-
+tion of ␣-syn expression, leading to enhance cellular differ-
+entiation. taken together, these results suggest that the stim-
+ulatory effect of ␣-syn on tumor differentiation may be
+attributed to down-regulation of proteasome, which is fur-
+ther modulated by alterations of various factors, such as pro-
+tein kinase c signaling pathway and a autophagy-lysosomal
+degradation system. thus, the mechanism of ␣-syn regula-
+tion of tumor differentiation and neuropathological effects of
+␣-syn may considerably overlap with each other.
+* this work was supported in part by a grant-in-aid for science research
+from the ministry of education, culture, sports, science, and technol-
+ogy, japan and a project grant from tokyo metropolitan organization.
+the costs of publication of this article were defrayed in part by the
+payment of page charges. this article must therefore be hereby marked
+“advertisement” in accordance with 18 u.s.c. section 1734 solely to indi-
+cate this fact.
+1 to whom correspondence should be addressed: laboratory for chemistry
+and metabolism, tokyo metropolitan institute for neuroscience, 2– 6
+musashidai, fuchu, tokyo 183-8526, japan. tel.: 81-42-325-3881; fax:
+81-42-321-8678; e-mail address: mhashimoto@tmin.ac.jp.
+␣-synuclein (␣-syn)2 is a presynaptic protein that belongs to
+the syn family of peptides with two other members, ␤- and
+␥-syn (1, 2). these proteins are characterized by a native
+unfolded structure with a highly conserved n-terminal region
+and a divergent c-terminal acidic region (3). however, the most
+striking feature is that ␣-syn possesses a highly hydrophobic
+domain in the middle region that was previously purified from
+alzheimer disease brain amyloid (4). due to this hydrophobic
+domain, ␣-syn forms toxic protofibrils that might cause synap-
+tic injury and dysfunction (5). the importance of ␣-syn in the
+pathogenesis of neurodegenerative disorders was further aug-
+mented by identification of missense mutations of ␣-syn in
+familial parkinson disease (pd) (6–8). subsequently, numer-
+ous histological studies have shown that ␣-syn is a major con-
+stituent in lewy bodies and dystrophic neuritis in sporadic pd
+and diffuse lewy body disease (2). immunoreactivity of ␣-syn
+was also shown in glial cell inclusions in multiple system atro-
+phy (2). by contrast, ␤-syn, which lacks the majority of the
+hydrophobic domain in the middle region, was protective
+against protofibrils of ␣-syn (9, 10). thus, these results support
+the contention that ␣- and ␤-syn may play a central role in the
+pathogenesis of neurodegenerative diseases.
+on the other hand, ␥-syn, the less conserved third member of
+the syn family of peptides, was identified as a breast cancer-
+specific gene product (11) and has been extensively studied in a
+variety of cancers, such as breast cancer, ovarian cancer, liver
+cancer, pancreatic adenocarcinoma, and bladder cancer (11–
+15). because expression levels of ␥-syn were well correlated
+with the presence of metastatic lesions, it has been generally
+thought that ␥-syn might regulate tumor invasiveness and
+metastasis (16, 17). several studies indicated that ␥-syn might
+be involved in the deregulation of cell cycle in cancer. for exam-
+ple, ␥-syn interacted with a mitotic spindle checkpoint protein,
+bubr1, leading to decreased checkpoint function and tumor
+progression (18, 19). moreover, ␥-syn stimulated cell prolifer-
+ation by augmenting estrogen receptor-mediated signaling in
+breast cancer cells (20). thus, the role of ␥-syn has been inves-
+tigated mainly in the area of tumor biology.
+2 the abbreviations used are: syn, synuclein; pd, parkinson disease; ups, ubiq-
+uitin-proteasome system; pkc, protein kinase c; pma, 12-myristate 13-ac-
+etate; 4␣pdd, 4␣-phorbol 12,13-didecanoate; 3-ma, 3-methyladenine; rb,
+retinoblastoma; rt, reverse transcriptase; caps, 3-(cyclohexylamino)-1-
+propanesulfonic acid; lscm, laser-scanning confocal microscope; alp,
+alkaline phosphatase; pbs, phosphate-buffered saline; lscm, laser-scan-
+ning confocal microscope.
+5736 journal of biological chemistry
+volume 282 • number 8 • february 23, 2007
+a recent study, however, suggests that molecular pathways
+shared by neurodegenerative disease and cancer may be con-
+siderably overlapped than thought before. supporting this
+notion, it has been recently shown that several familial pd-
+causing factors are involved in the pathogenesis of cancer (21).
+first, overexpression of the park2 parkin, which functions as
+an e3 ligase in the ubiquitin-proteasome system (ups), resulted
+in growth suppression in hepatocellular carcinoma cells (22).
+furthermore, ectopic expression of parkin reportedly reduced
+in vivo tumorigenesis in nude mice (23). second, the park5
+ubiquitin c-terminal hydrolase light chain-1, which acts as a
+de-ubiquitinating enzyme in ups, was shown to suppress pro-
+liferation of a lung cancer cells (24). other evidence suggests
+that ubiquitin c-terminal hydrolase light chain-1 might be
+involved in the degradation of p27, a cyclin-dependent kinase
+inhibitor (25). third, the park7 dj-1 was first identified as an
+oncogene product that stimulated transformation of nih3t3
+cells in coordination with ras (26). dj-1 was recently shown to
+up-regulate the phosphatidylinositol 3-kinase pathway through
+inhibition of the tumor suppressor phosphatase pten, leading
+to enhance survival of cancer (27).
+in the same context one may wonder if ␣- and ␤-syn, the
+central players in the pathogenesis of pd, might play some
+important roles for the regulation of cancer. indeed, ␣-syn was
+widely expressed in a variety of brain tumors, such as medullo-
+blastoma, neuroblastoma, pineoblastoma, and ganglioma (28,
+29). furthermore, both ␣- and ␤-syn were shown to be
+expressed in the peripheral cancers, including ovarian and
+breast cancers (30). although the role of syn proteins in the
+pathogenesis of cancer is unclear, a limited number of studies
+suggest that ␣-syn might be involved in the regulation of tumor
+differentiation. supporting this possibility, ␣-syn was preferen-
+tially expressed in brain tumors showing neuronal differentia-
+tion (28). in cell cultures expression of ␣-syn was increased
+during the hematopoietic differentiation of k562 myeloge-
+nous leukemia cells (31). similarly, it was shown that ␣-syn
+was up-regulated during neural differentiation of pheochro-
+mocytoma pc12 cells (32). thus, distinct from the possible
+role of ␥-syn for tumor metastasis, ␣-syn might be involved
+in tumor differentiation.
+accordingly, the main objective of the present study was to
+determine whether ␣- and/or ␤-syn might regulate growth and
+differentiation of cancer cells. for this purpose, ␣- and ␤-syn
+were stably overexpressed in mg63 human osteosarcoma cells.
+we found that compared with vector-transfected and ␤-syn-
+overexpressing cells, ␣-syn-overexpressing cells exhibited dis-
+tinct phenotype of differentiated osteoblastic cells. mechanis-
+tically, ␣-syn may cause down-regulation of proteasome
+activity, leading to accelerate cellular differentiation. further
+studies revealed that down-regulation of proteasome activity by
+␣-syn was regulated by alteration of various factors, including
+pkc signaling activities and the autophagy-lysosomal pathway
+in ␣-syn-overexpressing cells.
+experimental procedures
+reagent—chemical reagents include mg132 and lactacystin
+(purchased from emd biosciences, san diego, ca), rotenone,
+12-myristate 13-acetate (pma), 4␣-phorbol 12,13-didecanoate
+␣-synuclein and tumor differentiation
+(4␣pdd), leupeptin, chelerythrine chloride, and 3-methylad-
+enine (3-ma) (obtained from sigma), and caspase i inhibitor
+and iii inhibitors (ac-aavallpavllallap-yvad-cho,
+ac-aavallpavllallap-devd-cho) (calbiochem) were
+applied to cell cultures at indicated concentrations.
+antibodies used are as follows. monoclonal antibodies, anti-
+␣-syn (syn-1), anti-␤-syn, anti-pkc⑀, and anti-retinoblastoma
+(rb) were purchased from bd biosciences. monoclonal anti-␤-
+actin (ac-15) was obtained from sigma. monoclonal antibodies
+anti-p21 and anti-cyclin b1, rabbit polyclonal antibodies anti-p15,
+anti-cyclin d1, anti-cyclin-dependent kinase 4, and anti-phospho-
+rylated rb, and goat polyclonal anti-osteocalcin antibody were
+from santa cruz biotechnology (santa cruz, ca). monoclonal
+anti-ubiquitin antibody was from chemicon (temecula, ca).
+monoclonal anti-19 s proteasome s6a subunit antibody was from
+biomol(plymouthmeeting,pa).rabbitpolyclonalanti-cathepsin
+b was from calbiochem. rabbit polyclonal antibodies, anti-c-ter-
+minal ␣-syn, and anti-␤-syn were previously described (33, 34).
+alexa fluor 488-conjugated anti-goat secondary antibody, alexa
+fluor 488-conjugated anti-rabbit secondary antibody, and alexa
+fluor 555-conjugated anti-mouse secondary antibody were from
+invitrogen.
+cell cultures and transfection—mg63 and 293t cells were
+both cultured in dulbecco’s modified eagle’s medium (high
+glucose) containing 10% fetal calf serum (biowest, nuaille,
+france) and 1% v/v penicillin/streptomycin (invitrogen) in a 5%
+co2, 95% air atmosphere. mg63 cells exhibited both ␣- and
+␤-syn transcripts by rt-pcr analysis, but their protein expres-
+sions were hardly detectable by immunoblot analysis (data not
+shown). for stable transfection, mg63 cells were transfected
+with pcep4 expression vector (invitrogen) or pcep4 contain-
+ing either human ␣- or ␤-syn cdna (34) using lipofectamine
+2000 (invitrogen). after 2⬃3 weeks of incubation in the pres-
+ence of 200 ␮g/ml hygromycin b (emd biosciences), the resist-
+ant colonies of cells (⬃20) were isolated. these stable cell lines
+were routinely maintained in the presence of 50 ␮g/ml hygro-
+mycin b. 293t cells were transiently transfected with p-target
+expression vector (promega, madison, wi) containing human
+p21 cdna insert.3
+reverse transcriptase (rt)-pcr—total rna was isolated
+from cultured cells using the rna extraction buffer isogen
+(nippongene,tokyo,japan).cdnawassynthesizedfrom2 ␮gof
+total rna using the superscript iii first-strand synthesis system
+(invitrogen) according to the manufacturer’s instruction.
+pcr amplification was carried out using taq pcr polymerase
+(abgene, tokyo, japan), and the amplified products were resolved
+by agarose gel electrophoresis. the following primers were used
+for pcr. human ␣-syn (nm_000345): sense, 5⬘-atggat-
+gtattcatgaaaggactttc-3⬘
+(47–72-oligonucleotide
+position), antisense, 5⬘-ggcttcaggttcgtagtcttga-
+tac-3⬘ (the 442–466 oligonucleotide position); human ␤-syn
+(bt006627): sense, 5⬘-atggacgtgttcatgaagggc-3⬘
+(1–21-oligonucleotide position), antisense, 5⬘-ctacgcctc-
+tggctcatactc-3⬘
+(385–405-oligonucleotide position);
+human cyclophilin a (nm_021130): sense, 5⬘-tactattag-
+3 t. urano, unpublished information.
+february 23, 2007 • volume 282 • number 8
+journal of biological chemistry 5737
+␣-synuclein and tumor differentiation
+ccatggtcaac-3⬘ (62–81-oligonucleotide position), anti-
+sense 5⬘-gtcttgccattcctggaccc-3⬘ (508–527-oligo-
+nucleotide position); human liver/bone/kidney-type alkaline
+phosphatase (alp) (ab011406): sense, 5⬘-gggggtggccg-
+gaaatacat-3⬘ (834–853-oligonucleotide position), anti-
+sense, 5⬘-gggggccagaccaaagatag-3⬘
+(1357–1376-
+oligonucleotide position); human osteocalcin (x51699): sense,
+5⬘-atgagagccctcacactcctc-3⬘ (19–39-oligonucleo-
+tide position), antisense, 5⬘-gccgtagaagcgccgata-
+ggc-3⬘ (292–312-oligonucleotide position).
+immunoblot and co-immunoprecipitation analyses—im-
+munoblot analysis was performed as previously described (34).
+briefly, cells were harvested and dissolved in lysis buffer (1%
+nonidet p-40, 50 mm hepes, 150 mm nacl, 10% glycerol, 1.5
+mm mgcl2, 1 mm egta, 100 mm sodium fluoride, and protease
+inhibitor mixture (nakarai tesque, kyoto, japan)). protein
+concentrations of the cell lysates were determined bio-rad pro-
+tein assay reagent. cell extracts (10 ␮g) were then resolved by
+sds-page (10 or 16%) and electroblotted onto nitrocellulose
+membranes (ge healthcare) with caps buffer (ph 11.0). the
+membranes were blocked with 3% bovine serum albumin (bsa)
+in tris-buffered saline (tbs: 25 mm tris-hcl (ph 7.5), 150 mm
+nacl) plus 0.2% tween 20 followed by an incubation with pri-
+mary antibodies in tbs containing 3% bsa. after washing, the
+membranes were further incubated with second antibody con-
+jugated with horseradish peroxidase (ge healthcare) in tris-
+buffered saline (1:10,000). finally, the target proteins were visu-
+alized with the ecl plus system (ge healthcare). the intensity
+of the band was measured using biomax 1d image analysis soft
+ware (eastman kodak co.). in some experiments 293t cells
+were transfected with p-target vector (promega) with or with-
+out human p21 cdna insert, and cell extracts were used for
+controls. recombinant human ␣- and ␤-syn were also used for
+positive controls (9).
+immunoprecipitation was
+previously
+described (35). briefly, cell extracts (200 ␮g) were preabsorbed
+with protein g-sepharose (ge healthcare) for 1 h, and the pre-
+cleared lysates were incubated with either syn-1 or mouse igg
+control (each 1 ␮g) overnight at 4 °c followed by incubation
+with protein g-sepharose. the immune complexes were then
+washed three times with the lysis buffer. the samples were then
+heated in the sds sample buffer for 5 min and subjected to
+immunoblotting.
+immunofluorescence study—cells were seeded onto poly-l-
+lysine-coated glass coverslips, grown to 70% confluence, fixed
+in 4% paraformaldehyde for 30 min and pretreated with 0.1%
+triton x-100 in phosphate-buffered saline (pbs) for 20 min.
+fixed cells were blocked with pbs containing 3% goat serum
+and 5% bovine serum albumin at room temperature. for stain-
+ing, cells were incubated overnight at 4 °c with primary anti-
+body (or antibodies for double staining). after washing, cells
+were incubated with alexa fluor-conjugated secondary anti-
+body (or antibodies for double staining) (invitrogen) for 1 h at
+room temperature. control experiments included immuno-
+staining in the absence of primary antibody. coverslips were
+air-dried, mounted on slides with gel/mount (biomeda corp.,
+foster city, ca), and imaged with the laser-scanning confocal
+microscope (lscm) (olympus, fv1000, tokyo, japan).
+performed
+as
+cell cycle analysis using flow cytometry—cells seeded at
+1 ⫻ 105 cells in 6-well cell culture plates were incubated under
+low serum (0.1%) conditions for 24 h, treated with 10% serum
+for 6, 12, 18, 24, and 96 h, and harvested using trypsin-edta.
+after washing with pbs, cells were fixed by ice-cold ethanol to
+final concentration of 70%. the cells were then resuspended in
+pbs containing 0.5 mg/ml rnasea (nakarai tesque), incu-
+bated for 30 min at 37 °c, and followed by staining with pro-
+pidium iodide (10 ␮g/ml) for 10 min at room temperature.
+before flow cytometry analysis, the stained cells were filtrated
+with nylon mesh. the fluorescence signals of 2 ⫻ 104 cells were
+recorded by epics altra (beckman coulter, fullerton, ca).
+the distribution of cell cycle phase was analyzed by multicycle
+software (phoenix flow systems, san diego, ca).
+measurement of alp activity—cellular activities of alp
+were determined as described previously with some modifica-
+tions (36). briefly, cells were grown until confluency under the
+10% serum conditions in 6-well cell culture plates. cells were
+then washed twice, harvested into pbs, and sonicated by ultra-
+sonic disruptor (tomy, tokyo, japan) for 20 s. after centrifu-
+gation of the cell preparations at 15,000 rpm for 10 min, the
+supernatants were recovered and assessed for protein concen-
+tration. the supernatants (10 ␮g) were then incubated in the
+alp assay buffer containing 10 mm p-nitrophenyl phosphate
+(sigma), 100 mm glycine, 1 mm zncl2, and 1 mm mgcl2 (ph
+10.4). after 90 min of incubation at 37 °c, alp activity was
+determined by monitoring the amount of released p-nitrophe-
+nol at 415 nm. dissolved p-nitrophenol in assay buffer was used
+to establish the standard for quantification. the released p-ni-
+trophenol was adjusted by the amount of protein and described
+as nmol/min/mg of protein.
+increased levels of the cellular alp activities were further
+confirmed by direct stain of the cells. the cells reached conflu-
+ency were fixed with 70% ethanol, washed twice with tris-buff-
+ered saline, and incubated with nitro blue tetrazolium chloride/
+5-bromo-4-chloro-3-indolyl phosphate p-toluidine salt alp
+substrate solution (roche applied science) for 2 h. the visual-
+ized image was then photographed.
+mineralization assay—mineralization of mg63 cells was
+performed as previously described (36) with some modifica-
+tions. briefly, cells were grown until confluency under the 10%
+serum conditions in 24-well cell culture plates. the cells were
+further incubated in ␣-minimal essential medium (invitrogen)
+plus 10% serum in the presence of 10 mm ␤-glycerophosphate
+(sigma) and 50 ␮g/ml ascorbic acid with or without the addi-
+tion of various chemical reagents. the media were regularly
+changed twice a week. after 4 weeks, cells were evaluated for
+the extent of matrix mineralization by either alizarin red stain-
+ing or von kossa staining. for alizarin red staining, the cells
+were fixed with 70% ethanol for 30 min at room temperature.
+then the cells were incubated with 40 mm alizarin red-s
+(sigma) for 10 min and washed 4 times with distilled water. the
+visualized image was photographed. for von kossa staining, the
+cells were fixed with 10% neutralized formaldehyde for 30 min
+at room temperature. the fixed cells were incubated with 5%
+silver nitrate for 5 min under the exposure to the sunlight. the
+reaction was stopped by the addition of 5% sodium thiosulfate.
+5738 journal of biological chemistry
+volume 282 • number 8 • february 23, 2007
+the stained cells were washed four times with distilled water
+and imaged with microscope.
+evaluation of proteasome and cathepsin b activity—meas-
+urement of proteasome and cathepsin b activity was done as
+previously described with modifications (37). briefly, cells
+reaching confluency in 6-well cell culture plates were incubated
+under the low serum (0.1%) conditions for 24 h and treated with
+10% serum with or without treatment of various reagents. after
+the indicated times (0, 6, or 12 h), the cells were harvested in
+buffer containing 50 mm hepes (ph 7.4), 10 mm edta, and 10
+mm nacl, subjected to freezing and thawing to rapture cell
+membranous structures, and then centrifuged at 15,000 rpm
+for 10 min. for the measurement of proteasome activity, 10 ␮g
+of the supernatants were incubated in assay buffer containing
+50 mm hepes (ph 7.4), 10 mm edta, 10 mm nacl, and 40 ␮m
+benzyloxycarbonyl-leu-leu-glu-amidomethylcoumarin flu-
+orogenic proteasome substrate (chemicon). for cathepsin b
+activity, 10 ␮g of the supernatants were incubated in buffer
+containing 50 mm hepes (ph 6.0), 10 mm edta, 10 mm nacl,
+and 40 ␮m benzyloxycarbonyl-arg-arg-amidomethylcouma-
+rin fluorogenic cathepsin b substrate (chemicon). these
+enzyme activities were assayed by continuous recording of the
+fluorescence activity released from fluorogenic substrate using
+berthold mithras lb940 microplate reader (berthold, bad
+wildbad, germany) for 1 h at 37 °c (excitation, 380 nm; emis-
+sion, 460 nm), and the reaction rate was analyzed. these
+enzyme activities were described as arbitrary unit/min/mg of
+protein.
+evaluation of pkc activity—pkc activity was determined
+using peptag nonradioactive pkc assay kit (promega) accord-
+ing to the manufacture’s instruction. briefly, cells reaching con-
+fluency in 6-well cell culture plates were treated with or without
+pma for 20 min and harvested in extraction buffer (25 mm
+tris-hcl (ph 7.4), 0.5 mm edta, 0.5 mm egta, 10 mm ␤-mer-
+captoethanol, 100 mm phenylmethylsulfonyl fluoride, and pro-
+tease inhibitor mixture (nakarai tesque)). cell extracts were
+then sonicated by ultrasonic disruptor (tomy) for 20 s and
+centrifuged at 15,000 rpm for 15 min. the supernatants were
+used for the assay. the reaction was performed at 30 °c for 30
+min in assay solution including, peptag c1 peptide (0.4 ␮g/␮l)
+and 5 ␮g of protein sample. the samples were separated on the
+0.8% agarose gel and visualized on a transilluminator. the
+intensity of fluorescence of the phosphorylated peptides were
+quantified using biomax 1d image analysis soft ware (kodak).
+electron microscopy—electron microscopy analysis was per-
+formed as previously described with minor modifications (38).
+briefly, cells were harvested using trypsin-edta and fixed by
+2.5% glutaraldehyde in 0.1 m sodium cacodylate buffer at 4 °c
+for 2 h. after centrifugation, cells were washed with 0.1 m
+sodium cacodylate buffer 3 times. cell pellets were obtained by
+centrifuge, post-fixed in 1% osmium tetroxide and 1% potas-
+sium ferrocyanide at room temperature for 2 h, and processed
+for embedding in quetol 812 (nisshin em, tokyo, japan).
+ultrathin sections were stained with uranyl acetate and lead
+nitrate and observed by a hitachi h-7500 electron microscope.
+statistical analysis—all values in the figures are expressed as
+means ⫾ s.d. to determine statistical significance, the values
+␣-synuclein and tumor differentiation
+were compared by two group t tests. the differences were con-
+sidered as significant if p values were less than 0.05.
+results
+overexpression of syn in mg63 osteosarcoma cells—to
+investigate the effect of syn on growth and differentiation of
+tumor cells, mg63 osteosarcoma cells were stably transfected
+with ␣- or ␤-syn cdna. three high expressors of ␣-syn (clones
+␣1, ␣5, and ␣15) and ␤-syn (clones ␤5, ␤8, and ␤13) were
+selected on the basis of immunoblot analysis together with
+empty vector-transfected cells (clones v2, v5, and v10) (fig. 1a).
+for the majority of experiments, clone ␣1, the high expresser of
+␣-syn, and clones ␤5 and v2 were used. immunoblot analysis
+also showed that the immunoreactivities of both ␣- and ␤-syn
+were almost exclusively those of their monomers (fig. 1a). to
+further analyze expression and distribution of syn proteins,
+double immunolabeling/lscm was performed using at least
+two antibodies for each syn (fig. 1b). the immunoreactivity of
+␣-syn in ␣-syn-overexpressing cells (␣1) was diffuse in the cell
+bodies as detected by both monoclonal syn-1 and polyclonal
+c-terminal antibodies (a and b). immunoreactivity of ␤-syn in
+␤-syn-overexpressing cells (␤5) was also localized diffusely in
+the cell bodies by monoclonal anti-␤-syn antibody (e) but was
+detected with a shift to perinuclear regions by polyclonal anti-
+␤-syn antibody (f). in none of these cases, inclusion bodies were
+detected. notably, expression levels of ␣-syn were heterogene-
+ous (c), and similar patterns were consistently observed in all
+the three clones of ␣-syn-overexpressing cells (data not shown).
+by contrast, immunoreactivities of ␤-syn were homogeneous in
+␤-syn-overexpressing cells (g). no immunoreactivities of syn
+proteins were detected in vector-transfected cells (v2) (d and h).
+to determine whether cell proliferation was affected by over-
+expression of syn, the stable clones were evaluated for their cell
+growth rates. the doubling times of cells in log phase of growth
+under 10% serum conditions were 20–24 h for ␣-syn-overex-
+pressing cells and 14–17.5 h for both ␤-syn-overexpressing and
+vector-transfected cells (data not shown). cells were then incu-
+bated under the low serum (0.1%) for 24 h to synchronize at g1
+in cell cycle and then added with 10% serum followed by count-
+ing of cell numbers at the indicated times. the result showed
+that that the average cell numbers of ␣-syn-overexpressing cells
+at day 4 were significantly decreased compared with both
+␤-syn-overexpressing and vector-transfected cells (fig. 1c).
+to determine whether decreased cell proliferation of ␣-syn-
+overexpressing cells is due to alteration of cell cycle profile, cell
+cycle analysis was performed using flow cytometry at varying
+time periods (0, 6, 12, 18, 24, and 96 h) after the addition of 10%
+serum to serum-deprived cells. the result showed that com-
+pared with both ␤-syn-overexpressing and vector-transfected
+cells, ␣-syn cells in g0/g1 phases were significantly increased
+(p ⬍ 0.05), whereas those in both s and g2/m phase were
+decreased at 24 and 96 h (p ⬍ 0.05) (fig. 1d). essentially similar
+results were observed at 96 h. however, compared with the
+profile at 24 h, there were more cells in g0/g1 phase, fewer cells
+in s phase, and more cells in g2/m at 96 h. one possible reason
+for the difference between 24 and 96 h could be that at 24 h
+many cells might have not yet reached g2/m phase. further-
+more, a relatively high ratio of cells in g0/g1 phase at 96 h could
+february 23, 2007 • volume 282 • number 8
+journal of biological chemistry 5739
+␣-synuclein and tumor differentiation
+figure 1. analysis of syn expression in transfected mg63 osteosarcoma cells. a, immunoblot analysis of syn proteins. cell extracts were analyzed by immuno-
+blotting using syn-1 (upper panel), anti-␤-syn monoclonal antibody (middle panel), and anti-actin antibody (lower panel). three vector-transfected clones (v2, v5, v10,
+lanes 1–3), three high expresser clones for ␣-syn (␣1, ␣5, ␣15, lanes 4–6), and ␤-syn (␤5, ␤8, ␤13, lanes 7–9) are shown. recombinant ␣- and ␤-syn proteins were used
+as positive controls (lanes 10 and 11). b, immunofluorescence/lscm analysis of syn expression. ␣-syn-overexpressing cells (␣1) (a–c), ␤-syn-overexpressing cells (␤5)
+(e–g), and vector-transfected cells (v2) (d and h) were immunostained with antibodies against ␣-syn (green, a–d), ␤-syn (green, e–h), and actin (red, c, d, g, and h)
+followed by observation by lscm. ␣-syn was diffusely distributed in the cell bodies with a slight shift to cell membrane as detected by both syn-1 (a) and polyclonal
+c-terminal antibody (b). ␤-syn was similarly detected in the cell bodies by monoclonal anti-␤-syn antibody (e), but strong stains of perinuclear regions were observed
+by polyclonal anti-␤-syn antibody (f). immunoreactivities of ␣-syn were heterogeneous (c), whereas those of ␤-syn were almost even in all cell populations (g). no
+immunoreactivities of syn proteins were detected in vector-transfected cells (d and h). bars represent either 20 ␮m for high magnification (a, b, e, and f) or 50 ␮m for
+low magnification (c, d, g, and h). c, evaluation of cell proliferation. cells (v2, v5, v10, ␣1, ␣5, ␣15, ␤5, ␤8, and ␤13) were incubated at 1 ⫻ 105 cells/well in the 6-well plates
+under the low serum (0.1%) conditions for 24 h to synchronize. cells were then treated with 10% serum, and cell numbers were counted at 96 h. open circles represent
+the group mean values. data shown are the mean ⫾ s.d. (n ⫽ 3). **, p ⬍ 0.01. d, flow cytometry for cell cycle analysis. cells were prepared as described in c, and dna
+contents were analyzed at the indicated times (0, 6, 12, 18, 24, and 96 h) after serum stimulation. the upper figures are a typical cell cycle profile at 24 h for v2, ␣1, and
+␤5.thexaxisrepresentsthefluorescentintensitiesproportionaltotheamountofdna,whereastheyaxisindicatesthecellnumber.thelowercolumnfiguresshowthat
+g0/g1 phases at 24 and 96 h in ␣-syn cells were significantly increased, whereas those in both s and g2/m phase were decreased compared with both ␤-syn-
+overexpressing and vector-transfected cells. data presented are the mean ⫾ s.d. of triple determinations. *, p ⬍ 0.05.
+5740 journal of biological chemistry
+volume 282 • number 8 • february 23, 2007
+␣-synuclein and tumor differentiation
+expressing cells but not in other
+cell types (fig. 2c). furthermore,
+rt-pcr analysis revealed that up-
+regulation of alp and osteocalcin in
+␣-syn-overexpressed cells might be
+attributed to increased transcrip-
+tion (fig. 2d). to further corrobo-
+rate that cellular differentiation is
+accelerated in ␣-syn-overexpress-
+ing cells, we evaluated formation of
+mineral deposition in the matrix
+that may mimic the calcification by
+osteoblasts in vivo. for this purpose,
+cells were incubated in the presence
+of ␤-glycerophosphate and ascorbic
+acid for 4 weeks followed by staining
+with alizarin red to assess calcium
+incorporation. the result showed
+that mineralization was
+clearly
+detectable in ␣-syn-overexpressing
+cells but not in ␤-syn-overexpress-
+ing nor vector-transfected cells (fig.
+2e). similar results were obtained
+by von kossa staining for the assess-
+ment of bone nodule formation (fig.
+2e). taken together, ␣-syn-overex-
+pressing cells specifically exhibited
+a differentiated phenotype com-
+pared with both ␤-syn-overexpress-
+ing and vector-transfected cells.
+figure 2. up-regulation of the expression of osteoblastic differentiation markers in ␣-syn-overexpres-
+sing mg63 cells. a, measurement of alp activity. cells (v2, v5, v10, ␣1, ␣5, ␣15, ␤5, ␤8, and ␤13) under the
+confluent conditions were harvested, and cell extracts were incubated with p-nitrophenyl phosphate at 37 °c
+for 90 min. the amount of released nitrophenol was monitored by absorbance at 415 nm. ␣-syn-overexpress-
+ing cells (␣1) showed significantly higher alp activity compared with other cell types (v2 and ␤5). data shown
+are mean ⫾ s.d. (n ⫽ 5). *, p ⬍ 0.05; **, p ⬍ 0.01. b, evaluation of alp activity by staining. cells (v2, ␣1, and ␤5)
+were stained with nitro blue tetrazolium chloride/5-bromo-4-chloro-3-indolyl phosphate solution and photo-
+graphed. c, immunostaining of osteocalsin. cells (v2, ␣1, and ␤5) were immunostained with anti-osteocalsin
+antibody followed by observation with lscm. the bar represents 50 ␮m. d, rt-pcr analysis of alp and osteo-
+calcin mrnas. cyclophilin mrna was used as an internal control. e, in vitro mineralization assay. cells (v2, v5,
+v10, ␣1, ␣5, ␣15, ␤5, ␤8, and ␤13) were seeded onto 24-well cell culture plates (1 ⫻ 105 cells/ml) and main-
+tained in ␣-minimal essential medium containing 10 mm ␤-glycerophosphate and 50 ␮g/ml ascorbic acid for 4
+weeks. matrix mineralization was evaluated by either alizarin red staining (middle panel) or von kossa staining
+(right panel). each clone number is indicated in the squire matrix (left panel). please note that the strongest
+staining was observed in clone ␣1, the highest ␣-syn expresser.
+be due to the decreased nutrients in the culture medium after
+long time culture. taken together, these results suggested that
+overexpression of ␣-syn, but not of ␤-syn, suppressed cell pro-
+liferation in mg63 osteosarcoma cells.
+␣-syn-overexpressing mg63 cells exhibit enhanced differ-
+entiation phenotype—based on the apparent decrease of
+growth rates and enhanced g0/g1 phases in cell cycle in ␣-syn-
+overexpressing mg63 cells compared with ␤-syn-overexpress-
+ing and vector-transfected cells, we speculated that the former
+cells might be shifted to cellular differentiation.
+to test this possibility, we evaluated alp since this molecule
+had been widely used as a marker for osteoblastic differentia-
+tion. as we suspected, all three clones of ␣-syn-overexpressing
+cells displayed significantly higher activity of alp compared
+with both ␤-syn-overexpressing and vector-transfected cells
+(fig. 2a). activation of alp was also assessed by direct stain of
+cells using nitro blue tetrazolium chloride/5-bromo-4-chloro-
+3-indolyl phosphate as substrate. the result showed that the
+intensity of the staining in ␣-syn-overexpressing cells was
+much stronger than those of ␤-syn-overexpressing and vector-
+transfected cells (fig. 2b). next, we analyzed expression of
+osteocalcin, another marker for osteoblastic differentiation.
+the immunofluorescence/lscm study showed that immuno-
+reactivity of osteocalcin was strongly observed in ␣-syn-over-
+alteration of g1 cell cycle regu-
+lators and decreased proteasome
+activity
+in ␣-syn-overexpressing
+mg63 cells—because prolonged
+g1 period in cell cycle is prerequisite for cell entry into g0 and
+further differentiation, it was predicted that expressions and
+activities of various g1 cell cycle regulators might be altered in
+␣-syn-overexpressing cells.
+to test this possibility, cells were incubated under the low
+serum (0.1%) conditions for 24 h to synchronize at g1 followed
+by 10% serum treatment. cells were then harvested, and
+expression of various cell cycle regulators were analyzed at the
+indicated times (fig. 3a). notably, expression of the cyclin-de-
+pendent kinase inhibitor p21, one of the key molecules which
+negatively regulate cell cycle progression from g1 to s phase,
+was significantly up-regulated in ␣-syn-overexpressing cells. in
+these cells p21 was constitutively expressed without serum
+stimulation and was further increased in response to serum,
+reaching the maximum around 6- 12 h followed by gradual
+decrease. by contrast, in vector-transfected cells expression of
+p21 was transiently up-regulated at 6 h and immediately
+decreased. consistent with this, phosphorylation of rb protein
+was compromised in ␣-syn-expressing cells compared with
+vector-transfected cells. furthermore, cyclin b1, a marker for
+g2/m phase, was up-regulated earlier in vector-transfected
+cells than in ␣-syn-overexpressing cells. as for other cyclin-de-
+pendent kinase inhibitors, p15 level was slightly elevated at 24-
+and 48-h time points, whereas expression of p27 was not up-
+february 23, 2007 • volume 282 • number 8
+journal of biological chemistry 5741
+␣-synuclein and tumor differentiation
+figure 3. altered expression of cell cycle regulators and decrease of proteasome activity in ␣-syn-
+overexpressing mg63 cells. a, immunoblot analysis of cell cycle regulators. vector-transfected (v2) and
+␣-syn-overexpressing cells (␣1) were incubated under the low serum (0.1%) conditions for 24 h to synchronize
+and then treated with 10% serum for the indicated times (6, 12, 24, and 48 h). cells were then harvested, and cell
+lysates were analyzed by immunoblotting with anti-p21, rb, phospho rb, cyclin (cyc) b, cyclin d1, cyclin-de-
+pendent kinase (cdk4), p15, and ubiquitin. b, evaluation of the stability of p21 protein by cycloheximide
+experiments. the synchronized cells (v2 and ␣1) were treated with 10% serum with or without cycloheximide
+(chx) for the indicated times (1, 2, and 4 h), and cell lysates were analyzed by immunoblotting (upper panel).
+each band was quantified using biomax 1d image analysis soft ware (lower panel). data shown are the mean ⫾
+s.d. similar results were obtained by three independent experiments. c, measurement of proteasome activity.
+cells (v2, ␣1, and ␤5) were incubated under the low serum (0.1%) conditions for 24 h and then treated with 10%
+serum for the indicated times (6 and 12 h). to evaluate proteasome activity, cell extracts (10 ␮g) were incubated
+with fluorogenic substrate (benzyloxycarbonyl-leu-leu-glu-amidomethylcoumarin) at 37 °c. released fluo-
+rescence (excitation 380 nm, emission 460 nm) was monitored by 5 min intervals up to 60 min. the fluorogenic
+value at each time point was plotted, and the slope was calculated. data shown are the mean ⫾ s.d. (n ⫽ 3). *,
+p ⬍ 0.05; **, p ⬍ 0.01. d, immunoblot analysis of ubiquitylated proteins. vector-transfected (v2) and ␣-syn-
+overexpressing cells (␣1) were prepared as described in a and analyzed by immunoblotting using anti-ubiq-
+uitin antibody. both types of cells treated with lactacystin for 6 h were included as positive controls.
+ties of ␣-syn-overexpressing cells
+were decreased to ⬃50% of those of
+vector-transfected cells, whereas
+those of ␤-syn-overexpressing cells
+were little affected (fig. 3c). under
+the same experimental conditions,
+immunoreactivities of polyubiqui-
+tylated proteins were significantly
+stronger in ␣-syn-overexpressing
+cells compared with those in vector-
+transfected and ␤-syn-overexpress-
+ing cells (fig. 3d and data not
+shown). taken together, expression
+of cell cycle regulators such as p21
+and phosphorylated rb were altered
+in ␣-syn-overexpressing
+cells,
+which might be attributed to the
+decreased proteasome activity.
+proteasome inhibitors stimulate
+differentiation of wild-type mg63
+cells—if suppression of proteasome
+activity by ␣-syn plays a causative
+role for stimulation of differentia-
+tion in mg63 osteosarcoma cells,
+then it is possible that down-regula-
+tion of proteasome activity by other
+experimental
+procedures might
+similarly stimulate differentiation in
+these cells.
+regulated in ␣-syn-overexpressing cells compared with vector-
+transfected cells (fig. 3a and data not shown). expression of
+other cell cycle regulators such as cyclin d1 and cyclin-depend-
+ent kinase 4 were not much different between both cell types.
+similar expression patterns of p21 and phosphorylated rb were
+observed between ␤-syn-overexpressing cells and vector-trans-
+fected cells (data not shown).
+next, to determine whether up-regulation of p21 expression
+was due to the stabilization of p21 protein in ␣-syn-overex-
+pressing cells, these cells were treated with cycloheximide to
+inhibit protein synthesis 6 h after serum stimulation. under
+these conditions, expression levels of p21 protein quickly
+decreased within 2 h of treatment in vector-transfected cells,
+whereas expression levels in ␣-syn-overexpressing cells took
+longer to detect (fig. 3b). under the same experimental condi-
+tions, p21 mrna was evaluated by real time pcr. however, no
+significant differences were observed between ␣-syn-overex-
+pressing and vector-transfected cells (data not shown).
+to further determine whether increased stability of p21 was
+due to compromised degradation by ups in ␣-syn-overex-
+pressing cells, syn-transfected cells were analyzed for protea-
+some activities. the result showed that the proteasome activi-
+to test this possibility, wild-type
+mg63 cells were treated with protea-
+some inhibitors,
+including mg132
+andlactacystinfollowedbyevaluation
+of cellular differentiation. immuno-
+blotanalysisrevealedthatadministra-
+tion of these reagents at 10 ␮m clearly
+up-regulated p21 expression at 12 h (fig. 4a). under the same
+experimental conditions, alp activity was significantly up-reg-
+ulated, and immunoreactivity of osteocalcin became detectable
+(fig. 4b and data not shown). in addition, the expression of alp
+and osteocalcin mrna was up-regulated in lactacystin-treated
+cells (fig. 4c). furthermore, cells were induced to form matrix
+mineralization with lower concentrations of proteasome inhib-
+itors (0.01–0.1 ␮m for mg132 and 0.1–1.0 ␮m for lactacystin)
+in long-term cultures. high concentration (10 ␮m) treatment of
+these reagents caused prominent cell death within 48 h (data
+not shown). by contrast, sublethal concentrations (0.01–0.1
+␮m) of rotenone, an inhibitor of mitochondria complex i,
+caspase i, and iii inhibitors (0.1–1.0 ␮m), and leupeptin (1–10
+␮m) had little effect on cellular differentiation (fig. 4d). taken
+together, treatment of wild-type mg63 cells with proteasome
+inhibitors resulted in stimulation of cellular differentiation.
+down-regulation of pkc activity in ␣-syn-overexpressing
+mg63 cells—our hypothesis was that alteration of signal
+transduction might be involved in the suppression of protea-
+some activity in ␣-syn-overexpressing cells. in this regard we
+especially focused on the potential role of pkc since it was
+recently shown that treatment of skeletal muscle by phorbol
+5742 journal of biological chemistry
+volume 282 • number 8 • february 23, 2007
+␣-synuclein and tumor differentiation
+finally,
+to determine whether
+pkc activity was compromised in
+␣-syn-overexpressing cells, the syn-
+transfected cells were treated with
+or without pma and analyzed for
+their pkc activities (fig. 5c). the
+result
+showed that proteasome
+activities of ␣-syn-overexpressing
+cells were significantly lower than
+those of ␤-syn-overexpressing and
+vector-transfected cells.
+impor-
+tantly, pma treatment of ␣-syn-
+overexpressing cells restored the
+pkc activity to the basal
+levels
+of those in other cell types. taken
+together,
+these results suggested
+that ␣-syn might directly suppress
+the pkc activity in ␣-syn-overex-
+pressing cells.
+because previous studies sug-
+gested an alternative possibility that
+␣-syn bound with s6 subunit of 19 s
+proteasome, leading to interference
+with proteasome functions (41–43),
+we investigated the association of
+␣-syn with s6a. the results of co-
+immunoprecipitation experiment
+confirmed the association of these
+molecules (fig. 5a). double immu-
+nolabeling/lscm showed
+that
+overlapping of the immunoreactivi-
+ties of these molecules was partially
+detected in the cell bodies, since s6a
+was considerably localized in the
+nucleus (fig. 5b).
+figure 4. proteasome inhibitors induce cellular differentiation in wild-type mg63 cells. wild-type mg63
+were incubated under the low serum (0.1%) conditions for 24 h and then treated with 10% serum in the
+presence of either mg132 or lactacystin. a, immunoblot analysis of p21. cells were treated with various con-
+centrations of either mg132 (0, 0.1, 1.0, 10 ␮m, lanes 3– 6) or lactacystin (0, 1.0, 10, 20 ␮m, lanes 7–10) and
+harvested at 12 h. cell lysates were analyzed by immunoblotting using anti-p21 antibody. extracts of 293t cells
+transfected with or without p21 expression vector are shown as controls (lanes 1 and 2). b, measurement of alp
+activity. cells were treated with various concentrations (0, 10, 20 ␮m) of lactacystin for 12 h. to evaluate alp
+activity, cell extracts were incubated with p-nitrophenyl phosphate at 37 °c for 90 min. the amount of released
+nitrophenol was monitored by the absorbance at 415 nm. data shown in the left panel are the mean ⫾ s.d. (n ⫽
+3). *, p ⬍ 0.05; **, p ⬍ 0.01. c, rt-pcr analysis of alp and osteocalcin mrnas. cells were treated with lactacystin
+(10 ␮m) for 24 h. cyclophilin mrna was used as an internal control. d, in vitro mineralization assay. cells were
+treated with various reagents, including mg132 (0, 0.01, 0.1 ␮m), lactacystin (0, 0.1, 1.0 ␮m), rotenone (0, 0.1, 0.1
+␮m), caspase i inhibitor (0, 0.1, 1.0 ␮m), caspase iii inhibitor (0, 0.1, 1.0 ␮m), and leupeptin (0, 1, 10 ␮m) for 4 weeks.
+matrix mineralization was evaluated by alizarin red staining. please note that positive staining was observed for
+cells treated with proteasome inhibitors. acridine orange/ethidium bromide staining revealed that cells were
+alive during mineralization (not shown).
+ester resulted in stimulation of proteasome activity (39) and it
+was previously shown that ␣-syn bound with pkc and down-
+regulated the activity of pkc in ␣-syn overexpressing neuro-
+blastoma cells (40).
+to determine whether ␣-syn associates with pkc, a co-im-
+munoprecipitation experiment was performed (fig. 5a). cell
+extracts of ␣-syn-overexpressing cells were immunoprecipi-
+tated with syn-1 followed by immunoblotting analysis with
+mouse anti- pkc⑀antibody. in agreement with a previous study
+by ostrerova et al. (40), the result showed that pkc⑀was spe-
+cifically co-immunoprecipitated with ␣-syn.
+next, to further determine whether ␣-syn colocalize with
+pkc, cells were double-immunolabeled with anti-␣-syn rabbit
+polyclonal antibody and anti-pkc⑀antibody followed by obser-
+vation with lscm. as shown in fig. 5b, immunoreactivities of
+␣-syn and pkc⑀ considerably overlapped in the cytoplasm of
+␣-syn-overexpressing cells. we observed that pkc⑀and pkc␭
+were highly expressed in addition to moderate expression of
+other pkc family of peptides in mg63 cells (data not shown).
+similar results were obtained by both co-immunoprecipitation
+and double immunolabeling/lscm studies for pkc␭(data not
+shown).
+phorbol ester treatment of ␣-
+syn-overexpressing mg63 cells restores proteasome activity
+and suppresses cellular differentiation—if suppression of
+pkc activity by ␣-syn is causative for down-regulation of
+proteasome activity and enhanced differentiation in ␣-syn-
+overexpressing cells, then stimulation of pkc might restore
+the proteasome activity and abrogate cellular differentiation
+in these cells.
+accordingly, ␣-syn-overexpressing cells were treated with
+phorbol ester followed by evaluation of proteasome activity.
+the results showed that the compromised activity of protea-
+some in ␣-syn-overexpressing cells was significantly improved
+by treatment with pma both at 10 and 50 nm but not with an
+inactive analogue 4␣pdd (fig. 6a). on the other hand,
+although proteasome activity of vector-transfected cells was
+increased by treatment with 50 nm pma, there were little
+effects observed at 10 nm pma (fig. 6a). thus, ␣-syn-overex-
+pressing cells responded more sensitively to pma treatment,
+suggesting the effect of pma on proteasome was more specific
+for ␣-syn-overexpressing cells, which showed decreased pro-
+teasome activity. the stimulatory effects of pma on the pro-
+teasome activity in ␣-syn-overexpressing cells reached the
+maximum at 50 nm (data not shown) and were completely abro-
+february 23, 2007 • volume 282 • number 8
+journal of biological chemistry 5743
+␣-synuclein and tumor differentiation
+figure 6. phorbol ester treatment restores proteasome activity and
+abrogates differentiation in ␣-syn-overexpressing mg63 cells. a, meas-
+urement of proteasome activity. vector-transfected (v2) and ␣-syn-overex-
+pressing cells (␣1) were incubated under the low serum (0.1%) conditions for
+24 h and then treated with 10% serum in the presence of any of vehicle (0.1%
+me2so (dmso)), pma (10 and 50 nm), 4␣pdd (50 nm), chelerythrine chloride
+(pkc inhibitor, 50 nm), or pma (50 nm) plus chelerythrine chloride (50 nm). cell
+extracts (5 ␮g) were harvested at 12 h after treatment and incubated with
+fluorogenic proteasome substrate at 37 °c. released fluorescence (excitation,
+380 nm; emission, 460 nm) was monitored each 5 min up to 60 min. fluoro-
+genic intensity of each time point was plotted, and the slope was calculated.
+data shown are the mean ⫾ s.d. (n ⫽ 3). **, p ⬍ 0.01. b, measurement of alp
+activity. vector-transfected (v2) and ␣-syn-overexpressing cells (␣1) were
+treated as described in a. cell extracts at 12 h treatment were incubated with
+p-nitrophenyl phosphate at 37 °c for 90 min. the amount of released nitro-
+phenol was monitored by the absorbance at 415 nm. data shown are the
+mean ⫾ s.d. (n ⫽ 3). *, p ⬍ 0.05; **, p ⬍ 0.01. c, in vitro mineralization assay.
+␣-syn-overexpressing cells (␣1) were treated with either pma or 4␣pdd at
+the indicated concentrations (0, 10, 20, 50 nm). matrix mineralization was then
+evaluated by alizarin red staining. please note that the staining was mitigated
+by pma but not by 4␣pdd. similar results were obtained by three independ-
+ent experiments.
+treatment with either vehicle or inactive 4␣pdd, pma effi-
+ciently reduced alp activity in ␣-syn-overexpressing cells (fig.
+6b). immunoreactivity of osteocalcin was also decreased by
+pma but not by 4␣pdd in these cells (data not shown). finally,
+it was confirmed that pma, but not 4␣pdd, significantly
+reduced matrix mineralization in ␣-syn-overexpressing cells as
+demonstrated by decreased stains of alizarin red (fig. 6c).
+taken together, pma treatment of ␣-syn-overexpressing cells
+restored proteasome activity and abrogation of cellular differ-
+entiation in these cells.
+up-regulation of lysosomal activity in ␣-syn-overexpressing
+mg63 cells—because a recent study has shown that autoph-
+agy-lysosomal pathway may play an important role for aggre-
+figure 5. association of ␣-syn with pkc and down-regulation of pkc
+activity in ␣-syn-overexpressing mg63 cells. a, coimmunoprecipitation
+(ip) of ␣-syn with either pkc⑀(upper) or s6a (middle). vector-transfected (v2)
+and ␣-syn-overexpressing cells (␣1) were harvested, and cell extracts (300
+␮g) were immunoprecipitated with anti-␣-syn antibody or mouse igg control
+followed by immunoblotting (ib)with either anti-pkc⑀(upper), anti-s6a (mid-
+dle), or syn-1 (low). cell extracts (5% of input) were used as positive controls.
+b, immunofluorescence/lscm of ␣-syn association with either pkc⑀or s6a in
+␣-syn-overexpressing cells. cells (␣1) were doubly stained with anti-␣-syn
+antibody (green) and either anti-pkc⑀ or s6a (red) and observed by lscm.
+please note that ␣-syn (red) and pkc⑀(green) were well co-localized in the cell
+bodies (c). bars represent 50 ␮m. c, measurement of pkc activity. exponen-
+tially growing cells (v2, ␣1, and ␤5) were treated with or without pma for 20
+min, and cell extracts (10 ␮g) were analyzed for pkc activity using fluorogenic
+peptides as substrates as described under “experimental procedures.” data
+shown are the mean ⫾ s.d. (n ⫽ 3). *, p ⬍ 0.05; **, p ⬍ 0.01. dmso, dimethyl
+sulfoxide.
+gated in the presence of pkc inhibitor, chelerythrine chloride
+(fig. 6a), implying that pma stimulated proteasome activity
+through phosphorylation but not through depletion of pkc.
+next, to determine whether pkc stimulation of proteasome
+activity modifies differentiation in ␣-syn-overexpressing cells,
+cellular differentiation markers were analyzed. compared with
+5744 journal of biological chemistry
+volume 282 • number 8 • february 23, 2007
+gate-prone proteins, including ␣-syn and huntingtin (44), it is
+reasonable to speculate that down-regulation of proteasome
+activity by ␣-syn might be further modulated by this pathway.
+in this context we wondered if lysosomal activity might be
+altered due to increased level of ␣-syn expression in ␣-syn-
+overexpressing cells. to test this hypothesis, cysteine protease
+cathepsin b, one of the major protease in lysosome, was eval-
+uated. the results showed that cathepsin b was significantly
+up-regulated in ␣-syn-overexpressing cells compared with
+vector-transfected and ␤-syn-overexpressing cells (fig. 7a).
+consistent with this, expression of cathepsin b was up-reg-
+ulated at protein and mrna levels in ␣-syn-overexpressing
+cells (fig. 7b, data not shown). to investigate the ultrastruc-
+ture of lysosome, an electron microscopic study was per-
+formed. the results revealed extensive lysosomal pathology,
+such as autolysosome and myelinosome, in ␣-syn-overex-
+pressing cells (fig. 7c, a, c, e, and f). on the contrary, fewer
+lysosomes were observed in vector-transfected and ␤-syn-
+overexpressing cells (fig. 7c, b and d). taken together, these
+results suggested that lysosomal activity was up-regulated in
+␣-syn-overexpressing cells.
+autophagy-lysosomal inhibitor treatment results in down-
+regulation of proteasome activity, leading to acceleration of
+cellular differentiation in ␣-syn-overexpressing mg63 cells—
+if up-regulation of lysosomal activity in ␣-syn-overexpressing
+cells may reflect the compensatory mechanism against the
+increased level of ␣-syn, then suppression of autophagy-lysoso-
+mal pathways may result in compromised clearance of ␣-syn,
+leading to decrease proteasome activity and accelerate cellular
+differentiation in those cells.
+we first evaluated expression levels of ␣- and ␤-syn proteins
+in the presence of autophagy-lysosomal inhibitors. the results
+of immunoblot analysis showed that ␣- and ␤-syn proteins
+were up-regulated by macroautophagy inhibitor 3-ma as well
+as by ammonium chloride, which inhibits lysosomal activity
+independently of the form of autophagy. by contrast, protea-
+some inhibitor lactacystin had little effect on the expression of
+both ␣- and ␤-syn proteins (fig. 8a). thus, these results sug-
+gested that ␣- and ␤-syn were preferentially degraded by auto-
+phagy-lysosomal pathway.
+then, to determine whether down-regulation of autophagy-
+lysosomal activity affects proteasome function, proteasome
+activity was evaluated by treatment with autophagy-lysosomal
+inhibitors. the result showed that treatments with autophagy-
+lysosomal inhibitors significantly decreased proteasome activ-
+ities in ␣-syn-overexpressing cells but not in other cell types
+(fig. 8b). by contrast, inhibition of proteasome by lactacystin
+had little effect on cathepsin b activity (data not shown). simi-
+larly, treatment of pma, which was shown to stimulate protea-
+some activity (fig. 6), had little effects on cathepsin b activity
+(data not shown).
+␣-synuclein and tumor differentiation
+figure 7. up-regulation of lysosomal activity in ␣-syn-overexpressing
+mg63 cells. a, measurement of cathepsin b activity. cell extracts (10 ␮g) were
+prepared as described under “experimental procedures” were analyzed for
+cathepsin b activity using fluorogenic substrates. released fluorescence
+(excitation, 380 nm; emission, 460 nm) was monitored each 5 min up to 60
+min. fluorogenic intensity of each time point was plotted, and slope was
+calculated. data shown are the mean ⫾ s.d. (n ⫽ 3). *, p ⬍ 0.05; **, p ⬍ 0.01.
+b, immunoblot analysis of cathepsin b. cell extracts (v2, ␣1, and ␤5) were
+analyzed by immunoblotting using anti-cathepsin b antibody (upper panel)
+and anti-actin antibody (lower panel). c, electron microscopic analysis. typi-
+cally, ␣-syn-overexpressing cells (␣1: a, c, e, and f) exhibited numerous
+enlarged electron-dense lysosomes (white arrowheads), vacuoles that might
+have already discharged their contents (white arrows), autolysosome-like
+body (black arrow), and myelinosome-like structures (black arrowheads). the
+enclosed area in panel e is magnified in panel f. fewer lysosomal structures
+were found in vector-transfected cells (v2, b) and ␤-syn-overexpressing cells
+(␤5, d). bars represent 8 ␮m (a and b, x1500), 2 ␮m (c and d, ⫻5000), 1 ␮m (e,
+⫻13000), or 0.5 ␮m (f, ⫻26000).
+cellular differentiation. thus, these results suggest that autoph-
+agy-lysosomal pathway may mitigate the down-regulation of
+proteasome activity by ␣-syn, therefore leading to abrogate cel-
+lular differentiation by ␣-syn.
+discussion
+although ␣-syn was previously shown to be expressed in the
+brain tumors that preferentially displayed differentiation rather
+thanproliferation,littlehasbeendocumentedregardingtheroleof
+finally, it was shown that treatment with both 3-ma and
+ammonium chloride significantly stimulated alp activity,
+osteocalcin expression, and matrix mineralization in ␣-syn-
+overexpressing cells compared with other cell types (fig. 8, c
+and d, data not shown). taken together, inhibition of autoph-
+agy-lysosomal activity in ␣-syn-overexpressing cells resulted in
+down-regulation of proteasome activity, leading to stimulate
+february 23, 2007 • volume 282 • number 8
+journal of biological chemistry 5745
+␣-synuclein and tumor differentiation
+pressing
+and vector-transfected
+cells (fig. 3), it was assumed that
+down-regulation of proteasome
+activity by ␣-syn could be at play for
+accelerated cellular differentiation
+in ␣-syn-overexpressing cells. sup-
+porting this notion, expression lev-
+els of p21 were up-regulated due to
+increased stability at the protein
+level. furthermore, high molecular
+weight proteins with polyubiquity-
+lation were also significantly accu-
+mulated (fig. 3). thus, it was inter-
+preted that decreased proteasome
+activity might result in prolonged
+g1 phase of cell cycle, which could
+be prerequisite for proliferating
+cells to escape from cell cycle and
+proceed to differentiation. indeed, it
+has been well described that protea-
+some inhibitors stimulated cellular
+differentiation in a variety of cell
+types,
+including osteoblastic cells
+(45), pc12 cells (46, 47), and oligo-
+dendrocytes (48). for example, pro-
+teasome inhibitors induced osteo-
+blastic differentiation and bone
+formation in vitro and in vivo, which
+were associated with up-regulation
+of bone morphogenetic protein-2
+(45). it was also shown that protea-
+some inhibitors stimulated neurite
+outgrowth in pc12 cells through
+activation of c-jun nh2-terminal
+kinase signaling pathway (46, 47).
+we also confirmed that treatment
+of wild-type mg63 cells with pro-
+teasome inhibitors, such as mg132
+and lactacystin, resulted in similar
+differentiation phenotype as characterized by increased expres-
+sion of p21, up-regulation of alp and osteocalcin, and
+enhanced matrix mineralization (fig. 4).
+then, what is the mechanism through which ␣-syn sup-
+presses proteasome activity? in this regard several reports have
+already documented a possibility that ␣-syn may directly inter-
+fere with the proteasome. based on two-hybrid screening,
+␣-syn was shown to bind to s6⬘, a component of the 19 s sub-
+unit in the 26 s proteasome, in cell cultures (41). subsequently,
+it was shown that aggregated ␣-syn, but not its monomeric
+form, efficiently inhibited the activity of the 26 s proteasome
+under the cell-free conditions (42, 43, 49). using ␣-syn-overex-
+pressing mg63 cells, we observed that s6a was co-precipitated
+with ␣-syn by co-immunoprecipitation experiment, although
+immunofluorescence/lscm study revealed that these mole-
+cules were partially colocalized in the cytoplasm (fig. 5).
+although we failed to observe any evidence of aggregated ␣-syn
+by both immunoblotting and immunofluorescence/lscm (fig.
+1b, a and b), one possible explanation for supporting the pos-
+figure 8. autophagy-lysosome inhibitor treatment decreases proteasome activity and stimulates cel-
+lular differentiation in ␣-syn-overexpressing mg63 cells. a, immunoblot analysis of syn proteins. cells (␣1,
+and ␤5) were incubated under the low serum (0.1%) conditions for 24 h and then treated with 10% serum in the
+presence of lactacystin (10 ␮m), ammonium chloride (nh4cl) (20 mm), and 3-ma (10 mm) for 24 h. cell lysates
+were analyzed by immunoblotting using syn-1 (upper panel) and anti-␤-syn monoclonal antibody (low panel).
+blots were reprobed with anti-actin antibody. similar results were obtained by three independent experi-
+ments. b, measurement of proteasome activity. cells (v2, ␣1, and ␤5) were prepared as described in a. cell
+extracts (5 ␮g) were harvested and incubated with fluorogenic proteasome substrate at 37 °c. released fluo-
+rescence (excitation, 380 nm; emission, 460 nm) was monitored each 5 min up to 60 min. fluorogenic intensity
+of each time point was plotted, and slope was calculated. data shown are the mean ⫾ s.d. (n ⫽ 3). please note
+that proteasome activity was significantly decreased in ␣-syn-overexpressing cells by ammonium chloride
+treatment (*, p ⬍ 0.05). c, measurement of alp activity. vector-transfected (v2) and ␣-syn-overexpressing cells
+(␣1) were prepared as described in a. cell extracts at 12 h of treatment were incubated with p-nitrophenyl
+phosphate at 37 °c for 90 min. the amount of released nitrophenol was monitored by the absorbance at 415 nm.
+data shown are the mean ⫾ s.d. (n ⫽ 3). *, p ⬍ 0.05; **, p ⬍ 0.01. d, in vitro mineralization assay. vector-transfected
+(v2) and ␣-syn-overexpressing cells (␣1) were treated with ammonium chloride (10 mm), 3-ma, (10 mm), or lactacys-
+tin (1 ␮m) for 2–4 weeks (2w–4w). matrix mineralization was then evaluated by alizarin red staining. please note that
+the staining was stimulated by ammonium chloride and to a lesser extent by 3-ma in ␣-syn-overexpressing cells but
+not in vector-transfected cells. similar results were obtained by three independent experiments.
+␣-syn for tumor differentiation. the present study showed that
+␣-syn-overexpressing mg63 osteosarcoma cells specifically
+exhibited phenotype of osteoblastic differentiation. compared
+with both ␤-syn-overexpressing and vector-transfected cells,
+␣-syn-overexpressing cells were characterized by decreased
+growth rates, associated with increased expression of p21 and
+reducedphosphorylatedrb(figs.1and3),indicatingthatthepro-
+gression from g1 to s phase was compromised in these cells. the
+prolonged g1 phase would be prerequisite for transition from g1
+to g0 and subsequent cellular differentiation. consistent with this
+view, osteoblastic differentiation markers, including alp and
+osteocalcin, were significantly up-regulated in ␣-syn-overexpress-
+ing cells compared with other cell types (fig. 2). furthermore,
+␣-syn-overexpressing cells, but not other cell types, were induced
+to form matrix mineralization during long-term cultures (fig. 2).
+taken together, our results using osteosarcoma cells support the
+contention that ␣-syn might stimulate tumor differentiation.
+because proteasome activity was significantly lower in
+␣-syn-overexpressing cells compared with both ␤-syn-overex-
+5746 journal of biological chemistry
+volume 282 • number 8 • february 23, 2007
+sibility of the direct suppression of proteasome by ␣-syn could
+be that misfolded monomer of ␣-syn rather than sds-resistant
+oligomers/high molecular aggregates might be at play for the
+suppression of proteasome functions in ␣-syn-overexpressing
+mg63 cells. in contrast to ␣-syn, ␤-syn, a less aggregate-prone
+protein that is non-amyloidogenic under the physiological con-
+ditions, had little effect on proteasome activity. the result is
+consistent with the previous report by snyder et al. (49).
+an alternative possibility that we favor is that alteration of
+signal transduction might play an important role for suppres-
+sion of proteasome activity in ␣-syn-overexpressing cells.
+indeed, it has been shown that various signaling molecules in
+mitogen-activated protein kinase and phosphatidylinositol
+3-kinase pathways were altered by accumulation of ␣-syn in a
+variety of cell cultures (35, 50). in the present study the role of
+the pkc signaling pathway was addressed for the regulation of
+proteasome activity because it was recently shown that treat-
+ment of skeletal muscle with phorbol ester stimulated protea-
+some activity (39). consistent with a previous study using neu-
+roblastoma cells and human brains (40), ␣-syn was shown to
+bind with pkc, thereby down-regulating the activity of this
+molecule in ␣-syn-overexpressing mg63 cells (fig. 5). further-
+more, treatment of ␣-syn-overexpressing cells with pma sig-
+nificantly restored the proteasome activity and abrogated dif-
+ferentiation in these cells (fig. 6). thus, proteasome activities
+were inversely correlated with the extent of differentiation,
+reinforcing the concept that suppression of proteasome activity
+by ␣-syn may accelerate differentiation. although the precise
+mechanism by which the proteasome is activated by pkc stim-
+ulation requires further investigation, it is possible that phos-
+phorylation might be involved. supporting this notion, it was
+recently shown that phosphorylation of ␣subunits of 20 s pro-
+teasome by various stimuli, such as ␥-interferon and casein
+kinase ii, was important for the regulation of the stability of 26
+s proteasome complexes in mammalian cells (51). taken
+together, proteasome activity may be regulated through phos-
+phorylation by signal transduction pathways, including pkc,
+which may be down-regulated by accumulation of ␣-syn.
+given the emerging role of autophagy-lysosomal pathway for
+the degradation of ␣-syn (52, 53), it is probable that alteration of
+this pathway may affect ␣-syn-mediated suppression of protea-
+some activity. indeed, the present study showed that the lyso-
+somal activity was significantly up-regulated in ␣-syn-overex-
+pressing cells compared with other cells (fig. 7). furthermore,
+in ␣-syn-overexpressing cells, inhibition of the autophagy-lyso-
+somal pathway resulted in down-regulation of proteasome
+activity associated with up-regulation of ␣-syn, whereas inhibi-
+tion of proteasome activity had little effect on autophagy-lyso-
+somal activity with little change of ␣-syn, suggesting that auto-
+phagy-lysosomal pathway is dominant to negatively regulate
+proteasome activities in these cells (fig. 8). together, these
+results suggest that lysosomal activity was up-regulated due to
+the compensatory mechanisms against increased level of ␣-syn.
+it has been recently shown that the autophagy-lysosomal path-
+way has pleiotropic roles in the regulation of cancer (54). for
+example, this pathway may be indispensable to tumors that
+must frequently survive under the nutrient-poor environ-
+ments. conversely, loss of function of this pathway might be
+␣-synuclein and tumor differentiation
+beneficial because of accumulation of genotoxic substances in
+the cytoplasm that could promote mutation and, hence, tumor-
+igenesis. the present study may provide a novel mechanism
+that the autophagy-lysosomal degradation pathway might neg-
+atively modulate the ups-regulated cellular differentiation in
+␣-syn-overexpressing tumors.
+because the identification of gene mutations of parkin in
+recessive familial pd and further characterization of this mol-
+ecule as a ubiquitin e3 ligase, it has been extensively shown that
+dysfunction of ups may be one major pathogenic pathway for
+pd and related neurodegenerative disorders. in this context,
+much literature has described that overexpression of ␣-syn was
+shown to result in decreased proteasome activities in a variety
+of biological system, including yeast (55) and the inducible
+expression system in pc12 cells (56), whereas some studies
+described that suppression of proteasome activity was not
+observed either in transgenic mice or in some cell cultures,
+including pc12 and 293 cells (37). our results are in line with
+the former reports and further suggest that down-regulation of
+ups by ␣-syn may play an important role for cells to escape
+from cell cycle and commit to cellular differentiation. although
+little has been documented regarding the role of ␣-syn for cell
+cycle, lee et al. (57) previously showed that inducible expres-
+sion of ␣-syn in pc12 cells resulted in enhanced proliferation
+rates through stimulation of erk pathway whereby cells were
+enriched in the s phase associated with increased accumulation
+of cyclin b and down-regulation of rb (57). the reason for the
+apparent discrepancy between the report by lee et al. (57) and
+our present study is obscure. however, one possible explana-
+tion is that effects of ␣-syn on growth and differentiation might
+be cell type-specific. indeed, it was shown that inducible expres-
+sion of ␣-syn in neuro2a cells resulted in inactivation of erk and
+other mitogen-activated protein kinase signals (58). taken
+together, although our results using mg63 osteosarcoma cells
+suggest a role of ␣-syn for tumor differentiation, further investiga-
+tion is required to confirm our current findings in vivo.
+in conclusion, our results showed that accumulation of ␣-syn
+might result in down-regulation of proteasome activity, leading
+to accelerate cellular differentiation in osteosarcoma cells. this
+process is further modulated by various factors, including pkc
+signaling pathway as well as autophagy-lysosomal activity.
+moreover, because a recent study has shown that many of other
+pd-related molecules are directly or indirectly involved in the
+regulation of ups (59), it is possible that the pd-related mole-
+cules might converge to regulate the activity of ups in tumor
+differentiation. thus, comprehensive understanding of the
+common pathway shared by both neurodegenerative disease
+and cancer have a great potential to provide a novel insight into
+the mechanism of these distinct categories of diseases.
+acknowledgments—we thank dr. koji okamoto (national cancer
+center research institute, tokyo) for critical reading of the manu-
+script and drs. hidetaka yakura and kazuya mizuno (tokyo metro-
+politan institute for neuroscience) for instructions on flow cytometry.
+we are also indebted to hideki itabashi for help in preparing the
+photographs.
+february 23, 2007 • volume 282 • number 8
+journal of biological chemistry 5747
+␣-synuclein and tumor differentiation
+references
+1. hashimoto, m., and masliah, e. (1999) brain pathol. 9, 707–720
+2. trojanowski, j., goedert, m., iwatsubo, t., and lee, v. (1998) cell death
+differ. 5, 832–837
+3. jakes, r., spillantini, m., and goedert, m. (1994) febs lett. 345, 27–32
+4. ueda, k., fukushima, h., masliah, e., xia, y., iwai, a., yoshimoto, m.,
+otero, d. a., kondo, j., ihara, y., and saitoh, t. (1993) proc. natl. acad.
+sci. u. s. a. 90, 11282–11286
+5. lansbury, p. t., jr. (1999) proc. natl. acad. sci. u. s. a. 96, 3342–3344
+6. polymeropoulos, m. h., lavedan, c., leroy, e., ide, s. e., dehejia, a.,
+dutra, a., pike, b., root, h., rubenstein, j., boyer, r., stenroos, e. s.,
+chandrasekharappa, s., athanassiadou, a., papapetropoulos, t., johnson,
+w. g., lazzarini, a. m., duvoisin, r. c., di iorio, g., golbe, l. i., and
+nussbaum, r. l. (1997) science 276, 2045–2047
+7. kruger, r., kuhn, w., muller, t., woitalla, d., graeber, m., kosel, s.,
+przuntek, h., epplen, j. t., schols, l., and riess, o. (1998) nat. genet. 18,
+106–108
+8. zarranz, j. j., alegre, j., gomez-esteban, j. c., lezcano, e., ros, r., ampu-
+ero, i., vidal, l., hoenicka, j., rodriguez, o., atares, b., llorens, v., gomez
+tortosa, e., del ser, t., munoz, d. g., and de yebenes, j. g. (2004) ann.
+neurol. 55, 164–173
+9. hashimoto, m., rockenstein, e., mante, m., mallory, m., and masliah, e.
+(2001) neuron 32, 213–223
+10. park, j. y., and lansbury, p. t., jr. (2003) biochemistry 42, 3696–3700
+11. ji, h., liu, y. e., jia, t., wang, m., liu, j., xiao, g., joseph, b. k., rosen, c.,
+and shi, y. e. (1997) cancer res. 57, 759–764
+12. lavedan, c., leroy, e., dehejia, a., buchholtz, s., dutra, a., nussbaum,
+r. l., and polymeropoulos, m. h. (1998) hum. genet. 103, 106–112
+13. zhao, w., liu, h., liu, w., wu, y., chen, w., jiang, b., zhou, y., xue, r.,
+luo, c., wang, l., jiang, j. d., and liu, j. (2006) int. j. oncol. 28, 1081–1088
+14. li, z., sclabas, g. m., peng, b., hess, k. r., abbruzzese, j. l., evans, d. b.,
+and chiao, p. j. (2004) cancer 101, 58–65
+15. iwaki, h., kageyama, s., isono, t., wakabayashi, y., okada, y., yoshimura,
+k., terai, a., arai, y., iwamura, h., kawakita, m., and yoshiki, t. (2004)
+cancer sci. 95, 955–961
+16. jia, t., liu, y. e., liu, j., and shi, y. e. (1999) cancer res. 59, 742–747
+17. liu, h., liu, w., wu, y., zhou, y., xue, r., luo, c., wang, l., zhao, w.,
+jiang, j. d., and liu, j. (2005) cancer res. 65, 7635–7643
+18. gupta, a., inaba, s., wong, o. k., fang, g., and liu, j. (2003) oncogene 22,
+19. inaba, s., li, c., shi, y. e., song, d. q., jiang, j. d., and liu, j. (2005) breast
+7593–7599
+cancer res. treat. 94, 25–35
+(2003) cancer res. 63, 3899–3903
+20. jiang, y., liu, y. e., lu, a., gupta, a., goldberg, i. d., liu, j., and shi, y. e.
+21. west, a. b., dawson, v. l., and dawson, t. m. (2005) trends neurosci. 28,
+22. wang, f., denison, s., lai, j. p., philips, l. a., montoya, d., kock, n.,
+schule, b., klein, c., shridhar, v., roberts, l. r., and smith, d. i. (2004)
+genes chromosomes cancer 40, 85–96
+23. picchio, m. c., martin, e. s., cesari, r., calin, g. a., yendamuri, s., kuroki,
+t., pentimalli, f., sarti, m., yoder, k., kaiser, l. r., fishel, r., and croce,
+c. m. (2004) clin. cancer res. 10, 2720–2724
+24. liu, y., lashuel, h. a., choi, s., xing, x., case, a., ni, j., yeh, l. a., cuny,
+g. d., stein, r. l., and lansbury, p. t., jr. (2003) chem. biol. 10, 837–846
+25. caballero, o. l., resto, v., patturajan, m., meerzaman, d., guo, m. z.,
+engles, j., yochem, r., ratovitski, e., sidransky, d., and jen, j. (2002) on-
+cogene 21, 3003–3010
+26. nagakubo, d., taira, t., kitaura, h., ikeda, m., tamai, k., iguchi-ariga,
+s. m., and ariga, h. (1997) biochem. biophys. res. commun. 231, 509–513
+27. kim, r. h., peters, m., jang, y., shi, w., pintilie, m., fletcher, g. c., de-
+luca, c., liepa, j., zhou, l., snow, b., binari, r. c., manoukian, a. s., bray,
+m. r., liu, f. f., tsao, m. s., and mak, t. w. (2005) cancer cell 7, 263–273
+28. kawashima, m., suzuki, s. o., doh-ura, k., and iwaki, t. (2000) acta
+neuropathol. (berl.) 99, 154–160
+348–352
+29. fung, k. m., rorke, l. b., giasson, b., lee, v. m., and trojanowski, j. q.
+neurosci. 7, 207–219
+5748 journal of biological chemistry
+volume 282 • number 8 • february 23, 2007
+(2003) acta neuropathol. (berl.) 106, 167–175
+30. bruening, w., giasson, b. i., klein-szanto, a. j., lee, v. m., trojanowski,
+j. q., and godwin, a. k. (2000) cancer 88, 2154–2163
+31. hashimoto, m., yoshimoto, m., sisk, a., hsu, l. j., sundsmo, m., kittel, a.,
+saitoh, t., miller, a., and masliah, e. (1997) biochem. biophys. res. com-
+mun. 237, 611–616
+32. stefanis, l., kholodilov, n., rideout, h. j., burke, r. e., and greene, l. a.
+(2001) j. neurochem. 76, 1165–1176
+33. takeda, a., hashimoto, m., mallory, m., sundsumo, m., hansen, l., and
+masliah, e. (2000) acta neuropathol. (berl) 99, 296–304
+34. takenouchi, t., hashimoto, m., hsu, l. j., mackowski, b., rockenstein, e.,
+mallory, m., and masliah, e. (2001) mol. cell. neurosci. 17, 141–150
+35. hashimoto, m., takenouchi, t., rockenstein, e., and masliah, e. (2003)
+j. neurochem. 85, 1468–1479
+36. tanimoto, y., yokozeki, m., hiura, k., matsumoto, k., nakanishi, h.,
+matsumoto, t., marie, p. j., and moriyama, k. (2004) j. biol. chem. 279,
+45926–45934
+37. martin-clemente, b., alvarez-castelao, b., mayo, i., sierra, a. b., diaz, v.,
+milan, m., farinas, i., gomez-isla, t., ferrer, i., and castano, j. g. (2004)
+j. biol. chem. 279, 52984–52990
+38. nakai, m., toshimori, k., yoshinaga, k., nasu, t., and hess, r. a. (1998)
+cell tissue res. 294, 145–152
+39. wyke, s. m., and tisdale, m. j. (2006) life sci. 78, 2898–2910
+40. ostrerova, n., petrucelli, l., farrer, m., mehta, m., choi, p., hardy, j., and
+wolozin, b. (1999) j. neurosci. 19, 5782–5791
+41. ghee, m., fournier, a., and mallet, j. (2000) j. neurochem. 75, 2221–2224
+42. snyder, h., mensah, k., theisler, c., lee, j., matouschek, a., and wolozin,
+b. (2003) j. biol. chem. 278, 11753–11759
+43. lindersson, e., beedholm, r., hojrup, p., moos, t., gai, w., hendil, k. b.,
+and jensen, p. h. (2004) j. biol. chem. 279, 12924–12934
+44. rubinsztein, d. c. (2006) nature 443, 780–786
+45. garrett, i. r., chen, d., gutierrez, g., zhao, m., escobedo, a., rossini, g.,
+harris, s. e., gallwitz, w., kim, k. b., hu, s., crews, c. m., and mundy,
+g. r. (2003) j. clin. investig. 111, 1771–1782
+46. obin, m., mesco, e., gong, x., haas, a. l., joseph, j., and taylor, a. (1999)
+47. giasson, b. i., bruening, w., durham, h. d., and mushynski, w. e. (1999)
+48. pasquini, l. a., paez, p. m., moreno, m. a., pasquini, j. m., and soto, e. f.
+j. biol. chem. 274, 11789–11795
+j. neurochem. 72, 1081–1087
+(2003) j. neurosci. 23, 4635–4644
+49. snyder, h., mensah, k., hsu, c., hashimoto, m., surgucheva, i. g., festoff,
+b., surguchov, a., masliah, e., matouschek, a., and wolozin, b. (2005)
+j. biol. chem. 280, 7562–7569
+50. seo, j. h., rah, j. c., choi, s. h., shin, j. k., min, k., kim, h. s., park, c. h.,
+kim, s., kim, e. m., lee, s. h., lee, s., suh, s. w., and suh, y. h. (2002)
+faseb j. 16, 1826–1828
+51. bose, s., stratford, f. l., broadfoot, k. i., mason, g. g., and rivett, a. j.
+(2004) biochem. j. 378, 177–184
+52. webb, j. l., ravikumar, b., atkins, j., skepper, j. n., and rubinsztein, d. c.
+(2003) j. biol. chem. 278, 25009–25013
+53. cuervo, a. m., stefanis, l., fredenburg, r., lansbury, p. t., and sulzer, d.
+(2004) science 305, 1292–1295
+54. mizushima, n. (2005) cell death differ. 12, suppl. 2, 1535–1541
+55. chen, q., thorpe, j., and keller, j. n. (2005) j. biol. chem. 280,
+30009–30017
+56. tanaka, y., engelender, s., igarashi, s., rao, r. k., wanner, t., tanzi, r. e.,
+sawa, a., v. l. d., dawson, t. m., and ross, c. a. (2001) hum. mol. genet.
+10, 919–926
+57. lee, s. s., kim, y. m., junn, e., lee, g., park, k. h., tanaka, m., ronchetti,
+r. d., quezado, m. m., and mouradian, m. m. (2003) neurobiol. aging 24,
+687–696
+58. iwata, a., maruyama, m., kanazawa, i., and nukina, n. (2001) j. biol.
+chem. 276, 45320–45329
+59. abou-sleiman, p. m., muqit, m. m., and wood, n. w. (2006) nat. rev.

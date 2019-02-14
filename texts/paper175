@@ -1,0 +1,1897 @@
+transcription analysis of arabidopsis membrane
+transporters and hormone pathways during
+developmental and induced leaf senescence1[w]
+eric van der graaff2, rainer schwacke, anja schneider3, marcelo desimone,
+ulf-ingo flu¨ gge, and reinhard kunze4*
+institute of botany ii, university of cologne, 50931 cologne, germany (e.v.d.g., r.s., a.s., u.-i.f., r.k.);
+and center of plant molecular biology, university of tu¨ bingen, 72076 tuebingen, germany (m.d.)
+a comparative transcriptome analysis for successive stages of arabidopsis (arabidopsis thaliana) developmental leaf senescence
+(ns), darkening-induced senescence of individual leaves attached to the plant (dis), and senescence in dark-incubated detached
+leaves (det) revealed many novel senescence-associated genes with distinct expression proﬁles. the three senescence processes
+share a high number of regulated genes, although the overall number of regulated genes during dis and det is about 2 times
+lower than during ns. consequently, the number of ns-speciﬁc genes is much higher than the number of dis- or det-speciﬁc
+genes. the expression proﬁles of transporters (tps), receptor-like kinases, autophagy genes, and hormone pathways were
+analyzed in detail. the arabidopsis tps and other integral membrane proteins were systematically reclassiﬁed based on the
+transporter classiﬁcation system. coordinate activation or inactivation of several genes is observed in some tp families in all
+three or only in individual senescence types, indicating differences in the genetic programs for remobilization of catabolites.
+characteristic senescence type-speciﬁc differences were also apparent in the expression proﬁles of (putative) signaling kinases.
+for eight hormones, the expression of biosynthesis, metabolism, signaling, and (partially) response genes was investigated. in
+most pathways, novel senescence-associated genes were identiﬁed. the expression proﬁles of hormone homeostasis and
+signaling genes reveal additional players in the senescence regulatory network.
+during its life span, a rosette leaf progresses through
+distinct developmental stages. shortly after its initia-
+tion as a leaf primordium, the young leaf is a typical
+sink organ. subsequently, the leaf undergoes a phase
+of rapid expansion, during which transition from sink
+to source organ takes place. after reaching its ﬁnal
+(mature) size and a period as source organ, the rosette
+leaf enters the program of leaf senescence. during
+this process nutrients are recycled and transported to
+sink tissues, which in arabidopsis (arabidopsis thali-
+ana) are developing ﬂowers and seeds (himelblau and
+amasino, 2001).
+1 this work was supported by grants from the deutsche
+the bundesministerium fu¨ r bildung
+forschungsgemeinschaft,
+und forschung, and the fonds der chemischen industrie.
+2 present address: institute of biology iii, university of freiburg,
+scha¨nzlestrasse 1, 79104 freiburg, germany.
+3 present address: botanical
+institute, ludwig-maximilians-
+university munich, menzinger str. 67, 80638 munich, germany.
+4 present address: institute of biology/applied genetics, free
+university berlin, albrecht-thaer-weg 6, 14195 berlin, germany.
+* corresponding author; e-mail rkunze@zedat.fu-berlin.de; fax
+49–30–838–54345.
+the author responsible for distribution of materials integral to the
+ﬁndings presented in this article in accordance with the policy
+described in the instructions for authors (www.plantphysiol.org) is:
+reinhard kunze (rkunze@zedat.fu-berlin.de).
+[w] the online version of this article contains web-only data.
+article, publication date, and citation information can be found at
+www.plantphysiol.org/cgi/doi/10.1104/pp.106.079293.
+leaf senescence is a postmitotic senescence program
+(for review, see gan, 2003) that occurs in aging, but
+also in stressed or detached leaves, and proceeds in a
+strictly ordered manner. leaf senescence begins with
+the transition from anabolism of carbohydrates and
+other biomolecules to catabolism of proteins, nucleic
+acids, and lipids, and culminates in cell death. the
+onset and progression of leaf senescence is accompa-
+nied by changes in expression of a large number of
+genes, and activation of new genes in leaves is re-
+quired for the onset of senescence (for review, see
+noode´n et al., 1997; buchanan-wollaston et al., 2003;
+gan, 2003). using various techniques, hundreds of
+senescence-associated genes (sags) were identiﬁed in
+arabidopsis (e.g. he et al., 2001; hinderhofer and
+zentgraf, 2001; chen et al., 2002; buchanan-wollaston
+et al., 2003, 2005).
+many, but not all, sags respond to induced senes-
+cence in a broadly similar fashion as upon natural leaf
+senescence or aging. however, different treatments
+induce different but overlapping sets of sags (becker
+and apel, 1993; weaver et al., 1998). incubation of de-
+tached leaves in darkness is highly effective in in-
+ducing sags, leaf yellowing, and chlorophyll loss
+(weaver and amasino, 2001), and it was suggested
+that the respective sags might be a superset of those
+induced by aging (weaver et al., 1998). the evaluation
+of the overlap between artiﬁcially and aging-induced
+sags therefore gives an idea which sags are senes-
+cence speciﬁc or possibly more generally induced by
+stress conditions.
+776
+plant physiology, june 2006, vol. 141, pp. 776–792, www.plantphysiol.org ó 2006 american society of plant biologists
+downloaded from 
+www.plantphysiol.org
+ on july 2, 2014 - published by 
+www.plant.org
+copyright © 2006 american society of plant biologists. all rights reserved.
+in this study, the genome-wide changes in gene
+expression during leaf senescence were investigated
+employing the agilent arabidopsis version 2 chips
+with more than 80% genome coverage. to recognize
+changes in expression that are speciﬁc for develop-
+mental leaf senescence (ns) or aging, the respective
+expression proﬁles were compared to that of individ-
+ually shaded leaves still attached to the plant (dis) and
+detached dark-incubated leaves (det). the emphasis
+of this study was to identify (putative) transporters
+(tps), signaling kinases, and hormone pathway genes
+that are regulated during senescence. many novel
+sags in various protein categories were identiﬁed.
+we discuss possible functions for several of these
+proteins during senescence and the involvement of
+hormone pathways in developmental and induced
+senescence.
+results and discussion
+experimental setup
+it was reported that
+to study the progression of ns, leaves were harves-
+ted at six developmental stages from a sink leaf stage
+(4-week-old plants) to a late senescent stage (approx-
+imately 75% yellowing of the leaf surface; $80%
+chlorophyll loss; table i). from each senescence stage,
+rna was prepared, labeled, and hybridized to agilent
+arabidopsis 2 microarrays with 21,500 probes that
+represent more than 80% of arabidopsis genes. in a
+recent study,
+the sensitivity
+of these microarrays is comparable with affymetrix
+ath1 and catma arrays (allemeersch et al., 2005).
+ns expression proﬁles were compared with proﬁles
+induced by dis and by det. these treatments were
+established to induce senescence (becker and apel,
+1993; oh et al., 1996; park et al., 1998; weaver and
+amasino, 2001). as the expression proﬁles in senes-
+cing leaves are inﬂuenced both by the age (position)
+of the rosette leaf and plant age (zentgraf et al.,
+2004), the use of whole plants as a source for rna
+extraction could cause dilution, distortion, or blurring
+of senescence-associated expression proﬁles. therefore,
+in this study, only the ﬁfth and sixth rosette leaves
+were used.
+in all samples, chlorophyll a and b contents were
+determined (supplemental fig. 1b), allowing correla-
+arabidopsis natural and induced senescence transcriptome
+tion of the senescence stages of the ns, det, and dis
+experiments with each other and with experiments
+reported by others (weaver et al., 1998; weaver and
+amasino, 2001). in dis, similar chlorophyll degrada-
+tion levels as during ns in the leaves were observed
+between 2 and 9 d after shading. after detaching of
+leaves, chlorophyll degradation occurs more rapidly,
+reaching comparably low levels already after approx-
+imately 6 d. the time scales in figures 4 to 7 and sup-
+plemental figures 2 to 10 were superimposed based on
+approximately equal chlorophyll contents.
+expression proﬁles during leaf senescence
+in this study, structural, functional, and classiﬁca-
+tion attributes were assigned to approximately 10,000
+arabidopsis genes (supplemental table i) and linked
+to the 21,500 genes represented on the microarrays. in
+table ii, the complete list of all ﬁgures and tables used
+for the discussion of individual protein families is
+given. the expression data for all 21,500 genes are
+summarized in supplemental table ii. supplemental
+table iii summarizes the data for all genes signiﬁ-
+cantly regulated in both biological replicates (see
+‘‘materials and methods’’), including the classiﬁcation
+tags.
+the regulated genes were sorted into seven clusters
+by k-means clustering (supplemental fig. 1a; sup-
+plemental table iii). most of the 3,513 genes regulated
+during the ns experiment exhibit a gradual up-
+regulation (38%; cluster 1) or down-regulation (33%;
+cluster 7). other genes are transiently up-regulated
+(17%; clusters 2–4) or down-regulated (11%; clusters 5
+and 6). in the dis and det experiments, only 1,833
+and 2,158 regulated genes were observed, and of these
+smaller fractions than during ns exhibit a gradual
+regulation (clusters 1 and 7). this difference presum-
+ably reﬂects that, during the 3 to 4 weeks of ns pro-
+gression, developmentally programmed physiological
+processes are activated that remain inactive during the
+only 6- to 9-d det and dis senescence reactions. on
+the other hand, during det and dis, after only 2 d
+more genes show an intense response than at the
+5-week-old ns stage, which is most obvious for the
+genes in dis and det clusters 3 to 5. the determination
+of expression levels at multiple time points allowed
+the recognition of sags with early and transient
+table i. developmental stages of ﬁfth and sixth rosette leaves harvested for natural leaf senescence (ns)
+das, days after sowing; w, week; y, percentage of yellow surface.
+stage
+4w
+5w
+6w
+25y
+50y
+75y
+das
+28
+35
+42
+48–50
+50–53
+52–56
+description
+rapid expansion, sink leaf
+fully expanded, sink-to-source transition
+fully expanded, source leaf
+early senescence, approximately 25% yellow surface
+mid-senescence, approximately 50% yellow surface
+late senescence, approximately 75% yellow surface
+adevelopmental stages according to boyes et al. (2001).
+principle growtha
+rosette growth
+flower production
+flower production
+flower production
+flower production
+silique ripening
+plant physiol. vol. 141, 2006
+ on july 2, 2014 - published by 
+www.plant.org
+downloaded from 
+www.plantphysiol.org
+copyright © 2006 american society of plant biologists. all rights reserved.
+stagea
+3.50–3.70
+6.00–6.10
+6.10–6.30
+6.30–6.50
+6.50–6.90
+6.90–8.00
+777
+van der graaff et al.
+table ii. list of ﬁgures and tables
+supp., supplemental.
+name
+description
+table i
+description of natural senescence leaf
+table ii
+table iii
+table iv
+figure 1
+material
+this table
+expression proﬁles of sags
+plant speciﬁcity of senescence-regulated
+genes
+a, sets of genes regulated during ns, dis,
+and det; b, mips functional categories
+figure 2
+tp families with biased frequencies of
+up- or down-regulated genes
+figure 3
+rlk families with biased frequencies of
+up- or down-regulated genes
+figure 4
+figure 5
+expression proﬁles of selected atg genes
+expression proﬁles of selected ck-related
+figure 6
+expression proﬁles of selected ja-related
+genes
+genes
+figure 7
+expression proﬁles of selected ga- and
+br-related genes
+supp. table i
+10,127 genes with structural, functional,
+classiﬁcation, and other tags
+supp. table ii
+supp. table iii
+relative expression values of 21,500 genes
+on the agilent arabidopsis 2 microarray
+4,109 genes regulated during ns, dis, or
+det with tags
+supp. table iv 1,063 putative tps
+supp. table v
+supp. table vi
+supp. table vii relative expression values of regulated
+relative expression values of regulated tps
+986 putative kinases and rlks
+expression peaks, or slow and late up-regulation, that
+could be overlooked in single senescence stage exper-
+iments.
+developmental and induced senescence share many
+commonly regulated genes
+the expression proﬁles of 22 reported sags and of a
+chlorophyll a/b binding protein (cab) were analyzed
+(table iii). the cab gene is strongly and continuously
+down-regulated during ns, dis, and det. applying
+stringent selection criteria (see ‘‘materials and methods’’),
+all except two sags (sag101 and yls3) are up-
+regulated. the 17 sags that show up-regulation during
+ns are also up-regulated in det and/or dis. these
+data indicate that our results are consistent and com-
+parable with those of other studies. three genes, sen1,
+din11, and sag102, are only in det and/or dis
+signiﬁcantly up-regulated.
+the venn diagrams in figure 1a illustrate the pro-
+portions of common and condition-speciﬁc regulated
+genes. during ns, the up-regulated genes outnumber
+the down-regulated genes, whereas in dis and det
+the fractions are similar or opposite. of the 1,232 genes
+regulated in all three conditions, more genes are down-
+regulated (726 genes 5 59%) than up-regulated (506
+genes 5 41%). this set of commonly regulated genes
+kinases and rlks
+table iii. temporal expression of sags
+supp. table viii 2,996 ps genes and 2,391 genes found in
+ao on the microarray
+supp. table ix atg genes
+ck-related genes
+supp. table x
+ja-related genes
+supp. table xi
+supp. table xii
+sa-related genes
+supp. table xiii et-related genes
+supp. table xiv auxin-related genes
+supp. table xv ga-related genes
+supp. table xvi br-related genes
+supp. table xvii aba-related genes
+supp. figure 1
+k-means clustering of genes regulated during
+supp. figure 2
+expression proﬁles of senescence-associated
+senescence
+atg genes
+supp. figure 3
+expression proﬁles of senescence-associated
+ja-related genes
+supp. figure 4
+expression proﬁles of senescence-associated
+sa-related genes
+supp. figure 5
+expression proﬁles of senescence-associated
+sa-responsive genes
+supp. figure 6
+expression proﬁles of senescence-associated
+et-related genes
+supp. figure 7
+expression proﬁles of senescence-associated
+ja- and et-responsive genes
+supp. figure 8
+expression proﬁles of senescence-associated
+auxin-related genes
+supp. figure 9
+expression proﬁles of senescence-associated
+supp. figure 10 expression proﬁles of senescence-associated
+auxin-signaling genes
+aba-related genes
+gene id
+name
+ns
+clustera
+dis
+clustera
+det
+clustera
+sag101
+at5g14930
+sen1
+at5g66170
+at3g63210
+sag102
+at1g62300 wrky6
+sag13
+at2g29350
+sag26
+at1g09500
+yls4, atasp3
+at5g11520
+yls6
+at2g45570
+at5g13170
+sag29
+yls7
+at5g51640
+sag24
+at1g66580
+yls1
+at3g60130
+sag12
+at5g45890
+at3g10980
+sag20
+din10
+at5g20250
+sag21
+at4g02380
+erd1
+at5g51070
+sag103
+at1g10140
+at4g30270
+sen4
+yls2
+at3g51430
+yls3
+at2g44290
+din11
+at3g49620
+at1g29920
+cab
+anumbers refer to the clusters shown in supplemental figure 1.
+clusters 1 to 4 in ns and 1 to 3 in dis and det represent upregulated
+genes, and clusters 5 to 7 in ns and 4 to 7 in dis and det represent
+down-regulated genes.
+indicates no signiﬁcant expression or
+regulation.
+‘‘0’’
+778
+plant physiol. vol. 141, 2006
+downloaded from 
+www.plantphysiol.org
+ on july 2, 2014 - published by 
+www.plant.org
+copyright © 2006 american society of plant biologists. all rights reserved.
+arabidopsis natural and induced senescence transcriptome
+tion of the products, during which supposedly tps are
+critically involved. however, until recently only few
+senescence-associated tps were reported (himelblau
+and amasino, 2001; quirino et al., 2001), and, only
+after the advent of large-scale expression proﬁling,
+more (putative) arabidopsis tps that are up-regulated
+during senescence were identiﬁed (buchanan-wollaston
+et al., 2003, 2005; guo et al., 2004; lin and wu, 2004).
+the arabidopsis membrane proteins were system-
+atically reclassiﬁed (see ‘‘materials and methods’’),
+resulting in 2,234 predicted arabidopsis proteins with
+at least three transmembrane (tm) spans (supplemen-
+tal table i, column f). a categorization by the trans-
+porter classiﬁcation system (tc; busch and saier,
+2004) returned 994 proteins assigned to 84 tp families,
+including 32 proteins with less than three tm spans. in
+addition, 69 putative tps are listed that could not be
+assigned to a tc family (supplemental table iv).
+of the 963 putative tp genes on the array, during ns
+153 are up-regulated (173 during ns or dis or det)
+and 60 are down-regulated (72 during ns or dis or
+det; supplemental table v). remarkably, the propor-
+tion of up-regulated tps is about 1.5 times higher than
+that of all genes in the three senescence experiments,
+whereas the overall proportion of down-regulated tps
+is similar to that of all genes (fig. 2).
+in 27 of the 80 tc families, no signiﬁcant regulation
+of genes is observed in any of the three senescence
+experiments, and 26 families are either too small to
+calculate a relative frequency or exhibit regulation
+of only a single gene in one experiment. in 21 of
+the remaining 27 families, a tendency toward up-
+regulation during senescence is apparent (fig. 2). the
+only predominantly down-regulated families are the
+major intrinsic proteins, divalent anion:na1 sym-
+porters, and auxin efﬂux carriers. the preponderance
+of up-regulated tps corresponds well with the sub-
+strates known to be transported from senescent leaves
+to sink organs (amino acids, inorganic phosphorus, sug-
+ars, purines, pyrimidines, and metal ions; himelblau
+and amasino, 2001; soudry et al., 2005). the up-
+regulation for amino acid and oligopeptide tps corre-
+lates with the high amount of protein degradation
+taking place during senescence and the subsequent
+need to export the breakdown products to the sink
+organs (ho¨ rtensteiner and feller, 2002). many tps are
+commonly regulated in the three types of senescence
+experiments, indicating that the nutrient ﬂuxes might
+be largely similar (fig. 2; supplemental table v).
+however, during ns a higher fraction of amino acid
+and oligopeptide tps are up-regulated. this probably
+reﬂects the slower and developmentally controlled
+progression of the senescence process during aging
+compared to det and dis, presumably enabling a
+more efﬁcient and thorough nutrient mobilization
+during ns.
+subcellular localization predictions for the tps were
+retrieved from the aramemnon database and are
+indicated in supplemental tables iv and v. the genes
+encoding tps with predicted localization in the
+figure 1. a, venn diagrams showing the numbers of signiﬁcantly up-
+regulated and down-regulated genes that are unique or commonly
+regulated during ns, dis, and det. b, frequency of regulated genes
+that are assigned to a functional protein category according to the
+matdb. the number of genes on the array assigned to a category is
+shown in parentheses beside the category designation. positive and
+negative values on the scale indicate the fraction of up- and down-
+regulated genes, respectively.
+includes more than 50% of the genes regulated in
+dis and det, indicating that the developmental and
+induced senescence programs share many common
+pathways.
+categories of sags
+for an overview, the frequency of regulated genes/
+proteins assigned to major protein functional categories
+in the munich information center for protein sequences
+(mips) arabidopsis database (matdb; schoof et al.,
+2004) was determined. in most categories, similar pro-
+portions of genes are regulated in dis and det,
+whereas in ns slightly more genes are up-regulated.
+however, in all three conditions, a bias toward down-
+regulation is observed for the ‘‘transposable element,’’
+‘‘protein synthesis,’’ and ‘‘energy’’ categories (fig. 1b;
+supplemental table ii). in the following sections,
+selected protein classes are discussed in more detail.
+tps
+a key role of senescence in plant tissues is the or-
+dered degradation of macromolecules and mobiliza-
+plant physiol. vol. 141, 2006
+downloaded from 
+www.plantphysiol.org
+copyright © 2006 american society of plant biologists. all rights reserved.
+ on july 2, 2014 - published by 
+www.plant.org
+779
+van der graaff et al.
+figure 2. tp families with biased frequencies of
+signiﬁcantly up- or down-regulated genes during
+senescence. behind the tp family designation as
+deﬁned in the tc system, the tc family code (in
+brackets) and the number of genes on the array
+assigned to this family (in parentheses) are indi-
+cated. positive and negative values on the x axis
+indicate the fraction of up- and down-regulated
+genes, respectively.
+plasma membrane (secretory pathway) exhibit a pref-
+erential up-regulation during ns and det. similar to
+the total set of regulated genes, the genes encoding
+(putative) plastidic localized tps display a preferential
+down-regulation during all three senescence experi-
+ments. this might reﬂect the decline in photoassimi-
+late export
+from plastids during the progression
+of senescence. only 14 putative tps with predicted
+plastidic localization are up-regulated during ns
+(supplemental table v). it is conceivable that these
+proteins are speciﬁcally involved in recycling of deg-
+radation products and energy allocation in the senesc-
+ing plastids. the up-regulation of
+the putative
+aminophospholipid translocase atala3 later in senes-
+cence might indicate a role in exporting thylakoid mem-
+brane degradation products.
+in a recent study, 74 putative tps up-regulated
+during developmental senescence were identiﬁed
+(buchanan-wollaston et al., 2005). four of these are
+not represented on the microarrays used here, and ﬁve
+are not tm proteins according to the aramemnon
+database. forty-eight of the remaining genes also show
+up in the ns experiment (supplemental table v, col-
+umn g). the remaining 17 genes were not rated as up-
+regulated in our experiment because they did not pass
+the signiﬁcance criteria.
+kinases and receptor-like kinases
+in arabidopsis, nearly 1,000 genes are estimated to
+encode proteins belonging to the eukaryotic protein
+kinase superfamily. more than 60% of these are receptor-
+like kinases (rlks) whose kinase domains belong to
+the same family as the mammalian interleukin receptor-
+associated kinases and the drosophila melanogaster
+pelle proteins (shiu and bleecker, 2001).
+the agilent chip carries probes for 376 kinase and
+610 rlk genes that fall into 62 (sub)families (supple-
+mental table vi). more than 470 rlk/pelle proteins
+are predicted by the aramemnon database to con-
+tain a single a-helical tm domain.
+overall, 55 (9) kinase and 91 (42) rlk genes are up-
+regulated (down-regulated) during ns or dis or det
+(supplemental table vii). thus, the same proportion
+(15%) of kinases and rlks are up-regulated, whereas
+the proportion of down-regulated kinases is lower.
+thirteen of the 61 kinase and rlk families are not
+regulated during senescence, and 32 families are either
+too small to calculate a relative frequency or exhibit
+regulation of only a single gene in one experiment.
+from 27 kinase and rlk families with more conspic-
+uous patterns, 13 are shown in figure 3. in contrast to
+the tp genes, the differences in expression patterns
+between ns, dis, and det are striking in some sub-
+families. some genes are up-regulated in all three senes-
+cence types; however, more frequently up-regulation
+is observed in ns, but not in dis and det. for example,
+11 members of the duf26 subfamily are rapidly up-
+regulated during the 5-week and 6-week ns stages, but
+not in dis and det. atcrk10 is even down-regulated
+during dis and det (supplemental table vii). atcrk7
+and atcrk37 are salicylic acid (sa) responsive
+780
+downloaded from 
+www.plantphysiol.org
+copyright © 2006 american society of plant biologists. all rights reserved.
+ on july 2, 2014 - published by 
+www.plant.org
+plant physiol. vol. 141, 2006
+arabidopsis natural and induced senescence transcriptome
+senescence is only slightly higher than the frequency
+of regulated ao genes (table iv).
+of the 1,931 tm genes on the array, comprising tps
+and other proteins with more than three tm spans
+(supplemental table i, column f), 10% are in the
+ps and 15% in the ao groups. the frequency of
+senescence-up-regulated tm genes in the ao group is
+approximately 3 times higher than that of the up- or
+down-regulated ps tm genes and the down-regulated
+tm genes common to all organisms, suggesting that
+the majority of tp functions involved in leaf senes-
+cence are common to all taxa and only few senescence-
+speciﬁc activities are required.
+differences become apparent in the two other pro-
+tein categories. of the 1,985 putative transcription
+factors (tfs) on the array, 32% are in the ps and only
+1.6% in the ao groups. during developmental senes-
+cence, 133 (21%) of all ps tfs are either up- or down-
+regulated, whereas only four tfs in the ao group
+(12.5% of all ao tfs) are regulated. even when taking
+into account that arabidopsis has 2 to 3 times more
+tfs than caenorhabditis elegans or d. melanogaster and
+only 8% to 23% of arabidopsis tfs show similarity to
+tfs in non-plant eukaryotes (arabidopsis genome
+initiative, 2000), there remains a disparity that sug-
+gests that ps tfs are key players in the regulatory
+pathways leading to and coordinating leaf senescence.
+an opposite bias is observed in the kinase and rlk
+categories. apparently, there exist almost no strictly ps
+(receptor-like) kinases in arabidopsis. all these pro-
+teins have relatives in other taxa, 65% of them even in
+ao (table iv).
+autophagy genes and senescence
+during senescence, different pathways contribute to
+degradation of proteins and other macromolecules,
+one of them being autophagy (atg). in arabidopsis,
+some atg genes are encoded by small gene families,
+e.g. there are nine orthologs of the yeast atg8 and ﬁve
+orthologs of the atg18 protein. knockout or rnai
+mutants of atatg4a/b, atatg5, atatg7, atatg9, and
+atatg18a display accelerated senescence and hyper-
+sensitivity to nutrient starvation (doelling et al., 2002;
+hanaoka et al., 2002; yoshimoto et al., 2004; thompson
+et al., 2005; xiong et al., 2005), indicating that autophagy
+is not essential for the senescence program but plays an
+important role in nutrient remobilization. consistently,
+in arabidopsis suspension-cultured cells, several atg
+genes are up-regulated at the onset of carbon starvation
+(contento et al., 2004; rose et al., 2006).
+remarkably, nineteen of the 21 arabidopsis atg
+genes (supplemental table ix) on the microarray are
+transcriptionally activated (supplemental fig. 2). it ap-
+pears most atg genes are coordinately up-regulated
+at a stage in developmental senescence when chloro-
+phyll degradation starts to get visible, i.e. between the
+6-week and 25%-bleaching stages. figure 4 shows
+the expression proﬁles of the most dramatically up-
+regulated atg genes, 7, 8a, 8e, and 9. the prolonged
+figure 3. rlk families with biased frequencies of signiﬁcantly up- or
+down-regulated genes during senescence. behind the kinase family
+designations, the number of genes on the array assigned to this family is
+indicated in parentheses. positive and negative values on the x axis
+indicate the fraction of up- and down-regulated genes, respectively.
+(supplemental fig. 5, g and w; buchanan-wollaston
+et al., 2005), and several of these crks (for ca21-
+dependent protein kinase-related kinases) were shown
+tobeinvolvedinpathogendefenseresponsesandhyper-
+sensitive response-like cell death (chen et al., 2003,
+2004). leu-rich repeat-ia is another rlk subfamily
+with several ns up-regulated genes. here, four of the
+ﬁve genes are also up-regulated during det, but not
+during dis. this group includes atsirk, which also is
+sa induced (supplemental fig. 5l; buchanan-wollaston
+et al., 2005). the senescence-associated expression of
+atsirk and a close relative in bean, sark , was noted
+before (hajouj et al., 2000; robatzek and somssich, 2002).
+plant-speciﬁc genes and senescence
+leaf senescence is a unique plant-speciﬁc (ps)
+developmental program. we therefore examined a
+possible correlation between senescence-associated
+expression and ps genes. in arabidopsis, 3,848 genes
+were identiﬁed that encode ps proteins and 2,436
+genes with relatives in all other organisms (ao;
+gutierrez et al., 2004a, 2004b). of the 21,500 genes on
+the array, 2,996 are ps, whereas 2,391 have relatives in
+ao (supplemental table viii). relative to all genes on
+the array, the frequency of ps genes regulated during
+plant physiol. vol. 141, 2006
+downloaded from 
+www.plantphysiol.org
+copyright © 2006 american society of plant biologists. all rights reserved.
+ on july 2, 2014 - published by 
+www.plant.org
+781
+van der graaff et al.
+table iv. plant speciﬁcity of sags
+up, up-regulated; down, down-regulated.
+category
+psa
+total
+ps senb
+up
+ps nsc
+up
+ps sen
+down
+ps ns
+down
+aod
+total
+ao sen
+up
+ao ns
+up
+ao sen
+down
+ao ns
+down
+22/1.1%
+1/0.1%
+18/0.9%
+48/2.4%
+all genese
+tmf
+tfg
+kh
+rlki
+aps, arabidopsis genes with similar protein sequences found only in other plants.
+2,996/14% 392/1.8% 326/1.5% 316/1.5% 285/1.3% 2,391/11% 318/1.5% 273/1.3% 235/1.1% 188/0.9%
+22/1.1%
+191/10%
+21/1.1%
+2/0.1%
+638/32% 104/5.2% 91/4.6%
+4/1.1%
+23/3.8%
+297/15%
+32/1.6%
+252/67%
+386/63%
+cns, genes that are regulated during ns.
+det.
+and eukaryotes.
+percentages relate to the total 21,500 genes on the microarray.
+tm genes in the respective category. percentages relate to the 1,931 tm genes on the microarray.
+genes in the respective category. percentages relate to the 1,985 tf genes on the microarray.
+in the respective category. percentages relate to the 376 k genes on the microarray.
+respective category. percentages relate to the 610 rlk genes on the microarray.
+bsen, genes that are regulated during ns, dis, or
+dao, arabidopsis genes with similar protein sequences in bacteria, archae, cyanobacteria,
+eall genes, all genes on the agilent arabidopsis 2 microarray. given is the number of genes in the respective category.
+ftm, tps and other membrane proteins with $3 tm spans. given is the number of
+gtf, putative tfs. given is the number of tf
+hk, putative kinases. given is the number of k genes
+irlk, putative rlks. given is the number of rlk genes in the
+26/1.3%
+2/0.1%
+7/1.9%
+31/5.1%
+62/3.2%
+2/0.1%
+46/12%
+65/11%
+54/2.8%
+2/0.1%
+42/11%
+63/10%
+17/0.9%
+42/2.1%
+observation time of induced and developmental senes-
+cence progression enabled the recognition of senescence-
+associated expression patterns of several atg genes
+that had not been recognized in other studies
+(buchanan-wollaston et al., 2005; xiong et al., 2005).
+it has been proposed that the arabidopsis atg system
+is ubiquitously present and not restricted to a certain
+developmental phase or nutritional state (for review,
+see thompson et al., 2005). consistent with this
+assumption is the signiﬁcant background expression
+level of many atg genes in 4-week-old plants (e.g.
+atatg4b, 8c–f, 8i, and 18g; supplemental table ix). on
+the other hand, the massive up-regulation of many
+atg genes during all three senescence conditions
+suggests that autophagy is important for the efﬁcient
+remobilization and recycling of nutrients.
+hormones
+cytokinin
+cytokinins (cks) regulate cell division and various
+metabolic and developmental processes, including se-
+nescence. ck has a regulatory function early in senes-
+cence as ck levels are reduced in senescing leaves,
+whereas the exogenous application or endogenous
+overexpression of cks delays senescence (smart et al.,
+1991; gan and amasino, 1995).
+for this study, 137 genes associated with various
+aspects of ck homeostasis were compiled (supple-
+mental table x). the eight (putative) arabidopsis ade-
+nylate isopentenyltransferase enzymes and two ck
+trans-hydroxylases that are possibly involved in ck
+biosynthesis are very weakly expressed in the three
+figure 4. autophagy. the expression proﬁles of
+four senescence-associated atg genes are shown.
+additional atg gene expression proﬁles are
+shown in supplemental figure 2. the averages of
+the normalized signal values (see ‘‘materials and
+methods’’) were plotted against the sampling time
+points. the time scale of the x axis is not linear
+and different for the ns, dis, and det senescence
+experiments. for the developmental senescence
+(ns) curve,
+the signal ratio between the last
+sampling time point (75y for 75% yellow surface;
+see table i) and the 4-week-old reference sample
+(4w/0 d) is indicated.
+782
+downloaded from 
+www.plantphysiol.org
+ on july 2, 2014 - published by 
+www.plant.org
+copyright © 2006 american society of plant biologists. all rights reserved.
+plant physiol. vol. 141, 2006
+senescence experiments
+ground’’), and none is up-regulated.
+(‘‘not well above back-
+for the ck-degrading ck oxidase/dehydrogenases
+(ckx; schmu¨ lling et al., 2003) and the ck-inactivating
+n- and o-glucosylases, the situation is different. of the
+six ckx genes on the array, only atckx5 is expressed
+at a high conﬁdence level and increases weakly (2.1- to
+2.9-fold) but continuously during ns, dis, and det.
+for atckx2 and atckx4, similar patterns at lower
+levels are apparent. atckx6 appears to be down-
+regulated. the role of ckx proteins in senescence is
+as yet unclear, which is illustrated by the observation
+that, unexpectedly, overexpression of ckx genes may
+result in retardation of leaf senescence (werner et al.,
+2003). four of the ﬁve active glycosyltransferases from
+arabidopsis (hou et al., 2004) are weakly expressed and
+barely regulated. however, the o-glycosyltransferase
+atugt85a1 shows a remarkable activation in all three
+senescence conditions (fig. 5a). it is thus conceivable
+that this protein is involved in senescence-speciﬁc in-
+activation of cks by conjugation.
+ck levels could also be reduced during senescence
+by translocation in the vascular system. two mem-
+bers of the purine tp family, atpup1 and atpup2,
+can mediate ck uptake in yeast and thus are likely
+candidates for ck tps (bu¨ rkle et al., 2003). atpup1
+and three other family members are up-regulated
+(fig. 5, b and c; supplemental table x) and none of
+the remaining atpups is down-regulated (atpup2 is
+not represented on the array), consistent with a role of
+purine permeases in exporting cks during senes-
+cence.
+the arabidopsis ck-signaling pathway consists of
+ck perception by his protein kinases (ahks) and ac-
+tivation of phosphorelay carriers, of b-type and even-
+tually of a-type nuclear response regulators (arrs),
+which control the primary ck-responsive genes by a
+negative feedback mechanism (for review, see hwang
+et al., 2002). atahk3 is the only ck receptor that is
+detectably expressed, but it is not (or only very weakly:
+2.0- to 2.6-fold) up-regulated. of two phosphorelay me-
+diators and 11 b-type arrs on the array, only atarr1
+seems to be weakly (2.6- to 3.4-fold) up-regulated. sev-
+eral a-type arrs are rapidly induced by ck (rashotte
+et al., 2003; brenner et al., 2005; kiba et al., 2005). con-
+sistent with a depletion of ck during senescence pro-
+gression, four of those are down-regulated in ns, dis,
+and det (fig. 5, d–g). down-regulation of these genes
+also was observed by buchanan-wollaston et al. (2005).
+a remarkable exception is atarr16, which is strongly
+up-regulated upon ck treatment (d’agostino et al.,
+2000; rashotte et al., 2003; kiba et al., 2005). this gene is
+also up-regulated during ns and dis (but not det; fig.
+5h), suggesting a special function in ck signaling that
+deviates from the other a-type arrs.
+recently 71 up-regulated and 11 down-regulated
+immediate ck-response genes of arabidopsis were
+identiﬁed (brenner et al., 2005). from a simplistic
+viewpoint, one would expect that these genes are not
+regulated or down-regulated during senescence, if the
+arabidopsis natural and induced senescence transcriptome
+ck level decreases. indeed, 80% of the 69 ck-response
+genes on the array are not regulated (43 genes) or
+down-regulated (12 genes) during senescence, whereas
+the remaining 14 genes are up-regulated (supple-
+mental table x). this suggests that one-ﬁfth of the
+immediate ck-response genes are under positive con-
+trol of other regulators during senescence.
+jasmonic acid
+jasmonic acid (ja) is critically involved in senes-
+cence (for review, see he and gan, 2003). ja applica-
+tion induces premature senescence and its level
+increases in senescing leaves (he et al., 2002). eleven
+of 19 ja-biosynthesis and six of 11 ja-signaling or
+-response genes are up- or down-regulated, and some
+exhibit strikingly different regulation in ns, dis, and
+det (supplemental table xi; supplemental fig. 3,
+a–k). eight ja-biosynthesis genes are speciﬁcally and
+transiently up-regulated in ns. these include the
+highly expressed lipoxygenase atlox2 (supplemen-
+tal fig. 3c), allene oxide synthase ataos1 (supple-
+mental fig. 3f), and 12-oxophytodienoate reductase
+atopr3 (fig. 6a; supplemental fig. 3b) that catalyze
+sequential reactions in the ja-biosynthesis pathway.
+their coordinate expression during ns, but not dis or
+det, suggests that this pathway is in leaves speciﬁ-
+cally activated by developmental stimuli. atopr3 is
+the isoenzyme also predominantly responsible for ja
+biosynthesis during pollen development, and,
+like
+ataos1, it is essential for male gametophyte devel-
+opment and anther elongation. atopr1 and atopr2
+are also up-regulated during senescence (supplemen-
+tal fig. 3, a and h), but the roles of these less efﬁcient
+isoenzymes are not clear. only one gene, the unchar-
+acterized putative allene oxide cyclase family protein
+ataoc4 (supplemental fig. 3i),
+is weakly down-
+regulated. in striking contrast, two other genes, atadox1
+encoding a fatty acid a-dioxygenase (supplemental
+fig. 3j) and atlox1 (fig. 6b; supplemental fig. 3k),
+are up-regulated to very high levels in detached leaves
+but not in ns and dis, indicating that these genes
+are predominantly responding to wounding. taken
+together, the expression proﬁles indicate that, during
+developmental senescence and upon wounding, dif-
+ferent isozymes are active in the ja synthesis pathway
+and that in dark-induced senescence ja possibly does
+not play major role.
+several genes that are supposedly involved in ja
+signaling or response are up- or down-regulated dur-
+ing senescence (supplemental fig. 3, l–q). the ribo-
+nuclease 1 gene atrns1 is strongly up-regulated in
+later stages during ns, but not in dis and det (fig.
+6c; supplemental fig. 3l). atrns1 also is very rapidly
+and transiently induced upon wounding but declines
+to almost noninduced level within 48 h (lebrasseur
+et al., 2002), explaining that it is not detected in the
+det experiment. the late expression peak of rns1
+would be consistent with a participation in nucleic acid
+degradation late in senescence. the only ja-signaling
+plant physiol. vol. 141, 2006
+downloaded from 
+www.plantphysiol.org
+copyright © 2006 american society of plant biologists. all rights reserved.
+ on july 2, 2014 - published by 
+www.plant.org
+783
+van der graaff et al.
+figure 5. cytokinin. the expression proﬁles of six
+senescence-associated ck genes are shown. the
+data were processed as described for figure 4.
+gene that is strictly down-regulated in all senescence
+conditions is atcos1 (fig. 6d; supplemental fig. 3q).
+it encodes lumazine synthase, which catalyzes the
+penultimate step in riboﬂavin synthesis. it is sugges-
+ted that atcos1 acts in the riboﬂavin pathway as a
+suppressor of certain ja responses, including senes-
+cence (attenuated by the scf/coi1 complex; xiao
+et al., 2004). the strong down-regulation of atcos1
+during senescence corroborates this model.
+salicylic acid
+salicylic acid (sa) plays a key role as mediator of
+plant stress responses, including disease and systemic
+acquired resistance. recently, it was reported that the
+sa-signaling pathway is also active in the control
+of gene expression during developmental senescence
+(morris et al., 2000). a transcriptome analysis in senes-
+cing arabidopsis leaves from wild-type plants and
+784
+downloaded from 
+www.plantphysiol.org
+copyright © 2006 american society of plant biologists. all rights reserved.
+ on july 2, 2014 - published by 
+www.plant.org
+plant physiol. vol. 141, 2006
+arabidopsis natural and induced senescence transcriptome
+figure 6. ja. the expression proﬁles of
+four
+senescence-associated ja genes are shown. ad-
+ditional ja gene expression proﬁles are shown in
+supplemental figure 3. the data were processed
+as described for figure 4.
+senescence-enhanced and sa-dependent genes identi-
+ﬁed by buchanan-wollaston et al. (2005), reveal an
+interesting trend. twenty-six genes are up-regulated
+(supplemental figs. 5 and 10a), none is down-
+regulated, and all except one are genes identiﬁed in
+the nahg mutant. it is somewhat surprising that of the
+other 14 sa-responsive genes reported in the liter-
+ature, only one (ataf2; supplemental fig. 5p) is
+up-regulated during senescence. remarkably,
+the
+majority of the senescence-associated sa-responsive
+genes are only up-regulated during ns, but not (or
+only weakly) during dis or det, resembling the ex-
+pression proﬁles of the sa-biosynthesis and -signaling
+genes mentioned above. in summary, these data pro-
+vide additional evidence for sa as a modulator of gene
+expression in naturally senescing leaves.
+ethylene
+the plant hormone ethylene (et) is well known as
+an accelerator of senescence. the importance of et
+signaling during senescence is illuminated by a de-
+layed senescence phenotype of et-insensitive mutants
+like ein2 in arabidopsis (oh et al., 1997). however, et
+is not essential for the onset and progression of senes-
+cence (grbic and bleecker, 1995; jing et al., 2002).
+of 69 genes (proposed to be) involved in et bio-
+synthesis or signaling (supplemental table xiii), 18
+are up- or down-regulated (supplemental fig. 6). the
+1-aminocyclopropane-1-carboxylic acid (acc) synthases
+sa-deﬁcient nahg mutants revealed that many sags
+are dependent on the sa-signaling pathway (buchanan-
+wollaston et al., 2005).
+four of six genes that are (possibly) involved in sa
+biosynthesis are regulated during ns (supplemental
+fig. 4, a–d; supplemental table xii). among them is
+the gene encoding isochorismate synthase (atics1), a
+central enzyme in the pathway. it is conspicuous that
+this gene is only induced during ns, but not after
+shading or detachment. in contrast, the ics1 homolog
+at1g18870 is also induced by shading, but like ics1
+not after detachment of leaves. the two phe ammonia-
+lyase genes are only weakly regulated. eight of 12 sa-
+signaling genes are regulated during ns, and also in
+this group of genes no or less regulation during dis
+and det is observed (supplemental fig. 4, e–l). dif-
+ferential up-regulation is most prominent for ateds4,
+which encodes an orphan mate-related efﬂux carrier.
+ateds4 is induced by sa, uv light, and after pathogen
+infection, depending on the two other sa-signaling
+proteins (ateds1 and atpad4; nawrath et al., 2002).
+these also are up-regulated in ns, but not in dis and
+det (supplemental fig. 4, h and i). ateds1 and
+atpad4 interact with each other, and both genes
+are transducers of redox signals and important acti-
+vators of sa signaling (for review, see wiermer et al.,
+2005). only one sa-signaling gene, atagd2, is down-
+regulated during senescence.
+the expression proﬁles of 44 sa-responsive genes
+the 32
+(supplemental table xii),
+including 30 of
+plant physiol. vol. 141, 2006
+downloaded from 
+www.plantphysiol.org
+copyright © 2006 american society of plant biologists. all rights reserved.
+ on july 2, 2014 - published by 
+www.plant.org
+785
+van der graaff et al.
+(atacs) catalyze the rate-limiting step in the et-
+biosynthesis pathway. arabidopsis encodes nine acs
+proteins, of which eight form functional homodimers,
+that underly a complex spatial and temporal regula-
+tion (tsuchisaka and theologis, 2004). only three of the
+functional acc synthases (atacs2, atacs5, and
+atacs6) are signiﬁcantly expressed and up-regulated
+during ns (supplemental fig. 6, a–c). in the sub-
+sequent step, acc is converted to et by the acc
+oxidase (ateat1), which is also up-regulated (supple-
+mental fig. 6d). in addition, a nitrilase (atnit4) that is
+thought to play a role in cyanide detoxiﬁcation during
+et biosynthesis (piotrowski et al., 2001) is up-regulated
+(supplemental fig. 6e). possibly, this set of proteins is
+responsible for an increase in et production in sen-
+escing leaves.
+et signal transduction supposedly follows a ‘‘lin-
+ear’’ pathway, with membrane-bound receptors at the
+beginning, tfs at the end of the chain, and multiple
+positive and negative regulators in between. the ﬁve
+et receptors or the next downstream protein, atctr1,
+are not regulated in ns, dis, or det, but several other
+components of et signal transduction are. the tp-like
+atran1 protein, which might be required to form
+functional et receptors (woeste and kieber, 2000), and
+the downstream component atein3 are signiﬁcantly
+up-regulated in all three senescence experiments, most
+rapidly in dis and det (supplemental fig. 6, h and i).
+atein2, located between atctr1 and atein3, is not
+represented on the array. the atein3 and ateil tfs
+regulate gene expression by binding directly to primary
+et-response elements in the promoters of various genes.
+one immediate target of atein3 is aterf1a (solano
+et al., 1998) that appears to be transiently up-regulated
+(supplemental fig. 6). aterf1a is a tf whose tran-
+scriptional activation requires simultaneously the ja-
+and et-signaling pathways (lorenzo et al., 2003). five
+other erf proteins are also up-regulated but with
+different proﬁles (supplemental fig. 6, k–o). aterf1b,
+aterf2, and atebp1 are et-responsive activators of
+gcc-box genes (bu¨ ttner and singh, 1997; fujimoto
+et al., 2000).the weakly up-regulated atrcd1 modu-
+lates et, abscisic acid (aba), and methyl-ja responses
+(ahlfors et al., 2004). two uncharacterized putative
+tfs, at5g07580 and at5g25190, annotated as possibly
+involved in et signaling, are down-regulated (sup-
+plemental fig. 6, q and r).
+buchanan-wollaston et al. (2005) recently identiﬁed
+21 sags that show reduced expression in et- and
+ja-deﬁcient plants. of the 19 genes represented on
+the agilent microarray (supplemental table xiii), one
+yields no signiﬁcant signal. all others are strongly
+induced during ns (supplemental fig. 7) and four of
+them are known to be involved in ja signaling
+(atrns1; supplemental fig. 3l; atnac3; supplemen-
+tal fig. 3o), ja biosynthesis (atadox1; supplemental
+fig. 3j), and to be sa responsive (at1g19250; supple-
+mental fig. 5m). however, as their expression patterns
+during dis and det differ, at least some of these genes
+are additionally regulated by other signaling path-
+ways. a subgroup of six genes appears to be speciﬁc
+for developmental senescence as they do not respond
+at all to shading or leaf detachment, including the
+s-like rnase atrns1, the exopolygalacturonases and
+endopolygalacturonases atpga3 and atadpg1, and
+the abc-tp atpdr12. another subgroup of genes is
+most intensely and apparently transiently up-regulated
+in detached leaves and thus possibly responding to
+wounding (supplemental fig. 7, j–n).
+in summary, these data indicate a coordinated up-
+regulation of et-biosynthesis genes during leaf senes-
+cence in arabidopsis that is accompanied by changes
+in expression of several et-signaling components. it ap-
+pears that some downstream response factors are ns-
+speciﬁcally and -transiently transcribed at later stages
+in senescence development.
+auxin
+although auxin effects on abscission and senescence
+were ﬁrst reported more than 50 years ago (for review,
+see noode´n, 1988), the involvement of this hormone in
+the senescence development is much less understood
+than that of et, ja, or ck. in arabidopsis senescing
+leaves, the indole-3-acetic acid (iaa) concentration is
+2-fold higher than in nonsenescing leaves (quirino
+et al., 1999). however, auxin treatment leads to a tran-
+sient decrease in sag12 expression (noh and amasino,
+1999). recently,
+it was described that the auxin
+response factors 1 and 2 (atarf1 and atarf2)
+are involved in regulation of abscission and senes-
+cence (ellis et al., 2005; okushima et al., 2005). more
+than 110 proteins implicated in auxin biosynthesis,
+metabolism, transport, and signaling were compiled
+from woodward and bartel (2005), remington et al.
+(2004), the arabidopsis information resource gene
+ontologies, and gene descriptions (supplemental table
+xiv). the expression proﬁles of the regulated genes
+are shown in supplemental figure 8.
+the observation that eight of the 15 (putative) arabi-
+dopsis iaa-biosynthesis genes are signiﬁcantly regu-
+lated suggests that leaf senescence is associated with
+changes in iaa synthesis. a moderate transcriptional
+increase of trp synthase a (attsa1; supplemental
+fig. 8a) is observed in ns and det, but not dis.
+downstream of trp, the arabidopsis amidohydrolase
+atami1 converts in vitro indole-3-acetamide to iaa
+(pollmann et al., 2003). as atami1 transcription de-
+creases during ns, dis, and det (supplemental fig.
+8b), the indole-3-acetamide pathway is presumably
+not active in senescence. however, six genes encoding
+proteins that are supposedly acting in the ipa and/or
+iaox pathway are heavily up-regulated (supplemen-
+tal fig. 8, c–h). most intriguingly, the iaa1d oxidase
+(atao1) and nitrilases atnit1 to 3 that directly con-
+vert indole-3-acetaldehyde and indole-3-acetonitrile,
+respectively, into iaa are transcriptionally up-regulated.
+quirino et al. (1999) have also reported the senescence-
+associated induction of atnit1 to 3 and found that
+it is accompanied by an increase in iaa and decrease
+786
+downloaded from 
+www.plantphysiol.org
+copyright © 2006 american society of plant biologists. all rights reserved.
+ on july 2, 2014 - published by 
+www.plant.org
+plant physiol. vol. 141, 2006
+in indole-3-acetonitrile. suspiciously, transcription of
+atao1, attsa1, atsur2, and atcyp92b2 remains
+almost constant in dark-induced senescence.
+iaa homeostasis also is affected by formation and
+degradation of iaa conjugates and indole-3-butyric
+acid. about one-third of the genes implicated in these
+processes are transcriptionally induced during leaf
+senescence. three iaa-amino acid synthetases are
+massively up-regulated in ns, dis, and det (supple-
+mental fig. 8, i–k). these enzymes presumably help to
+maintain auxin homeostasis by inactivating excess
+iaa (staswick et al., 2005). on the other hand, the
+two iaa amidohydrolases atilr1 and atiar3 also are
+induced (supplemental fig. 8, l and m) that release
+free iaa from iaa-leu, -phe, and -ala and thus
+counteract the iaa-amino acid synthetases. moreover,
+the three genes atacx1, atacx4, and atped1 encod-
+ing acyl-coa oxidases involved in conversion of in-
+dole-3-butyric acid into bioactive iaa (zolman et al.,
+2000; adham et al., 2005) are also up-regulated (sup-
+plemental fig. 8, n, p, and r).
+experiments with bean leaves suggested that changes
+in auxin gradients rather than the auxin concentration
+itself may modulate abscission and senescence devel-
+opment (addicott et al., 1955). of 13 tps (suspected to
+be) involved in auxin transport, six are massively
+down-regulated in ns, dis, and det (supplemental
+fig. 8, s–x). the putative iaa permease ataux1 is
+localized asymmetrically in the plasma membrane of
+certain cells and facilitates iaa loading into the leaf
+vascular transport system and iaa unloading in the
+primary root apex. atpin3 is one of three down-
+regulated proteins from the pin family involved in
+auxin efﬂux and expressed in gravity-sensing tissues
+like the columella, where it quickly relocates in the cell
+plasma membrane to the side oriented toward gravity
+when the gravity vector changes. abc tps of the pgp
+subfamily were recently identiﬁed as auxin tps (for
+review, see geisler and murphy, 2006). atpgp1 and
+atpgp19 function in conjunction with twisted
+dwarf 1, supposedly as auxin exporters, and are
+probably involved in the proper polar distribution of
+auxin during plant development. atpgp19 is strongly
+down-regulated during senescence (supplemental fig.
+8w), and atpgp1 also appears to be weakly down-
+regulated, but its expression level remains subsigniﬁ-
+cant (supplemental table xiv). interestingly, atpgp4,
+which presumably functions as auxin importer in root
+caps (terasaka et al., 2005), is up-regulated in senesc-
+ing leaves (supplemental fig. 8y). these changes in
+expression of auxin tps may contribute to the in-
+creased auxin concentration in senescing leaves that
+was observed by quirino et al. (1999).
+auxin causes changes in the expression of many
+genes, and crucial factors in the response pathway are
+the arf and aux/iaa proteins. the arabidopsis
+atarf and atiaa gene families consist of 23 and 29
+members, respectively (remington et al., 2004). ex-
+pression of most atarf genes is below the conﬁdence
+level in our experiments and does not change in ns,
+arabidopsis natural and induced senescence transcriptome
+dis, or det. the only exception is monopteros
+(atarf5/atmp), which is induced late in natural
+senescence (supplemental fig. 9a). atarf5 has not
+been assigned a role in senescence yet. recently, reg-
+ulation of leaf senescence by atarf1 and 2 and a weak
+transcriptional repression/induction of atarf1/atarf2
+during senescence have been observed (lin and
+wu, 2004; ellis et al., 2005). in our experiments also,
+a 2- to 3-fold decrease/increase in atarf1/atarf2
+expression can be seen, albeit below the signiﬁcance
+threshold. in contrast to the arfs, almost one-half of
+the 28 aux/iaa genes are down-regulated during
+senescence (supplemental fig. 9, b–n). a function of
+aux/iaa proteins in senescence has not yet been
+described, but the overall decline in atiaa gene tran-
+scription suggests that the quality of auxin responses
+in leaves alters as a result of changes in signaling
+proteins.
+a role of ga and brassinosteroids in senescence?
+reports that demonstrate a link between ga activity
+and senescence are rare. in pea (pisum sativum), exog-
+enous ga3 can delay apical senescence, and endoge-
+nous ga concentration is lower in senescing than in
+ﬂowering shoots (zhu and davies, 1997). in detached
+arabidopsis leaves, ck and to a lower extent ga delay
+chlorophyll degradation. however, upon combining
+the two hormones, ga partially inhibits the ck effect,
+and it is suggested that the spindly protein regulates
+this cross talk between the two signaling pathways
+(greenboim-wainberg et al., 2005).
+fifteen of the 18 genes on the array that are (puta-
+tively) involved in ga biosynthesis are expressed at
+subsigniﬁcant levels, and none is up-regulated (sup-
+plemental table xv). on the other hand, the functional
+and ga-inducible ga 2-oxidase 2 (atga2ox2) that
+deactivates ga (thomas et al., 1999) is 18-fold up-
+regulated (fig. 7a). these results suggest that during
+senescence at least some gibberellins are deactivated.
+none of the 16 genes that encode (putative) ga-
+signaling proteins are up-regulated, and atgasa4 and
+atgasa5, two members of the gasa family of short
+proteins of unknown function, are down-regulated
+(fig. 7, b and c). some ga-responsive genes display
+senescence-associated regulation. a well-known exam-
+ple is the ga-induced aquaporine attip1.1 (phillips
+and huttly, 1994) that is down-regulated, as many
+other intrinsic proteins too (fig. 2). intriguingly,
+the ga-responsive xyloglucan endotransglycosylase
+atmeri5 is massively up-regulated during senescence
+(fig. 7d). atmeri5 and other xyloglucan endotrans-
+glycosylases are suggested to be involved in cell wall
+weakening that is necessary for cell expansion (xu
+et al., 1996). studies on attip1.1 and atmeri5 re-
+vealed that there is cross talk between the ga and
+brassinosteroid (br) pathways. attip1.1 is antagonis-
+tically regulated by ga and br, whereas transcription
+of atmeri5 was shown to be positively and additively
+regulated by either ga or br treatment (kauschmann
+plant physiol. vol. 141, 2006
+downloaded from 
+www.plantphysiol.org
+copyright © 2006 american society of plant biologists. all rights reserved.
+ on july 2, 2014 - published by 
+www.plant.org
+787
+van der graaff et al.
+figure 7. ga and brs. the expression proﬁles of
+four senescence-associated ga (a–d) and two br
+genes (e and f) are shown. the data were pro-
+cessed as described for figure 4.
+et al., 1996). as during leaf senescence ga activity
+appears to be reduced, the senescence-associated in-
+duction of atmeri5 must be effected by a different
+regulator, possibly br.
+brs appear to promote developmental senescence,
+as mutants deﬁcient in br biosynthesis (e.g. det2 ) or
+the br receptor bri1 have a retarded senescence pro-
+gression (for review, see clouse and sasse, 1998).
+however, from a set of 99 br-related genes on the
+array (14 biosynthesis and inactivation genes, 11 re-
+ceptor and signaling genes, 52 br-induced genes, and
+29 br-repressed genes; compiled from mu¨ ssig and
+altmann [2003] and lisso et al. [2005]), no clear picture
+emerges (supplemental table xvi). of the br-induced
+genes, 15 and 14 were signiﬁcantly expressed and
+up- or down-regulated during ns, respectively. of the
+br-repressed genes, 13 were up- and 5 were down-
+regulated. two of the 14 (putative) biosynthesis genes
+are down-regulated (atcpd/at5g05690 and at3g55360;
+data not shown) and none is up-regulated, suggesting
+that br biosynthesis does not signiﬁcantly increase
+during senescence. central transmitters of the br sig-
+nal from the receptor(s) to the target genes are the
+atbin2 kinase and the two nearly identical transcrip-
+tional modulators and regulators of br signaling,
+atbes1 and atbzr1. atbin2 and atbzr1 show no
+signiﬁcant change in expression, whereas atbes1 is
+down-regulated (fig. 7e).
+the br receptors atbrl1 and atbrl3 supposedly
+function speciﬁcally in provascular differentiation
+(cano-delgado et al., 2004). as atbrl3 is strongly
+up-regulated in later stages of ns, dis, and det (fig.
+7f), one could speculate that br modulates the prop-
+erties of the vascular tissue in senescing leaves toward
+efﬁcient export of metabolites.
+aba
+as treatment with aba can induce leaf senescence,
+aba is considered a promoter of senescence (noode´n,
+1988). in arabidopsis, aba induces expression of
+several sags. vice versa, during senescence several
+788
+downloaded from 
+www.plantphysiol.org
+copyright © 2006 american society of plant biologists. all rights reserved.
+ on july 2, 2014 - published by 
+www.plant.org
+plant physiol. vol. 141, 2006
+genes are up-regulated that are involved in aba
+synthesis, metabolism, or signaling (oh et al., 1996;
+weaver et al., 1998; he et al., 2001; buchanan-wollaston
+et al., 2005). we investigated the expression proﬁles
+of 58 aba-biosynthesis, -metabolism, and -signaling
+genes (supplemental table xvii). four of 11 aba-
+biosynthesis genes are up-regulated,
+including the
+9-cis-epoxycarotenoid dioxygenases atnced2 and 3
+that catalyze the cleavage of neoxanthin and the
+abscisic aldehyde oxidases ataao3 and 4 (supple-
+mental fig. 10, a–d). on the other hand, the aba-
+inactivating glucosylase ugt71b6 (priest et al., 2005)
+is also up-regulated during ns (supplemental fig. 10e).
+of 30 aba-signaling genes, eight are up-regulated
+and only two are down-regulated (supplemental fig.
+10, f–o). of 12 negative regulators of aba responses,
+ﬁve protein phosphatases 2c are up-regulated (sup-
+plemental fig. 10, p–t). the aba-responsive atsen1
+gene is up-regulated during senescence (supplemen-
+tal fig. 10u) as described by oh et al. (1996). the aba-
+repressible atpip1.5 and atpip2.6 genes (jang et al.,
+2004), but also the aba-inducible atpip2.2, are down-
+regulated during senescence (supplemental fig. 10,
+v–x). these complex and, for several aba-related
+genes, opposite regulation patterns during natural
+and induced senescence support the notion that aba
+is a modulator of senescence-associated physiological
+changes.
+conclusion
+leaf senescence is a slow-going, ps cellular reorga-
+nization process that ensures the mobilization and
+export of nutrients from the cells before they die. in
+young and old rosette leaves, different nutrient and
+assimilate ﬂuxes take place, raising the question
+whether the same tps are active during these devel-
+opmental stages. during ns,
+the fraction of up-
+regulated tps is approximately 1.5 times higher than
+that of all genes and 2.5 times higher than that of
+down-regulated tps. this supports the notion that
+during senescence there is an increased demand for
+transport across membranes and that speciﬁc tps
+fulﬁll this need.
+in this study, different gene categories were ana-
+lyzed for senescence-associated transcriptional regu-
+lation of ps genes versus genes found also in ao.
+senescence-associated transport functions appear not
+to be predominantly provided by ps tps, as similar
+fractions of the regulated tps are ps or ao. also,
+signal recognition and transmission processes active
+during senescence and involving rlks are not exe-
+cuted by ps proteins, although during ns (but not dis
+and det) almost 3 times more rlk genes are up- than
+down-regulated. the plant lineage has a dramatically
+expanded number of rlks compared to animals. it
+was hypothesized that this expansion in plants repre-
+sents a ps adaptation for extracellular signal sensing
+and involves mostly defense/resistance-related genes
+arabidopsis natural and induced senescence transcriptome
+(shiu and bleecker, 2003; shiu et al., 2004). however,
+the rlk clade has not diverged enough from the rlks
+in non-plants to be classiﬁed as ps (gutierrez et al.,
+2004a), possibly indicating that plants have no distinct,
+ps, rlk-dependent signal transduction mechanisms.
+an opposite bias of ps versus ao genes regulated
+during senescence is observed for the tfs. this sug-
+gests that ps tfs are key players in the regulatory
+pathways leading to and coordinating leaf senescence.
+gan (2003) and buchanan-wollaston et al. (2005)
+presented models illustrating the pathways that op-
+erate in senescence. the analysis in this study of
+hormone homeostasis and signaling genes adds more
+details to this model and reveals additional sags in
+most pathways of the regulatory network. the ex-
+pression proﬁles of genes involved in ck homeosta-
+sis are mostly consistent with a depletion of this
+hormone during senescence. however, the expression
+of ck-signaling genes indicates a more complex pic-
+ture, as about 20% of the immediate ck-response
+genes (brenner et al., 2005) are up-regulated during
+ns, among them the a-type response regulator
+atarr16. in the ja pathway, the senescence-type
+speciﬁcity of some genes is striking. the expression
+proﬁles are consistent with the hypothesis that, dur-
+ing ns and upon wounding, different ja synthesis
+isozymes are activated, whereas during dis ja bio-
+synthesis is not induced. differential activation de-
+pending on the senescence condition is also apparent
+for the sa pathway. the expression proﬁles of sa-
+biosynthesis and -response genes support the notion
+that sa is an important and speciﬁc regulator in
+developmental senescence. in addition, they suggest
+that sa is not involved in artiﬁcially induced senes-
+cence. in the et pathway, a coordinated up-regulation
+of et-biosynthesis genes during senescence is ob-
+served. differences between the senescence types are
+not as obvious as in the ja and sa pathways, except
+a tendency of et-response factors for transient up-
+regulation during ns. previous evidence for a role of
+auxin in the senescence program is rather circumstan-
+tial; however, the complex expression patterns of
+auxin homeostasis genes suggest a participation of
+this hormone in arabidopsis leaf senescence regula-
+tion. auxin-biosynthesis genes are preferentially up-
+regulated, but also auxin conjugate formation and
+metabolism genes, whereas iaa tps and aux/iaa
+genes are mostly down-regulated. also, gas and brs
+have only rarely been reported as regulators of senes-
+cence. the data shown here are compatible with a
+decrease in gas during senescence. for the br-related
+genes, no clear picture emerges from the expression
+studies. aba can promote senescence and induce
+expression of several sags. the expression proﬁles
+of aba-related genes are consistent with increasing
+aba levels and senescence-dependent alterations in
+aba signaling. however, as some aba-response
+genes are up- and others down-regulated, an estimate
+of the impact of aba as a regulator during senescence
+is not straightforward.
+plant physiol. vol. 141, 2006
+downloaded from 
+www.plantphysiol.org
+copyright © 2006 american society of plant biologists. all rights reserved.
+ on july 2, 2014 - published by 
+www.plant.org
+789
+van der graaff et al.
+materials and methods
+plant material
+wild-type arabidopsis (arabidopsis thaliana; columbia-0) ﬁfth and sixth
+rosette leaves grown under greenhouse conditions supplemented with arti-
+ﬁcial light (16 h light, 21°c; 8 h dark, 19°c) were used throughout all
+experiments. in each senescence experiment, the ﬁfth and sixth rosette leaves
+from 4-week-old leaf material served as reference for the other time points.
+each senescence experiment was repeated once with independently grown
+plants as a biological replicate. the two batches of plants were grown may to
+june 2003 and december 2003 to january 2004.
+ns
+leaves were harvested at six developmental stages from the start of the
+rapid expansion phase at the 4-week-old (4w) stage (28 d after germination)
+until the late senescent stage, with up to 75% of the leaf surface exhibiting
+chlorophyll degradation (yellowing) during the silique ripening stage (53 d
+after germination), corresponding to principal growth stages 3.50 to 8.00
+(boyes et al., 2001; table i).
+dis
+tc system (http://www.tcdb.org; saier, 2000; busch and saier, 2004) and
+incorporated into the aramemnon plant membrane protein database
+(http://aramemnon.botanik.uni-koeln.de; schwacke et al., 2003). the classi-
+ﬁcation of (receptor-like) kinases was adopted from shiu and bleecker (2003)
+and shiu et al. (2004). the ps genes were obtained from the plant speciﬁc
+database (psdb; http://genomics.msu.edu/plant_speciﬁc/; gutierrez et al.,
+2004a, 2004b). tfs were compiled from dtaf (http://datf.cbi.pku.edu.cn/),
+attfdb (http://arabidopsis.med.ohio-state.edu/attfdb/), and rartf
+(http://rarge.gsc.riken.jp/rartf/). the complete list of (re)classiﬁed and par-
+tially renamed proteins is provided in supplemental table i.
+acknowledgments
+we thank sonja hetfeld and carmen zinßmeister for excellent technical
+work on the array hybridizations; dr. andreas oberthu¨ r for granting us
+access to the agilent scanner, nanodrop, and bioanalyser; dr. andreas polten
+for technical support; and dr. christine rausch for critical reading of the
+manuscript.
+received february 15, 2006; revised april 4, 2006; accepted april 5, 2006;
+published april 7, 2006.
+leaves were wrapped in aluminum foil at the 4-week-old stage and
+harvested 2, 4, 6, and 9 d later.
+literature cited
+det
+four-week-old leaves were detached and harvested after incubation for 2,
+5, and 6 d in petri dishes on water in the dark.
+chlorophyll content
+the chlorophyll content in the different leaf samples was determined as
+described by graan and ort (1984).
+hybridization of arabidopsis microarrays
+and data analysis
+total rna was puriﬁed using the rneasy kit (qiagen), and quality was
+assayed using an agilent 2100 bioanalyzer. total rna (500 ng) was labeled
+with either cyanine 3-ctp or cyanine 5-ctp (perkin-elmer) using the agilent
+low-input linear ampliﬁcation kit, and dye incorporation was determined
+using a nanodrop spectrophotometer. labeled rna was hybridized to
+agilent arabidopsis 2 microarrays according to manufacturer’s instructions.
+the experiments were designed following a common reference model
+(ko¨ nig et al., 2004). each slide within one experiment (ns, dis, or det) was
+hybridized with cy3-labeled 4-week reference cdna derived from one single
+labeling reaction and cy5-labeled stage-speciﬁc cdna. each microarray
+hybridization was repeated with cy5-labeled reference cdna and cy3-
+labeled stage-speciﬁc cdna (dye-swap). thus, for each gene and stage, four
+data points were generated (two biological replicates times two technical
+replicates).
+microarrays were scanned on an agilent g2565 scanner, and images were
+extracted and quality assessed with the agilent feature extraction version 7.5
+software using the default settings. the expression values of all individual
+hybridizations were normalized by setting the median expression value of the
+arabidopsis genes (21,500 genes) in the control channel (4w for ns or 4w/0 d
+for det and dis) for each microarray slide to 1,000. the signiﬁcantly regulated
+genes in both biological replicates were clustered by the k-means algorithm in
+seven groups based on their averaged log2-based expression ratios with the
+cluster 3.0 program (de hoon et al., 2004; for details, see supplemental ﬁle
+‘‘data analysis’’).
+sources for protein classiﬁcation
+addicott ft, lynch rs, carns hr (1955) auxin gradient theory of abscis-
+sion regulation. science 121: 644–645
+adham ar, zolman bk, millius a, bartel b (2005) mutations in arabi-
+dopsis acyl-coa oxidase genes reveal distinct and overlapping roles in
+beta-oxidation. plant j 41: 859–874
+ahlfors r, lang s, overmyer k, jaspers p, brosche m, tauriainen a,
+kollist h, tuominen h, belles-boix e, piippo m, et al (2004) arabi-
+dopsis radical-induced cell death1 belongs to the wwe
+protein-protein interaction domain protein family and modulates ab-
+scisic acid, ethylene, and methyl jasmonate responses. plant cell 16:
+1925–1937
+allemeersch j, durinck s, vanderhaeghen r, alard p, maes r, seeuws k,
+bogaert t, coddens k, deschouwer k, van hummelen p, et al (2005)
+benchmarking the catma microarray. a novel tool for arabidopsis
+transcriptome analysis. plant physiol 137: 588–601
+arabidopsis genome initiative (2000) analysis of the genome sequence of
+the ﬂowering plant arabidopsis thaliana. nature 408: 796–815
+becker w, apel k (1993) differences in gene expression between natural
+and artiﬁcially induced leaf senescence. planta 189: 74–79
+boyes dc, zayed am, ascenzi r, mccaskill aj, hoffman ne, davis kr,
+gorlach j (2001) growth stage-based phenotypic analysis of arabidop-
+sis: a model for high throughput functional genomics in plants. plant
+cell 13: 1499–1510
+brenner wg, romanov ga, kollmer i, bu¨ rkle l, schmu¨ lling t (2005)
+immediate-early and delayed cytokinin response genes of arabidopsis
+thaliana identiﬁed by genome-wide expression proﬁling reveal novel
+cytokinin-sensitive processes and suggest cytokinin action through
+transcriptional cascades. plant j 44: 314–333
+buchanan-wollaston v, earl s, harrison e, mathas e, navabpour s, page
+t, pink d (2003) the molecular analysis of leaf senescence: a genomics
+approach. plant biotechnol j 1: 3–22
+buchanan-wollaston v, page t, harrison e, breeze e, lim po, nam hg,
+lin jf, wu sh, swidzinski j, ishizaki k, leaver cj (2005) comparative
+transcriptome analysis reveals signiﬁcant differences in gene expression
+and signalling pathways between developmental and dark/starvation-
+induced senescence in arabidopsis. plant j 42: 567–585
+bu¨ rkle l, cedzich a, do¨ pke c, stransky h, okumoto s, gillissen b,
+ku¨ hn c, frommer wb (2003) transport of cytokinins mediated by
+purine transporters of the pup family expressed in phloem, hyda-
+thodes, and pollen of arabidopsis. plant j 34: 13–26
+busch w, saier mh jr (2004) the iubmb-endorsed transporter classiﬁca-
+tion system. mol biotechnol 27: 253–262
+arabidopsis protein designations were from the institute for genomic
+research arabidopsis database release 5. the general functional categories
+were adopted from mips (http://mips.gsf.de/projects/funcat; ruepp et al.,
+2004). the classiﬁcation of arabidopsis tps was performed on the basis of the
+bu¨ ttner m, singh kb (1997) arabidopsis thaliana ethylene-responsive
+element binding protein (atebp), an ethylene-inducible, gcc box
+dna-binding protein interacts with an ocs element binding protein.
+proc natl acad sci usa 94: 5961–5966
+790
+downloaded from 
+www.plantphysiol.org
+copyright © 2006 american society of plant biologists. all rights reserved.
+ on july 2, 2014 - published by 
+www.plant.org
+plant physiol. vol. 141, 2006
+cano-delgado a, yin y, yu c, vafeados d, mora-garcia s, cheng jc, nam
+kh, li j, chory j (2004) brl1 and brl3 are novel brassinosteroid
+receptors that
+function in vascular differentiation in arabidopsis.
+development 131: 5341–5351
+chen k, du l, chen z (2003) sensitization of defense responses and
+activation of programmed cell death by a pathogen-induced receptor-
+like protein kinase in arabidopsis. plant mol biol 53: 61–74
+chen k, fan b, du l, chen z (2004) activation of hypersensitive cell death
+by pathogen-induced receptor-like protein kinases from arabidopsis.
+plant mol biol 56: 271–283
+chen w, provart nj, glazebrook j, katagiri f, chang hs, eulgem t,
+mauch f, luan s, zou g, whitham sa, et al (2002) expression proﬁle
+matrix of arabidopsis transcription factor genes suggests their putative
+functions in response to environmental stresses. plant cell 14: 559–574
+clouse sd, sasse jm (1998) brassinosteroids: essential regulators of
+plant growth and development. annu rev plant physiol plant mol biol
+49: 427–451
+contento al, kim sj, bassham dc (2004) transcriptome proﬁling of the
+response of arabidopsis suspension culture cells to suc starvation. plant
+physiol 135: 2330–2347
+d’agostino ib, deruere j, kieber jj (2000) characterization of the re-
+sponse of the arabidopsis response regulator gene family to cytokinin.
+plant physiol 124: 1706–1717
+de hoon mj, imoto s, nolan j, miyano s (2004) open source clustering
+software. bioinformatics 20: 1453–1454
+doelling jh, walker jm, friedman em, thompson ar, vierstra rd
+(2002) the apg8/12-activating enzyme apg7 is required for proper
+nutrient recycling and senescence in arabidopsis thaliana. j biol chem
+277: 33105–33114
+ellis cm, nagpal p, young jc, hagen g, guilfoyle tj, reed jw (2005)
+auxin response factor1 and auxin response factor2 reg-
+ulate senescence and ﬂoral organ abscission in arabidopsis thaliana.
+development 132: 4563–4574
+fujimoto sy, ohta m, usui a, shinshi h, ohme-takagi m (2000)
+arabidopsis ethylene-responsive element binding factors act as tran-
+scriptional activators or repressors of gcc box-mediated gene expres-
+sion. plant cell 12: 393–404
+gan s (2003) mitotic and postmitotic senescence in plants. sci sage ke
+2003: re7
+gan s, amasino rm (1995) inhibition of leaf senescence by autoregulated
+production of cytokinin. science 270: 1986–1988
+geisler m, murphy as (2006) the abc of auxin transport: the role of
+p-glycoproteins in plant development. febs lett 580: 1094–1102
+graan t, ort dr (1984) quantitation of the rapid electron donors to p700,
+the functional plastoquinone pool, and the ratio of the photosystems in
+spinach chloroplasts. j biol chem 259: 14003–14010
+grbic v, bleecker ab (1995) ethylene regulates the timing of leaf senes-
+cence in arabidopsis. plant j 8: 595–602
+greenboim-wainberg y, maymon i, borochov r, alvarez j, olszewski n,
+ori n, eshed y, weiss d (2005) cross talk between gibberellin and
+cytokinin: the arabidopsis ga response inhibitor spindly plays a
+positive role in cytokinin signaling. plant cell 17: 92–102
+guo y, cai z, gan s (2004) transcriptome of arabidopsis leaf senescence.
+plant cell environ 27: 521–549
+gutierrez ra, green pj, keegstra k, ohlrogge jb (2004a) phylogenetic
+proﬁling of the arabidopsis thaliana proteome: what proteins distin-
+guish plants from other organisms? genome biol 5: r53
+gutierrez ra, larson md, wilkerson c (2004b) the plant-speciﬁc data-
+base. classiﬁcation of arabidopsis proteins based on their phylogenetic
+proﬁle. plant physiol 135: 1888–1892
+hajouj t, michelis r, gepstein s (2000) cloning and characterization of a
+receptor-like protein kinase gene associated with senescence. plant
+physiol 124: 1305–1314
+hanaoka h, noda t, shirano y, kato t, hayashi h, shibata d, tabata s,
+ohsumi y (2002) leaf senescence and starvation-induced chlorosis are
+accelerated by the disruption of an arabidopsis autophagy gene. plant
+physiol 129: 1181–1193
+he y, fukushige h, hildebrand df, gan s (2002) evidence supporting a
+role of jasmonic acid in arabidopsis leaf senescence. plant physiol 128:
+876–884
+he y, gan s (2003) molecular characteristics of leaf senescence. in sg
+pandalai, ed, recent research developments in plant molecular biology,
+vol 1. research signpost, kerala, india, pp 1–17
+arabidopsis natural and induced senescence transcriptome
+he y, tang w, swain jd, green al, jack tp, gan s (2001) networking
+senescence-regulating pathways by using arabidopsis enhancer trap
+lines. plant physiol 126: 707–716
+himelblau e, amasino rm (2001) nutrients mobilized from leaves of
+j plant physiol 158:
+arabidopsis thaliana during leaf senescence.
+1317–1323
+hinderhofer k, zentgraf u (2001) identiﬁcation of a transcription factor
+speciﬁcally expressed at the onset of leaf senescence. planta 213: 469–473
+ho¨ rtensteiner s, feller u (2002) nitrogen metabolism and remobilization
+during senescence. j exp bot 53: 927–937
+hou b, lim ek, higgins gs, bowles dj (2004) n-glucosylation of cyto-
+kinins by glycosyltransferases of arabidopsis thaliana. j biol chem 279:
+47822–47832
+hwang i, chen hc, sheen j (2002) two-component signal transduction
+pathways in arabidopsis. plant physiol 129: 500–515
+jang jy, kim dg, kim yo, kim js, kang h (2004) an expression analysis
+of a gene family encoding plasma membrane aquaporins in response to
+abiotic stresses in arabidopsis thaliana. plant mol biol 54: 713–725
+jing hc, sturre mj, hille j, dijkwel pp (2002) arabidopsis onset of leaf
+death mutants identify a regulatory pathway controlling leaf senes-
+cence. plant j 32: 51–63
+kauschmann a, jessop a, koncz c, szekeres m, willmitzer l, altmann t
+(1996) genetic evidence for an essential role of brassinosteroids in plant
+development. plant j 9: 701–714
+kiba t, naitou t, koizumi n, yamashino t, sakakibara h, mizuno t
+(2005) combinatorial microarray analysis revealing arabidopsis genes
+implicated in cytokinin responses through the his-.asp phosphorelay
+circuitry. plant cell physiol 46: 339–355
+ko¨ nig r, baldessari d, pollet n, niehrs c, eils r (2004) reliability of gene
+expression ratios for cdna microarrays in multiconditional experi-
+ments with a reference design. nucleic acids res 32: e29
+lebrasseur nd, macintosh gc, perez-amador ma, saitoh m, green pj
+(2002) local and systemic wound-induction of rnase and nuclease
+activities in arabidopsis: rns1 as a marker for a ja-independent
+systemic signaling pathway. plant j 29: 393–403
+lin jf, wu sh (2004) molecular events in senescing arabidopsis leaves.
+plant j 39: 612–628
+lisso j, steinhauser d, altmann t, kopka j, mussig c (2005) identiﬁca-
+tion of brassinosteroid-related genes by means of transcript co-response
+analyses. nucleic acids res 33: 2685–2696
+lorenzo o, piqueras r, sanchez-serrano jj, solano r (2003) ethylene
+response factor1 integrates signals from ethylene and jasmonate
+pathways in plant defense. plant cell 15: 165–178
+morris k, mackerness sa, page t, john cf, murphy am, carr jp,
+buchanan-wollaston v (2000) salicylic acid has a role in regulating
+gene expression during leaf senescence. plant j 23: 677–685
+mu¨ ssig c, altmann t (2003) changes in gene expression in response to
+altered shl transcript levels. plant mol biol 53: 805–820
+nawrath c, heck s, parinthawong n, metraux jp (2002) eds5, an essential
+component of salicylic acid-dependent signaling for disease resistance
+in arabidopsis, is a member of the mate transporter family. plant cell
+14: 275–286
+noh ys, amasino rm (1999) identiﬁcation of a promoter region respon-
+sible for the senescence-speciﬁc expression of sag12. plant mol biol 41:
+181–194
+noode´ n ld (1988) abscisic acid, auxin, and other regulators of senescence.
+in ld noode´n, ac leopold, eds, senescence and aging in plants.
+academic press, san diego, pp 329–368
+noode´ n ld, guiame´ t jj, john i (1997) senescence mechanisms. physiol
+plant 101: 746–753
+oh sa, lee sy, chung ik, lee ch, nam hg (1996) a senescence-
+associated gene of arabidopsis thaliana is distinctively regulated dur-
+ing natural and artiﬁcially induced leaf senescence. plant mol biol 30:
+739–754
+oh sa, park jh, lee gi, paek kh, park sk, nam hg (1997) identiﬁcation
+of three genetic loci controlling leaf senescence in arabidopsis thaliana.
+plant j 12: 527–535
+okushima y, mitina i, quach hl, theologis a (2005) auxin response
+factor 2 (arf2): a pleiotropic developmental regulator. plant j 43:
+29–46
+park jh, oh sa, kim yh, woo hr, nam hg (1998) differential expression
+of senescence-associated mrnas during leaf senescence induced by
+plant physiol. vol. 141, 2006
+downloaded from 
+www.plantphysiol.org
+copyright © 2006 american society of plant biologists. all rights reserved.
+ on july 2, 2014 - published by 
+www.plant.org
+791
+van der graaff et al.
+different senescence-inducing factors in arabidopsis. plant mol biol 37:
+445–454
+insensitive3 and ethylene-response-factor1. genes dev 12:
+3703–3714
+phillips al, huttly ak (1994) cloning of two gibberellin-regulated cdnas
+from arabidopsis thaliana by subtractive hybridization: expression of
+the tonoplast water channel, gamma-tip, is increased by ga3. plant mol
+biol 24: 603–615
+piotrowski m, schonfelder s, weiler ew (2001) the arabidopsis thaliana
+isogene nit4 and its orthologs in tobacco encode beta-cyano-l-alanine
+hydratase/nitrilase. j biol chem 276: 2616–2621
+pollmann s, neu d, weiler ew (2003) molecular cloning and character-
+ization of an amidase from arabidopsis thaliana capable of converting
+indole-3-acetamide into the plant growth hormone, indole-3-acetic acid.
+phytochemistry 62: 293–300
+priest dm, jackson rg, ashford da, abrams sr, bowles dj (2005) the
+use of abscisic acid analogues to analyse the substrate selectivity of
+ugt71b6, a udp-glycosyltransferase of arabidopsis thaliana. febs lett
+579: 4454–4458
+quirino bf, normanly j, amasino rm (1999) diverse range of gene
+activity during arabidopsis thaliana leaf senescence includes pathogen-
+independent induction of defense-related genes. plant mol biol 40:
+267–278
+quirino bf, reiter wd, amasino rd (2001) one of two tandem arabi-
+dopsis genes homologous to monosaccharide transporters is senes-
+cence-associated. plant mol biol 46: 447–457
+rashotte am, carson sd, to jp, kieber jj (2003) expression proﬁling of
+cytokinin action in arabidopsis. plant physiol 132: 1998–2011
+remington dl, vision tj, guilfoyle tj, reed jw (2004) contrasting
+modes of diversiﬁcation in the aux/iaa and arf gene families. plant
+physiol 135: 1738–1752
+robatzek s, somssich ie (2002) targets of atwrky6 regulation during
+plant senescence and pathogen defense. genes dev 16: 1139–1149
+rose tl, bonneau l, der c, marty-mazars d, marty f (2006) starvation-
+induced expression of autophagy-related genes in arabidopsis. biol
+cell 98: 53–67
+ruepp a, zollner a, maier d, albermann k, hani j, mokrejs m, tetko i,
+guldener u, mannhaupt g, munsterkotter m, et al (2004) the funcat,
+a functional annotation scheme for systematic classiﬁcation of proteins
+from whole genomes. nucleic acids res 32: 5539–5545
+saier mh jr (2000) a functional-phylogenetic classiﬁcation system for
+transmembrane solute transporters. microbiol mol biol rev 64: 354–411
+schmu¨ lling t, werner t, rieﬂer m, krupkova e, bartrina y manns i (2003)
+structure and function of cytokinin oxidase/dehydrogenase genes of
+maize, rice, arabidopsis and other species. j plant res 116: 241–252
+schoof h, ernst r, nazarov v, pfeifer l, mewes hw, mayer kf (2004)
+mips arabidopsis thaliana database (matdb): an integrated biological
+knowledge resource for plant genomics. nucleic acids res (database
+issue) 32: d373–d376
+schwacke r, schneider a, van der graaff e, fischer k, catoni e,
+desimone m, frommer wb, flu¨ gge ui, kunze r (2003) aramemnon,
+a novel database for arabidopsis integral membrane proteins. plant
+physiol 131: 16–26
+shiu sh, bleecker ab (2001) receptor-like kinases from arabidopsis form
+a monophyletic gene family related to animal receptor kinases. proc
+natl acad sci usa 98: 10763–10768
+shiu sh, bleecker ab (2003) expansion of the receptor-like kinase/pelle
+gene family and receptor-like proteins in arabidopsis. plant physiol
+132: 530–543
+shiu sh, karlowski wm, pan r, tzeng yh, mayer kf, li wh (2004)
+comparative analysis of the receptor-like kinase family in arabidopsis
+and rice. plant cell 16: 1220–1234
+smart cm, scoﬁeld sr, bevan mw, dyer ta (1991) delayed leaf senes-
+cence in tobacco plants transformed with tmr, a gene for cytokinin
+production in agrobacterium. plant cell 3: 647–656
+solano r, stepanova a, chao q, ecker jr (1998) nuclear events in
+ethylene signaling: a transcriptional cascade mediated by ethylene-
+soudry e, ulitzur s, gepstein s (2005) accumulation and remobilization
+of amino acids during senescence of detached and attached leaves: in
+planta analysis of tryptophan levels by recombinant luminescent bac-
+teria. j exp bot 56: 695–702
+staswick pe, serban b, rowe m, tiryaki i, maldonado mt, maldonado
+mc, suza w (2005) characterization of an arabidopsis enzyme family
+that conjugates amino acids to indole-3-acetic acid. plant cell 17:
+616–627
+terasaka k, blakeslee jj, titapiwatanakun b, peer wa, bandyopadhyay
+a, makam sn, lee or, richards el, murphy as, sato f, et al (2005)
+pgp4, an atp binding cassette p-glycoprotein, catalyzes auxin trans-
+port in arabidopsis thaliana roots. plant cell 17: 2922–2939
+thomas sg, phillips al, hedden p (1999) molecular cloning and func-
+tional expression of gibberellin 2-oxidases, multifunctional enzymes
+involved in gibberellin deactivation. proc natl acad sci usa 96:
+4698–4703
+thompson ar, doelling jh, suttangkakul a, vierstra rd (2005) auto-
+phagic nutrient recycling in arabidopsis directed by the atg8 and
+atg12 conjugation pathways. plant physiol 138: 2097–2110
+tsuchisaka a, theologis a (2004) unique and overlapping expression
+patterns among the arabidopsis 1-amino-cyclopropane-1-carboxylate
+synthase gene family members. plant physiol 136: 2982–3000
+weaver lm, amasino rm (2001) senescence is induced in individually
+darkened arabidopsis leaves, but inhibited in whole darkened plants.
+plant physiol 127: 876–886
+weaver lm, gan s, quirino b, amasino rm (1998) a comparison of the
+expression patterns of several senescence-associated genes in response
+to stress and hormone treatment. plant mol biol 37: 455–469
+werner t, motyka v, laucou v, smets r, van onckelen h, schmu¨ lling t
+(2003) cytokinin-deﬁcient transgenic arabidopsis plants show multiple
+developmental alterations indicating opposite functions of cytokinins
+in the regulation of shoot and root meristem activity. plant cell 15:
+2532–2550
+wiermer m, feys bj, parker je (2005) plant immunity: the eds1 regulatory
+node. curr opin plant biol 8: 383–389
+woeste ke, kieber jj (2000) a strong loss-of-function mutation in ran1
+results in constitutive activation of the ethylene response pathway as
+well as a rosette-lethal phenotype. plant cell 12: 443–455
+woodward aw, bartel b (2005) auxin: regulation, action, and interaction.
+ann bot (lond) 95: 707–735
+xiao s, dai l, liu f, wang z, peng w, xie d (2004) cos1: an arabidopsis
+coronatine insensitive1 suppressor essential for regulation of jasmonate-
+mediated plant defense and senescence. plant cell 16: 1132–1142
+xiong y, contento al, bassham dc (2005) atatg18a is required for the
+formation of autophagosomes during nutrient stress and senescence in
+arabidopsis thaliana. plant j 42: 535–546
+xu w, campbell p, vargheese ak, braam j (1996) the arabidopsis xet-
+related gene family: environmental and hormonal regulation of expres-
+sion. plant j 9: 879–889
+yoshimoto k, hanaoka h, sato s, kato t, tabata s, noda t, ohsumi y
+(2004) processing of atg8s, ubiquitin-like proteins, and their deconju-
+gation by atg4s are essential for plant autophagy. plant cell 16:
+2967–2983
+zentgraf u, jobst j, kolb d, rentsch d (2004) senescence-related gene
+expression proﬁles of rosette leaves of arabidopsis thaliana: leaf age
+versus plant age. plant biol 6: 178–183
+zhu yx, davies pj (1997) the control of apical bud growth and senescence
+by auxin and gibberellin in genetic lines of peas. plant physiol 113:
+631–637
+zolman bk, yoder a, bartel b (2000) genetic analysis of indole-3-butyric
+acid responses in arabidopsis thaliana reveals four mutant classes.
+genetics 156: 1323–1337
+792
+downloaded from 
+www.plantphysiol.org
+copyright © 2006 american society of plant biologists. all rights reserved.
+ on july 2, 2014 - published by 
+www.plant.org
+plant physiol. vol. 141, 2006

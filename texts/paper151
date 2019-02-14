@@ -1,0 +1,925 @@
+the journal of biological chemistry vol. 282, no. 17, pp. 13123–13132, april 27, 2007
+© 2007 by the american society for biochemistry and molecular biology, inc. printed in the u.s.a.
+crystal structure of the bcl-xl-beclin 1 peptide complex
+beclin 1 is a novel bh3-only protein*
+received for publication, january 17, 2007, and in revised form, march 2, 2007 published, jbc papers in press, march 2, 2007, doi 10.1074/jbc.m700492200
+adam oberstein, philip d. jeffrey, and yigong shi1
+from the lewis thomas laboratory, department of molecular biology, princeton university, princeton, new jersey 08544
+bcl-2 family proteins are key regulators of apoptosis and have
+recently been shown to modulate autophagy. the tumor sup-
+pressor beclin 1 has been proposed to coordinate both apoptosis
+and autophagy through direct interaction with anti-apoptotic
+family members bcl-2 and/or bcl-xl. however, the molecular
+basis for this interaction remains enigmatic. here we report that
+beclin 1 contains a conserved bh3 domain, which is both nec-
+essary and sufficient for its interaction with bcl-xl. we also
+report the crystal structure of a beclin bh3 peptide in complex
+withbcl-xlat2.5a˚ resolution.reminiscentofpreviouslydeter-
+mined bcl-xl-bh3 structures, the amphipathic bh3 helix of
+beclin 1 bound to a conserved hydrophobic groove of bcl-xl.
+these results define beclin 1 as a novel bh3-only protein,
+implying that beclin 1 may have a direct role in initiating apo-
+ptotic signaling. we propose that this putative apoptotic func-
+tion may be linked to the ability of beclin 1 to suppress tumor
+formation in mammals.
+programmed cell death (1) is a critical process in metazoans
+responsible for basic tissue homeostasis, selective elimination
+of damaged cells, and structural reorganization during develop-
+ment. apoptosis, the most clearly defined form of programmed
+cell death, is initiated by an array of intracellular and extracel-
+lular signals (e.g. dna damage, cytokine removal, anoikis, etc.)
+and is characterized by a canonical morphology exhibiting
+chromatin condensation, nuclear fragmentation, and mem-
+brane blebbing (2, 3). the molecular mechanisms responsible
+for this morphology involve the release of cytochrome c and
+other apoptogenic factors from the mitochondria, and the sub-
+sequent activation of caspases, a family of cysteine proteases
+that dismantle the cell in a precise and systematic manner
+(4–6). the bcl-2 family of proteins integrate apoptotic signal
+transduction upstream of and at the mitochondrial membrane
+(7, 8). three classes of bcl-2 family proteins have been exten-
+sively described in the literature: anti-apoptotic bcl-2-like pro-
+teins (bcl-2, bcl-xl, bcl-w, and mcl-1, a1) containing three or
+four bcl-2 homology (bh)2 domains; pro-apoptotic bax-like
+* this work was supported by princeton university and grants from the
+national institutes of health. the costs of publication of this article were
+defrayed in part by the payment of page charges. this article must there-
+fore be hereby marked “advertisement” in accordance with 18 u.s.c. sec-
+tion 1734 solely to indicate this fact.
+the atomic coordinates and structure factors (code 2p1l) have been deposited in
+the protein data bank, research collaboratory for structural bioinformatics,
+rutgers university, new brunswick, nj (http://www.rcsb.org/).
+1 to whom correspondence should be addressed. tel.: 609-258-6071; fax:
+609-258-6730; e-mail: ygshi@princeton.edu.
+2 the abbreviations used are: bh, bcl-2 homology; bcl-2bd, beclin 1 bcl-2
+proteins (bax, bak, and bok) containing bh1, -2, and -3
+domains; and pro-apoptotic bh3-only proteins (e.g. bim, bad,
+bid, puma, and noxa) containing only the bh3 domain. upon
+receipt of an apoptotic stimulus, bh3-only proteins are then
+“activated,” repress anti-apoptotic bcl-2 family members, and
+activate pro-apoptotic bax-like proteins via direct protein-pro-
+tein interaction (9–11). this leads to oligomerization of bax
+and bak at the mitochondrial membrane, release of cytochrome
+c, and subsequent activation of caspases. thus, bh3-only
+proteins form a family of critical cell death ligands, which
+initiate a canonical death pathway and the resultant apopto-
+tic morphology.
+autophagy, a highly conserved stress response, may function
+as an alternative, non-apoptotic death mechanism under cer-
+tain conditions, for which it is sometimes referred to as type ii
+programmed cell death (12–14). under most conditions, auto-
+phagy is thought to function as a catabolic recycling mechanism
+involving the sequestration of cytoplasm and/or entire
+organelles into double-membraned vacuoles, termed autopha-
+gosomes, and their subsequent delivery to the lytic compart-
+ment (15). this type of autophagy, termed macroautophagy,
+functions to facilitate bioenergetic buffering during metabolic
+stress and turnover of long-lived proteins and organelles (15).
+during nutrient limitation, autophagy serves as a survival
+mechanism, maintaining a reserve of macromolecular building
+blocks and atp in both wild-type (16) and transformed (17, 18)
+cells.
+interestingly, abnormal induction of autophagic vacuoles, a
+signature of type ii programmed cell death, has been observed
+in dying cells from many diverse species (12, 19), which has led
+some to believe that autophagy may have a direct role in such a
+death process. consistent with this hypothesis, molecular evi-
+dence for autophagy-dependent cell death has recently been
+observed in mouse l929 cells treated with the pan-caspase
+inhibitor z-vad-fmk (20) and apoptosis-deficient bax⫺/⫺,
+bak⫺/⫺ mouse embryonic fibroblasts treated with etoposide or
+staurosporine (21). in both cases, rna interference directed
+toward components of the general autophagy machinery
+reverses the death phenotype. these studies bolster the notion
+that autophagy, an intrinsically self-limiting process, can, at
+least in some situations, act as a bona fide cell death program.
+additionally, bcl-2 itself has been shown to directly inhibit
+autophagic cell death via interaction with the mammalian auto-
+phagy gene beclin 1, demonstrating functional cross-talk
+binding domain; itc, isothermal titration calorimetry; gst, glutathione
+s-transferase; rh, hydrodynamic radius; z, benzyloxycarbonyl; fmk, flu-
+oromethyl ketone.
+april 27, 2007 • volume 282 • number 17
+journal of biological chemistry 13123
+structure of bcl-xl-beclin peptide complex
+between the apoptotic and autophagic pathways (22). beclin 1,
+the first identified mammalian autophagy protein (23), can
+function as a tumor suppressor in mammals (24–26) and inter-
+acts with the anti-apoptotic bcl-2 family proteins bcl-2 and
+bcl-xl but not bax (22, 27, 28). a litany of human cell lines, each
+expressing a mutant beclin 1 deficient in binding to bcl-2, all
+display increased levels of type ii cell death, which is suppressed
+by small interfering rna of the essential autophagy gene atg5
+(22). these results suggest that bcl-2, in addition to its hallmark
+ability to block type i-programmed cell death, can also block
+type ii-programmed cell death, perhaps multiplying its onco-
+genic potential (22, 29). they also imply that anti-apoptotic
+bcl-2 family members, acting upstream of beclin 1, may serve as
+master cell death regulators, able to coordinate both apoptotic
+and autophagic signals.
+however, the precise molecular mechanisms underlying the
+regulation of autophagy by bcl-2 family proteins remain poorly
+understood. for example, it is unclear how beclin 1 interacts
+with bcl-xl or bcl-2. such lack of mechanistic understanding is
+further confounded by unpredictable cell biology observations.
+for example, overexpression of bcl-2 or bcl-xl in wild-type
+mouse embryonic fibroblasts treated with etoposide appears to
+stimulate, rather than inhibit, beclin 1-dependent autophagic
+cell death (21). the cause of this reversal of phenotype in the
+presence of an apoptotic stimulus remains unclear (22).
+to gain further insight into the regulation of beclin 1 by bcl-2
+family proteins, we have performed biochemical experiments
+using purified proteins. in this study, we have defined the min-
+imal interaction domains between bcl-xl and beclin 1. we
+have discovered that beclin 1 contains a conserved bh3 domain
+and determined the crystal structure of the beclin 1 bh3 pep-
+tide in complex with bcl-xl. the structure, combined with in
+vitro binding analysis, reveals that the beclin 1 bh3 domain is
+both necessary and sufficient for interaction with the hydro-
+phobic groove of bcl-xl and proves that beclin 1 is an authentic
+bh3-only protein. the classification of beclin 1 as a bh3-only
+family member implies that, at least under certain circum-
+stances, beclin 1 may act upstream of bcl-2, mediating a cryptic
+apoptotic signaling function. we speculate that this putative
+pro-apoptotic function may partially explain the ability of
+beclin 1 to suppress tumor formation in mammals.
+experimental procedures
+expression and purification of proteins—the beclin 1 cdna
+was generously provided by dr. dan klionsky (university of
+michigan). all constructs were generated using a standard
+pcr-based cloning strategy and confirmed by sequencing. the
+bcl-2 binding domain of human beclin 1 (bcl-2bd, residues
+86–158) as well the human beclin 1 bh3 domain (beclinbh3,
+residues 107–135) were expressed as n-terminal glutathione
+s-transferase (gst) fusions from the vector pgex-2t (phar-
+macia corporation). human bcl-xl⌬loop⌬tm (deletion of
+residues 27–82 and the c-terminal 24 residues) was cloned into
+prsf (novagen) and coexpressed with gst-beclinbh3 in
+escherichia coli strain bl21 (de3) at 15 °c. the soluble fraction
+of the e. coli lysate was passed over a glutathione-sepharose 4b
+(amersham biosciences) affinity column, and the beclinbh3-
+bcl-xl complex was cleaved from the column using thrombin.
+the complex was then further purified using ion exchange
+(source 15q, amersham biosciences) and size exclusion
+(superdex-200, amersham biosciences) chromatography.
+wild-type and mutant gst-bcl-2bd were expressed individu-
+ally at room temperature and purified using a similar purifica-
+tion procedure, except that intact gst fusions were eluted
+from the affinity resin using reduced glutathione. a variant of
+bcl-xl⌬tm (n52d,n66d) was expressed as a c-terminal his6
+fusion from pet29b (novagen) and purified to homogeneity
+using affinity
+ion
+exchange (source 15q), and size exclusion (superdex-200)
+chromatography.
+(nickel-nitrilotriacetic
+acid, qiagen),
+crystallization and data collection—beclinbh3-bcl-xl co-
+crystals were grown by hanging drop vapor diffusion at 22 °c by
+mixing equal volumes of protein (5 mg/ml) with a well buffer
+containing 19–24% polyethylene glycol 400, 0.1 m hepes, ph
+7.5, and 0.2 m tri-sodium citrate dihydrate. crystals appeared
+overnight and were harvested after 10 days of maturation. the
+crystals belong to the space group p21212 and contain two
+domain-swapped dimers (four complexes) per asymmetric
+unit. the unit cell dimensions are a ⫽ 107.94 å, b ⫽ 110.59 å,
+and c ⫽ 100.52 å. crystals were equilibrated in a cryopro-
+tectant buffer containing 15% glycerol (v/v) plus well buffer and
+flash frozen in a ⫺170 °c nitrogen stream. native data were
+collected at national synchrotron light source beamline x-25
+and processed using denzo and scalepack software (30).
+structural determination—the structure was determined by
+molecular replacement using the program phaser (31) and
+coordinates from the bim-bcl-xl crystal structure (accession
+code 1pq1), excluding the bim peptide. the atomic model was
+built using o (32) and refined using crystallography nmr soft-
+ware (33). weak non-crystallography symmetry restraints
+(5–15 kcal/mol) were used in refinement. electron density for
+the beclin 1 peptide and the domain-swapped helices were
+unambiguous after preliminary refinement. the final, refined
+atomic model contains residues 107–127 of human beclin 1
+and residues 2–198 of human bcl-xl with amino acids 26 and
+83 contiguous. the beclin 1 peptide contains two additional
+n-terminal residues (gly and ser) carried over from the throm-
+bin cleavage site of pgex-2t.
+gst-mediated pulldown assay—1 mg of wild-type or
+mutant gst-bcl-2bd protein was immobilized on a 0.3-ml glu-
+tathione s-sepharose 4b column and washed with 20 column
+volumes of buffer a (25 mm tris, ph 8.0, 150 mm nacl, 3 mm
+dithiothreitol) to remove unbound protein. 2 mg of bcl-
+xl⌬tm was then bound to the resin followed by two 10-col-
+umn volume washes with buffer a. bound proteins were eluted
+with buffer a plus 5 mm reduced glutathione, applied to sds-
+page, and visualized by staining with coomassie blue.
+isothermal titration calorimetry (itc)—wild-type or
+mutant bcl-2bd or a synthetic peptide identical to the
+beclinbh3 peptide used for crystallization was titrated into the
+reaction cell of a vp-itc microcalorimeter (microcal) con-
+taining 20 ␮m bcl-xl⌬tm. the sequence of the synthetic pep-
+tide is nh2-gtmenlsrrlkvtgdlfdimsgqtdvdhp-
+cooh. thermodynamic constants were determined by least
+squares fitting using origin version 7.0 software (origen
+13124 journal of biological chemistry
+volume 282 • number 17 • april 27, 2007
+structure of bcl-xl-beclin peptide complex
+domain near the n terminus of
+beclin 1 just prior to the coiled coil
+domain (fig. 1).
+the beclin 1 bh3 (beclinbh3)
+domain shows a high degree of con-
+servation at amino acids previously
+shown to be buried in the hydro-
+phobic groove of bcl-xl in the bak
+(34), bad (35), and bim (36) peptide
+structures. these
+amino acids
+include leu-112, leu-116, thr-119,
+gly-120, and phe-123 in human
+beclin 1 (fig. 1b). the beclinbh3
+domain also contains a signature
+glycine-aspartate dyad (gly-120
+and asp-121),
+the aspartate of
+which forms a pair of conserved
+hydrogen bonds with arg-139 lin-
+ing the bcl-xl groove.
+strategy, we
+using a similar
+searched for homology to other
+bcl-2 homology domains
+(bh1,
+bh2, and bh3) but were unable to
+identify any significant similarity to
+such sequences. the presence of a bh3 domain, and only a bh3
+domain, defines beclin 1 as a novel member of the bh3-only
+family of proteins.
+mutations in beclinbh3 helical contacts disrupt binding
+to bcl-xl—to show that the putative beclinbh3 is required for
+the interaction with pro-survival bcl-2 family members, several
+conserved bh3 residues (leu-116, thr-119, and gly-120) were
+individually mutated to glutamate, and the resulting mutant
+proteins were assayed for their ability to bind to bcl-xl.
+because of the poor solubility of full-length beclin 1, bcl-2bd
+was used for these experiments. two assays, gst-mediated
+pulldown (fig. 2a) and analytical gel filtration (fig. 2b), consis-
+tently demonstrated that the missense mutations l116e or
+g120e led to abrogation of the interaction between beclin 1
+and bcl-xl. a double mutant containing both the l116e and
+g120e mutations similarly lost binding to bcl-xl. in contrast,
+the mutant t119e appeared to retain some binding to bcl-xl in
+both assays.
+next, we determined the binding affinities using itc, in
+which various beclin 1 mutants (bcl-2bd) were titrated into a
+sample chamber containing bcl-xl protein. this analysis
+revealed an apparent binding affinity of 2.3 ␮m between wild-
+type beclin 1 and bcl-xl (fig. 2c, left panel). a similar binding
+affinity, 1.1 ␮m, was attained using a synthetic beclinbh3 pep-
+tide (fig. 2d), suggesting that the extra sequences flanking the
+bh3 domain in bcl-2bd do not make any significant contribu-
+tion to bcl-xl binding. consistent with the pulldown and gel
+filtration assays, no interaction with bcl-xl was observed for
+the mutant beclin 1 bcl-2bd-l116e (fig. 2c, middle panel).
+furthermore, in agreement with the observation that the beclin
+1 mutant t119e retained some binding to bcl-xl in the pull-
+down and gel filtration assays (fig. 2, a and b), t119e exhibited
+a decreased binding affinity (14.8 ␮m) for bcl-xl by itc (fig.
+2c, right panel). these results demonstrate that the beclinbh3
+figure 1. the bh3 domain of beclin 1. a, domain organization of beclin 1. shown are bcl-2 binding domain
+(residues 88 –150) (bcl-2bd), bcl-2 homology domain 3 (residues 108 –127) (bh3), and the evolutionarily con-
+served domain (residues 244 –337) (ecd). b, aligned bh3 domains of human bcl-2 family proteins. circles above
+each column indicate residues buried (filled), partially buried (half-filled), or solvent-exposed (open) upon bind-
+ing to bcl-xl. red arrows indicate critical helical contact residues that disrupt binding of beclin 1 to bcl-2/bcl-xl.
+laboratories). for all analyses, n was forced to equal 1, and the
+initial ligand concentration (bcl-2bd) was varied until a best fit
+was achieved. this operation was necessary, because the initial
+concentration of bcl-2bd could not be determined spectro-
+scopically due to a lack of uv light-absorbing amino acids (trp
+or tyr). bcl-xl concentrations were determined by absorbance
+at 280 nm.
+dynamic light-scattering and gel filtration analysis—dy-
+namic light-scattering data were collected on a wyatt technol-
+ogies minidawn instrument at 23 °c. all samples were
+diluted to 2 mg/ml in buffer a and passed through a 0.1-␮m
+filter to remove particulate matter. analytical gel filtration was
+performed using a superdex-200 size exclusion column. for
+interaction assays between bcl-xl⌬tm and beclin bcl-2bd,
+proteins were mixed at a 2:1 molar ratio, respectively, and
+injected onto a superdex-200 size exclusion column equili-
+brated with buffer a. the elution profile of bcl-xl⌬tm was
+monitored at 280 nm. in control experiments, the elution pro-
+file of wild-type and mutant beclin bcl-2bd proteins were
+determined by monitoring phenylalanine at 254 nm.
+results
+beclin 1 contains a conserved bh3 domain—previous stud-
+ies have identified amino acids 88–150 of beclin 1 as the min-
+imal bcl-2 binding domain (bcl-2bd) (22, 27). bcl-2bd was
+shown to be necessary and sufficient for interaction with bcl-
+2/bcl-xl both in vivo and in vitro (22, 27, 28). the only surface
+on anti-apoptotic bcl-2 family proteins known to mediate pro-
+tein-protein interactions is a conserved hydrophobic groove
+responsible for binding the bh3 helix of bh3-only proteins
+(34–36). therefore, we postulated that beclin 1 may contain a
+bh3 domain. by performing primary sequence alignments
+between an array of bh3 domains from known bcl-2 family
+members and bcl-2bd, we were able to identify a putative bh3
+april 27, 2007 • volume 282 • number 17
+journal of biological chemistry 13125
+structure achi-xl-beclin peptide complex
+  
+a 1m2312m3m123m123m123m123
+m hf?- e..- w
+gstar l116e
+gst—beclin _
+84-156 gst wild type l116e t119e g120e g120e
+1 = gst-fusion input
+2 = bci-xl input
+3 = pull-down
+m = marker
+16.52ml (bci-xl+l116e,g120e)\"|
+beclln 84—156
+16.49ml (bcl-xl+l116e) wiid-wpe
+15.54ml (bcl-xl4't119e) i beclin 54-156
+l116e
+beclln 54-156
+g1zoe
+beclin 84-156
+retention (ml) l116e,g120e
+c wild-type t119e d bh3 peptide
+time(min) ,4 ’ time(min) > tims(mln)
+    
+       
+§ ” e: 3m
+= n 3 " > g
+u s m 3 , e u
+“a 1 , :7 :4“
+e u a i a e l
+.. a a
+g z a 2; s
+._ 4 e. .2 .3; 1
+e e e ‘ .e
+2 5 2 3 a
+o . o , n
+e m e v ’ e
+e ‘ t!
+g ,2 g, l g !
+molar ratio “ ., moiar ra’iio’ ’ ” " molar faun ‘molar ialio
+13126 journal of blolog/cal chem/swy w volumezsz~number17~april 27, 2007
+gm lg. l'amw uo sauqu'l mo. j0 mmmun sum ﬁlo'aqf'mmm'duq um.” papmumou
+domain itself is specifically required for the interaction
+between beclin 1 and bcl-xl in vitro. they also demonstrate
+that the bh3 domain of beclin 1 can form a “stable” complex
+with bcl-xl.
+a beclin missense mutant, f123a in human beclin 1, has
+recently been shown to disrupt binding to bcl-2 in vivo (22).
+this mutation serendipitously maps to the c terminus of the
+bh3 helix in beclin 1 (fig. 1b). yeast two-hybrid analysis and
+immunoprecipitation experiments in hek293 cells suggest
+that this mutation disrupts the interaction between beclin 1
+and cellular bcl-2 (22). based on the bim and bad peptide struc-
+tures, the benzene ring of this phenylalanine makes critical van
+der waals contacts with amino acids in the conserved groove of
+bcl-xl. these contacts are predicted to be significantly weak-
+ened or disrupted by mutation of phe to the much smaller ala.
+these results are consistent with our in vitro observations and
+suggest that the beclinbh3 domain is responsible for interac-
+tion with bcl-2 family proteins in vivo in the context of a full-
+length protein. thus, the bh3 domain of beclin 1 is the minimal
+element necessary for interaction with anti-apoptotic bcl-2
+family proteins both in vitro and in vivo.
+overall structure of the bcl-xl-beclinbh3 heterodimer—
+bh3 domains may have been misidentified in a number of pro-
+teins (37) presumably because of the low complexity of the con-
+sensus sequence. this prompted us to examine the interaction
+between the beclinbh3 domain and bcl-xl in more detail.
+accordingly, we co-crystallized a heterodimeric complex con-
+taining a beclinbh3 peptide (hbeclin-(107–135)) and a dele-
+tion variant of bcl-xl (bcl-xl⌬loop⌬tm; see “experimental
+procedures”). the structure was determined at a 2.5 å resolu-
+tion by molecular replacement using the bcl-xl-bim structure
+(table 1).
+unexpectedly, the heterodimer crystallized as a domain-
+swapped tetramer, with each bcl-xl monomer bound to an inde-
+pendent beclinbh3 peptide and each bcl-xl helix ␣1 intermo-
+lecularly “swapped” with its neighbor (fig. 3a). two lines of
+experimentalevidencesuggestthatthisdomainswapwasinduced
+during crystallization, likely as a result of a crystallization artifact.
+first, dynamic light-scattering experiments revealed that the
+beclinbh3-bcl-xl complex reproducibly displayed a virtually
+identical hydrodynamic radius (rh), 3.1 ⫾ 0.2 nm, as unbound
+bcl-xlinsolution.second,boththecomplexandunboundbcl-xl
+showed identical elution volumes by analytical gel filtration, sug-
+gesting similar apparent molecular weights (data not shown). bcl-
+xl⌬tm is monomeric in solution on the basis of reported nmr
+structureandanalyticalultracentrifugationanalysis(38,39).thus,
+by extension, the virtually identical solution properties we
+structure of bcl-xl-beclin peptide complex
+table 1
+statistics from crystallographic analysis
+rsym ⫽ ⌺h⌺i 兩ih,i ⫺ ih兩/⌺h⌺iih,i, where ih is the mean intensity of the i observations of
+symmetry-related reflections of h. r ⫽ ⌺兩f obs ⫺ fcalc兩/⌺fobs, where fobs ⫽ fp, and
+fcalc is the calculated protein structure factor from the atomic model (rfree was
+calculated with 5% of the reflections). root mean square deviation in bond lengths
+and angles are the deviations from ideal values.
+data
+protein
+beamline
+space group
+resolution (outer shell) (å)
+total observations
+unique observations
+data coverage (outer shell)
+i/␴(outer shell)
+rsym (outer shell)
+refinement
+resolution range (å)
+number of reflections (兩f 兩 ⬎ 0)
+data coverage (test set)
+rworking
+rfree
+total number of atoms
+number of waters
+root mean square deviation
+bond length (å)
+root mean square deviation
+bond angles (degree)
+ramachandran plot
+most favored (%)
+additionally allowed (%)
+generously allowed (%)
+disallowed (%)
+bcl-xl-beclinbh3 complex
+50.0–2.4 (2.49–2.40)
+nsls-x25
+p21212
+186,833
+46,829
+97.7% (98.8%)
+10.6 (2.34)
+0.071 (0.413)
+50.0–2.5
+41,260
+97.6% (5%)
+0.226
+0.263
+5,312
+16
+0.010
+1.36
+92.9
+6.3
+0.9
+observed between the beclinbh3 complex and bcl-xl⌬tm indi-
+cates that the complex exists as a single heterodimer in solution,
+which only becomes domain-swapped during crystallization. it is
+importanttonotethatthedomainswapinbcl-xldoesnotimpact
+in any way the interactions between the beclinbh3 peptide and
+bcl-xl(fig.3a)andthusdoesnotcompromisetheunderstanding
+of the molecular recognition between beclinbh3 peptide and
+bcl-xl.
+irrespective of the domain swapping, each dimeric unit aligns
+extremely well with the bcl-xl-bim structure, with a root mean
+square deviation of 0.531 å over 584 backbone atoms (fig. 3b).
+helix ␣1 swapped into the exact position and orientation as it is
+normally found in the crystal structures of the bimbh3-bcl-xl
+complex (root mean square deviation of 0.339 å over 140 back-
+boneatomsinhelix ␣1)andbcl-xl (rootmeansquaredeviationof
+0.520 å over 136 atoms in helix ␣1). this suggests that the overall
+fold, and more importantly the bh3 binding groove, remained
+intact during crystallization. therefore, the interaction between
+the beclin bh3 helix and bcl-xl likely reflects their normal mode
+of interaction, unaffected by the domain swapping occurring on
+the opposite face of the molecule.
+figure 2. the bh3 domain of beclin 1 is required for binding to bcl-xl in vitro. a, gst-mediated pulldown assay using immobilized gst-beclin-(88 –156)
+⌬tm as the mobile phase. shown are representative sds-page gels stained with coomassie blue. two beclinbh3 mutations, l116e and
+(bcl-2bd) and bcl-xl
+g120e, significantly abrogated binding of bcl-xl, whereas a double mutant containing both mutations completely eliminated binding. the t119e mutant
+retains ⬃50% binding compared with wild type. note that the intensity of the wild-type gst-fusion protein in the pulldown lane (lane 3, panel 2) is⬃50% of the
+mutant fusions (lane 3, mutant panels). b, analytical gel filtration assay showing binding of gst-cleaved bcl-2bd proteins to bcl-xl. a 2-fold molar excess of
+bcl-xl was mixed with wild-type or mutant bcl2-bd and then injected onto a pre-equilibrated superdex200 gel filtration column. the elution profile of bcl-xl
+was monitored at 280 nm, which does not detect bcl2-bd due to the lack of tryptophan and tyrosine. only the wild type and the t119e mutant were able to
+cause a peak shift in bcl-xl. uncomplexed bcl-xl (solid black line) was used as a control (gel not shown). identical fractions were resolved by sds-page and
+visualized by coomassie staining (right panel). c, binding isotherms generated using itc. binding affinities (kd) were measured between the wild type (left),
+l116e (middle), and t119e (right) bcl2-bd (ligand) and bcl-xl (receptor). consistent with the binding assays in a and b, the t119e mutant retained binding to
+bcl-xl, whereas no significant heat release was observed for the l116e mutant. d, itc of a 29-amino-acid synthetic beclinbh3 peptide (ligand) and bcl-xl
+(receptor).
+april 27, 2007 • volume 282 • number 17
+journal of biological chemistry 13127
+structure of bcl-xl-beclin peptide complex
+figure 3. structure of the bcl-xl-beclinbh3 peptide complex. a, overall structure of the domain-swapped tetramer composed of two bcl-xl-beclinbh3
+heterodimers. b, structural alignment of one bcl-xl-beclinbh3 heterodimer and the bcl-xl-bimbh3 heterodimer. bcl-xl helix 1 (␣12) in the beclin structure (left)
+swapped into the precise position and orientation as the bcl-xl helix 1 (␣1) in the bim (middle) complex, suggesting that the domain swap did not affect the
+integrity of the bh3 binding groove (see “results” for details). c, detailed interaction surfaces between the beclinbh3 domain and bcl-xl. the proteins have
+been separated into components to help visualize the crowded interface. bh3 residues are shown in yellow and bcl-xl residues in green. hydrogen bonds are
+shown as dashed red lines. all figures were made with pymol (61), except fig. 4, which was made with molscript software (62).
+overall, the beclinbh3-bcl-xl structure is similar to previ-
+ously determined bak (34), bad (35), and bim (36) peptide com-
+plexes. each heterodimeric unit, composed of most of bcl-xl
+chain a (residues 26–198), one beclinbh3 peptide, and the first
+helix of bcl-xl chain b (residues 2–25) forms a compact, glob-
+ular fold. this fold has a core helix (␣5) surrounded by seven
+13128 journal of biological chemistry
+volume 282 • number 17 • april 27, 2007
+structure of bcl-xl-beclin peptide complex
+123, mediate important interactions
+with surrounding residues in bcl-xl
+(fig. 4a). the corresponding resi-
+dues in bimbh3 are ile-90, leu-94,
+arg-95, ile-97, gly-98, asp-99, and
+phe-101, respectively (fig. 4b). the
+interactions mediated by the two
+charged residues, lys-117 and asp-
+121 in beclin 1, are highly con-
+served. in both beclin 1 and bim, the
+positively charged lys-117/arg-95
+donates
+a hydrogen bond to
+glu-129 in bcl-xl. this interaction
+is stabilized by a pair of intramolec-
+ular contacts between glu-129 and
+arg-132 (fig. 4). the invariant asp-
+121/asp-99 in beclin/bim make a
+pair of charge-stabilized hydrogen
+bonds to arg-139 of bcl-xl. in con-
+trast to the two charged residues,
+interactions mediated by the four
+hydrophobic residues in beclin 1
+exhibit distinct features compared
+with those in the bcl-xl-bim com-
+plex (fig. 4). one major difference is
+that the ␣3 helix in the beclinbh3-
+bound bcl-xl appears to be more
+flexible, as judged by the high tem-
+perature factors
+(b-factors) and
+poor
+electron density. conse-
+quently, leu-112 in beclin 1 makes
+van der waals contacts to tyr-101
+(but not leu-108) in bcl-xl (fig.
+4a), whereas the corresponding res-
+idue ile-90 in bim interacts with
+leu-108 (but not tyr-101). simi-
+larly, leu-116 in beclin 1 interacts
+with tyr-101 and leu-108 (but not
+phe-105) in bcl-xl, whereas leu-94
+in bim makes contact to phe-105
+(but not tyr-101 or leu-108). apparently, these interaction
+features determine the distinct binding specificity of beclin 1
+toward bcl-xl and perhaps other bcl-2 family proteins.
+a comparison of the crystal structure of unbound bcl-xl
+with the beclinbh3-bcl-xl complex reveals similar structural
+rearrangements as seen in the bim complex. upon binding of
+the bh3 ligand, the ␣4 helix of bcl-xl shifts toward the peptide
+by ⬃4 å, whereas ␣3 opens up 4–5 å (fig. 5). the increased
+mobility of helix ␣3 in the beclin complex is likely the result of
+bh3 peptide binding, as ␣3 also shows generally higher b-fac-
+tors than other helices in the bim peptide structure (36) but has
+normal b-factors in all available apobcl-xl structures. in addi-
+tion to this increased mobility, the side chain of tyr-101 on
+helix ␣2, which lines the binding groove, is flipped with respect
+to the bim-bcl-xl structure (fig. 5). we note that the confor-
+mation of this residue is particularly diverse, as it varies among
+both apobcl-xl (compare accessions 1rd2 and 1maz) and
+holobcl-xl (fig. 5). it is possible that the orientation of tyr-101
+figure 4. structural comparison of the beclinbh3-bcl-xl and bimbh3-bcl-xl complexes. a, interface
+between the beclinbh3 peptide and bcl-xl in stereo. side chains from residues in the beclinbh3 peptide and
+bcl-xl are yellow and green, respectively. hydrogen bonds are represented as red dashed lines. b, interface
+between the bimbh3 peptide and bcl-xl in stereo. side chains from residues in the bim peptide are colored
+gold.
+shell helices (␣1–␣3, ␣4, and ␣6–␣8) and intervening loops. a
+hydrophobic groove created by ␣2–␣5 provides the docking
+surface for the bh3 peptide (fig. 3c). the peptide adopts a
+single, six-turn, ␣-helix with bh3 residues leu-112, leu-116,
+thr-119, gly-120, phe-123, and the aliphatic side chains of ser-
+113 and arg-115 forming a network of van der waals interac-
+tions with the bcl-xl groove (fig. 3c). several flanking hydro-
+gen bonds stabilize the interaction and may provide the
+necessary specificity to orient the helix (fig. 3c).
+interface between beclinbh3 and bcl-xl—although there
+have been three reported structures of the bcl-xl-bh3 com-
+plexes (34–36), only one was determined by x-ray crystallogra-
+phy at high resolution (36), which involves the bim bh3 region.
+analysis of the interface between the beclinbh3 helix and
+bcl-xl revealed a number of interesting features that are dis-
+tinct from those of the bcl-xl-bim recognition.
+four hydrophobic and two charged residues in the beclinbh3
+helix, leu-112, leu-116, lys-117, thr-119, asp-121, and phe-
+april 27, 2007 • volume 282 • number 17
+journal of biological chemistry 13129
+structure of bcl-xl-beclin peptide complex
+discussion
+in this study, we have shown that beclin 1 is a new member of
+the expanding family of bh3-only proteins. beclin 1, originally
+identified as a novel bcl-2-interacting protein (27), was the first
+functional mammalian autophagy gene identified (23) and
+resides at a human tumor susceptibility locus on chromosome
+17, which is monoallelically deleted in large numbers of breast,
+prostate, and ovarian cancers (24). enforced expression of
+beclin 1 in mcf-7 breast carcinoma cells, which show
+decreased levels of beclin protein, reduces their tumorigenicity
+(23), and heterozygous disruption of beclin 1 in mice leads to
+suppression of autophagy and concomitant tumor formation
+(25, 26). these results have fueled the notion of autophagy as a
+general tumor-suppressive mechanism.
+surprisingly little is known about what beclin 1 actually does
+in cells. other than its constituency in a complex with the class
+iii phosphoinositol 3-kinase vps34p (40, 41) and its aforemen-
+tioned interaction with bcl-2/xl, the molecular mechanisms by
+which beclin 1 functions remain poorly understood. a lack of
+known protein motifs as well as an unclear role in autophagy
+has confounded analysis of beclin 1 in mammalian systems.
+only two domains have been described in beclin 1 prior to the
+bh3 domain, a coiled coil domain (residues 140–268) and a
+c-terminal evolutionarily conserved domain (residues 244–
+337) (42). the coiled coil domain interacts with two previously
+characterized partners, npist (43) and uvrag (44), whereas
+the evolutionarily conserved domain is thought to bind vps34p
+(42).
+our structural and biochemical characterization of beclin 1
+shows that its bh3 domain is both necessary and sufficient for
+interaction with bcl-xl and that the proteins can form a stable
+complex in vitro. we further report the molecular details dic-
+tating the interaction of the two proteins. the identification of
+the beclin bh3 domain implies that beclin may be able to reg-
+ulate bcl-2, at least in some circumstances, rather than or in
+addition to the recently reported ability of bcl-2 to regulate
+beclin 1 (22). the literature is replete with examples of bh3-
+only proteins, which serve as death ligands, engaging down-
+stream multidomain bcl-2 proteins prior to release of cyto-
+chrome c. thus, there is ample precedent indicating that beclin
+1, which has now been shown to contain a bh3 domain, may
+function in a similar capacity.
+there is a possibility, although unsupported, that the bh3
+domain of beclin 1 mediates a novel function with respect to the
+bcl-2 family. for example, it could serve as an adaptor for load-
+ing mitochondria into autophagosomes, which has been previ-
+ously suggested (45–47). additionally, characterization of the
+bh3-only e3 ubiquitin ligase arf-bp1/mule has demon-
+strated that the bh3 domain, in at least one case, can be used for
+substrate recognition (48). it is worth noting, however, that a
+canonical death ligand function for its bh3 helix was, as the
+authors noted, not explicitly ruled out by the ability of arf-bp1/
+mule to polyubiquitinate mcl-1 (48). that is, arf-bp1/mule
+may counter mcl-1-mediated inhibition of bak in addition to
+recognizing it as a substrate for ubiquitination. nevertheless,
+the clear majority (if not all) of bh3-only proteins identified to
+date, including arf-bp1/mule, function in a pro-apoptotic
+figure 5. structural rearrangements of bcl-xl upon binding of the
+beclinbh3 domain. shown are aligned backbone atoms from the following
+structures: unbound bcl-xl (white), bim bound bcl-xl (blue), and beclin
+1-bound bcl-xl (magenta). significant rearrangements of bcl-xl helices 3 and
+4 as well as the side chain of tyr-101 are shown.
+serves as a readout of the strength and/or specificity of bh3
+binding. this speculation and other potential implications of
+the tyr-101 conformations remain to be experimentally
+investigated.
+the structure, combined with our biochemical results, vali-
+dates the bh3 domain of beclin as both necessary and sufficient
+for interaction with anti-apoptotic members of the bcl-2 fam-
+ily. thus, beclin 1 can be definitively classified as a new member
+of the bh3-only family of proteins.
+13130 journal of biological chemistry
+volume 282 • number 17 • april 27, 2007
+manner upstream of bcl-2 and bax-like proteins. given this
+precedent, it is not unreasonable to posit that beclin 1 similarly
+contains a pro-apoptotic function mediated by its bh3 domain.
+an unidentified apoptotic function may partially explain the
+ability of beclin to suppress tumors. three of nine previously
+described bh3-only proteins, bim (49, 50), bad (51), and
+puma (52), have been shown to function as tumor suppressors
+in mouse models, and virtually every bh3-only protein has
+been found to be dysregulated or mutated in at least one human
+cancer (11). similarly, beclin 1 is a bh3-only protein that can
+function as a tumor suppressor in mice and is deleted in many
+human cancers. thus, beclin fits the pattern of a canonical
+bh3-only protein extremely well and therefore is predicted to
+display similar activities. the generation of bh3 mutant
+knock-in mice should help clarify whether the bh3 domain of
+beclin 1 is involved in its tumor suppressor function.
+paradoxically, defects in apoptosis were not observed upon
+uv irradiation or serum withdrawal of beclin 1-null mouse
+embryonic stem cells, suggesting that beclin 1 is not involved in
+apoptotic cell death (26). this negative result has been inter-
+preted to indicate a novel, non-apoptotic (i.e. autophagic)
+tumor suppressor function for beclin 1 (14, 26, 53). however,
+we note that one might not expect to see defects in apoptosis
+induced by such stimuli unless the particular pathways mediat-
+ing their specific effects were additionally disrupted in beclin
+1-null mouse embryonic stem cells. that is, the p53 pathway
+inducing noxa and puma and the non-apoptotic aif pathway,
+known to mediate the effects of uv damage and serum with-
+drawal, respectively (26), would need to be damaged in beclin
+1-null beclin cells in order for apoptosis to be affected. it is
+likely that both of these pathways are intact in beclin 1-null
+embryonic stem cells, although no evidence for or against this
+hypothesis has been presented to date. beclin 1 might mediate
+apoptosis of an uncharacterized death stimulus (for example,
+nutrient deprivation), which would be missed if not assayed for
+explicitly in such experiments. re-examination of the p53 and
+aif pathways in beclin 1-null cells should help resolve this
+issue.
+further complicating a putative pro-apoptotic role for beclin
+1, several recent studies have suggested that autophagy can pro-
+tect mitochondria from apoptotic stimuli (54, 55). for example,
+overexpression of beclin 1 in cos-7 cells yielded a slight resist-
+ance to apoptosis induced by staurosporine, which was elimi-
+nated upon treatment of the autophagy inhibitor 3-methylad-
+enine (55). this result suggests that the autophagy function of
+beclin 1 can be cytoprotective in certain situations. thus,
+beclin 1 appears to have the ability to modulate the opposing
+survival and death functions of both apoptosis and autophagy.
+any model of how beclin 1 works would have to account for all
+of these apparently incompatible activities.
+although autophagic cell death has yet to be clearly demon-
+strated in mammalian cells containing intact apoptotic
+machinery, its existence would clearly necessitate a high degree
+of coordination between the disparate death pathways. the
+molecular mechanisms involved in coordinating the survival
+and death functions of autophagy, and each in turn with apo-
+ptosis, remain enigmatic. autophagy, even in survival mode, is
+likely to be highly coordinated with apoptosis in order for the
+structure of bcl-xl-beclin peptide complex
+cell to switch from scavenging to dismantling. one possibility is
+that, under homeostatic conditions, bcl-2 family proteins
+would suppress both apoptosis and autophagy, accomplishing
+the latter through direct binding to beclin 1, whereas excessive
+cytotoxic stress would trigger classical apoptosis via bh3-only
+proteins (including beclin 1 itself) but would default to autoph-
+agic cell death upon obstruction of apoptosis, such as through
+the lack of atp or at a pathway lesion. such a sequence of
+events would be consistent with recent insights suggesting that
+the disparate cell death mechanisms exist as a highly interwo-
+ven continuum of cellular pathways, which facilitates physio-
+logic and pathologic responses to various stimuli (56, 57).
+a significant question arising from this work is whether auto-
+phagy, in general, is tumor-suppressive or beclin 1 is a “special”
+autophagy gene with a secondary function in tumor suppres-
+sion. it has been noted that oncogenes (e.g. phosphoinositol
+3-kinase, akt, bcl-2) generally inhibit autophagy and that
+tumor suppressors (e.g. pten, p53, beclin) generally activate
+autophagy (14, 29, 58). nevertheless, a direct correlation
+between loss of autophagy and tumorigenesis has yet to be
+observed, as homozygous deletion of essential autophagy genes
+leads to early post-natal lethality in mice (59, 60). thus, it
+remains a possibility that beclin 1 is unique among autophagy
+genes and suppresses tumors through a previously unidentified
+function, separate from its ability to influence autophagy. such
+a function might be provided by the bh3 domain.
+in summary, we have shown that beclin 1 is a novel bh3-only
+protein, which suggests a novel function upstream of bcl-2/bcl-
+xl. further experiments will be required to determine the pre-
+cise role of the beclin bh3 domain in physiologic settings.
+nonetheless, available observations suggest that beclin 1 may
+contain a proapoptotic function, which could be related to its
+ability to suppress tumors in mammalian systems. a greater
+understanding of this mechanism will hopefully lead to new
+insights into the role of autophagy in cancer, as well as other
+autophagy-related diseases.
+references
+1. lockshin, r. a., and williams, c. m. (1965) j. insect physiol. 11, 123–133
+2. kerr, j. f., wyllie, a. h., and currie, a. r. (1972) br. j. cancer 26, 239–257
+3. wyllie, a. h. (1974) j. clin. pathol. suppl. (r coll pathol). 7, 35–42
+4. yuan, j., shaham, s., ledoux, s., ellis, h. m., and horvitz, h. r. (1993) cell
+75, 641–652
+5. li, p., nijhawan, d., budihardjo, i., srinivasula, s. m., ahmad, m., alnemri,
+e. s., and wang, x. (1997) cell 91, 479–489
+6. riedl, s. j., and shi, y. (2004) nat. rev. mol. cell biol. 5, 897–907
+7. adams, j. m., and cory, s. (2001) trends biochem. sci. 26, 61–66
+8. danial, n. n., and korsmeyer, s. j. (2004) cell 116, 205–219
+9. willis, s. n., and adams, j. m. (2005) curr. opin. cell biol. 17, 617–625
+10. fletcher, j. i., and huang, d. c. (2006) cell death differ. 13, 1268–1271
+11. labi, v., erlacher, m., kiessling, s., and villunger, a. (2006) cell death
+differ. 13, 1325–1338
+12. baehrecke, e. h. (2003) cell death differ. 10, 940–945
+13. edinger, a. l., and thompson, c. b. (2004) curr. opin. cell biol. 16,
+663–669
+14. gozuacik, d., and kimchi, a. (2004) oncogene 23, 2891–2906
+15. levine, b., and klionsky, d. j. (2004) dev. cell 6, 463–477
+16. lum, j. j., bauer, d. e., kong, m., harris, m. h., li, c., lindsten, t., and
+thompson, c. b. (2005) cell 120, 237–248
+17. degenhardt, k., mathew, r., beaudoin, b., bray, k., anderson, d., chen,
+g., mukherjee, c., shi, y., gelinas, c., fan, y., nelson, d. a., jin, s., and
+white, e. (2006) cancer cell 10, 51–64
+april 27, 2007 • volume 282 • number 17
+journal of biological chemistry 13131
+structure of bcl-xl-beclin peptide complex
+18. jin, s., and white, e. (2007) autophagy 3, 28–31
+19. clarke, p. g. (1990) anat. embryol. 181, 195–213
+20. yu, l., alva, a., su, h., dutt, p., freundt, e., welsh, s., baehrecke, e. h.,
+and lenardo, m. j. (2004) science 304, 1500–1502
+21. shimizu, s., kanaseki, t., mizushima, n., mizuta, t., arakawa-kobayashi,
+s., thompson, c. b., and tsujimoto, y. (2004) nat. cell biol. 6, 1221–1228
+22. pattingre, s., tassa, a., qu, x., garuti, r., liang, x. h., mizushima, n.,
+packer, m., schneider, m. d., and levine, b. (2005) cell 122, 927–939
+23. liang, x. h., jackson, s., seaman, m., brown, k., kempkes, b., hibshoosh,
+h., and levine, b. (1999) nature 402, 672–676
+24. aita, v. m., liang, x. h., murty, v. v., pincus, d. l., yu, w., cayanis, e.,
+kalachikov, s., gilliam, t. c., and levine, b. (1999) genomics 59, 59–65
+25. qu, x., yu, j., bhagat, g., furuya, n., hibshoosh, h., troxel, a., rosen, j.,
+eskelinen, e. l., mizushima, n., ohsumi, y., cattoretti, g., and levine, b.
+(2003) j. clin. investig. 112, 1809–1820
+26. yue, z., jin, s., yang, c., levine, a. j., and heintz, n. (2003) proc. natl.
+acad. sci. u. s. a. 100, 15077–15082
+27. liang, x. h., kleeman, l. k., jiang, h. h., gordon, g., goldman, j. e., berry,
+g., herman, b., and levine, b. (1998) j. virol. 72, 8586–8596
+28. furuya, d., tsuji, n., yagihashi, a., and watanabe, n. (2005) exp. cell res.
+307, 26–40
+29. pattingre, s., and levine, b. (2006) cancer res. 66, 2885–2888
+30. otwinowski, z., and minor, w. (1997) methods enzymol. 276, 307–326
+31. mccoy, a. j., grosse-kunstleve, r. w., storoni, l. c., and read, r. j. (2005)
+acta crystallogr. sect. d biol. crystallogr. 61, 458–464
+32. jones, t. a., zou, j. y., cowan, s. w., and kjeldgaard, m. (1991) acta
+crystallogr. sect. a 47, 110–119
+33. brunger, a. t., adams, p. d., clore, g. m., delano, w. l., gros, p.,
+grosse-kunstleve, r. w., jiang, j. s., kuszewski, j., nilges, m., pannu, n. s.,
+read, r. j., rice, l. m., simonson, t., and warren, g. l. (1998) acta
+crystallogr. sect. d biol. crystallogr. 54, 905–921
+34. sattler, m., liang, h., nettesheim, d., meadows, r. p., harlan, j. e., eber-
+stadt, m., yoon, h. s., shuker, s. b., chang, b. s., minn, a. j., thompson,
+c. b., and fesik, s. w. (1997) science 275, 983–986
+35. petros, a. m., nettesheim, d. g., wang, y., olejniczak, e. t., meadows,
+r. p., mack, j., swift, k., matayoshi, e. d., zhang, h., thompson, c. b., and
+fesik, s. w. (2000) protein sci. 9, 2528–2534
+36. liu, x., dai, s., zhu, y., marrack, p., and kappler, j. w. (2003) immunity
+37. aouacheria, a., brunet, f., and gouy, m. (2005) mol. biol. evol. 22,
+19, 341–352
+2395–2416
+38. muchmore, s. w., sattler, m., liang, h., meadows, r. p., harlan, j. e.,
+yoon, h. s., nettesheim, d., chang, b. s., thompson, c. b., wong, s. l.,
+ng, s. l., and fesik, s. w. (1996) nature 381, 335–341
+39. thuduppathy, g. r., and hill, r. b. (2006) protein sci. 15, 248–257
+40. kihara, a., kabeya, y., ohsumi, y., and yoshimori, t. (2001) embo rep.
+41. zeng, x., overmeyer, j. h., and maltese, w. a. (2006) j. cell sci. 119,
+42. furuya, n., yu, j., byfield, m., pattingre, s., and levine, b. (2005) autoph-
+2, 330–335
+259–270
+agy 1, 46–52
+43. yue, z., horton, a., bravin, m., dejager, p. l., selimi, f., and heintz, n.
+44. liang, c., feng, p., ku, b., dotan, i., canaani, d., oh, b. h., and jung, j. u.
+(2002) neuron 35, 921–933
+(2006) nat. cell biol. 8, 688–699
+45. edinger, a. l., and thompson, c. b. (2003) cancer cell 4, 422–424
+46. jin, s. (2006) autophagy 2, 80–84
+47. kundu, m., and thompson, c. b. (2005) cell death differ. 12, suppl. 2,
+1484–1489
+48. zhong, q., gao, w., du, f., and wang, x. (2005) cell 121, 1085–1095
+49. egle, a., harris, a. w., bouillet, p., and cory, s. (2004) proc. natl. acad.
+sci. u. s. a. 101, 6164–6169
+50. tan, t. t., degenhardt, k., nelson, d. a., beaudoin, b., nieves-neira, w.,
+bouillet, p., villunger, a., adams, j. m., and white, e. (2005) cancer cell 7,
+227–238
+51. ranger, a. m., zha, j., harada, h., datta, s. r., danial, n. n., gilmore, a. p.,
+kutok, j. l., le beau, m. m., greenberg, m. e., and korsmeyer, s. j. (2003)
+proc. natl. acad. sci. u. s. a. 100, 9324–9329
+52. hemann, m. t., zilfou, j. t., zhao, z., burgess, d. j., hannon, g. j., and
+lowe, s. w. (2004) proc. natl. acad. sci. u. s. a. 101, 9333–9338
+53. levine, b., and yuan, j. (2005) j. clin. investig. 115, 2679–2688
+54. boya, p., gonzalez-polo, r. a., casares, n., perfettini, j. l., dessen, p.,
+larochette, n., metivier, d., meley, d., souquere, s., yoshimori, t., pier-
+ron, g., codogno, p., and kroemer, g. (2005) mol. cell biol. 25,
+1025–1040
+55. ravikumar, b., berger, z., vacher, c., o’kane, c. j., and rubinsztein, d. c.
+(2006) hum. mol. genet. 15, 1209–1216
+56. lockshin, r. a., and zakeri, z. (2004) oncogene 23, 2766–2773
+57. bursch, w. (2004) fems yeast res. 5, 101–110
+58. lum, j. j., deberardinis, r. j., and thompson, c. b. (2005) nat. rev. mol.
+cell biol. 6, 439–448
+59. kuma, a., hatano, m., matsui, m., yamamoto, a., nakaya, h., yoshimori,
+t., ohsumi, y., tokuhisa, t., and mizushima, n. (2004) nature 432,
+1032–1036
+60. komatsu, m., waguri, s., ueno, t., iwata, j., murata, s., tanida, i., ezaki, j.,
+mizushima, n., ohsumi, y., uchiyama, y., kominami, e., tanaka, k., and
+chiba, t. (2005) j. cell biol. 169, 425–434
+61. delano, w. l. (2004) the pymol molecular graphics system, delano
+scientific llc, san carlos, ca
+62. kraulis, p. j. (1991) j. appl. crystallogr. 24, 946–950
+13132 journal of biological chemistry
+volume 282 • number 17 • april 27, 2007
+-beclin 1
+mechanisms of signal transduction:
+crystal structure of the bcl-x
+peptide complex: beclin 1 is a novel 
+bh3-only protein
+  
+adam oberstein, philip d. jeffrey and yigong
+shi
+j. biol. chem. 
+doi: 10.1074/jbc.m700492200 originally published online march 2, 2007
+2007, 282:13123-13132.
+10.1074/jbc.m700492200
+access the most updated version of this article at doi: 
+  
+find articles, minireviews, reflections and classics on similar topics on the 
+  
+alerts: 
+•  
+•  
+  
+when this article is cited
+when a correction for this article is posted
+jbc affinity sites
+click here
+ to choose from all of jbc's e-mail alerts
+this article cites 61 references, 15 of which can be accessed free at
+http://www.jbc.org/content/282/17/13123.full.html#ref-list-1
+  

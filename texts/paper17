@@ -1,0 +1,1043 @@
+cellular and molecular neurobiology, vol. 26, nos. 4–6, july/august 2006 ( c(cid:1) 2006)
+doi: 10.1007/s10571-006-9061-9
+cellular and molecular mechanisms of parkinson’s
+disease: neurotoxins, causative genes,
+and inﬂammatory cytokines
+toshi nagatsu1,2,3 and makoto sawada1
+received january 26, 2006; accepted march 14, 2006; published online: july 6, 2006
+summary
+1. parkinson’s disease (pd) is considered to be an aging-related neurodegeneration
+of catecholamine (ca) systems [typically a9 dopamine (da) neurons in the substantia
+nigra and a6 noradrenaline (na) neurons in the locus coeruleus]. the main symptom is
+movement disorder caused by a da deﬁciency at the nerve terminals of ﬁbers that project
+from the substantia nigra to the striatum. most pd is sporadic (spd) without any hereditary
+history. spd is speculated to be caused by some exogenous or endogenous substances that
+are neurotoxic toward ca neurons, which toxicity leads to mitochondrial dysfunction and
+subsequent oxidative stress resulting in the programmed cell death (apoptosis or autophagy)
+of da neurons.
+2. recent studies on the causative genes of rare familial pd (fpd) cases, such as alpha–
+synuclein and parkin, suggest that dysfunction of the ubiquitin–proteasome system (ups)
+and the resultant accumulation of misfolded proteins and endoplasmic reticulum stress may
+cause the death of da neurons.
+3. activated microglia, which accompany an inﬂammatory process, are present in
+the nigro-striatum of the pd brain; and they produce protective or toxic substances,
+such as cytokines, neurotrophins, and reactive oxygen or nitrogen species. these acti-
+vated microglia may be neuroprotective at ﬁrst in the initial stage, and later may be-
+come neurotoxic owing to toxic change to promote the progression toward the death of
+ca neurons.
+4. all of these accumulating evidences on spd and fpd points to a hypothesis
+that multiple primary causes of pd may be ultimately linked to a ﬁnal common signal-
+transduction pathway leading to programmed cell death, i.e., apoptosis or autophagy, of the
+ca neurons.
+key words: parkinson’s disease; dopamine; noradrenaline; neurotoxins; alpha-
+synuclein; parkin; inﬂammation; microglia; cytokines; neurotrophins; apoptosis; auto-
+phagy.
+1department of brain life science, research institute of environmental medicine, nagoya university,
+nagoya, aichi 464-8601, japan.
+2department of pharmacology, school of medicine, fujita health university, toyoake, aichi 470-1192,
+japan.
+3 to whom correspondence should be addressed at department of brain life science, research
+institute of environmental medicine, nagoya university, nagoya, aichi 464-8601, japan; e-mail:
+tnagatsu@riem.nagoya-u.ac.jp.
+781
+0272-4340/06/0700-0781/1 c(cid:1) 2006 springer science+business media, inc.
+782
+nagatsu and sawada
+introduction
+parkinson’s disease (pd) is assumed to be a systemic neurodegenerative disease of
+the catecholamine (ca) neurons. the neurons mainly affected are the a9 dopamine
+(da) neurons in the substantia nigra and the a6 noradrenaline (na) neurons in
+the locus coeruleus, both of which contain neuromelanin. pd is the second most
+common aging-related neurodegenerative disease after alzheimer’s disease (ad).
+the main symptom of pd is a movement disorder called parkinsonism, i.e., muscle
+rigidity, akinesia, and resting tremor, symptoms which are caused by a da deﬁciency
+in the striatum due to degeneration of the a9 da neurons in the substantia nigra. a
+small percentage of pd is familial (fpd), but most pd is sporadic (spd) without any
+hereditary history and is related to aging. a deﬁciency of da in the striatum in pd
+patients was predicted by carlsson (1959) when he discovered da as a new neuro-
+transmitter, and this prediction was conﬁrmed in postmortem brains by ehringer and
+hornykiewicz (1960). da supplementation therapy by l-dopa was also predicted
+by carlsson from the results of animal experiments (1959); and after many clinical
+trials by several groups in the world, l-dopa is now established as the gold standard
+of drug therapy for pd. spd and some cases of fpd are characterized by the presence
+of intracytoplasmic eosinophilic inclusions called lewy bodies in the neurons and
+glial cells of the affected individuals. lewy bodies consist mainly of alpha-synuclein
+protein, which is encoded by the causative gene of fpd/park1 (familial parkin-
+son’s disease 1), and are observed not only in pd but also in dementia with lewy
+bodies (dlb), a disorder also called diffuse lewy body disease (dlbd; kosaka,
+2000), and in other neurodegenerative diseases. thus, such neurodegenerative dis-
+eases with lewy bodies are generally referred to synucleinopathies. lewy bodies are
+frequently observed in the surviving da and na neurons of the substantia nigra
+and locus coeruleus of the pd brain. braak et al. (2003) recently proposed, based on
+anatomical investigation of lewy bodies, that the pathological process of spd starts
+from the lower brain stem and spreads throughout the brain to the midbrain, limbic
+brain, and cerebral cortex and that the main symptom of pd, i.e., movement disorder,
+appears at the late stage when the nigro-striatal da neurons in the midbrain become
+involved. in this theory, movement disorder parkinsonism in pd is speculated to be
+a late symptom. lewy bodies are also observed not only in ca neurons but also in
+non-ca neurons such as acetylcholine, amino acid, or peptide neurons in the central
+and peripheral nervous systems, i.e., in neurons of the anterior olfactory nucleus,
+dorsal nucleus of the vagus nerve, peripheral autonomic nervous system including
+sympathetic ganglia, adrenal medulla, and parasympathetic ganglia, and intestinal
+auerbach’s plexus. in relation to this wide distribution of lewy bodies in spd, var-
+ious non-da symptoms, e.g., rem sleep behavior disorder (rbd) (abott, 2005),
+olfaction disturbance, neurocircuitry abnormalities due to cardiac sympathetic den-
+ervation (goldstein et al., 2005), or constipation, have been noticed as early signs of
+spd before the appearance of parkinsonism.
+the pathogenesis of spd is still enigmatic (foley and riederer, 1999), but free
+radicals produced by mitochondrial dysfunction and oxidative stress are thought to
+play an important role (youdim and riederer, 1997; mizuno et al., 1998; schapira
+et al., 1998). mitochondrial dysfunction in spd is supported by the ﬁndings on
+cellular and molecular mechanisms of parkinson’s disease
+783
+complex i (nadh-ubiquinone reductase complex, one of the ﬁve enzyme com-
+plexes of the inner mitochondrial membrane involved in oxidative phosphoryla-
+tion) deﬁciency in the nigro-striatum of the postmortem brain from spd patients
+and of complex i inhibition in the substantia nigra of animal pd models produced
+by treatment with neurotoxins such as 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+(mptp; langston et al., 1983) or the insecticide rotenone (betarbet et al., 2000). the
+discovery of mptp causing pd in humans suggests the neurotoxin hypothesis, in
+which mptp-like exogenous or endogenous neurotoxins acting together with pre-
+sumed pd-susceptibility genes are assumed to be the cause of spd.
+on the other hand, recent molecular genetical studies on mutations of the
+causative genes of autosomal dominant or recessive fpd, especially alpha-synuclein
+for autosomal dominant and lewy body-positive park1 (polymeropoulos et al.,
+1997) and parkin for autosomal recessive and lewy body-negative juvenile park2
+(kitada et al., 1998), have led to a new hypothesis, that fpd is caused by the accumu-
+lation and/or aggregation of misfolded proteins due to dysfunction of the ubiquitin–
+proteasome system (ups; table i). the discovery of the causative genes of fpd may
+also give important clues for elucidating the signaling pathway of cell death in spd
+(for reviews, see bonifati et al., 2004; feany, 2004; forman et al., 2004; cookson,
+2005; krueger, 2004; selko, 2004; vila and przedborski, 2004; grandhi and wood,
+2005; lozano and kalia, 2005; mizuno, 2006).
+as another mechanism of neuronal death in pd, an inﬂammatory process in
+the brain called neuroinﬂammation, which is accompanied by changes in the levels
+of neuroprotective or neurotoxic cytokines and neurotrophins and the presence of
+activated microglia, has recently gained much attention with respect to not only
+pd, but also ad and other neurodegenerative diseases (for reviews, see mcgeer
+and mcgeer, 1995; anglade et al., 1997; hirsch et al., 1999; mogi and nagatsu,
+1999; nagatsu et al., 1999, 2000a,b; hartmann et al., 2000; jellinger, 2000; nagatsu,
+2002a; hayley, 2005; herrera et al., 2005; nagatsu and sawada, 2005). the brain is
+considered to be an immune privileged site, i.e., one free from immune reactions,
+since it is protected by the blood–brain-barrier. however, accumulating ﬁndings have
+revealed that immune responses may occur in the brain, especially due to activation
+of the microglia, which cells are known to produce pro-inﬂammatory cytokines. this
+inﬂammatory process is now thought to be fundamental to, if not at ﬁrst the initiator
+of, the progression of pd pathogenesis. not only da neurons but also other non-da
+neurons may be affected by this process, whose dysfunction may negatively impact
+da and non-da pathways in the pd patients.
+herein, we will review advances in our understanding of the cellular and molec-
+ular pathogenesis of pd by separately focusing on these three groups of causative
+factors, i.e., neurotoxins, causative genes, and inﬂammatory cytokines.
+neurotoxic substances producing pd in humans
+and animals
+the cell death of a9 da neurons in spd may be caused by both genetic factors
+and environmental factors. as to the latter, certain neurotoxins are speculated to
+784
+nagatsu and sawada
+cellular and molecular mechanisms of parkinson’s disease
+785
+cause spd. this neurotoxin hypothesis of pd started in the 1980s from the discovery
+of mptp, which produces pd in humans (davis et al., 1979; langston et al., 1983).
+since then, environmental or endogenous neurotoxins similar to mptp in the brain
+and/or cerebrospinal ﬂuid (csf) of pd patients have been investigated, and two
+groups of amine-related compounds, i.e., isoquinolines and beta-carbolines, have
+been suggested as candidates of such neurotoxins (for review, see nagatsu, 1997;
+nagatsu, 2002b).
+mptp, an analogue of meperidine (a synthetic heroin) is a highly lipophilic
+precursor neurotoxin. after its systemic administration, it rapidly crosses the blood–
+brain barrier to enter the brain. once in the brain, mptp, which is a proneurotoxin,
+is metabolized to n-methyl-4-pheny-2,3-dihydropyridinium (mpdp+ ) by the en-
+zyme monoamine oxidase b (mao b), which is localized in the outer membrane of
+mitochondria within non-da cells such as glial cells and serotonin neurons. mpdp+
+is then probably spontaneously oxidized to 1-methyl-4-phenylpyridinium (mpp+ ),
+the active neurotoxin. mpp+ is taken up across the cell membrane to enter into the
+a9 nigro-striatal da neurons via da transporters, which are mostly localized at the
+nerve terminals in the striatum. mpp+ then passes from the cytoplasm of these neu-
+rons into synaptic vesicles by the action of vesicular monoamine transporter type
+2 (vmat2). mpp+ also accumulates within the inner mitochondrial membrane,
+where it inhibits complex i; interrupts electron transport; releases reactive oxygen
+species (ros); and depletes atp. inhibition of the mitochondrial complex i also
+results in the opening of mitochondrial permeability transition pores, allowing the
+release of cytochrome c, which may trigger the signal transduction pathway culmi-
+nating in apoptotic cell death. as a consequence of these actions, mpp+ decreases
+the da level in the striatum, resulting in the appearance of pd-like symptoms.
+mptp produces cell death speciﬁcally in a9 nigro-striatal da neurons. selegiline
+(l-deprenyl), which is a speciﬁc inhibitor of mao b, completely blocks the neu-
+rotoxicity of mptp by preventing the conversion of mptp to mpp+ in glial cells.
+this may suggest that mao b allele activity could play an important genetic com-
+ponent of spd. humans and monkeys are the most susceptible to mptp, but mice
+and other non-primate animals also produce parkinsonism-like movement disorder
+in response to mptp. in mptp-induced animal models of pd, typical cytoplas-
+mic inclusions such as the lewy bodies found in spd are not observed. however,
+chronic infusion of mice with mptp via an osmotic minipump caused the appearance
+of alpha-synuclein- and ubiquitin-positive aggregates that looked like lewy bodies
+(fornai et al., 2005).
+as a group of mptp-like neurotoxins, the following isoquinolines have been
+identiﬁed by gas chromatography–mass spectrometric analysis of postmortem brain
+specimens and/or csf from pd patients and normal controls: tetrahydroiso-
+quinoline (tiq), 1-methyl(me)-tiq, 2-me-tiq, n-me-6,7-(oh)2-tiq (n-me-
+norsalsolinol), r-1,n-(me)2-6,7-(oh)2-tiq (r-n-me-salsolinol), 1-phenyl-tiq,
+n-me-1-phenyl-tiq, and 1-benzyl-tiq (kajita et al., 2002; kotake et al., 1995;
+moser and koempf, 1992; naoi et al., 1996; niwa et al., 1987; ohta et al., 1987).
+tiqs are also found in various foods in small concentrations. exogenously ad-
+ministered tiq easily crosses the blood–brain barrier and passes into the brain,
+although tiqs are metabolized in the liver to 4-oh-tiqs by the action of
+786
+nagatsu and sawada
+debrisoquine hydroxylase (p-450 cyp2d6). on the other hand, tiqs in the
+brain are also speculated to be synthesized from endogenous amines such as
+phenylethylamine or da by various enzymes. however, the synthetic pathway and
+the enzymes for the biosynthesis of tiqs (versus beta-carbolines described be-
+low which arise from tryptophan metabolism) have not yet determined. among
+these tiqs in the brain, 2-me-tiq (fukuda, 1994), r-n-me-salsolinol (naoi et al.,
+1996), n-me-norsalsolinol (moser and koempf, 1992), and 1-bn-tiq (kotake
+et al., 1995) have gained much attention as neurotoxins that probably cause pd.
+r-n-me-salsolinol, after its stereotaxic injection into the striatum of rats, induces
+behavioral changes similar to those seen in pd and is metabolized to 1,n-(me)2-6,7-
+(oh)2-isoquinolinium in the substantia nigra, similar to the mptp/mpp+ conver-
+sion (naoi et al., 1996). among tiqs, 1-me-tiq is unique in that its concentration
+is not increased but actually decreased in the striatum of pd patients and that it
+prevented pd-like behavior abnormalities produced by mptp, tiq, and 1-bn-tiq
+(tasaki et al., 1991).
+beta-carbolines have structures similar to those of mptp/mpp+ , and may
+be synthesized in vivo from tryptophan via tryptamine (collins and neafsey,
+2000; matsubara, 2000). like mptp, beta-carbolines may be precursor neuro-
+toxins that are n-methylated and oxidized by mao b to form, in their case,
+beta-carbolinium ions, which may trigger apoptotic neuronal death and pd symp-
+toms. norharman, harman, 2-me-norharmanium, and 2,9-(me)2-norharmanium
+were found in the human brain and/or the csf. a neurotoxic 2,9-dimethylated
+beta-carbolinium ion (2,9-(me)2- norharmanium) was found in half of the pd,
+but not at all
+in non-pd, patients examined (matsubara et al., 1995; kuhn
+et al., 1996). these results suggest that beta-carbolinium compounds as well
+as isoquinolinium compounds may also be candidate neurotoxins that produce
+pd.
+endogenous isoquinolines and beta-carbolines in the brain, as in the case
+of mptp, are speculated to be ﬁrst n-methylated and then oxidized by mao
+to the corresponding isoquinolinium ions or beta-carbolinium ions in glial cells.
+the mechanisms of the da cell death caused by pd-producing neurotoxins,
+i.e., mptp/mpp+ , isoquinoline/isoquinolinium, or beta-carboline/beta-carbolinium,
+may be similar, acting to inhibit mitochondrial complex i, to induce ros for-
+mation, and atp depletion, and ﬁnally to cause apoptotic cell death of da
+neurons.
+rotenone is a naturally occurring, lipophilic compound isolated from roots of
+certain plants (derris species), and is used as the main component of many insec-
+ticides. rotenone is not structurally related to amines, but is a speciﬁc inhibitor of
+mitochondrial complex i. betarbet et al. (2000) reported that in lewis rats, chronic,
+systemic inhibition of complex i by rotenone caused highly selective degeneration
+of the a9 nigro-striatal da neurons with behavioral pd symptoms of hypokinesia
+and rigidity. important morphological ﬁndings in these rotenone-treated rats were
+that the nigro-striatal da neurons had accumulated ﬁbrillar cytoplasmic inclusions
+containing ubiquitin and alpha-synuclein, similar to the lewy bodies seen in hu-
+man spd. it was reported that the primary mechanism underlying the toxic effect
+generation that causes damage to
+of rotenone was a signiﬁcant increase in o2
+cellular and molecular mechanisms of parkinson’s disease
+787
+mitochondrial complexes i and ii, presumably at the level of the 4fe–4s clusters
+(panov et al., 2005).
+all the properties of the afore-mentioned neurotoxins indicate that inhibi-
+tion of complex i, resulting in ros formation, oxidative stress, and atp deple-
+tion in da neurons may trigger the pathway of apoptotic cell death in these
+cells. in agreement with this neurotoxin-based hypothesis, a selective defect in
+complex i of the mitochondria in the nigro-striatal da neurons from the post-
+mortem brain of spd patients was reported by several laboratories (youdim and
+riederer, 1997; mizuno et al., 1998; shapira et al., 1998). however, it should
+be noted that the development of pd has been conﬁrmed in humans only in
+the case of mptp, a synthetic neurotoxin. that is, the toxicity of the afore-
+mentioned endogenously identiﬁed neurotoxin candidates has been proved only in
+animals.
+6-hydroxydopamine (6-ohda) is a neurotoxin speciﬁc for da neurons in vitro
+and in vivo (kostrzewa and jacobowitz, 1974). it is a very unstable compound and is
+easily oxidized to produce ros, which may kill da neurons via apoptosis. although
+6-ohda is formed from da in vitro, it is believed not to be formed in vivo. 6-
+ohda does not cross the blood–brain barrier. thus, it is widely used to produce
+hemiparkinsonian animal models by stereotaxic injection of it directly into the nigro-
+striatal region.
+since da (or na) is easily oxidized to form da quinones and other reac-
+tive oxygen species, toxic metabolites of da such as da quinones (in the case
+of na, na quinones), which are intermediates of neuromelanin biosynthesis,
+or 3,4-dihydroxyphenylacetaldehyde (dopal;
+in the case of noradrenaline,
+3,4-dihydroxyphenylethyleneglycolaldehyde, dopegal) formed by mao are
+postulated to play a role as endogenous neurotoxin candidates in pd (eisenhofer
+et al, 2002). da quinones may be formed either non-enzymatically or by the action
+of tyrosinase. tyrosinase has been implicated in da quinone and neuromelanin
+formation in the brain. however, we did not detect tyrosinase protein in the a9
+nigral da neurons in the human brain by using antibodies against human tyrosinase
+(ikemoto et al., 1998). dopal was identiﬁed in the pd brain, but not in the normal
+brain, by gas chromatography–mass spectrometry (mattammal et al., 1993), and was
+suggested to be toxic for da neurons in vitro (mattammal et al., 1995). however,
+da depletion in da-deﬁcient mice did not protect against acute mptp toxicity
+in vivo, suggesting that da does not contribute to this toxicity in vivo (hasbani et al.,
+2005).
+since iron exists in a high concentration in the basal ganglia and interacts with
+neuromelanin and da, it is suggested to play a role in the formation of ros and in
+the initiation of neurodegeneration of da neurons by oxidative stress (mochizuki
+et al., 1993; gerlach et al., 1994).
+all the effects of exogenous or endogenous neurotoxin candidates suggest that
+mitochondrial dysfunction and oxidative stress are important for the pathogenesis
+of spd. inhibition of complex i results in enhanced production of ros, which in turn
+inhibits complex i. thus, the vicious cycle resulting from even partial inhibition of
+complex i in da neurons may lead to excessive stress and an atp deﬁcit that ends
+in cell death (tretter et al., 2004).
+788
+nagatsu and sawada
+causative genes of familial pd (park)
+a small percentage (approximately 5%) of pd cases are familial with a heredi-
+tary history (fpd; table i). several causative genes of fpd, which mutations produce
+parkinsonism, and their chromosomal localization have recently been identiﬁed:
+park1 (alpha-synuclein), park2 (parkin), park4 (triplication of alpha-
+synuclein), park5 (uchl1), park6 (pink1), park7 (dj-1), and park8
+(lrrk2) (for reviews, see chiba-falek and nussbaum, 2003; feany, 2004; forman
+et al., 2004; selkoe, 2004; cookson, 2005; grandhi and wood, 2005; lozano and
+kalia, 2005; mizuno, 2006).
+in 1997, a causative mutation of fpd was ﬁrst identiﬁed in the park1 gene,
+encoding the protein alpha-synuclein in autosomal dominant italian and greek
+families (polimeropoulos et al., 1997). alpha-synuclein is a small (144 amino
+acids), presynaptic protein and probably plays a role in signaling between neurons
+(goedert, 2001). as a ﬁnding on the physiological role of alpha-synuclein, chandra
+et al. (2005) reported that alpha-synuclein in conjunction with csp-alpha (cystein-
+string protein alpha) has a powerful in vivo activity in protecting nerve terminals
+against injury in mice. csp-alpha is a synaptic vesicle protein, essential for neural
+survival, has a cochaperon function, and may prevent the accumulation of nonnative,
+potentially toxic molecules during the continuous operation of a nerve terminal.
+not only mutations in alpha-synuclein such as a single amino acid substitu-
+tion a30p or a53p in park1, but also triplication of the wild-type alpha-synuclein
+gene also causes autosomal dominant park4. alpha-synuclein is a major pro-
+tein component of lewy bodies (spillantini et al., 1998), and thus may play an
+important role in both fpd and spd. alpha-synuclein is a natively unfolded soluble
+protein and has a central hydrophobic region and a high potency to aggregate to
+form oligomers or protoﬁbrils and ultimately insoluble polymers or ﬁbrils under
+certain conditions. the protoﬁbrillar intermediates are toxic in neurons (conway
+et al., 2000). alpha-synuclein ﬁbrils cause mitochondrial complex i deﬁciency (sherer
+et al., 2003) and oxidative stress (ischiropoulos and beckman, 2003). thus, alpha-
+synuclein may elicit a pathogenetic mechanism similar to that acting in spd.
+drosophila (fruit ﬂy) models based on overexpression of normal and mutant
+forms of the alpha-synuclein gene show selective loss of da neurons and the forma-
+tion of alpha-synuclein inclusions (feany and bender, 2000). experiments using this
+model conﬁrmed that phosphorylation at the ser 129 residue is crucial to the toxicity
+of alpha-synuclein and that mutations of this serine residue abolishes the toxicity.
+the reduction in toxicity in this model is associated with increased inclusion body
+formation, which suggests that inclusion bodies may protect neurons by reducing
+the amount of diffusible toxic protein by sequestering it in inert bodies (chen and
+feany, 2005). all these ﬁndings on alpha-synuclein suggest that the misfolding of
+the protein is the key steps in mediating degeneration of da neurons in both fpd
+and spd. alpha-synuclein transgenic mice develop neuronal mitochondrial degen-
+eration, which also suggests a close correlation between alpha-synuclein and the
+pathogenesis of spd (martin et al., 2006).
+in park2 the gene encoding parkin protein, which was discovered in a japanese
+family, is the most common mutant gene in fpd (kitada et al., 1998). the parkin
+cellular and molecular mechanisms of parkinson’s disease
+789
+gene is very large, about 1.4 mb; and mutations of it are responsible for most of
+the cases of autosomal recessive juvenile (young-onset) pd. the parkin protein is
+an e3 ubiquitin ligase with two characteristic ring ﬁnger domains separated by
+an ibr (in-between ring) domain (shimura et al., 2000). there is a notable absence
+of lewy bodies in patients with the homozygous deletion of parkin, although these
+bodies are present in patients with compound heterozygous parkin mutations. these
+ﬁndings suggest that parkin plays a signiﬁcant role in lewy body formation and
+that nigral cell loss and parkinsonism can occur in the absence of lewy bodies. the
+identiﬁcation of mutations of the parkin gene in park2 suggests that dysfunction
+of the ups due to loss of function has an important role in pd and that the parkin
+gene may play a protective role. ubiquitin is added to proteins by the action of
+e3 ubiquitin ligase to target them to the proteasome, a large multiprotein complex
+that functions to degrade most ubiquitin-marked cellular proteins. parkin mutations
+cause the accumulation of parkin substrates, which probably contributes to the death
+of da neurons. many putative parkin substrates have been identiﬁed, including
+synphilin-1, 22-kda o-glycosilated form of alpha-synuclein (alphasp22; shimura et
+al., 2001), pael-r (parkin-associated endothelin receptor-like receptor; imai et al.,
+2001), chip, cdc-rel1a, cyclin e, and synaptotagmin xi. overexpression of the
+parkin substrate pael-r produces da cell death in vitro, which cells can be rescued
+by parkin overexpression (yang et al., 2003).
+parkin has been shown to be s-nitrosylated in vitro and in vivo in the mptp
+mouse model of pd and in brains of patients with pd or lbd, and both neuron-
+and microglia-derived no contributes to the s-nitrosylation of parkin in a biphasic
+fashion after mptp intoxication. s-nitrosylation inhibits the e3 ubiquitin ligase
+activity of parkin and thus its protective function (chung et al., 2004).
+synphilin-1, a substrate of parkin, was shown to interact with alpha-synuclein
+and to promote the formation of cytosolic inclusions. synphilin-1 also interacts with
+e3 ubiquitin ligase siah (seven in absentia homologues)-1 and siah-2. siah
+proteins ubiquitinate synphilin-1, promoting its degradation by ups, and may play
+a role in inclusion formation, since siah immunoreactivity was demonstrated in
+lewy bodies in pd patients (liani et al., 2004). mao inhibitor deprenyl (selegiline)
+was reported to act for protection of da neurons by binding to glyceraldehyde-
+3-phosphate dehydrogenase (gapdh; tatton et al., 2003). snyder (2005) recently
+reported that an apoptotic stimulus turns on inducible no synthase with its product
+no causing s-nitrosylation of gapdh in da neurons. this modiﬁcation allows
+gapdh to bind to the e3 ubiquitin ligase siah, which transports gapdh to the
+nucleus, leading to apoptotic cell death. they also showed that mao b inhibitor
+deprenyl binds to siah protein, thereby preventing translocation of the gapdh–
+siah complex from the cytoplasm to the nucleus and thus preventing apoptotic cell
+death.
+park5 is another autosomal dominant fpd. the gene encodes uchl1
+(ubiquitin c-terminal hydrolase l1), which generates free ubiquitin and aids the
+recycling of polyubiquitin chains back to monomeric ubiquitin (leroy et al., 1998).
+uclh1 can also exert a ubiquitin ligase activity. the discovery of the uchl1
+gene further supports the importance of the role of ups in the pathogenesis of
+pd.
+790
+nagatsu and sawada
+the ups may be important not only in fpd (park1, park2, park4, and
+park5) but also in spd. postmortem brain tissues from spd patients show func-
+tional deﬁcits in their 20s proteasome activity (chung et al., 2001). also, systemic
+administration of inhibitors of the ups to rodents produces selective nigral cell loss
+and lewy body-like inclusions, which are accompanied by clinical signs of parkison-
+ism (mcnaught et al., 2004).
+park6 is another autosomal recessive fpd, and is caused by a mutation in a mi-
+tochondrial protein kinase called pink1 [pten (phosphatase and tensin romolog
+deleted on chromosome ten)-induced kinase-1; valente et al., 2004)]. pink1 is the
+ﬁrst nucleus-encoded mitochondrial protein to be implicated in the pathogenesis of
+fpd. the pink1 gene encodes a serine/threonine protein kinase with signiﬁcant ho-
+mology to the calcium/calmodulin-dependent protein kinase. neuroblastoma cells
+transiently transfected with either wild-type or mutant pink1 do not show any de-
+tectable alterations in viability. in contrast, when these cells are challenged with a
+proteasome inhibitor, mg132, overexpression of the wild-type pink1 mitigates cell
+death; whereas, overexpression of mutant pink1 neither attenuates nor enhances
+mg132-mediated cytotoxicity (valente et al., 2004). these results suggest that the
+loss of pink1 function renders da neurons more vulnerable to injury. transient
+knockdown of pink1 renders cells susceptible to apoptosis on exposure to taxol
+(mackeigan et al., 2005). this neuroprotective function and the mitochondrial lo-
+calization of pink1 suggest its probable important role in mitochondria also in
+spd.
+dj-1 is the causative gene of autosomal recessive early-onset park7
+(bonifati et al., 2003). dj-1 is a homodimeric and multifunctional protein, ubiq-
+uitously expressed in human tissues; and it plays essential roles in tissues with
+higher-order biological functions such as the testis and brain. dj-1 is related
+to male fertility, and its level in sperm is decreased in response to exposure to sperm
+toxicants. dj-1 was discovered as a novel mitogen-dependent oncogene product in-
+volved in a ras-related signal transduction pathway (nagakubo et al., 1997). dj-1 is
+up-regulated after oxidative stress and may play a role as an antioxidant protein and
+a sensor for oxidative stress. the crystal structure of dj-1 indicates that the protein
+is structurally similar to a cysteine protease and may induce conformational changes
+to acquire its catalytic activity in response to oxidative stress (honbou et al., 2003).
+the function of dj-1 as an anti-oxidant protein again suggests its pathogenetic role
+also in spd.
+the gene for the lrrk2 (leucine-rich repeat kinase 2) was identiﬁed as
+the park8 locus (paisan-ruiz et al., 2004; zimprich et al., 2004). mutations in
+lrrk2 cause autosomal dominant pd with a broad spectrum of neuropatholog-
+ical features, such as neuronal loss in the substantia nigra either in the absence
+or in the widespread presence of lewy bodies or in the presence of neuroﬁb-
+rillary tangles. the affected families originated from italy, portugal, and brazil,
+indicating the presence of this mutation in different populations. the associated
+phenotype is broad, including early and late disease onset (di fonzo et al., 2005).
+the lrrk2 gene encodes a 286-kda protein that is a member of a novel fam-
+ily of protein kinases called “dardarin” (meaning “tremor” in the basque region,
+cellular and molecular mechanisms of parkinson’s disease
+791
+from where some of the affected patients came). dardarin contains leucine-rich
+repeats and a ras/small gtpase superfamily domain, a tyrosine kinase-like do-
+main, and the wd40 domains with sequence similarity to both tyrosine and ser-
+ine/threonine kinases (shen, 2004). the presence of these novel domains in dardarin
+suggests a unique and new function for this kinase in the survival of nigral da
+neurons.
+mutations in nr4a2 have also been found to be signiﬁcantly associated with
+fpd (le et al., 2003). the nr4a2 gene (also called nurr1; i.e., nuclear receptor-
+related 1) encodes a transcription factor that belongs to the steroid/thyroid hormone
+receptor superfamily. alternative splicing and selective use of transcription initiation
+sites control the expression of the human nurr1 gene (ichinose et al., 1999a,b).
+interestingly, nurr1 is essential for the differentiation of the nigral da neurons and
+is closely related to the expression and function of the da system. the nurr1 gene
+activates expression of tyrosine hydroxylase (th; iwawaki et al., 2000), and also
+enhances transcription of the da transporter (sacchetti et al., 2001). nr4a2 (+/− )
+mice have a parkinsonian-like phenotype and are more susceptible than the wild
+type to mptp (warbt et al., 2003). although the mechanism is not yet clear, nr4a2
+is thought to be a susceptibility gene for spd.
+da deﬁciency due to mutations of the genes of the enzymes involved in
+da biosynthesis, i.e., da-synthesizing-enzyme th or its cofactor tetrahydrobiopt
+erin (bh4)-synthesizing enzyme gtp cyclohydrolase i (gch), causes dopa-
+responsive dystonia, parkinsonism in infancy or progressive infantile encephalopa-
+thy with l-dopa-nonresponsive dystonia, depending upon the degree of da
+deﬁciency (hoffmann et al., 2003; segawa et al., 2003; kobayashi and nagatsu,
+2005). autosomal dominant gch deﬁciency, which was ﬁrst described by segawa
+and thus called segawa’s disease, is a dopa-responsive dystonia caused by a
+partial decrease of the activity of gch due to a mutation of one of its alle-
+les (ichinose et al., 1994, 1995, 1999; nagatsu and ichinose, 1999; segawa et al.,
+2003). segawa’s disease is a partial da deﬁciency without any da cell death
+and the symptom is completely controllable by l-dopa administration. in con-
+trast, park2 or autosomal recessive juvenile pd is initially similar to dopa-
+responsive dystonia but progresses to parkinsonism, and is accompanied by da cell
+death.
+fpds indicate the importance of the dysfunction of ups and protein misfolding
+in the pathogenesis of pd. overexpression of alpha-synuclein in mice and rats leads
+to the development of mitochondrial degeneration and produces da cell death
+similarly as in spd (yamada et al., 2004; martin et al., 2006). on the other hand,
+mitochondrial dysfunction in spd also causes the dysfunction of ups due to atp
+deﬁciency. the above genes involved in fpd may be susceptibility genes for spd.
+it has been reported that da covalen1tly modiﬁes and functionally inactivates
+parkin, suggesting a vulnerability of parkin to modiﬁcation by da and a mechanism
+for the progressive loss of the neuroprotective parkin function in da neurons
+during aging and spd (lavoie et al., 2005). thus, fpd and spd are different in
+their primary causes, but may ultimately produce nigral da cell death by a ﬁnal
+common pathway.
+792
+nagatsu and sawada
+changes in cytokines produced by activated
+microglia during the neuroinflammatory
+process in pd
+elevated pro-inﬂammatory cytokine expression in the presence of activated
+microglia in the nigro-striatal region in spd
+we and others have reported increases and decreases in the levels of pro-
+inﬂammatory cytokines and neurotrophins, along with the appearance of activated
+microglia, in the brain of spd patients, thus suggesting the presence of an inﬂam-
+matory process (mcgeer and mcgeer, 1995; anglade et al., 1997; hirsch et al.,
+1999; mogi and nagatsu, 1999; nagatsu et al., 1999; jellinger, 2000; hartmann
+et al., 2000; nagatsu et al., 2000a,b; nagatsu, 2002a; hayley, 2005; herrera et al.,
+2005; nagatsu and sawada, 2005). based on the results of enzyme-linked immuno-
+solvent assay (elisas; for a review, see nagatsu, 2002a), we reported the changes
+in the levels of the following cytokines and neurotrophins in the postmortem brain
+(striatum) and/or ventricular or lumbar cerebrospinal ﬂuid (csf) in spd patients as
+compared with their normal levels: (1) increased levels of tnf-alpha (mogi et al.,
+1994a), il-1beta, il-6 (mogi et al., 1994b), il-2, il-4, egf, tgf-alpha, tgf-beta1,
+tgf-beta2, bcl-2 (mogi et al., 1996), soluble fas, tnf r1 (p55), caspase 1, and
+caspase 3 (mogi et al., 2000); and (2) decreased levels of neurotrophins bdnt and
+ngf. these data on changes in the levels of cytokines in human pd brains were
+also supported by the results obtained from animal models of pd. for example,
+mptp-treated mice show an increased level of il-1beta and a decreased level of
+ngf speciﬁcally in their striatum (mogi et al., 1998). as another model of pd, in
+hemiparkinsonian rats produced by injecting 6-ohda into one side of the ven-
+trotegmental bundle without or with l-dopa treatment, the levels of tnf-alpha
+were signiﬁcantly increased only in the substantia nigra and striatum of the injected
+side. l-dopa administration did not produce any signiﬁcant changes in tnf-alpha
+levels in either 6-ohda-treated or control side of any of the brains (mogi and
+nagatsu, 1999). these results agree with the changes seen in the tnf-alpha levels
+in the striatum and lumbar csf in pd patients and also suggest that the increased
+cytokine levels may not be due to the secondary effects of l-dopa therapy in pd
+patients.
+the increased levels of pro-inﬂammatory cytokines such as tnf-alpha, il-6,
+and il-1beta and the decreased levels of neurotrophins such as bdnf and ngf,
+which changes are known to trigger the process of apoptosis, strongly suggest a pro-
+apoptotic environment in the striatum in pd. in fact, the levels of apoptosis-related
+factors such as bcl-2 (mogi et al., 1996), soluble fas, tnf r1 (p55), caspase 1 (il-
+1-beta converting enzyme), and caspase 3 are increased in the pd brain (mogi et al.,
+2000). fas antigen and 2 tnf receptors, p55 and p75, are implicated in triggering
+cell death upon stimulation by their natural ligands, i.e., tnf-alpha and fas ligands
+(nagata and goldstein, 1995). since tnf r1 and caspases 1 and 3 have been im-
+plicated as mediators of apoptotic cell death (kumar, 1995), their increased levels
+support the presence of pro-apoptotic environment in the striatum in the pd brain.
+the increased levels of bcl-2 (mogi et al., 1996) and sfas, which are anti-apoptotic
+cellular and molecular mechanisms of parkinson’s disease
+793
+factors, may suggest their compensatory production to cope with apoptosis. marshall
+et al. (1997) also reported up-regulation of bcl-2 in the basal ganglia in pd patients.
+we also found that the levels of two other factors trophic toward da neurons,
+i.e., gdnf (glial cell line-derived neurotrophic factor) and bfgf (basic fibroblast
+growth factor) were not decreased, although their concentrations were high in the
+striatum in control or pd brains. this is in contrast to the markedly reduced levels
+of bdnf or ngf speciﬁcally in that region in pd. the unchanged level of gdnf
+in pd could be due to compensatory production in glial cells, which occurs with
+neither bdnf nor ngf. in agreement with our results obtained by elisa, boka
+et al. (1994) found tnf-alpha immunoreactive glial cells in the substantia nigra in
+the pd brain, and other workers also reported increased cytokine levels in de novo
+pd without l-dopa treatment: il-1beta and il-6 in lumbar csf (blum-degan
+et al., 1995) and tgf-beta1 and tgf-beta2 in ventricular csf (vawter et al., 1996).
+activated caspase 3 was also detected immunohistochemically and was proposed to
+be the ﬁnal effector in the apoptotic cell death of da neurons in pd (hartmann
+et al., 2002).
+pro-inﬂammatory cytokines in the pd brain are produced
+from activated microglia
+the origin of pro-inﬂammatory cytokines in the pd brain is speculated to be
+activated microglia. mcgeer et al. (1988) were the ﬁrst to report an increase in
+the number of major histocompatibility complex class ii antigen [human leukocyte
+antigen-dr (hla-dr)]-positive reactive microglia in the substantia nigra in pd
+patients. we also speculated that activated microglia are present in the pd brain
+to produce pro-apoptotic cytokines and neuroinﬂammation, ultimately promoting
+death of da neurons in the substantia nigra. imamura et al. (2003) proved that
+increased amounts of cytokines are produced by activated microglia in the putamen
+of spd patients. mogi et al. (1994a,b) had previously shown, by enzyme immunoassay,
+increased levels of tnf-alpha and il-6 in the striatum in spd. imamura et al. (2003)
+identiﬁed by western blot analysis tnf-alpha protein and il-6 protein, along with
+mhc class ii (cr3/43) protein, in homogenates of the putamen from spd patients;
+and they further proved by an immunoﬂuorescence technique the coexistence of
+tnf-alpha and il-6 proteins in icam-i and lfa-1-positive mhc class ii-bearing
+activated microglia in the putamen from spd patients. these results conﬁrmed that
+tnf-alpha and il-6 proteins are produced from activated microglia in the putamen
+in spd.
+activated microglia may be initially non-toxic/neuroprotective and then
+by a toxic change become neurotoxic to cause progression of pd
+activated microglia are known to produce either neuroprotective or neurotoxic
+factors. the question is whether these activated microglia are neuroprotective or
+neurotoxic toward the nigro-striatal da neurons.
+we aimed at elucidating the role of activated microglia in the postmortem brain
+of spd at the cellular level. activated microglia have multiple roles: (1) mhc class
+794
+nagatsu and sawada
+ii-positive ones act in antigen presentation; (2) activated microglia phagocytose
+damaged cells; (3) they produce substances such as the pro-inﬂammatory cytokines
+tnf-alpha and il-6, which are pleiotropic and act either as neurotoxins or as neu-
+roprotective agents, as well as neurotoxic substances, i.e., ros, nitric oxide (reactive
+nitrogen species, rns), and glutamate; and (4) they also produce neurotrophic sub-
+stances such as the neurotrophin bdnf and cytokines that act neuroprotectively.
+in the normal brain, many kp1-positive resting microglia, which are non-toxic,
+are seen in the substantia nigra and putamen. in the pd ones, however, a large
+number of mhc class ii-positive ramiﬁed, activated microglia are found in these
+regions compared with their number in normal controls. furthermore, the number
+of mhc class ii-positive microglia in the putamen in pd increases as the stage of pd
+advances. in the early stages of pd, mhc class ii-positive microglia in the putamen
+and substantia nigra are associated with intensively th-positive da neurites show-
+ing no signs of degeneration. in the advanced stages, however, mhc class ii-positive
+microglia in these areas are found with damaged th-positive neurons and neurites.
+these results suggest that activated microglia in the substantia nigra and putamen
+may be non-toxic/neuroprotective or neurotoxic, depending on the stage of pd.
+imamura et al. (2003) observed that the number of mhc class ii-positive acti-
+vated microglia was signiﬁcantly higher not only in the substantia nigra and putamen
+but also in various other brain regions such as the hippocampus, transentorhinal cor-
+tex, cingulate cortex, and temporal cortex in pd brains than in the control ones.
+imamura et al. (2005) also observed activated microglia in the nigro-striatum and
+hippocampus in dementia with lewy bodies (dlb), and compared them with those
+in pd. neuronal degeneration in the putamen was observed in both pd and dlb,
+whereas neuronal loss in the hippocampus was observed in dlb but not in pd
+without dementia. in normal controls, neuronal loss, activated microglia, and alpha-
+synyclein-positive cells were not observed in the hippocampus (ca2/3 region), and
+neurons were strongly bdnf positive. in the hippocampus (ca2/3 region) in pd,
+the number of mhc class ii-positive microglia was increased, which cells were
+also positive for icam-i (cd54), lfa-1, tnf-alpha, and il-6. alpha-synuclein-
+positive cells were also observed. bdnf-stained neurons were only slightly de-
+creased in number in pd compared with those in controls. in the hippocampus
+(ca2/3 region) in dlb, the numbers of mhc class ii (cr3/43)-positive microglia
+and alpha-synuclein-positive microglia, and alpha-synuclein-positive neurons were
+greater than those in pd, and the neurons were very weakly stained with anti-bdnf.
+these immunohistochemical data on the hippocampus (ca 2/3 region) indicate that
+the number of activated microglia increases in both pd and dlb and that the con-
+tent of neurotrophic bdnf protein is markedly decreased in dlb but not in pd.
+furthermore, in the hippocampus, mrna levels of il-6 and tnf-alpha were in-
+creased in both pd and dlb compared with the control levels; whereas the mrna
+level of bdnf was greatly decreased in dlb, as compared with that in pd or nor-
+mal controls. these different changes in the levels of mrna and protein of bdnf,
+il-6, or tnf-alpha in the hippocampus and putamen between pd and dlb suggest
+that activated microglia in these brain regions in pd and dlb are different in their
+properties and may secrete different kinds and different amounts of cytokines and
+neurotrophins such as bdnf and il-6.
+cellular and molecular mechanisms of parkinson’s disease
+795
+as other evidence supporting this concept of
+the presence of non-
+toxic/neuroprotective and neurotoxic microglia, we (sawada et al., 2006) separated
+two subsets of microglia from normal mouse brain by cell sorting based on proﬁles
+of intracellular ros production induced by phorbol myristate acetate (pma) stim-
+ulation: one subset of microglia producing a large amount of ros and the other, just
+a minute amount of ros. furthermore, we obtained two cell lines of microglia, ra2
+cells and 6–3 cells, by spontaneous immortalization of mouse microglia in primary
+cultures. the ra2 microglia cell line did not produce ros upon pma stimulation,
+whereas the 6–3 one produced ros in large amounts in response to this stimu-
+lant. when co-cultured with n18 neuronal cells, ra2 cells were neuroprotective,
+whereas 6–3 cells were neurotoxic. furthermore, sawada and co-workers found in a
+cell culture experiment a toxic change in activated microglia from neuroprotective
+to neurotoxic, caused by transduction of the cells with a lenti virus vector carrying
+hiv-1 nef cdna (vilhardt et al., 2002). it is speculated that a similar toxic change in
+activated microglia may occur in vivo in the pd brain as the second step, one caused
+by other factors such as invasion of serum, viruses, toxic substances, or inﬂammatory
+cells in some of the neuroprotective microglia in a speciﬁc brain regions, i.e., the
+nigro-striatum in pd. as a result of this toxic change, large amounts of cytotoxic
+factors such as ros, no, and rns produced by nadph oxidase, myeloperoxi-
+dase, cyclooxygenase 2 (cox 2), or nitric oxide synthase may promote the observed
+neuronal loss. the presence of reactive microglia in the substantia nigra years after
+mptp exposure was detected in experimental monkeys (mcgeer et al., 2003) and
+in human patients (langston et al., 1999). these reactive microglia might have been
+produced by a toxic change in response to the exposure to mptp. these results also
+suggest that a variety of causative agents of spd, disappearing after having instituted
+long-lasting inﬂammatory changes, might cause progression of the disease.
+based on the results described earlier, sawada et al. (2006) recently proposed a
+hypothesis of two-step activation of microglia in vivo in the pd brain. the observa-
+tion on activated microglia associated with non-degenerating neurons and neurites
+in various brain regions such as the hippocampus in the early stage of pd suggests
+that microglia activated by the initiating factors of pd may be at ﬁrst non-toxic and
+act for neuroprotection by producing neurotrophins, neurotrophic cytokines, and
+antioxidant substances in the ﬁrst step. however, a toxic change in the activated
+microglia may occur as the second step to promote progression of the disease.
+contribution of julie axelrod to pd research
+aside from his other numerous accomplishments, dr. julie axelrod has made
+many great contributions also to pd research. one great contribution was his dis-
+covery of the reuptake of neurotransmitter catecholamines into the pre-synaptic
+nerve endings via membrane transporters and then from the cytoplasm to the synap-
+tic vesicles via vesicular transporters (axelrod et al., 1959). this discovery pro-
+vided a general principle for the termination of neurotransmission, and led to the
+identiﬁcation of neurotransmitter transporters such as da transporter (dat) and
+na transpoter (nat), and vesicular monoamine transporters (vmat), and to the
+796
+nagatsu and sawada
+development of innovative drugs such as serotonin noradrenaline reuptake inhibitors
+as anti-depression drugs and of new diagnostic methods such as molecular imaging by
+pet (positron emission tomography) or spect (single photon emission computed
+tomography) of synaptic function. another great contribution is his discovery of
+catechol o-methyl transferase (comt; axelrod, 1957). inhibitors of comt are
+of great importance to the l-dopa therapy of pd in combination with mao b
+inhibitors such as deprenyl.
+conclusions and future prospects
+spd is thought to be caused by the combination of a susceptible genetic back-
+ground and various environmental factors. the biochemical analysis of postmortem
+brain from pd patients and neurotoxin-induced animal models indicates mito-
+chondrial dysfunction and oxidative stress to be important. on the other hand, the
+causative genes of fpd indicate the accumulation of misfolded proteins due to ups
+dysfunction to be important. it should be noted that both mitochondrial dysfunction
+and ups dysfunction may be related to each other, and may trigger a common
+signal transduction pathway to programmed cell death. there are 2 types of
+programmed cell death, i.e., apoptosis and autophagy. alpha-synuclein is degraded
+by both the ubiquitin–protesome pathway and the autophagy–lysosome pathway
+(webb et al., 2003). much data on the pathogenesis of pd support the programmed
+cell death mechanism by apoptosis. however, this still remains controversial. the
+process of neuroinﬂammation may also be important, especially for the progression
+of pd. sawada et al. (2006) has proposed a hypothesis of two-step activation of
+microglia in the brain and their toxic change in pd patients. in order to conﬁrm
+this hypothesis, the following points remain to be proved: (1) the ﬁrst and second
+causative stimuli must be identiﬁed; (2) a toxic change should be conﬁrmed to occur
+in vivo in the nigro-striatum in pd models. a stimulus such as mptp toxicity may
+directly produce degeneration of da cells, and some signal from degenerating da
+neurons may trigger activation of microglia, which may, due to the toxic change for
+producing neurotoxic cytokines, promote cell death of da neurons, perpetuating a
+vicious circle. it is also possible that in fpd damaged da neurons may send unknown
+signals to microglia to activate them. thus, activated microglia producing neurotoxic
+cytokines may promote the progression of the disease in both spd and fpd.
+acknowledgments
+toshi nagatsu dedicates this paper to the late dr. julie axelrod with great
+admiration for him for his outstanding scientiﬁc achievements as nobel laureate
+and for his extremely warm personality and humanitarian efforts. this work was
+supported by grants-in-aid for scientiﬁc research from the ministry of labor and
+welfare of japan (ms), from the ministry of education, culture, sports, science,
+and technology of japan (ms), and from the japan health sciences foundation
+(ms). we are thankful to all of our collaborators, especially drs. k. imamura, k.
+cellular and molecular mechanisms of parkinson’s disease
+797
+ono, h. suzuki, y. hashizume, and m. mogi and to drs. p. riederer, y. mizuno,
+t. kondo, and s. kuno for their collaboration in supplying us post mortem brain
+samples from their brain banks.
+references
+abott, a. (2005). while you are sleeping. nature (news feature)437:1220–1222.
+anglade, p., vyas, s., javoy-agid, f., ilerreto, m. t., michel, p. p., marquez, j., pouatt-prigent, a.,
+ruberg, m., hirsch, c., and agid, y. (1997). apoptosis and autophagy in nigral neurons of patients
+with parkinson’s disease. histol. histopathol. 12:25–31.
+axelrod, j., weil-malherbe, h., and tomchick, r. (1959). the physiological distribution of 3h-epinephrine
+and its metabolite epinephrine. j. pharm. exp. therap. 127:251–256.
+axelrod, j. (1957). o-methylation of epinephrine and other catecholamines in vitro and in vivo. science:
+126:400–401.
+betarbet, r., sherer, t. b., mackenzie, g., garcia-osuna, m., panov, a. v., and greenmyre, j. t. (2000).
+chronic systemic pesticide exposure reproduces features of parkinson’s disease. nat. neurobiol.
+3:1301–1306.
+blum-degan, d., mueller, t., kuhn, w., gerlach, m., przuntek, h., and riederer, p. (1995). interleukin 1-
+beta and interleukin-6 are elevated in the cerebrospinal ﬂuid of alzheimer’s and de novo parkinson’s
+disease. neurosci. lett. 202:17–20.
+boka, g., anglade, p., wallach, d., javoy-azid, f., agid, y., and hirsch, e. c. (1994). immunocytochemical
+analysis of tumor necrosis factor and its receptor in parkinson’s disease. neurosci. lett 172:151–
+154.
+bonifati, v., rizzu, p., van baren, m. j., schaap, o. j., breedveld, g. j., krieger, e., dekker, m. c. j.,
+squitieri, f., ibanez, p., joosse, m., van dongen, j. w., vanacore, n., van swieten, j. c., brice, a.,
+meco, g., van duijn, c. m., oostra, b. a., and heutink, p. (2003). mutations in the dj-1 gene
+associated with autosomal recessive early-onset parkinsonism. science 299:256–259.
+bonifati, v., oostra, b. a., and heutink, p. (2004). unraveling the pathogenesis of parkinson’s disease:
+the contribution of monogenic forms. cell. mol. life sci. 61:1729–1750.
+braak, h., deltredici, k., rub, u., devos, r. a. i., steur, e. n. h. j., and braak, e. (2003). staging of
+brain pathology related to sporadic parkinson’s disease. neurobiol. aging 24:197–212.
+carlsson, a. (1959). the occurrence, distribution and physiological role of dopamine in the nervous
+system. `pharmacol. rev. 11:490–493.
+chandra, s., gallardo, g., fernandez-chacon, r., schlueter, o. m., and suedhof, t. c. (2005). alpha-
+synuclein cooperates with csp alpha in preventing neurodegeneration. cell 123:383–396.
+chen, l., and feany, m. b. (2005). alpha-synuclein phosphorylation controls neurotoxicity and inclusion
+formation in a drosophila model of parkinson’s disease. nat. neurosci. 8:657–663.
+chiba-falek, o., and nussbaum, r. l. (2003). regulation of alpha-synuclein expression: implication for
+parkinson’s disease. cold spring harbor sym. quantit. biol. lxviii:409–415.
+chung, k. k., dawson, v. l., and dawson, t. m. (2001). the role of the ubiquitin-proteasomal pathway in
+parkinson’s disease and other neurodegenerative disorders. trends neurosci. 24(suppl. 11):s7–s14.
+chung, k. k., thomas, b., li, x., pletnikova, o., troncosa, j. c., marsh, l., dawson, v. l., and dawson,
+t. m. (2004). s-nitrosylation of parkin regulates ubiquitination and compromises parkin’s protective
+function. science 304:1328–1331.
+collins, m. a., and neafsey, e. j. (2000). beta-carboline analogues of mpp+ as environmental neuro-
+toxins. in storch, a., and collins, m. a. (eds.), neurotoxic factors in parkinson’s disease and related
+disorders, kluwer academic publishing/plenum, new york, pp. 115–130.
+conway, k. a., lee, s. j., rochet, j. c., ding, t. t., williamson, r. e., and lansbury, p. t., jr. (2000).
+acceleration of oligomerization, not ﬁbrillization, is a shared property of both alpha-synuclein
+mutations linked to early onset parkinson’s disease: implications for pathogenesis and therapy. proc.
+natl. acad. sci. usa 97:571–576.
+cookson, m. r. (2005). the biochemistry of parkinson’s disease. ann. rev. biochem. 74:29–74.
+dawer, w., and przedborski, s. (2003) parkinson’s disease: mechanisms and models, neuron 39:889–
+davis, g. c. b., williams, a. c., markey, s. p., ebert, m. h., caine, e. d., reichert, c. m., and kopin, i. j.
+(1979). chronic parkinsonism secondary to intravenous injection of meperidine analogus. psychiatry
+res. 1:249–254.
+di fonzo, a., rohe, c. f., ferreira, j., chien, h. f., vacca, l., stocchi, f., guedes, l., fabrizio, e., manfredi,
+m., vanacore, n., goldwurm, s., breedveld, g., sampaio, c., meco, g., barbosa, e., oostra, b. a.,
+909.
+798
+nagatsu and sawada
+and bonifati, v. italian parkinson genetics network (2005). a frequent lrrk2 gene mutation
+associated with autosomal dominant parkinson’s disease. lancet 365:412–415.
+ehringer, h., and hornykiewicz, o. (1960). verteilung von noradrenalin und dopamin (3-
+hydroxytyramin) im gehirn des menschen und ihr verhalten bei erkarankungen des extrapyra-
+midalen systems. klin. wschr. 38:1236–1239.
+eisenhofer, g., lamensdorf, i., kirk, k. l., kawamura, m., and sato, s. (2002). oxidative deamination
+of monoamines and biogenic aldehydes in neurodegenetration. in creveling, c. r. (ed.), role of
+catechol quinone species in cellular toxicity, f.p. graham publishing, johnson city, pp. 147–167.
+feany, m. b. (2004). new genetic insights into parkinson’s disease. new engl. j. med. 351:1937–1940.
+feany, m. b., and bender, w. w. (2000). a drosophila model of parkinson’s disease. nature 404:394–398.
+foley, p., and riederer, p. (1999). pathogenesis and preclinical course of parkinson’s disease. j. neural.
+transm. suppl. 56:31–74.
+forman, m. s., trojanowski, j. q., and lee, v. m.-y. (2004). neurodegenerative diseases: a decade of
+discoveries paves the way for therapeutic breakthroughs. nature med. 10:1055–1063.
+fornai, f., schlueter, o. m., lenzi, p., gesi, m., ruffoli, r., ferrucci, m., lazzeri, g., busceti, c. l.,
+pontarelli, f., battaglia, g., pellegrini, a., nicoletti, f., ruggieri, s., paparelli, a., and suedhof,
+t. c. (2005). parkinson-like syndrome induced by continuous mptp infusion: convergent roles of
+the ubiquitin-proteasome system and alpha-synuclein. proc. natl. acad. sci. usa 102:3413–3418.
+fukuda, t. (1994). 1-methyl-1,2,3,4-tetrahydroisoquinoline does dependently reduces the number of
+tyrosine hydroxylase-immunoactive cells in the substantia nigra and locus ceruleus of c57bl/6j
+mice. brain res. 639:325–328.
+gerlach, m., ben-shachar, d., riederer, p., and youdim, m. b. h. (1994). altered brain metabolism of
+iron as a cause of neurodegenerative diseases? j. neurochem. 63:793–807.
+goedert, m. (2001). alpha-synuclein and neurodegenerative diseases. nat. rev. neurosci. 2:492–501.
+goldstein, d. s., eldadah, b. a., holmes, c., pechnik, s., moak, j., saleem, a., and sharabi, y. (2005).
+neurocirculatory abnormalities in parkinson disease with orthostatic hypotention: independence
+from levodopa treatment. hypertension 46:1333–1339.
+grandhi, s., and wood, n. w. (2005). molecular pathogenesis of parkinson’s disease. human mol. genet.
+14:2749–2755.
+hartmann, a., hunot, s., michel, p. p., muriel, m. p., vyas, s., faucheux, b. a., mouatt-prignet, a.,
+turmel, h., srinivasan, a., ruberg, m., evan, g. i., agid, y., and hirsch, e. c. (2000). caspase-
+3: a vulnerable factor and a ﬁnal effector in the apoptotic cell death of dopaminergic neurons in
+parkinson’s disease. proc. natl. acad. sci. usa 97:2875–2880.
+hasbani, d. m., perez, f. a., palmiter, r. d., and o’malley, k. l. (2005). dopamine depletion does
+not protect against acute 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine toxicity in vivo. j. neurosci.
+25:9428–9433.
+hayley, s. (2005). multiple mechanisms of cytokine activation in neurodegenerative and psychiatric states:
+neurochemical and molecular substrates. curr. pharmac design 11:947–962.
+hirsch, e. c., hunot, s., faucheux, b. a., agid, y., mizuno, y., mochizuki, h., tatton, w. g., tatton, n.,
+and olanow, w. c. (1999). dopaminergic neurons degenerate by apoptosis in parkinson’s disease.
+mov. disord. 14:383–385.
+hoffmann, g. f., assmann, b., braeutigam, c., dionisi-vici, c., haeussler, m., and deklerk, j. b. c.,
+neumann, m., steenbergen-spanjers, g. c. h., strassburg, m.-h., and wevers, r. a. (2003). tyrosine
+hydroxylase deﬁciency causes progressive encephalopathy and dopa-non-responsive dystonia. ann.
+neurol. 54(suppl. 6):s56–s65.
+honbou, k., suzuki, n. n., horiuchi, m., niki, t., taira, t., ariga, h., and inagaki, f. (2003). the
+crystal structure of dj-1, a protein related to male fertility and`parkinson’s disease. j. biol. chem.
+278:31380–31384.
+ichinose, h., ohye, t., takahashi, e., seki, n., hori, t., segawa, m., nomura, y., endo, k., tanaka, h.,
+tsuji, s., fujita, k., and nagatsu, t. (1994). hereditary progressive dystonia with marked diurnal
+ﬂuctuation caused by mutations in the gtp cyclohydolase i gene. nature genet. 8:236–242.
+ichinose, h., ohye, t., matsuda, y., hori, t., blau, n., burlina, a., rouse, b., matalon, r., fujita, k., and
+nagatsu, t. (1995). characterization of mouse and human gtp cyclohydrolase i genes. mutations in
+patients with gtp cyclohydrolase i deﬁciency. j. biol. chem. 270:10062–10071.
+ichinose, h., suzuki, t., inagaki, h., ohye, t., and nagatsu, t. (1999). molecular genetics of dopa-
+responsive dystonia. biol. chem. 380:1355–1364.
+ichinose, h., ohye, t., suzuki, t., sumi-ichinose, c., nomura, t., hagino, y., and nagatsu, t. (1999).
+molecular cloning of the human nurr1 gene: characterization of the human gene and cdna. gene
+230:233–239.
+ikemoto, k., nagatsu, i., ito, s., king, r., nishimura, a., and nagatsu, t. (1998). does tyrosinase exist in
+neuromelanin-pigmented neurons in the human substantia nigra? neurosci. lett. 253:198–200.
+cellular and molecular mechanisms of parkinson’s disease
+799
+imai, y., soda, m., inoue, h., hattori, n., mizuno, y., and takahashi, r. (2001). an unfolded putative
+transmembrane polypeptide, which can lead to endoplasmic reticulum stress, is a substrate of parkin.
+cell 105:891–902.
+imamura, k., hishikawa, n., sawada, m., nagatsu, t., yosida, m., and hashizume, y. (2003). distribution
+of major histocompatibility complex ii-positive microglia and cytokine proﬁle of parkinson’s disease
+brains. acta neuropathol. 106:518–526.
+imamura, k., hishikawa, n., ono, k., suzuki, h., sawasa, m., nagatsu, t., yoshida, m., and
+hashizume, y. (2005). cytokine production of activated microglia and decrease on neurotrophic
+factors of neurons in the hippocampus of lewy body disease brain. acta neuropathol. 109:141–
+150.
+ischiropoulos, h., and beckman, j. s. (2003). oxidative stress and nitration in neurodegeneration: cause,
+effect, or association? j. clin. invest. 111:163–169.
+iwawaki, t., kohno, k., and kobayashi, k. (2000). identiﬁcation of a potential nurr1 response element
+that activates the tyrosine hydroxylase gene promoter in cultured cells. biochem. biophys. res.
+cpmmun. 274:590–595.
+kajita, m., niwa, t., and nagatsu, t. (2002). tetrahydroisoquinolines (tiq) and neurodegeneration. in
+creveling, c. r. (ed.), role of quinone species in cellular toxicity, f. p. graham publishing, johnson
+city, tn, pp. 169–190.
+kitada, t., asakawa, s., hattori, n., matsumine, h., yamamura, y., minoshima, s., yokochi, m., mizuno,
+y., and shimizu, n. (1998). mutations in the parkin gene cause autosomal recessive juvenile parkin-
+sonism. nature 392:605–608.
+kobayashi, k., and nagatsu, t. (2005). molecular genetics of tyrosine 3-monooxygenase and inherited
+diseases. biochem. biophy. res. commun. 338:267–270.
+kosaka, k. (2000). lewy body disease. neuropathol. suppl. 20:73–78.
+kostrzewa, r. m., and jacobowitz, d. m. (1974). pharmacological actions of 6-hydroxydopamine. pharm.
+rev. 26:199–288.
+kotake, y., tasaki, y., makino, s., hirobe, m., and ohta, s. (1995). 1-benzyl-1,2,3,4-tetrahydroisoquinoline
+as a parkinsonism-inducing agent: a novel endogenous amine in mouse brain and parkinsonian csf.
+j. neurochem. 65:2633–2638.
+krueger, r. (2004). genes in familial parkinsonism and their role in sporadic parkinson’s disease. j.
+neurol. 251(supl. 6):vi/2–vi/6.
+kuhn, w., mueller, th., grosse, h., and rommelspacher, h. (1996). elevated levels of harman and
+norharman in cerebrospinal ﬂuid of parkinsonian patients. j. neural. transm. 103:1435–1440.
+kumar, s. (1995). ice-like proteases in apoptosis. trends biochem. sci. 20:198–202.
+langston, j. w., ballard, p., tetrud, j. w., and irwin, i. (1983). chronic parkinsonism in humans due to a
+product of meperidine-analog synthesis. science 219:979–980.
+lavoie, m. j., ostaszewski, b. l., weihofen, a., schlossmacher, m. g., and selkoe, d. j. (2005). dopamine
+covalently modiﬁes and functionally inactivates parkin. nat. med. 11:1214–1221.
+leroy, e., boyer, r., auburger, g., leube, b., ulm, g., mezey, e., harta, g., brownstein, m. j.,
+jonnalagada, s., chernova, t., dehejia, a., lavedan, c., gasser, t., steinbach, p. j., wilkinson,
+k. d., and polymeropoulos, m. h. (1998). the ubiquitin pathway in parkinson’s disease. nature
+395:451–452.
+le, w., xu, p., jankovic, j., jiang, h., appel, s. h., smith, r. g., and vassilatis, k. (2003). mutations in
+nr4a2 associated with familial parkinson’s disease. nat. genet. 33:85–89.
+liani, e., eyal, a., avraham, e., shemer, r., szargel, r., berg, d., bornemann, a., riess, o., ross,
+c. a., rott, r., and engelender, s. (2004). ubiquitination of synphilin-1 and alpha-synyclein by
+siah and its presence in cellular inclusions and lewy bodies imply a role in parkinson’s disease.
+proc. nat. acad. sci. usa 101:5500–5505.
+lozano, a. m., and kalia, s. k. (2005). new movement in parkinson’s. scientiﬁc american, pp. 68–75.
+mackeigan, j. p., murphy, l. o., and blenis, j. (2005). sensitized rnai screen of human kinases and
+phosphatases identiﬁes new regulators of apoptosis and chemoresistance. nature cell biol. 7:591–
+600.
+martin, l. j., pan, y., price, a. c., sterling, w., copeland, n. g., jenkins, n. a., price, d. l., and lee,
+m. k. (2006). parkinson’s disease alpha-synuclein transgenic mice develop neuronal mitochondrial
+degeneration and cell death. j. neurosci. 26:41–50.
+marshall, k. a., daniel, s. e., cairns, n., jenner, p., and halliwell, b. (1997). upregulation of the anti-
+apoptotic protein bcl-2 may be an early event in neurodegeneration: studies on parkinson’s and
+incidental lewy body disease. biochem. biophys. res. commun. 240:84–87.
+matsubara, k. (2000). n-methyl-beta-carbolinium neurotoxins in parkinson’s disease. in storch, a.,
+and collins, m. a. (eds.) neurotoxic factors in parkinson’s disease and related disorders, kluwer
+academic publishing/plenum, new york, pp. 131–143.
+800
+nagatsu and sawada
+matsubara, k., kobayashi, s., kobayashi, y., yamashita, k., koide, h., hatta, m, iwamoto, k., tanaka,
+o., and kimura, k. (1995). beta-carbolinium cations, endogenous mpp+ analogs in the lumbar
+cerebrospinal ﬂuid of parkinsonian patients. neurology 45:2240–2245.
+mattammal, m. b., chung, h. d., and strong, r. (1993). conﬁrmation of a dopamine metabolite in
+parkinsonian brain tissue by gas-chromatography-mass spectrometry. j. chromatogr. b 614:205–
+212.
+mattammal, m. b., haring, j. h., chung, h. d., raghu, g., and strong, r. (1995). an endogenous
+dopaminergic neurotoxin: implication for parkinson’s disease. neurodegeneration 4:271–281.
+mcgeer, p. l., itagaki, s., boyes, b. e., and mcgeer, e. g. (1988). reactive microglia are positive for
+hla-dr in the substantia nigra of parkinson’s disease and alzheimer’s disease brain. neurology
+38:1285–1291.
+mcgeer, p. l., and mcgeer, e. g. (1995). the inﬂammatory response system of brain, implications for
+therapy of alzheimer and other neurodegenerative diseases. brain res. rev. 21:195–218.
+mcnaught, k. s., perl, d. p., brownell, a. l., and olanow, c. w. (2004). systemic exposure to
+proteasome inhibitors causes a progressive model of parkinson’s disease. ann. neurol. 56:149–
+162.
+mizuno, y., yoshino, h., ikebe, s., hattori, n., kobayashi, t., shimoda-matsubayashi, s., matsumine,
+h., and kondo, t. (1998). mitochondrial dysfunction in parkinson’s disease. ann. neurol. 44(suppl
+1):s99–s109.
+mizuno, y. (2006). progress in familial parkinson’s disease. in riederer, p. (eds.), proceedings of
+the 16th international congress on parkinson’s disease and related disorders. j. neural transm,
+in press.
+mochizuki, h., nishi, k., and mizuno, y. (1993). iron-melanin complex is toxic to dopaminergic neurons
+in a nigrostriatal co-culture. neurodegeneration 2:1–7.
+mogi, m., harada, m., riederer, p., narabayashi, h., fujita, k., and nagatsu, t. (1994a). tumor necrosis
+factor-alpha (tnf-alpha) increases both in the brain and cerebrospinal ﬂuid from parkinsonian
+patients. neurosci. lett. 165:208–210.
+mogi, m., harada, m., kondo, t., riderer, p., inagaki, h., miura, m., and nagatsu, t. (1994b). interleukin
+1-beta, interleukin-6, epidermal growth factor and transforming growth factor-alpha are elevated in
+the brain from parkinsonian patients. neurosci. lett. 180:147–150.
+mogi, m., harada, m., kondo, t., mizuno, y., narabayashi, h., riederer, p., and nagatsu, t. (1996). bcl-2
+protein is increased in the brain from parkinsonian patients. neurosci. lett. 215:137–139.
+mogi, m., togari, a., ogawa, m., ikeguchi, k., shizuma, n., fan, d.-s., nakano, i., and nagatsu, t. (1998).
+effects of repeated administration of 1-methyl-4-phenyl-1, 2, 3, 6- tetrahydropyridine (mptp) to
+mice on interleukin-1beta and nerve growth factor in the striatum. neusci. lett. 250:25–28.
+mogi, m., and nagatsu, t. (1999). neurotrophins and cytokines in parkinson’s disease. adv. neurol.
+80:135–139.
+mogi, m., togari, a., kondo, t., mizuno, y., komure, o., kuno, s., ichinose, h., and nagatsu, t. (2000).
+caspase activities and tumor necrosis factor receptor r1 level are elevated in the substantia nigra in
+parkinson’s disease. j. neural. transm. 107:335–341.
+moser, a., and koempf, d. (1992). presence of methyl-6,7-dihydroxy-1,2,3,4-tetrahydroisoquinolines,
+derivatives of the neurotoxin isoquinoline, in parkinsonian lumbar csf. life sci. 50:1885–1891.
+nagakubo, d., taira, t., kitaura, h., ikeda, m., tamai, k., iguchi-ariga, s. m. m., and ariga, h. (1997).
+dj-1, a novel oncogene which transforms mouse nih3t3 cells in cooperation with ras. biochem.
+biophys. res. commun. 231:509–513.
+nagata, s., and goldstein, p. (1995). the fas death factor. science 267:1449–1456.
+nagatsu, t. (1997). isoquinoline neurotoxins and parkinson’s disease. neurosci. res. 29:99–111.
+nagatsu, t. (2002a). parkinson’s disease: changes in apoptosis-related facors suggesting possible gene
+nagatsu, t. (2002b). amine-related neurotoxins in parkinson’s disease. past, present, and future. neuro-
+therapy. j. neural transm. 109:731–745.
+toxicol teratol 24:565–569.
+nagatsu, t., and ichinose, h. (1999). molecular biology of catecholamine-related enzymes in relation to
+parkinson’s disease. cell. mol. neurobiol. 19:57–66.
+nagatsu, t., mogi, m., ichinose, h., togari, a., and riederer, p. (1999). cytokines in parkinson’s disease.
+neurosci. news 2:88–90.
+transm. suppl 58:143–151.
+nagatsu, t., mogi, m., ichinose, h., and togari, h. (2000a). cytokines in parkinson’s disease. j. neural.
+nagatsu, t., mogi, m., ichinose, h., and togari, a. (2000b). changes in cytokines and neurotrophins in
+parkinson’s disease. j. neural transm. suppl. 60:277–290.
+nagatsu, t., and sawada, m. (2005). inﬂammatory process in parkinson’s disease: role for cytokines.
+curr. pharmac. design 11:999–1016.
+cellular and molecular mechanisms of parkinson’s disease
+801
+naoi, m., maruyama, w., dostert, p., hashizume, y., nakahara, d., takahashi, t., and ota, m. (1996).
+dopamine-derived endogenous 1(r), 2(n)-dimethyl-6,7-dihydroxy-1,2,3,4-tetrahydroisoquinoline,
+n-methyl-(r)-salsolonol, induced parkinsonism in rats: biochemical, pathological and behavioral
+studies. brain res. 709:285–295.
+niwa, t., takeda, n., kaneda, n., hashizume, y., and nagatsu, t. (1987). presence of tetrahydroiso-
+quinoline and 2-methyl-tetrahydroisoquinoline in parkinsonian and normal human brains. biochem.
+biophys. res. commun. 144:1084–1089.
+norris, e. h., giasson, b. i., and lee, v. m. (2004). alpha-synuclein: normal function and role in neu-
+rodegenerative diseases. curr. top. dev. biol. 60:17–54.
+ohta, s., kohno, m., makino, y., tachikawa, o., and hirobe, o. (1997). tetrahydroisoquinoline and
+1-methyl-tetrahydroisoquinoline are present in the human brain. biomed. res. 8:453–456.
+paisan-ruiz, c., jain, s., evans, e. w., gilks, w. p., simon, j., van der brug, m., de munain, a. l., aparicio,
+s., gil, a. m., khan, n., johnson, j., martinez, j. r., nicholl, d., carrera, i. m., pena, a. s., de silva,
+r., lees, a., marti-masso, j. f., perez-tur, j., wood, n. w., and singleton, a. b. (2004). cloning
+of the gene containing mutations that cause park8-linked parkinson’s disease. neuron 44:595–
+600.
+panov, a., dikalov, s., shalbuyeva, n., taylor, g., sherer, t., and greenamyre, j. t. (2005). rotenone
+model of parkinson’s disease: multiple brain mitochondria dysfunctions after short-term systemic
+rotenone intoxication. j. biol. chem. 280:42026–42035.
+polymeropoulos, m. h., lavedan, c., leroy, e., ide, s. e., deheijia, a., dutra, a., pike, b.,
+root, h., rubenstein, j., boyer, r., stenrous, e. s., chandrasekharappa, s., athanassiadou, a.,
+papapetropoulos, t., johnson, w. g., lazzarini, a. m., duvoiosin, r. c., diiorio, g., golbe, l. i., and
+nussbaum, r. l. (1997). mutation in the alpha-synuclein gene identiﬁed in families with parkinson’s
+disease. science 276:2045–2047.
+sacchetti, p., mitchell, t. r., grameman, j. g., and bannon, m. j. (2001). nurr1 enhances transcription of
+the human dopamine transporter gene through a novel mechanism. j. neurochem. 76:1565–1572.
+sawada, m., imamura, k., and nagatsu, t. (2006). role of cytokines in inﬂammatory process in parkinson’s
+disease. in riederer, p. (ed.) proceedings of the 16th international congress on parkinson’s disease
+and related disorders. j. neural transm. in press.
+schapira, a. h. v., gu, m., taanman, j.-w., tabrizi, s. j., seaton, t., cleeter, m., and cooper, j. m.
+(1998). mitochondria in the etiology and pathogenesis of parkinson’s disease. ann. neurol. 44(suppl
+1):s89–s98.
+segawa, m., nomura, y., and nishiyama, n. (2003). autosomal dominant guanosine triphosphate cyclo-
+hydrolase i deﬁciency (segawa disease). ann. neurol. 54(suppl. 6):s32–s45.
+selkoe, d. (2004). cell biology of protein misfolding: the example of alzheimer’s and parkinson’s disease.
+nat. cell biol 6:1054–1061.
+shen, j. (2004). protein kinases linked to the pathogenesis of parkinson’s disease. neuron 44:575–577.
+shimura, h., hattori, n., kubo, s., mizuno, y., asakawa, s., minoshima, s., shimizu, n., imai, k., chiba,
+t., tanaka, k., and suzuki, t. (2000). familial parkinson gene product, parkin, is a ubiquitin-protein
+ligase. nature genet 25:302–305.
+shimura, h., schlossmacher, m. g., hattori, n., frosch, m. p., trockenbacher, a., schneider, r., mizuno,
+y., kosik, k. s., and selko, d. j. (2001). ubiquitination of a new form of alpha-synuclein by parkin
+from human brain: implications for parkinson’s disease. science 293:263–269.
+sherer, t. b., kim, j. h., batarbet, r., and greenamyre, j. t. (2003). subcutaneous rotenone exposure
+causes highly selective dopaminergic degeneration and alpha-synuclein aggregation. exp. neurol.
+179:9–16.
+singleton, a. b., farrer, m., johnson, j., singleton, a., hague, s., kachergus, j., hulihan, m., peuralinna,
+t., dutra, a., and nussbaum, r. (2003). alpha-synuclein locus triplication causes parkinson’s disease.
+science 302:841.
+snyder, s. h. (2005). messengers of life and death. society for neuroscience 2005: program no. 467.
+spillantini, m. g., crowther, r. a., jakes, r., hasegawa, m., and goedert, m. (1998). alpha-synuclein
+in ﬁlamentous inclusions of lewy bodies from parkinson’s disease and dementia with lewy bodies.
+proc. natl. acad. sci. usa 95:6469–6473.
+tasaki, y., makino, y., ohta, s., and hirobe, m. (1991). 1-methyl-1.2.3.4-tetrahydroisoquinoline, de-
+creased in 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine-treated mouse, prevents parkinsonism-like
+behavior abnormalities. j. neurochem. 57:1940–1943.
+tatton, w., chalmers-redman, r., and tatton, n. (2003). neuroprotection by deprenyl and other propar-
+gylamines: glyceraldehyde-3-phosphate dehydrogenase rather than monoamine oxidase. j. neural
+transm. 110:509–515.
+tretter, l., sipos, i., and adam-vizi, v. (2004). initiation of neuronal damage by complex i deﬁciency
+and oxidative stress in parkinson’s disease. neurochem. res. 29:569–577.
+802
+nagatsu and sawada
+valente, e. m., abou-sleiman, p. m., caputo, v., muqit, m. m. k., harvey, k., gispert, s., ali, z., del
+turco, d., bentivoglio, a. r., healy, d. g., albanese, a., nussbaum, r., gonzalez-maldonado, r.,
+deller, t., salvi, s., cortelli, p., gilks, w. p., latchman, d. s., harvey, r. j., dallapiccola, b., auburger,
+g., and wood, n. w. (2004). hereditary early-onset parkinson’s disease caused by mutations in
+pink1. science 304:1158–1160.
+vawter, m. p., dillon-carter, o., tourtellotte, w. w., carvey, p., and freed, w. j. (1996). tgf beta1 and
+tgf beta2 concentrations are elevated in parkinson’s disease in ventricular cerebrospinal ﬂuid. exp.
+neurol. 142:313–322.
+vila, m., and przedborski, s. (2004). genetic clues to the pathogenesis of parkinson’s disease. nat. med.
+s58–s62.
+vilhardt, f., plastre, o., sawada, m., suzuki, k., wiznerowicz, m., kiyokawa, e., trono, d., and krause,
+k.-h. (2002). the hiv-1 nef protein and phagocyte nadph oxidase activation. j. biol. chem.
+277:42136–42143.
+warbt, s., macdonald, m. l. e., and abrahams, b. s. (2003). new mutations, new etiologies for parkinson
+disease. clin. genet. 63:352–357.
+webb, j. l., ravikumar, b., atkins, j., skepper, j. n., and rubinstein, d. c. (2003). alpha-synclein is
+degraded by both autophagy and the proteasome. j. biol. chem. 278:25009–25013.
+wood, p. l. (2003). microglia: role of microglia in chronic neurodegeneration. in wood, p. l. (ed.)
+neuroinﬂammation. humana press, totowa, nj, pp. 3–27.
+yamada, m., iwatsubo, t., mizuno, y., and mochizuki, h. (2004). overexpression of alpha-synuclein in
+rat substantia nigra and activation of caspase-9: resemblance to pathogenetic changes in parkinson’s
+disease. j. neurochem. 91:451–461.
+yang, y., nishimura, i., imai, y., takahashi, r., and lu, b. (2003). parkin suppresses dopaminergic
+neuron-selective neurotoxicity induced by pael-r in drosophila. neuron 37:911–924.
+youdim, m. b. h., and riederer, p. (1997). understanding parkinson’s disease. scientiﬁc american,
+pp. 82–89.
+zimprich, a., biskup, s., leitner, p., lichtner, p., farrer, m., lincoln, s., kachergus, j., hulihan, m.,
+uitti, r. j., calne, d. b., stoessel, a. j., pfeiffer, r. f., patenge, n., carbajal, i. c., vieregge, p.,
+asmus, f., mueller-myhsok, b., dickson, d. w., meitinger, t., strom, t. m., wszolek, z. k., and
+gasser, t. (2004). mutations in lrrk2 cause autosomal-dominant parkinsonism with pleomorphic
+pathology. neuron 44:601–607.

@@ -1,0 +1,721 @@
+protein structure and folding:
+the crystal structure of atg3, an
+autophagy-related ubiquitin carrier 
+protein (e2) enzyme that mediates atg8
+lipidation
+  
+yuya yamada, nobuo n. suzuki, takao
+hanada, yoshinobu ichimura, hiroyuki 
+kumeta, yuko fujioka, yoshinori ohsumi
+and fuyuhiko inagaki
+j. biol. chem. 
+doi: 10.1074/jbc.m611473200 originally published online january 16, 2007
+2007, 282:8036-8043.
+10.1074/jbc.m611473200
+access the most updated version of this article at doi: 
+  
+find articles, minireviews, reflections and classics on similar topics on the 
+  
+alerts: 
+•  
+•  
+  
+when this article is cited
+when a correction for this article is posted
+jbc affinity sites
+click here
+ to choose from all of jbc's e-mail alerts
+this article cites 30 references, 12 of which can be accessed free at
+http://www.jbc.org/content/282/11/8036.full.html#ref-list-1
+  
+the journal of biological chemistry vol. 282, no. 11, pp. 8036 –8043, march 16, 2007
+© 2007 by the american society for biochemistry and molecular biology, inc. printed in the u.s.a.
+the crystal structure of atg3, an autophagy-related
+ubiquitin carrier protein (e2) enzyme that mediates
+atg8 lipidation*
+received for publication, december 14, 2006, and in revised form, january 16, 2007 published, jbc papers in press, january 16, 2007, doi 10.1074/jbc.m611473200
+yuya yamada‡, nobuo n. suzuki‡, takao hanada§, yoshinobu ichimura§, hiroyuki kumeta‡, yuko fujioka‡,
+yoshinori ohsumi§, and fuyuhiko inagaki‡1
+from the ‡department of structural biology, graduate school of pharmaceutical sciences, hokkaido university, n-12, w-6, kita-ku,
+sapporo 060-0812, japan and §division of molecular cell biology, national institute for basic biology, 38 nishigonaka, myodaiji,
+okazaki 444-8585, japan
+atg3 is an e2-like enzyme that catalyzes the conjugation of
+atg8 and phosphatidylethanolamine (pe). the atg8-pe conju-
+gate is essential for autophagy, which is the bulk degradation
+process of cytoplasmic components by the vacuolar/lysosomal
+system. we report here the crystal structure of saccharomyces
+cerevisiae atg3 at 2.5-a˚ resolution. atg3 has an ␣/␤-fold, and its
+core region is topologically similar to canonical e2 enzymes.
+atg3 has two regions inserted in the core region, one of which
+consists of ⬃80 residues and has a random coil structure in solu-
+tion and another with a long ␣-helical structure that protrudes
+from the core region as far as 30 a˚ . in vivo and in vitro analyses
+suggestedthattheformerregionisresponsibleforbindingatg7,
+an e1-like enzyme, and that the latter is responsible for binding
+atg8.asulfateionwasboundnearthecatalyticcysteineofatg3,
+suggesting a possible binding site for the phosphate moiety of
+pe. the structure of atg3 provides a molecular basis for under-
+standing the unique lipidation reaction that atg3 carries out.
+ubiquitin is conjugated to its target proteins by a series of
+reactions. initially, the c terminus of ubiquitin is processed
+by a specific protease, exposing a glycine residue at the c
+terminus. next, the exposed glycine is activated by an e12
+enzyme and transferred to an e2 enzyme. finally, ubiquitin is
+conjugated to its target proteins by an e3 enzyme (1). many
+ubiquitin-like modifiers have been reported, and they all
+* this work was supported in part by grant-in-aids for young scientists (b)
+17790048 and for scientific research on priority areas as well as by the
+national project on protein structural and functional analyses from the
+ministry of education, culture, sports, science, and technology, japan.
+this work was carried out under the national institute for basic biology
+(nibb) cooperative research program (4 –148). the costs of publication of
+this article were defrayed in part by the payment of page charges. this
+article must therefore be hereby marked “advertisement” in accordance
+with 18 u.s.c. section 1734 solely to indicate this fact.
+the atomic coordinates and structure factors (code 2dyt) have been deposited in
+the protein data bank, research collaboratory for structural bioinformatics,
+rutgers university, new brunswick, nj (http://www.rcsb.org/).
+1 to whom correspondence should be addressed. tel.: 81-11-706-3975; fax:
+81-11-706-4979; e-mail: finagaki@pharm.hokudai.ac.jp.
+2 the abbreviations used are: e1, ubiquitin-activating enzyme; e2, ubiquitin
+carrier protein; e3, ubiquitin-protein isopeptide ligase; pe, phosphati-
+dylethanolamine; gst, glutathione s-transferase; hsqc, heteronuclear sin-
+gle quantum correlation; pbs, phosphate-buffered saline; cbb, coomassie
+brilliant blue; fr, flexible region; hr, handle region; ubl, ubiquitin-like;
+sumo, small ubiquitin-like modifier.
+seem to be conjugated to their targets via a mechanism sim-
+ilar to ubiquitination (2).
+atg8, a 14-kda protein, is one such ubiquitin-like modifier,
+although its target is not a protein but rather a phospholipid,
+phosphatidylethanolamine (pe)
+(3). despite having little
+sequence homology with ubiquitin, atg8 has a similar structure
+(4) and is thought to be conjugated to pe by a mechanism sim-
+ilar to ubiquitination. specifically, the carboxyl-terminal argi-
+nine of atg8 is first processed by atg4, a cysteine protease
+structurally related to deubiquitinating enzymes (5, 6). the
+exposed glycine residue of atg8 is then activated by atg7, an
+e1-like enzyme (7), and then transferred to atg3, an e2-like
+enzyme (3). finally, atg8 is conjugated to pe (3).
+the formation of the atg8-pe conjugate is essential for
+autophagy, the bulk degradation process of cytosolic compo-
+nents by the vacuolar/lysosomal system (8). although auto-
+phagy was originally identified as a response to starvation,
+recent studies show that it plays a critical role in many bio-
+logical processes such as neurodegeneration, infection, and
+cellular survival during neonatal starvation (9–13). in vitro
+reconstitution studies revealed that atg3, atg7, atg8, atp, and
+pe-containing membranes are necessary and sufficient for the
+conjugation of atg8 with pe (14). although most e2 enzymes
+require e3 enzymes, atg3 by itself is catalytically competent for
+atg8-pe formation.
+we report here the crystal structure of atg3 at 2.5-å resolu-
+tion. the core of atg3 is topologically similar to canonical e2
+enzymes. in addition to the core region, atg3 has two charac-
+teristic insertions, both of which are essential for the function of
+atg3 in vitro and in vivo. these results provide important infor-
+mation for understanding the unique lipidation reaction medi-
+ated by atg3.
+experimental procedures
+protein expression and purification—wild-type atg3 was
+expressed and purified for crystallization as described previ-
+ously (15). for in vitro assays, wild-type atg3 and three atg3
+mutants (atg3⌬fr, atg3fr, and atg3⌬hr) were prepared as
+follows. the regions encoding amino acids 1–310 (wild-type),
+1–82 and 163–310 (atg3⌬fr), 1–245 and 281–310
+(atg3⌬hr), and 84–161 (atg3fr) of atg3 were inserted into
+pgex-6p-1 (ge healthcare) and were expressed in escherichia
+coli strain bl21 (de3) cells. the cells were lysed, and glutathi-
+8036 journal of biological chemistry
+volume 282 • number 11 • march 16, 2007
+crystal structure of atg3
+table 1
+data collection, phasing, and refinement statistics
+values in parentheses refer to the highest resolution shell.
+data collection statistics
+data set
+wavelength (å)
+resolution range (å)
+observed reflections
+unique reflections
+completeness (%)
+rmerge
+phasing statistics
+resolution range (å)
+no. of sites
+riso
+phasing power c
+centric
+acentric
+具fom典 d
+native
+1.0000
+50 ⫺ 2.50
+83,016
+13,564
+98.8 (99.6)
+0.060 (0.271)
+50 ⫺ 3.50
+0.45
+hgcl2
+1.5418
+50 ⫺ 4.50
+7,343
+2,357
+94.9 (78.4)
+0.176 (0.210)
+50 ⫺ 4.50
+0.158
+0.94
+1.08
+thimerosal
+1.5418
+50 ⫺ 4.00
+11,761
+3,396
+98.0 (94.2)
+0.105 (0.280)
+50 ⫺ 4.00
+0.146
+0.69
+0.90
+k2ptcl4
+1.5418
+50 ⫺ 3.70
+11,989
+4,229
+97.6 (99.8)
+0.064 (0.249)
+50 ⫺ 3.70
+0.189
+0.83
+1.04
+se-met
+1.5418
+50 ⫺ 3.50
+17,422
+4,997
+98.0 (99.4)
+0.120 (0.268)
+50 ⫺ 3.50
+0.115
+0.69
+0.84
+refinement statistics
+resolution range (å)
+r /rfree
+no. of protein atoms
+no. of water molecules
+no. of sulfate ions
+r.m.s.d.e from the ideality
+bond length (å)
+angles (°)
+50 ⫺ 2.50
+0.207/0.244
+1,666
+46
+0.006
+1.4
+a rmerge ⫽ ⌺⌺j兩ij ⫺ 具i典兩/⌺ 具i典, where ij is the observed intensity, and 具i典 is the average intensity from multiple measurements.
+b riso ⫽ ⌺储fph兩 ⫺ 兩fp储/⌺兩fp兩, where fph and fp are the derivative and native structure-factor amplitudes, respectively.
+c phasing power ⫽ r.m.s.d. (兩fh兩/e), where fh is the heavy atom structure amplitude, and e is the residual lack of closure error.
+d 具fom典 is the mean figure of merit.
+e r.m.s.d., root mean square deviation.
+one s-transferase (gst)-fused atg3s were purified by affinity
+chromatography using a glutathione-sepharose 4b column (ge
+healthcare). for in vitro pulldown assays, gst-fused atg3s
+were further purified using a resource q anion-exchange col-
+umn (ge healthcare) followed by a superdex 200 gel filtration
+column (ge healthcare) without excision of gst. for in vitro
+conjugation assays, gst was excised from gst-fused atg3
+with prescission protease (ge healthcare), and the excised
+gst and prescission protease were removed from atg3 by
+repurification on a glutathione-sepharose 4b column. atg7 and
+a processed form of atg8 used for in vitro conjugation and
+pulldown assays were prepared as follows. the region coding
+1–630 of atg7 was inserted into pgex-6p-1 and expressed in
+e. coli bl21 cells. after cell lysis, gst-fused atg7 was purified
+by affinity chromatography using a glutathione-sepharose 4b
+column, and gst was excised from atg7 with prescission pro-
+tease. atg7 was further purified by a resource q column fol-
+lowed by a superdex 200 column. the region encoding amino
+acids 1–116 of atg8 was inserted into pgex-6p-1 and was
+expressed in e. coli bl21 cells. after cell lysis, gst-fused atg8
+was purified by affinity chromatography using a glutathione-
+sepharose 4b column, and gst was excised from atg8 with
+prescission protease. atg8 was further purified by a resource s
+cation-exchange column (ge healthcare) followed by a super-
+dex 75 gel filtration column (ge healthcare). all constructs
+were sequenced to confirm their identities.
+preparation of derivative crystals and data collection—
+crystallization of atg3 was carried out as described previously
+(15). platinum and two mercury derivatives were prepared by
+soaking the crystals of atg3 for 30 min in a solution of 1.8 m
+lithium sulfate and 0.1 m citrate buffer (ph 6.6) containing 10
+mm k2ptcl4, 1 mm hgcl2, or 0.1 mm thimerosal. the seleno-
+methionine derivative was expressed in e. coli b834 (de3)
+using an amino acid medium containing selenomethionine
+instead of methionine, and it was crystallized under the same
+conditions used for native crystals. derivative crystals were
+immersed in a reservoir solution supplemented with 25% glyc-
+erol for several seconds, flash-cooled, and kept in a stream of
+nitrogen gas at 100 k during data collection. diffraction data for
+the native crystal was collected on the adsc quantum 315
+charge-coupled device detector at beamline bl41xu, spring-8
+(japan) at a wavelength of 1.00 å. diffraction data for deriva-
+tives were collected on rigaku r-axis iv or vii imaging plate
+detectors using copper k␣radiation from an in-house rigaku
+rotating anode x-ray generator. diffraction data were processed
+with the hkl2000 program (16). the statistics for the diffrac-
+tion data are summarized in table 1.
+structure determination and refinement—the structure
+of atg3 was determined by the multiple isomorphous
+replacement method. heavy atom sites were found and
+refined, and the initial phases were calculated using the pro-
+gram solve and resolve (17). approximately 40% of the
+residues were automatically modeled as a polyalanine chain
+by resolve. further model construction was performed
+manually using the molecular modeling program turbo-
+frodo (18), and the refinement was performed using the
+cns program (19). the refinement statistics are summa-
+rized in table 1. the coordinates and structure factors of
+atg3 have been deposited in the protein data bank (pdb
+code 2dyt).
+nmr spectroscopy—proteins uniformly labeled with 15n
+were prepared by growing bacteria in m9 medium containing 1
+g/liter 15nh4cl (shoko). the purified atg3fr and full-length
+atg3 were concentrated to 0.5 mm in 92% h2o/8% d2o con-
+march 16, 2007 • volume 282 • number 11
+journal of biological chemistry 8037
+crystal structure of atg3
+taining 20 mm phosphate (ph 6.5), 150 mm nacl, and 5 mm
+dithiothreitol. 1h-15n heteronuclear single quantum correla-
+tion (hsqc) spectra were obtained with varian unity
+inova 500 spectrometer equipped with a cryogenic probe.
+spectra were processed by nmrpipe (20), and data analysis was
+carried out using the sparky program (21).
+in vitro pulldown assay—the purified gst-fused atg3
+mutants and gst (control) (0.5 nmol) were mixed with purified
+atg7 or atg8 (0.5 nmol) in phosphate-buffered saline (pbs) and
+incubated at 277 k for 1 h. next, glutathione-sepharose 4b
+slurry was added, and the mixture was further incubated at 277
+k for 1 h. after washing the beads three times with pbs, pro-
+teins were eluted with 10 mm glutathione in 50 mm tris-hcl
+buffer (ph 8.0). the eluates were subjected to sodium dodecyl
+sulfate polyaclylamide gel electrophoresis (sds-page), and
+the proteins were detected by staining with coomassie brilliant
+blue (cbb).
+in vitro conjugation assay—in vitro conjugation was per-
+formed according to the previous report (14). liposomes were
+prepared as follows. all phospholipids were purchased from
+avanti polar lipids. dioleoylphosphatidylethanolamine,
+1-palmitoyl-2-oleoylphoshatidylcholine, and dioleoylphospha-
+tidic acid were mixed in a glass tube at the ratio of 7:1:2 in
+chloroform. the chloroform solvent was removed by rotary
+evaporation. samples were dried further in a desiccator under
+vacuum for 12 h. the resulting lipid film was suspended in a
+buffer (25 mm tris-hcl, ph 7.5, 137 mm nacl, 2.7 mm kcl) at a
+final concentration of 1 mm phospholipid by mixing vigorously.
+samples were then subjected to sonication for 5 min to obtain
+small unilamellar liposomes. atg3 mutants (10 ␮m) were mixed
+with 10 ␮m atg7, 50 ␮m carboxyl-terminal glycine-exposed
+form of atg8, and liposomes in reconstitution buffer (50 mm
+tris-hcl, ph 8.0, 100 mm nacl, 2 mm dithiothreitol, 1 mm
+mgcl2, and 1 mm atp). the reaction mixture was incubated at
+303 k for 1 h, and the reaction was stopped by mixing with
+sds-page sample buffer and boiling. samples were separated
+by urea-sds-page (5), and proteins were identified by staining
+with cbb.
+assay of atg3 activity in vivo—yeast cells (mat␣ura3 leu2
+his3 trp1 lys2 suc2 ⌬atg3::trp1) expressing wild-type atg3 or
+atg3 mutants from a multicopy plasmid (prs425) were grown
+to an a600 of ⬃1.0 and then starved by placing them in s.d.
+(⫺n) medium (0.17% yeast nitrogen base without amino acids
+and ammonium sulfate and with 2% glucose) for 4.5 h. cells (5
+a600 units) were collected by centrifugation and suspended in
+1 ml of a solution containing 0.2 m naoh and 0.5% 2-mer-
+captoethanol, incubated for 10 min on ice, and mixed with
+120 ␮l of 100% trichloroacetic acid. after centrifugation, the
+pellets were resuspended in sds-page sample buffer and
+boiled. lysates were separated by sds-page and analyzed
+by immunoblotting.
+results
+overall structure of atg3—the crystal structure of atg3
+was refined against 2.5 å data to an r-factor of 0.207 and a
+free r-factor of 0.244. the region corresponding to amino
+acids 21–306 was modeled along with two sulfate and 46
+water molecules. the 20 amino-terminal and 4 carboxyl-
+terminal residues as well as three regions corresponding to
+residues 84–128, 143–162, and 271–278 lacked defined elec-
+tron density and were omitted from the model (fig. 1a). the
+overall structure of atg3 has a unique hammer-like shape
+consisting of a head and a handle. the head moiety is com-
+posed of a central six-stranded ␤-sheet (strands 1–6) with
+five ␣-helices (a, b, d, e, g) surrounding it, and it has a
+globular-fold with approximate dimensions of 45 ⫻ 40 ⫻ 35
+å. the handle moiety is composed of a long ␣-helix (f) and a
+partially disordered loop region, and it protrudes from the
+head moiety as far as 30 å. at the interface between the head
+and handle moieties, atg3 has a “floating” helix c in which
+the amino and carboxyl termini are disordered and not con-
+nected to the other regions of atg3 in the model.
+structural comparison with canonical e2s—although atg3
+is thought to be an e2-like enzyme based on its function, it has
+little sequence homology with canonical e2 enzymes, so it is not
+clear whether atg3 has structural similarity with them. for
+comparison, the structure of ubc9, an e2 enzyme for small
+ubiquitin-like modifier (sumo), is shown in the same orienta-
+tion as atg3 (fig. 1b) (22). although the structure of atg3
+seems to be significantly different from that of ubc9, structural
+comparison using the dali search engine revealed that the
+topology of the head moiety of atg3 is very similar to canonical
+e2 enzymes including ubc9. all e2 enzymes reported so far
+have a conserved e2 core composed of a central four-stranded
+␤-sheet and four ␣-helices surrounding it (fig. 1b, right) (22,
+23). the head moiety of atg3 has the corresponding four
+␤-strands (1–4) and two ␣-helices (b and g) but lacks two car-
+boxyl-terminal ␣-helices (fig. 1b, left). intriguingly, ubiquitin
+e2 variant domains, which have a canonical e2 core-fold but do
+not have e2 activities, also lack these two carboxyl-terminal
+␣-helices (24). although ubc9 has only four strands, it has a
+short ␤-hairpin-like loop that topologically corresponds to
+strands 5 and 6 of atg3 (fig. 1b).
+the catalytic site structure of atg3—although more second-
+ary structures are inserted at the amino- and carboxyl-terminal
+sides of atg3 cys-234 compared with ubc9 cys-93, both cata-
+lytic cysteines are located at the carboxyl terminus of the
+␤-sheet (strand 5 and 6) or the similarly located ␤-hairpin-like
+structure (fig. 1b). fig. 1c shows the detailed structure around
+the catalytic cysteine of atg3 (left) and ubc9 (right). the cata-
+lytic cysteine of ubc9, cys-93, is located at the carboxyl termi-
+nus of the hairpin-like loop and forms a hydrogen bond with
+asn-85 at the amino terminus of the same hairpin. thus, the
+side chains of cys-93 and asn-85 are in close proximity. asn-85
+of ubc9 is conserved among all canonical e2s and is essential
+for the conjugation reaction because it functions as an oxyanion
+hole. cys-234 of atg3 is located at the carboxyl terminus of
+strand 6 in a similar fashion as cys-93 of ubc9, but there is no
+residue corresponding to asn-85 of ubc9 at the amino termi-
+nus of strand 5. furthermore, pro-233 forms a hydrogen bond
+with val-239 on helix f, so that the side chain of cys-234 faces
+helix f but not strand 5. as a result, the side chain of cys-234 is
+surrounded by the side chains of gln-27 at the loop between
+helices a and b and asn-238 at the amino terminus of the helix
+f, neither of which are conserved among atg3 homologs (fig.
+8038 journal of biological chemistry
+volume 282 • number 11 • march 16, 2007
+crystal structure of atg3
+figure 1. a, stereo view of the ribbon diagram of atg3. the ␣-helices are lettered and indicated with red helical ribbons, and ␤-strands are numbered and indicated with
+cyan arrows. residues adjacent to the disordered regions are numbered. b, structural comparison of atg3 with ubc9. ribbon diagrams (top) and topologies (bottom)
+of atg3 and ubc9 (protein data bank code 1u9a) are shown in the same orientation. conserved ␣-helices and ␤-strands are colored red and cyan, respectively, and
+nonconserved ␣-helices, ␤-strands, and loop regions are colored gray. the two unique inserted regions of atg3, fr and hr, are colored yellow. numbering and labeling
+of secondary structural elements are based on atg3. amino and carboxyl termini are denoted n and c, respectively, and the catalytic cysteine of atg3 and ubc9 is
+indicated with a stick model (top) and a circled letter (bottom). c, ribbon diagram of the catalytic site of atg3 (left) and ubc9 (right). the side chains of cys-234 (atg3) and
+cys-93 (ubc9) as well as their surrounding residues are shown with stick models and are colored yellow, red, and blue for sulfur, oxygen, and nitrogen atoms, respec-
+tively. a sulfate ion observed in the atg3 structure is also shown with a stick model. hydrogen bonds between pro-233 and val-239 of atg3 and between cys-93 and
+asn-85 of ubc9 are shown with broken lines. the figure was prepared using pymol (35).
+2). further studies are required to identify the residue of atg3
+that functions like asn-85 of ubc9 as an oxyanion hole.
+two unique inserted regions in atg3—as mentioned above,
+the handle moiety, which consists of a long ␣-helix f and a loop,
+is a structural feature unique to atg3. we named this the handle
+region (hr). fig. 2 shows a sequence alignment of three atg3
+homologs. the sequence of human ubc9 is also aligned based
+on the crystal structures. the amino-terminal half of helix f is
+conserved among atg3 homologs, but its carboxyl-terminal
+half and downstream loop region are not conserved. the long
+helical structure of the hr seems to be unique to yeast atg3. in
+addition to the hr, atg3 has a second unique inserted region, a
+long inserted region between strands 2 and 3 that is present in
+all three atg3 homologs. although the sequence identity of this
+region is low among the atg3 homologs, its length (80–100
+residues) and highly acidic character (calculated pi ⫽ 3.6–3.7)
+are conserved. in the crystal, this region of yeast atg3 takes a
+flexible conformation, and most residues are not modeled
+because of their poor electron density. the conformation of
+residues 129–142, which are modeled as helix c, also seems to
+be flexible because the average b-factor of these residues is
+rather high (89.9 and 54.0 å2 for helix c and all atg3 residues,
+respectively). helix c forms weak interactions with three heli-
+ces (b, f, g), which may partially stabilize its conformation in
+the crystal. we named the inserted region between strands 2
+and 3 the flexible region (fr).
+fr has a random coil structure in solution—because most
+residues of fr are disordered in the crystal, we could not obtain
+further structural information on fr from the crystal structure.
+to obtain structural
+information on fr in solution, we
+expressed the fr moiety of atg3 (83–162) in e. coli, purified it,
+and analyzed it by nmr spectroscopy. fig. 3a shows the
+1h-15n hsqc spectrum of the fr moiety of atg3. the pattern
+of the spectrum indicates a random coil structure and does not
+contain any signs of secondary structures. we also measured
+the hsqc spectrum of full-length atg3 (fig. 3b). intriguingly,
+the spectrum of full-length atg3 was strikingly similar to that of
+fr, suggesting that most observed signals for full-length atg3
+were derived from the fr moiety. this observation indicates
+that the mobility of fr is much higher than that of other regions
+of atg3 because the residues located at the flexible regions give
+strong nmr signals because of long t2 relaxation times com-
+pared with those located at the rigid regions. these results sug-
+gest that the fr moiety of atg3 has a random coil structure and
+march 16, 2007 • volume 282 • number 11
+journal of biological chemistry 8039
+crystal structure of atg3
+figure 2. sequence alignment of atg3 homologs and ubc9. homo sapiens (hs) and arabidopsis thaliana (at) atg3 homologs are aligned with scatg3 based
+on their sequences, and ubc9 is aligned with scatg3 based on the crystal structures of both proteins. the secondary structural elements of scatg3 are shown
+above the alignment. residues conserved among atg3 homologs are shaded, and the catalytic cysteines of atg3 homologs and ubc9 are colored green. the
+catalytically important asparagine residue of ubc9 (asn-85) is also colored green. the two inserted regions, fr and hr, are colored yellow.
+figure 3. 1h-15n hsqc spectrum of fr and full-length atg3. a, hsqc spectrum of atg3fr. b, hsqc spectrum of full-length atg3.
+is highly mobile in solution, not only in the isolated state but
+also in intact atg3. although residues 129–142 of fr have a
+helical structure in the crystal (fig. 1, a and b), they may have a
+more flexible conformation in solution.
+conjugation activity of atg3 mutants—to identify the roles
+of fr and hr in atg3 in the atg8-pe conjugation system, we
+generated mutants lacking fr (⌬fr) and hr (⌬hr). these pro-
+teins were expressed in e. coli, purified, and used for in vitro
+conjugation assays. because the amino-terminal conserved res-
+idues (239–245) of hr form hydrophobic interactions with the
+core region of atg3, they are included in the ⌬hr construct to
+avoid destroying the overall fold of atg3. wild-type, ⌬fr, and
+⌬hr mutants of atg3 were incubated fo r 1 h at 303 kwith atg7,
+atp, and pe-containing liposomes, separated by urea-sds-
+page, and stained with cbb (fig. 4a). compared with wild-
+type atg3, the conjugation activity of the atg3⌬hr mutant was
+moderately reduced, and that of atg3⌬fr was greatly reduced.
+we next analyzed the conjugation activity of these mutants
+in vivo. similar levels of wild-type, ⌬hr, and ⌬fr atg3s were
+expressed in ⌬atg3 yeast strains (fig. 4b). cell extracts were
+separated by urea-sds-page, and atg8 was visualized by
+immunoblotting with an anti-atg8 antibody (fig. 4c).
+atg3⌬hr had a moderate ability to mediate atg8-pe conjuga-
+tion, whereas atg3⌬fr completely lacked the ability to mediate
+atg8-pe formation. these results agree well with the in vitro
+results (fig. 4a).
+finally, we examined the autophagy activity of these atg3
+mutants by monitoring the maturation of the proform of ape1,
+which was transported into vacuoles via the cytoplasm-to-vac-
+uole targeting pathway under nutrient-rich conditions or by
+8040 journal of biological chemistry
+volume 282 • number 11 • march 16, 2007
+crystal structure of atg3
+figure 4. in vitro and in vivo conjugation and autophagy activities of
+atg3 mutants. a, conjugation activity of atg3 mutants in vitro. wild-type
+atg3, atg3⌬fr, or atg3⌬hr was mixed with atg7, atg8, atp, and pe-contain-
+ing liposomes and incubated at 303 k for 1 h. the reaction solutions were
+separated by urea-sds-page and stained with cbb. b–d, activity of atg3
+mutants in yeast. total lysates of starved ⌬atg3 cells expressing wild-type
+atg3, atg3⌬fr, or atg3⌬hr from prs425 were prepared and separated by
+sds-page. b, amount of atg3 expressed in yeast. atg3 mutants were
+expressed at similar levels as wild-type atg3. atg3 was recognized by immu-
+noblotting with an anti-atg3 antibody. c, formation of atg8-pe in starved
+cells. formation of atg8-pe was lost in the atg3⌬fr mutant and decreased in
+the atg3⌬hr mutant. atg8 was recognized by immunoblotting with an anti-
+atg8 antibody. d, ape1 maturation mediated by autophagy. autophagy was
+abolished in cells expressing the atg3⌬fr mutant, and it was severely
+impaired in cells expressing atg3⌬hr. ape1 was recognized by immunoblot-
+ting with an anti-ape1 antibody.
+autophagy under condition of nutrient starvation. the protein
+is then processed into a mature form within the vacuoles. cells
+expressing atg3⌬hr showed a moderate level of ape1 matura-
+tion, whereas ape1 was not processed to the mature form in
+cells expressing atg3⌬fr (fig. 4d). these results suggest that
+hr is partly necessary and that fr is crucial for the function of
+atg3 in autophagy.
+identification of binding partners for hr and fr—our in
+vitro and in vivo analyses showed that hr and fr of atg3 play
+some roles in the formation of atg8-pe. we next performed an
+in vitro pulldown assay to determine whether hr and fr of
+atg3 are responsible for the recognition of atg7 and atg8.
+wild-type atg3, atg3⌬hr, atg3⌬fr, and atg3fr fused to gst
+were mixed with either atg7 or atg8 and then applied to gluta-
+thione-sepharose resin. as expected, wild-type atg3 bound to
+both atg7 and atg8 (fig. 5, a and b). atg3⌬hr also bound to
+atg7, indicating that hr is not necessary for atg7 binding. in
+contrast, atg3⌬fr could not bind atg7. interestingly, atg3fr
+bound to atg7 as strongly as wild-type atg3. these results indi-
+cate that fr of atg3 is necessary and sufficient for atg7 binding.
+on the other hand, atg3⌬fr bound to atg8 as strongly as wild-
+type atg3, whereas atg3⌬hr bound only weakly to atg8. this
+indicates that hr of atg3 mediates the binding of atg8.
+discussion
+in the current study, we showed that, despite having little
+sequence homology, atg3 and canonical e2 enzymes have sim-
+ilar structures. there are four classes of e2 enzymes (i–iv).
+class i consists of the conserved e2 core and lacks large exten-
+sions (25), whereas classes ii and iii have carboxyl- and amino-
+terminal extensions, respectively (26, 27), and class iv has both
+figure 5. identification of binding partners for fr and hr of atg3. a, in
+vitro pulldown assay using atg7 and gst-fused atg3s. atg7 was mixed with
+gst-fused atg3 (wild-type, ⌬fr, ⌬hr, or fr) and then incubated with gluta-
+thione-sepharose 4b. after washing with pbs, proteins were eluted, sepa-
+rated by 8% sds-page, and stained with cbb. b, in vitro pulldown assay using
+atg8 and gst-fused atg3s. atg8 was mixed with gst-fused atg3 (wild-type,
+⌬fr, ⌬hr, or fr) and incubated with glutathione-sepharose 4b. after wash-
+ing with pbs, proteins were eluted, separated by 15% sds-page, and stained
+with cbb.
+extensions in addition to the e2 core (28). although atg3 is
+topologically similar to the canonical e2 core region, the struc-
+tural difference is too large to place it in any of the four classes.
+atg3 lacks two carboxyl-terminal ␣-helices that are absolutely
+conserved among known e2 enzymes. furthermore, atg3 has
+two large insertions, fr and hr, in the core region. in vitro and
+in vivo analyses showed that these two insertions play critical
+roles in the atg8-pe conjugation reaction (fig. 4), and an in
+vitro pulldown assay suggested that fr and hr are responsible
+for atg7 and atg8 binding, respectively (fig. 5).
+recently, the structure of ubc12 in complex with the carbox-
+yl-terminal ubiquitin-like (ubl) domain of uba3, a subunit of
+the e1 for nedd8, was reported (29). fig. 6a shows the struc-
+tures of atg3, and fig. 6b a complex of ubc12 bound to the ubl
+domain, in the same orientation. the amino-terminal helix of
+ubc12, which corresponds to helix b of atg3, is bound to the
+hydrophobic patch on the ubl domain of uba3 in a similar
+manner as ubiquitin-binding modules (fig. 6b). the carboxyl-
+terminal ubl domain is conserved in e1 enzymes for ubiquitin,
+sumo, and nedd8. such a ubl domain is not found in the
+sequence for atg7, an e1-like enzyme for atg8. furthermore, in
+vitro pulldown assays showed that fr of atg3 mediated the
+binding of atg7. the insertion sites of fr and helix b are located
+on the opposite sides of atg3 (fig. 6a). taken together, these
+results suggest that the atg7-atg3 interaction is different from
+the e1–e2 interaction observed in other conjugation systems.
+intriguingly, our nmr studies showed that fr has a random
+coil structure in solution. it is possible that atg7 induces con-
+formational changes in fr via a specific interaction. structural
+studies on the atg7 and atg7䡠atg3 complex should resolve
+these issues.
+march 16, 2007 • volume 282 • number 11
+journal of biological chemistry 8041
+crystal structure of atg3
+figure 6. structural comparison of atg3 with canonical e2s bound to their targets. a, ribbon diagram of atg3. color coding is as described in the legend
+to fig. 1b. the side chain of cys-234 and a sulfate ion observed near cys-234 are shown with stick models. b, ribbon diagram of ubc12 bound to the ubl domain
+of uba3, a subunit of the e1 for nedd8 (protein data bank code 1y8x). conserved ␣-helices and ␤-strands in atg3 and ubc12 are colored red and cyan,
+respectively. the side chain of cys-111 is shown with a stick model. c, ribbon diagram of sumo-rangap1 conjugate bound to ubc9 (protein data bank code
+1z5s). although nup358, an e3 enzyme, is also bound to this complex, the protein is not shown in this figure. gly-97 of sumo and the side chains of ubc9 cys-93
+and rangap1 lys-524 are shown with stick models. the figure was prepared using pymol. conserved ␣-helices and ␤-strands in atg3 and ubc9 are colored red
+and cyan, respectively.
+recently, the structure of ubc9 bound to the sumo-ran-
+gap1 conjugate was reported (fig. 6c) (30). in this structure,
+sumo is bound to the second helix of ubc9, which corre-
+sponds to helix g of atg3. the structure of ubc1 bound to
+ubiquitin was also reported, in which ubiquitin is bound simi-
+larly to the second helix of ubc1 (31). these two structures
+suggest that the second helix of canonical e2s is the conserved
+binding site for modifier proteins. hr of atg3 is inserted at the
+amino terminus of helix g and occupies a similar location as the
+sumo/ubiquitin site in ubc9/ubc1 (fig. 6, a and c). notably,
+an in vitro pulldown assay showed that atg8 binds to hr. a
+sulfate ion derived from the crystallization reservoir solution
+binds in the groove near cys-234 (figs. 1c and 6a). this sulfate
+ion and hr are located on the opposite sides of cys-234, just as
+rangap1 and sumo are located on the opposite sides of ubc9
+cys-93 (fig. 6, a and c). anions often mimic phosphate groups,
+and in the case of pe-binding protein, acetate and cacodylate
+ions were observed at the binding site of the phosphate moiety
+of pe (32, 33). accordingly, the sulfate ion observed in the atg3
+crystal may also mimic the phosphate group of pe and bind to
+the pe-binding site. three basic residues (lys-183, his-232,
+lys-235), which surround the sulfate ion, might recognize the
+phosphate moiety of pe. however, the recognition of pe by
+atg3 seems to be more complex because pe is incorporated into
+membranes in vivo.
+although atg8-pe conjugation does not require e3 enzymes
+in vitro, the atg12-atg5 conjugate, the other conjugate required
+for autophagy, is crucial for atg8-pe conjugation in vivo (34).
+however, the molecular details of this reaction remain unknown.
+atg8-pe conjugation is the only lipidation reaction known to be
+mediated by a ubiquitin-like modification system. because pe
+does not exist alone in solution but is instead incorporated into
+membranes, recognition of pe as a target for conjugation is
+expected to require specific machinery not utilized by canoni-
+cal protein-protein conjugation systems. therefore, the role of
+the atg12-atg5 conjugate in the atg8-pe conjugation reaction
+must be elucidated.
+acknowledgment—we thank the staff at beamline nw12, kek,
+japan and at beamline bl41xu, spring-8, japan for assistance with
+data collection. we also thank dr. d. j. klionsky for providing the
+anti-ape1 antibody.
+references
+1. varshavsky, a. (1997) trends biochem. sci. 22, 383–387
+2. welchman, r. l., gordon, c., and mayer, r. j. (2005) nat. rev. mol. cell
+biol. 6, 599–609
+3. ichimura, y., kirisako, t., takao, t., satomi, y., shimonishi, y., ishihara,
+n., mizushima, n., tanida, i., kominami, e., ohsumi, m., noda, t., and
+ohsumi, y. (2000) nature 408, 488–492
+4. sugawara, k., suzuki, n. n., fujioka, y., mizushima, n., ohsumi, y., and
+inagaki, f. (2004) genes cells 9, 611–618
+5. kirisako, t., ichimura, y., okada, h., kabeya, y., mizushima, n., yoshimori,
+t., ohsumi, m., takao, t., noda, t., and ohsumi, y. (2000) j. cell biol. 151,
+263–276
+6. sugawara, k., suzuki, n. n., fujioka, y., mizushima, n., ohsumi, y., and
+inagaki, f. (2005) j. biol. chem. 280, 40058–40065
+7. tanida, i., mizushima, n., kiyooka, m., ohsumi, m., ueno, t., ohsumi, y.,
+and kominami, e. (1999) mol. biol. cell 10, 1367–1379
+8. ohsumi, y. (2001) nat. rev. mol. cell biol. 2, 211–216
+9. hara, t., nakamura, k., matsui, m., yamamoto, a., nakahara, y., suzuki-
+migishima, r., yokoyama, m., mishima, k., saito, i., okano, h., and
+mizushima, n. (2006) nature 441, 885–889
+10. komatsu, m., waguri, s., chiba, t., murata, s., iwata, j., tanida, i., ueno,
+8042 journal of biological chemistry
+volume 282 • number 11 • march 16, 2007
+crystal structure of atg3
+22. tong, h., hateboer, g., perrakis, a., bernards, r., and sixma, t. k. (1997)
+23. winn, p. j., religa, t. l., battey, j. n., banerjee, a., and wade, r. c. (2004)
+j. biol. chem. 272, 21381–21387
+structure 12, 1563–1574
+24. pornillos, o., alam, s. l., rich, r. l., myszka, d. g., davis, d. r., and
+sundquist, w. i. (2002) embo j. 21, 2397–2406
+25. cook, w. j., jeffrey, l. c., xu, y., and chau, v. (1993) biochemistry (mosc).
+26. cook, w. j., jeffrey, l. c., sullivan, m. l., and vierstra, r. d. (1992) j. biol.
+27. plafker, s. m., plafker, k. s., weissman, a. m., and macara, i. g. (2004)
+28. hauser, h. p., bardroff, m., pyrowolakis, g., and jentsch, s. (1998) j. cell
+32, 13809–13817
+chem. 267, 15116–15121
+j. cell biol. 167, 649–659
+biol. 141, 1415–1422
+t., koike, m., uchiyama, y., kominami, e., and tanaka, k. (2006) nature
+441, 880–884
+11. ogawa, m., yoshimori, t., suzuki, t., sagara, h., mizushima, n., and
+sasakawa, c. (2005) science 307, 727–731
+12. nakagawa, i., amano, a., mizushima, n., yamamoto, a., yamaguchi, h.,
+kamimoto, t., nara, a., funao, j., nakata, m., tsuda, k., hamada, s., and
+yoshimori, t. (2004) science 306, 1037–1040
+13. kuma, a., hatano, m., matsui, m., yamamoto, a., nakaya, h., yoshimori,
+t., ohsumi, y., tokuhisa, t., and mizushima, n. (2004) nature 432,
+1032–1036
+14. ichimura, y., imamura, y., emoto, k., umeda, m., noda, t., and ohsumi,
+y. (2004) j. biol. chem. 279, 40584–40592
+15. yamada, y., suzuki, n. n., fujioka, y., ichimura, y., ohsumi, y., and
+inagaki, f. (2006) acta crystallograph. sect. f struct. biol. cryst. commun.
+62, 1016–1017
+16. otwinowski, z., and minor, w. (1997) methods enzymol. 276, 307–326
+17. terwilliger, t. c., and berendzen, j. (1999) acta crystallogr. sect. d biol.
+crystallogr. 55, 849–861
+18. cambillau, c., and roussel, a. (1997) turbo-frodo, version opengl 1,
+universite aix-marseille ii, marseille, france
+19. brunger, a. t., adams, p. d., clore, g. m., delano, w. l., gros, p.,
+grosse-kunstleve, r. w., jiang, j. s., kuszewski, j., nilges, m., pannu, n. s.,
+read, r. j., rice, l. m., simonson, t., and warren, g. l. (1998) acta
+crystallogr. sect. d biol. crystallogr. 54, 905–921
+20. delaglio, f., grzesiek, s., vuister, g. w., zhu, g., pfeifer, j., and bax, a.
+(1995) j. biomol. nmr 6, 277–293
+29. huang, d. t., paydar, a., zhuang, m., waddell, m. b., holton, j. m., and
+schulman, b. a. (2005) mol. cell 17, 341–350
+30. reverter, d., and lima, c. d. (2005) nature 435, 687–692
+31. hamilton, k. s., ellison, m. j., barber, k. r., williams, r. s., huzil, j. t.,
+mckenna, s., ptak, c., glover, m., and shaw, g. s. (2001) structure 9,
+897–904
+32. serre, l., vallee, b., bureaud, n., schoentgen, f., and zelwer, c. (1998)
+33. banfield, m. j., barker, j. j., perry, a. c., and brady, r. l. (1998) structure 6,
+structure 6, 1255–1265
+1245–1254
+34. suzuki, k., kirisako, t., kamada, y., mizushima, n., noda, t., and
+ohsumi, y. (2001) embo j. 20, 5971–5981
+21. goddard, t. d., and kneller, d. g., sparky 3, university of california,
+35. delano, w. l. (2002) the pymol molecular graphics system, delano
+san francisco ca
+scientific llc, palo alto, ca
+march 16, 2007 • volume 282 • number 11
+journal of biological chemistry 8043

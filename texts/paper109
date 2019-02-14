@@ -1,0 +1,902 @@
+cell death and differentiation (2007) 14, 500–510
+& 2007 nature publishing group all rights reserved 1350-9047/07 $30.00
+www.nature.com/cdd
+autophagy delays apoptotic death in breast cancer
+cells following dna damage
+mj abedin1, d wang2, ma mcdonnell1, u lehmann3 and a kelekar*,1,4
+early signaling in camptothecin-treated mcf-7 cells followed an intrinsic pathway, but death was delayed and late events
+exhibited few hallmarks of apoptosis. bh3-only proteins, such as noxa, puma and bimel, were activated and localized to
+mitochondrial sites within 24 h following drug exposure. however, caspase activity was low and death was unaffected by
+caspase inhibition. transmission electron micrographs showed the presence of large vacuoles in drug-treated cells. an
+autophagic survival response has been attributed to mcf-7 cells following nutrient starvation or exposure to tamoxifen. here, we
+show that autophagy also plays an important role in the delayed dna damage response. confocal microscopy revealed
+colocalization of mitochondria with large autophagic vacuoles and inhibitors of autophagy increased mitochondrial
+depolarization and caspase-9 activity, and accelerated cell death. furthermore, downregulation of autophagy proteins, beclin
+1 and atg7, unmasked a caspase-dependent, apoptotic response to dna damage. we propose that a post-mitochondrial caspase
+cascade is delayed as a result of early disposal of damaged mitochondria within autophagosomes. our data also suggest that the
+use of autophagy as a means of delaying apoptosis or prolonging survival may be characteristic of noninvasive breast tumor
+cells. these studies underscore a potential role for autophagy inhibitors in combination with conventional chemotherapeutic
+drugs in early breast cancer therapy.
+cell death and differentiation (2007) 14, 500–510. doi:10.1038/sj.cdd.4402039; published online 22 september 2006
+a variety of stimuli, including growth factor deprivation, uv
+or gamma radiation and dna-damaging agents activate an
+intrinsic pathway of apoptosis involving the release of
+cytochrome c (cyt c) and other mitochondrial apoptogenic
+factors.1 this release promotes the assembly of a large
+cytoplasmic complex called the ‘apoptosome’ and induces
+caspase-9 to initiate an apoptotic caspase cascade beginning
+with the activation of effector caspase-3 and culminating in the
+the cell.2 the term ‘apoptosis’ has been used
+death of
+synonymously with programmed cell death (pcd), but it has
+become evident in recent years that alternative, nonapoptotic
+forms of cell suicide are also ‘programmed’. apoptosis, an
+atp dependent process characterized by cell shrinkage,
+activation of caspases and dna fragmentation, corresponds
+to type i pcd, while autophagic cell death is classiﬁed as
+type ii pcd.3 during autophagy, the cell encapsulates bulk
+cytoplasm and whole organelles in double-membrane-bound
+vacuoles or autophagosomes, degrading and recycling the
+contents by metabolic catabolism.4
+bcl-2 protein family proteins are strategic regulators of
+the intrinsic pathway exerting their inﬂuence on the outer
+mitochondrial membrane.5 the proapoptotic bh3-only pro-
+teins of the bcl-2 family are components of signal transduction
+pathways that convey the ‘death’ message to mitochondria.
+these proteins can be activated in response to a variety of
+death stimuli, including dna-damaging compounds.6,7 drugs
+such as camptothecin (cpt) and etoposide, typically activate
+the mitochondrial pathway by upregulating p53 expression.
+apoptosis mediated by p53 involves both transcriptional
+activation of a number of targets, including bcl-2 family genes
+encoding puma, noxa, bim, bid and bax, as well as protein–
+protein interactions with bcl-2 family members at mitochon-
+drial sites.6,8,9
+we were interested in identifying intermediates involved in
+transducing proapoptotic signals following dna damage in
+breast cancer cells using the mcf-7 cell line as a model. mcf-
+7 cells do not express caspase-3 and, although the cells die in
+response to a variety of apoptotic stimuli such as uv radiation,
+paclitaxel, tamoxifen and etoposide, studies have reported
+little detectable processing or activation of initiator caspase-9
+during the process.10,11 the observation that cpt-treated
+mcf-7 cells exhibit a delayed death response with few
+phenotypic features of apoptosis prompted further investiga-
+tion into the underlying mechanisms.
+results
+mcf-7 cells mount a delayed death response to cpt that
+is caspase-independent. mcf-7 cells exposed to 2 mm
+1department of laboratory medicine and pathology, university of minnesota, minneapolis, mn, usa; 2department of pediatric oncology, johns hopkins university,
+baltimore, md, usa; 3department of ophthalmology, university of minnesota, minneapolis, mn, usa and 4cancer center, university of minnesota, minneapolis, mn,
+usa
+*corresponding author: a kelekar, department of laboratory medicine and pathology, university of minnesota, 312 church street se, 7-122 nils hasselmo hall,
+minneapolis, mn 55455, usa. tel: þ 1-612-625-3204; fax: þ 1-612-625-1121; e-mail: ameeta@umn.edu
+keywords: apoptosis; breast cancer; autophagy; tumor progression; dna damage
+abbreviations: cpt, camptothecin; cyt c, cytochrome c; ann v, annexin v; pi, propidium iodide; tmre, tetramethylrhodamine ethyl ester, perchlorate; dapi, 40-6-
+diamidino-2-phenylindole; map-lc3, microtubule-associated protein 1, light chain 3; mdc, monodansyl cadaverine; 3-ma, 3-methyl adenine; lamp-1, lysosomal-
+associated membrane protein 1
+received 18.1.06; revised 27.6.06; accepted 07.8.06; edited by e baehrecke; published online 22.9.06
+dna damage and autophagy in breast cancer cells
+mj abedin et al
+501
+cpt were analyzed for viability at 24 h intervals by ﬂow
+cytometry. annexin v (ann v) single positive, propidium
+iodide (pi) single positive, and double-positive populations
+were collectively counted as ‘dead’, whereas double-negative
+cells were considered ‘viable’. cells exhibited a lag period
+lasting over 24 h in their response to cpt, with signiﬁcant
+decrease in viability in 48 h, represented by a strong single-
+positive pi component indicative of necrosis. the release
+of mitochondrial cyt c within 24 h of exposure to cpt
+(figure 1b), however, suggested that dying cells were
+engaging the intrinsic pathway. confocal microscopy of
+mitotracker red-labeled cells (figure 1c) show a distinct
+change in mitochondrial morphology over 48 h of cpt
+exposure from an evenly distributed punctate pattern to one
+of aggregates in the cytosol. other hallmarks of apoptosis,
+however, such as blebbing, discrete dna fragmentation (not
+shown) or caspase activation, were absent. the broad-
+spectrum caspase inhibitor, z-vad-fmk, did not inhibit cpt-
+induced death and, in fact, modestly accelerated the death
+response (figure 1d). the western blot
+in figure 1e
+suggests that activation of initiator caspases 8 and 9 and
+effector caspases 6 and 7 as determined by cleavage of their
+zymogen forms (mcf-7 cells do not express caspase-3), was
+low to undetectable 48 h following cpt exposure.
+figure 1 cell death induced by cpt in the mcf-7 breast cancer cell line is largely caspase-independent. (a) cells were incubated with 2 mm cpt for the indicated time.
+cell death was quantiﬁed using ﬂow cytometry as described in materials and methods. results (mean7s.e.) represent the average of three or more experiments. (b)
+mitochondrial (top panel) and cytosolic (lower panel) fractions from control and 24 h cpt-treated mcf-7 cells were immunoblotted with cyt c, cox iv and actin antibodies. (c)
+confocal images of control mcf-7 cells (a) and cells treated with cpt for 24 h (b) and 48 h (c) showing mitochondria labeled with the ﬂuorescent dye mitotracker red observed
+at 60 magniﬁcation using a bio-rad mrc 1024 single photon confocal microscope. (d) cells were incubated with 2 mm cpt in the presence or absence of 25 mm z-vad-
+fmk for the indicated time. viability was determined by ﬂow cytometric analysis of ann v and pi uptake. results (mean7s.e.) represent the average of three experiments. (e)
+lysates from control and 48 h cpt-treated mcf-7 cells were resolved by sds-page and sequentially immunoblotted with antibodies against caspase-9, -8, -7, and -6,
+followed by gapdh to control for loading
+cell death and differentiation
+502
+dna damage and autophagy in breast cancer cells
+mj abedin et al
+a small subset of bh3-only transcripts is upregulated in
+mcf-7 cells following treatment with cpt. the release of
+mitochondrial cyt c pointed to an intrinsic death pathway.
+therefore, the inability of these cells to activate a robust
+caspase cascade was intriguing. to further investigate this
+dna damage response, we examined early signaling events.
+first, we determined whether bh3-only proteins of the bcl-2
+family were transcriptionally activated by carrying out rnase
+protection assays (rpas) on total rna isolated from cells
+exposed to 2 mm cpt using multiprobe bh3-only rpa
+templates.12 figure 2a shows representative rpas, and
+figure 2b shows quantitative analyses of
+the observed
+changes in mrna expression of some of the proapoptotic
+bh3-only members. cpt treatment resulted in the induction
+of at least ﬁve different bh3-only transcripts. transcripts
+encoding puma, the three isoforms of bim (bimel, biml and
+bims), bik, bid and noxa (not shown) were upregulated;
+anti-apoptotic mcl-1l also increased gradually whereas mcl-
+1s levels remained constant. among the transcripts included
+in probe set 2, only map-1 rna showed any increase
+whereas expression of bnip3, bmf, rad9, bcl-xl bcl-xs, bad
+and bcl-gl remained constant.
+bcl-2 family protein and p53 expression during the cpt
+response. western blots of whole cell
+lysates from cpt-
+treated cells (figure 3a) conﬁrmed the early induction of
+bh3-only proteins, puma and noxa. bim el was processed
+to a shorter form due most
+likely to dephosphorylation.
+phosphorylation of bimel by erk1/2 is known to
+dramatically reduce its ability to bind bax and prime it for
+proteasomal degradation.13 thus bimel appears to be
+regulated both transcriptionally and posttranslationally in
+response to dna damage. bims was undetectable and biml
+expression was unchanged (not shown). the expression of
+the other bh3-only proteins showing rna induction, bid, bik
+and map-1, as well as that of the multi-domain antiapoptotic
+and proapoptotic bcl-2 family members, bcl-2, bcl-xl, bak
+and bax, remained constant over this time period (figure 3a,
+and not shown). it should be noted that the bax antibody
+used in this experiment recognizes both the inactive and
+figure 2 modulation of proapoptotic bh3-only member transcripts by cpt in mcf-7 cells. cells were incubated with cpt for 6, 9, 12, 24, and 48 h before extraction and
+quantiﬁcation of total rna and protein. (a) representative autoradiograph of an rpa gel from one of three experiments performed as described (10 mg total rna, per time
+point) in materials and methods. rpas using multiprobe sets 1 and 2 are shown in the left and right panels, respectively. labeled multiprobes are in the left-most lane of each
+panel, and the identities of the probes and protected double-stranded rnas are marked on the right of each autoradiograph. the protected fragments are shorter than the
+probes because of the nature of the assay system. an internal loading control template, gapdh, was included with each template set. (b) quantiﬁcation of rna levels from
+three rpa analyses. the optical density of each band was normalized relative to the optical density of gapdh by the following equation: optical density of the mrna band/
+optical density of the gapdh band 100 and relative rna levels expressed as arbitrary units. bars represent the mean (7s.e.) normalized optical densities of mrna bands
+(p-value relative to control)
+cell death and differentiation
+dna damage and autophagy in breast cancer cells
+mj abedin et al
+503
+figure 3 expression of p53 and selected bcl-2 family members in cpt-treated mcf-7 cell lysates and mitochondria. (a) western blots of whole-cell lysates (50 mg total
+protein) harvested at indicated times following cpt exposure. lysates were resolved on 14% (or 18%) tris-glycine sds-polyacrylamide gels and transferred to nitrocellulose.
+membranes were sequentially stripped and reprobed (except in the case of the noxa immunoblot, when an 18% gel was used to resolve the lysate). actin protein expression
+(bottom panel) was used as loading control. the actin control is not shown for the noxa western. (b) western blots of mitochondrial fractions from untreated and 24 h cpt-
+treated mcf-7 cells. mitochondrially enriched fractions (50 mg total protein) were resolved by sds-page and transferred to nitrocellulose. membranes were sequentially
+stripped and reprobed. cyt c release (top panel) is an indicator of apoptosis and cox iv expression (second panel) serves both as control for the fractionation procedure as
+well for loading. (c) mitochondrially enriched fractions from 24 h cpt-treated and control mcf-7 cells, were lysed in chaps lysis buffer. immunoprecipitation of active bax
+lysate (400 mg) was carried out with anti-bax 6a7 monoclonal antibody (bd pharmingen), immunoprecipitates were resolved by sds-page and
+from mitochondrial
+immunoblotted with anti-bax (n-20) polyclonal antibody followed, after stripping, by anti-p53 fl-393 antibody
+active forms of the protein. enriched mitochondrial fractions
+conﬁrmed cyt c release in 24 h cpt-treated mcf-7 cells and
+showed the accumulation of puma, noxa and processed
+bimel at
+the mitochondria (figure 3b). a proapoptotic
+function for mitochondrially localized p53, independent of
+its transcriptional activator function, has been described.14,15
+at the mitochondria, p53 can interact with bcl-xl as well as
+bax; the disruption of a p53/bcl-xl interaction by bh3-only
+protein, puma, allows p53 to interact with bax and promote
+cyt c release. figure 3c shows that bax is immuno-
+precipitable only from 24 h cpt-treated mitochondrial
+fractions with the 6a7 monoclonal antibody that recognizes
+the active form of the protein (top panel), and that active
+bax interacts with the induced p53 protein in this fraction
+(bottom panel).
+the induction of p53,
+transcriptional and translational
+modulation of selected bh3-only proteins, translocation of
+p53 to mitochondrial sites, and loss of mitochondrial cyt c were
+indicative of a prototypical
+intrinsic response predicted to
+activate a robust apoptotic caspase cascade initiated by the
+capase-9 protein. however, data showed instead that cells
+were dying by a mechanism that was largely caspase
+independent for at least 48 h (figure 1). other groups have
+noted the lack of an active caspase-9 component in the death
+response of mcf-7 cells exposed to chemotherapeutic drugs,
+such as paclitaxel and tamoxifen, and to uv and gamma
+radiation.10,11
+despite
+evidence
+substantial
+cpt induces autophagy in mcf-7 cells. the lack of clear
+apoptotic markers
+for
+mitochondrial perturbations in mcf-7 cells following cpt
+exposure was puzzling. transmission electron microscopy
+indicated little overt blebbing but revealed the presence of
+large vacuoles in a number of
+the cpt-treated cells,
+suggesting the activation of an autophagic response
+(figure 4a). interesting functional links have been revealed
+between apoptosis and autophagy. for instance, low levels
+vacuolar
+ﬂuorescent
+permeabilization
+of mitochondrial membrane
+and
+depolarization can trigger sequestration and autophagy of
+damaged mitochondria.16,17 recent studies have shown that
+tamoxifen and nutrient starvation activate autophagy in mcf-
+7 cells.11,18,19 to conﬁrm the presence of autophagosomes,
+control and cpt-exposed mcf-7 cells were double-labeled
+with the mitochondria-selective mitotracker green (mtg) dye
+and with monodansyl cadaverine (mdc), an auto-ﬂuorescent
+and selective marker for autophagic vacuoles.19,20 figure 4b
+shows aggregated mitochondria labeled with mtg (on left)
+and
+staining with mdc
+accumulation (center) in cpt-treated cells. the overlay on
+the right shows colocalization of a large number of
+the
+mitochondria with the autophagic vacuoles. similarly, gfp-
+tagged lc321 expressing mcf-7 cells shows that the diffuse
+gfp ﬂuorescence in control mcf-7-gfp-lc3 cells changes
+to bright green vacuolar ﬂuorescence often overlapping
+with using mitotracker red staining following exposure to
+cpt (figure 4c). the microtubule-associated protein 1, light
+chain 3 (map-lc3) protein is cytoplasmically localized, but
+is post-translationally cleaved and lipidated and localized
+autophagy.21
+exclusively
+quantitative analyses of colocalization by either approach
+showed that 45–55% of aggregated mitochondria were
+associated with autophagosomes within 24 h. figure 4d
+shows representative ﬁelds of 40-6-diamidino-2-phenylindole
+(dapi)-stained gfp-lc3-expressing
+in
+punctate gfp ﬂuorescence
+quantifying cpt-induced
+(figure 4e).
+autophagosomes
+cells
+used
+red
+to
+during
+autophagy in mammalian cells as well as yeast is sensitive
+to inhibition of pi3 kinase activity. autophagosome precursors
+are not generated in cells treated with pi3-kinase inhibitors,
+such as 3-methyl adenine (3-ma) and wortmannin.22 to
+further determine whether autophagy was contributing to the
+cpt response, cells were treated with inhibitors of autophagy
+in the presence of the drug. mcf-7 cells were incubated with
+either wortmannin, baﬁlomycin a1 or 3-ma, 4–6 h before
+cell death and differentiation
+504
+dna damage and autophagy in breast cancer cells
+mj abedin et al
+figure 4 cpt induces autophagy in mcf-7 cells. (a) mcf-7 cells treated with either dmso or cpt (2 mm) for 30 h were harvested, ﬁxed in 2.5% glutaraldehyde and
+postﬁxed in 1% osmium tetroxide. ultramicrotome sections were poststained and imaged on a jeol 1200 ex transmission electron microscope at 80 kv. (b) control (not
+shown) and 24 h cpt-treated mcf-7 cells were double labeled with 20 nm mtg (left) and 100 mm mdc (center) and observed under a bio-rad mrc 1024 single photon
+confocal microscope at 100 magniﬁcation. overlay is shown on right. (c) gfp-lc3-expressing mcf-7 cells were treated with dmso or 2 mm cpt for 24 h, labeled with
+mitotracker red and observed using a confocal microscope. top panels – dmso-treated mcf-7-gfp-lc3 cells, bottom panels – 24 h cpt-treated mcf-7-gfp-lc3 cells (a
+and d, mitotracker red; b and e, gfp; c and f, merged). (d and e) mcf-7 cells expressing gfp-lc3 were treated with dmso or cpt for 24 h, ﬁxed and mounted with dapi-
+containing mounting medium and observed under a zeiss ﬂuorescence microscope (d). the increase in punctate green ﬂuorescence, indicative of autophagy, was quantiﬁed
+using the ‘analyze particles’ command in the image j software (e)
+harvesting to minimize additional effects on signaling path-
+ways unrelated to the cpt response. all three compounds
+caused a 5–10% (statistically signiﬁcant) increase in the dying
+population of cpt-treated cells (figure 5a). we also
+determined the effect of autophagy inhibition on uptake of
+the mitochondrial membrane potential (dpsim)-sensitive dye
+and lipophilic cation, tetramethylrhodamine ethyl ester, per-
+chlorate (tmre), following cpt treatment in the presence
+and absence of autophagy inhibitors. a few hours of
+incubation with 3-ma resulted in a 10% increase in the
+proportion of depolarized mitochondria in cpt-treated cells
+(figure 5b). similar observations were made with wortmannin
+and baﬁlomycin a1 (not shown). caspase-9 activity, as
+determined using a colorimetric substrate cleavage assay,
+also increased in 48 h cpt-treated cells that were exposed to
+3-ma, although this difference was less discernible at the 24 h
+time point (figure 5c).
+these data suggested that autophagy inhibition was
+unmasking or accelerating the apoptotic component of the
+cpt response in the mcf-7 cells. to further validate our
+observations, we exposed cells knocked down for beclin 1
+expression, to dna-damaging drugs.
+loss of expression of autophagy proteins unmasks a
+caspase-dependent apoptotic pathway in dna-damaged
+mcf-7 cells. beclin 1, the mammalian ortholog of apg6, is a
+component of the class iii pi3-kinase complex involved in
+cell death and differentiation
+proteins
+upon
+of
+long-lived
+autophagic vesicle formation. beclin 1 overexpression
+increases the number of autophagic vacuoles and the
+degradation
+amino-acid
+deprivation in mcf-7 cells.23 this protein is also known to
+interact with the antiapoptotic protein, bcl-2.24,25 it may be
+noted here that although some groups have referred to mcf-
+7 as beclin 1-negative cells, we have consistently detected
+the expression of endogenous beclin 1 in mcf-7 western
+blots using the sensitive super signal west femto kit (pierce
+biotech). we did not observe increased beclin 1 expression
+in cpt-exposed cells, although levels of the protein were
+reduced in 24 h treated mitochondria suggesting degradation
+or intracellular translocation (not shown). to determine the
+effect of beclin 1 loss on the dna damage response, its
+expression in mcf-7 cells was downregulated using small
+hairpin (sh) rna constructs. figure 6a shows a western blot
+isolates with 480% loss in beclin 1
+with three clonal
+expression. beclin 1low cells expressing gfp-lc3 showed
+highly reduced punctate green ﬂuorescence compared to
+controls (supplementary figure 1). next, we determined
+the response of the beclin 1low cell lines to dna damage.
+figure 6b shows representative dot plots of pi and ann v
+uptake by mcf-7 clone 4 (on the right) and parental mcf-7
+cells (on the left) treated with dimethylsulfoxide (dmso),
+cpt or etoposide, a dna-damaging drug that acts by
+inhibiting topoisomerase ii.26 beclin 1 downregulation
+substantially increased the number of apoptotic (ann v
+dna damage and autophagy in breast cancer cells
+mj abedin et al
+505
+figure 5 inhibitors of autophagy accelerate cpt-induced apoptotic cell death in mcf-7 cells. (a) cells from exponentially growing and cpt-treated cultures were collected
+at the times indicated. inhibitors of autophagy, wortmannin (10 mm), baﬁlomycin a1 (200 nm) and 3-ma (10 mm) were added to the culture medium 5 h before harvesting. cell
+survival was measured by ﬂow cytometric analysis of cells stained with ﬂuorescein-labeled ann v and pi. statistical comparisons of mean values were carried out using
+student’s t-test; p-values p0.05 were considered to be statistically signiﬁcant. (b) mitochondrial depolarization following 24 h cpt exposure in the presence or absence of
+10 mm 3-ma. mcf-7 cells were incubated with the dpsim-sensitive mitochondrial dye, tmre (40 nm) for 15 min before harvesting. proﬁle of unstained, untreated control
+(black outline) is included with each histogram. (c) cells were treated with 2 mm cpt in the presence or absence of 3-ma (10 mm) and harvested at the time indicated.
+caspase-9 activity levels in cell lysates were determined in triplicate in a colorimetric cleavage assay using lehd-pna as substrate
+positive) cells in response to both cpt and etoposide (similar
+results were obtained with other beclin 1low clones). the
+apoptotic nature of the response further conﬁrmed by its
+sensitivity to caspase inhibition (figure 6c) and a 3–4-fold
+the beclin 1low cells to cleave
+increase in the ability of
+the caspase-9 substrate, lehd-pna, within 24 h of cpt
+exposure (figure 6d). to conﬁrm that the observed effect
+of beclin 1 was not
+independent of autophagy atg7, a
+protein involved in the ubiquitination of map-lc3,27,28 was
+also downregulated in mcf-7 cells, and shown to activate
+an apoptotic component following cpt exposure (figure 7a
+and b).
+the results suggest
+autophagy delays apoptosis in noninvasive breast
+cancers. taken together,
+that cpt
+activated an intrinsic pathway and early mitochondrial
+damage, while simultaneously triggering an autophagic
+response in the cells that prolonged their survival. we were
+interested in determining whether autophagy inhibition
+regulated the dna damage response in diverse breast
+epithelial cells and cancer
+lines. a small selection of
+commercially available immortalized and tumorigenic breast
+the t47d cell
+cells
+epithelial
+cell
+epithelial cell lines were treated with cpt, in the presence
+and absence of autophagy inhibitors. the estrogen receptor
+positive (erpos), mcf-7 breast cancer cells, although
+derived from a pleural effusion, are noninvasive cells in
+mouse models.29 we also determined the response to cpt
+exposure and autophagy inhibition of
+line
+which, like mcf-7, is erpos, tumorigenic, but noninvasive,
+primary
+human mammary
+(hmecs),
+line mcf-10a (not
+immortalized nontumorigenic
+shown), and three metastatic, erneg cell
+lines, bt-549,
+mda-mb-231 and mda-mb-435 (representative data are
+shown in figure 8). cpt triggered rapid cell death in hmecs
+and microscopic examination of the dying hmecs revealed
+blebbing and apoptotic body formation characteristic of
+apoptotic cells (not shown). the rate of cell death was
+further enhanced in the presence of autophagy inhibitors,
+3-ma (figure 8) and baﬁlomycin a1 (not shown), indicating
+that cpt treatment activated both an apoptotic response as
+well as an adaptive, autophagic response in normal breast
+epithelial cells. the t47d cells were more resistant to cpt
+but,
+like mcf-7 cells, died an accelerated death when
+autophagy was inhibited during cpt exposure. the
+cell death and differentiation
+506
+dna damage and autophagy in breast cancer cells
+mj abedin et al
+figure 6 downregulation of autophagy protein beclin 1 activates apoptotic pathways in mcf-7 cells following dna damage. (a) mcf-7 cells were transfected with a beclin
+1 shrna plasmid using the pgspu6 expression vector and a lipofectamine transfection protocol. the ﬁgure shows western blots of mcf-7 control cells and three clonal
+isolates from the transfected populations, probed with antibodies against beclin 1 (top panel), stripped and reprobed for actin expression (bottom panel). (b) dot plots of ann v
+(fl1 channel) and pi (fl2 channel) uptake of control mcf-7 and beclin 1low clone 4 cells exposed to dmso (top) or dna-damaging agents, cpt (center) and etoposide
+(bottom) for 24 h. (c) cells were incubated with 2 mm cpt in the presence or absence of 25 mm z-vad-fmk for 24 h. viability was determined by ﬂow cytometric analysis of ann
+v and pi uptake. results (mean7s.e.) represent the average of three data points. (d) graph showing caspase-9 activity in mcf-7 transfectants, beclin 1scr and beclin 1low
+(clone 4) following exposure to cpt, as determined by colorimetric substrate (lehd-pna) cleavage assays. results expressed as arbitrary units per microgram protein
+(mean7s.e.) represent the average of three data points
+lines bt-549, mda-mb-231
+metastatic breast cancer cell
+to
+and mda-mb-435, on the other hand, were resistant
+concentrations of cpt that killed the hmec, mcf-7 and
+t47d lines, either in the presence or absence of autophagy
+inhibitors. the inability of invasive breast cancer cell lines to
+activate apoptosis in response to both dna damage and
+autophagy inhibition suggests that the autophagic survival
+response may either be independent of apoptosis or
+irrelevant
+in cells that have acquired resistance to
+genotoxic stress stimuli. the delayed apoptosis in the
+noninvasive tumor cells could stem from a defective
+apoptotic pathway, contributed to by aberrant expression of
+an intermediate such as caspase-3,
+further aided by a
+‘defective’ autophagic pathway, resulting, for instance, from
+constitutive expression of low levels of the beclin 1 protein. in
+fact, constitutive beclin 1 expression may be an early factor,
+though not the only factor, contributing to the maintenance
+of the malignant phenotype and helping to promote tumor
+progression (supplementary figure 2). cells treated with
+either cpt or
+and
+the tor inhibitor
+rapamycin,
+for
+immunostained for lysosomal-associated membrane protein
+1 (lamp-1), a marker
+lysosomes associated with
+intermediate and late autophagy,30 suggested that
+the
+autophagic response was intact in all three invasive cell
+lines (figure 8b and c). these observations suggest that
+autophagy as an adaptive early response to genotoxic stress
+enhances survival by retarding the rate of apoptosis in
+primary or immortalized breast cells and noninvasive breast
+cancer cells.
+discussion
+we have investigated the mechanisms underlying the delayed
+death response of the mcf-7 breast cancer line to the drug,
+cpt. consistent with published studies, induction of a number
+of bh3-only transcripts and proteins, including puma and
+noxa, was preceded by an increase in the expression of p53,
+and the induced bh3 proteins localized to mitochondria within
+24 h of drug exposure. the bimel isoform was converted to a
+shorter protein indicative of dephosphorylation, a modiﬁcation
+cell death and differentiation
+dna damage and autophagy in breast cancer cells
+mj abedin et al
+507
+activity and possible defects in apoptosome formation/
+caspase-9 activation, although studies have shown that
+restoration of caspase-3 expression only partially restores
+apoptosis in these cells.11 furthermore, breast cancers
+expressing normal caspase-3, such as t47d, also mount an
+autophagic response to a variety of therapeutics, including
+dna-damaging agents (figure 8 and mooney et al.33).
+we provide further evidence that
+inhibiting autophagy
+stimulates apoptotic pathways in dna-damaged mcf-7 cells
+by eliminating the expression of beclin 1 and atg7 proteins.
+atg7 is an e1-like enzyme involved in the ubiquitination of
+map-lc3 early in the pathway,21 whereas beclin 1 controls
+autophagosome formation by entering into a complex with
+class iii pi3 kinase.23,34,35 pattingre et al.36 have demon-
+strated that the release of beclin 1 from a complex with er
+localized bcl-2 underlies the nutrient starvation response in
+mcf-7 cells. our studies show that beclin 1 expression is also
+necessary for suppression of the apoptotic response to dna
+damage in mcf-7 cells. beclin 1 is monoallelically deleted
+in 40–75% of sporadic human breast cancers, and protein
+expression is consistently reduced in breast tumors that have
+lost one allele.34 our studies show that further downregulation
+or total loss of beclin 1 expression essentially abrogates the
+autophagic ‘survival’ response to dna damage, allowing cells
+to die by apoptosis. similarly, knockdown of atg7 increased
+apoptosis in response to cpt, although the response was
+weaker than that observed in beclin 1low cells.
+a number of treatments used against breast and ovarian
+cancers, including tamoxifen, rapamycin and radiation, have
+been shown to activate autophagy at low doses.18,37,38 this
+study is the ﬁrst demonstration that dna-damaging chemo-
+therapeutic drugs, cpt and etoposide, activate an autophagic
+stress response in the mcf-7 breast cancer cells. this
+work also shows that knock down of proteins, such as beclin
+1, critical for autophagosome formation, can expose a latent
+apoptotic pathway in these cells. studies showing that stable
+overexpression of beclin 1 reduces the malignant phenotype
+and ability for anchorage-independent growth in mcf-7
+cells,23 have led to the suggestion that autophagy is a
+tumor-suppressing event and beclin 1, a tumor suppressor.
+although a fully activated autophagic response may be tumor
+suppressing, we would argue that autophagy resulting from
+low, but constitutive, beclin 1 protein expression serves a
+survival
+function by blocking the onset of an apoptotic
+cascade during periods of stress. implications of monoallelic
+deletion of the beclin 1 gene notwithstanding, it is highly
+signiﬁcant that the protein shows constitutive steady-state
+expression in all the breast cancer cell lines examined, but not
+in primary hmecs (supplementary figure 2) or in immorta-
+lized mcf-10a cells (not shown). basal expression of beclin 1
+may allow for a faster autophagic response to stress stimuli,
+further contributing to the suppression of apoptosis. this may
+be particularly evident
+if cells harbor defective apoptotic
+machinery that results in a muted apoptotic response, as in
+the case of the mcf-7 cells.
+a number of provocative questions are raised by this study.
+for instance, is there a common critical initiating event in the
+dna damage response for both pcd i and ii in breast cancer
+cells, or are the two pathways mutually exclusive? what is the
+trigger for autophagy initiation in invasive breast cancer cells,
+cell death and differentiation
+figure 7 downregulation of autophagy protein atg7 activates apoptosis in
+cpt-treated mcf-7 cells. (a) mcf-7 cells were transfected with an atg7 shrna or
+control (scrambled) rna plasmid using the pgspu6 expression vector and a
+lipofectamine transfection protocol. figure shows western blots of mcf-7 control
+(untransfected and scrambled rna-transfected) cells and one pooled and two
+clonal
+isolates from the atg7 shrna-transfected populations, probed with
+antibodies against atg7 (top panel), stripped and reprobed for actin expression
+(bottom panel). (b) control and atg7 shrna cell lines were incubated with either
+dmso or cpt (2 mm) for 24 h. viability was determined by ﬂow cytometric analysis
+of ann v and pi uptake
+previously shown to reduce its ability to bind bax and prepare
+it for proteasomal degradation.31,32 the presence of mito-
+chondrially localized active bax associated with p53, and
+ﬁnally cyt c release, all predicted an impending apoptotic
+caspase cascade. despite early events indicative of a
+classical intrinsic apoptotic pathway, however, the proportion
+of ann v-positive cells was low, death was largely caspase-
+independent and the characteristic dna fragmentation
+observed in apoptotic cells was absent (not shown). trans-
+mission electron microscopy and confocal microscopy re-
+vealed the presence of large vacuoles often colocalizing with
+mitochondria, suggesting the activation of autophagic me-
+chanisms. furthermore, exposure to autophagy inhibitors
+such as baﬁlomycin a1 and 3-ma caused a small, but
+statistically signiﬁcant, enhancement of both apoptosis and
+caspase-9 activity in the cpt-treated cell population.
+although sustained autophagy contributes to cell death, this
+pathway may be an early attempt to establish homeostasis.
+mitochondrial membrane permeabilization and cyt c release
+below the threshold required for apoptosis can promote
+sequestration and turnover of the damaged mitochondria in
+degradative vacuoles or autophagosomes. such a ‘check-
+point’ may serve as an effective survival strategy for the cells,
+providing an immediate source of metabolic energy in the form
+of atp from the damaged mitochondria. the overt pcd ii
+response in mcf-7 cells may be due to lack of caspase-3
+508
+dna damage and autophagy in breast cancer cells
+mj abedin et al
+figure 8 cpt-treated primary and noninvasive, but not metastatic, breast cell lines show enhanced apoptosis in response to autophagy inhibition. (a) the breast cell lines
+hmec, mcf-7, t47d, bt-549, mda-mb-231 and mda-mb-435, treated with dmso or cpt for 24 h, were incubated in the presence or absence of 3-ma for 5 h before
+harvesting. cell viability was determined by facs analysis as described earlier. results (mean7s.e.) represent the average of at least three data points. (b) breast cancer
+cells mount autophagic responses to both cpt and rapamycin. cells were grown to 30–50% conﬂuence on chamber slides and treated with dmso or 2 mm cpt for 24 h, or
+20 nm rapamycin for 36 h, ﬁxed, permeabilized and immunolabeled with polyclonal anti-lamp-1 primary antibody, followed by alexa 488-tagged secondary antibody. fixed
+and labeled cells were mounted in vectastain containing dapi and visualized using a bio-rad mrc 1024 multi-photon confocal microscope. data were quantiﬁed (c) using
+the ‘analyze particles’ command in image j software. 231 – mda-mb-231, 435 – mda-mb-435
+particularly those with high basal levels of autophagy, such as
+the mda-mb-231 cells (figure 8b and c)? our observations
+indicate that autophagy inhibition does not activate latent
+apoptotic pathways in the three invasive cell lines examined,
+and it is tempting to suggest that (dna damaging) stimuli,
+which activate autophagy as an adaptive response in breast
+cancers cells, eventually select
+for cells with a survival
+advantage thus promoting tumor progression. the selection
+process could result from the accumulation of compensatory
+dna mutations by the exposed cell as it survives by ‘self-
+eating’
+in the face of damaged or poorly repaired dna.
+studies aimed at determining whether controlled exposure of
+breast epithelial and noninvasive breast cancer cells to dna
+damage promotes tumor progression and drug-resistance via
+activation or maintenance of an increasingly overt autophagic
+phase are currently underway.
+materials and methods
+cell lines, chemicals and antibodies. mcf-7 breast cancer cells were
+grown in minimal essential medium (mem) with 10% fetal calf serum (fcs), 2 mm
+l-glutamine, non-essential amino acids, 1 mm sodium pyruvate, 100 units/ml
+penicillin and 100 mg/ml streptomycin, bt549 cells were grown in rpmi 1640 with
+10% fcs, 2 mm l-glutamine, 0.15 mg/ml insulin, 100 units/ml penicillin and 100 mg/
+ml streptomycin. t47d cells were cultured in mem with 5% fcs, non-essential
+amino acids, 2 mm l-glutamine, 0.15 mg/ml human insulin, 100 units/ml penicillin
+and 100 mg/ml streptomycin. mda-mb-231 and ma-mb-435 lines were maintained
+in dmem with 10% fcs, 11.25 nm human insulin, 100 units/ml penicillin and
+100 mg/ml streptomycin. primary hmecs were cultured in mammary epithelial basal
+medium(clonetics), supplemented with growth factors, cytokines and supplements
+according to the manufacturer’s instructions. the cells were maintained in a
+humidiﬁed atmosphere of 5% co2 at 371c.
+baﬁlomycin a1, 3-methyl adenine and rapamycin were purchased from sigma
+(st. louis, mo, usa). mitotracker red, mitotracker green, tmre and mdc were
+obtained from molecular probes, inc. (eugene, or, usa). cpt was from biovision
+inc. (palo alto, ca, usa) and wortmannin was from emd biosciences (la jolla, ca,
+usa). antibodies were obtained or purchased from the following sources/suppliers:
+mouse monoclonal anti-actin antibody from oncogene (san diego, ca, usa); rabbit
+polyclonal anti-human bak, nt from upstate biotechnology (lake placid, ny, usa);
+rabbit polyclonal anti-bax (n-20), rabbit polyclonal p53 (pab 1801) and mouse
+monoclonal anti-p53 (do-1) antibodies from santa cruz biotechnology (santa
+cruz, ca, usa); mouse monoclonal anti-bax, bcl-2 and rabbit polyclonal anti-beclin
+1 from bd pharmingen (san diego, ca, usa); rabbit polyclonal anti-human bid
+from cell signaling (beverly, ma, usa); rabbit polyclonal anti-human bim el/l from
+stressgen (british columbia, canada); cytochrome oxidase subunit iv (cox iv)
+mouse monoclonal antibody from molecular probes (eugene, or, usa); rabbit
+polyclonal anti-human puma from abcam (cambridge, ma, usa); mouse
+monoclonal anti human-noxa from imgenex (san diego, ca, usa); rabbit
+polyclonal atg7 antibody from prosci inc. (poway, ca, usa) and anti-lamp-1
+antibody from afﬁnity bioreagents (golden, co, usa). the monoclonal anti-cyt c
+antibody was a generous gift from ron jemmerson (university of minnesota) and
+rabbit polyclonal anti-bcl-xl (13.6) has been described previously.39 the gfp-lc3
+plasmid was a kind gift from drs. t yoshimori (national institute of genetics,
+shizuoka-ken, japan) and n mizushima (the tokyo metropolitan institute of
+medical science, japan).
+induction of apoptosis and apoptosis assays. mcf-7 cells were
+allowed to reach p80% conﬂuency in fresh medium before treatment.
+cell death and differentiation
+exponentially growing cells were exposed to 2 mm cpt for speciﬁc periods of time.
+for the apoptosis assays, which were carried out in triplicate, 0.5–1 106 cells from
+exponentially growing and cpt-treated cultures were collected at
+the times
+indicated. inhibitors of autophagy, such as wortmannin (10 mm), baﬁlomycin a1
+(200 nm) and 3-methyladenine (10 mm) were added to the culture medium 4–6 h
+before harvesting. adherent mcf-7 cells were detached from culture plates with
+accutase (innovative cell technologies, san diego, ca, usa) or trypsin-ethylene
+diaminetetra acetic acid (edta) and pelleted with predetached ﬂoaters. all cell
+cultures were washed in cold phosphate-buffered saline (pbs) and resuspended in
+ann v binding buffer. cell survival was measured by ﬂow cytometric analysis of cells
+stained with ﬂuorescein isothiocyanate-labeled ann v and pi and analyzed using
+cellquest pro software (bd biosciences, san jose, ca, usa). ann v single
+positive, pi single positive and double-positive populations were collectively counted
+as ‘dead’, whereas double-negative cells were considered viable. to label
+mitochondria, mcf-7 cells were incubated with 40 nm tmre or 75 nm mitotracker
+red at 371c and 5% co2 in culture medium for 15 min before harvesting for ﬂow
+cytometry, or ﬁxing in 3.7% paraformaldehyde for confocal microscopy,
+respectively.
+in vitro transcription and multiprobe ribonuclease protection
+assays. total rna was extracted from untreated cells or cells treated with cpt
+at the indicated periods of time using the rneasy midi kit (qiagen, valencia, ca,
+usa). two bh3-only multiple rpa template sets generated in our laboratory were
+used in the protection assays.12 probe set 1 included puma, bim, bnip3, bak, bik,
+mcl-1, bid and housekeeping gene gapdh as a loading control, and probe set 2
+included bax, bmf, map-1, rad9, bcl-x, bad, bcl-g, hrk and gapdh. multiple rpa
+was performed with the hybspeedt rpa kit according to the protocol previously
+outlined12 using [32p]-utp labeled antisense rna probes and 10 mg total cell rna.
+protected fragments in autoradiographs of dried exposed gels were quantiﬁed by
+densitometry using biorad gs-363 molecular imager and molecular analyst
+software. optical density values of bh3-only rna bands were normalized relative to
+gapdh bands and rna levels were expressed as arbitrary units (mean and
+standard deviations, n¼ 3). statistical comparisons of mean values were carried
+out using student’s t-test; p-values p0.05 were considered to be statistically
+signiﬁcant.
+lysates
+of whole-cell
+preparation
+and mitochondrial
+fractions. after treatment with 2 mm cpt for 0, 3, 6, 9, 12 and 24 h, mcf-7
+cells were pelleted by centrifugation and washed once with pbs. cells were then
+resuspended in ripa buffer (50 mm tris-hcl, ph 7.5, 150 mm nacl, 1% v/v nonidet
+p-40, 0.5% v/v sodium deoxycholate and 0.1% sds) supplemented with protease
+inhibitor cocktail (calbiochem) and lysed on ice for 5 min with intermittent vortexing.
+the lysates were centrifuged for 5 min at 10 600 g and supernatant was collected
+and used for further experiments. mitochondrial
+fractions were enriched from
+untreated exponentially growing mcf-7 cells or cells treated with cpt for 24 h. cells
+were dislodged with accutase, washed in cold pbs and resuspended in 1.0–1.5 ml
+of ice-cold mitochondria isolation buffer (250 mm sucrose, 10 mm tris-hcl, ph 7.4
+and 0.1 mm ethylene glycol-bis (b-aminoethyl ether)) containing a protease inhibitor
+cocktail. mitochondria were isolated either using the qproteomet mitochondria
+isolation kit (qiagen) or by a nitrogen cavitation technique. for the latter, cells were
+lysed by nitrogen cavitation (650 psi, 10 min), lysates were collected and centrifuged
+at 2500 r.p.m. for 3 min. supernatants were recentrifuged at 10 000 g for 10 min
+and pellets, representing the mitochondrial fractions, were resuspended in isolation
+buffer. mitochondrial
+integrity was conﬁrmed by western blotting using cox iv
+antibody.
+western blotting and immunoprecipitation. for western blotting,
+1 107 cells were lysed in 150 ml of ripa buffer (50 mm tris-hcl, ph 7.5, 150 mm
+nacl, 0.5% v/v sodium deoxycholate, 1% v/v nonidet p-40, 0.1% sds)
+supplemented with protease inhibitor cocktail (calbiochem). lysates (50–60 mg
+total protein) were electrophoretically separated by 14 or 18% sodium dodecyl
+sulfate-polyacrylamide gel electrophoresis (sds-page) and transferred to
+nitrocellulose membrane. membrane blocking, washing, primary and secondary
+antibody incubations and chemiluminescence reactions were carried out according
+to the amersham ecl protocol. antibody dilutions were carried out as per the data
+sheet provided by the manufacturer or as suggested by the provider’s laboratory.
+blots were stripped for reuse by washing for 30 min to 2 h in tbs-t buffer (ph 2.5–
+3.0) at room temperature. for immunoprecipitation, cell extracts were prepared in
+lysis buffer (100 mm nacl, 1 mm edta, 20 mm tris (ph 8.0), 0.1% igepal)
+dna damage and autophagy in breast cancer cells
+mj abedin et al
+509
+supplemented with a protease inhibitor cocktail. cell lysate (100 mg) was incubated
+with 1–5 mg/ml of antibody and immune complexes were captured with protein g
+sepharose. proteins were resolved by sds-page, transferred to nitrocellulose
+membranes and antigen–antibody complexes were detected using ecl
+(amersham biosciences, piscataway, nj, usa). the endogenous beclin 1
+protein was detected using the super signal west femto kit (pierce biotech) as per
+the manufacturer’s instructions.
+active bax was detected by immunoprecipitation in chaps lysis buffer, with an
+anti-bax monoclonal antibody, 6a7 (bd pharmingen), that recognizes bax only in
+the active conformation.40 mitochondrially enriched fractions were prepared from
+24 h cpt-treated and control mcf-7 cells lysed in chaps lysis buffer (2% chaps,
+150 mm nacl, 1 mm n-2-hydroxyl piperazine-n0-2-ehane sulfonic acid, ph 7.5)
+containing protease inhibitors. for immunoprecipitation, 400 mg of mitochondrial
+lysate was incubated with anti-bax 6a7 monoclonal antibody, complexes were
+immobilized with protein-g agarose analyzed by sds-page/immunoblot with anti-
+bax polyclonal antibody (santa cruz biotech).
+caspase activity assays. cells were collected following treatment with 2 mm
+cpt for the time indicated. cells were centrifuged to pellet and washed once in 1
+pbs. the cell pellet was then ﬂash frozen in a dry ice/ethanol bath. after collection
+of all time points, cell pellets were lysed on ice for 10 min with intermittent vortexing
+in 160 ml
+lysis buffer (r&d systems, minneapolis, mn, usa). lysates were
+centrifuged for 1 min at 10 600 g and a small volume of supernatant was set aside
+for total protein estimation. the remainder was tested for caspase activity in
+triplicate using a colorimetric assay kit from r&d systems. caspase-9 activity was
+determined using lehd-pna as substrate. reactions were allowed to develop for
+2 h at 371c and absorbance measured at 405 nm using a microplate reader.
+transmission electron microscopy. cells were ﬁxed in 2.5%
+glutaraldehyde in 0.1 m sodium cacodylate buffer
+room
+temperature, then washed 3 times in cacodylate buffer. cells were postﬁxed in 1%
+osmium tetroxide in 0.1 m cacodylate buffer for 1 h at room temperature. following
+this, 70 nm sections were cut on a ‘reichert ultracut s’ ultramicrotome. the sections
+were subsequently post-stained with 4% uranyl acetate for 10 min and reynald’s
+lead citrate for 1.5 min. sections were imaged at 80 kv on a jeol 1200 ex
+transmission electron microscope.
+for 1 h at
+(ph 7.4)
+confocal and ﬂuorescence microscopy. cells were plated at 50%
+conﬂuence on glass chamber slides and treated with 2 mm cpt or dmso for 24 h
+and observed using a confocal microscope. cells were incubated with 100 mm mdc
+and 20 nm mitotracker green for 15–30 min, washed thoroughly in pbs, ﬁxed for
+30 min at 371c in 3.7% paraformaldehyde in pbs, rinsed, dried and mounted under
+coverslips using vectashield mounting medium containing dapi
+(vector
+laboratories, inc.). cells were observed at 60 magniﬁcation using a bio-rad
+mrc 1024 single or multi-photon confocal microscope. alternatively, gfp-lc3-
+expressing mcf-7 cells treated with cpt for 18 h were labeled with mitotracker red
+and observed with the single photon confocal microscope. images were captured
+using the bio-rad laser sharp 3.0 and processed with image j or photoshop cs
+software. gfp-lc3 translocation was quantiﬁed using the image j software
+command ‘analyze particles’, which counts and measures objects in binary or
+thresholded images.
+beclin 1 and atg7 sh rna constructs,
+transfection and
+expression. the human beclin 1 shrna sequence (cagtttggcacaa
+tcaata) or human atg7 sequence (ggagtcacagctcttcctt) was cloned into
+bamh1 and ecor1 sites of the pgsu6 vector (gene therapy systems). control
+scrambled and shrna plasmids (1.5 mg) were transfected into mcf-7 cells plated at
+50% conﬂuence in six-well plates using lipofectamine (invitrogen, carlsbad, ca,
+usa). transfectants were selected in culture medium containing 1.42 mg/ml
+geneticin (cellgro, herndon, va, usa) and single-cell clones were isolated using
+cloning cylinders (fisher biotech).
+acknowledgements. we thank drs. t yoshimori and n mizushima for
+sharing the gfp-lc3 plasmid, drs. doug yee, carol lange and vitaly polunovsky
+for sharing breast cell lines, dr. robert hafner for help with the transmission electron
+microscopy, and jerry sedgewick and john oja for help with the confocal
+microscopy. we also thank dr. thomas neufeld for helpful discussions. this work
+was supported by research grants from the minnesota medical foundation and from
+cell death and differentiation
+510
+dna damage and autophagy in breast cancer cells
+mj abedin et al
+the university of minnesota cancer center, a comprehensive cancer center
+designated by the national cancer institute and the regis foundation.
+1. kaufmann sh, hengartner mo. programmed cell death: alive and well
+in the new
+millennium. trends cell biol 2001; 11: 526–534.
+2. budihardjo i, oliver h, lutter m, luo x, wang x. biochemical pathways of caspase
+activation during apoptosis. annu rev cell dev biol 1999; 15: 269–290.
+3. gozuacik d, kimchi a. autophagy as a cell death and tumor suppressor mechanism.
+oncogene 2004; 23: 2891–2906.
+4. wang cw, klionsky dj. the molecular mechanism of autophagy. mol med 2003; 9: 65–76.
+5. adams jm, cory s. the bcl-2 protein family: arbiters of cell survival. science 1998; 281:
+1322–1326.
+6. huang dc, strasser a. bh3-only proteins-essential initiators of apoptotic cell death. cell
+2000; 103: 839–842.
+7. kelekar a, thompson cb. bcl-2-family proteins: the role of the bh3 domain in apoptosis.
+trends cell biol 1998; 8: 324–330.
+8. chipuk je, green dr. cytoplasmic p53: bax and forward. cell cycle 2004; 3: 429–431.
+9. schuler m, green dr. transcription, apoptosis and p53: catch-22. trends genet 2005; 21:
+182–187.
+10. ferguson ha, marietta pm, van den berg cl. uv-induced apoptosis is mediated
+independent of caspase-9 in mcf-7 cells: a model for cytochrome c resistance. j biol
+chem 2003; 278: 45793–45800.
+11. kottke tj, blajeski al, meng xw, svingen pa, ruchaud s, mesner jr pw et al. lack of
+correlation between caspase activation and caspase activity assays in paclitaxel-treated
+mcf-7 breast cancer cells. j biol chem 2002; 277: 804–815.
+12. wang d, mcdonnell ma, kelekar a. multi-probe rpa template sets to study rna
+modulation and transcriptional control of bh3-only members of the bcl-2 family. cancer
+detect prev 2005; 29: 189–200.
+13. ley r, balmanno k, hadﬁeld k, weston c, cook sj. activation of the erk1/2 signaling
+pathway promotes phosphorylation and proteasome-dependent degradation of the bh3-
+only protein, bim. j biol chem 2003; 278: 18811–18816.
+14. chipuk je, kuwana t, bouchier-hayes l, droin nm, newmeyer dd, schuler m et al. direct
+activation of bax by p53 mediates mitochondrial membrane permeabilization and
+apoptosis. science 2004; 303: 1010–1014.
+15. mihara m, erster s, zaika a, petrenko o, chittenden t, pancoska p et al. p53 has a direct
+apoptogenic role at the mitochondria. mol cell 2003; 11: 577–590.
+16. elmore sp, qian t, grissom sf, lemasters jj. the mitochondrial permeability transition
+initiates autophagy in rat hepatocytes. faseb j 2001; 15: 2286–2287.
+17. elmore sp, nishimura y, qian t, herman b, lemasters jj. discrimination of depolarized
+from polarized mitochondria by confocal ﬂuorescence resonance energy transfer. arch
+biochem biophys 2004; 422: 145–152.
+18. paglin s, hollister t, delohery t, hackett n, mcmahill m, sphicas e et al. a novel response
+of cancer cells to radiation involves autophagy and formation of acidic vesicles. cancer res
+2001; 61: 439–444.
+19. scarlatti f, bauvy c, ventruti a, sala g, cluzeaud f, vandewalle a et al. ceramide-
+mediated macroautophagy involves inhibition of protein kinase b and up-regulation of
+beclin 1. j biol chem 2004; 279: 18384–18391.
+20. biederbick a, kern hf, elsasser hp. monodansylcadaverine (mdc) is a speciﬁc in vivo
+marker for autophagic vacuoles. eur j cell biol 1995; 66: 3–14.
+21. kabeya y, mizushima n, ueno t, yamamoto a, kirisako t, noda t et al. lc3, a
+mammalian homologue of yeast apg8p, is localized in autophagosome membranes after
+processing. embo j 2000; 19: 5720–5728.
+22. eskelinen el, prescott ar, cooper j, brachmann sm, wang l, tang x et al. inhibition of
+autophagy in mitotic animal cells. trafﬁc 2002; 3: 878–893.
+23. liang xh, jackson s, seaman m, brown k, kempkes b, hibshoosh h et al. induction of
+autophagy and inhibition of tumorigenesis by beclin 1. nature 1999; 402: 672–676.
+24. liang xh, kleeman lk, jiang hh, gordon g, goldman je, berry g et al. protection against
+fatal sindbis virus encephalitis by beclin, a novel bcl-2-interacting protein. j virol 1998; 72:
+8586–8596.
+25. liang xh, yu j, brown k, levine b. beclin 1 contains a leucine-rich nuclear export signal
+that is required for its autophagy and tumor suppressor function. cancer res 2001; 61:
+3443–3449.
+26. hande kr. etoposide: four decades of development of a topoisomerase ii inhibitor. eur j
+cancer 1998; 34: 1514–1521.
+27. komatsu m, waguri s, ueno t, iwata j, murata s, tanida i et al. impairment of star-
+vation-induced and constitutive autophagy in atg7-deﬁcient mice. j cell biol 2005; 169:
+425–434.
+28. tanida i, mizushima n, kiyooka m, ohsumi m, ueno t, ohsumi y et al. apg7p/cvt2p: a
+for autophagy. mol biol cell 1999; 10:
+novel protein-activating enzyme essential
+1367–1379.
+29. rizk nn, el-rakhawy mt. tissue culture and scanning electron microscopy of breast
+carcinoma ‘cell line mcf-7’ from pleural effusion. acta anat (basel) 1981; 109: 70–74.
+30. mizushima n. methods for monitoring autophagy. int j biochem cell biol 2004; 36:
+2491–2502.
+31. harada h, quearry b, ruiz-vela a, korsmeyer sj. survival factor-induced extracellular
+inhibiting its association with bax and
+signal-regulated kinase phosphorylates bim,
+proapoptotic activity. proc natl acad sci usa 2004; 101: 15313–15317.
+32. seward rj, von haller pd, aebersold r, huber bt. phosphorylation of the pro-apoptotic
+protein bim in lymphocytes is associated with protection from apoptosis. mol immunol
+2003; 39: 983–993.
+33. mooney lm, al-sakkaf ka, brown bl, dobson pr. apoptotic mechanisms in t47d and
+mcf-7 human breast cancer cells. br j cancer 2002; 87: 909–917.
+34. aita vm, liang xh, murty vv, pincus dl, yu w, cayanis e et al. cloning and genomic
+organization of beclin 1, a candidate tumor suppressor gene on chromosome 17q21.
+genomics 1999; 59: 59–65.
+35. kihara a, kabeya y, ohsumi y, yoshimori t. beclin-phosphatidylinositol 3-kinase complex
+functions at the trans-golgi network. embo rep 2001; 2: 330–335.
+36. pattingre s, tassa a, qu x, garuti r, liang xh, mizushima n et al. bcl-2 antiapoptotic
+proteins inhibit beclin 1-dependent autophagy. cell 2005; 122: 927–939.
+37. bursch w, ellinger a, kienzl h, torok l, pandey s, sikorska m et al. active cell death
+induced by the anti-estrogens tamoxifen and ici 164 384 in human mammary carcinoma
+cells (mcf-7) in culture: the role of autophagy. carcinogenesis 1996; 17: 1595–1607.
+38. ogier-denis e, codogno p. autophagy: a barrier or an adaptive response to cancer.
+biochim biophys acta 2003; 1603: 113–128.
+39. boise lh, gonzalez-garcia m, postema ce, ding l, lindsten t, turka la et al. bcl-x, a bcl-
+2-related gene that functions as a dominant regulator of apoptotic cell death. cell 1993; 74:
+597–608.
+40. nechushtan a, smith cl, hsu yt, youle rj. conformation of the bax c-terminus regulates
+subcellular location and cell death. embo j 1999; 18: 2330–2341.
+supplementary information accompanies the paper on cell death and differentiation website (http://www.nature.com/cdd)
+cell death and differentiation

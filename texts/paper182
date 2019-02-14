@@ -1,0 +1,971 @@
+blackwell publishing ltd
+autophagy
+oxford, uk
+cmicellular microbiology 1462-5814© 2006 the authors; journal compilation © 2006 blackwell publishing ltd
+2006
+6899906
+review article
+m. seay, s. patel and s. p. dinesh-kumarpcd regulation by 
+cellular microbiology (2006) 
+(6), 899–906
+microreview
+doi:10.1111/j.1462-5822.2006.00715.x
+first published online 3 april 2006
+autophagy and plant innate immunity
+montrell seay,
+ shalaka patel
+ and 
+savithramma p. dinesh-kumar
+department of molecular, cellular, and developmental 
+biology, yale university, new haven, ct 06520-8103, 
+usa. 
+summary
+plant  innate  immunity  is  often  associated  with  spe-
+cialized programmed cell death at or near the site of
+pathogen  infection.  despite  the  isolation  of  several
+lesion mimic mutants, the molecular mechanisms that
+regulate  cell  death  during  an  immune  response
+remain  obscure.  recently,  autophagy,  an  evolution-
+arily conserved process of bulk protein and organelle
+turnover, was shown to play an important role in lim-
+iting  cell  death  initiated  during  plant  innate  immune
+responses. consistent with its role in plants, several
+studies in animals also demonstrate that the autoph-
+agic machinery is involved in innate as well as adap-
+tive immunities. here, we review the role of autophagy
+in  plant  innate  immunity.  because  autophagy  is
+observed in healthy and dying plant cells, we will also
+examine  whether  autophagy  plays  a  protective  or  a
+destructive role during an immune response.
+introduction
+for  a  cell  to  maintain  homeostasis,  there  needs  to  be
+constant turnover of macromolecules to adjust to the cel-
+lular changes necessitated by responses to the immediate
+environment. in addition to ubiquitin-mediated proteolysis
+of  speciﬁc  proteins,  bulk  degradation  of  proteins  and
+organelles ensures a proper balance between anabolism
+and catabolism. autophagy, a greek word meaning to ‘eat
+oneself’, is needed for non-speciﬁc protein and organelle
+turnover.  it  can  be  induced  by  multiple  stress  factors
+including  cellular  damage,  lack  of  nutrients  or  pathogen
+attack  (levine  and  klionsky,  2004).  there  are  different
+types of autophagy, including biosynthetic autophagy as
+seen  in  yeast  in  the  trafﬁcking  of  the  vacuolar  protein
+received 6 january, 2006; revised 10 february, 2006; accepted 16
+february,  2006.  *for  correspondence.  e-mail  savithramma.dinesh-
+1) 203 432 9965;  fax  (
+1) 203 432  6161.
+kumar@yale.edu;  tel.  (
+the two authors contributed equally.
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd
+aminopeptidase  during  cytoplasm-to-vacuole  transport
+(cvt) and several degradative types including macroau-
+tophagy (reviewed in klionsky, 2005). for this review we
+will use autophagy to refer to bulk degradation mediated
+by macroautophagy.
+autophagy is visually characterized by the formation of
+a double-membrane bound structure called the autopha-
+gosome  (fig. 1).  autophagosomes  are  formed  from  the
+expanding  isolation  membranes  of  the  preautophagoso-
+mal  structure  (pas)  (klionsky,  2005).  the  isolation
+membrane  is  speculated  to  be 
+  synthesized
+independent  of,  or  in  isolation  from,  other  membrane-
+bound  organelles.  the  expanding  isolation  membrane
+invaginates  and  sequesters  cytoplasmic  proteins  and
+organelles, then joins end-to-end to seal the autophago-
+some  (fig. 1).  the  outer  membrane  of  the  autophago-
+some  fuses  to  the  lysosome/vacuole  with  subsequent
+delivery of the inner vesicle or autophagic body into the
+lumen for degradation (klionsky, 2005).
+de  novo
+mutagenesis  screens  in  yeast  have  identiﬁed  several
+autophagy
+) genes required for autophagosome for-
+ (
+atg
+mation  and  for  proper  autophagic  activity  (levine  and
+klionsky, 2004; klionsky, 2005). the atg proteins can be
+grouped  into  ﬁve  functional  groups:  a  kinase  cascade
+important for initiation of autophagy/cvt transport (fig. 1,
+step  1),  a  protein  complex  needed  for  aminopeptidase
+sequestration during cvt transport, a lipid signalling cas-
+cade for vesicle nucleation (fig. 1, step 2), two ubiquitin-
+like  protein  conjugation  pathways  important  for  vesicle
+expansion  (fig. 1,  step  3),  and  a  recycling  cascade  for
+disassembly of the atg protein complexes from matured
+autophagosomes (fig. 1, step 4). readers are referred to
+excellent  recent  reviews  for  details  about  the  individual
+functional  groups  and  the  genes  within  each  group
+(levine and klionsky, 2004; klionsky, 2005).
+although  autophagosome-like  structures  were  ob-
+served microscopically in plants more than 30 years ago
+(matile and winkenbach, 1971), well before the sophisti-
+cated  modern  studies  in  yeast  and  mammals,  the
+molecular  machinery  and  regulation  of  autophagy  in
+plants  remain  obscure.  with  the  recent  discoveries  that
+autophagy is needed not only for starvation responses but
+also  for  development,  ageing  and  immunity  (thompson
+., 2006), there has been
+and vierstra, 2005; bassham 
+a resurgence of interest in the similarities and differences
+et al
+900
+m. seay, s. patel and s. p. dinesh-kumar
+vps34/pi3k
+schematics of steps involved in mac-
+fig. 1.
+roautophagy. autophagy is a catabolic process 
+that indiscriminately sequesters and degrades 
+cytoplasmic constituents including organelles, 
+proteins and microorganisms. during starvation 
+conditions a kinase initiation complex is 
+required to induce the autophagic response 
+atg6/beclin1
+(step 1). several genes including 
+ have been implicated in the 
+and 
+de novo
+ synthesis of membranes needed for 
+vesicle nucleation (step 2). after cytoplasmic 
+constituents are sequestrated in the completed 
+autophagosome (step3), the outer membrane 
+fuses to lysosomes/vacuoles. the inner mem-
+brane is delivered into the vacuolar lumen 
+where the remaining inner membrane and 
+cargo are degraded. recent evidence suggests 
+that a recycling mechanism is utilized to reuse 
+atg
+ genes 
+autophagic machinery (step 4). the 
+required for each step in autophagy are 
+depicted in the illustration.
+between the plant and the yeast/mammalian autophagic
+machinery. more importantly, researchers have begun un-
+ravelling  how  autophagy  affects  plant  growth,  develop-
+ment and innate immunity. in this review, we will examine
+the autophagic machinery in plants with a speciﬁc focus
+on its role in innate immunity and cell death.
+autophagy in plants
+arabidopsis
+arabidopsis atg-like (atatg)
+ genes (for example 
+extensive analysis of the 
+ genome has iden-
+tiﬁed at least 36 genes with signiﬁcant homology to yeast
+  genes  (table 1).  two  main  questions  arise  when
+atg
+examining the 
+ genes: why
+) not
+atg13
+have plants retained 
+required  for  autophagy  in  other  higher  eukaryotes  and
+why  are  there  multiple  copies  of 
+atg8
+ genome? examining the
+and 
+genes and gene families may shed light on the utilization
+of  autophagy 
+include  unique
+mechanisms.
+like  genes  (
+arabidopsis
+that  may 
+in  plants 
+) in the 
+atg18
+atg-
+atg
+atg
+ and 
+atg13
+drosophila
+arabidopsis
+  genes.  intriguingly,  the 
+similar  to  other  higher  eukaryotes
+  the 
+arabidopsis
+genome  has  retained  at  least  one  homologue  of  most
+  genome
+yeast 
+ while this gene has been
+retains a homologue of 
+caenorhabditis elegans
+lost in humans, 
+the  association/disassociation  of  atg13  with  atg1  is
+thought to play a key role in initiation of autophagy in yeast
+(klionsky,  2005).  some  higher  eukaryotes  including
+humans have retained the ability to form autophagosomes
+. this sug-
+and regulate autophagy despite lacking 
+ is not needed for autophagy outside of
+gests that 
+yeast or that an unrelated protein retains the function of
+ in these higher eukaryotes. it will be interesting to
+atg13
+ and rice
+determine if the 
+are involved in autophagy or if the gene has evolved an
+autophagy-independent function.
+-like gene in 
+arabidopsis
+atg13
+atg13
+atg13
+atg
+the  phenomenon  of  multiple  copies  of 
+  genes  in  mammals  (reviewed  in  tanida 
+  genes  is
+not  unique  to  plants  because  there  are  at  least  three
+atg8-like
+et al
+.,
+2004). it has been shown that all three homologues can
+serve  as  substrates  during  conjugation,  are  cleaved
+readily  by  atg4,  and  associate  with  autophagosomes.
+, is known to be involved
+one of the 
+in  autophagy.  however,  it  is  still  unclear  if  other  ortho-
+logues  are  needed  for  autophagy  or  if  temporal/spatial
+like gene that is utilized for
+regulation dictates the 
+,  different
+autophagosome 
+in 
+ family members are temporally as well as spatially
+atatg
+et al
+.,
+regulated  during  plant  development  (thompson 
+2005).
+atg8-
+formation. 
+arabidopsis
+like genes, 
+atg8-
+lc3
+atg
+despite the strong sequence similarities, some 
+atatg
+genes  are  unable  to  complement  yeast  deletion  strains.
+the  inability  to  complement  in  yeast  does  not  preclude
+-like genes from affecting autophagy in its respec-
+the 
+tive organism. it has been demonstrated that some mam-
+like genes are functionally equivalent to their
+malian 
+respective  yeast  counterparts  and  are  required  for
+autophagy in mammals despite not being able to comple-
+ment  yeast  mutants.  towards  this  end,  rnai/knockout
+lines have proven to be extremely useful for further char-
+acterization of plant 
+like genes.
+atg-
+atg-
+in  plants,  autophagy  has  been  associated  with  leaf
+senescence  for  at  least  three  decades  (matile  and
+winkenbach, 1971). in fact, in the absence of yeast com-
+plementation or microscopic analysis the ability to affect
+senescence  has  become  the  phenotypic  hallmark  to
+assess the role of putative plant 
+atg
+arabidopsis
+atg13
+  mutants  have  identical
+, 
+atg3
+developmental  phenotypes  (reviewed  in  thompson  and
+vierstra,  2005;  bassham 
+.,  2006).  for  example,
+atatg7
+ knockout causes a senescence defect and hyper-
+sensitivity  to  nitrogen  and  carbon  starvation,  consistent
+ genes. 
+atg5
+, 
+atg7
+, 
+  and 
+atg9
+et al
+journal compilation © 2006 blackwell publishing ltd, 
+cellular microbiology
+, 
+© 2006 the authors
+, 899–906
+table 1.
+genes from 
+arabidopsis
+ using 
+microarray  analysis  of  the  known  or  putative  autophagy
+genevestigator
+autophagy genes
+m. persicae
+p. syringae
+-n
+pcd
+atg1
+at1g49180
+at2g37840
+at3g53930
+at3g61960
+atg3
+at5g61500
+atg4
+at2g44140
+at3g59950
+atg5
+at5g17290
+atg6
+at3g61710
+atg7
+at5g45900
+atg8
+at1g62040
+at2g05630
+at2g45170
+at3g06420
+at3g15580
+at3g60640
+at4g04620
+at4g16520
+at4g21980
+atg9
+at2g31260
+atg12
+at1g54210
+atg13
+at3g18770
+at3g49590
+atg18
+at3g62770
+at5g05150
+at2g40810
+at3g56440
+atg20
+at5g06140
+pi3k/vps34
+at1g60490
+nc
++ +
+nc
+nc
++ +
++ + +
+nc
++ +
+nd
++ +
++ +
++ + +
++ +
+nc
++ +
++ +
+nd
+nc
+nc
+nc
++ +
++ +
+nd
+nc
+nc
++ + +
++ +
+nc
++ +
++ +
++ +
++ +
++ +
++ + +
++ +
++ +
+nc
+nd
+nc
+nc
+pseudomonas syringae
+treatments: infection with 
+myzus persi-
+cae, nitrogen starvation condition (-n), senescence or programmed
+cell death (pcd).
+nd, no data; nc, no change; +, less than twofold increase; ++, more
+than twofold increase; +++, more than ﬁvefold increase; –, decrease.
+ and 
+with a requirement for autophagy during nutrient limitation
+et al
+.,
+in  yeast  and  other  higher  eukaryotes  (doelling 
+2002). the senescence phenotype can be rescued with a
+ mutant that
+wild-type copy of 
+affect  catalytic  activity  and  autophagosome  formation
+(doelling 
+ but not with 
+., 2002).
+atatg7
+atatg7
+et al
+regulation of programmed cell death (pcd) initiated 
+during plant innate immunity by autophagy
+although autophagy is known to be active at basal levels
+under  normal  physiological  conditions,  it  can  be  stimu-
+lated by a plethora of stresses including cellular damage,
+pcd regulation by autophagy
+901
+et al
+  or  the  aphid 
+et al
+nutrient  starvation  and  pathogen  infection  (levine  and
+klionsky,  2004).  interestingly,  plant 
+atg
+  genes  are  also
+to  pathogens.
+regulated  during  defence  responses 
+microarray  analysis  indicate  that  several 
+atatg
+  genes
+are  upregulated  following  infection  with  the  bacterium
+pseudomonas  syringae
+myzus  persicae
+(table 1)  (zimmermann 
+.,  2004).  these  genes  are
+also  upregulated  during  nitrogen  starvation  consistent
+with their function in senescence and hypersensitivity to
+nutrients. with few exceptions, it is interesting to note that
+atatgs
+most of the 
+ are upregulated during both pcd and
+p. syringae
+ infection. these ﬁndings suggest that autoph-
+agy  may  also  be  involved  in  innate  immune  responses.
+recent studies from plants and animals indicate that the
+autophagic machinery is involved in innate and adaptive
+., 2005).
+immunities (deretic, 2005; levine, 2005; liu 
+plants mount various defence responses against invad-
+ing  microbes  (soosaar 
+.,  2005).  basal  defence
+includes the perception of microbe-associated molecular
+patterns at the cell surface to halt the entry of the patho-
+gen  into  the  cell.  consequently,  microbes  have  evolved
+the means to suppress basal defence by interfering with
+defence  signalling. to  overcome  this  interference,  plants
+have developed speciﬁc mechanisms referred to as innate
+immunity. the most extensively studied plant innate immu-
+nity involves recognition of pathogen-encoded avirulence
+(avr) proteins by plant resistance (r) proteins. often this
+r–avr  interaction  leads  to  the  hypersensitive  response
+(hr), a form of pcd, at the site of pathogen infection. hr-
+pcd is often observed as necrotic lesions and the patho-
+gen  is  restricted  to  these  lesions  and  cells  immediately
+surrounding  it. therefore,  it  is  thought  that  the  hr-pcd
+functions  to  limit  the  spread  of  pathogen  from  infection
+sites  into  adjacent  healthy  tissue  (lam,  2004).  although
+hr-pcd is morphologically well characterized, the regu-
+lators  that  are  involved  in  execution  and  termination  of
+pcd are not well understood.
+et al
+et al
+the hr-pcd initiated at the site of pathogen infection
+must be meticulously controlled through speciﬁc mecha-
+nisms and checkpoints to minimize damage to the rest of
+the plant. most of our understanding about the control and
+execution of hr-pcd comes from the analysis of lesion
+mimic mutants (reviewed in lorrain 
+., 2003). although
+informative,  these  genes  have  not  uncovered  deﬁned
+mechanisms that connect innate immunity and hr-pcd.
+recent evidence indicates that autophagy is one mech-
+anism  by  which  hr-pcd  initiated  during  plant  innate
+.,  2005).  the  tobacco  n
+immunity  is  controlled  (liu 
+protein  belongs  to  the  tir-nb-lrr  (toll/interleukin-1
+receptor homology domain/nucleotide binding site/leucine
+rich protein) class of r proteins and confers resistance to
+., 1994). the
+tobacco mosaic virus (tmv) (whitham 
+n  protein  speciﬁcally  recognizes  the  50 kda  helicase
+domain of the tmv replicase protein to trigger induction
+et al
+et al
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, 
+cellular microbiology
+, 
+, 899–906
+902 m. seay, s. patel and s. p. dinesh-kumar
+fig. 2. beclin 1 is required to limit the spread of hr-pcd induced by tmv. representative photographs of leaves from non-silenced control 
+(vigs-vector) and beclin 1-silenced (vigs-beclin 1) plants infected with green ﬂuorescent protein (gfp)-tagged tmv. red colour in the 
+background of gfp ﬂuorescence in the uv illumination photographs is due to auto-ﬂuorescence from chlorophyll. dpi, days post infection. 
+reprinted from liu et al. (2005).
+of  hr-pcd  and  restriction  of  virus  spread.  to  identify
+genes that control n-mediated hr-pcd, liu et al. (2005)
+performed  a  high  throughput  rnai  screen.  interestingly,
+silencing  of  beclin  1  resulted  in  uncontrolled  hr-pcd
+upon tmv infection (fig. 2). this phenotype is dependent
+on  a  successful  innate  immune  response  because
+beclin1-silenced plants infected with tmv failed to induce
+death in the absence of n.
+mammalian  beclin  1,  an  orthologue  of  yeast  atg6/
+vps30  was  ﬁrst  identiﬁed  as  an  interactor  of  the  anti-
+apoptotic  protein  bcl-2  (liang  et al.,  1998;  liang  et al.,
+1999). beclin 1 is part of a class iii pi3k/vps34 complex
+required for autophagosome formation and recruitment of
+other  atg  proteins  into  pas  (kihara et al.,  2001).  inter-
+estingly,  silencing  of  other  autophagy  genes  including
+pi3k/vps34,  atg3  and  atg7  also  resulted  in  uncon-
+trolled hr-pcd upon tmv infection (liu et al., 2005). the
+requirement  of  beclin  1  and  other  autophagy  genes  to
+limit  hr-pcd  to  the  infection  site  during  a  plant  innate
+immune  response  indicates  that  autophagy  may  be
+involved  in  this  processes.  consistent  with  this  notion,
+plant beclin 1 can complement the yeast atg6 mutant. in
+addition,  lysotracker  red  staining  and  electron  micros-
+copy  data  showed  that  autophagy  is  induced  during  the
+n-mediated response to tmv not only at the site of hr-
+pcd  but  also  in  the  adjacent  healthy  tissue  (liu  et al.,
+2005). however, in the beclin 1-silenced plants, the induc-
+tion of autophagy was compromised upon tmv infection.
+autophagy  is  not  only  required  to  limit  n-tmv  induced
+hr-pcd  but  also  other  r–avr  interactions  and  general
+elicitor  induced  hr-pcd.  this  suggests  that  autophagy
+plays a central role in regulating hr-pcd that occurs in
+plant immunity (liu et al., 2005).
+unlike  the  lesion  mimic  mutants,  the  discovery  that
+plant atg genes and autophagy regulates cell death pro-
+vides a direct mechanistic connection to known regulators
+of pcd. in mammals, beclin 1’s interaction with bcl-2 is
+dispensable for initiation of both autophagy and apoptosis,
+but  is  essential  for  controlling  the  extent  of  autophagic
+activity. this prompted the hypothesis that bcl-2 is impor-
+tant for maintaining a balance between cell death and cell
+survival  (pattingre  et al.,  2005).  because  bcl-2  homo-
+logues have not been uncovered in plants, this may sug-
+gest  that  other  hr-pcd-associated  proteins  bridge  the
+gap between cell death and autophagy in plants.
+in  animals,  caspases  are  crucial  to  the  execution  of
+pcd, however, to date, no homologues of caspases have
+been  identiﬁed  in  plants.  it  has  been  hypothesized  that
+proteases unrelated to caspases and small effector mol-
+ecules  are  responsible  for  mediating  pcd  in  plants.
+recently  the  vacuolar-processing  enzyme  (γvpe)  was
+identiﬁed  as  a  cysteine  protease  essential  for  hr-pcd
+induced during tmv infection (hatsugai et al., 2004). the
+observation  that  vacuolar  trafﬁcking  is  needed  for  both
+pcd and autophagy-mediated cell survival has led to the
+speculation that both events may share common compo-
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 8, 899–906
+inactive  zymogens,  utilize  vesicles 
+nents (seay and dinesh-kumar, 2005). the processing of
+γvpe bears an uncanny striking resemblance to carbox-
+ypeptidase y (cpy) processing in yeast, a process known
+to utilize beclin 1/atg6 for vesicle formation. both γvpe
+and cpy are enzymes that are translated in the cytoplasm
+as 
+for  vacuolar
+transport and are further processed as well as activated
+in the vacuole. in yeast, plant γvpe colocalizes with cpy
+in  prevacuolar  endosome-like  compartments  (pvcs)
+(kinoshita  et al.,  1999). γvpe  may  provide  a  pivotal  link
+between autophagy and cell death in plants. the obvious
+next questions would be to directly address if cvt path-
+way exists in plants. is this pathway used for the process-
+ing of γvpe?
+even though the mechanism(s) that initiates pcd dur-
+ing plant innate immunity is not well understood, the ﬁnd-
+ings from liu et al. (2005) indicate that autophagy is not
+required for execution of pcd, but rather it is required to
+limit  pcd  to  the  infection  site.  these  results  imply  that
+there is a ‘pro-death’ signal(s) moving out of the pathogen-
+infected area into adjacent tissues that is negatively reg-
+ulated by autophagy. it is currently unknown whether (i)
+autophagy  alters  the  inducer  of  pro-pcd  signals,  (ii)
+blocks the receptor of the pro-pcd signal or inhibits com-
+ponents downstream of perception from responding to the
+signal, or (iii) prevents the movement of pro-pcd signals
+from a single infected cell into other cells or from the dying
+cells within a lesion into surrounding uninfected tissues.
+autophagy and viability: pro-survival or pro-death?
+autophagic  structures  are  often  observed  in  dying  cells
+during  pcd  in  other  eukaryotes  (bursch,  2001).  com-
+pounding  the  intrigue  was  the  discovery  that  beclin  1
+interacts with bcl-2, suggesting surprising novel crosstalk
+between  two  potential  cell  death  pathways  (liang et al.,
+1998). however, it is still unclear exactly if and how bcl-2
+affects autophagy or how autophagy affects antiapoptotic
+bcl-2  family  proteins.  two  opposing  hypotheses  have
+emerged:  autophagy  assists  in  the  death  of  cells  or
+autophagy protects the cell from death. recent evidence
+suggests that both hypotheses may be correct depending
+on the cell type, stimuli and developmental stage.
+several  recent  ﬁndings  support  the  hypothesis  that
+autophagy plays a crucial role in cell survival during pcd
+(edinger and thompson, 2004; levine and yuan, 2005).
+it is well established that autophagy promotes cell survival
+during  nutrient  starvation  by  degrading  and  recycling
+nutrients. autophagy may also indirectly promote cell sur-
+vival by retarding or preventing apoptosis. preliminary evi-
+dence to support this alternative model was shown (boya
+et al., 2005). when autophagy is compromised genetically
+or pharmacologically, hela cells die via an apoptotic path-
+way. this death is abolished using bcl-2 or caspase inhib-
+pcd regulation by autophagy 903
+itors  suggesting  that  autophagy  prolongs  survival  by
+deterring  the  onset  of  apoptosis.  in  c. elegans  when
+orthologue of human beclin 1 is eliminated by rnai, cells
+undergo  ced-3/caspase  dependent  ectopic  cell  death
+suggesting  that  wild-type  bec-1,  which  functioned  in
+autophagy, is also required to prevent ectopic apoptosis
+(takacs-vellai et al.,  2005).  aside  from  affecting  apopto-
+sis,  autophagy  also  plays  a  more  direct  role  in  cell  sur-
+vival.  in  interleukin-3-dependent  bax/bak-/-  bone  marrow
+cells  compromised  for  apoptotic  function,  autophagy  is
+essential for cell survival after growth factor removal (lum
+et al., 2005). this survival is characterized by an increase
+in autophagosome formation and the catabolism of intra-
+cellular  substrates  consistent  with  autophagic  function.
+furthermore, the inhibition of autophagy, either by silenc-
+ing of atg5/atg7 or by using inhibitors, leads to rapid cell
+death.  similarly,  in  the  fungus  podospora  anserina,  the
+initiation of pcd is not dependent on autophagy, however,
+cell death is accelerated in temperature-sensitive mutants
+of paatg1 and paatg8, indicating that autophagy is critical
+for survival even in lower eukaryotes (pinan-lucarre et al.,
+2005).
+in  contrast  to  the  pro-survival  function  of  autophagy,
+there are mounting data to suggest that autophagy itself
+is a ‘pro-death’ process or results in cell death by regulat-
+ing apoptosis (baehrecke, 2005; levine and yuan, 2005).
+during drosophila development, autophagy is essential to
+activate the pcd required to eliminate unwanted salivary
+glands.  consistent  with  this  concept,  several drosophila
+atg  genes  are  upregulated  in  dying  salivary  glands
+(reviewed in baehrecke, 2005).
+overexpression  of  bcl-2  or  bcl-xl  in  wild-type  mouse
+embryonic ﬁbroblasts treated with etoposide, a common
+apoptotic reagent, resulted in increased autophagosome
+formation  (shimizu  et al.,  2004).  autophagy  mediated
+death seems to depend on bcl-xl, because elimination of
+bcl-xl  reduced  the  formation  of  autophagosomes  and
+death. in addition, bax/bak-/- double-knockout mice lines
+were  unable  to  induce  apoptosis,  yet  when  treated  with
+etoposide, the cells were still able to die. it was speculated
+that  autophagy  was  responsible  for  this  cell  death
+because  an  increase  in  autophagosome  formation  was
+correlated   with   cell   death.   the   non-apoptotic   death
+was  dependent  on  functional  autophagic  mechanisms
+because silencing of atg5/beclin 1 abolished death when
+treated with etoposide. similarly, inhibition of apoptosis in
+mouse  l929  ﬁbroblastic  cells  by  rnai  suppression  of
+caspase-8 or using the broad-spectrum caspase inhibitor
+zvad induces accumulation of autophagosomes and non-
+apoptotic  death  (yu  et al.,  2004).  chemical  inhibitors  of
+autophagy as well as atg7/beclin 1 silencing inhibited the
+zvad induced cell death. these data suggest that in the
+absence of apoptosis, autophagy can actively contribute
+to execution of cell death.
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 8, 899–906
+904 m. seay, s. patel and s. p. dinesh-kumar
+regulation of autophagy via apoptotic machinery?
+some components of the autophagic and apoptotic path-
+ways have been shown to interact. in addition to bcl2, the
+antiapoptotic protein bcl-xl also interacts with beclin 1 in
+mammals (shimizu et al., 2004). like mammalian beclin
+1,  c. elegans  beclin-1  also  interacts  with  ced-9,  an
+orthologue of bcl-2, to regulate cell death (takacs-vellai
+et al., 2005). beclin 1 is not the only autophagic compo-
+nent associated with apoptosis. atg5 has been shown to
+interact in  vivo  in  hela  cells  as  well  as in  vitro  with  the
+fas-associated  death  domain  (fadd)  protein  a  known
+adapter  molecule  important  for  receptor-mediated  apop-
+tosis  (pyo  et al.,  2005).  the  induction  of  ifn-γ-induced
+autophagic cell death is abolished in fadd deﬁcient hela
+cells.  taken  together,  these  data  suggest  that  the  bio-
+chemical interactions between autophagic and apoptotic
+components  correlate  with  the  crosstalk  identiﬁed  from
+genetic and morphological studies. studying the mecha-
+nisms that regulate and accomplish this crosstalk may be
+pivotal to understanding cell survival and cell death and
+their relationship.
+whether  autophagy  functions  in  cell  survival  or  cell
+death  may  depend  on  the  level  of  autophagy  induced
+during  a  given  physiological  condition  (pattingre  et al.,
+2005). bcl-2 inhibits the function of mammalian beclin 1
+by  interaction  with  a  binding  domain  speculated  to  be
+important for autophagy. the interaction with bcl-2 (i) dis-
+rupts the formation of the essential beclin1/pi3k complex
+important for autophagosome formation and (ii) prevents
+the  complementation  of  atg6  yeast  mutant,  possibly  by
+competitive binding. in nutrient-starved mcf7 breast car-
+cinoma cells, the inability of bcl-2 to bind mutant beclin 1
+resulted in a signiﬁcant increase in the number of autoph-
+agosomes and cell death. because the mcf7 cell line is
+defective  in  caspase-3,  it  was  speculated  that  the
+increased death was due solely to the increase in autoph-
+agy. interestingly, rnai of atg5 blocked cell death in the
+beclin  1  mutants.  together,  these  results  imply  that
+autophagy levels determine if autophagy is pro-survival or
+pro-death in mammals.
+autophagy as an antimicrobial defence mechanism
+mounting  evidence  indicates  that  autophagy  plays  an
+important role in the elimination of intracellular and extra-
+cellular pathogens. overexpression of beclin 1 in neurons
+using a sindbis virus expression vector reduced sindbis
+virus  replication  (liang et al.,  1998).  in  addition,  in  cells
+derived from beclin 1 or atg5 mutants, sindbis virus and
+herpes simplex virus replicate to higher titres than in wild-
+type  cells  (levine  and  yuan,  2005;  seay  et al.,  2005).
+similarly,  the  plant  virus  tmv  accumulated  to  a  higher
+level  in  beclin  1-silenced  plants  than  in  wild-type  plants
+(liu  et al.,  2005). these  results  indicate  that  autophagy
+functions  as  an  antiviral  defence  mechanism.  the
+increase in virus accumulation in autophagy deﬁcient cells
+suggests that atg proteins might target cellular factors or
+pathways required for virus replication and spread.
+in  animals,  recent  ﬁndings  indicate  that  autophagy  is
+also used to combat against bacterial pathogens. autoph-
+agy  induced  by  nutrient  starvation  or  by  treatment  with
+rapamycin  actively  inhibits  the  survival  of  the  facultative
+intracellular pathogen mycobacterium tuberculosis (guti-
+errez  et al.,  2004).  similarly,  autophagic  vesicles  effec-
+tively engulf and destroy invading extracellular pathogens
+such as group a streptococcus (gas) (nakagawa et al.,
+2004).  autophagy-deﬁcient  atg5-/-  mutant  es  cells  are
+incapable  of  eliminating  gas,  allowing  it  to  survive  and
+proliferate (nakagawa et al., 2004). it seems some bacte-
+ria  have  evolved  effective  counter-defence  strategies  to
+subvert  autophagy  and  promote  successful  infection
+(ogawa et al., 2005). for example, atg5 directly interacts
+with  the  shigella  ﬂexneri-encoded  surface  protein  virg
+and  targets  the  bacteria  for  degradation.  however,  the
+shigella-encoded effector protein icsb interferes with this
+recognition. mutant shigella lacking icsb are engulfed by
+autophagosomes  and  targeted  for  degradation  (ogawa
+et al., 2005). considering the observation that autophagy
+is involved in the control of pcd activated during defence
+against bacterial pathogens in plants (liu et al., 2005), it
+would be interesting to investigate if autophagy is involved
+in  the  elimination  of  bacterial  pathogens  in  plants.  also,
+can effector proteins encoded by plant pathogenic bacte-
+ria inhibit autophagy?
+some  bacterial  and  viral  pathogens  have  evolved  to
+utilize the autophagy machinery for replication or survival
+inside the host cell (kirkegaard et al., 2004). autophago-
+somal-like vesicles provide a replicative niche for a variety
+of pathogens including legionella pneumophila, and bru-
+cella  abortus  (reviewed  in  shintani  and  klionsky,  2004).
+while  hiding  inside  autophagosomes,  these  pathogens
+replicate  and  either  restricts  autophagosome  maturation
+or delay fusion with the lysosome. the invasive pathogen
+porphyromonas  gingivalis  even  stimulates  autophago-
+some  formation  and  uses  them  to  enter  the  host  cells.
+similarly,  poliovirus  and  mouse  hepatitis  virus  (mhv)
+induce the formation of autophagosome-like double-mem-
+brane vesicles (dmv) and use them as a replicative niche
+(prentice et al., 2004; jackson et al., 2005). in atg5-/- es
+cells infected with mhv, formation of dmv is inhibited and
+replication of the virus is drastically reduced indicating that
+autophagy  is  required  for  efﬁcient  replication  of  mhv
+(prentice et al., 2004).
+future perspectives
+recent data (liu et al., 2005) illustrate the importance of
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 8, 899–906
+autophagy  for  cell  survival  during  plant  innate  immune
+response  and  raises  number  of  interesting  questions.
+first, what signals or components induce autophagy dur-
+ing a pcd response in plants? what signals downregulate
+autophagy? in yeast the atg1 kinase complex is involved
+in the induction of autophagy. as there are four atg1-like
+kinases in plants, it will be interesting to know if any or all
+of the plant atg1-like kinases are functional homologues
+of  yeast  atg1.  in  addition,  it  is  necessary  to  determine
+upstream  components  that  activate  the  atg1  complex
+during  plant  innate  immune  response.  second,  how  is
+autophagy  induced  during  innate  immunity  protects
+uninfected   cells?   identiﬁcation   and   characterization
+of  suppressors  of  spreading  pcd  phenotype  in  beclin
+1-silenced  plants  using  genetic  and  biochemical
+approaches should provide insight into the role of autoph-
+agy in pcd. third, is the pcd initiated during plant defence
+autophagic? if so, then one can envision autophagy as a
+process  that  leads  to  cell  death  when  the  damage  is
+irreversible  and  conversely  it  promotes  cell  survival  in
+healthy  uninfected  tissue.  cell  biological  studies  using
+autophagy  markers  should  help  to  distinguish  between
+these possibilities. finally, the question that remains unan-
+swered  in  any  organism  is  whether  autophagy  in  dying
+cells undergoing pcd is the cause of death or is in fact
+an endeavour to prevent it? answers to these and other
+questions  will  be  instrumental  in  elucidating  the  precise
+role of autophagy in plant and animal innate immunity.
+acknowledgements
+we  thank  tessa  burch-smith,  jennifer  soosaar  and  jeffrey
+caplan for critical reading of the review. autophagy work in the
+s.p.d.-k.  lab  is  supported  by  grants  from  nih  gm62625  and
+nsf  dbi-0211872.
+references
+baehrecke,  e.h.  (2005)  autophagy:  dual  roles  in  life  and
+death? nat rev mol cell biol 6: 505–510.
+bassham,  d.c.,  laporte,  m.,  marty,  f.,  moriyasu,  y.,
+ohsumi, y., olsen, l.j., and yoshimoto, k. (2006) autoph-
+agy  in  development  and  stress  responses  of  plants.
+autophagy 2: 2–11.
+boya, p., gonzalez-polo, r.a., casares, n., perfettini, j.l.,
+dessen, p., larochette, n., et al. (2005) inhibition of mac-
+roautophagy  triggers  apoptosis.  mol  cell  biol  25:  1025–
+1040.
+bursch, w. (2001) the autophagosomal-lysosomal compart-
+ment in programmed cell death. cell death differ 8: 569–
+581.
+deretic, v. (2005) autophagy in innate and adaptive immu-
+nity. trends immunol 26: 523–528.
+doelling,  j.h.,  walker,  j.m.,  friedman,  e.m.,  thompson,
+a.r.,  and  vierstra,  r.d.  (2002)  the  apg8/12-activating
+enzyme apg7 is required for proper nutrient recycling and
+senescence  in  arabidopsis  thaliana.  j  biol  chem  277:
+33105–33114.
+pcd regulation by autophagy 905
+edinger, a.l., and thompson, c.b. (2004) death by design:
+apoptosis, necrosis and autophagy. curr opin cell biol 16:
+663–669.
+gutierrez,  m.g.,  master,  s.s.,  singh,  s.b.,  taylor,  g.a.,
+colombo,  m.i.,  and  deretic,  v.  (2004)  autophagy  is  a
+defense  mechanism  inhibiting  bcg  and  mycobacterium
+tuberculosis  survival  in  infected  macrophages.  cell  119:
+753–766.
+hatsugai, n., kuroyanagi, m., yamada, k., meshi, t., tsuda,
+s., kondo, m., et al. (2004) a plant vacuolar protease, vpe,
+mediates virus-induced hypersensitive cell death. science
+305: 855–858.
+jackson,  w.t.,  giddings,  t.h.,  jr,  taylor,  m.p.,  mulinyawe,
+s., rabinovitch, m., kopito, r.r., and kirkegaard, k. (2005)
+subversion of cellular autophagosomal machinery by rna
+viruses. plos biol 3: e156.
+kihara, a., kabeya, y., ohsumi, y., and yoshimori, t. (2001)
+beclin-phosphatidylinositol  3-kinase  complex  functions  at
+the trans-golgi network. embo rep 2: 330–335.
+kinoshita, t., yamada, k., hiraiwa, n., kondo, m., nishimura,
+m.,  and  hara-nishimura,  i.  (1999)  vacuolar  processing
+enzyme is up-regulated in the lytic vacuoles of vegetative
+tissues  during  senescence  and  under  various  stressed
+conditions. plant j 19: 43–53.
+kirkegaard, k., taylor, m.p., and jackson, w.t. (2004) cel-
+lular  autophagy:  surrender,  avoidance  and  subversion  by
+microorganisms. nat rev microbiol 2: 301–314.
+klionsky, d.j. (2005) the molecular machinery of autophagy:
+unanswered questions. j cell sci 118: 7–18.
+lam,  e.  (2004)  controlled  cell  death,  plant  survival  and
+development. nat rev mol cell biol 5: 305–315.
+levine,  b.  (2005)  eating  oneself  and  uninvited  guests:
+autophagy-related pathways in cellular defense. cell 120:
+159–162.
+levine,  b.,  and  klionsky,  d.j.  (2004)  development  by  self-
+digestion: molecular mechanisms and biological functions
+of autophagy. dev cell 6: 463–477.
+levine, b., and yuan, j. (2005) autophagy in cell death: an
+innocent convict? j clin invest 115: 2679–2688.
+liang,  x.h.,  kleeman,  l.k.,  jiang,  h.h.,  gordon,  g.,  gold-
+man, j.e., berry, g., et al. (1998) protection against fatal
+sindbis  virus  encephalitis  by  beclin,  a  novel  bcl-2-
+interacting protein. j virol 72: 8586–8596.
+liang, x.h., jackson, s., seaman, m., brown, k., kempkes,
+b.,  hibshoosh,  h.,  and  levine,  b.  (1999)  induction  of
+autophagy  and  inhibition  of  tumorigenesis  by  beclin  1.
+nature 402: 672–676.
+liu, y., schiff, m., czymmek, k., talloczy, z., levine, b., and
+dinesh-kumar,  s.p.  (2005)  autophagy  regulates  pro-
+grammed  cell  death  during  the  plant  innate  immune
+response. cell 121: 567–577.
+lorrain,  s.,  vailleau,  f.,  balague,  c.,  and  roby,  d.  (2003)
+lesion mimic mutants: keys for deciphering cell death and
+defense  pathways  in  plants?  trends  plant  sci  8:  263–
+271.
+lum, j.j., bauer, d.e., kong, m., harris, m.h., li, c., linds-
+ten, t., and thompson, c.b. (2005) growth factor regula-
+tion  of  autophagy  and  cell  survival  in  the  absence  of
+apoptosis. cell 120: 237–248.
+matile, p., and winkenbach, f. (1971) function of lysosomes
+and  lysosomal  enzymes  in  the  senescing  corolla  of  the
+morning glory. j exp bot 22: 759–771.
+nakagawa,  i.,  amano,  a.,  mizushima,  n.,  yamamoto,  a.,
+yamaguchi,  h.,  kamimoto,  t.,  et  al.  (2004)  autophagy
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 8, 899–906
+906 m. seay, s. patel and s. p. dinesh-kumar
+defends  cells  against  invading  group  a  streptococcus.
+science 306: 1037–1040.
+ogawa, m., yoshimori, t., suzuki, t., sagara, h., mizushima,
+n., and sasakawa, c. (2005) escape of intracellular shi-
+gella from autophagy. science 307: 727–731.
+pattingre,  s.,  tassa,  a.,  qu,  x.,  garuti,  r.,  liang,  x.h.,
+mizushima,  n.,  et  al.  (2005)  bcl-2  antiapoptotic  proteins
+inhibit beclin 1-dependent autophagy. cell 122: 927–939.
+pinan-lucarre,  b.,  balguerie,  a.,  and  clave,  c.  (2005)
+accelerated  cell  death  in  podospora  autophagy  mutants.
+eukaryot cell 4: 1765–1774.
+prentice,  e.,  jerome,  w.g.,  yoshimori,  t.,  mizushima,  n.,
+and denison, m.r. (2004) coronavirus replication complex
+formation utilizes components of cellular autophagy. j biol
+chem 279: 10136–10141.
+pyo, j.o., jang, m.h., kwon, y.k., lee, h.j., jun, j.i., woo,
+h.n.,  et  al.  (2005)  essential  roles  of  atg5  and  fadd  in
+autophagic cell death: dissection of autophagic cell death
+into  vacuole  formation  and  cell  death.  j  biol  chem  280:
+20722–20729.
+seay,  m.,  and  dinesh-kumar,  s.p.  (2005)  life  after  death:
+are  autophagy  genes  involved  in  cell  death  and  survival
+during plant innate immune responses? autophagy 1: 185–
+186.
+seay, m., dinesh-kumar, s.p., and levine, b. (2005) digest-
+ing  oneself  and  digesting  microbes:  autophagy  as  a  host
+response  to  viral  infection.  in  modulation  of  host  gene
+expression  and  innate  immunity  by  viruses.  palese,  p.
+(ed.). dordrecht: springer, pp. 245–279.
+shimizu,  s.,  kanaseki,  t.,  mizushima,  n.,  mizuta,  t.,
+arakawa-kobayashi,  s.,  thompson,  c.b.,  and  tsujimoto,
+y. (2004) role of bcl-2 family proteins in a non-apoptotic
+programmed  cell  death  dependent  on  autophagy  genes.
+nat cell biol 6: 1221–1228.
+shintani, t., and  klionsky, d.j. (2004) autophagy in health
+and  disease:  a  double-edged  sword.  science  306:  990–
+995.
+soosaar,  j.l.,  burch-smith,  t.m.,  and  dinesh-kumar,  s.p.
+(2005) mechanisms of plant resistance to viruses. nat rev
+microbiol 3: 789–798.
+takacs-vellai,  k.,  vellai,  t.,  puoti,  a.,  passannante,  m.,
+wicky, c., streit, a., et al. (2005) inactivation of the auto-
+phagy  gene  bec-1  triggers  apoptotic  cell  death  in  c.  ele-
+gans. curr biol 15: 1513–1517.
+tanida, i., ueno, t., and kominami, e. (2004) lc3 conjuga-
+tion system in mammalian autophagy. int j biochem cell
+biol 36: 2503–2518.
+thompson, a.r., and vierstra, r.d. (2005) autophagic recy-
+cling: lessons from yeast help deﬁne the process in plants.
+curr opin plant biol 8: 165–173.
+thompson, a.r., doelling, j.h., suttangkakul, a., and vier-
+stra, r.d. (2005) autophagic nutrient recycling in arabidop-
+sis directed by the atg8 and atg12 conjugation pathways.
+plant physiol 138: 2097–2110.
+whitham, s., dinesh-kumar, s.p., choi, d., hehl, r., corr,
+c.,   and   baker,   b.   (1994)   the   product   of   the   tobacco
+mosaic  virus  resistance  gene  n:  similarity  to  toll  and  the
+interleukin-1 receptor. cell 78: 1101–1115.
+yu,  l.,  alva,  a.,  su,  h.,  dutt,  p.,  freundt,  e.,  welsh,  s.,  et
+al.  (2004)  regulation  of  an  atg7-beclin  1  program  of
+autophagic  cell  death  by  caspase-8.  science  304:  1500–
+1502.
+zimmermann,  p.,  hirsch-hoffmann,  m.,  hennig,  l.,  and
+gruissem,  w. 
+(2004)  genevestigator.  arabidopsis
+microarray  database  and  analysis  toolbox.  plant  physiol
+136: 2621–2632.
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 8, 899–906

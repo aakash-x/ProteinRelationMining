@@ -1,0 +1,1563 @@
+oncogene (2006) 25, 6347–6360
+& 2006 nature publishing group all rights reserved 0950-9232/06 $30.00
+www.nature.com/onc
+review
+upstream of the mammalian target of rapamycin: do all roads pass through
+mtor?
+mn corradetti1,2 and k-l guan1,2,3
+1life sciences institute, university of michigan, ann arbor, mi, usa; 2department of biological chemistry, university of michigan,
+ann arbor, mi, usa; and 3institute of gerontology, university of michigan, ann arbor, mi, usa
+the mammalian target of rapamycin (mtor) is a serine/
+threonine kinase that controls many aspects of cellular
+physiology, including transcription, translation, cell size,
+cytoskeletal organization and autophagy. recent ad-
+vances in the mtor signaling ﬁeld have found that
+mtor exists in two heteromeric complexes, mtorc1
+and mtorc2. the activity of mtorc1 is regulated by
+the integration of many signals, including growth factors,
+insulin, nutrients, energy availability and cellular stressors
+such as hypoxia, osmotic stress, reactive oxygen species
+and viral
+infection. in this review we highlight recent
+advances in the mtor signaling ﬁeld that relate to how
+the two mtor complexes are regulated, and we discuss
+stress conditions linked to the mtor signaling network
+that have not been extensively covered in other reviews.
+given the diversity of signals that have been shown to
+impinge on mtor, we also speculate on other signal-
+transduction pathways that may be linked to mtor in the
+future.
+oncogene (2006) 25, 6347–6360. doi:10.1038/sj.onc.1209885
+keywords: mtor;
+translation; mtorc1
+rapamycin; akt; cellular
+stress;
+introduction
+‘you may trod me in the very dirt. but still, like dust,
+i’ll arise.’
+–maya angelou
+the story of the drug rapamycin and its cellular target
+tor is one that
+literally grew from the ground.
+rapamycin was ﬁrst isolated from soil samples on the
+south paciﬁc island of rapa nui, and surprisingly, the
+drug was
+subsequently found to have signiﬁcant
+immunosuppressive and anti-tumor properties. rapa-
+mycin targets a protein aptly named tor, for ‘target of
+rapamycin,’ which is a serine/threonine kinase that is
+robustly regulated by a diverse array of upstream
+signals. over the past 10 years, a considerable amount
+correspondence: mn corradetti or professor k-l guan, life sciences
+institute, university of michigan, ann arbor, mi 48109, usa.
+e-mails: mcorrade@umich.edu, kunliang@umich.edu
+of work has been dedicated to elucidating the upstream
+regulation of the tor protein in vivo. this work has
+been greatly facilitated by the exquisite speciﬁcity of
+rapamycin for tor, the conservation of components of
+the tor signaling network from yeast to man, and the
+signiﬁcant biological phenotypes that are mediated by
+tor kinase activity. tor is compelling to study not
+only because it is the target of the drug rapamycin, but
+also because mammalian tor (mtor) is dysregulated
+in an array of human malignancies, metabolic disorders
+such as type ii diabetes and a subset of benign tumor
+syndromes for which mtor-inhibiting drugs such as
+rapamycin have begun to show great promise (inoki
+et al., 2005; manning, 2004). moreover, the signaling
+networks that lead to tor are compelling to study
+because tor regulates a vast range of cellular activities,
+including: transcription, translation, cell size, mrna
+turnover, protein stability, ribosomal biogenesis, auto-
+phagy, long-term neural potentiation, vesicular trafﬁck-
+ing and cytoskeletal organization (for reviews on the
+downstream regulation of tor, see fingar and blenis
+(2004); hay and sonenberg (2004); martin and hall
+(2005)). tor also regulates itself through both negative
+and positive feedback mechanisms (sarbassov et al.,
+2005).
+undoubtedly the best described function of mamma-
+lian tor is its regulation of translation, and one
+mechanism by which mtor regulates translation is by
+directly phosphorylating the key translation regulators
+p70 ribosomal s6 kinase (s6k) and eukaryotic initiation
+factor 4e binding protein 1 (4ebp1) (figure 1). under
+basal conditions, s6k and 4ebp1 are bound to a
+scaffolding protein, the eukaryotic initiation factor 3
+(eif3) translation initiation complex; but upon stimula-
+tion, mtor phosphorylates and activates s6k and
+4ebp1, causing their dissociation from eif3 (holz et al.,
+2005). the phosphorylation of s6k on t389 and 4ebp1
+on t37 and t41 are often used as functional readouts of
+mtor activity, since these sites are speciﬁcally phos-
+phorylated by mtor both in vitro and in vivo and are
+inhibited by rapamycin treatment (brown et al., 1995;
+brunn et al., 1997). after activation by mtor, s6k
+phosphorylates the ribosomal protein s6, leading to an
+increase in translation of a subset of mrnas. originally
+it was thought that s6k enhanced the translation of
+mrnas that contained speciﬁc, repetitive 50-terminal
+oligopolypyrimidine (50top) tracts; but more recently it
+6348
+upstream of mtor
+mn corradetti and k-l guan
+figure 1 a model illustrating how mtor ﬁts within the insulin/akt signaling network. insulin or insulin-like growth factor initiates
+signaling at the insulin receptor, leading to activation of irs1 and pi3k. the lipid products of pi3k, pip3 (i.e. phosphatidylinositol
+3,4,5 trisphosphate and phosphatidylinositol 3,4 bisphosphate), recruit both pdk1 and akt to the plasma membrane. akt is
+subsequently phosphorylated on t308 by pdk1 and by mtorc2 (consisting of mtor, mlst8 and rictor) on s473, leading to full
+activation. akt then phosphorylates numerous targets to promote growth and survival,
+including the tsc1/2 complex. by
+phosphorylating tsc2, akt inactivates tsc2s gap activity for the small g protein rheb. gtp-bound rheb is a potent activator of
+the rapamycin-sensitive complex mtorc1 (consisting of mtor, mlst8 and raptor), but it is unclear whether rheb plays a role in
+regulating mtorc2. mtorc1 phosphorylates several targets, including the translation control proteins s6k and 4ebp1. by
+phosphorylating and activating s6k, mtorc1 initiates a negative feedback loop to modulate its own activity, via s6k-mediated
+reduction in the activation of pi 3-kinase.
+initiation
+has been suggested that mtor regulates 50top
+mrnas independently of s6k (stolovich et al., 2002).
+mtor also phosphorylates 4ebp1, and in doing so it
+inhibits 4ebp1 function. the net result of this action is
+to increase the translation of mrnas with 7-methyl
+guanine caps, as 4ebp1 is an inhibitor of the cap-
+dependent
+eif4e.
+it is especially signiﬁcant that mtor leads to enhance-
+ment of translation through s6k, 4ebp1 and other
+molecules, since it has been postulated that mtor may
+serve as a nexus that controls up to 15% of the bulk
+translation of the cell (jefferies et al., 1994). moreover,
+translation regulation – especially through eif4e –
+directly increases the size (and hence the growth) of cells
+via regulation of key growth promoting proteins such as
+c-myc and cyclin d1 (mamane et al., 2004).
+factor
+although the regulation of transcription by major
+cellular signaling pathways has been extensively studied
+owing to the widespread use of microarray analysis, the
+study of the regulation of translation is far behind; and
+the relative contribution of translation versus transcrip-
+tion in modulating cellular phenotypes is only beginning
+to be studied (reviewed by prendergast (2003); rajasekhar
+and holland (2004); mata et al. (2005)). for example, one
+pioneering report showed that the immediate effect of
+overexpressing the ras and akt oncogenes in glial
+progenitor cells was not to change mrna transcription,
+but rather to increase the translation of speciﬁc growth-
+and translation-promoting mrnas (rajasekhar et al.,
+2003). since mtor serves as an integration point that
+relays numerous upstream signals to the translation
+apparatus, it is essential to appreciate how it is regulated.
+oncogene
+in this review, we focus on the upstream regulation of
+mtor, outlining several of the major agonists and
+antagonists that have been shown to impinge upon the
+mtor signaling network in mammalian cells (table 1).
+there is a great body of work describing tor signaling
+in both ﬂy and yeast model systems that serves as the
+bedrock of mammalian tor research; and although we
+cannot do justice to the depth and breadth of this work,
+we will discuss signiﬁcant similarities and differences in
+evolutionary conservation. we will also brieﬂy discuss
+how mtor exists in two complexes, mtor complex 1
+(mtorc1) and mtor complex 2 (mtorc2) and how
+the existence of mtor in these two distinct complexes
+has implications for upstream regulation. furthermore,
+we speculate that as signaling pathways and cellular
+biological
+translation,
+mtor’s role as a key regulator of translation (and
+other aspects of cellular physiology) may mean that
+many other signaling pathways will be tied to mtor in
+the future.
+phenotypes
+often
+require
+upstream of mtor
+mn corradetti and k-l guan
+mtorc1 and mtorc2
+6349
+it
+family of kinases, but
+mtor (also known as frap and raft)
+is a
+b289 kda member of the phosphatidylinositol 3-kinase
+related kinase (pikk)
+is
+exclusively a protein kinase. it exists in a large multi-
+protein complex, approximately 1.5–2 mda in size
+when puriﬁed by gel ﬁltration chromatography (kim
+et al., 2002; bader and vogt, 2004). despite the fact that
+there are few well-characterized mtor-interacting
+proteins, the domain architecture of mtor suggests
+the existence of signiﬁcant protein–protein interaction.
+from n- to c-terminus, mtor contains: 20 heat
+repeats, which are protein–protein interaction domains
+consisting of two tandem a-helicies that are also found
+in the dna damage-sensing kinases rad3-related
+kinase atr and ataxia-telangiectasia mutated (atm)
+(perry and kleckner, 2003); a focal adhesion targeting
+(fat) domain, found in all pikk family members
+(bosotti et al., 2000); an frb domain, which binds the
+table 1 major agonists and antagonists linked to the mtor signaling network
+mtorc1
+activation
+genes involved
+example mechanism
+example references
+akt, pi3k, erk, rsk
+reduction in activity of tsc1/2 via
+phosphorylation by erk, p90rsk or akt
+potter et al. (2002),
+ma et al. (2005a) and
+roux et al. (2004)
+agonist/antagonist
+growth stimulators
+egf
+pdgf
+igf
+insulin
+many others
+hypoxia
+hyperosmotic stress
+sorbitol
+nacl
+ros
+peroxide
+thiol oxidants
+uv irradiation
+many others
+amino-acid depletion
+energy depletion
+viral infection
+hcmv
+adenovirus
+retroviruses/hiv
+hepatitis c
+m&k
+rtp801/redd1, hif-1 activation tsc1/2 downstream
+unknown
+m&k
+raptor, mtorc1
+of hif-1-driven rtp801 expression;
+mtorc1 may also regulate hif-1
+degradation of the mitochondrial
+proton gradient; via an
+osmotic-stress inducted phosphatase
+unknown; disulﬁde reduction of
+mtor itself may play a role
+hudson et al. (2002),
+arsham et al. (2003) and
+brugarolas et al. (2004)
+desai et al. (2002) and
+parrott and templeton (1999)
+sarbassov and
+sabatini (2005),
+bae et al. (1999) and
+smith et al. (2005)
+hara et al. (1998),
+gao et al. (2002) and
+smith et al. (2005)
+rheb, raptor, hvps34,
+hvps15
+several competing hypotheses
+proposed
+lkb1, ampk
+increase in tsc1/2 activity via
+phosphorylation by ampk
+inoki et al. (2003b) and
+corradetti et al. (2004)
+adenovirus: e4-orf1,
+e4-orf4
+hcmv: egfr
+several mechanisms,
+depends on infecting virus
+o’shea et al. (2005a) and
+kudchodkar et al. (2004)
+dna damaging agents
+etoposide
+methyl methane-sulfonate
+many others
+p53, rtp801/redd1
+several proposed mechanisms,
+including upregulation of p53
+beuvink et al. (2005) and
+tee and proud (2000)
+abbreviations: ampk, 50 adenosine monophosphate-activated protein kinase; egf, epidermal growth factor; hcmv, human cytomegalovius;
+hiv, human immunodeﬁciency virus; hif, hypoxia inducible factor; igf, inducible growth factor; mtor, mammalian target of rapamycin;
+pdgf, platelet-derived growth factor; ros, reactive oxygen species; uv, ultraviolet.
+oncogene
+6350
+upstream of mtor
+mn corradetti and k-l guan
+rapamycin- fk506-binding protein (fkbp)12 complex
+(chiu et al., 1994); the kinase domain; and a focal
+adhesion targeting c-terminal domain (fatc), which is
+a second fat domain at the c-terminus. as mtor is
+such a large molecule it is possible that other functional
+domains that are not obvious from its primary sequence
+will be identiﬁed in the future.
+in the yeast saccharomyces cerevisiae, there are two
+tor genes, tor1 and tor2, which share several
+functions,
+including translation, ribosome biogenesis,
+amino-acid transport and autophagy. unlike tor1,
+tor2 has certain functions that cannot be inhibited by
+rapamycin,
+including the unique function of actin
+cytoskeleton regulation (loewith et al., 2002; jacinto
+et al., 2004). the two tor complexes in yeast, torc1
+and torc2, have been puriﬁed; and the mammalian
+homologs of the torc1 and torc2 proteins that are
+conserved between yeast and mammals have also been
+discovered. as in yeast, there are two functionally
+distinct tor complexes in mammals, mtorc1 and
+mtorc2; but unlike yeast, there is only one mtor
+protein (figure 1).
+it is critical to note that mtorc1 is the only known
+target of the drug rapamycin. before binding mtor,
+rapamycin must ﬁrst complex with another molecule,
+the 12-kda immunopilin fkbp12; and the rapamycin-
+fkbp12 complex (but not the fk506-fkbp12 com-
+plex) inhibits mtorc1 directly and potently (brown
+et al., 1994; chiu et al., 1994; sabatini et al., 1994;
+sabers et al., 1995). it is unclear how the rapamycin-
+fkbp12 complex is excluded from mtorc2, but the
+recent discovery of several components of mtorc1 and
+mtorc2 will be of great value in answering this
+question.
+mtorc1 has recently been shown to consist of the
+three proteins mtor, mlst8 (also known as gbl) and
+raptor (for regulatory associated protein of mtor),
+and largely controls translation and cell growth in
+response to nutrients. mtorc2 consists of mtor,
+mlst8 and rictor (for rapamycin-insensitive compa-
+nion of mtor), and has been shown to control actin
+cytoskeleton dynamics (kim et al., 2003; sarbassov
+et al., 2004). the mtorc1 component raptor binds
+mtor, s6k and 4ebp1, and facilitates mtor
+phosphorylation of these molecules; but whether raptor
+enhances or represses mtor kinase activity remains
+unclear (hara et al., 2002; kim et al., 2002). as is the
+case in yeast, mtorc2 is decidedly rapamycin insensi-
+tive, and the protein rictor dictates the speciﬁcity of
+mtorc2 towards akt (discussed below) and away
+from s6k and 4ebp1 (sarbassov et al., 2005). the
+adaptor protein mlst8 is common to both complexes.
+it has been shown to both increase the kinase activity of
+mtorc1 towards s6k and 4ebp1 (kim et al., 2003),
+and it also plays a positive role in mtorc2 function in
+cell spreading and actin polymerization (jacinto et al.,
+2004). over the past 10 years, a great deal of work
+involving mtor has focused on the use of rapamycin to
+modulate mtor, and s6k and 4ebp1 phosphorylation
+have often been used as readouts for mtor activity;
+therefore, mtorc1 has been the most extensively
+studied mtor complex. much less is known about
+the upstream regulation and function of mtorc2 than
+is known for mtorc1, although such work will
+undoubtedly be an active area of future investigation.
+unless speciﬁcally mentioned, instances where ‘mtor’
+is mentioned throughout
+this review will refer to
+mtorc1.
+insulin and growth factor signaling to mtor
+directly upstream of mtor: tsc1/2 and rheb
+a renaissance in the mtor ﬁeld occurred upon the
+discovery that the tuberous sclerosis complex (tsc)
+gene products, tsc1 and tsc2, act upstream of
+mtor. tsc1 and tsc2 are tumor suppressor genes that
+are mutated in the disease tsc, a dominantly inherited
+disorder characterized by the formation of a distinguish-
+ing type of benign tumor – termed hamartoma – in
+many organ systems. the proteins tsc1 and tsc2 form
+a tight complex in the cell, and the presence of both
+proteins is required for the tsc1/2 heterodimer to
+function. cells null for tsc1 or tsc2, cells depleted of
+tsc1 or tsc2 by rna interference (rnai), and
+human and mouse tissues deﬁcient in tsc1 or tsc2, all
+have high mtorc1 activity, as measured by s6k and
+4ebp1 phosphorylation (gao et al., 2002; goncharova
+et al., 2002; inoki et al., 2002; potter et al., 2002). the
+discovery of the tsc1/2 complex as an important
+negative regulator of mtor is a striking example of
+how mammalian biochemistry can complement droso-
+phila genetics. tsc1’s and tsc2’s role in cell growth
+was originally discovered through a genetic screen in
+drosophila for genes, that when mutated, produced
+overgrown cells and organs. the observation that tsc1
+and tsc2 were two such genes, and the epistatic
+analysis that placed them between growth factor signals
+and s6k (gao and pan, 2001; potter et al., 2001; tapon
+et al., 2001), ultimately led to the overexpression and
+downregulation experiments in mammalian cells that
+established that tsc1 and tsc2 act upstream of mtor.
+a key function of tsc2 is that of a guanine
+triphosphate (gtp)ase activating protein (gap) for a
+small g protein named rheb (for ras homolog enriched
+in brain). again, rheb was discovered to act down-
+stream of tsc2 via genetic epistasis analysis
+in
+drosophila (saucedo et al., 2003; stocker et al., 2003).
+independent work in mammalian cells showed that
+gtp-bound rheb strongly stimulates mtor activity
+both in vitro and in vivo, and tsc2 increases the intrinsic
+rate of gtp hydrolysis on rheb to inactivate it (garami
+et al., 2003; inoki et al., 2003a; tee et al., 2003b). for
+several years, an active search for an intermediary
+molecule between rheb and mtor yielded little or no
+result, indicating that rheb might be the direct upstream
+regulator of mtor in vivo. indeed, recent work in
+s. pombe has shown that only a hyperactive, gtp-bound
+mutant of rheb (but not wild-type rheb) can form a
+complex with tor2 (urano et al., 2005). it has also
+been shown in hek293 cells that rheb binds mtor
+and mlst8 directly both in vitro and in vivo. puzzlingly,
+oncogene
+although mutants of rheb that are defective in gtp
+binding cannot activate mtor, the binding of rheb to
+mtor does not require rheb to be bound to a guanine
+nucleotide in any way (long et al., 2005a, b). reconcil-
+ing the two observations that gtp is required for rheb
+binding to tor2 in s. pombe but not to mtor in
+mammalian cells is difﬁcult, and future studies are
+needed to clarify the mechanism of rheb in mtor
+activation.
+the identity of
+the putative guanine nucleotide
+exchange factor (gef) or guanine nucleotide dissocia-
+tion factor (gdi) for rheb also remains a mystery. one
+possibility is that a gef or gdi for rheb does not
+exist, owing to rheb’s extremely low basal gtpase
+activity (li et al., 2004). alternately, it is possible that
+no single gef exists, but rather several gefs or gdis
+might overlappingly act on rheb. yet another unan-
+swered question is how rheb affects mtorc2 activity.
+as gtp-bound rheb speciﬁcally binds to tor2 in
+s. pombe, it is possible that rheb regulates mtorc2 in
+mammalian cells, but whether rheb’s
+effect on
+mtorc2 is positive or negative is unknown. thus,
+the tsc1/2 complex, by increasing gtp hydrolysis on
+rheb, leads to decreased mtor activity (figure 1).
+insulin/pi3k signaling and mtor
+the tsc1/2 complex has been shown to receive inputs
+from a diverse set of signal-transduction pathways, and
+the list of putative binding partners for tsc1 and tsc2
+is fairly long (rosner et al., 2004). predictably, many of
+the molecules that have been shown to bind or regulate
+the tsc1/2 complex can also regulate mtor. the most
+studied and signiﬁcant example of this phenomenon
+involves the serine/threonine kinase akt. akt is acti-
+vated downstream of growth factors such as insulin or
+epidermal growth factor (egf), by both phosphoryla-
+tion and by the lipid products of phosphatidylinositol 3-
+kinase (pi3k). once activated, akt then phosphorylates
+a variety of prosurvival and progrowth targets, and
+work performed in cultured mammalian cells has shown
+that akt directly phosphorylates and reduces
+the
+activity of tsc2 (gao et al., 2002; inoki et al., 2002;
+potter et al., 2002). by doing so, akt increases signaling
+through rheb and mtor.
+akt is a particularly potent oncogene, and although it
+phosphorylates an array of substrates ostensibly un-
+related to tsc1/2 and mtor, akt-driven tumorgenesis
+is
+remarkably sensitive to mtor inhibition. one
+particularly dramatic murine study showed that akt-
+driven prostate intraepithelial neoplasia is completely
+reversible by the mtor inhibitor rad001 (majumder
+et al., 2004). this overall concept – that mtor
+represents a primary target of akt in cell growth and
+proliferation – was foreshadowed by genetic studies of
+the drosophila tor pathway. deletion of tsc1 or tsc2 in
+ﬂy organs such as the eye leads to the characteristic
+phenotype of overgrown cells and organs, and epistasis
+analysis reveals that the overgrowth phenotype caused
+by absence of tsc1 or tsc2 is dominant to the decreased
+cell and organ size phenotype associated with akt
+6351
+upstream of mtor
+mn corradetti and k-l guan
+deﬁciency (potter et al., 2001). moreover, overexpres-
+sion of the phosphoinositide phosphatase pten (phos-
+phatase and tensin homolog deleted on chromosome 10)
+– which downregulates akt activity by decreasing d3
+phosphoinositide concentration – causes an increased
+cell size phenotype that is suppressed by the loss of tsc1
+or tsc2 (potter et al., 2001). consistent with these data,
+loss of drosophila tor (zhang et al., 2000) or s6k
+(montagne et al., 1999) also causes a reduced cell size
+phenotype, which is dominant to the increased cell size
+phenotype that would be expected from pten loss.
+what makes the pten/akt/mtor story of such
+great importance is that pten mutations in humans
+(and the subsequent dysregulation of akt) are asso-
+ciated with a subset of benign tumor syndromes as well
+as a variety of malignancies (eng, 2003). the rate of
+mutation of pten in certain malignancies such as
+prostate cancer can be as high as 50%, and murine
+models of pten-driven neoplasias have been shown to
+be remarkably sensitive to mtor inhibition (neshat
+et al., 2001; podsypanina et al., 2001; majumder and
+sellers, 2005). akt and/or pten-driven mtor regula-
+tion has also been shown to be pathophysiologically
+relevant
+systems,
+including skeletal muscle hypertrophy (bodine et al.,
+2001), hematologic disorders (shi et al., 2002; wendel
+et al., 2004), and cardiac muscle hypertrophy (shioi
+et al., 2002, 2003).
+in the context of
+several other
+it
+is not
+negative and positive feedback
+in normal cells the activation of akt is restrained by
+critical negative feedback mechanisms. the existence of
+such negative feedback loops was predicted by the
+observation that insulin- or growth factor-stimulated
+activation of akt tapers off after prolonged treatment
+(haruta et al., 2000). although pten is a key down-
+regulator of akt signals and an obvious candidate for
+the molecule directly
+negative feedback,
+responsible for decreased akt activity over
+time.
+instead, several groups have unexpectedly shown that
+increased activity of the mtor target s6k (owing to
+overexpressed rheb or loss of function of the tsc1/2
+complex) reduces expression of insulin receptor sub-
+strate (irs-1), the intermediary molecule between the
+insulin receptor and pi3k. furthermore, s6k was
+shown to directly phosphorylate irs proteins on several
+inhibitory sites (haruta et al., 2000; harrington et al.,
+2004; shah et al., 2004). taken together, these remark-
+able data suggest that chronic s6k activation eventually
+leads to insulin resistance, as s6k activation would
+eventually decrease the efﬁciency of signaling through
+the insulin receptor and irs. consistently, although
+s6k-deﬁcient mice have a reduced b-cell mass, reduced
+glucose tolerance and decreased insulin secretion, they
+are able to maintain normal fasting blood glucose levels
+owing to insulin hypersensitivity resulting from loss of
+s6k-mediated negative feedback (um et al., 2004).
+negative feedback mechanisms may also begin to
+explain why tumors lacking tsc1/2 complex function
+usually remain benign, rather than progress to malignancy.
+oncogene
+6352
+upstream of mtor
+mn corradetti and k-l guan
+elegant murine experiments using mice heterozygous for
+pten and/or tsc2 have shown that negative feedback-
+mediated reduction of the pten/pi3k/akt pathway in
+tumors lacking tsc2 likely contributes to their benign
+nature. correspondingly, combined tsc2 and pten
+heterozygous mice display a severe, synergistic pheno-
+type (ma et al., 2005b; manning et al., 2005).
+the regulation of akt itself is also of great interest in
+the context of mtor signaling. akt is ﬁrst activated by
+the lipid products of pi3-kinase (d3 phosphoinositides),
+and subsequently by direct phosphorylation on two
+sites, t308 and s473. the kinase that phosphorylates
+akt on t308 is 3-phosphoinositide-dependent protein
+kinase-1 (pdk1), an agc kinase that is recruited by d3
+phosphoinositides. the identity of
+the pdk2 that
+phosphorylates s473 in vivo has been debated for over
+10 years, and it has variously been suggested to be akt
+itself, dna-protein kinase (dna-pk), integrin linked
+kinase (ilk), protein kinase c (pkc)a, atm and other
+kinases as well (dong and liu, 2005). however, a recent
+report by sarbassov et al. (2005) surprisingly demon-
+strates that the pdk2 for akt is, in fact, mtorc2. via
+a series of rnai and overexpression experiments in
+drosophila and mammalian cells, mtorc2 was shown
+to be required for s473 phosphorylation of akt in vivo.
+thus, the ﬁnding that akt is regulated by mtor
+through both positive and negative feedback loops
+makes upstream and downstream relationships some-
+what difﬁcult to deﬁne (figure 1). the signiﬁcance of the
+relative contribution of mtorc1/s6k/irs versus
+mtorc2 in the regulation of akt remains to be seen.
+a key question of
+future investigation will be to
+determine how the stochiometry of the components of
+mtorc1 and mtorc2 contributes to their function in
+regulating akt. it is known, for example, that long-term
+administration of rapamycin can lead to a moderate
+decrease in akt activation (edinger et al., 2003), an
+observation that is at odds with the predicted role of
+negative feedback through s6k and irs. sarbassov
+et al. propose that long-term rapamycin treatment may
+sequester mtor away from mtorc2, thereby leading
+to decreased s473 phosphorylation and akt activation.
+several other situations could also be imagined where
+stoichiometry would be signiﬁcant. as mlst8 is the
+common component of both mtor complexes, future
+investigation is required to determine whether it plays
+a role in regulating the ratio of mtorc1 versus
+mtorc2 in the cell.
+other growth regulatory pathways that affect tsc1/2
+and mtor
+the mitogen-activated protein kinases (mapks) rsk1
+and erk have also been shown to regulate mtorc1 in
+response to growth stimulators such as phorbol esters
+and egf, respectively (roux et al., 2004; ma et al.,
+2005a). both rsk1 and erk were found to phosphor-
+ylate and inhibit
+the function of tsc2, albeit via
+different mechanisms and at different phosphorylation
+sites. notably, erk-driven tumorigenesis in tsc2 þ / 
+tumor cells was shown to be blocked by an erk-
+nonphosphorylatable tsc2 mutant, but reintroduction
+of wild-type tsc2 was ineffective in suppressing tumor
+growth (ma et al., 2005a). it is also worthwhile to note
+that agonists which activate pkc such as phorbol 12-
+myristate 13-acetate can also regulate mtor via pkc-
+mediated activation of ras and raf (iijima et al., 2002;
+tee et al., 2003a). collectively, these ﬁndings place the
+ras/mapk pathway – independently of ras’s ability to
+activate pi3k – upstream of the tsc1/2 complex. the
+ﬁndings are of added signiﬁcance since nf1, the gene
+mutated in the neuroﬁbromatosis type 1 hamartoma
+tumor syndrome, codes for a ras gap that has been
+shown to regulate tsc2 and mtor through the ras/
+mapk signal-transduction cascade (johannessen et al.,
+2005).
+regulation of the mtor pathway by the tumor
+suppressor gene p53 has also been an active area of
+investigation. the p53 protein is upregulated and
+protected from degradation in response to dna
+damage and other agonists,
+functioning in both
+apoptosis initiation and cell cycle exit. recently, it has
+been shown that p53 negatively regulates mtor, as
+measured by s6k and 4ebp1 activity (horton et al.,
+2002; constantinou and clemens, 2005; feng et al.,
+2005). the suggested mechanism is that p53 activates
+tsc1/2 and mtor in response to energy stress through
+the 50 adenosine monophosphate-activated protein
+kinase (ampk) (see below for a discussion of ampk)
+(feng et al., 2005). however,
+two other seemingly
+conﬂicting possibilities have also been suggested, as it
+has also been proposed that p53 acts parallel to mtor
+(jones et al., 2005), and downstream of mtor as one of
+its substrates (castedo et al., 2002; tirado et al., 2003).
+given the complexity of p53 regulation in different cell
+types, at different stages of the cell cycle, and in response
+to different agonists, considerable future investigation is
+required to determine its true physiological role with
+respect to mtor.
+many other growth regulatory proteins interact with
+the tsc1/2 complex and thereby regulate mtor.
+several molecules critical for cell cycle progression have
+recently been shown to interact with tsc1 or tsc2 in
+mammalian cells, including: d-type cyclins (zacharek
+et al., 2005), polo-like kinase 1 (astrinidis et al., 2006)
+and the cyclin-dependent kinase inhibitor p27 (rosner
+and hengstschlager, 2004), these ﬁndings are not
+surprising; well before the mammalian homolog of
+tor was discovered,
+it was surmised that whatever
+molecule rapamycin targeted must have a signiﬁcant
+effect on cell cycle progression, given the profound
+effects of rapamycin treatment in t lymphocytes and in
+yeast (sabers et al., 1995). other growth regulatory
+proteins that have been shown to affect mtor via
+tsc1/2 include the smad (mothers against decapen-
+taplegic) proteins (birchenall-roberts et al., 2004), the
+focal adhesion kinase interacting protein fip200 (gan
+et al., 2005), the estrogen receptor (finlay et al., 2004)
+and many more than space will allow us to mention in
+detail. as mouse models have been dramatically
+successful
+in demonstrating the relevance of insulin-
+and akt-mediated mtor activation, future study of the
+oncogene
+many biochemical observations listed above will require
+similar experiments to be performed.
+mtor, nutrients and cellular energy
+along with the maintenance of osmotic neutrality,
+translation and ribosome biogenesis are among the
+most energetically intensive processes that a cell must
+perform (schmidt, 1999). therefore, it is not unexpected
+that these processes must be closely regulated during
+times of low atp (adenosine triphosphate) or nutrient
+(amino acid) availability. it has been known for several
+years that culturing cells under low nutrient conditions
+leads
+to a strong reduction in s6k and 4ebp1
+phosphorylation, a result that is satisfyingly consistent
+with mtor’s role in translation regulation (hara et al.,
+1998). nutrient sensation by tor is highly conserved in
+all eukaryotic organisms tested, including plants, yeast
+and the ﬂy (reviewed by shamji et al., 2003; fingar and
+blenis, 2004; hay and sonenberg, 2004; menand et al.,
+2004; proud, 2004b; avruch et al., 2005). tor has even
+been shown to be the sensor responsible for turning on
+egg development
+in the malarial mosquito after it
+consumes its nutrient-laden blood meal (hansen et al.,
+2004). however, despite the strong conservation of tor
+as a nutrient sensor, there is a signiﬁcant lack of
+agreement on a unifying mechanism to explain how
+tor is regulated in response to nutrients.
+for instance,
+it has been proposed that nutrients
+activate mtor in both a tsc1/2-dependent (gao et al.,
+2002) and tsc1/2-independent (smith et al., 2005)
+fashion. some studies suggest that rheb is integral to
+nutrient sensing, as overexpressed rheb has been shown
+to override nutrient deprivation signals to mtor (inoki
+et al., 2003a), and nutrient deprivation signals may
+decrease rheb binding to mtor (long et al., 2005b).
+other work implies that rheb may not be involved at
+all, but rather that nutrient poor conditions lead to
+increased raptor/mtor binding and subsequently
+decreased mtorc1 activity (kim et al., 2002). other
+studies point to hvps34, a class iii pi3k (unrelated to
+the pi3k that is upstream of akt), as a critical factor in
+the regulation of tor by nutrients (byﬁeld et al., 2005;
+nobukuni et al., 2005). hvps34 was shown to be
+activated by the presence of amino acids and is inhibited
+by ampk, but the mechanism by which it regulates
+mtor is unknown. the hvps34 data are consistent
+with nutrient sensation acting through a pathway
+parallel to the tsc/rheb signaling axis, but are directly
+in contrast to the evidence that tsc1/2 is in fact
+required for nutrient sensation. thus, it is clear that the
+mechanism of nutrient sensation by mtor requires
+considerable future investigation.
+study of how cellular energy regulates mtor has
+recently made signiﬁcant progress. culturing mamma-
+lian cells under low glucose conditions or treating them
+with the non-hydrolysable glucose analog 2-deoxyglu-
+cose (2-dg), depletes the energy of the cell and causes a
+concomitant decrease in the activity of mtor (dennis
+upstream of mtor
+mn corradetti and k-l guan
+6353
+et al., 2001). one mechanism proposed to account for
+decreased mtor activity is that mtor itself senses
+energy depletion and decreases its activation accordingly
+(dennis et al., 2001). however, this mechanism may
+only account for conditions of severe energy stress, as
+the atp depletion required to achieve mtor inhibition
+is below the normal range of physiological atp levels
+(inoki et al., 2003b).
+a more plausible mechanism to explain how energy
+levels couple to the regulation of mtor is via activation
+of ampk. ampk is activated allosterically by amp as
+well as by phosphorylation on its activation loop
+threonine, t172. a high amount of amp in the cell
+reﬂects a low energy status, and the amp/atp ratio in
+the cell is much higher during energy stress. studies
+which ﬁrst
+implicated ampk in the regulation of
+mtor showed that pharmacological activation of
+ampk by the ribonucleoside amp analog aicar
+caused a dramatic reduction of s6k and 4ebp1 activity;
+and culturing cells in low glucose or treating cells with 2-
+dg had the same effect of reducing mtor activation
+(bolster et al., 2002; krause et al., 2002; kimura et al.,
+2003). in response to low energy, ampk phosphor-
+ylates
+to enhance catabolism and
+suppress anabolism, and it was recently shown that the
+mechanism by which it regulates mtor is via direct
+phosphorylation of tsc2 (inoki et al., 2003b). phos-
+phorylation of tsc2 by ampk is
+required for
+translation regulation and cell size control in response
+to energy deprivation, and when ampk phosphoryla-
+tion sites are absent on tsc2, energy depletion has little
+or no effect on mtor activation. furthermore, cells
+either null for tsc2 or those that express mutants of
+tsc2 that cannot be phosphorylated by ampk under-
+go quick apoptosis under energy starvation conditions
+(inoki et al., 2003b). thus, energy depletion is sensed by
+ampk and relayed to mtor through the tsc1/2
+complex (figure 2).
+several
+targets
+it is critical to note that full activation of ampk is
+only achieved after phosphorylation on its activation
+loop by lkb1, a serine/threonine kinase that exists in a
+multi-protein complex with two adaptor molecules,
+strad and mo25 (baas et al., 2003; woods et al.,
+2003). by phosphorylating ampk, lkb1 also signiﬁ-
+cantly affects signaling through mtor; and lkb1
+kinase activity is required for ampk activation, as
+ampk activity in response to low energy conditions is
+deﬁcient in lkb1 null cells (corradetti et al., 2004). it is
+especially signiﬁcant that lkb1 is upstream of mtor,
+as
+syndrome, an
+autosomal dominant hamartoma syndrome that shares
+certain clinical similarities with tsc (inoki et al., 2005).
+moreover, lkb1 heterozygous mice, which phenocopy
+human peutz-jeghers syndrome, display elevated s6k
+phosphorylation in hamartomatous tissues (shaw et al.,
+2004). it has also recently been shown that mice with a
+tissue-speciﬁc deﬁciency of lkb1 in the liver display
+certain diabetic phenotypes such as hyperglycemia and
+increased lipogenic gene expression (shaw et al., 2005).
+this is not surprising, as the commonly used antidia-
+betic drug metformin has been shown to directly
+is mutated in peutz-jeghers
+it
+oncogene
+6354
+upstream of mtor
+mn corradetti and k-l guan
+figure 2 energy and cellular stress signaling couple to mtor. cellular stressors that initiate signal transduction are shown in red
+text. under low energy conditions, ampk is activated by both amp and its upstream kinase, lkb1. ampk then phosphorylates and
+activates tsc2 in order to downregulate mtor activity. hypoxia is shown playing the dual role of both activating hif-1 translation
+in an mtorc1-dependent manner, as well as downregulating mtorc1 activity through the action of rtp801. rtp801 is also
+inducted in response to dna damage, glucocorticoids and other stressors.
+activate ampk (zhou et al., 2001) and requires lkb1
+to function (shaw et al., 2005). finally, lkb1 has also
+recently been shown to phosphorylate 13 other kinases
+that are phylogenetically related to ampk (lizcano
+et al., 2004). the relevance of these kinases in the
+regulation of mtor has not been demonstrated, but it
+is possible that some of these kinases may also regulate
+mtor via phosphorylation of tsc2.
+regulation of mtor by cellular stressors
+the list of cellular stressors that have been shown to
+regulate mtor in cell culture systems is staggering and
+includes hypoxia, osmotic stress, dna damage, ultra-
+violet (uv) and ionizing radiation, viral infection and
+reactive oxygen species (ros) (proud, 2004a). as is the
+case for energy or nutrient metabolism, most stressors
+suppress translation, as translation is an energy intensive
+metabolic process that must be downregulated during
+times of cellular crisis. many stressors also eventually
+lead to atp depletion and thereby activate ampk
+(hardie, 2004). however, although ampk activation is
+one mechanism by which mtor could be suppressed by
+stress, several other mechanisms have been proposed to
+explain how mtor is regulated during shorter time
+periods, when atp levels may still be in the normal
+range. below we mention stress conditions that have
+been linked to the mtor signaling network and have
+not been extensively covered in other reviews.
+hypoxia
+under conditions of low oxygen (hypoxia), transcription
+and translation of many stress responsive genes is
+increased. one such gene, the hypoxia inducible factor
+(hif-1), is a critical transcription factor that regulates
+many genes directly involved in angiogenesis, including
+the vascular endothelial growth factor. von-hippel
+lindau disease, a syndrome of abnormal hypervascular-
+ization, is caused by mutations in vhl, a gene that
+promotes ubiquitination and degradation of hif-1.
+mouse models of vhl null kidney cancer (which have
+pathologically elevated levels of hif-1) and mouse
+models of akt-driven prostate cancer both display
+transcription proﬁles consistent with high hif-1 activ-
+ity, and both tumor types are dramatically sensitive to
+inhibitors of mtor (majumder et al., 2004; thomas
+et al., 2006). furthermore,
+in osteoblasts, prostate
+cancer cells and tsc null ﬁbroblasts, mtor has been
+shown to increase hif-1 translation (but not transcrip-
+tion) in a rapamycin reversible manner (hudson et al.,
+2002; brugarolas et al., 2003). taken together, these
+results suggest a role for mtor as an upstream
+regulator of responses to hypoxia (figure 2).
+oncogene
+inhibition of mtor activity. this effect
+somewhat paradoxically, it was also recently shown
+that mtor acts downstream of hypoxia, as culturing
+several cell types under hypoxic conditions can induce a
+robust
+is
+independent of ampk activation and the energy status
+of the cell and is dominant to activators of mtor such as
+insulin, amino acids, phorbol esters and serum (arsham
+et al., 2003); but it is dependent on an intact tsc1/2
+complex, as hypoxic treatment of tsc1 or tsc2 null
+mouse embryonic ﬁbroblasts (mefs) fails to have any
+effect on s6k phosphorylation (brugarolas et al., 2004).
+one mechanism proposed to account
+for this result
+involves a protein called rtp801 (also known as redd1).
+rtp801 is a small, 34 kda protein that displays little
+homology to known functional domains other than a
+coiled-coil domain in its c-terminus (ellisen et al., 2002).
+rtp801 is the human orthologue of the drosophila genes
+scylla and charybdis, which were identiﬁed in a screen for
+proteins that suppress a pdk1/akt-driven ‘bigeye’ cell size
+phenotype (reiling and hafen, 2004). scylla and char-
+ybdis are induced under hypoxic conditions and were
+shown via epistasis anaylsis to act between akt and the
+tsc1/2 complex in suppressing cell growth (reiling and
+hafen, 2004). subsequently, the human orthologues of
+scylla and charybdis, rtp801 and rtp801l, were shown
+to negatively regulate mtor downstream of akt and
+upstream of the tsc1/2 complex (figure 2) (brugarolas
+et al., 2004; corradetti et al., 2005). rtp801 is tran-
+scriptionally induced by hif-1 under conditions of
+hypoxia (shoshani et al., 2002) and is required for the
+effect of hypoxia on mtor, as rtp801 null mefs are
+defective in hypoxia-mediated inhibition of s6k (brugar-
+olas et al., 2004). however, the detailed mechanism by
+which rtp801 mediates mtor inhibition in response to
+hif-1 remains a mystery.
+the two observations – that mtor is both regulated
+by hif-1 through rtp801 and that mtor affects hif-1
+expression itself – seem to be at odds with each other.
+one explanation that begins to reconcile these observa-
+tions is that rapamycin treatment only causes a partial
+(less than 50%) reduction in hif-1 expression, indicat-
+ing mtor-independent pathways also affect hif-1
+expression (brugarolas et al., 2003). it is also possible
+that hypoxia-mediated inhibition of mtor by rtp801
+occurs only at shorter time points, whereas hif-1
+upregulation by mtor only occurs after an extended
+period of time. notably, rtp801 has also been shown
+to be induced in response to energy stress (sofer et al.,
+2005), arsenic and hydrogen peroxide (lin et al., 2005),
+glucocorticoid treatment (wang et al., 2003b), dna
+(ellisen et al., 2002) and other
+damaging agents
+stressors. future investigation is required to determine
+the signiﬁcance of rtp801 in relaying these additional
+stresses to mtor. it will also be interesting to determine
+whether rtp801 possesses catalytic activity, whether it
+serves as an adaptor protein, or whether it has some
+other, mechanism of action.
+osmotic stress
+osmotic stress is a general term that refers to a change in
+the concentration of dissolved molecules in the exterior
+upstream of mtor
+mn corradetti and k-l guan
+6355
+environment of
+the cell. the term ‘osmotic stress’
+usually refers to hyperosmotic stress, or the condition
+in which the concentration of solutes outside the cell is
+higher than the concentration inside the cell. at low-to-
+moderate concentrations, addition of an osmolite such
+as sorbitol or mannitol to the cell culture medium can
+cause transcription or translation changes, alterations in
+metabolism and cellular shrinkage. at higher concen-
+trations osmotic shock can lead to apoptotic or necrotic
+cell death.
+cells
+treatment of
+it has been known for decades that hypertonic stress
+induced by sorbitol
+reversibly
+decreases the phosphorylation of s6k, as well as the
+overall translational output of the cell (saborio et al.,
+1974; kruppa and clemens, 1984), but mechanisms to
+explain how this occurs have only recently been
+proposed. one suggested mechanism is that osmotic
+stress induced by sorbitol treatment causes a rapid and
+reversible disintegration of the mitochondrial proton
+gradient. this reduction in mitochondrial function is
+postulated to be linked with downregulation of mtor
+activity, as mtor has been shown to associate with the
+mitochondrial outer membrane (desai et al., 2002).
+these results could imply that mtor itself senses
+changes in osmotic stress, perhaps via the mitochondrial
+membrane potential or through mitochondrial proteins.
+another mechanism suggests that the reduction of
+mtor activity by sorbitol may be due to the activation
+of a phosphatase, as the phosphatase inhibitor calyculin
+a (but not other phosphatase inhibitors) was shown to
+prevent osmotic
+stress-induced inhibition of s6k
+(parrott and templeton, 1999). consistent with these
+data, osmotic stress-mediated dephosphorylation of
+s6k is independent of tsc2 (smith et al., 2005),
+independent of rheb (inoki et al., 2003a) and dominant
+to akt overexpression (parrott and templeton, 1999).
+the reduction in mtor activity in response to sorbitol
+was also shown to be independent of p38 mapk, a
+kinase that is activated by a variety of stress stimuli
+including osmotic stress and uv radiation (parrott and
+templeton, 1999; patel et al., 2002). this kinase was
+important to exclude, not only because of p38’s central
+role as a stress-inducted kinase, but also because p38
+phosphorylates and activates mk2 (also known as
+mapkapk2); and mk2 is directly responsible for the
+phosphorylation of tsc2 on s1210 (li et al., 2003).
+however no physiological
+linkage between sorbitol-
+mediated inhibition of mtor and tsc2 phosphoryla-
+tion on s1210 has been found.
+it also bears mentioning that experiments performed
+in the plant arabidopsis showed that osmotic stress
+induced by mannitol dramatically reduced s6k phos-
+phorylation. this osmotic response was reversible by
+overexpression of raptor, and interestingly, transgenic
+plants expressing high levels of s6k were rendered
+hyperresponsive to osmotic stress-mediated cell shrink-
+age (mahfouz et al., 2006). although it is certain that
+these results demonstrate an impressive evolutionary
+conservation of components of the mtor signaling
+network, it is not clear whether in higher eukaryotes
+raptor plays a role in osmotic stress sensation, or
+oncogene
+6356
+upstream of mtor
+mn corradetti and k-l guan
+whether s6k overexpression can induce such a dramatic
+response to osmotic stress. it should also be mentioned
+that osmotic stress induced by high salt concentration
+has recently been shown to inhibit mtor (naegele and
+morley, 2004), but whether salt-induced osmotic stress
+acts via the same mechanism as sorbitol-induced stress is
+unclear. in the future it will be interesting to determine
+whether a phosphatase is responsible for osmotic stress-
+induced s6k dephosphorylation, whether some un-
+known component of the pathway relays osmotic stress
+sensation to mtor, or whether mtor senses osmotic
+stress by itself.
+ros
+all aerobic organisms produce ros as a byproduct of
+respiration. ros molecules such as hydroxyl radicals,
+superoxide anions and singlet oxygen are extremely
+reactive; and unless they are detoxiﬁed by antioxidant
+enzymes, they can cause irreversible damage to intra-
+cellular molecules such as nucleic acids and proteins.
+although low levels of ros are normally produced by
+the mitochondria and are usually detoxiﬁed quickly, an
+excessive accumulation of ros – caused by uv or
+ionizing irradiation, chemical insult, or an aging cell –
+may trigger a diverse range of cellular responses,
+including cell growth, proliferation, or apoptosis.
+complicating matters further, the effect of oxidizing
+agents seems to vary with the cell type tested, the dose
+and type of
+the oxidizing agent and the time of
+treatment (boonstra and post, 2004; temple et al.,
+2005). consistent with these observations, oxidizing
+agents have been shown to affect the mtor pathway
+both positively and negatively.
+for example, short-term hydrogen peroxide treatment
+(a strong oxidizing agent) has been shown to profoundly
+inhibit translation, as well as the phosphorylation of
+s6k and 4ebp1 in cho k1 (chinese hamster ovary)
+cells, but nearly identical treatment of tsc2 /  mefs
+led to an increase in s6k phosphorylation (patel et al.,
+2002; smith et al., 2005). the response of tsc2 / 
+mefs to peroxide is somewhat puzzling, as basal ros
+levels are signiﬁcantly higher in tsc2 /  cells, as a result
+of increased mitochondrial function (finlay et al., 2005).
+moreover, peroxide or arsenite treatment of jb6 cells
+(a mouse epidermal cell type) has been shown to lead to
+an increase in s6k and 4ebp1 activation (bae et al.,
+1999; huang et al., 2002; jung et al., 2003). in addition,
+uv irradiation (which increases the amount of ros in
+the cell) of hek293 cells (parrott and templeton, 1999)
+and jb6 cells (huang et al., 2002) has been shown to
+increase the phosphorylation of s6k. it should be noted
+that the oxidizing agents arsenic and hydrogen peroxide
+have also been shown to induce the transcription of
+rtp801 (lin et al., 2005), although the inhibition of
+mtor by rtp801 occurs at a much later time point
+than the activation of mtor by peroxide and arsenic.
+it has also been reported in hek293 cells that s6k
+phosphorylation is
+increased in response to thiol
+oxidizing agents that speciﬁcally target disulﬁde bonds.
+this effect is dominant to mtor inhibiting conditions,
+such as nutrient or energy deprivation, but not to
+inhibitors of pi3k and mtor. thiol oxidation also
+induces destabilization of the raptor-mtor interaction
+(sarbassov and sabatini, 2005), consistent with previous
+data that showed the raptor-mtor interaction is
+stabilized by mtor inhibiting agents (kim et al.,
+2002). recent work in yeast suggests that mtor itself
+may sense changes in the thiol reduction status of the
+cell, as the fatc domain of tor1 possesses a novel
+disulﬁde-bonded structural motif that is changed dra-
+matically when reduced (dames et al., 2005). thus, a
+considerable amount of future work is required to
+determine the physiological relevance of ros in the
+regulation of mtor.
+viruses and mtor
+the cell’s response to the stress of viral infection can be
+either adaptive or maladaptive. viral proteins,
+for
+instance, can hijack the cell growth apparatus (a
+maladaptive event for the cell) in order to produce
+more viral particles and thereby increase infection. this
+phenomenon is well
+illustrated by the dna tumor
+viruses, which possess proteins that mimic or bind to
+cellular oncogenes and tumor suppressor genes in order
+to promote cell growth (o’shea, 2005). in contrast,
+certain viral infection conditions have also been shown
+to lead to an adaptive response, such as enhancement of
+apoptotic cell death or the upregulation of autophagy
+(to degrade intracellular pathogens). study of the role
+of mtor in these processes is relatively new, but
+both adaptive and maladaptive responses have been
+observed. upregulation of mtor activity is associated
+with increased cellular synthesis of viral particles and
+increased cell growth. downregulation of mtor
+activity is associated with increased autophagy, reduced
+cell growth and protection from further infection. here
+we discuss adenoviruses and cytomegaloviruses, two
+types of viruses that have been well studied with respect
+to their positive regulation of the mtor signaling
+network.
+adenoviruses are double-stranded dna viruses that
+have been extensively characterized with respect to their
+effect on cellular signal transduction, and they are
+responsible for a wide range of common respiratory
+infections. recently it has been shown that adenoviral
+infection of airway epithelial cells – a typical cell type
+targeted by adenoviruses in vivo – causes dramatic
+increases in the activation of mtor, even under low
+nutrient conditions; and signiﬁcantly, mtor activation
+is required for infected cells to efﬁciently progress to
+s phase (o’shea et al., 2005a). the activation of mtor
+was shown to be caused by two adenovirus-encoded
+proteins. the ﬁrst protein, e4-orf1, is both necessary
+and sufﬁcient to activate pi3k by adenovirus infection.
+however, e4-orf1 is not required to activate mtor,
+as e4-orf1-deleted adenoviruses are still able to
+partially induce s6k (frese et al., 2003; o’shea et al.,
+2005a). a second protein, e4-orf4, was shown to be
+essential for mtor activation by adenoviral infection.
+interestingly, e4-orf4 does not affect rheb gtp levels,
+oncogene
+but its protein phosphatase 2a binding domain is required
+for s6k activation (o’shea et al., 2005a). taken together,
+these data indicate that adenoviruses have evolved
+mechanisms to commandeer control of
+the mtor
+is required for efﬁcient
+pathway, and such control
+adenovirus propagation. the results also have implica-
+tions for adenoviral gene therapy research. for instance,
+engineered adenoviruses
+that are defective in their
+activation of essential growth regulatory genes such as
+retinoblastoma protein (prb) can only replicate in – and
+thereby kill – tumor cells with a hyperactive prb
+pathway, potentially sparing cells with normal prb
+activity (johnson et al., 2002). one could imagine the
+creation of similar e4-orf1 and e4-orf4 adenoviral
+mutants that are deﬁcient in activation of mtor, in order
+to speciﬁcally treat tumors with increased mtor activity
+(o’shea et al., 2005b). paradoxically, it should be noted
+that it has also been shown that the mtor inhibitor
+rad001 increases the efﬁcacy of replicating adenoviruses
+used for colon cancer ablation (homicsko et al., 2005).
+human cytomegalovius (hcmv)
+is an extremely
+common herpesvirus family member that is usually of
+little clinical consequence in healthy individuals. how-
+ever, hcmv infection in immunocompromised patients
+such as transplant recipients and acquired immuno-
+deﬁciency syndrome patients can be a signiﬁcant cause
+of morbidity and mortality. hcmv enters cells by
+binding to the epidermal growth factor
+receptor
+(egfr). upon binding, hcmv is internalized and
+initiates typical egfr signaling, including the activa-
+tion of pi3k and akt (wang et al., 2003a). subse-
+quently, the phosphorylation of both s6k (johnson
+et al., 2001; andreoni et al., 2002) and 4ebp1
+(kudchodkar et al., 2004) is strongly induced, although
+one group ﬁnds that 4ebp1 is induced independently of
+pi3k (kudchodkar et al., 2004). pi3k/akt activation is
+especially signiﬁcant as hcmv replication and viral
+gene expression is signiﬁcantly reduced by the pi3k
+inhibitor ly294002 (johnson et al., 2001). the im-
+portance of mtor inhibition in preventing hcmv
+pathogenesis was compellingly shown in the context of a
+double-blind clinical study of heart transplant recipi-
+ents. patients
+received the mtor inhibitor
+rad001 and cyclosporine for immunosuppression had
+a signiﬁcantly lower incidence of hcmv infection and
+vasculopathy compared to patients that received cyclos-
+porine and azathioprine (eisen et al., 2003). similar
+reductions in hcmv infection by mtor inhibition
+were found in liver and kidney transplant patients
+(reviewed by ponticelli (2004)). these data indicate that
+mtor may be essential
+for hcmv infection and
+propagation in vivo, and suggest that the use of mtor
+inhibitors for immunosuppression may be preferable to
+other drugs, at least from the perspective of reducing
+that
+upstream of mtor
+mn corradetti and k-l guan
+hcmv infection. as the biochemical data to support
+the observations made in the clinic are still somewhat
+lacking, it will be critical to more extensively determine
+the mechanism of how mtor inhibition prevents the
+pathogenic effects of hcmv.
+6357
+conclusions
+although mtor was discovered over 10 years ago and
+rapamycin has been used in the clinic for an even longer
+time, there are still many unanswered questions regard-
+ing the regulation of the mtor signaling network. it is
+clear that mtor is affected by an enormous variety of
+cellular stressors and cell growth regulators, leading to
+the question: how many undiscovered links still exist
+between mtor and other agonists, stresses and cell
+growth signaling pathways? the best piece of evidence
+that supports greater complexity in upstream signaling is
+the many agonists that have already been shown to
+impinge upon mtor. in addition, mtor knockout
+mice are embryonic lethal as early as e5 and have
+defects in embryonic stem cell growth (gangloff et al.,
+2004; murakami et al., 2004), implying the mtor plays
+a central role in primordial development. the fact that
+mtor may control a low percentage (perhaps 15%) of
+the translational output of the cell (jefferies et al., 1994)
+has often been cited as a reason why mtor is not a
+nexus for translation regulation. although this may be
+so, any protein that nonredundantly controls 15% of
+mrnas must presumably be regulated by pathways
+that require these mrnas to function. little is known
+about regulation of the mtor signaling network by
+agonists such as wnt, hedgehog and notch, yet the study
+of these three signaling pathways represent a signiﬁcant
+portion of current research in developmental biology
+and oncogenesis. future investigation should be aimed
+at determining the relationships between such types of
+agonists and mtor. the fact that mtor is dysregu-
+lated in many human diseases and that rapamycin may
+be therapeutically useful to treat them highlights the
+necessity of understanding how mtor integrates
+numerous upstream signals to control the cell.
+acknowledgements
+we thank eunjung kim, heather krueger, chung-han
+lee and hong-jiao ouyang for critical reading of
+this
+manuscript. we apologize to those authors whose work
+could not be cited owing to space limitations or our inability
+to draw connections between elements of
+the primary
+literature. m.n.c. is supported by a grant from the program
+in organogenesis (5-t32-hd075005), and the work of the
+authors is supported by grants from the national institutes of
+heath and the walther cancer institute.
+references
+andreoni ka, wang x, huang sm, huang es. (2002). j med
+astrinidis a, senapedis w, henske ep. (2006). hum mol
+virol 67: 33–40.
+genet 15: 287–297.
+arsham am, howell jj, simon mc. (2003). j biol chem 278:
+avruch j, lin y, long x, murthy s, ortiz-vega s. (2005).
+29655–29660.
+curr opin clin nutr metab care 8: 67–72.
+oncogene
+6358
+upstream of mtor
+mn corradetti and k-l guan
+baas af, boudeau j, sapkota gp, smit l, medema r,
+morrice na et al. (2003). embo j 22: 3062–3072.
+bader ag, vogt pk. (2004). oncogene 23: 3145–3150.
+bae gu, seo dw, kwon hk, lee hy, hong s, lee zw et al.
+(1999). j biol chem 274: 32596–32602.
+beuvink i, boulay a, fumagalli s, zilbermann f, ruetz s,
+o’reilly t et al. (2005). cell 120: 747–759.
+birchenall-roberts mc, fu t, bang os, dambach m,
+resau jh, sadowski cl et al. (2004). j biol chem 279:
+25605–25613.
+gao x, pan d. (2001). genes dev 15: 1383–1392.
+gao x, zhang y, arrazola p, hino o, kobayashi t, yeung
+rs et al. (2002). nat cell biol 4: 699–704.
+garami a, zwartkruis fj, nobukuni t, joaquin m, roccio
+m, stocker h et al. (2003). mol cell 11: 1457–1466.
+goncharova ea, goncharov da, eszterhas a, hunter ds,
+glassberg mk, yeung rs et al. (2002). j biol chem 277:
+30958–30967.
+hansen ia, attardo gm, park jh, peng q, raikhel as.
+(2004). proc natl acad sci usa 101: 10626–10631.
+bodine sc, stitt tn, gonzalez m, kline wo, stover gl,
+hara k, maruki y, long x, yoshino k, oshiro n, hidayat s
+bauerlein r et al. (2001). nat cell biol 3: 1014–1019.
+et al. (2002). cell 110: 177–189.
+bolster dr, crozier sj, kimball sr, jefferson ls. (2002).
+hara k, yonezawa k, weng qp, kozlowski mt, belham c,
+j biol chem 277: 23977–23980.
+boonstra j, post ja. (2004). gene 337: 1–13.
+bosotti r, isacchi a, sonnhammer el.
+biochem sci 25: 225–227.
+(2000). trends
+avruch j. (1998). j biol chem 273: 14484–14494.
+hardie dg. (2004). j cell sci 117: 5479–5487.
+harrington ls, findlay gm, gray a, tolkacheva t, wigﬁeld
+s, rebholz h et al. (2004). j cell biol 166: 213–223.
+brown ej, albers mw, shin tb, ichikawa k, keith ct, lane
+haruta t, uno t, kawahara j, takano a, egawa k, sharma
+ws et al. (1994). nature 369: 756–758.
+brown ej, beal pa, keith ct, chen j, shin tb, schreiber sl.
+(1995). nature 377: 441–446.
+pm et al. (2000). mol endocrinol 14: 783–794.
+hay n, sonenberg n. (2004). genes dev 18: 1926–1945.
+holz mk, ballif ba, gygi sp, blenis j. (2005). cell 123:
+brugarolas j, lei k, hurley rl, manning bd, reiling jh,
+569–580.
+hafen e et al. (2004). genes dev 18: 2893–2904.
+homicsko k, lukashev a, iggo rd. (2005). cancer res 65:
+brugarolas jb, vazquez f, reddy a, sellers wr, kaelin jr
+6882–6890.
+wg. (2003). cancer cell 4: 147–158.
+horton le, bushell m, barth-baus d, tilleray vj, clemens
+brunn gj, hudson cc, sekulic a, williams jm, hosoi h,
+mj, hensold jo. (2002). oncogene 21: 5325–5334.
+houghton pj et al. (1997). science 277: 99–101.
+huang c, li j, ke q, leonard ss, jiang bh, zhong xs et al.
+byﬁeld mp, murray jt, backer jm. (2005). j biol chem 280:
+(2002). cancer res 62: 5689–5697.
+33076–33082.
+hudson cc, liu m, chiang gg, otterness dm, loomis dc,
+castedo m, roumier t, blanco j, ferri kf, barretina j,
+kaper f et al. (2002). mol cell biol 22: 7004–7014.
+tintignac la et al. (2002). embo j 21: 4070–4080.
+iijima y, laser m, shiraishi h, willey cd, sundaravadivel b,
+chiu mi, katz h, berlin v. (1994). proc natl acad sci
+xu l et al. (2002). j biol chem 277: 23065–23075.
+usa 91: 12574–12578.
+inoki k, corradetti mn, guan kl. (2005). nat genet 37:
+constantinou c, clemens mj. (2005). oncogene 24: 4839–4850.
+corradetti mn, inoki k, bardeesy n, depinho ra, guan
+19–24.
+inoki k, li y, xu t, guan kl. (2003a). genes dev 17:
+kl. (2004). genes dev 18: 1533–1538.
+1829–1834.
+corradetti mn, inoki k, guan kl. (2005). j biol chem 280:
+inoki k, li y, zhu t, wu j, guan kl. (2002). nat cell biol 4:
+9769–9772.
+648–657.
+dames sa, mulet jm, rathgeb-szabo k, hall mn, grzesiek
+s. (2005). j biol chem 280: 20558–20564.
+inoki k, zhu t, guan kl. (2003b). cell 115: 577–590.
+jacinto e, loewith r, schmidt a, lin s, ruegg ma, hall a
+dennis pb, jaeschke a, saitoh m, fowler b, kozma sc,
+et al. (2004). nat cell biol 6: 1122–1128.
+thomas g. (2001). science 294: 1102–1105.
+jefferies hb, reinhard c, kozma sc, thomas g. (1994). proc
+desai bn, myers br, schreiber sl. (2002). proc natl acad
+natl acad sci usa 91: 4441–4445.
+sci usa 99: 4319–4324.
+dong lq, liu f. (2005). am j physiol endocrinol metab 289:
+e187–96.
+johannessen cm, reczek ee,
+james mf, brems h,
+legius e, cichowski k. (2005). proc natl acad sci usa
+102: 8573–8578.
+edinger al, linardic cm, chiang gg, thompson cb,
+johnson l, shen a, boyle l, kunich j, pandey k, lemmon m
+abraham rt. (2003). cancer res 63: 8451–8460.
+et al. (2002). cancer cell 1: 325–337.
+eisen hj, tuzcu em, dorent r, kobashigawa j, mancini d,
+valantine-von kaeppler ha et al. (2003). n engl j med 349:
+847–858.
+johnson ra, wang x, ma xl, huong sm, huang es. (2001).
+j virol 75: 6022–6032.
+jones rg, plas dr, kubek s, buzzai m, mu j, xu y et al.
+ellisen lw, ramsayer kd, johannessen cm, yang a, beppu
+(2005). mol cell 18: 283–293.
+h, minda k et al. (2002). mol cell 10: 995–1005.
+jung dk, bae gu, kim yk, han sh, choi ws, kang h
+eng c. (2003). hum mutat 22: 183–198.
+feng z, zhang h, levine aj, jin s. (2005). proc natl acad sci
+usa 102: 8204–8209.
+fingar dc, blenis j. (2004). oncogene 23: 3151–3171.
+finlay ga, thannickal vj, fanburg bl, kwiatkowski dj.
+(2005). cancer res 65: 10881–10890.
+finlay ga, york b, karas rh, fanburg bl, zhang h,
+kwiatkowski dj et al. (2004). j biol chem 279: 23114–23122.
+frese kk, lee ss, thomas dl, latorre ij, weiss rs,
+glaunsinger ba et al. (2003). oncogene 22: 710–721.
+gan b, melkoumian zk, wu x, guan kl, guan jl. (2005).
+j cell biol 170: 379–389.
+et al. (2003). exp cell res 290: 144–154.
+kim dh, sarbassov dd, ali sm, king je, latek rr,
+erdjument-bromage h et al. (2002). cell 110: 163–175.
+kim dh, sarbassov dos d, ali sm, latek rr, guntur kv,
+erdjument-bromage h et al. (2003). mol cell 11: 895–904.
+kimura n, tokunaga c, dalal s, richardson c, yoshino k,
+hara k et al. (2003). genes cells 8: 65–79.
+krause u, bertrand l, hue l. (2002). eur j biochem 269:
+3751–3759.
+kruppa j, clemens mj. (1984). embo j 3: 95–100.
+kudchodkar sb, yu y, maguire tg, alwine jc. (2004).
+j virol 78: 11030–11039.
+gangloff yg, mueller m, dann sg, svoboda p, sticker m,
+spetz jf et al. (2004). mol cell biol 24: 9508–9516.
+li y, inoki k, guan kl. (2004). mol cell biol 24: 7965–7975.
+li y, inoki k, vacrasis p, guan kl. (2003). j biol chem 11: 11.
+oncogene
+upstream of mtor
+mn corradetti and k-l guan
+6359
+lin l, stringﬁeld tm, shi x, chen y. (2005). biochem j 392:
+rosner m, hengstschlager m. (2004). j biol chem 279:
+93–102.
+48707–48715.
+lizcano jm, goransson o, toth r, deak m, morrice na,
+roux pp, ballif ba, anjum r, gygi sp, blenis j. (2004). proc
+boudeau j et al. (2004). embo j 23: 833–843.
+natl acad sci usa 101: 13489–13494.
+loewith r, jacinto e, wullschleger s, lorberg a, crespo jl,
+sabatini dm, erdjument-bromage h, lui m, tempst p,
+bonenfant d et al. (2002). mol cell 10: 457–468.
+snyder sh. (1994). cell 78: 35–43.
+long x, lin y, ortiz-vega s, yonezawa k, avruch j. (2005a).
+sabers cj, martin mm, brunn gj, williams jm, dumont fj,
+curr biol 15: 702–713.
+wiederrecht g et al. (1995). j biol chem 270: 815–822.
+long x, ortiz-vega s, lin y, avruch j. (2005b). j biol chem
+saborio jl, pong ss, koch g.
+(1974). j mol biol 85:
+280: 23433–23436.
+195–211.
+ma l, chen z, erdjument-bromage h, tempst p, pandolﬁ
+sarbassov dd, guertin da, ali sm, sabatini dm. (2005).
+pp. (2005a). cell 121: 179–193.
+science 307: 1098–1101.
+ma l, teruya-feldstein j, behrendt n, chen z, noda t, hino
+o et al. (2005b). genes dev 19: 1779–1786.
+mahfouz mm, kim s, delauney aj, verma dp. (2006). plant
+cell 18: 477–490.
+sarbassov d, ali sm, kim dh, guertin da, latek rr,
+(2004). curr biol 14:
+erdjument-bromage h et al.
+1296–1302.
+sarbassov d, ali sm, sabatini dm. (2005). curr opin cell
+majumder pk, febbo pg, bikoff r, berger r, xue q,
+biol 17: 596–603.
+mcmahon lm et al. (2004). nat med 10: 594–601.
+sarbassov d, sabatini dm. (2005). j biol chem 280: 39505–
+majumder pk, sellers wr. (2005). oncogene 24: 7465–7474.
+mamane y, petroulakis e, rong l, yoshida k, ler lw,
+39509.
+saucedo lj, gao x, chiarelli da, li l, pan d, edgar ba.
+sonenberg n. (2004). oncogene 23: 3172–3179.
+(2003). nat cell biol 5: 566–571.
+manning bd. (2004). j cell biol 167: 399–403.
+manning bd, logsdon mn, lipovsky ai, abbott d,
+(2005). genes dev 19:
+kwiatkowski dj, cantley lc.
+1773–1778.
+martin de, hall mn. (2005). curr opin cell biol 17: 158–166.
+mata j, marguerat s, bahler j. (2005). trends biochem sci 30:
+506–514.
+schmidt ev. (1999). oncogene 18: 2988–2996.
+shah oj, wang z, hunter t. (2004). curr biol 14: 1650–1656.
+shamji af, nghiem p, schreiber sl. (2003). mol cell 12:
+271–280.
+shaw rj, bardeesy n, manning bd, lopez l, kosmatka m,
+depinho ra et al. (2004). cancer cell 6: 91–99.
+shaw rj, lamia ka, vasquez d, koo sh, bardeesy n,
+menand b, meyer c, robaglia c. (2004). curr top microbiol
+depinho ra et al. (2005). science 310: 1642–1646.
+immunol 279: 97–113.
+shi y, gera j, hu l, hsu jh, bookstein r, li w et al. (2002).
+montagne j, stewart mj, stocker h, hafen e, kozma sc,
+cancer res 62: 5027–5034.
+thomas g. (1999). science 285: 2126–2129.
+shioi t, mcmullen jr, kang pm, douglas ps, obata t,
+murakami m, ichisaka t, maeda m, oshiro n, hara k,
+franke tf et al. (2002). mol cell biol 22: 2799–2809.
+edenhofer f et al. (2004). mol cell biol 24: 6710–6718.
+naegele s, morley sj. (2004). j biol chem 279: 46023–46034.
+neshat ms, mellinghoff ik, tran c, stiles b, thomas g,
+petersen r et al. (2001). proc natl acad sci usa 98:
+10314–10319.
+nobukuni t, joaquin m, roccio m, dann sg, kim sy,
+gulati p et al. (2005). proc natl acad sci usa 102: 14238–
+14243.
+shioi t, mcmullen jr, tarnavski o, converso k,
+sherwood mc, manning wj et al. (2003). circulation 107:
+1664–1670.
+shoshani t, faerman a, mett i, zelin e, tenne t, gorodin s
+et al. (2002). mol cell biol 22: 2283–2293.
+smith em, finn sg, tee ar, browne gj, proud cg. (2005).
+j biol chem 280: 18717–18727.
+sofer a, lei k, johannessen cm, ellisen lw. (2005). mol cell
+o’shea c, klupsch k, choi s, bagus b, soria c, shen j et al.
+biol 25: 5834–5845.
+(2005a). embo j 24: 1211–1221.
+o’shea cc. (2005). curr opin genet dev 15: 18–26.
+o’shea cc, choi s, mccormick f, stokoe d. (2005b). cell
+cycle 4: 883–888.
+stocker h, radimerski t, schindelholz b, wittwer f,
+(2003). nat cell biol 5:
+belawat p, daram p et al.
+559–565.
+stolovich m, tang h, hornstein e, levy g, cohen r, bae ss
+parrott la, templeton dj.
+(1999). j biol chem 274:
+et al. (2002). mol cell biol 22: 8101–8113.
+24731–24736.
+tapon n, ito n, dickson bj, treisman je, hariharan ik.
+patel j, mcleod le, vries rg, flynn a, wang x, proud cg.
+(2001). cell 105: 345–355.
+(2002). eur j biochem 269: 3076–3085.
+tee ar, anjum r, blenis j. (2003a). j biol chem 278:
+perry j, kleckner n. (2003). cell 112: 151–155.
+podsypanina k, lee rt, politis c, hennessy i, crane a,
+(2001). proc natl acad sci usa 98:
+puc j et al.
+10320–10325.
+ponticelli c. (2004). j nephrol 17: 762–768.
+potter cj, huang h, xu t. (2001). cell 105: 357–368.
+potter cj, pedraza lg, xu t. (2002). nat cell biol 4: 658–665.
+prendergast gc. (2003). cancer cell 4: 244–245.
+proud cg. (2004a). dna repair (amsterdam) 3: 927–934.
+proud cg.
+215–244.
+(2004b). curr top microbiol
+immunol 279:
+rajasekhar vk, holland ec. (2004). oncogene 23: 3248–3264.
+rajasekhar vk, viale a, socci nd, wiedmann m, hu x,
+holland ec. (2003). mol cell 12: 889–901.
+reiling jh, hafen e. (2004). genes dev 18: 2879–2892.
+rosner m, freilinger a, hengstschlager m. (2004). amino
+acids 27: 119–128.
+37288–37296.
+tee ar, manning bd, roux pp, cantley lc, blenis j.
+(2003b). curr biol 13: 1259–1268.
+tee ar, proud cg. (2000). oncogene 19: 3021–3031.
+temple md, perrone gg, dawes iw. (2005). trends cell biol
+15: 319–326.
+thomas gv, tran c, mellinghoff ik, welsbie ds, chan e,
+fueger b et al. (2006). nat med 12: 122–127.
+tirado om, mateo-lozano s, sanders s, dettin le, notario
+v. (2003). cancer res 63: 6290–6298.
+um sh, frigerio f, watanabe m, picard f, joaquin m,
+sticker m et al. (2004). nature 431: 200–205.
+urano j, comiso mj, guo l, aspuria pj, deniskin r,
+(2005). mol microbiol 58:
+tabancay jr ap et al.
+1074–1086.
+wang x, huong sm, chiu ml, raab-traub n, huang es.
+(2003a). nature 424: 456–461.
+oncogene
+6360
+upstream of mtor
+mn corradetti and k-l guan
+wang z, malone mh, thomenius mj, zhong f, xu f,
+zacharek sj, xiong y, shumway sd. (2005). cancer res 65:
+distelhorst cw. (2003b). j biol chem 278: 27053–27058.
+11354–11360.
+wendel hg, de stanchina e, fridman js, malina a, ray s,
+zhang h, stallock jp, ng jc, reinhard c, neufeld tp. (2000).
+kogan s et al. (2004). nature 428: 332–337.
+genes dev 14: 2712–2724.
+woods a, johnstone sr, dickerson k, leiper fc, fryer lg,
+zhou g, myers r, li y, chen y, shen x, fenyk-melody j
+neumann d et al. (2003). curr biol 13: 2004–2008.
+et al. (2001). j clin invest 108: 1167–1174.
+oncogene

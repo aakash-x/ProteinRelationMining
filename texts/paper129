@@ -1,0 +1,1412 @@
+oncogene (2007) 26, 4071–4083
+& 2007 nature publishing group all rights reserved 0950-9232/07 $30.00
+www.nature.com/onc
+original article
+nf-jb inhibition sensitizes to starvation-induced cell death in high-risk
+myelodysplastic syndrome and acute myeloid leukemia
+c fabre1,2,3, g carvalho1,2,3,4, e tasdemir1,2,3, t braun1,2,3, l ade` s1,2,3,5, j grosjean1,2,3,
+s boehrer1,2,3, d me´ tivier1,2,3, s souque` re6, g pierron6, p fenaux1,5 and g kroemer1,2,3
+1inserm, unit ‘apoptosis, cancer and immunity’, villejuif, france; 2institut gustave roussy, villejuif, france; 3faculte´ paris
+sud-universite´ paris xi, villejuif, france; 4inserm u542, hoˆpital paul brousse, universite´ paris xi, villejuif, france; 5service
+d’he´matologie clinique, hoˆpital avicenne, ap-hp, universite´ paris xiii, bobigny, france and 6cnrs, institut andre´ lwoff,
+villejuif, france
+cd34+ bone marrow blasts from high-risk myelodysplas-
+tic syndrome (mds) patients as well as mds patient-
+derived cell
+lines (p39 and molm13) constitutively
+activate the nuclear factor-jb (nf-jb) pathway and
+undergo apoptosis when nf-jb is inhibited. here, we
+show that the combination of conventional chemothera-
+peutic agents (daunorubicin, mitoxantrone, 5-azacytidine
+or camptothecin) with the nf-jb inhibitor bay11-7082
+did not yield a synergistic cytotoxicity. in contrast,
+bay11-7082 (which targets the nf-jb-activating i-jb
+kinase (ikk) complex) or knockdown of essential compo-
+nents of the nf-jb system (such as the ikk1 and ikk2
+subunits of the ikk complex and the p65 subunit of
+nf-jb), by small interfering rnas sensitized mds cell
+lines to starvation-induced apoptosis. the combination
+of bay11-7082 and nutrient depletion synergistically
+killed the acute myeloid leukemia (aml) cell line u937
+as well as primary cd34+ bone marrow blasts from aml
+and high-risk mds patients. the synergistic killing by
+bay11-7082, combined with nutrient depletion, led to cell
+death accompanied by all hallmarks of apoptosis, includ-
+ing an early loss of the mitochondrial transmembrane
+potential, the release of cytochrome c and apoptosis-
+inducing factor (aif) from mitochondria, activation of
+caspase-3, phosphatidylserine exposure on the plasma
+membrane surface and nuclear chromatin condensation.
+transmission electron microscopy revealed the presence
+of numerous autophagic vacuoles in the cytoplasm before
+cells underwent nuclear apoptosis. nonetheless, cell
+death was neither inhibited by the pan-caspase inhibitor
+z-vad-fmk nor by knockdown of aif or of essential
+components of the autophagy pathway (atg5, atg6/
+beclin-1, atg10, atg12). in contrast, external supply of
+glucose, insulin or insulin-like growth factor-i could retard
+the cell death induced by bay11-7082 combined with
+starvation. these results suggest that in mds cells,
+nf-jb inhibition can precipitate a bioenergetic crisis
+correspondence: dr g kroemer, cnrs-fre 2939, institut gustave
+roussy, pr1, 39 rue camille desmoulins, f-94805 villejuif, france.
+e-mail: kroemer@igr.fr
+received 24 may 2006; revised 11 october 2006; accepted 3 november
+2006; published online 8 january 2007
+that leads to an autophagic stress response followed by
+apoptotic cell death.
+oncogene (2007) 26, 4071–4083; doi:10.1038/sj.onc.1210187;
+published online 8 january 2007
+keywords: apoptosis; autophagy; caspases; chemotherapy;
+mitochondria
+introduction
+the molecular control of cell death constitutes a dual
+conundrum for oncology. on the one hand, cancer cells
+develop resistance against cell death induced by adverse
+conditions such as hypoxia, acidosis, the absence of
+trophic support or the presence of inhibitory factors
+(hanahan and weinberg, 2000). on the other hand,
+most of the weapons in the oncologist’s armamentarium
+are designed to induce cancer cell death, meaning that
+the acquired resistance of tumor cells against lethal
+stimuli eventually seals the patient’s fate (igney and
+krammer, 2002).
+cell death can result from distinct processes, namely
+type 1 cell death (apoptosis) and type 2 cell death
+(autophagy) (kroemer et al., 2005). apoptosis is deﬁned
+as cell death accompanied by a stereotyped pattern of
+morphological alterations,
+in particular nuclear con-
+densation (pyknosis) and fragmentation (karyorhexis).
+although caspases are required for the acquisition of the
+full-blown apoptotic phenotype, their contribution to
+lethal signaling is debated, and most dead cells that
+cumulate in apoptosis are not prevented when caspase
+activation is suppressed by addition of chemical caspase
+inhibitors (chipuk and green, 2005; kroemer and
+martin, 2005). caspase-independent death effectors,
+including apoptosis-inducing factor (aif), have been
+accused of mediating so-called caspase-independent cell
+death (modjtahedi et al., 2006). type 2 cell death is
+characterized by the accumulation of autophagic va-
+cuoles in the cytoplasm surrounding a normal nucleus
+(kroemer and jaattela, 2005). although there are a few
+examples in which autophagy contributes to cell death
+4072
+nf-jb-dependent sensitization to starvation
+c fabre et al
+(shimizu et al., 2004; yu et al., 2004), in most cases
+interventions designed to suppress autophagy do not
+prevent type 2 cell death, suggesting that this death
+modality occurs with, but not
+through, autophagy
+(kroemer and jaattela, 2005). in many paradigms,
+autophagy actually constitutes a mechanism of adapta-
+tion to nutrient stress (in which case autophagy allows
+macromolecules to catabolize, to generate atp and
+other building blocks of biogenesis) or to organelle
+stress (in which damaged organelles are removed by the
+autophagic machinery) (shintani and klionsky, 2004;
+levine and yuan, 2005). moreover, cell death that has
+initially adopted a type 2 morphology may switch to
+type 1 at a late stage of the process,
+in a caspase-
+fashion (martin and baehrecke, 2004;
+dependent
+gonzalez-polo et al., 2005).
+nuclear factor-kb (nf-kb) is a prominent transcrip-
+tion factor that is frequently upregulated in cancer and
+that inhibits cell death (karin et al., 2004; israel and
+kroemer, 2006). although little is known about the
+impact of nf-kb on autophagy, it is clear that nf-kb
+can upregulate a plethora of apoptosis-inhibitory gene
+products. recently, we have found that nf-kb may
+play an important role in the switch of myelodysplastic
+syndrome (mds) from a pre-neoplastic to a neoplastic
+condition. indeed, low-risk mds is characterized by the
+expansion of mutated hematopoietic stem cells (which
+are cd34 þ) in the bone marrow that fail to differentiate
+correctly and rather undergo premature apoptosis
+(fenaux, 2005). these low-risk mds cd34 þ bone
+marrow cells show no signs of nf-kb activation.
+however, cd34 þ bone marrow cells from high-risk
+mds (which eventually transform into acute myeloid
+leukemia (aml)), combine a blockage in differentiation
+with a resistance against apoptosis. such high-risk
+mds cd34 þ bone marrow cells not only exhibit a
+pi
+control
+starvation
+12
+101
+102
+103
+104
+100
+101
+102
+103
+104
+100
+bay 11-7082 + z-vad-fmk
+28
+11
+100
+101
+102
+103
+104
+bay 11-7082 + starvation bay 11-7082 + starvation + z-vad-fmk
+98
+100
+101
+102
+103
+104
+bay 11-7082
+30
+96
+14
+100
+101
+102
+103
+104
+100
+104
+101
+102
+103
+dioc6(3)
+dioc6(3)low/pi-
+dioc6(3)low/pi+
+100
+80
+60
+40
+20
+bay11-7082 [µm]
+starvation
+z-vad-fmk
+2.5
+2.5
+2.5
+2.5
+figure 1 bay11-7082-mediated sensitization of p39 cells to starvation-induced cell death, determined at the mitochondrial level. p39
+cells were cultured in complete rpmi 1640 medium in the presence of 10% fcs (control); starvation (that is nutrient- and serum-free)
+medium, in the absence or presence of bay11-7082 (5 mm) and/or z-vad-fmk (100 mm) for 12 h, followed by simultaneous staining
+with the dcm-sensitive ﬂuorochrome dioc6(3) and the vital dye pi. representative facs diagrams are shown in (a), and quantitative
+data (means of three independent experiments7s.d.) are shown in (b) for different bay11-7082 concentrations (2.5 or 5 mm). all
+results are representative of at least three independent determinations. note that the pan-caspase inhibitor z-vad-fmk (100 mm),
+added to the medium 1 h before bay11-7082, had no cell death-inhibitory effects.
+oncogene
+that
+constitutive nf-kb activation but, moreover, critically
+depend on this nf-kb activation, as demonstrated by
+the fact
+its inhibition causes their immediate
+apoptosis (carvalho et al., 2006; braun et al., 2006b).
+very similar data have been reported on aml,
+irrespective of the etiology of the disease (which may
+be primary, post-mds or secondary to chemotherapy of
+other malignancies). cd34 þ cells from aml patients
+exhibit constitutive nf-kb activation and die when
+nf-kb is inhibited (guzman et al., 2001; birkenkamp
+et al., 2004).
+the nf-kb pathway can be targeted indirectly by
+agents that inhibit the proteasome (such as bortezomib)
+(mani and gelmann, 2005; rajkumar et al., 2005) and
+that increase the cytosolic concentration of the inhibitor
+of nf-kb (i-kb), or more speciﬁcally by antagonists of
+the nf-kb activating kinase complex (the so-called i-kb
+kinase, ikk) (karin et al., 2004). using a speciﬁc
+inhibitor of ikk, bay11-7082, we addressed the
+question as to whether nf-kb inhibition may be
+used to sensitize mds cells to cell death induction.
+nf-jb-dependent sensitization to starvation
+c fabre et al
+as shown here, bay11-7082 enhances cell death of
+mds cells that are depleted from nutrients, and this cell
+death pathway exhibits characteristics of type 1 and type
+2 cell death.
+4073
+results and discussion
+nf-kb inhibition sensitizes to starvation-induced
+cell death
+the myelomonocytic p39 cell
+line, which has been
+derived from the bone marrow of an mds/aml patient
+(nagai et al., 1984), exhibits constitutive nf-kb
+activation, accompanied by the nuclear translocation
+the nf-kb subunit p65 (braun et al., 2006a).
+of
+addition of bay11-7082, an inhibitor of
+ikk1
+(engedal and blomhoff, 2003) that potently inhibits
+nf-kb activation in p39 cells (braun et al., 2006a),
+sensitized p39 cells to the induction of cell death by
+starvation,
+is culture in serum and nutrient-
+free conditions. within the time frame that we chose,
+that
+control
+starvation
+bay 11-7082 + z-vad-fmk
+100 101
+11
+102
+103 104
+100 101
+16
+102
+103 104
+100 101
+28
+102
+103 104
+pi
+100 101
+bay 11-7082
+bay 11-7082 + starvation bay 11-7082 + starvation + z-vad-fmk
+27
+102
+103 104
+100 101
+100
+102
+103 104
+100 101
+100
+102
+103 104
+annexin v-fitc
+annv+/pi-
+annv+/pi+
+100
+80
+60
+40
+20
+bay11-7082 [µm]
+starvation
+z-vad-fmk
+2.5
+2.5
+2.5
+2.5
+figure 2 bay11-7082-mediated sensitization of p39 cells to starvation-induced cell death, determined at the level of the plasma
+membrane. p39 cells were cultured as in figure 1, followed by simultaneous staining with the phosphatidylserine-binding probe
+annexin v–fitc and pi. representative facs diagrams are shown in (a), and quantitative data (means of three independent
+experiments7s.d.) are shown in (b). similar results have been obtained in three independent experiments.
+oncogene
+4074
+nf-jb-dependent sensitization to starvation
+c fabre et al
+bay11-7082 had little effect on the survival of the p39
+population (causing b30% of cell death at 5 mm), and
+starvation did not compromise the survival of p39 cells
+at all. however, the combination of bay11-7082 and
+starvation killed most, if not all, p39 cells, exhibiting a
+clear synergism. this synergistic cytotoxic effect was
+observed using three different experimental criteria,
+namely dissipation of the mitochondrial transmembrane
+potential (dcm measured by staining with diaminidino-
+2-phenylindole (dioc6(3)), figure 1a and b), exposure
+of phosphatidylserine residues on the plasma membrane
+(detected by staining with annexin v-ﬂuorescein
+isothiocyanate (fitc) conjugates, figure 2a and b)
+or plasma membrane permeabilization (measured by
+staining with the vital dye propidium iodide (pi);
+figures 1 and 2). the cooperative killing by bay11-
+7082 and starvation was observed for another mds/
+line (molm13, figure 3), as well as for
+aml cell
+the aml cell
+line u937 (see below), and was not
+affected by addition of the pan-caspase inhibitor z-val-
+ala-aza-ﬂuoromethylketone (z-vad-fmk) (figures 1–3),
+indicating that it occurred in a caspase-independent
+fashion. however, cell death induced by the combina-
+tion of bay11-7082 and starvation exhibited typical
+features of apoptosis (kroemer et al., 2005) with
+advanced chromatin condensation and karyorhexis,
+as determined by transmission electron microscopy
+(figure 4a). in spite of the fact that z-vad-fmk pre-
+vented full-blown chromatin condensation (figure 4b),
+it failed to preserve the plasma membrane integrity of
+cells succumbing to the combination of bay11-7082
+plus starvation (figures 1–3). this indicates that the
+apoptotic morphology depended on caspase activation,
+whereas cell death occurred in a caspase-independent
+fashion. the combination of bay11-7082 and nutrient
+depletion also exerted synergistic cytotoxic effects on
+primary cd34 þ bone marrow cells from high-risk mds
+and aml patients, yet had much less effects on cd34 þ
+bone marrow cells from control patients, as exempliﬁed
+5 %
+8 %
+33 %
+control
+starvation
+bay11-7082
+1 µm
+merge
+hsp60
+dna
+67 %
+bay11-7082 + starvation
+control
+starvation
+6 % 
+17 % 
+60
+50
+40
+30
+20
+10
+bay11-7082[µm]
+starvation
+z-vad-fmk
+60
+50
+40
+30
+20
+10
+bay11-7082[µm]
+starvation
+z-vad-fmk
+dioc6(3)low/pi-
+dioc6(3)low/pi+
+annv+/pi-
+annv+/pi+
+figure 3 bay11-7082-mediated sensitization of molm13 cells
+to starvation-induced cell death. molm13 cells were cultured as in
+figures 1 and 2, followed by simultaneous staining with dioc6(3)
+and pi (a) or annexin v–fitc and pi (b). means of three
+independent experiments7s.d. are shown.
+oncogene
+10 µm
+bay11-7082
+bay11-7082 + starvation
+19 %
+54 %
+bay11-7082 + starvation + z-vad-fmk
+8 %
+figure 4 morphological appearance of p39 cells killed by
+starvation plus bay11-7082. (a) transmission electron microscopy
+of cells treated by the indicated agents and culture conditions for
+12 h (as in figures 1 and 2). (b) fluorescence microphotographs of
+cells stained with hoechst 33342 (blue ﬂuorescence speciﬁc for
+chromatin) and an antibody recognizing hsp60 (red ﬂuorescence
+speciﬁc for mitochondria). percentage values refer to the percen-
+tage of cells manifesting apoptotic chromatin condensation. this
+experiment has been repeated three times, yielding similar results.
+in figure 5. again, this combined cytotoxic effect was
+not inhibited by z-vad-fmk (figure 5).
+in view of the possibility that the kinase inhibitor
+bay11-7082 might exert nonspeciﬁc or off-target
+effects, we performed a series of experiments in which
+the nf-kb system was inhibited by small interfering
+rnas (sirnas) targeting the nf-kb subunit p65 or the
+catalytic subunit of the ikk complex, ikk1 and/or
+ikk2. shortly (24 h) after transfection with these
+sirnas (but not with a sirna that
+targets the
+functionally irrelevant emerin mrna), p39 cells were
+more susceptible to starvation-induced death than
+control cells (note the effect on the delta between
+culture in rich medium versus starvation for the different
+transfectants in figure 6a). however, inhibition of the
+nf-kb pathway killed p39 cells alone, especially at later
+(48 h) time points (figure 6b), in line with our published
+results (braun et al., 2006a).
+nf-jb-dependent sensitization to starvation
+c fabre et al
+these results demonstrate the possibility of sensi-
+tizing mds/aml cell
+to starvation-induced,
+caspase-independent killing by inhibiting the nf-kb
+pathway.
+lines
+4075
+failure of nf-kb inhibition to sensitize to
+chemotherapy-induced death
+high-risk mds and aml are treated by a number
+of different chemotherapeutic agents,
+in particular
+anthracyclins (such as daunorubicin and mitoxantrone)
+(dombret et al., 2002), the topoisomerase i inhibitors
+(such as camptothecin) (ribrag et al., 2003) and more
+recently with the dna methylation inhibitor 5-azacy-
+tidine (silverman and mufti, 2005). nf-kb inhibition
+can enhance the susceptibility of a variety of epithelial
+and hematopoietic malignancies to chemotherapy-in-
+duced cell death (karin et al., 2004; luo et al., 2005;
+control
+patient
+control
+pi
+100
+101
+102
+103
+control
+high-risk
+mds
+pi
+100
+101
+102
+103
+10
+104
+100
+19
+bay 11-7082
+starvation
+11
+bay 11-7082
++ starvation
+25
+bay 11-7082
++ starvation
++ z-vad-fmk
+24
+101
+102
+103
+bay 11-7082
+104
+100
+101
+102
+103
+104
+100
+101
+102
+103
+104
+100
+101
+102
+103
+104
+annexin v-fitc
+starvation
+22
+bay 11-7082
++ starvation
++ z-vad-fmk
+72
+bay 11-7082
++ starvation
+68
+100
+101
+102
+11
+103
+100
+104
+101
+102
+103
+104
+12
+20
+104
+100
+101
+102
+103
+104
+100
+101
+102
+103
+104
+annexin v-fitc
+aml
+pi
+control
+bay 11-7082
+starvation
+bay 11-7082
++ starvation
+41
+19
+77
+44
+30
+32
+19
+101
+102
+103
+104
+annexin v-fitc
+100
+101
+102
+103
+104
+100
+101
+102
+103
+104
+100
+100
+101
+102
+103
+104
+100
+101
+102
+103
+104
+bay 11-7082
++ starvation
++ z-vad-fmk
+81
+figure 5 effect of bay11-7082, starvation and z-vad-fmk on primary cd34 þ bone marrow cells from controls (a), high-risk mds
+patients (b) and aml patients (c). cd34þ cells were puriﬁed from bone marrow aspirates and cultured in conditions of ikk inhibition
+(5 mm bay11-7082), nutrient depletion and/or caspase inhibition (100 mm z-vad-fmk), followed by staining with annexin v–fitc
+and pi to determine the frequency of dying (annexin v þ , pi ) or dead (annexin v þ , pi þ ) cells. numbers in each quadrant indicate the
+percentage of cells. results are shown for individual samples. similar results were obtained for additional controls (n¼ 7), high-risk
+mds (n¼ 8) and aml patients (n¼ 3).
+oncogene
+nf-jb-dependent sensitization to starvation
+c fabre et al
+dioc6(3)low/pi-
+dioc6(3)low/pi+
+4076
+24 h
+60
+50
+40
+30
+20
+10
+60
+50
+40
+30
+20
+10
+starvation
+- +
+- +
+- +
+control emerin ikk1 
+sirna
+48 h
+dioc6(3)low/pi-
+dioc6(3)low/pi+
+- +
+ikk2 
+sirna
+- +
+ikk 1+2 
+sirna
+- +
+p65 
+sirna
+- +
+ikk2 
+sirna
+- +
+ikk 1+2 
+sirna
+- +
+p65 
+sirna
+starvation
+- +
+- +
+- +
+control emerin ikk1 
+sirna
+co.     emerin    ikk1
+co.     emerin    ikk2
+co.     emerin    p65
+ikk1
+gapdh
+ikk2
+gapdh
+p65
+gapdh
+85 kda
+37 kda
+87 kda
+37 kda
+65 kda
+37 kda
+figure 6 sensitization of p39 cells to starvation-induced cell death
+by knockdown of ikk and p65. p39 cells were sham-transfected or
+transfected with sirnas speciﬁc for emerin, p65, ikk1 and/or
+ikk2. cells were subjected to the indicated sirna transfection
+and were analyzed 24 (a) or 48 h (b) post-transfection. twelve
+hours before analysis, cells were washed and either suspended in
+complete rpmi 1640 medium or nutrient-depleted medium
+(starvation). finally, cells were stained with dioc6(3) plus pi,
+and analyzed by cytoﬂuorometry. mean results of
+triplicates
+(x7s.d.) are shown. downregulation of ikk1, 2 and p65 was
+corroborated by immunoblot analysis, 48 h after transfection (c).
+this experiment has been repeated three times.
+braun et al., 2006b). therefore, we investigated the
+possibility of sensitizing p39 cells to chemotherapeutic
+agents by inhibiting ikk with bay11-7082. p39 cells
+were
+incubated with increasing concentrations of
+daunorubicin, mitoxantrone (figure 7a), 5-azacytidine
+or camptothecin (figure 7b), alone or in combination
+with 5 mm bay11-7082. this dose of bay11-7082
+strongly sensitized to starvation-induced apoptosis in
+parallel experiments (figures 1–3), and was sufﬁcient to
+kill 20–40% of the cells (figure 7a and b). however,
+there was no synergism between chemotherapy and ikk
+inhibition at any of the time points investigated (6–48 h).
+thus, the cooperative killing effect for nf-kb inhibition
+plus starvation (figures 1–6) is unique thus far in that
+it cannot be extrapolated to standard chemotherapy
+regimens.
+oncogene
+mechanisms of starvation-induced death of
+nf-kb-inhibited cells
+to obtain some mechanistic insights into the synergistic
+killing induced by bay11-7082 plus starvation, we
+investigated the culture conditions required for this
+effect. addition of
+fetal calf serum (fcs) greatly
+attenuated the effect of the otherwise lethal combination
+(bay11-7082 plus starvation). this death-inhibitory
+effect of fcs was further enhanced by addition of
+insulin-like growth factor-i and insulin. this result was
+obtained both in p39 mds cells (figure 8a) and in u937
+aml cells (figure 8b). these data suggest that the
+absence of trophic factors is co-responsible for cell death
+induction by starvation plus bay11-7082. we also
+wondered whether the absence of energy supply might
+seal the cell’s fate in this system, in particular because
+dialysed serum lost its capacity to antagonize the lethal
+effects of bay11-7082 (not shown). supplementation of
+cultures maintained in bay11-7082 plus earle’s ba-
+lanced salt solution (ebss) (starvation medium) with
+glucose partially reduced cell killing.
+in contrast,
+supplementation with high doses (5 mm) of pyruvate
+or methylpyruvate (a plasma membrane-permeable
+pyruvate derivative) had little,
+if any, cytoprotective
+effect on the system (figure 8c). these data suggest that
+a combination of energy depletion and lack of trophic
+factors account for the cytocidal activity of starvation
+plus bay11-7082. as energy depletion is counteracted
+by autophagy (which allows for the catabolic generation
+of atp), we investigated the impact of starvation, alone
+or together with bay11-7082, on autophagy in p39
+cells. in this cell line, transfection with the gfp-lc3
+chimera (mizushima et al., 2004) was lethal (not shown),
+meaning that we had to rely on electron microscopy to
+quantify autophagic vacuolization. as expected, starva-
+tion alone induced autophagic vacuolization, whereas
+bay11-7082 had little or no effect on autophagy.
+however, the combination of starvation and bay11-
+7082 induced accelerated autophagic vacuolization,
+inducing the presence of both immature and mature
+autophagic vesicles (figure 9). this enhanced autopha-
+gic vacuolization was observed in cells that bear non-
+apoptotic nuclei (figure 9a). in contrast, when cells
+acquire the apoptotic morphology, they are devoid of
+autophagic vacuoles, perhaps as a result of general
+cytoplasmic shrinkage (see above, figure 4a).
+cell death induced by the combination of bay11-
+7082 plus starvation was accompanied by the activation
+of caspase-3, because a fraction of the cells stained
+positively with an antibody that recognizes active
+caspase-3 (figure 10). however, cell death proceeded
+in a caspase-independent fashion (figures 1–3). we,
+therefore, investigated the role of mitochondria in the
+cell death process. the mitochondrial intermembrane
+proteins cytochrome c, endonuclease g and aif usually
+colocalized with the mitochondrial matrix marker
+hsp60 in a pole of the cytoplasm, in healthy normal
+p39 cells (figure 10a, upper panels). however, after
+starvation in the presence of bay11-7082, cytochrome
+c, endonuclease g and aif distributed diffusely in the
+lower
+entire cell
+including the nucleus (figure 10a,
+100
+80
+60
+40
+20
+bay11-7082 [µm]
+daunorubicin [µm]
+mitoxantrone [µg/ml]
+100
+80
+60
+40
+20
+bay11-7082 [µm]
+5-azacytidine [µm]
+camptothecin [µm]
+nf-jb-dependent sensitization to starvation
+c fabre et al
+4077
+annv+/dapi-
+annv+/dapi+
+0.25 0.5 0.75
+2.5
+0.25 0.5
+0.75
+2.5
+annv+/dapi-
+annv+/dapi+
+10 25 50
+20
+30
+40
+10
+25
+50
+20
+30
+40
+figure 7 failure of bay11-7082 to sensitize to cell death induction by cytotoxic agents. p39 cells were cultured in the presence of the
+indicated cytotoxic agents, namely daunorubicin, mitoxantrone (a), 5-azacytidine or camptothecin (b) in the absence or presence of
+5 mm bay11-7082. after 12 h of culture, p39 cells were stained with an annexin v–fitc conjugate plus dapi to determine the
+phosphatidylserine exposure and plasma membrane permeabilization. the indicated parameters of cell death were measured in
+triplicate.
+panels, figure 10b), meaning that
+they had been
+released from mitochondria. thus, mitochondrial outer
+membrane permeabilization (figure 10) and loss of the
+dcm (figure 1) accompany cell death induced by
+starvation plus bay11-7082.
+next, we determined whether
+the inhibition of
+autophagy by targeting essential autophagy genes
+(atg6/beclin-1, atg5, atg10, atg12) with small
+interfering rnas (sirna) would reduce cell killing by
+bay11-7082 plus starvation. transfection of cells with
+sirnas that inhibit autophagy (boya et al., 2005;
+gonzalez-polo et al., 2005; lum et al., 2005) and the
+depletion of essential atg proteins (as shown for
+atg6/beclin-1, figure 11a) had no protective effect on
+cell death induction by bay11-7082 plus starvation,
+even in the presence of z-vad-fmk (figure 11b).
+similarly, the knockdown of aif (figure 12a) failed
+to abolish cell killing induced by bay11-7082 plus
+starvation (figure 12b). these data suggest that cell
+induced by nf-kb inhibition plus starvation,
+death,
+cannot be explained by one single effector mechanism
+(such as aif and/or caspase activation) and that it does
+not result from autophagy.
+concluding remarks
+mds continues
+to constitute a medical problem,
+especially for the aging population, with an incidence
+of >50/100 000 among individuals over 70 years.
+unfortunately, there is no cure for mds apart from
+allotransplantation, which is not a feasible therapeutic
+option in this age group, and the search for therapeutic
+agents is still in progress. the lack of synergistic death-
+inducing effects in mds cell lines suggest that it would
+not be of advantage to combine chemotherapeutic
+agents that are already used in the treatment of mds
+with nf-kb inhibitors (figure 7). such inhibitors might,
+however, be used in monotherapy, and the results
+contained in this paper give some insights into the
+death-inducing action of nf-kb inhibitors. starvation
+from nutrients sensitized mds cells to the induction of
+apoptosis by nf-kb inhibitors such as bay11-7082
+(figures 1–5) or sirna-mediated depletion of ikk1,
+ikk2 or p65 (figure 6). this cell death was apoptotic
+because it displayed chromatin condensation (figure 4)
+as well as biochemical changes that classically accom-
+pany apoptosis (dcm dissipation in figures 1 and 3),
+oncogene
+nf-jb-dependent sensitization to starvation
+c fabre et al
+annv+/pi-
+annv+/pi+
+4078
+100
+p39
+80
+60
+40
+20
+annv+/pi-
+annv+/pi+
+starvation
+bay11-7082
+fcs
+igf-i
+insulin
+100
+u937
+80
+60
+40
+20
+starvation
+bay11-7082
+fcs
+igf-i
+insulin
+annv+/pi-
+annv+/pi+
+100
+p39
+80
+60
+40
+20
+starvation
+bay11-7082
+glucose
+pyruvate
+methyl-pyruvate
+figure 8 action of nutrients and serum factors on the bay11-
+7082-mediated sensitization to starvation-induced cell death. (a)
+p39 cells were cultured for 12 h in the presence of the indicated
+combinations of agents, namely bay11-7082 (5 mm), igf-i (10 ng/
+ml), insulin (500 ng/ml) and/or fcs (10%), complete medium or
+starvation medium. (b) u937 aml cells were cultured as in (a)
+with the sole difference that the experiment was stopped at 24 h
+rather than at 12 h. (c) p39 cells were cultured in the presence of
+bay11-7082 (5 mm), glucose (5 mm), pyruvate (5 mm) and methyl-
+pyruvate (5 mm). cells were stained with fitc–labeled annexin v
+(a–c) and pi (a–c) to determine the percentage of dying and dead
+cells by cytoﬂuorometry. the indicated parameters of cell death
+were measured in triplicate.
+(figure 12) did not prevent cell death induction by
+bay11-7082 plus starvation.
+the combination of starvation and ikk inhibition by
+bay11-7082 produced an atypical result, namely the
+accumulation of autophagic vacuoles (figure 9). this
+accumulation was clearly seen before the cells mani-
+fested the ultrastructural features of apoptosis (figure 9,
+figure 4). a similar phenomenon, namely accumulation
+of autophagic vacuoles before the onset of apoptosis,
+has been described in other systems, particularly in cell
+death induction systems such as the salivary gland of
+the developing drosophila melanogaster (martin and
+baehrecke, 2004; akdemir et al., 2006) or the death of
+lamp2-deﬁcient human cancer cells and mouse ﬁbro-
+blasts (gonzalez-polo et al., 2005). however, autophagy
+did not contribute to cell death because depletion of
+proteins that are essential for autophagy such as atg5,
+atg6/beclin-1, atg10 or atg12 did not prevent
+cell death induced by bay11-7082 plus starvation
+(figure 11). these results indicate that autophagy is
+not required for the induction of apoptosis and cell
+death in this system, in line with the general notion that
+autophagy is a stress response designed to maintain
+cellular homeostasis (and,
+in particular, atp levels)
+in conditions of nutrient stress (boya et al., 2005;
+gonzalez-polo et al., 2005; kroemer and jaattela, 2005;
+levine and yuan, 2005; lum et al., 2005). apparently,
+inhibition of nf-kb did not prevent autophagic
+vacuolization but rather enhanced this phenomenon
+(figure 9), perhaps correlating with enhanced energetic
+demands or expenditure. glucose and agents that
+enhance glucose transport (such as insulin and insulin-
+like growth factor) protect against cell death induced in
+these conditions,
+idea that
+cellular bioenergetics determine the elevated autophagic
+response and subsequent cell death. to our knowledge,
+this is the ﬁst time that nf-kb is involved in the
+regulation of energy metabolism. future studies must
+address this link as well as its putative implication
+in mds.
+in line with the general
+materials and methods
+primary bone marrow cells
+the diagnosis of mds and aml was based on peripheral
+blood counts, as well as cytology of peripheral blood and bone
+marrow, according to the who classiﬁcation. bone marrow
+aspirates were obtained after informed consent using syringes
+containing media supplemented with ethylenediaminetetraace-
+tic acid. the mononuclear cell fraction was isolated by density
+gradient centrifugation using ficoll-paque plus (amersham
+biosciences, sunnyvale, ca, usa). cd34 þ cells were then
+isolated by positive selection with the minimacss system
+(miltenyi biotec, bergish gladbach, germany) following the
+manufacturer’s instructions.
+phosphatidylserine exposure on the plasma membrane
+(figures 2 and 3), mitochondrial release of cytochrome c
+and aif, as well as caspase-3 activation (figure 10).
+however, inhibition of caspases (figures 1–3), knock-
+down of aif (figure 12) or a combination thereof
+cell lines and culture conditions
+the high-risk mds cell line p39/tsugane (nagai et al., 1984)
+(kindly provided by dr yoshida takeda, japan) was subjec-
+ted to karyotypic and immunological analyses, comparing
+them with hl60 cells. in contrast to reports suggesting a
+oncogene
+control (12 h)
+bay11-7082 (12 h)
+starvation (12 h)
+nf-jb-dependent sensitization to starvation
+c fabre et al
+4079
+starvation 
+starvation 
+starvation 
++bay11-7082 (3 h)
++bay11-7082 (6 h)
++bay11-7082 (12 h)
+100 nm
+av ii
+av i 
+autophagic vacuoles
+(type i)
+autophagic vacuoles
+(type ii)
+starvation
+bay11-7082
+12 h
+12 h
+12 h
+3 h
+6 h
+12 h
+figure 9 ultrastructural evidence for autophagy in p39 after starvation and bay11-7082 treatment. (a) p39 cells were cultured
+in nutrient-free medium (starvation) for 3, 6 or 12 h in the presence or absence of 5 mm bay11-7082. arrows indicate the presence
+of autophagic vacuoles in the cytoplasm of non-apoptotic cells. (b) electron microphotographs of early double-membraned (type i)
+and late single-membraned (type ii) autophagic vacuoles induced by the combined treatment (starvation plus bay11-7082).
+(c) quantiﬁcation of autophagic vacuolization. for each combination and time, the area of the cytoplasm occupied by autophagic
+vacuoles (type i and ii) was calculated by morphometric analyses (expressed as % values), on a minimum of 50 non-apoptotic cells per
+point.
+contamination of p39 with hl60 (http://www.dsmz.de), our
+data indicate that p39 has a clearly distinctive phenotype.
+karyotype of p39 cell line was obtained after 24 h culture in
+rpmi 1640 medium with 20% fcs with standard technique.
+chromosome analysis was based on 10 r-banded metaphases,
+and the karyotype was described according to iscn recom-
+mendations. p39 had pseudodiploid chromosome constitu-
+tion with random abnormalities such as add(6q), add(8q),
+add(9p), del(9p) in the second chromosome 9, loss of normal
+chromosome 16 and non-random losses of autosomes and
+chromosomes 2, 3, 4, 10 and 17 changes. a representa-
+tive karyotype of cell
+line could be: 46, xy, add(6)(q23),
+add(8)(q24), add(9)(p24), del(9)(p11), add(10)(p14),  16,
+þ mar. molm13 cells (matsuo et al., 1997) were purchased
+from the deutsche sammlung von mikroorganismen und
+zellkulturen gmbh (dsmz). p39 and molm13 cells were
+cultured in rpmi 1640 (gibcobrl life technologies,
+carlsbad, ca, usa), supplemented with 10% heat-inactivated
+fcs, 2 mm l-glutamine (eurobio, courtaboeuf, france),
+100 iu/ml penicillin and 100 g/ml streptomycin as described
+oncogene
+4080
+nf-jb-dependent sensitization to starvation
+c fabre et al
+cleaved
+caspase-3
+merge
+hsp60
+dna
+control
+4 %
+merge
+hsp60
+dna
+cyt. c
+endo g
+aif 
+3 %
+6 %
+2 %
+36 %
+50 %
+40 %
+33 %
+5 µm
+chromatin condensation
+nuclear aif
+cleaved caspase-3
+diffuse cytochrome c
+nuclear endo g
+bay11-7082
++ starvation
+60
+50
+40
+30
+20
+10
+bay11-7082
+starvation
+figure 10 mitochondrial release of caspase-dependent and caspase-independent death effectors after treatment with bay11-7082
+plus starvation. (a) p39 cells were treated with bay11-7082 for 6 h, in the presence or absence of nutrient-free medium (starvation),
+were immobilized on coverslips, ﬁxed, permeabilized and subjected to nuclear counterstaining with the chromatin dye hoechst 33342
+(blue). cells were stained with speciﬁc antibodies, and percentage values refer to cells exhibiting caspase-3 cleavage, mitochondrial
+release of cytochrome c, endo g or aif in the indicated conditions. representative immunoﬂuorescence microphotographs are
+depicted in (a). quantitative data (x7s.d., n¼ 3) are shown in (b).
+(hassan et al., 1999; braun et al., 2006a). u937 aml cells
+were purchased from the atcc. cultures were maintained in
+a humidiﬁed atmosphere containing 5% co2. amino-acid
+starvation of cells was performed using serum-free ebss
+medium (sigma, saint-louis, mo, usa).
+reagents and cell death induction
+105 p39 cells were resuspended in 1 ml of culture medium and
+incubated in the presence or absence of different cell death
+inducers. for caspase inhibition, z-vad-fmk (bachem, king
+of prussia, pa, usa) was added at the same time as cell
+inducers at 100 mm. bay11-7082 (sigma, saint-louis, mo,
+usa) were used at 2.5 and 5 mm for 6 h. cells were cultured in
+the presence of pyruvate (gibco), glucose (sigma), methylpy-
+ruvate (sigma), igf-i (sigma) and insulin (sigma) at 5, 5,
+5 mm, 10 ng/ml and 500 ng/ml, respectively. the following
+chemotherapeutic agents were employed in association with
+bay11-7082: 5-azacytidine (sigma) at 10, 25, 50 mm; camp-
+tothecin (sigma) at 20, 30, 40 mm; mitoxantrone (wyeth
+lederle, madison, nj, usa) at 1, 2.5, 5 mg/ml and daunoru-
+bicin (roger bellon laboratory, paris, france) at 0.25, 0.5,
+0.75 mm.
+or scramble and nf-kb p65 (upstate, lake placid, ny, usa)
+and sequenced p65 (duplex of 50-rgrcrcrcuraurcrcrcu
+uurarcrgurcratt-30/50-urgrarcrgurararargrgrgraura
+rgrgrgrctt-30). rna interference of ikk1 and ikk2 expres-
+sion was obtained using a ikk1 and ikk2 speciﬁc sirna
+(upstate, smartpool). for beclin 1 (national center for
+biotechnology information, accession number af077301)
+rna sequences started at position 189 (cucaggagag
+gagccauuu) and 1206 (gauugaagacacagga
+ggc) from atg (sirna1 and 2, respectively), for atg5
+(bc002699) at position 453 (gcaacucuggaugggau
+ug), for atg10 (nm_031482) at position 391 (ggagu
+ucaugagugcuaua), and for atg12 (nm_004707) at
+position 131 (cagaggaaccugcuggcga) (boya et al.,
+2005). aif was targeted using two distinct sirnas (sirna-
+aif1: 50-gauccuccccgaauaccucdtdt-30
+sirna-
+aif2: 50-cuuguuccagcgauggcaudtdt-30) (vahsen
+et al., 2004). as a control, we targeted the nuclear envelope
+protein emerin, mouse aif (vahsen et al., 2004) or used
+scrambled sirnas whose knockdown do not induce any
+known phenotype. cells were treated 48 h after transfection.
+transfection with small interfering rnas (sirnas)
+cells were transiently transfected with the nucleofactor system
+(amaxa, cologne, germany) using sirnas speciﬁc for emerin
+flow cytometry and assessment of apoptosis
+apoptotic cells were detected by ﬂow cytometry analysis using
+a facscan (becton dickinson, mountain view, ca, usa), as
+described previously. cells were stained with either pi (5 mg/ml
+oncogene
+emerin
+beclin sirna 1
+beclin sirna 2
+bay11-7082[µm]
+starvation
+z-vad-fmk
+100
+80
+60
+40
+20
+beclin sir n a 1
+beclin sir n a 2
+e m erin
+beclin
+(60 kda)
+gapdh
+(37 kda)
+annv+/pi-
+annv+/pi+
+annv+/pi-
+annv+/pi+
+100
+80
+60
+40
+20
+emerin
+atg5 sirna
+atg10 sirna
+atg12 sirna
+bay11-7082[µm]
+starvation
+z-vad-fmk
+figure 11 effect of sirnas speciﬁc for atg genes on cell death
+triggered by bay11-7082 plus starvation.
+(a) representative
+immunoblots showing the effects of sirnas speciﬁc for beclin-1
+(sirna1 and 2) on the expression of beclin-1 protein. note that
+the control sirna speciﬁc for emerin had no effect. (b) effect of a
+battery of sirnas targeting beclin-1, atg5, atg10, atg12, emerin on
+the mortality of cells treated with the indicated agents. cells were
+ﬁrst depleted from beclin-1 or atg gene products for 48 h and
+then cultured for 12 h in the indicated medium, in the absence or
+presence of bay11-7082 and/or z-vad-fmk, and the percentage of
+dead and dying cells (x7s.d., n¼ 3) was determined by annexin
+v–fitc/pi staining.
+pi, sigma, st-louis, mo, usa), or with 40,6-diaminidino-2-
+phenylindole (5 mg/ml dapi, molecular probes) for 15 min
+and concomitantly with 40 nm ﬂuorochrome 3,30 dihexyloxa-
+carbocyanine iodide dioc6 (3) (molecular probes, eugene,
+or, usa) for 15 min at 371c or with annexin v-fitc (bd
+pharmingen), following the manufacturer’s instructions for
+15 min at 41c for determination of
+the mitochondrial
+transmembrane potential (dcm) and phosphatidylserine ex-
+posure.
+4081
+nf-jb-dependent sensitization to starvation
+c fabre et al
+santa cruz biotechnology, santa cruz, ca, usa) was added
+and revealed with the appropriate goat anti-mouse peroxidase-
+labeled secondary ab (amersham), and revealed using an
+enhanced chemiluminescence (ecl) detection system (amer-
+sham). anti-gapdh (glyceraldehyde-3-phosphate dehydro-
+genase) antibody (mouse monoclonal ab, chemicon) was used
+to control equal loading.
+immunoﬂuorescence
+in separate experiments, 105 p39 cells were allowed to adhere
+on polylysin-l coverslips (sigma) and ﬁxed in 4% parafor-
+maldehyde for 20 min at room temperature. cells were
+then permeabilized with sds 0.1% for 10 min at room
+temperature, washed in pbs and stained with activated
+caspase-3 (polyclonal antibody, cell signaling technology)
+cytochrome c (mouse monoclonal ab, bd pharmingen,
+heidelberg, germany), endonuclease g (rabbit polyclonal
+ab, pro-science, woburn, ma, usa), aif (rabbit polyclonal
+ab, chemicon, temecula, ca, usa), hsp60 (mouse mono-
+clonal ab or rabbit polyclonal ab, sigma and stressgen,
+san diego, ca, usa, respectively) and revealed either with a
+goat anti-rabbit and goat anti-mouse igg coupled with alexa
+568 (red) or alexa 488 (green) ﬂuorochromes (molecular
+probes). dna of cells was counterstained either with topro3
+(molecular probes) or hoechst 33342 (molecular probes),
+allowing the discernment of chromatin condensation. two
+hundred cells for each slide were examined independently with
+a lsm 510 confocal microscope (zeiss, thornwood, ny,
+usa) at 63-fold magniﬁcation. background correction of
+ﬂuorescence was performed with the lsm 5 image browser
+(zeiss).
+electron microscopy
+cells were ﬁxed for 1 h at 41c in 1.6% glutaraldehyde in 0.1 m
+so¨ rensen phosphate buffer (ph 7.3), washed, ﬁxed again in
+aqueous 2% osmium tetroxide and ﬁnally embedded in epon.
+electron microscopy was performed with a zeiss em 902
+transmission electron microscope, at 90 kv, ultrathin sections
+(80 nm), stained with lead citrate and uranyl acetate.
+abbreviations
+aif, apoptosis-inducing factor; aml, acute myeloid leuke-
+mia; annv, annexin v; atg, autophagy relevant genes; av,
+autophagic vacuole; bay, bay11-7082; casp-3a, activated
+caspase-3; cyt. c, cytochrome c; dcm, mitochondrial trans-
+membrane potential; dapi, 40,6-diaminidino-2-phenylindole;
+dioc6(3), 3,30 dihexyloxacarbocyanine iodide; ebss, earle’s
+balanced salt solution; endo g, endonuclease g; facs,
+ﬂuorescence-activated cell
+fetal calf serum-
+gapdh, glyceraldehyde-3-phosphate dehydrogenase; hsp60,
+heat shock protein 60; igf-i, insulin-like growth factor-i; ikb,
+inhibitor of nf-kb; ikk, ikb kinase; maif, mouse aif;
+mds, myelodysplastic syndrome; nf-kb, nuclear factor-kb;
+pi, propidium iodide; sirna, small interfering rna; z-vad-
+fmk, n-benzyloxycarbonyl-val-ala-asp-ﬂuoromethylketone.
+sorter; fcs,
+western blot analysis
+cells were washed in phosphate-buffered saline (pbs) and
+lysed in a buffer containing tris 0.05 mm ph 7.5, nacl 5 m,
+np40 10%. fifty micrograms of protein were loaded on a 12%
+sodium dodecyl sulfate-polyacrylamide gel electrophoresis and
+transferred to nitrocellulose. the membrane was incubated for
+1 h in pbs–tween 20 (0.1%) containing 5% non-fat milk.
+primary anti-nf-kb p65 antibody (rabbit polyclonal ab,
+acknowledgements
+cf, sb, et, jg received fellowships from fondation pour la
+recherche me´ dicale, deutsche forschungsgemeinschaft and
+institut national du cancer, respectively. this work has been
+supported by grants from association pour la recherche
+contre le cancer (to gk) and the european union (trans-
+oncogene
+4082
+nf-jb-dependent sensitization to starvation
+c fabre et al
+m aif sir n a
+m aif sir n a 1
+m aif sir n a 2
+e m erin
+aif
+(67 kda)
+gapdh
+(37 kda)
+annv+/pi-
+annv+/pi+
+100
+80
+60
+40
+20
+emerin +
+aif sirna 1
+aif sirna 2
+maif sirna
+bay11-7082[µm]
+starvation
+z-vad-fmk
+figure 12 effect of sirnas speciﬁc for aif on cell death triggered by bay11-7082 plus starvation. (a) representative immunoblots
+showing the effects of sirnas speciﬁc for aif (sirna1 and 2) on the expression of aif protein. note that two control sirnas speciﬁc
+for emerin or mouse aif (maif) had no effect. (b) effect of sirnas targeting aif, maif or emerin on the mortality of cells treated with the
+indicated agents. cells were ﬁrst depleted from aif gene products for 48 h and then cultured for 12 h in the indicated medium, in the
+absence or presence of bay11-7082 and/or z-vad-fmk, and the percentage of dead and dying cells (x7s.d., n¼ 3) was determined by
+annexin v–fitc/pi staining.
+death, right), fondation de france (comite´ leuce´ mies),
+cance´ ropoˆ le ile-de-france, ligue contre le cancer (de´ parte-
+ment de seine saint denis), association laurette fugain (to
+gk) and the mds foundation (to tb).
+references
+akdemir f, farkas r, chen p, juhasz g, medvedova l,
+sass m et al. (2006). autophagy occurs upstream or parallel
+to the apoptosome during histolytic cell death. development
+133: 1457–1465.
+birkenkamp ku, geugien m, schepers h, westra j,
+lemmink hh, vellenga e. (2004). constitutive nf-kb
+dna-binding activity in aml is frequently mediated by
+a ras/pi3-k/pkb-dependent pathway. leukemia
+18:
+103–112.
+boya p, gonzalez-polo ra, casares n, perfettini jl, dessen p,
+larochette n et al. (2005). inhibition of macroautophagy
+triggers apoptosis. mol cell biol 25: 1025–1040.
+braun t, carvalho g, coquelle a, vozenin mc, lepelley p,
+hirsch f et al. (2006a). nf-kb constitutes a potential
+therapeutic target in high-risk myelodysplastic syndromes.
+blood 107: 1156–1165.
+braun t, carvalho g, fabre c, grosjean j, fenaux p,
+(2006b). targeting nf-kb in hematologic
+kroemer g.
+malignancies. cell death differ 13: 748–758.
+carvalho g, fabre c, braun t, grosjean j, ades l, agou f
+et al. (2006). inhibition of nemo, the regulatory subunit of
+the ikk complex, induces apoptosis in high-risk myelodys-
+plastic syndrome and acute myeloid leukemia. oncogene oct
+16 [epub ahead of print].
+chipuk je, green dr. (2005). do apoptotic pathways trigger
+caspase-independent cell death? nat rev mol cell biol 6:
+268–275.
+dombret h, fenaux p, soignet sl, tallman ms. (2002).
+established practice in the treatment of patients with acute
+promyleocytic leukemia and the introduction of arsenic
+trioxide as a novel therapy. semin hematol 39: 8–13.
+engedal n, blomhoff hk. (2003). combined action of erk
+and nf-kb mediates the protective effect of phorbol ester on
+fas-induced apoptosis in jurkat cells. j biol chem 278:
+10934–10941.
+fenaux p. (2005). response assessments in low-risk and high-
+risk myelodysplastic syndromes (mds). semin oncol 32:
+s11–s15.
+gonzalez-polo ra, boya p, pauleau al,
+jalil aa,
+larochette n, souquere s et al. (2005). the apoptosis/
+autophagy paradox. accumulation of autophagic vacuoles
+triggers apoptosis. j cell sci 118: 3091–3102.
+guzman ml, neering sj, upchurch d, grimes b,
+howard ds, rizzieri da et al. (2001). nf-kb is constitu-
+tively activated in primitive human acute myelogenous
+leukemia cells. blood 98: 2301–2307.
+hanahan d, weinberg ra. (2000). the hallmarks of cancer.
+cell 100: 57–70.
+oncogene
+hassan z, fadeel b, zhivotovsky b, hellstrom-lindberg e.
+(1999). two pathways of apoptosis induced with all-trans
+retinoic acid and etoposide in the myeloid cell line p39. exp
+hematol 27: 1322–1329.
+igney fh, krammer ph.
+(2002). death and anti-death:
+tumour resistance to apoptosis. nat rev cancer 2: 277–288.
+israel a, kroemer g. (2006). nf-kb in life/death decisions: an
+introduction. cell death differ 13: 685–686.
+karin m, yamamoto y, wang qm. (2004). the ikk nf-kb
+system: a treasure trove for drug development. nat rev drug
+discov 3: 17–26.
+kroemer g, el-deiry ws, golstein p, peter me, vaux dl,
+vandenabeele p et al. (2005). classiﬁcation of cell death:
+recommendations of the nomenclature committee on cell
+death. cell death differ 12: 1463–1467.
+kroemer g, jaattela m. (2005). lysosomes and autophagy in
+cell death control. nat rev cancer 5: 886–897.
+kroemer g, martin sj.
+(2005). caspase-independent cell
+death. nat med 11: 725–730.
+levine b, yuan j. (2005). autophagy in cell death: an innocent
+convict? j clin invest 115: 2679–2688.
+lum jj, bauer de, kong m, harris hm, li c, lindsten t
+et al. (2005). growth factor regulation of autophagy and cell
+survival in the absence of apoptosis. cell 120: 237–248.
+luo jl, kamata h, karin m. (2005). ikk/nf-kb signaling:
+balancing life and death – a new approach to cancer therapy.
+j clin invest 115: 2625–2632.
+mani a, gelmann ep.
+(2005). the ubiquitin-proteasome
+pathway and its role in cancer. j clin oncol 23: 4776–4789.
+martin dn, baehrecke eh. (2004). caspases function in
+autophagic programmed cell death in drosophila. develop-
+ment 131: 275–284.
+matsuo y, macleod ra, uphoff cc, drexler hg,
+nishizaki c, katayama y et al. (1997). two acute monocytic
+leukemia (aml-m5a) cell lines (molm-13 and molm-14)
+with interclonal phenotypic heterogeneity showing mll-af9
+nf-jb-dependent sensitization to starvation
+c fabre et al
+4083
+fusion resulting from an occult chromosome insertion,
+ins(11;9)(q23;p22p23). leukemia 11: 1469–1477.
+mizushima n, yamamoto a, matsui m, yoshimori t,
+ohsumi y. (2004). in vivo analysis of autophagy in response
+to nutrient starvation using transgenic mice expressing
+a ﬂuorescent autophagosome marker. mol biol cell 15:
+1101–1111.
+modjtahedi n, giordanetto f, madeo f, kroemer g. (2006).
+apoptosis inducing factor (aif): vital and lethal. trends
+cell biol 16: 264–272.
+nagai m, seki s, kitahara t, abe t, minato k, watanabe s
+et al. (1984). a novel human myelomonocytoid cell line, p39/
+tsugane, derived from overt leukemia following myelodys-
+plastic syndrome. gann 75: 1100–1107.
+rajkumar sv, richardson pg, hideshima t, anderson kc.
+(2005). proteasome inhibition as a novel therapeutic target
+in human cancer. j clin oncol 20: 630–639.
+ribrag v, suzan f, ravoet c, feremans w, guerci a,
+dreyfus f et al.
+(2003). phase ii trial of cpt-11 in
+myelodysplastic syndromes with excess of marrow blasts.
+leukemia 17: 319–322.
+shimizu s, kanaseki t, mizushima n, mizuta t, arakawa-
+kobayashi s, thompson cb et al. (2004). a role of bcl-2
+family of proteins in non-apoptotic programmed cell death
+dependent on autophagy genes. nat cell biol 6: 1221–1228.
+shintani t, klionsky dj. (2004). autophagy in health and
+disease: a double-edged sword. science 306: 990–995.
+silverman lr, mufti gj.
+(2005). methylation inhibitor
+therapy in the treatment of myelodysplastic syndrome. nat
+clin pract oncol 2: s12–s23.
+vahsen n, cande c, briere
+joza n,
+mastroberardini pg et al. (2004). aif deﬁciency compro-
+mises oxidative phosphorylation. embo j 23: 4679–4689.
+jj, benit p,
+yu l, alva a, su h, dutt p, freundt e, welsh s et al. (2004).
+regulation of an atg7-beclin 1 program of autophagic cell
+death by caspase-8. science 304: 1500–1502.
+oncogene

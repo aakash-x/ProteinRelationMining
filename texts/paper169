@@ -1,0 +1,1172 @@
+plant cell physiol. 47(12): 1641–1652 (2006)
+doi:10.1093/pcp/pcl031, available online at www.pcp.oxfordjournals.org
+ß the author 2006. published by oxford university press on behalf of japanese society of plant physiologists.
+all rights reserved. for permissions, please email: journals.permissions@oxfordjournals.org
+atatg genes, homologs of yeast autophagy genes, are involved in
+constitutive autophagy in arabidopsis root tip cells
+yuko inoue 1, 3, takao suzuki 1, 3, masaki hattori 1, kohki yoshimoto 2, yoshinori ohsumi 2 and
+yuji moriyasu 1, *
+1 school of food and nutritional sciences, university of shizuoka, 52-1 yada, suruga, shizuoka, 422-8526 japan
+2 division of molecular cell biology, national institute for basic biology, myodaiji-cho, okazaki, 444-8585 japan
+in arabidopsis root tips cultured in medium containing
+sufficient nutrients and the membrane-permeable protease
+inhibitor e-64d, parts of the cytoplasm accumulated in the
+vacuoles of the cells from the meristematic zone to the
+elongation zone. also in barley root tips treated with e-64,
+parts of the cytoplasm accumulated in autolysosomes and pre-
+existing central vacuoles. these results suggest that vacuolar
+and/or lysosomal autophagy occurs constitutively in these
+regions of cells. 3-methyladenine, an inhibitor of autophagy,
+inhibited the accumulation of such inclusions in arabidopsis
+root tip cells. such inclusions were also not observed in root
+tips prepared from arabidopsis t-dna mutants in which
+atatg2 or atatg5, an arabidopsis homolog of yeast atg
+genes essential for autophagy, is disrupted. in contrast, an
+atatg9 mutant,
+in which another homolog of atg is
+disrupted, accumulated a significant number of vacuolar
+inclusions in the presence of e-64d. these results suggest that
+both atatg2 and atatg5 proteins are essential for autophagy
+whereas atatg9 protein contributes to, but is not essential for,
+autophagy in arabidopsis root tip cells. autophagy that is
+sensitive to 3-methyladenine and dependent on atg proteins
+constitutively occurs in the root tip cells of arabidopsis.
+keywords: arabidopsis — autophagy — cysteine protease
+inhibitor — 3-methyladenine — root tip cells — vacuole.
+abbreviations: er, endoplasmic reticulum; gfp, green
+fluorescent protein; 3-ma, 3-methyladenine; ms, murashige and
+skoog; pas, pre-autophagosomal structure; rt–pcr, reverse
+transcription–pcr.
+introduction
+autophagy is a process in which components of cells,
+including cytosol and cell organelles, are degraded in the
+lytic organelles, lysosomes and/or vacuoles. cellular com-
+ponents are enclosed by membrane sacs to make double
+membrane-bounded organelles
+called autophagosomes,
+and transported into lysosomes/vacuoles, where they are
+(dunn
+degraded
+1994, klionsky
+eventually
+2004).
+autophagy is known to occur under nutrient-deficient
+conditions not only in mammalian and yeast cells but also
+in plant cells (chen et al. 1994, aubert et al. 1996, moriyasu
+and ohsumi 1996), and thus is supposed to contribute to
+intracellular nutrient supply when nutrient uptake from the
+environment is limiting. in plant cells,
+it has also been
+observed in various developmental processes (moriyasu and
+hillmer 2000); membranes derived from endoplasmic
+reticulum (er) or the trans-golgi network have been
+observed to enclose a part of the cytoplasm and become a
+vacuole through autophagy in root tip cells, suggesting that
+autophagy is involved in vacuole genesis (marty 1978,
+amelunxen and heinze 1984, hilling and amelunxen 1985,
+marty 1999). recently, it has been shown that autophagy is
+also involved in the regulation of the programmed cell death
+that occurs in pathogen-infected plant cells (liu et al. 2005,
+seay and dinesh-kumar 2005).
+protease inhibitors are useful
+tools for analyzing
+autophagy. the treatment of mammalian cells undergoing
+autophagy with cysteine protease inhibitors
+such as
+leupeptin causes the accumulation of lysosomes containing
+cytoplasmic components, the autolysosomes (kominami
+et al. 1983). similarly, treatment of yeast cells with the
+serine protease inhibitor phenylmethylsulfonyl
+fluoride
+results in the accumulation of membrane-bounded parts
+of the cytoplasm, the autophagic bodies, in the vacuole
+(takeshige et al. 1992). in cultured tobacco cells, auto-
+phagy, which accompanies the net degradation of cellular
+proteins, is induced by transfer to culture medium lacking
+sucrose (moriyasu and ohsumi 1996). the addition of a
+cysteine protease inhibitor such as e-64c,
+leupeptin or
+antipain to the culture medium inhibits net protein
+degradation, and particles of cytoplasm accumulate in
+membrane-bounded structures. they were designated as
+plant autolysosomes by analogy with mammalian cells
+(moriyasu and ohsumi 1996). in the absence of inhibitors,
+the particles of cytoplasm segregated in autolysosomes are
+thought to be degraded by the action of proteases there. of
+various cysteine protease inhibitors, e-64d is a more
+3 these authors contributed equally to this work.
+* corresponding author: e-mail, moriyasu@u-shizuoka-ken.ac.jp; fax, þ81-54-264-5099.
+1641
+1642
+autophagy in arabidopsis root tip cells
+membrane-permeable analog of e-64 (tamai et al. 1986,
+moriyasu 1995). after treatment with e-64d, autolysosomes
+similar to those in cultured tobacco cells accumulated in
+root cells prepared from barley seedlings (moriyasu et al.
+2003). these results strongly suggest that also in plant cells,
+the application of a cysteine protease inhibitor causes the
+accumulation of
+formed by
+autophagy.
+intermediate
+structures
+3-methyladenine (3-ma) was found to be a potent
+inhibitor in mammalian autophagy by screening of various
+kinds of chemicals (gordon and seglen 1982, seglen and
+gordon 1982). it has been thought to block the formation
+of autophagosomes. recently, 3-ma has been shown to
+block autophagy almost completely in tobacco cells
+cultured under nutrient-deficient conditions (takatsuka
+et al. 2004, inoue and moriyasu 2006).
+molecular genetic analysis of autophagy in yeast cells
+cultured under starvation conditions revealed more than a
+dozen genes essential for autophagy (tsukada and ohsumi
+1993, thumm et al. 1994, for a review, see also klionsky
+and ohsumi 1999). these genes were designated as atg
+genes (klionsky et al. 2003). the arabidopsis genome has 25
+atg genes that are homologous to 12 of the yeast atg
+genes (hanaoka et al. 2002), and t-dna mutant plants in
+which atg4, atg5, atg7 and atg9 were disrupted have
+been isolated and characterized (doelling et al. 2002,
+hanaoka et al. 2002, yoshimoto et al. 2004, thompson
+et al. 2005). these mutants entered senescence slightly
+earlier
+they clearly
+displayed earlier senescence syndromes under nutrient-
+deficient conditions, which include earlier degradation of
+chl, chloroplast proteins or cytoplasmic rrna.
+than wild-type plants. moreover,
+in yeast cells, a product of the atg8 gene is known to
+be localized to autophagosomes and thus can be used as a
+marker of autophagosomes formation (kirisako et al.
+1999). the fusion protein of atg8 and green fluorescent
+protein (gfp) expressed in arabidopsis cells was localized
+on punctate structures, which were presumed to be
+autophagosomes by analogy with yeast cells (yoshimoto
+et al. 2004, sla´ vikova´ et al. 2005, thompson et al. 2005).
+when the plants expressing the fusion protein were treated
+-atpase inhibitor concanamycin,
+with the vacuolar h
+fluorescent autophagic bodies, structures deriving from
+autophagosomes, accumulate
+central vacuoles
+(yoshimoto et al. 2004, sla´ vikova´ et al. 2005, thompson
+et al. 2005). in contrast, such accumulation did not occur in
+the arabidopsis atg mutants (yoshimoto et al. 2004,
+thompson et al. 2005). these results were interpreted as
+showing that autophagy does not occur in the atg mutants.
+in two of these studies, autophagy was examined mainly
+under starvation conditions or in the dark where photo-
+synthetic energy supply is limited (yoshimoto et al. 2004,
+thompson et al. 2005), whereas in the other study, it has
+in the
+even
+under
+growth
+favorable
+been reported that autophagosome-like structures are
+observed in the cytoplasm and accumulate in the central
+vacuoles
+conditions
+(sla´ vikova´ et al. 2005). in the present study, using e-64d,
+a reliable autophagy inhibitor other than concanamycin, we
+examined autophagy in the cells of root tips excised from
+arabidopsis and barley seedlings. we found that in root
+cells, autophagy occurs constitutively, although it is further
+activated under nutrient-limiting conditions. we examined
+the effect of 3-ma on this autophagy and whether it occurs
+in the arabidopsis atg mutant plants in which an atg2,
+atg5 or atg9 gene is disrupted.
+results
+morphology of root tips immediately after excision
+we first stained root tips immediately after excision
+from arabidopsis seedlings with neutral red, which stains
+the acidic compartments of cells (fig. 1a). as expected, the
+central vacuoles were stained in the cells of root tips
+(fig. 1a, arrows). in addition to the central vacuoles,
+spherical structures of 0.5–3 mm in diameter were stained
+red in a region from the tips of the roots to approximately
+200 mm away from the tips (fig. 1a, arrowheads). almost
+all of these spherical structures were found in the cytoplasm,
+but some were moving in a brownian manner and thus were
+thought to exist in the central vacuoles. with the exception
+of these structures, almost all vacuoles of the cells in this
+region appeared to be empty. in this study, we did not
+analyze these structures in detail. however, when root tips
+were stained with toluidine blue, similar spherical structures
+were stained blue (fig. 1b, arrowheads). since toluidine
+blue mainly stains protein and/or rna, some of these
+spherical structures could be granules of storage proteins
+located in protein storage vacuoles. in addition,
+large
+central vacuoles in more mature cells above this region also
+appeared empty (image not shown).
+parts of the cytoplasm accumulate in autolysosomes and/or
+pre-existing vacuoles of root cells after treatment with e-64d
+marked morphological changes did not occur in cells
+of root tips incubated in culture medium for 1 d (fig. 1c,
+e). however, particulate structures were found to accumu-
+late in the vacuoles of root tip cells 3 h after the addition of
+e-64d to the culture medium (fig. 1g, 3 h; arrows). the
+number of these structures gradually increased for several
+hours (fig. 1g, 6 and 9 h; arrows), and the accumulation of
+many particulate structures was clearly seen after 1 d
+(fig. 1d, f; arrows). these structures were stained more
+intensely with neutral red than the lumen of the central
+vacuole, probably because of the stronger absorption of the
+dye. such particulate structures were observed in all 20 root
+tips examined in four independent experiments.
+autophagy in arabidopsis root tip cells
+1643
+g 0h0h
+0h
+3h
+3h
+6h
+6h
+9h
+9h
+control
++e64d
+fig. 1 effect of the membrane-permeable cysteine protease inhibitor
+e-64d on the morphology of arabidopsis root tips. root tips were
+excised from the seedlings of arabidopsis (landsberg in a and b, and
+columbia in c–g) grown under nutrient-sufficient conditions.
+(a and b) immediately after excision, root tips were stained with
+neutral red (a) or with toluidine blue (b). arrows in a, central vacuole
+stained with neutral red; arrowheads in a, spherical structures stained
+with neutral red; arrows in b, spherical structures stained with
+toluidine blue. bar in a¼ 50 mm; bar in b¼ 25 mm. (c–f). root tips
+were incubated in the culture medium containing 100 mm e-64d
+(d and f) or 1% (v/v) methanol as a solvent control of e-64d addition
+(c and e) for 1 d. they were stained with neutral red and observed
+by light microcopy. e and f are magnified images of parts of the
+images c and d, respectively. arrows in d and f point to vacuolar
+inclusions. bars in c and d¼ 100 mm; bars in e and f¼ 50 mm.
+(g) root
+tips were incubated in the culture medium containing
+100 mm e-64d for various times indicated in each image, and stained
+with neutral red. arrows point to vacuolar inclusions. bar¼ 50 mm.
+to analyze these particulate structures further, we
+observed the sections of arabidopsis root tips by electron
+microscopy (fig. 2). in both the relatively young and mature
+cells of
+treated with e-64d for 1 d, many
+root
+tips
+degradation products of
+cytoplasmic organelles were
+observed in the vacuoles (fig. 2a, c; arrows). in contrast,
+the vacuole appeared to be almost empty in the cells of root
+tips treated only with 1% (w/v) methanol used as a solvent
+control (fig. 2b, d). these results suggest that cytoplasmic
+particles accumulate in autolysosomes that are newly formed
+or in large pre-existing vacuoles by the treatment with e-64d.
+in a previous study, we reported that when immature
+root tip cells of barley, which lack large vacuoles, are treated
+with e-64d, parts of the cytoplasm mainly accumulate in
+newly synthesized autolysosomes (moriyasu et al. 2003). to
+examine the consistency of the results from arabidopsis root
+tips with those from barley root tips, we observed relatively
+mature cells of barley root tips treated with the inhibitor
+(fig. 3). in these cells, parts of the cytoplasm accumulated
+not only in small vacuoles but also in pre-existing large
+vacuoles (fig. 3, arrows); these small vacuoles appeared to be
+newly formed autolysosomes, and the large vacuoles
+appeared to be pre-existing central vacuoles. even after 1 d,
+we occasionally observed small autolysosomes outside of the
+central vacuole (data not shown). these results suggest that
+autolysosomes formed in the cytoplasm fuse with the central
+vacuole and, as a result, particles in autolysosomes are
+transferred into the central vacuole.
+autophagy in root tip cells is inhibited by 3-ma
+to investigate whether or not 3-ma inhibits autophagy
+in the root tip cells, we cultured arabidopsis root tips in the
+presence of e-64d and/or 3-ma for 1 d (fig. 4). after
+incubation, root tips were stained with neutral red and
+observed by light microscopy (fig. 4a–c). this result was
+consistent with our previous observations; empty vacuoles
+were mostly observed in control root tips, which were treated
+with 1% (v/v) methanol as a solvent control of e-64d
+addition and 5% (v/v) water as a solvent control of 3-ma
+addition, whereas particulate structures accumulated in
+central vacuoles in root tips that were cultured in the
+presence of e-64d and water (fig. 4b vs. a). in contrast, in
+root tip cells cultured in the presence of both e-64d and
+3-ma,
+the number of particulate structures decreased
+(fig. 4c vs. b). thirteen out of 17 root tips showed a clear
+decrease (a representative image is presented in fig. 4c), and
+the other four root tips showed a slight decrease.
+3-ma blocks autophagy in tobacco cells cultured
+under sucrose starvation conditions almost completely
+(takatsuka et al. 2004). in contrast, the inhibition of
+autophagy by 3-ma did not appear to be complete in the
+tips cells of arabidopsis, and we detected some
+root
+accumulation of inclusion bodies in the vacuole even in
+the presence of 3-ma (fig. 4, compare a and c). thus it is
+possible that a sufficient concentration of 3-ma is unable to
+diffuse into intact root tips, and thus the concentration of
+3-ma in root tip cells could be suboptimal.
+autophagy in arabidopsis root tip cells
+cv
+cv
+1644
+fig. 2 electron micrographs of
+the cells of
+arabidopsis root tips cultured in the presence
+of e-64d. root
+tips were excised from the
+seedlings of arabidopsis (landsberg) grown
+under nutrient-sufficient conditions and incu-
+bated in the culture medium containing
+sucrose in the presence (a and c) or absence
+(b and d) of e-64d for 1 d. they were fixed and
+embedded in plastic blocks. sections made
+from these blocks were stained with uranyl
+acetate and lead nitrate, and observed by
+electron microscopy.
+relatively
+young root
+tip cells (c and d) and mature
+vacuolated cells (a and b) are shown. arrows
+point to vacuolar inclusions. cv, the central
+vacuoles; n, nucleus. bar¼ 2 mm.
+images of
+isolation of atg2, atg5 and atg9 mutant plants
+atg genes are essential for autophagy to occur in yeast
+cells under nutrient starvation conditions (klionsky and
+ohsumi 1999). to examine whether arabidopsis genes
+homologous to these yeast atg genes (atatgs) are
+involved in autophagy in root tip cells, we used mutant
+plants in which atatg genes were disrupted. we chose
+atatg2 (at3g19190), atatg5 (at5g17290) and atatg9
+(at2g31260) because the blastp search for the homologs
+of yeast atg2, atg5 and atg9 genes revealed only one
+homolog of each gene in the arabidopsis genome. the
+amino acid sequences of atatg5 and atatg9 proteins have
+already been aligned with their counterparts from other
+organisms (thompson et al. 2005, hanaoka et al. 2002,
+respectively). here we present the alignment of atatg2 with
+its homologs from other organisms (supplementary fig. 1).
+atatg2 protein has 29 and 33% amino acid similarity with
+its counterparts of yeast
+(atg2 protein) and human
+root
+tips
+this
+using
+fluorescent
+inclusions accumulating in autolysosomes in tobacco
+culture cells and barley root tip cells can be stained with
+lysotracker red (moriyasu et al. 2003). we stained
+arabidopsis
+dye
+(fig. 4d–l) and confirmed by this staining that parts of
+the cytoplasm accumulate in vacuoles or lysosomes in the
+presence of e-64d (fig. 4, compare d and e, or j and k).
+treatment with 3-ma decreased the quantity of these
+inclusions (fig. 4; compare e and f, or k and l). we
+interpret these data as demonstrating that 3-ma blocks
+a step upstream from the step of proteolysis that is sensitive
+to e-64d and, as a result, autophagic inclusions did not
+accumulate even in the presence of e-64d.
+putting the results obtained thus far in this study and
+the results from a previous study (moriyasu et al. 2003)
+together, we conclude that autophagy occurs in root tip
+cells of barley and arabidopsis and that we can observe
+autophagy by light microscopy after treatment with e-64d.
+autophagy in arabidopsis root tip cells
+1645
+fig. 3 electron micrograph of the relatively mature cells of barley
+root tips cultured in the presence of e-64d. barley root tips were
+kept in the culture medium containing 3% (w/v) sucrose in the
+presence of 100 mm e-64d for 4 h (b) or 8 h (c), or in the presence
+of only methanol
+for 8 h (a). they were then fixed with
+glutaraldehyde and embedded in the blocks of spurr’s resin.
+sections made from these blocks were stained with kmno4 and
+uranyl acetate, and observed by electron microscopy. arrows point
+to vacuolar inclusions. some central vacuoles of the control cells
+(a) also contain several electron-dense particles (a, arrowheads).
+the surfaces of these particles were smooth and were different from
+those in autolysosomes (b and c, arrows). v, vacuole; n, nucleus.
+bar¼ 5 mm.
+(kiaa0404 protein),
+respectively. atatg2 protein is
+presumed to have 1,862 amino acids and a mol. wt of
+205,471.
+fig. 5 shows the structures of these atatg genes.
+the atatg5 gene is composed of eight exons (fig. 5a),
+in
+of
+the
+shown
+already
+previous
+numbering
+atatg5 mutants
+which was
+study
+(thompson et al. 2005). in one of the two mutant alleles
+of atg5 used in this study (designated as atatg5-3
+considering
+in
+thompson et al. 2005), t-dna was inserted into the first
+exon. in the other atg5 mutant allele (atatg5-1), which is
+the same as atatg5-1 reported in thompson et al. (2005),
+t-dna was inserted into the fourth intron. the atatg9
+gene consists of nine exons (hanaoka et al. 2002), and
+t-dna had been introduced into the sixth exons in the
+atatg9 mutant
+considering
+the numbering of atatg9 mutants in hanaoka et al.
+(2002)] used in this study (fig. 5a). in the atatg2 mutant
+(designated as atatg2-1), t-dna was introduced into
+the fifth long exon of atatg2 composed of 12 exons
+(fig. 5a). dna sequencing around the inserted t-dna in
+the atatg2-1 mutant clarified that seven bases in the fifth
+exon (þ3,661 to þ3,667) are deleted in place of the insertion
+of t-dna.
+[designated
+atatg9-2
+as
+we confirmed that normal mrnas for the atatg2,
+atatg5 and atatg9 genes were not present in either the
+leaf or root of atatg2-1, atatg5-3 and atatg9-2 mutants,
+respectively, by reverse
+tanscription–pcr (rt–pcr)
+(fig. 5b) using the pair of primers shown in fig. 5a.
+normal mrna for the atatg5 gene was not present in the
+leaves of atatg5-1 plants either (fig. 5b).
+autophagy in root tip cells is dependent on atg genes
+6,
+tips
+compare
+the root
+arrowheads;
+the gross morphology of
+in the
+mutants atatg2-1, atatg5-3, atatg5-1 and atatg9-2 was
+similar to that in wild-type plants. we examined whether
+autophagy occurs or not in these mutants by the use of
+e-64d (fig. 6). in the atatg2 mutant, only a very slight
+amount of accumulation of cytoplasmic particles was
+atg2þ e64d
+detected (fig.
+with wtþ e64d). this
+result was confirmed in all
+10 root tips examined in three independent experiments.
+furthermore,
+this phenotype was also found in the
+descendants (designated as atatg2-1a and atatg2-1b in this
+study) that were obtained by two successive backcrosses of
+the atatg2-1 mutant to the wild-type columbia ecotype.
+these show that the autophagy in arabidopsis root tip
+cells is dependent on the atatg2 gene. also in the atatg5-3
+and atatg5-1 mutants, few cytoplasmic particles accumu-
+lated after incubation with e-64d (fig. 6, atg5þ e64d),
+and the result was confirmed in all 10 root
+tips in
+atatg5-3 mutants and all
+in atatg5-1
+tips
+six root
+mutants examined. this shows that
+the autophagy in
+arabidopsis
+is also dependent on the
+atatg5
+cytoplasmic
+particles accumulated in the atatg9 mutants than in the
+atatg2 and atatg5 mutants (fig. 6, arrowheads; compare
+contrast, more
+root
+gene.
+tip cells
+in
+1646
+autophagy in arabidopsis root tip cells
+control
++e64d
++e64d
++3ma
+fig. 4 effect of 3-ma on the accumulation of
+vacuolar inclusions in the cells of arabidopsis
+root
+tips cultured in the presence of e-64d.
+(a–c) root tips were excised from the seedlings
+of arabidopsis (columbia), and cultured in the
+culture medium containing 1% (v/v) methanol
+and 5% (v/v) water (a), 100 mm e-64d and 5%
+(v/v) water (b) or 100 mm e-64d and 5 mm
+3-ma (c) for 1 d. root tips were stained with
+neutral red and their bright field images were
+obtained by light microscopy. arrows in b
+point to the accumulation of vacuolar inclu-
+sions. bar¼ 100 mm. (d–l) root tips cultured in
+the presence of 1% (v/v) methanol and 5% (v/v)
+water (d, g and j), 100 mm e-64d and 5% (v/v)
+water (e, h and k) or 100 mm e-64d and 5 mm
+3-ma (f,
+i and l) were stained with
+lysotracker red and fixed with formaldehyde.
+they were then observed with a confocal laser
+microscope, and the fluorescence images of
+lysotracker red (d, e and f) and nomarski
+images (g, h and i) were obtained. images j, k
+and l are merges of the images d, e and f, and
+the images g, h and i, respectively. arrows in e
+and k point to the accumulation of vacuolar
+inclusions. bar¼ 50 mm.
+control
++e64d
++e64d+3ma
+atg9 with atg2 and atg5 in þe64d) although the
+less than that in the wild-type plant
+amount was still
+(fig. 6, compare atg9þ e64d with wtþ e64d). this result
+suggests
+for
+autophagy although it contributes significantly to auto-
+phagy in arabidopsis root tip cells.
+the atatg9 gene is not essential
+that
+depriving the incubation medium of
+autophagy
+sucrose activates
+the amount of cytoplasmic particles accumulating in
+vacuoles significantly increased in root tips of wild-type
+seedlings incubated in sucrose-free medium in the presence
+of e-64d for 1 d (fig. 7, compare þsuc and  suc in wt).
+autophagy in arabidopsis root tip cells
+1647
+atg2
+t-dna (atatg2-1)
+atg5
+t-dna (atatg5-3)
+t-dna (atatg5-1)
+t-dna (atatg9-2)
+atg9
+1+2
+3+4
+5+6
+ubq10
+1kbp
+wt
+leaf root
+atatg2-1
+leaf root
+atatg5-3 atatg9-2
+leaf root
+leaf root
+wt atatg5-1
+leaf
+leaf
+7+8
+ubq10
+fig. 5 expression of atatg genes in atatg mutants used in this study. (a) diagrams of atatg2, atatg5 and atatg9 genes. exons and
+introns in each gene are shown by boxes and lines, respectively. the sites into which t-dna is inserted in atatg2, atatg5 and atatg9
+genes are shown in atatg2-1, atatg5-3, atatg5-1 and atatg9-2 mutants. arrows show the priming sites in rt–pcr analysis. (b) rt–pcr
+analysis of atatg2-1, atatg5-3, atatg9-2 and atatg5-1 mutants. total rnas were extracted from the leaves and roots of the wild type (wt),
+atatg2-1, atatg5-3 and atatg9-2 plants and were subjected to rt–pcr using one of the ubq10 primer pairs (see materials and methods)
+and either the primers 1 and 2 (1þ 2), the primers 3 and 4 (3þ 4) or the primers 5 and 6 (5þ 6). the total rnas of the atatg5-1 and wt
+plants were extracted from leaves in separate experiments. they were subjected to rt–pcr using the other ubq10 primer pairs
+(see materials and methods) and the primers 7 and 8 (7þ 8). the products of pcr were separated on agarose gels and stained with
+ethidium bromide.
+this result suggests that the transport of parts of the
+cytoplasm to vacuoles by autophagy is enhanced in sucrose-
+free culture medium. in contrast, no further accumulation
+of cytoplasmic particles was found in root tips of atatg2-1,
+atatg5-3 or atatg5-1 mutants treated in the same way
+(fig. 7, compare þsuc and  suc in atg2 and atg5), showing
+the enhanced portion of autophagic transport of
+that
+cytoplasmic components into vacuoles is also dependent
+on atg2 and atg5 gene products.
+quantification of autophagy in the root cells of arabidopsis
+by analyzing images of root tips, we tried to quantify
+the accumulation of cytoplasmic materials due to the
+inhibition of autophagy by e-64d, and defined the
+autophagic score as described in materials and methods
+(fig. 8). the score reflected our interpretation of the
+photographs well with respect to the accumulation of
+cytoplasmic materials in vacuoles. it was 55 in root tips
+used in this study (fig. 8; 0 h, filled bar), and did not alter
+during 24 h of incubation of root tips in culture medium
+(meoh, filled bar). however, it increased up to approxi-
+mately 16 after 24 h of incubation with e-64d (wt, filled
+bar), showing that the score can reasonably estimate the
+accumulation of cytoplasmic materials due to the inhibition
+of protein degradation. in contrast, increases of the score
+were not observed in atatg2 mutants (atatg2-1, atatg2-1a
+and atatg2-1b; filled bar), or atatg5 mutants (atatg5-3 and
+atatg5-1, filled bar), which is consistent with our observa-
+tion that only a very small amount of cytoplasmic particles
+accumulated in the vacuoles of
+these mutants. also
+consistent with our observation, the autophagic score of
+atatg9-2 mutants was a little higher than that of atatg2 and
+atatg5 mutants
+it
+increased up to approximately the same value as that of
+starvation conditions
+wild-type plants under
+(atatg9-2, open bar),
+the
+supporting the notion that
+filled bar). furthermore,
+(atatg9-2,
+sucrose
+1648
+autophagy in arabidopsis root tip cells
+wt+e64d
+atg2
+atg5
+atg9
+wt
++suc
+wt
+−suc
+atg2
++suc
+cc
+atg2
+−suc
+dd
+fig. 6 involvement of atatg genes in autophagy in arabidopsis
+root tips. root tips excised from the wild-type columbia ecotype
+and atatg2-1, atatg5-3 and atatg9-2 mutant
+seedlings were
+incubated in medium containing 100 mm e-64d (þe64d) or 1%
+(v/v) methanol (þmeoh) for 1 d. they were stained with neutral
+red and observed by light microscopy. the same parts as enclosed
+by a rectangle in the root tip of the wild-type seedling (wtþe64d)
+are shown in atatg2-1 (atg2), atatg5-3 (atg5) and atatg9-2 (atg9)
+mutants. arrows point to vacuolar inclusions. bar¼ 100 mm.
+atatg9 protein is not essential for autophagy in arabidopsis
+root cells. in contrast, the autophagic score remained 57
+under sucrose starvation conditions in atatg2 and atatg5
+mutants (atatg2-1 and atatg5-3, open bar). the score
+seemed to be saturated around 20, and the activation of
+autophagy in wild-type plants under sucrose starvation
+conditions was not reflected enough in the score (fig. 8,
+wt, open bar vs. filled bar).
+discussion
+treatment of barley and arabidopsis root tips with
+e-64d led to the accumulation of undegraded cytoplasmic
+components in newly formed autolysosomes and/or in the
+pre-existing central vacuole of root tip cells (moriyasu et al.
+2003, figs. 1–3 in this study). in contrast,
+in cultured
+tobacco cells treated with e-64c, parts of the cytoplasm
+accumulate in autolysosomes and little accumulation is
+observed in the central vacuoles (moriyasu and ohsumi
+1996). it remains unclear why the sites of accumulation of
+cytoplasmic components are different in these cell types.
+however, arabidopsis cells cultured in the absence of
+sucrose in the presence of e-64c accumulate parts of the
+cytoplasm in the central vacuole and the accumulation of
+autolysosomes is not observed (y. murayama, h. kubo
+fff
+atg5
++suc
+atg5
+−suc
+fig. 7 activation of autophagy in arabidopsis root tips by sucrose
+deprivation. root tips from the wild-type of the columbia ecotype
+(wt) and atatg2-1 (atg2) and atatg5-3 (atg5) mutant seedlings of
+arabidopsis were incubated in culture medium containing (þsuc)
+or lacking ( suc) sucrose in the presence of e-64d for 1 d. they
+were stained with neutral red and observed. the parts correspond-
+ing to that enclosed by a rectangle in the wt are shown in the
+mutants. arrows point to vacuolar inclusions. bar¼ 100 mm.
+the notion that
+and y. moriyasu, unpublished results). these observations
+support
+compartments of
+autophagy in plant
+cells are autolysosomes and/or
+central vacuoles, and that the contribution of these two
+compartments is regulated differently depending on the
+cell type.
+lytic
+the
+in contrast to such a complex situation in plant cells,
+where the two organelles, the central vacuoles and auto-
+lysosomes, are used as lytic compartments for autophagy,
+only one organelle appears to work as a lytic compartment
+in mammalian and yeast cells. parts of the cytoplasm
+accumulate in autolysosomes in mammalian cells that are
+subjected to nutrient starvation in the presence of a cysteine
+protease inhibitor (kominami et al. 1983), whereas they
+accumulate in the vacuole of yeast cells under starvation
+conditions in the presence of a serine protease inhibitor
+(takeshige et al. 1992). in the present study, we examined
+the cells for the presence or absence of autophagy using a
+light microscope without differentiating autolysosomes
+autophagy in arabidopsis root tip cells
+1649
+10
+0 h
+meoh
+wt
+atatg2-1
+atatg2-1a
+atatg2-1b
+atatg5-3
+atatg5-1
+atatg9-2
+10
+15
+20
+25
+autophagic score (%)
+fig. 8 image analysis on the accumulation of cytoplasmic
+materials in the vacuoles of arabidopsis root cells. root tips from
+the wild-type seedlings of the columbia ecotype (wt) and atatg2,
+atatg5 and atatg9 mutant seedlings of arabidopsis were incubated
+in culture medium containing (filled bar) or lacking (open bar)
+sucrose in the presence of e-64d for 1 d. they were stained with
+neutral red and photographed. as control experiments, root tips of
+the wild type were stained with neutral red immediately after
+excision (0 h,
+filled bar), or after incubation for 1 d in culture
+medium containing sucrose in the absence of e-64d (meoh, filled
+bar). autophagic scores were obtained as described in materials
+and methods. numbers in the bars show the numbers of root tips
+examined in each treatment.
+from central vacuoles. how the contribution of these two
+organelles to autophagy is regulated will be a future issue in
+autophagy of plant cells.
+in the atatg2 and atatg5 mutants, cytoplasmic compo-
+nents were accumulated only slightly even in the presence of
+e-64d (fig. 6). this suggests that atatg2 and atatg5
+gene products are essential for autophagy in root tip cells as
+in yeast cells. in yeast cells, atg5 protein binds to other atg
+proteins, atg12 and atg16, and makes a large protein
+complex. this complex is localized to the possible pre-
+cursory structure of an autophagosome
+called the
+pre-autophagosomal structure (pas) (suzuki et al. 2001),
+which is thought to work at the initiation step of an
+autophagosome formation. atg2 is a peripheral membrane-
+associated protein, which is also localized to the pas.
+although whether plant cells possess a pas is not yet
+known,
+it is reasonable to speculate that a pas or a
+structure like a pas is also formed in autophagy of plant
+root cells and that atatg2 and atatg5 proteins play
+essential roles in the pas in the process of autophagy.
+the atatg9 mutant
+showed less accumulation of
+cytoplasmic components in the presence of e-64d than the
+wild-type plant, but more than the atatg2 and atatg5
+mutants. thus, atatg9 protein may not contribute to
+autophagy in arabidopsis root tip cells as much as the
+atatg2 and atatg5 proteins. yeast atg9 protein is an
+integral membrane protein with several membrane-
+spanning regions (noda et al. 2000). it is localized to
+various structures existing in the peripheral region of the
+vacuole,
+including the pas and mitochondria (reggiori
+et al. 2004, reggiori et al. 2005). although the significance
+of its localization to these structures is unclear, atg9 is
+essential for the formation of autophagosomes, i.e. autop-
+hagy does not occur in yeast mutants lacking the atg9
+gene. taken together, although root tip cells in arabidopsis
+seem to use machinery for autophagy similar to that used in
+yeast cells, it is likely that the essentiality of some part in the
+machinery has been diverted.
+even in the atatg2 and atatg5 mutants, a very small
+amount of cytoplasmic components was recognized after
+incubation with e-64d (fig. 6). this suggests the presence of
+the transport of cytoplasmic components into vacuoles that
+are independent of atg genes. recently, an er-resident
+membrane protein was
+reported to be constitutively
+transported to vacuoles by a mechanism different from
+autophagy, and degraded there (tamura et al. 2004). such
+transport may contribute to this significant accumulation of
+cytoplasmic materials
+of e-64d.
+alternatively, the presence of atg-independent autophagic
+pathways may contribute to such an accumulation.
+presence
+the
+in
+autophagy in arabidopsis root cells appears to be
+enhanced under starvation conditions (fig. 7 in this study,
+yoshimoto et al. 2004). this suggests that as in other
+organisms, autophagy in root cells contributes to provide
+substrates for respiration and molecules for the synthesis of
+new cellular components under
+starvation conditions.
+however, autophagy was found to occur even under
+nutrient-sufficient conditions in root cells, whereas it does
+not appear to occur under nutrient-sufficient conditions in
+tobacco suspension-cultured cells (inoue and moriyasu
+2006). since the genesis and enlargement of vacuoles occur
+the result showing the
+constitutively in root
+constitutive occurrence of autophagy in root
+tip cells
+supports the notion that autophagy plays a role in these
+events in euphorbia and linus root tip cells (amelunxen and
+heinze 1984, marty 1978; for a review, see also marty 1999,
+moriyasu and hillmer 2000). taken together, it is likely
+that plant root cells use autophagy for providing mem-
+branes for the enlargement of the central vacuole.
+tip cells,
+if autophagy contributes to the formation of vacuoles
+in root tip cells, some defects will be expected in vacuolar
+morphology in atg mutant plants. however, there were no
+obvious defects found in the morphology of the central
+vacuoles in the atatg7 and atatg9 mutants grown under
+nutrient-sufficient
+2002,
+conditions
+(doelling
+al.
+et
+1650
+autophagy in arabidopsis root tip cells
+hanaoka et al. 2002), whereas the central vacuole seemed
+smaller (yoshimoto et al. 2004) and the growth of roots is
+slower (doelling et al. 2002, yoshimoto et al. 2004) in the
+atatg4 and atatg7 mutants grown under nutrient-deprived
+conditions. such phenotypes of the mutants were explained
+by the notion that autophagy contributes to the supply of
+nitrogen and carbon for continued growth when nutrient
+uptake is limiting (doelling et al. 2002). however, we
+suppose that the slower growth of the root may also be
+caused by slower cell growth, which in turn originates from
+the defect of vacuole genesis and enlargement. a more
+detailed examination may clarify some defect
+in the
+vacuolar morphology of the mutant even under nutrient-
+sufficient conditions. to test this possibility, we are now
+closely examining the vacuolar morphology in root tip cells
+of atatg2 and atatg5 mutants.
+materials and methods
+preparation and incubation of root tips
+arabidopsis thaliana (ecotype columbia or landsberg) was
+used. the seeds were sterilized for about 5 min with 5% (v/v)
+commercially available bleach. the seeds were rinsed with sterile
+water, and then sown on dishes containing 0.3% (w/v) gelrite
+containing half-strength murashige and skoog (ms) salt mixture
+and 3% (w/v) sucrose. the dishes were kept at 48c for 2–3 d, and
+then at 22 28c for 6–10 d under continuous light from fluorescent
+lamps. root tips (4–6 in number, 8–12 mm in length) excised from
+the seedlings were incubated in 2 ml of liquid culture medium
+consisting of half-strength ms salt mixture and 3% (w/v) sucrose
+at 22 28c in the dark under agitation at 100 r.p.m. in sucrose-free
+culture medium, sucrose was replaced with mannitol to keep the
+osmotic value constant.
+barley (cv. doriru) seedlings were prepared as described
+previously (moriyasu et al. 2003). root tips (about 10 mm long)
+were incubated in medium consisting of 1 ms salt mixture and
+3% (w/v) sucrose, at 25 28c with rotation of 100 r.p.m. as
+described previously (moriyasu et al. 2003).
+neutral red and lysotracker red staining of arabidopsis root tips
+whole root tips were stained with 0.01% (w/v) neutral red in
+50 mm mes-tris (ph 6.5) for about 2 min and their bright field
+images were observed under a light microscope (optiphoto,
+nikon). negative color film (fujicolor, iso400, fuji) photographs
+were taken using a photomicrographic camera (microflex ufx-ii,
+through 40 or 20 objective lenses and 2.5 or
+nikon)
+5 projection lenses. alternatively, whole root tips were stained
+with 1 mm lysotracker red (molecular probes) as described
+(moriyasu et al. 2003), and their fluorescence and nomarski
+images were observed using a confocal microscope (lsm510,
+zeiss).
+sectioning of root tips
+root tips of arabidopsis were fixed with 2% (w/v) glutar-
+aldehyde and 1% (w/v)
+formaldehyde in 100 mm sodium
+cacodylate-hcl buffer (ph 6.9) at room temperature for 1 h, and
+then at 48c overnight, and post-fixed with 1% (w/v) osmium
+tetroxide for 2 h at room temperature. they were then dehydrated
+using a series of ethanol and propylene oxide, and embedded in
+resin. at
+the 50% ethanol
+spurr’s
+stage of dehydration,
+they were en bloc stained with 1% (w/v) uranyl acetate in 50%
+ethanol for 1 h at room temperature. for light microscopy, sections
+of 1 mm thickness were made from the blocks of spurr’s resin, and
+stained with toluidine blue; for electron microscopy (h-7000,
+hitachi, japan), thin sections of 60–80 nm were made and stained
+with uranyl acetate and lead citrate.
+root tips from barley were fixed with 2.5% (w/v) glutar-
+aldehyde in millonig’s phosphate buffer consisting of 100 mm
+pi-na (ph 7.4) and 86 mm nacl, and post-fixed with 1% (w/v)
+osmium tetroxide. they were embedded in spurr’s resin in the
+same way as arabidopsis root tips, but the sections were stained
+with a mixture (2 : 1) of 4% (w/v) uranyl acetate and 1% (w/v)
+kmno4 (moriyasu et al. 2003).
+isolation of atg mutant plants
+(alonso et
+the seeds of atatg2, atatg5 and atatg9 mutants were obtained
+from the arabidopsis biological resource center (columbus,
+oh, usa). genomic dna was isolated from the leaves of
+6- to 10-day-old seedlings using a dna isolation kit (isoplant ii,
+nippon gene, toyama,
+japan). the homozygous plants
+to atatg2-1, atatg5-3 and atatg9-2 mutation
+with respect
+were selected by pcr according to the protocol for signal
+t-dna verification primer design from salk institute genomic
+analysis laboratory
+2003). the primers
+used are 50-gcgtggaccgcttgctgcaact-30 designated as
+lbb1, and 50-tcctacggccgagatcgtaca-30 and 50-gca
+ctttccatcagctactcgc-30
+atatg2-1
+mutant, 50-gagcatgagattcatctccactt-30 and 50-tgc
+gtgccaaacaaatagcaa-30
+for the atatg5-3 mutant, or
+50-ggtgatttgcattgtggatgc-30
+and 50-tttccgcat
+aaggcgcataac-30 for the atatg9-2 mutants. the homozygous
+plants with respect to the atatg5-1 mutation were selected by
+pcr according to sessions et al.
+(2002) using the primers
+50-tagcatctgaatttcataaccaatctcgatacac-30 des-
+ignated as lb3, and 50-attcacttcctcctggtgaag-30 and
+50-ttgtgcctgcaggataagcg-30.
+verifying
+the
+for
+al.
+isolation of rna and rt–pcr
+rna was isolated from the leaves and roots of 10- to
+14-day-old arabidopsis seedlings using an rna isolation kit
+(aquapure rna isolation kit, bio-rad, ca, usa, or rneasy
+plant mini kit, qiagen, hilden, germany). the first-strand cdna
+was synthesized by the omniscript reverse transcriptase (qiagen,
+hilden, germany) or superscript first-strand synthesis system
+for rt–pcr (invitrogen, ca, usa) using the oligo(dt)15
+primer. pcr was performed using these cdnas as templates.
+the primers used were 50-catctagccttgcttcggggt-30
+(primer 1 in fig. 5) and 50-gctgccatacgcgatagccaa-30
+50-
+(primer
+amplification
+atggcgaaggaagcggtcaa-30
+50-
+tcacctttgaggagctttcacaag-30
+or
+50-ggaaggagcaattcctctgc-30
+50-
+gaggtccatagatcctcttg-30 (primer 8) for atatg5, 50-
+gggtcgaccatgagcagtgggcataag-30 (primer 5) and
+50-ggagaacatgtaccgtaatgtggtgcttg-30 (primer 6)
+50-caaagagctcttcttcttcac-30
+for
+50-ttcact
+and
+tggtcctgcgtcttcgtggtggtttc-30 and 50-cgaagc
+gatgataaagaagaagttcgacttg-30 for ubq10.
+atatg9,
+50-accaccacggagcctga-30
+atatg2,
+and
+3)
+(primer
+4)
+and
+7)
+of
+(primer
+(primer
+and
+the
+for
+2)
+or
+autophagy in arabidopsis root tip cells
+1651
+quantification of autophagy in the root tip cells of arabidospsis
+color photographs of parts of roots, 800–1,200 mm distant
+from the tips, were digitalized using a scanner (gt-9300uf,
+epson, tokyo, japan). from each image, a rectangular region
+(150 mm in length 50 mm in width) was cropped and converted to
+a 8-bit grayscale image using the computer software photoshop
+(version 7.0, adobe). the resultant image was then converted to
+binary using photoshop by defining a grayscale cut-off point,
+which was set as the lowest grayscale value of the cytoplasm in the
+rectangle. in this conversion, grayscale values below the cut-off
+became pure black and those above became pure white. the ratio
+of the number of pure black pixels to all the number of pixels in
+the rectangle was calculated using the software image j (ver-
+sion 3.11, nih, bethesda, md, usa), and defined as the
+autophagic score.
+supplementary material
+supplementary material mentioned in the
+available
+www.pcp.oxfordjournals.org.
+online
+to
+subscribers
+at
+the
+article
+is
+journal website
+acknowledgments
+we thank dr. tetsuro mimura for providing barley seeds.
+we also thank dr. john rogers for critical reading of the
+manuscript and helpful comments. this work was supported in
+for basic biology study oriented to
+part by isas grant
+utilization of space
+station, and ‘ground-based research
+announcement for space utilization’ promoted by japan space
+forum to y. m.
+references
+alonso, j.m., stepanova, a.n., leisse, t.j., kim, c.j., chen, h., et al.
+(2003) genome-wide insertional mutagenesis of arabidopsis thaliana.
+science 301: 653–657.
+amelunxen, f. and heinze, u. (1984) zur entwicklung der vacuole in
+testa-zellen des leinsamens (on the development of the vacuole in the
+testa cells on linum seeds). eur. j. cell biol. 35: 343–354.
+aubert, s., gout, e., bligny, r., marty-marzars, d., barrieu, f.,
+alabouvette, j., marty, f. and douce, f. (1996) ultrastructural and
+biochemical characterization of autophagy in higher plant cells subjected
+to carbon deprivation: control by the supply of mitochondria with
+respiratory substrates. j. cell biol. 133: 1251–1263.
+chen, m.h., liu, l.f., chen, y.r., wu, h.k. and yu, s.m. (1994)
+expression of alpha-amylases, carbohydrate metabolism, and autophagy
+in cultured rice cells is coordinately regulated by sugar nutrient. plant j.
+6: 625–636.
+doelling, j.h., walker, j.m., friedman, e.m., thompson, a.r. and
+vierstra, r.d. (2002) the apg8/12-activating enzyme apg7 is required
+for proper nutrient recycling and senescence in arabidopsis thaliana. j.
+biol. chem. 277: 33105–33114.
+dunn, w.a., jr (1994) autophagy and related mechanisms of lysosome-
+mediated protein degradation. trends cell biol. 4: 139–143.
+gordon, p.b. and seglen, p.o. (1982) 6-substituted purines: a novel class of
+inhibitors of endogenous protein degradation in isolated rat hepatocytes.
+arch. biochem. biophys. 217: 282–294.
+hanaoka, h., noda, t., shirano, y., kato, t., hayashi, h., shibata, d.,
+tabata, s. and ohsumi, y. (2002) leaf senescence and starvation-
+induced chlorosis are accelerated by the disruption of an arabidopsis
+autophagy gene. plant physiol. 129: 1181–1193.
+hilling, b. and amelunxen, f. (1985) on the developments of the vacuole.
+ii. further evidence for endoplasmic reticulum origin. eur. j. cell biol.
+38: 195–200.
+inoue, y. and moriyasu, y. (2006) autophagy is not a main contributor to
+the degradation of phospholipids in tobacco cells cultured under sucrose
+starvation conditions. plant cell physiol. 47: 471–480.
+kirisako, t., baba, m., ishihara, n., miyazawa, k., ohsumi, m.,
+yoshimori, t., noda, t. and ohsumi, y. (1999) formation process of
+autophagosome is traced with apg8/aut7 in yeast. j. cell biol. 147:
+435–446.
+klionsky, d.j.
+(2004) autophagy. eurekah.com/landes bioscience,
+georgetown, tx, usa.
+klionsky, d.j., cregg, j.m., dunn, w.a., jr, emr, s.d., sakai, y.,
+sandoval, i.v., sibirny, a., subramani, s., thumm, m., veenhuis, m.
+and ohsumi, y. (2003) a unified nomenclature for yeast autophagy-
+related genes. dev. cell 5: 539–545.
+klionsky, d.j.
+of
+proteins and organelles from the cytoplasm. annu. rev. cell dev. biol.
+15: 1–32.
+and ohsumi, y.
+(1999) vacuolar
+import
+kominami, e., hashida, s., khairallah, e. a. and katunuma, n. (1983)
+sequestration of cytoplasmic enzymes
+in an autophagic vacuole–
+lysosomal system induced by injection of leupeptin. j. biol. chem. 258:
+6093–6100.
+liu, y., schiff, m., czymmek, k., talloczy, z., levine, b. and dinesh-
+kumar, s.p. (2005) autophagy regulates programmed cell death during
+the plant innate immune response. cell 121: 567–577.
+marty, f.
+(1978) cytochemical studies on gerl, provacuoles, and
+vacuoles in root meristematic cells of euphorbia. proc. natl acad. sci.
+usa 75: 852–856.
+marty, f. (1999) plant vacuoles. plant cell 11: 587–599.
+moriyasu, y. (1995) examination of the contribution of vacuolar proteases
+to intracellular protein degradation in chara corallina. plant physiol. 109:
+1309–1315.
+moriyasu, y., hattori, m., jauh, g.-y. and rogers, j.c. (2003) alpha
+tonoplast
+specifically associated with vacuole
+membrane involved in an autophagic process. plant cell physiol. 44:
+795–802.
+intrinsic protein is
+moriyasu, y. and hillmer, s. (2000) autophagy and vacuole formation. in
+vacuolar compartments. annual plant reviews. edited by robinson,
+d.g. and rogers, j.c. pp. 71–89. sheffield academic press, sheffield.
+moriyasu, y. and ohsumi, y. (1996) autophagy in tobacco suspension-
+cultured cells in response to sucrose starvation. plant physiol. 111:
+1233–1241.
+noda, t., kim, j., huang, w.-p., baba, m., tokunaga, c., ohsumi, y. and
+klionsky, d.j. (2000) apg9p/cvt7p is an integral membrane protein
+required for transport vesicle formation in the cvt and autophagy
+pathways. j. cell biol. 148: 465–480.
+reggiori, f., shintani, t., nair, u. and klionsky, d.j. (2005) atg9 cycles
+between mitochondria and the pre-autophagosomal structure in yeasts.
+autophagy 1: 101–109.
+reggiori, f., tucker, k.a., stromhaug, p. e. and klionsky, d.j. (2004) the
+atg1–atg13 complex regulates atg9 and atg23 retrieval transport from
+the pre-autophagosomal structure. dev. cell 6: 79–90.
+seay, m.d. and dinesh-kumar, s.p. (2005) life after death. are autophagy
+genes involved in cell death and survival during plant innate immune
+responses? autophagy 1: 185–186.
+seglen, p.o. and gordon, p.b. (1982) 3-methyladenine: specific inhibitor of
+autophagic/lysosomal protein degradation in isolated rat hepatocytes.
+proc. natl acad. sci. usa 79: 1889–1892.
+sessions, a., burke, e., presting, g., aux, g., mcelver, j., et al. (2002)
+a high-throughput arabidopsis reverse gentics system. plant cell 14:
+2985–2994.
+sla´ vikova´ , s., shy, g., yao, y, glozman, r, levanony, h, pietrokovski, s.,
+elazar, z. and galili, g. (2005) the autophagy-associated atg8 gene
+family operates both under favourable growth conditions and under
+starvation stresses in arabidopsis plants. j. exp. bot. 56: 2839–2849.
+suzuki, k., kirisako, t., kamada, y., mizushima, n., noda, t. and
+(2001) the preautophagosomal structure organized by
+for autophagosome
+ohsumi, y.
+concerted functions of apg gnes is essential
+formation. embo j. 20: 5971–5981.
+takatsuka, c., inoue, y., matsuoka, k. and moriyasu, y.
+(2004)
+3-methyladenine inhibits autophagy in tobacco culture cells under
+sucrose starvation conditions. plant cell physiol. 45: 265–274.
+1652
+autophagy in arabidopsis root tip cells
+takeshige, k., baba, m., tsuboi, s., noda, t. and ohsumi, y. (1992)
+autophagy in yeast demonstrated with proteinase-deficient mutants and
+conditions for its induction. j. cell biol. 119: 301–311.
+tamai, m., matsumoto, k., omura, s., koyama, i., ozawa, y. and
+hanada, k.
+in vitro and in vivo inhibition of cysteine
+proteinases by est, a new analog of e-64. j. pharmacobio-dyn. 9:
+672–677.
+(1986)
+tamura, k., yamada, k., shimada, t. and hara-nishimura, i. (2004)
+endoplasmic reticulum-resident proteins are constitutively transported to
+vacuoles for degradation. plant j. 39: 393–402.
+thompson, a.r., doelling, j.h., suttangkakul, a. and vierstra, r.d.
+recycling in arabidopsis directed by
+(2005) autophagic nutrient
+the atg8 and atg12 conjugation pathways. plant physiol. 138:
+2097–2110.
+thumm, m., egner, r., koch, b., schlumpberger, m., straub, m.,
+veenhuis, m. and wolf, d.h. (1994) isolation of autophagocytosis
+mutants of saccharomyces cerevisiae. febs lett. 349: 275–280.
+tsukada, m. and ohsumi, y. (1993) isolation and characterization of
+autophagy-defective mutants of saccharomyces cerevisiae. febs lett.
+333: 169–174.
+yoshimoto, k., hanaoka, h., sato, s., kato, t., tabata, s., noda, t. and
+ohsumi, y. (2004) processing of atg8s, ubiquitin-like proteins, and their
+deconjugation by atg4s are essential for plant autophagy. plant cell 16:
+2967–2983.
+(received october 4, 2006; accepted october 25, 2006)

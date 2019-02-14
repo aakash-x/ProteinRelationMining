@@ -1,0 +1,876 @@
+the journal of biological chemistry vol. 282, no. 8, pp. 5617–5624, february 23, 2007
+© 2007 by the american society for biochemistry and molecular biology, inc. printed in the u.s.a.
+aup1p, a yeast mitochondrial protein phosphatase homolog,
+is required for efficient stationary phase mitophagy and
+cell survival*
+received for publication, june 21, 2006, and in revised form, november 30, 2006 published, jbc papers in press, december 13, 2006, doi 10.1074/jbc.m605940200
+ruth tal‡, gal winter‡, nitai ecker‡, daniel j. klionsky§, and hagai abeliovich‡1
+from the ‡department of biochemistry and food science, faculty of agricultural, food, and environmental quality sciences,
+hebrew university of jerusalem, rehovot 76100, israel and the §life sciences institute and departments of molecular,
+cellular, and developmental biology and biological chemistry, university of michigan, ann arbor, michigan 48109
+autophagy is a catabolic membrane-trafficking process that
+occurs in all eukaryotic cells and leads to the hydrolytic degra-
+dation of cytosolic material in the vacuolar or lysosomal lumen.
+mitophagy, a selective form of autophagy targeting mitochon-
+dria, is poorly understood at present. several recent reports sug-
+gest that mitophagy is a selective process that targets damaged
+mitochondria, whereas other studies imply a role for mitophagy
+in cell death processes. in a screen for protein phosphatase
+homologs that functionally interact with the autophagy-dedi-
+cated protein kinase atg1p in yeast, we have identified aup1p,
+encoded by saccharomyces cerevisiae reading frame ycr079w.
+aup1p is highly similar to a family of protein phosphatase
+homologs in animal cells that are predicted to localize to mito-
+chondria based on sequence analysis. interestingly, we found
+that aup1p localizes to the mitochondrial intermembrane space
+and is required for efficient mitophagy in stationary phase cells.
+viability studies demonstrate that aup1p is required for effi-
+cient survival of cells in prolonged stationary phase cultures,
+implying a pro-survival role for mitophagy under our working
+conditions. our data suggest that aup1p may be part of a signal
+transduction mechanism that marks mitochondria for seques-
+tration into autophagosomes.
+mitochondria perform numerous essential physiological
+functions in all eukaryotic cells. apart from their role in oxida-
+tive phosphorylation and fatty acid oxidation, they are also
+essential for biosynthesis of central building blocks such as
+amino acids and nucleotides. at the same time, mitochondria
+are a threat to cellular well-being. mitochondria are a major
+source of reactive oxygen species in cells. in addition, disrup-
+tion of mitochondrial compartmentalization results in leakage
+of cytochrome c and other cytotoxic factors, and mitochondria
+with defective chemiosmotic coupling can cause an energy
+drain on the cell. accumulation of mitochondrial genetic vari-
+ation and mitochondrial damage are widely considered to
+* this work was supported in part by grant 496/03 from the israel science
+foundation (to h. a.) and by national institutes of health grant gm53396
+(to d. j. k.). the costs of publication of this article were defrayed in part by
+the payment of page charges. this article must therefore be hereby
+marked “advertisement” in accordance with 18 u.s.c. section 1734 solely to
+indicate this fact.
+1 to whom correspondence should be addressed: dept. of biochemistry and
+food science, hebrew university of jerusalem, rehovot, israel 76100. tel.:
+972-8-9489060; fax: 972-8-9476189; e-mail: ahagai@agri.huji.ac.il.
+underlie many age-related metabolic diseases and late-onset
+genetic disorders (1, 2). it is commonly postulated that in nor-
+mal cells defective mitochondria are broken down in the lyso-
+somal compartment through autophagy, and inability to clear
+defective mitochondria is thought to underlie numerous path-
+ological conditions (3, 4).
+autophagy is a set of catabolic membrane trafficking mech-
+anisms that allow import of cytosolic material into the vacuole/
+lysosome. the best understood form of autophagy is macroau-
+tophagy, in which intracellular membranes of undetermined
+origin engulf cytosolic material to form a double or multi-bi-
+layer membrane bound intermediate called the autophagosome
+(reviewed in refs. 3 and 5–8). this intermediate then goes on to
+fuse with the vacuole/lysosome, releasing a single-bilayer
+bound vesicle called an autophagic body into the lumen of the
+lytic compartment where it is broken down, releasing the
+cytosol-derived material for further degradation to biosyn-
+thetic building blocks. classical macroautophagy is induced
+under starvation conditions and is largely thought to be a non-
+specific process, although some central cellular structures are
+clearly off limits under normal conditions, and there have been
+reports of selective degradation of some proteins (9). this type
+of starvation-induced autophagy is essential for surviving nutri-
+ent deprivation in all eukaryotes, from yeast to mammals.
+microautophagy is a related process whereby the vacuolar/ly-
+sosomal membrane invaginates and pinches into the lumen,
+forming an autophagic body without first forming a free auto-
+phagosome. there are a number of selective autophagic path-
+ways, which appear to target specific cellular components. the
+cvt2 pathway, for example, is an autophagic pathway in yeast
+that is highly similar to macroautophagy yet functions in the
+biosynthetic routes of two known proteins, aminopeptidase i
+and ␣-mannosidase, without delivering any additional known
+cargo to the vacuolar lumen (10–12). aminopeptidase i, or
+ape1p, is synthesized on cytosolic ribosomes as a 61-kda pre-
+cursor and is then specifically recruited to cvt vesicles that are
+analogous to autophagosomes. upon fusion of cvt vesicles with
+the limiting membrane of the vacuole the protein is released
+into the vacuole lumen. within the vacuole, prape1 is proteo-
+lytically processed to yield the mature 50-kda form in a pep4p-
+2 the abbreviations used are: cvt, cytoplasm to vacuole targeting; ha, influ-
+enza virus hemagglutinin; gfp, green fluorescent protein; rfp, red fluores-
+cent protein; slm, synthetic lactate medium; pp2c, protein phosphatase
+2c; pp1k, protein phosphatase 1k; pas, preautophagosomal structure.
+february 23, 2007 • volume 282 • number 8
+journal of biological chemistry 5617
+a mitochondrial protein phosphatase required for mitophagy
+and prb1p -dependent fashion. whereas most of the protein
+factors required for cvt trafficking and for macroautophagy are
+identical, there exist cvt pathway-specific factors that are dis-
+pensable for macroautophagy, and autophagy-specific factors
+that are not required in the cvt pathway (3).
+an additional example of a selective autophagic pathway is
+pexophagy, or the degradation of peroxisomes. like the cvt
+pathway, pexphagy also occurs via a mechanism which shows
+mechanistic overlaps with classical macroautophagy, but is an
+inducible, not a constitutive phenomenon (13).
+recent studies in yeast and in mammalian cells have uncov-
+ered experimental conditions in which mitochondria are
+degraded through mitophagy, in response to environmental
+insults. specifically, it was shown that when cells are transferred
+from rich glucose-based medium into a nitrogen starvation
+medium with lactate as a carbon source, large scale mitophagy
+is observed. this response appears to depend on uth1p, a mito-
+chondrial outer membrane protein that is also involved in cell
+longevity and bax-induced cell death (14, 15). in addition, it was
+suggested that yeast cells with a temperature-sensitive mito-
+chondrial proton atpase undergo mitophagy under anaerobic
+conditions at restrictive temperature (16). finally, studies in rat
+hepatocytes suggest that the mitochondrial permeability tran-
+sition pore (mpt) regulates mitochondrial autophagy (17).
+intriguing links have recently surfaced between mitochon-
+drial regulation and macroautophagy. reggiori et al. (18)
+reported that atg9p, an integral membrane protein required for
+autophagy, cycles between mitochondria and the preautopha-
+gosomal structure (pas), which is thought to be an assembly
+point for autophagosomes (18). in mammalian cells, a short
+isoform of the tumor suppressor p19 arf was found to localize
+to mitochondria and induce macroautophagy (19).
+atg1p is a protein kinase required for both classical, starva-
+tion-induced macroautophagy as well as for the selective vari-
+ants of autophagy such as the cvt pathway and pexophagy.
+atg1p was also shown to be required for the cycling of atg9p
+between the pas and the mitochondria (20). we previously
+reported (21) that truncation of the c-terminal 18 amino acids
+of atg1p abrogates the cvt pathway, yet still allows autophagic
+trafficking under nitrogen starvation conditions. in addition,
+the truncated version of atg1p (atg1⌬880) is constitutively
+hypophosphorylated, whereas wild-type protein was phospho-
+rylated in rich medium and dephosphorylated upon starvation.
+to better understand the regulation of atg1p, we searched for
+protein phosphatase homologs that genetically interact with
+the atg1p protein kinase, by searching for phosphatase homo-
+log deletion mutants that would show a synthetic interaction
+with the atg1⌬880 mutant. one phosphatase homolog identi-
+fied in this fashion is encoded by the previously uncharacter-
+ized open reading frame ycr079w, which we have renamed
+aup1. in this report, we present a functional characterization
+of aup1p. aup1p is a highly conserved protein that localizes to
+the mitochondrial intermembrane space. surprisingly, while it
+is not absolutely required for classical starvation-induced mac-
+roautophagy, we find that it is required for effective mitophagy
+in stationary phase yeast cells. these data suggest that aup1
+may be part of a signal transduction mechanism that marks
+mitochondria for selective degradation through mitophagy.
+experimental procedures
+yeast strains and culture conditions—the strains used in
+this study are listed in table 1. strains were grown in synthetic
+dextrose medium (sd; 0.67% (w/v) yeast nitrogen base, 2%
+(w/v) glucose, and auxotrophic amino acids and vitamins as
+required) or synthetic lactate medium (slm; 0.67% (w/v) yeast
+nitrogen base, 2% (w/v) lactate, and auxotrophic amino acids
+and vitamins as required). nitrogen starvation was carried out
+in sd-n (0.17% (w/v) yeast nitrogen base without ammonium
+sulfate and amino acids and 2% (w/v) glucose). yeast transfor-
+mation was according to (23). to generate strain hay670, a
+pcr-amplified cassette was synthesized using plasmid pfa6–
+3ha-his3mx6 (24) as template. this cassette carries the
+schizosaccharomyces pombe his5 gene, and at its 5⬘-end con-
+tains a coding region for 3 repetitions of the 9 amino acid influ-
+enza virus hemagglutinin (ha) epitope followed by a stop
+codon. the ha codons are fused in-frame to the c terminus of
+the aup1 reading frame as encoded by the 5⬘ pcr primer over-
+hang, while the 3⬘ pcr primer contains an overhang homolo-
+gous to 3⬘-untranslated region of the aup1 gene (all primer
+sequences will be provided upon request). integration of this
+cassette creates a chromosomal aup1 gene fused to the ha
+epitope at its c terminus, as verified by pcr and western blot-
+ting. to generate strain hay695, strain hay469 was trans-
+formed with a pcr cassette synthesized using phab102 (21) as
+template, to create a truncation/fusion of the atg1 reading
+frame with the protein a tag at amino acid 880. strain hay805
+was created by transforming strain hay75 with a pcr-ampli-
+fied cassette carrying the monomeric rfp sequence fused in-
+frame to the 40 3⬘-nucleotides of the vph1 reading frame and
+the kanamycin resistance gene, synthesized using plasmid
+phab152 as template (see below). strain hay809 was gener-
+ated by integrating a pcr-amplified cassette carrying the
+s. pombe his5 gene flanked by short regions of homology to
+regions upstream and downstream of the aup1 gene, to gener-
+ate an aup1⌬::his5 genotype, as verified by diagnostic pcr.
+strain hay831 was generated by transforming strain hay75
+first with a pcr-amplified cassette carrying the rfp open read-
+ing frame fused in-frame to the 40 3⬘-nucleotides of the cox9
+reading frame (generated using phab152 as template) and car-
+rying the kanr selectable marker to create strain hay829,
+which was then transformed with a second pcr-amplified cas-
+sette carrying the gfp open reading frame fused in-frame to the
+3⬘-40 nucleotides of the aup1 reading frame and carrying the
+his5 selectable marker (generated using plasmid pfa6a-
+gfp(s65t)-his3mx6 (24) as template). both aup1-ha and
+aup1-gfp constructs were functional as assessed by complemen-
+tation of the rapamycin sensitivity of the aup1⌬ mutant (25).
+chemicals and antisera—chemicals were purchased from
+sigma-aldrich (rehovot, israel) unless otherwise stated. cus-
+tom oligonucleotides were from hy-labs (rehovot, israel) or
+idt (bet shemesh, israel). anti-ape1p antibodies were as pre-
+viously described (11). nycodenz was from axis-shield (oslo,
+norway). anti-aco1 antibodies were a gift of dr. o. pines
+(hebrew university). anti- tom70 and anti-cyb2 were gener-
+ously donated by dr. liza pon (columbia university). anti-ha
+antibodies were from santa cruz biotechnology (santa cruz,
+5618 journal of biological chemistry
+volume 282 • number 8 • february 23, 2007
+a mitochondrial protein phosphatase required for mitophagy
+table i
+yeast strains used in this study
+strain
+hay75
+by4742
+tvy1
+hay395
+hay455
+hay469
+hay670
+hay695
+hay805
+hay809
+hay831
+geotype
+mat␣,leu2-3,112 ura3-52 his3-⌬200trp1-⌬901 lys2-801 suc2-⌬9
+mat␣, leu2-⌬0 ura3-⌬0 his3-⌬1 lys2-⌬0
+mat␣, leu2-3,112 ura3-52 his3-⌬200trp1-⌬901 lys2-801 suc2-⌬9 pep4⌬
+hay75, atg1⌬::ura3
+hay75, atg1⌬800::pra[his5]
+by4742, aup1⌬::kanr
+hay75, aup1-ha::his5
+by4742, aup1⌬::kanr atg1⌬880::his5
+hay75, vph1-rfp::kanr
+hay75, aup1⌬::his5
+hay75, cox9-rfp::kanr aup1-gfp::his5
+source
+ref. 21
+ref. 33
+ref. 22
+ref. 21
+ref. 21
+ref. 33
+this study
+this study
+this study
+this study
+this study
+ca). anti-sed5, ant-kar2, and anti-hxk1 antibodies were a gift
+of dr. j. e. gerst.
+plasmids and genetic manipulations—plasmid phab152
+was constructed by excising the paci-asci fragment of plasmid
+pfa6a-kanmx6 (24), and ligating a paci-asci pcr amplicon of
+the mrfp reading frame (26) synthesized with paci and asci
+overhangs, into the linearized plasmid. the resulting insert
+contains the mrfp sequence preceded by 2 glycines as an
+optional linker. plasmid pyx142, encoding a mitochondrial
+gfp marker (27), was a gift from dr. benedict westermann.
+cell fractionation and membrane extraction procedures—
+30 a600 units (or as indicated in specific experiments) of expo-
+nentially growing cells were collected, washed, and sphero-
+plasted for 30 min at 30 °c in slm supplemented with 1 m
+sorbitol and 40 mm hepes-koh, ph 7.4, and 300 ␮g/ml lyti-
+case (icn) for 30 min at 30 °c. all subsequent operations were
+at 4 °c. spheroplasts were centrifuged at 2000 ⫻ g in a hermle
+z400k refrigerated centrifuge with a swinging bucket rotor and
+resuspended at a concentration of 6 a600 units/ml in ice-cold
+lysis buffer (0.2 m sorbitol, 50 mm potassium acetate, 2 mm
+edta, 1 mm phenylmethylsulfonyl fluoride, 5 mg/ml antipain,
+1 ␮g/ml aprotinin, 1 ␮g/ml leupeptin, 1 ␮g/ml pepstatin, 10
+␮g/ml ␣2-macroglobulin, and 40 mm hepes-koh, ph 7. cells
+were ruptured by homogenization (15 strokes) in a 7-ml dounce
+homogenizer (kimble-kontes) using a tight fitting pestle. the
+crude homogenates were clarified by centrifugation at 300 ⫻ g
+for 5 min using a fixed-angle rotor. clarified lysate (s300) was
+centrifuged for 5 min at 1500 ⫻ g to generate p1500, and the
+supernatant was re-centrifuged 10 min at 12,500 ⫻ g to gener-
+ate pellet (p13) and supernatant (s13) fractions. s300, p1500,
+p13, and s13 fractions were precipitated with 10% (w/v) trichlo-
+roacetic acid, washed twice with cold acetone, and solubilized
+in sds-page sample buffer. from each fraction, 2 a600 unit
+equivalents of cell extract were loaded per lane, separated by
+sds-page and analyzed by immunoblotting.
+purification of mitochondria on nycodenz gradients was
+according to glick and pon (28). gradient fractions were precipi-
+tated with 10% trichloroacetic acid prior to immunoblot analysis.
+for membrane extraction experiments, p13 fractions gener-
+ated as above were resuspended in 100 mm na2co3 (ph 11), in
+hypotonic buffer (80 mm sorbitol, 20 mm pipes-koh, ph 7) or
+in standard fractionation lysis buffer (see above). following a
+30-min incubation, the different samples were collected by cen-
+trifugation at 12,500 ⫻ g for 10 min, divided into pellet and
+supernatant fractions, and proteins were precipitated with 10%
+trichloroacetic acid followed by two washes with cold acetone.
+samples were solubilized in sds-page sample buffer and ana-
+lyzed by sds-page and immunoblotting.
+protease protection assays—50 a600 units of cells were
+spheroplasted, and p13 fractions were generated as above. the
+pellets were resuspended in lysis buffer or in hypotonic buffer (80
+mm sorbitol, 20 mm pipes-koh, ph 7) at a concentration of 0.3
+a600 equivalents/␮l. time 0 samples (12 a equivalents) were with-
+drawn and precipitated with 10% trichloroacetic acid. proteinase
+k was added to the main sample to a final concentration of 0.3
+␮g/ml, and samples were taken at the indicated time points. reac-
+tions were quenched by precipitation with 10% trichloroacetic
+acid followed by two washes in cold acetone. samples were ana-
+lyzed by sds-page and immunoblotting as above.
+fluorescence microscopy—typically, culture samples were
+placed on standard microscope slides (3 ␮l) and viewed using a
+nikon e600 upright fluorescent microscope equipped with a
+⫻100 plan fluor objective, using a fitc fluorescent filter (for
+viewing gfp fluorescence) or a cy3 filter (for viewing mrfp).
+to achieve statistically significant numbers of cells per viewing
+fielding in some pictures, high cell densities were achieved by
+sedimenting 1 ml of cells for 30 s at 500 ⫻ g and resuspending
+the pellet in 10 ␮l of medium.
+quantitative western blotting—to follow protein levels over
+time with minimal bias, cultures were sampled (10 a600 unit
+equivalents per sample), and samples were precipitated with
+tca followed by acetone washes. cells were disrupted by a
+5-min agitation with 100-␮l glass beads (425–600-␮m diame-
+ter) in 100 ␮l of cracking buffer (6 m urea, 1% sds, 1 mm edta,
+50 mm tris-cl, ph 6.8). an additional 100 ␮l of cracking buffer
+was added, and the suspension was mixed and centrifuged 5
+min at 14,000 ⫻ g. clarified lysate was transferred to a new tube,
+and protein levels were determined using the bca protein assay
+kit (pierce). for typical immunoblot analysis 15 ␮g of protein per
+sample were mixed with 4⫻sds-page sample buffer and double
+distilledwatertoafinalvolume,loadedonsds-page,andimmu-
+noblotted using a c.b.s. semi-dry protein blotting apparatus
+(c.b.s. inc., del mar, ca). enhanced chemiluminescence reac-
+tionsweredoneusingthesupersignaltmkit(pierce).visualization
+of all enhanced chemiluminescence reactions was conducted
+usingasyngenechemigeniustmimagingworkstation(synoptics
+group, cambridge, uk) to avoid film saturation artifacts.
+results
+aup1 shows a synthetic interaction with the atg1⌬880 allele—
+previous studies (18) have shown that truncation of 18 amino
+acids from the c terminus of atg1p results in abrogation of cvt
+february 23, 2007 • volume 282 • number 8
+journal of biological chemistry 5619
+a mitochondrial protein phosphatase required for mitophagy
+trafficking but has only a minor effect on autophagic trafficking
+of prape1 (21). in mutants of this type, prape1 accumulates in
+nutrient rich conditions, because of the disruption of the cvt
+figure 1. synthetic interaction between the aup1⌬ mutation and the
+atg1⌬880 allele. exponentially growing yeast cultures of strains hay455
+(atg1⌬880), hay469 (aup1⌬), and hay695 (double mutant) were transferred to
+nitrogen starvation medium as described under “experimental procedures” and
+incubated for 3 h. samples were taken prior to starvation (⫺) or after starvation
+(⫹) and analyzed by immunoblotting with anti-ape1p antibody.
+figure 2. aup1p co-localizes with the mitochondrial marker cox9 in fresh
+cultures, but not in long term stationary phase cultures. cells (hay831)
+expressing aup1-gfp and cox9-rfp were grown overnight in smd to log phase
+and visualized as described under “experimental procedures.” after a 4-day sta-
+tionary phase incubation, the same culture was resampled (lower panels).
+pathway. however, upon starvation one observes rapid matu-
+ration of the precursor and the appearance of the mature form
+of ape1p, mape1 because of proteolytic processing in the vac-
+uolar lumen. this type of nutrient-induced shift in ape1p traf-
+ficking can be used to assay mechanistic aspects of the
+induction of macroautophagy (29–32). to identify protein
+phosphatases that potentially interact with the atg1 protein
+kinase, we screened for mutants that, in the genetic background
+of the atg1⌬880 allele, would cause a synthetic phenotype such
+that autophagic trafficking of prape1 would be abolished. to
+this end we assayed 32 knockouts of protein phosphatase
+homologs from the yeast deletion library (33) for loss of viability
+on starvation plates using phloxine b as a vital dye (34). of these
+strains, 6 showed characteristic pink coloration because of loss
+of viability on starvation and were then further analyzed by
+integration of the atg1⌬880 cassette into the atg1 locus for
+analysis of ape1p trafficking. one of these homologs,
+deleted for open reading frame ycr079w, showed a clear
+synthetic effect on prape1 maturation: whereas the phos-
+phatase homolog deletion alone had no effect on prape1 mat-
+uration, and the atg1⌬880 mutant was able to mature prape1
+under nitrogen starvation, the double mutant was unable to
+mature ape1p either in rich medium or nitrogen starvation
+conditions (fig. 1). because ycr079w was not previously char-
+acterized, we decided to name it aup1p, for autophagy-related
+protein phosphatase.
+aup1p localizes to mitochondria—surprisingly, sequence
+analysis of aup1p using the mitoprot ii algorithm (35) revealed
+a high propensity for mitochondrial localization of the protein.
+indeed, an aup1-gfp fusion strongly co-localizes with a red
+fluorescent protein fusion of the mitochondrial inner mem-
+brane marker cytochrome c oxidase
+subunit viia (cox9-rfp), when
+cells are grown in 2% lactate
+medium (fig. 2). however, upon
+long term (3–4 days) incubation, a
+clear shift in this co-localization was
+observed. whereas the gfp fluores-
+cence remained distributed in the
+cytoplasm,
+the rfp fluorescence
+appeared to concentrate at a central
+location which roughly coincided
+with the vacuole, although cytoplas-
+mic puncta are still observed as well.
+this result suggested to us that
+mitochondria are being delivered to
+the vacuole under these conditions.
+because there are no reports in the
+literature regarding massive mito-
+phagy under these conditions, we
+chose to characterize this phenom-
+enon in more detail. to determine
+whether the observation shown in
+fig. 3 was limited to a specific marker
+protein or fluorophore combination,
+we used cells expressing a generic
+mitochondrialgfpmarkerandavac-
+uolar vph1-rfp marker. in addition,
+figure 3. time course of delivery of mitochondrial gfp fluorescence into the vacuole during long term
+stationary cultures. cells (hay805) expressing vph1-rfp and harboring plasmid pyx142 expressing a mitochon-
+drially localized gfp, were incubated as above and visualized over a 5-day period. vacuole-mitochondrial gfp
+colocalization can be observed clearly from day 3.
+5620 journal of biological chemistry
+volume 282 • number 8 • february 23, 2007
+a mitochondrial protein phosphatase required for mitophagy
+figure 4. time course of aconitase degradation in wild-type and mutant
+cells reveals an aup1p-dependent mitophagic process for vacuolar
+delivery of mitochondrial content. a, cultures of wild-type (hay75), pep4⌬
+(tvy1), aup1⌬ (hay809), and atg1⌬ (hay395) were grown as described in the
+legend to fig. 2, and a sample (10 a600 unit equivalents) was withdrawn every
+24 h. samples were processed as described under “experimental procedures”
+and equal amounts of protein (15 ␮g) were analyzed by immunoblotting with
+anti-aconitase antibody. b, strain hay670, expressing aup1-ha, was incu-
+bated as described in a and samples (20 ␮g of protein) were immunoblotted
+with anti-ha antibody.
+weusedthissetuptocharacterizethetimecourseofdeliveryofthe
+mitochondrial marker to the vacuolar lumen. as shown in fig. 3,
+co-localization of vph1-rfp and mitochondrial gfp begins to be
+apparentat3daysofincubationinslm,andincreasesthroughthe
+5-day incubation period.
+aup1p is required for efficient mitophagic degradation of
+aconitase—to verify that the fluorescent experiments repre-
+sent bona fide mitophagy, we also followed the levels of aconi-
+tase, a protein residing in the mitochondrial matrix, using
+quantitative western blotting. as seen in fig. 4a, aconitase
+levels drop sharply between the second and third day of incu-
+bation, consistent with the fluorescent microscopy data. fur-
+thermore, this decrease was not observed in pep4⌬ mutants.
+pep4p is the major vacuolar protease and is required for the
+activation of most other vacuolar hydrolases: in its absence the
+vacuole does not efficiently degrade incoming proteins. the
+lack of aconitase degradation in pep4⌬ cells implies that the
+degradation process occurs in the vacuole, and by definition,
+therefore, constitutes a form of mitophagy. because we initially
+identified aup1p as a genetic interactor of atg1p, and because it
+localizes to mitochondria in a way that correlates with the onset
+of mitophagy (fig. 2), we also tested whether aup1⌬ and atg1⌬
+cells are defective in stationary phase mitophagy. aup1 was
+previously shown to be a nonessential gene (36). as shown in
+fig. 4a, aup1⌬ cells are completely defective in stationary
+phase mitophagy whereas atg1⌬ cells also show a reduced level
+of mitophagy. we then used quantitative western blotting to
+ask whether aup1p protein levels temporally correlate with its
+point of action during mitophagy. to this end, we c-terminally
+tagged aup1p with the ha epitope derived from the influenza
+virus hemagglutinin protein, and followed its levels using anti-ha
+antibodies. the aup1-ha chimera is functional, as assayed by
+rapamycin sensitivity (see “experimental procedures”). as seen in
+fig. 4b, aup1p levels sharply peak during the second day of incu-
+figure 5. aup1p co-fractionates with mitochondrial markers. a, strain
+hay670, expressing aup1-ha, was grown overnight in smd to log phase,
+spheroplasted, lysed, and fractionated as described under “experimental pro-
+cedures.” s300, p1500, p13, and s13 fractions (10 a600 unit equivalents each)
+were analyzed by immunoblotting with antibodies to tom70 (mitochondrial
+outer membrane), hexokinase (hxk1; cytosol), alkaline phosphatase (pho8;
+vacuole), kar2 (er), sed5 (golgi), or the ha epitope. b, p13 fractions isolated in
+a were resuspended in lysis buffer and loaded on a 5–25% nycodenz gradient
+(see “experimental procedures”). following centrifugation, the gradient was
+fractionated from the top, and the fractions were precipitated with 10% tri-
+chloroacetic acid and analyzed by immunoblotting.
+figure 6. aup1 is peripherally associated with mitochondrial mem-
+branes. p13 fractions isolated as in the legend to fig. 5 were resuspended in
+lysis buffer (control) hypotonic buffer (hypo), or 100 mm na2co3. following a
+30-min incubation on ice, samples were recentrifuged, and the samples were
+precipitated with 10% trichloroacetic acid and analyzed by immunoblotting.
+bation in slm, correlating with the onset of mitophagy as
+observed in figs. 3 and 4a.
+aup1p localizes to the mitochondrial intermembrane space—
+one interpretation of these data is that aup1p functions
+directly in mediating mitophagy. to better understand the
+potential ways in which aup1p may be involved in such a mech-
+anism, we decided to investigate the manner of its association
+with the mitochondrion. aup1p may be a peripheral membrane
+protein adhering to the outer mitochondrial membrane, a
+peripheral membrane protein of the intermembrane space, a
+soluble protein of the intermembrane space, or a luminal pro-
+tein. to analyze the different possibilities, we conducted frac-
+tionation studies, coupled with extraction and protease protec-
+tion protocols. as seen in fig. 5a, aup1-ha co-fractionates
+with tom70, a mitochondrial outer membrane protein, in dif-
+ferential centrifugation experiments. both proteins sediment at
+february 23, 2007 • volume 282 • number 8
+journal of biological chemistry 5621
+a mitochondrial protein phosphatase required for mitophagy
+figure 7. aup1p is localized to a protease-resistant compartment that is
+permeabilized by hypotonic treatment. strain hay670 was grown to log
+phase and lysed as in the legend to fig. 5. p13 fractions were resuspended in
+lysis buffer (upper panels) or hypotonic buffer (lower panel) and digested with
+proteinase k for the indicated times as described under “experimental proce-
+dures.” after the reactions were quenched, samples were analyzed by immu-
+noblotting with anti-ha (for both treatments), anti-tom70 (upper panel, as
+positive control for proteinase k digestion in whole mitochondria), anti-cyto-
+chrome b2 (lower panel, as positive control for mitochondrial outer mem-
+brane permeabilization), or anti-aconitase (lower panel, as control for mito-
+chondrial inner membrane integrity).
+12,500 ⫻ g, as expected for mitochondrial proteins, while kar2
+(endoplasmic reticulum) sed5 (golgi) and hexokinase (cytosol)
+are either underrepresented in this fraction or completely
+absent. not surprisingly, the vacuolar marker pho8 shows a
+similar distribution. to resolve vacuolar and mitochondrial
+components we resuspended the p13 fraction in lysis buffer and
+loaded it on a 5–25% nycodenz gradient. as seen in fig. 5b,
+aup1-ha co-fractionates with tom70 in this gradient and well
+away from pho8. these results corroborate the fluorescent
+microscopy data of fig. 2. to understand how aup1p associates
+with the mitochondrion, we tested whether aup1-ha can be
+extracted from the 13,000 ⫻ g pellet by treatment with 100 mm
+na2co3 or under hypotonic conditions. na2co3 treatment
+strips peripheral membrane proteins and soluble luminal pro-
+teins (37), while hypotonic conditions disrupt the outer mito-
+chondrial membrane, releasing soluble intermembrane pro-
+teins as well as loosely associated peripheral membrane
+proteins (38) (fig. 6). as seen in fig. 6, aup1-ha is stripped by
+na2co3, but not by hypotonic treatment although cytochrome
+b2, a soluble intermembrane protein, is clearly released by
+hypotonic treatment. this implies that aup1p is not a soluble
+intermembrane protein or an integral membrane protein, but
+does not indicate which submitochondrial compartment it
+associates with. to address this issue, we treated resuspended
+13,000 ⫻ g pellets with proteinase k either in lysis buffer or
+under hypotonic conditions. as seen in fig. 7, aup1-ha is not
+sensitive to proteinase k when the resuspended 13,000 ⫻ g
+pellet is challenged with proteinase k in lysis buffer, in contrast
+to tom70p, an integral outer membrane protein that faces the
+cytosol. this makes it very unlikely that aup1p is peripherally
+associated with the cytoplasmic leaflet of the outer membrane
+of the mitochondrion. however when the 13,000 ⫻ g pellet is
+resuspended in hypotonic buffer and challenged with protein-
+ase k, aup1p becomes sensitive to exogenous proteinase k, as is
+cytochrome b2, a soluble intermembrane protein. as a control,
+figure 8. aup1p is required for efficient survival during long term sta-
+tionary phase cultures. wild-type (hay75) and hay809 cells were grown to
+equivalent densities in smd. aliquots were removed at the indicated time
+points and spread onto ypd plates in triplicate. the number of colonies was
+counted after a 4-day incubation at 30 °c.
+one can see that aconitase, a luminal protein, is not degraded
+under these conditions, indicating that the inner membrane is
+not disrupted and that the sensitivity of aup1-ha to proteinase
+k reflects the disruption of the outer membrane alone. in sum-
+mary, because aup1-ha is not released from the pellet by
+hypotonic treatment alone, yet becomes sensitive to exogenous
+proteinase k under these conditions, the simplest explanation
+is that aup1p is a peripheral membrane protein associating
+with one of the two membranes that face the intermembrane
+space.
+aup1p is required for efficient survival in long term sta-
+tionary phase cultures—the role of autophagy and mitophagy
+in cell survival has been a point of some debate in the literature.
+whereas some authors contend that autophagy is strictly a cell
+survival mechanism related to starvation stress, others have
+suggested a role for autophagy in programmed cell death (6,
+39–46). indeed, under some conditions it has been argued that
+mitophagy in s. cerevisiae correlates with cell death phenomena
+(14, 16). to determine whether the role of aup1p in mitophagy
+reflects a cell survival mechanism or a cell death mechanism
+under our conditions, we compared the viability of wild-type
+and aup1⌬ cells incubated in slm over the time scales in which
+mitophagy occurs. as shown in fig. 8, wild-type cells slowly lose
+viability over a 9-day incubation period in slm, to ⬃30% of the
+initial viable cell counts. in contrast, viable counts of the aup1⌬
+mutant reached saturation later than wild type (on day 2) and
+rapidly lost viability between days 4 and 6, reaching less than 1%
+of the initial counts by day 6. interestingly, the onset of the rapid
+loss of viability in the aup1⌬ cells correlates with the onset of
+mitophagy (days 2 and 3). these results are consistent with a
+cell survival role for aup1p, and potentially for mitophagy,
+under our working conditions.
+aup1p is the s. cerevisiae ortholog of a highly conserved
+family of pp1k homologs—aup1p is a mitochondrial protein
+with significant homology to the protein phosphatase 2c fam-
+ily, and analysis on the ncbi dart program clearly indicates
+the existence of a pp2c catalytic motif. however the similarity
+between aup1p and the other pp2c family members in s. cer-
+evisiae is weak. s. cerevisiae ptc1, ptc2, and ptc3 are not found
+5622 journal of biological chemistry
+volume 282 • number 8 • february 23, 2007
+a mitochondrial protein phosphatase required for mitophagy
+in an unbiased blast search (47) of all nonredundant protein
+databases using aup1p as a query. in pairwise blast analysis,
+one observes respective % identity (and expect) values for align-
+ment of aup1p with ptc1, ptc2, and ptc3 as being 24% (expect
+value 3.0), 29% (expect value 5.2), and no significant similarity
+(for ptc3). in contrast, human, canine, and murine mitochon-
+drial protein phosphatase 1k, (pp1k, pp2c domain containing,
+all functionally uncharacterized proteins) are all identified in an
+unbiased blast search using aup1p as query, with % identity
+and expect values for these comparisons being 31% (expect
+value of 5 ⫻ 10⫺11), 29% (expect value of 4 ⫻ 10⫺10), and 29%
+(expect value 3 ⫻ 10⫺10), respectively. this implies that aup1p
+is a s. cerevisiae pp1k ortholog. the lack of additional s. cerevi-
+siae proteins with significant homology to aup1p (beyond their
+common pp2c motif) renders it unlikely that it is functionally
+redundant with the other members of the pp2c family in yeast.
+hence, these comparisons define a conserved eukaryotic mito-
+chondrial protein phosphatase family that may share a func-
+tional role in mitophagy.
+discussion
+the clearance of damaged mitochondria is an important
+household chore in eukaryotic cells (1, 4). this is even more
+pronounced in cells utilizing oxidative phosphorylation as the
+main mode for production of energy, as is the case for yeast
+growing on lactate medium. damaged mitochondria can gen-
+erate reactive oxygen species, release cell death-inducing fac-
+tors such as cytochrome c into the cytosol, or generally burden
+the metabolic machinery of the cell by decreasing the efficiency
+of atp generation. numerous inherited diseases caused by
+mitochondrial mutations have been described, and somatic
+variation and mutation of mitochondria is suggested to under-
+lie additional pathologies (2, 48).
+the cellular ability to recognize and delete damaged mito-
+chondria is therefore a vital aspect of aerobic life. it is generally
+assumed that such clearance occurs by sequestration of mito-
+chondria by the lytic compartment, i.e. the lysosome in animal
+cells or the vacuole in yeast. such sequestration, by definition,
+constitutes a form of specific autophagy, although the precise
+mechanisms involved are currently obscure.
+pioneering studies of mitophagy in yeast (15, 16) utilized
+experimental scenarios that are unlikely to be encountered by
+free living cells in their natural environment. in contrast, this
+study represents an effort to analyze mitophagy during pro-
+longed stationary phase incubation of aerobic yeast cultures, in
+the absence of additional manipulation.
+aup1p is a protein phosphatase homolog required for effi-
+cient mitophagy—we describe the identification and charac-
+terization of aup1p, a yeast protein phosphatase homolog that
+functionally interacts with the autophagy-dedicated protein
+kinase atg1p. whereas deletion of aup1 does not cause a
+defect in starvation-induced macroautophagy (fig. 1 and data
+not shown), the mitochondrial localization of the protein and
+the loss of this localization during mitophagy prompted us to
+analyze its potential role in mitophagy. our experiments indi-
+cate that aup1p is required for efficient mitophagy and that its
+function is required for survival of cells through prolonged sta-
+tionary phase incubation in a medium containing lactate as car-
+bon source. these results imply a pro-survival role for mitoph-
+agy, under our working conditions.
+several recent studies have pointed to a potential connection
+between mitochondrial function and autophagy,
+including
+classical macroautophagy. reggiori et al. (18, 20) report that
+atg9p, a membrane protein that is essential for starvation-in-
+duced macroautophagy, cycles between a mitochondrial local-
+ization and an autophagy-specific structure called the pas. a
+mechanistic involvement of mitochondrial metabolism in the
+regulation of macroautophagy is reasonable, given the central
+importance of the mitochondrion to amino acid metabolism,
+through anaplerotic functions of the tricarboxylic acid cycle.
+uth1p, a peripheral membrane protein of the cytoplasmic
+face of the mitochondrial outer membrane, was recently shown
+to be required for selective mitophagy in cells challenged with
+rapamycin, concomitantly with a switch between fermentative
+and gluconeogenic culture conditions (15). while both uth1p
+and aup1p are required for mitophagy, their effects on the
+physiological role of the process appear to be different: knock-
+out of uth1 results in increased viability of cells transferred
+from nitrogen replete medium containing glucose to nitrogen
+starvation medium containing lactate as carbon source, while
+we find that knock-out of aup1 results in decreased viability of
+cells in prolonged stationary phase incubation under sustained
+gluconeogenic conditions.
+this difference between aup1p and uth1p may reflect the
+differences in experimental protocol, or they may reflect a com-
+plex regulation of mitophagy through these proteins. intrigu-
+ingly, uth1p is thought to be regulated by phosphorylation,3
+raising the possibility that its function is regulated by aup1p.
+although direct dephosphorylation of uth1p by aup1p is
+unlikely since uth1p is projected to be localized at the cytoplas-
+mic leaflet of the outer membrane (49) whereas aup1p is local-
+ized to the intermembrane space (fig. 6), it is possible that
+aup1p is part of a signal transduction network that relays a
+signal from the mitochondrial matrix to the cytoplasmic inter-
+face and which then regulates mitochondrial targeting for
+vacuolar degradation. further work on the possible interac-
+tions between aup1p and uth1p are required to parse these
+possibilities.
+aup1p is a conserved protein with homologs in higher
+eukaryotic cells—aup1p lacks clear paralogs in the yeast pro-
+teome, despite the presence of a pp2c motif. aup1p appears to
+be a unique yeast representative of a highly conserved yet pre-
+viously unstudied eukaryotic pp1k family that is represented in
+all the genomes sequenced and annotated to date. all of the
+pp1k family members contain a pp2c motif and are predicted
+to be mitochondrial. it remains to be seen whether the role of
+aup1p in regulating mitophagy is evolutionarily conserved. in
+any event the high degree of conservation between these pro-
+teins, their apparently conserved mitochondrial localization,
+and the lack of paralogs within the s. cerevisiae genome all
+strongly suggest a conserved function. in addition, ruan et al.
+(50)recentlyshowedthatrecombinantaup1haspp2c-typephos-
+phatase activity. taken together, these results argue that this fam-
+3 s. manon, personal communication.
+february 23, 2007 • volume 282 • number 8
+journal of biological chemistry 5623
+a mitochondrial protein phosphatase required for mitophagy
+cell 6, 79–90
+ily of mitochondrial proteins function as protein phosphatases,
+with a conserved role in regulating mitochondrial turnover.
+the relationship between aup1p function, atg1p function,
+and mitophagy—while aup1p shows a synthetic interaction
+with the atg1⌬880 allele, the mechanistic significance of this
+interaction is unclear because we were unable to show a clear-
+cut requirement for aup1p in classical starvation-induced mac-
+roautophagy. nonetheless, it remains possible that a number of
+signaling inputs impinge on atg1p, and that the atg1⌬880
+mutant is defective for some of these inputs, leaving the auto-
+phagic machinery dependent on aup1p signaling. an addi-
+tional aspect of the relative roles of atg1p and aup1p is that
+while aup1p appears to be completely required for degradation
+ofaconitaseduringstationaryphaseinlactatemedium,atg1⌬cells
+appear to be only partly defective in the degradation of aconitase
+(fig. 4a). several different mechanisms have been proposed to
+mediate mitophagy, including nonspecific macroautophagy (51),
+specific macroautophagy (16), and specific microautophagy (52).
+it is conceivable that the cell uses redundant pathways that are
+activated by a common cue displayed on the mitochondrial sur-
+face, and that aup1p is required for the generation of this signal.
+further studies are required to test this hypothesis.
+acknowledgments—we thank drs. o. pines, l. pon, r. tsien, j. e.
+gerst, and b. westermann for antisera and plasmids. in addition we
+would like to thank liza pon and amnon horovitz for stimulating
+discussions and andreas reichert for critical reading of the manu-
+script. we are also indebted to dr. s. manon for communicating
+unpublished results and to maya amit for technical assistance.
+21. abeliovich, h., zhang, c., dunn, w. a., jr., shokat, k. m., and klionsky,
+d. j. (2003) mol. biol. cell 14, 477–490
+22. gerhardt, b., kordas, t. j., thompson, c. m., patel, p., and vida, t. (1998)
+j. biol. chem. 273, 15818–15829
+23. guthrie, c., and fink, g. r. (eds) (1991) in methods in enzymology (abelson,
+j. n., and simon, m. i., eds) vol. 194, pp. 3–21, academic press, new york
+24. longtine, m. s., mckenzie, a., 3rd, demarini, d. j., shah, n. g., wach, a.,
+brachat, a., philippsen, p., and pringle, j. r. (1998) yeast 14, 953–961
+25. xie, m. w., jin, f., hwang, h., hwang, s., anand, v., duncan, m. c., and
+huang, j. (2005) proc. natl. acad. sci. u. s. a. 102, 7215–7220
+26. campbell, r. e., tour, o., palmer, a. e., steinbach, p. a., baird, g. s.,
+zacharias, d. a., and tsien, r. y. (2002) proc. natl. acad. sci. u. s. a. 99,
+7877–7882
+27. westermann, b., and neupert, w. (2000) yeast 16, 1421–1427
+28. glick, b. s., and pon, l. a. (1995) methods enzymol. 260, 213–223
+29. budovskaya, y. v., stephan, j. s., reggiori, f., klionsky, d. j., and herman,
+p. k. (2004) j. biol. chem. 279, 20663–20671
+30. abeliovich, h., darsow, t., and emr, s. d. (1999) embo j. 18, 6005–6016
+31. abeliovich, h., dunn, w. a., jr., kim, j., and klionsky, d. j. (2000) j. cell
+32. yorimitsu, t., nair, u., yang, z., and klionsky, d. j. (2006) j. biol. chem.
+biol. 151, 1025–1034
+281, 30299–30304
+33. winzeler, e. a., shoemaker, d. d., astromoff, a., liang, h., anderson, k.,
+andre, b., bangham, r., benito, r., boeke, j. d., bussey, h., chu, a. m.,
+connelly, c., davis, k., dietrich, f., dow, s. w., el bakkoury, m., foury, f.,
+friend, s. h., gentalen, e., giaever, g., hegemann, j. h., jones, t., laub,
+m., liao, h., liebundguth, n., lockhart, d. j., lucau-danila, a., lussier,
+m., m’rabet, n., menard, p., mittmann, m., pai, c., rebischung, c.,
+revuelta, j. l., riles, l., roberts, c. j., ross-macdonald, p., scherens, b.,
+snyder, m., sookhai-mahadeo, s., storms, r. k., veronneau, s., voet, m.,
+volckaert, g., ward, t. r., wysocki, r., yen, g. s., yu, k., zimmermann,
+k., philippsen, p., johnston, m., and davis, r. w. (1999) science 285,
+901–906
+34. kametaka, s., matsuura, a., wada, y., and ohsumi, y. (1996) gene (amst.)
+35. claros, m. g. (1995) comput. appl. biosci. 11, 441–447
+36. sakumoto, n., mukai, y., uchida, k., kouchi, t., kuwajima, j., nakagawa,
+y., sugioka, s., yamamoto, e., furuyama, t., mizubuchi, h., ohsugi, n.,
+sakuno, t., kikuchi, k., matsuoka, i., ogawa, n., kaneko, y., and
+harashima, s. (1999) yeast 15, 1669–1679
+37. fujiki, y., hubbard, a. l., fowler, s., and lazarow, p. b. (1982) j. cell biol.
+38. glick, b. s. (1995) methods enzymol. 260, 224–231
+39. lum, j. j., deberardinis, r. j., and thompson, c. b. (2005) nat. rev. mol.
+cell. biol. 6, 439–448
+40. lum, j. j., bauer, d. e., kong, m., harris, m. h., li, c., lindsten, t., and
+thompson, c. b. (2005) cell 120, 237–248
+41. tsujimoto, y., and shimizu, s. (2005) cell death differ. 12, suppl. 2,
+93, 97–102
+42. yin, v. p., and thummel, c. s. (2005) semin. cell dev. biol. 16, 237–243
+43. edinger, a. l., and thompson, c. b. (2004) curr. opin. cell biol. 16,
+1528–1534
+663–669
+44. lockshin, r. a., and zakeri, z. (2004) int. j. biochem. cell biol.36, 2405–2419
+45. gozuacik, d., and kimchi, a. (2004) oncogene 23, 2891–2906
+46. tolkovsky, a. m., xue, l., fletcher, g. c., and borutaite, v. (2002)
+biochimie (paris) 84, 233–240
+j. mol. biol. 215, 403–410
+47. altschul, s. f., gish, w., miller, w., myers, e. w., and lipman, d. j. (1990)
+48. dimauro, s. (2004) biochim. biophys. acta 1658, 80–88
+49. velours, g., boucheron, c., manon, s., and camougrand, n. (2002) fems
+references
+1. loeb, l. a., wallace, d. c., and martin, g. m. (2005) proc. natl. acad. sci.
+178, 139–143
+u. s. a. 102, 18769–18770
+2. wallace, d. c. (2005) annu. rev. genet. 39, 359–407
+3. abeliovich, h., and klionsky, d. j. (2001) microbiol. mol. biol. rev. 65,
+463–479
+4. kowald, a., and kirkwood, t. b. (2000) j. theor. biol. 202, 145–160
+5. reggiori, f., and klionsky, d. j. (2002) eukaryot. cell 1, 11–21
+6. levine, b. (2003) harvey lect. 99, 47–76
+7. meijer, a. j., and codogno, p. (2004) int. j. biochem. cell biol. 36,
+2445–2462
+immunol. 279, 73–84
+8. kamada, y., sekito, t., and ohsumi, y. (2004) curr. top. microbiol.
+9. onodera, j., and ohsumi, y. (2004) j. biol. chem. 279, 16071–16076
+10. klionsky, d. j., and emr, s. d. (2000) science 290, 1717–1721
+11. klionsky, d. j., cueva, r., and yaver, d. s. (1992) j. cell biol. 119, 287–299
+12. hutchins, m. u., and klionsky, d. j. (2001) j. biol. chem. 276, 20491–20498
+13. tuttle, d. l., lewin, a. s., and dunn, w. a., jr. (1993) eur j. cell biol. 60,
+14. camougrand, n., kissova, i., velours, g., and manon, s. (2004) fems
+15. kissova, i., deffieu, m., manon, s., and camougrand, n. (2004) j. biol.
+283–290
+yeast res. 5, 133–140
+chem. 279, 39068–39074
+16. priault, m., salin, b., schaeffer, j., vallette, f. m., di rago, j. p., and
+martinou, j. c. (2005) cell death differ. 12, 1613–1621
+17. elmore, s. p., qian, t., grissom, s. f., and lemasters, j. j. (2001) faseb j.
+15, 2286–2287
+101–109
+18. reggiori, f., shintani, t., nair, u., and klionsky, d. j. (2005) autophagy 1,
+microbiol. lett 207, 165–172
+19. reef, s., zalckvar, e., shifman, o., bialik, s., sabanay, h., oren, m., and
+kimchi, a. (2006) mol. cell 22, 463–475
+biol. 119, 301–311
+20. reggiori, f., tucker, k. a., stromhaug, p. e., and klionsky, d. j. (2004) dev.
+52. campbell, c. l., and thorsness, p. e. (1998) j. cell sci. 111, 2455–2464
+50. ruan, h., yan, z., sun, h., and jiang, l. (2006) fems yeast res., in press
+51. takeshige, k., baba, m., tsuboi, s., noda, t., and ohsumi, y. (1992) j. cell
+5624 journal of biological chemistry
+volume 282 • number 8 • february 23, 2007
+molecular basis of cell and
+developmental biology:
+aup1p, a yeast mitochondrial protein
+phosphatase homolog, is required for 
+efficient stationary phase mitophagy and
+cell survival
+  
+ruth tal, gal winter, nitai ecker, daniel j.
+klionsky and hagai abeliovich
+j. biol. chem. 
+doi: 10.1074/jbc.m605940200 originally published online december 13, 2006
+2007, 282:5617-5624.
+access the most updated version of this article at doi: 
+  
+find articles, minireviews, reflections and classics on similar topics on the 
+  
+alerts: 
+•  
+•  
+  
+when this article is cited
+when a correction for this article is posted
+10.1074/jbc.m605940200
+jbc affinity sites
+click here
+ to choose from all of jbc's e-mail alerts
+this article cites 49 references, 23 of which can be accessed free at
+http://www.jbc.org/content/282/8/5617.full.html#ref-list-1
+  

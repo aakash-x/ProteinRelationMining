@@ -1,0 +1,1770 @@
+cardiovasc drugs ther (2006) 20: 445–462
+doi 10.1007/s10557-006-0583-7
+review
+the interplay between pro-death and pro-survival
+signaling pathways in myocardial ischemia/reperfusion
+injury: apoptosis meets autophagy
+anne hamacher-brady & nathan ryan brady &
+roberta anne gottlieb
+published online: 11 december 2006
+# springer science + business media, llc 2006
+abstract
+introduction programmed cell death of cardiac myo-
+cytes occurs following a bout of ischemia/reperfusion
+(i/r), which results in reduced function of the heart.
+numerous studies, including in vivo, have shown that
+cell death occurs via necrosis and apoptosis following
+i/r. recently, autophagy has emerged as a powerful
+mediator of programmed cell death, either opposing or
+enhancing apoptosis, or acting as an alternative form
+of programmed cell death distinct from apoptosis.
+aim here we review the apoptotic and autophagic
+signaling pathways, their influences on each other, and
+we discuss the relevance of autophagy in the heart.
+key words apoptosis . autophagy . mitochondria .
+gfp-lc3
+introduction
+the heart is a muscular pump which is responsible for
+circulating blood throughout the body,
+in order to
+deliver cells with nutrients and oxygen, as well as to
+carry away their waste products. the human heart
+begins beating at approximately 4–5 weeks following
+conception and continues, hopefully uninterrupted,
+until death, beating about three billion times. approx-
+imately one-third of all deaths in the western industri-
+alized world are caused by the effects of acute or
+chronic limitations to coronary blood flow [175]. many
+of these deaths are attributable to modifiable risk
+factors, such as obesity, hypertension, and smoking [46,
+132], whose prevalence continues to increase through-
+out the world. thus, in all likelihood, heart disease will
+remain a leading cause of death for generations to come.
+a myocardial infarction occurs when a coronary
+artery supplying oxygen-rich blood to a region of the
+heart is blocked (e.g., due to coronary obstruction,
+surgical clamp, heart transplantation). the resulting
+condition of low oxygen and nutrient supply is termed
+ischemia (from greek:
+to hold back, and
+haima,
+blood), and is accompanied by decreased
+intracellular availability of atp, and low ph, partly
+due to increased lactate concentrations. following a
+bout of ischemia, reperfusion (e.g., via vasodilator
+pharmaceuticals, angioplasty) must be achieved in
+order to prevent the irreversible destruction of affect-
+ed tissues. paradoxically, reperfusion itself causes
+damage and subsequent cell death. this condition is
+referred to as ischemia/reperfusion (i/r) injury.
+ischo,
+this work was supported by nih grants r01-ag21568 and
+r01-hl60590 (to r.a.g.) and the stein endowment fund.
+this is ms# 18245 of the scripps research institute.
+anne hamacher-brady and nathan ryan brady contributed
+equally.
+a. hamacher-brady : n. r. brady : r. a. gottlieb (*)
+department of molecular and experimental medicine
+mem-220, the scripps research institute,
+10550 n. torrey pines road, la jolla,
+san diego, ca 92037, usa
+e-mail: robbieg@scripps.edu
+myocardial cell death during i/r injury
+it has been established that following i/r, cell death
+occurs via both necrosis and apoptosis [80], two dis-
+tinct modes of death. necrosis (greek for: death, causing
+to die) is a degenerative process in which cellular
+integrity is lost and the release of cytosolic contents
+provokes an inflammatory response [155]. ischemia
+446
+cardiovasc drugs ther (2006) 20: 445â€“462
+induces necrosis in a certain subset of cells, whereby the
+extent of necrotic cell loss is a function of the duration
+of the ischemic insult [113]. necrotic cells are mainly
+found in the central zone of the infarct.
+in contrast, apoptosis (from greek:
+falling off,
+figurative for the falling of leaves; also termed pro-
+grammed cell death (pcd) type i) is a highly regulat-
+ed, genetically determined mechanism that does not
+provoke an inflammatory response [149]. moreover,
+apoptosis requires energy in form of atp for its suc-
+cessful completion. apoptosis plays a role in pathophys-
+iological conditions but is also essential in normal tissue
+homeostasis, allowing the organ or tissue to rid itself of
+cells which are dysfunctional or no longer needed.
+apoptotic cell death is characterized by cell shrinkage,
+membrane blebbing, and nuclear condensation and
+degradation. the cell is eventually broken into small
+membrane-enclosed pieces (apoptotic bodies), which in
+vivo are removed by macrophages, or taken up by
+neighboring cells. this prevents the release of cellular
+compounds and thus ensures that an inflammatory
+response is not provoked. in i/r injury, apoptotic cell
+loss manifests itself during the reperfusion period due
+to the slowly orchestrated execution of the apoptotic
+cell death program, and is more apparent at the margin-
+al zone of the infarct. in addition to its contribution to
+i/r injury, apoptosis has been implicated in the
+pathogenesis of several cardiovascular diseases includ-
+ing nonischemic dilated cardiomyopathy [152] and
+congestive heart failure [120, 125].
+autophagy, a lysosomal degradative pathway, has
+recently emerged as an important mediator of pcd
+pathways. inhibition of autophagy can trigger apopto-
+sis [15], and upregulation of autophagy protects against
+apoptotic stimuli [138]. however, under certain con-
+ditions anti-apoptotic and pro-apoptotic bcl-2 family
+members activate autophagy to trigger a form of pro-
+grammed cell death [81, 159]. furthermore, autophagy
+can function as a second mode of programmed cell
+death (pcd type ii) distinct from apoptosis, termed
+autophagic cell death [20]. in this review we present
+the apoptotic and autophagic pathways and discuss
+recent findings concerning the role of autophagy and
+nature of crosstalk between these pathways. finally we
+discuss the role of autophagy deciding the fate of the
+cardiac myocyte.
+pathways and executers of apoptosis (pcd type i)
+pcd pathways present a target for reducing the size of
+the infarct, and thus preserving myocardial function
+following i/r. in the heart, apoptosis is mediated by
+two central pathways, the receptor-mediated (extrin-
+sic) and the mitochondrial (intrinsic) pathway [35]
+both of which are depicted in fig. 1. so-called
+caspases, a family of cysteine aspartate proteases, are
+the main effectors of, and allow for crosstalk between,
+both pathways [164, 176]. caspases are synthesized as
+inactive precursors and generally activated by proteo-
+lytic cleavage of the procaspase form to the catalyti-
+cally active heterotetramer [157].
+receptor-mediated death pathway
+the receptor-mediated (extrinsic) pathway is initiated by
+the binding of a death ligand (e.g., cd95/fas ligand,
+tnf-a) to its cognate cell surface death receptor (e.g.,
+cd95/fas, tnf-a receptor) [6, 151]. consequently, death
+adapter molecules such as fadd (fas-associated
+death domain) and tradd (tnf receptor-associated
+death domain) form homotrimers which are recruited
+to the cytoplasmic tail of the death receptor through
+death domains^ present in both
+interactions between
+proteins [29, 69, 171]. subsequently, procaspase 8 is
+recruited to the complex, resulting in proximity-induced
+processing [119]. once activated, caspase 8 initiates the
+apoptotic cascade via processing of downstream effector
+caspases such as caspase 3 [122, 174], as well as the pro-
+apoptotic bcl-2 family member, bid [103], leading to the
+death of the cell.
+recently, the receptor-mediated death pathway was
+linked to the progression of heart disease: mice lacking
+functional fas exhibited smaller infarcts following a
+model of in vivo i/r injury [99], while increased levels
+of fas ligand are present in congestive heart failure
+[154, 192] and were associated with i/r-induced
+apoptosis of cardiac myocytes [80]. likewise, increased
+tnfa production was reported to occur during myo-
+cardial i/r injury and was linked to mitochondrial
+damage [87, 100].
+mitochondrial death pathway
+under pathophysiological conditions (e.g., enhanced
+oxidative stress and/or calcium overload) mitochondria
+participate in the apoptotic pathway [43, 55]. death
+signals transmitted to the mitochondria lead to the
+release of pro-apoptotic proteins from the mitochon-
+drial
+intermembrane space to the cytosol, through
+pathways which are still subject to much debate and
+investigation. the majority of studies focused on the
+release of cytochrome c, which normally functions as
+part of the mitochondrial electron transport chain.
+two main models have been proposed to describe the
+mechanism(s) of cytochrome c release to the cytosol
+cardiovasc drugs ther (2006) 20: 445â€“462
+447
+fig. 1 scheme of signaling pathways implicated in apoptosis
+(pcd type i) of cardiac myocytes. depending on the stimuli
+apoptosis may be initiated extrinsically via the engagement of
+cell surface death receptors or intrinsically via the mitochondrial
+pathway. the receptor-mediated death pathway is initiated by
+binding of a death ligand (e.g., cd95l/fasl) to its cognate
+receptor (e.g., cd95/fas) in the plasma membrane. the cyto-
+plasmic tail of the death receptor then engages death adaptor
+molecules (e.g., fadd), resulting in the recruitment and
+activation of procaspase 8. caspase 8 activates downstream
+effector caspases such as caspase 3, resulting in the execution of
+apoptosis. caspase 8 also activates bid, thereby linking the two
+death pathways. the mitochondrial death pathway is regulated by
+the bcl-2 family of proteins. cellular stresses are communicated
+to the mitochondria by pro-apoptotic bcl-2 family members (e.g.,
+bid, bax), leading to the release of pro-apoptotic molecules (e.g.,
+cytochrome c, endog, aif, smac/diablo) from the mito-
+chondrial
+intermembrane space into the cytosol where they
+initiate the apoptotic cascade. anti-apoptotic bcl-2 family
+members (e.g., bcl-2 and bcl-xl) oppose these actions
+[9, 107]. the first model describes a non-specific mode
+of release in which opening of the mitochondrial
+permeability transition pore (mptp) leads to the
+swelling of mitochondria due to the osmotic influx of
+water into the protein- and metabolite-dense mitochon-
+drial matrix. the highly convoluted inner mitochondrial
+membrane is able to expand while the outer mitochon-
+drial membrane ruptures, releasing cytochrome c into
+the cytosol. the second model describes specific modes
+of release, where bcl-2 family proteins form pores
+either directly via oligomerization, regulate the pore
+size of pre-existing pores, or indirectly by causing
+membrane instability which gives rise to lipidic pores.
+in the cytosol, cytochrome c binds to apaf1 (apo-
+ptotic protease activating factor 1) and in the presence
+of datp, procaspase 9 is recruited to the complex,
+now termed the apoptosome, leading to the activation
+of procaspase 9 [1, 143]. activated caspase 9 can
+activate downstream effector caspases, and thus deter-
+mine the cell to death. cytochrome c-dependent
+activation of caspase 9 is supported by smac/diablo
+which is likewise released from the mitochondrial
+intermembrane space and removes the anti-apoptotic
+activity of iaps (inhibitor of apoptosis proteins) [44,
+182]. in addition, mitochondria release endonuclease
+g and aif (apoptosis-inducing factor) which translo-
+448
+cardiovasc drugs ther (2006) 20: 445â€“462
+cate to the nucleus and promote chromatin condensa-
+tion and large-scale dna fragmentation [156].
+the mitochondrial death pathway appears to play
+an important role in the execution of apoptosis in
+cardiac myocytes [35, 53, 58]. caspase-dependent cy-
+tochrome c release has been reported in isolated chick
+cardiac myocytes subjected to simulated i/r [137] and
+several parameters of mitochondria-mediated apopto-
+sis were demonstrated during myocardial i/r injury in
+vivo [109] and ex vivo [26]. furthermore, preservation
+of mitochondrial integrity via inhibition of the mptp
+[13, 63] or counterbalancing of pro-apoptotic bcl-2
+protein activity [17, 59] proved cardioprotective in i/r
+injury.
+death signaling at the mitochondria
+mitochondria form a point of convergence and inte-
+gration of both survival and death signaling pathways.
+mitochondria communicate death signals between mito-
+chondria and to other organelles such as the sarco/
+endoplasmic reticulum and the nucleus. the pro-death
+capabilities of the mitochondrion are controlled by three
+main factors: mptp activity, increased reactive oxygen
+species (ros) production, and impaired calcium ho-
+meostasis.
+mitochondrial permeability transition
+the mitochondrial permeability transition pore (mptp)
+participates in both necrotic and apoptotic cell death
+[85]. upon activation of the mptp, the inner mito-
+chondrial membrane becomes permeable to solutes of
+up to 1.5 kda, causing the collapse of mitochondrial
+membrane potential. it is generally thought that a
+minimal mptp is composed of vdac (voltage depen-
+dent anion channel in the outer mitochondrial mem-
+brane), ant (adenine nucleotide translocator in the
+inner mitochondrial membrane) and cyclophilin d
+(a prolyl isomerase located in the matrix) [34]. the
+physiological roles of vdac and the ant are in the
+delivery of atp from the mitochondrial matrix to
+the cytosol, whereas the role of cyclophilin d in the
+mitochondrial matrix is not understood. however,
+these proteins are altered into forming the mptp
+under pathophysiological conditions of high mito-
+chondrial matrix calcium levels and/or enhanced oxi-
+dative stress.
+interestingly, mptp activation has been shown to
+occur upstream of bax-mediated cytochrome c release
+[39, 134]. mptp activation may also amplify any cel-
+lular energetic crisis, as mitochondria become atp
+consumers, via atp hydrolysis and reverse proton
+pumping by h+-atpase [102]. in the heart, the mptp
+has been implicated as an important factor mediating
+i/r injury [186]. both cyclosporin a (csa) and sangli-
+fehrin-a, inhibitors of the mptp, have been shown to
+prevent cardiac myocyte death caused by i/r in perfused
+hearts [13, 66]. recently, in vivo studies in cyclophilin
+d-null mice have confirmed the mptp, or at least cy-
+clophilin d, as a mediator of i/r injury in the heart [8].
+mitochondrial ros generation
+intimately linked to the mitochondrial role in pcd is
+their capability to generate ros. in the cardiac
+myocyte it has been estimated that from 0.2 [163] to
+2% [14] of o2 that is normally reduced to h2o is
+converted to the superoxide anion (o 
+2 ), the upstream
+source of most ros. o 
+2 production occurs by the
+transfer of electrons onto o2 at complex i [178] and
+the semiquinone radical of complex iii of
+the
+mitochondrial electron transport chain [177].
+during i/r injury the return of oxygen to ischemic
+tissues is accompanied by an increased production of
+ros. studies on whole hearts and isolated cells have
+shown that a burst of ros generation occurs during
+the first minutes after hypoxic and ischemic tissues are
+reoxygenated [204], due to the reactivation of mito-
+chondrial respiration [3]. ros generation results in
+tissue lipid and protein oxidation [101, 181]. antioxi-
+dant scavenging of ros blunts or eliminates i/r injury
+in vivo and in vitro [22, 101] and enhanced catalase
+expression via adenoviral gene transfer decreased
+injury [203], demonstrating that ros play a causative
+role in myocardial i/r injury.
+mitochondrial calcium handling
+the cardiac myocyte requires an efficient supply and
+delivery of atp from the mitochondria to perform
+work and maintain ion homeostasis. calcium (ca2+),
+which is stored in the sarco/endoplasmic reticulum (s/
+er, specialized endoplasmic reticulum of muscle
+cells), serves as a second messenger to couple mito-
+chondrial atp production to demand: ca2+-release
+during the action potential stimulates both actino-
+myosin atpase activity (contraction) and mitochon-
+drial oxidative phosphorylation [45] by activation of
+the tricarboxylic acid cycle [142]. during the action
+potential, a small amount of ca2+ enters the cardiac
+myocyte through l-type channels in the plasma
+membrane, triggering the large-scale release of sarco-
+plasmic reticulum ca2+ stores into the cytosol [10]. the
+atp-dependent sarco/endoplasmic reticulum calcium
+cardiovasc drugs ther (2006) 20: 445–462
+449
+atpase (serca) then pumps ca2+ from the cytosol
+back into the s/er during the relaxation phase.
+decreased atp production due to mitochondrial
+dysfunction during i/r results in decreased serca
+less ca2+ is pumped back into the s/er,
+activity:
+leading to increased cytosolic ca2+ levels. the in-
+creased cytosolic ca2+ levels may activate the ca2+-
+dependent calpain protease, which can activate the
+pro-apoptotic bcl-2 family member bid [26]. further-
+more, elevated cytosolic ca2+ levels have been sug-
+gested to lead to mitochondrial ca2+ overload, which
+in turn would be causative in mptp opening and
+subsequent activation of apoptosis [7, 62]. however, a
+recent study has shown that during simulated i/r in
+isolated adult cardiac myocytes, mitochondrial ca2+
+overload was found to be the consequence, rather than
+cause, of mptp activation [86], implicating upstream
+events leading to mitochondrial dysfunction as the
+important determinants in i/r injury.
+regulation of mitochondrial integrity
+by bcl-2 family members
+at the level of the single mitochondrion, both mptp
+activity and the release of pro-apoptotic proteins from
+the mitochondrial intermembrane space are regulated
+by two opposing classes of the bcl-2 (b-cell leukemia/
+lymphoma 2) family of death-regulating proteins
+(fig. 1). members of the bcl-2 protein family have
+either anti- or pro-apoptotic functions [33, 140].
+cellular stresses leading to the execution of cell
+death pathways are perceived by bcl-2 family pro-
+teins and communicated to the mitochondria by
+regulated targeting of these proteins to the outer
+mitochondrial membrane where they modulate the
+release of pro-apoptotic molecules such as cyto-
+chrome c through interaction with other bcl-2 family
+proteins. bcl-2 family proteins exert different activ-
+ities as a function of their intracellular localization.
+bcl-2 family members have also been shown to target
+membranes of the s/er, and the nuclear envelope
+where they exert additional/alternate pro- or anti-
+apoptotic functions in part by regulating organelle
+calcium content and trafficking events [16, 110].
+a common characteristic for all bcl-2 family
+members is the presence of at least one, and up to
+four, bcl-2 homology (bh) domains which allow for
+the formation of homo- or heterodimers between bcl-2
+proteins [82, 126]. the majority of bcl-2 proteins
+furthermore possess a carboxy-terminal hydrophobic
+transmembrane (tm) domain for targeting to intra-
+cellular membranes, with the exception of some bh3-
+only proteins.
+anti-apoptotic bcl-2 family members
+the anti-apoptotic members, including bcl-2 and bcl-xl,
+posses four bcl-2 homology domains (bh1–bh4) and
+potently inhibit apoptosis in various settings through
+the sequestration of pro-apoptotic bcl-2 family mem-
+bers via heterodimerization [4]. bcl-2 is always associ-
+ated with intracellular membranes (i.e., the outer
+mitochondrial membrane, s/er and nuclear envelope)
+[95]. bcl-xl is found in association with intracellular
+membranes and in addition exists in a soluble form in
+the cytosol which translocates to the mitochondria
+during apoptosis [189]. at the mitochondria both bcl-2
+and bcl-xl have also been shown to stabilize the
+mptp and block the release of mitochondrial apopto-
+genic factors following cell death stimuli [168]. at the
+s/er, bcl-2 and bcl-xl increase the permeability of
+the s/er to calcium, minimizing the ca2+ signaling
+component of apoptosis [190].
+anti-apoptotic bcl-2 proteins have potent cardio-
+protective effects. both bcl-2 and bcl-xl have been
+shown to protect against i/r injury ex vivo and in vivo
+[17, 70, 71]. gene transfer of bcl-xl reduced cardiac
+cell apoptosis following cold preservation and warm
+reperfusion of rat cardiac transplants [70]. further-
+more, elevated bcl-2 protein levels were reported to
+coincide with the onset of protection during myocar-
+dial stunning [42].
+pro-apoptotic bcl-2 family members
+bh3-only
+the pro-apoptotic bcl-2 members either contain three
+bcl-2 homology domains (bh1–bh3; e.g., bax and
+bak) or a single bh3 domain (
+; e.g., bid
+and bnip3). bax and bid reside largely in the cytosol
+(or loosely bound to the mitochondria) and translocate
+to the mitochondria following a pro-death stimulus [56,
+189]. once activated, bax (bcl-2 associated x protein)
+undergoes a conformational change, allowing for its c-
+terminal end to be inserted into the mitochondrial
+outer membrane [51, 121]. membrane insertion is
+followed by oligomerization, an event thought to
+precede cytochrome c release [148, 160]. it has been
+proposed that bax, together with activated bid, forms
+channels directly via its oligomerization [107], regu-
+lates the pore size of the vdac to allow cytochrome c
+translocation [160], or causes membrane instability to
+open lipidic channels [49].
+bh3-only
+the
+family member bid (bcl-2 interacting
+domain) lies within the extrinsic death receptor pathway,
+450
+cardiovasc drugs ther (2006) 20: 445–462
+and upon its activation serves to bridge the intrinsic and
+extrinsic pathways. following tnf-a or fas ligand
+treatment, bid is cleaved by caspase 8 to give rise to
+the c-terminal product tbid (truncated bid), which is
+myristoylated and translocates to the mitochondria
+[202]. during reperfusion, bid may also be activated by
+calpain cleavage [26]. bid has been proposed to directly
+participate in the mitochondrial outer membrane per-
+meabilization event [199], as well as to amplify the
+pro-apoptotic signaling of bax either through direct
+interaction with bax/bak [148, 185], or through scav-
+enging of anti-apoptotic bcl-2 and bcl-xl, which oppose
+bax activity [27, 183]. during i/r injury bid and bax
+play crucial roles in the commitment to cell death, as
+demonstrated in both bid [129] and bax [67] knockout
+mice, where infarct following i/r in the isolated heart
+was reduced by around 63 and 51%, respectively.
+bh3-only
+bnip3 (bcl-2/adenovirus e1b 19 kda interacting
+protein) is another member of the
+bcl-2
+subfamily which has been described to induce apopto-
+tic [96], necrotic [180], and autophagic [38, 81] cell
+death. bnip3 possesses a c-terminal transmembrane
+(tm) domain which is required for its pro-apoptotic
+function, including targeting to the mitochondria [25,
+196]. elevated bnip3 protein levels have been ob-
+served in vivo in an animal model of chronic heart
+failure [141]. moreover, bnip3 expression has been
+reported to be upregulated in neonatal myocytes
+subjected to hypoxia, resulting in mitochondrial dys-
+function and subsequent cell death [18, 96, 141].
+recently, our lab has shown that bnip3 contributes
+to i/r injury in the ex vivo heart via disruption of
+mitochondrial integrity, leading to enhanced superox-
+ide production and the release of pro-apoptotic factors
+such as cytochrome c and aif [64].
+autophagy—at the interface between death
+and survival
+self-digestion
+),
+autophagy (greek for:
+is under
+normal conditions a process for the turnover and
+recycling of long-lived macromolecules and organelles
+via the lysosomal degradative pathway,
+involved in
+maintaining cellular homeostasis, differentiation, and
+tissue remodeling. paradoxically, under pathophysio-
+logical conditions, autophagy may serve a protective
+role or contribute to cell damage. for example,
+nutrient depletion classically induces autophagy in
+order to provide amino acids for the synthesis of
+essential proteins, thus prolonging cell survival [90].
+moreover, autophagy may up to a certain threshold
+counteract apoptotic stimuli (pcd type i) [15, 138].
+other studies, however, have shown that autophagy
+can act as an alternative form of programmed cell
+death, termed pcd type ii [23, 32, 179]. interestingly,
+autophagy shares common molecular regulators with
+apoptosis, including the anti-apoptotic members of the
+bcl-2 family proteins [105, 128, 159],
+indicating a
+probable crosstalk between the two pathways.
+molecular mechanism of autophagy
+three main pathways lead to the lysosome via
+autophagy: macroautophagy, microautophagy, and
+chaperone-mediated autophagy [36, 90]. during chap-
+erone-mediated autophagy, proteins are delivered to
+the lysosome via the chaperone hsc73 (heat shock
+cognate protein 73) [37]. microautophagy describes
+the process whereby proteins are locally taken up by
+the lysosome. macroautophagy (hereafter referred to
+as autophagy), the most active form of autophagy, is a
+specific mode of autophagy in which isolation mem-
+branes envelope a portion of the cytosol, containing
+non-specific cytosolic components, selectively targeted
+toxic protein aggregates [139], intracellular pathogens
+[60], or organelles such as mitochondria [135, 191]. the
+autophagosomes undergo a series of maturation steps
+via fusion with endosomal vesicles and are then
+delivered to the lysosome, forming the autophagolyso-
+some, for subsequent degradation of their contents by
+lysosomal proteases (fig. 2).
+autophagosome formation
+the autophagic process is initiated by the formation of
+an isolation membrane (or phagophore), possibly
+derived from the s/er [75], which engulfs portions of
+the cytoplasm to generate a closed, double-membrane
+structure, the autophagosome. many of the genes
+identified to participate in autophagy (atg) are
+designated numerically (e.g., atg7). two ubiquitin-
+like conjugation systems which are well conserved
+among eukaryotes are required for the formation of
+the autophagosome. one involves the attachment of
+atg12 to atg5 and the other the conjugation of phos-
+phatidylethanolamine to lc3/atg8 (fig. 2).
+atg12 is a modifier protein which is irreversibly
+conjugated to atg5, independent of autophagy induc-
+tion [116]. atg7 (an ubiquitin-activating e1-like en-
+zyme) activates atg12 in an atp-dependent manner,
+by binding to its carboxy-terminal glycine. subsequent-
+ly, the carboxy-terminal glycine of atg12 is transferred
+to atg10 (an ubiquitin-conjugation e2-like enzyme).
+atg10 in turn activates the conjugation of atg12
+cardiovasc drugs ther (2006) 20: 445–462
+451
+fig. 2 macroautophagy is a three-step process. macroautophagy
+first involves the sequestration of a region of the cytosol, containing
+proteins and/or organelles, which are engulfed by a newly formed
+double-membrane organelle, the autophagosome. to accomplish
+degradation of the autophagosome and its cargo (filled circle), the
+autophagosome matures via fusion with endosomal vesicles and,
+subsequently, with the acidic lysosome, generating the autopha-
+golysosome. within the autophagolysosome, lysosomal proteases
+(filled triangle) degrade the inner autophagosomal membrane and
+cargo. two ubiquitin-like conjugation systems during autophago-
+some formation. atg12 and lc3/atg8 are ubiquitin-like proteins
+which during autophagosome formation are conjugated to atg5
+and pe, respectively. atg12 is activated and bound by e1-like
+atg7, transferred to e2-like atg10, and conjugated to atg5.
+homodimers of atg16 bind a pair of atg12–atg5 conjugates and
+this complex transiently associates with the forming autophagoso-
+mal membrane. the membrane-bound atg12–atg5
+atg16 com-
+plex is a prerequisite for the recruitment of lc3-ii, which is the
+product of the second ubiquitin-like conjugation. initially, the
+cysteine protease atg4 removes the c-terminal arginine residue of
+cytosolic lc3, generating lc3-i with a revealed glycine residue.
+lc3-i is then activated by e1-like atg7, transferred to e2-like
+atg3, and conjugated to pe. the resulting lc3-ii is recruited into
+the forming autophagosomal membrane. after completion of
+autophagosomes formation, a second cleavage by atg4 results in
+some removal of pe from lc3-ii, reverting it back into lc3-i
+which is released from the membrane. the remaining membrane-
+attached lc3-ii is degraded by lysosomal proteases
+carboxy-terminal glycine to atg5 lysine 130. atg16
+dimerizes and forms a complex with a pair of atg12–
+atg5 and this complex evenly associates with the
+crescent-shaped phagophore. curvature is thought to
+be introduced via subsequent asymmetrical redistribu-
+tion of the atg12–atg5
+atg16 complex mainly to the
+convex surface of the phagophore. upon completion
+of autophagosome formation, atg12–atg5
+atg16 com-
+plexes dissociate from the membrane [50] and are not
+present in the mature autophagosome. atg12–atg5
+conjugation is indispensable for the involvement of
+atg5 in the elongation of the initial phagophore [117].
+the phagophore into the
+autophagosome requires the cooperation of microtu-
+the development of
+bule-associated protein light chain 3 (lc3/atg8) [170].
+lc3 is synthesized as a cytosolic full-length precursor
+protein which is converted into lc3-i via cleavage by
+the cysteine protease atg4, exposing its carboxy-
+terminal glycine residue [89]. the glycine residue is
+then activated by atg7 (e1-like) in an atp-dependent
+manner, transferred to atg3 (e2-like), and finally
+conjugated to the phospholipid phosphatidylethanol-
+amine (pe) through an amide bond [111]. lc3-pe (or
+lc3-ii) is then recruited to the autophagosomal mem-
+brane in an atg5-dependent manner [117], a process
+that is required for the execution of autophagy [89]. a
+lysine-130-arginine (k130r) mutation of atg5 prevents
+binding of atg12 without interfering with membrane
+452
+cardiovasc drugs ther (2006) 20: 445–462
+targeting of atg5 [115, 136]. importantly, atg5(k130r)
+is unable to recruit lc3 and results in failed phag-
+ophore maturation. as opposed to atg12–atg5, lc3-ii
+is present both in the early phagophores and mature
+autophagosomes where it ultimately is degraded by
+lysosomal proteases [88]. atg4 can deconjugate pe
+from lc3-ii located in the outer autophagosomal
+membrane, converting it back to cytoplasmic lc3-i
+[78], although most lc3-ii is degraded by the lysosome
+[169]. the carboxy-terminal end of lc3 serves as an
+interface with autophagosomal membranes, while the
+amino-terminal end is required for binding to tubulin
+and microtubules [94].
+the characterization of gfp-lc3 is a driving force
+in the autophagy field as it functions as a unique and
+specific indicator for autophagosomal vesicles (avs)
+in live cells (cell culture and in vivo), as assessed by
+fluorescence microscopy and western blotting [77].
+currently, a demonstration of either punctate gfp-
+lc3-ii labeled avs by fluorescence imaging, or lc3-
+ii detection by western blotting, are the standard
+means for detecting changes in autophagic activity.
+however,
+to note that lysosomal
+degradation of lc3-ii varies according to cell type
+[118]. moreover, increased levels of avs can represent
+impairment in the fusion with lysosomes rather than an
+upregulation in autophagic activity. as such, common-
+ly reported steady-state lc3-ii concentration (pres-
+ence of avs) provides an incomplete view of the
+autophagic process: increased avs may indicate either
+enhanced autophagy, reduced degradation of avs, or
+a combination of both.
+it is important
+autophagosome maturation
+following the completion of autophagic sequestration,
+the autophagosome undergoes a series of maturation
+steps prior to its fusion with the lysosome. during the
+multi-step maturation process, autophagosomes fuse
+with endosomal vesicles and protease-containing late
+endosomal compartments and finally, lysosomes [52].
+these fusion events are mediated in part by a family
+of rab gtpases, known mediators of vesicular traf-
+ficking, whose functions include vesicle formation,
+motility, and tethering to their target compartment
+[201]. upon membrane fusion, rab-bound gtp is
+hydrolyzed to gdp, and inactive rab-gdp is bound
+by a rab gdp-dissociation inhibitor (rabgdi), remov-
+ing rab to its original membrane compartment. rab7 is
+a key component in the regulation of autophagosomal
+maturation: overexpression of a dominant negative
+mutant of rab7 has been shown to inhibit fusion
+between autophagosomes and the late endosome/lyso-
+somal compartment [61, 74]. lysosomal receptor pro-
+teins lamp1 and lamp2 are involved in rab7-mediated
+fusion of autophagosomes and lysosomes as rnai
+knockdown of either protein results in retarded recruit-
+ment of rab7 to autophagosomal membranes [74], and
+the accumulation of autophagosomes [15].
+in addition, the cytoskeleton also regulates auto-
+phagosome formation as well as endosomal and
+lysosomal trafficking [5]. pharmacologic inhibition of
+microtubules with nocodazole blocks fusion between
+autophagosomes and lysosomes, demonstrating its role
+in autophagosome formation and delivery [92].
+degradation within the autophagolysosome
+the autophagosome acquires the milieu and enzymes
+necessary for the degradation of its cargo through
+fusion with the lysosome. the lysosome is a mem-
+brane-bound organelle which contains a cocktail of
+predominantly hydrolytic enzymes that are maximally
+active at low ph (e.g., cathepsins b and d which
+degrade proteins, lipids, nucleic acids, and polysacchar-
+ides). acidification of the lysosomal lumen is accom-
+plished by the vacuolar h+-atpase (v-atpase), which
+hydrolyses cytosolic atp to translocate h+ into the
+lysosomal lumen [167]. lysosomal transport proteins
+such as cystinosin are thought to mediate the recycling
+of degraded products (amino acids, sugars, and nu-
+cleotides) from the lysosome back to the cytosol [188],
+thereby completing the catabolic process.
+regulation of autophagy
+two pathways, which are conserved among eukary-
+otes, are involved in regulating autophagic activity at
+the level of induction: one involves class i phosphati-
+dylinositol 3-kinase (pi3-k), which suppresses auto-
+phagy, and the other involves class iii pi3-k leading to
+activation of autophagy (fig. 3).
+negative regulation of autophagy
+autophagy is suppressed by the class i pi3-k/akt
+pathway [130], which is involved in anabolic metabo-
+lism [24, 65]. within this pathway mtor (mammalian
+target of rapamycin) is a central downstream effector
+kinase which mediates the cellular response to nutrients,
+amino acids and mitogens [150]. in the presence of
+amino acids and growth factors, mtor activates the
+p70s6 kinase (p70s6k), which phosphorylates the
+ribosomal protein s6, resulting in the upregulation of
+the translational machinery. in addition, mtor phos-
+cardiovasc drugs ther (2006) 20: 445–462
+453
+fig. 3 regulation of autophagy. (1) induction of autophagy
+requires activity of beclin1 and its interacting partner, class iii
+pi3-k (vps34), resulting in the generation of pi3-p; and it is
+negatively regulated by class i pi3-k through mtor. (2)
+formation of the phagophore requires conjugation of atg12 to
+lysine 130 of atg5 as a prerequisite for recruiting lc3-ii. (3)
+sequestration of cytoplasmic material may be non-specific or
+selective; mechanisms that may govern selectivity are incom-
+pletely understood. (4) degradation of the autophagosome and
+its cargo is accomplished after sequential fusion events with
+endosomes and finally lysosomes. transport and fusion events
+are mediated by rab gtpases, with rab7 being a major player
+in autophagy. beclin1-vps34 activity might further be involved
+in lysosomal protein sorting (not shown)
+phorylates and thereby deactivates the initiation factor
+4e-bp1 (4e binding protein). deactivated 4e-bp1 then
+dissociates from the initiation factor eif4e, which is the
+rate-limiting step in protein synthesis. inhibiting mtor
+activity with the immunosuppressant rapamycin [12]
+increases the catabolic process of autophagy, even in
+the presence of nutrients [123]. the negative control of
+mtor over autophagy is a generally accepted phe-
+nomenon [162]; however, the underlying mechanism is
+largely unknown.
+positive regulation of autophagy
+beclin1/atg6, the first mammalian protein described to
+mediate autophagy [104], is a coiled-coil, myosin-like
+bcl-2-interacting protein which engages class iii pi3-k/
+vps34 to positively regulate autophagy [83, 200].
+beclin1 has been shown to colocalize with the s/er,
+mitochondria [106], and golgi [83]. typically all beclin1
+forms a complex with vps34, whereas õ50% of vps34
+is not associated with beclin1 [83]. the specific product
+of vps34, phosphatidylinositol 3-phospate (pi3-p), is a
+lipid second messenger which mediates the formation
+of autophagosomes [130, 153]. furthermore, the yeast
+homologs of beclin1 and vps34 have been shown to
+mediate intracellular vesicle trafficking, including endo-
+somes and transport of lysosomal proteases from the
+golgi to the lysosome [84, 124]. however, in mamma-
+lian cells the role of beclin1-vps34 in trafficking and
+protein sorting remains controversial [83, 124, 144].
+insulin is well understood to activate the akt/pkb-
+mtor pathway, which suppresses autophagy. recent-
+ly, however, insulin was shown to stimulate autophagic
+degradation of mutant polyglutamine huntingtin pro-
+teins in hela cells [193]. apparently, irs2, through a
+pathway independent of akt activation, can activate
+the beclin1-vps34 to engage in autophagic activity.
+this highlights our still limited understanding of the
+complexity of autophagic signaling.
+crosstalk of autophagy and apoptosis: bcl-2 family
+members
+the interplay between autophagic and apoptotic path-
+ways is emerging as a crucial decision-making process
+in determining the initiation of programmed cell
+death.
+autophagy and the extrinsic pathway
+a recent study found that atg5 couples ifn-gamma
+activated death to the autophagic death and extrinsic
+apoptotic pathways via the interaction with fadd,
+and possibly caspase 8 [136]. interestingly, atg5 was
+first described as apoptosis specific protein (asp) [54],
+and was found to be upregulated in neurons during
+apoptosis activated by proteasomal inhibition [112].
+454
+cardiovasc drugs ther (2006) 20: 445â€“462
+furthermore, caspase 8, unrelated to its pro-apo-
+ptotic function, may function to suppress autophagic
+cell death. treatment of l929 cells with zvad induces
+programmed cell death which is blocked by rnai
+knockdown of autophagic proteins [197]. a key lethal
+event in zvad-activated autophagic cell death is the
+targeted autophagic degradation of catalase, resulting
+in an increase in ros levels [198]. importantly, this
+study demonstrated that catalase degradation was
+specific to zvad-activated autophagy, and did not
+occur under starvation conditions.
+anti-apoptotic bcl-2 family members
+beclin1 was initially identified as a bcl-2 interacting
+protein using a yeast two-hybrid screen [105]. subse-
+quently,
+it was discovered that the bcl-2 binding
+domain of beclin1 serves as a point of crosstalk
+between the autophagic and apoptotic pathways, at
+the level of autophagy induction. interestingly,
+it
+seems that only anti- but not pro-apoptotic bcl-2
+family members can interact with this domain [104].
+bcl-2 downregulation has been shown to increase
+autophagy in hl-60 cells [145], while overexpression
+of bcl-2 or bcl-xl increased the autophagic cell death
+response to etoposide treatment in mef cells [159].
+recently, bcl-2 was shown to suppress starvation-
+induced autophagy, specifically when targeted to the
+er [128]. clearly, the nature of the relationship is not
+yet fully understood and merits further investigation. it
+is likely that the regulation of autophagy by bcl-2 is a
+function of both cell type and stimulus.
+pro-apoptotic bcl-2 family members
+the bh3-only proteins bax, bid and bnip3 also
+constitute a point of crosstalk between the apoptotic
+and autophagic pathways. following staurosporine
+treatment of fibroblasts, bax has been shown to localize
+to the lysosome, resulting in the release of cathepsin d
+[79]. furthermore,
+in t-lymphocytes, bax can be
+activated by cathepsin d in response to staurosporine
+[11], indicating a potential lethal amplification loop.
+similarly, bid can be activated by lysosomal cathep-
+sin proteases which are released into the cytosol during
+some forms of pcd [30, 165]. moreover, bid itself has
+recently been shown to cause destabilization of lyso-
+somes and release of cathepsin b [57, 187], forming an
+amplification event for mitochondrial apoptosis. in
+mcf-7 cells exposed to camptothecin, rnai silencing
+of bid inhibited apoptosis and enhanced autophagic
+cell death, indicating that bid functions as a
+switch
+between the different modes of pcd [98].
+upregulation of bnip3 has been shown to correlate
+with ceramide-induced accumulation of autophago-
+somes in malignant glioma cells [38]. similarly, arsenic
+trioxide-induced pcd correlated with elevated levels
+of bnip3 and enhanced presence of autophagosomal
+structures [81]. interestingly, in these studies expres-
+sion of the dominant-negative transmembrane domain
+deletion mutant of bnip3 prevented the observed
+changes in autophagy, while overexpression of bnip3
+was sufficient to induce increased steady-state levels of
+autophagosomes in the absence of ceramide or arsenic
+trioxide. the authors concluded that ceramide- and
+arsenic trioxide-induced bnip3-mediated pcd is auto-
+phagic; however, a causative role of autophagy in cell
+death was not established.
+we recently determined that bnip3 is a key mediator
+of mitochondrial dysfunction and cell death in the ex
+vivo heart following ischemia/reperfusion (i/r) [64].
+using a model of simulated i/r and overexpression of
+bnip3 in hl-1 cardiac myocytes [31], we determined
+that bnip3-mediated upregulation of autophagic activ-
+ity constituted a protective response against bnip3
+death signalling: overexpression of atg5 decreased
+bnip3-activated cell death and the dominant negative
+atg5k130r enhanced bnip3-activated cell death.
+furthermore, we found that bnip3-induced autopha-
+gosomes often contained fragmented mitochondria,
+demonstrating a potentially powerful protective role of
+autophagy in the cell,
+in the removal of dangerous
+mitochondria. the mptp has been shown to signal the
+elimination of malfunctioning mitochondria by autoph-
+agy (mitophagy): in hepatocytes, mitochondria which
+had undergone the permeability transition were re-
+moved by lysosomal degradation [47]. furthermore,
+rapamycin-enhanced autophagic activity was recently
+shown to decrease mitochondrial content in a neuronal
+cell
+line, and conversely 3-methyladenine (3-ma)
+(inhibitor of vps34) increased sensitivity to apoptotic
+stimuli. these results indicate that autophagic clearance
+of mitochondria increased the resistance to apoptotic
+stimuli, either by reducing the amount of cytochrome c
+that could be released into the cytosol, or by eliminat-
+ing the most susceptible mitochondria [138].
+autophagy in the heart
+normal processes
+it is well understood that autophagy is a vital process in
+the heart, presumably participating in the removal of
+dysfunctional cytosolic components, and serving as a
+catabolic energy source during times of starvation. for
+cardiovasc drugs ther (2006) 20: 445–462
+455
+fig. 4 autophagic flux under nutrient deprivation. gfp-lc3
+transfected hl-1 cells were incubated in low nutrient krebs–
+henseleit (kh) solution, with or without the presence of the
+lysosomal inhibitor cocktail (i) consisting of bafilomycin a1 (100
+nm, vacuolar h+-atpase inhibitor) to inhibit autophagosome-
+lysosome fusion [194], and e64d (5 mg/ml, inhibitor of cysteine
+proteases, including cathepsin b), and pepstatin a methyl ester
+(5 mg/ml, cathepsin d inhibitor) to inhibit lysosomal protease
+activity. under conditions of high autophagic activity, low levels
+of autophagosomes are present. in the presence of lysosomal
+inhibitors, the fusion with, and degradation of autophagosome by
+the lysosome is blocked. this results in an increase in the number
+of autophagosomes, proportionate to the level of autophagic flux
+example, autophagy in cardiac myocytes has been
+suggested to provide a necessary source of energy
+between birth and suckling [97], and in a gfp-lc3
+transgenic mouse, cardiac myocytes from starved ani-
+mals displayed high numbers of autophagosomes, some
+of which contained mitochondria [118]. recently it was
+shown that danon disease-related cardiomyopathy,
+which is caused by decreased levels of lamp2 [68,
+146], is characterized by extensive accumulation of non-
+degraded autophagosomal vacuoles in cardiac myocytes
+which then interfere with contractile function [166].
+the fight against aging
+old
+impaired autophagy may play a causative role in
+cardiac disease. autophagy is responsible for mito-
+chondrial turnover [173], and the incomplete autopha-
+gic turnover of
+mitochondria may be the source
+of lipofuscin, a toxic waste product which builds up
+during the lifespan [19]. mitochondria are the main
+site of atp generation, as well as the main site of ros
+production. accumulation of intracellular damage due
+to ros production by the mitochondria may be a
+causative factor in aging [127]. sites of damage include
+mtdna, establishing a vicious cycle, where mutations
+to components of
+the etc enhance basal ros
+production and decrease atp production. long-term
+inhibition of autophagy in neonate cardiac myocytes
+results in increased levels of basal cell death, sensitizes
+to hyperoxic cell death and a build-up of defective
+mitochondria [172]. in vivo, a decline in the
+house-
+hold cleaning
+capabilities may sensitize cells to
+ischemic injury during aging [76].
+contribution to pathologies
+protective role in the heart
+importantly, active autophagy may serve as a protec-
+tive response to myocardial i/r injury, as increased
+prevalence of autophagosomes has been documented
+in response to sub-lethal ischemia in the perfused heart
+[41]. moreover, it was recently reported that in an in
+vivo model of myocardial stunning the onset of
+protection correlated with increased beclin1 expres-
+sion [195]. however, the nature of its protective effect
+in vivo, if any, remains unknown.
+in addition to its putative role in removing dysfunc-
+tional mitochondria, autophagy may exert protective
+effects by removing protein aggregates. in the neuron,
+autophagy is now understood to be a major player in
+preventing the accumulation of toxic protein aggre-
+gates, which are causative in neurodegeneration [93,
+139, 158]. in the heart, aggregation of cytosolic proteins
+456
+cardiovasc drugs ther (2006) 20: 445–462
+does occur [28] and may be pathogenic [108]. further-
+more, the activity of the ubiquitin-proteasome system
+(ups), is decreased during i/r [133], possibly due to
+oxidative stress [73]. studies are needed to determine
+whether autophagy may compensate for decreased
+ups activity in the heart.
+lethal role in the heart
+cell
+impaired autophagy may play a role in the hyper-
+trophic response following ischemic injury. as cardiac
+myocytes are terminally differentiated,
+loss
+after i/r necessitates that remaining myocytes grow
+in size to try to maintain the same cardiac output, a
+process termed hypertrophy. during this anabolic pro-
+cess, autophagy has been reported to be decreased
+[131]. as autophagy serves a vital role in the heart,
+decreased activity during hypertrophy may result in
+the buildup of toxic protein aggregates and malfunc-
+tioning mitochondria, which could play a role in the
+progression from compensated hypertrophy to heart
+failure (hf).
+many studies have suggested that autophagic cell
+death (pcd type ii) occurs in the failing heart.
+autophagosomes are widely reported to be increased
+in heart disease [91, 114, 147, 161], and in response to
+myocardial hibernation [48] and diphtheria toxin-
+activated myocardial cell death [2]. furthermore,
+disruption of the autophagic pathway may contribute
+to myocardial cell death under conditions where
+lysosomal integrity is lost and lysosomal proteases are
+released into the cytosol [40].
+however, these conclusions are based on correlative
+data, mainly the presence of cathepsin in the cyto-
+plasm and increase in autophagosomal structures. as
+discussed above, the presence of avs does not offer
+much insight into the role of autophagy. increased
+numbers of avs may be due to an upregulation of
+autophagy, or a block to the autophagic pathway [184]
+furthermore, the presence of ubiquitin inclusions in
+dying cells is neither convincing nor sufficiently specific
+to infer autophagic cell death. although ubiquitin
+staining can indicate the presence of defective autoph-
+agy, even in the presence of an active proteasome [93],
+these results can also describe a disruption to the ups
+(most specific to short-lived proteins), which although
+linked to the macroauto- phagy pathway, does neces-
+sarily constitute a causative event.
+to unravel the role of autophagy in the in vivo
+heart, an essential starting point will be to make the
+distinction between the detection of avs and active
+autophagy. the presence of avs does not correlate
+with autophagic activity: increased avs may indicate
+enhanced autophagy or reduced degradation of avs.
+rather, the rate of lc3-ii degradation, reflected by the
+difference in levels of gfp-lc3-labeled avs in the
+absence (steady-state avs) and presence (cumulative
+avs) of lysosomal inhibitors is the most accurate means
+indicator of autophagic activity [169], as demonstrated
+in fig. 4.
+establishing the mechanisms which promote the
+anti-apoptotic effects of autophagy, and minimize au-
+tophagic cell death may represent a potentially power-
+ful tool against i/r-mediated cardiomyocyte cell death.
+although cell models are useful for identifying partici-
+pants and their roles in the control of autophagy over
+cell death [64], ex vivo and in vivo models of autophagy
+must be developed to determine the relevance to
+heart. notably, rapamycin, which has been shown to
+be protective in neurons [138], may not be acceptable
+to treat the heart, as it inhibits hif1a, and thus would
+block hif1a-mediated protective responses [21]. pro-
+tein transduction, utilizing the protein transduction do-
+main of hiv tat or antennapedia, has proven useful
+for introducing protective proteins to the heart, in vivo
+and ex vivo [59, 72], and will likely be a useful tool to
+dissect the role of autophagy in the heart.
+acknowledgements we would like to thank dr. william
+claycomb (lsu health sciences center, louisiana) for provid-
+ing hl-1 cells and dr. tamotsu yoshimori (national institute of
+genetics, japan) for providing gfp-lc3.
+references
+1. acehan d, jiang x, morgan dg, heuser je, wang x,
+akey cw. three-dimensional structure of the apoptosome:
+implications for assembly, procaspase-9 binding, and acti-
+vation. mol cell 2002;9:423–32.
+2. akazawa h, komazaki s, shimomura h, terasaki f, zou
+y, takano h, et al. diphtheria toxin-induced autophagic
+cardiomyocyte death plays a pathogenic role in mouse
+model of heart failure. j biol chem 2004;279:41095–103.
+3. ambrosio g, zweier jl, duilio c, kuppusamy p, santoro
+g, elia pp, et al. evidence that mitochondrial respiration is
+a source of potentially toxic oxygen free radicals in intact
+rabbit hearts subjected to ischemia and reflow. j biol chem
+1993;268:18532–41.
+4. antonsson b. mitochondria and the bcl-2 family proteins
+in apoptosis signaling pathways. mol cell biochem
+2004;256–257:141–55.
+5. aplin a, jasionowski t, tuttle dl, lenk se, dunn wa,
+jr. cytoskeletal elements are required for the formation
+and maturation of autophagic vacuoles. j cell physiol
+1992;152:458–66.
+6. ashkenazi a, dixit vm. death receptors: signaling and
+modulation. science 1998;281:1305–8.
+7. bagchi d, wetscher gj, bagchi m, hinder pr, perdikis g,
+stohs sj, et al. interrelationship between cellular calcium
+homeostasis and free radical generation in myocardial
+reperfusion injury. chem biol interact 1997;104:65–85.
+cardiovasc drugs ther (2006) 20: 445–462
+457
+8. baines cp, kaiser ra, purcell nh, blair ns, osinska h,
+hambleton ma, et al. loss of cyclophilin d reveals a
+critical role for mitochondrial permeability transition in cell
+death. nature 2005;434:658–62.
+9. bernardi p, scorrano l, colonna r, petronilli v, di lisa f.
+mitochondria and cell death. mechanistic aspects and
+methodological issues. eur j biochem 1999;264:687–701.
+10. bers dm. calcium fluxes involved in control of cardiac
+myocyte contraction. circ res 2000;87:275–81.
+11. bidere n, lorenzo hk, carmona s, laforge m, harper f,
+dumont c, et al. cathepsin d triggers bax activation,
+resulting in selective apoptosis-inducing factor (aif) relo-
+cation in t lymphocytes entering the early commitment
+phase to apoptosis. j biol chem 2003;278:31401–11.
+12. blommaart ef, luiken jj, blommaart pj, van woerkom
+gm, meijer aj. phosphorylation of ribosomal protein s6 is
+inhibitory for autophagy in isolated rat hepatocytes. j biol
+chem 1995;270:2320–6.
+13. borutaite v, jekabsone a, morkuniene r, brown gc.
+inhibition of mitochondrial permeability transition prevents
+mitochondrial dysfunction, cytochrome c release and apo-
+ptosis induced by heart ischemia. j mol cell cardiol
+2003;35:357–66.
+14. boveris a, oshino n, chance b. the cellular production of
+hydrogen peroxide. biochem j 1972;128:617–30.
+15. boya p, gonzalez-polo ra, casares n, perfettini jl,
+dessen p, larochette n, et al. inhibition of macroautoph-
+agy triggers apoptosis. mol cell biol 2005;25:1025–40.
+16. breckenridge dg, germain m, mathai jp, nguyen m,
+shore gc. regulation of apoptosis by endoplasmic reticu-
+lum pathways. oncogene 2003;22:8608–18.
+17. brocheriou v, hagege aa, oubenaissa a, lambert m,
+mallet vo, duriez m, et al. cardiac functional improve-
+ment by a human bcl-2 transgene in a mouse model of
+ischemia/reperfusion injury. j gene med 2000;2:326–33.
+18. bruick rk. expression of the gene encoding the proapop-
+totic nip3 protein is induced by hypoxia. proc natl acad
+sci usa 2000;97:9082–7.
+19. brunk ut, terman a. the mitochondrial-lysosomal axis
+theory of aging: accumulation of damaged mitochondria as
+a result of imperfect autophagocytosis. eur j biochem
+2002;269:1996–2002.
+20. bursch w. the autophagosomal-lysosomal compartment in
+programmed cell death. cell death differ 2001;8:569–81.
+21. cai z, manalo dj, wei g, rodriguez er, fox-talbot k,
+lu h, et al. hearts from rodents exposed to intermittent
+hypoxia or erythropoietin are protected against ischemia–
+reperfusion injury. circulation 2003;108:79–85.
+22. calvillo l, masson s, salio m, pollicino l, de angelis n,
+fiordaliso f, et al. in vivo cardioprotection by n-acetylcys-
+teine and isosorbide 5-mononitrate in a rat model of ischemia–
+reperfusion. cardiovasc drugs ther 2003;17:199–208.
+23. canu n, tufi r, serafino al, amadoro g, ciotti mt,
+calissano p. role of the autophagic-lysosomal system on
+low potassium-induced apoptosis in cultured cerebellar
+granule cells. j neurochem 2005;92:1228–42.
+24. chang l, chiang sh, saltiel ar. insulin signaling and the
+regulation of glucose transport. mol med 2004;10:65–71.
+25. chen g, ray r, dubik d, shi l, cizeau j, bleackley rc,
+et al. the e1b 19k/bcl-2-binding protein nip3 is a
+dimeric mitochondrial protein that activates apoptosis.
+j exp med 1997;186:1975–83.
+26. chen m, he h, zhan s, krajewski s, reed jc, gottlieb
+ra. bid is cleaved by calpain to an active fragment in vitro
+and during myocardial ischemia/reperfusion. j biol chem
+2001;276:30724–8.
+27. cheng eh, wei mc, weiler s, flavell ra, mak tw,
+lindsten t, et al. bcl-2, bcl-x(l) sequester bh3
+domain-only molecules preventing bax- and bak-medi-
+ated mitochondrial apoptosis. mol cell 2001;8:705–11.
+28. chiesi m, longoni s, limbruno u. cardiac alpha-crystallin.
+iii. involvement during heart ischemia. mol cell biochem
+1990;97:129–36.
+29. chinnaiyan am, o
+rourke k, tewari m, dixit vm. fadd,
+a novel death domain-containing protein, interacts with the
+death domain of fas and initiates apoptosis. cell 1995;81:
+505–12.
+30. cirman t, oresic k, mazovec gd, turk v, reed jc, myers
+rm, et al. selective disruption of lysosomes in hela cells
+triggers apoptosis mediated by cleavage of bid by multiple
+papain-like lysosomal cathepsins. j biol chem 2004;279:
+3578–87.
+31. claycomb wc, lanson na jr, stallworth bs, egeland db,
+delcarpio jb, bahinski a, et al. hl-1 cells: a cardiac
+muscle cell
+line that contracts and retains phenotypic
+characteristics of the adult cardiomyocyte. proc natl acad
+sci usa 1998;95:2979–84.
+32. codogno p, meijer aj. autophagy and signaling: their role
+in cell survival and cell death. cell death differ 2005;12
+suppl 2:1509–18.
+33. cory s, adams jm. the bcl2 family: regulators of the
+cellular life-or-death switch. nat rev cancer 2002;2: 647–
+56.
+34. crompton m. mitochondrial intermembrane junctional com-
+plexes and their role in cell death. j physiol 2000;529 pt 1:11–21.
+35. crow mt, mani k, nam yj, kitsis rn. the mitochondrial
+death pathway and cardiac myocyte apoptosis. circ res
+2004;95:957–70.
+36. cuervo am. autophagy: many paths to the same end. mol
+cell biochem 2004;263:55–72.
+37. cuervo am, dice jf. a receptor for the selective uptake
+and degradation of proteins by lysosomes. science 1996;273:
+501–3.
+38. daido s, kanzawa t, yamamoto a, takeuchi h, kondo y,
+kondo s. pivotal role of the cell death factor bnip3 in
+ceramide-induced autophagic cell death in malignant glio-
+ma cells. cancer res 2004;64:4286–93.
+39. de giorgi f, lartigue l, bauer mk, schubert a, grimm s,
+hanson gt, et al. the permeability transition pore signals
+apoptosis by directing bax translocation and multimeriza-
+tion. faseb j 2002;16:607–9.
+40. decker rs, poole ar, griffin ee, dingle jt, wildenthal
+lysosomal cathepsin d in
+k. altered distribution of
+ischemic myocardium. j clin invest 1977;59:911–21.
+41. decker rs, wildenthal k. lysosomal alterations in hypoxic
+and reoxygenated hearts. i. ultrastructural and cytochem-
+ical changes. am j pathol 1980;98:425–44.
+42. depre c, kim sj, john as, huang y, rimoldi oe, pepper
+jr, et al. program of cell survival underlying human and
+experimental hibernating myocardium. circ res 2004;95:
+433–40.
+43. desagher s, martinou jc. mitochondria as the central
+control point of apoptosis. trends cell biol 2000;10:369–77.
+44. du c, fang m, li y, li l, wang x. smac, a mitochondrial
+protein that promotes cytochrome c-dependent caspase
+activation by eliminating iap inhibition. cell 2000;102:33–42.
+45. duchen mr. mitochondria and ca(2+)in cell physiology
+and pathophysiology. cell calcium 2000;28:339–48.
+46. ellsworth dl, sholinsky p, jaquish c, fabsitz rr, manolio
+ta. coronary heart disease. at the interface of molecular
+genetics and preventive medicine. am j prev med 1999;16:
+122–33.
+458
+cardiovasc drugs ther (2006) 20: 445–462
+47. elmore sp, qian t, grissom sf, lemasters jj. the
+mitochondrial permeability transition initiates autophagy
+in rat hepatocytes. faseb j 2001;15:2286–7.
+48. elsasser a, vogt am, nef h, kostin s, mollmann h,
+skwara w, et al. human hibernating myocardium is
+jeopardized by apoptotic and autophagic cell death. j am
+coll cardiol 2004;43:2191–9.
+49. esposti md. the roles of bid. apoptosis 2002;7:433–40.
+50. george md, baba m, scott sv, mizushima n, garrison
+bs, ohsumi y, et al. apg5p functions in the sequestration
+step in the cytoplasm-to-vacuole targeting and macroau-
+tophagy pathways. mol biol cell 2000;11:969–82.
+51. goping is, gross a, lavoie jn, nguyen m, jemmerson r,
+roth k, et al. regulated targeting of bax to mitochondria.
+j cell biol 1998;143:207–15.
+52. gordon pb, hoyvik h, seglen po. prelysosomal and
+lysosomal connections between autophagy and endocytosis.
+biochem j 1992;283 pt 2:361–9.
+53. gottlieb ra, engler rl. apoptosis in myocardial ische-
+mia–reperfusion. ann ny acad sci 1999;874:412–26.
+54. grand rj, milner ae, mustoe t, johnson gd, owen d,
+grant ml, et al. a novel protein expressed in mammalian
+cells undergoing apoptosis. exp cell res 1995;218:439–51.
+55. green dr, reed jc. mitochondria and apoptosis. science
+1998;281:1309–12.
+56. gross er, hsu ak, gross gj. opioid-induced cardiopro-
+tection occurs via glycogen synthase kinase beta inhibition
+during reperfusion in intact rat hearts. circ res
+2004;94:960–6.
+57. guicciardi me, bronk sf, werneburg nw, yin xm, gores gj.
+bid is upstream of lysosome-mediated caspase 2 activation in
+tumor necrosis factor alpha-induced hepatocyte apoptosis.
+gastroenterology 2005;129:269–84.
+58. gustafsson ab, gottlieb ra. mechanisms of apoptosis in
+the heart. j clin immunol 2003;23:447–59.
+59. gustafsson ab, sayen mr, williams sd, crow mt,
+gottlieb ra. tat protein transduction into isolated per-
+fused hearts: tat-apoptosis repressor with caspase re-
+cruitment domain is cardioprotective. circulation 2002;106:
+735–9.
+60. gutierrez mg, master ss, singh sb, taylor ga, colombo
+mi, deretic v. autophagy is a defense mechanism inhibit-
+ing bcg and mycobacterium tuberculosis survival
+in
+infected macrophages. cell 2004a;119:753–66.
+61. gutierrez mg, munafo db, beron w, colombo mi. rab7
+is required for the normal progression of the autophagic
+pathway in mammalian cells. j cell sci 2004b;117:2687–97.
+62. halestrap ap. calcium, mitochondria and reperfusion
+injury: a pore way to die. biochem soc trans 2006;34:232–7.
+63. halestrap ap, clarke sj, javadov sa. mitochondrial
+permeability transition pore opening during myocardial
+reperfusion—a target for cardioprotection. cardiovasc res
+2004;61:372–85.
+64. hamacher-brady a, brady nr, logue se, sayen mr,
+jinno m, kirshenbaum la, et al. response to myocardial
+ischemia/reperfusion injury involves bnip3 and autophagy.
+cell death differ 2006. doi 10.1038/sj.cdd.4401936.
+65. hanada m, feng j, hemmings ba. structure, regulation
+and function of pkb/akt—a major therapeutic target.
+biochim biophys acta 2004;1697:3–16.
+66. hausenloy dj, duchen mr, yellon dm. inhibiting mi-
+tochondrial permeability transition pore opening at re-
+perfusion protects against ischaemia–reperfusion injury.
+cardiovasc res 2003;60:617–25.
+67. hochhauser e, kivity s, offen d, maulik n, otani h,
+barhum y, et al. bax ablation protects against myocardial
+ischemia–reperfusion injury in transgenic mice. am j
+physiol heart circ physiol 2003;284:h2351–9.
+68. horvath j, ketelsen up, geibel-zehender a, boehm n,
+olbrich h, korinthenberg r, et al. identification of a novel
+lamp2 mutation responsible for x-chromosomal domi-
+nant danon disease. neuropediatrics 2003;34:270–3.
+69. hsu h, xiong j, goeddel dv. the tnf receptor 1-
+associated protein tradd signals cell death and nf-
+kappa b activation. cell 1995;81:495–504.
+70. huang j, nakamura k, ito y, uzuka t, morikawa m, hirai s,
+et al. bcl-xl gene transfer inhibits bax translocation and
+prolongs cardiac cold preservation time in rats. circulation
+2005;112:76–83.
+71. imahashi k, schneider md, steenbergen c, murphy e.
+transgenic expression of bcl-2 modulates energy metabolism,
+prevents cytosolic acidification during ischemia, and reduces
+ischemia/reperfusion injury. circ res 2004;95:734–41.
+72. inagaki k, hahn hs, dorn gw 2nd, mochly-rosen d.
+additive protection of the ischemic heart ex vivo by
+combined treatment with delta-protein kinase c inhibitor
+and epsilon-protein kinase c activator. circulation
+2003;108:869–75.
+73. ishii t, sakurai t, usami h, uchida k. oxidative
+modification of proteasome:
+identification of an oxida-
+tion-sensitive subunit in 26 s proteasome. biochemistry
+2005;44:13893–901.
+74. jager s, bucci c, tanida i, ueno t, kominami e, saftig p,
+et al. role for rab7 in maturation of late autophagic
+vacuoles. j cell sci 2004;117:4837–48.
+75. juhasz g, neufeld tp. autophagy: a forty-year search for a
+missing membrane source. plos biol 2006;4:e36.
+76. juhaszova m, rabuel c, zorov db, lakatta eg, sollott sj.
+protection in the aged heart: preventing the heart-break of
+old age? cardiovasc res 2005;66:233–44.
+77. kabeya y, mizushima n, ueno t, yamamoto a, kirisako t,
+noda t, et al. lc3, a mammalian homologue of yeast
+apg8p,
+is localized in autophagosome membranes after
+processing. embo j 2000;19:5720–8.
+78. kabeya y, mizushima n, yamamoto a, oshitani-okamoto s,
+ohsumi y, yoshimori t. lc3, gabarap and gate16
+localize to autophagosomal membrane depending on form-ii
+formation. j cell sci 2004;117:2805–12.
+79. kagedal k, johansson ac, johansson u, heimlich g,
+roberg k, wang ns, et al. lysosomal membrane perme-
+abilization during apoptosis-involvement of bax? int j exp
+pathol 2005;86:309–21.
+80. kajstura j, cheng w, reiss k, clark wa, sonnenblick eh,
+krajewski s, et al. apoptotic and necrotic myocyte cell
+deaths are independent contributing variables of infarct size
+in rats. lab invest 1996;74:86–107.
+81. kanzawa t, zhang l, xiao l, germano im, kondo y,
+kondo s. arsenic trioxide induces autophagic cell death in
+malignant glioma cells by upregulation of mitochondrial
+cell death protein bnip3. oncogene 2005;24:980–91.
+82. kelekar a, thompson cb. bcl-2-family proteins: the role of
+the bh3 domain in apoptosis. trends cell biol 1998;8:324–30.
+83. kihara a, kabeya y, ohsumi y, yoshimori t. beclin-
+phosphatidylinositol 3-kinase complex functions at the
+trans-golgi network. embo rep 2001a;2:330–5.
+84. kihara a, noda t, ishihara n, ohsumi y. two distinct
+vps34 phosphatidylinositol 3-kinase complexes function in
+autophagy and carboxypeptidase y sorting in saccharomy-
+ces cerevisiae. j cell biol 2001b;152:519–30.
+85. kim js, he l, lemasters jj. mitochondrial permeability
+transition: a common pathway to necrosis and apoptosis.
+biochem biophys res commun 2003;304:463–70.
+cardiovasc drugs ther (2006) 20: 445–462
+459
+86. kim js, jin y, lemasters jj. reactive oxygen species, but
+not ca2+,
+triger ph- and mitochondrial permeability
+transition-dependent death of adult rat myocytes after
+ischemia/reperfusion. am j physiol heart circ physiol
+2006;290(5):h2024–34.
+87. kimura h, shintani-ishida k, nakajima m, liu s,
+matsumoto k, yoshida k. ischemic preconditioning or
+p38 map kinase inhibition attenuates myocardial tnf
+alpha production and mitochondria damage in brief
+myocardial ischemia. life sci 2006;78:1901–10.
+88. kirisako t, baba m, ishihara n, miyazawa k, ohsumi m,
+yoshimori t, et al. formation process of autophagosome is
+traced with apg8/aut7p in yeast. j cell biol 1999;147:435–
+46.
+89. kirisako t, ichimura y, okada h, kabeya y, mizushima n,
+yoshimori t, et al. the reversible modification regulates the
+membrane-binding state of apg8/aut7 essential for auto-
+phagy and the cytoplasm to vacuole targeting pathway. j cell
+biol 2000;151:263–76.
+90. klionsky dj, emr sd. autophagy as a regulated pathway
+of cellular degradation. science 2000;290:1717–21.
+91. knaapen mw, davies mj, de bie m, haven aj, martinet w,
+kockx mm. apoptotic versus autophagic cell death in heart
+failure. cardiovasc res 2001;51:304–12.
+92. kochl r, hu xw, chan ey, tooze sa. microtubules
+facilitate autophagosome formation and fusion of autopha-
+gosomes with endosomes. traffic 2006;7:129–45.
+93. komatsu m, waguri s, chiba t, murata s, iwata ji, tanida i,
+et al. loss of autophagy in the central nervous system causes
+neurodegeneration in mice. nature 2006; 441(7095):880–4.
+94. kouno t, mizuguchi m, tanida i, ueno t, kanematsu t,
+mori y, et al. solution structure of microtubule-associated
+protein light chain 3 and identification of its functional
+subdomains. j biol chem 2005;280:24610–7.
+95. krajewski s, tanaka s, takayama s, schibler mj, fenton w,
+reed jc. investigation of the subcellular distribution of the
+bcl-2 oncoprotein: residence in the nuclear envelope, endo-
+plasmic reticulum, and outer mitochondrial membranes.
+cancer res 1993;53:4701–14.
+96. kubasiak la, hernandez om, bishopric nh, webster
+ka. hypoxia and acidosis activate cardiac myocyte death
+through the bcl-2 family protein bnip3. proc natl acad
+sci usa 2002;99:12825–30.
+97. kuma a, hatano m, matsui m, yamamoto a, nakaya h,
+yoshimori t, et al. the role of autophagy during the early
+neonatal starvation period. nature 2004;432:1032–6.
+98. lamparska-przybysz m, gajkowska b, motyl t. cathepsins
+and bid are involved in the molecular switch between
+apoptosis and autophagy in breast cancer mcf-7 cells
+exposed to camptothecin. j physiol pharmacol 2005;56
+suppl 3:159–79.
+99. lee p, sata m, lefer dj, factor sm, walsh k, kitsis rn.
+fas pathway is a critical mediator of cardiac myocyte death
+and mi during ischemia–reperfusion in vivo. am j physiol
+heart circ physiol 2003;284:h456–63.
+100. lefer am, tsao p, aoki n, palladino ma jr. mediation of
+cardioprotection by transforming growth factor-beta. sci-
+ence 1990;249:61–4.
+101. levraut j, iwase h, shao zh, vanden hoek tl, schumacker
+pt. cell death during ischemia: relationship to mitochondrial
+depolarization and ros generation. am j physiol heart circ
+physiol 2003;284:h549–58.
+102. leyssens a, nowicky av, patterson l, crompton m,
+duchen mr. the relationship between mitochondrial state,
+atp hydrolysis, [mg2+]i and [ca2+]i studied in isolated rat
+cardiomyocytes. j physiol (lond) 1996;496:111–28.
+103. li h, zhu h, xu cj, yuan j. cleavage of bid by caspase
+8 mediates the mitochondrial damage in the fas pathway of
+apoptosis. cell 1998;94:491–501.
+104. liang xh, jackson s, seaman m, brown k, kempkes b,
+hibshoosh h, et al. induction of autophagy and inhibition
+of tumorigenesis by beclin 1. nature 1999;402:672–6.
+105. liang xh, kleeman lk, jiang hh, gordon g, goldman
+je, berry g, et al. protection against fatal sindbis virus
+encephalitis by beclin, a novel bcl-2-interacting protein. j
+virol 1998;72:8586–96.
+106. liang xh, yu j, brown k, levine b. beclin 1 contains a
+leucine-rich nuclear export signal that is required for its
+autophagy and tumor suppressor function. cancer res
+2001;61:3443–9.
+107. lim ml, lum mg, hansen tm, roucou x, nagley p. on
+the release of cytochrome c from mitochondria during cell
+death signaling. j biomed sci 2002;9:488–506.
+108. liu j, chen q, huang w, horak km, zheng h, mestril r,
+et al. impairment of the ubiquitin-proteasome system in
+desminopathy mouse hearts. faseb j 2006;20:362–4.
+109. lundberg kc, szweda li. initiation of mitochondrial-
+mediated apoptosis during cardiac reperfusion. arch bio-
+chem biophys 2004;432:50–7.
+110. marin mc, fernandez a, bick rj, brisbay s, buja lm,
+snuggs m, et al. apoptosis suppression by bcl-2 is
+correlated with the regulation of nuclear and cytosolic
+ca2+. oncogene 1996;12:2259–66.
+111. marino g, uria ja, puente xs, quesada v, bordallo j,
+lopez-otin c. human autophagins, a family of cysteine
+proteinases potentially implicated in cell degradation by
+autophagy. j biol chem 2003;278:3671–8.
+112. masaki r, saito t, yamada k, ohtani-kaneko r. accumu-
+lation of phosphorylated neurofilaments and increase in
+apoptosis-specific protein and phosphorylated c-jun induced
+by proteasome inhibitors. j neurosci res 2000;62:75–83.
+113. matsumura k, jeremy rw, schaper j, becker lc. pro-
+gression of myocardial necrosis during reperfusion of
+ischemic myocardium. circulation 1998;97:795–804.
+114. miyata s, takemura g, kawase y, li y, okada h,
+maruyama r, et al. autophagic cardiomyocyte death in
+cardiomyopathic hamsters and its prevention by granulocyte
+colony-stimulating factor. am j pathol 2006;168:386–97.
+115. mizushima n, noda t, yoshimori t, tanaka y, ishii t,
+george md, et al. a protein conjugation system essential
+for autophagy. nature 1998a;395:395–8.
+116. mizushima n, sugita h, yoshimori t, ohsumi y. a new
+protein conjugation system in human. the counterpart of
+the yeast apg12p conjugation system essential for auto-
+phagy. j biol chem 1998b;273:33889–92.
+117. mizushima n, yamamoto a, hatano m, kobayashi y,
+kabeya y, suzuki k, et al. dissection of autophagosome
+formation using apg5-deficient mouse embryonic stem
+cells. j cell biol 2001;152:657–68.
+118. mizushima n, yamamoto a, matsui m, yoshimori t,
+ohsumi y. in vivo analysis of autophagy in response to nu-
+trient starvation using transgenic mice expressing a fluores-
+cent autophagosome marker. mol biol cell 2004;15:1101–11.
+119. muzio m, stockwell br, stennicke hr, salvesen gs, dixit
+vm. an induced proximity model for caspase-8 activation.
+j biol chem 1998;273:2926–30.
+120. narula j, haider n, virmani r, disalvo tg, kolodgie fd,
+hajjar rj, et al. apoptosis in myocytes in end-stage heart
+failure. n engl j med 1996;335:1182–9.
+121. nechushtan a, smith cl, hsu yt, youle rj. conforma-
+tion of the bax c-terminus regulates subcellular location
+and cell death. embo j 1999;18:2330–41.
+460
+cardiovasc drugs ther (2006) 20: 445–462
+122. nicholson dw, ali a, thornberry na, vaillancourt jp,
+ding ck, gallant m, et al. identification and inhibition of
+the ice/ced-3 protease necessary for mammalian apopto-
+sis. nature 1995;376:37–43.
+123. noda t, ohsumi y. tor, a phosphatidylinositol kinase
+homologue, controls autophagy in yeast. j biol chem
+1998;273:3963-6.
+124. obara k, sekito t, ohsumi y. assortment of phospha-
+tidylinositol 3-kinase complexes-atg14p directs associa-
+tion of complex i to the pre-autophagosomal structure
+in saccharomyces cerevisiae. mol biol cell 2006;17:1527–
+39.
+125. olivetti g, abbi r, quaini f, kajstura j, cheng w,
+nitahara ja, et al. apoptosis in the failing human heart.
+n engl j med 1997;336:1131–41.
+126. oltvai zn, milliman cl, korsmeyer sj. bcl-2 heterodi-
+merizes in vivo with a conserved homolog, bax, that
+accelerates programmed cell death. cell 1993;74:609–19.
+127. papa s, skulachev vp. reactive oxygen species, mitochon-
+dria, apoptosis and aging. mol cell biochem 1997;174:
+305–19.
+128. pattingre s, tassa a, qu x, garuti r, liang xh,
+mizushima n, et al. bcl-2 antiapoptotic proteins inhibit
+beclin 1-dependent autophagy. cell 2005;122:927–39.
+129. peng c-f, lee p, deguzman a, miao w, chandra m,
+shirani j, et al. multiple independent mutations in apopto-
+tic signaling pathways markedly decrease infarct size due to
+myocardial ischemia–reperfusion. circulation 2001; supp:
+ii-187.
+130. petiot a, ogier-denis e, blommaart ef, meijer aj,
+codogno p. distinct classes of phosphatidylinositol 3¶-kinases
+are involved in signaling pathways that control macroautoph-
+agy in ht-29 cells. j biol chem 2000;275:992–8.
+140. reed jc, jurgensmeier jm, matsuyama s. bcl-2 family
+proteins and mitochondria. biochim biophys acta
+1998;1366:127–37.
+141. regula km, ens k, kirshenbaum la. inducible expression
+of bnip3 provokes mitochondrial defects and hypoxia-
+mediated cell death of ventricular myocytes. circ res
+2002;91:226–31.
+142. rizzuto r, bernardi p, pozzan t. mitochondria as all-round
+players of the calcium game. j physiol 2000;529 pt 1:37–47.
+143. rodriguez j, lazebnik y. caspase-9 and apaf-1 form an
+active holoenzyme. genes dev 1999;13:3179–84.
+144. row pe, reaves bj, domin j, luzio jp, davidson hw.
+overexpression of a rat kinase-deficient phosphoinositide
+3-kinase, vps34p,
+inhibits cathepsin d maturation. bio-
+chem j 2001;353:655–61.
+145. saeki k, yuo a, okuma e, yazaki y, susin sa, kroemer g,
+et al. bcl-2 down-regulation causes autophagy in a caspase-
+independent manner in human leukemic hl60 cells. cell
+death differ 2000;7:1263–9.
+146. saftig p, tanaka y, lullmann-rauch r, von figura k.
+disease model: lamp-2 enlightens danon disease. trends
+mol med 2001;7:37–9.
+147. saijo m, takemura g, koda m, okada h, miyata s, ohno y,
+et al. cardiomyopathy with prominent autophagic degenera-
+tion, accompanied by an elevated plasma brain natriuretic
+peptide level despite the lack of overt heart failure. intern
+med 2004;43:700–3.
+148. saito m, korsmeyer sj, schlesinger ph. bax-dependent
+transport of cytochrome c reconstituted in pure liposomes.
+nat cell biol 2000;2:553–5.
+149. saraste a. morphologic criteria and detection of apoptosis.
+herz 1999;24:189–95.
+150. schmelzle t, hall mn. tor, a central controller of cell
+131. pfeifer u, dammrich j. intracellular turnover and cardiac
+growth. cell 2000;103:253–62.
+hypertrophy. basic res cardiol 1986;81 suppl 1:139–46.
+132. poulter n. global risk of cardiovascular disease. heart
+2003;89 suppl 2:ii2–5 (discussion ii35–7).
+133. powell sr, wang p, katzeff h, shringarpure r, teoh c,
+khaliulin i, et al. oxidized and ubiquitinated proteins may
+predict recovery of postischemic cardiac function: essential
+role of the proteasome. antioxid redox signal 2005;7:538–
+46.
+134. precht ta, phelps ra, linseman da, butts bd, le ss,
+laessig ta, et al. the permeability transition pore triggers
+bax translocation to mitochondria during neuronal apopto-
+sis. cell death differ 2005;12:255–65.
+135. priault m, salin b, schaeffer j, vallette fm, di rago jp,
+martinou jc. impairing the bioenergetic status and the
+biogenesis of mitochondria triggers mitophagy in yeast. cell
+death differ 2005.
+136. pyo jo, jang mh, kwon yk, lee hj, jun ji, woo hn, et al.
+essential roles of atg5 and fadd in autophagic cell death:
+dissection of autophagic cell death into vacuole formation and
+cell death. j biol chem 2005;280:20722–9.
+137. qin y, vanden hoek tl, wojcik k, anderson t, li cq,
+shao zh, et al. caspase-dependent cytochrome c release
+and cell death in chick cardiomyocytes after simulated
+ischemia–reperfusion. am j physiol heart circ physiol
+2004;286:h2280–6.
+138. ravikumar b, berger z, vacher c, o
+kane cj, rubinsztein
+dc. rapamycin pre-treatment protects against apoptosis.
+hum mol genet 2006;15:1209–16.
+139. ravikumar b, vacher c, berger z, davies je, luo s, oroz
+lg, et al. inhibition of mtor induces autophagy and reduces
+toxicity of polyglutamine expansions in fly and mouse models
+of huntington disease. nat genet 2004;36:585–95.
+151. schmitz i, kirchhoff s, krammer ph. regulation of death
+receptor-mediated apoptosis pathways. int j biochem cell
+biol 2000;32:1123–36.
+152. schoppet m, ruppert v, hofbauer lc, henser s, al-
+fakhri n, christ m, et al. tnf-related apoptosis-inducing
+ligand and its decoy receptor osteoprotegerin in non-
+ischemic dilated cardiomyopathy. biochem biophys res
+commun 2005;338:1745–50.
+153. schu pv, takegawa k, fry mj, stack jh, waterfield md,
+emr sd. phosphatidylinositol 3-kinase encoded by yeast
+vps34 gene essential for protein sorting. science 1993;260:
+88–91.
+154. schumann h, morawietz h, hakim k, zerkowski hr,
+eschenhagen t, holtz j, et al. alternative splicing of the
+primary fas transcript generating soluble fas antagonists is
+suppressed in the failing human ventricular myocardium.
+biochem biophys res commun 1997;239:794–8.
+155. searle j, kerr jf, bishop cj. necrosis and apoptosis:
+distinct modes of cell death with fundamentally different
+significance. pathol annu 1982;17 pt 2:229–59.
+156. sharpe jc, arnoult d, youle rj. control of mitochondrial
+permeability by bcl-2 family members. biochim biophys
+acta 2004;1644:107–13.
+157. shi y. mechanisms of caspase activation and inhibition
+during apoptosis. mol cell 2002;9:459–70.
+158. shibata m, lu t, furuya t, degterev a, mizushima n,
+yoshimori t, et al. regulation of intracellular accumulation
+of mutant huntingtin by beclin 1. j biol chem 2006.
+159. shimizu s, kanaseki t, mizushima n, mizuta t, arakawa-
+kobayashi s, thompson cb, et al. role of bcl-2 family
+proteins in a non-apoptotic programmed cell death depen-
+dent on autophagy genes. nat cell biol 2004;6:1221–8.
+cardiovasc drugs ther (2006) 20: 445–462
+461
+160. shimizu s, narita m, tsujimoto y. bcl-2 family proteins
+regulate the release of apoptogenic cytochrome c by the
+mitochondrial channel vdac. nature 1999;399:483–7.
+161. shimomura h, terasaki f, hayashi t, kitaura y, isomura t,
+suma h. autophagic degeneration as a possible mechanism
+of myocardial cell death in dilated cardiomyopathy. jpn circ
+j 2001;65:965–8.
+162. shintani t, klionsky dj. autophagy in health and disease:
+a double-edged sword. science 2004;306:990–5.
+163. st-pierre j, buckingham ja, roebuck sj, brand md.
+topology of superoxide production from different sites in
+the mitochondrial electron transport chain. j biol chem
+2002;277:44784–90.
+164. stennicke hr, salvesen gs. caspases—controlling intra-
+cellular signals by protease zymogen activation. biochim
+biophys acta 2000;1477:299–306.
+165. stoka v, turk b, schendel sl, kim th, cirman t, snipas sj,
+et al. lysosomal protease pathways to apoptosis. cleavage of
+bid, not pro-caspases, is the most likely route. j biol chem
+2001;276:3149–57;101(4):281–291
+166. stypmann j, janssen pm, prestle j, engelen ma, kogler h,
+lullmann-rauch r, et al. lamp-2 deficient mice show
+depressed cardiac contractile function without significant
+changes in calcium handling. basic res cardiol 2006;
+101(4):281–91.
+167. sun-wada gh, wada y, futai m. lysosome and lysosome-
+related organelles responsible for specialized functions in
+higher organisms, with special emphasis on vacuolar-type
+proton atpase. cell struct funct 2003;28:455–63.
+168. susin sa, zamzami n, castedo m, hirsch t, marchetti p,
+macho a, et al. bcl-2 inhibits the mitochondrial release of
+an apoptogenic protease. j exp med 1996;184:1331–41.
+169. tanida i, minematsu-ikeguchi n, ueno t, kominami e.
+lysosomal turnover, but not a cellular level, of endogenous
+lc3 is a marker for autophagy. autophagy 2005;1:084–91.
+170. tanida i, ueno t, kominami e. lc3 conjugation system
+in mammalian autophagy. int j biochem cell biol 2004;
+36:2503–18.
+171. tartaglia la, goeddel dv. two tnf receptors. immunol
+today 1992;13:151–3.
+172. terman a, dalen h, eaton jw, neuzil j, brunk ut.
+mitochondrial recycling and aging of cardiac myocytes: the
+role of autophagocytosis. exp gerontol 2003;38:863–76.
+173. terman a, dalen h, eaton jw, neuzil j, brunk ut. aging
+of cardiac myocytes in culture: oxidative stress, lipofuscin
+accumulation, and mitochondrial turnover. ann n y acad
+sci 2004;1019:70–7.
+174. tewari m, quan lt, o
+rourke k, desnoyers s, zeng z,
+beidler dr, et al. yama/cpp32 beta, a mammalian
+homolog of ced-3, is a crma-inhibitable protease that
+cleaves the death substrate poly(adp-ribose) polymerase.
+cell 1995;81:801–9.
+175. thom t, haase n, rosamond w, howard vj, rumsfeld j,
+manolio t, et al. heart disease and stroke statistics—2006
+update: a report from the american heart association
+statistics committee and stroke statistics subcommittee.
+circulation 2006;113:e85–151.
+176. thornberry na, lazebnik y. caspases: enemies within.
+science 1998;281:1312–6.
+177. turrens jf, alexandre a, lehninger al. ubisemiquinone is
+the electron donor for superoxide formation by complex iii
+of heart mitochondria. arch biochem biophys 1985;237:
+408–14.
+178. turrens jf, boveris a. generation of superoxide anion by
+the nadh dehydrogenase of bovine heart mitochondria.
+biochem j 1980;191:421–7.
+179. uchiyama y. autophagic cell death and its execution by
+lysosomal cathepsins. arch histol cytol 2001;64:233–46.
+180. vande velde c, cizeau j, dubik d, alimonti j, brown t,
+israels s, et al. bnip3 and genetic control of necrosis-like
+cell death through the mitochondrial permeability transi-
+tion pore. mol cell biol 2000;20:5454–68.
+181. vanden hoek tl, becker lb, shao z, li c, schumacker pt.
+reactive oxygen species released from mitochondria during
+brief hypoxia induce preconditioning in cardiomyocytes. j
+biol chem 1998;273:18092–8.
+182. verhagen am, ekert pg, pakusch m, silke j, connolly lm,
+reid ge, et al. identification of diablo, a mammalian
+protein that promotes apoptosis by binding to and antago-
+nizing iap proteins. cell 2000;102:43–53.
+183. wang k, yin xm, chao dt, milliman cl, korsmeyer sj.
+bid: a novel bh3 domain-only death agonist. genes dev
+1996;10:2859–69.
+184. webb jl, ravikumar b, rubinsztein dc. microtubule
+disruption inhibits autophagosome-lysosome fusion:
+implications
+in
+polyglutamine diseases. int j biochem cell biol 2004;36:
+2541–50.
+studying the roles of aggresomes
+for
+185. wei mc, lindsten t, mootha vk, weiler s, gross a,
+ashiya m, et al. tbid, a membrane-targeted death ligand,
+oligomerizes bak to release cytochrome c. genes dev
+2000;14:2060–71.
+186. weiss jn, korge p, honda hm, ping p. role of the
+mitochondrial permeability transition in myocardial dis-
+ease. circ res 2003;93:292–301.
+187. werneburg n, guicciardi me, yin xm, gores gj. tnf-
+alpha-mediated lysosomal permeabilization is fan and
+caspase 8/bid dependent. am j physiol gasterointest liver
+physiol 2004;287:g436–43.
+188. winchester bg. lysosomal membrane proteins. eur j
+paediatr neurol 2001;5 suppl a:11–9.
+189. wolter kg, hsu yt, smith cl, nechushtan a, xi xg,
+youle rj. movement of bax from the cytosol to mitochon-
+dria during apoptosis. j cell biol 1997;139:1281–92.
+190. xu c, bailly-maitre b, reed jc. endoplasmic reticulum
+stress: cell life and death decisions. j clin invest 2005;
+115:2656–64.
+191. xue l, fletcher gc, tolkovsky am. mitochondria are
+selectively eliminated from eukaryotic cells after blockade
+of caspases during apoptosis. curr biol 2001;11:361–5.
+192. yamaguchi s, yamaoka m, okuyama m, nitoube j,
+fukui a, shirakabe m, et al. elevated circulating levels
+and cardiac secretion of soluble fas ligand in patients
+with congestive heart
+failure. am j cardiol 1999;83:
+1500–3, a8.
+193. yamamoto a, cremona ml, rothman je. autophagy-
+mediated clearance of huntingtin aggregates triggered
+by the insulin-signaling pathway. j cell biol 2006;172:
+719–31.
+194. yamamoto a, tagawa y, yoshimori t, moriyama y,
+masaki r, tashiro y. bafilomycin a1 prevents matura-
+tion of autophagic vacuoles by inhibiting fusion between
+autophagosomes and lysosomes in rat hepatoma cell line,
+h-4-ii-e cells. cell struct funct 1998;23:33–42.
+195. yan l, vatner de, kim sj, ge h, masurekar m,
+massover wh, et al. autophagy in chronically ischemic
+myocardium. proc natl acad sci usa 2005;102:13807–12.
+196. yasuda m, theodorakis p, subramanian t, chinnadurai g.
+adenovirus e1b-19k/bcl-2 interacting protein bnip3
+contains a bh3 domain and a mitochondrial targeting
+sequence. j biol chem 1998;273:12415–21.
+197. yu l, alva a, su h, dutt p, freundt e, welsh s, et al.
+462
+cardiovasc drugs ther (2006) 20: 445–462
+regulation of an atg7-beclin 1 program of autophagic cell
+death by caspase-8. science 2004;304:1500–2.
+198. yu l, wan f, dutta s, welsh s, liu z, freundt e, et al.
+autophagic programmed cell death by selective catalase
+degradation. proc natl acad sci usa 2006;103:4952–7.
+199. yuan h, williams sd, adachi s, oltersdorf t, gottlieb ra.
+cytochrome c dissociation and release from mitochondria by
+truncated bid and ceramide. mitochondrion 2003;2: 237–44.
+200. zeng x, overmeyer jh, maltese wa. functional specific-
+ity of the mammalian beclin-vps34 pi 3-kinase complex in
+macroautophagy versus endocytosis and lysosomal enzyme
+trafficking. j cell sci 2006;119:259–70.
+201. zerial m, mcbride h. rab proteins as membrane organ-
+izers. nat rev mol cell biol 2001;2:107–17.
+202. zha j, weiler s, oh kj, wei mc, korsmeyer sj.
+posttranslational n-myristoylation of bid as a molecular
+switch for targeting mitochondria and apoptosis. science
+2000;290:1761–5.
+203. zhu hl, stewart as, taylor md, vijayasarathy c,
+gardner tj, sweeney hl. blocking free radical production
+via adenoviral gene transfer decreases cardiac ischemia–
+reperfusion injury. mol ther 2000;2:470–5.
+204. zweier jl, flaherty jt, weisfeldt ml. proc natl acad sci
+usa 1987;84:1404–7.

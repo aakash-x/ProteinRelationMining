@@ -1,0 +1,1365 @@
+cellular microbiology (2007) 9(4), 1073–1085
+doi:10.1111/j.1462-5822.2006.00853.x
+first published online 12 december 2006
+ird1 is a vps15 homologue important for antibacterial
+immune responses in drosophila
+junlin wu, katherine e. randle and louisa p. wu*
+center for biosystems research, university of maryland
+biotechnology institute, 5115 plant sciences bldg.,
+college park, md 20742, usa.
+summary
+the immune response-deﬁcient 1 (ird1) gene was iden-
+tiﬁed in a forward genetic screen as a novel regulator
+for the activation of imd nfkb immune signalling
+pathway in drosophila. ird1 animals are also more
+susceptible to escherichia coli and micrococcus
+luteus bacterial infection. ird1 encodes the drosophila
+homologue of the vps15/p150 serine/threonine kinase
+that regulates a class iii phosphoinositide 3-kinase
+and is necessary for phagosome maturation and
+starvation-induced autophagy in yeast and mamma-
+lian cells. to gain insight into the role of ird1 in the
+immune response, we examine how amino acid star-
+vation affects the immune signalling pathways in
+drosophila. starvation, in the absence of infection,
+leads to expression of antimicrobial peptide (amp)
+genes and this response is dependent on ird1 and
+the imd immune signalling pathway. starvation, in
+addition to bacterial infection, suppresses the amp
+response in wild-type animals and reduces the ability
+to survive m. luteus infection. our results suggest that
+starvation and innate immune signalling may be inti-
+mately linked processes.
+introduction
+insects induce a battery of antimicrobial peptides (amps)
+in response to infection. infection of drosophila melano-
+gaster with either bacterial or fungal pathogens induces
+expression of select amp genes, indicating that there is
+speciﬁcity in the immune response (lemaitre et al., 1997).
+two signalling pathways, named imd and toll, have been
+shown to regulate a majority of the humoral (secreted)
+immune response in drosophila (de gregorio et al.,
+2002). these signalling pathways are highly conserved
+with mammalian innate immune pathways, as both are
+mediated by toll-like receptors, peptidoglycan recognition
+received 25 july, 2006; revised 11 october, 2006; accepted 21
+october, 2006. *for correspondence. e-mail wul@umbi.umd.edu;
+tel. (+1) 301 405 5151; fax (+1) 301 314 9075.
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd
+proteins (pgrps) and nfkb/rel
+(hoffmann, 2003).
+transcription factors
+the imd pathway is characterized as being activated in
+response to gram– bacterial infection, and results in the
+expression of several antibacterial peptide genes includ-
+ing diptericin (hoffmann, 2003). upon infection with
+gram– bacteria, the gram– diaminopimelic acid-type pep-
+tidoglycan is recognized by pgrp-lc (choe et al., 2002;
+gottar et al., 2002; takehana et al., 2002; leulier et al.,
+2003; kaneko et al., 2004) and pgrp-le (takehana
+et al., 2002; 2004). these receptors transduce the signal
+via the death domain containing adaptor, imd (georgel
+et al., 2001), and the kinases, dtak, a mapkkk (vidal
+et al., 2001; silverman et al., 2003; park et al., 2004), and
+the ikb kinase (ikk) complex of ird5 (dmikkb) (silverman
+et al., 2000; lu et al., 2001) and kenny (the ikkc homo-
+logue) (rutschmann et al., 2000a). dtak is important for
+activation of both nfkb and jnk pathways (silverman
+et al., 2003) and plays a key role in cross-talk between
+these two pathways (park et al., 2004). ikk leads to phos-
+phorylation of relish (silverman et al., 2000), a bipartite
+protein with rel homology domains and an inhibitory
+ankyrin repeat domain, similar to mammalian p100 and
+p105 (hedengren et al., 1999). phosphorylated relish is
+believed to become a substrate for the caspase dredd
+that cleaves between the rel domains and the inhibitory
+ankyrin repeat domains (stoven et al., 2003). the
+n-terminal rel portion of relish is freed of its inhibition
+and retention in the cytoplasm, and translocates to the
+nucleus to activate transcription of antibacterial peptide
+genes.
+the toll pathway has been demonstrated to respond to
+fungal and gram+ bacterial
+infection and results in the
+expression of the antifungal peptide gene drosomycin
+(lemaitre et al., 1996; meng et al., 1999; rutschmann
+et al., 2000b). fungi and gram+ bacteria are recognized
+by two different pathways that converge to activate the
+toll ligand, spätzle (levashina et al., 1999; ligoxygakis
+et al., 2002; gobert et al., 2003). the processed form of
+spätzle activates the receptor toll (weber et al., 2003; hu
+et al., 2004). downstream of toll activation, the adaptors
+myd88 (krapfen)
+(tauszig-delamasure et al., 2002;
+charatsi et al., 2003) and tube activate pelle, a serine/
+threonine kinase homologous to mammalian irak
+(letsou et al., 1991; shelton and wasserman, 1993;
+grosshans et al., 1994). cactus, the ikb homologue, is
+1074 j. wu, k. e. randle and l. p. wu
+then phosphorylated, ubiquitinated and targeted for
+degradation (belvin et al., 1995; bergmann et al., 1996;
+reach et al., 1996). upon degradation, cactus can no
+longer inhibit the two nfkb transcription factors, dorsal
+and dif, and they translocate to the nucleus and regulate
+expression of immune target genes like the antifungal
+peptide gene, drosomycin (lemaitre et al., 1995; meng
+et al., 1999; rutschmann et al., 2000b).
+antimicrobial peptides were originally identiﬁed as
+haemolymph proteins that were induced in response to
+infection and had direct antimicrobial function (boman,
+2000). more recently, genome-wide microarray studies in
+drosophila have indicated that the amp genes are also
+induced in response to ageing, oxidative stress, auto-
+phagic cell death and starvation (pletcher et al., 2002;
+zinke et al., 2002; lee et al., 2003; landis et al., 2004).
+as these are conditions not normally associated with
+microbial
+infection, it suggests that the amp signalling
+pathways are activated by other conditions, and amps
+may have a larger role in the physiology of the animal.
+the ability to respond to infection requires energy and
+an immune response is tied to a concomitant activation
+of metabolic pathways (lochmiller and deerenberg,
+2000). in mammals, pro-inﬂammatory cytokines or sepsis
+can trigger hypermetabolism which is important for the
+function of nutrient-demanding macrophages and for the
+large production of acute-phase proteins. similarly, the
+adaptive immune response which involves clonal expan-
+sion of lymphocytes is also energy-expensive; mounting
+an antibody response comes with a signiﬁcant energy
+cost
+(demas et al., 1997) and activating a cellular
+response is dependent on the ability to mobilize glyco-
+lytic energy stores (frauwirth et al., 2002). because of
+the substantial energy cost
+required to sustain an
+the magnitude of an animal’s
+immune response,
+response can ultimately be limited by insufficient energy
+resources. human populations with higher incidence of
+malnutrition tend to be more susceptible to infectious dis-
+eases (chandra, 1996). mice subjected to starvation are
+less likely to survive endotoxic shock (faggioni et al.,
+2000) or chronic infections like tuberculosis (chan et al.,
+1996).
+pathways
+and
+nutrient-sensing
+the evidence indicates that
+there are interactions
+between
+immune
+responses (matarese and la cava, 2004). to date, not
+much is known about the molecular mechanisms linking
+nutrient levels to immune signalling – the evidence to this
+point has been largely correlative. in drosophila, nutrient
+sensing occurs through the insulin and the target of rapa-
+mycin (tor) pathways (britton et al., 2002; scott et al.,
+2004). these pathways are highly conserved in animals
+and have been primarily studied for their effects on
+growth.
+insulin signalling is a hormone-based system
+which regulates cellular and organismal growth (britton
+et al., 2002). the tor pathway responds to nutrient
+levels to regulate protein synthesis and cell growth
+(oldham et al., 2000; zhang et al., 2000). during starva-
+tion, inhibition of the tor pathway can induce autophagy,
+a process by which the cell recycles unwanted proteins
+and organelles to generate amino acids for other pur-
+poses (scott et al., 2004). downstream of tor signalling,
+a phosphoinositide 3-kinase (pi3k) complex consisting of
+the class iii pi3k, vps34 and its regulatory partner/
+subunit, vps15 or p150, a serine-threonine kinase (stack
+et al., 1995), are important components of
+the cell
+machinery to initiate autophagy (petiot et al., 2000). this
+pi3k complex is also important for later events in endocy-
+tosis and phagocytosis in mammalian cells (fratti et al.,
+2001; futter et al., 2001; vieira et al., 2001), and for the
+sorting of proteins and vesicles to the vacuole (lysosome
+equivalent) in yeast (stack et al., 1995), so it is likely that
+the complex acts at a common key regulatory point for
+several cellular trafficking events.
+we have identiﬁed the immune response deﬁcient 1
+(ird1) gene as a novel regulator affecting both the imd and
+toll pathways. ird1 mutants are unable to activate the imd
+pathway, but have phenotypes that resemble constitutive
+activation of the toll pathway. ird1 encodes the drosophila
+homologue of
+the saccharomyces cerevisiae vps15
+serine/threonine kinase known for its role in endocytosis,
+phagocytosis and starvation-induced autophagy in yeast
+and mammalian cells (petiot et al., 2000; fratti et al.,
+2001; futter et al., 2001; vieira et al., 2001). in exploring
+how a defect in one of these cellular processes might
+impact an innate immune response, we conﬁrm the obser-
+vation that amino acid starvation in the absence of infec-
+tion induces amp responses (zinke et al., 2002). the
+starvation-triggered induction of these amp responses
+requires ird1 and the imd signalling pathway. the use of
+shared signalling pathways in both starvation and immune
+responses may provide a molecular mechanism for the
+regulation of innate immune responses in the context of
+nutrient control.
+results
+ird1 is important for antibacterial immune responses
+in an effort to identify novel components of the imd anti-
+bacterial pathway, we screened for ethylmethane
+sulfonate-induced mutations on the third chromosome
+that impaired the induction of a diptericin–lacz reporter
+gene in third-instar larvae upon infection with escherichia
+coli (wu and anderson, 1998; wu et al., 2001). two
+mutant alleles of ird1 were identiﬁed in the original screen.
+five more ird1 alleles were identiﬁed in subsequent
+genetic screens for mutations that failed to complement
+the lethality of the original alleles. these ﬁve ird1 alleles
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 1073–1085
+diptericin
+attacin
+defensin
+drosocin
+vps15 homologue important for drosophila immunity 1075
+160
+120
+80
+40
+12
+10
+*  *
+metchnikowin
+18
+15
+12
+70
+60
+50
+40
+30
+20
+10
+700
+600
+500
+400
+300
+200
+100
+*  * *  *
+80
+60
+40
+20
+*  *
+cecropin
+drosomycin
+10
+*  *
+uninfected
+infected
+fig. 1. ird1 affects antimicrobial peptide (amp) gene expression. shown are the expression levels in wild type (or), ird11, ird12 and cact
+(cacta2/cact255) in uninfected or infected with e. coli for 2 h larvae as measured by quantitative real-time pcr (q-rt-pcr). diptericin
+expression is reduced in ird11 and ird12 as compared with wild type (or) in response to e. coli infection for 2 h. drosomycin was constitutively
+expressed in the mutants. we see variability in the expression of the other amps in the ird1 alleles, ranging from low (attacin, defensin,
+drosocin) to wild-type (cecropin a, metchnikowin) expression levels. the data suggest that the regulation of some of these other amps may
+be impaired. in contrast to the diptericin and drosomycin amp genes, the combinatorial contributions of the imd and toll pathways in the
+regulation of the other amps are not as well characterized. cactus (cacta2/cact255) mutants which also constitutively express drosomycin were
+examined for comparison. the expression levels have been normalized to rp49 levels and wild type uninfected has been set at 1 for
+comparison between experiments. the experiments were performed in triplicate and the error bars indicate standard deviation. one-tail t-tests
+were used to compare wild type infected and uninfected to the corresponding amp levels in the ird1 or cactus mutants. p-values < 0.05 were
+deemed signiﬁcant and marked with asterisks.
+also fail to complement the original alleles for the induc-
+tion of the diptericin–lacz reporter gene. we chose to
+study ird1 from among the 14 genes identiﬁed in the
+screen because the mutation appeared to affect both the
+imd and toll signalling pathways. quantitative real-time
+pcr analysis demonstrated that ird1 mutants failed to
+induce the antibacterial peptide gene diptericin, which
+conﬁrms the diptericin–lacz result
+from the screen
+(fig. 1). diptericin is considered to be a speciﬁc target
+gene of the imd pathway, because its induction is not
+affected by toll pathway mutations (hedengren et al.,
+1999; meng et al., 1999; rutschmann et al., 2000b). our
+result therefore suggests that ird1 is acting in the imd
+pathway (fig. 1). we found that drosomycin, the target
+gene speciﬁcally activated by the toll pathway, was con-
+stitutively expressed at a high level in ird1 mutants. this is
+the opposite phenotype to that seen for diptericin. con-
+stitutive drosomycin expression has been observed in
+mutants that activate the toll pathway, such as toll10b
+(gain of function) mutants and cactus (loss of function)
+mutants (lemaitre et al., 1996).
+we were interested in assaying other amp genes
+because they are regulated to some degree by both the
+imd and toll pathways. the opposing effects ird1 has on
+the two pathways appeared to affect the expression levels
+of attacin, defensin and drosocin. we saw differences in
+the ird1 alleles’ effects on these amps making it difficult to
+draw conclusions. in ird11 animals, the induction of these
+amps in response to infection is less than that of wild
+type, similar to the effect of ird1 on diptericin. but the
+uninduced level of these amps is also higher than wild-
+type uninduced levels, suggestive of the effect of ird1 on
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 1073–1085
+1076 j. wu, k. e. randle and l. p. wu
+uas-pgrp-le
+uas-imd
+uas-dredd
+uas-dtak
+120
+100
+80
+60
+40
+20
+120
+100
+80
+60
+40
+20
+uas-
+imd
+uas-
+imd;
+ird1
+uas-
+pgrp-le
+uas-
+pgrp-le;
+ird1
+drosomycin
+120
+100
+80
+60
+40
+20
+500
+400
+300
+200
+100
+uas-
+dtak
+uas-
+dtak;
+ird1
+uas-
+dredd
+uas-
+dredd;
+ird1
+or- or+
+ird1-
+ml
+ird1+
+ml
+ird1
+spz-
+ird1
+dif-
+fig. 2. genetic epistasis to place ird1 in the imd and toll pathways. double mutant combinations were generated for epistasis analyses.
+shown are the relative fold changes of diptericin expression as measured using q-rt-pcr in uas-pgrp-le/c564-gal4 (set at 100)
+compared with uas-pgrp-le/c564-gal4; ird11/ird15. similar mutations combinations were generated with the uas-imd, uas-dredd,
+uas-dtak. for the toll pathway, drosomycin expression is shown in wild type (or) uninfected (–) and infected (+) with m. luteus, in ird1
+(ird11/ird15) uninfected and infected with m. luteus. to determine where ird1 was relative to other toll pathway components, double mutants
+with spz (ird11,spzrm7/ird15,spzrm7) and dif (dif1/df(2l)j4; ird11/ird12) were generated and then assessed for their ability to suppress the
+constitutive drosomycin expression. df(2l)j4 is a small deﬁciency that takes out both the dif and dorsal genes (meng et al., 1999). ml,
+m. luteus.
+drosomycin. in general, the effect the ird1 mutation had
+on these amp genes appeared to be more dramatic than
+the phenotype seen in cactus mutants. we found that the
+amps metchnikowin and cecropin were still inducible to
+near wild-type levels in ird1 mutants, indicating that ird1
+does not have a non-speciﬁc effect on the induction of all
+the amp genes. this amp phenotype differed from other
+mutations identiﬁed from the original genetic screen that
+had non-speciﬁc effects on the fat body tissue, e.g.
+scribble/ird15, and resulted in decreased expression of all
+the amps examined (wu et al., 2001).
+to determine where ird1 acts in the imd signalling
+pathway, we used genetic epistasis analyses. the imd
+pathway can be activated in the absence of infection by
+ectopic expression of
+the imd pathway components;
+these gain-of-function mutations are placed in combina-
+tion with loss-of-function mutations affecting the pathway,
+and this can be used to determine the order of
+the
+components. the uas-gal4 expression system from
+yeast has been used as a heterologous expression
+system in drosophila, and transgenic ﬂy lines that express
+the gal4 transactivator in different tissues are widely
+available (brand and perrimon, 1993). we conﬁrmed that
+the c564-gal4 driver [that drives expression of uas-
+promoted genes in the fat body, lymph glands and other
+tissues (harrison et al., 1995)] can lead to constitutive
+expression of diptericin, when placed in combination with
+uas lines of the imd pathway components, pgrp-le,
+imd, dredd or dtak (georgel et al., 2001; vidal et al.,
+2001; takehana et al., 2002). we found that ird1 was able
+to suppress ectopic expression of diptericin in the c564-
+gal4-driven uas-pgrp-le, uas-imd or uas-dredd
+ﬂies, but not in the uas-dtak ﬂies (fig. 2). in sum, our
+results suggest that ird1 may be acting downstream of
+pgrp-le, imd and dredd, but upstream of dtak in the
+imd pathway. presumably, ird1 is acting in the same cells
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 1073–1085
+e. coli
+m. luteus
+pbs
+vps15 homologue important for drosophila immunity 1077
+100
+80
+60
+40
+20
+100
+80
+60
+40
+20
+100
+80
+60
+40
+20
+or
+ird1
+time (h)
+time (h)
+time (h)
+fig. 3. ird1 animals are more susceptible to bacterial infection. ird1 (ird11/ird15) animals are more sensitive to e. coli and m. luteus infection
+than the oregon r (or) wild-type stock. shown are survival curves over a 6 h period for oregon r and ird1 third-instar larvae injected with
+e. coli, m. luteus or pbs. survival after e. coli injection differed signiﬁcantly between wild type and ird1 (p = 0.03), as did survival after
+m. luteus infection (p = 0.0027). there was no statistically signiﬁcant difference in survival after pbs injection between wild type and ird1
+(p = 0.29), or between wild-type survival in response to pbs compared with infection with e. coli or m. luteus (p = 0.28 and p = 0.32
+respectively).
+in which the imd signalling is occurring. a formal alterna-
+tive is that ird1 may be acting in a pathway parallel to the
+imd pathway in a complex manner.
+to examine where ird1 was acting in the toll pathway,
+we determined whether toll pathway mutations could sup-
+press the constitutive drosomycin expression in ird1
+mutants. a mutation in spätzle (spz) was able to suppress
+the drosomycin expression. as spätzle is the ligand for
+toll (weber et al., 2003; hu et al., 2004), it suggests that
+ird1’s effect on the toll signalling pathway may be
+upstream of the fat body amp response. we next exam-
+ined the epistasis of ird1 relative to dif. dif is downstream
+in the toll pathway and important for the regulation of
+drosomycin expression in larvae. we found that a muta-
+tion in dif was able to suppress the constitutive expres-
+sion of drosomycin in ird1 animals (fig. 2). this suggests
+that the constitutive drosomycin expression seen in ird1
+animals is due to activation of the toll pathway.
+the amp signalling pathways are often used to assess
+activation of the immune response, but a more meaningful
+measure of a functional immune response is the animal’s
+ability to withstand bacterial infection. the effects of an
+ird1 mutation on survival of a bacterial challenge was
+tested using the gram– bacteria, e. coli and the gram+
+bacteria, micrococcus luteus. these bacteria are not
+pathogenic to wild-type oregon r ﬂies (fig. 3) and are
+often used to assay alterations in the imd and toll path-
+ways respectively. we ﬁnd that ird1 animals are signiﬁ-
+cantly more susceptible than wild type to both e. coli
+(p = 0.03) and m. luteus (p = 0.0027)
+infection. the
+e. coli effect is consistent with the loss of imd pathway
+function. the m. luteus susceptibility is counterintuitive as
+the toll pathway is believed to be important for ﬁghting a
+gram+ bacterial
+infection. however, our results indicate
+that constitutive activation of the toll pathway is not pro-
+tective against gram+ bacteria, and instead makes the
+animals more susceptible to infection.
+the ird1 gene encodes the drosophila homologue
+of the vps15 kinase
+recombination and deﬁciency mapping localized the ird1
+gene to the 85c1;85d8 interval on the third chromosome.
+using male recombination mapping relative to p-elements
+in the region, ird1 mapped to the right of ep473 that was
+inserted in the d1 gene (fig. 4a). from sequencing the
+candidate genes in the region in the ird1 alleles, we iden-
+tiﬁed cg9746, a serine/threonine kinase with wd40
+repeats as a good candidate for ird1. five out of the seven
+ird1 alleles have mutations that result in premature stop
+codons in cg9746 that would lead to truncated proteins
+(fig. 4b).
+to verify that mutations in cg9746 were the cause of
+ird1 phenotypes, we generated transgenic ﬂies express-
+ing the ird1 gene under the control of an inducible pro-
+moter (brand and perrimon, 1993). expression of this
+gene (p[w+, uas-ird1]) in the ird1 mutant animals was
+sufficient to rescue the lethality and the amp phenotype,
+conﬁrming that cg9746 is the ird1 gene. the p[w+, uas-
+ird1 pa10-68] insertion line in the absence of a gal4
+driver resulted in sufficient expression of the transgene for
+rescue of the ird1 phenotypes so this was used for the
+rescue experiments (fig. 4c).
+ird1 encodes the drosophila protein most similar to
+yeast vps15, a gene necessary for targeting proteins to
+the vacuole,
+the lysosome
+(herman et al., 1991). vps15 is a serine/threonine kinase
+that acts as the regulatory subunit to vps34, a class iii
+the yeast equivalent of
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 1073–1085
+1078 j. wu, k. e. randle and l. p. wu
+85c1
+kg7752
+ep3198
+nmdmc
+relish
+mst85c
+cg11033
+cg18005
+ep473
+85d2
+155 kb
+pum
+d1
+cg9746/ird1
+1 kb
+ird15
+q144*
+kinase
+ird12
+w676*
+ird11
+q698*
+ird14
+g986d,
+v1337i
+ird16
+q1056*
+ird13
+q1175*
+wd repeats
+120
+100
+80
+60
+40
+20
+diptericin
+   or        ird1      rescue
+400
+300
+200
+100
+drosomycin
+   or        ird1      rescue
+fig. 4. molecular identiﬁcation of the ird1 gene.
+a. ird1 was mapped to the 85c1;85d8 interval using meiotic recombination and deﬁciency mapping. from male recombination mapping, it
+was determined that ird1 was distal to ep473. genes coding left to right are shown as blocks above the line and genes coding right to left are
+blocks below the line. the gene names shown were the ird1 candidate genes examined by complementation if mutations were available or
+sequence analysis.
+b. mutations in cg9746, a serine/threonine kinase with wd40 repeats, were identiﬁed in the ird1 alleles. the ird1 lethality was used in
+secondary genetic screens to identify ﬁve ird1 alleles, designated as ird13, ird14, ird15, ird16 and ird17. no changes in the open reading frame
+were detected in the ird17 allele. ird11 and ird12 are the result of stop codons that would truncate the protein after the kinase domain. ird13 and
+ird16 mutations result in premature stop codons in the wd40 region. ird14 results in two amino acid (a.a.) changes in the wd40 region, a
+glycine to aspartic acid change at a.a. 986 and a valine to isoleucine change at a.a. 1337. the latter change is highly conservative and is
+seen in the mouse and human ird1 homologues (fig. s1 in supplementary material), so it is likely that the mutant phenotype arises from the
+glycine-986 to aspartic acid change. the ird15 mutation arises from a c to t substitution that introduces a stop codon at a.a. 144, leading to a
+protein truncated within the kinase domain and lacking the last 1199 amino acids. we were unable to detect any sequence changes in the
+cg9746 open reading frame in the ird17 allele, so it may be a regulatory mutation. ird1/cg9746 sequence and its alignment to homologues in
+other species are shown in fig. s1.
+c. expression of uas-ird1 in ird1 mutant ﬂies rescues the ird1 immune defects. the p[w+uas-ird1 pa10-68] insertion line in the absence of a
+gal4 driver resulted in sufficient expression of the transgene for rescue of the ird1 phenotypes. shown is the rescue of the ird12 amp
+phenotype with recovery of diptericin expression in infected larvae and reduction of the constitutive drosomycin expression.
+phosphatidylinositol 3-kinase (stack et al., 1995) critical
+for endocytosis and starvation-induced autophagy in
+yeast and mammalian cells (petiot et al., 2000; fratti
+et al., 2001; futter et al., 2001; vieira et al., 2001). our
+ﬁnding that the drosophila vps15 homologue plays a role
+in regulating nfkb signalling pathways is new.
+in an
+attempt to bridge the known function of vps15 with this
+novel immune function, we explored whether starvation,
+another vps15-regulated physiological process, might
+impact the innate immune response.
+ird1 and the imd signalling pathway are important in a
+starvation-induced response
+a whole genome microarray analysis in drosophila ﬁrst
+demonstrated that the amp gene drosomycin is induced
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 1073–1085
+vps15 homologue important for drosophila immunity 1079
+120
+100
+80
+60
+40
+20
+drosocin
+ns
+ns
+or-            or+
+120
+100
+80
+60
+40
+20
+140
+120
+100
+80
+60
+40
+20
+defensin
+ns
+ns   s
+or-            or+
+metchnikowin
+ns   s
+ns
+or-            or+
+drosomycin
+300
+200
+100
+metchnikowin
+  or      or     imd      rel        tl       ird1
+spz
+120
+100
+80
+60
+40
+20
+attacin
+ns
+ns   s
+120
+100
+80
+60
+40
+20
+                                                  
+or-            or+
+cecropin
+ns
+ns   s
+or-            or+
+120
+100
+80
+60
+40
+20
+400
+300
+200
+100
+diptericin
+drosomycin
+120
+100
+80
+60
+40
+20
+ns
+ns
+or-            or+
+diptericin
+ns
+ns
+or-            or+
+300
+200
+100
+  or      or     imd      rel        tl       ird1
+spz
+  or      or     imd      rel        tl       ird1
+spz
+starved
+starved
+starved
+fig. 5. effects of amino acid starvation on antimicrobial peptide immune phenotypes.
+a. in wild-type (or) larvae, starvation (s) in the absence of infection (–) signiﬁcantly induces the expression of diptericin, drosocin,
+drosomycin and metchnikowin as measured by q-rt-pcr; shown are wild-type larvae either not starved (ns), starved (s) for 3 h, and
+uninfected (–) or infected with e. coli (+) for an additional 3 h. the induction of attacin, cecropin, defensin and drosocin is signiﬁcantly
+lowered if the animals have been starved before infection.
+b. both ird1 and the imd pathway are required for the starvation-induced expression of diptericin and metchnikowin. drosomycin expression
+was largely unaffected by loss of the imd and toll pathways. oregon r, not starved or starved (indicated with the line), and ird1, toll
+(tl9qrx/df(3r)roxb3); relish (rele20); imd, spzrm7 (double mutant for imd and toll pathways) mutants all subjected to starvation.
+in second-instar larvae subjected to amino acid and sugar
+starvation (zinke et al., 2002). for our experiments, we
+used an amino acid starvation paradigm that had been
+demonstrated to affect the nutrient-sensing tor pathway
+in the fat body of third-instar larvae (scott et al., 2004).
+this starvation response has been better characterized
+and occurs in the same stage and tissue that we use for
+observing the ird1 immune phenotypes. we conﬁrmed the
+initial microarray results by observing that a drosomycin-
+green ﬂuorescent protein (gfp)
+is strongly
+reporter
+induced at 3 h in amino acid-starved l3 animals (data not
+shown). the induction of
+the drosomycin-gfp after
+amino acid starvation was more consistent from animal to
+animal, than the induction we typically observe with bac-
+terial infection. we next examined the effect of amino acid
+starvation on the expression of the other known amp
+genes by quantitative real-time pcr. amino acid starva-
+tion signiﬁcantly induced diptericin, drosocin, drosomycin
+and metchnikowin independent of
+infection (fig. 5a).
+metchnikowin is expressed at a level not signiﬁcantly dif-
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 1073–1085
+1080 j. wu, k. e. randle and l. p. wu
+e. coli
+m. luteus
+pbs
+100
+80
+60
+40
+20
+time (h)
+100
+80
+60
+40
+20
+time (h)
+100
+80
+60
+40
+20
+or
+or
+starved
+time (h)
+fig. 6. amino acid starved wild-type animals are more susceptible to m. luteus infection. shown are survival curves over a 6 h period
+comparing not starved or and amino acid-starved or third-instar larvae injected with e. coli, m. luteus or pbs. survival after m. luteus
+injection differed signiﬁcantly following starvation (p = 0.014), but not survival to e. coli infection (p = 0.26). there was no statistically
+signiﬁcant difference in survival after pbs injection (p = 0.54).
+ferent from that normally induced by bacterial infection.
+the induction of amps under conditions not usually asso-
+ciated with an immune response raises questions as to
+both the role of amps in those processes, and how star-
+vation might
+impact amp expression for the immune
+response. we ﬁnd if animals are subjected to amino acid
+starvation, the expression of all the amps are lowered
+compared with that seen with infection alone. the differ-
+ence is signiﬁcant (p < 0.05) for all but metchnikowin. in
+particular, the expression of the amps, attacin, cecropin,
+defensin and drosocin is dramatically lowered in
+response to infection (fig. 5a). in general, the effects of
+starvation appear
+the infection-
+induced response, as addition of infection shows a similar
+effect to that of starvation alone. there was no signiﬁcant
+difference in the expression of cecropin, drosocin, dip-
+tericin and drosomycin upon infection in the starved
+animals. for attacin and defensin, there was a signiﬁcant
+difference upon infection in the starved animals, but the
+overall level of expression was more similar to that seen in
+starved uninfected animals than that of well-fed infected
+animals.
+to be epistatic over
+we performed an epistasis experiment to determine
+where the starvation signal ﬁt relative to the immune
+signalling pathways (fig. 5b). we examined whether
+mutants affecting the imd pathway (relish and ird1), the
+toll pathway (toll) or both pathways (imd spätzle double
+mutant) could still
+induce diptericin, drosomycin and
+metchnikowin in response to starvation. starvation-
+induced expression of diptericin and metchnikowin was
+dependent on ird1 and the imd pathway. this suggests
+that ird1 and the imd pathway are downstream of the
+starvation signal and that the starvation signal either acts
+through the imd pathway or works as a co-signal
+in
+parallel to the imd pathway. the starvation induction of
+drosomycin appeared to be largely independent of both
+imd and toll pathway function. this suggests that droso-
+mycin is regulated by a parallel signalling process in
+starved ﬂies and may be more complex than the toll
+pathway-dependent induction of drosomycin observed in
+the ird1 mutants.
+to determine how the starvation-induced expression of
+amps correlated with a response to bacterial infection, we
+next examined the ability of starved wild-type larvae to
+survive bacterial challenge (fig. 6). we ﬁnd that starved
+wild-type larvae are not signiﬁcantly impaired with respect
+to surviving an e. coli
+infection as compared with not
+starved animals (p = 0.26), but are signiﬁcantly impaired
+in their ability to survive m. luteus infection (p = 0.014).
+the results are surprising based on the known speciﬁcity
+of action of the amps on gram– and gram+ bacteria
+from in vitro and in vivo studies (lemaitre et al., 1997;
+tzou et al., 2002; hoffmann, 2003). the amps (attacin,
+cecropin, drosocin, diptericin) that are supposed to ﬁght
+gram– bacteria are largely downregulated with starvation,
+yet the larvae are still resistant to e. coli infection. the
+amps induced by the toll pathway (drosomycin, metch-
+nikowin) are still expressed during starvation, yet
+the
+animals are more susceptible to m. luteus infection. this
+increased susceptibility to gram+ bacterial
+infection
+despite activation of the toll pathway is similar to what
+was seen in the ird1 mutants. these experiments suggest
+that a robust amp expression in response to starvation
+may be deleterious for survival during a bacterial
+infection.
+discussion
+the unexpected discovery that ird1, a vps15 kinase, is
+important
+for the innate immune response is a good
+example of how forward genetic screens can uncover new
+functions for known genes. this kinase has been primarily
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 1073–1085
+studied for its roles in endocytosis and autophagy (petiot
+et al., 2000; fratti et al., 2001; futter et al., 2001; vieira
+et al., 2001) because the yeast mutant phenotype indi-
+cated its importance in cellular trafficking events (herman
+et al., 1991; stack et al., 1995). an examination of the
+mutant phenotype in a multicellular organism indicates
+that this kinase also plays a key role in regulating speciﬁc
+nfkb signalling pathways in the drosophila immune
+response. in ird1 mutants, the imd pathway is not acti-
+vated in response to bacterial infection, whereas the toll
+pathway appears to be constitutively activated. this indi-
+cates that ird1 may act at a nexus point for the regulation
+of both pathways.
+the imd and toll signalling pathways are often pre-
+sented as distinct, independent pathways but this is an
+oversimpliﬁed view. examinations of mutations in the
+pathways indicate that the two pathways interact. muta-
+tions in the toll pathway (spätzle) show higher levels of
+diptericin induction (vidal et al., 2001); this suggests that
+the toll pathway is negatively regulating the imd pathway
+and that loss of toll signalling may result in a compensa-
+tory, higher activation of the imd pathway. ird1 mutants
+show a complementary effect with loss of imd pathway
+and constitutive activation of the toll pathway. this may
+be unique to ird1, as other imd pathway mutants do not
+show constitutive activation of
+the toll pathway. our
+results suggest that despite the appearance of constitu-
+tive signalling via the toll pathway in ird1 mutants, or
+during starvation, this is actually deleterious for the ﬂy’s
+immune response to bacterial
+infection. recent papers
+also indicate that a constitutive toll response is harmful
+and causes ﬂies to be more susceptible to drosophila x
+virus or listeria monocytogenes infection (gordon et al.,
+2005; zambon et al., 2005). not much is known about
+how the immune signalling pathways are shut off, but this
+appears to be as important as activation, for the animal’s
+overall immune competence.
+activation and maintenance of an immune response
+involves a metabolic cost to the organism. this phenom-
+enon is most apparent when the immune response is
+always on. in arabidopsis, mutations that constitutively
+activate systemic acquired resistance (sar) result
+in
+much smaller plants that have reduced ﬁtness (heidel
+et al., 2004). in humans, a chronic inﬂammatory response
+results in metabolic adaptations to produce acute-phase
+proteins at the expense of skeletal muscle (kotler, 2000).
+hence, organisms need to ﬁnd a balance between using
+available energy resources and mounting an adequate
+immune response. in drosophila, the fat body serves both
+as the primary nutrient responsive tissue and as the
+primary site for amp production. the requirement for ird1
+for starvation-induced amp responses and the functional
+studies of its yeast and mammalian homologues indicate
+that it is positioned in a nutrient-sensing pathway. our
+vps15 homologue important for drosophila immunity 1081
+ﬁnding that ird1 is also necessary to activate the imd
+pathway and to keep the toll pathway in check indicates
+that ird1 can affect both the known amp immune signal-
+ling pathways. having a gene, ird1, necessary for both
+nutrient sensing and immune signalling would provide a
+means for the organism to quickly integrate signals from
+these pathways and modulate the strength of its immune
+response relative to the available energy sources. in the
+future, it will be important to determine if other compo-
+nents of nutrient sensing pathways can also inﬂuence the
+immune signalling pathways, and whether the mamma-
+lian homologue of ird1, p150, can affect nfkb immune
+signalling pathways.
+experimental procedures
+drosophila genetics
+further
+localized the ird1 map position. all
+l(3)s131505,
+l(3)s089904,
+l(3)s093614,
+l(3)s129309,
+l(3)s042008,
+l(3)s144802,
+meiotic recombination was used to map ird1 between the visible
+markers pink and blistery. mapping relative to deﬁciencies in the
+region (df p-xt103, df p-xt26, df p712, df by10, df by416, df
+ird1 was in the 85c1;85d8 interval not
+by62) indicated that
+uncovered by deﬁciencies at
+the time. male recombination
+mapping relative to 25 p-elements in the 85c;85d region
+l(3)s932812,
+[l(3)s048606,
+l(3)s049205,
+l(3)s097115,
+l(3)s049906,
+l(3)s054507,
+l(3)s138006, ep473, ep501, ep643, ep802,
+l(3)s059705,
+ep3198, ep3260, ep3396, ep3737, kg5749, kg7310,
+kg7752]
+the
+p-elements were tested for complementation of ird1 phenotypes.
+all the lethal p-elements complemented the ird1 lethality. all the
+non-lethal p-elements complemented the ird1 diptericin-lacz
+defect. plasmid rescue or inverse pcr was used to map the
+p-element insertion sites to genomic sequence (huang et al.,
+2000), if the ﬂanking sequence was not known or posted by the
+berkeley drosophila genome project. concurrent with the
+mapping,
+the following genes in the region (relish, nmdmc,
+mst85c, cg11033, cg11994, cg18005, cg11990, d1,
+cg9746) were sequenced in the ird1 alleles to determine
+whether they might be candidates for ird1. in subsequent genetic
+screens for mutations that fail to complement the lethality of ird1,
+ethylmethane sulfonate mutagenesis was used to recover the
+ird13, ird14, ird15 and ird16 alleles and hexamethylphosphoramide
+mutagenesis was used to recover ird17. for epistasis analyses,
+double mutants were generated by standard genetic crosses.
+immune assays
+l3 larvae were placed with ﬁlter paper moistened with 1%
+sucrose in a sylgard-coated well of a 24-well plate. an overnight
+e. coli culture was resuspended in phosphate-buffered saline
+(pbs) and injected into the larvae using a microinjection needle
+and holder attached to a syringe as described previously (wu
+et al., 2001). for the diptericin-lacz assays, 2.5 h after e. coli
+infection, larvae were dissected in 1% glutaraldehyde in pbs and
+stained with b-galactosidase stain solution {0.2% x-gal in 0.01 m
+sodium phosphate buffer, ph 7.2, 0.15 m nacl, 1 mm mgcl2,
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 1073–1085
+1082 j. wu, k. e. randle and l. p. wu
+3.1 mm k4[feii(cn)6], 3.1 mm k3[feiii(cn)6], 0.3% triton x-100}
+at 37°c overnight.
+amino acid starvation
+the amino acid starvation was essentially performed as
+described (scott et al., 2004). ten to 20 l3 larvae were placed
+in vials with fresh yeast paste for 24 h to ensure they were well
+fed before starvation. for starvation,
+larvae were placed in
+the sylgard-coated wells of a 24-well tissue culture dish, with
+whatman ﬁlter paper soaked with 20% sucrose for 3 h. for the
+reverse transcription and quantitative pcr, total rna was made
+from either well-fed or starved larvae.
+reverse transcription and quantitative real-time pcr
+rna was isolated from l3 larvae by homogenizing larvae in
+stat-60 buffer according to the manufacturer’s protocol (isotex
+diagnostics). the rna was digested with rnase-free dnase,
+then subjected to reverse transcription using superscript ii (invit-
+rogen) and quantitative real-time pcr using either lux probes
+(invitrogen) on an abi 5700 following manufacturers’ protocols.
+probe sequences are available upon request. amp gene expres-
+sion was normalized to rp49 levels. the different experiments
+are normalized with the or+ (infected) expression set at 100% or
+or uninfected set at 1. experiments were performed in triplicate
+and error bars show standard deviation. one-tail t-tests were
+used to assess signiﬁcant differences between samples with
+p-values < 0.05 deemed signiﬁcant.
+survival curves
+the larvae were grown on ﬂy food, then either injected immedi-
+ately with bacteria, or ﬁrst well fed with excess yeast for 24 h and
+subsequently starved for 3 h in a 2% sucrose solution. for each
+experiment 20 l3 larvae were injected using a pneumatic
+picopump (wpi) with either pbs or a 10% washed mid-log
+culture of either m. luteus or e. coli in pbs. the experiment was
+performed in triplicate. larvae were placed on apple juice agar
+plates to assess survival for 6 h following injection. log-rank
+analyses were used to assess differences in survival curves and
+p-values < 0.05 were deemed signiﬁcant.
+generation of ird1 transgenic rescue ﬂies
+the ird1 cdna was reconstructed from three fragments; the 5′
+end was reverse transcribed from wild-type rna in two fragments
+(0.7 kb, 0.9 kb) and ligated to a cdna gh20665 (2.4 kb) repre-
+senting the 3′ end and inserted into puast, a transformation
+vector (brand and perrimon, 1993). transgenic ﬂies expressing
+the uas-ird1 were generated using p-element-mediated trans-
+formation and the insertions were mapped to chromosomes
+using standard drosophila crosses. uas-ird1 insertions on the
+second chromosome were crossed into lines carrying either the
+ird12 or ird15 mutation. the c564 gal4 driver expressing gal4 in
+various immune tissues (fat body and/or lymph glands and other
+tissues) (harrison et al., 1995) was crossed into either the ird12 or
+ird15 genetic background so that these lines could be crossed to
+the uas-ird1; ird1 lines to generate ﬂies expressing uas-ird1/
+gal4 driver; ird12/ird15. the p[w+uas-ird1 pa10-68] insertion
+line in the absence of a gal4 driver resulted in sufficient expres-
+sion of the transgene for rescue of the ird1 phenotypes so this
+was used for the rescue experiments.
+acknowledgements
+we thank k.v. anderson for her support during the early stages
+of this work and for generating four of the ird1 alleles; m. nan-
+dakumar for help in the screen for more ird1 alleles; r. scott and
+t. neufeld for advice on the starvation protocols; b. lemaitre, d.
+ferrandon, bdgp, h. bellen lab, exelixis, and the bloomington
+and szeged drosophila stock centers for drosophila stocks; the
+duke university model systems genomics unit for transforma-
+tion services; d. schneider, s. wasserman and n. silverman for
+helpful discussions; and e. baehrecke, l. pick, s. mount and wu
+lab members for helpful comments on the manuscript. the work
+was supported by start-up funds from umbi and nih gm62316.
+references
+belvin, m.p., jin, y., and anderson, k.v. (1995) cactus
+protein degradation mediates drosophila dorsal-ventral
+signaling. genes dev 9: 783–793.
+bergmann, a., stein, d., geisler, r., hagenmaier, s.,
+schmid, b., fernandez, n., et al. (1996) a gradient of cyto-
+plasmic cactus degradation establishes the nuclear local-
+ization gradient of the dorsal morphogen in drosophila.
+mech dev 60: 109–123.
+boman, h.g.
+(2000)
+innate immunity and the normal
+microﬂora. immunol rev 173: 5–16.
+brand, a.h., and perrimon, n. (1993) targeted gene expres-
+sion as a means of altering cell fates and generating domi-
+nant phenotypes. development 118: 401–415.
+britton, j.s., lockwood, w.k., li, l., cohen, s.m., and edgar,
+b.a. (2002) drosophila’s insulin/pi3-kinase pathway coor-
+dinates cellular metabolism with nutritional conditions. dev
+cell 2: 239–249.
+chan, j., tian, y., tanaka, k.e., tsang, m.s., yu, k.,
+salgame, p., et al. (1996) effects of protein calorie malnu-
+trition on tuberculosis in mice. proc natl acad sci usa 93:
+14857–14861.
+chandra, r.k. (1996) nutrition, immunity and infection: from
+basic knowledge of dietary manipulation of
+immune
+responses to practical application of ameliorating suffering
+and improving survival. proc natl acad sci usa 93:
+14304–14307.
+charatsi,
+i., luschnig, s., bartoszewski, s., nusslein-
+volhard, c., and moussian, b. (2003) krapfen/dmyd88 is
+required for the establishment of dorsoventral pattern in the
+drosophila embryo. mech dev 120: 219–226.
+choe, k.m., werner, t., stoven, s., hultmark, d., and ander-
+son, k.v. (2002) requirement for a peptidoglycan recog-
+nition protein (pgrp) in relish activation and antibacterial
+immune responses in drosophila. science 296: 359–
+362.
+de gregorio, e., spellman, p.t., tzou, p., rubin, g.m., and
+lemaitre, b. (2002) the toll and imd pathways are the
+major regulators of the immune response in drosophila.
+embo j 21: 2568–2579.
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 1073–1085
+demas, g.e., chefer, v., talan, m.i., and nelson, r.j. (1997)
+metabolic costs of mounting an antigen-stimulated immune
+response in adult and aged c57bl/6j mice. am j physiol
+273: r1631–r1637.
+faggioni, r., moser, a., feingold, k.r., and grunfeld, c.
+(2000) reduced leptin levels in starvation increase sus-
+ceptibility to endotoxic shock. am j pathol 156: 1781–
+1787.
+fratti, r.a., backer, j.m., gruenberg, j., corvera, s., and
+deretic, v. (2001) role of phosphatidylinositol 3-kinase
+and rab5 effectors in phagosomal biogenesis and myco-
+bacterial phagosome maturation arrest. j cell biol 154:
+631–644.
+frauwirth, k.a., riley, j.l., harris, m.h., parry, r.v., rath-
+mell, j.c., plas, d.r., et al. (2002) the cd28 signaling
+pathway regulates glucose metabolism. immunity 16: 769–
+777.
+futter, c.e., collinson, l.m., backer, j.m., and hopkins, c.r.
+(2001) human vps34 is required for internal vesicle for-
+mation within multivesicular endosomes. j cell biol 155:
+1251–1264.
+georgel, p., naitza, s., kappler, c., ferrandon, d., zachary,
+d., swimmer, c., et al. (2001) drosophila immune deﬁ-
+ciency (imd) is a death domain protein that activates anti-
+bacterial defense and can promote apoptosis. dev cell 1:
+503–514.
+gobert, v., gottar, m., matskevich, a.a., rutschmann, s.,
+royet, j., belvin, m., et al. (2003) dual activation of the
+drosophila toll pathway by two pattern recognition
+receptors. science 302: 2126–2130.
+gordon, m.d., dionne, m.s., schneider, d.s., and nusse, r.
+(2005) wntd is a feedback inhibitor of dorsal/nf-kappab
+in drosophila development and immunity. nature 437:
+746–749.
+gottar, m., gobert, v., michel, t., belvin, m., duyk, g., hoff-
+mann, j.a., et al. (2002) the drosophila immune response
+against gram-negative bacteria is mediated by a pepti-
+doglycan recognition protein. nature 416: 640–644.
+grosshans, j., bergmann, a., haffter, p., and nusslein-
+volhard, c. (1994) activation of the kinase pelle by tube in
+the dorsoventral signal transduction pathway of drosophila
+embryo. nature 372: 563–566.
+harrison, d.a., binari, r., nahreini, t.s., gilman, m., and
+perrimon, n. (1995) activation of a drosophila janus
+kinase (jak) causes hematopoietic neoplasia and devel-
+opmental defects. embo j 14: 2857–2865.
+hedengren, m., asling, b., dushay, m.s., ando, i., ekengren,
+s., wihlborg, m., and hultmark, d. (1999) relish, a central
+factor in the control of humoral but not cellular immunity in
+drosophila. mol cell 4: 827–837.
+heidel, a.j., clarke, j.d., antonovics, j., and dong, x. (2004)
+fitness costs of mutations affecting the systemic acquired
+resistance pathway in arabidopsis thaliana. genetics 168:
+2197–2206.
+herman, p.k., stack, j.h., demodena, j.a., and emr, s.d.
+(1991) a novel protein kinase homolog essential for protein
+sorting to the yeast lysosome-like vacuole. cell 64: 425–
+437.
+hoffmann, j.a. (2003) the immune response of drosophila.
+nature 426: 33–38.
+hu, x., yagi, y., tanji, t., zhou, s., and ip, y.t. (2004)
+vps15 homologue important for drosophila immunity 1083
+multimerization and interaction of toll and spatzle in
+drosophila. proc natl acad sci usa 101: 9369–9374.
+huang, a.m., rehm, e.j., and rubin, g.m. (2000) recovery
+of dna sequences ﬂanking p-element insertions: inverse
+pcr and plasmid rescue. in drosophila protocols. sulli-
+van, w., ashburner, m., and hawley, r.s. (eds). cold
+spring harbor, ny: cold spring harbor laboratory press,
+pp. 420–437.
+kaneko, t., goldman, w.e., mellroth, p., steiner, h., fukase,
+k., kusumoto, s., et al. (2004) monomeric and polymeric
+gram-negative peptidoglycan but not puriﬁed lps stimu-
+late the drosophila imd pathway. immunity 20: 637–649.
+kotler, d.p. (2000) cachexia. ann intern med 133: 622–634.
+landis, g.n., abdueva, d., skvortsov, d., yang, j., rabin,
+b.e., carrick, j., et al. (2004) similar gene expression pat-
+terns characterize aging and oxidative stress in drosophila
+melanogaster. proc natl acad sci usa 101: 7663–7668.
+lee, c.y., clough, e.a., yellon, p., teslovich, t.m., stephan,
+d.a., and baehrecke, e.h. (2003) genome-wide analyses
+of steroid- and radiation-triggered programmed cell death
+in drosophila. curr biol 13: 350–357.
+lemaitre, b., meister, m., govind, s., georgel, p., steward,
+r., reichhart, j.m., and hoffmann, j.a. (1995) functional
+analysis and regulation of nuclear import of dorsal during
+the immune response in drosophila. embo j 14: 536–
+545.
+lemaitre, b., nicolas, e., michaut, l., reichhart, j.m., and
+hoffmann, j.a. (1996) the dorsoventral regulatory gene
+cassette spatzle/toll/cactus controls the potent antifungal
+response in drosophila adults. cell 86: 973–983.
+lemaitre, b., reichhart, j.m., and hoffmann, j.a. (1997)
+drosophila host defense: differential induction of antimicro-
+bial peptide genes after infection by various classes of
+microorganisms. proc natl acad sci usa 94: 14614–
+14619.
+letsou, a., alexander, s., orth, k., and wasserman, s.a.
+(1991) genetic and molecular characterization of tube, a
+drosophila gene maternally required for embryonic dors-
+oventral polarity. proc natl acad sci usa 88: 810–814.
+leulier, f., parquet, c., pili-floury, s., ryu, j.h., caroff, m.,
+lee, w.j., et al. (2003) the drosophila immune system
+detects
+peptidoglycan
+recognition. nat immunol 4: 478–484.
+bacteria
+through
+speciﬁc
+levashina, e.a., langley, e., green, c., gubb, d., ash-
+burner, m., hoffmann, j.a., and reichhart, j.m. (1999)
+constitutive activation of toll-mediated antifungal defense
+in serpin-deﬁcient drosophila. science 285: 1917–1919.
+ligoxygakis, p., pelte, n., hoffmann, j.a., and reichhart,
+j.m. (2002) activation of drosophila toll during fungal
+infection by a blood serine protease. science 297: 114–
+116.
+lochmiller, r.l., and deerenberg, c. (2000) trade-offs in
+evolutionary immunology: just what is the cost of immu-
+nity? oikos 88: 87–98.
+lu, y., wu, l.p., and anderson, k.v. (2001) the antibacterial
+arm of the drosophila innate immune response requires an
+ikappab kinase. genes dev 15: 104–110.
+matarese, g., and la cava, a. (2004) the intricate interface
+between immune system and metabolism. trends immunol
+25: 193–200.
+meng, x., khanuja, b.s., and ip, y.t. (1999) toll receptor-
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 1073–1085
+1084 j. wu, k. e. randle and l. p. wu
+mediated drosophila immune response requires dif, an
+nf-kappab factor. genes dev 13: 792–797.
+oldham, s., montagne, j., radimerski, t., thomas, g., and
+hafen, e. (2000) genetic and biochemical characterization
+of dtor,
+the target of
+rapamycin. genes dev 14: 2689–2694.
+the drosophila homolog of
+park, j.m., brady, h., ruocco, m.g., sun, h., williams, d.,
+lee, s.j., et al. (2004) targeting of tak1 by the nf-kappa
+b protein relish regulates the jnk-mediated immune
+response in drosophila. genes dev 18: 584–594.
+petiot, a., ogier-denis, e., blommaart, e.f., meijer, a.j., and
+codogno, p. (2000) distinct classes of phosphatidylinositol
+3′-kinases are involved in signaling pathways that control
+macroautophagy in ht-29 cells. j biol chem 275: 992–
+998.
+pletcher, s.d., macdonald, s.j., marguerie, r., certa, u.,
+stearns, s.c., goldstein, d.b., and partridge, l. (2002)
+genome-wide transcript proﬁles in aging and calorically
+restricted drosophila melanogaster. curr biol 12: 712–723.
+reach, m., galindo, r.l., towb, p., allen, j.l., karin, m., and
+wasserman, s.a. (1996) a gradient of cactus protein deg-
+radation establishes dorsoventral polarity in the drosophila
+embryo. dev biol 180: 353–364.
+rutschmann, s., jung, a.c., zhou, r., silverman, n., hoff-
+mann, j.a., and ferrandon, d. (2000a) role of drosophila
+ikk gamma in a toll-independent antibacterial
+immune
+response. nat immunol 1: 342–347.
+rutschmann, s., jung, a.c., hetru, c., reichhart, j.m., hoff-
+mann, j.a., and ferrandon, d. (2000b) the rel protein dif
+mediates the antifungal but not
+the antibacterial host
+defense in drosophila. immunity 12: 569–580.
+scott, r.c., schuldiner, o., and neufeld, t.p. (2004) role
+and regulation of starvation-induced autophagy in the
+drosophila fat body. dev cell 7: 167–178.
+shelton, c.a., and wasserman, s.a. (1993) pelle encodes a
+protein kinase required to establish dorsoventral polarity in
+the drosophila embryo. cell 72: 515–525.
+silverman, n., zhou, r., stoven, s., pandey, n., hultmark,
+d., and maniatis, t. (2000) a drosophila ikappab kinase
+complex required for relish cleavage and antibacterial
+immunity. genes dev 14: 2461–2471.
+silverman, n., zhou, r., erlich, r.l., hunter, m., bernstein,
+e., schneider, d., and maniatis, t. (2003) immune activa-
+tion of nf-kappab and jnk requires drosophila tak1.
+j biol chem 278: 48928–48934.
+stack, j.h., dewald, d.b., takegawa, k., and emr, s.d.
+(1995) vesicle-mediated protein transport: regulatory inter-
+actions between the vps15 protein kinase and the vps34
+ptdins 3-kinase essential for protein sorting to the vacuole
+in yeast. j cell biol 129: 321–334.
+stoven, s., silverman, n., junell, a., hedengren-olcott, m.,
+erturk, d., engstrom, y., et al. (2003) caspase-mediated
+the drosophila nf-kappab factor relish.
+processing of
+proc natl acad sci usa 100: 5991–5996.
+takehana, a., katsuyama, t., yano, t., oshima, y., takada,
+h., aigaki, t., and kurata, s. (2002) overexpression of a
+pattern-recognition receptor, peptidoglycan-recognition
+protein-le, activates imd/relish-mediated antibacterial
+defense and the prophenoloxidase cascade in drosophila
+larvae. proc natl acad sci usa 99: 13705–13710.
+takehana, a., yano, t., mita, s., kotani, a., oshima, y., and
+kurata, s.
+(2004) peptidoglycan recognition protein
+(pgrp)-le and pgrp-lc act synergistically in drosophila
+immunity. embo j 23: 4690–4700.
+tauszig-delamasure, s., bilak, h., capovilla, m., hoffmann,
+j.a., and imler, j.l. (2002) drosophila myd88 is required
+for the response to fungal and gram-positive bacterial
+infections. nat immunol 3: 91–97.
+tzou, p., reichhart, j.m., and lemaitre, b. (2002) constitu-
+tive expression of a single antimicrobial peptide can restore
+wild-type resistance to infection in immunodeﬁcient droso-
+phila mutants. proc natl acad sci usa 99: 2152–2157.
+vidal, s., khush, r.s., leulier, f., tzou, p., nakamura, m.,
+and lemaitre, b. (2001) mutations in the drosophila dtak1
+gene reveal a conserved function for mapkkks in the
+control of
+rel/nf-kappab-dependent
+innate immune
+responses. genes dev 15: 1900–1912.
+vieira, o.v., botelho, r.j., rameh, l., brachmann, s.m.,
+matsuo, t., davidson, h.w., et al. (2001) distinct roles of
+class i and class iii phosphatidylinositol 3-kinases in
+phagosome formation and maturation. j cell biol 155:
+19–25.
+weber, a.n., tauszig-delamasure, s., hoffmann, j.a.,
+lelievre, e., gascan, h., ray, k.p., et al. (2003) binding of
+the drosophila cytokine spatzle to toll is direct and estab-
+lishes signaling. nat immunol 4: 794–800.
+wu, l.p., and anderson, k.v. (1998) regulated nuclear
+import of rel proteins in the drosophila immune response.
+nature 392: 93–97.
+wu, l.p., choe, k.m., lu, y., and anderson, k.v. (2001)
+drosophila immunity: genes on the third chromosome
+required for the response to bacterial infection. genetics
+159: 189–199.
+zambon, r.a., nandakumar, m., vakharia, v.n., and wu,
+l.p. (2005) the toll pathway is important for an antiviral
+response in drosophila. proc natl acad sci usa 102:
+7257–7262.
+zhang, h., stallock, j.p., ng, j.c., reinhard, c., and neufeld,
+t.p. (2000) regulation of cellular growth by the drosophila
+target of rapamycin dtor. genes dev 14: 2712–2724.
+zinke, i., schutz, c.s., katzenberger, j.d., bauer, m., and
+pankratz, m.j. (2002) nutrient control of gene expression
+in drosophila: microarray analysis of starvation and sugar-
+dependent response. embo j 21: 6162–6173.
+supplementary material
+the following supplementary material is available for this article
+online:
+fig. s1. sequence alignment of
+ird1 with homologues from
+other species. the ird1/vps15 gene is highly conserved through
+evolution and has been identiﬁed in most eukaryotic genomes to
+date. the consensus is shown on the bottom line with the kinase
+region underlined and the wd40 repeat region underlined with a
+wavy line. mutations identiﬁed in ird1 alleles are noted above the
+aligned sequence. the alignment was performed using multalin
+and the editing and shading was performed using boxshade.
+some of the ird1 homologues that show intervening sequences in
+highly homologous regions may be misannotated introns. ag:
+anopheles gambiae xp_310476.1, 49% identity; hs-p150: homo
+sapiens p150 np_055417.1, 40%; rn-p150: rattus norvegicus
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 1073–1085
+tetraodon
+caenorhabditis
+tn:
+39%;
+ce-p150:
+xp_343467.1,
+46%;
+nigroviridis
+p150
+elegans
+caf89815.1,
+np_496542.1, 31%; cb: caenorhabditis briggsae cae59392.1,
+30%; gz: gibberella zeae xp_385482.1, 32%; nc: neurospora
+crassa xp_326481.1,
+fumigatus
+cad37153.1, 32%; an: aspergillus nidulans eaa66675.1, 34%;
+um: ustilago maydis eak81775.1, 41%; sp: schizosaccharomy-
+ces pombe np_595288.1, 42%; pp-vps15: pichia pastoris
+33%; af: aspergillus
+vps15 homologue important for drosophila immunity 1085
+vps15 cab59206.1, 33%; sc-vps15p: saccharomyces cerevi-
+siae vps15p np_009655.1, 31%; eg: eremothecium gossypii
+np_983780.1, 26%; at: arabidopsis thaliana np_194667.1,
+42%; os: oryza sativa (japonica) bad19085.1, 34%.
+this material is available as part of the online article from http://
+www.blackwell-synergy.com
+© 2006 the authors
+journal compilation © 2006 blackwell publishing ltd, cellular microbiology, 9, 1073–1085

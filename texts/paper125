@@ -1,0 +1,2176 @@
+oncogene (2006) 25, 6304–6318
+& 2006 nature publishing group all rights reserved 0950-9232/06 $30.00
+www.nature.com/onc
+original article
+7-bromoindirubin-30-oxime induces caspase-independent cell death
+j ribas1,2,6, k bettayeb1,6, y ferandin1, m knockaert1, x garrofe´ -ochoa2, f totzke3,
+c scha¨ chtele3, j mester4, p polychronopoulos5, p magiatis5, a-l skaltsounis5, j boix2 and l meijer1
+1c.n.r.s., cell cycle group and ups2682, station biologique, bretagne, france; 2molecular pharmacology laboratory, dcmb,
+school of medicine, university of lleida, lleida, catalunya, spain; 3proqinase gmbh, freiburg, germany; 4inserm u 482, 184,
+rue du faubourg saint antoine, paris cedex, france and 5department of pharmacy, division of pharmacognosy and natural
+products chemistry, university of athens, panepistimiopolis zografou, athens, greece
+induces
+indirubin, an isomer of indigo, is a reported inhibitor of
+cyclin-dependent kinases (cdks) and glycogen synthase
+kinase-3 (gsk-3) as well as an agonist of the aryl
+hydrocarbon receptor (ahr). indirubin is the active
+ingredient of a traditional chinese medicinal recipe used
+against chronic myelocytic leukemia. numerous indirubin
+analogs have been synthesized to optimize this promising
+kinase inhibitor scaffold. we report here on the cellular
+effects of 7-bromoindirubin-30-oxime (7bio). in contrast
+to its 5-bromo- and 6-bromo- isomers, and to indirubin-30-
+oxime, 7bio has only a marginal
+inhibitory activity
+towards cdks and gsk-3. unexpectedly, 7bio triggers
+from apoptosis.
+a rapid cell death process distinct
+7-bromoindirubin-30-oxime
+the
+appearance
+of large pycnotic nuclei, without classical features of
+apoptosis such as chromatin condensation and nuclear
+fragmentation. 7-bromoindirubin-30-oxime-induced cell
+death is not accompanied by cytochrome c release
+neither by any measurable effector caspase activation.
+furthermore, the death process is not altered either by
+the presence of q-vd-oph, a broad-spectrum caspase
+inhibitor, or the overexpression of bcl-2 and bcl-xl
+proteins. neither ahr nor p53 is required during 7bio-
+induced cell death. thus,
+to previously
+described indirubins, 7bio triggers the activation of
+non-apoptotic cell death, possibly through necroptosis or
+autophagy. although their molecular targets remain to be
+identiﬁed, 7-substituted indirubins may constitute a new
+class of potential antitumor compounds that would retain
+their activity in cells refractory to apoptosis.
+oncogene (2006) 25, 6304–6318. doi:10.1038/sj.onc.1209648;
+published online 15 may 2006
+in contrast
+keywords: indirubin;
+autophagy; caspase; cancer
+protein
+kinase;
+cell
+death;
+correspondence: dr l meijer, c.n.r.s., cell cycle group and
+ups2682, station biologique, b.p. 74, 29682 roscoff cedex, bretagne,
+france.
+e-mail: meijer@sb-roscoff.fr
+6these two authors contributed equally to this work.
+received 7 december 2005; revised 27 march 2006; accepted 27 march
+2006; published online 15 may 2006
+cellular
+introduction
+in man, 518þ protein kinases and 80þ protein
+phosphatases control the phosphorylation of enzymes
+and structural proteins. phosphorylation/dephosphory-
+lation constitutes one of the most common yet complex
+post-translational
+regulatory mechanism.
+abnormal phosphorylation on speciﬁc proteins
+is
+observed in essentially all pathologies and this has
+stimulated an extraordinary interest in small molecular
+weight inhibitors of kinases and phosphatases. protein
+kinases now constitute the second class of targets (after
+g-protein-coupled receptors) used in the drug screening
+efforts of
+in
+cohen, 2002; fischer, 2004; weinmann and metternich,
+2005). these efforts have received considerable support
+from the remarkable success story of gleevec, one
+of the ﬁrst commercial kinase inhibitors. currently,
+55 kinase inhibitors are under clinical evaluation
+against diseases such as cancers, inﬂammation, diabetes,
+neurodegeneration, etc.
+the pharmaceutical
+industry (reviews
+cyclin-dependent kinases
+(cdks) play essential
+functions all along the cell cycle and there are multiple
+examples of dysfunctions of cdks and their regulators
+in cancer (vermeulen et al., 2003). furthermore, cdks
+are involved in various neurodegenerative diseases such
+as alzheimer’s, parkinson’s and nieman-pick’s diseases,
+ischemia and traumatic brain injury. a few academic
+groups, and most pharmaceutical companies, have thus
+invested in the search for pharmacological inhibitors
+of cdks (reviews in knockaert et al., 2002; fischer
+et al., 2003; benson et al., 2005; fischer and gianella-
+borradori, 2005). optimization of such inhibitors has
+been efﬁciently assisted by their co-crystallization with
+cdk2 (noble et al., 2004), cdk5 (mapelli et al., 2005)
+and cdk6 (lu et al., 2005).
+the bis-indole alkaloid indirubin and its analogs
+(collectively referred to as indirubins) were among some
+of the early cdk inhibitors to be discovered (hoessel
+et al., 1999). the red/purple indirubin is an isomer of the
+blue indigo. both are derived from the spontaneous,
+non-enzymatic dimerization of isatin and indoxyl, two
+precursors found either free or conjugated to carbohy-
+drates in natural sources. indirubins can indeed be
+extracted from various indigo dye-producing plants
+(200þ species) (balfour-paul, 1998). they are also
+present in the historic ‘tyrean purple’ dye extracted
+from various muricidae mollusks (15þ species) (meijer
+et al., 2003; review in cooksey, 2001). they are also
+extracted from various wild-type and recombinant
+bacteria (guengerich et al., 2004; wu et al., 2005 and
+references therein). finally,
+indirubin and indigo are
+occasionally present in human urine (adachi et al., 2001
+and references therein). interestingly, indirubin is the
+active ingredient of a traditional chinese medicine
+recipe, danggui longhui wan, used to treat various
+diseases including chronic myelocytic leukemia (review
+in xiao et al., 2002). besides cdks, indirubins were
+found to target glycogen synthase kinase-3 (gsk-3)
+(leclerc et al., 2001), glycogen phosphorylase b (kos-
+mopoulou et al., 2004) and the aryl hydrocarbon
+receptor (ahr), also known as the dioxin receptor
+(adachi et al., 2001; kawanishi et al., 2003). aryl
+hydrocarbon receptor mediates the effects of many
+xenobiotics such as dioxin and indole-containing com-
+pounds (review in denison and nagy, 2003). upon
+binding to xenobiotic-responsive element, activated
+ahr induces the transcription of numerous genes,
+including cytochrome p450 cyp1a1, p27kip1, myristoyl-
+transferase, etc. (review in elferink, 2003). evidence
+suggests that the antiproliferative effects of indirubins
+derive from their ability to inhibit cdks (damiens
+et al., 2001; marko et al., 2001). however, interaction
+induction of p27kip1
+with ahr and the subsequent
+contributes to a marked arrest
+in g1 (knockaert
+et al., 2004). finally it has been recently shown that
+some indirubins prevent
+the phosphorylation and
+subsequent activation of the transcription factor signal
+transducers and activators of transcription (stat3),
+leading to a downregulation of survival factors such as
+antitumor activity of 7-bromoindirubin-30-oxime
+j ribas et al
+survivin and mcl-1, and subsequent induction of cell
+death (nam et al., 2005).
+6305
+insigniﬁcant
+in this article, we report on a new subfamily of
+indirubins, substituted on position 7. unexpectedly,
+despite weak or
+activity
+on various classical kinase targets of
+indirubins,
+7-bromoindirubin-30-oxime potently induces a rapid cell
+death distinct from classical apoptosis. the possible
+mechanisms of action of 7-substituted indirubins and
+their potential as antitumor agents will be discussed.
+inhibitory
+results
+(io)
+different bromoindirubins display different selectivities
+for kinases
+in a previous study, we observed that a bromine
+substitution of indirubins on position 6 led to com-
+pounds with increased selectivity towards gsk-3
+(meijer et al., 2003; polychronopoulos et al., 2004).
+we further extended this work by synthesizing and
+comparing indirubin-30-oxime
+and 5-bromo-
+(5bio), 6-bromo-(6bio) or 7-bromoindirubin-30-oxime
+(7bio) (table 1). surprisingly, compared to io, 5bio
+and 6bio, 7bio displayed very weak inhibitory activity
+towards our routine screening kinase targets, gsk-3,
+cdk1/cyclin b, cdk5/p25. replacement of the bro-
+mine substituent by chlorine (7-chloroindirubin-30-
+iodine (7-iodoindirubin-30-oxime
+oxime (7cio)) or
+(7iio)) did not
+the 7-
+halogeno-indirubin-30oximes, whereas substitution with
+ﬂuorine (7-ﬂuoroindirubin-30-oxime (7fio)) enhanced
+the kinase inhibitory potency (table 1). finally,
+substitution of 7bio on n1 with a methyl group
+improve the potency of
+table 1 effects of various bromo-substituted indirubins and various 7-halogeno-substituted indirubins on three protein kinases
+ho
+3'
+nh
+nh
+x  y   z
+1  h h h (io)
+2  br h h (5bio)
+3  h br h (6bio)
+4  h h br (7bio)
+5  h h cl  (7cio)
+6  h h i    (7iio)
+7  h h f (7fio)
+ho
+3'
+nh
+8 me7bio
+7 br
+ch3
+no.
+compound
+indirubin-30-oxime (io)
+5-bromoindirubin-30-oxime (5bio)
+6-bromoindirubin-30-oxime (6bio)
+7-bromoindirubin-30-oxime (7bio)
+7-chloroindirubin-30-oxime (7cio)
+7-iodoindirubin-30-oxime (7iio)
+7-ﬂuoroindirubin-30-oxime (7fio)
+1-methyl-7-bromoindirubin-30-oxime (me7bio)
+gsk-3 a/b
+cdk1/cyclin b
+cdk5/p25
+0.022
+0.016
+0.005
+32
+21
+16
+0.270
+>100
+0.180
+0.045
+0.320
+22
+3.7
+66
+1.5
+>100
+0.100
+0.028
+0.083
+33
+77
+0.510
+>100
+abbreviations: cdk, cyclin-dependent kinase; gsk-3, glycogen synthase kinase-3. a series of indirubin analogues were tested at various
+concentrations in the kinase assays, as described in the materials and methods section. ic50 values were calculated from the dose–response curves
+and are reported in mm.
+oncogene
+antitumor activity of 7-bromoindirubin-30-oxime
+j ribas et al
+6306
+table 2 proqinase selectivity proﬁle of io, 5bio, 6bio and 7bio
+gsk3-beta 
+igf1-r 
+ikk-beta 
+kinase 
+aurora-a 
+aurora-b 
+aurora-c 
+fak 
+brk 
+fgr 
+flt3 
+fgf-r1 
+fgf-r3 
+fgf-r4 
+chk1 
+ck2 
+cot 
+csk 
+dapk1 
+egf-r 
+epha1 
+ephb1 
+ephb2 
+ephb3 
+ephb4 
+erbb2 
+erbb4 
+io 
+>100 
+abl1 
+>100 
+akt1 
+akt2 
+>100 
+akt3              n.t. 
+0.20 
+1.4 
+0.57 
+17 
+20 
+2.3 
+2.2 
+0.15 
+0.56 
+0.19 
+35 
+>100 
+n.t.
+>100 
+>100 
+102 
+53 
+56 
+6.1 
+>100 
+8.6 
+>100 
+>100 
+0.99 
+0.74 
+0.38 
+13 
+1.6 
+0.07 
+2.5 
+5.3 
+>100 
+6.6 
+1.8 
+33 
+25 
+4.3 
+41 
+>100 
+73 
+0.21 
+>100 
+>100 
+>100 
+13 
+>100 
+>100 
+>100 
+>100 
+n.t.
+4.0 
+3.4 
+>100 
+n.t.
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+0.18 
+82 
+ins-r 
+irak4 
+jak2 
+jnk3 
+kit 
+lck 
+met 
+mst4 
+musk 
+nek2 
+nek6 
+nlk 
+pak1 
+pak2 
+pak4 
+pbk 
+plk1 
+prk1 
+ret 
+s6k 
+pim1 
+pim2 
+pkc-eta 
+cdk1/cycb 
+cdk2/cyca 
+cdk2/cyce 
+cdk3/cyce 
+cdk4/cycd1 
+cdk6/cycd1 
+pctaire1 
+pctaire2 
+pdgfr-alpha 
+pdgfr-beta 
+pkc-alpha 
+pkc-beta1 
+pkc-beta2 
+pkc-delta 
+pkc-epsilon 
+pkc-gamma
+pkc-iota 
+pkc-mu 
+pkc-theta 
+pkc-zeta 
+5bio      6bio      7bio 
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+n.t. 
+>100 
+55 
+0.23 
+4.7 
+35 
+6.6 
+34 
+33 
+>100 
+2.1 
+>100 
+>100 
+0.46 
+>100 
+0.12 
+>100 
+0.04 
+>100 
+1.33 
+>100 
+0.05 
+>100 
+>100 
+>100 
+>100 
+49 
+n.t.
+>100 
+n.t.
+>100 
+n.t.
+27 
+>100 
+>100 
+44 
+>100 
+n.t.
+33 
+>100 
+28 
+>100 
+10.0 
+>100 
+26 
+>100 
+>100 
+>100 
+78 
+>100 
+36 
+0.83 
+23 
+0.85 
+17 
+65 
+20 
+>100 
+0.02 
+0.34 
+>100 
+0.07 
+26 
+5.6 
+>100 
+>100 
+>100 
+4.3 
+44 
+82 
+>100 
+>100 
+>100 
+n.t.
+58 
+16 
+>100 
+>100 
+>100 
+>100 
+>100 
+n.t.
+>100 
+31 
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+11 
+n.t.
+>100 
+n.t.
+91 
+n.t.
+>100 
+>100 
+>100 
+>100 
+>100 
+n.t.
+47 
+9.5 
+3.4 
+>100 
+>100 
+>100 
+>100 
+n.t.
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+65 
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+96 
+>100 
+>100 
+>100 
+>100 
+>100 
+22 
+2.2 
+>100 
+>100 
+3.4 
+>100 
+>100 
+>100 
+0.43 
+1.5 
+2.3 
+4.6 
+21 
+0.71 
+0.12 
+0.07 
+0.80 
+0.17 
+12 
+>100 
+75 
+n.t.
+n.t.
+9.1 
+38 
+n.t.
+5.0 
+34 
+3.5 
+>100 
+>100 
+12 
+0.43 
+0.42 
+1.2 
+0.09 
+0.20 
+0.21 
+79 
+>100 
+>100 
+4.8 
+>100 
+n.t.
+0.76 
+3.1 
+>100 
+n.t.
+0.50 
+>100 
+>100 
+>100 
+n.t.
+n.t.
+n.t.
+>100 
+>100 
+15 
+0.52 
+0.88 
+91 
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+>100 
+86 
+>100 
+>100 
+70 
+0.05 
+6.1 
+oncogene
+kinase 
+sgk1 
+sgk3 
+snk 
+src 
+syk 
+tie2 
+tsf1 
+tsk2 
+vegf-r1 
+vegf-r2 
+vegf-r3 
+wee1 
+io 
+0.14 
+38 
+>100 
+1.5 
+3.0 
+11 
+0.87 
+>100 
+1.6 
+0.19 
+0.09 
+n.t.
+5bio      6bio      7bio 
+1.6 
+>100 
+>100 
+17 
+>100 
+68 
+13 
+>100 
+1.6 
+0.25 
+0.08 
+n.t.
+n.t. 
+5.8 
+>100 
+0.13 
+6.2 
+13 
+2.9 
+>100 
+3.2 
+0.56 
+0.22 
+>100 
+n.t.
+>100 
+>100 
+27 
+85 
+27 
+3.3 
+>100 
+>100 
+23 
+11 
+>100 
+abbreviations: 5bio, 5-bromoindirubin-30-oxime; 6bio, 6-bromoin-
+dirubin-30-oxime; 7bio, 7-bromoindirubin-30-oxime; cdk, cyclin-
+tested. the
+dependent kinase; io,
+four indirubins were tested at various concentrations in 85 kinase
+assays, as described in the materials and methods section. ic50
+values, calculated from the dose–response curves, are reported
+code:
+in
+indirubin-30-oxime; nt, not
+underlined according
+mm and
+gray
+10 - 100 
+1 - 10 
+ic50 value (µm)
+0.1 - 1 
+> 100 
+< 0.1 
+scale
+to
+(1-methyl-7-bromoindirubin-30-oxime (me7bio)) led to
+a completely inactive compound, as observed previously
+with me6bio (meijer et al., 2003).
+we next investigated the selectivity of io, 5bio, 6bio
+and 7bio in the 85 kinase proqinase selectivity panel
+(table 2) (in contrast to the above-mentioned kinase
+assays performed at a ﬁnal 15 mm atp concentration,
+the proqinase assays are run in the absence of cold
+atp. as indirubins act by competing with atp binding,
+the ic50 values are dependent on the assay atp
+concentration, therefore the values of tables 1 and 2
+cannot be compared directly). this approach ﬁrst
+revealed that aurora a-c, fms-like tyrosine kinase 3
+(flt3), ret constitute new targets of io, 5bio and
+6bio. vascular endothelial growth factor receptor
+(vegf-r) had been previously described as a target
+for indirubins (jautelat et al., 2005). the selectivity
+panel also revealed that, compared to the three other
+indirubins, 7bio is a poor kinase inhibitor. only one
+kinase, flt3, was inhibited by 7bio with an ic50 below
+1 mm (table 2) (15 kinases for io, 11 for 5bio, 19 for
+6bio). 7-br-, 7cl- and 7i-substituted indirubin-30-
+oximes showed a signiﬁcant inhibitory activity towards
+aurora c, a modest activity on aurora b and little
+activity, if any, on aurora a (data not shown), whereas
+7fio appeared to be equipotent on the three aurora
+forms. unexpectedly, me7bio was found to be rather
+active on aurora c, but completely inactive on aurora
+a and b (data not shown). fms-like tyrosine kinase 3
+was found to be sensitive to all eight indirubins tested
+including me7bio. the effects of indirubins on aurora
+kinases and flt3 will be reported in detail elsewhere.
+induction of cell death by indirubins
+we next compared the four indirubins for their ability
+to induce cell death in neuroblastoma sh-sy5y cells
+as measured with an 3-(4,5-dimethylthiazol-2-yl)-5-(3-
+carboxymethoxyphenyl)-2-(4-sulfophenyl)-2h-tetrazolium
+100
+80
+60
+40
+20
+100
+80
+60
+40
+20
+5bio
+6bio 
+7bio 
+io 
+indirubin concentration (µm)
+10
+100
+io 
+5bio 
+6bio 
+7bio 
+10
+indirubin concentration (µm)
+figure 1 effects of indirubin-30-oxime (io), 5-bromoindirubin-30-
+oxime (5bio), 6-bromoindirubin-30-oxime (6bio) and 7-bromoin-
+dirubin-30-oxime (7bio) on the survival of sh-sy5y cells. (a) sh-
+sy5y cells were exposed for 24 h to increasing concentrations
+of io, 5bio, 6bio or 7bio. cell survival was estimated by the 3-(4,5-
+dimethylthiazol-2-yl)-5-(3-carboxymethoxyphenyl)-2-(4-sulfophenyl)-
+2h-tetrazolium reduction assay and is expressed in percentage
+in untreated cells. average7s.e. of at least four
+of survival
+independent experiments with three independent measurements per
+experiment. (b) a similar experience was performed but lactate
+dehydrogenase release was assayed 24 h after the addition of the
+indirubins. average7s.e. of two independent experiments with
+three independent measurements per experiment.
+(mts) reduction assay (figure 1a). as mts reduction is
+occasionally observed under conditions different from
+cell death, we used an independent cell death assay, the
+lactate dehydrogenase (ldh) release assay (figure 1b).
+dose–response curves showed that 7bio is the most
+potent compound in terms of concentration required to
+reduce cell survival (mts reduction) (figure 1a) or to
+induce cell death (ldh release) (figure 1b). however,
+7bio’s efﬁcacy was sensitive to the concentration of
+serum, suggesting that it binds to serum proteins (data
+not shown). different halogens were introduced in
+position 7 of indirubin-30-oxime (figure 2, table 1).
+7-fluoroindirubin-30-oxime was poorly
+active on
+cells compared to the equipotent 7bio and 7cio.
+7-iodoindirubin-30-oxime was the most potent com-
+pound (figure 2a). these results did not correlate with
+those obtained in the in vitro kinase assays (table 1).
+totally
+methylation on n1,
+leading to me7bio,
+antitumor activity of 7-bromoindirubin-30-oxime
+j ribas et al
+6307
+100
+80
+60
+40
+20
+100
+80
+60
+40
+20
+7fio 
+7iio 
+7clio 
+7bio 
+10
+indirubin concentration (µm)
+me7bio 
+7bio 
+10
+indirubin concentration (µm)
+figure 2 effects of various 7-halogenoindirubin-30oxime (a) and
+1-methyl-7-bromoindirubin-30oxime (b) on the survival of sh-
+sy5y cells. sh-sy5y cells were exposed for 48 h to increasing
+concentrations of 7-chloro-, 7-iodo-, 7-bromo-, or 7-ﬂuoroindir-
+ubin-30oxime (7cio, 7iio, 7bio, 7fio, respectively)
+(a) or
+1-methyl-7-bromoindirubin-30oxime or 7bio (b). cell survival
+was estimated by the 3-(4,5-dimethylthiazol-2-yl)-5-(3-carboxy-
+methoxyphenyl)-2-(4-sulfophenyl)-2h-tetrazolium reduction assay
+and is expressed in % of survival in untreated cells. average7s.e.
+of three determinations.
+abolished the cell death-inducing ability of 7bio
+(figure 2b). as 7bio was a poor inhibitor of kinases
+and yet a potent cell death inducer, we decided to
+investigate the effects of this compound in more detail.
+to ascertain that the induction of cell death by 7bio
+was not a speciﬁc property of sh-sy5y cells, we also
+used the breast cancer cell line mda-mb-231 (figure 3).
+a 48-h exposure to 7bio induced a dose-dependent
+inhibition of cell proliferation as evidenced by direct
+counting. this effect was poorly if at all reversible by
+removal of 7bio (figure 3a). we next analysed the
+effects of 7bio on cell cycle distribution (figure 3b).
+a tendency towards accumulation in g2/m and reduc-
+tion of g0/g1 was observed, as described previously for
+other indirubins (hoessel et al., 1999; damiens et al.,
+2001; marko et al., 2001).
+induction of cell death by 7-bromoindirubin-30-oxime does
+not require aryl hydrocarbon receptor
+indirubins interact with ahr (adachi et al., 2001). this
+interaction may contribute to the cellular effects of
+indirubins (knockaert et al., 2004). however, sh-sy5y
+oncogene
+6308
+antitumor activity of 7-bromoindirubin-30-oxime
+j ribas et al
+400
+300
+200
+100
+0 µm
+5 µm
+10 µm
+20 µm
+-24
+24
+48
+72
+96
+time (h)
+50
+40
+30
+20
+10
+g2/m
+g0/g1
+sub g0/g1
+10
+15
+20
+7bio concentration (µm)
+figure 3 effects of 7-bromoindirubin-30-oxime (7bio) on cell
+proliferation and cell cycle distribution in mda-mb-231 cells.
+(a) cells were exposed at time 0 to various concentrations of 7bio
+and cell numbers were determined at various times. at 48 h, the
+culture medium was replaced by fresh medium devoid of 7bio.
+(b) cells were exposed to various concentrations of 7bio for 24 h
+and their distribution in the various cell cycle phases was
+determined by ﬂuorescence-activated cell sorter analysis.
+cells seem to be devoid of ahr (unpublished data). to
+evaluate the contribution of ahr to the cell death
+effects of 7bio, we made use of two hepatoma cell lines,
+5l (ahr þ /þ ) and its ahr-deﬁcient subclone, bp8
+(ahr  / ) (weiss et al., 1996; kolluri et al., 1999;
+knockaert et al., 2004). we ﬁrst conﬁrmed that, like
+2,3,7,8-tetrachlorodibenzo-p-dioxin (tcdd)
+(dioxin),
+both 7bio and me7bio potently enhance the ahr-
+dependent expression of the cdk inhibitory protein
+p27kip1 (figure 4a), as reported previously for io and
+6bio and their methylated counterparts, 1-methyl-
+indirubin-30-oxime (meio) and me6bio (knockaert
+et al., 2004). no correlation is thus observed between
+induction of p27kip1 expression (figure 4a) and induc-
+tion of cell death (figure 2b). we next analysed the
+effects of 7bio and me7bio on cell cycle distribution of
+ahr /  and ahr þ /þ cells. as reported for other
+indirubins, both 7bio and me7bio induced a striking
+ahr-dependent accumulation in g0/g1 (figure 4b).
+finally, cell death induction was estimated in both cell
+lines following exposure to increased 7bio concentra-
+tions. the dose–response curves were essentially the
+same (figure 4c). altogether these results show that
+ahr is not involved in the cell death inducing properties
+of 7bio.
+oncogene
+100
+80
+60
+40
+20
+100
+80
+60
+40
+20
+s o
+5 l
+5 l
+b p 8
+b p 8
+7 b i o
+b p 8
+5 l
+m e7 b i o
+b p 8
+5 l
+p27kip1
+actin
+g0/g1
+g2/m
+bp8
+5l
+control
+bp8
+5l
+dmso
+bp8
+5l
+7bio
+5l bp8
+me7bio
+5l (ahr +/+)
+bp8 (ahr -/-)
+10
+20
+30
+40
+50
+60
+7bio concentration (µm)
+figure 4 the cytotoxic effect of 7-bromoindirubin-30-oxime
+is independent of aryl hydrocarbon receptor (ahr).
+(7bio)
+(a) hepatocyte ahr /  (bp8) and ahrþ /þ (5l) cells were
+treated with 0.1 mm 2,3,7,8-tetrachlorodibenzo-p-dioxin, or 10 mm
+7bio or 1-methyl-7-bromoindirubin-30-oxime (me7bio) for 24 h
+or with the vehicle dimethylsulfoxide (dmso). the expression
+level of p27kip1 was determined by western blotting using a
+speciﬁc antibody. actin western blotting was used as a loading
+control. (b) both 7bio and me7bio induce an ahr-dependent
+accumulation in g0/g1. 5l and bp8 cells were cultured in the
+absence (control) or presence of dmso or 10 mm 7bio or me7bio
+for 24 h, and the cell cycle phase distribution was determined
+by ﬂuorescence-activated cell sorter analysis. (c) both 5l and bp8
+cell lines were exposed for 24 h to increasing concentrations of
+7bio or me7bio. cell survival was estimated by the 3-[4,5]
+dimethylthiazol-2-5-diphenyltetrazolium bromide reduction assay
+and is expressed in % of survival in untreated cells. average7s.e.
+of three determinations.
+7-bromoindirubin-30-oxime-induced cell death involves
+neither p53 nor p21cip1 nor stat3 dephosphorylation
+we next investigated the involvement of p53 and p21cip1
+in cell death induced by the four indirubins (figure 5).
+p53 was strongly induced by 5bio in a time-dependent
+manner in sh-sy5y cells (figure 5a and b). induction
+of p53 was only modest in cells treated with 6bio and
+antitumor activity of 7-bromoindirubin-30 -oxime
+j ribas et al
+6309
+insigniﬁcant in cells treated with io, 7bio or me7bio
+(figure 5a and b). as expected, analysis of p21cip1
+expression under the same conditions showed a timedependent induction by 5bio (figure 5c). p21cip1
+co
+tro
+rin
+po side
+io bio bio e7b taur topo
+5b
+io
+io
+p53
+p21cip1
+actin
+b time (h)
+12
+24 et.24
+expression occurred with some delay after p53 stabilization (figure 5b). indirubin-30 -oxime, 5bio and 6bio
+were roughly equipotent at inducing p21cip1overexpression, whereas 7bio and me7bio had negligible effects
+(figure 5a). finally, we tested the effects of 7bio on
+wild-type hct-116 and a hct-116 subclone deprived
+of p53 (figure 5e). the dose–response curves were
+essentially the same. altogether, these data suggest that
+7bio-induced cell death does not induce p53 nor require
+its contribution.
+tyrosine phosphorylation and subsequent activation
+of the transcription factor stat3 were recently shown
+to be inhibited by some indirubins, leading to the
+downregulation of survival factors and subsequent
+induction of cell death (nam et al., 2005). to examine
+whether this mechanism is involved in the action of
+7bio, we investigated the effect from io, 5bio, 6bio
+and 7bio on the level of tyrosine 705-phosphorylated
+stat3 in mda-mb-231 cells (figure 6). as a positive
+control, cells were also stimulated by interferon a
+(ifna). results show that the basal level of tyrosine
+705-phosphorylated stat3 in mda-mb-231 is very
+p53
+5bio
+co
+p53
+7bio
+tro
+dm
+so
+io
+io bio bio n
+5b
+if
+p-stat3
+c time (h)
+12
+stat3
+24 et.24
+actin
+5bio
+p21
+cip1
+7bio
+p21
+cip1
+d time (h)
+12
+24 et.24
+5bio
+actin
+7bio
+actin
+mts reduction rate (% of control)
+100
+80
+60
+40
+20
+figure 6 7-bromoindirubin-30 -oxime (7bio) effects do not
+involve downregulation of signal transducers and activators of
+transcription (stat3) tyrosine phosphorylation. mda-mb-231
+cells were either untreated or treated with 25 mm indirubin-30 -oxime
+(io), 5-bromoindirubin-30 -oxime (5bio), 6-bromoindirubin-30 oxime (6bio), 7-bromoindirubin-30 -oxime (7bio), or the dimethylsulfoxide carrier for 4 h, or with 100 ng/ml of interferon-a for 5 min.
+cellular proteins were resolved by sodium dodecyl sulfate–
+polyacrylamide gel electrophoresis followed by western blotting
+using antibodies directed total stat3 and tyrosine-phosphorylated stat3. western blotting with antiactin antibodies provided
+a loading marker.
+figure 5 7-bromoindirubin-30 -oxime (7bio) does not induce nor
+require p53 nor p21cip1 expression. (a) sh-sy5y cells were treated
+with 12.5 mm indirubin-30 -oxime (io), 5-bromoindirubin-30 -oxime
+(5bio), 6-bromoindirubin-30 -oxime (6bio), 7-bromoindirubin-30 oxime (7bio) or 1-methyl-7-bromoindirubin-30 -oxime (me7bio),
+1 mm staurosporine or 12.5 mm etoposide for 12 h. cells were then
+harvested and proteins were resolved by sodium dodecyl sulfate–
+polyacrylamide gel electrophoresis (sds–page) followed by western blotting using antibodies directed against p53, p21cip1 or actin
+(used as internal loading marker). (b–d) sh-sy5y cells were treated
+with 12.5 mm 5bio or 7bio or 12.5 mm etoposide for various times.
+cells were then harvested and proteins were resolved by sds–page
+followed by western blotting using antibodies directed against p53
+(b), p21cip1 (c) or actin (d). (e) wild-type ( ) and p53-deprived (j)
+hct-116 cells were exposed for 48 h to increasing concentrations of
+7bio or me7bio. cell survival was estimated by the 3-(4,5dimethylthiazol-2-yl)-5-(3-carboxymethoxyphenyl)-2-(4-sulfophenyl)2h-tetrazolium reduction assay and is expressed in % of survival in
+untreated cells. average7s.e. of three determinations.
+wt
+p53-/-
+7bio concentration (µm)
+10
+oncogene
+6310
+antitumor activity of 7-bromoindirubin-30-oxime
+j ribas et al
+low compared to the level reached by stimulation with
+ifna, yet it is downregulated by io, 5bio and 6bio
+but not by 7bio. this suggests that the mechanism of
+action of 7bio is not primarily due to an inactivation of
+tyrosine-phosphorylated stat3.
+induction of cell death by 7-bromoindirubin-30-oxime
+is much faster than by other indirubins
+a time course of sh-sy5y cell death induction was
+next performed following exposure to 25 mm io, 5bio,
+6bio, 7bio or me7bio (figure 7). although 5bio and
+6bio required 36–48 h to induce 70% cell death, this
+level was reached by 12 h with 7bio. almost complete
+cell death was obtained with 7bio within 24 h (figure 7).
+this much faster kinetics suggests that a different
+mechanism of cell death is occurring in the case of
+7bio compared to the other indirubins. alternatively, a
+subpopulation of cells may respond to 5bio and 6bio
+as they do to 7bio, whereas the vast majority undergoes
+apoptosis.
+7-bromoindirubin-30-oxime induces non-apoptotic cell
+death
+to investigate the mechanism of action of 7bio, we ﬁrst
+examined, under a ﬂuorescence microscope, sh-sy5y
+cells exposed to different indirubins following bisbenzi-
+mide and propidium iodide (pi) staining (figure 8).
+first of all, no pi staining was observed in control cells
+and in me7bio-treated cells
+(figure 8a and f),
+conﬁrming the absence of cell death. indirubin-30-oxime,
+5bio and 6bio all triggered nuclear fragmentation
+typical of apoptosis, accompanied by secondary necrosis
+(figure 8b–d). these ﬁgures were never observed in
+7bio-treated cells that, in contrast, displayed numerous
+120
+100
+80
+60
+40
+20
+me7bio
+io
+5bio
+6bio
+7bio
+10
+20
+30
+40
+50
+60
+time (hrs)
+figure 7 7-bromoindirubin-30-oxime (7bio) induces cell death
+much faster than other indirubins. sh-sy5y cells were treated
+with 25 mm indirubin-30-oxime (io), 5-bromoindirubin-30-oxime
+(5bio), 6-bromoindirubin-30-oxime (6bio), 7bio or 1-methyl-7-
+bromoindirubin-30-oxime (me7bio) for 6, 12, 24, 36 or 48 h. cell
+survival was assessed by the 3-(4,5-dimethylthiazol-2-yl)-5-(3-
+carboxymethoxyphenyl)-2-(4-sulfophenyl)-2h-tetrazolium proce-
+dure. every point is the mean7s.e. of two independent experiments
+with at least three independent measurements per experiment.
+oncogene
+large, unfragmented pycnotic nuclei (figure 8e). such
+ﬁgures were observed only occasionally with 5bio and
+6bio (figure 8c and d). these morphological results
+suggest
+that 7bio triggers an atypical cell death
+different from apoptosis.
+to challenge this possibility, the activity of caspases
+was assayed in sh-sy5y cells exposed to various con-
+centrations of different indirubins (figure 9). 5-bromo-
+indirubin-30-oxime and 6bio and io to a lesser extent,
+triggered a dose- (figure 9a) and time- (figure 9b)
+dependent activation of caspase. in sharp contrast,
+neither 7bio nor me7bio induced any activation of
+caspases, which remained at
+the level of control,
+untreated cells. furthermore, q-vd-oph, a general
+caspase inhibitor (caserta et al., 2003), had no effect on
+cell death induced by 7bio (figure 10), whereas it
+reduced the level of cell death induced by 5bio and
+6bio, and io, to a lesser extent (figure 10a). the time
+course of 7bio-induced cell death was unaffected by
+q-vd-oph (figure 10b).
+moreover, 7bio triggered negligible release of cyto-
+chrome c from mitochondria (figure 11). under the
+same conditions io, 5bio and 6bio induced the release
+of cytochrome c to levels similar to those reached by
+standard apoptosis-inducing reagents like staurosporine
+(sts) and etoposide. we next examined dna laddering
+as a reﬂection of apoptotic cell death. the laddering
+caused by r-roscovitine was consistent with the
+reported ability of this compound to induce apoptosis
+(ribas and boix, 2004). 5-bromoindirubin-30-oxime and
+to a lesser extent 6bio, also induced internuclesosomal
+fragmentation, whose intensity was proportional to the
+amount of apoptotic cells in the culture (see bisbenzi-
+mide/pi staining in figure 8). in 7bio-treated cells, no
+ladder was observed; however, most cells were dead. in
+me7bio, io and dimethylsulfoxide (dmso)
+treat-
+ments, cell death induction was negligible and no
+laddering was detected.
+altogether these results show that 7bio-induced cell
+death does not induce cytochrome c release and does not
+trigger nor require the activation of caspases, in sharp
+contrast with cell death induced by io, 5bio and 6bio.
+thus 7bio appears to induce a cell death pathway
+which differs from the apoptosis induced by io, 5bio
+and 6bio.
+7-bromoindirubin-30-oxime-induced cell death is not
+inhibited by cellular mechanisms able to protect cells from
+apoptosis
+to further explore the cell death process triggered
+by 7bio, we wondered whether proved mechanisms
+of resistance to apoptosis were able to protect cells
+from 7bio’s effects. sh-sy5y cells can be differen-
+tiated in cell culture by retinoic acid (ra) and this
+differentiation prevents apoptosis triggered by cdk
+inhibitors like olomoucine or roscovitine (ribas and
+boix, 2004). similarly, differentiation renders sh-sy5y
+cells
+shown in figure 12,
+differentiation had negligible effect on the rates of
+7bio-induced cell death.
+refractory to sts. as
+antitumor activity of 7-bromoindirubin-30-oxime
+j ribas et al
+6311
+figure 8 in contrast to indirubin-30-oxime (io), 5-bromoindirubin-30-oxime (5bio) and 6-bromoindirubin-30-oxime (6bio),
+7-bromoindirubin-30-oxime (7bio) induces non-apoptotic cell death in sh-sy5y cells. sh-sy5y cells were exposed for 24 h to 0.1%
+dimethylsulfoxide (control) (a), 25 mm io (b), 25 mm 5bio (c), 10 mm 6bio (d), 10 mm 7bio (e) or 10 mm 1-methyl-7-bromoindirubin-30-
+oxime (me7bio) (f). following double staining of dna with bisbenzimide and propidium iodide, cells were examined by ﬂuorescence
+microscopy. thick arrows: apoptosis (nuclear fragmentation); thin arrows: secondary necrosis; arrowheads: pycnotic nuclei. scale
+bar: 20 mm.
+bcl-2 and bcl-xl proteins are known for their
+antiapoptotic effects. in addition,
+their cytoprotec-
+tive effects have been found to extend beyond apop-
+tosis (kane et al., 1995). we previously described
+that bcl-2
+protects
+triggered by sts
+sh-sy5y cells
+(yuste et al., 2002). as reported, bcl-xl surpassed
+and bcl-xl overexpression
+from apoptosis
+time
+course
+in a parallel
+bcl-2 at inhibiting sts-induced apoptosis (figure 12b).
+however,
+experiment,
+neither bcl-xl nor bcl-2 overexpression provided any
+signiﬁcant protection from 7bio (figure 12b). taken
+together, these results reinforce the action of 7bio
+as an effective cell killer acting in an apoptosis-
+independent manner.
+oncogene
+antitumor activity of 7-bromoindirubin-30 -oxime
+j ribas et al
+6312
+devdase activity (a.f.u.)
+5bio
+6000
+5000
+6bio
+4000
+3000
+io
+2000
+me7bio
+7bio
+1000
+mts reduction rate (% of control)
+100
+80
+60
+40
+20
+q-vd-oph -
+10
+15
+20
+25
+30
+concentration of indirubins (µm)
+devdase activity (a.f.u.)
+5bio
+6000
+5000
+6bio
+4000
+3000
+io
+2000
+io
+5bio
+6bio
+7bio
+me7bio
+100
+80
+60
+40
+20
+7bio
+7bio + q-vd-oph
+control
+7bio
+1000
+10
+15
+20
+time (hrs)
+25
+figure 9 7-bromoindirubin-30 -oxime (7bio) does not induce caspase activation. (a) sh-sy5y cells were treated with indirubin-30 oxime (io), 5-bromoindirubin-30 -oxime (5bio), 6-bromoindirubin30 -oxime (6bio), 7bio or 1-methyl-7-bromoindirubin-30 -oxime
+(me7bio) for 24 h in the range of concentrations shown. the value
+of control untreated cells is placed at time 0. devdase activity
+was measured as arbitrary ﬂuorescence units. every point is the
+mean7s.e. of at least three independent determinations. (b) the
+time course of effector caspase activity was determined in
+sh-sy5y cells treated with 25 mm io, 5bio, 6bio, 7bio or
+me7bio for 24 h. every point is the mean7s.e. of at least three
+independent determinations.
+non-apoptotic, caspase-independent cell death is a general
+characteristic of the death processes triggered by
+7-bromoindirubin-30 -oxime
+to challenge the generality of the 7bio effects, we tested
+7bio in two other human neuroblastoma-derived cell
+lines, imr-5 and imr-32, as well as two hematological
+tumors derived cell lines, jurkat and hl-60. as shown
+in figure 13 (left column), 7bio induced cell death in
+the same range of concentrations characterized as lethal
+for sh-sy5y, mda-mb-231 (breast cancer) and
+hct116 (colon cancer) cell types. the sensitivity of
+hl-60 cells (known to be deﬁcient in p53 protein) to
+7bio is consistent with the lack of involvement of p53 as
+described above.
+oncogene
+mts reduction rate (% of control)
+control
+12
+24
+48
+time (hrs)
+figure 10 7-bromoindirubin-30 -oxime (7bio)-induced cell death
+is not prevented by q-vd-oph, a general caspase inhibitor. (a) shsy5y cells were treated with 25 mm indirubin-30 -oxime (io), 5bromoindirubin-30 -oxime (5bio), 6-bromoindirubin-30 -oxime
+(6bio), 7bio or 1-methyl-7-bromoindirubin-30 -oxime for 48 h in
+the presence (black bars) or absence (white bars) of 10 mm q-vdoph, a broad spectrum inhibitor of caspases. cell survival was
+assessed by the 3-(4,5-dimethylthiazol-2-yl)-5-(3-carboxymethoxyphenyl)-2-(4-sulfophenyl)-2h-tetrazolium (mts) assay. every
+point is the mean7s.e. of four independent experiments with three
+independent measurements per experiment. in the control q-vdoph graph only two independent experiments were performed.
+(b) time course of 7bio-induced cell death in the absence (j) or
+presence ( ) of 10 mm q-vd-oph. cells were exposed to 25 mm
+bio at time 0 and cell survival was estimated at different time
+points by the mts assay. each point is the mean7s.e. of at least
+three independent experiments with three independent measurements per experiment.
+we further characterized the cell death process
+triggered by 7bio in imr-5, imr-32, jurkat and hl60 cells. bisbenzimide staining, ﬂuorescence and electron
+microcopy characterizations demonstrated that nonapoptotic cell death was taking place as described in shsy5y cells (data not shown). in addition, effector
+caspase activation was assessed at 24 h (figure 13,
+right). as expected, 5bio triggered caspase activation.
+compared with sts, 5bio displayed reduced caspase
+activation, consistent with (1) the mixed type of cell
+death that 5bio induces and (2) less synchronous
+kinetics of apoptosis induction. in contrast, devdase
+activity in 7bio-treated cells fell consistently below the
+background displayed by control, untreated cells. in
+antitumor activity of 7-bromoindirubin-30 -oxime
+j ribas et al
+6313
+co
+tro
+io
+internal
+marker
+mts reduction rate
+(% of control)
+ne
+ori
+io rosp osid
+o e7
+6b
+5b
+sta et
+7b m
+60
+40
+20
+sts 7bio roscovitine
+dm
+so
+io
+ine
+io ovit
+e7
+6b
+5b
+7b m
+ro
+100
+80
+mts reduction rate (% of control)
+cytochrome c
+60
+bcl-xl
+40
+bcl-2
+20
+sts
+control
+12
+18
+24 (hrs)
+100
+80
+60
+40
+20
+bcl-xl
+bcl-2
+control
+7bio
+12
+18
+24 (hrs)
+bcl-2
+figure 11 indirubin-30 -oxime (io), 5-bromoindirubin-30 -oxime
+(5bio) and 6-bromoindirubin-30 -oxime (6bio), but not 7-bromoindirubin-30 -oxime (7bio), induce cytochrome c release and
+dna laddering. (a) sh-sy5y cells were treated with 12.5 mm
+io, 5bio, 6bio, 7bio or 1-methyl-7-bromoindirubin-30 -oxime
+(me7bio), 0.25 mm staurosporine or 12.5 mm etoposide for 10 h.
+cells were then harvested and fractionated into a nuclear pellet and
+a cytoplasmic supernatant. the latter was resolved by sodium
+dodecyl sulfate–polyacrylamide gel electrophoresis followed by
+western blotting using an anticytochrome c antibody. the
+antibody crossreacts with an irrelevant protein used as an internal
+loading marker. (b) sh-sy5y cells were treated with dimethylsulfoxide (0.25%), 25 mm io, 5bio, 6bio, 7bio or me7bio, or 25 mm
+(r)-roscovitine for 24 h. cells were then harvested and internucleosomal dna fragmentation was analysed by electrophoresis in
+1.5% agarose gels.
+conclusion, the non-apoptotic, caspase-independent
+type of cell death triggered by 7bio appears to be an
+intrinsic property of the compound, independent of the
+cell model.
+bcl-xl
+tubulin
+tubulin
+figure 12 in contrast to staurosporine-induced apoptosis,
+7-bromoindirubin-30 -oxime (7bio)-induced cell death is resistant
+to the protective effects of cell differentiation (a) or bcl-2/bcl-xl
+overexpression (b, c). (a) sh-sy5y cells were either treated with
+retinoic acid (ra) during 5 days to induce quiescence and
+differentiation (white bars) or kept proliferating (black bars). after
+24 h of treatment with sts (1 mm), 7bio (25 mm) or racemic
+roscovitine (50 mm), cell viability was determined by the 3-(4,5dimethylthiazol-2-yl)-5-(3-carboxymethoxyphenyl)-2-(4-sulfophenyl)-2h-tetrazolium (mts) procedure. bar value is the mean 7 s.e.
+of at least six independent determinations. (b) sh-sy5y cells,
+permanently transfected with the vectors pcdna3/bcl-xl ( ),
+pcdna3/bcl-2 (j) and empty pcdna3 (’), were treated with
+either sts (2 mm) or 7bio (25 mm). cell viability was analysed by
+the mts procedure at 9 and 24 h of treatment. in the time course
+plots, every point is the mean7s.e. of three independent experiments with six independent values per experiment. (c) the bcl-xl
+and bcl-2 content of pcdna3/bcl-2 (1), pcdna3/bcl-xl (2) and
+pcdna3/empty (3) transfected sh-sy5y cells was assessed during
+the viability determination experiments by western blotting.
+tubulin content was used to control for protein load.
+discussion
+indirubins have been the object of many chemical
+modulations in order to improve their selectivity proﬁle,
+kinase inhibitory efﬁcacy and solubility. in particular,
+numerous modiﬁcations have been carried out on
+positions 30 , 50 , 60 on one indole ring and 5 or 6 on the
+other indole ring (hoessel et al., 1999; leclerc et al.,
+2001; meijer et al., 2003; merz et al., 2004; polychronopoulos et al., 2004; jautelat et al., 2005). however, no
+modiﬁcations have ever been reported on position 7.
+one reason might be that substitution at this position
+almost annihilates inhibitory activity towards key
+targets of indirubins, cdks and gsk-3. the fast and
+potent induction of cell death by 7bio was totally
+unexpected, but provided the impetus to investigate
+7-substituted indirubins further. indirubins have been
+co-crystallized with cdk2 (hoessel et al., 1999),
+cdk2/cyclin a (davies et al., 2001), cdk5 (mapelli
+et al., 2005), pfpk5, the plasmodium falciparum homolog of cdk1 (holton et al., 2003), gsk-3b (bertrand
+et al., 2003; meijer et al., 2003; polychronopoulos et al.,
+2004), and glycogen phosphorylase b (kosmopoulou
+oncogene
+6314
+antitumor activity of 7-bromoindirubin-30-oxime
+j ribas et al
+120
+100
+80
+60
+40
+20
+100
+80
+60
+40
+20
+100
+80
+60
+40
+20
+100
+80
+60
+40
+20
+imr-5
+3.125 6.25 12.5
+25
+imr-32
+3.125 6.25 12.5
+25
+jurkat
+3.125 6.25 12.5
+25
+hl-60
+5000
+4000
+3000
+2000
+1000
+5000
+4000
+3000
+2000
+1000
+5000
+4000
+3000
+2000
+1000
+2000
+1500
+1000
+500
+3.125 6.25 12.5
+25
+7bio concentration (µm)
+u 7bio 5bio sts
+u 7bio 5bio sts
+u 7bio 5bio sts
+7bio 5bio sts
+figure 13 7-bromoindirubin-30-oxime (7bio) induces caspase-
+independent cell death in four additional cell lines. imr-5, imr-
+32, hl-60 and jurkat cells were challenged with increasing
+concentrations of 7bio for 24 h and cell viability was determined
+by the 3-(4,5-dimethylthiazol-2-yl)-5-(3-carboxymethoxyphenyl)-2-
+(4-sulfophenyl)-2h-tetrazolium procedure (left). every point is the
+mean7s.e. of three independent experiments with six independent
+measurements per experiment. the same cell lines were subjected
+for 24 h to treatments with staurosporine (1 mm), 5-bromoindir-
+ubin-30-oxime (25 mm), 7bio (25 mm) or left untreated (u) and the
+activation of effector caspases (devdase activity in arbitrary
+ﬂuorescent units) was measured (right). bar value is the mean7s.e.
+of six independent determinations.
+et al., 2004). these co-crystal structures suggest that a
+bromine substitution on position 7 would be detrimental
+to the interaction of indirubins with their targets as will
+be described in detail elsewhere (in preparation). a
+general steric hindrance by the bromine is supported by
+the fact that io substituted with a small atom such as
+ﬂuorine is much more active toward kinases than when
+the position 7 is
+substituted with other halogens
+(table 1). this overall unfavorable position 7 substitu-
+tion is conﬁrmed by the kinase selectivity panel (table 2),
+which shows that, compared to io, 5bio and 6bio,
+7bio interacts poorly with protein kinases. however, this
+panel only represents 85 out of 518 kinases and the
+possibility that 7bio potently inhibits one or several
+unidentiﬁed kinases remains open. in addition, 7bio
+may bind to its targets in an orientation which is widely
+different from that of io and 6bio in cdks and gsk-3.
+oncogene
+indirubins appear to induce different forms of cell
+death according to their substitutions. we reported
+previously that a transient exposure to io triggered a
+necrotic type cell death in nocodazole-synchronized
+hbl100 cells (damiens et al., 2001). in contrast, io
+apparently triggered apoptotic type cell death in mcf-7
+cells (marko et al., 2001). various 5-substituted indirubins
+also induce apoptosis as evidenced by poly-(adp-ribose)
+polymerase cleavage (nam et al., 2005). this apoptosis
+appears to be correlated with downregulation of survival
+factors such as survivin and mcl-1. induction of apoptosis
+has also been recently described for 5-nitro-indirubin-30-
+oxime (lee et al., 2005).
+six arguments demonstrate that 7bio induces cell
+death by a mechanism distinct from apoptosis: (1) a
+morphological study of dying cells shows that 7bio
+induces the appearance of large pycnotic nuclei, without
+classical features of apoptosis such as nuclear fragmen-
+tation and secondary necrosis (figure 8); (2) 7bio does
+not trigger an activation of caspases (figures 9 and 13);
+(3) the general caspase inhibitor q-vd-oph does not
+counteract 7bio-induced cell death (figure 10); (4)
+7bio does not induce cytochrome c release (figure 11);
+(5) 7bio does not induce dna fragmentation (fig-
+ure 11); (6) neither bcl-2 nor bc-xl overexpression
+signiﬁcantly reduce the level of 7bio-induced cell death
+(figure 12b).
+what
+inhibited by a family of
+is the nature of 7bio-induced cell death?
+besides apoptosis, a number of caspase-independent
+cell death mechanisms have been described (reviews in
+jaattela, 2004; broker et al, 2005). one such pathway is
+autophagy, a cellular process involved both in cell
+survival and in cell death which requires the family of
+atg genes (review in baehecke, 2005). whether such a
+pathway is involved in 7bio-induced cell death is
+currently under investigation. recently, a new caspase-
+independent cell death process, necroptosis, was de-
+scribed that displays some of the characteristics of
+necrosis and activation of autophagy (degterev et al.,
+2005). we are currently investigating this pathway as a
+potential mechanism of action of 7bio. interestingly, it
+is
+substituted indoles
+called necrostatins (degterev et al., 2005). substituents
+(methyl, halogen) at position 7 on necrostatin result in
+increased inhibitory activity (teng et al., 2005). given
+their partial structure similarity,
+is tempting to
+speculate that necrostatins and 7bio might share a
+target which they affect in opposite directions. another
+description of caspase-independent cell death implies the
+generation of reactive oxygen species (ros) (chipuk
+and green, 2005). although preliminary experiments
+suggest that 7bio does not induce the generation of
+ros in vitro (unpublished), we are still exploring this
+possible mechanism of action of 7bio. electron
+microscopy examination of 7bio-treated cells reveals
+that 7bio induces a prominent disruption of endoplas-
+mic reticulum without markedly affecting the nucleus
+(data not shown), suggesting that 7bio acts as a potent
+reticulum stress inducer.
+it
+indirubins interact with and activate ahr leading to
+the upregulation of cytochrome p450 and p27kip1
+in ahr /  and ahr þ /þ cells;
+(adachi et al., 2001; spink et al., 2003; knockaert et al.,
+2004; sugihara et al., 2004). 7-bromoindirubin-30-oxime
+clearly activates ahr as observed in an in vitro
+luciferase reporter system (unpublished), and conﬁrmed
+by the ahr-dependent expression of p27kip1 and g1
+arrest (figure 4). however, three pieces of evidence
+suggest that ahr is not involved in the cell death
+process induced by 7bio: (1) 7bio triggers cell death
+equally well
+(2)
+neuroblastoma sh-sy5y cells express very little if any
+ahr (unpublished); (3) me7bio, which is as potent as
+7bio in activating ahr, does not induce cell death.
+7-bromoindirubin-30-oxime inhibits aurora c and
+flt-3 (table 2 and unpublished data). yet me7bio,
+which is as potent as 7bio at inhibiting both kinases,
+does not trigger cell death (figure 2b). 7-bromoindir-
+ubin-30-oxime-induced cell death is therefore unlikely to
+be a direct consequence of inhibition of these two
+kinases. we also believe that 7bio action does not
+involve the downregulation of stat3 tyrosine phos-
+phorylation and its subsequent inactivation as has been
+suggested for other indirubins (nam et al., 2005)
+(figure 11).
+although it is too early to speculate on the potential
+clinical use of 7-substituted indirubins, this new family
+of indirubins opens a promising research area. firstly,
+these molecules seem to interact with much less kinases
+than previously described indirubins and thus appear
+to be more selective (table 2). identiﬁcation of the
+molecular targets of 7bio and 7-substituted indirubins
+obviously constitutes a high priority. we plan to tackle
+this using afﬁnity chromatography on immobilized
+7bio as described for other kinase inhibitors (bach
+et al., 2006). secondly, numerous cancer cells are
+characterized by the development of various mechan-
+isms of resistance to apoptosis (for instance over-
+expression of
+and bcl-xl oncogenic
+proteins). such tumor cells thus constitute putative
+targets for 7-substituted indirubins such as 7bio, which
+induce cell death through a non-apoptotic pathway and
+in a bcl2/bcl-xl-insensitive way. such indirubins might
+thus allow the killing of
+to
+conventional anticancer drugs.
+tumor cells resistant
+the bcl-2
+materials and methods
+chemistry
+general chemistry experimental procedures all chemicals were
+purchased from aldrich chemical co. nmr spectra were
+recorded on bruker drx 400; chemical shifts are expressed in
+ppm downﬁeld from tms. the 1h-1h and the 1h-13c nmr
+experiments were performed using standard bruker micropro-
+grams. chemical ionizaton-tandem-mass spectrometry (ci-ms)
+spectra were determined on a finnigan gcq plus ion-trap mass
+spectrometer using ch4 as the ci ionization reagent. column
+chomatographies were conducted using ﬂash silica gel 60 merck
+(40–63 mm), with an overpressure of 300 mbar. all the com-
+pounds gave satisfactory combustion analyses (c, h, n, within
+70.4% of calculated values).
+5-bromoindirubin
+indirubin synthesis general procedures
+(5bi), 7-bromoindirubin (7bi), 7-chloroindirubin (7ci),
+6315
+antitumor activity of 7-bromoindirubin-30-oxime
+j ribas et al
+7-iodoindirubin (7ii), 7-ﬂuoroindirubin (7fi) and 7-bromo-
+1-methylindirubin (me7bi) were prepared from 5-bromoisa-
+tin, 7-bromoisatin, 7-chloroisatin, 7-iodoisatin, 7-ﬂuoroisatin,
+7-bromo-1-methylisatin, respectively, and 3-acetoxyindol. the
+synthesis of the corresponding indirubins and isatins will be
+described in details elsewhere (polychronopoulos et al., 2004,
+in preparation).
+5-bromoindirubin-30-oxime, 7bio,7cio, 7iio 7fio and
+me7bio were prepared from the corresponding indirubins and
+hydroxylamine hydrochloride. indirubin-30-oxime and 6bio
+were synthesized as described previously (leclerc et al., 2001;
+polychronopoulos et al., 2004).
+general procedure for the preparation of the indirubin-oximes
+5bio, 7bio, 7cio, 7iio, 7fio and me7bio the appro-
+priate indirubin derivative 5bi, 7bi, 7ci, 7ii, 7fi or me7bi
+(1 mmol) was dissolved in pyridine (10 ml). with magnetic
+stirring, hydroxylamine hydrochloride (10 eq) was added and
+the mixture was heated under reﬂux (1201c) for 1.5 h. then the
+solvent was evaporated under reduced pressure and the residue
+was washed with water and cyclohexane to afford quantita-
+tively the corresponding 30-oxime.
+5-bromoindirubin-30-oxime
+1h nmr (dmso, 400 mhz, d
+ppm, j se hz) 13.70 (1h, s, noh), 11.83 (1h, s, n0-h), 10.87
+(1h, s, n-h), 8.76 (1h, d, j¼ 2.1 hz, h-4), 8.27 (1h, d,
+j¼ 7.9hz, h-40), 7.44 (2h, m, h-60, 70), 7.28 (1h, dd, j¼ 8.2,
+2.0 hz, h-6), 7.06 (1h, td, j¼ 7.9, 2.0 hz, h-50), 6.85 (1h, d,
+j¼ 8.2 hz, h-7); ci-ms m/z 356, 358 (mþ h) þ.
+7-bromoindirubin-30-oxime
+1h nmr (dmso, 400 mhz, d
+ppm, j se hz) 13.68 (1h, brs, noh) 11.90 (1h, s, n0-h), 10.91
+(1h, s, n-h), 8.67 (1h, d, j¼ 7.8 hz, h-4), 8.23 (1h, d,
+j¼ 7.8, h-40), 7.42 (2h, m, h-60, 70), 7.29 (1h, d, j¼ 7.8 hz,
+h-6), 7.06 (1h, t, j¼ 7.8 hz, h-50), 6.90 (1h, t, j¼ 7.8 hz, h-
+5); ci-ms m/z 356, 358 (mþ h) þ .
+7-chloroindirubin-30-oxime
+1h nmr (dmso, 400 mhz, d
+ppm, j se hz) 13.70 (1h, brs, noh) 11.86 (1h, s, n0-h), 11.09
+(1h, s, n-h), 8.62 (1h, d, j¼ 7.9 hz, h-4), 8.23 (1h, d,
+j¼ 7.6, h-40), 7.44 (2h, m, h-60, 70), 7.17 (1h, d, j¼ 7.9 hz,
+h-6), 7.06 (1h, t, j¼ 7.6 hz, h-50), 6.96 (1h, t, j¼ 7.8 hz, h-
+5); ci-ms m/z 312, 314 (mþ h) þ .
+7-iodoindirubin-30-oxime
+1h nmr (dmso, 400 mhz, d
+ppm, j in hz) 13.65 (1h, brs, noh) 11.87 (1h, s, n0-h),
+10.63 (1h, s, n-h), 8.68 (1h, d, j¼ 7.8 hz, h-4), 8.23 (1h, d,
+j¼ 7.2, h-40), 7.47 (1h, d, j¼ 7.8 hz, h-6), 7.43 (2h, m, h-60,
+70), 7.06 (1h, t, j¼ 7.2 hz, h-50), 6.76 (1h, t, j¼ 7.8 hz, h-5);
+ci-ms m/z 404 (mþ h) þ .
+7-fluoroindirubin-30-oxime
+1h nmr (dmso, 400 mhz, d
+ppm, j se hz) 13.61 (1h, brs, noh) 11.85 (1h, s, n0-h), 11.19
+(1h, s, n-h), 8.44 (1h, d, j¼ 7.8 hz, h-4), 8.19 (1h, d,
+j¼ 7.5, h-40), 7.39 (2h, m, h-60, 70), 7.00 (2h, m, h-50, 6), 6.90
+(1h, m, h-5); ci-ms m/z 296 (mþ h) þ .
+1-methyl-7-bromoindirubin-30-oxime
+1h nmr (dmso,
+400 mhz, d ppm, j se hz) 13.70 (1h, brs, noh), 12.00 (1h,
+s, n0-h), 8.81 (1h, d, j¼ 7.9 hz, h-4), 8.23 (1h, d, j¼ 7.9 hz,
+h-40), 7.43 (2h, m, h-60, 70), 7.34 (1h, d, j¼ 7.9 hz, h-6), 7.07
+(1h, t, j¼ 7.9 hz, h-50), 6.93 (1h, t, j¼ 7.9 hz, h-5), 3.68
+(3h, s, n-ch3); ci-ms m/z 370, 372 (mþ h) þ .
+oncogene
+6316
+antitumor activity of 7-bromoindirubin-30-oxime
+j ribas et al
+glutathione-agarose,
+protein kinase assays
+biochemical reagents sodium ortho-vanadate, ethylenegly-
+coltetracetate (egta), ethylenediaminetetraacetate (edta),
+3,[n-morpholino] propane sulfonic acid (mops), b-glycero-
+phosphate, phenylphosphate, sodium ﬂuoride, dithiothreitol
+(dtt),
+serum
+albumin (bsa), nitrophenylphosphate, leupeptin, aprotinin,
+pepstatin, soybean trypsin inhibitor, benzamidine, histone
+h1 (type iii-s) were obtained from sigma chemicals,
+[g33-p]-atp was obtained from
+st louis, mo, usa.
+amersham, buckinghamshire, uk. the gs-1 peptide (yr-
+raavppspslsrhssphqspedeee) was synthesized by
+the peptide synthesis unit, institute of biomolecular sciences
+(university of southampton, southampton, uk).
+glutathione, bovine
+buffers
+homogenization buffer: 60 mm b-glycerophosphate, 15 mm p-
+nitrophenylphosphate, 25 mm mops (ph 7.2), 15 mm egta,
+15 mm mgcl2, 1 mm dtt, 1 mm sodium vanadate, 1 mm naf,
+1 mm phenylphosphate, 10 mg leupeptin/ml, 10 mg aprotinin/
+ml, 10 mg soybean trypsin inhibitor/ml and 100 mm benzami-
+dine.
+buffer a: 10 mm mgcl2, 1 mm egta, 1 mm dtt, 25 mm
+tris-hcl ph 7.5, 50 mg heparin/ml.
+buffer c: homogenization buffer but 5 mm egta, no naf
+and no protease inhibitors.
+kinase preparations and assays kinase activities were assayed
+in buffer a or c, at 301c, at a ﬁnal atp concentration of
+15 mm. blank values were subtracted and activities calculated
+as picomoles of phosphate incorporated for a 10-min incuba-
+tion. the activities are usually expressed in % of the maximal
+activity, that is, in the absence of inhibitors. controls were
+performed with appropriate dilutions of dimethylsulfoxide.
+cdk1/cyclin b was extracted in homogenization buffer
+from m-phase starﬁsh (marthasterias glacialis) oocytes and
+puriﬁed by afﬁnity chromatography on p9ckshs1-sepharose
+beads, from which it was eluted by free p9ckshs1 as described
+previously (meijer et al., 1997). the kinase activity was
+assayed in buffer c, with 1 mg histone h1/ml, in the presence
+of 15 mm [g33-p] atp (3000 ci/mmol; 10 mci/ml) in a ﬁnal
+volume of 30 ml. after 30 min incubation at 301c, 25 ml aliquots
+of supernatant were spotted onto 2.5 3 cm pieces of what-
+man p81 phosphocellulose paper, and, 20 s later, the ﬁlters
+were washed ﬁve times (for at least 5 min each time) in a
+solution of 10 ml phosphoric acid/litre of water. the wet ﬁlters
+were counted in the presence of 1 ml acs (amersham)
+scintillation ﬂuid.
+cdk5/p25: this was reconstituted by mixing equal amounts
+of recombinant mammalian cdk5 and p25 expressed in
+escherichia coli as glutathione-s-transferase (gst)
+fusion
+proteins and puriﬁed by afﬁnity chomatography on glu-
+tathione–agarose (vectors kindly provided by dr jh wang)
+(p25 is a truncated version of p35,
+the 35 kda cdk5
+activator). its activity was assayed with histone h1 in buffer
+c as described for cdk1/cyclin b.
+glycogen synthase kinase-3a/b: this was puriﬁed from
+porcine brain by afﬁnity chomatography on immobilized axin
+(meijer et al., 2003). it was assayed, following a 1/100 dilution
+in 1 mg bsa/ml 10 mm dtt, with 5 ml 4 mm gs-1 peptide
+substrate, in buffer a, in the presence of 15 mm [g33-p] atp
+(3000 ci/mmol; 10 mci/ml) in a ﬁnal volume of 30 ml. after
+30 min incubation at 301c, 25 ml aliquots of supernatant were
+processed as described above.
+proqinase protein kinase assays: all protein kinases were
+expressed in sf9 insect cells as human recombinant gst-fusion
+oncogene
+proteins or his-tagged proteins by means of the baculovirus
+expression system. kinases were puriﬁed by afﬁnity chomato-
+graphy using either gsh-agarose (sigma) or ni-nth-agarose
+(qiagen, courtabeuf, france). the purity and identity of each
+kinase was checked by sodium dodecyl sulfate–polyacrylamide
+gel electrophoresis (sds–page)/coomassie staining and by
+western blot analysis. a proprietary protein kinase assay (33
+panqinases activity assay) was used to assay the recombi-
+nant enzymes. all kinase assays were performed in 96-well
+flash platest from perkin elmer/nen (boston, ma, usa) in
+a 50 ml reaction volume using a beckmancoulter/sagian
+robotic system. the reaction cocktail was pipetted in four
+steps in the following order: (i) 20 ml of assay buffer, (ii) 5 ml of
+atp solution (in h2o), (iii) 5 ml of test compound (in 10%
+dmso) and (iv) 10 ml of substrate/10 ml of enzyme solution
+(premixed). the assays for all kinases (except for protein
+kinase c (pkc), see below) contained 60 mm 4-(2-hydro-
+xyethyl)-1-piperazineethanesulfonic acid (hepes)-naoh, ph
+7.5, 3 mm mgcl2, 3 mm mncl2, 3 mm na-orthovanadate,
+1.2 mm dtt, 50 mg/ml peg20000, 1 mm [g-33p]-atp (approx
+5 105 cpm per well). the ﬁnal dmso concentration was 1%
+in all assays. protein kinase c assays contained 60 mm
+hepes–naoh, ph 7.5, 1 mm edta, 1.25 mm egta,
+5 mm mgcl2, 1.32 mm cacl2, 5 mg/ml phosphatidylserine,
+1 mg/ml
+50 mg/ml
+peg20000, 1 mm [g33-p]-atp (approx 5 1005 cpm per well).
+the reaction cocktails were incubated at 301c for 80 min the
+reaction was stopped with 50 ml of 2% (v/v) h3po4, plates
+were aspirated and washed two times with 200 ml h2o or 200 ml
+0.9% (w/v) nacl. incorporation of 33pi was determined with a
+microplate scintillation counter (microbeta, wallac). with the
+residual activities (in %) obtained for each concentration the
+compound ic50 values were calculated using prism 3.03 for
+windows (graphpad, san diego, ca, usa). the model used
+was ‘sigmoidal response (variable slope)’ with parameters ‘top’
+ﬁxed at 100% and ‘bottom’ at 0%.
+dioleyl–glycerol,
+1.2
+1.2 mm dtt,
+cell biology
+chemicals and antibodies bisbenzimide (hoechst 33342) and
+pi were obtained from sigma chemicals. acdevdafc and
+q-vd-oph was purchased from mpbiomedicals (vannes,
+france). cell titer 96s kit containing the mts reagent was
+purchased from promega (madison, wi, usa). 2,3,7,8-
+tetrachlorodibenzo-p-dioxin was a kind gift from dr steve
+safe (veterinary physiology and pharmacology, texas a&m
+university, college station, tx, usa). the protease inhibitor
+cocktail was from roche, penzberg, germany. interferon-a
+was obtained from r & d systems, lille, france and all-trans-
+ra, from tocris (bristol, uk). unless otherwise stated, the
+non-listed reagents were also from sigma.
+monoclonal antibodies against p21 waf1/cip1 and actin were
+obtained from oncogene research products (san diego, ca,
+usa). antibodies against p27 kip1 and p53 were purchased
+from santa cruz biotechnology, santa cruz, ca, usa.
+monoclonal antibody against cytochrome c and rabbit
+polyclonal against bcl-xl were provided by bd biosciences,
+san diego, ca, usa. antibcl-2 (clone 124) monoclonal
+antibody was purchased from dako, glostrup, denmark.
+anti-phosphotyr705-stat3 and anti-stat3 antibodies were
+from cell signalling, denver, co, usa. the antitubulin
+antibody was from sigma.
+cell lines and culture conditions the mouse 5l hepatoma cell
+line (ahrþ /þ ) and bp8 (an ahr /  subclone) were kindly
+provided by dr m goe¨ ttlicher (forschungszentrum karlsruhe,
+institute of genetics, karlsruhe, germany). they were
+cultured in dulbecco’s modiﬁed eagle’s medium (dmem)
+(biowhittaker, verviers, belgium) supplemented with 2 mm l-
+glutamine (eurobio), 10% fetal calf
+serum (fcs), and
+gentamycin (gibco brl, paisley, scotland, uk) at 371c in
+an atmosphere of 7% co2. indirubin or tcdd treatments
+were performed on 50–60% conﬂuent cultures at the indicated
+time and concentrations. control experiments were carried out
+using appropriate dilutions of dmso.
+sh-sy5y, imr-5 and imr-32 human neuroblastoma cell
+lines were grown in dmem medium from (biowhittaker) plus
+2 mm l-glutamine from eurobio (courtaboeuf, france) or
+dmem already supplemented with 2 mm l-glutamine (invi-
+trogen, barcelona, spain), plus antibiotics and a 10% volume
+of fcs (invitrogen, cergy pontoise, france or barcelona,
+spain). sh-sy5y cell
+lines permanently transfected with
+pcdna3/bcl-2, pcdna3/bcl-xl and empty pcdna3 vectors
+were grown like their untransfected counterparts. however,
+geneticin (g-418) selection was maintained in the growing
+cultures before the terminal experiments (ribas and boix,
+2004). in order to induce differentiation, sh-sy5y cells were
+cultured on collagen coated plates and treated with 10 mm ra
+for 5 days.
+hl-60 and jurkat cells were grown in rosewell park
+memorial institute media 1640 medium with 10% fcs and
+antibiotics from invitrogen (barcelona, spain).
+hct116 human adenocarcinoma cell
+line was kindly
+provided by dr vogelstein (the howard hughes medical
+institute, sidney kimmel comprehensive cancer center, the
+johns hopkins school of medicine, baltimore, md, usa).
+hct116 cells were cultured in mccoy’s 5a (biowhittaker)
+supplemented with antibiotics and 10% fcs. general culture
+conditions were an atmosphere of 5% co2 and a temperature
+of 371c. culture dishes and other plastic disposable tools were
+supplied by corning (corning, ny, usa). indirubin treat-
+ments were performed on exponentially growing cultures at the
+indicated time and concentrations. control experiments were
+carried also using appropriate dilutions of dmso.
+cancer) were
+mda-mb-231 cells (derived from hormone-independent
+breast
+cultured in dmem supplemented
+with 10% fcs. for experiments, these cells were seeded in
+24-well boxes or in 35 mm petri dishes at appropriate den-
+sities (4.104 cells per well for cell growth experiments; 105 cells
+per dish for cell cycle analysis) and exposed to indirubins
+as indicated.
+cell proliferation and cell cycle analysis propidium iodide
+staining was performed as follows. first, sl, bp8 or mda-
+mb-231 cells were harvested from the culture plates and
+washed once with phosphate-buffered saline, ph 7.4. second,
+1–2 105 cells were incubated for 15 min in 25 mg/ml pi, 10 mg/
+ml rnase a and 0.1% triton x-100. flow cytometry readings
+were obtained by an epicss xl2 unit from coulter (beck-
+man, ca, usa). data were processed by means of winmdi
+(a free software from joe trotter)
+in order to obtain
+monoparametric dna histograms. finally, these histograms
+were analysed with the multi-cycle software.
+6317
+antitumor activity of 7-bromoindirubin-30-oxime
+j ribas et al
+caspase assay the measurement of caspase activity is based
+on determining the ﬂuorescence released from the acdev-
+dafc synthetic substrate after its direct addition to the culture
+medium, detergent lysis, and incubation at 371c. this method
+is devised to be applied to 96-multiwell plates. it allows kinetic
+determinations of caspase activation and the characterization
+of multiple drugs simultaneously (ribas et al., 2005).
+electrophoresis and western blotting whole-cell extracts were
+obtained in buffer containing 100 mm tris/hcl ph. 6.8, 1 mm
+edta, 2% sds. following heat denaturation for 3 min,
+proteins were separated by 10% sds–page (0.7 mm thick
+gels) (p27kip1) or by 10% nupage precast bis-tris poly-
+acrylamide mini gel electrophoresis system (invitrogen) with
+mops sds (p53, p21cip1, actin) or mes sds (cytochrome c)
+running buffer depending on protein size. proteins were
+transferred to 0.45 mm nitrocellulose ﬁlters (schleicher and
+schuell). these were blocked with 5% low-fat milk in tris-
+buffered saline–tween-20, incubated for 1 h with antibodies
+(anti-p27kip1: 1:1000; anti-actin: 1:1000; anti-bcl-2, 1:2000;
+anti-bcl-xl, 1:5000; anti-tubulin, 1:4000; anti-stat3: 1:1000)
+or overnight at 41c (anti-p53: 1:1000; p21cip1: 1:1000;
+cytochrome c: 1:1000; anti-actin: 1:5000 (stat3 experiment);
+anti-phosphotyr705-stat3: 1:1000) and analysed by en-
+hanced chemiluminescence (amersham).
+to study expression of p53 and p21cip1, cells were lysed for
+30 min at 41c in radioimmunoprecipition assay buffer (150 mm
+nacl, 1% np40, 0.5% deoxycholate, 0.1% sds and 50 mm
+tris-hcl ph 8.0) supplemented with a protease inhibitor
+cocktail (roche). after centrifugation (12 000 g for 10 min), the
+protein concentration was determined in the supernatants by
+the bradford protein assay (bio-rad, marnes-la-coquette,
+france). to study cytochrome c release from mitochondria, a
+0.05% digitonin cytosolic extraction was performed (ribas
+and boix, 2004).
+in the stat3 study, cells were lysed in 30 mm hepes (ph
+7.5), 10 mm nacl, 5 mm mgcl2, 25 mm naf, 1 mm egta,
+1% triton x-100, 10% glycerol, 2 mm sodium orthovanadate,
+6.4 mg/ml p-nitrophenylphosphate and protease inhibitor
+cocktail (roche). total proteins (73 mg) was resolved on 10%
+nupage with mops sds running buffer.
+abbreviations
+ahr, aryl hydrocarbon receptor; arnt, aryl hydrocarbon
+receptor nuclear translocator; bio, bromoindirubin-30-oxime;
+cdk, cyclin-dependent kinase; fcs, fetal calf serum; flt-3,
+fms-like tyrosine kinase 3; gsk-3, glycogen synthase kinase-
+3; ifna, interferon a; io, indirubin-30-oxime; ldh, lactate
+dehydrogenase; mebio, 1-methyl-bromoindirubin-30-oxime;
+meio, 1-methyl-indirubin-30-oxime; mts, 3-(4,5-dimethyl-
+thiazol-2-yl)-5-(3-carboxymethoxyphenyl)-2-(4-sulfophenyl)-2h
+-tetrazolium; ra,
+reactive oxygen
+species; sts, staurosporine; tcdd, 2,3,7,8-tetrachlorodiben-
+zo-p-dioxin.
+retinoic acid; ros,
+acknowledgements
+cell death and cell viability assessments cell death character-
+ization based on nuclear morphology was assessed by double
+staining with 0.05 mg/ml bisbenzimide and 25 mg/ml pi.
+cell viability was determined by means of the mts method.
+both procedures have been previously described in detail
+(ribas and boix, 2004). for evaluation of dna laddering,
+cell dna was extracted and electrophoresed in 1.5% agarose
+gels to evidence the internucleosomal fragmentation typical
+of apoptosis.
+we thank our colleagues for providing reagents: dr martin
+goe¨ ttlicher, dr steve safe, dr bert vogelstein. this research
+was supported a grant from the eec (fp6-2002-life sciences
+& health, pro-kinase research project) (lm), and a
+‘cance´ ropole grand-ouest’ grant (lm). kb was supported by
+a fellowship from the ‘ministe` re de la recherche’. the
+molecular pharmacology group thank the ‘instituto de salud
+carlos iii’ (pi041488, 2005-2007) for ﬁnancial support.
+oncogene
+antitumor activity of 7-bromoindirubin-30-oxime
+j ribas et al
+6318
+references
+adachi j, mori y, matsui s, takigami h, fujino j, kitagawa
+knockaert m, greengard p, meijer l.
+(2002). trends
+h et al. (2001). j biol chem 276: 31475–31478.
+pharmacol sci 23: 417–425.
+bach s, blondel m, meijer l. (2006). in: yue e and smith pj
+(eds). monographs on enzyme inhibitors. vol. 2. cdk
+inhibitors and their potential as anti-tumor agents. crc
+press: boca raton, in press.
+baehecke eh. (2005). nat rev mol cell biol 6: 505–510.
+balfour-paul j. (1998). indigo. british museum press: london.
+benson c, kaye s, workman p, garrett m, walton m, de
+bono j. (2005). br j cancer 92: 7–12.
+kolluri sk, weiss c, koff a, go¨ ttlicher m. (1999). genes dev
+13: 1742–1753.
+kosmopoulou mn, leonidas dd, chysina ed, bischler n,
+eisenbrand g, sakarellos ce et al. (2004). eur j biochem
+271: 2280–2290.
+leclerc s, garnier m, hoessel r, marko d, bibb ja, snyder
+gl et al. (2001). j biol chem 276: 251–260.
+lee jw, moon mj, min hy, chung hj, park ej, park hj
+bertrand ja, thiefﬁne s, vulpetti a, cristiani c, valsasina b,
+et al. (2005). bioorg med chem lett 15: 3948–3952.
+knapp s et al. (2003). j mol biol 33: 393–407.
+lu h, chang dj, baratte b, meijer l, schulze-gahmen u.
+broker le, kruyt fa, giaccone g. (2005). clin cancer res
+(2005). j med chem 48: 737–743.
+11: 3155–3162.
+mapelli m, massimiliano l, crovace c, seeliger m, tsai lh,
+caserta tm, smith an, gultice ad, reedy ma, brown tl.
+meijer l et al. (2005). j med chem 48: 671–679.
+(2003). apoptosis 8: 345–352.
+marko d, scha¨ tzle s, friedel a, genzlinger a, zankl h,
+chipuk je, green dr. (2005). nat rev mol cell biol 6:
+meijer l et al. (2001). br j cancer 84: 283–289.
+268–275.
+cohen p. (2002). nat rev drug discov 1: 309–315.
+cooksey cj. (2001). molecules 6: 736–769.
+damiens e, baratte b, marie d, eisenbrand g, meijer l.
+(2001). oncogene 20: 3786–3797.
+davies tg, tunnah p, meijer l, marko d, eisenbrand g,
+endicott ja et al. (2001). structure 9: 389–397.
+degterev a, huang z, boyce m, li y, jagtap p, mizushima n
+et al. (2005). nat chem biol 1: 112–119.
+denison ms, nagy sr. (2003). annu rev pharmacol toxicol
+43: 309–334.
+elferink cj. (2003) in: meijer l, jezequel a and roberge m
+(eds). progression cell cycle research. station biologique de
+roscoff: france, pp 261–267; progr cell cycle res, vol. 5,
+life in progress.
+fischer pm. (2004). curr med chem 11: 1563–1583.
+fischer pm, endicott j, meijer l. (2003) in: meijer l, je´ ze´ quel
+a, robergem (eds). progression cell cycle research. station
+biologique de roscoff: france, pp 235–248; progr cell cycle
+res, vol. 5, edns, life in progress.
+meijer l, borgne a, mulner o, chong jpj, blow jj, inagaki
+n et al. (1997). eur j biochem 243: 527–536.
+meijer l, skaltsounis al, magiatis p, polychronopoulos
+p, knockaert m, leost m et al. (2003). chem biol 10:
+1255–1266.
+merz kh, schwahn s, hippe f, muhlbeyer s, jakobs s,
+(2004). int j clin pharmacol ther 42:
+eisenbrand g.
+656–658.
+nam s, buettner r, turkson j, kim d, cheng jq,
+muehlbeyer s et al. (2005). proc natl acad sci usa 102:
+5998–6003.
+noble me, endicott ja, johnson ln. (2004). science 303:
+1800–1805.
+polychronopoulos p, magiatis p, skaltsounis l, myriantho-
+poulos v, mikros e, tarricone a et al. (2004). j med chem
+47: 935–994.
+ribas j, gomez-arbones x, boix j. (2005). eur j pharmacol
+524: 49–52.
+ribas j, boix j. (2004). exp cell res 295: 9–24.
+spink bc, hussain mm, katz bh, eisele l, spink dc.
+fischer pm, gianella-borradori a. (2005). exp opin investig
+(2003). biochem pharmacol 66: 2313–2321.
+drugs 14: 457–477.
+guengerich fp, sorrells jl, schmitt s, krauser ja, aryal p,
+meijer l. (2004). j med chem 47: 3236–3241.
+sugihara k, kitamura s, yamada t, okayama t, ohta s,
+yamashita k et al. (2004). biochem biophys res commun
+318: 571–578.
+hoessel r, leclerc s, endicott j, noble m, lawrie a, tunnah
+teng x, degterev a, jagtap p, xing x, choi s, denu r et al.
+p et al. (1999). nat cell biol 1: 60–67.
+(2005). bioorg med chem lett 15: 5039–5044.
+holton s, merckx a, burgess d, doerig c, noble m, endicott
+vermeulen k, van bockstaele dr, berneman zn. (2003). cell
+j. (2003). structure 11: 1329–1337.
+prolif 36: 131–149.
+jaattela m. (2004). oncogene 23: 2746–2756.
+jautelat r, brumby t, schafer m, briem h, eisenbrand g,
+weinmann h, metternich r. (2005). chem biol chem 6: 455–459.
+weiss c, kolluri sk, kiefer f, go¨ ttlicher m. (1996). exp cell
+schwahn s et al. (2005). chembiochem 6: 531–540.
+res 226: 154–163.
+kane dj, ord t, anton r, bredesen de. (1995). j neurosci
+wu zl, aryal p, lozach o, meijer l, guengerich fp. (2005).
+res 40: 269–275.
+chem biodiv 2: 51–65.
+kawanishi m, sakamoto m, ito a, kishi k, yagi t. (2003).
+xiao z, hao y, liu b, qian l. (2002). leukemia lymphoma
+mutat res 540: 99–105.
+43: 1763–1768.
+knockaert m, blondel m, bach s, leost m, elbi c, hager g
+yuste vj, sanchez-lopez i, sole c, encinas m, bayascas jr,
+et al. (2004). oncogene 23: 4400–4412.
+boix j et al. (2002). j neurochem 80: 126–139.
+oncogene

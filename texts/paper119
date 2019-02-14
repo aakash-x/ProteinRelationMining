@@ -1,0 +1,1021 @@
+the embo journal (2007) 26, 1749–1760 | & 2007 european molecular biology organization | all rights reserved 0261-4189/07
+www.embojournal.org
+reactive oxygen species are essential for
+autophagy and speciﬁcally regulate the activity
+of atg4
+the
+the
+embo
+embo
+embo
+journal
+journal
+ruth scherz-shouval, elena shvets,
+ephraim fass, hagai shorer, lidor gil
+and zvulun elazar*
+department of biological chemistry, the weizmann institute of science,
+rehovot, israel
+autophagy is a major catabolic pathway by which eukar-
+yotic cells degrade and recycle macromolecules and orga-
+nelles. this pathway is activated under environmental
+stress conditions, during development and in various
+pathological situations. in this study, we describe the
+role of reactive oxygen species (ros) as signaling mole-
+cules in starvation-induced autophagy. we show that
+starvation stimulates formation of ros, speciﬁcally h2o2.
+these oxidative conditions are essential for autophagy, as
+treatment with antioxidative agents abolished the forma-
+tion of autophagosomes and the consequent degradation
+of proteins. furthermore, we identify the cysteine protease
+hsatg4 as a direct target for oxidation by h2o2, and specify
+a cysteine residue located near the hsatg4 catalytic site as
+a critical for this regulation. expression of this regulatory
+mutant prevented the formation of autophagosomes in
+cells, thus providing a molecular mechanism for redox
+regulation of the autophagic process.
+the embo journal (2007) 26, 1749–1760. doi:10.1038/
+sj.emboj.7601623; published online 8 march 2007
+subject categories: membranes & transport
+keywords: atg4; autophagy; gate-16; ros
+introduction
+autophagy is a major pathway for delivery of proteins and
+organelles
+to lysosomes/the vacuole, where they are
+degraded and recycled. autophagy plays an essential role in
+differentiation and development, as well as in cellular
+response to stress. it is activated during amino-acid depriva-
+tion and has been associated with neurodegenerative dis-
+eases, cancer, pathogen infections and myopathies (reviewed
+in cuervo, 2004; shintani and klionsky, 2004). autophagy is
+initiated by the surrounding of cytoplasmic constituents by
+the crescent-shaped isolation membrane/phagophore, which
+forms a closed double-membrane structure, called autopha-
+gosome. finally, the autophagosome fuses with a lysosome
+to become an autolysosome, and its content is degraded by
+lysosomal hydrolases.
+*corresponding author. department of biological chemistry,
+the weizmann institute of science, rehovot, 76100 israel.
+tel.: þ 972 8 9343682; fax: þ 972 8 9344112;
+e-mail: bmzevi@wicc.weizmann.ac.il
+received: 31 august 2006; accepted: 24 january 2007; published
+online: 8 march 2007
+the molecular mechanism underlying autophagy has been
+extensively researched in the past decade, and the genes
+participating in this process, denoted atgs (autophagy-
+related; klionsky et al, 2003), were found to be conserved
+from yeast to man (ohsumi, 2001; huang and klionsky,
+2002). yet, the roles played by the different gene products
+and their modes of action are to be resolved. a hallmark
+event in the autophagic process is the reversible conjugation
+of the atg8 family of proteins to the autophagosomal mem-
+brane (ichimura et al, 2000). this ubiquitin-like (ubl) pro-
+tein family, which has been implicated in a variety of cellular
+processes, includes atg8p in yeast (lang et al, 1998; ichimura
+et al, 2000) and gate-16 (golgi-associated atpase enhancer
+of 16 kda; sagiv et al, 2000), lc3 (light-chain 3; mann and
+hammarback, 1994) and gabarap (gaba receptor-
+associated protein; wang et al, 1999) in mammals. all atg8
+homologues (hereafter termed atg8s) serve as substrates for
+the atg4 family of cysteine proteases (kirisako et al, 2000;
+hemelaar et al, 2003; marino et al, 2003; scherz-shouval
+et al, 2003). atg4s cleave atg8s near the c-terminus, down-
+stream of a conserved glycine. this cleavage allows the
+conjugation of atg8 to phosphatidylethanolamine (pe)
+through the exposed glycine, a process mediated through a
+ubiquitination-like mechanism. atg8-pe serves as another
+substrate for atg4, which cleaves atg8 and releases it from
+the membrane. notably, this conjugation process must be
+preceded by another ubiquitination-like process, conjugating
+atg12 to atg5 (tanida et al, 2004b). in mammalian cells,
+amino-acid deprivation induces lipidation of lc3 (kabeya
+et al, 2000) as well as of gate-16 and gabarap (kabeya
+et al, 2004). lipidated atg8s associate with phagophaores and
+autophagosomes and remain there until fusion with lyso-
+somes, at which point intra-autophagosomal atg8 is probably
+degraded (kabeya et al, 2000, 2004).
+at least four atg4 mammalian homologues have been
+reported based on sequence homology to the yeast
+saccharomyces cerevisiae (sc)atg4. two of the homologues,
+hsatg4a and hsatg4b, were shown to cleave the three
+mammalian atg8s with different efﬁciencies: hsatg4a
+cleaves mainly gate-16, whereas hsatg4b cleaves all three
+homologues (gate-16, gabarap and lc3), with the highest
+efﬁciency for lc3 (kabeya et al, 2004).
+atg4s act both as conjugating and deconjugating enzymes
+and therefore their activity is expected to be tightly regulated.
+hence, in the process of autophagy, following the initial
+cleavage of atg8-like proteins, atg4 must become inactive
+so as to ensure the conjugation of atg8 to the autophago-
+somal membrane. later on, as the autophagosome fuses with
+the lysosome, atg4 might be locally re-activated in order to
+delipidate and recycle atg8. how is this regulation achieved?
+we have previously shown that recombinant hsatg4a is
+active as a cysteine protease of gate-16 only in the presence
+of the reducing agent dtt (scherz-shouval et al, 2003). this
+& 2007 european molecular biology organization
+the embo journal vol 26 | no 7 | 2007
+1749
+redox regulation of starvation-induced autophagy
+r scherz-shouval et al
+could implicate that, in vivo, the delipidating activity of atg4
+is regulated through changes in redox potentials that take
+place under different conditions and at speciﬁc subcellular
+microenvironments. such regulation could be inﬂicted,
+among other factors, by reactive oxygen species (ros). at
+high levels, ros are deleterious to cells, leading to pro-
+grammed cell death (pcd) (jabs, 1999; lee et al, 2003;
+macip et al, 2003). at low levels, however, ros can serve
+as signaling molecules, by oxidizing factors in a variety of
+pathways that lead to growth and survival. here, we report
+for the ﬁrst time the involvement of ros as signaling mole-
+cules in nutrient starvation-induced autophagy, which is
+essentially a survival pathway. we show that under starva-
+tion conditions, cells form ros, speciﬁcally h2o2, which
+is essential for autophagosome formation and autophagic
+degradation. the oxidative signal is partially pi3k dependent
+and leads to inhibition of atg4. using an in vitro assay, we
+could demonstrate that h2o2 directly regulates hsatg4a.
+moreover, we identiﬁed cys81, situated four amino acids
+downstream of the active site, as an essential residue for
+the redox regulation of hsatg4a. expression of hsatg4a
+mutated in cys81, or the corresponding mutant of hsatg4b,
+inhibited the formation of gate-16- or lc3-labeled auto-
+phagosomes in cells.
+results
+starvation induces formation of ros
+ros serve as signaling molecules in a variety of cellular
+processes, including growth, differentiation, adhesion and
+pcd. to test whether ros play a role in autophagy, we
+measured ros production under starvation using a ﬂuores-
+cent probe, dihydroethidum (dhe). dhe reacts with perox-
+ides to form a compound that upon binding to dna
+ﬂuoresces and can be visualized by confocal ﬂuorescent
+microscopy (vanden hoek et al, 1997). indeed, upon nutrient
+starvation, dhe staining was evident, indicating that cells
+accumulate peroxides under these conditions (figure 1a). we
+then used another probe, 20,70-dichloroﬂuorescin diacetate
+(dcf-da), which reacts mainly with h2o2 to form a ﬂuor-
+escent compound at the point of interaction (cathcart et al,
+1983; vanden hoek et al, 1997). dcf staining was already
+evident 15 min after the induction of starvation (figure 1bd
+and supplementary figure 1a, see text below). the pattern of
+dcf staining was punctated as well as cytosolic, and it was
+also apparent following overnight starvation (figure 1bh).
+these results indicate that h2o2 is most likely the oxidative
+agent accumulating in starved cells. to rule out the possibility
+that the oxidative signal associated with starvation is leading
+to pcd, we tested the viability of cells grown under nutrient
+starvation conditions. as shown in supplementary figure 1b,
+5 h of nutrient starvation did not affect the viability of the
+cells, and the percent of cell death was equally low in control
+and starved cells. taken together with the ﬁnding that the
+oxidative signal appears minutes after induction of starva-
+tion, these results suggest that h2o2 serves as a signaling
+molecule in the autophagic pathway, and not as part of an
+oxidative stress leading to pcd.
+the pattern of dcf staining resembled mitochondrial
+staining, and therefore we double stained the cells with
+dcf and mitotracker red, a marker for functional mitochon-
+dria. we found signiﬁcant overlap between the two markers
+(figure 1bf and j; enlargements in g and k, respectively). all
+the dcf puncta either colocalized with or were in close
+vicinity to mitotracker-stained structures, suggesting mito-
+chondria as the source of ros generated during starvation.
+this ﬁnding coincides with our observation that phago-
+phores, identiﬁed by a double staining with atg5 and atg16
+(mizushima et al, 2003), tend to colocalize with mitotracker
+red-stained mitochondria (supplementary figure 1c), sug-
+gesting a functional
+link between ros generated in the
+mitochondria during starvation and autophagosome forma-
+tion. this result is consistent with recently reported ﬁndings
+(kissova et al, 2006).
+in order to assess the rise in ros in a more accurate
+manner, we measured the increase in dcf ﬂuorescence
+using a ﬂuorimeter set at 485 nm excitation and 535 nm
+emission in two different cell lines (cho and hela). the
+cells were either deprived of serum, completely starved
+(deprived of serum and nutrients) or grown in control
+medium for 2 h, after which they were treated with dcf
+and the ﬂuorescent signal of the whole population (3 104
+cells) was monitored. as shown in figure 1c, complete
+starvation of the cells resulted in a dramatic increase in the
+ﬂuorescent signal over time, as compared to the control,
+whereas serum starvation had only a mild effect on the
+ﬂuorescent signal, indicating a slight increase in ros produc-
+tion. these measurements were further processed and sum-
+marized as the increase in dcf ﬂuorescence over 20 min of
+incubation with the reagent (figure 1d).
+class iii pi3k is involved in starvation-dependent ros
+formation
+in the attempt to understand where ros production ﬁts in the
+autophagic signaling pathway, we monitored the effect of two
+known autophagy inhibitors, wortmannin and 3-methylade-
+nine (3ma), on starvation-dependent dcf staining (petiot
+et al, 2000). starvation of cells for a 2-h period in the presence
+of either drug reduced the level of dcf ﬂuoresence by 25–
+30% (figure 2a, left panel). as expected, the autophagic
+activity in the treated cells, tested by the rate of degradation
+of long-lived proteins (known to increase during autophagy,
+see mizushima et al, 2001), was signiﬁcantly reduced
+(figure 2a, right panel). wortmannin and 3ma are phospha-
+tidyl inositol 3 kinase (pi3k) inhibitors. class iii pi3k plays a
+critical role in the early stages of autophagosome formation
+in mammals through formation of an essential complex with
+beclin 1 and, hence, inhibition of its activity inhibits the
+autophagic process (petiot et al, 2000; tassa et al, 2003). this
+ﬁnding, therefore, indicates that ros production is partially
+pi3k dependent. indeed, partial silencing of beclin 1 (pre-
+viously shown to cause a partial autophagic defect; reef et al,
+2006) or the pi3k hvps34 resulted in 15 and 20% (respec-
+tively)
+reduction in starvation-induced ros production
+(supplementary figure 2a). notably, partial silencing of
+hvps34 caused 30% reduction in the number of autophago-
+somes per cell (supplementary figure 2b, lower right panel).
+next, we assessed the level of dcf staining in cell lines
+deleted for the atg5 gene, whose product is essential for
+autophagosome formation, acting downstream of the class iii
+pi3k (suzuki et al, 2001; tanida et al, 2004b). dcf staining in
+the mutant cells did not decrease, as compared with control
+cells (figure 2b), but rather increased signiﬁcantly (40–50%),
+indicating that ros production takes place upstream of the
+1750
+the embo journal vol 26 | no 7 | 2007
+& 2007 european molecular biology organization
+redox regulation of starvation-induced autophagy
+r scherz-shouval et al
+figure 1 cells accumulate ros under starvation conditions. (a) cho cells were grown in a control medium (see materials and methods) or
+starved for 3 or 13 h, after which they were incubated in 50 mm dhe and visualized as detailed in materials and methods. (b) cho cells were
+grown as in (a), treated with 5 nm mitotracker red for 30 min at 371c, washed, treated with 30 mm dcfda and visualized as detailed in
+materials and methods. (c) hela cells grown in 96-well plates were deprived of serum (amem), completely starved (ebss) or maintained in
+a control medium (a-mem, 10% fcs) for 2 h, after which they were treated with dcfda as in (b) and subsequently analyzed in a ﬂuorimeter,
+as explained in materials and methods. (d) data collected from the ﬂuorometric measurements were analyzed as detailed in materials
+and methods.
+atg5-dependent step of autophagosome formation, and
+suggesting that in the absence of a functional autophagic
+pathway, cells accumulate ros.
+ros formation is essential for autophagy
+the results described above suggest that starvation induces
+ros formation. but are ros essential for autophagy? to
+address this question, we tested the effect of n-acetyl-l-
+cysteine (nac), a general antioxidant, and catalase, which
+speciﬁcally decomposes h2o2, on the formation of autopha-
+gosomes using gate-16 and lc3 as markers. lc3 and gate-
+16 were shown to label autophagosomes under starvation
+conditions (kabeya et al, 2004; supplementary figure 3a),
+and as shown in supplementary figure 3b, the two proteins
+& 2007 european molecular biology organization
+the embo journal vol 26 | no 7 | 2007 1751
+redox regulation of starvation-induced autophagy
+r scherz-shouval et al
+figure 2 ros formation occurs partially downstream of class iii pi3k activation. (a) left panel: hela cells were starved for 2 h in the presence
+or absence of either 100 nm wortmannin or 10 mm 3ma, after which they were treated with dcfda and analyzed by a ﬂuorimeter as described
+above. right panel: the rate of degradation of long-lived proteins was measured in cells incubated in either a-mem medium or ebss medium
+in the absence or presence of 100 nm wortmannin or 10 mm 3ma. values are represented as the means7s.d. of three separate determinations.
+(b) wt mefs or atg5 ( / ) mefs from two separate clones were starved for 2 h before treatment with dcfda and visualization or
+ﬂuorometric analysis.
+exhibit signiﬁcant colocalization under these conditions.
+addition of either nac or catalase to the growth medium
+(sakurai and cederbaum, 1998; preston et al, 2001; xu et al,
+2003) of the cells for 10 min before a 2-h starvation period
+resulted in reduced lipidation of gate-16 and lc3 and
+abolished the formation of gate-16- and lc3-labeled auto-
+phagosomes (figure 3a and supplementary figure 3c). as
+expected, the same concentration of antioxidative reagents
+signiﬁcantly reduced the level of ros in the treated cells
+(figure 3b). these results were further validated by testing
+the effect of antioxidants on starvation-induced protein
+degradation (figure 3c). treatment with nac caused 60%
+inhibition in starvation-induced degradation, and catalase
+caused 25% inhibition in starvation-induced degradation.
+taken together, we conclude that starvation conditions
+induce formation of ros, which are required for induction
+of autophagy. notably, treatment of cells with h2o2 alone did
+not result in formation of autophagosomes (data not shown).
+atg4 is attenuated in response to starvation in a
+redox-dependent manner
+next, we searched for a cellular target of the starvation-
+induced oxidative signal. the amount of the lipidated form
+of atg8s increases signiﬁcantly during starvation (kabeya
+et al, 2004). as shown in figure 4a, this elevation,
+in
+mammalian atg8s, does not result from increased transcrip-
+tion, as previously shown for scatg8 (kirisako et al, 1999).
+consistently, we could not observe changes in the protein
+levels of mammalian atg8s under these conditions (figure 4b
+and data not shown). we therefore deduce that the increase
+in lipidated mammalian atg8 proteins in response to nutrient
+starvation is due to post-translational regulation of the pro-
+cessing enzymes. to test this hypothesis, cells were starved
+for 3 or 13 h, after which they were lysed and the lysates were
+tested for their ability to cleave gate-16. in this assay,
+recombinant gate-16, tagged at both termini (his6-gate-
+16-ha), is used so that cleaved gate-16 can be detected by
+its faster mobility in sds–page. as shown in figure 4c,
+incubation of gate-16 in a lysate prepared from cells that
+were starved for a short period of 3 h resulted in a decrease of
+up to 40% in the cleavage activity as compared with control
+cells. starvation of cells for longer periods of 13 h (during
+which the cells are still viable) resulted in further inhibition
+in cleavage activity. however, addition of 1 mm dtt to the
+lysates brought about recovery of
+the cleavage activity,
+suggesting that the inhibition of atg4 was caused by oxida-
+tion of the protein. consistently, treatment of cells with 1 mm
+h2o2 for 1 h before lysis resulted in strong inhibition of the
+cleavage activity of atg4 as compared with control cells.
+addition of dtt to the lysate restored most of the lost
+activity, conﬁrming that the inhibition by oxidation is rever-
+sible. notably, the protein levels of the gate-16-speciﬁc
+protease, hsatg4a, did not change under any of the tested
+conditions (supplementary figure 4a), supporting the idea
+that
+the regulation of atg4 activity is post-translational.
+speciﬁc anti-hsatg4a antibodies were utilized to conﬁrm
+that the cleavage activity shown in figure 4c is mediated
+by hsatg4a (for details see supplementary figure 4b),
+1752
+the embo journal vol 26 | no 7 | 2007
+& 2007 european molecular biology organization
+redox regulation of starvation-induced autophagy
+r scherz-shouval et al
+is also inhibited during starvation, we transfected cells with
+gate-16 tagged with myc at its n-terminus and ha at the
+c-terminus, starved them for 30 min (a time period in which
+autophagosomes are expected to form; fass et al, 2006) or
+13 h and subjected them to a [35s]methionine pulse–chase
+experiment as detailed in materials and methods (figure 4d).
+the control experiment shows that two bands at approxi-
+mately 19 kda are detected immediately after pulse labeling
+in the transfected cells (figure 4d, left panel). a 1 h chase
+resulted in disappearance of the upper band, suggesting that
+this band corresponds to unprimed gate-16 (myc-gate-16-
+ha), whereas the lower band corresponds to primed gate-16
+(myc-gate-16). short starvation does not induce accumula-
+tion of the unprimed form (figure 4d, middle panel), and this
+form accumulates only in cells that were starved for a long
+period of 13 h.
+these results indicate that hsatg4a is redox regulated
+during starvation. as the priming activity is not affected by
+short starvation, we conclude that the delipidation activity is
+the main target of this regulation.
+to characterize the redox regulation of hsatg4, we
+expressed hsatg4a as a recombinant protein and tested its
+activity in the cell-free cleavage assay. as depicted in
+figure 5a, the protease was gradually activated upon reduc-
+tion of the reaction mixture and the activity saturated at 1 mm
+dtt. next, we tested the inhibition of hsatg4a activity by
+h2o2. the protein was preincubated in a low concentration of
+dtt for activation followed by addition of h2o2 for 5 min
+before incubation with gate-16 for the cleavage assay. the
+activity of hsatg4a decreased as the h2o2 concentration
+increased above 100 mm (figure 5b). in some experiments,
+a slight increase in the protease activity was detected upon
+addition of 30 mm h2o2 to the reaction mixture. finally, we
+tested the reversibility of hsatg4 inhibition by h2o2. in this
+experiment, the protein was preincubated in a low concen-
+tration of dtt (figure 5c, lane 2) followed by addition of
+h2o2 (lane 3) and then addition of a high concentration of
+dtt (lane 4; each incubated for 5 min before addition of the
+next reagent) before incubation with gate-16. under these
+conditions, hsatg4a completely regained its activity. taken
+together, these results show that reducing conditions activate
+hsatg4a, whereas an oxidizing environment
+inhibits its
+activity. moreover, these results indicate that h2o2 alone is
+sufﬁcient to reversibly inhibit the activity of hsatg4a in vitro,
+and therefore suggest that h2o2 might also act directly on the
+protease in vivo.
+to the whole family (figure 6). one of
+cys81 is a target for the redox regulation of hsatg4a
+hsatg4a contains 12 cysteines, seven of which are highly
+conserved among tetrapod homologues of atg4a and atg4b.
+the latter share an overall high conservation level with
+respect
+these
+conserved residues is the putative active residue of
+the
+protease cys77 (kirisako et al, 2000; tanida et al, 2004a),
+the only cysteine conserved also in the yeast s. cerevisiae
+(figure 6a, large arrow, numbering is according to hsatg4b).
+another conserved residue (cys81 in hsatg4a) is located four
+sites downstream of the active residue. we ﬁrst sought to
+determine whether cys77 is the catalytic residue, as suggested
+by homology to scatg4 and hsatg4b. as shown in figure 7a,
+recombinant hsatg4a harboring a mutation of cysteine to
+alanine at position 77 (his6-hshsatg4ac77a) did not cleave
+figure 3 ros accumulation is essential for autophagy. (a) upper
+panel: cho cells stably transfected with gfp-gate-16 were pre-
+incubated in the presence or absence of 10 mm nac or 1000 m/ml
+catalase for 10 min before starvation for 2 h in the presence or
+absence of these drugs, or grown in a control medium containing
+the drugs for 2 h. the cells were then ﬁxed, permeabilized and
+stained with anti-gfp monoclonal antibodies. representative
+images are shown. lower panel: hek 293 cells were transfected
+with gfp-gate-16. at 24 h post-transfection, the cells were treated
+with nac or catalase and starved as explained above, lysed in ripa
+buffer and 100 mg of each lysate was separated on 10% sds–page
+and subsequently analyzed with anti-gfp antibodies to detect the
+transfected gate-16 and anti-tubulin antibodies as control. the
+data were quantiﬁed using nih image program and are depicted
+as the percentage of lipidated protein from the total gate-16.
+(*) indicates non-lipidated and (**) indicates lipidated gfp-gate-
+16. (b) cho cells treated with nac or catalase and starved as
+detailed in (a) were incubated with dcfda and visualized by
+a confocal microscope or analyzed by a ﬂuorimeter as in figure 1.
+(c) the rate of degradation of long-lived proteins was measured in
+cho cells incubated in either a-mem medium or ebss medium,
+or following pretreatment with 10 mm nac for 10 min or with
+1000 m/ml catalase overnight. a representative experiment
+is
+shown.
+indicating that atg4 is a target for redox regulation under
+starvation, and suggesting that accumulation of lipidated
+atg8s under starvation might result from inhibition of atg4
+activity. indeed, we found that treatment with 1 mm h2o2
+resulted in accumulation of lipidated lc3 (supplementary
+figure 4c).
+atg4 acts both in the initial processing of atg8s (priming)
+and in the delipidation step. the priming step was previously
+shown to occur immediately after translation under nutrient-
+rich conditions (kabeya et al, 2000). to test whether this step
+& 2007 european molecular biology organization
+the embo journal vol 26 | no 7 | 2007 1753
+redox regulation of starvation-induced autophagy
+r scherz-shouval et al
+figure 4 the activity of endogenous atg4 is inhibited under nutrient starvation. (a) cho cells (for mammalian atg8s) or cells of s. cerevisiae
+(for scatg8) were incubated in starvation medium (ebss or sd-n, respectively) for different time periods as indicated before isolation of rna
+by the tri-reagent as explained in materials and methods. for each gene, data obtained from non-starved cells were set to an arbitrary value of
+1, and results from the corresponding starved cells were normalized accordingly. results represent the means7s.d. of three separate
+experiments. (b) hek 293 cells were grown in control medium or starved for 2 h in ebss in the absence or presence of 100 nm baﬁlomycin a1.
+lysates (100 mg) obtained in ripa buffer were run on 12% sds–page and analyzed by western blot, using anti-gate-16 or anti-tubulin
+antibodies. (c) cho cells were grown in a control medium in the presence or absence of 1 mm h2o2 for 1 h, or starved for 3 or 13 h. lysates
+(10 mg) obtained in ripa buffer were incubated with recombinant his6-gate-16-ha (0.3 mg) in 50 kt reaction buffer (25 mm tris, ph 7.4,
+50 mm kcl) at 301c for 45 min, in the presence or absence of 1 mm dtt. the reaction was stopped by addition of sample buffer and boiling,
+after which the samples were resolved on 15% sds–page and subsequently analyzed by western blot, using anti-his monoclonal antibodies.
+the experiment was repeated six times; a representative blot is shown. (d) left panel: hela cells transfected with myc-gate-16-ha or with an
+empty vector as control were labeled with [35s]methionine for 10 min and lysed immediately or chased for 1 h before lysis in ripa buffer.
+lysates were immunoprecipitated using anti-myc antibodies and the immunoprecipitates were resolved on 15% sds–page. middle panel:
+hela cells transfected with myc-gate-16-ha were kept in control medium or starved for 30 min or 13 h in ebss before labeling with
+[35s]methionine for 10 min, immediate lysis, analysis by sds–page and quantiﬁcation (right panel) using nih image program. values are
+presented as the average percentage of unprimed form out of the total gate-16. (*) in all sections of this ﬁgure indicates non-cleaved his6-
+gate-16-ha or myc-gate-16-ha and (**) indicates cleaved his6-gate-16 or myc-gate-16.
+gate-16 in vitro, neither in the absence nor in the presence
+of dtt. based on this result and the sequence homology
+described above, we conclude that cys77 is part of the active
+site of hsatg4a.
+to study the mechanism of redox regulation of hsatg4a,
+we mutated the conserved cysteine residues 81 and 92
+(figure 6a, small arrows), which are closest to the active
+residue, to serine (his6-hsatg4ac81s and his6-hsatg4ac92s,
+respectively) and tested their activity in the cell-free cleavage
+assay of gate-16 under different redox conditions. as shown
+in figure 7a, mutation in cys81 signiﬁcantly reduced the
+redox sensitivity of hsatg4a so that his6-hsatg4ac81s was
+partially active even in the absence of dtt. mutation in cys92,
+however, had no effect on the regulation and the protease
+remained under the same conditions as active as his6-
+hsatg4awt (data not shown). next, we tested the effect of
+oxidation by h2o2 on the activity of his6-hsatg4ac81s. we
+found that the mutant protein retained signiﬁcant activity in
+the presence of h2o2 (figure 7b) under conditions in which
+the wt was completely inhibited (figure 5c). similar to the
+wt, the partial inhibition of his6-hsatg4ac81s by h2o2 could
+be reversed by addition of dtt. from these results, we
+conclude that cys81 is important for redox regulation of
+hsatg4a in vitro.
+hsatg4a and hsatg4b are both redox regulated during
+autophagy
+to examine whether cys81 plays a role in the redox regulation
+of hsatg4a in vivo, we monitored the formation of gfp-
+gate-16-labeled autophagosomes in cells transfected with
+hsatg4a mutants. expression of hsatg4ac81s signiﬁcantly
+impaired the formation of gate-16-labeled autophagosomes
+in starved cells (figure 8a), as compared with cells expres-
+sing hsatg4awt (figure 8a) or hsatg4ac92s (data not
+shown) at similar levels. the average number of autophago-
+somes formed in hsatg4ac81s-expressing cells was 70%
+lower than in hsatg4awt-expressing cells (figure 8a, lower
+in the presence of
+panel). one could suggest
+that
+1754
+the embo journal vol 26 | no 7 | 2007
+& 2007 european molecular biology organization
+redox regulation of starvation-induced autophagy
+r scherz-shouval et al
+hsatg4ac81s, autophagosomes are formed, but then rapidly
+degraded, and therefore cannot be seen. to exclude this
+possibility, we inhibited the degradation of autophagosomes
+in the lysosome using baﬁlomycin a (mousavi et al, 2001).
+this treatment did not affect the mutant phenotype, indicat-
+ing that autophagosomes do not form in cells transfected with
+hsatg4ac81s (data not shown). the ﬁnding that gate-16-
+labeled autophagosomes do not form in hsatg4ac81s-expres-
+sing cells was further supported by gate-16 lipidation
+measurements. as the hsatg4ac81s mutant is less sensitive
+to oxidation, we expect the delipidation activity to be higher
+in starved cells transfected with this mutant as compared
+with cells transfected with hsatg4awt. indeed, we found
+nearly 40% less of the lipidated form of gate-16 in cells
+transfected with hsatg4ac81s as compared with cells trans-
+fected with hsatg4awt (figure 8b). it should be mentioned
+that expression of hsatg4ac81s did not affect the pattern of lc3
+staining in the cells (data not shown), as expected, as hsatg4a
+is speciﬁc for gate-16 and does not process lc3. taken
+together, our ﬁndings support the notion that cys81 takes
+part in the redox regulation of hsatg4a during autophagy.
+in order to extend our study to other atg4 family members,
+we decided to test the lc3-speciﬁc protease, hsatg4b. to
+that end, we transfected cells with gfp-hsatg4bwt, gfp-
+hsatg4bc78s or with gfp as control and tested the effect on
+lipidation of lc3 and formation of lc3-labeled autophago-
+somes. we found that overexpression of both gfp-
+hsatg4bwt and gfp-hsatg4bc78s reduced autophagosome
+formation and lipidation of lc3 (data not shown). this
+phenomenon was previously reported for overexpression of
+hsatg4bwt (tanida et al, 2004a). to overcome this problem,
+we added h2o2 to the starvation media. under these condi-
+tions, hsatg4bwt was inhibited and a normal autophagic
+phenotype was observed (figure 9). hsatg4bc78s, however,
+was resistant to h2o2 and the cells expressing this construct
+failed to form lipidated lc3 and lc3-labeled autophago-
+somes. these results indicate that hsatg4b, similar to
+hsatg4a, is redox regulated.
+discussion
+autophagy is a unique pathway of intracellular trafﬁcking
+activated in response to extracellular signals. although many
+of the proteins involved in this process have been identiﬁed,
+the signal transduction pathway leading to activation of
+autophagy is not fully solved. here we demonstrate, for the
+ﬁrst time, the involvement of ros as signaling molecules
+in starvation-induced autophagy. we show that starvation
+triggers accumulation of ros, most probably h2o2, which is
+necessary for autophagosome formation and the resulting
+pathway of degradation. the oxidative signal is partially pi3k
+dependent, located upstream of the atg5-dependent conjuga-
+tion machinery. furthermore, we identify a direct target for
+oxidation by h2o2—the protease atg4.
+based on our results, we propose the following model,
+illustrated in figure 10: nutrient starvation induces complex
+formation between class iii pi3k and beclin 1, which in turn
+leads, together with other signals, to a local rise in h2o2 in
+the vicinity of mitochondria. this oxidative signal leads to
+inactivation of atg4 at the site of autophagosome formation,
+thereby promoting lipidation of atg8, an essential step in the
+process of autophagy. as the autophagosome matures to-
+indicates
+figure 5 h2o2 directly inhibits the activity of hsatga. (a) cleavage
+activity was tested by incubation of recombinant his6-hsatg4a
+(0.1 mg) and his6-gate-16-ha (0.3 mg) in 50 kt reaction buffer at
+301c for 45 min in the presence of indicated concentrations of dtt
+followed by western blot analysis, using anti-his monoclonal
+antibodies. the resulting bands from three separate experiments
+were quantiﬁed with a densitometer using the bio-rad multi-
+analyst program and are presented as the average percentage of
+cleaved form out of the total gate-16. (*) indicates non-cleaved
+his6-gate-16-ha and (**)
+cleaved his6-gate-16.
+(b) his6-hsatg4a was incubated in the presence of 200 mm dtt at
+41c for 10 min. reduced his6-hsatg4a (0.1 mg) was then incubated
+in 50 kt (to obtain 15 mm dtt) with the indicated concentrations of
+h2o2 at 251c for 5 min, after which recombinant his6-gate-16-ha
+(0.3 mg) was added and incubation proceeded at 301c for 45 min.
+reaction mixtures from three separate experiments were analyzed
+and are presented as explained in (a). (c) his6-hsatg4a (0.1 mg)
+was incubated with recombinant his6-gate-16-ha (0.3 mg) after
+the following procedures: no treatment (lane 1); pretreatment with
+200 mm dtt at 251c for 5 min (lane 2); treatment with 200 mm dtt
+followed by treatment with 1 mm h2o2 at 251c for 5 min (lane 3);
+and treatment with 200 mm dtt followed by treatment with 1 mm
+h2o2 for 5 min and then 2 mm dtt (lane 4). reaction mixtures were
+analyzed by western blot using anti-his monoclonal antibodies.
+& 2007 european molecular biology organization
+the embo journal vol 26 | no 7 | 2007 1755
+redox regulation of starvation-induced autophagy
+r scherz-shouval et al
+figure 6 tetrapod homologues of atg4 share several conserved cysteine residues. (a) amino-acid alignment of the region surrounding the
+active cysteine residue among members of the atg4 family. sequences of the following accession numbers are aligned: bab83890, bab83889,
+np_777364, np_777363, np_001001171, cag32326, aah73017, aah82660, aah95617, xp_393739, np_608563, xp_661074, np_014176 and
+np_191554. the alignment was preformed using the clustalx multiple alignment program and is depicted by the espript 2.0 program,
+representing identity by a black frame and homology by a gray background. numbering is according to the hsatg4b sequence. a-helices and a
+b-sheet found in this region according to the recently solved structure of hsatg4b (sugawara et al, 2005; kumanomidou et al, 2006) are marked
+as black ellipses and a gray arrow, respectively. the catalytic cysteine residue is marked by a wide black arrow; other conserved cysteines are
+marked by thin black arrows. (b) a phylogenetic tree was created based on the alignment presented in (a) using the njplot program (perriere
+and gouy, 1996). bootstrap values indicating the reliability of the tree branches (with 1000 being the maximal value) are shown.
+wards fusion with the lysosome, its localization apparently
+changes to an h2o2-poor environment where atg4 is active
+and can delipidate and recycle atg8.
+how does h2o2 regulate atg4? atg4s are cysteine proteases
+that share several conserved cysteine residues. one of these is
+the catalytic residue, found previously in other members of
+the atg4 family and shown here to be cys77 in hsatg4a.
+another conserved motif is a cysteine residue located four
+amino acids from the catalytic residue, cys81 in hsatg4a.
+remarkably, we found this residue to be crucial for the redox
+regulation of hsatg4a. mutation of this residue to serine
+signiﬁcantly impaired the sensitivity of the protein to h2o2
+in vitro, and abolished the formation of gate-16-labeled auto-
+phagosomes in cells. the essentiality of this residue for proper
+redox regulation was further conﬁrmed by the ﬁnding that the
+corresponding hsatg4b mutant (hsatg4bc78s) exhibited a
+similar autophagic defect. our in vitro study shows that
+h2o2 directly inactivates atg4. this could be accomplished
+either by binding of h2o2 to cys77 or to cys81, forming
+reversible sulfenic acid that shields cys77, or by oxidation,
+figure 7 mutation in cys81 reduces the redox sensitivity of
+(a) recombinant his6-hsatg4awt, his6-
+hsatg4a in vitro.
+hsatg4ac77a or his6-hsatg4ac81s (0.1 mg) was incubated with
+his6-gate-16-ha (0.3 mg) in 50 kt reaction buffer at 301c for
+45 min in the presence or absence of 1 mm dtt. reaction mixtures
+were analyzed by western blot using anti-his monoclonal anti-
+bodies. (*) indicates non-cleaved his6-gate-16-ha and (**) indi-
+cates cleaved his6-gate-16. (b) his6-hsatg4ac81s (0.1 mg) was
+incubated with recombinant his6-gate-16-ha (0.3 mg) following
+the same procedure as detailed in figure 5c. reaction mixtures
+were analyzed and are presented as explained in (a).
+1756
+the embo journal vol 26 | no 7 | 2007
+& 2007 european molecular biology organization
+redox regulation of starvation-induced autophagy
+r scherz-shouval et al
+figure 8 cys 81 is required for redox regulation of hsatg4a in
+cells. (a) cho cells stably expressing gfp-gate-16 were transiently
+transfected with hsatg4awt-myc-his6 or hsatg4ac81s-myc-his6. at
+24 h post-transfection, cells were starved for 2.5 h after which they
+were ﬁxed, permeabilized and incubated with anti-myc monoclonal
+antibodies. upper panel: typical images of cells transfected with the
+above constructs, as visualized using a confocal microscope; re-
+presentative autophagosomes are indicated by arrows. lower panel:
+quantiﬁcation of the average number of autophagosomes per cell in
+the different transfectants. images of the ﬁxed cells were visualized
+using a nikon eclipse te300 ﬂuorescent microscope and used for
+quantiﬁcation of the number of autophagosomes per cell. the
+results presented are the means7s.d. of a total of 100 cells from
+three separate experiments. (*) indicates signiﬁcance at po0.001.
+(b) left panel: hek 293 cells were cotransfected with gfp-gate-16
+and each of the atg4a constructs mentioned in (a). at 40 h post-
+transfection, the cells were starved for 2.5 h, lysed in ripa buffer
+and 100 mg of each lysate was loaded to 10% sds–page and
+subsequently analyzed with anti-gfp antibodies to detect
+the
+transfected gate-16, anti-myc antibodies to detect the transfected
+hsatg4a and anti-tubulin antibodies as control. (*) indicates non-
+lipidated gfp-gate-16 and (**) indicates lipidated gfp-gate-16.
+right panel: results from three separate experiments, as detailed in
+the left panel, were analyzed using nih image program and
+quantiﬁed as follows: the amount of lipidated gfp-gate-16 out of
+the total of gfp-gate-16 was calculated for each mutant in each
+experiment. the value obtained for hsatg4awt in each experiment
+was set to 100% and the relative lipidation in cells transfected with
+the mutant was calculated accordingly.
+figure 9 hsatg4b is redox regulated during starvation in a similar
+mechanism to hsatg4a. (a) hela cells were transiently transfected
+with gfp-hsatg4bwt or gfp-hsatg4bc78s. at 24 h post-transfec-
+tion, cells were starved for 2.5 h in the presence of 4 mm h2o2 after
+which they were ﬁxed, permeabilized and incubated with anti-lc3
+polyclonal antibodies. cells were visualized (upper panel) and
+quantiﬁed (lower panel) as explained in figure 8. representative
+autophagosomes are indicated in the upper panel by arrows. the
+results presented in the lower panel are the means7s.d. of a total of
+100 cells from three separate experiments. (*) indicates signiﬁcance
+at po0.001. (b) left panel: hela cells transfected and treated as in
+(a) were lysed in ripa buffer and 40 mg of each lysate was loaded to
+12% sds–page and subsequently analyzed with anti-lc3 antibo-
+dies and anti-gfp antibodies to detect the transfected hsatg4b and
+anti-tubulin antibodies as control. (*) indicates non-lipidated lc3
+and (**) indicates lipidated lc3. right panel: results from three
+separate experiments, as detailed in the left panel, were analyzed as
+explained in figure 8b.
+which leads to other modiﬁcations such as formation of a
+disulﬁde bond between cys77 and cys81, again shielding cys77.
+such a disulﬁde bond, however, was not detected in our
+experiments (unpublished data). alternatively, h2o2 might
+be affecting a different site, which is altered when cys81 is
+& 2007 european molecular biology organization
+the embo journal vol 26 | no 7 | 2007 1757
+redox regulation of starvation-induced autophagy
+r scherz-shouval et al
+figure 10 a proposed model for the redox regulation of autophagy.
+mutated. the active site, cys77, is conserved from yeast to
+man, whereas cys81 is conserved only in tetrapod homologues
+of atg4a and atg4b. lower species harbor a conserved ser or
+thr in this residue and hence the choice of a c81s mutant. we
+thus propose that the redox regulation may be mediated via
+cys77 in lower species, whereas tetrapods evolved a more
+complex mechanism of regulation that requires both cys77
+and cys81, where the latter provides tetrapods with higher
+sensitivity to ros than lower species. the recently solved
+three-dimentional structure of hsatg4b (sugawara et al,
+2005; kumanomidou et al, 2006) supports our model, as it
+shows cys77 and cys81 to be situated at the beginning of an a-
+helix, both facing the same plane of the helix. with such close
+proximity between the two cysteines, modiﬁcations on cys81
+could indeed affect the active site. notably, both crystals were
+prepared under reducing conditions, and consequently no
+disulﬁde bridges or other modiﬁcations were reported for
+any of the cysteine residues.
+serve as
+cysteine-harboring proteins
+redox sensors.
+they can undergo rapid, variable and, most importantly,
+reversible post-translational modiﬁcations in response to
+changes in the oxidative conditions of
+the environment
+(sitia and molteni, 2004). several cysteine proteases, includ-
+ing cathepsin d, cathepsin b and the cytosolic caspase-3
+(chandler et al, 1998) and calpains (glading et al, 2001),
+have been shown to undergo redox regulation through a
+direct modiﬁcation of
+the active site (reviewed in giles
+et al, 2003). redox regulation of atg4 can provide
+rapid activation and inactivation of this protease, as part
+of the signaling pathway, leading to induction of the autop-
+hagic process.
+a growing body of evidence suggests that autophagy plays
+a dual role, both in survival and in death-related pathways
+(cuervo, 2003; codogno and meijer, 2005; reef et al, 2006).
+the data available till now, linking ros with autophagy,
+describe the death-related pathway, known as type ii pcd,
+which is induced by high levels of ros (i.e. oxidative stress;
+yu et al, 2004; kifﬁn et al, 2006). recently, it has been shown
+that caspase inhibition leading to cell death through auto-
+phagy involves accumulation of ros, owing to catalase-
+speciﬁc autophagic degradation.
+in that study, however,
+starvation did not lead to a similar effect (yu et al, 2006).
+in our system, the rise in ros is both local and reversible; it is
+not deleterious to cells and serves to oxidize a speciﬁc target.
+therefore, our study provides the ﬁrst indication for the
+involvement of ros in starvation-induced autophagy as
+signaling molecules in a survival pathway.
+materials and methods
+all experiments presented in the results section were repeated at
+least three times unless indicated otherwise.
+expression and puriﬁcation of recombinant proteins
+recombinant his6-hsatg4a (wt and the mutants described in
+supplementary data) and his6-gate-16-ha were expressed from
+the pqe-30 plasmid and puriﬁed as described previously (scherz-
+shouval et al, 2003). puriﬁcation of his6-hsatg4a (wt and
+mutants) was carried out in the presence of 10 mm bme to prevent
+formation of nonspeciﬁc disulﬁde bonds; however, before its use,
+the protein was diluted to at least 30-fold or dialyzed in a buffer
+lacking bme.
+cell culture, transfection, reagents and immunoﬂuorescence
+all cell lines were grown in a-mem medium (biological industries,
+israel) supplemented with 10% fetal calf serum and referred to as
+control medium. atg5 /  mefs and anti-atg16 polyclonal
+antibodies were a kind gift from the laboratory of dr mizushima
+(the tokyo metropolitan institute of medical science). stable
+clones of gfp-gate-16-, gfp-lc3- or yfp-atg5-transfected cho
+cells were selected in 1 mg/ml geneticin (g418). starvation was
+carried out in ebss. details regarding the use of different reagents
+for tissue culture treatments are described in supplementary data.
+transfections of cho cells were preformed with lipofectamine
+(invitrogen) according to the manufacturer’s protocol. transfections
+of hela and hek 293 cells were performed by the standard calcium
+phosphate technique. for immunoﬂuoresence, unless described
+otherwise, cells were ﬁxed in methanol, permeabilized with acetone
+and then incubated with the indicated antibodies and visualized by
+a nikon eclipse te300 ﬂuorescent microscope or by an olympus
+ix-70 confocal microscope.
+hydrogen peroxide measurements
+h2o2 was measured using 50 mmdhe (molecular probes) and 30 mm
+dcfda (molecular probes). see supplementary data for details.
+the ﬂuorescent signal was detected by an olympus ix-70 confocal
+microscope. each experiment was repeated at least three times and
+representative images are shown. the dcfda signal was also
+measured by a spectramax gimini ﬂuorimeter, set
+to 485
+excitation and 535 emission and kept at 371c, for 40 min. data
+collected from the ﬂuorometric measurements were analyzed as
+detailed in supplementary data. the results presented for all
+ﬂuorimetric measurements are the means7s.d. of at least three
+experiments in duplicate or triplicate.
+protein degradation assay
+the assay was preformed on cho cells according to the protocol
+described by fass et al (2006). when required, 10 mm 3ma, 100 nm
+wortmannin, 1000 m/ml catalase or 10 mm nac were added.
+notably, nac was added for 10 min before starvation induction
+and catalase was added 14 h before starvation. [14c]valine release
+was calculated as a percentage of the radioactivity in the tca-
+soluble supernatant relative to the total cell radioactivity.
+preparation of cell lysates
+cells were homogenized in ripa buffer (0.1 m nacl, 5 mm edta,
+0.1 m na2hpo4/nah2po4, ph 7.5, 1% triton, 0.5% doc, 0.1%
+sds and protease inhibitors) by vortexing on ice. the homogenates
+were centrifuged for 15 min at 20 000 g and the supernatant
+containing the lysate was collected.
+mrna measurement
+rna was isolated by tri-reagent (molecular research center inc.) as
+detailed in supplementary data.
+1758
+the embo journal vol 26 | no 7 | 2007
+& 2007 european molecular biology organization
+pulse–chase experiment
+hela cells were transiently transfected with myc-gate-16-ha or
+with an empty vector. cells were then kept in full medium for 24 h,
+after which they were either incubated in methionine-free medium
+for 10 min or starved in ebss for 30 min (2 10 cm plates). for long
+starvation, the cells (three plates) were shifted to ebss 10 h post-
+transfection for 13 h, after which the medium was replaced with
+fresh ebss. all cells were then pulse-labeled with 0.2 mci of
+[35s]methionine for 10 min at 371c, and either chased in full
+medium for 1 h at 371c or lysed immediately on ice, in ripa buffer
+supplemented with 0.5 mm n-ethylmaleimide (sigma). lysates
+were immunoprecipitated with anti-myc antibodies and analyzed
+on 15% sds–page.
+references
+cathcart r, schwiers e, ames bn (1983) detection of picomole
+levels of hydroperoxides using a ﬂuorescent dichloroﬂuorescein
+assay. anal biochem 134: 111–116
+chandler jm, cohen gm, macfarlane m (1998) different subcellu-
+lar distribution of caspase-3 and caspase-7 following fas-induced
+apoptosis in mouse liver. j biol chem 273: 10815–10818
+codogno p, meijer aj (2005) autophagy and signaling: their role
+in cell survival and cell death. cell death differ 12 (suppl 2):
+1509–1518
+cuervo am (2003) autophagy and aging—when ‘all you can eat’ is
+yourself. sci aging knowledge environ 2003: pe25
+cuervo am (2004) autophagy: in sickness and in health. trends cell
+biol 14: 70–77
+fass e, shvets e, degani
+i, hirschberg k, elazar z (2006)
+microtubules support production of starvation-induced autopha-
+gosomes but not their targeting and fusion with lysosomes. j biol
+chem 281: 36303–36316
+giles nm, watts ab, giles gi, fry fh, littlechild ja, jacob c (2003)
+metal and redox modulation of cysteine protein function. chem
+biol 10: 677–693
+glading a, uberall f, keyse sm, lauffenburger da, wells a (2001)
+membrane proximal erk signaling is required for m-calpain
+activation downstream of epidermal growth factor receptor sig-
+naling. j biol chem 276: 23341–23348
+hemelaar j, lelyveld vs, kessler bm, ploegh hl (2003) a single
+protease, apg4b, is speciﬁc for the autophagy-related ubiquitin-
+like proteins gate-16, map1-lc3, gabarap, and apg8l. j biol
+chem 278: 51841–51850
+huang wp, klionsky dj (2002) autophagy in yeast: a review of the
+molecular machinery. cell struct funct 27: 409–420
+ichimura y, kirisako t, takao t, satomi y, shimonishi y, ishihara n,
+mizushima n, tanida i, kominami e, ohsumi m, noda t, ohsumi
+y (2000) a ubiquitin-like system mediates protein lipidation.
+nature 408: 488–492
+jabs t (1999) reactive oxygen intermediates as mediators of
+programmed cell death in plants and animals. biochem
+pharmacol 57: 231–245
+kabeya y, mizushima n, ueno t, yamamoto a, kirisako t, noda t,
+kominami e, ohsumi y, yoshimori t (2000) lc3, a mammalian
+homologue of yeast apg8p, is localized in autophagosome mem-
+branes after processing. embo j 19: 5720–5728
+kabeya y, mizushima n, yamamoto a, oshitani-okamoto s,
+ohsumi y, yoshimori t (2004) lc3, gabarap and gate16
+localize to autophagosomal membrane depending on form-ii
+formation. j cell sci 117: 2805–2812
+kifﬁn r, bandyopadhyay u, cuervo am (2006) oxidative stress and
+autophagy. antioxid redox signal 8: 152–162
+kirisako t,
+kirisako t, baba m, ishihara n, miyazawa k, ohsumi m, yoshimori
+t, noda t, ohsumi y (1999) formation process of autophago-
+some is traced with apg8/aut7p in yeast. j cell biol 147: 435–446
+ichimura y, okada h, kabeya y, mizushima n,
+yoshimori t, ohsumi m, takao t, noda t, ohsumi y (2000)
+the reversible modiﬁcation regulates the membrane-binding
+state of apg8/aut7 essential for autophagy and the cytoplasm
+to vacuole targeting pathway. j cell biol 151: 263–276
+kissova i, defﬁeu m, samokhvalov v, velours g, bessoule jj,
+manon s, camougrand n (2006) lipid oxidation and autophagy
+in yeast. free radic biol med 41: 1655–1661
+klionsky dj, cregg jm, dunn jr wa, emr sd, sakai y, sandoval iv,
+sibirny a, subramani s, thumm m, veenhuis m, ohsumi y
+redox regulation of starvation-induced autophagy
+r scherz-shouval et al
+supplementary data
+supplementary data are available at the embo journal online
+(http://www.embojournal.org).
+acknowledgements
+we thank vladimir kish for invaluable guidance with the confocal
+microscope and frida shimron for her devoted assistance. we also
+thank avihai danon for his insights. this work was supported in
+part by grants from the israel science foundation, binational
+science foundation and by the minerva center.
+(2003) a uniﬁed nomenclature for yeast autophagy-related
+genes. dev cell 5: 539–545
+kumanomidou t, mizushima t, komatsu m, suzuki a, tanida i, sou
+ys, ueno t, kominami e, tanaka k, yamane t (2006) the crystal
+structure of human atg4b, a processing and de-conjugating
+enzyme for autophagosome-forming modiﬁers. j mol biol 355:
+612–618
+lang t, schaeffeler e, bernreuther d, bredschneider m, wolf dh,
+thumm m (1998) aut2p and aut7p, two novel microtubule-
+associated proteins are essential for delivery of autophagic vesi-
+cles to the vacuole. embo j 17: 3597–3607
+lee yj, cho hn, soh jw, jhon gj, cho ck, chung hy, bae s, lee sj,
+lee ys (2003) oxidative stress-induced apoptosis is mediated by
+erk1/2 phosphorylation. exp cell res 291: 251–266
+macip s, igarashi m, berggren p, yu j, lee sw, aaronson sa (2003)
+inﬂuence of induced reactive oxygen species in p53-mediated cell
+fate decisions. mol cell biol 23: 8576–8585
+mann ss, hammarback ja (1994) molecular characterization of
+light chain 3. a microtubule binding subunit of map1a and
+map1b. j biol chem 269: 11492–11497
+marino g, uria ja, puente xs, quesada v, bordallo j, lopez-otin c
+(2003) human autophagins, a family of cysteine proteinases
+potentially implicated in cell degradation by autophagy. j biol
+chem 278: 3671–3678
+mizushima n, kuma a, kobayashi y, yamamoto a, matsubae m,
+takao t, natsume t, ohsumi y, yoshimori t (2003) mouse
+apg16l, a novel wd-repeat protein, targets to the autophagic
+isolation membrane with the apg12–apg5 conjugate. j cell sci
+116: 1679–1688
+mizushima n, yamamoto a, hatano m, kobayashi y, kabeya y,
+suzuki k, tokuhisa t, ohsumi y, yoshimori t (2001) dissection of
+autophagosome formation using apg5-deﬁcient mouse embryo-
+nic stem cells. j cell biol 152: 657–668
+mousavi sa, kjeken r, berg to, seglen po, berg t, brech a (2001)
+effects of
+the vacuolar proton pump on
+hepatic heterophagy and autophagy. biochim biophys acta
+1510: 243–257
+inhibitors of
+ohsumi y (2001) molecular dissection of autophagy: two ubiquitin-
+like systems. nat rev mol cell biol 2: 211–216
+perriere g, gouy m (1996) www-query: an on-line retrieval system
+for biological sequence banks. biochimie 78: 364–369
+petiot a, ogier-denis e, blommaart ef, meijer aj, codogno p (2000)
+distinct classes of phosphatidylinositol 30-kinases are involved in
+signaling pathways that control macroautophagy in ht-29 cells.
+j biol chem 275: 992–998
+preston tj, muller wj, singh g (2001) scavenging of extracellular
+h2o2 by catalase inhibits the proliferation of her-2/neu-trans-
+formed rat-1 ﬁbroblasts through the induction of a stress
+response. j biol chem 276: 9558–9564
+reef s, zalckvar e, shifman o, bialik s, sabanay h, oren m, kimchi
+a (2006) a short mitochondrial form of p19arf induces autop-
+hagy and caspase-independent cell death. mol cell 22: 463–475
+sagiv y, legesse-miller a, porat a, elazar z (2000) gate-16, a
+membrane transport modulator, interacts with nsf and the golgi
+v-snare gos-28. embo j 19: 1494–1504
+sakurai k, cederbaum ai (1998) oxidative stress and cytotoxicity
+induced by ferric-nitrilotriacetate in hepg2 cells that express
+cytochrome p450 2e1. mol pharmacol 54: 1024–1035
+scherz-shouval r, sagiv y, shorer h, elazar z (2003) the cooh
+is
+terminus of gate-16, an intra-golgi
+transport modulator,
+& 2007 european molecular biology organization
+the embo journal vol 26 | no 7 | 2007 1759
+redox regulation of starvation-induced autophagy
+r scherz-shouval et al
+cleaved by the human cysteine protease hsapg4a. j biol chem
+278: 14053–14058
+shintani t, klionsky dj (2004) autophagy in health and disease:
+a double-edged sword. science 306: 990–995
+sitia r, molteni sn (2004) stress, protein (mis)folding, and signal-
+ing: the redox connection. sci stke 2004: pe27
+sugawara k, suzuki nn, fujioka y, mizushima n, ohsumi y,
+inagaki f (2005) structural basis for the speciﬁcity and catalysis
+of human atg4b responsible for mammalian autophagy. j biol
+chem 280: 40058–40065
+suzuki k, kirisako t, kamada y, mizushima n, noda t, ohsumi y
+(2001) the pre-autophagosomal structure organized by concerted
+functions of apg genes is essential for autophagosome formation.
+embo j 20: 5971–5981
+tanida i, sou ys, ezaki j, minematsu-ikeguchi n, ueno t,
+kominami e (2004a) hsatg4b/hsapg4b/autophagin-1 cleaves
+the carboxyl termini of
+three human atg8 homologues and
+delipidates microtubule-associated protein light chain 3- and
+gabaa receptor-associated protein-phospholipid conjugates.
+j biol chem 279: 36268–36276
+tanida i, ueno t, kominami e (2004b) lc3 conjugation system in
+mammalian autophagy. int j biochem cell biol 36: 2503–2518
+tassa a, roux mp, attaix d, bechet dm (2003) class iii phospho-
+inositide 3-kinase–beclin1 complex mediates the amino acid-
+dependent
+regulation of autophagy in c2c12 myotubes.
+biochem j 376: 577–586
+vanden hoek tl, li c, shao z, schumacker pt, becker lb (1997)
+signiﬁcant levels of oxidants are generated by isolated cardio-
+myocytes during ischemia prior to reperfusion. j mol cell cardiol
+29: 2571–2583
+wang h, bedford fk, brandon nj, moss sj, olsen rw (1999)
+gaba(a)-receptor-associated protein links gaba(a) receptors
+and the cytoskeleton. nature 397: 69–72
+xu j, yu s, sun ay, sun gy (2003) oxidant-mediated aa release
+from astrocytes involves cpla(2) and ipla(2). free radic biol
+med 34: 1531–1543
+yu l, alva a, su h, dutt p, freundt e, welsh s, baehrecke
+eh, lenardo mj
+(2004) regulation of an atg7-beclin 1
+program of autophagic cell death by caspase-8. science 304:
+1500–1502
+yu l, wan f, dutta s, welsh s, liu z, freundt e, baehrecke eh,
+lenardo m (2006) autophagic programmed cell death by
+selective catalase degradation. proc natl acad sci usa 103:
+4952–4957
+1760
+the embo journal vol 26 | no 7 | 2007
+& 2007 european molecular biology organization
